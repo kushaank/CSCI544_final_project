@@ -1,0 +1,16 @@
+1	Unfortunately	unfortunately	RB	_	11	advmod	11:AM-ADV
+2	,	,	,	_	11	punct	_
+3	the	the	DT	_	4	det	_
+4	page	page	NN	_	11	nsubj	8:A1=PPT;11:A1=PAG
+5	you	you	PRP	_	6	nsubj	6:A0=PAG;8:A0=PAG
+6	tried	try	VBD	pb=try.01	4	rcmod	_
+7	to	to	TO	p2=IN	8	aux	_
+8	access	access	VB	p2=NN|pb=access.01	6	xcomp	6:A1=PPT
+9	does	do	VBZ	_	11	aux	_
+10	not	not	RB	_	11	neg	11:AM-NEG
+11	exist	exist	VB	pb=exist.01	0	root	_
+12	on	on	IN	p2=RP	11	prep	11:AM-LOC
+13	this	this	DT	_	14	det	_
+14	server	server	NN	_	12	pobj	_
+15	.	.	.	_	11	punct	_
+

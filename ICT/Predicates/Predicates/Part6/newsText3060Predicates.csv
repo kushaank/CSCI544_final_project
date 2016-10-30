@@ -1,0 +1,69 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Larry Ellsworth , 72 ,",want.01,inch television,,Affirmative,"( May 19 , 2014 ) - Larry Ellsworth , 72 , wants his 55 - inch television back . "
+He,say.01,daughter took it to,,Affirmative,He said his daughter took it to a Greenville repair shop for him more than a year ago . 
+his daughter,take.01,BELDING,to,Affirmative,He said his daughter took it to a Greenville repair shop for him more than a year ago . 
+the Belding man,take.01,it,,Affirmative,So the Belding man took it to G and E Electronics ( formerly called Cybers Spot ) in downtown Greenville to get it fixed . 
+He,pay.01,280 dollars upfront by,,Affirmative,He paid $ 280 dollars upfront by credit card . 
+daughter,say.01,she made,,Affirmative,Ellsworth 's daughter said she made the transaction and was told it would take 4 to 5 weeks to the get the TV back . 
+she,make.02,the transaction,,Affirmative,Ellsworth 's daughter said she made the transaction and was told it would take 4 to 5 weeks to the get the TV back . 
+it,take.10,5 weeks,,Affirmative,Ellsworth 's daughter said she made the transaction and was told it would take 4 to 5 weeks to the get the TV back . 
+He,say.01,", he was told",,Affirmative,"He said a couple months after the TV was taken in for repair , he was told the part needs to come from overseas . "
+the part,need.01,to come from overseas,,Affirmative,"He said a couple months after the TV was taken in for repair , he was told the part needs to come from overseas . "
+Ellsworth,say.01,he was told,,Affirmative,Ellsworth said he was told that it would take a while to get through customs . 
+to get through customs,take.10,a while,,Affirmative,Ellsworth said he was told that it would take a while to get through customs . 
+We,call.01,you,,Affirmative,' We 'll call you when it 's ready . 
+Ellsworth,say.01,[ They ] have n't called yet,,Affirmative,"' [ They ] have n't called yet , Ellsworth said . "
+He,want.01,it fixed,,Affirmative,He still wanted it fixed . 
+he,recall.02,"was , it came but",,Affirmative,"Eventually , their story was , it came but it was the wrong part , he recalled . "
+Ellsworth and,say.01,they requested,,Affirmative,Ellsworth and his daughter Kellie said they requested a refund four months ago and wanted the $ 280 credited back onto her card . 
+they,request.01,a refund,,Affirmative,Ellsworth and his daughter Kellie said they requested a refund four months ago and wanted the $ 280 credited back onto her card . 
+they,want.01,the $ 280 credited back onto,,Affirmative,Ellsworth and his daughter Kellie said they requested a refund four months ago and wanted the $ 280 credited back onto her card . 
+FOX 17,call.02,the store,,Affirmative,FOX 17 called the store and the owner agreed to an interview to give his side of the story . 
+the owner,agree.01,to,,Affirmative,FOX 17 called the store and the owner agreed to an interview to give his side of the story . 
+the owner,give.01,his side of,,Affirmative,FOX 17 called the store and the owner agreed to an interview to give his side of the story . 
+Gregory Keates,say.01,he offered Ellsworth,,Affirmative,Gregory Keates said he offered Ellsworth a cash refund in December . 
+Gregory Keates,offer.01,a cash refund,,Affirmative,Gregory Keates said he offered Ellsworth a cash refund in December . 
+Gregory Keates,say.01,he had spent,,Affirmative,Keates said he had spent seven months of searching for the part unsuccessfully . 
+Larry Ellsworth,spend.02,seven months of searching for,,Affirmative,Keates said he had spent seven months of searching for the part unsuccessfully . 
+he,say.01,", Keates recalled",,Affirmative,"So he said he really wants it fixed , Keates recalled . "
+he,want.01,it fixed,,Affirmative,"So he said he really wants it fixed , Keates recalled . "
+Keates,recall.02,he really wants,,Affirmative,"So he said he really wants it fixed , Keates recalled . "
+He,want.01,his money,,Affirmative,He does n't want his money back and wants it fixed . 
+He,want.01,it fixed,,Affirmative,He does n't want his money back and wants it fixed . 
+I,say.01,it 's going,,Affirmative,"So I said it 's going to take me longer to try and find the part for you , Keates said . "
+me,find.01,the part for you,,Affirmative,"So I said it 's going to take me longer to try and find the part for you , Keates said . "
+Keates,say.01,So I said,,Affirmative,"So I said it 's going to take me longer to try and find the part for you , Keates said . "
+Larry Ellsworth,say.01,he was n't offered,,Affirmative,Ellsworth said he was n't offered a cash refund or else he would have taken the money and the TV to another shop . 
+Larry Ellsworth,offer.01,a cash refund,,Affirmative,Ellsworth said he was n't offered a cash refund or else he would have taken the money and the TV to another shop . 
+Larry Ellsworth,take.01,the money and,to,Affirmative,Ellsworth said he was n't offered a cash refund or else he would have taken the money and the TV to another shop . 
+Ellsworth,say.01,he was told,,Affirmative,"Nonetheless , Ellsworth said he was told last week that the part is finally in . "
+Gregory Keates,say.01,This is,,Affirmative,"This is the one that just came in , Keates said he found the part on Ebay from a seller in China . "
+Gregory Keates,find.01,the part on Ebay,,Affirmative,"This is the one that just came in , Keates said he found the part on Ebay from a seller in China . "
+Keates,say.01,he expects,,Affirmative,"A week and a half from now , Keates said he expects to have the TV back to Ellsworth in working order . "
+Gregory Keates,expect.01,to have,,Affirmative,"A week and a half from now , Keates said he expects to have the TV back to Ellsworth in working order . "
+Gregory Keates,have.03,the TV,,Affirmative,"A week and a half from now , Keates said he expects to have the TV back to Ellsworth in working order . "
+he,clean.02,the dust,,Affirmative,"But first , he 's got to clean out the dust to ensure the TV will work properly . "
+he,ensure.01,TV will work properly,,Affirmative,"But first , he 's got to clean out the dust to ensure the TV will work properly . "
+FOX 17,ask.01,if Keates had,,Affirmative,FOX 17 asked if Keates had any other customers where it would take a year to get a part and make the repair . 
+Gregory Keates,have.03,any other customers,,Affirmative,FOX 17 asked if Keates had any other customers where it would take a year to get a part and make the repair . 
+the only TV -LSB- repair,take.10,a year,,Affirmative,FOX 17 asked if Keates had any other customers where it would take a year to get a part and make the repair . 
+the only TV -LSB- repair,make.01,the repair,,Affirmative,FOX 17 asked if Keates had any other customers where it would take a year to get a part and make the repair . 
+we,have.03,[ repair ],,Affirmative,"This is the only TV [ repair ] we 've had because it 's an old TV and that 's why , Keates said . "
+Keates,say.01,This is,,Affirmative,"This is the only TV [ repair ] we 've had because it 's an old TV and that 's why , Keates said . "
+you,get.01,the only TV -LSB- repair,from there,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+you,have.03,the same kind of problems,,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+you,pay.01,250 bucks,him,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+you,pick.04,the only TV -LSB- repair,,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+he,tell.01,he was only going,me,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+he,give.01,a $ 100,me,Affirmative,I just got my TV from there today because I was fed up having the same kind of problems I paid him 250 bucks to repair It and it never happened so I picked up my TV today and he told me he was only going to give me a $ 100 back out of 250 I paid him for nothing and G&E Electronics is a joke . 
+you,drop.01,my TV,,Affirmative,To add more to the story of my crappy TV repair job done at G&E I just drop my TV off at another shop to have it looked at and found out that there are parts missing from the inside of my Tv so now not only have I lost money from taking my TV to that joke of a repair shop it 's going to cost me more money to get it fixed right and replace parts that should have been put back inside it needless to say I am very pissed off and feel that G&E Electronic is a big joke and should not be in business and aloud to rip people off . 
+it,look.01,at,,Affirmative,To add more to the story of my crappy TV repair job done at G&E I just drop my TV off at another shop to have it looked at and found out that there are parts missing from the inside of my Tv so now not only have I lost money from taking my TV to that joke of a repair shop it 's going to cost me more money to get it fixed right and replace parts that should have been put back inside it needless to say I am very pissed off and feel that G&E Electronic is a big joke and should not be in business and aloud to rip people off . 
+you,find.03,that there are parts missing from,,Affirmative,To add more to the story of my crappy TV repair job done at G&E I just drop my TV off at another shop to have it looked at and found out that there are parts missing from the inside of my Tv so now not only have I lost money from taking my TV to that joke of a repair shop it 's going to cost me more money to get it fixed right and replace parts that should have been put back inside it needless to say I am very pissed off and feel that G&E Electronic is a big joke and should not be in business and aloud to rip people off . 
+you,lose.02,money,from taking,Affirmative,To add more to the story of my crappy TV repair job done at G&E I just drop my TV off at another shop to have it looked at and found out that there are parts missing from the inside of my Tv so now not only have I lost money from taking my TV to that joke of a repair shop it 's going to cost me more money to get it fixed right and replace parts that should have been put back inside it needless to say I am very pissed off and feel that G&E Electronic is a big joke and should not be in business and aloud to rip people off . 
+you,feel.02,Electronic is,,Affirmative,To add more to the story of my crappy TV repair job done at G&E I just drop my TV off at another shop to have it looked at and found out that there are parts missing from the inside of my Tv so now not only have I lost money from taking my TV to that joke of a repair shop it 's going to cost me more money to get it fixed right and replace parts that should have been put back inside it needless to say I am very pissed off and feel that G&E Electronic is a big joke and should not be in business and aloud to rip people off . 
+I,wish.01,i seen this soon,,Affirmative,I wish i seen this soon . 
+i,see.01,this,,Affirmative,I wish i seen this soon . 
+hubby,take.01,computer,,Affirmative,hubby took computer to fix and gave the run arround . 
+hubby,give.01,the run arround,,Affirmative,hubby took computer to fix and gave the run arround . 
+guy,get.01,the comp,with,Affirmative,he paid up front - which i would not have done.went today and guy was a jerk got the comp back with missing piece so now we are now out 240 bucks and comp will be more to fix because now some pieces are missing . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

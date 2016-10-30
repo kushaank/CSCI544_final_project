@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Court Monday,refuse.01,to entertain,,Affirmative,New Delhi : The Delhi High Court Monday refused to entertain a plea of five parents from the inter-state transfer ( IST ) category seeking admission of their children to nursery classes here . 
+Court Monday,entertain.01,a plea of,from,Affirmative,New Delhi : The Delhi High Court Monday refused to entertain a plea of five parents from the inter-state transfer ( IST ) category seeking admission of their children to nursery classes here . 
+category seeking admission of,seek.01,admission of,,Affirmative,New Delhi : The Delhi High Court Monday refused to entertain a plea of five parents from the inter-state transfer ( IST ) category seeking admission of their children to nursery classes here . 
+five parents from the inter-state transfer,move.01,Delhi High Court,,Affirmative,"Moving the high court , the parents sought parity with the 24 students belonging IST category who were given relief by the Supreme Court on May 7 . "
+five parents from the inter-state transfer,seek.01,parity with,,Affirmative,"Moving the high court , the parents sought parity with the 24 students belonging IST category who were given relief by the Supreme Court on May 7 . "
+the 24 students belonging,belong.01,IST category,,Affirmative,"Moving the high court , the parents sought parity with the 24 students belonging IST category who were given relief by the Supreme Court on May 7 . "
+by,give.01,relief,,Affirmative,"Moving the high court , the parents sought parity with the 24 students belonging IST category who were given relief by the Supreme Court on May 7 . "
+"The apex court , giving",give.01,the nod,for,Affirmative,"The apex court , giving the nod for nursery admission process here , had quashed Feb 27 notification of the Delhi government scrapping the IST category for nursery admission . "
+"The apex court , giving",scrap.01,the IST category for,,Affirmative,"The apex court , giving the nod for nursery admission process here , had quashed Feb 27 notification of the Delhi government scrapping the IST category for nursery admission . "
+Justice Manmohan,tell.01,to approach,the parents,Affirmative,Justice Manmohan told the parents to approach the Supreme Court with their demands as it has already decided a similar plea of 24 parents . 
+the Supreme Court,decide.01,a similar plea of,,Affirmative,Justice Manmohan told the parents to approach the Supreme Court with their demands as it has already decided a similar plea of 24 parents . 
+the Supreme Court,uphold.01,earlier notification issued on Dec 18,,Affirmative,The Supreme Court upheld the government 's earlier notification issued on Dec 18 last year by which it allotted five points to the IST category . 
+the Supreme Court,allot.01,five points,to,Affirmative,The Supreme Court upheld the government 's earlier notification issued on Dec 18 last year by which it allotted five points to the IST category . 
+the Supreme Court,ask.02,to raise,the Delhi government,Affirmative,"It had also asked the Delhi government to raise the number of seats , if required , to accommodate the 24 students who approached it . "
+the Delhi government,raise.01,the number of seats,,Affirmative,"It had also asked the Delhi government to raise the number of seats , if required , to accommodate the 24 students who approached it . "
+the Delhi government,accommodate.01,the 24 students,,Affirmative,"It had also asked the Delhi government to raise the number of seats , if required , to accommodate the 24 students who approached it . "
+Comments containing,contain.01,language,,Affirmative,Comments containing abusive and offensive language . 
+Comments targeting,target.01,"a specific community , caste , nationality or religion",,Affirmative,"Comments targeting a specific community , caste , nationality or religion . "

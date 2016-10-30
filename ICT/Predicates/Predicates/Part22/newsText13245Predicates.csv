@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Uncle Sam,put.01,a red alert,,Affirmative,"WASHINGTON , DC - Uncle Sam is putting out a red alert . "
+The Department of Justice,unseal.01,an indictment accusing,,Affirmative,"The Department of Justice unsealed an indictment accusing five members of the Chinese military with hacking into five U.S. nuclear , solar , and steel companies , and a labor union . "
+an indictment accusing,accuse.01,five members of,with hacking into,Affirmative,"The Department of Justice unsealed an indictment accusing five members of the Chinese military with hacking into five U.S. nuclear , solar , and steel companies , and a labor union . "
+an indictment,say.01,Chinese were looking for,,Affirmative,The indictment says the Chinese were looking for trade secrets and other sensitive information that would help state - owned businesses . 
+the Chinese,look.01,for,,Affirmative,The indictment says the Chinese were looking for trade secrets and other sensitive information that would help state - owned businesses . 
+other sensitive information,help.01,owned businesses,,Affirmative,The indictment says the Chinese were looking for trade secrets and other sensitive information that would help state - owned businesses . 
+the United States,accuse.01,employees of,,Affirmative,This is the first time the United States has formally accused employees of another country of committing cyber crimes against U.S. companies or organizations . 
+employees of,commit.02,cyber crimes against,,Affirmative,This is the first time the United States has formally accused employees of another country of committing cyber crimes against U.S. companies or organizations . 
+The Chinese government,say.01,indictment is nothing but,,Affirmative,"The Chinese government , of course , says the indictment is nothing but fabricated facts , and has stopped participation in the China - U.S . "
+they,point.02,States does,,Affirmative,"Oh , yeah , they also point out that the United States does its own large - scale cyber spying and wiretapping of foreign leaders , companies and individuals , not to mention American citizens . "
+the United States,do.02,scale cyber spying and wiretapping of,,Affirmative,"Oh , yeah , they also point out that the United States does its own large - scale cyber spying and wiretapping of foreign leaders , companies and individuals , not to mention American citizens . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

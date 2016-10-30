@@ -1,0 +1,51 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The family of missing,reject.01,claims,,Affirmative,The family of missing Malaysia Airlines flight MH370 pilot Captain Zaharie Ahmad Shah have rejected claims he was a rogue pilot on a suicide mission . 
+brother-in-law Asuad Khan,speak.01,on,,Affirmative,"Speaking on ABC 's Four Corners programme , the pilot 's brother-in-law Asuad Khan said he would fight the authorities if they consider making him a scapegoat for the aircraft 's disappearance . "
+brother-in-law Asuad Khan,say.01,he would fight,,Affirmative,"Speaking on ABC 's Four Corners programme , the pilot 's brother-in-law Asuad Khan said he would fight the authorities if they consider making him a scapegoat for the aircraft 's disappearance . "
+the pilot 's brother-in-law Asuad Khan,would fight.01,the authorities,,Affirmative,"Speaking on ABC 's Four Corners programme , the pilot 's brother-in-law Asuad Khan said he would fight the authorities if they consider making him a scapegoat for the aircraft 's disappearance . "
+the authorities,consider.01,making,,Affirmative,"Speaking on ABC 's Four Corners programme , the pilot 's brother-in-law Asuad Khan said he would fight the authorities if they consider making him a scapegoat for the aircraft 's disappearance . "
+the authorities,make.02,him a scapegoat for,,Affirmative,"Speaking on ABC 's Four Corners programme , the pilot 's brother-in-law Asuad Khan said he would fight the authorities if they consider making him a scapegoat for the aircraft 's disappearance . "
+the authorities,blame.01,the pilot 's brother-in-law Asuad Khan,,Affirmative,If they blame him I 'll fight . 
+a rogue pilot on a suicide mission,keep.02,quiet,,Affirmative,"I just wo n't sit down , keep quiet , he said . "
+a rogue pilot on a suicide mission,say.01,"I just wo n't sit down , keep quiet",,Affirmative,"I just wo n't sit down , keep quiet , he said . "
+you,say.01,that he wanted,,Affirmative,"Because if you say that he wanted to commit suicide in the Indian Ocean , I say prove it . "
+the pilot 's brother-in-law Asuad Khan,want.01,to commit suicide in,,Affirmative,"Because if you say that he wanted to commit suicide in the Indian Ocean , I say prove it . "
+the pilot 's brother-in-law Asuad Khan,commit.02,suicide,,Affirmative,"Because if you say that he wanted to commit suicide in the Indian Ocean , I say prove it . "
+a rogue pilot on a suicide mission,say.01,prove it,,Affirmative,"Because if you say that he wanted to commit suicide in the Indian Ocean , I say prove it . "
+you,want.01,to commit suicide,,Affirmative,If he wanted to commit suicide he would n't want to kill 238 people with him ? 
+you,commit.02,suicide,,Affirmative,If he wanted to commit suicide he would n't want to kill 238 people with him ? 
+you,want.01,to kill,,Affirmative,If he wanted to commit suicide he would n't want to kill 238 people with him ? 
+you,kill.01,238 people,with him,Affirmative,If he wanted to commit suicide he would n't want to kill 238 people with him ? 
+We,enjoy.01,our life,,Affirmative,We enjoy our life to the fullest because life only happens once . 
+you,deny.01,claims of,,Affirmative,He also denies claims of the captain committing suicide for life insurance . 
+the captain committing suicide for,commit.02,suicide for,,Affirmative,He also denies claims of the captain committing suicide for life insurance . 
+you,talk.01,about,,Affirmative,If you are talking about life insurance he did n't have one . 
+the captain committing suicide for life insurance,have.03,one,,Affirmative,If you are talking about life insurance he did n't have one . 
+the captain committing suicide for life insurance,believe.01,in it,,Affirmative,He did n't believe in it so why would he want to commit suicide ? 
+the captain committing suicide for life insurance,want.01,to commit suicide,,Affirmative,He did n't believe in it so why would he want to commit suicide ? 
+the captain committing suicide for life insurance,commit.02,suicide,,Affirmative,He did n't believe in it so why would he want to commit suicide ? 
+you,have.03,a good life,,Affirmative,He had a good life . 
+you,have.03,a lot of money,,Affirmative,"He had a lot of money , and he loved his daughter very much . "
+you,love.01,his daughter,,Affirmative,"He had a lot of money , and he loved his daughter very much . "
+the pilot 's brother-in-law Asuad Khan,raise.01,questions about,,Affirmative,Khan raises questions about the role of the military at the time MH370 veered off course . 
+the pilot 's brother-in-law Asuad Khan,hear.01,about,,Affirmative,"When I heard about this plane going missing I said , ' What happened to our Air Force ? "
+the pilot 's brother-in-law Asuad Khan,say.01,What happened to,,Affirmative,"When I heard about this plane going missing I said , ' What happened to our Air Force ? "
+the primary radar,detect.01,"the plane , along with an interview with Malaysian minister of defence and acting transport minister Datuk Hishammuddin Hussein",,Affirmative,"Because as we know , even if you [ turn ] off the transponder , the primary radar still can detect the plane . "
+the primary radar,detect.01,the flight object,,Affirmative,I may be stupid but the primary radar will detect the flight object and MH370's flying so I became dumbfounded . 
+a ` sane man ',say.01,", man , I 'm worried",,Affirmative,"I said , ' Look , if this is how they say they are defending our country , man , I 'm worried . "
+this,say.01,they are defending,,Affirmative,"I said , ' Look , if this is how they say they are defending our country , man , I 'm worried . "
+this,defend.01,our country,,Affirmative,"I said , ' Look , if this is how they say they are defending our country , man , I 'm worried . "
+a ` sane man ',reveal.01,the trauma  of,,Affirmative,"During the programme he reveals the trauma  of his sister , Faizah Khan , when Malaysia police quizzed her over Shah 's last movements and his state of mind before piloting the plane on March 8 . "
+when Malaysia police,quiz.01,Malaysia police,over,Affirmative,"During the programme he reveals the trauma  of his sister , Faizah Khan , when Malaysia police quizzed her over Shah 's last movements and his state of mind before piloting the plane on March 8 . "
+Malaysia police,pilot.01,"the plane , along with an interview with Malaysian minister of defence and acting transport minister Datuk Hishammuddin Hussein",,Affirmative,"During the programme he reveals the trauma  of his sister , Faizah Khan , when Malaysia police quizzed her over Shah 's last movements and his state of mind before piloting the plane on March 8 . "
+his sister,call.01,The first person,,Affirmative,The first person she called was me . 
+his sister,call.02,a ` sane man ',,Affirmative,"When she called me , my wife could hear that she was crying like hell . "
+my wife,hear.01,that she was crying like hell,,Affirmative,"When she called me , my wife could hear that she was crying like hell . "
+his sister,tell.01,he was repairing,me,Affirmative,"On that day , [ the plane disappeared ] , my sister told me he was repairing the door for the bathroom ,  adding that he was a ' sane man ' and was not crazy . "
+a ` sane man ',repair.01,the door for,,Affirmative,"On that day , [ the plane disappeared ] , my sister told me he was repairing the door for the bathroom ,  adding that he was a ' sane man ' and was not crazy . "
+ship Zhu Kezhen,prepare.01,the next phase of,,Affirmative,It comes as Chinese navy survey ship Zhu Kezhen prepares the next phase of the search for the missing plane . 
+The ship,start.01,mapping,,Affirmative,"The ship is going to start mapping the seabed off the west Australian coast from Wednesday , said the Australia 's Joint Agency Coordination Center . "
+The ship,map.01,the seabed,,Affirmative,"The ship is going to start mapping the seabed off the west Australian coast from Wednesday , said the Australia 's Joint Agency Coordination Center . "
+Agency Coordination Center,say.01,ship is going,,Affirmative,"The ship is going to start mapping the seabed off the west Australian coast from Wednesday , said the Australia 's Joint Agency Coordination Center . "
+the Australian government,budget.01,AU $ 90 million ( £50 million ),for,Affirmative,"According to documents released last week , the Australian government will be budgeting AU $ 90 million ( £50 million ) for its lead role in the search , which so far has not find any trace of the missing plane . "
+"the search ,",find.01,any trace of,,Affirmative,"According to documents released last week , the Australian government will be budgeting AU $ 90 million ( £50 million ) for its lead role in the search , which so far has not find any trace of the missing plane . "

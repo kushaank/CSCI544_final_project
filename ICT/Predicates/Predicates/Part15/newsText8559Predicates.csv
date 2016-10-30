@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,take.01,your own actions,into account,Affirmative,"Not only is it important to teach your kids proper safety precautions , but it 's also crucial that you take your own actions into account . "
+A health issue,cause.01,Cook to have part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Aaron Cook,have.03,part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+he and,learn.01,one of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Target 12 fact check on,claim.01,state,,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+Target 12 fact check on,waste.01,millions,on,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+"by family , hope , and",inspire.01,line,,Affirmative,"Glenn Michael 's line is inspired by family , hope , and a promise of a better tomorrow . "
+by,power.01,NYK 's Auriga Leader,,Affirmative,"While most ships of its size are fueled by oil , the Auriga Leader is partially powered by the sun . "
+300 solar panels,line.01,the top of,,Affirmative,"300 solar panels line the top of the one of a kind ship , providing electricity to the entire vessel . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

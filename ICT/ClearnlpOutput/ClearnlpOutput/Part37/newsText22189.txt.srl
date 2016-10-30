@@ -1,0 +1,26 @@
+1	Murayama	murayama	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	issued	issue	VBD	pb=issue.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	statement	statement	NN	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	2	prep	2:AM-TMP
+6	1995	0	CD	_	5	pobj	_
+7	when	when	WRB	_	9	advmod	9:R-AM-TMP
+8	he	he	PRP	_	9	nsubj	9:A1=PPT
+9	was	be	VBD	pb=be.01	2	advcl	2:AM-TMP
+10	prime	prime	JJ	_	11	amod	_
+11	minister	minister	NN	_	9	attr	12:A0=PAG;9:A2=PRD
+12	acknowledging	acknowledge	VBG	p2=NN|pb=acknowledge.01	11	partmod	_
+13	and	and	CC	_	12	cc	_
+14	apologizing	apologize	VBG	pb=apologize.01	12	conj	_
+15	for	for	IN	_	14	prep	14:A1=PPT
+16	Japan	japan	NNP	_	19	poss	_
+17	's	's	POS	_	16	possessive	_
+18	wartime	wartime	JJ	p2=NN	19	amod	_
+19	aggression	aggression	NN	_	15	pobj	_
+20	and	and	CC	_	19	cc	_
+21	colonization	colonization	NN	_	19	conj	_
+22	of	of	IN	_	19	prep	_
+23	Asian	asian	JJ	_	24	amod	_
+24	countries	country	NNS	_	22	pobj	_
+25	.	.	.	_	2	punct	_
+

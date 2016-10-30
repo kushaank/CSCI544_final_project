@@ -1,0 +1,58 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the government,impose.01,the maximum penalty,,Affirmative,It 's the maximum penalty that the government can impose . 
+safety advocates,question.01,its effectiveness,,Affirmative,"But the amount is less than a day 's revenue for GM , based on the $ 37.4 billion it took in during the first quarter , and safety advocates were quick to question its effectiveness . "
+by,announce.01,an agreement announced Friday by,,Affirmative,"As part of an agreement announced Friday by the Transportation Department and National Highway Traffic Safety Administration , GM also has agreed to government oversight on safety issues , and to report safety problems much faster than in the past . "
+General Motors,agree.01,to,,Affirmative,"As part of an agreement announced Friday by the Transportation Department and National Highway Traffic Safety Administration , GM also has agreed to government oversight on safety issues , and to report safety problems much faster than in the past . "
+General Motors,report.01,safety problems,,Affirmative,"As part of an agreement announced Friday by the Transportation Department and National Highway Traffic Safety Administration , GM also has agreed to government oversight on safety issues , and to report safety problems much faster than in the past . "
+NHTSA 's,investigate.01,delayed recall of,,Affirmative,NHTSA has been investigating GM 's delayed recall of 2.6 million older small cars with defective ignition switches . 
+General Motors,know.01,switches had problems,,Affirmative,"GM has acknowledged knowing that the switches had problems as early as 2001 , but it did n't start recalling the cars until February of this year . "
+defective ignition switches,have.03,problems,,Affirmative,"GM has acknowledged knowing that the switches had problems as early as 2001 , but it did n't start recalling the cars until February of this year . "
+General Motors,recall.02,2.6 million older small cars with defective ignition switches,,Affirmative,"GM has acknowledged knowing that the switches had problems as early as 2001 , but it did n't start recalling the cars until February of this year . "
+the Transportation Department,say.01,that GM agreed,,Affirmative,The department said in a statement that GM agreed that it was slow to report the problems . 
+General Motors,agree.01,that it was slow,,Affirmative,The department said in a statement that GM agreed that it was slow to report the problems . 
+it,report.01,the problems,,Affirmative,The department said in a statement that GM agreed that it was slow to report the problems . 
+The company,say.01,people have died in crashes linked to,,Affirmative,"The company says at least 13 people have died in crashes linked to the problem , but trial lawyers suing the company say the death toll is at least 53 . "
+trial lawyers suing,sue.01,The company,,Affirmative,"The company says at least 13 people have died in crashes linked to the problem , but trial lawyers suing the company say the death toll is at least 53 . "
+trial lawyers suing,say.01,toll is,,Affirmative,"The company says at least 13 people have died in crashes linked to the problem , but trial lawyers suing the company say the death toll is at least 53 . "
+Chevrolet Cobalts,cut.04,the power steering and brakes,,Affirmative,"That cuts off the power steering and brakes , potentially causing drivers to lose control . "
+drivers,lose.02,control,,Affirmative,"That cuts off the power steering and brakes , potentially causing drivers to lose control . "
+Chevrolet Cobalts,disable.01,air bags,,Affirmative,It also disables the car 's air bags . 
+"Secretary Anthony Foxx , at",say.01,government will not accept,,Affirmative,"Transportation Secretary Anthony Foxx , at a morning news conference in Washington , said the government will not accept a company failing to notify regulators about safety defects . "
+the government,accept.01,a company failing,,Affirmative,"Transportation Secretary Anthony Foxx , at a morning news conference in Washington , said the government will not accept a company failing to notify regulators about safety defects . "
+a company failing,notify.01,regulators,about,Affirmative,"Transportation Secretary Anthony Foxx , at a morning news conference in Washington , said the government will not accept a company failing to notify regulators about safety defects . "
+Anthony Foxx,say.01,silence can kill,,Affirmative,"Literally silence can kill , he said . "
+General Motors,alert.01,regulators,,Affirmative,GM did not act and did not alert us in a timely manner . 
+Administrator David Friedman,say.01,clearly stated,,Affirmative,"Acting NHTSA Administrator David Friedman said that a previously undisclosed 2009 memo from a parts supplier to GM clearly stated that the ignition switch problem could disable the small cars ' air bags , which clearly is a safety problem . "
+undisclosed 2009 memo from,state.01,problem could disable,,Affirmative,"Acting NHTSA Administrator David Friedman said that a previously undisclosed 2009 memo from a parts supplier to GM clearly stated that the ignition switch problem could disable the small cars ' air bags , which clearly is a safety problem . "
+switch problem,disable.01,"air bags ,",,Affirmative,"Acting NHTSA Administrator David Friedman said that a previously undisclosed 2009 memo from a parts supplier to GM clearly stated that the ignition switch problem could disable the small cars ' air bags , which clearly is a safety problem . "
+General Motors,have.03,information,,Affirmative,"This is information that General Motors had from their supplier that General Motors never shared with us , he said . "
+General Motors,share.01,a parts supplier to GM,with us,Affirmative,"This is information that General Motors had from their supplier that General Motors never shared with us , he said . "
+Acting NHTSA Administrator David Friedman,say.01,This is information,,Affirmative,"This is information that General Motors had from their supplier that General Motors never shared with us , he said . "
+the government,possess.01,this information,,Affirmative,"Had the government possessed this information , it would have sought a recall at that time , Friedman said . "
+the government,seek.01,a recall at,,Affirmative,"Had the government possessed this information , it would have sought a recall at that time , Friedman said . "
+Acting NHTSA Administrator David Friedman,say.01,", it would have sought",,Affirmative,"Had the government possessed this information , it would have sought a recall at that time , Friedman said . "
+The safety agency,require.01,to recall,GM,Affirmative,The safety agency has been criticized for not requiring GM to recall the small cars despite numerous complaints from owners . 
+General Motors,recall.02,the small cars ',,Affirmative,The safety agency has been criticized for not requiring GM to recall the small cars despite numerous complaints from owners . 
+Automakers,report.01,safety defects within,,Affirmative,Automakers are required to report safety defects within five days of discovering them . 
+Anthony Foxx,urge.01,Congress,to pass legislation,Affirmative,But Foxx still urged Congress to pass legislation that would raise the fine to $ 300 million . 
+Congress,pass.01,legislation,,Affirmative,But Foxx still urged Congress to pass legislation that would raise the fine to $ 300 million . 
+legislation,raise.01,the fine,,Affirmative,But Foxx still urged Congress to pass legislation that would raise the fine to $ 300 million . 
+safety advocate,say.01,is enough of,,Affirmative,"One consumer safety advocate said neither of those amounts is enough of a deterrent , and hoped that a Justice Department investigation will produce a much stiffer penalty . "
+neither of,hope.01,investigation will produce,,Affirmative,"One consumer safety advocate said neither of those amounts is enough of a deterrent , and hoped that a Justice Department investigation will produce a much stiffer penalty . "
+Department investigation,produce.01,stiffer penalty,,Affirmative,"One consumer safety advocate said neither of those amounts is enough of a deterrent , and hoped that a Justice Department investigation will produce a much stiffer penalty . "
+"Clarence Ditlow ,",want.01,Justice to impose,,Affirmative,"Clarence Ditlow , executive director of the nonprofit Center for Auto Safety , wants Justice to impose a fine of $ 1 billion or more and bring individual criminal charges against GM engineers and their superiors . "
+Justice,impose.01,a fine of,,Affirmative,"Clarence Ditlow , executive director of the nonprofit Center for Auto Safety , wants Justice to impose a fine of $ 1 billion or more and bring individual criminal charges against GM engineers and their superiors . "
+Justice,bring.01,individual criminal charges against,,Affirmative,"Clarence Ditlow , executive director of the nonprofit Center for Auto Safety , wants Justice to impose a fine of $ 1 billion or more and bring individual criminal charges against GM engineers and their superiors . "
+Acting NHTSA Administrator David Friedman,change.01,behavior,,Affirmative,"That 's the only way you 're going to change GM 's behavior , he said . "
+Clarence Ditlow,say.01,That 's,,Affirmative,"That 's the only way you 're going to change GM 's behavior , he said . "
+Justice,make.02,Toyota pay,,Affirmative,"Earlier this year , Justice made Toyota pay $ 1.2 billion for concealing unintended acceleration problems from government regulators . "
+Toyota,pay.01,$ 1.2 billion,,Affirmative,"Earlier this year , Justice made Toyota pay $ 1.2 billion for concealing unintended acceleration problems from government regulators . "
+the government,say.01,", GM will have",,Affirmative,"Under Friday 's agreement , GM will have to make significant and wide-ranging internal changes to its safety review process , the government said . "
+The company,pay.01,added penalties,,Affirmative,The company also has to pay added penalties for failing to meet NHTSA 's deadline to answer questions about the ignition switches . 
+NHTSA 's,begin.01,fining GM,,Affirmative,"NHTSA began fining GM $ 7,000 per day in early April after it missed the deadline . "
+NHTSA 's,fine.01,"$ 7,000 per day",GM,Affirmative,"NHTSA began fining GM $ 7,000 per day in early April after it missed the deadline . "
+General Motors,miss.02,NHTSA 's deadline to answer questions about the ignition switches,,Affirmative,"NHTSA began fining GM $ 7,000 per day in early April after it missed the deadline . "
+a separate statement announcing,announce.01,Friday 's agreement,,Affirmative,"In a separate statement announcing the agreement , GM CEO Mary Barra said , GM 's ultimate goal is to create an exemplary process and produce the safest cars for our customers - they deserve no less . "
+CEO Mary Barra,say.01,- they deserve,,Affirmative,"In a separate statement announcing the agreement , GM CEO Mary Barra said , GM 's ultimate goal is to create an exemplary process and produce the safest cars for our customers - they deserve no less . "
+our customers,deserve.01,no less,,Affirmative,"In a separate statement announcing the agreement , GM CEO Mary Barra said , GM 's ultimate goal is to create an exemplary process and produce the safest cars for our customers - they deserve no less . "
+You,login.01,with,,Affirmative,You may login with either your assigned username or your e-mail address . 

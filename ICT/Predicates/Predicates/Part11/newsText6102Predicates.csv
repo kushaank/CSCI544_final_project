@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Supreme Court,reject.01,the review petition filed by,,Affirmative,The Supreme Court has rejected the review petition filed by Moonis Elahi of Pakistan Muslim League - Quaid ( PML - Q ) in the National Insurance Company Limited ( NICL ) scandal case . 
+by,file.01,the review petition filed by,,Affirmative,The Supreme Court has rejected the review petition filed by Moonis Elahi of Pakistan Muslim League - Quaid ( PML - Q ) in the National Insurance Company Limited ( NICL ) scandal case . 
+The Supreme Court,question.01,how Elahi could change,,Affirmative,The court questioned how Elahi could change the counsel in the case without the court 's permission . 
+Moonis Elahi of Pakistan Muslim League-Quaid -LRB- PML-Q -RRB- in the National Insurance Company Limited,change.01,the counsel,,Affirmative,The court questioned how Elahi could change the counsel in the case without the court 's permission . 
+The Supreme Court,adjourn.01,the review petition of,,Affirmative,"The court also adjourned the review petition of former MD Ayaz Khan Niazi for one week , asking his counsel to correct the numbering of pages of the application . "
+The Supreme Court,ask.02,to correct,his counsel,Affirmative,"The court also adjourned the review petition of former MD Ayaz Khan Niazi for one week , asking his counsel to correct the numbering of pages of the application . "
+his counsel,correct.01,the numbering of pages of,,Affirmative,"The court also adjourned the review petition of former MD Ayaz Khan Niazi for one week , asking his counsel to correct the numbering of pages of the application . "
+Justice Jawad Khawaja,say.01,is illegal,,Affirmative,Justice Jawad Khawaja said changing counsels without any reason is illegal . 
+Moonis Elahi of Pakistan Muslim League-Quaid -LRB- PML-Q -RRB- in the National Insurance Company Limited,present.01,Wasim Sajjad,as,Affirmative,SM Zafar was appearing before the court in the NICL case while Moonis Elahi presented Wasim Sajjad as his counsel . 
+Justice Mehmood Sheikh,refer.01,to,,Affirmative,"During the hearing , Justice Mehmood Sheikh referred to two passages of court orders , saying the parliament did not approve the National Reconciliation Ordinance ( NRO ) . "
+two passages of,say.01,parliament did not approve,,Affirmative,"During the hearing , Justice Mehmood Sheikh referred to two passages of court orders , saying the parliament did not approve the National Reconciliation Ordinance ( NRO ) . "
+the parliament,approve.01,the National Reconciliation Ordinance ( NRO ),,Affirmative,"During the hearing , Justice Mehmood Sheikh referred to two passages of court orders , saying the parliament did not approve the National Reconciliation Ordinance ( NRO ) . "
+Justice Jawad Khawaja,say.01,they heard,,Affirmative,Justice Khawaja said they heard the case on basis of available material and decided the application . 
+changing,hear.01,the case on basis of,,Affirmative,Justice Khawaja said they heard the case on basis of available material and decided the application . 
+changing,decide.01,the application,,Affirmative,Justice Khawaja said they heard the case on basis of available material and decided the application . 
+Justice Mehmood Sheikh,say.01,case was heard on merit,,Affirmative,"Justice Sheikh said the case was heard on merit , asking the counsel about the status of the verdict . "
+his counsel to correct the numbering of pages of the application,raise.01,a point about paragraph 59,,Affirmative,"In response , the counsel raised a point about paragraph 59 . "
+the lawyer,correct.01,the number of pages of,,Affirmative,"However , the court asked the lawyer to correct the number of pages of the decision and adjourned the case for one week . "

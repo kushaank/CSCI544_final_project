@@ -1,0 +1,58 @@
+1	Here	here	RB	_	2	advmod	2:A2=PRD
+2	's	be	VBZ	pb=be.01	0	root	_
+3	how	how	WRB	_	5	advmod	5:R-AM-MNR
+4	to	to	TO	_	5	aux	_
+5	play	play	VB	pb=play.01	2	xcomp	2:A1=PPT
+6	it	it	PRP	_	5	dobj	5:A1=PPT
+7	.	.	.	_	2	punct	_
+
+1	First	#ord#	RB	p2=JJ	3	advmod	3:AM-TMP
+2	,	,	,	_	3	punct	_
+3	head	head	VB	p2=RB|pb=head.02	0	root	_
+4	on	on	IN	p2=RP	3	advmod	3:A1=PPT
+5	over	over	IN	p2=RP	4	prep	_
+6	to	to	IN	p2=TO	5	prep	_
+7	Google.com	#url#	ADD	_	6	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	and	and	CC	_	1	cc	_
+3	drag	drag	VB	p2=VBP|pb=drag.01	1	conj	_
+4	any	any	DT	_	5	det	_
+5	row	row	NN	_	3	dobj	3:A1=PPT
+6	or	or	CC	_	5	cc	_
+7	column	column	NN	_	5	conj	_
+8	to	to	TO	_	9	aux	_
+9	rotate	rotate	VB	pb=rotate.02	3	advcl	3:AM-PRP
+10	it	it	PRP	_	9	dobj	9:A1=PPT
+11	.	.	.	_	1	punct	_
+
+1	Do	do	VB	p2=VBP|pb=do.02	0	root	_
+2	the	the	DT	_	3	det	_
+3	same	same	JJ	_	1	dobj	1:A1=PPT
+4	underneath	underneath	IN	p2=NN	3	prep	_
+5	or	or	CC	_	4	cc	_
+6	alongside	alongside	IN	_	4	conj	_
+7	the	the	DT	_	8	det	_
+8	cube	cube	NN	_	6	pobj	_
+9	to	to	TO	_	10	aux	_
+10	rotate	rotate	VB	pb=rotate.02	8	infmod	_
+11	the	the	DT	_	13	det	_
+12	entire	entire	JJ	_	13	amod	_
+13	cube	cube	NN	_	10	dobj	10:A1=PPT
+14	.	.	.	_	1	punct	_
+
+1	That	that	DT	_	2	det	_
+2	number	number	NN	_	6	nsubj	_
+3	at	at	IN	_	2	prep	_
+4	the	the	DT	_	5	det	_
+5	bottom	bottom	NN	p2=JJ	3	pobj	_
+6	counts	count	VBZ	pb=count.01	0	root	_
+7	how	how	WRB	_	8	advmod	_
+8	many	many	JJ	_	9	amod	_
+9	moves	move	NNS	p2=VBZ	12	dobj	12:AM-PRR
+10	you	you	PRP	_	12	nsubj	12:A0=PAG
+11	've	have	VBP	_	12	aux	_
+12	made	make	VBN	pb=make.01	6	ccomp	6:A1=PPT
+13	.	.	.	_	6	punct	_
+

@@ -1,0 +1,42 @@
+
+Company-wide access to Gigaom Research, analyst briefings or inquiries,          Gigaom Event tickets & much more.
+
+A startup called Tamr launched on Monday with technology geared to help companies organize the often sloppy and massive amounts of data that plug up their infrastructure. The company — which was founded in 2013 by database expert Michael Stonebraker and longtime business partner Andy Palmer — hopes to merge machine learning with human insight in order to generate quicker and more accurate data analysis.
+
+Tamr has raised $16 million in venture capital from Google Ventures and New Enterprise Associates.
+
+Essentially, the Tamr tool is a data cleanup automation tool. The machine-learning algorithms and software can do the dirty work of organizing messy data sets that would otherwise take a person thousands of hours to do the same, Palmer said. It’s an especially big problem for older companies whose data is often jumbled up in numerous data sources and in need of better organization in order for any data analytic tool to actually work with it. Companies that are only five years old can be considered relatively young and are more likely to have cleaner data as opposed to companies with a much longer lifespan.
+
+“What we do is make it so that humans don’t have to do the same tasks over again and the machine gets good at learning what the humans need,” said Palmer.
+
+Palmer said that for companies with a history of many mergers and acquisitions, such as in the case with a telecommunications firm that Tamr is working with, using the Tamr tool would cut down the time it would take to gather and sync up the enormous sets of data of the various companies that it bought. The telecommunications firm had roughly 300 different billing systems that accumulated over time and were never integrated because of the amount of human legwork required.
+
+The software infiltrates each data source and, using machine learning algorithms, can generate a confidence level between the separate sets of stored data. For example, a confidence level of 65 percent would mean that the software has found some sort of relationship between two sets of data that is enough for the two sets to be compared together.
+
+A diagram showing the Tamr workflow.
+
+Like a public search engine, the more data sources Tamr knows about, the better it gets over time for identifying the right attributes.
+
+With the software generating a supposed relationship between sets of data, a data steward or database expert receives the outcome and can then make the decision whether or not the relationship is indeed a good one. Palmer stressed the importance of the data steward’s role, as this person is essentially the project manager in charge of directing the Tamr tool and pointing it at the right data sets to look at.
+
+Palmer, who along with Stonebraker created database company Vertica Systems (which HP bought in 2011), said what separates the company’s new product from other similar ones, like Trifacta , is the emphasis on analyzing thousands of data sources as opposed to hundreds with humans acting as the guiding light. As an aside, Palmer noted that Trifacta’s co-founder and CEO Joe Hellerstein was a Ph.D. student of Stonebraker.
+
+Currently, Tamr counts as clients pharmaceutical firm Novartis International AG, media and information company Thomson Reuters, and Gloria Jeans Corp.
+
+Tamr is based in Harvard Square at Cambridge, Massachusetts. Other company founders include Ihab Ilyas of the University of Waterloo; George Beskales of Qatar Computing Research Institute; Dan Bruckner of the University of California, Berkeley; and MIT’s Alex Pagan.
+
+Subscriber content comes from Gigaom Research, bridging the gap between breaking news and long-tail research. Visit any of our reports to learn more and subscribe.
+
+Like this post? Share it!
+
+Follow @JonathanVanian or @gigaom for more stories like this.
+
+Get top stories delivered daily.
+
+Company-wide access to Gigaom Research, analyst briefings or inquiries,          Gigaom Event tickets & much more.
+
+Easily share your likes and links.
+
+See what's popular with Gigaom Research readers.
+
+We will never post to your social networks unless you share something. Terms and Privacy .

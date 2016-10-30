@@ -1,0 +1,45 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the jurors,convict.01,Texas man,for,Affirmative,Three of the jurors who convicted an East Texas man for the slaying of a rich widow disagree with his early release from prison and say they still believe he deserved a life sentence . 
+Three of,say.01,they still believe,,Affirmative,Three of the jurors who convicted an East Texas man for the slaying of a rich widow disagree with his early release from prison and say they still believe he deserved a life sentence . 
+they,believe.01,he deserved,,Affirmative,Three of the jurors who convicted an East Texas man for the slaying of a rich widow disagree with his early release from prison and say they still believe he deserved a life sentence . 
+an East Texas man for the slaying of a rich widow,deserve.01,a life sentence,,Affirmative,Three of the jurors who convicted an East Texas man for the slaying of a rich widow disagree with his early release from prison and say they still believe he deserved a life sentence . 
+the district attorney,prosecute.01,Bernie Tiede,,Affirmative,Bernie Tiede was set free on bond earlier this month after the district attorney who prosecuted him agreed to let him out of his life prison term . 
+the district attorney,agree.01,to let him out of,,Affirmative,Bernie Tiede was set free on bond earlier this month after the district attorney who prosecuted him agreed to let him out of his life prison term . 
+the district attorney,let.01,Bernie Tiede,,Affirmative,Bernie Tiede was set free on bond earlier this month after the district attorney who prosecuted him agreed to let him out of his life prison term . 
+Bernie Tiede,confess.01,that he did it,,Affirmative,"He confessed that he did it , said Jessie Jacks , who served as the jury foreman . "
+Bernie Tiede,do.02,earlier this month,,Affirmative,"He confessed that he did it , said Jessie Jacks , who served as the jury foreman . "
+"Jessie Jacks ,",say.01,He confessed,,Affirmative,"He confessed that he did it , said Jessie Jacks , who served as the jury foreman . "
+"Jessie Jacks ,",serve.01,as,,Affirmative,"He confessed that he did it , said Jessie Jacks , who served as the jury foreman . "
+they,find.01,him guilty,,Affirmative,We found him guilty . 
+they,give.01,a life sentence -,him,Affirmative,In the punishment phase we gave him a life sentence - that 's the max you can give him . 
+you,give.01,the max,him,Affirmative,In the punishment phase we gave him a life sentence - that 's the max you can give him . 
+a cut-and-dry case,inspire.01,"the dark comedy Bernie , starring",,Affirmative,"The case inspired the dark comedy Bernie , starring Jack Black in the title role and Shirley MacLaine as Nugent . "
+Jessie Jacks,say.01,It was,,Affirmative,"It was pretty much a cut - and - dry case , Jacks said . "
+Bernie Tiede,kill.01,a lady,,Affirmative,He killed a lady and put her in a freezer . 
+Bernie Tiede,put.01,a lady,in,Affirmative,He killed a lady and put her in a freezer . 
+The two,begin.01,to spend time together and take trips around,,Affirmative,"The two began to spend time together and take trips around the world , until Nugent 's disappearance . "
+The two,spend.01,time,,Affirmative,"The two began to spend time together and take trips around the world , until Nugent 's disappearance . "
+The two,take.01,trips around,,Affirmative,"The two began to spend time together and take trips around the world , until Nugent 's disappearance . "
+Jurors,give.01,a life sentence,Tiede,Affirmative,"Jurors gave Tiede a life sentence , and he would not have been eligible for parole until 2027 . "
+Buck Davidson,say.01,new evidence,,Affirmative,But Panola County District Attorney Danny Buck Davidson earlier this month said new evidence that Tiede was abused as a child - and that he and Nugent had an emotionally abusive relationship - suggested he should be let out of prison early . 
+he and Nugent,have.03,abusive relationship,,Affirmative,But Panola County District Attorney Danny Buck Davidson earlier this month said new evidence that Tiede was abused as a child - and that he and Nugent had an emotionally abusive relationship - suggested he should be let out of prison early . 
+he and Nugent,suggest.01,he should be let out of prison,,Affirmative,But Panola County District Attorney Danny Buck Davidson earlier this month said new evidence that Tiede was abused as a child - and that he and Nugent had an emotionally abusive relationship - suggested he should be let out of prison early . 
+An Austin attorney,begin.01,to examine,,Affirmative,An Austin attorney who began to examine Tiede 's case after the Bernie movie eventually uncovered evidence that Tiede had been abused by an uncle . 
+An Austin attorney,examine.01,case after,,Affirmative,An Austin attorney who began to examine Tiede 's case after the Bernie movie eventually uncovered evidence that Tiede had been abused by an uncle . 
+An Austin attorney,uncover.01,evidence,,Affirmative,An Austin attorney who began to examine Tiede 's case after the Bernie movie eventually uncovered evidence that Tiede had been abused by an uncle . 
+by,abuse.01,Bernie Tiede,,Affirmative,An Austin attorney who began to examine Tiede 's case after the Bernie movie eventually uncovered evidence that Tiede had been abused by an uncle . 
+a prosecution expert,agree.01,with,,Affirmative,"After a prosecution expert agreed with Tiede 's side , Davidson said it was appropriate to release Tiede after more than 15 years in prison . "
+Panola County District Attorney Danny Buck Davidson,say.01,it was appropriate,,Affirmative,"After a prosecution expert agreed with Tiede 's side , Davidson said it was appropriate to release Tiede after more than 15 years in prison . "
+by,review.01,case,,Affirmative,"Tiede 's case is being reviewed by the Texas Court of Criminal Appeals , which still must formally sign off on the sentence reduction for it to be official . "
+The judge,agree.01,to let,,Affirmative,"The judge agreed to let him live with Richard Linklater , the Austin filmmaker who directed Bernie . "
+The judge,let.01,him live with,,Affirmative,"The judge agreed to let him live with Richard Linklater , the Austin filmmaker who directed Bernie . "
+the Austin filmmaker,direct.01,Bernie Tiede,,Affirmative,"The judge agreed to let him live with Richard Linklater , the Austin filmmaker who directed Bernie . "
+Jessie Jacks,say.01,he still would have voted for,,Affirmative,Jacks said he still would have voted for a life sentence even knowing Tiede was abused as a child . 
+Bernie Tiede,vote.01,for,,Affirmative,Jacks said he still would have voted for a life sentence even knowing Tiede was abused as a child . 
+a life sentence,know.01,Tiede was abused as,,Affirmative,Jacks said he still would have voted for a life sentence even knowing Tiede was abused as a child . 
+this,set.02,a precedent of everyone,,Affirmative,Is this going to set a precedent of everyone who is in prison who was molested or abused as a child asking for new punishment ? 
+a child asking for,ask.02,for,,Affirmative,Is this going to set a precedent of everyone who is in prison who was molested or abused as a child asking for new punishment ? 
+this going to set a precedent of everyone who is in prison who was molested,open.03,a can of worms,,Affirmative,They may be opening up a can of worms . 
+"Another juror ,",say.01,he wanted,,Affirmative,"Another juror , Melvin Nagel , said he wanted to give Tiede the death penalty . "
+Melvin Nagel,want.01,to give Tiede,,Affirmative,"Another juror , Melvin Nagel , said he wanted to give Tiede the death penalty . "
+Melvin Nagel,give.01,the death penalty,Tiede,Affirmative,"Another juror , Melvin Nagel , said he wanted to give Tiede the death penalty . "

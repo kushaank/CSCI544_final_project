@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Law enforcement,hope.01,to avoid,,Affirmative,Law enforcement hopes to avoid future uncertainty . 
+Law enforcement,avoid.01,future uncertainty,,Affirmative,Law enforcement hopes to avoid future uncertainty . 
+Case Squad of,investigate.01,a shooting death in Madison,,Affirmative,ST. LOUIS • The Major Case Squad of St. Louis has been activated to investigate a shooting death in Madison that launched a police chase from Illinois into St. Louis on Monday afternoon . 
+a shooting death in Madison,launch.01,a police chase from Illinois,,Affirmative,ST. LOUIS • The Major Case Squad of St. Louis has been activated to investigate a shooting death in Madison that launched a police chase from Illinois into St. Louis on Monday afternoon . 
+Police,say.01,incident started,,Affirmative,Police said the incident started just before 2 p.m. Madison police received several 911 calls saying that shots had been fired and a man was down at Washington Avenue and Third Street in Madison . 
+p.m. Madison police,receive.01,911 calls saying,,Affirmative,Police said the incident started just before 2 p.m. Madison police received several 911 calls saying that shots had been fired and a man was down at Washington Avenue and Third Street in Madison . 
+911 calls saying,say.01,that shots had been fired and,,Affirmative,Police said the incident started just before 2 p.m. Madison police received several 911 calls saying that shots had been fired and a man was down at Washington Avenue and Third Street in Madison . 
+Police,find.01,"Kenneth C. Deal , 43 , of",,Affirmative,"Police arrived and found Kenneth C. Deal , 43 , of the 600 block of Meredocia Avenue in Venice , lying in the street . "
+Witnesses,point.02,a suspect vehicle,,Affirmative,Witnesses pointed out a suspect vehicle to police . 
+ Madison police,attempt.01,to stop,,Affirmative," Madison police attempted to stop the vehicle , which refused to stop . "
+ Madison police,stop.01,"the vehicle ,",,Affirmative," Madison police attempted to stop the vehicle , which refused to stop . "
+"the vehicle ,",refuse.01,to stop,,Affirmative," Madison police attempted to stop the vehicle , which refused to stop . "
+Police,give.01,chase,,Affirmative,"Police gave chase through Madison , Brooklyn and Venice and headed across the Stan Musial Veterans Memorial Bridge into St. Louis . "
+Police,head.02,across,,Affirmative,"Police gave chase through Madison , Brooklyn and Venice and headed across the Stan Musial Veterans Memorial Bridge into St. Louis . "
+"the vehicle , which refused to stop",elude.01,police in,,Affirmative,The vehicle eluded police in St. Louis . 
+Police,searcged.01,neighborhoods around,,Affirmative,Police searcged neighborhoods around Hyde Park by car and helicopter Monday afternoon . 
+Anyone,have.03,information about,,Affirmative,Anyone has information about this incident is asked to call the Major Case Squad at 1-618-876-7182 . 
+Anyone,call.01,Case Squad,,Affirmative,Anyone has information about this incident is asked to call the Major Case Squad at 1-618-876-7182 . 
+I,agree.01,consitutes agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 
+registration on or use of,consitutes.01,agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 

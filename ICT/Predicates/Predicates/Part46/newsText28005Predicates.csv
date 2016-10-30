@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Six people,report.01,minor injuries,,Affirmative,"MESA -- Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman . "
+by paramedics at,treat.03,MESA,,Affirmative,"MESA -- Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman . "
+"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman",report.01,minor injuries,,Affirmative,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman . "
+by paramedics at,treat.03,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman",,Affirmative,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman . "
+the crew,notice.01,the smell of smoke,,Affirmative,"An Allegiant Air flight bound for Wichita , Kansas , was evacuated Monday at Phoenix - Mesa Gateway Airport after the crew noticed the smell of smoke as the plane was taxiing , airport officials said . "
+airport officials,say.01,was evacuated Monday at,,Affirmative,"An Allegiant Air flight bound for Wichita , Kansas , was evacuated Monday at Phoenix - Mesa Gateway Airport after the crew noticed the smell of smoke as the plane was taxiing , airport officials said . "
+airport spokesman Brian Sexton,say.01,passengers were taken back to,,Affirmative,"The 162 passengers were taken back to the terminal , Sexton said . "
+"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman",report.01,minor injuries,,Affirmative,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman Brian Sexton . "
+by paramedics at,treat.03,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman",,Affirmative,"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman Brian Sexton . "
+airport spokesman Brian Sexton,say.01,they believe,,Affirmative,Sexton said they believe the smoke came from the plane 's electrical system . 
+"Six people reported minor injuries and were treated by paramedics at the airport , according to airport spokesman",believe.01,smoke came from,,Affirmative,Sexton said they believe the smoke came from the plane 's electrical system . 
+Airline officials,investigate.01,what caused,,Affirmative,Airline officials are investigating exactly what caused the incident . 
+airport spokesman Brian Sexton,say.01,passengers were served food and beverages,,Affirmative,"The passengers were served food and beverages during their wait for a new plane , which was scheduled to depart at 4 p.m. , Sexton said . "
+airport spokesman Brian Sexton,say.01,runways remained open,,Affirmative,"The runways remained open , Sexton said . "

@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+"Voronov , 30",detail.01,the attack,,Affirmative,"Voronov also detailed the attack ,  including the injuries he sustained : a bite mark on his shoulder , scratches on his leg and a small cut on his hand . "
+"Voronov , 30", including.01,the injuries,,Affirmative,"Voronov also detailed the attack ,  including the injuries he sustained : a bite mark on his shoulder , scratches on his leg and a small cut on his hand . "
+"Voronov , 30",sustain.02,the injuries,,Affirmative,"Voronov also detailed the attack ,  including the injuries he sustained : a bite mark on his shoulder , scratches on his leg and a small cut on his hand . "
+a bite mark on,scratch.02,a small cut on,,Affirmative,"Voronov also detailed the attack ,  including the injuries he sustained : a bite mark on his shoulder , scratches on his leg and a small cut on his hand . "
+"Voronov , 30",have.03,"long fingernails ,",,Affirmative,"He has long fingernails , big fingernails too . "
+he,say.01,came from scratching,,Affirmative,"And they all came from scratching , he said . "
+the troubled couple,find.01,texts badmouthing him on,,Affirmative,"According to earlier reports , the couple got into it after the former Olympic figure skater , 29 , found texts badmouthing him on his husband 's phone . "
+texts,badmouth.01,the troubled couple,on,Affirmative,"According to earlier reports , the couple got into it after the former Olympic figure skater , 29 , found texts badmouthing him on his husband 's phone . "
+Voronov is,say.01,to have reported,,Affirmative,"Voronov is said to have reported the altercation to police on Sunday , although he did not seek an emergency restraining order . "
+Voronov is,report.01,the altercation,,Affirmative,"Voronov is said to have reported the altercation to police on Sunday , although he did not seek an emergency restraining order . "
+"Voronov , 30",seek.01,an emergency restraining order,,Affirmative,"Voronov is said to have reported the altercation to police on Sunday , although he did not seek an emergency restraining order . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

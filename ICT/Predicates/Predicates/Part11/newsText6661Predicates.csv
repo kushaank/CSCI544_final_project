@@ -1,0 +1,76 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Springfield police,arrest.01,Patrick Russell Bell,,Affirmative,Springfield police arrested Patrick Russell Bell on Friday while investigating the assault of a woman with a knife . 
+Springfield police,investigate.01,the assault of,,Affirmative,Springfield police arrested Patrick Russell Bell on Friday while investigating the assault of a woman with a knife . 
+Springfield police,give.01,little weight,to,Affirmative,Springfield police are giving little weight to a recent ranking by a real estate blog that calls Springfield one of the most dangerous mid-sized cities in America . 
+estate blog,call.01,Springfield,one of,Affirmative,Springfield police are giving little weight to a recent ranking by a real estate blog that calls Springfield one of the most dangerous mid-sized cities in America . 
+Its author,defend.01,a recent ranking,,Affirmative,Its author defended the ranking in a News - Leader interview . 
+spokeswoman Lisa Cox,say.01,she has received,,Affirmative,Police spokeswoman Lisa Cox said she has received several calls about the rankings . 
+Police spokeswoman Lisa Cox,receive.01,several calls about,,Affirmative,Police spokeswoman Lisa Cox said she has received several calls about the rankings . 
+We,take.01,The ranking story by the blog Movoto Real Estate,,Affirmative,"We do n't take it very seriously , Cox said . "
+Police spokeswoman Lisa Cox,say.01,We do n't take it,,Affirmative,"We do n't take it very seriously , Cox said . "
+Cox,say.01,have reviewed,,Affirmative,"Cox said officials in the department have reviewed the methodology used in the report , which professes to base the ranking on crime reports created in Springfield and passed to the FBI . "
+officials in,review.01,the methodology used in,,Affirmative,"Cox said officials in the department have reviewed the methodology used in the report , which professes to base the ranking on crime reports created in Springfield and passed to the FBI . "
+"the report ,",profess.01,to base,,Affirmative,"Cox said officials in the department have reviewed the methodology used in the report , which professes to base the ranking on crime reports created in Springfield and passed to the FBI . "
+"the report ,",base.02,the ranking on,,Affirmative,"Cox said officials in the department have reviewed the methodology used in the report , which professes to base the ranking on crime reports created in Springfield and passed to the FBI . "
+The police officials,conclude.01,ignored,,Affirmative,The police officials concluded the authors of the blog ignored several factors that would arbitrarily inflate the city 's position on the most dangerous list . 
+the authors of,ignore.01,several factors,,Affirmative,The police officials concluded the authors of the blog ignored several factors that would arbitrarily inflate the city 's position on the most dangerous list . 
+several factors,inflate.01,position on,,Affirmative,The police officials concluded the authors of the blog ignored several factors that would arbitrarily inflate the city 's position on the most dangerous list . 
+Cox,say.01,was not meant,,Affirmative,"Most notably , Cox said the data used in Movoto 's analysis was not meant to be used to compare cities because of the unique variables that influence crime rates in each city . "
+the unique variables,influence.01,crime rates,,Affirmative,"Most notably , Cox said the data used in Movoto 's analysis was not meant to be used to compare cities because of the unique variables that influence crime rates in each city . "
+safety funding,dominate.01,city budget talks,,Affirmative,"The report , inflated or not , comes at a time when public safety funding is dominating city budget talks . "
+"The FBI ,",compile.01,data used in,,Affirmative,"The FBI , which compiles data used in the Uniform Crime Report the blog cites in its report , discourages drawing too many conclusions from the data . "
+a real estate blog that calls Springfield one of the `` most dangerous mid-sized cities in America,cite.01,the Uniform Crime Report,,Affirmative,"The FBI , which compiles data used in the Uniform Crime Report the blog cites in its report , discourages drawing too many conclusions from the data . "
+"The FBI ,",draw.02,many conclusions,from,Affirmative,"The FBI , which compiles data used in the Uniform Crime Report the blog cites in its report , discourages drawing too many conclusions from the data . "
+The police officials,look.01,at,,Affirmative,"There are so many variables when you are looking at crime statistics , said FBI spokeswoman Bridget Patton . "
+spokeswoman Bridget Patton,say.01,There are,,Affirmative,"There are so many variables when you are looking at crime statistics , said FBI spokeswoman Bridget Patton . "
+or not,see.01,entities trying,,Affirmative,"We do see different entities trying to do rankings , Patton said . "
+different entities,try.01,to do rankings,,Affirmative,"We do see different entities trying to do rankings , Patton said . "
+different entities,do.02,the rankings,,Affirmative,"We do see different entities trying to do rankings , Patton said . "
+FBI spokeswoman Bridget Patton,say.01,We do see,,Affirmative,"We do see different entities trying to do rankings , Patton said . "
+FBI spokeswoman Bridget Patton,say.01,is,,Affirmative,"What people should remember , Patton said , is that law enforcement agencies submit their crime numbers voluntarily . "
+enforcement agencies,submit.01,their crime numbers,,Affirmative,"What people should remember , Patton said , is that law enforcement agencies submit their crime numbers voluntarily . "
+Some agencies,submit.01,crime stats,,Affirmative,"Some agencies are more proactive about submitting crime stats , Patton said . "
+FBI spokeswoman Bridget Patton,say.01,agencies are,,Affirmative,"Some agencies are more proactive about submitting crime stats , Patton said . "
+FBI spokeswoman Bridget Patton,say.01,might be,,Affirmative,"The citizenry of some cities , she said , might be more likely to report crime . "
+The citizenry of,report.01,crime,,Affirmative,"The citizenry of some cities , she said , might be more likely to report crime . "
+FBI spokeswoman Bridget Patton,say.01,There are,,Affirmative,"There are so many different variables , Patton said . "
+"Randy Nelson ,",acknowledge.01,FBI cautions against using,,Affirmative,"Randy Nelson , the author of the analysis for Movoto , acknowledged that the FBI cautions against using UCR data for stats . "
+"The FBI , which compiles data used in the Uniform Crime Report the blog cites in its report",caution.01,against using,,Affirmative,"Randy Nelson , the author of the analysis for Movoto , acknowledged that the FBI cautions against using UCR data for stats . "
+Randy Nelson,say.01,he believed,,Affirmative,Nelson said he believed the FBI does n't want the data to be used to judge the efficacy of a particular police agency . 
+Randy Nelson,believe.01,FBI does n't want,,Affirmative,Nelson said he believed the FBI does n't want the data to be used to judge the efficacy of a particular police agency . 
+"The FBI , which compiles data used in the Uniform Crime Report the blog cites in its report",want.01,data to be used,,Affirmative,Nelson said he believed the FBI does n't want the data to be used to judge the efficacy of a particular police agency . 
+Randy Nelson,say.01,They have,,Affirmative,"They have to be very diplomatic , he said . "
+the website,calculate.01,the crime rate,,Affirmative,"In an attempt to reach a level playing field , the website calculated the crime rate using each city 's population . "
+the website,use.01,population,,Affirmative,"In an attempt to reach a level playing field , the website calculated the crime rate using each city 's population . "
+Chief Paul Williams,point.02,population swells significantly because of,,Affirmative,"Police Chief Paul Williams has often pointed out that this city 's daytime population swells significantly because of the city 's regional draw in work , school and leisure activity . "
+this study,use.01,"160,962 -",,Affirmative,"Using the U.S. census population of 160,962 - which this study used - can be misleading , Williams has said . "
+Police Chief Paul Williams,say.01,can be misleading,,Affirmative,"Using the U.S. census population of 160,962 - which this study used - can be misleading , Williams has said . "
+Randy Nelson,say.01,city was held to,,Affirmative,Nelson said every city was held to the same standard - population for the 2010 census . 
+Randy Nelson,add.01,crimes are still being committed within,,Affirmative,"He added : Regardless , the crimes are still being committed within the city limits . "
+a real estate blog that calls Springfield one of the `` most dangerous mid-sized cities in America,use.01,the comparison,,Affirmative,"Using the comparison , the blog said the odds of being a crime victim in Springfield are 1 in 21 . "
+a real estate blog that calls Springfield one of the `` most dangerous mid-sized cities in America,say.01,are 1 in 21,,Affirmative,"Using the comparison , the blog said the odds of being a crime victim in Springfield are 1 in 21 . "
+Police spokeswoman Lisa Cox,say.01,that still does n't tell,,Affirmative,But Cox said that still does n't tell the whole story . 
+Springfield police,identify.01,car thefts and,as,Affirmative,Police have identified car thefts and break - ins as a problem . 
+a real estate blog that calls Springfield one of the `` most dangerous mid-sized cities in America,give.01,property crimes and,,Affirmative,The blog gave property crimes and violent crimes the same weight . 
+Officers,launch.01,awareness campaigns,,Affirmative,Officers have launched multiple public awareness campaigns to remind citizens to lock their vehicles . 
+Officers,remind.01,to lock,citizens,Affirmative,Officers have launched multiple public awareness campaigns to remind citizens to lock their vehicles . 
+citizens,lock.02,their vehicles,,Affirmative,Officers have launched multiple public awareness campaigns to remind citizens to lock their vehicles . 
+One recent initiative,utilize.01,fliers,,Affirmative,One recent initiative utilizes fliers that look like parking tickets . 
+fliers,look.02,like,,Affirmative,One recent initiative utilizes fliers that look like parking tickets . 
+the city 's,struggle.02,with,,Affirmative,"Although the city struggles with property crime rates , Cox said , the crimes do not necessarily threaten a person 's physical safety . "
+Police spokeswoman Lisa Cox,say.01,crimes do not necessarily threaten,,Affirmative,"Although the city struggles with property crime rates , Cox said , the crimes do not necessarily threaten a person 's physical safety . "
+analysis,show.01,the impact,,Affirmative,Movoto 's analysis does show the impact that property crime has on the overall ranking . 
+property crime,have.03,the impact,,Affirmative,Movoto 's analysis does show the impact that property crime has on the overall ranking . 
+The bloggers,say.01,Springfield ranked No. 1 for,,Affirmative,The bloggers said Springfield ranked No. 1 for property crime . 
+Movoto 's,say.01,"murder ,",,Affirmative,"For the most dangerous ranking , Movoto said murder , violent crime and property crime each accounted for 30 percent of the city 's overall score , while total crimes made up 10 percent . "
+each,account.01,for,,Affirmative,"For the most dangerous ranking , Movoto said murder , violent crime and property crime each accounted for 30 percent of the city 's overall score , while total crimes made up 10 percent . "
+total crimes,make.07,10 percent,,Affirmative,"For the most dangerous ranking , Movoto said murder , violent crime and property crime each accounted for 30 percent of the city 's overall score , while total crimes made up 10 percent . "
+Randy Nelson,acknowledge.01,that there might be,,Affirmative,"Nelson acknowledged that there might be some variables that no one can really qualify , but he defended the value of the blog 's ranking . "
+no one,defend.01,the value of,,Affirmative,"Nelson acknowledged that there might be some variables that no one can really qualify , but he defended the value of the blog 's ranking . "
+each,compare.01,places,without bias,Affirmative,"If anything , we are comparing places without bias . "
+Randy Nelson,say.01,It is purely based on,,Affirmative,"It is purely based on what 's happening , he said . "
+Council members and,call.03,for increases in staffing,,Affirmative,"Two Springfield City Council members and the police officers ' union are calling for increases in staffing , citing a significant spike in city crime . "
+Council members and,cite.01,a significant spike in,,Affirmative,"Two Springfield City Council members and the police officers ' union are calling for increases in staffing , citing a significant spike in city crime . "
+Recent crime data,show.01,rose,,Affirmative,"Recent crime data shows the number of reported serious crimes rose 3 percent overall in 2013 , with a steep increase in violent crime driving the trend . "
+violent crime driving,drive.02,the trend,,Affirmative,"Recent crime data shows the number of reported serious crimes rose 3 percent overall in 2013 , with a steep increase in violent crime driving the trend . "
+police,attribute.01,much of,,Affirmative,"Reported rapes doubled , although police attributed much of that increase to a change in classification that includes a wider variety of sexual assaults . "

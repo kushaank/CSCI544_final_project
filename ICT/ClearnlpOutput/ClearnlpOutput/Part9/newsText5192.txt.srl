@@ -1,0 +1,25 @@
+1	Taameer	taameer	NNP	p2=JJR	2	nn	_
+2	Investment	investment	NNP	p2=NN	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	one	#crd#	CD	_	3	attr	3:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	Oman	oman	NNP	_	10	poss	_
+7	's	's	POS	_	6	possessive	_
+8	leading	lead	VBG	p2=JJ|pb=lead.01	10	amod	_
+9	investment	investment	NN	_	10	nn	_
+10	companies	company	NNS	_	5	pobj	8:A0=PAG
+11	with	with	IN	_	10	prep	_
+12	investments	investment	NNS	_	11	pobj	_
+13	in	in	IN	_	12	prep	_
+14	the	the	DT	_	23	det	_
+15	real	real	JJ	_	16	amod	_
+16	estate	estate	NN	_	23	nn	_
+17	,	,	,	_	16	punct	_
+18	industrial	industrial	JJ	_	16	conj	_
+19	,	,	,	_	18	punct	_
+20	financial	financial	JJ	_	18	conj	_
+21	and	and	CC	_	20	cc	_
+22	service	service	NN	_	20	conj	_
+23	sectors	sector	NNS	_	13	pobj	_
+24	.	.	.	_	3	punct	_
+

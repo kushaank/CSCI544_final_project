@@ -1,0 +1,22 @@
+
+This site uses cookies. By continuing to use this site you agree to our use of cookies. To find out more, see our Privacy and Cookies policy.
+
+A tiny laser built up from thin layers of semiconductor can behave just like a biological neuron, according to a group of physicists in France. The team has shown that its "micropillar" laser can be made to fire only when its input shifts by some minimum amount, just like a neuron. Successive firings of the device must also be well separated in time, which is also a crucial feature of biological neurons.
+
+The human brain consists of around 100 billion neurons, each of which receives electrical signals from other neurons via thousands of tiny junctions known as synapses. When the sum of the signals across its synapses exceeds some threshold value, a neuron "fires" by sending a series of voltage spikes to large numbers of other neurons. As such, neurons are "excitable": below a certain input threshold the system's output is very small and linear, but above the threshold it becomes large and nonlinear.
+
+Scientists have long tried to build artificial neurons that can recreate the enormous processing power of the brain, which has a capacity for understanding that has no parallel in existing digital computers. Much of this effort has concentrated on silicon circuitry, while a few groups have explored more novel approaches, such as the one that exploits superconducting devices known as Josephson junctions (see "Superconductors could simulate the brain" ).
+
+The latest work does away with electronics altogether and instead relies on optics. Sylvain Barbay and colleagues at the CNRS Laboratory for Photonics and Nanostructures outside Paris use what is known as a micropillar laser. Measuring just 10 µm high and a few microns across, the cylinder-shaped device consists of alternating layers of semiconductor materials grown on a substrate. These layers create a lasing medium bounded by two parallel mirrors, and a region that absorbs low-intensity light while transmitting light of higher intensities.
+
+To demonstrate its neuron-like qualities, the researchers optically pumped the device with a 794 nm diode-array laser and then excited it further with an 800 nm titanium-sapphire laser. Using a single pulse from the latter, they were able to demonstrate excitability, with the device firing only when exposed to pulses of some tens of nanojoules. This occurs on timescales of just 200 picoseconds. This makes the artificial neuron much quicker than either its biological or electronic counterparts, which have response times in the order of milliseconds.
+
+Using pairs of pulses from the titanium-sapphire laser, Barbay and colleagues were then able to demonstrate a second fundamental attribute of their imitation neuron: a minimum gap in time between firings. Without this gap, explains Barbay, a neuron's activity could become disordered, with noise triggering other pulses. They found that the device fired only once when subject to two input pulses spaced less than 150 ps apart – that time interval being known as the "absolute refractory period". The researchers also found that the device has a "relative refractory period", which occurs between 150 and 350 ps after the first pulse is delivered. During this time period, the resulting firing is weaker and required a stronger trigger than needed after 350 ps, when the device fires just as it does in response to an initial pulse.
+
+System has 'memory'
+
+"This relative refractory period has never been seen before in optical systems," says Barbay. "Its observation is interesting since it enforces the analogy with biological neurons and because it shows that the system has a 'memory' of its previous state."
+
+Barbay points out that scientists are still "very far" from building a computer that is able to mimic the brain, because, he says, it is not possible to reduce all neurons to a single model and because the number of neurons and connections in the brain is so far beyond current technological capabilities. But he adds that his group's device has the advantage of being both small and easily coupled, potentially allowing the construction of small networks of neurons.
+
+I really like this. Looks almost like a regular Hodgkin–Huxley model running at light speed. Orderly networks of these should make pretty good (well, not quite "positronic" yet, but still good) simulations and process controllers. Maybe a "few" running that fast can do the work of "many" running much slower in a given delta-t of time.

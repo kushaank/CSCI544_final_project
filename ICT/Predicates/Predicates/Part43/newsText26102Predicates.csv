@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"SLOVYANSK ,",damage.01,a large gas pipeline,,Affirmative,"SLOVYANSK , Ukraine - Heavy mortar fire outside the eastern Ukrainian city of Slovyansk has damaged a large gas pipeline and set off a fire . "
+"SLOVYANSK ,",set.05,a fire,,Affirmative,"SLOVYANSK , Ukraine - Heavy mortar fire outside the eastern Ukrainian city of Slovyansk has damaged a large gas pipeline and set off a fire . "
+AP journalists on Monday,witness.01,mortar fire hitting,,Affirmative,"AP journalists on Monday witnessed mortar fire hitting the village of Andriyivka , just outside Slovyansk . "
+mortar fire hitting,hit.01,the village of Andriyivka,,Affirmative,"AP journalists on Monday witnessed mortar fire hitting the village of Andriyivka , just outside Slovyansk . "
+The shelling,damage.01,a gas main running across,,Affirmative,The shelling damaged a gas main running across a field and onto local residents ' lands . 
+a large gas pipeline,catch.01,fire,,Affirmative,"The pipeline caught fire , but no residents were hurt . "
+"pro-Russian insurgents ,",seize.01,government buildings,,Affirmative,"Slovyansk has been the epicenter of fighting between Ukrainian troops and pro-Russian insurgents , who have seized government buildings across the east . "
+central government,urge.01,rebels,to lay down arms and sit down for talks,Affirmative,"Ukraine 's central government has urged rebels to lay down arms and sit down for talks , but they say they are only prepared to discuss the withdrawal of government troops . "
+rebels,lie.01,arms,,Affirmative,"Ukraine 's central government has urged rebels to lay down arms and sit down for talks , but they say they are only prepared to discuss the withdrawal of government troops . "
+rebels,say.01,they are,,Affirmative,"Ukraine 's central government has urged rebels to lay down arms and sit down for talks , but they say they are only prepared to discuss the withdrawal of government troops . "
+rebels,discuss.01,the withdrawal of,,Affirmative,"Ukraine 's central government has urged rebels to lay down arms and sit down for talks , but they say they are only prepared to discuss the withdrawal of government troops . "
+pro-Russian insurgents,declare.02,the two regions,,Affirmative,The insurgents have recently declared the two regions independent following referendums rejected as illegal by Ukraine and the West . 
+by Ukraine and,reject.01,independent following referendums,,Affirmative,The insurgents have recently declared the two regions independent following referendums rejected as illegal by Ukraine and the West . 

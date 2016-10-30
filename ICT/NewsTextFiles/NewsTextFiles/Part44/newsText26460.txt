@@ -1,0 +1,76 @@
+
+I'm a Professor of Medicine, Computer Science, and Biostatistics in the Institute of Genetic Medicine at Johns Hopkins University's School of Medicine.  Until mid-2011 I was Professor and Director of the Center for Bioinformatics and Computational Biology at the University of Maryland, College Park. Before joining UMD, I was at The Institute for Genomic Research, where I sequenced the genomes of many bacteria, including those used in the 2001 anthrax attacks. At TIGR I was part of the Human Genome Project and the co-founder of the influenza virus sequencing project (which is when I first learned of the anti-vaccine movement). My research group develops software for DNA sequence analysis, and our (free) software is used by scientific laboratories around the globe. I did my B.A. and M.S. at Yale University, and my Ph.D. at Harvard University, and I have published over 200 scientific papers.  Follow me on Facebook or Google plus , or just subscribe to my alternate blog site .
+
+Well, plenty. PSA screening, we now know,  “leads to a substantial overdiagnosis of prostate tumors.”  Many of these cancers grow very slowly, and men with slow-growing prostate tumors may never have symptoms. However, once a man is told he has cancer, there is a a strong tendency to treat it, and treatment has serious, often harmful side effects: 20-30% of men treated with surgery and radiation  will have long-term incontinence and erectile dysfunction .
+
+which  I wrote about  last November.
+
+Why does the controversy continue? One reason is that a large European study, called ERSPC, reported a small benefit from PSA screening. The European study is actually a combined analysis of 7 studies in 7 countries, each of which was run a bit differently.  Five of the studies reported no benefit, and just two, from Sweden and the Netherlands, showed a benefit.
+
+So what was going on in those two countries? Did they do screening differently, or treatment differently? Well, it seems they did. In  a letter published in Uro Today  on May 6, Ian Haines and George Miklos lay out an explanation: in the Swedish study, many more patients in the control group (the group that did not receive PSA screening) were treated with androgen deprivation therapy, ADT ADT , which recent evidence indicates may increase the risk of death. Haines and Miklos  published a more detailed analysis  last October, accompanied by  an editorial  by Otis Brawley, the Chief Medical Officer of the American Cancer Society American Cancer Society .
+
+He calls for “an objective panel of experts with access to all of the data” to address the controversy over the possible bias in some of the European trials.  Carlsson et al. responded  last month in the Journal of the National Cancer Institute, defending their methods, but  Haines and Miklos  fired back in the same issue, arguing that the benefits found in the European study “rests entirely on the … Goteborg trial from a single city.
+
+Regardlesss of the evidence from that one city, though, the evidence today is strong that until we have much better treatments for prostate cancer, routine screening with PSA tests causes more harm than good. The side effects of surgery can be life-altering and devastating. Guys: unless you have a special reason to be concerned about prostate cancer, tell your doctor “no thanks” if he offers you a PSA test at your next checkup. That’s what I did.
+
+I think you’ve way overstated the case for your position.
+
+Regarding the new study, we would expect a higher percent of men in the control group to be treated with ADT, as lack of screening would be expected to lead to men being diagnosed at a later stage of prostate cancer. Absent evidence that there is differential treatment conditional on disease stage, the increased incidence of ADT does not bias the results, unless there is something to these studies beyond what you’ve stated here.
+
+Your statement that results only depend on Sweden is not right, as the European results are when pooled statistically significant when you drop the Swedish results. As I’m sure you know, the European results were pooled in an attempt to get a big enough sample size to have a reasonable power to detect the effects they were trying to detect.
+
+As I’m sure you’re aware, many statisticians analyzing prostate cancer screening disagree with you. For example, Gulati, Gore, and Etzioni, in an article in Annals of Internal Medicine, use the European Study to estimate a long-run ratio of cancers detected to lives saved from prostate cancer screening of between 3 to 1 and 7 to 1. If half the men treated suffer from serious medical harms (impotence, incontinence) due to treatment, the ratio of serious harms to deaths is between 1.5 to 1 and 3.5 to 1. Personally, I find that tradeoff acceptable enough that screening makes sense — but your mileage may vary. I think individual men should be asked what is their preferred tradeoff between possible harms and death, and make their own decisions.
+
+The main point is: you are promoting the notion that this is a settled issue. It’s not — it’s a contested issue from a scientific perspective, and giving definitive advice to all men on what they should do is not, in my opinion, warranted based on the empirical evidence.
+
+Tim: I am citing evidence from several large scale studies. None of your data address the rather huge problem that the (large) U.S. study showed no benefit. And 5 of the 7 European studies showed no benefit. When you point out that pooling 7 studies is needed for statistical power, you neglect to mention that the need for larger studies arises only because the effect is small – very small. The US trial found no reduced risk of death, and the European trial found 1 less death per 1000 men screened in men aged 55-69, the subgroup for which they claim the largest benefit. The USPSTF also reported that 80% of PSA tests are false positives when using a cutoff between 2.5 and 4.0, as is common. Your numbers don’t jibe with the data.
+
+The ADT hypothesis of Haines and Miklos is an attempt to explain the statistical outliers in Sweden and the Netherlands. Even if this hypothesis is wrong, though, the larger message is unaffected: routine PSA testing for men not otherwise at risk is a bad idea.
+
+The 1 in 1000 number, which you cite because it appears to be a very small risk reduction, isn’t really the key number. What is “large” or “small” in this context can only be defined by being explicit about benefits vs. costs.
+
+The key number is the ratio of harms (impotence/incontinence) to reduced deaths, which is what Gulati/Gore/Etzioni look at. They show that the European results are consistent with a reduction in prostate cancer deaths which is “large” simply in the sense that the likely ratio of deaths to extra prostate cancer diagnoses is between 1 to 3 and 1 to 7. And that ratio is high enough that some men will want to do screening. The European data are consistent with such a finding.
+
+I get the sense that you haven’t looked at Etzioni’s work on this lit, which also includes simulations of different screening intervals and PSA cutoffs for biopsies, which suggests that we might reduce the harm to benefit ratio with what could be characterized as “moderate” screening policies, with less frequent screening intervals and higher cutoffs. In any event, saying my “numbers don’t jibe with the data” is invalid unless you have some reason to say that you KNOW that Gulati/Gore/Etzioni are wrong. And I don’t think you have any such study that shows that they are wrong. What you have is one study that argues against the European study, and the U.S. study. But I don’t think that is definitive evidence that establishes a scientific consensus.
+
+Gulati/Gore/Etzioni might be wrong. The U.S. study might be right, and the European study might be wrong. Or it could be the reverse. I’m quite willing to admit that the scientific evidence is mixed. And I think you should make the same admission — that would be a more balanced view rather than arguing that the scientific consensus clearly shows that men should not do PSA testing.
+
+I know you are a statistician. I think it is somewhat misleading to most non-statistician readers to say that “5 of the European studies showed no benefit.” I assume by this you mean that each of these studies, viewed individually, did not show statistically significantly differences between the screening and control group when statistical significance is evaluated at a 95% level. Of course, these 5 studies are also statistically consistent with the Swedish result. So, viewed individually, most of the individual country studies are inconclusive, which is what we would expect as they are underpowered to uncover the size of effect they were trying to find. The individual country studies did NOT give us statistical evidence of effects that were estimated to be close to zero and had small enough standard errors to rule out effects that are indeed large from a benefit-cost perspective.
+
+This isn’t how the discussions between a doctor and a patient play out. Patients need to know that the benefit is small and there is a serious risk. They also should be aware – before they get tested – that 90% of patients choose to have treatment after a positive test.
+
+As I’m sure you know, the 0 to 1 prostate cancer deaths averted per 1000 men screened is using a quite different denominator than the statistics you later quote which are per 1000 men receiving prostate cancer surgery. I don’t think it is a good idea to use these two comparisons to “1000 men” in the same paragraph when the denominators are so different.
+
+1. This treatment has a 15% to 20% chance of saving your life at some point over the next 15 to 20 years.
+
+2. The treatment has a 50% chance of causing impotence or incontinence.
+
+Now, if you want to say that in your opinion, the benefit I’ve listed in (1) is small, that’s a possible position. There are men who would rather be dead than impotent.
+
+Or, if you want to point out that this finding could be totally wrong, and the U.S. study could be right, and the benefit in (1) is non-existent, that is a legitimate point.
+
+I am puzzled as to why you can’t simply say, “We DON’T know” for certain what are the relative benefits and costs of PSA screening and treatment. The research is all over the map.
+
+George Gabor Miklos and I agree with what you have stated Steven. This very passionate debate is tending more and more towards no PSA screening for any men which the discoverer of PSA, Professor Richard Ablin argues strongly for in his recent book.
+
+Our hypothesis that EXCESSIVE and INAPPROPRIATE ADT MONOTHERAPY in control patients accounts for the results in the 2 outlier results of the 7 studies used in ERSPC, as argued in our 3 JNCI articles/responses can only be resolved when the authors of the GOTEBORG study finally agree to release their detailed morbidity data for INDEPENDENT REVIEW with all deaths subclassified according to stage and risk group and initial treatment given. We believe that ADT MONOTHERAPY may select out for aggressive clones of cells and increase the risk of earlier death from metastatic prostate cancer as well as increasing the risk of earlier death from cardiovascular and other non cancer causes. It is certainly well proven, as we have argued, that ADT MONOTHERAPY is a very inferior treatment to RT plus ADT in 2 recent and large randomised studies and so it is clear that hormone therapy is only useful in these patients when many of the cancer cells in the prostate gland have been destroyed….. Otherwise the patients may suffer some sort of growth stimulation of their cancer cells, a theory for which there is basic science support. It is also quite possible that the ADT MONOTHERAPY ALONE patients in the two randomised studies of patients with locally advanced cancers just referred to may have done worse than if they had received no treatment at all…we can’t tell.
+
+This is a very very important public health debate that will continue to arouse great passion, particularly perhaps amongst those who benefit most from continuing the status quo and the ever increasing use of the very very expensive (and possibly providing no extra benefit to patients) robotic surgery, newer radiation techniques, new PSA screening statistical models with pending patents etc.
+
+We again urge the authors of the GOTEBORG study to release their data for independent review, as argued by Otis Brawley, CMO for the ACS, in his JNCI editorial that accompanied our original article last year. This time has surely come.
+
+You need to look at Opko’s new test for PSA. It will eliminate the invasive tests.
+
+The problem with this article is that strong claims are made using poor data.
+
+Your comment to Tim Bartik: “rather huge problem that the (large) U.S. study showed no benefit. And 5 of the 7 European studies showed no benefit” is uninformed.
+
+Also, the endpoint was wrong. This study looked at asymptomatic men and followed them for 7-10 years and compared mortality. This is way too short of a time to follow if this is going to be the outcome. Any study looking at mortality in prostate cancer (among asymptomatic, undiagnosed men” must be conducted over at least 15-20 years. There are simply not enough events in that time frame to see any difference even if it does exist.
+
+I think that your article takes at face value conclusions based on faulty and erroneous data.
+
+Comparison of mortality from prostate cancer before and after the introduction of PSA shows significant decrease. Is this enough to recommend wide screening of entire populations, no. But the “data” from the PCPT and European studies are at least as weak in condemning it. I recommend critical review of these articles before writing about them.
+
+Mr. Salzberg,
+
+I find your article one of the most irresponsible things I have ever read. My first comment would be “you shouldn’t write about things you don’t understand” but I read your bio and see that you are actually very well educated. The flaws in your article as well as those present in the conclusions drawn in the USPSTF are too numerous to detail. The idea of a panel that lacked a single urologist, oncologist or radiation oncologist making a recommendation for millions of men regarding the most common male cancer is beyond comprehension. As a practicing urologist who just returned from one of my prostate cancer patient’s funeral today, I also find your insinuation that the AUA’s stance on prostate cancer screening is based on prostate surgery being “big business” exceedingly ignorant and beyond insulting. Until you become a practicing urologist who treats the “serious, often harmful” side effects and sees the effects of this disease untreated first hand, perhaps you should stick to writing about other subjects.

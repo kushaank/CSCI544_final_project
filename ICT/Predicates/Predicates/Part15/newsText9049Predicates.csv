@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,vote.01,on comments,,Affirmative,You must be registered to comment and vote on comments . 
+old Minnesota man,leave.01,his own picnic drunk,,Affirmative,"A 51 - year - old Minnesota man who allegedly left his own picnic drunk crossed into North Dakota and soon crashed , killing two sisters riding with him as he showed off his new car , the women 's family said . "
+old Minnesota man,cross.02,into,,Affirmative,"A 51 - year - old Minnesota man who allegedly left his own picnic drunk crossed into North Dakota and soon crashed , killing two sisters riding with him as he showed off his new car , the women 's family said . "
+old Minnesota man,kill.01,two sisters riding with him,,Affirmative,"A 51 - year - old Minnesota man who allegedly left his own picnic drunk crossed into North Dakota and soon crashed , killing two sisters riding with him as he showed off his new car , the women 's family said . "
+A 51-year-old Minnesota man who allegedly left his own picnic drunk,show.01,"his new car , the women 's family",,Affirmative,"A 51 - year - old Minnesota man who allegedly left his own picnic drunk crossed into North Dakota and soon crashed , killing two sisters riding with him as he showed off his new car , the women 's family said . "
+family,say.01,crossed into,,Affirmative,"A 51 - year - old Minnesota man who allegedly left his own picnic drunk crossed into North Dakota and soon crashed , killing two sisters riding with him as he showed off his new car , the women 's family said . "
+the North Dakota Highway Patrol,say.01,were,,Affirmative,"Dead at the scene were Teja R. Beyer , 21 , and Mercedes D. Rowley , 23 , the patrol said . "
+A family member in,say.01,women were sisters,,Affirmative,A family member in North Dakota said the two women were sisters who lived together in Grand Forks and were helping each other raise their children . 
+sisters,help.01,other raise,,Affirmative,A family member in North Dakota said the two women were sisters who lived together in Grand Forks and were helping each other raise their children . 
+each other,raise.01,their children,,Affirmative,A family member in North Dakota said the two women were sisters who lived together in Grand Forks and were helping each other raise their children . 
+"The driver ,",crash.01,the car -,,Affirmative,"The driver , James G. Yahnke , crashed the car - a 2014 Dodge Challenger - just a few miles west of his hometown of Nielsville and was taken to Sanford Hospital in Fargo with unspecified injuries . "
+Family members,say.01,they expect,,Affirmative,Family members say they expect him to recover . 
+Family members,expect.01,him to recover,,Affirmative,Family members say they expect him to recover . 
+the two women,attend.01,a picnic,,Affirmative,"The sisters were attending a picnic being hosted by Yahnke at his home for co-workers , said his brother , Robert Yahnke . "
+by Yahnke,host.01,a picnic,,Affirmative,"The sisters were attending a picnic being hosted by Yahnke at his home for co-workers , said his brother , Robert Yahnke . "
+son,call.01,family,,Affirmative,"James Yahnke 's son called the sisters ' family afterward and said his father took the women for a ride to show off his new car and then crashed , said Debbie Mickelson , the sisters ' aunt . "
+son,say.01,father took,,Affirmative,"James Yahnke 's son called the sisters ' family afterward and said his father took the women for a ride to show off his new car and then crashed , said Debbie Mickelson , the sisters ' aunt . "
+his father,take.01,the women,,Affirmative,"James Yahnke 's son called the sisters ' family afterward and said his father took the women for a ride to show off his new car and then crashed , said Debbie Mickelson , the sisters ' aunt . "
+his father,show.01,"his new car , the women 's family",,Affirmative,"James Yahnke 's son called the sisters ' family afterward and said his father took the women for a ride to show off his new car and then crashed , said Debbie Mickelson , the sisters ' aunt . "
+"Debbie Mickelson ,",say.01,son called,,Affirmative,"James Yahnke 's son called the sisters ' family afterward and said his father took the women for a ride to show off his new car and then crashed , said Debbie Mickelson , the sisters ' aunt . "
+his mom,apologize.01,Mickelson said,,Affirmative,"[ The son ] apologized and his mom apologized , Mickelson said . "
+the North Dakota Highway Patrol,say.01,Yahnke was suspected of being drunk,,Affirmative,"The patrol said Yahnke was suspected of being drunk when he was driving west , veered into the right ditch and struck an approach to a driveway , then rolled and hit a second driveway approach before landing on its wheels off to the side of the road . "
+the North Dakota Highway Patrol,add.01,women were thrown from,,Affirmative,"Both women were thrown from the vehicle , the patrol added , suggesting that neither had on their seat belts or were n't properly belted in . "
+the North Dakota Highway Patrol,suggest.01,had on,,Affirmative,"Both women were thrown from the vehicle , the patrol added , suggesting that neither had on their seat belts or were n't properly belted in . "
+Teja R. Beyer,have.03,belt violations on,,Affirmative,"Beyer had two seat belt violations on her driving record and Rowley one , court records show . "
+court records,show.01,Beyer had,,Affirmative,"Beyer had two seat belt violations on her driving record and Rowley one , court records show . "
+Teja R. Beyer,give.01,birth,to,Affirmative,"Rowley worked at a nursing home in Crookston and leaves behind children ages 1 and 2 , and Beyer gave birth to her only child five months ago , Mickelson said . "
+Debbie Mickelson,say.01,Rowley worked at,,Affirmative,"Rowley worked at a nursing home in Crookston and leaves behind children ages 1 and 2 , and Beyer gave birth to her only child five months ago , Mickelson said . "
+Mickelson,say.01,they were,,Affirmative,", and Mercedes with the other parent in Aneta , N.D. , they were very close , Mickelson said . "

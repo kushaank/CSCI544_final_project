@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"An unknown culprit , or culprits",set.02,fire,to,Affirmative,"An unknown culprit , or culprits , set fire to and destroyed a portable toilet on a playing field near Bakerfield Elementary School in Aberdeen , fire investigators said . "
+"An unknown culprit , or culprits",destroy.01,a portable toilet,,Affirmative,"An unknown culprit , or culprits , set fire to and destroyed a portable toilet on a playing field near Bakerfield Elementary School in Aberdeen , fire investigators said . "
+fire investigators,say.01,", set fire to and destroyed",,Affirmative,"An unknown culprit , or culprits , set fire to and destroyed a portable toilet on a playing field near Bakerfield Elementary School in Aberdeen , fire investigators said . "
+The suspects,hit.02,the porta - potty,,Affirmative,"The suspects hit the porta - potty around 11:30 p.m. Saturday , when part of it burned before Aberdeen Fire Department crews were able to extinguish it , Senior Deputy State Fire Marshal Oliver Alkire said Monday . "
+Department crews,extinguish.01,the Aberdeen Fire Department,,Affirmative,"The suspects hit the porta - potty around 11:30 p.m. Saturday , when part of it burned before Aberdeen Fire Department crews were able to extinguish it , Senior Deputy State Fire Marshal Oliver Alkire said Monday . "
+Marshal Oliver Alkire,say.01,suspects hit,,Affirmative,"The suspects hit the porta - potty around 11:30 p.m. Saturday , when part of it burned before Aberdeen Fire Department crews were able to extinguish it , Senior Deputy State Fire Marshal Oliver Alkire said Monday . "
+The suspects,strike.01,the porta-potty,,Affirmative,"They came back and struck it again around 9:30 p.m. Sunday , Alkire said . "
+Senior Deputy State Fire Marshal Oliver Alkire,say.01,They came back and struck it again,,Affirmative,"They came back and struck it again around 9:30 p.m. Sunday , Alkire said . "
+Senior Deputy State Fire Marshal Oliver Alkire,add.01,it 's completely gone,,Affirmative,"And this time , it 's completely gone , he added . "
+Two firefighters from,respond.01,to,,Affirmative,Two firefighters from the Aberdeen Fire Department responded to the blaze Sunday . 
+to bring it under control,take.10,Two firefighters from the Aberdeen Fire Department,,Affirmative,"It took them five minutes to bring it under control , according to a notice of investigation issued Monday by the Office of the State Fire Marshal . "
+Two firefighters from the Aberdeen Fire Department,bring.01,Two,,Affirmative,"It took them five minutes to bring it under control , according to a notice of investigation issued Monday by the Office of the State Fire Marshal . "
+by,issue.01,investigation issued Monday by,,Affirmative,"It took them five minutes to bring it under control , according to a notice of investigation issued Monday by the Office of the State Fire Marshal . "
+The fire,cause.01,"1,000 worth of damage to",,Affirmative,"The fire caused an estimated $ 1,000 worth of damage to the porta - potty , according to the Fire Marshal 's Office report . "
+Senior Deputy State Fire Marshal Oliver Alkire,say.01,It 's currently under investigation,,Affirmative,"It 's currently under investigation , Alkire said of the fire . "
+Two firefighters from the Aberdeen Fire Department,know.01,it 's incendiary,,Affirmative,We know it 's incendiary ; we 're asking anybody with any type of information to contact us . 
+Two firefighters from the Aberdeen Fire Department,ask.01,with,anybody,Affirmative,We know it 's incendiary ; we 're asking anybody with any type of information to contact us . 
+Anyone,have.03,information about,,Affirmative,Anyone who has information about the fire should call the fire marshal 's Northeast Regional Office in Bel Air at 410-836-4844 . 
+Anyone,call.01,Northeast Regional Office in,,Affirmative,Anyone who has information about the fire should call the fire marshal 's Northeast Regional Office in Bel Air at 410-836-4844 . 
+We,upgrade.02,our reader,,Affirmative,We 've upgraded our reader commenting system . 
+We,comment.01,system,,Affirmative,We 've upgraded our reader commenting system . 
+The Baltimore Sun,encourage.02,civil dialogue related to,,Affirmative,The Baltimore Sun encourages civil dialogue related to our stories ; you must register and log - in to our site in order to participate . 
+you,log.01,to,,Affirmative,The Baltimore Sun encourages civil dialogue related to our stories ; you must register and log - in to our site in order to participate . 
+We,reserve.01,the right,,Affirmative,We reserve the right to remove any user and to delete comments that violate our Terms of Service . 
+We,delete.01,comments,,Affirmative,We reserve the right to remove any user and to delete comments that violate our Terms of Service . 
+comments,violate.01,our Terms of Service,,Affirmative,We reserve the right to remove any user and to delete comments that violate our Terms of Service . 
+you,agree.01,to,,Affirmative,"By commenting , you agree to these terms . "

@@ -1,0 +1,225 @@
+1	The	the	DT	_	2	det	_
+2	US	us	NNP	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	world	world	NN	_	8	poss	_
+6	's	's	POS	_	5	possessive	_
+7	biggest	big	JJS	_	8	amod	_
+8	market	market	NN	_	3	attr	3:A2=PRD
+9	for	for	IN	_	8	prep	_
+10	organic	organic	JJ	_	11	amod	_
+11	products	product	NNS	_	9	pobj	_
+12	and the industry	and the industry	NNP	p2=NN	13	nsubj	13:A0=PAG
+13	had	have	VBD	pb=have.03	3	ccomp	_
+14	another	another	DT	_	16	det	_
+15	great	great	JJ	_	16	amod	_
+16	year	year	NN	_	13	dobj	13:A1=PPT
+17	here	here	RB	_	13	advmod	13:AM-LOC
+18	in	in	IN	_	13	prep	13:AM-TMP
+19	2013	0	CD	_	18	pobj	_
+20	.	.	.	_	3	punct	_
+
+1	Sales	sale	NNS	_	2	nn	_
+2	rose 11.5	rose 0	CD	p2=VBD	3	num	_
+3	%	%	NN	p2=:	0	root	_
+4	 to 	 to 	:	p2=VBD	3	punct	_
+5	$	$	$	_	7	quantmod	_
+6	35.1	0	CD	_	7	number	_
+7	billion	#crd#	CD	_	3	appos	_
+8	-	-	:	p2=,	3	punct	_
+9	the	the	DT	_	11	det	_
+10	fastest	fast	JJS	_	11	amod	_
+11	growth	growth	NN	_	3	appos	_
+12	since	since	IN	_	15	mark	_
+13	the	the	DT	_	14	det	_
+14	recession	recession	NN	_	15	nsubj	15:A1=PPT
+15	began	begin	VBD	pb=begin.01	11	advcl	_
+16	in	in	IN	_	15	prep	15:AM-TMP
+17	2008	0	CD	_	16	pobj	_
+18	,	,	,	_	3	punct	_
+19	 according	 according	VBG	pb= according.01	0	root	_
+20	to	to	IN	_	19	prep	19:A2
+21	the	the	DT	_	24	det	_
+22	Organic	organic	NNP	_	24	nn	_
+23	Trade	trade	NNP	_	24	nn	_
+24	Association	association	NNP	_	20	pobj	_
+25	(	(	-LRB-	_	24	punct	_
+26	OTA	ota	NNP	_	24	appos	_
+27	)	)	-RRB-	_	24	punct	_
+28	.	.	.	_	3	punct	_
+
+1	They expect	they expect	VB	p2=JJ|pb=they expect.01	0	root	_
+2	about	about	IN	p2=RP	1	prep	1:A1
+3	the	the	DT	_	6	det	_
+4	same	same	JJ	_	6	amod	_
+5	growth	growth	NN	_	6	nn	_
+6	levels	level	NNS	_	2	pobj	_
+7	for	for	IN	_	6	prep	_
+8	the	the	DT	_	11	det	_
+9	next	next	JJ	_	11	amod	_
+10	two	#crd#	CD	_	11	num	_
+11	years	year	NNS	_	7	pobj	_
+12	.	.	.	_	1	punct	_
+
+1	If	if	IN	_	3	mark	_
+2	we	we	PRP	_	3	nsubj	3:A0=PPT
+3	look	look	VBP	pb=look.01	9	advcl	9:AM-ADV
+4	at fruits	at fruits	NNS	p2=NNPS	3	dobj	3:A1=GOL
+5	and	and	CC	_	4	cc	_
+6	vegetables	vegetable	NNS	_	4	conj	_
+7	,	,	,	_	9	punct	_
+8	organic	organic	JJ	p2=NN	9	nsubj	9:A0=PAG
+9	has	have	VBZ	pb=have.03	0	root	_
+10	a	a	DT	_	13	det	_
+11	10	0	CD	_	12	num	_
+12	%	%	NN	_	13	nn	_
+13	share	share	NN	_	9	dobj	9:A1=PPT
+14	of	of	IN	_	13	prep	_
+15	the	the	DT	_	16	det	_
+16	total	total	JJ	p2=NN	14	pobj	_
+17	with 	with 	:	p2=IN	9	punct	_
+18	$	$	$	_	20	quantmod	_
+19	11.6	0	CD	_	20	number	_
+20	billion	#crd#	CD	_	9	dobj	_
+21	in	in	IN	_	20	prep	_
+22	sales	sale	NNS	_	21	pobj	_
+23	,	,	,	_	20	punct	_
+24	up	up	RB	_	20	advmod	_
+25	15	0	CD	_	26	num	_
+26	%	%	NN	_	24	npadvmod	_
+27	.	.	.	_	9	punct	_
+
+1	beverages	beverage	NNS	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	up 5	up 0	CD	p2=$	4	num	_
+4	%	%	NN	_	1	appos	_
+5	 to	 to	IN	p2=:	4	prep	_
+6	$	$	$	_	8	quantmod	_
+7	4	0	CD	_	8	number	_
+8	billion	#crd#	CD	_	5	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	US	us	NNP	p2=UH	2	nn	_
+2	farmland	farmland	NN	_	6	nsubjpass	6:A1=PPT;8:A1
+3	is	be	VBZ	_	6	aux	_
+4	n't	not	RB	_	6	neg	6:AM-NEG
+5	being	be	VBG	_	6	auxpass	_
+6	converted	convert	VBN	pb=convert.01	0	root	_
+7	to	to	TO	p2=IN	8	aux	_
+8	organic	organic	VB	p2=JJ|pb=organic.01	6	xcomp	6:A2=PRD
+9	at	at	IN	_	8	prep	8:AM-MNR
+10	a	a	DT	_	13	det	_
+11	fast	fast	RB	p2=JJ	12	advmod	_
+12	enough	enough	JJ	_	13	amod	_
+13	pace	pace	NN	_	9	pobj	_
+14	to	to	TO	_	15	aux	_
+15	meet	meet	VB	pb=meet.01	13	infmod	_
+16	demand	demand	NN	_	15	dobj	15:A1=PPT
+17	.	.	.	_	6	punct	_
+
+1	 Supplies	 supplies	NNS	p2=NNPS	6	nsubj	6:A1=PPT
+2	of	of	IN	_	1	prep	_
+3	organic	organic	JJ	_	5	amod	_
+4	feed	feed	NN	_	5	nn	_
+5	and grain	and grain	NN	p2=,	2	pobj	_
+6	are	be	VBP	pb=be.01	0	root	_
+7	tight	tight	JJ	_	17	amod	_
+8	and	and	CC	_	7	cc	_
+9	costly	costly	JJ	_	7	conj	_
+10	,	,	,	_	17	punct	_
+11	a	a	DT	_	12	det	_
+12	problem	problem	NN	_	13	nsubj	_
+13	for organic	for organic	JJ	p2=POS	14	amod	_
+14	dairy	dairy	NN	_	17	nn	_
+15	and	and	CC	_	14	cc	_
+16	meat	meat	NN	_	14	conj	_
+17	producers	producer	NNS	_	6	attr	6:A2=PRD
+18	.	.	.	_	6	punct	_
+
+1	  3000	  0	NN	p2=CD	2	nn	_
+2	farms	farm	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	in	in	IN	_	3	prep	3:A2=PRD
+5	transition	transition	NN	_	4	pobj	_
+6	right	right	RB	_	7	advmod	_
+7	now	now	RB	_	3	advmod	3:AM-TMP
+8	.	.	.	_	3	punct	_
+
+1	"	"	``	_	4	punct	_
+2	Consumer	consumer	NN	p2=JJ	3	nn	_
+3	education	education	NN	_	4	nsubj	4:A1=PPT
+4	is	be	VBZ	pb=be.01	13	ccomp	13:A1=PPT
+5	critical	critical	JJ	_	4	acomp	4:A2=PRD
+6	to	to	TO	_	7	aux	_
+7	grow	grow	VB	pb=grow.03	5	xcomp	_
+8	the	the	DT	_	10	det	_
+9	organic	organic	JJ	_	10	amod	_
+10	industry	industry	NN	_	7	dobj	7:A1=PRD
+11	,	,	,	_	13	punct	_
+12	"	"	''	_	13	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	Laura	laura	NNP	_	15	nn	_
+15	Batcha	batcha	NNP	_	13	nsubj	13:A0
+16	,	,	,	_	15	punct	_
+17	executive	executive	NN	p2=JJ	19	nn	_
+18	director of	director of	NNP	p2=NN	19	nn	_
+19	OTA	ota	NNP	_	15	appos	_
+20	.	.	.	_	13	punct	_
+
+1	The	the	DT	_	3	det	_
+2	bad	bad	JJ	_	3	amod	_
+3	news	news	NN	_	4	nsubj	4:A1=PPT
+4	is	be	VBZ	pb=be.01	0	root	_
+5	the	the	DT	_	6	det	_
+6	NOSB	nosb	NNP	_	8	nsubj	8:A0=PAG
+7	is	be	VBZ	_	8	aux	_
+8	making	make	VBG	pb=make.02	4	ccomp	4:A2=PRD
+9	it	it	PRP	_	11	nsubj	_
+10	more	more	RBR	_	11	advmod	_
+11	difficult	difficult	JJ	_	8	ccomp	8:A1=PRD
+12	to	to	TO	_	13	aux	_
+13	phase	phase	VB	pb=phase.01	11	advcl	_
+14	out	out	RP	_	13	prt	13:C-V
+15	synthetic	synthetic	JJ	_	18	amod	_
+16	and	and	CC	_	15	cc	_
+17	non-organic	non-organic	JJ	_	15	conj	_
+18	materials	material	NNS	_	13	dobj	13:A1=PPT
+19	from	from	IN	_	13	prep	_
+20	organic	organic	JJ	_	21	amod	_
+21	food	food	NN	_	19	pobj	_
+22	.	.	.	_	4	punct	_
+
+1	Until	until	IN	_	17	prep	_
+2	now	now	RB	_	1	pcomp	_
+3	,	,	,	_	1	punct	_
+4	if	if	IN	_	8	mark	_
+5	a	a	DT	_	7	det	_
+6	non-organic	non-organic	JJ	_	7	nn	_
+7	material was	material was	NNP	p2=HYPH	8	nsubj	8:A0
+8	approved	approve	VBN	p2=JJ|pb=approve.01	28	advcl	28:AM-ADV
+9	-	-	:	p2=HYPH	11	punct	_
+10	such	such	JJ	_	11	amod	_
+11	as	as	IN	_	8	prep	_
+12	carrageenan	carrageenan	NN	p2=FW	14	hmod	_
+13	-	-	HYPH	p2=:	14	hyph	_
+14	 it	 it	NN	p2=``	17	nn	_
+15	would automatically	would automatically	RB	p2=NNP	14	advmod	_
+16	"	"	``	p2=''	17	punct	_
+17	sunset	sunset	NN	_	11	pobj	_
+18	"	"	''	_	17	punct	_
+19	after	after	IN	p2=RB	8	prep	8:AM-TMP
+20	five	#crd#	CD	_	21	num	_
+21	years	year	NNS	_	19	pobj	_
+22	unless a	unless a	JJ	p2=POS	26	amod	_
+23	two	#crd#	CD	_	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	thirds	#ord#	NNS	_	26	nn	_
+26	majority	majority	NN	_	0	root	_
+27	voted to	voted to	TO	p2=MD	28	aux	_
+28	keep	keep	VB	pb=keep.01	26	infmod	_
+29	it	it	PRP	_	28	dobj	28:A1=PPT
+30	on	on	IN	_	28	prep	28:C-V
+31	the	the	DT	_	32	det	_
+32	list	list	NN	_	30	pobj	_
+33	.	.	.	_	8	punct	_
+

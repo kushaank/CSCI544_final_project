@@ -1,0 +1,59 @@
+1	BC	bc	NNP	_	3	nn	_
+2	,	,	,	_	1	punct	_
+3	Riga	riga	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	18.05.2014	0	CD	_	3	appos	_
+6	.	.	.	_	1	punct	_
+
+1	Aivars	aivars	VBZ	pb=aivars.01	0	root	_
+2	Lembergs	lembergs	NNP	p2=NNS	1	dobj	1:A1
+3	.	.	.	_	1	punct	_
+
+1	Cepuritis	cepuritis	NNP	p2=NN	2	nsubj	2:A0
+2	says	say	VBZ	pb=say.01	0	root	_
+3	he	he	PRP	_	4	nsubj	4:A1=PPT
+4	is	be	VBZ	pb=be.01	2	ccomp	2:A1=PPT
+5	not	not	RB	_	4	neg	4:AM-NEG
+6	sure	sure	JJ	_	4	acomp	4:A2=PRD
+7	what	what	WP	_	13	attr	13:R-A2;15:R-A2
+8	the	the	DT	_	10	det	_
+9	Ventspils	ventspils	NNP	p2=NNPS	10	nn	_
+10	mayor	mayor	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	objective	objective	NN	p2=JJ	13	nsubj	13:A1=PPT;15:A1=PPT
+13	is	be	VBZ	pb=be.01	6	ccomp	_
+14	/	/	SYM	p2=,	15	punct	_
+15	was	be	VBD	pb=be.01	13	dep	_
+16	,	,	,	_	2	punct	_
+17	mentioning	mention	VBG	pb=mention.01	2	advcl	_
+18	possible	possible	JJ	_	19	amod	_
+19	publicity	publicity	NN	_	17	dobj	17:A1=PPT
+20	ahead	ahead	RB	_	17	advmod	17:AM-LOC
+21	of	of	IN	_	20	prep	_
+22	Saeima	saeima	NNP	_	23	nn	_
+23	elections	election	NNS	_	21	pobj	_
+24	.	.	.	_	2	punct	_
+
+1	He	he	PRP	_	3	nsubj	3:A0=PAG
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	mentioned	mention	VBD	pb=mention.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	mayor	mayor	NN	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	meeting	meeting	NN	_	3	dobj	3:A1=PPT
+8	with	with	IN	_	7	prep	_
+9	the	the	DT	_	11	det	_
+10	Russian	russian	JJ	_	11	amod	_
+11	ambassador	ambassador	NN	_	8	pobj	_
+12	before	before	IN	_	16	mark	_
+13	the	the	DT	_	14	det	_
+14	statements	statement	NNS	_	16	nsubjpass	16:A1=PPT
+15	were	be	VBD	_	16	auxpass	_
+16	released	release	VBN	pb=release.01	3	advcl	3:AM-TMP
+17	.	.	.	_	3	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

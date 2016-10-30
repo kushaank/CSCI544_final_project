@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the media,run.01,story,,Affirmative,"This time in the 2008 cycle , the media was running story after story on Sen. John McCain 's age and war - related injuries , questioning his psychological stability . "
+the media,question.01,his psychological stability,,Affirmative,"This time in the 2008 cycle , the media was running story after story on Sen. John McCain 's age and war - related injuries , questioning his psychological stability . "
+host David Gregory,grill.01,Chairman Reince Priebus,,Affirmative,"On Meet the Press Sunday morning , host David Gregory grilled RNC Chairman Reince Priebus over Karl Rove 's recent musings on Hillary Clinton 's cognitive status following a 2011 concussion , asking if Priebus thought the comments might backfire on the party , and whether the GOP 's ' mission ' was to persuade Clinton not to run . "
+host David Gregory,ask.01,if Priebus thought,,Affirmative,"On Meet the Press Sunday morning , host David Gregory grilled RNC Chairman Reince Priebus over Karl Rove 's recent musings on Hillary Clinton 's cognitive status following a 2011 concussion , asking if Priebus thought the comments might backfire on the party , and whether the GOP 's ' mission ' was to persuade Clinton not to run . "
+grilled RNC Chairman Reince Priebus over Karl Rove 's recent musings,think.01,comments might backfire on,,Affirmative,"On Meet the Press Sunday morning , host David Gregory grilled RNC Chairman Reince Priebus over Karl Rove 's recent musings on Hillary Clinton 's cognitive status following a 2011 concussion , asking if Priebus thought the comments might backfire on the party , and whether the GOP 's ' mission ' was to persuade Clinton not to run . "
+the GOP 's,follow.02,the Obama playbook,,Affirmative,The GOP is following the Obama playbook : Set the narrative early . 
+Jennifer Rubin,write.01,Right Turn blog for,,Affirmative,"Jennifer Rubin writes the Right Turn blog for The Post , offering reported opinion from a conservative perspective . "
+the Right,turn.02,blog,,Affirmative,"Jennifer Rubin writes the Right Turn blog for The Post , offering reported opinion from a conservative perspective . "
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

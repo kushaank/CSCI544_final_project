@@ -1,0 +1,59 @@
+1	Deal	deal	NNP	p2=NN	2	nsubj	2:A0=PAG;6:A0
+2	adds	add	VBZ	pb=add.02	0	root	_
+3	fourth	#ord#	JJ	_	4	amod	_
+4	market	market	NN	_	2	dobj	2:A1=PPT
+5	to	to	TO	p2=IN	6	aux	_
+6	Lebanon-based	lebanon-based	VB	p2=NNP|pb=lebanon-based.01	2	advcl	2:AM-PRP
+7	Africell	africell	NNP	_	9	poss	_
+8	's	's	POS	_	7	possessive	_
+9	footprint	footprint	NN	_	6	dobj	6:A1
+10	.	.	.	_	2	punct	_
+
+1	Orange	orange	NNP	p2=NN	4	nsubj	4:A0=PAG;6:A0=PAG
+2	on	on	IN	_	1	prep	_
+3	Monday	monday	NNP	_	2	pobj	_
+4	agreed	agree	VBD	pb=agree.01	0	root	_
+5	to	to	TO	_	6	aux	_
+6	sell	sell	VB	pb=sell.01	4	xcomp	4:A1=PPT
+7	its	its	PRP$	_	10	poss	_
+8	65.9	0	CD	_	9	num	_
+9	%	%	NN	_	10	nn	_
+10	stake	stake	NN	_	6	dobj	6:A1=PPT
+11	in	in	IN	_	10	prep	_
+12	Orange	orange	NNP	_	13	nn	_
+13	Uganda	uganda	NNP	_	11	pobj	_
+14	to	to	IN	p2=TO	6	prep	6:A2=GOL
+15	Lebanon-based	lebanon-based	NNP	p2=JJ	16	nn	_
+16	Africell	africell	NNP	_	14	pobj	_
+17	.	.	.	_	4	punct	_
+
+1	Sorry	sorry	UH	_	3	intj	3:AM-DIS
+2	this	this	DT	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	premium	premium	NN	p2=JJ	5	nn	_
+5	content	content	NN	_	3	attr	3:A2=PRD
+6	.	.	.	_	3	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	p2=VBD|pb=read.01	12	advcl	12:AM-PRP
+3	news	news	NN	_	4	nn	_
+4	articles	article	NNS	_	2	dobj	2:A1=PPT
+5	more	more	JJR	_	12	advmod	12:AM-ADV
+6	than	than	IN	_	5	prep	_
+7	1	0	CD	_	9	hmod	_
+8	-	-	HYPH	p2=:	9	hyph	_
+9	month	month	NN	_	10	npadvmod	_
+10	old	old	JJ	_	6	pobj	_
+11	you	you	PRP	_	12	nsubj	12:A0=PAG
+12	need	need	VBP	pb=need.01	0	root	_
+13	a	a	DT	_	14	det	_
+14	subscription	subscription	NN	_	12	dobj	12:A1=PPT
+15	.	.	.	_	12	punct	_
+
+1	To	to	TO	p2=IN	2	aux	_
+2	subscribe	subscribe	VB	pb=subscribe.02	4	advcl	4:AM-PRP
+3	,	,	,	_	4	punct	_
+4	click	click	VB	pb=click.01	0	root	_
+5	HERE	here	RB	p2=NNP	4	advmod	4:AM-LOC
+6	.	.	.	_	4	punct	_
+

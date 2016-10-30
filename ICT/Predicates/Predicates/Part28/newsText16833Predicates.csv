@@ -1,0 +1,87 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old girl fighting against,fight.01,against,,Affirmative,"THE family of a three - year - old girl fighting against the odds to beat a brain tumour are trying to raise £20,000 to take her to America . "
+THE family of,beat.01,a brain tumour,,Affirmative,"THE family of a three - year - old girl fighting against the odds to beat a brain tumour are trying to raise £20,000 to take her to America . "
+THE family of,try.01,to raise,,Affirmative,"THE family of a three - year - old girl fighting against the odds to beat a brain tumour are trying to raise £20,000 to take her to America . "
+THE family of,take.01,THE family of a three-year-old girl fighting against the odds to beat a brain tumour,,Affirmative,"THE family of a three - year - old girl fighting against the odds to beat a brain tumour are trying to raise £20,000 to take her to America . "
+the doctors,give.01,have failed,,Affirmative,"Doctors have given Mia Taylor , from Clifton , just a five per cent chance of surviving after attempts to treat her in the QMC have failed . "
+her parents,refuse.01,to give up hope,,Affirmative,But her parents Stacey Askey and Antony Taylor are refusing to give up hope . 
+her parents,give.07,hope,,Affirmative,But her parents Stacey Askey and Antony Taylor are refusing to give up hope . 
+her parents Stacey Askey and Antony Taylor,send.01,her notes,to,Affirmative,"They have sent her notes to two hospitals in America - John Hopkins Hospital , in Maryland , and Boston Children 's Hospital - hoping doctors there may be able to help . "
+"Stacey , 23 ,",say.01,"is poor , with",,Affirmative,"Stacey , 23 , who is also mum to five - year - old Cory , said : The outlook for Mia 's tumour in very young children is poor , with few children surviving treatment . "
+few children,survive.01,treatment,,Affirmative,"Stacey , 23 , who is also mum to five - year - old Cory , said : The outlook for Mia 's tumour in very young children is poor , with few children surviving treatment . "
+very young children,tell.01,there was,us,Affirmative,When Mia was first diagnosed they told us there was only a five per cent chance Mia would survive as the tumour is very deep in the brain . 
+very young children,ask.02,for,,Affirmative,"But Antony and I are n't about to just give up on our little girl , so we have asked for second opinions in America . "
+none of,agree.01,to take,,Affirmative,"If none of the hospitals will agree to take Mia 's case on , the money will be used for a family trip to Disneyland and the rest given to charity . "
+none of,take.01,case,,Affirmative,"If none of the hospitals will agree to take Mia 's case on , the money will be used for a family trip to Disneyland and the rest given to charity . "
+"Jacky Fleming , from Clifton",start.01,fundraising,,Affirmative,"Jacky Fleming , from Clifton , has already started fundraising . "
+"Professor Richard Grundy ,",say.01,Mia has,,Affirmative,"Professor Richard Grundy , paediatric oncology consultant at Nottingham University Hospitals NHS Trust , said : Mia has what is known as a diffuse high - grade glioma , which is located in her mid-brain . "
+Mia in it,have.03,what is known as,,Affirmative,"Professor Richard Grundy , paediatric oncology consultant at Nottingham University Hospitals NHS Trust , said : Mia has what is known as a diffuse high - grade glioma , which is located in her mid-brain . "
+the brain,control.01,all of,,Affirmative,"This is the really important part of the brain that controls all of the everyday processes , and it is surgically impossible to operate on that part . "
+Mia in it,have.03,"radiotherapy ,",,Affirmative,"Mia has had radiotherapy , which she responded well to , and chemotherapy , which she had a reasonable response to , but the tumour has significantly progressed in the last two months and sadly her prognosis is poor . "
+Mia in it,respond.01,"radiotherapy ,",,Affirmative,"Mia has had radiotherapy , which she responded well to , and chemotherapy , which she had a reasonable response to , but the tumour has significantly progressed in the last two months and sadly her prognosis is poor . "
+Mia in it,have.03,a reasonable response to,,Affirmative,"Mia has had radiotherapy , which she responded well to , and chemotherapy , which she had a reasonable response to , but the tumour has significantly progressed in the last two months and sadly her prognosis is poor . "
+a heartbreaking fact,threaten.01,to tear,,Affirmative,But behind her gorgeous smile lies a heartbreaking fact that threatens to tear her family apart . 
+a heartbreaking fact,tear.01,THE family of a three-year-old girl fighting against the odds to beat a brain tumour,,Affirmative,But behind her gorgeous smile lies a heartbreaking fact that threatens to tear her family apart . 
+Mia in it,have.03,an aggressive brain tumour,,Affirmative,Mia has an aggressive brain tumour that could kill her at any moment . 
+an aggressive brain tumour,kill.01,Mia in it,,Affirmative,Mia has an aggressive brain tumour that could kill her at any moment . 
+"Her desperate mum ,",urge.01,people,"to help raise £20,000 for",Affirmative,"Her desperate mum , Stacey Askey , is urging people to help raise £20,000 for an operation in America that could save her daughter 's life . "
+people,help.01,"raise £20,000 for",,Affirmative,"Her desperate mum , Stacey Askey , is urging people to help raise £20,000 for an operation in America that could save her daughter 's life . "
+people,raise.01,"£20,000",,Affirmative,"Her desperate mum , Stacey Askey , is urging people to help raise £20,000 for an operation in America that could save her daughter 's life . "
+an operation in America,save.02,life,,Affirmative,"Her desperate mum , Stacey Askey , is urging people to help raise £20,000 for an operation in America that could save her daughter 's life . "
+"Stacey , of",say.01,Mia is currently fighting,,Affirmative,"Stacey , of Farnborough Road , in Clifton , said : Mia is currently fighting this tumour as hard as she can . "
+Mia in it,fight.01,an aggressive brain tumour that could kill her at any moment,,Affirmative,"Stacey , of Farnborough Road , in Clifton , said : Mia is currently fighting this tumour as hard as she can . "
+"Stacey , who had been training to become a midwife before Mia fell ill",know.01,she has,,Affirmative,She knows she has a poorly head but she 's never let her illness get her down . 
+"Stacey , who had been training to become a midwife before Mia fell ill",let.01,illness get her down,,Affirmative,She knows she has a poorly head but she 's never let her illness get her down . 
+her illness,get.01,"Stacey , who had been training to become a midwife before Mia fell ill",,Affirmative,She knows she has a poorly head but she 's never let her illness get her down . 
+"Stacey , who had been training to become a midwife before Mia fell ill",have.03,a smile on,,Affirmative,"She always has a smile on her face , no matter what . "
+us,help.01,save,,Affirmative,Please help us to help save our baby girl - even a little will help . 
+us,save.02,our baby girl,,Affirmative,Please help us to help save our baby girl - even a little will help . 
+us,imagine.01,life,,Affirmative,We just ca n't imagine life without Mia in it . 
+Mia in it,start.01,to suffer weakness on,,Affirmative,The family 's heartbreak began in September last year when Mia started to suffer weakness on the right side of her body . 
+Mia in it,suffer.01,weakness on,,Affirmative,The family 's heartbreak began in September last year when Mia started to suffer weakness on the right side of her body . 
+"Stacey ,",say.01,world just turned upside-down,,Affirmative,"Our whole world just turned upside-down , said Stacey , who is also mum to Cory , five . "
+We,have.03,a clue,,Affirmative,"We just did n't have a clue what to do or how to cope , knowing one day we could lose our little girl . "
+We,lose.02,our little girl,,Affirmative,"We just did n't have a clue what to do or how to cope , knowing one day we could lose our little girl . "
+THE family of a three-year-old girl fighting against the odds to beat a brain tumour,begin.01,week course of radiotherapy,,Affirmative,But the family pulled together as she began a five - week course of radiotherapy . 
+Mia in it,start.01,walking again,,Affirmative,Mia started walking again and was beginning to get back to her normal self . 
+a routine scan in January,reveal.01,tumour had started,,Affirmative,But a routine scan in January this year revealed that another tumour had started to grow . 
+the doctors,warn.01,outlook was,the family,Affirmative,A three - month course of chemotherapy failed to shrink it - and doctors warned the family the outlook was very grave . 
+"Stacey , who had been training to become a midwife before Mia fell ill",add.01,We were told,,Affirmative,"Stacey added : We were told there was n't a lot more Queen 's Medical Centre could do for Mia but the doctors wanted to try her on a much stronger chemotherapy drug , mostly used in adults and older children . "
+the doctors,want.01,to try her on,,Affirmative,"Stacey added : We were told there was n't a lot more Queen 's Medical Centre could do for Mia but the doctors wanted to try her on a much stronger chemotherapy drug , mostly used in adults and older children . "
+the doctors,try.01,the Queen 's,,Affirmative,"Stacey added : We were told there was n't a lot more Queen 's Medical Centre could do for Mia but the doctors wanted to try her on a much stronger chemotherapy drug , mostly used in adults and older children . "
+We,hope.01,drug will shrink,,Affirmative,We are hoping this drug will shrink the tumour so we can maybe talk about operating . 
+a much stronger chemotherapy drug,shrink.01,Mia 's tumour in very young children,,Affirmative,We are hoping this drug will shrink the tumour so we can maybe talk about operating . 
+We,talk.01,about operating,,Affirmative,We are hoping this drug will shrink the tumour so we can maybe talk about operating . 
+unlikely doctors at QMC,carry.03,major surgery,,Affirmative,"But with the tumour wrapped around Mia 's brainstem , the couple have been told it is unlikely doctors at QMC would be prepared to carry out major surgery on such a young child . "
+her illness,beat.01,doctors at QMC,,Affirmative,"Determined not to let the illness beat them , Stacey and Antony have sent Mia 's notes to several hospitals in America . "
+Antony and I,send.02,notes,to,Affirmative,"Determined not to let the illness beat them , Stacey and Antony have sent Mia 's notes to several hospitals in America . "
+doctors at QMC,hope.01,will agree,,Affirmative,They hope doctors there will agree to take on the case and perform an operation that could save her life . 
+doctors there,agree.01,to take on,,Affirmative,They hope doctors there will agree to take on the case and perform an operation that could save her life . 
+doctors there,take.21,Mia 's case,,Affirmative,They hope doctors there will agree to take on the case and perform an operation that could save her life . 
+doctors there,perform.01,an operation,,Affirmative,They hope doctors there will agree to take on the case and perform an operation that could save her life . 
+an operation,save.02,her daughter 's life,,Affirmative,They hope doctors there will agree to take on the case and perform an operation that could save her life . 
+Antony Taylor,say.01,I did,,Affirmative,"Antony said : I did some research on clinics in America and contacted a couple of them , including the John Hopkins Hospital [ in Maryland ] . "
+Antony Taylor,do.02,some research on clinics in America,,Affirmative,"Antony said : I did some research on clinics in America and contacted a couple of them , including the John Hopkins Hospital [ in Maryland ] . "
+Antony Taylor,contact.01,a couple of them,,Affirmative,"Antony said : I did some research on clinics in America and contacted a couple of them , including the John Hopkins Hospital [ in Maryland ] . "
+the doctors,hear.01,the things,,Affirmative,"We 've heard the things they can do over there are quite amazing , so we 're really hoping they 'll be able to help us . "
+doctors at QMC,do.02,the things,,Affirmative,"We 've heard the things they can do over there are quite amazing , so we 're really hoping they 'll be able to help us . "
+the doctors,hope.01,they 'll be able,,Affirmative,"We 've heard the things they can do over there are quite amazing , so we 're really hoping they 'll be able to help us . "
+doctors at QMC,help.01,the doctors,,Affirmative,"We 've heard the things they can do over there are quite amazing , so we 're really hoping they 'll be able to help us . "
+the doctors,do.02,anything,,Affirmative,"Seeing Mia in and out of hospital has been devastating , especially when we ca n't do anything to take the pain away . "
+THE family of a three-year-old girl fighting against the odds to beat a brain tumour,find.02,is possible,,Affirmative,"Although the family have not yet found out whether treatment in the States is possible , they do not want to lose any time , so have already begun fundraising to cover the trip . "
+the doctors,want.01,to lose,,Affirmative,"Although the family have not yet found out whether treatment in the States is possible , they do not want to lose any time , so have already begun fundraising to cover the trip . "
+the doctors,lose.02,any time,,Affirmative,"Although the family have not yet found out whether treatment in the States is possible , they do not want to lose any time , so have already begun fundraising to cover the trip . "
+the doctors,estimate.01,"that £20,000 would help pay for treatment , accommodation and flights",,Affirmative,"They estimate that £20,000 would help pay for treatment , accommodation and flights , and are holding fundraising events with family and friends . "
+"£20,000",help.01,"pay for treatment , accommodation and flights",,Affirmative,"They estimate that £20,000 would help pay for treatment , accommodation and flights , and are holding fundraising events with family and friends . "
+Donations on,raise.01,"more than £2,500",,Affirmative,"Donations on Mia 's fundraising website have already raised more than £2,500 . "
+Families,donate.01,£5,,Affirmative,Families are asked to donate £5 . 
+doctors in,help.01,Mia in it,,Affirmative,"If doctors in the US are unable to help Mia , the money will go a charity , yet to be decided . "
+doctors in the US,do.02,nothing,,Affirmative,"Stacey , who had been training to become a midwife before Mia fell ill , added : Seeing our daughter forever being pricked with needles and being put to sleep is more heartbreaking every time , knowing there 's nothing we can do to protect her . "
+doctors in the US,protect.01,her daughter 's,,Affirmative,"Stacey , who had been training to become a midwife before Mia fell ill , added : Seeing our daughter forever being pricked with needles and being put to sleep is more heartbreaking every time , knowing there 's nothing we can do to protect her . "
+doctors in the US,think.01,we would have,,Affirmative,We never thought we would have to go through this and see things no parent would ever want their child to go through . 
+doctors in the US,go.02,through this,,Affirmative,We never thought we would have to go through this and see things no parent would ever want their child to go through . 
+doctors in the US,see.01,things,,Affirmative,We never thought we would have to go through this and see things no parent would ever want their child to go through . 
+no parent,want.01,child to go through,,Affirmative,We never thought we would have to go through this and see things no parent would ever want their child to go through . 
+doctors in the US,put.01,a brave face,on,Affirmative,We just have to put a brave face on every day and think positive . 
+doctors in the US,know.01,where to turn,,Affirmative,"Without the support of friends and family , we would n't know where to turn . "
+friends and family,believe.01,Mia will get through,,Affirmative,Our hearts are broken but we believe Mia will get through this one day soon . 

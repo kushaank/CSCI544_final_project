@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Nasa and,pursue.01,winded programme aimed at landing astronauts on Mars,,Affirmative,"Nasa and the world 's other space agencies are pursuing a careful , long - winded programme aimed at landing astronauts on Mars by 2035 . "
+"Private organisations ,",claim.01,that they can do,,Affirmative,"Private organisations , such as the not - for - profit Mars One , are claiming that they can do the same thing by 2025 . "
+landing astronauts on Mars,do.02,the same thing,,Affirmative,"Private organisations , such as the not - for - profit Mars One , are claiming that they can do the same thing by 2025 . "
+Over-caution,mean.01,over-spending,,Affirmative,"Over-caution could mean over-spending , and with space budgets around the world continuing to be under pressure , expensive programmes mean delays and even cancellation . "
+expensive programmes,mean.01,delays and,,Affirmative,"Over-caution could mean over-spending , and with space budgets around the world continuing to be under pressure , expensive programmes mean delays and even cancellation . "
+trying,mean.01,cutting corners,,Affirmative,"On the flip side , trying to do things quickly could mean cutting corners and with space being such an unforgiving environment , that would almost inevitably cost lives . "
+a voyage to Mars,take.01,three years,,Affirmative,"With current technology , a voyage to Mars and back would take around three years . "
+things,encounter.01,unexpected difficulties,,Affirmative,"That 's a lot of time for things to go wrong , and to encounter unexpected difficulties . "
+"chief scientist ,",outline.01,plans for sending humans to Mars,,Affirmative,"At the Royal Institution in London last week , Nasa 's chief scientist , Dr Ellen Stofan , and deputy chief technologist , Jim Adams , outlined the agency 's plans for sending humans to Mars . "
+project,intend.01,only to send humans to Mars,,Affirmative,The private Mars One project intends only to send humans to Mars . 
+project,send.01,humans,to Mars,Affirmative,The private Mars One project intends only to send humans to Mars . 
+The private Mars One project,develop.02,the technology necessary,,Affirmative,It does not promise to develop the technology necessary to bring them home afterwards . 
+"200,000 people",apply.01,to go,,Affirmative,"Undeterred , 200,000 people reportedly applied to go . "
+I,want.01,to pursue,,Affirmative,"At a small press gathering after the event , I wanted to pursue the points that Stofan raised . "
+I,pursue.01,the points,,Affirmative,"At a small press gathering after the event , I wanted to pursue the points that Stofan raised . "
+Ellen Stofan,raise.01,the points,,Affirmative,"At a small press gathering after the event , I wanted to pursue the points that Stofan raised . "
+such a statement,bely.01,some underlying concerns about,,Affirmative,It seemed to me that such a statement belied some underlying concerns about the safety of the private initiatives . 
+Jim Adams,say.01,", he thought",,Affirmative,"Adams said that although Nasa does not have a regulatory function over private companies , he thought the agency would comment if it saw something that was clearly reckless . "
+Nasa 's,have.03,a regulatory function over,,Affirmative,"Adams said that although Nasa does not have a regulatory function over private companies , he thought the agency would comment if it saw something that was clearly reckless . "
+Jim Adams,think.01,agency would comment,,Affirmative,"Adams said that although Nasa does not have a regulatory function over private companies , he thought the agency would comment if it saw something that was clearly reckless . "
+the agency 's,see.01,something,,Affirmative,"Adams said that although Nasa does not have a regulatory function over private companies , he thought the agency would comment if it saw something that was clearly reckless . "
+Ellen Stofan,hear.01,say,"Charlie [ Bolden ,",Affirmative,"I 've heard Charlie [ Bolden , the Nasa administrator ] say that , if they want our expertise or advice then we 're more than happy , but not our assets , said Stofan . "
+private companies,want.01,our expertise or advice,,Affirmative,"I 've heard Charlie [ Bolden , the Nasa administrator ] say that , if they want our expertise or advice then we 're more than happy , but not our assets , said Stofan . "
+Ellen Stofan,say.01,I 've heard,,Affirmative,"I 've heard Charlie [ Bolden , the Nasa administrator ] say that , if they want our expertise or advice then we 're more than happy , but not our assets , said Stofan . "

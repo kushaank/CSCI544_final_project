@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,love.01,"Jill Abramson ,",,Affirmative,"Fired ' New York Times ' Editor : ' Losing A Job You Love Hurts ' Jill Abramson , the former executive editor of The New York Times , addressed her sudden and controversial firing during a commencement address at Wake Forest University in Winston - Salem , N.C. , on Monday . "
+you,love.01,hurts,,Affirmative,"Sure , losing a job you love hurts , she admitted . "
+Jill Abramson,revere.01,the work,,Affirmative,"But the work I revered , journalism that holds powerful institutions and people accountable , is what makes our democracy so resilient . "
+journalism,hold.03,powerful institutions and people,,Affirmative,"But the work I revered , journalism that holds powerful institutions and people accountable , is what makes our democracy so resilient . "
+Jill Abramson,say.01,her only concern about speaking at,,Affirmative,She said her only concern about speaking at the university less than a week after her sacking was that the media circus would detract from the graduates ' experience . 
+Jill Abramson,ask.01,What 's next for me,,Affirmative,Then she asked : What 's next for me ? 
+Jill Abramson,receive.01,laughs and,,Affirmative,"She received laughs and long , resounding applause for that line . "
+Jill Abramson,continue.02,", I 'm",,Affirmative,"She continued : And like you , I 'm a little scared and also excited . "
+Jill Abramson,address.02,personal statement from,,Affirmative,She did n't address a very personal statement from Times publisher Arthur Sulzberger Jr . 
+he,fire.01,Abramson,,Affirmative,", who said he fired Abramson over her arbitrary decision - making and public mistreatment of colleagues . "
+Jill Abramson,refer.01,to,,Affirmative,She only obliquely referred to the reports that she was fired from the Times because she was a woman . 
+She,talk.01,about,,Affirmative,She talked about the women in her life who sent her messages of support . 
+the women in,send.01,her messages of support,,Affirmative,She talked about the women in her life who sent her messages of support . 
+Abramson,say.01,sister sent her,,Affirmative,"Abramson said her sister sent her a note the day after the firing , for example , saying their father would be just as proud of her today as he was the day she was named executive editor of the world 's greatest newspaper . "
+her sister,send.01,a note,her,Affirmative,"Abramson said her sister sent her a note the day after the firing , for example , saying their father would be just as proud of her today as he was the day she was named executive editor of the world 's greatest newspaper . "
+It,mean.01,more,to,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+more,see.01,us deal with,,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+us,deal.01,with,,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+us,try.01,to bounce back,,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+we,handle.01,our successes,,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+she,say.01,It meant more to,,Affirmative,"It meant more to our father to see us deal with a setback and try to bounce back than to watch how we handled our successes , she said . "
+he,say.01,Show,,Affirmative,"Show what you are made of , he would say . "
+you,talk.01,about,,Affirmative,She talked about an email she received from the mother of a child killed by a New York taxi cab . 
+she,receive.01,an email,from,Affirmative,She talked about an email she received from the mother of a child killed by a New York taxi cab . 
+by,kill.01,a child killed by,,Affirmative,She talked about an email she received from the mother of a child killed by a New York taxi cab . 
+the child 's mother,meet.03,with,,Affirmative,"She met with the child 's mother , who is pushing for new laws to make streets safer for pedestrians . "
+She,take.01,an unimaginable loss,,Affirmative,"She has taken an unimaginable loss and is already trying to do something constructive , Abramson said . "
+She,try.01,to do something constructive,,Affirmative,"She has taken an unimaginable loss and is already trying to do something constructive , Abramson said . "
+She,do.02,something constructive,,Affirmative,"She has taken an unimaginable loss and is already trying to do something constructive , Abramson said . "
+Abramson,say.01,She has taken,,Affirmative,"She has taken an unimaginable loss and is already trying to do something constructive , Abramson said . "

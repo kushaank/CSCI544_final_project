@@ -1,0 +1,13 @@
+1	The	the	DT	_	2	det	_
+2	discussion	discussion	NN	_	5	nsubjpass	5:A1=GOL
+3	is	be	VBZ	_	5	aux	_
+4	being	be	VBG	_	5	auxpass	_
+5	hosted	host	VBN	pb=host.01	0	root	_
+6	by	by	IN	_	5	agent	5:A0=PAG
+7	the	the	DT	_	11	det	_
+8	U.S.	u.s.	NNP	_	11	nn	_
+9	Global	global	NNP	_	11	nn	_
+10	Leadership	leadership	NNP	_	11	nn	_
+11	Coalition	coalition	NNP	_	6	pobj	_
+12	.	.	.	_	5	punct	_
+

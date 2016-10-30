@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,plead.02,guilty to,,Affirmative,( WSAZ ) -- A man pleaded guilty to federal drug charges Monday in connection with a major federal investigation in Huntington . 
+"Brandon Appleton , 25 , of Rand",plead.02,guilty to,,Affirmative,"Brandon Appleton , 25 , of Rand , pleaded guilty to possession cocaine , and MDMA , also known as Ecstasy , with the intent to distribute them . "
+The DEA,search.01,a home,,Affirmative,The DEA searched a home in the 1800 block of Artisan Avenue in Huntington in January 2014 . 
+a home,belong.01,to,,Affirmative,"The home belonged to Kenneth Dewitt Newton , also known as K - Kutta , who was under federal investigation for drug trafficking . "
+style bag,contain.01,smaller bags of Ecstasy and cocaine,,Affirmative,"Appleton was at the home during the search and was in possession of a sandwich - style bag that contained smaller bags of Ecstasy and cocaine , which he intended to sell . "
+Brandon Appleton,intend.01,to sell,,Affirmative,"Appleton was at the home during the search and was in possession of a sandwich - style bag that contained smaller bags of Ecstasy and cocaine , which he intended to sell . "
+Brandon Appleton,sell.01,smaller bags of Ecstasy and cocaine,,Affirmative,"Appleton was at the home during the search and was in possession of a sandwich - style bag that contained smaller bags of Ecstasy and cocaine , which he intended to sell . "
+Investigators,say.01,Appleton distributed drugs for Newman,,Affirmative,Investigators say Appleton distributed drugs for Newman from December 2013 until the January search . 
+Appleton,distribute.01,drugs,,Affirmative,Investigators say Appleton distributed drugs for Newman from December 2013 until the January search . 
+Brandon Appleton,face.01,20 years in prison,,Affirmative,"Appleton faces up to 20 years in prison , and a $ 1 million fine when he is sentenced in August . "

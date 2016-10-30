@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+Leonard Barstein,mount.01,the electronic beast,,Affirmative,"Leonard Barstein , 25 , a hospital technician from Brooklyn , was partying with friends at the cowboy - themed Johnny Utah 's on W. 51 st Street in February when he mounted the electronic beast for what he thought would be a joy ride . "
+Leonard Barstein,think.01,would be,,Affirmative,"Leonard Barstein , 25 , a hospital technician from Brooklyn , was partying with friends at the cowboy - themed Johnny Utah 's on W. 51 st Street in February when he mounted the electronic beast for what he thought would be a joy ride . "
+Leonard Barstein,fracture.01,his ankle,,Affirmative,"He landed in an un-padded area , fracturing his ankle in multiple places , according to his Manhattan civil suit . "
+Leonard Barstein,say.01,leg is constantly swelling up,,Affirmative,"My leg is constantly swelling up , Barstein said . "
+Leonard Barstein,have.03,surgery,,Affirmative,"He had surgery and now struggles to walk , even with the help of a metal plate that was inserted into his leg . "
+Leonard Barstein,struggle.02,"to walk ,",,Affirmative,"He had surgery and now struggles to walk , even with the help of a metal plate that was inserted into his leg . "
+"attorney ,",say.01,This is,,Affirmative,"This is a very dangerous bull , said Barstein 's attorney , Alexander Karasik , noting the infamous mechanical bronco 's history of roughing up riders . "
+"attorney ,",note.01,history of roughing up riders,,Affirmative,"This is a very dangerous bull , said Barstein 's attorney , Alexander Karasik , noting the infamous mechanical bronco 's history of roughing up riders . "
+"Christopher Haynes ,",fracture.01,his knee,,Affirmative,"Christopher Haynes , who fractured his knee after a brief ride , also sued the watering hole in 2011 and his case is still pending . "
+"Christopher Haynes ,",sue.01,the watering hole,,Affirmative,"Christopher Haynes , who fractured his knee after a brief ride , also sued the watering hole in 2011 and his case is still pending . "
+one victim mediating,mediate.01,the dispute,,Affirmative,Two other suits ended with one victim mediating the dispute out of court and another losing his case because a judge did n't buy his claim that he was drunk when he signed a release . 
+a judge,buy.01,his claim,,Affirmative,Two other suits ended with one victim mediating the dispute out of court and another losing his case because a judge did n't buy his claim that he was drunk when he signed a release . 
+one victim mediating the dispute out of court and another losing his case because a judge,sign.01,a release,,Affirmative,Two other suits ended with one victim mediating the dispute out of court and another losing his case because a judge did n't buy his claim that he was drunk when he signed a release . 
+A rep for,return.02,a message seeking comment,,Affirmative,A rep for Johnny Utah 's did not return a message seeking comment . 
+a message seeking comment,seek.01,comment,,Affirmative,A rep for Johnny Utah 's did not return a message seeking comment . 
+The Yankees,lead.01,the Angels 6-5,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+Mariano Rivera,blow.10,the save,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+"Jeter ,",hit.02,off single,,Affirmative,"Leave it to Jeter , who hits a walk - off single in the ninth inning for a 7-6 Yankees win . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

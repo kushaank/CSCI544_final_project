@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County Sheriff,investigate.01,a fatal accident,,Affirmative,The Lewis County Sheriff is investigating a fatal accident which took place Monday . 
+by,receive.01,a call,,Affirmative,"According to Sheriff Johnny Bivens , at approximately 6 a.m. , a call was received by Lewis County dispatch to respond to an injury accident at the junction of Kentucky 9 and Kentucky 10 . "
+by,operate.01,"a 2014 Chevrolet Impala , operated by",,Affirmative,"Upon arrival , officers found that a 2014 Chevrolet Impala , operated by 26 - year - old Christine Bolder of Chicago , Ill . "
+by,operate.01,"a 2001 Peterbuilt tractor trailer , operated by",,Affirmative,", had pulled out of the Grayson Spur , into the path of a 2001 Peterbuilt tractor trailer , operated by 70 - year - old Jimmy Roberts of Maysville , according to Bivens . "
+The tractor trailer,strike.01,side of,,Affirmative,"The tractor trailer struck the driver 's side of the vehicle , which then hit a rock wall , trapping the driver and 38 - year - old Marquis McKay , who was a passenger in Bolder 's vehicle . "
+"the vehicle ,",hit.02,a rock wall,,Affirmative,"The tractor trailer struck the driver 's side of the vehicle , which then hit a rock wall , trapping the driver and 38 - year - old Marquis McKay , who was a passenger in Bolder 's vehicle . "
+The tractor trailer,trap.01,the driver and,,Affirmative,"The tractor trailer struck the driver 's side of the vehicle , which then hit a rock wall , trapping the driver and 38 - year - old Marquis McKay , who was a passenger in Bolder 's vehicle . "
+he,succumb.01,to,,Affirmative,"McKay was also transported to SOMC , where he succumbed to his injuries . "
+by,assist.01,The LCSO,at,Affirmative,"The LCSO was assisted at the scene by the Black Oak Fire Department , the Lewis County Fire Department , Portsmouth Ambulance Service and the Kentucky Department of Highways . "
+I,agree.01,consitutes agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 
+registration on or use of,consitutes.01,agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 

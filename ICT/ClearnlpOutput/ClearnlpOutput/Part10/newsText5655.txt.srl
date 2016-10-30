@@ -1,0 +1,55 @@
+1	A	a	DT	_	2	det	_
+2	man	man	NN	_	3	nsubj	3:A0;7:A1=PPT
+3	was rushed	was rushed	VBD	p2=VBN|pb=was rushed.01	0	root	_
+4	to hospital	to hospital	JJ	p2=NN	3	acomp	3:A2
+5	after	after	IN	_	3	prep	3:AM-TMP
+6	being	be	VBG	_	7	auxpass	_
+7	assaulted	assault	VBN	pb=assault.01	5	pcomp	_
+8	outside	outside	IN	p2=RB	7	prep	7:AM-LOC
+9	a	a	DT	_	10	det	_
+10	McDonald	mcdonald	NNP	p2=NN	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	restaurant	restaurant	NN	_	8	pobj	_
+13	in	in	IN	_	12	prep	_
+14	Winnipeg	winnipeg	NNP	_	13	pobj	_
+15	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1
+2	happened	happened	VBD	pb=happen.01	0	root	_
+3	just	just	RB	_	4	advmod	_
+4	before	before	IN	p2=RB	5	advmod	_
+5	5:30	0	CD	_	6	num	_
+6	p.m.	p.m.	NN	p2=RB	2	npadvmod	2:AM-TMP
+7	Sunday	sunday	NNP	_	6	appos	_
+8	in	in	IN	_	6	prep	_
+9	the	the	DT	_	11	det	_
+10	parking	parking	NN	_	11	nn	_
+11	lot	lot	NN	_	8	pobj	_
+12	at	at	IN	_	11	prep	_
+13	McPhillips Street	mcphillips street	NNP	_	15	nn	_
+14	and Notre Dame	and notre dame	NNP	_	15	nn	_
+15	Avenue	avenue	NNP	_	12	pobj	_
+16	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	man	man	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	listed	list	VBN	pb=list.01	0	root	_
+5	in	in	IN	_	4	prep	4:AM-MNR
+6	serious	serious	JJ	_	7	amod	_
+7	condition	condition	NN	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Police	police	NNS	_	4	nsubj	4:A0;9:A0=PAG
+2	are	be	VBP	_	4	aux	_
+3	still	still	RB	_	4	advmod	4:AM-TMP
+4	investigating	investigate	VBG	pb=investigate.01	0	root	_
+5	and	and	CC	_	4	cc	_
+6	have	have	VBP	p2=VB	9	aux	_
+7	not	not	RB	_	9	neg	9:AM-NEG
+8	yet	yet	RB	_	9	advmod	9:AM-TMP
+9	made	make	VBN	pb=make.01	4	conj	_
+10	any	any	DT	_	11	det	_
+11	arrests	arrest	NNS	_	9	dobj	9:A1=PRD
+12	.	.	.	_	4	punct	_
+

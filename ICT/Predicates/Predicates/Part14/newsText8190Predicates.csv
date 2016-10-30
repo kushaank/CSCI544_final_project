@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+city Councilman Eric Mays from a meeting for the second time,clash.01,with,,Affirmative,"With council meeting to discuss a proposal to sell a section of water transmission line to Genesee County for $ 3.9 million , Mays clashed with council President Scott Kincaid , who called police to remove Mays after ruling him out of order . "
+"President Scott Kincaid ,",call.02,police,to remove Mays after ruling him out of order,Affirmative,"With council meeting to discuss a proposal to sell a section of water transmission line to Genesee County for $ 3.9 million , Mays clashed with council President Scott Kincaid , who called police to remove Mays after ruling him out of order . "
+police,remove.01,city Councilman Eric Mays from a meeting for the second time,,Affirmative,"With council meeting to discuss a proposal to sell a section of water transmission line to Genesee County for $ 3.9 million , Mays clashed with council President Scott Kincaid , who called police to remove Mays after ruling him out of order . "
+by,approve.01,minute recess,,Affirmative,Two uniformed officers approached the 1 st Ward councilman but pulled back from removing Mays after a 20 minute recess was approved by the council . 
+he and Mays,argue.02,over,,Affirmative,"Kincaid 's call for police came after he and Mays argued over how the meeting was being run , including what order Kincaid was recognizing his colleagues to speak . "
+Kincaid,recognize.01,his colleagues,,Affirmative,"Kincaid 's call for police came after he and Mays argued over how the meeting was being run , including what order Kincaid was recognizing his colleagues to speak . "
+city Councilman Eric Mays from a meeting for the second time,let.01,you lie to,,Affirmative,"I 'm not going to let you lie to these people Scott , Mays said to Kincaid . "
+city Councilman Eric Mays from a meeting for the second time,say.01,I 'm not going,to Kincaid,Affirmative,"I 'm not going to let you lie to these people Scott , Mays said to Kincaid . "
+you,rule.03,the council,,Affirmative,You do n't rule this council . 
+Scott Kincaid,run.01,"the meeting , not you",,Affirmative,"I 'm running the meeting , not you , Kincaid told Mays before calling for police . "
+Scott Kincaid,tell.01,I 'm running,Mays,Affirmative,"I 'm running the meeting , not you , Kincaid told Mays before calling for police . "
+city Councilman Eric Mays from a meeting for the second time,call.03,for police,,Affirmative,"I 'm running the meeting , not you , Kincaid told Mays before calling for police . "
+Two uniformed officers,respond.01,to,,Affirmative,The clash is the second this month in which officers responded to Kincaid 's request to remove Mays from a council meeting . 
+city Councilman Eric Mays from a meeting for the second time,say.01,he was embarrassed by,,Affirmative,"After a 20 - minute recess , Mays said he was embarrassed by what happened here today . "
+city Councilman Eric Mays from a meeting for the second time,criticize.01,Kincaid,for allowing,Affirmative,He criticized Kincaid for allowing emergency manager Darnell Earley to leave the meeting shortly after it started -- even as Mays attempted to question him . 
+Kincaid,allow.01,Earley to leave,,Affirmative,He criticized Kincaid for allowing emergency manager Darnell Earley to leave the meeting shortly after it started -- even as Mays attempted to question him . 
+manager Darnell Earley,leave.01,"the meeting , not you",,Affirmative,He criticized Kincaid for allowing emergency manager Darnell Earley to leave the meeting shortly after it started -- even as Mays attempted to question him . 
+city Councilman Eric Mays from a meeting for the second time,attempt.01,to question him,,Affirmative,He criticized Kincaid for allowing emergency manager Darnell Earley to leave the meeting shortly after it started -- even as Mays attempted to question him . 
+this month,mark.01,the first time,,Affirmative,This month does n't mark the first time police have been called to remove Mays from a council meeting . 
+Police,remove.01,city Councilman Eric Mays from a meeting for the second time,from,Affirmative,This month does n't mark the first time police have been called to remove Mays from a council meeting . 
+by police,escort.01,Mays was  escorted by police,,Affirmative,"Before he was elected , Mays was  escorted by police  out of a 2012 public hearing at City Hall after speaking out against proposed tax abatements for downtown Flint buildings . "
+an assistant city attorney,ask.02,to take,Mays,Affirmative,"In that case , an assistant city attorney asked Mays to take his seat after he continued talking beyond a 3 - minute per - person time limit . "
+city Councilman Eric Mays from a meeting for the second time,take.01,his seat,,Affirmative,"In that case , an assistant city attorney asked Mays to take his seat after he continued talking beyond a 3 - minute per - person time limit . "
+city Councilman Eric Mays from a meeting for the second time,continue.01,talking beyond,,Affirmative,"In that case , an assistant city attorney asked Mays to take his seat after he continued talking beyond a 3 - minute per - person time limit . "
+city Councilman Eric Mays from a meeting for the second time,he was convicted.01,of,,Affirmative,"Mays refused , and he was convicted of a misdemeanor charge of disrupting a public meeting in 2013 as a result and was sentenced to pay $ 425 in fines and court costs . "
+city Councilman Eric Mays from a meeting for the second time,pay.01,$ 425 in fines and,,Affirmative,"Mays refused , and he was convicted of a misdemeanor charge of disrupting a public meeting in 2013 as a result and was sentenced to pay $ 425 in fines and court costs . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

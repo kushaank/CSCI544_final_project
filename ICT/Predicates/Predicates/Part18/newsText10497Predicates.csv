@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+7 a.m.,pose.02,many problems,,Affirmative,"May 19 , 2014 , 7 a.m. UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . "
+a free program,help.01,to ease some of,,Affirmative,"May 19 , 2014 , 7 a.m. UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . "
+a free program,ease.02,some of,,Affirmative,"May 19 , 2014 , 7 a.m. UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . "
+UNPLANNED pregnancies among teens and,pose.02,many problems,,Affirmative,UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . 
+a free program,help.01,to ease some of,,Affirmative,UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . 
+a free program,ease.02,some of,,Affirmative,UNPLANNED pregnancies among teens and young women can pose many problems but a free program is helping to ease some of the stresses of early motherhood . 
+"Samantha Fulton , 22 , of",use.01,the mentoring service,,Affirmative,"Samantha Fulton , 22 , of Brighton - Le - Sands , has used the mentoring service for six months . "
+"Samantha Fulton , 22 , of Brighton-Le-Sands",say.01,mother died,,Affirmative,"My mother died three months before my baby was born , she said . "
+"Samantha Fulton , 22 , of Brighton-Le-Sands",feel.01,so alone,,Affirmative,The pregnancy was unplanned and I felt so alone when my mother died . 
+you,want.01,her to tell you,,Affirmative,You want her to tell you that you are doing a good job . 
+My mother,tell.01,that you are doing,you,Affirmative,You want her to tell you that you are doing a good job . 
+you,do.02,a good job,,Affirmative,You want her to tell you that you are doing a good job . 
+Christina Scala,know.01,you have been through,,Affirmative,She knows what you have been through and she gives you the chance to talk more personally about the past . 
+Christina Scala,give.01,the chance,you,Affirmative,She knows what you have been through and she gives you the chance to talk more personally about the past . 
+"Samantha Fulton , 22 , of Brighton-Le-Sands",say.01,I can open up to her,,Affirmative,"I can open up to her , Ms Fulton said . "
+The young mothers,receive.01,a TAFE certificate,,Affirmative,The young mothers receive a TAFE certificate after a year . 
+Ms Scala,say.01,program helped,,Affirmative,Ms Scala said the program helped her give something back to the community . 
+a free program,help.01,her give something back to,,Affirmative,Ms Scala said the program helped her give something back to the community . 
+Ms Scala,give.01,something,,Affirmative,Ms Scala said the program helped her give something back to the community . 
+Ms Scala,hope.01,I give,,Affirmative,I listen and chat and hope I give sensible advice . 
+Ms Scala,give.01,sensible advice,,Affirmative,I listen and chat and hope I give sensible advice . 
+Ms Scala,say.01,There 's respect on,,Affirmative,"There 's respect on both sides , she said . "
+Ms Scala,want.01,Samantha to achieve,,Affirmative,I want Samantha to achieve her goals . 
+"Samantha Fulton , 22 , of Brighton-Le-Sands",achieve.01,her goals,,Affirmative,I want Samantha to achieve her goals . 
+The inaugural program in Sydney,have.03,13 graduates,,Affirmative,The inaugural program in Sydney in 2009 had 13 graduates . 
+Mums,refer.02,Mums,,Affirmative,Mums can refer themselves or be invited by community members . 
+by,invite.01,Mums,,Affirmative,Mums can refer themselves or be invited by community members . 

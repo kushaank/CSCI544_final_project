@@ -1,0 +1,12 @@
+1	Solar	solar	NN	p2=JJ	3	amod	_
+2	power	power	NN	_	3	nn	_
+3	news	news	NN	_	0	root	_
+4	and	and	CC	_	3	cc	_
+5	specials	special	NNS	_	3	conj	6:A1=PPT
+6	sent	send	VBN	p2=VBD|pb=send.01	5	partmod	_
+7	directly	directly	RB	_	6	advmod	6:AM-MNR
+8	to	to	IN	_	6	prep	6:A2=GOL
+9	your	your	PRP$	_	10	poss	_
+10	inbox	inbox	NN	_	8	pobj	_
+11	!	!	.	_	5	punct	_
+

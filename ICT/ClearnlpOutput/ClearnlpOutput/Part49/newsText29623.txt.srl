@@ -1,0 +1,64 @@
+1	A	a	DT	p2=NN	2	det	_
+2	tornado	tornado	NN	_	3	nsubj	3:A0=PAG
+3	destroyed	destroy	VBD	p2=VBN|pb=destroy.01	0	root	_
+4	a	a	DT	_	5	det	_
+5	swath	swath	NN	_	3	dobj	3:A1=PPT
+6	of	of	IN	_	5	prep	_
+7	Moore	moore	NNP	_	6	pobj	_
+8	on	on	IN	_	3	prep	3:AM-TMP
+9	May	may	NNP	_	8	pobj	_
+10	20	0	CD	_	9	num	_
+11	,	,	,	_	9	punct	_
+12	2014	0	CD	_	9	num	_
+13	.	.	.	_	3	punct	_
+
+1	Take	take	VB	pb=take.LV	0	root	_
+2	a	a	DT	_	3	det	_
+3	look	look	NN	_	1	dobj	1:AM-PRR
+4	at	at	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	amazing	amazing	JJ	_	7	amod	_
+7	pace	pace	NN	_	4	pobj	_
+8	of	of	IN	_	7	prep	_
+9	rebuilding	rebuild	VBG	p2=NN|pb=rebuild.01	8	pcomp	_
+10	.	.	.	_	1	punct	_
+
+1	Already	already	RB	_	4	advmod	_
+2	a	a	DT	_	4	det	_
+3	paid	pay	VBN	p2=JJ|pb=pay.01	4	amod	_
+4	subscriber	subscriber	NN	_	0	root	3:A1=VSP
+5	but	but	CC	p2=IN	4	cc	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	registered	register	VBN	p2=VBD|pb=register.02	4	conj	_
+8	for	for	IN	_	7	prep	7:A2=GOL
+9	online	online	JJ	_	10	amod	_
+10	access	access	NN	_	8	pobj	_
+11	yet	yet	RB	_	7	advmod	7:AM-TMP
+12	?	?	.	_	4	punct	_
+
+1	For	for	IN	_	11	prep	11:R-AM-PRP
+2	instructions	instruction	NNS	_	1	pobj	_
+3	on	on	IN	_	2	prep	_
+4	how	how	WRB	_	6	advmod	6:R-AM-MNR
+5	to	to	TO	_	6	aux	_
+6	get	get	VB	pb=get.01	3	pcomp	_
+7	premium	premium	NN	p2=JJ	9	nn	_
+8	web	web	NN	_	9	nn	_
+9	access	access	NN	_	6	dobj	6:A1=PPT
+10	,	,	,	_	11	punct	_
+11	click	click	VB	p2=NN|pb=click.01	0	root	_
+12	here	here	RB	_	11	advmod	11:AM-LOC
+13	.	.	.	_	11	punct	_
+
+1	Sorry	sorry	UH	_	7	intj	7:AM-DIS
+2	,	,	,	_	7	punct	_
+3	your	your	PRP$	_	4	poss	_
+4	blog	blog	NN	_	7	nsubj	7:A0=PAG
+5	can	can	MD	_	7	aux	7:AM-MOD
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	share	share	VB	pb=share.01	0	root	_
+8	posts	post	NNS	_	7	dobj	7:A1=PPT
+9	by	by	IN	_	7	prep	7:AM-MNR
+10	email	email	NN	_	9	pobj	_
+11	.	.	.	_	7	punct	_
+

@@ -1,0 +1,53 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Sen. Mark Begich , D-Alaska , for taking campaign cash from the Koch brothers",say.01,has taken,,Affirmative,Says Mark Begich has taken campaign cash from the Kochs while Dan Sullivan hasn't . 
+"Dan Sullivan ,",release.01,radio ad attacking,,Affirmative,"Dan Sullivan , former Alaska attorney general , released an April 29 radio ad attacking Sen. Mark Begich , D - Alaska , for taking campaign cash from the Koch brothers . "
+radio ad attacking,attack.01,"Sen. Mark Begich ,",,Affirmative,"Dan Sullivan , former Alaska attorney general , released an April 29 radio ad attacking Sen. Mark Begich , D - Alaska , for taking campaign cash from the Koch brothers . "
+Senate candidate,want.01,to be tied to,,Affirmative,"In Alaska , no U.S. Senate candidate wants to be tied to the billionaire Koch brothers . "
+ads between,have.03,both slung accusations of,,Affirmative,"Back - and - forth ads between incumbent Mark Begich , a Democrat , and former Attorney General Dan Sullivan , a Republican frontrunner , have both slung accusations of Koch affiliation . "
+A pro-Begich super PAC,put.01,"Alaska First , fired",,Affirmative,"A pro-Begich super PAC , Put Alaska First , fired the first shot in April . "
+"Alaska First , fired",fire.03,the first shot in April,,Affirmative,"A pro-Begich super PAC , Put Alaska First , fired the first shot in April . "
+A pro-Begich super PAC,release.01,"the ad Lost ,",,Affirmative,"It released the ad Lost , which criticized Sullivan for not doing enough to prevent the Koch - owned refinery from closing , resulting in a loss of 80 jobs . "
+"the ad Lost ,",criticize.01,former Attorney General Dan Sullivan,for,Affirmative,"It released the ad Lost , which criticized Sullivan for not doing enough to prevent the Koch - owned refinery from closing , resulting in a loss of 80 jobs . "
+former Attorney General Dan Sullivan,do.02,enough,,Affirmative,"It released the ad Lost , which criticized Sullivan for not doing enough to prevent the Koch - owned refinery from closing , resulting in a loss of 80 jobs . "
+"an April 29 radio ad attacking Sen. Mark Begich , D-Alaska , for taking campaign cash from the Koch brothers",say.01,Sullivan remains silent about,,Affirmative,"Dan Sullivan remains silent about the jobs being lost here , the ad said . "
+"the Koch brothers ,",support.01,his campaign,,Affirmative,"And those same billionaires , the Koch brothers , are supporting his campaign . "
+former Attorney General Dan Sullivan,release.01,a radio ad,,Affirmative,"The next week Sullivan released a radio ad : Dan Sullivan has never taken a dime from the Koch brothers , the narrator said . "
+former Attorney General Dan Sullivan,take.01,a dime from,,Affirmative,"The next week Sullivan released a radio ad : Dan Sullivan has never taken a dime from the Koch brothers , the narrator said . "
+the narrator,say.01,week Sullivan released,,Affirmative,"The next week Sullivan released a radio ad : Dan Sullivan has never taken a dime from the Koch brothers , the narrator said . "
+Begich,take.01,campaign cash,from,Affirmative,It 's Begich who has taken campaign cash from the Kochs . 
+we,decide.01,to fact,,Affirmative,So we decided to fact - check whether the attack was accurate . 
+we,check.01,attack was accurate,,Affirmative,So we decided to fact - check whether the attack was accurate . 
+Our colleagues at FactCheck.org,point.02,although Sullivan has n't accepted money directly from,,Affirmative,"Our colleagues at FactCheck.org pointed out that although Sullivan has n't accepted money directly from the Koch brothers or their affiliates , the Koch - backed Americans For Prosperity has spent nearly $ 1 million on Begich attack ads . "
+former Attorney General Dan Sullivan,accept.01,money,from,Affirmative,"Our colleagues at FactCheck.org pointed out that although Sullivan has n't accepted money directly from the Koch brothers or their affiliates , the Koch - backed Americans For Prosperity has spent nearly $ 1 million on Begich attack ads . "
+former Attorney General Dan Sullivan,receive.01,Koch funds,,Affirmative,"Sullivan is n't receiving those funds , but he does benefit from an attack on his opponent that ca n't be legally coordinated directly between the candidate and the group . "
+from,benefit.01,former Attorney General Dan Sullivan,,Affirmative,"Sullivan is n't receiving those funds , but he does benefit from an attack on his opponent that ca n't be legally coordinated directly between the candidate and the group . "
+we,find.01,gave,,Affirmative,"As for Begich , we found that KochPAC , a Koch Industries group , gave $ 5,000 to Begich 's Great Land PAC back in 2010 . "
+"KochPAC ,",give.01,"$ 5,000",to,Affirmative,"As for Begich , we found that KochPAC , a Koch Industries group , gave $ 5,000 to Begich 's Great Land PAC back in 2010 . "
+PAC,give.01,money,to candidates,Affirmative,"Begich 's PAC primarily gives money to candidates , as well as state and federal Democratic parties . "
+the Kochs,give.01,money,to,Affirmative,"In 2010 , the Kochs also gave money to Democratic senators like Mary Landrieu , Mark Pryor and Chuck Schumer . "
+Democratic senators,give.01,any money,to,Affirmative,"In 2013 and 2014 , they have n't given any money to Democratic Senate candidates , and just three Democratic House candidates . "
+"Responsive Politics ,",run.01,OpenSecrets.org,,Affirmative,"A spokeswoman for the nonpartisan Center for Responsive Politics , which runs OpenSecrets.org , said she 'd be surprised to see much Koch money going to Democrats this cycle . "
+A spokeswoman for,say.01,she 'd be surprised,,Affirmative,"A spokeswoman for the nonpartisan Center for Responsive Politics , which runs OpenSecrets.org , said she 'd be surprised to see much Koch money going to Democrats this cycle . "
+"A spokeswoman for the nonpartisan Center for Responsive Politics , which runs OpenSecrets.org",see.01,money going to Democrats,,Affirmative,"A spokeswoman for the nonpartisan Center for Responsive Politics , which runs OpenSecrets.org , said she 'd be surprised to see much Koch money going to Democrats this cycle . "
+Industries spokesman,tell.01,that KochPAC does n't base,Politico,Affirmative,"A Koch Industries spokesman told Politico in March 2014 that KochPAC does n't base its donations on the candidate 's party , but rather on the company 's business and policy interests . "
+KochPAC,base.02,its donations,on,Affirmative,"A Koch Industries spokesman told Politico in March 2014 that KochPAC does n't base its donations on the candidate 's party , but rather on the company 's business and policy interests . "
+former Attorney General Dan Sullivan,say.01,Begich has taken,,Affirmative,Sullivan said Mark Begich has taken campaign cash from the Kochs but that Sullivan has n't taken a dime . 
+"Sen. Mark Begich , D-Alaska , for taking campaign cash from the Koch brothers",take.01,campaign cash,from,Affirmative,Sullivan said Mark Begich has taken campaign cash from the Kochs but that Sullivan has n't taken a dime . 
+former Attorney General Dan Sullivan,take.01,a dime,,Affirmative,Sullivan said Mark Begich has taken campaign cash from the Kochs but that Sullivan has n't taken a dime . 
+KochPAC,donate.01,"$ 5,000",to,Affirmative,"In 2010 , KochPAC donated $ 5,000 to a Begich - affiliated PAC . "
+former Attorney General Dan Sullivan,receive.01,money,from,Affirmative,"While Sullivan has n't received money directly from the Kochs , he and Begich 's other Republican challengers certainly benefit from the much larger TV ad buys by Koch - affiliated groups attacking the Democrat . "
+from,benefit.01,he and,,Affirmative,"While Sullivan has n't received money directly from the Kochs , he and Begich 's other Republican challengers certainly benefit from the much larger TV ad buys by Koch - affiliated groups attacking the Democrat . "
+affiliated groups attacking,attack.01,the Democrat,,Affirmative,"While Sullivan has n't received money directly from the Kochs , he and Begich 's other Republican challengers certainly benefit from the much larger TV ad buys by Koch - affiliated groups attacking the Democrat . "
+Koch,fund.01,funded group,,Affirmative,"A Koch - funded group , Americans For Prosperity , has spent nearly $ 1 million in Alaska benefiting Sullivan and other Republicans in the race . "
+funded group,spend.01,benefiting Sullivan and,,Affirmative,"A Koch - funded group , Americans For Prosperity , has spent nearly $ 1 million in Alaska benefiting Sullivan and other Republicans in the race . "
+We,rate.01,this claim,,Affirmative,We rate this claim Mostly False . 
+We,want.01,to hear,,Affirmative,We want to hear your suggestions and comments . 
+We,hear.01,your suggestions and comments,,Affirmative,We want to hear your suggestions and comments . 
+you,comment.01,on,,Affirmative,"If you are commenting on a specific promise , please include the wording of the promise . "
+We,see.01,any chain e-mails,,Affirmative,We 're especially interested in seeing any chain e-mails you receive that you would like us to check out . 
+you,receive.01,that you would like us,,Affirmative,We 're especially interested in seeing any chain e-mails you receive that you would like us to check out . 
+you,send.01,a comment,us,Affirmative,"If you send us a comment , we 'll assume you do n't mind us publishing it unless you tell us otherwise . "
+We,assume.01,you do n't mind,,Affirmative,"If you send us a comment , we 'll assume you do n't mind us publishing it unless you tell us otherwise . "
+you,mind.01,us publishing it,,Affirmative,"If you send us a comment , we 'll assume you do n't mind us publishing it unless you tell us otherwise . "
+We,publish.01,a comment,,Affirmative,"If you send us a comment , we 'll assume you do n't mind us publishing it unless you tell us otherwise . "
+you,tell.01,otherwise,us,Affirmative,"If you send us a comment , we 'll assume you do n't mind us publishing it unless you tell us otherwise . "

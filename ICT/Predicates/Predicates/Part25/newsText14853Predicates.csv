@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old police officer,shoot.03,a man,,Affirmative,"A 50 - year - old police officer fatally shot a man who attempted to rob him late Sunday night in a parking lot , authorities said . "
+a man,attempt.01,to rob him,,Affirmative,"A 50 - year - old police officer fatally shot a man who attempted to rob him late Sunday night in a parking lot , authorities said . "
+a man,rob.01,A 50-year-old police officer,,Affirmative,"A 50 - year - old police officer fatally shot a man who attempted to rob him late Sunday night in a parking lot , authorities said . "
+authorities,say.01,officer fatally shot,,Affirmative,"A 50 - year - old police officer fatally shot a man who attempted to rob him late Sunday night in a parking lot , authorities said . "
+A 50-year-old police officer,tell.01,he was loading,investigators,Affirmative,"According to a Little Rock police incident report , the officer told investigators he was loading a bike onto the back of an SUV in the Vantage Point apartments parking lot at 2300 Rebsamen Park Road about 11:30 p.m. when Allen came up behind him and placed a gun to the back of his head . "
+A 50-year-old police officer,load.01,a bike,onto,Affirmative,"According to a Little Rock police incident report , the officer told investigators he was loading a bike onto the back of an SUV in the Vantage Point apartments parking lot at 2300 Rebsamen Park Road about 11:30 p.m. when Allen came up behind him and placed a gun to the back of his head . "
+21-year-old Juvon Allen,place.01,a gun,to,Affirmative,"According to a Little Rock police incident report , the officer told investigators he was loading a bike onto the back of an SUV in the Vantage Point apartments parking lot at 2300 Rebsamen Park Road about 11:30 p.m. when Allen came up behind him and placed a gun to the back of his head . "
+21-year-old Juvon Allen,hit.01,him,,Affirmative,"The officer turned and swung at Allen , and Allen hit him in the mouth before the officer pulled his off duty weapon and opened fire , the report said . "
+A 50-year-old police officer,pull.01,his off duty weapon,,Affirmative,"The officer turned and swung at Allen , and Allen hit him in the mouth before the officer pulled his off duty weapon and opened fire , the report said . "
+A 50-year-old police officer,open.01,fire,,Affirmative,"The officer turned and swung at Allen , and Allen hit him in the mouth before the officer pulled his off duty weapon and opened fire , the report said . "
+a Little Rock police incident report,say.01,officer turned and swung at Allen,,Affirmative,"The officer turned and swung at Allen , and Allen hit him in the mouth before the officer pulled his off duty weapon and opened fire , the report said . "
+21-year-old Juvon Allen,hit.01,a parked vehicle,,Affirmative,"Allen fled but turned back a short time later and fired toward the officer , hitting a parked vehicle , the report said . "
+a Little Rock police incident report,say.01,Allen fled but turned back,,Affirmative,"Allen fled but turned back a short time later and fired toward the officer , hitting a parked vehicle , the report said . "
+You,login.01,to make comments,,Affirmative,You must login to make comments . 
+"May 19 , 2014 at",need.01,a good course,,Affirmative,"May 19 , 2014 at 12:13 p.m. Thug schools need a good course in being able to identify an off duty cop . "
+Thugs,need.01,to get,,Affirmative,Thugs need to get a job instead of robbing . 
+Thugs,get.01,a job,,Affirmative,Thugs need to get a job instead of robbing . 
+we,need.01,to shoot about,,Affirmative,now we need to shoot about a dozen or so more like that ! 
+we,shoot.03,about,,Affirmative,now we need to shoot about a dozen or so more like that ! 
+"May 19 , 2014 at",tell.01,officer saved,much money,Affirmative,"May 19 , 2014 at 1:31 p.m. No telling how much money this officer saved Little Rock . "
+this officer,save.02,Little Rock,,Affirmative,"May 19 , 2014 at 1:31 p.m. No telling how much money this officer saved Little Rock . "
+We all,save.02,the expense of trials and incarceration for,,Affirmative,We all saved the expense of trials and incarceration for this perp . 
+express,write.01,written permission of,,Affirmative,"This document may not be reprinted without the express written permission of Arkansas Democrat - Gazette , Inc . "

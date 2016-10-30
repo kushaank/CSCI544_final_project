@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+General Eric Holder,announce.01,bank pleaded guilty to aiding,,Affirmative,"Attorney General Eric Holder announced Monday the Swiss bank pleaded guilty to aiding US tax cheats , making it the first financial institution to do so in decades . "
+the Swiss bank,plead.02,guilty to aiding,,Affirmative,"Attorney General Eric Holder announced Monday the Swiss bank pleaded guilty to aiding US tax cheats , making it the first financial institution to do so in decades . "
+the Swiss bank,aid.01,US tax cheats,,Affirmative,"Attorney General Eric Holder announced Monday the Swiss bank pleaded guilty to aiding US tax cheats , making it the first financial institution to do so in decades . "
+the Swiss bank,make.02,it the first financial institution,,Affirmative,"Attorney General Eric Holder announced Monday the Swiss bank pleaded guilty to aiding US tax cheats , making it the first financial institution to do so in decades . "
+the Swiss bank,admit.01,guilt,,Affirmative,"While the bank admitted guilt and will pay a $ 2.6 billion fine and be subject to increased regulatory supervision , it will continue to do business in the US , Holder said . "
+the Swiss bank,pay.01,billion fine,,Affirmative,"While the bank admitted guilt and will pay a $ 2.6 billion fine and be subject to increased regulatory supervision , it will continue to do business in the US , Holder said . "
+the Swiss bank,continue.01,to do business in,,Affirmative,"While the bank admitted guilt and will pay a $ 2.6 billion fine and be subject to increased regulatory supervision , it will continue to do business in the US , Holder said . "
+the Swiss bank,do.02,business,,Affirmative,"While the bank admitted guilt and will pay a $ 2.6 billion fine and be subject to increased regulatory supervision , it will continue to do business in the US , Holder said . "
+Attorney General Eric Holder,say.01,", it will continue",,Affirmative,"While the bank admitted guilt and will pay a $ 2.6 billion fine and be subject to increased regulatory supervision , it will continue to do business in the US , Holder said . "
+license,have.03,major financial repercussions,,Affirmative,"The toothless decision was expected because revoking Credit Suisse 's license would have had major financial repercussions , according to one lawyer before the plea was announced . "
+the Swiss bank,pay.01,$ 780 million,,Affirmative,"The bank paid $ 780 million and agreed to a deferred prosecution deal , which essentially shielded the company from guilt . "
+the Swiss bank,agree.01,to,,Affirmative,"The bank paid $ 780 million and agreed to a deferred prosecution deal , which essentially shielded the company from guilt . "
+"a deferred prosecution deal ,",shield.01,the company,from guilt,Affirmative,"The bank paid $ 780 million and agreed to a deferred prosecution deal , which essentially shielded the company from guilt . "
+the Swiss bank,plead.02,guilty to,,Affirmative,The Swiss bank pleaded guilty to a single charge of tax evasion . 
+the Swiss bank,conspire.01,to hide,,Affirmative,"It conspired to hide Americans ' money in secret offshore accounts so they would n't have to pay US taxes , Holder said . "
+the Swiss bank,hide.01,money,,Affirmative,"It conspired to hide Americans ' money in secret offshore accounts so they would n't have to pay US taxes , Holder said . "
+they,pay.01,US taxes,,Affirmative,"It conspired to hide Americans ' money in secret offshore accounts so they would n't have to pay US taxes , Holder said . "
+Holder,say.01,It conspired,,Affirmative,"It conspired to hide Americans ' money in secret offshore accounts so they would n't have to pay US taxes , Holder said . "
+Holder,say.01,were involved,,Affirmative,"Hundreds of employees were involved , Holder said . "
+One part of,hide.01,funds,,Affirmative,One part of the bank had been hiding funds for as long as a century . 
+the top US law man,say.01,", documents were destroyed in order",,Affirmative,"Along the way , documents were destroyed in order to hide evidence , the top US law man said . "
+the Swiss bank,pay.01,$ 715 million of,to,Affirmative,The bank will pay $ 715 million of the fine to the New York state regulators . 
+"top regulator ,",press.01,Credit Suisse 's,to fire,Affirmative,"The state 's top regulator , Benjamin Lawsky , is pressing Credit Suisse to fire any employees who were involved in the scheme . "
+Credit Suisse 's,fire.01,any employees,,Affirmative,"The state 's top regulator , Benjamin Lawsky , is pressing Credit Suisse to fire any employees who were involved in the scheme . "
+Benjamin Lawsky,intend.01,to install,,Affirmative,Lawsky intends to install an aggressive and fair monitor who will report directly to [ his office ] in order to further address the deficiencies at the bank . 
+Benjamin Lawsky,install.01,monitor,,Affirmative,Lawsky intends to install an aggressive and fair monitor who will report directly to [ his office ] in order to further address the deficiencies at the bank . 
+Benjamin Lawsky,say.01,was,,Affirmative,"Facilitating tax evasion was a strategy and business model that the firm engaged in for decades , Lawsky said in a statement . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

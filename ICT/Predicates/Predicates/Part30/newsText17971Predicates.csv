@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+We,notice.01,that you found,,Affirmative,We noticed that you found this article on Facebook . 
+you,find.01,this article on Facebook,,Affirmative,We noticed that you found this article on Facebook . 
+"born historian , professor and philanthropist",intrigue.01,American popular culture,,Affirmative,"BUCHAREST , Romania ( AP ) - He was a Romanian - born historian , professor and philanthropist who intrigued American popular culture by writing a book linking the fictional Count Dracula to the 15th - century Romanian prince Vlad the Impaler . "
+a book linking,link.01,the fictional Count Dracula,,Affirmative,"BUCHAREST , Romania ( AP ) - He was a Romanian - born historian , professor and philanthropist who intrigued American popular culture by writing a book linking the fictional Count Dracula to the 15th - century Romanian prince Vlad the Impaler . "
+his son John Florescu,write.01,dozen books,,Affirmative,"Florescu wrote a dozen books but was most famous for In Search of Dracula , which he co-authored with Raymond T. McNally in 1972 . "
+the fictional Count Dracula,co-author.01,Search of Dracula,with,Affirmative,"Florescu wrote a dozen books but was most famous for In Search of Dracula , which he co-authored with Raymond T. McNally in 1972 . "
+his son John Florescu,assert.03,Stoker based,,Affirmative,"In it , he asserted that Irish author Bram Stoker based the Dracula character in his 1897 novel on Vlad the Impaler . "
+author Bram Stoker,base.02,the Dracula character,,Affirmative,"In it , he asserted that Irish author Bram Stoker based the Dracula character in his 1897 novel on Vlad the Impaler . "
+the pair,write.01,five more books,,Affirmative,Florescu 's work was translated into 15 languages and the pair went on to write five more books on Dracula . 
+No American,educate.01,more Americans about Romania,,Affirmative,No American has educated more Americans about Romania - and Dracula - than Professor Florescu . 
+"Jim Rosapepe ,",say.01,I was lucky,,Affirmative,"I was lucky to be one of his grateful students , said Jim Rosapepe , a former U.S. ambassador to Romania . "
+His son,say.01,Florescu was,,Affirmative,"His son said Florescu was the director of the East European Research Center at Boston College , which he founded , from 1986 to 2008 . "
+his son John Florescu,found.01,the East European Research Center at,,Affirmative,"His son said Florescu was the director of the East European Research Center at Boston College , which he founded , from 1986 to 2008 . "
+His son,provided.01,scholarships,,Affirmative,"In recent years , he provided scholarships for gifted Romanian students to study in the Boston area . "
+President Richard Nixon,visit.01,Romania,,Affirmative,"When former President Richard Nixon visited Romania in 1969 , Florescu directed the U.S. Embassy media liaison , providing information for the White House press corps . "
+his son John Florescu,direct.01,Embassy media liaison,,Affirmative,"When former President Richard Nixon visited Romania in 1969 , Florescu directed the U.S. Embassy media liaison , providing information for the White House press corps . "
+his son John Florescu,provide.01,information,for,Affirmative,"When former President Richard Nixon visited Romania in 1969 , Florescu directed the U.S. Embassy media liaison , providing information for the White House press corps . "
+royal house,send.01,condolences,,Affirmative,"Romania 's royal house sent condolences Monday on behalf of former Romanian King Michael , who was forced to abdicate in 1947 by the Communist - led government . "

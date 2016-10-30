@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mark Twain Naming,name.01,Honour Scrapped,For,Affirmative,Mark Twain Naming Honour Scrapped For ' Racism ' A plan to name a Lake Tahoe cove after the literary giant is scrapped as a tribe says he was racist towards Native Americans . 
+Mark Twain Naming,say.01,he was racist towards,,Affirmative,Mark Twain Naming Honour Scrapped For ' Racism ' A plan to name a Lake Tahoe cove after the literary giant is scrapped as a tribe says he was racist towards Native Americans . 
+A Native American tribe,scupper.01,a plan,,Affirmative,"A Native American tribe has scuppered a plan to name a cove on Lake Tahoe after Mark Twain , saying the celebrated American author held racist views . "
+A Native American tribe,say.01,author held,,Affirmative,"A Native American tribe has scuppered a plan to name a cove on Lake Tahoe after Mark Twain , saying the celebrated American author held racist views . "
+the celebrated American author,hold.04,racist views,,Affirmative,"A Native American tribe has scuppered a plan to name a cove on Lake Tahoe after Mark Twain , saying the celebrated American author held racist views . "
+the Washoe Tribe of Nevada and California,say.01,Twain does not deserve,,Affirmative,"But the Washoe Tribe of Nevada and California , whose ancestral homeland includes Lake Tahoe , said Twain does not deserve the honour . "
+Mark Twain,deserve.01,the honour,,Affirmative,"But the Washoe Tribe of Nevada and California , whose ancestral homeland includes Lake Tahoe , said Twain does not deserve the honour . "
+Samuel Clemens,have.03,racist views on,,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature ,  Darrel Cruz , head of the tribe 's cultural resource department , said in a letter . "
+Samuel Clemens,capture.01,those views in,,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature ,  Darrel Cruz , head of the tribe 's cultural resource department , said in a letter . "
+" Darrel Cruz , head of",say.01,Clemens had,,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature ,  Darrel Cruz , head of the tribe 's cultural resource department , said in a letter . "
+we,support.01,the notion of giving,,Affirmative,"Therefore , we can not support the notion of giving a place name in Lake Tahoe to Samuel Clemens . "
+Mr Cruz,cite.01,the fact,,Affirmative,Mr Cruz cited among other things the fact that Twain referred to the Washoe as the digger tribe   - a derogatory term applied to some tribes in the West who dug roots for food . 
+Mark Twain,refer.01,to,as,Affirmative,Mr Cruz cited among other things the fact that Twain referred to the Washoe as the digger tribe   - a derogatory term applied to some tribes in the West who dug roots for food . 
+some tribes in,dig.01,roots,,Affirmative,Mr Cruz cited among other things the fact that Twain referred to the Washoe as the digger tribe   - a derogatory term applied to some tribes in the West who dug roots for food . 
+The Nevada State Board on,vote.01,to indefinitely table,,Affirmative,The Nevada State Board on Geographic Names this week voted to indefinitely table the request after hearing opposition from the tribe . 
+The Nevada State Board on,table.01,the request,,Affirmative,The Nevada State Board on Geographic Names this week voted to indefinitely table the request after hearing opposition from the tribe . 
+Supporters of,say.01,cove should be named for Twain,,Affirmative,Supporters of the bid said the cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 . 
+Mark Twain,praise.01,beauty,,Affirmative,Supporters of the bid said the cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 . 
+Mark Twain,visit.01,the lake 's,,Affirmative,Supporters of the bid said the cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 . 

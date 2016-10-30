@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+airline employees and gold smugglers,sneak.01,gold,,Affirmative,Two of the three airline staffers were caught red - handed trying to help smugglers sneak gold out of the airport . 
+airline employees and gold smugglers,leave.01,the premises,,Affirmative,Airline staff who work at the airport are not subjected to security screening when they leave the premises and this loophole was exploited in both cases . 
+Customs officials,intercept.01,Muhammed Abdul Rahiman,,Affirmative,"In the first case on Sunday , Customs officials intercepted Muhammed Abdul Rahiman who had arrived from Dubai . "
+Muhammed Abdul Rahiman who had arrived from Dubai,bring.01,"5 gold bars ,",,Affirmative,"He had brought with him 5 gold bars , each weighing 1 kg . "
+each,weigh.01,1 kg,,Affirmative,"He had brought with him 5 gold bars , each weighing 1 kg . "
+Intelligence Unit,have.03,information,,Affirmative,The Customs Air Intelligence Unit had information that an Air India staffer would aid the said flyer to smuggle the gold . 
+India staffer,aid.01,the said flyer,,Affirmative,The Customs Air Intelligence Unit had information that an Air India staffer would aid the said flyer to smuggle the gold . 
+an Air India staffer,realize.01,he was being followed and fled,,Affirmative,"He realized he was being followed and fled the scene , said a Customs official . "
+an Air India staffer,flee.01,the scene,,Affirmative,"He realized he was being followed and fled the scene , said a Customs official . "
+a Customs official,say.01,He realized,,Affirmative,"He realized he was being followed and fled the scene , said a Customs official . "
+Ramesh Bansode,admit.01,helping,,Affirmative,He admitted helping smugglers clear a 1 kg gold in the past . 
+Ramesh Bansode,help.01,smugglers clear,,Affirmative,He admitted helping smugglers clear a 1 kg gold in the past . 
+airline employees and gold smugglers,clear.03,kg gold,,Affirmative,He admitted helping smugglers clear a 1 kg gold in the past . 
+each,weigh.01,1 kg,,Affirmative,"In the second case , which took place on Monday , a passenger - Mohammed Kunnil Abbas , who came from Dubai was found to be carrying three gold bars , each weighing 1 kg and valued at Rs 76.4 lakh . "
+each weighing 1 kg,have.03,information,,Affirmative,We had information that the smuggler would hand over the gold to a Jet Airways employee . 
+the smuggler,hand.02,the gold,to,Affirmative,We had information that the smuggler would hand over the gold to a Jet Airways employee . 
+each weighing 1 kg,catch.01,Both the airline employee and the flyer,red - handed,Affirmative,"We caught them red - handed , said the official . "
+a Customs official,say.01,We caught them,,Affirmative,"We caught them red - handed , said the official . "
+"Airways staffer ,",name.01,"another Jet staffer ,",,Affirmative,"The Jet Airways staffer , Hamed Lateef Mohammed , was arrested and named another Jet staffer , Puritan Singh , who was also arrested later . "

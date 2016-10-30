@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A BRIDE,lose.03,her husband 's,to meningitis,Affirmative,A BRIDE who lost her husband to meningitis just six weeks after their wedding is determined to educate people about spotting the signs of the potentially deadly disease . 
+A BRIDE,educate.01,people,about spotting,Affirmative,A BRIDE who lost her husband to meningitis just six weeks after their wedding is determined to educate people about spotting the signs of the potentially deadly disease . 
+Jennie Webster,meet.02,her future husband Paul,,Affirmative,Jennie Webster met her future husband Paul in 2006 when they both auditioned at Bolton Little Theatre . 
+their,discover.01,they had more in common,,Affirmative,They soon discovered they had more in common than a love of theatre and romance blossomed . 
+their,have.03,more in common,,Affirmative,They soon discovered they had more in common than a love of theatre and romance blossomed . 
+"Mr Webster , aged 36",start.01,feeling unwell with,,Affirmative,"But just six weeks later , Mr Webster started feeling unwell with what they thought was flu . "
+"Mr Webster , aged 36",feel.01,unwell with,,Affirmative,"But just six weeks later , Mr Webster started feeling unwell with what they thought was flu . "
+office assistant Jennie and van driver Paul,think.01,was flu,,Affirmative,"But just six weeks later , Mr Webster started feeling unwell with what they thought was flu . "
+"Mrs Webster , of",say.01,I remember,,Affirmative,"Mrs Webster , of New Court Drive in Egerton , said : I remember when he fell ill . "
+"Mrs Webster , of New Court Drive in Egerton",remember.01,when he fell ill,,Affirmative,"Mrs Webster , of New Court Drive in Egerton , said : I remember when he fell ill . "
+office assistant Jennie,have.03,the flu,,Affirmative,It was like he had the flu . 
+office assistant Jennie,drink.01,cups of tea,,Affirmative,It was strange because he was still drinking cups of tea and seemed okay . 
+bruises,start.01,appearing on,,Affirmative,"By October 10 , bruises started appearing on her husband 's body and he became confused , so Mrs Webster called an ambulance . "
+"Mrs Webster , of New Court Drive in Egerton",call.01,an ambulance,,Affirmative,"By October 10 , bruises started appearing on her husband 's body and he became confused , so Mrs Webster called an ambulance . "
+doctors,tell.01,to prepare for,Mrs Webster,Affirmative,"Mr Webster , aged 36 , was taken to the high dependency unit at the Royal Bolton Hospital and doctors told Mrs Webster to prepare for the worst . "
+doctors,tell.01,it was meningitis,me,Affirmative,"They told me it was meningitis , Mrs Webster said . "
+"Mr Webster , aged 36",say.01,They told me,,Affirmative,"They told me it was meningitis , Mrs Webster said . "
+"Mrs Webster , of New Court Drive in Egerton",feel.01,guilty,,Affirmative,I felt guilty because I should have picked up on the signs . 
+"Mrs Webster , of New Court Drive in Egerton",pick.04,on,,Affirmative,I felt guilty because I should have picked up on the signs . 
+"Mrs Webster , of New Court Drive in Egerton",spot.01,doctors,,Affirmative,If I 'd spotted them I could have saved him . 
+"Mrs Webster , of New Court Drive in Egerton",save.02,"Mr Webster , aged 36",,Affirmative,If I 'd spotted them I could have saved him . 
+"Mrs Webster , of New Court Drive in Egerton",feel.02,I was,,Affirmative,I felt I was to blame . 
+"Mr Webster , aged 36",lose.03,his fight for life,,Affirmative,"Two days after he was admitted to hospital , Mr Webster lost his fight for life . "
+"Mr Webster , aged 36",write.01,a book about,,Affirmative,"Almost four years on , Mrs Webster has written a book about the impact meningitis has had on her life and how to spot the signs of the illness . "
+people,think.01,meningitis is,,Affirmative,"People think meningitis is just in children and they just expect to see a rash , but it is not like that , she added . "
+children,expect.01,to see,,Affirmative,"People think meningitis is just in children and they just expect to see a rash , but it is not like that , she added . "
+children,see.01,a rash,,Affirmative,"People think meningitis is just in children and they just expect to see a rash , but it is not like that , she added . "
+"Mrs Webster , of New Court Drive in Egerton",add.01,People think,,Affirmative,"People think meningitis is just in children and they just expect to see a rash , but it is not like that , she added . "
+charity Meningitis,raise.01,awareness of,,Affirmative,This week charity Meningitis Now is raising awareness of the viral form of the disease . 
+most people,make.02,a full recovery,,Affirmative,It can be very unpleasant but it is almost never life - threatening and most people will make a full recovery . 
+Patients with,display.01,"mild flu-like symptoms ,",,Affirmative,"Patients with viral meningitis usually display mild flu-like symptoms , such as headaches , fever and generally not feeling very well . "
+by,cause.01,Most cases of,,Affirmative,"Most cases of bacterial meningitis in the UK and Ireland are caused by meningococcal bacteria , which can cause meningitis and septicaemia - the blood poisoning form of the disease . "
+"meningococcal bacteria ,",cause.01,meningitis and septicaemia,,Affirmative,"Most cases of bacterial meningitis in the UK and Ireland are caused by meningococcal bacteria , which can cause meningitis and septicaemia - the blood poisoning form of the disease . "
+people,experience.01,"drowsiness , confusion , seizures or fits ,",,Affirmative,"The early symptoms are similar to that of viral meningitis but , as the condition gets worse , people may experience drowsiness , confusion , seizures or fits , a stiff neck , a rapid breathing rate and a blotchy red rash that does not fade or change colour when a glass is pressed against it . "
+a blotchy red rash,change.01,colour,,Affirmative,"The early symptoms are similar to that of viral meningitis but , as the condition gets worse , people may experience drowsiness , confusion , seizures or fits , a stiff neck , a rapid breathing rate and a blotchy red rash that does not fade or change colour when a glass is pressed against it . "
+by medics as,see.01,Viral meningitis,,Affirmative,Dr Simon Irving is consultant acute physician at the Royal Bolton Hospital explained : Viral meningitis is often seen by medics as a milder form of the disease because bacterial is such a serious illness . 
+an infection of the meninges -LRB- protective membranes -RRB- that surround the brain and spinal cord,cause.01,meninges to become inflamed,,Affirmative,"The infection causes the meninges to become inflamed ( swollen ) , which in some cases can damage the nerves and brain . "
+anyone of,get.01,"meningitis , babies and",,Affirmative,"Although anyone of any age can get meningitis , babies and young children are often affected . "
+"by bacteria ,",cause.01,"Bacterial meningitis ,",,Affirmative,"Bacterial meningitis , which is caused by bacteria , such as Neisseria meningitidis or Streptococcus pneumoniae , and spread through close contact . "
+by viruses,cause.01,"Viral meningitis ,",,Affirmative,"Viral meningitis , which is caused by viruses that can be spread through coughing , sneezing and poor hygiene . "
+We,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+"Mrs Webster , of New Court Drive in Egerton",enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+We,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+We,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+"Mrs Webster , of New Court Drive in Egerton",agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+We,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

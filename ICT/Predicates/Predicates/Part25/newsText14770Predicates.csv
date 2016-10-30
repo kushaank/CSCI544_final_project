@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A POLICE station,throw.01,open,,Affirmative,A POLICE station is throwing open its doors to give people an insight into the day - to - day lives of police officers . 
+A POLICE station,open.01,its doors,,Affirmative,A POLICE station is throwing open its doors to give people an insight into the day - to - day lives of police officers . 
+A POLICE station,give.01,an insight into,people,Affirmative,A POLICE station is throwing open its doors to give people an insight into the day - to - day lives of police officers . 
+Visitors to,view.01,the cells,,Affirmative,"Visitors to the recently refurbished station will be able to view the cells and follow the journey of an arrested person , from being brought into custody , through to being charged or released . "
+Visitors to,follow.02,the journey of,,Affirmative,"Visitors to the recently refurbished station will be able to view the cells and follow the journey of an arrested person , from being brought into custody , through to being charged or released . "
+Staff,demonstrate.01,"forensic examinations , including fingerprinting ,",,Affirmative,"Staff will demonstrate forensic examinations , including fingerprinting , how a prisoner is interviewed and how officers deal with a violent offender . "
+police officers,deal.01,with,,Affirmative,"Staff will demonstrate forensic examinations , including fingerprinting , how a prisoner is interviewed and how officers deal with a violent offender . "
+"Inspector Mick Button , of",say.01,event is,,Affirmative,"Inspector Mick Button , of Darlington 's neighbourhood policing team , said : The event is to promote the fact that we have spent money refurbishing the police station rather than knocking it down to build a new one and we have made some big improvements . "
+an open event,promote.02,the fact,,Affirmative,"Inspector Mick Button , of Darlington 's neighbourhood policing team , said : The event is to promote the fact that we have spent money refurbishing the police station rather than knocking it down to build a new one and we have made some big improvements . "
+Police,spend.02,money,refurbishing,Affirmative,"Inspector Mick Button , of Darlington 's neighbourhood policing team , said : The event is to promote the fact that we have spent money refurbishing the police station rather than knocking it down to build a new one and we have made some big improvements . "
+Police,refurbish.01,Darlington police station,,Affirmative,"Inspector Mick Button , of Darlington 's neighbourhood policing team , said : The event is to promote the fact that we have spent money refurbishing the police station rather than knocking it down to build a new one and we have made some big improvements . "
+Police,knock.02,Darlington police station,,Affirmative,"Inspector Mick Button , of Darlington 's neighbourhood policing team , said : The event is to promote the fact that we have spent money refurbishing the police station rather than knocking it down to build a new one and we have made some big improvements . "
+Police,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+you,enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+Police,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+Police,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+you,agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+Police,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

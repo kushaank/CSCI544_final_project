@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The bulletin,echo.01,words,,Affirmative,"The bulletin , echoing Brown 's words , notes that California has had many more deficit budgets in recent years than positively balanced ones , citing the state 's historic tendency to spend windfall revenues rather than save them . "
+The bulletin,note.01,that California has had,,Affirmative,"The bulletin , echoing Brown 's words , notes that California has had many more deficit budgets in recent years than positively balanced ones , citing the state 's historic tendency to spend windfall revenues rather than save them . "
+California,have.03,deficit budgets,,Affirmative,"The bulletin , echoing Brown 's words , notes that California has had many more deficit budgets in recent years than positively balanced ones , citing the state 's historic tendency to spend windfall revenues rather than save them . "
+balanced ones,cite.01,historic tendency,,Affirmative,"The bulletin , echoing Brown 's words , notes that California has had many more deficit budgets in recent years than positively balanced ones , citing the state 's historic tendency to spend windfall revenues rather than save them . "
+The reserve fund,absorb.01,some state revenues,,Affirmative,The reserve fund would absorb some state revenues and make them available during an economic downturn . 
+The reserve fund,make.02,them available,,Affirmative,The reserve fund would absorb some state revenues and make them available during an economic downturn . 
+by,approve.01,"measure , ACA 1 in",,Affirmative,"Last week 's measure , ACA 1 in the second extraordinary session , was approved overwhelmingly by the Legislature , but still must be ratified by voters in November . "
+by voters,ratify.01,"measure , ACA 1 in",,Affirmative,"Last week 's measure , ACA 1 in the second extraordinary session , was approved overwhelmingly by the Legislature , but still must be ratified by voters in November . "

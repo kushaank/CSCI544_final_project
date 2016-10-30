@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+You,shoot.05,the place,,Affirmative,I 'm going to shoot down the place . 
+"the irate , threatening customer",complain.01,bun was n't fresh,,Affirmative,"The suspect was eating at the Mount Pleasant , S.C. , location with two friends recently when she complained that her cinnamon bun was n't fresh , the Post and Courier reported . "
+the Post and Courier,report.01,suspect was eating at,,Affirmative,"The suspect was eating at the Mount Pleasant , S.C. , location with two friends recently when she complained that her cinnamon bun was n't fresh , the Post and Courier reported . "
+"the irate , threatening customer",start.01,shouting,,Affirmative,"She became angry and started shouting , but stormed out when a manager tried to speak to her , a witness told police according to a report by the New York Daily News . "
+a manager,try.01,to speak to her,,Affirmative,"She became angry and started shouting , but stormed out when a manager tried to speak to her , a witness told police according to a report by the New York Daily News . "
+the woman,threaten.01,to shoot,,Affirmative,"The bad taste of that stale bun must have lingered because the three friends came back later , and the woman threatened to shoot the restaurant 's employees and patrons , police said . "
+the woman,shoot.03,employees and patrons,,Affirmative,"The bad taste of that stale bun must have lingered because the three friends came back later , and the woman threatened to shoot the restaurant 's employees and patrons , police said . "
+police,say.01,must have lingered,,Affirmative,"The bad taste of that stale bun must have lingered because the three friends came back later , and the woman threatened to shoot the restaurant 's employees and patrons , police said . "
+the irate woman,say.01,I 'm going,,Affirmative,"According to the police report , the irate woman said , I 'm going to shoot down the place . "
+the irate woman,shoot.05,the place,,Affirmative,"According to the police report , the irate woman said , I 'm going to shoot down the place . "
+the restaurant 's employees and patrons,call.02,police,,Affirmative,"She left again , along with her friends , when employees called police . "
+police,say.01,they have not found,,Affirmative,"Police said they have not found the suspect , and no one has been arrested . "
+police,find.01,The suspect,,Affirmative,"Police said they have not found the suspect , and no one has been arrested . "
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

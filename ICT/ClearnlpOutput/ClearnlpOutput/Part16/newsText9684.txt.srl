@@ -1,0 +1,25 @@
+1	Your	your	PRP$	_	2	poss	_
+2	views	view	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	important	important	JJ	_	3	acomp	3:A2=PRD
+5	to	to	IN	_	4	prep	_
+6	us	us	PRP	_	5	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	IRIN	irin	NNP	_	4	nsubj	4:A0=PAG
+2	is	be	VBZ	_	4	aux	_
+3	currently	currently	RB	_	4	advmod	4:AM-TMP
+4	reviewing	review	VBG	pb=review.01	0	root	_
+5	its	its	PRP$	_	6	poss	_
+6	work	work	NN	_	4	dobj	4:A1=PPT
+7	and	and	CC	_	4	cc	_
+8	we	we	PRP	_	9	nsubj	9:A0=PAG;11:A0=PAG
+9	need	need	VBP	pb=need.01	4	conj	_
+10	to	to	TO	_	11	aux	_
+11	understand	understand	VB	pb=understand.01	9	xcomp	9:A1=PPT
+12	your	your	PRP$	_	13	poss	_
+13	views	view	NNS	_	11	dobj	11:A1=PPT
+14	and	and	CC	_	13	cc	_
+15	priorities	priority	NNS	_	13	conj	_
+16	.	.	.	_	9	punct	_
+

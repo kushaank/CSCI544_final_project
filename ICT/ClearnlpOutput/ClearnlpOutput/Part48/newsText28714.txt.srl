@@ -1,0 +1,368 @@
+1	Sonia	sonia	NNP	_	6	nsubj	6:A0=PAG
+2	and	and	CC	_	1	cc	_
+3	Rahul	rahul	NNP	_	1	conj	_
+4	do	do	VBP	_	6	aux	_
+5	not	not	RB	_	6	neg	6:AM-NEG
+6	have	have	VB	pb=have.03	21	ccomp	21:A1=PPT
+7	the	the	DT	_	8	det	_
+8	courtesy	courtesy	NN	_	6	dobj	6:A1=PPT
+9	to	to	TO	_	10	aux	_
+10	greet	greet	VB	pb=greet.01	8	infmod	_
+11	the	the	DT	_	12	det	_
+12	person	person	NN	_	10	dobj	15:A0=PAG;10:A1=PPT
+13	who	who	WP	_	15	nsubj	15:R-A0
+14	has	have	VBZ	_	15	aux	_
+15	got	get	VBN	p2=VBD|pb=get.02	12	rcmod	_
+16	such	such	PDT	_	19	predet	_
+17	a	a	DT	_	19	det	_
+18	massive	massive	JJ	_	19	amod	_
+19	mandate	mandate	NN	_	15	dobj	15:A1=PPT
+20	,	,	,	_	21	punct	_
+21	said	say	VBD	pb=say.01	0	root	_
+22	Naidu	naidu	NNP	p2=RB	21	nsubj	21:A0
+23	.	.	.	_	21	punct	_
+
+1	Senior	senior	JJ	p2=NNP	3	amod	_
+2	BJP	bjp	NNP	p2=NN	3	nn	_
+3	leader	leader	NN	_	5	nn	_
+4	M	m	NNP	_	5	nn	_
+5	Venkaiah Naidu	venkaiah naidu	NNP	_	6	nsubj	6:A0
+6	said	say	VBD	pb=say.01	0	root	_
+7	it	it	PRP	_	8	nsubj	_
+8	is	be	VBZ	pb=be.01	6	ccomp	6:A1=PPT
+9	shocking	shocking	JJ	_	8	acomp	8:A2=PRD
+10	to	to	TO	_	11	aux	_
+11	see	see	VB	pb=see.01	8	xcomp	8:A1=PPT
+12	Congress	congress	NNP	_	14	nn	_
+13	president Sonia	president sonia	NNP	_	14	nn	_
+14	Gandhi	gandhi	NNP	_	11	dobj	11:A1
+15	and	and	CC	_	14	cc	_
+16	party	party	NN	_	18	nn	_
+17	vice	vice	NN	_	18	nn	_
+18	president	president	NN	_	20	nn	_
+19	Rahul	rahul	NNP	_	20	nn	_
+20	Gandhi	gandhi	NNP	_	14	conj	_
+21	not	not	RB	_	22	neg	_
+22	having the	having the	DT	p2=VB	23	det	_
+23	courtesy	courtesy	NN	_	20	appos	_
+24	of	of	IN	_	23	prep	_
+25	greeting	greet	VBG	p2=NN|pb=greet.01	24	pcomp	_
+26	Prime	prime	NNP	_	27	nn	_
+27	Minister	minister	NNP	_	29	hmod	_
+28	-	-	HYPH	_	29	hyph	_
+29	elect	elect	NNP	p2=NN	31	nn	_
+30	Narendra	narendra	NNP	_	31	nn	_
+31	Modi following	modi following	NNP	p2=VBG	25	dobj	25:A1=PPT
+32	the	the	DT	_	34	det	_
+33	massive	massive	JJ	_	34	amod	_
+34	mandate	mandate	NN	_	31	appos	35:A1=PPT
+35	received	receive	VBN	p2=VBD|pb=receive.01	34	partmod	_
+36	by	by	IN	_	35	agent	35:A0=PAG
+37	him	him	PRP	_	36	pobj	_
+38	.	.	.	_	6	punct	_
+
+1	"	"	``	_	61	punct	_
+2	Though	though	IN	p2=NNP	28	mark	_
+3	American	american	JJ	p2=NNP	4	nn	_
+4	President	president	NNP	_	28	nsubj	28:A0
+5	,	,	,	_	4	punct	_
+6	British	british	JJ	_	8	amod	_
+7	Prime	prime	NNP	_	8	nn	_
+8	Minister	minister	NNP	_	4	appos	_
+9	,	,	,	_	4	punct	_
+10	 scores	 scores	NNS	p2=VBZ	4	appos	_
+11	of	of	IN	_	10	prep	_
+12	prime	prime	JJ	_	13	amod	_
+13	ministers	minister	NNS	_	11	pobj	_
+14	from	from	IN	_	13	prep	_
+15	across	across	IN	_	14	prep	_
+16	the	the	DT	_	17	det	_
+17	globe	globe	NN	_	15	pobj	_
+18	,	,	,	_	13	punct	_
+19	including	include	VBG	_	13	prep	_
+20	our neighbours	our neighbours	NNS	p2=RP	19	pobj	_
+21	like	like	IN	_	20	prep	_
+22	Pakistan	pakistan	NNP	_	21	pobj	_
+23	,	,	,	_	22	punct	_
+24	Bangladesh	bangladesh	NNP	_	22	conj	_
+25	and	and	CC	_	24	cc	_
+26	Sri	sri	NNP	_	27	nn	_
+27	Lanka	lanka	NNP	_	24	conj	_
+28	have greeted	have greeted	VBD	p2=NNP|pb=have greeted.01	39	advcl	39:AM-ADV
+29	Narendra	narendra	NNP	_	30	nn	_
+30	Modi	modi	NNP	_	39	nsubj	39:A0=PAG
+31	,	,	,	_	30	punct	_
+32	the	the	DT	_	34	det	_
+33	Congress	congress	NNP	_	34	nn	_
+34	president	president	NN	p2=NNP	30	appos	_
+35	and	and	CC	_	34	cc	_
+36	vice president	vice president	NN	p2=NNP	34	conj	_
+37	do	do	VBP	_	39	aux	_
+38	not	not	RB	_	39	neg	39:AM-NEG
+39	have	have	VB	pb=have.03	61	ccomp	61:A1=PPT
+40	the	the	DT	_	41	det	_
+41	courtesy	courtesy	NN	_	39	dobj	39:A1=PPT
+42	or	or	CC	_	41	cc	_
+43	the	the	DT	_	45	det	_
+44	basic	basic	JJ	_	45	amod	_
+45	culture	culture	NN	_	41	conj	_
+46	of India	of india	NNP	p2=,	45	appos	_
+47	to	to	TO	_	48	aux	_
+48	greet	greet	VB	pb=greet.01	41	infmod	_
+49	the	the	DT	_	50	det	_
+50	person	person	NN	_	48	dobj	53:A0=PAG;48:A1=PPT
+51	who	who	WP	_	53	nsubj	53:R-A0
+52	has	have	VBZ	_	53	aux	_
+53	got	get	VBN	p2=VBD|pb=get.02	50	rcmod	_
+54	such	such	PDT	_	57	predet	_
+55	a	a	DT	_	57	det	_
+56	massive	massive	JJ	_	57	amod	_
+57	mandate	mandate	NN	_	53	dobj	53:A1=PPT
+58	,	,	,	_	61	punct	_
+59	"	"	''	p2=``	61	punct	_
+60	 Naidu	 naidu	,	p2=WDT	61	punct	_
+61	told	tell	VBD	p2=VBN|pb=tell.01	0	root	_
+62	reporters	reporter	NNS	_	61	dobj	61:A2=GOL
+63	in	in	IN	_	61	prep	61:AM-LOC
+64	Hyderabad	hyderabad	NNP	p2=NN	63	pobj	_
+65	.	.	.	_	61	punct	_
+
+1	People	people	NNS	_	6	nsubj	6:A0=PAG
+2	of	of	IN	_	1	prep	_
+3	the	the	DT	_	4	det	_
+4	country	country	NN	_	2	pobj	_
+5	have	have	VBP	_	6	aux	_
+6	punished	punish	VBN	pb=punish.01	0	root	_
+7	Congress	congress	NNP	_	6	dobj	6:A1=PPT
+8	for	for	IN	_	6	prep	6:A2=CAU
+9	its alleged	its alleged	JJ	p2=PRP$	10	amod	_
+10	failure	failure	NN	_	8	pobj	_
+11	to	to	TO	_	12	aux	_
+12	keep	keep	VB	pb=keep.01	10	infmod	_
+13	up	up	RP	_	12	prt	12:C-V
+14	promises	promise	NNS	_	12	dobj	12:A1=PPT
+15	,	,	,	_	6	punct	_
+16	and	and	CC	_	6	cc	_
+17	the	the	DT	_	18	det	_
+18	corruption	corruption	NN	_	26	dep	_
+19	,	,	,	_	18	punct	_
+20	 misrule	 misrule	NN	p2=JJ	18	conj	_
+21	and	and	CC	_	20	cc	_
+22	policy	policy	NN	_	20	conj	_
+23	paralysis	paralysis	NN	_	20	conj	_
+24	,	,	,	_	26	punct	_
+25	he	he	PRP	_	26	nsubj	26:A0=PAG
+26	claimed	claim	VBD	pb=claim.01	6	conj	_
+27	.	.	.	_	26	punct	_
+
+1	Asked	ask	VBN	pb=ask.01	19	advcl	19:AM-PRD
+2	whether	whether	IN	_	5	complm	_
+3	RSS	rss	NNP	_	5	nsubj	5:A1=PPT
+4	would	would	MD	_	5	aux	5:AM-MOD
+5	be	be	VB	pb=be.01	1	ccomp	1:A1=PPT
+6	a	a	DT	_	8	det	_
+7	power	power	NN	_	8	nn	_
+8	centre	centre	NN	_	5	attr	5:A2=PRD
+9	with	with	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	BJP all	bjp all	NNP	p2=NN	9	pobj	12:A1=PPT
+12	set	set	VBN	p2=NN|pb=set.08	11	partmod	_
+13	to	to	TO	_	14	aux	_
+14	form	form	VB	pb=form.01	12	xcomp	12:A2=PRD
+15	the	the	DT	_	16	det	_
+16	government	government	NN	_	14	dobj	14:A1=PPT
+17	,	,	,	_	19	punct	_
+18	Naidu	naidu	NNP	_	19	nsubj	19:A0
+19	said	say	VBD	pb=say.01	0	root	_
+20	BJP	bjp	NNP	_	21	nsubj	21:A0
+21	takes	take	VBZ	pb=take.01	19	ccomp	19:A1=PPT
+22	its	its	PRP$	_	23	poss	_
+23	own decisions	own decisions	NNS	_	21	dobj	21:A1=PPT
+24	on	on	IN	_	21	prep	21:A2=DIR
+25	political	political	JJ	_	26	amod	_
+26	issues	issue	NNS	_	24	pobj	_
+27	and	and	CC	_	21	cc	_
+28	the	the	DT	_	29	det	_
+29	Sangh	sangh	NNP	p2=NN	32	nsubj	32:A0
+30	does	do	VBZ	_	32	aux	_
+31	not	not	RB	_	32	neg	32:AM-NEG
+32	interfere in	interfere in	VB	pb=interfere in.01	21	conj	_
+33	it	it	PRP	_	32	dobj	32:A1
+34	.	.	.	_	19	punct	_
+
+1	"	"	``	_	3	punct	_
+2	We	we	PRP	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	Swayamsevaks	swayamsevaks	NNPS	p2=NNS	3	attr	3:A2=PRD
+5	and	and	CC	_	3	cc	_
+6	we	we	PRP	_	7	nsubj	7:A0=PPT;13:A0;15:A0=PAG
+7	go	go	VBP	pb=go.02	3	conj	_
+8	to	to	IN	_	7	prep	7:A4=GOL
+9	Sangh	sangh	NNP	_	11	poss	_
+10	's	's	POS	_	9	possessive	_
+11	office	office	NN	_	8	pobj	_
+12	,	,	,	_	7	punct	_
+13	meet people	meet people	VB	p2=NNS|pb=meet people.01	7	conj	_
+14	and	and	CC	_	13	cc	_
+15	talk	talk	VB	p2=VBP|pb=talk.01	13	conj	_
+16	to	to	IN	_	15	prep	15:A2=GOL
+17	Sangh	sangh	NNP	p2=JJ	18	nn	_
+18	leadership	leadership	NN	_	16	pobj	_
+19	.	.	.	_	7	punct	_
+
+1	I	I	PRP	_	2	nsubj	2:A0=PAG
+2	worked	work	VBD	pb=work.01	0	root	_
+3	as	as	IN	p2=RB	2	prep	2:A1=PPT
+4	party's national	party's national	NNP	p2=JJ	5	nn	_
+5	president	president	NN	p2=NNP	3	pobj	_
+6	when	when	WRB	_	7	advmod	_
+7	in	in	IN	_	2	advcl	2:AM-TMP
+8	power	power	NN	_	7	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	I	I	PRP	_	3	nsubj	3:A0=PAG
+2	never	never	RB	_	3	neg	3:AM-NEG
+3	had	have	VBD	pb=have.03	0	root	_
+4	any	any	DT	_	5	det	_
+5	such experience	such experience	NN	_	3	dobj	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	RSS	rss	NNP	p2=NN	4	nsubj	4:A0=PAG
+2	did	do	VBD	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	put	put	VB	pb=put.01	0	root	_
+5	any	any	DT	_	6	det	_
+6	pressure	pressure	NN	_	4	dobj	4:A1=PPT
+7	on	on	IN	_	4	prep	4:A2=GOL
+8	any	any	DT	_	9	det	_
+9	issue	issue	NN	_	7	pobj	_
+10	.	.	.	_	4	punct	_
+
+1	This debate	this debate	NNP	p2=NN	3	nsubj	_
+2	is	be	VBZ	_	3	aux	_
+3	going	go	VBG	pb=go.15	0	root	_
+4	on	on	RP	_	3	prt	3:C-V
+5	in	in	IN	_	3	prep	3:AM-LOC
+6	media	medium	NNS	p2=NN	5	pobj	_
+7	.	.	.	_	3	punct	_
+8	"	"	''	_	3	punct	_
+
+1	There	there	EX	_	3	expl	_
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	be	be	VB	pb=be.02	0	root	_
+4	no	no	DT	_	6	det	_
+5	power	power	NN	_	6	nn	_
+6	centre	centre	NN	_	3	attr	3:A1=PPT
+7	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	3	det	_
+2	(	(	-LRB-	_	3	punct	_
+3	BJP	bjp	NNP	p2=NN	5	nsubj	5:A0;8:A0=PAG
+4	)	)	-RRB-	_	3	punct	_
+5	leadership takes	leadership takes	VBZ	p2=NNS|pb=leadership takes.01	0	root	_
+6	decision	decision	NN	_	5	dobj	5:A1
+7	after	after	IN	_	5	prep	5:AM-TMP
+8	holding	hold	VBG	pb=hold.04	7	pcomp	_
+9	consultations	consultation	NNS	_	8	dobj	8:A1=PPT
+10	with	with	IN	_	9	prep	_
+11	all	all	DT	p2=RB	10	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	You	you	PRP	_	2	nsubj	2:A0
+2	have seen	have seen	VBP	p2=IN|pb=have seen.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	mandate	mandate	NN	_	2	dobj	2:A1
+5	for	for	IN	_	4	prep	_
+6	Narendra	narendra	NNP	_	7	nn	_
+7	Modi	modi	NNP	_	5	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	party	party	NN	_	6	poss	_
+5	's	's	POS	p2=VBZ	4	possessive	_
+6	leader and	leader and	NN	p2=CC	2	attr	2:A2=PRD
+7	he	he	PRP	_	9	nsubj	9:A1=PPT
+8	will	will	MD	_	9	aux	9:AM-MOD
+9	be	be	VB	pb=be.01	6	ccomp	_
+10	prime	prime	JJ	_	11	amod	_
+11	minister	minister	NN	_	9	attr	9:A2=PRD
+12	and	and	CC	_	11	cc	_
+13	NDA	nda	NNP	_	15	poss	_
+14	's	's	POS	_	13	possessive	_
+15	leader	leader	NN	_	11	conj	_
+16	.	.	.	_	2	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	move ahead	move ahead	VB	p2=RB|pb=move ahead.01	10	ccomp	10:A1=PPT
+4	under	under	IN	_	3	prep	3:AM-LOC
+5	his	his	PRP$	_	6	poss	_
+6	leadership	leadership	NN	_	4	pobj	_
+7	,	,	,	_	10	punct	_
+8	"	"	''	_	10	punct	_
+9	he	he	PRP	_	10	nsubj	10:A0
+10	said	say	VBD	pb=say.01	0	root	_
+11	.	.	.	_	10	punct	_
+
+1	Replying	reply	VBG	p2=NN|pb=reply.01	9	advcl	9:AM-ADV
+2	to	to	IN	_	1	prep	1:A1=GOL
+3	a	a	DT	_	4	det	_
+4	query	query	NN	_	2	pobj	_
+5	about	about	IN	_	4	prep	_
+6	government	government	NN	_	7	nn	_
+7	formation	formation	NN	_	5	pobj	_
+8	,	,	,	_	9	punct	_
+9	he said	he said	VBD	p2=VB|pb=he said.01	0	root	_
+10	the	the	DT	_	11	det	_
+11	BJP	bjp	NNP	_	14	poss	_
+12	's	's	POS	_	11	possessive	_
+13	parliamentary	parliamentary	JJ	_	14	amod	_
+14	party	party	NN	_	16	nsubj	16:A0=PAG
+15	would	would	MD	_	16	aux	16:AM-MOD
+16	meet	meet	VB	pb=meet.03	9	ccomp	9:A1
+17	on	on	IN	_	16	prep	16:AM-TMP
+18	Tuesday	tuesday	NNP	_	19	nn	_
+19	to elect	to elect	NNP	p2=VB	17	pobj	_
+20	the	the	DT	_	21	det	_
+21	leader	leader	NN	_	16	dobj	16:A1=COM
+22	.	.	.	_	9	punct	_
+23	"	"	''	_	9	punct	_
+
+1	The	the	DT	_	2	det	_
+2	President	president	NNP	_	5	nsubjpass	5:A1=GOL
+3	would	would	MD	_	5	aux	5:AM-MOD
+4	be	be	VB	_	5	auxpass	_
+5	informed	inform	VBN	p2=JJ|pb=inform.01	0	root	_
+6	about	about	IN	_	5	prep	5:A2=PPT
+7	it	it	PRP	_	6	pobj	_
+8	.	.	.	_	5	punct	_
+
+1	It	it	PRP	_	3	nsubjpass	5:A0=PAG;3:A1
+2	is	be	VBZ	_	3	auxpass	_
+3	not good	not good	VBN	p2=JJ|pb=not good.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	talk	talk	VB	pb=talk.01	3	xcomp	3:A2
+6	about	about	IN	_	5	prep	5:A1=PPT
+7	the	the	DT	_	8	det	_
+8	matter	matter	NN	_	6	pobj	_
+9	at	at	IN	_	5	prep	5:AM-LOC
+10	this	this	DT	_	11	det	_
+11	juncture	juncture	NN	_	9	pobj	_
+12	.	.	.	_	3	punct	_
+
+1	I	I	PRP	_	4	nsubj	4:A0;5:A0=PAG
+2	do	do	VBP	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	want to	want to	VB	p2=TO|pb=want to.01	12	ccomp	12:A1=PPT
+5	give	give	VB	pb=give.01	4	xcomp	4:A1
+6	any	any	DT	_	7	det	_
+7	comment	comment	NN	_	5	dobj	5:A1=PPT
+8	now	now	RB	_	5	advmod	5:AM-TMP
+9	,	,	,	_	12	punct	_
+10	"	"	''	_	12	punct	_
+11	he	he	PRP	_	12	nsubj	12:A0
+12	said	say	VBD	pb=say.01	0	root	_
+13	.	.	.	_	12	punct	_
+

@@ -1,0 +1,57 @@
+1	However	however	RB	_	10	advmod	10:AM-DIS
+2	,	,	,	_	10	punct	_
+3	Massa	massa	NNP	_	5	poss	_
+4	's	's	POS	_	3	possessive	_
+5	wife	wife	NN	_	10	nsubj	10:A0=PAG
+6	,	,	,	_	5	punct	_
+7	Sally	sally	NNP	_	8	nn	_
+8	Jenkins	jenkins	NNP	_	5	appos	_
+9	,	,	,	_	5	punct	_
+10	told	tell	VBD	pb=tell.01	0	root	_
+11	The	the	DT	_	13	det	_
+12	Boston	boston	NNP	_	13	nn	_
+13	Herald	herald	NNP	_	10	dobj	10:A2=GOL
+14	he	he	PRP	_	15	nsubj	15:A0=PAG
+15	realized	realize	VBD	pb=realize.01	10	ccomp	10:A1=PPT
+16	he	he	PRP	_	20	nsubjpass	20:A1=PPT;23:A1=PPT
+17	would	would	MD	_	20	aux	20:AM-MOD
+18	n't	not	RB	_	20	neg	20:AM-NEG
+19	be	be	VB	_	20	auxpass	_
+20	allowed	allow	VBN	pb=allow.01	15	ccomp	15:A1=PPT
+21	in	in	RP	p2=IN	20	prt	20:C-A1
+22	and	and	CC	_	20	cc	_
+23	was	be	VBD	pb=be.01	20	conj	_
+24	on	on	IN	_	23	prep	23:A2=PRD
+25	his	his	PRP$	_	26	poss	_
+26	way	way	NN	_	24	pobj	_
+27	out	out	RB	p2=RP	26	advmod	_
+28	when	when	WRB	_	30	advmod	30:R-AM-TMP
+29	officers	officer	NNS	_	30	nsubj	30:A0=PAG
+30	checked	check	VBD	pb=check.01	23	advcl	23:AM-TMP
+31	his	his	PRP$	_	32	poss	_
+32	bag	bag	NN	_	30	dobj	30:A1=LOC
+33	.	.	.	_	10	punct	_
+
+1	The	the	DT	_	2	det	_
+2	two	#crd#	CD	_	3	nsubj	3:A0=PAG;7:A0
+3	attended	attend	VBD	pb=attend.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	ceremony	ceremony	NN	_	3	dobj	3:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	see	see	VB	pb=see.01	3	advcl	3:AM-PRP
+8	Jenkins	jenkins	NNP	_	11	poss	_
+9	'	'	POS	_	8	possessive	_
+10	sister	sister	NN	_	11	nn	_
+11	graduate	graduate	NN	_	7	dobj	7:A1
+12	.	.	.	_	3	punct	_
+
+1	You	you	PRP	_	4	nsubj	4:A0=PAG
+2	have	have	VBP	_	4	aux	_
+3	already	already	RB	_	4	advmod	4:AM-TMP
+4	subscribed	subscribe	VBN	p2=JJ|pb=subscribe.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+

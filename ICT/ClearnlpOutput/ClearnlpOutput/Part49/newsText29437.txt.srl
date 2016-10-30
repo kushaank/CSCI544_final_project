@@ -1,0 +1,24 @@
+1	Share	share	VB	p2=NN|pb=share.01	0	root	_
+2	This	this	DT	p2=NNP	3	det	_
+3	Story	story	NNP	p2=NN	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	Sent	send	VBN	p2=JJ|pb=send.01	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	A	a	DT	_	2	det	_
+2	link	link	NN	_	5	nsubjpass	5:A1=PPT
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	sent	send	VBN	pb=send.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	your	your	PRP$	_	8	poss	_
+8	friend	friend	NN	_	11	poss	_
+9	's	's	POS	_	8	possessive	_
+10	email	email	NN	_	11	nn	_
+11	address	address	NN	_	6	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	!	!	.	_	1	punct	_
+

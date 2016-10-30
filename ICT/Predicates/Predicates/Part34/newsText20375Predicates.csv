@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+term Senator,try.01,to link,,Affirmative,"The five - term Senator is trying to link likely Democratic nominee Alison Lundergan Grimes to Obama , who has never been popular in Kentucky . "
+term Senator,link.01,likely Democratic nominee,,Affirmative,"The five - term Senator is trying to link likely Democratic nominee Alison Lundergan Grimes to Obama , who has never been popular in Kentucky . "
+McConnell,say.01,he is looking,,Affirmative,McConnell said he is looking to become majority leader if Republicans take control of the Senate in November . 
+McConnell,look.04,to become,,Affirmative,McConnell said he is looking to become majority leader if Republicans take control of the Senate in November . 
+Republicans,take.01,control of,,Affirmative,McConnell said he is looking to become majority leader if Republicans take control of the Senate in November . 
+McConnell,say.01,it would be,,Affirmative,He says it would be a devastating loss for Kentucky to trade in his seniority for someone who would have a seat at the back of the chamber . 
+Kentucky,trade.01,a devastating loss,,Affirmative,He says it would be a devastating loss for Kentucky to trade in his seniority for someone who would have a seat at the back of the chamber . 
+someone,have.03,a seat at,,Affirmative,He says it would be a devastating loss for Kentucky to trade in his seniority for someone who would have a seat at the back of the chamber . 
+All content,copyright.01,WorldNow and WFIE,,Affirmative,All content © Copyright 2000 - 2014 WorldNow and WFIE . 

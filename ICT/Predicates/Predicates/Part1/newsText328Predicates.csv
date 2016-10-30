@@ -1,0 +1,64 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,want.01,old man named,,Affirmative,A 26 - year old man named Chibuzor Onuegbe is currently wanted by the Lagos Police in connection with the theft of $ 1.5million from the Muritala Muhammad International Airport . 
+The money,belong.01,to,,Affirmative,"The money reportedly belongs to an unnamed woman , who kept the money at the airport 's baggage store for safe keeping . "
+"an unnamed woman ,",keep.02,The money,,Affirmative,"The money reportedly belongs to an unnamed woman , who kept the money at the airport 's baggage store for safe keeping . "
+the Lagos Police in connection,arrest.01,his accomplice,,Affirmative,"The police have arrested his accomplice Ifeanyi Francis , his girlfriend Chioma Obinabor and his elder brother Kalu Faith Onuegbe , and investigations have revealed that Onuegbe had fled the country to the United Kingdom . "
+investigations,reveal.01,that Onuegbe had fled,,Affirmative,"The police have arrested his accomplice Ifeanyi Francis , his girlfriend Chioma Obinabor and his elder brother Kalu Faith Onuegbe , and investigations have revealed that Onuegbe had fled the country to the United Kingdom . "
+Onuegbe,flee.01,the country,,Affirmative,"The police have arrested his accomplice Ifeanyi Francis , his girlfriend Chioma Obinabor and his elder brother Kalu Faith Onuegbe , and investigations have revealed that Onuegbe had fled the country to the United Kingdom . "
+investigations,meet.02,Chibuzor who was already with a taxi,,Affirmative,I met Chibuzor early last year when I travelled to Enugu and we became friends . 
+investigations,travel.01,to Enugu,,Affirmative,I met Chibuzor early last year when I travelled to Enugu and we became friends . 
+Chibuzor who was already with a taxi,work.01,as,,Affirmative,"I am aware that he works as a cleaner at the Murtala Muhammed Airport , Lagos . "
+Chibuzor who was already with a taxi,call.01,investigations,that there is,Affirmative,"Sometime in October , he called me that there is a job that he wants to execute and I will earn so much money . "
+Chibuzor who was already with a taxi,want.01,to execute and,,Affirmative,"Sometime in October , he called me that there is a job that he wants to execute and I will earn so much money . "
+Chibuzor who was already with a taxi,execute.02,a job,,Affirmative,"Sometime in October , he called me that there is a job that he wants to execute and I will earn so much money . "
+investigations,earn.01,much money,,Affirmative,"Sometime in October , he called me that there is a job that he wants to execute and I will earn so much money . "
+investigations,travel.01,down to Lagos,,Affirmative,  I travelled down to Lagos with the excuse that I wanted to visit my sister who lives in Lagos . 
+investigations,want.01,to visit,,Affirmative,  I travelled down to Lagos with the excuse that I wanted to visit my sister who lives in Lagos . 
+investigations,visit.01,my sister,,Affirmative,  I travelled down to Lagos with the excuse that I wanted to visit my sister who lives in Lagos . 
+investigations,tell.01,that he wanted,me,Affirmative,He told me that he wanted to smuggle out some abandoned luggage from the baggage store at the international airport . 
+investigations,want.01,to smuggle out,,Affirmative,He told me that he wanted to smuggle out some abandoned luggage from the baggage store at the international airport . 
+investigations,smuggle.01,some abandoned luggage,from,Affirmative,He told me that he wanted to smuggle out some abandoned luggage from the baggage store at the international airport . 
+investigations,give.01,a bag containing,me,Affirmative,He gave me a bag containing old laptops and clothes . 
+a bag containing,contain.01,old laptops and clothes,,Affirmative,He gave me a bag containing old laptops and clothes . 
+investigations,give.01,a tag ticket,me,Affirmative,He also gave me a tag ticket which was attached to the bag . 
+my sister who lives in Lagos,drop.05,the same weight,,Affirmative,The deal was that I would get to the airport as early as 6 am and move to the baggage store and drop the bag . 
+my sister who lives in Lagos,tell.01,that I want,the store keeper,Affirmative,  I will tell the store keeper that I want to register the bag and will be back in evening to pick it up . 
+my sister who lives in Lagos,want.01,to register,,Affirmative,  I will tell the store keeper that I want to register the bag and will be back in evening to pick it up . 
+my sister who lives in Lagos,register.02,the same weight,,Affirmative,  I will tell the store keeper that I want to register the bag and will be back in evening to pick it up . 
+my sister who lives in Lagos,pick.04,the same weight,,Affirmative,  I will tell the store keeper that I want to register the bag and will be back in evening to pick it up . 
+Ifeanyi Francis,drop.05,the same weight,,Affirmative,"The next day as agreed , Francis went through the same process and dropped the bag . "
+Ifeanyi Francis,pick.01,the same weight,,Affirmative,"In the evening at about 7 pm , he went back and picked the bag . "
+Ifeanyi Francis,discover.01,bag was,,Affirmative,I discovered that the bag was unusually heavy . 
+Ifeanyi Francis,know.01,what was on ground,,Affirmative,"  Since I knew what was on ground , I pretended that it was the same weight . "
+Ifeanyi Francis,pretend.01,that it was,,Affirmative,"  Since I knew what was on ground , I pretended that it was the same weight . "
+Ifeanyi Francis,have.03,a tag and,,Affirmative,It was easy to pick the bag because I had a tag and a ticket . 
+Ifeanyi Francis,join.01,Chibuzor,,Affirmative,I quickly moved and joined Chibuzor who was already with a taxi . 
+Ifeanyi Francis,ask.01,what was in,him,Affirmative,  I asked him what was in the bag and he told me to calm down that I will get to know . 
+Chibuzor who was already with a taxi,tell.01,to calm down,me,Affirmative,  I asked him what was in the bag and he told me to calm down that I will get to know . 
+Chibuzor who was already with a taxi,open.01,the same weight,,Affirmative,He opened the bag ; it was then that I realised that it contained bundles of dollar notes . 
+Ifeanyi Francis,realize.01,that it contained bundles of,,Affirmative,He opened the bag ; it was then that I realised that it contained bundles of dollar notes . 
+the same weight,contain.01,bundles of,,Affirmative,He opened the bag ; it was then that I realised that it contained bundles of dollar notes . 
+Chibuzor who was already with a taxi,tell.01,", he had access to",me,Affirmative,"He told me that as a cleaner , he had access to the baggage room . "
+Chibuzor who was already with a taxi,have.03,access to,,Affirmative,"He told me that as a cleaner , he had access to the baggage room . "
+Chibuzor who was already with a taxi,do.02,All,,Affirmative,All he did was to unlock my bag to which he had the key and transfer the bag of money into my own bag . 
+Chibuzor who was already with a taxi,have.03,the key,,Affirmative,All he did was to unlock my bag to which he had the key and transfer the bag of money into my own bag . 
+Chibuzor who was already with a taxi,transfer.01,the bag of money,into,Affirmative,All he did was to unlock my bag to which he had the key and transfer the bag of money into my own bag . 
+Chibuzor who was already with a taxi,tell.01,to calm down,me,Affirmative,  He told me to calm down that there is a lot to gain and that he needs to contact his friends at the airport before the money will be shared . 
+Ifeanyi Francis,calm.02,that there is,,Affirmative,  He told me to calm down that there is a lot to gain and that he needs to contact his friends at the airport before the money will be shared . 
+Chibuzor who was already with a taxi,need.01,to contact,,Affirmative,  He told me to calm down that there is a lot to gain and that he needs to contact his friends at the airport before the money will be shared . 
+Chibuzor who was already with a taxi,contact.01,the ones who gave him information that such amount of money was in the baggage room and the colour of the bag,,Affirmative,  He told me to calm down that there is a lot to gain and that he needs to contact his friends at the airport before the money will be shared . 
+Chibuzor who was already with a taxi,explain.01,explained were,,Affirmative,"  Those friends , he explained were the ones who gave him information that such amount of money was in the baggage room and the colour of the bag . "
+the ones,give.01,information,him,Affirmative,"  Those friends , he explained were the ones who gave him information that such amount of money was in the baggage room and the colour of the bag . "
+Chibuzor who was already with a taxi,try.01,to close,,Affirmative,"He tried to close the bag and it was difficult , so he had to remove some bundles into another bag . "
+Chibuzor who was already with a taxi,close.01,the same weight,,Affirmative,"He tried to close the bag and it was difficult , so he had to remove some bundles into another bag . "
+Chibuzor who was already with a taxi,remove.01,some bundles,into,Affirmative,"He tried to close the bag and it was difficult , so he had to remove some bundles into another bag . "
+We,hear.01,the voice of,,Affirmative,"We heard the voice of some boys coming towards us , so Chibuzor hurriedly left the spot and moved into their house . "
+Chibuzor who was already with a taxi,leave.01,the spot,,Affirmative,"We heard the voice of some boys coming towards us , so Chibuzor hurriedly left the spot and moved into their house . "
+Chibuzor who was already with a taxi,forget.01,that he kept,,Affirmative,He forgot that he kept some money in the bag that I was holding . 
+Chibuzor who was already with a taxi,keep.02,some money,in,Affirmative,He forgot that he kept some money in the bag that I was holding . 
+Ifeanyi Francis,hold.01,the same weight,,Affirmative,He forgot that he kept some money in the bag that I was holding . 
+Chibuzor who was already with a taxi,call.03,Ifeanyi Francis,for,Affirmative,"He rushed out and promised to call me for my share , Francis further said . "
+Ifeanyi Francis,say.01,He rushed out and promised,,Affirmative,"He rushed out and promised to call me for my share , Francis further said . "
+Chibuzor who was already with a taxi,realize.01,that he was carrying,,Affirmative,"According to him , as soon as he got home Chibuzor realised that he was carrying the naira equivalent of N60 million . "
+he was,carry.01,the naira equivalent of,,Affirmative,"According to him , as soon as he got home Chibuzor realised that he was carrying the naira equivalent of N60 million . "
+your blog,share.01,new posts,,Affirmative,"Sorry , your blog can not share posts by email . "

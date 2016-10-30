@@ -1,0 +1,6 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Jimi Beti , 33 ,",face.01,"charges of manslaughter ,",,Affirmative,"Jimi Beti , 33 , faces charges of manslaughter , criminal recklessness and negligence over the death of 40 - year - old Mark Hardaker of New South Wales state last Thursday . "
+"by Beti ,",drive.01,"a speedboat driven by Beti ,",,Affirmative,"Hardaker was returning from a fishing trip when a speedboat driven by Beti , a Fijian , allegedly crashed into his vessel , causing fatal head injuries . "
+"a speedboat driven by Beti ,",cause.01,fatal head injuries,,Affirmative,"Hardaker was returning from a fishing trip when a speedboat driven by Beti , a Fijian , allegedly crashed into his vessel , causing fatal head injuries . "
+"Beti , a Fijian",operate.01,the boat,,Affirmative,The court was told Beti was operating the boat without a licence . 
+"Beti , a Fijian",remand.01,to appear in,,Affirmative,He was refused bail and remanded to appear in Lautoka High Court on June 4 . 

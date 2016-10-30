@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,ground.01,"The flight , AY 005",,Affirmative,"The flight , AY 005 , was grounded by a technical fault and is still on the ground , the airline says . "
+the airline,say.01,was grounded by,,Affirmative,"The flight , AY 005 , was grounded by a technical fault and is still on the ground , the airline says . "
+carrier Finnair,say.01,pilot reported losing power in one of,,Affirmative,"National carrier Finnair said that the pilot reported losing power in one of the plane 's engines , following which the motor shut down completely . "
+the pilot,report.01,losing power in one of,,Affirmative,"National carrier Finnair said that the pilot reported losing power in one of the plane 's engines , following which the motor shut down completely . "
+the pilot,lose.03,power,,Affirmative,"National carrier Finnair said that the pilot reported losing power in one of the plane 's engines , following which the motor shut down completely . "
+the pilot,follow.01,motor shut down completely,,Affirmative,"National carrier Finnair said that the pilot reported losing power in one of the plane 's engines , following which the motor shut down completely . "
+Airline officials,say.01,they have,,Affirmative,Airline officials say they have no information on how long it will take to identify and repair the fault . 
+Airline officials,have.03,no information on,,Affirmative,Airline officials say they have no information on how long it will take to identify and repair the fault . 
+Communications chief Arja Suominen,confirm.01,pilot lost power in one of,,Affirmative,"Communications chief Arja Suominen confirmed that the pilot lost power in one of the engines forcing the plane into an unscheduled landing , although she said it is possible to fly the aircraft with one engine . "
+the pilot,lose.02,power,,Affirmative,"Communications chief Arja Suominen confirmed that the pilot lost power in one of the engines forcing the plane into an unscheduled landing , although she said it is possible to fly the aircraft with one engine . "
+the engines forcing,force.01,the plane,into,Affirmative,"Communications chief Arja Suominen confirmed that the pilot lost power in one of the engines forcing the plane into an unscheduled landing , although she said it is possible to fly the aircraft with one engine . "
+chief Arja Suominen,say.01,it is possible,,Affirmative,"Communications chief Arja Suominen confirmed that the pilot lost power in one of the engines forcing the plane into an unscheduled landing , although she said it is possible to fly the aircraft with one engine . "
+pilots,land.01,their craft,,Affirmative,Suominen said however that for safety reasons pilots usually land their craft at the nearest airport in these kinds of situations . 
+National carrier Finnair,announce.01,that it was forced,,Affirmative,Finnair later announced Monday that it was forced to cancel the return flight as the aircraft remains grounded in Canada awaiting parts for the repair . 
+it,cancel.01,the return flight,,Affirmative,Finnair later announced Monday that it was forced to cancel the return flight as the aircraft remains grounded in Canada awaiting parts for the repair . 
+the plane,carry.01,245 passengers,,Affirmative,The plane was carrying 245 passengers who were put up at a hotel near the airport overnight . 
+Checks with,reveal.01,might not get airborne until Tuesday,,Affirmative,Checks with Finnair Monday afternoon revealed that the plane -- and its passengers -- might not get airborne until Tuesday . 

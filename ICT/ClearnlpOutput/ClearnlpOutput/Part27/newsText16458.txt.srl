@@ -1,0 +1,25 @@
+1	Order	order	NN	p2=JJR	7	nsubj	7:A1=PPT
+2	of	of	IN	_	1	prep	_
+3	of	of	IN	_	2	prep	_
+4	the	the	DT	_	6	det	_
+5	White	white	NNP	_	6	nn	_
+6	Lion	lion	NNP	_	3	pobj	_
+7	presented	present	VBD	pb=present.01	22	ccomp	_
+8	to	to	IN	_	7	prep	7:A2=GOL
+9	Nicholas	nicholas	NNP	_	10	nn	_
+10	Winton	winton	NNP	_	8	pobj	_
+11	,	,	,	_	22	punct	_
+12	the	the	DT	_	15	det	_
+13	'	'	``	p2=''	15	punct	_
+14	English	english	NNP	p2=JJ	15	nn	_
+15	Schindler	schindler	NNP	_	22	nsubj	18:A0=PAG;22:A0=PAG
+16	'	'	''	p2=POS	15	punct	_
+17	who	who	WP	_	18	nsubj	18:R-A0
+18	helped	help	VBD	pb=help.01	15	rcmod	_
+19	hundreds	#crd#	NNS	_	20	nsubj	20:A0=PPT
+20	escape	escape	VB	pb=escape.01	18	ccomp	18:A1=PPT
+21	Nazi	nazi	NNP	_	20	dobj	20:A1=LOC
+22	occupied	occupy	VBD	p2=VBN|pb=occupy.01	0	root	_
+23	Czechoslovakia	czechoslovakia	NNP	_	22	dobj	22:A1=PPT
+24	.	.	.	_	22	punct	_
+

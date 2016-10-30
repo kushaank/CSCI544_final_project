@@ -1,0 +1,72 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+"MOBILE ,",file.01,a lawsuit seeking,,Affirmative,"MOBILE , Alabama - A state legislative candidate in Semmes has filed a lawsuit seeking to overturn the Alabama Republican Party 's decision to invalidate his bid for the state House of Representatives based on a residency issue . "
+a lawsuit seeking,seek.01,to overturn,,Affirmative,"MOBILE , Alabama - A state legislative candidate in Semmes has filed a lawsuit seeking to overturn the Alabama Republican Party 's decision to invalidate his bid for the state House of Representatives based on a residency issue . "
+a lawsuit seeking,overturn.01,decision,,Affirmative,"MOBILE , Alabama - A state legislative candidate in Semmes has filed a lawsuit seeking to overturn the Alabama Republican Party 's decision to invalidate his bid for the state House of Representatives based on a residency issue . "
+"The suit , filed",seek.01,a hearing,,Affirmative,"The suit , filed late Friday in Mobile County Circuit Court , seeks a hearing as soon as possible and argues that the party 's decision earlier this month was unequal , arbitrary and capricious . "
+"The suit , filed",argue.01,"was unequal , arbitrary and capricious",,Affirmative,"The suit , filed late Friday in Mobile County Circuit Court , seeks a hearing as soon as possible and argues that the party 's decision earlier this month was unequal , arbitrary and capricious . "
+The civil complaint,seek.01,an order requiring,,Affirmative,"The civil complaint seeks an order requiring the party to accept the results of the June 3 primary , where McNeil 's name will be on the ballot in House District 102 because it was too late to remove it . "
+an order requiring,require.01,the party,to accept,Affirmative,"The civil complaint seeks an order requiring the party to accept the results of the June 3 primary , where McNeil 's name will be on the ballot in House District 102 because it was too late to remove it . "
+the party,accept.01,the results of,,Affirmative,"The civil complaint seeks an order requiring the party to accept the results of the June 3 primary , where McNeil 's name will be on the ballot in House District 102 because it was too late to remove it . "
+We,ask.02,to certify,Judge ( Rick ) Stout,Affirmative,"We 're asking Judge ( Rick ) Stout to certify that I am a candidate and certify my results , McNeil said . "
+Judge ( Rick ) Stout,certify.01,that I am,,Affirmative,"We 're asking Judge ( Rick ) Stout to certify that I am a candidate and certify my results , McNeil said . "
+"McNeil , a businessman",certify.01,the results of the June 3 primary,,Affirmative,"We 're asking Judge ( Rick ) Stout to certify that I am a candidate and certify my results , McNeil said . "
+"McNeil , a businessman",say.01,We 're asking,,Affirmative,"We 're asking Judge ( Rick ) Stout to certify that I am a candidate and certify my results , McNeil said . "
+"McNeil , a businessman",look.03,to,,Affirmative,I 'm looking forward to my day in court . 
+State party officials,refer.02,questions,to,Affirmative,"State party officials referred questions to Chairman Bill Armistead , who could not immediately be reached for comment . "
+"Chairwoman Terry Lathan ,",file.01,a complaint against McNeil in March,,Affirmative,"Mobile County Republican Party Chairwoman Terry Lathan , who filed a complaint against McNeil in March , said she was reluctant to comment in detail because she is named as a defendant in the suit . "
+"Chairwoman Terry Lathan ,",say.01,she was reluctant,,Affirmative,"Mobile County Republican Party Chairwoman Terry Lathan , who filed a complaint against McNeil in March , said she was reluctant to comment in detail because she is named as a defendant in the suit . "
+The process,work.09,its way,,Affirmative,"The process will work its way out , she said . "
+she,say.01,process will work,,Affirmative,"The process will work its way out , she said . "
+Terry Lathan,have.03,every right,,Affirmative,"And he has every right to challenge this , and the party has every right to disqualify him . "
+the Alabama Republican Party 's,have.03,every right,,Affirmative,"And he has every right to challenge this , and the party has every right to disqualify him . "
+"McNeil ,",file.01,paperwork,on Feb,Affirmative,"McNeil , a businessman , filed paperwork on Feb . "
+"District 102 ,",cover.01,Mobile County,,Affirmative,"District 102 , which covers western and northern Mobile County , has an open seat with incumbent Chad Fincher opting not to seek re-election . "
+"District 102 ,",have.03,an open seat with,,Affirmative,"District 102 , which covers western and northern Mobile County , has an open seat with incumbent Chad Fincher opting not to seek re-election . "
+incumbent Chad Fincher,opt.01,not to seek re-election,,Affirmative,"District 102 , which covers western and northern Mobile County , has an open seat with incumbent Chad Fincher opting not to seek re-election . "
+incumbent Chad Fincher,seek.01,re-election,,Affirmative,"District 102 , which covers western and northern Mobile County , has an open seat with incumbent Chad Fincher opting not to seek re-election . "
+McNeil,say.01,life is in District 102,,Affirmative,"McNeil has said that his life is in District 102 , including a tanning salon he owns , the church where his worships and the school that his daughter attends . "
+"McNeil , a businessman",own.01,his worships and,,Affirmative,"McNeil has said that his life is in District 102 , including a tanning salon he owns , the church where his worships and the school that his daughter attends . "
+his daughter,attend.01,the school,,Affirmative,"McNeil has said that his life is in District 102 , including a tanning salon he owns , the church where his worships and the school that his daughter attends . "
+The legal challenge,raise.01,a number of issues,,Affirmative,"The legal challenge raises a number of issues , ranging from a defense of McNeil 's legal right to run to allegations that the party acted unfairly . "
+the suit,cite.01,"the state constitution ,",,Affirmative,"As to whether McNeil legally can run , the suit cites the state constitution , which states that House candidates must be residents of their respective counties or districts for at least a year prior to the election . "
+"the state constitution ,",state.01,candidates must be residents of,,Affirmative,"As to whether McNeil legally can run , the suit cites the state constitution , which states that House candidates must be residents of their respective counties or districts for at least a year prior to the election . "
+The suit,maintain.01,that language applies to McNeil,,Affirmative,The suit maintains that language applies to McNeil since he has been a resident of the county . 
+State law,hold.02,shall reside in,,Affirmative,"State law separately holds that , Each member elected shall reside in the district which he or she represents or seeks to represent . "
+Each member elected,reside.01,in,,Affirmative,"State law separately holds that , Each member elected shall reside in the district which he or she represents or seeks to represent . "
+he or she,represent.01,the district which he or she represents or seeks to represent,,Affirmative,"State law separately holds that , Each member elected shall reside in the district which he or she represents or seeks to represent . "
+he or she,seek.01,to represent,,Affirmative,"State law separately holds that , Each member elected shall reside in the district which he or she represents or seeks to represent . "
+The suit,argue.01,law does not preclude McNeil from running,,Affirmative,The suit argues that the law does not preclude McNeil from running because he would be able to move to a home in the district before taking office . 
+the law,preclude.01,McNeil,from running,Affirmative,The suit argues that the law does not preclude McNeil from running because he would be able to move to a home in the district before taking office . 
+he,take.01,office,,Affirmative,The suit argues that the law does not preclude McNeil from running because he would be able to move to a home in the district before taking office . 
+The suit,make.01,a number of arguments regarding,,Affirmative,The suit also makes a number of arguments regarding the party 's handling of the issue . 
+The complaint,maintain.01,party violated,,Affirmative,"The complaint maintains that by acting after the deadline to remove a candidate from the ballot , the party violated a federal court order settling a lawsuit against the state of Alabama over the Help America Vote Act . "
+the party,violate.01,court order settling,,Affirmative,"The complaint maintains that by acting after the deadline to remove a candidate from the ballot , the party violated a federal court order settling a lawsuit against the state of Alabama over the Help America Vote Act . "
+court order settling,settle.02,a lawsuit against,,Affirmative,"The complaint maintains that by acting after the deadline to remove a candidate from the ballot , the party violated a federal court order settling a lawsuit against the state of Alabama over the Help America Vote Act . "
+The suit,maintain.01,procedure would be,,Affirmative,The suit maintains that the proper procedure would be to challenge McNeil after the primary if he were to win . 
+The complaint,allege.01,party treated McNeil differently from,,Affirmative,The complaint alleges that the party treated McNeil differently from two other candidates challenged over residency questions . 
+the party,treat.01,McNeil,from,Affirmative,The complaint alleges that the party treated McNeil differently from two other candidates challenged over residency questions . 
+candidate committee,vote.01,9-4,,Affirmative,"The party candidate committee voted 9-4 against hearing a challenge to state Rep. Alan Harper , who is seeking re-election in District 61 in Tuscaloosa and Pickens counties . "
+"Rep. Alan Harper ,",seek.01,re-election,,Affirmative,"The party candidate committee voted 9-4 against hearing a challenge to state Rep. Alan Harper , who is seeking re-election in District 61 in Tuscaloosa and Pickens counties . "
+The committee,hear.01,a challenge -,,Affirmative,The committee did hear a challenge - which it rejected - to House candidate Ron Wilson in District 85 in Houston and Henry counties based on allegations that he previously had supported Democrats . 
+it,reject.01,a challenge -,,Affirmative,The committee did hear a challenge - which it rejected - to House candidate Ron Wilson in District 85 in Houston and Henry counties based on allegations that he previously had supported Democrats . 
+he,support.01,Democrats,,Affirmative,The committee did hear a challenge - which it rejected - to House candidate Ron Wilson in District 85 in Houston and Henry counties based on allegations that he previously had supported Democrats . 
+the Alabama Republican Party 's,refuse.01,to hear,,Affirmative,But the party refused to hear a separate challenge based on his residency . 
+the Alabama Republican Party 's,hear.01,a separate challenge based on,,Affirmative,But the party refused to hear a separate challenge based on his residency . 
+McNeil,say.01,party made,,Affirmative,McNeil said the party made those decisions despite the fact that those candidates live far outside their districts . 
+He,say.01,he does not know,,Affirmative,He said he does not know why the party would treat him differently from other challenged candidates . 
+he,know.01,party would treat him differently from,,Affirmative,He said he does not know why the party would treat him differently from other challenged candidates . 
+the party,treat.01,him,from,Affirmative,He said he does not know why the party would treat him differently from other challenged candidates . 
+he,say.01,Williams was,,Affirmative,"Jack Williams was the pick , he said , referring to his belief that party insiders favor one of his opponents . "
+he,refer.01,to,,Affirmative,"Jack Williams was the pick , he said , referring to his belief that party insiders favor one of his opponents . "
+party insiders,favor.01,one of,,Affirmative,"Jack Williams was the pick , he said , referring to his belief that party insiders favor one of his opponents . "
+official Harold Sachs,say.01,committee did review,,Affirmative,State GOP official Harold Sachs said the party 's candidate committee did review the complaint against Harper but determined that a hearing was unnecessary . 
+candidate committee,review.01,the complaint against Harper,,Affirmative,State GOP official Harold Sachs said the party 's candidate committee did review the complaint against Harper but determined that a hearing was unnecessary . 
+official Harold Sachs,determine.01,hearing was unnecessary,,Affirmative,State GOP official Harold Sachs said the party 's candidate committee did review the complaint against Harper but determined that a hearing was unnecessary . 
+They,feel.02,there was,,Affirmative,"They felt there was sufficient evidence that he did live there , he said . "
+he,say.01,They felt,,Affirmative,"They felt there was sufficient evidence that he did live there , he said . "
+Lathan,say.01,she does not know about,,Affirmative,"Lathan said she does not know about the other cases but added , Some things might sound like they 're close and really aren't . "
+she,know.01,about,,Affirmative,"Lathan said she does not know about the other cases but added , Some things might sound like they 're close and really aren't . "
+Lathan,add.01,things might sound,,Affirmative,"Lathan said she does not know about the other cases but added , Some things might sound like they 're close and really aren't . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

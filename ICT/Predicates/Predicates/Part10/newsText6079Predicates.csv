@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ A judge,set.01,bond,at,Affirmative,"-  A judge has set bond at $ 10,000 for a woman accused of calling bomb threats in to a commencement ceremony at Quinnipiac University in Connecticut to keep her family from learning that she was not graduating . "
+a woman accused of calling,call.01,bomb threats in,to,Affirmative,"-  A judge has set bond at $ 10,000 for a woman accused of calling bomb threats in to a commencement ceremony at Quinnipiac University in Connecticut to keep her family from learning that she was not graduating . "
+Her attorney,ask.02,for her to be released on,,Affirmative,Her attorney asked for her to be released on a promise to appear but the judge said he was troubled by her actions . 
+the judge,say.01,he was troubled by,,Affirmative,Her attorney asked for her to be released on a promise to appear but the judge said he was troubled by her actions . 
+by,trouble.01,he,,Affirmative,Her attorney asked for her to be released on a promise to appear but the judge said he was troubled by her actions . 
+Police,say.01,Shea did n't attend,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+Shea,attend.01,the university,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+her mother,pay.01,thousands of dollars,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+"22-year-old Danielle Shea of Quincy , Massachusetts",think.01,was for,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+They,say.01,Shea panicked,,Affirmative,They say Shea panicked when relatives did n't see her name on the graduation roster and she tried to have the ceremony canceled . 
+relatives,see.01,her name,,Affirmative,They say Shea panicked when relatives did n't see her name on the graduation roster and she tried to have the ceremony canceled . 
+she,try.01,to have,,Affirmative,They say Shea panicked when relatives did n't see her name on the graduation roster and she tried to have the ceremony canceled . 
+she,have.03,ceremony canceled,,Affirmative,They say Shea panicked when relatives did n't see her name on the graduation roster and she tried to have the ceremony canceled . 

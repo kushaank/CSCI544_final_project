@@ -1,0 +1,23 @@
+1	As	as	IN	p2=RB	8	prep	8:AM-ADV
+2	with	with	IN	_	1	prep	_
+3	other	other	JJ	_	5	amod	_
+4	autonomous	autonomous	JJ	_	5	amod	_
+5	regions	region	NNS	_	2	pobj	_
+6	,	,	,	_	8	punct	_
+7	she	she	PRP	_	8	nsubj	8:A0
+8	said	say	VBD	pb=say.01	0	root	_
+9	the	the	DT	_	10	det	_
+10	President	president	NNP	_	13	nsubj	13:A0=PAG;15:A0=PAG
+11	would	would	MD	_	13	aux	13:AM-MOD
+12	also	also	RB	_	13	advmod	13:AM-ADV
+13	continue	continue	VB	pb=continue.01	8	ccomp	8:A1=PPT
+14	to	to	TO	_	15	aux	_
+15	have	have	VB	pb=have.03	13	xcomp	13:A1=PPT
+16	general	general	JJ	_	17	amod	_
+17	supervision	supervision	NN	_	15	dobj	15:A1=PPT
+18	over	over	IN	_	17	prep	_
+19	the	the	DT	_	21	det	_
+20	Bangsamoro	bangsamoro	NNP	p2=JJ	21	nn	_
+21	government	government	NN	_	18	pobj	_
+22	.	.	.	_	8	punct	_
+

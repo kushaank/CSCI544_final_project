@@ -1,0 +1,85 @@
+1	Legislators	legislator	NNS	_	7	nsubj	7:A0=PAG
+2	in	in	IN	_	1	prep	_
+3	an	an	DT	_	6	det	_
+4	Illinois	illinois	NNP	_	5	nn	_
+5	House	house	NNP	_	6	nn	_
+6	committee	committee	NN	p2=NNP	2	pobj	_
+7	passed	pass	VBD	pb=pass.01	0	root	_
+8	Speaker	speaker	NNP	_	10	nn	_
+9	Michael	michael	NNP	_	10	nn	_
+10	Madigan	madigan	NNP	_	17	poss	_
+11	's	's	POS	_	10	possessive	_
+12	(	(	-LRB-	_	15	punct	_
+13	D	d	NNP	p2=NN	15	hmod	_
+14	-	-	HYPH	p2=:	15	hyph	_
+15	Chicago	chicago	NNP	_	17	nn	_
+16	)	)	-RRB-	_	15	punct	_
+17	plan	plan	NN	p2=VBP	7	dobj	7:A1=PPT
+18	to	to	TO	_	19	aux	_
+19	place	place	VB	pb=place.01	17	infmod	_
+20	a non-binding	a non-binding	JJ	p2=VBG	21	amod	_
+21	referendum	referendum	NN	_	19	dobj	19:A1=PPT
+22	on	on	IN	_	21	prep	_
+23	the	the	DT	_	25	det	_
+24	November	november	NNP	_	25	nn	_
+25	ballot	ballot	NN	_	22	pobj	26:A0=PPT
+26	concerning	concern	VBG	pb=concern.02	25	partmod	_
+27	a	a	DT	_	28	det	_
+28	boost	boost	NN	_	26	dobj	26:A1=PPT
+29	to	to	IN	_	26	prep	_
+30	the	the	DT	_	31	det	_
+31	state	state	NN	_	34	poss	_
+32	's	's	POS	_	31	possessive	_
+33	minimum	minimum	JJ	p2=NN	34	nn	_
+34	wage	wage	NN	_	29	pobj	_
+35	.	.	.	_	7	punct	_
+
+1	The	the	DT	_	2	det	_
+2	proposal	proposal	NN	_	4	nsubjpass	4:A1=PPT
+3	was	be	VBD	_	4	auxpass	_
+4	passed	pass	VBN	pb=pass.01	0	root	_
+5	Friday	friday	NNP	_	4	npadvmod	4:AM-TMP
+6	by	by	IN	_	4	agent	4:A0=PAG
+7	a	a	DT	_	9	det	_
+8	12-7	0	CD	_	9	num	_
+9	vote	vote	NN	_	6	pobj	_
+10	,	,	,	_	4	punct	_
+11	with	with	IN	_	4	prep	4:AM-MNR
+12	no	no	DT	_	13	det	_
+13	Republicans	republican	NNPS	_	14	nsubj	14:A0=PAG
+14	voting	vote	VBG	p2=NN|pb=vote.01	11	pcomp	_
+15	in	in	IN	_	14	prep	14:A1=PPT
+16	favor	favor	NN	_	15	pobj	_
+17	of	of	IN	_	16	prep	_
+18	the	the	DT	_	19	det	_
+19	referendum	referendum	NN	_	17	pobj	_
+20	.	.	.	_	4	punct	_
+
+1	Brown 	brown 	NNP	p2=VBN	2	nsubj	2:A0=PAG
+2	told	tell	VBD	pb=tell.01	0	root	_
+3	the Chicago	the chicago	NNP	p2=RB	4	nn	_
+4	Sun-Times	sun-times	NNP	p2=NNPS	2	dobj	9:A0=PAG;2:A2=GOL
+5	 that the	 that the	IN	p2=NNP	2	prep	_
+6	full	full	JJ	_	7	amod	_
+7	House	house	NNP	_	5	pobj	_
+8	could	could	MD	_	9	aux	9:AM-MOD
+9	take	take	VB	pb=take.13	2	ccomp	2:A1=PPT
+10	up	up	RP	_	9	prt	9:C-V
+11	the	the	DT	_	12	det	_
+12	legislation	legislation	NN	_	9	dobj	9:A1=PPT
+13	as	as	RB	_	14	advmod	_
+14	early	early	RB	_	9	advmod	9:AM-TMP
+15	as	as	IN	_	14	prep	_
+16	next	next	JJ	_	17	amod	_
+17	week	week	NN	_	15	pobj	_
+18	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	4	det	_
+2	current	current	JJ	_	4	amod	_
+3	legislative	legislative	JJ	_	4	amod	_
+4	session	session	NN	_	5	nsubj	5:A1=PPT
+5	ends	end	VBZ	pb=end.01	0	root	_
+6	May	may	NNP	_	5	npadvmod	5:AM-TMP
+7	31	0	CD	_	6	num	_
+8	.	.	.	_	5	punct	_
+

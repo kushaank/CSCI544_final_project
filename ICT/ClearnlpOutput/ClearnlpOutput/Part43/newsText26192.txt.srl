@@ -1,0 +1,57 @@
+1	For	for	IN	_	10	prep	10:AM-TMP
+2	the	the	DT	_	4	det	_
+3	third	#ord#	JJ	_	4	amod	_
+4	time	time	NN	_	1	pobj	_
+5	,	,	,	_	10	punct	_
+6	Russian	russian	JJ	_	7	amod	_
+7	President	president	NNP	_	9	nn	_
+8	Vladimir	vladimir	NNP	_	9	nn	_
+9	Putin	putin	NNP	_	10	nsubj	10:A0
+10	says	say	VBZ	pb=say.01	0	root	_
+11	he	he	PRP	_	13	nsubjpass	13:A0=PAG;17:A0=PAG
+12	's	's	VBZ	_	13	auxpass	_
+13	ordered	order	VBN	pb=order.01	10	ccomp	10:A1=PPT
+14	Russian	russian	JJ	_	15	amod	_
+15	troops	troop	NNS	_	13	dobj	13:A1=GOL;17:A1=PPT
+16	to	to	TO	_	17	aux	_
+17	pull	pull	VB	pb=pull.01	13	xcomp	13:A2=PPT
+18	back	back	RB	_	17	advmod	17:A2=DIR
+19	from	from	IN	_	18	prep	_
+20	Ukraine	ukraine	NNP	_	23	poss	_
+21	's	's	POS	_	20	possessive	_
+22	eastern	eastern	JJ	_	23	amod	_
+23	border	border	NN	_	19	pobj	_
+24	.	.	.	_	10	punct	_
+
+1	Thanks	thanks	NNS	_	0	root	_
+2	for	for	IN	_	1	prep	_
+3	checking	check	VBG	pb=check.05	2	pcomp	_
+4	us	us	PRP	_	3	dobj	3:A1=LOC
+5	out	out	RP	p2=RB	3	prt	3:C-V
+6	.	.	.	_	1	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	take	take	VB	pb=take.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	look	look	NN	_	2	dobj	2:AM-PRR
+5	at	at	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	rest	rest	NN	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	our	our	PRP$	_	10	poss	_
+10	videos	video	NNS	_	8	pobj	_
+11	and	and	CC	_	10	cc	_
+12	articles	article	NNS	_	10	conj	_
+13	.	.	.	_	2	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	stay	stay	VB	pb=stay.01	7	advcl	7:AM-PRP
+3	in	in	IN	_	2	prep	2:A3
+4	the	the	DT	_	5	det	_
+5	loop	loop	NN	_	3	pobj	_
+6	,	,	,	_	7	punct	_
+7	bookmark	bookmark	VB	p2=CC|pb=bookmark.01	0	root	_
+8	our	our	PRP$	_	9	poss	_
+9	homepage	homepage	NN	_	7	dobj	7:A1
+10	.	.	.	_	7	punct	_
+

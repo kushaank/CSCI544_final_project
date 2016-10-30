@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( Reuters ) -,say.01,it would cut,,Affirmative,"JOHANNESBURG , May 19 ( Reuters ) - AngloGold Ashanti , Africa 's top gold producer , said on Monday it would cut its exploration budget by more than half this year to focus on a few major projects and would restructure and lay off staff at its loss - making Obuasi mine in Ghana . "
+JOHANNESBURG,cut.02,its exploration budget,by,Affirmative,"JOHANNESBURG , May 19 ( Reuters ) - AngloGold Ashanti , Africa 's top gold producer , said on Monday it would cut its exploration budget by more than half this year to focus on a few major projects and would restructure and lay off staff at its loss - making Obuasi mine in Ghana . "
+JOHANNESBURG,lie.01,staff,,Affirmative,"JOHANNESBURG , May 19 ( Reuters ) - AngloGold Ashanti , Africa 's top gold producer , said on Monday it would cut its exploration budget by more than half this year to focus on a few major projects and would restructure and lay off staff at its loss - making Obuasi mine in Ghana . "
+mining companies around,scale.01,exploration,,Affirmative,AngloGold 's action follows a wave of cuts by mining companies around the world which have had to scale back exploration in the face of depressed prices and have been under pressure to rein in capital spending . 
+The gold price,scale.01,record peaks,,Affirmative,"The gold price , for example , has fallen by a third since it scaled record peaks above $ 1,920 an ounce in September of 2011 . "
+The gold price,fetch.01,"around $ 1,300",,Affirmative,"It is currently fetching around $ 1,300 an ounce . "
+chief executive,tell.01,rate is simply not affordable,a media briefing,Affirmative,"The cash bleed rate is simply not affordable , AngloGold 's chief executive Srinivasan Venkatakrishnan , who is known as Venkat , told a media briefing after the company published first quarter results . "
+the company,publish.01,quarter results,,Affirmative,"The cash bleed rate is simply not affordable , AngloGold 's chief executive Srinivasan Venkatakrishnan , who is known as Venkat , told a media briefing after the company published first quarter results . "
+The cash,consume.01,$ 220 million,,Affirmative,It consumed $ 220 million in 2013 . 
+The cash,consume.01,$ 40 million,,Affirmative,"And it has consumed $ 40 million to date in 2014 , he said . "
+AngloGold 's chief executive Srinivasan Venkatakrishnan,say.01,And it has consumed,,Affirmative,"And it has consumed $ 40 million to date in 2014 , he said . "

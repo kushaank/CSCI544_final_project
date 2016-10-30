@@ -1,0 +1,48 @@
+1	and	and	CC	_	2	cc	2:AM-DIS
+2	expertise	expertise	VB	p2=VB|pb=expertise.01	0	root	_
+3	to	to	IN	_	2	prep	2:A2
+4	the	the	DT	_	5	det	_
+5	island	island	NN	_	8	poss	_
+6	's	's	POS	_	5	possessive	_
+7	nascent	nascent	JJ	_	8	nn	_
+8	class	class	NN	_	3	pobj	_
+9	of	of	IN	_	8	prep	_
+10	independent	independent	JJ	_	11	amod	_
+11	entrepreneurs	entrepreneur	NNS	_	9	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	activity	activity	NN	_	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	dedicated	dedicate	VBN	p2=VBD|pb=dedicate.01	0	root	_
+2	to	to	IN	p2=TO	1	prep	1:A2=GOL
+3	contact	contact	NN	_	2	pobj	_
+4	with	with	IN	_	3	prep	_
+5	ordinary	ordinary	JJ	_	6	amod	_
+6	Cubans	cuban	NNPS	_	4	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG;11:A0=PAG
+2	run	run	VBP	pb=run.01	0	root	_
+3	various	various	JJ	_	4	amod	_
+4	sites	site	NNS	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	defense	defense	NN	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	human	human	JJ	_	9	amod	_
+9	rights	right	NNS	_	7	pobj	_
+10	and	and	CC	_	2	cc	_
+11	need	need	VBP	p2=VB|pb=need.01	2	conj	_
+12	support	support	NN	_	11	dobj	11:A1=PPT
+13	to	to	TO	_	14	aux	_
+14	pay	pay	VB	pb=pay.01	12	infmod	_
+15	for	for	IN	_	14	prep	14:A3=PPT
+16	more	more	RBR	p2=JJR	17	advmod	_
+17	powerful	powerful	JJ	_	18	amod	_
+18	servers	server	NNS	_	15	pobj	_
+19	.	.	.	_	2	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+

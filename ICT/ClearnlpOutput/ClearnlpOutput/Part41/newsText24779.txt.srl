@@ -1,0 +1,56 @@
+1	Businessweek.com	#url#	ADD	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	on	on	IN	_	1	prep	_
+4	behalf	behalf	NN	_	3	pobj	_
+5	of	of	IN	_	4	prep	_
+6	itself	itself	PRP	_	5	pobj	_
+7	and	and	CC	_	1	cc	_
+8	select	select	VB	p2=VBP|pb=select.01	1	conj	_
+9	partners	partner	NNS	_	8	dobj	8:A1=PPT
+10	,	,	,	_	8	punct	_
+11	may	may	MD	_	12	aux	12:AM-MOD
+12	send	send	VB	pb=send.01	8	conj	_
+13	me	me	PRP	_	12	iobj	12:A2=GOL
+14	offers	offer	NNS	p2=VBZ	12	dobj	12:A1=PPT
+15	and	and	CC	_	14	cc	_
+16	promotions	promotion	NNS	_	14	conj	_
+17	.	.	.	_	1	punct	_
+
+1	Bloomberg	bloomberg	NNP	_	12	nsubj	12:A0=PAG
+2	,	,	,	_	1	punct	_
+3	on	on	IN	_	8	prep	8:AM-TMP
+4	behalf	behalf	NN	_	3	pobj	_
+5	of	of	IN	_	4	prep	_
+6	itself	itself	PRP	_	5	pobj	_
+7	and	and	CC	_	1	cc	_
+8	select	select	VB	p2=VBP|pb=select.01	0	root	_
+9	partners	partner	NNS	_	8	dobj	8:A1=PPT
+10	,	,	,	_	8	punct	_
+11	may	may	MD	_	12	aux	12:AM-MOD
+12	send	send	VB	pb=send.01	8	conj	_
+13	me	me	PRP	_	12	iobj	12:A2=GOL
+14	offers	offer	NNS	p2=VBZ	12	dobj	12:A1=PPT
+15	and	and	CC	_	14	cc	_
+16	promotions	promotion	NNS	_	14	conj	_
+17	.	.	.	_	1	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	4:A0=PAG;1:A1=PPT
+3	for	for	IN	_	1	prep	1:A2=CAU
+4	subscribing	subscribe	VBG	pb=subscribe.01	3	pcomp	_
+5	to	to	IN	_	4	prep	4:A1=PPT
+6	our	our	PRP$	_	8	poss	_
+7	Daily	daily	NNP	_	8	nn	_
+8	Newsletter	newsletter	NNP	_	5	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	receive	receive	VB	pb=receive.01	0	root	_
+4	a	a	DT	_	6	det	_
+5	confirmation	confirmation	NN	_	6	nn	_
+6	email	email	NN	_	3	dobj	3:A1=PPT
+7	shortly	shortly	RB	_	8	advmod	_
+8	at	at	IN	p2=RB	3	prep	3:AM-TMP
+9	.	.	.	_	3	punct	_
+

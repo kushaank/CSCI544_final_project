@@ -1,0 +1,54 @@
+1	You	you	PRP	_	4	nsubjpass	4:A1=PPT
+2	will	will	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	redirected	redirect	VBN	p2=JJ|pb=redirect.01	0	root	_
+5	to	to	IN	_	4	prep	4:A2=DIR
+6	the	the	DT	_	7	det	_
+7	page	page	NN	_	5	pobj	_
+8	you	you	PRP	_	9	nsubj	9:A0=PAG;11:A0=PPT
+9	want	want	VBP	pb=want.01	7	rcmod	_
+10	to	to	TO	_	11	aux	_
+11	view	view	VB	pb=view.01	9	xcomp	9:A1=PPT
+12	in  seconds	in  seconds	NNS	p2=NNP	11	dobj	11:A1=PAG
+13	.	.	.	_	4	punct	_
+
+1	View	view	NNP	p2=NN	5	nn	_
+2	today	today	NN	_	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	print	print	NN	_	5	nn	_
+5	edition	edition	NN	_	0	root	_
+6	of	of	IN	_	5	prep	_
+7	Action	action	NNP	p2=NN	9	nn	_
+8	Reporter	reporter	NNP	p2=NN	9	nn	_
+9	Media	media	NNP	_	6	pobj	_
+10	!	!	.	_	5	punct	_
+
+1	A	a	DT	_	2	det	_
+2	link	link	NN	_	8	nsubjpass	8:A1=PPT
+3	to	to	IN	_	2	prep	_
+4	this	this	DT	_	5	det	_
+5	page	page	NN	_	3	pobj	_
+6	will	will	MD	_	8	aux	8:AM-MOD
+7	be	be	VB	_	8	auxpass	_
+8	included	include	VBN	pb=include.01	0	root	_
+9	in	in	IN	_	8	prep	8:A2=GOL
+10	your	your	PRP$	_	11	poss	_
+11	message	message	NN	_	9	pobj	_
+12	.	.	.	_	8	punct	_
+
+1	Join	join	VB	p2=VBP|pb=join.01	0	root	_
+2	Our	our	PRP$	p2=NNP	3	poss	_
+3	Team	team	NNP	p2=NN	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	©	©	IN	p2=VBD	1	prep	_
+3	2014	0	CD	_	4	num	_
+4	archive.fdlreporter.com	#url#	ADD	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

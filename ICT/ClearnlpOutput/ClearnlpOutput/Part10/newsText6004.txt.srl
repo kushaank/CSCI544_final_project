@@ -1,0 +1,29 @@
+1	Gentile	gentile	NNP	p2=JJ	2	nn	_
+2	Lettore	lettore	NNP	_	10	dep	_
+3	,	,	,	_	2	punct	_
+4	per	per	IN	_	6	nn	_
+5	commentare	commentare	NN	p2=JJ	4	pobj	_
+6	è	è	NN	p2=WDT	7	nn	_
+7	necessario	necessario	NN	p2=CC	0	root	_
+8	effettuare	effettuare	NN	p2=VBP	10	nn	_
+9	il	il	NN	p2=NNP	10	nn	_
+10	login	login	NN	p2=RB	4	pobj	_
+11	.	.	.	_	2	punct	_
+
+1	Se	se	NNP	p2=JJ	2	nsubj	_
+2	non	non	AFX	p2=NN	3	advmod	_
+3	possiedi	possiedi	JJ	p2=NNP	5	amod	_
+4	un	un	NN	p2=JJ	5	nn	_
+5	account	account	NN	_	14	nn	_
+6	,	,	,	_	5	punct	_
+7	effettua	effettua	FW	p2=NN	5	conj	_
+8	la	la	FW	p2=UH	14	nn	_
+9	registrazione	registrazione	FW	p2=NN	14	nn	_
+10	cliccando	cliccando	FW	p2=NN	14	nn	_
+11	su	su	FW	p2=NN	14	nn	_
+12	"	"	``	p2=FW	14	punct	_
+13	Registrati	registrati	NNP	p2=FW	14	nn	_
+14	subito	subito	NN	p2=FW	0	root	_
+15	"	"	''	_	14	punct	_
+16	.	.	.	_	14	punct	_
+

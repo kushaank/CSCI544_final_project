@@ -1,0 +1,2032 @@
+1	Fascist	fascist	JJ	p2=NN	2	amod	_
+2	regimes	regime	NNS	_	3	nsubj	3:A0=PAG
+3	run	run	VBP	pb=run.01	0	root	_
+4	America	america	NNP	_	3	dobj	3:A1=PPT
+5	and	and	CC	_	4	cc	_
+6	Ukraine	ukraine	NNP	_	4	conj	_
+7	.	.	.	_	3	punct	_
+
+1	Democracy	democracy	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	pure	pure	JJ	_	4	amod	_
+4	fantasy	fantasy	NN	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	Monied	monied	JJ	p2=VBN	2	amod	_
+2	interests	interest	NNS	_	3	nsubj	3:A0=PAG
+3	control	control	VBP	p2=NN|pb=control.01	0	root	_
+4	things	thing	NNS	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	People	people	NNS	_	2	nsubj	2:A0=PAG
+2	have	have	VBP	pb=have.03	0	root	_
+3	no	no	DT	_	4	det	_
+4	say	say	NN	p2=VBP	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Fundamental	fundamental	JJ	_	2	amod	_
+2	freedoms	freedom	NNS	_	5	nsubj	5:A1=PPT
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	matter	matter	VB	pb=matter.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	They	they	PRP	_	3	nsubjpass	3:A1=PPT
+2	're	be	VBP	_	3	auxpass	_
+3	trampled	trample	VBN	pb=trample.01	0	root	_
+4	on	on	RP	p2=IN	3	prt	3:C-V
+5	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubjpass	3:A1=PPT
+2	're	be	VBP	_	3	auxpass	_
+3	crushed	crush	VBN	pb=crush.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Ukraine	ukraine	NNP	p2=NN	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	Obama	obama	NNP	_	7	poss	_
+4	's	's	POS	_	3	possessive	_
+5	latest	late	JJS	_	7	amod	_
+6	imperial	imperial	JJ	_	7	amod	_
+7	trophy	trophy	NN	_	2	attr	2:A2=PRD
+8	.	.	.	_	2	punct	_
+
+1	Holding	hold	VBG	p2=NN|pb=hold.01	3	csubj	3:A1=PPT
+2	it	it	PRP	_	1	dobj	1:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	another	another	DT	_	5	det	_
+5	matter	matter	NN	_	3	attr	3:A2=PRD
+6	entirely	entirely	RB	_	3	advmod	3:AM-EXT
+7	.	.	.	_	3	punct	_
+
+1	Democracy	democracy	NN	p2=NNP	4	nsubjpass	4:A1=PPT
+2	was	be	VBD	_	4	auxpass	_
+3	systematically	systematically	RB	_	4	advmod	4:AM-MNR
+4	quashed	quash	VBN	p2=JJ|pb=quash.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Washington	washington	NNP	_	2	nsubj	2:A0=PAG
+2	elevated	elevate	VBD	p2=JJ|pb=elevate.01	0	root	_
+3	fascist	fascist	JJ	_	4	amod	_
+4	putschists	putschist	NNS	_	2	dobj	2:A1=PPT
+5	to	to	IN	_	2	prep	2:A2=GOL
+6	power	power	NN	_	5	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	unelected	unelected	JJ	p2=VBN	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	radicalized	radicalize	VBN	p2=JJ|pb=radicalize.01	4	amod	_
+4	ultranationalists	ultranationalist	NNS	_	2	attr	3:A1;2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	overt	overt	JJ	p2=VBN	4	amod	_
+4	anti-Semites	anti-semite	NNS	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	militant	militant	JJ	_	4	amod	_
+4	thugs	thug	NNS	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	have	have	VBP	pb=have.03	0	root	_
+3	no	no	DT	_	4	det	_
+4	legitimacy	legitimacy	NN	_	2	dobj	2:A1=PPT
+5	whatever	whatever	WDT	_	4	appos	_
+6	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	convenient	convenient	JJ	_	5	amod	_
+4	US	us	NNP	_	5	nn	_
+5	stooges	stooge	NNS	_	2	attr	2:A2=PRD
+6	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	puppets	puppet	NNS	_	2	attr	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0
+2	take	take	VBP	p2=VB|pb=take.01	0	root	_
+3	orders	order	NNS	_	2	dobj	2:A1=PPT
+4	from	from	IN	_	2	prep	2:A2=DIR
+5	Washington	washington	NNP	_	4	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	masquerade	masquerade	VBP	p2=VBD|pb=masquerade.01	0	root	_
+3	as	as	IN	_	2	prep	2:A1=PRD
+4	politicians	politician	NNS	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	represent	represent	VBP	pb=represent.01	0	root	_
+3	mob	mob	NN	_	4	nn	_
+4	rule	rule	NN	_	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	make	make	VBP	pb=make.02	0	root	_
+3	mafia	mafia	NN	_	4	nn	_
+4	bosses	boss	NNS	_	5	nsubj	5:A0=PPT
+5	look	look	VBP	p2=VB|pb=look.01	2	ccomp	2:A1=PRD
+6	saintly	saintly	RB	_	5	advmod	5:AM-MNR
+7	by	by	IN	_	5	prep	5:A1=GOL
+8	comparison	comparison	NN	_	7	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	Growing	grow	VBG	pb=grow.01	2	amod	_
+2	thousands	#crd#	NNS	_	6	nsubj	6:A0=PAG;1:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	Eastern	eastern	NNP	p2=JJ	5	nn	_
+5	Ukrainians	ukrainian	NNPS	p2=NNP	3	pobj	_
+6	resist	resist	VBP	p2=VB|pb=resist.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	reject	reject	VBP	pb=reject.01	0	root	_
+3	Kiev	kiev	NNP	_	4	nn	_
+4	fascists	fascist	NNS	p2=VBZ	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	do	do	VBP	pb=do.02	0	root	_
+3	so	so	RB	_	2	advmod	2:A1=PPT
+4	for	for	IN	_	2	prep	2:AM-CAU
+5	good	good	JJ	_	6	amod	_
+6	reason	reason	NN	_	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	Maybe	maybe	RB	_	6	advmod	6:AM-ADV
+2	their	their	PRP$	_	4	poss	_
+3	Western	western	JJ	_	4	amod	_
+4	counterparts	counterpart	NNS	_	6	nsubj	6:A0=PAG
+5	will	will	MD	_	6	aux	6:AM-MOD
+6	join	join	VB	pb=join.01	0	root	_
+7	them	them	PRP	_	6	dobj	6:A1=PPT
+8	.	.	.	_	6	punct	_
+
+1	Maybe	maybe	RB	_	6	advmod	6:AM-ADV
+2	a	a	DT	_	4	det	_
+3	national	national	JJ	_	4	amod	_
+4	convulsion	convulsion	NN	_	6	nsubj	6:A1=PPT
+5	will	will	MD	_	6	aux	6:AM-MOD
+6	erupt	erupt	VB	pb=erupt.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Freedom	freedom	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	too	too	RB	_	4	advmod	_
+4	precious	precious	JJ	_	2	acomp	2:A2=PRD
+5	to	to	TO	_	6	aux	_
+6	lose	lose	VB	pb=lose.03	4	xcomp	_
+7	.	.	.	_	2	punct	_
+
+1	Nothing	nothing	NN	_	2	nsubj	2:A1=PPT
+2	remains	remain	VBZ	pb=remain.01	0	root	_
+3	without	without	IN	_	2	prep	2:A3=PRD
+4	it	it	PRP	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Ordinary	ordinary	JJ	_	2	amod	_
+2	people	people	NNS	_	4	nsubj	4:A0=PAG;11:A0=PAG
+3	are	be	VBP	_	4	aux	_
+4	putting	put	VBG	pb=put.01	0	root	_
+5	their	their	PRP$	_	6	poss	_
+6	bodies	body	NNS	_	4	dobj	4:A1=PPT
+7	on	on	IN	_	4	prep	4:A2=GOL
+8	the	the	DT	_	9	det	_
+9	line	line	NN	_	7	pobj	_
+10	to	to	TO	_	11	aux	_
+11	save	save	VB	pb=save.02	4	advcl	4:AM-PRP
+12	it	it	PRP	_	11	dobj	11:A1=PPT
+13	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	doing	do	VBG	pb=do.02	0	root	_
+4	so	so	RB	_	3	advmod	3:A1=PPT
+5	courageously	courageously	RB	_	3	advmod	3:AM-MNR
+6	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	deserve	deserve	VBP	pb=deserve.01	0	root	_
+3	worldwide	worldwide	RB	p2=JJ	2	advmod	2:AM-LOC
+4	support	support	NN	p2=VB	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	represent	represent	VBP	pb=represent.01	0	root	_
+3	model	model	NN	p2=JJ	4	nn	_
+4	resistance	resistance	NN	_	2	dobj	2:A1=PPT;8:A1=PPT
+5	for	for	IN	_	8	mark	_
+6	others	other	NNS	_	8	nsubj	8:A0=PAG
+7	to	to	TO	_	8	aux	_
+8	emulate	emulate	VB	pb=emulate.01	4	rcmod	_
+9	.	.	.	_	2	punct	_
+
+1	Kiev	kiev	NNP	p2=NN	2	nn	_
+2	putschists	putschist	NNS	_	3	nsubj	3:A0=PAG
+3	have	have	VBP	pb=have.03	0	root	_
+4	no	no	DT	_	5	det	_
+5	legitimacy	legitimacy	NN	_	3	dobj	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	waging	wage	VBG	pb=wage.01	0	root	_
+4	war	war	NN	_	3	dobj	3:A1=PPT
+5	on	on	IN	_	3	prep	3:A2=COM
+6	their	their	PRP$	_	8	poss	_
+7	own	own	JJ	_	8	amod	_
+8	people	people	NNS	_	5	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	doing	do	VBG	pb=do.02	0	root	_
+4	it	it	PRP	_	3	dobj	3:A1=PPT
+5	no	no	DT	p2=RB	7	hmod	_
+6	-	-	HYPH	p2=,	7	hyph	_
+7	holds	hold	VBZ	p2=NN	9	hmod	_
+8	-	-	HYPH	p2=:	9	hyph	_
+9	barred	bar	VBN	p2=JJ	3	advcl	_
+10	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	murdering	murder	VBG	pb=murder.01	0	root	_
+4	people	people	NNS	_	3	dobj	3:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	cold	cold	JJ	_	7	amod	_
+7	blood	blood	NN	_	5	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	doing	do	VBG	pb=do.02	0	root	_
+4	it	it	PRP	_	3	dobj	3:A1=PPT
+5	at	at	IN	_	3	prep	3:AM-LOC
+6	Washington	washington	NNP	_	8	poss	_
+7	's	's	POS	_	6	possessive	_
+8	urging	urging	NN	p2=VBG	5	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	Gangsterism	gangsterism	NN	p2=NNP	2	nsubj	2:A2=PAG
+2	reflects	reflect	VBZ	pb=reflect.01	0	root	_
+3	official	official	JJ	p2=NN	5	amod	_
+4	US	us	NNP	_	5	nn	_
+5	policy	policy	NN	_	2	dobj	2:A1=PPT
+6	.	.	.	_	2	punct	_
+
+1	Accountability	accountability	NN	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	absent	absent	JJ	_	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	Permanent	permanent	JJ	p2=NN	2	amod	_
+2	war	war	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	longstanding	longstanding	JJ	_	3	acomp	3:A2=PRD
+5	.	.	.	_	3	punct	_
+
+1	Peace	peace	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	pure	pure	JJ	_	4	amod	_
+4	illusion	illusion	NN	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	Governance	governance	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	secretive	secretive	JJ	_	2	acomp	2:A2=PRD
+4	,	,	,	_	3	punct	_
+5	ruthless	ruthless	JJ	_	3	conj	_
+6	and	and	CC	_	5	cc	_
+7	lawless	lawless	JJ	_	5	conj	_
+8	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	3	nsubjpass	3:A1=PPT
+2	's	's	VBZ	_	3	auxpass	_
+3	dressed	dress	VBN	pb=dress.02	0	root	_
+4	up	up	RP	p2=RB	3	prt	3:C-V
+5	to	to	TO	_	6	aux	_
+6	look	look	VB	pb=look.02	3	advcl	3:AM-PRP
+7	respectable	respectable	JJ	_	6	acomp	6:A1=PPT
+8	in	in	IN	_	6	prep	6:AM-LOC
+9	legal	legal	JJ	_	10	amod	_
+10	mumbo	mumbo	NN	p2=RBS	11	nn	_
+11	jumbo	jumbo	NN	p2=JJ	8	pobj	_
+12	.	.	.	_	3	punct	_
+
+1	Monied	monied	JJ	p2=VBN	2	amod	_
+2	interests	interest	NNS	_	3	nsubj	3:A0=PAG
+3	run	run	VBP	p2=VB|pb=run.01	0	root	_
+4	things	thing	NNS	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	Duopoly	duopoly	JJ	p2=RB	2	amod	_
+2	power	power	NN	_	3	nsubj	3:A0=PAG
+3	represents	represent	VBZ	pb=represent.01	0	root	_
+4	it	it	PRP	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	Checks	check	NNS	p2=VBZ	6	nsubj	6:A1=PAG
+2	and	and	CC	_	1	cc	_
+3	balances	balance	NNS	_	1	conj	_
+4	do	do	VBP	_	6	aux	_
+5	n't	not	RB	_	6	neg	6:AM-NEG
+6	exist	exist	VB	pb=exist.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Nor	nor	CC	p2=JJ	2	cc	_
+2	separation	separation	NN	_	0	root	_
+3	of	of	IN	_	2	prep	_
+4	powers	power	NNS	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Nor	nor	CC	p2=JJ	2	det	_
+2	government	government	NN	_	0	root	_
+3	of	of	IN	_	2	prep	_
+4	,	,	,	_	3	punct	_
+5	by	by	RB	p2=IN	7	advmod	_
+6	and	and	CC	_	3	cc	_
+7	for	for	IN	_	3	conj	_
+8	everyone	everyone	NN	_	7	pobj	_
+9	equitably	equitably	RB	_	8	advmod	_
+10	.	.	.	_	1	punct	_
+
+1	Claiming	claim	VBG	p2=NNP|pb=claim.02	3	csubj	3:A1=PPT
+2	otherwise	otherwise	RB	_	1	advmod	1:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	fantasy	fantasy	NN	_	3	attr	3:A2=PRD
+5	.	.	.	_	3	punct	_
+
+1	Corporate	corporate	NN	p2=NNP	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	controlled	control	VBN	_	4	amod	_
+4	media	medium	NNS	_	5	nsubj	5:A0=PAG
+5	manipulate	manipulate	VBP	pb=manipulate.01	0	root	_
+6	people	people	NNS	_	5	dobj	5:A1=PPT
+7	duplicitously	duplicitously	RB	_	5	advmod	5:AM-ADV
+8	.	.	.	_	5	punct	_
+
+1	Managed	manage	VBN	p2=VBD|pb=manage.01	5	amod	_
+2	news	news	NN	_	5	nn	_
+3	misinformation	misinformation	NN	_	5	nn	_
+4	rubbish	rubbish	NN	_	5	nn	_
+5	substitutes	substitute	NNS	_	0	root	1:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	real	real	JJ	_	8	amod	_
+8	news	news	NN	_	6	pobj	_
+9	,	,	,	_	8	punct	_
+10	information	information	NN	_	8	conj	_
+11	and	and	CC	_	10	cc	_
+12	analysis	analysis	NN	_	10	conj	_
+13	.	.	.	_	5	punct	_
+
+1	"	"	``	_	11	punct	_
+2	Dollar	dollar	JJ	p2=NNP	3	nn	_
+3	imperialism	imperialism	NN	_	11	nsubj	11:A1=PPT
+4	,	,	,	_	3	punct	_
+5	threats	threat	NNS	_	3	conj	_
+6	,	,	,	_	5	punct	_
+7	bribes	bribe	NNS	_	5	conj	_
+8	,	,	,	_	7	punct	_
+9	and	and	CC	_	7	cc	_
+10	wars	war	NNS	_	7	conj	_
+11	are	be	VBP	pb=be.01	20	ccomp	20:A1=PPT
+12	"	"	``	p2=''	11	punct	_
+13	ways	way	NNS	_	11	attr	11:A2=PRD;15:AM-MNR
+14	America	america	NNP	_	15	nsubj	15:A0=PAG
+15	pursues	pursue	VBZ	p2=NNS|pb=pursue.01	13	rcmod	_
+16	unchallenged	unchallenged	JJ	_	18	amod	_
+17	global	global	JJ	_	18	amod	_
+18	hegemony	hegemony	NN	_	15	dobj	15:A1=PPT
+19	,	,	,	_	20	punct	_
+20	says	say	VBZ	pb=say.01	0	root	_
+21	Paul	paul	NNP	_	23	nn	_
+22	Craig	craig	NNP	_	23	nn	_
+23	Roberts	roberts	NNP	_	20	nsubj	20:A0
+24	.	.	.	_	20	punct	_
+
+1	At	at	IN	_	3	prep	3:A2=PRD
+2	stake	stake	NN	_	1	pobj	_
+3	is	be	VBZ	pb=be.01	0	root	_
+4	world	world	NN	p2=JJ	5	nn	_
+5	peace	peace	NN	_	3	nsubj	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	democracy	democracy	NN	_	2	attr	2:A2=PRD
+4	or	or	CC	_	3	cc	_
+5	fascism	fascism	NN	_	3	conj	_
+6	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	p2=POS|pb=be.01	0	root	_
+3	rule	rule	NN	_	2	attr	2:A2=PRD
+4	of	of	IN	_	3	prep	_
+5	law	law	NN	_	6	nn	_
+6	governance	governance	NN	_	4	pobj	_
+7	or	or	CC	_	6	cc	_
+8	tyranny	tyranny	NN	_	6	conj	_
+9	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	freedom	freedom	NN	_	2	attr	2:A2=PRD
+4	or	or	CC	_	3	cc	_
+5	serfdom	serfdom	NN	_	3	conj	_
+6	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	societies	society	NNS	_	2	attr	2:A2=PRD
+4	fit	fit	JJ	p2=VB	3	amod	_
+5	or	or	CC	_	4	cc	_
+6	unfit	unfit	JJ	_	4	conj	_
+7	to	to	TO	_	8	aux	_
+8	live	live	VB	pb=live.01	6	xcomp	_
+9	in	in	IN	_	8	prep	8:AM-LOC
+10	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	life	life	NN	_	2	attr	2:A2=PRD
+4	or	or	CC	p2=IN	3	cc	_
+5	death	death	NN	_	3	conj	_
+6	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	survival	survival	NN	_	2	attr	2:A2=PRD
+4	or	or	CC	_	3	cc	_
+5	demise	demise	NN	_	3	conj	_
+6	.	.	.	_	2	punct	_
+
+1	Ordinary	ordinary	JJ	_	2	amod	_
+2	people	people	NNS	_	4	nsubj	4:A0=PAG
+3	must	must	MD	_	4	aux	4:AM-MOD
+4	decide	decide	VB	pb=decide.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Preserving	preserve	VBG	p2=JJ|pb=preserve.01	4	csubj	4:A0=PAG
+2	constitutional	constitutional	JJ	_	3	amod	_
+3	protections	protection	NNS	_	1	dobj	1:A1=PPT
+4	requires	require	VBZ	p2=NNS|pb=require.01	0	root	_
+5	fighting	fight	VBG	pb=fight.01	4	xcomp	4:A1=PPT
+6	for	for	IN	_	5	prep	5:A2=CAU
+7	them	them	PRP	_	6	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Doing	do	VBG	pb=do.02	3	csubj	3:A0=PAG
+2	so	so	RB	_	1	advmod	1:A1=PPT
+3	means	mean	VBZ	p2=NNS|pb=mean.01	0	root	_
+4	challenging	challenge	VBG	pb=challenge.01	3	xcomp	3:A1=PPT
+5	ruthless	ruthless	JJ	_	6	amod	_
+6	authority	authority	NN	_	4	dobj	4:A1=PPT
+7	.	.	.	_	3	punct	_
+
+1	Today	today	NN	p2=NNP	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	America	america	NNP	_	5	nsubjpass	5:A1
+4	is	be	VBZ	_	5	auxpass	_
+5	militarized	militarize	VBN	pb=militarize.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	At	at	IN	_	0	root	_
+2	federal	federal	JJ	_	7	amod	_
+3	,	,	,	_	2	punct	_
+4	state	state	NN	_	2	conj	_
+5	and	and	CC	_	4	cc	_
+6	local	local	JJ	_	4	conj	_
+7	levels	level	NNS	_	1	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	Police	police	NNS	p2=NN	3	nn	_
+2	state	state	NN	p2=VBP	3	nn	_
+3	lawlessness	lawlessness	NN	_	4	nsubj	4:A2=PAG
+4	reflects	reflect	VBZ	pb=reflect.01	0	root	_
+5	it	it	PRP	_	4	dobj	4:A1=PPT
+6	.	.	.	_	4	punct	_
+
+1	Neocons	neocon	NNS	p2=NNPS	2	nsubj	2:A0=PAG
+2	infest	infest	VBP	p2=IN|pb=infest.01	0	root	_
+3	Washington	washington	NNP	_	2	dobj	2:A1=GOL
+4	.	.	.	_	2	punct	_
+
+1	Bipartisan	bipartisan	JJ	p2=VBN	2	amod	_
+2	criminals	criminal	NNS	_	3	nsubj	3:A0=PAG
+3	run	run	VBP	p2=VB|pb=run.01	0	root	_
+4	things	thing	NNS	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT;3:A1
+2	're	be	VBP	pb=be.01	0	root	_
+3	complicit	complicit	VBN	p2=JJ|pb=complicit.01	2	acomp	2:A2=PRD
+4	with	with	IN	_	3	prep	3:A2
+5	bankers	banker	NNS	_	4	pobj	_
+6	,	,	,	_	5	punct	_
+7	war	war	NN	_	8	nn	_
+8	profiteers	profiteer	NNS	_	5	conj	_
+9	and	and	CC	_	8	cc	_
+10	other	other	JJ	_	12	amod	_
+11	corporate	corporate	JJ	_	12	amod	_
+12	crooks	crook	NNS	_	8	conj	_
+13	.	.	.	_	2	punct	_
+
+1	Rotten	rotten	VBN	p2=RB|pb=rotten.01	0	root	_
+2	to	to	IN	_	1	prep	1:A2
+3	the	the	DT	_	5	det	_
+4	core	core	NN	_	5	nn	_
+5	gangsterism	gangsterism	NN	_	2	pobj	_
+6	reflects	reflect	VBZ	_	1	auxpass	_
+7	US	us	NNP	_	8	nn	_
+8	policy	policy	NN	_	6	dobj	_
+9	.	.	.	_	6	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	malignancy	malignancy	NN	_	2	attr	2:A2=PRD
+5	in	in	IN	_	4	prep	_
+6	America	america	NNP	_	8	poss	_
+7	's	's	POS	_	6	possessive	_
+8	heartland	heartland	NN	_	5	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	self	self	NN	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	destructive	destructive	JJ	_	2	acomp	2:A2=PRD
+6	.	.	.	_	2	punct	_
+
+1	Its	its	PRP$	_	3	poss	_
+2	dark	dark	JJ	_	3	amod	_
+3	side	side	NN	_	4	nsubj	4:A0
+4	endangers	endangers	VBZ	pb=endangers.01	0	root	_
+5	everyone	everyone	NN	_	4	dobj	4:A1
+6	.	.	.	_	4	punct	_
+
+1	Dissent	dissent	NNP	p2=NN	4	nsubjpass	4:A1=PPT
+2	is	be	VBZ	_	4	auxpass	_
+3	increasingly	increasingly	RB	_	4	advmod	4:AM-ADV
+4	challenged	challenge	VBN	pb=challenge.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	So	so	RB	_	2	advmod	2:AM-DIS
+2	is	be	VBZ	pb=be.01	0	root	_
+3	free	free	JJ	_	4	amod	_
+4	expression	expression	NN	_	2	nsubj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Without	without	IN	_	8	prep	8:AM-MNR
+2	it	it	PRP	_	1	pobj	_
+3	,	,	,	_	8	punct	_
+4	all	all	DT	_	6	det	_
+5	other	other	JJ	_	6	amod	_
+6	rights	right	NNS	_	8	nsubj	8:A1=PPT
+7	may	may	MD	_	8	aux	8:AM-MOD
+8	die	die	VB	pb=die.01	0	root	_
+9	.	.	.	_	8	punct	_
+
+1	Privilege	privilege	NN	p2=NNP	3	nsubjpass	3:A1=PPT
+2	is	be	VBZ	_	3	auxpass	_
+3	defended	defend	VBN	pb=defend.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Popular	popular	NNP	p2=JJ	2	nn	_
+2	needs	need	NNS	p2=VBZ	5	nsubj	5:A1=PPT
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	matter	matter	VB	pb=matter.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Social	social	JJ	p2=NN	2	amod	_
+2	justice	justice	NN	_	4	nsubj	4:A0=PAG
+3	is	be	VBZ	_	4	aux	_
+4	suffocating	suffocate	VBG	pb=suffocate.01	0	root	_
+5	in	in	IN	p2=RP	4	prep	4:AM-LOC
+6	plain	plain	JJ	_	7	amod	_
+7	sight	sight	NN	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	So	so	RB	_	2	advmod	2:A2=PRD
+2	are	be	VBP	pb=be.01	0	root	_
+3	precious	precious	JJ	_	7	amod	_
+4	civil	civil	JJ	_	7	amod	_
+5	and	and	CC	_	4	cc	_
+6	human	human	JJ	_	4	conj	_
+7	rights	right	NNS	_	2	nsubj	2:A1=PPT
+8	.	.	.	_	2	punct	_
+
+1	Elections	election	NNS	p2=NNPS	6	nsubj	6:A1=PPT
+2	when	when	WRB	_	3	advmod	3:R-AM-TMP
+3	held	hold	VBN	pb=hold.04	1	advcl	_
+4	do	do	VBP	p2=VB	6	aux	_
+5	n't	not	RB	_	6	neg	6:AM-NEG
+6	matter	matter	VB	pb=matter.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	farcical	farcical	JJ	p2=XX	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	Half	half	PDT	p2=NN	3	predet	_
+2	the	the	DT	_	3	det	_
+3	electorate	electorate	NN	_	5	nsubj	5:A0=PAG
+4	usually	usually	RB	_	5	advmod	5:AM-TMP
+5	opts	opt	VBZ	p2=RB|pb=opt.01	0	root	_
+6	out	out	RP	p2=RB	5	prt	5:C-V
+7	.	.	.	_	5	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PPT
+2	bears	bear	VBZ	pb=bear.01	0	root	_
+3	repeating	repeat	VBG	pb=repeat.01	2	xcomp	2:A1=PAG
+4	.	.	.	_	2	punct	_
+
+1	Democracy	democracy	NN	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	pure	pure	JJ	_	4	amod	_
+4	illusion	illusion	NN	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	3	nsubjpass	3:A1=PPT
+2	's	's	VBZ	_	3	auxpass	_
+3	excluded	exclude	VBN	pb=exclude.01	0	root	_
+4	from	from	IN	_	3	prep	3:A2=VSP
+5	ballots	ballot	NNS	_	4	pobj	_
+6	.	.	.	_	3	punct	_
+
+1	Monied	monied	JJ	p2=VBN	2	amod	_
+2	interests	interest	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	permanently	permanently	RB	_	5	advmod	_
+5	empowered	empowered	JJ	p2=VBN	3	acomp	3:A2=PRD
+6	.	.	.	_	3	punct	_
+
+1	Hot	hot	NNP	p2=JJ	8	npadvmod	8:AM-DIS
+2	,	,	,	_	8	punct	_
+3	financial	financial	JJ	_	6	amod	_
+4	and	and	CC	_	3	cc	_
+5	political	political	JJ	_	3	conj	_
+6	wars	war	NNS	_	8	nsubjpass	8:A1=PPT
+7	are	be	VBP	_	8	auxpass	_
+8	waged	wage	VBN	pb=wage.01	0	root	_
+9	for	for	IN	_	8	prep	8:A2=COM
+10	profit	profit	NN	_	9	pobj	_
+11	.	.	.	_	8	punct	_
+
+1	For	for	IN	_	0	root	_
+2	unchallenged	unchallenged	JJ	_	3	amod	_
+3	dominance	dominance	NN	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	top	top	RB	p2=JJ	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	down	down	RB	p2=JJ	5	amod	_
+5	control	control	NN	p2=VB	1	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	For	for	IN	p2=CC	0	root	_
+2	hardening	harden	VBG	pb=harden.01	1	pcomp	_
+3	it	it	PRP	_	2	dobj	2:A1=PPT
+4	extrajudicially	extrajudicially	RB	_	2	advmod	2:AM-MNR
+5	.	.	.	_	1	punct	_
+
+1	Under	under	IN	_	0	root	_
+2	Washington	washington	NNP	_	3	nn	_
+3	rules	rule	NNS	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	Constitutional	constitutional	JJ	_	2	amod	_
+2	ones	#crd#	NNS	_	5	nsubj	5:A1=PPT
+3	do	do	VBP	_	5	aux	_
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	matter	matter	VB	pb=matter.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	For	for	IN	_	0	root	_
+2	institutionalizing	institutionalize	VBG	p2=JJ|pb=institutionalize.01	3	amod	_
+3	tyranny	tyranny	NN	_	1	pobj	2:A1=PPT
+4	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	preventing	prevent	VBG	pb=prevent.01	1	pcomp	_
+3	fundamental	fundamental	JJ	_	4	amod	_
+4	freedoms	freedom	NNS	_	2	dobj	2:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	So	so	RB	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	called	call	VBN	_	4	amod	_
+4	Democrats	democrat	NNPS	p2=NNS	5	nsubj	5:A1=PPT
+5	are	be	VBP	pb=be.01	0	root	_
+6	indistinguishable	indistinguishable	JJ	_	5	acomp	5:A2=PRD
+7	from	from	IN	_	6	prep	_
+8	Republicans	republican	NNPS	p2=NNS	7	pobj	_
+9	.	.	.	_	5	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	two	#crd#	CD	_	4	num	_
+4	sides	side	NNS	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	8	det	_
+7	same	same	JJ	_	8	amod	_
+8	coin	coin	NN	_	5	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	Longstanding	longstanding	VBG	p2=JJ|pb=longstanding.01	4	csubj	4:A1=PPT
+2	bipartisan	bipartisan	JJ	_	3	amod	_
+3	policy	policy	NN	_	1	dobj	1:A1
+4	is	be	VBZ	pb=be.01	0	root	_
+5	horrific	horrific	JJ	_	4	acomp	4:A2=PRD
+6	.	.	.	_	4	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	mocks	mock	VBZ	pb=mock.01	0	root	_
+3	legitimacy	legitimacy	NN	_	2	dobj	2:A1=PPT
+4	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	pro-war	pro-war	JJ	p2=NN	2	acomp	2:A2=PRD
+4	,	,	,	_	3	punct	_
+5	anti-peace	anti-peace	JJ	_	3	conj	_
+6	,	,	,	_	5	punct	_
+7	anti-democracy	anti-democracy	JJ	p2=NN	5	conj	_
+8	,	,	,	_	7	punct	_
+9	anti-freedom	anti-freedom	JJ	_	7	conj	_
+10	,	,	,	_	9	punct	_
+11	pro-business	pro-business	JJ	p2=NN	9	conj	_
+12	,	,	,	_	11	punct	_
+13	anti-populist	anti-populist	JJ	_	11	conj	_
+14	,	,	,	_	13	punct	_
+15	anti-labor	anti-labor	JJ	p2=CC	13	conj	_
+16	,	,	,	_	15	punct	_
+17	anti-general	anti-general	JJ	_	18	amod	_
+18	welfare	welfare	NN	_	15	conj	_
+19	,	,	,	_	18	punct	_
+20	and	and	CC	_	18	cc	_
+21	anti-rule	anti-rule	JJ	p2=NN	18	conj	_
+22	of	of	IN	_	21	prep	_
+23	law	law	NN	_	24	nn	_
+24	governance	governance	NN	_	22	pobj	_
+25	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	polar	polar	JJ	_	4	amod	_
+4	opposite	opposite	JJ	p2=IN	2	acomp	2:A2=PRD
+5	what	what	WP	p2=WDT	7	dobj	7:R-A1
+6	everyone	everyone	NN	_	7	nsubj	7:A0=PAG
+7	deserves	deserve	VBZ	pb=deserve.01	4	ccomp	_
+8	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0
+2	reveals	reveal	VBZ	pb=reveal.01	0	root	_
+3	America	america	NNP	_	5	poss	_
+4	's	's	POS	p2=VBZ	3	possessive	_
+5	dark	dark	NN	p2=JJ	2	dobj	2:A1=PPT
+6	.	.	.	_	2	punct	_
+
+1	Resisting	resist	VBG	p2=JJ|pb=resist.01	2	amod	_
+2	tyranny	tyranny	NN	_	3	nsubj	1:A1=PPT;3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	a	a	DT	_	6	det	_
+5	universal	universal	JJ	_	6	amod	_
+6	right	right	NN	_	3	attr	3:A2=PRD
+7	.	.	.	_	3	punct	_
+
+1	Electoral	electoral	JJ	p2=NNP	2	amod	_
+2	participation	participation	NN	_	5	nsubj	5:A0=PAG
+3	wo	wo	MD	_	5	aux	5:AM-MOD
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	do	do	VB	pb=do.02	0	root	_
+6	it	it	PRP	_	5	dobj	5:A1=PPT
+7	.	.	.	_	5	punct	_
+
+1	Corrupted	corrupt	VBN	p2=VBD|pb=corrupt.01	3	amod	_
+2	monied	monied	JJ	p2=VBN	3	amod	_
+3	interests	interest	NNS	_	4	nsubj	4:A0=PAG;1:A1=PPT
+4	make	make	VBP	p2=VB|pb=make.01	0	root	_
+5	policy	policy	NN	_	4	dobj	4:A1=PRD
+6	.	.	.	_	4	punct	_
+
+1	Inequality	inequality	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	unprecedented	unprecedented	JJ	_	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	So	so	RB	_	2	advmod	2:AM-DIS
+2	is	be	VBZ	pb=be.01	0	root	_
+3	repressive	repressive	JJ	_	4	amod	_
+4	governance	governance	NN	_	2	nsubj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Change	change	NN	p2=VB	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	possible	possible	JJ	_	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	Disruptive	disruptive	JJ	_	3	amod	_
+2	power	power	NN	_	3	nn	3:A0=PAG
+3	works	work	VBZ	p2=VBZ|pb=work.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Popular	popular	NNP	p2=JJ	2	nsubj	2:A0=PAG;3:A2=PAG
+2	struggles	struggle	VBZ	p2=NNS|pb=struggle.02	0	root	_
+3	reflect	reflect	VB	p2=VBP|pb=reflect.01	2	xcomp	2:A1=PPT
+4	it	it	PRP	_	3	dobj	3:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Ordinary	ordinary	JJ	_	2	amod	_
+2	people	people	NNS	_	4	nsubj	4:A0=PAG
+3	can	can	MD	_	4	aux	4:AM-MOD
+4	make	make	VB	pb=make.01	0	root	_
+5	a	a	DT	_	6	det	_
+6	difference	difference	NN	_	4	dobj	4:A1=PRD
+7	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG;5:A0=PAG
+2	have	have	VBP	pb=have.03	0	root	_
+3	power	power	NN	_	2	dobj	2:A1=PPT
+4	when	when	WRB	_	5	advmod	5:R-AM-TMP
+5	using	use	VBG	pb=use.01	2	advcl	2:AM-TMP
+6	it	it	PRP	_	5	dobj	5:A1=PPT
+7	.	.	.	_	2	punct	_
+
+1	Collective	collective	JJ	p2=NNP	2	amod	_
+2	defiance	defiance	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	required	require	VBN	pb=require.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Sustaining	sustain	VBG	pb=sustain.01	0	root	_
+2	it	it	PRP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	the	the	DT	_	4	det	_
+3	long	long	JJ	_	4	amod	_
+4	haul	haul	NN	_	1	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	total	total	JJ	_	3	amod	_
+3	commitment	commitment	NN	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	fundamental	fundamental	JJ	_	3	amod	_
+3	rights	right	NNS	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	ones	#crd#	NNS	_	1	pobj	_
+3	too	too	RB	_	4	advmod	_
+4	precious	precious	JJ	_	2	amod	_
+5	to	to	TO	_	6	aux	_
+6	lose	lose	VB	pb=lose.03	4	xcomp	_
+7	.	.	.	_	1	punct	_
+
+1	In	in	IN	_	5	prep	5:AM-TMP
+2	February	february	NNP	_	1	pobj	_
+3	,	,	,	_	5	punct	_
+4	Washington	washington	NNP	_	5	nsubj	5:A0=PAG
+5	toppled	topple	VBD	pb=topple.01	0	root	_
+6	Ukraine	ukraine	NNP	_	9	poss	_
+7	's	's	POS	_	6	possessive	_
+8	legitimate	legitimate	JJ	_	9	amod	_
+9	government	government	NN	_	5	dobj	5:A1=PPT
+10	.	.	.	_	5	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	elevated	elevate	VBD	pb=elevate.01	0	root	_
+3	fascist	fascist	JJ	_	4	amod	_
+4	putschists	putschist	NNS	_	2	dobj	2:A1=PPT
+5	to	to	IN	_	2	prep	2:A2=GOL
+6	power	power	NN	_	5	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	masquerade	masquerade	VBP	p2=VBD|pb=masquerade.01	0	root	_
+3	as	as	IN	p2=RB	2	prep	2:A1=PRD
+4	legitimate	legitimate	JJ	_	3	amod	_
+5	.	.	.	_	2	punct	_
+
+1	Washington	washington	NNP	_	2	nsubj	2:A0=PAG
+2	extends	extend	VBZ	pb=extend.01	0	root	_
+3	full	full	JJ	_	4	amod	_
+4	support	support	NN	_	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	So	so	RB	_	2	advmod	2:AM-DIS
+2	do	do	VB	p2=VBP|pb=do.02	0	root	_
+3	media	medium	NNS	p2=NN	4	nn	_
+4	scoundrels	scoundrel	NNS	p2=VBZ	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	defend	defend	VBP	pb=defend.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	indefensible	indefensible	NN	p2=JJ	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	_
+2	back	back	RB	p2=VBP	0	root	_
+3	what	what	WP	p2=WDT	4	nsubj	4:R-A0
+4	demands	demand	VBZ	p2=NNS|pb=demand.01	2	ccomp	_
+5	rejection	rejection	NN	_	4	dobj	4:A1=PPT
+6	.	.	.	_	2	punct	_
+
+1	Kiev	kiev	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	declared	declare	VBD	pb=declare.02	0	root	_
+3	war	war	NN	_	2	dobj	2:A1=PPT
+4	on	on	IN	_	2	prep	2:AM-LOC
+5	its	its	PRP$	_	7	poss	_
+6	own	own	JJ	_	7	amod	_
+7	people	people	NNS	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Fascist	fascist	JJ	p2=NN	2	amod	_
+2	regimes	regime	NNS	_	3	nsubj	3:A0=PAG
+3	operate	operate	VBP	pb=operate.01	0	root	_
+4	this	this	DT	_	5	det	_
+5	way	way	NN	_	3	dobj	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	Fighting	fight	VBG	p2=NN|pb=fight.01	2	amod	_
+2	rages	rage	NNS	_	0	root	1:A1=COM
+3	in	in	IN	_	2	prep	_
+4	Slavyansk	slavyansk	NNP	p2=NN	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Loud	loud	JJ	_	2	amod	_
+2	blasts	blast	NNS	_	3	nsubj	3:A2=PAG
+3	reflect	reflect	VBP	p2=VB|pb=reflect.01	0	root	_
+4	it	it	PRP	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	So	so	RB	_	2	advmod	2:AM-DIS
+2	does	do	VBZ	pb=do.02	0	root	_
+3	heavy	heavy	JJ	_	4	amod	_
+4	gunfire	gunfire	NN	_	2	nsubj	2:A0=PAG
+5	.	.	.	_	2	punct	_
+
+1	Full	full	JJ	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	scale	scale	NN	_	5	nn	_
+4	military	military	JJ	p2=NN	5	amod	_
+5	operations	operation	NNS	_	6	nsubj	6:A1=PPT
+6	continue	continue	VBP	p2=VB|pb=continue.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	In	in	IN	_	0	root	_
+2	Slavyansk	slavyansk	NNP	p2=NN	1	pobj	_
+3	.	.	.	_	1	punct	_
+
+1	In	in	IN	_	0	root	_
+2	Kramatorsk	kramatorsk	NNP	p2=NN	1	pobj	_
+3	.	.	.	_	1	punct	_
+
+1	In	in	IN	_	0	root	_
+2	northern	northern	JJ	_	4	amod	_
+3	Donetsk	donetsk	NNP	p2=JJ	4	nn	_
+4	region	region	NN	_	1	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	On	on	IN	_	5	prep	5:AM-TMP
+2	Sunday	sunday	NNP	_	1	pobj	_
+3	,	,	,	_	5	punct	_
+4	fighting	fight	VBG	p2=NN	5	nsubj	5:A1=PPT
+5	escalated	escalate	VBN	p2=VBD|pb=escalate.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Ukrainian	ukrainian	JJ	_	2	amod	_
+2	forces	force	NNS	_	3	nsubj	3:A0=PAG;4:A0=PAG
+3	tried	try	VBD	pb=try.01	0	root	_
+4	dismantling	dismantle	VBG	p2=NN|pb=dismantle.01	3	xcomp	3:A1=PPT
+5	self	self	NN	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	defense	defense	NN	p2=JJ	8	nn	_
+8	posts	post	NNS	_	4	dobj	4:A1=PPT
+9	.	.	.	_	3	punct	_
+
+1	Casualty	casualty	NN	p2=NNP	2	nn	_
+2	numbers	number	NNS	_	5	nsubjpass	5:A1=PPT
+3	are	be	VBP	_	5	auxpass	_
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	known	know	VBN	p2=JJ|pb=know.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	RT	rt	NNP	p2=IN	5	nn	_
+2	International	international	NNP	_	5	nn	_
+3	stringer	stringer	JJR	p2=NN	5	nn	_
+4	Graham	graham	NNP	_	5	nn	_
+5	Phillips	phillips	NNP	_	6	nsubj	6:A0=PAG
+6	reported	report	VBD	pb=report.01	0	root	_
+7	military	military	JJ	_	8	amod	_
+8	action	action	NN	_	6	dobj	6:A1
+9	around	around	IN	p2=RB	8	prep	_
+10	Slavyansk	slavyansk	NNP	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	outskirts	outskirt	NNS	_	9	pobj	_
+13	.	.	.	_	6	punct	_
+
+1	"	"	``	_	25	punct	_
+2	There	there	EX	_	5	expl	_
+3	had	have	VBD	_	25	aux	_
+4	been	be	VBN	pb=be.01	25	ccomp	25:A1=PPT
+5	repeated	repeat	VBN	pb=repeat.01	6	amod	_
+6	blasts	blast	NNS	_	4	attr	5:A1=PPT;4:A2=PRD
+7	,	,	,	_	4	punct	_
+8	and	and	CC	_	4	cc	_
+9	we	we	PRP	_	10	nsubj	10:A0=PAG
+10	have	have	VBP	pb=have.03	4	conj	_
+11	reports	report	NNS	_	10	dobj	10:A1=PPT
+12	that	that	IN	_	16	complm	_
+13	the	the	DT	_	15	det	_
+14	Ukrainian	ukrainian	JJ	_	15	amod	_
+15	military	military	NN	p2=JJ	16	nsubj	16:A1=PPT
+16	is	be	VBZ	pb=be.01	11	ccomp	_
+17	on	on	IN	_	16	prep	16:A2=PRD
+18	all	all	DT	_	19	det	_
+19	sides	side	NNS	_	17	pobj	_
+20	of	of	IN	_	19	prep	_
+21	the	the	DT	_	22	det	_
+22	city	city	NN	_	20	pobj	_
+23	,	,	,	_	25	punct	_
+24	he	he	PRP	_	25	nsubj	25:A0
+25	said	say	VBD	pb=say.01	0	root	_
+26	.	.	.	_	25	punct	_
+27	"	"	''	p2=``	25	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	have	have	VBP	pb=have.03	0	root	_
+3	heavy	heavy	JJ	p2=NN	4	amod	_
+4	fighting	fighting	NN	_	2	dobj	2:A1=PPT
+5	to	to	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	east	east	NN	p2=NNS	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	city	city	NN	_	8	pobj	_
+11	.	.	.	_	2	punct	_
+
+1	I	I	PRP	_	2	nsubj	2:A0=PPT
+2	went	go	VBD	pb=go.02	0	root	_
+3	there	there	RB	_	2	advmod	2:A4=GOL
+4	several	several	JJ	_	5	amod	_
+5	hours	hour	NNS	_	6	npadvmod	_
+6	ago	ago	RB	_	2	advmod	2:AM-TMP
+7	,	,	,	_	2	punct	_
+8	and	and	CC	_	2	cc	_
+9	we	we	PRP	_	10	nsubj	10:A0=PAG
+10	had	have	VBD	pb=have.03	2	conj	_
+11	gunfire	gunfire	NN	_	12	nsubj	12:A1=DIR
+12	breaking	break	VBG	pb=break.10	10	ccomp	10:A1=PPT
+13	out	out	RP	p2=IN	12	prt	12:C-V
+14	by	by	IN	_	12	prep	12:AM-TMP
+15	eight	#crd#	CD	_	16	num	_
+16	o'clock	o'clock	NN	_	14	pobj	_
+17	.	.	.	_	10	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	"	"	``	_	4	punct	_
+3	We	we	PRP	_	4	nsubj	4:A0=PAG
+4	had	have	VBD	pb=have.03	0	root	_
+5	reports	report	NNS	_	4	dobj	4:A1=PPT
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	9	det	_
+8	Ukrainian	ukrainian	JJ	_	9	amod	_
+9	military	military	NN	p2=JJ	6	pobj	10:A1=PPT
+10	moving	move	VBG	pb=move.01	9	partmod	_
+11	in	in	IN	p2=RP	10	advmod	10:AM-DIR
+12	at	at	IN	_	10	prep	10:AM-LOC
+13	that	that	DT	_	14	det	_
+14	side	side	NN	_	12	pobj	_
+15	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	"	"	``	_	4	punct	_
+3	We	we	PRP	_	4	nsubj	4:A0=PAG
+4	got	get	VBD	pb=get.01	0	root	_
+5	reports	report	NNS	_	4	dobj	4:A1=PPT
+6	that	that	IN	_	9	complm	_
+7	they	they	PRP	_	9	nsubj	9:A1=PPT
+8	are	be	VBP	_	9	aux	_
+9	moving	move	VBG	pb=move.01	5	ccomp	_
+10	in	in	RB	p2=RP	9	advmod	9:AM-DIR
+11	from	from	IN	_	9	prep	9:AM-DIR
+12	the	the	DT	_	13	det	_
+13	south	south	NN	p2=JJ	11	pobj	_
+14	,	,	,	_	13	punct	_
+15	north	north	NN	p2=RB	13	conj	_
+16	and	and	CC	_	15	cc	_
+17	also	also	RB	_	18	advmod	_
+18	action	action	NN	_	15	conj	_
+19	at	at	IN	_	18	prep	_
+20	the	the	DT	_	21	det	_
+21	airfield	airfield	NN	_	19	pobj	_
+22	at	at	IN	_	21	prep	_
+23	Kramatorsk	kramatorsk	NNP	p2=NN	22	pobj	_
+24	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	"	"	``	_	4	punct	_
+3	There	there	EX	_	4	expl	_
+4	is	be	VBZ	pb=be.02	0	root	_
+5	a	a	DT	_	6	det	_
+6	conflict	conflict	NN	_	4	attr	4:A1=PPT
+7	between	between	IN	_	6	prep	_
+8	the	the	DT	_	10	det	_
+9	Ukrainian	ukrainian	JJ	_	10	amod	_
+10	army	army	NN	_	7	pobj	_
+11	and	and	CC	_	10	cc	_
+12	pro-Donetsk	pro-donetsk	JJ	p2=NN	13	amod	_
+13	forces	force	NNS	_	10	conj	_
+14	there	there	RB	_	13	advmod	_
+15	.	.	.	_	4	punct	_
+
+1	"	"	``	_	3	punct	_
+2	Phillips	phillips	NNP	p2=NNS	3	nsubj	3:A0=PAG
+3	reported	report	VBD	pb=report.01	0	root	_
+4	"	"	``	p2=''	6	punct	_
+5	loud	loud	JJ	_	6	amod	_
+6	blasts	blast	NNS	_	3	dobj	3:A1
+7	,	,	,	_	6	punct	_
+8	explosions	explosion	NNS	_	6	appos	_
+9	...	..	.	_	3	punct	_
+
+1	reverberations	reverberation	NNS	_	4	nsubj	4:A1
+2	of	of	IN	_	1	prep	_
+3	gunfire	gunfire	NN	_	2	pobj	_
+4	ricocheting	ricochet	VBG	p2=NN|pb=ricochet.01	0	root	_
+5	around	around	IN	_	4	prep	4:AM-LOC
+6	the	the	DT	_	7	det	_
+7	city	city	NN	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	37	punct	_
+2	"	"	``	_	5	punct	_
+3	The	the	DT	_	4	det	_
+4	gunfire	gunfire	NN	_	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	37	ccomp	37:A1=PPT
+6	a	a	DT	_	7	det	_
+7	fabric	fabric	NN	_	5	attr	5:A2=PRD
+8	of	of	IN	_	7	prep	_
+9	daily	daily	JJ	_	10	amod	_
+10	life	life	NN	_	8	pobj	_
+11	now	now	RB	_	5	advmod	5:AM-TMP
+12	in	in	IN	_	5	prep	_
+13	Slavyansk	slavyansk	NNP	_	12	pobj	_
+14	,	,	,	_	5	punct	_
+15	but	but	CC	_	5	cc	_
+16	this	this	DT	_	17	nsubj	17:A1=PPT
+17	is	be	VBZ	pb=be.01	5	conj	_
+18	the	the	DT	_	20	det	_
+19	heaviest	heavy	JJS	_	20	amod	_
+20	fighting	fighting	NN	p2=VBG	17	attr	23:A1;17:A2=PRD
+21	I	I	PRP	_	23	nsubj	23:A0
+22	've	have	VBP	_	23	aux	_
+23	heard	hear	VBN	pb=hear.01	20	rcmod	_
+24	in	in	IN	p2=RP	23	prep	23:AM-LOC
+25	Slavyansk	slavyansk	NNP	p2=NN	24	pobj	_
+26	since	since	IN	_	28	mark	_
+27	I	I	PRP	_	28	nsubj	28:A1=PPT
+28	got	get	VBD	pb=get.01	23	advcl	23:AM-TMP
+29	here	here	RB	_	28	advmod	28:A2=DIR
+30	over	over	IN	p2=RB	31	quantmod	_
+31	a	a	DT	_	32	num	_
+32	month	month	NN	_	33	npadvmod	_
+33	ago	ago	RB	_	28	advmod	28:AM-TMP
+34	,	,	,	_	37	punct	_
+35	"	"	''	_	37	punct	_
+36	he	he	PRP	_	37	nsubj	37:A0
+37	said	say	VBD	pb=say.01	0	root	_
+38	.	.	.	_	37	punct	_
+
+1	Ukraine	ukraine	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	doubled	double	VBD	pb=double.01	8	ccomp	8:A1=PPT
+3	its	its	PRP$	_	5	poss	_
+4	area	area	NN	_	5	nn	_
+5	forces	force	NNS	_	2	dobj	2:A1=PPT
+6	,	,	,	_	8	punct	_
+7	he	he	PRP	_	8	nsubj	8:A0=PAG
+8	believes	believe	VBZ	pb=believe.01	0	root	_
+9	.	.	.	_	8	punct	_
+10	"	"	''	_	8	punct	_
+
+1	(	(	-LRB-	_	4	punct	_
+2	W	w	NNP	p2=NN	4	nn	_
+3	)	)	-RRB-	_	4	punct	_
+4	hat	hat	NN	p2=VBP	8	nsubj	6:A1;8:A1=PPT;10:A1=PPT
+5	you	you	PRP	_	6	nsubj	6:A0
+6	see	see	VBP	pb=see.01	4	rcmod	_
+7	now	now	RB	_	6	advmod	6:AM-TMP
+8	seems	seem	VBZ	pb=seem.01	43	ccomp	43:A1=PPT
+9	to	to	TO	_	10	aux	_
+10	be	be	VB	pb=be.01	8	xcomp	8:C-A1
+11	the	the	DT	_	15	det	_
+12	sharpest	sharp	JJS	_	15	amod	_
+13	and	and	CC	_	12	cc	_
+14	strongest	strong	JJS	_	12	conj	_
+15	action	action	NN	_	10	attr	10:A2=PRD
+16	yet	yet	RB	_	15	advmod	_
+17	on	on	IN	_	15	prep	_
+18	their	their	PRP$	_	19	poss	_
+19	part	part	NN	_	17	pobj	_
+20	to	to	TO	_	21	aux	_
+21	try	try	VB	pb=try.01	15	infmod	_
+22	to	to	TO	_	23	aux	_
+23	retake	retake	VB	pb=retake.01	21	xcomp	21:A1=PPT
+24	the	the	DT	_	25	det	_
+25	city	city	NN	_	23	dobj	23:A1=PPT;29:A1=PPT
+26	,	,	,	_	25	punct	_
+27	which	which	WDT	_	29	nsubj	29:R-A1
+28	has	have	VBZ	_	29	aux	_
+29	been	be	VBN	pb=be.01	25	rcmod	_
+30	in	in	IN	_	29	prep	29:A2=PRD
+31	the	the	DT	_	32	det	_
+32	hands	hand	NNS	_	30	pobj	_
+33	of	of	IN	_	32	prep	_
+34	these	these	DT	_	36	det	_
+35	pro-Donetsk	pro-donetsk	JJ	p2=VBN	36	amod	_
+36	activists	activist	NNS	_	33	pobj	_
+37	since	since	IN	_	29	prep	29:AM-TMP
+38	April	april	NNP	_	37	pobj	_
+39	12	0	CD	_	38	num	_
+40	,	,	,	_	43	punct	_
+41	"	"	''	p2=``	43	punct	_
+42	he	he	PRP	_	43	nsubj	43:A0=PAG
+43	added	add	VBD	pb=add.01	0	root	_
+44	.	.	.	_	43	punct	_
+
+1	Slavyansk	slavyansk	NNP	p2=VB	2	nn	_
+2	People	people	NNPS	p2=NNP	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Mayor	mayor	NNP	_	6	nn	_
+5	Vyacheslav	vyacheslav	NNP	_	6	nn	_
+6	Ponomaryov	ponomaryov	NNP	_	7	nsubj	7:A0
+7	said	say	VBD	pb=say.01	0	root	_
+8	"	"	``	p2=''	7	punct	_
+9	(	(	-LRB-	_	14	punct	_
+10	t	t	NN	p2=FW	14	npadvmod	_
+11	)	)	-RRB-	_	14	punct	_
+12	he	he	PRP	_	13	nmod	_
+13	city	city	NN	_	14	nsubj	14:A1=PPT;22:A1=PPT
+14	came	come	VBD	pb=come.04	7	ccomp	7:A1=PPT
+15	under	under	IN	_	14	prep	14:A2=PRD
+16	fire	fire	NN	_	15	pobj	_
+17	(	(	-LRB-	_	14	punct	_
+18	Saturday	saturday	NNP	_	14	npadvmod	_
+19	)	)	-RRB-	_	20	punct	_
+20	afternoon	afternoon	NN	_	14	npadvmod	14:AM-TMP
+21	and	and	CC	_	14	cc	_
+22	continued	continue	VBD	pb=continue.01	14	conj	_
+23	throughout	throughout	IN	_	22	prep	22:AM-TMP
+24	the	the	DT	_	25	det	_
+25	night	night	NN	_	23	pobj	_
+26	.	.	.	_	7	punct	_
+
+1	"	"	``	p2=''	8	punct	_
+2	"	"	``	_	8	punct	_
+3	Our	our	PRP$	_	7	poss	_
+4	self	self	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	defense	defense	NN	_	7	nn	_
+7	force	force	NN	_	8	nsubj	8:A0=PAG;12:A0=PAG
+8	joined	join	VBD	pb=join.01	0	root	_
+9	the	the	DT	_	10	det	_
+10	fighting	fighting	NN	_	8	dobj	8:A1=PPT
+11	and	and	CC	_	8	cc	_
+12	eliminated	eliminate	VBD	pb=eliminate.01	8	conj	_
+13	up	up	RP	p2=IN	12	prt	12:C-V
+14	to	to	IN	_	12	prep	12:A1=PPT
+15	seven	#crd#	CD	_	16	num	_
+16	attackers	attacker	NNS	_	14	pobj	_
+17	.	.	.	_	8	punct	_
+
+1	"	"	``	_	5	punct	_
+2	Ukraine	ukraine	NNP	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	military	military	NN	p2=JJ	5	nsubj	5:A0=PAG
+5	uses	use	VBZ	pb=use.01	0	root	_
+6	heavy	heavy	JJ	_	7	amod	_
+7	weapons	weapon	NNS	_	5	dobj	5:A1=PPT
+8	.	.	.	_	5	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A2=GOL
+2	include	include	VBP	pb=include.01	0	root	_
+3	tanks	tank	NNS	_	2	dobj	2:A1=PPT
+4	,	,	,	_	3	punct	_
+5	artillery	artillery	NN	_	3	conj	_
+6	,	,	,	_	5	punct	_
+7	mortars	mortar	NNS	p2=NN	5	conj	_
+8	,	,	,	_	7	punct	_
+9	and	and	CC	_	7	cc	_
+10	helicopter	helicopter	NN	_	11	nn	_
+11	gunships	gunship	NNS	_	7	conj	_
+12	.	.	.	_	2	punct	_
+
+1	Their	their	PRP$	_	2	poss	_
+2	forces	force	NNS	_	9	nsubj	9:A1=PPT
+3	"	"	``	p2=''	6	punct	_
+4	tr	tr	NN	p2=CC	6	nn	_
+5	(	(	-LRB-	_	6	punct	_
+6	ied	ied	NN	p2=VBD	2	appos	_
+7	)	)	-RRB-	_	6	punct	_
+8	to	to	TO	p2=IN	9	aux	_
+9	advance	advance	VB	p2=NN|pb=advance.01	0	root	_
+10	further	far	RB	p2=JJ	9	advmod	9:AM-MNR
+11	inside	inside	IN	_	9	prep	9:AM-LOC
+12	the	the	DT	_	13	det	_
+13	city	city	NN	_	11	pobj	_
+14	,	,	,	_	16	punct	_
+15	"	"	''	_	16	punct	_
+16	said	say	VBD	pb=say.01	0	root	_
+17	Ponomaryov	ponomaryov	NNP	_	16	nsubj	16:A0
+18	.	.	.	_	16	punct	_
+19	"	"	''	p2=``	16	punct	_
+
+1	We	we	PRP	_	4	nsubj	4:A0=PAG
+2	are	be	VBP	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	letting	let	VBG	pb=let.01	0	root	_
+5	them	them	PRP	_	6	nsubj	6:A0=PAG;9:A0=PAG
+6	do	do	VB	pb=do.02	4	ccomp	4:A1=PPT
+7	that	that	DT	_	6	dobj	6:A1=PPT
+8	but	but	CC	_	6	cc	_
+9	keep	keep	VB	pb=keep.02	6	conj	_
+10	them	them	PRP	_	9	dobj	9:A1=PPT
+11	in	in	IN	_	9	oprd	9:A2=PRD
+12	the	the	DT	_	13	det	_
+13	outskirts	outskirt	NNS	_	11	pobj	_
+14	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	Miroslav	miroslav	NNP	p2=PRP$	3	nn	_
+3	Rudenko	rudenko	NNP	_	4	nsubj	4:A1=PPT
+4	is	be	VBZ	pb=be.01	0	root	_
+5	Donetsk	donetsk	NNP	_	6	nn	_
+6	People	people	NNPS	p2=NNP	8	poss	_
+7	's	's	POS	_	6	possessive	_
+8	Republic	republic	NNP	_	9	nn	_
+9	co-chairman	co-chairman	NN	_	4	attr	4:A2=PRD
+10	.	.	.	_	4	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	p2=POS|pb=be.01	0	root	_
+3	deputy	deputy	NN	p2=JJ	8	nn	_
+4	self	self	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	defense	defense	NN	p2=JJ	7	nn	_
+7	force	force	NN	_	8	nn	_
+8	commander	commander	NN	_	2	attr	2:A2=PRD
+9	.	.	.	_	2	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A0=PAG
+2	reported	report	VBD	pb=report.01	0	root	_
+3	full	full	JJ	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	scale	scale	NN	_	6	nn	_
+6	hostilities	hostility	NNS	_	2	dobj	2:A1
+7	around	around	IN	p2=RB	6	prep	_
+8	Slavyansk	slavyansk	NNP	p2=NN	7	pobj	_
+9	and	and	CC	_	8	cc	_
+10	Kramatorsk	kramatorsk	NNP	_	8	conj	_
+11	.	.	.	_	2	punct	_
+
+1	Fighting	fight	VBG	p2=NN	2	nsubj	2:A1=PPT
+2	began	begin	VBD	pb=begin.01	0	root	_
+3	Saturday	saturday	NNP	_	2	npadvmod	2:AM-TMP
+4	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	continued	continue	VBD	pb=continue.01	0	root	_
+3	Sunday	sunday	NNP	_	2	npadvmod	2:AM-TMP
+4	.	.	.	_	2	punct	_
+5	"	"	''	_	2	punct	_
+
+1	Things	thing	NNS	_	2	nsubj	2:A1=PPT
+2	got	get	VBD	p2=VBP|pb=get.03	8	ccomp	8:A1=PPT
+3	pretty	pretty	RB	_	4	advmod	_
+4	tough	tough	JJ	_	2	acomp	2:A2=GOL
+5	,	,	,	_	8	punct	_
+6	"	"	''	_	8	punct	_
+7	he	he	PRP	_	8	nsubj	8:A0
+8	said	say	VBD	pb=say.01	0	root	_
+9	.	.	.	_	8	punct	_
+
+1	Kiev	kiev	NNP	_	3	nn	_
+2	National	national	NNP	_	3	nn	_
+3	Guard	guard	NNP	_	4	nn	_
+4	extremists	extremist	NNS	_	5	nsubj	5:A0=PAG
+5	killed	kill	VBD	p2=VBN|pb=kill.01	0	root	_
+6	at	at	IN	p2=RB	7	advmod	_
+7	least	least	JJS	p2=RBS	8	advmod	_
+8	10	0	CD	_	10	num	_
+9	Ukrainian	ukrainian	JJ	_	10	amod	_
+10	soldiers	soldier	NNS	_	5	dobj	5:A1=PPT
+11	.	.	.	_	5	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG;4:A0=PAG
+2	refused	refuse	VBD	pb=refuse.01	0	root	_
+3	to	to	TO	_	4	aux	_
+4	attack	attack	VB	pb=attack.01	2	xcomp	2:A1=PPT
+5	their	their	PRP$	_	7	poss	_
+6	own	own	JJ	_	7	amod	_
+7	people	people	NNS	_	4	dobj	4:A1=PPT
+8	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG;3:A0=PAG
+2	tried	try	VBD	pb=try.01	0	root	_
+3	defecting	defect	VBG	p2=NN|pb=defect.01	2	xcomp	2:A1=PPT
+4	.	.	.	_	2	punct	_
+
+1	Stella	stella	NNP	p2=NN	2	nn	_
+2	Khorosheva	khorosheva	NNP	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	Ponomaryov	ponomaryov	NNP	_	6	poss	_
+5	's	's	POS	_	4	possessive	_
+6	spokeswoman	spokeswoman	NN	_	3	attr	3:A2=PRD
+7	.	.	.	_	3	punct	_
+
+1	She	she	PRP	_	2	nsubj	2:A0=PAG
+2	confirmed	confirm	VBD	pb=confirm.01	0	root	_
+3	what	what	WP	_	4	nsubj	4:R-A1
+4	happened	happened	VBD	pb=happen.01	2	ccomp	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Other	other	JJ	_	3	amod	_
+2	Ukrainian	ukrainian	JJ	_	3	amod	_
+3	soldiers	soldier	NNS	_	4	nsubj	4:A1=PPT
+4	are	be	VBP	pb=be.01	0	root	_
+5	increasingly	increasingly	RB	_	6	advmod	_
+6	displeased	displeased	JJ	_	4	acomp	4:A2=PRD
+7	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	angry	angry	JJ	_	2	acomp	2:A2=PRD
+4	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG;3:A0=PAG
+2	reject	reject	VBP	pb=reject.01	0	root	_
+3	waging	wage	VBG	pb=wage.01	2	xcomp	2:A1=PPT
+4	war	war	NN	_	3	dobj	3:A1=PPT
+5	on	on	IN	_	3	prep	3:A2=COM
+6	their	their	PRP$	_	8	poss	_
+7	own	own	JJ	_	8	amod	_
+8	people	people	NNS	_	5	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	Self	self	NN	p2=JJ	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	defense	defense	NN	p2=JJ	4	nn	_
+4	fighters	fighter	NNS	_	5	nsubj	5:A0=PAG
+5	met	meet	VBD	pb=meet.01	0	root	_
+6	some	some	DT	_	5	dobj	5:A1=PPT
+7	near	near	IN	p2=JJ	6	prep	_
+8	Kramatorsk	kramatorsk	NNP	p2=NN	7	pobj	_
+9	.	.	.	_	5	punct	_
+
+1	Their	their	PRP$	_	2	poss	_
+2	spokesman	spokesman	NN	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	they	they	PRP	_	8	nsubj	8:A0=PAG
+5	"	"	``	_	8	punct	_
+6	do	do	VBP	_	8	aux	_
+7	n't	not	RB	_	8	neg	8:AM-NEG
+8	want	want	VB	pb=want.01	3	ccomp	3:A1=PPT
+9	war	war	NN	_	8	dobj	8:A1=PPT
+10	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	4	nsubj	4:A0=PAG;6:A0=PAG;8:A0=PAG
+2	do	do	VBP	_	4	aux	_
+3	n't	not	RB	_	4	neg	4:AM-NEG
+4	want	want	VB	pb=want.01	0	root	_
+5	to	to	TO	_	6	aux	_
+6	shoot	shoot	VB	pb=shoot.03	4	xcomp	4:A1=PPT
+7	or	or	CC	_	6	cc	_
+8	kill	kill	VB	pb=kill.01	6	conj	_
+9	anyone	anyone	NN	_	8	dobj	8:A1=PPT
+10	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	3	punct	_
+2	"	"	``	_	3	punct	_
+3	Many	many	JJ	_	0	root	_
+4	come	come	''	p2=VBP	3	punct	_
+5	from	from	IN	_	3	prep	_
+6	our	our	PRP$	_	7	poss	_
+7	region	region	NN	_	5	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	But	but	CC	_	3	cc	3:AM-DIS
+2	they	they	PRP	_	3	nsubj	3:A0=PAG;5:A0=PAG
+3	refuse	refuse	VBP	pb=refuse.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	surrender	surrender	VB	pb=surrender.01	3	xcomp	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	2	nsubj	4:A0=PAG
+2	have	have	VBP	pb=have.02	0	root	_
+3	to	to	TO	_	4	aux	_
+4	obey	obey	VB	pb=obey.01	2	xcomp	_
+5	orders	order	NNS	_	4	dobj	4:A1=PPT
+6	.	.	.	_	2	punct	_
+
+1	"	"	``	p2=''	3	punct	_
+2	"	"	``	_	3	punct	_
+3	As	as	IN	_	0	root	_
+4	a	a	DT	_	5	det	_
+5	result	result	NN	_	3	pobj	_
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	treachery	treachery	NN	_	6	pobj	_
+9	of	of	IN	_	8	prep	_
+10	a	a	DT	_	11	det	_
+11	group	group	NN	_	9	pobj	_
+12	of	of	IN	_	11	prep	_
+13	regular	regular	JJ	_	14	amod	_
+14	soldiers	soldier	NNS	_	12	pobj	17:A0
+15	who	who	WP	_	17	nsubj	17:R-A0
+16	had	have	VBD	_	17	aux	_
+17	taken	take	VBN	pb=take.01	14	rcmod	_
+18	an	an	DT	_	19	det	_
+19	oath	oath	NN	_	17	dobj	17:AM-PRR
+20	of	of	IN	_	19	prep	_
+21	loyalty	loyalty	NN	_	20	pobj	_
+22	to	to	IN	_	17	prep	17:AM-GOL
+23	the	the	DT	_	25	det	_
+24	Donetsk	donetsk	NNP	_	25	nn	_
+25	People	people	NNPS	p2=NNP	27	poss	_
+26	's	's	POS	_	25	possessive	_
+27	Republic	republic	NNP	_	22	pobj	_
+28	,	,	,	_	8	punct	_
+29	and	and	CC	_	17	cc	_
+30	in	in	IN	_	52	prep	52:AM-PRP
+31	order	order	NN	_	30	pobj	_
+32	to	to	TO	_	33	aux	_
+33	prevent	prevent	VB	pb=prevent.01	31	infmod	_
+34	bloodshed	bloodshed	NN	p2=JJ	33	dobj	33:A1=PPT
+35	among	among	IN	_	34	prep	_
+36	conscripted	conscripted	JJ	p2=VBN	37	amod	_
+37	soldiers	soldier	NNS	_	35	pobj	_
+38	,	,	,	_	52	punct	_
+39	the	the	DT	_	40	det	_
+40	command	command	NN	_	52	nsubj	52:A0=PAG
+41	of	of	IN	_	40	prep	_
+42	the	the	DT	_	46	det	_
+43	Eastern	eastern	NNP	p2=JJ	46	nn	_
+44	Territorial	territorial	NNP	_	46	nn	_
+45	Operational	operational	NNP	_	46	nn	_
+46	Unit	unit	NNP	_	41	pobj	_
+47	of	of	IN	_	46	prep	_
+48	the	the	DT	_	51	det	_
+49	Ukrainian	ukrainian	NNP	p2=JJ	51	nn	_
+50	National	national	NNP	_	51	nn	_
+51	Guard	guard	NNP	_	47	pobj	_
+52	decided	decide	VBD	pb=decide.01	17	conj	_
+53	to	to	TO	p2=IN	54	aux	_
+54	redeploy	redeploy	VB	pb=redeploy.01	52	xcomp	52:A1=PPT
+55	personnel	personnel	NNS	_	54	dobj	54:A1=PPT
+56	with	with	IN	_	54	prep	54:A2
+57	armaments	armament	NNS	_	56	pobj	_
+58	to	to	IN	_	57	prep	_
+59	Military	military	JJ	p2=NNP	61	amod	_
+60	Compound	compound	JJ	p2=NNP	61	amod	_
+61	No.	no.	NN	_	58	pobj	_
+62	2	0	CD	_	61	num	_
+63	of	of	IN	_	61	prep	_
+64	military	military	JJ	p2=NN	65	amod	_
+65	unit	unit	NN	_	63	pobj	_
+66	3037	0	CD	p2=LS	65	num	_
+67	.	.	.	_	52	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	Right	right	UH	p2=NNP	4	intj	_
+3	Sector	sector	NNP	p2=NN	4	nn	_
+4	thugs	thug	NNS	p2=RB	9	nsubjpass	9:A1=PPT
+5	and	and	CC	_	4	cc	_
+6	foreign	foreign	JJ	_	7	amod	_
+7	mercenaries	mercenary	NNS	_	4	conj	_
+8	are	be	VBP	_	9	auxpass	_
+9	involved	involve	VBN	pb=involve.01	0	root	_
+10	.	.	.	_	9	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	in	in	IN	_	2	prep	2:A2=PRD
+4	black	black	JJ	_	5	amod	_
+5	uniforms	uniform	NNS	_	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	Without	without	IN	_	0	root	_
+2	insignia	insignia	NN	p2=NNP	1	pobj	_
+3	.	.	.	_	1	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	operate	operate	VBP	pb=operate.01	0	root	_
+3	separately	separately	RB	_	2	advmod	2:AM-MNR
+4	from	from	IN	_	2	prep	2:AM-MNR
+5	Ukraine	ukraine	NNP	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	military	military	NN	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	ruthless	ruthless	JJ	_	4	amod	_
+4	killers	killer	NNS	_	2	attr	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	target	target	VBP	p2=VBD|pb=target.01	0	root	_
+3	civilians	civilian	NNS	_	2	dobj	2:A1=PPT
+4	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	murder	murder	VBP	p2=NN|pb=murder.01	0	root	_
+3	in	in	IN	p2=RP	2	prep	2:AM-LOC
+4	cold	cold	JJ	_	5	amod	_
+5	blood	blood	NN	_	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	7	det	_
+2	so	so	RB	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	called	call	VBN	_	7	amod	_
+5	Kiev	kiev	NNP	_	6	nn	_
+6	Maidan	maidan	NNP	_	7	nn	_
+7	council	council	NN	_	8	nsubj	8:A0
+8	said	say	VBD	pb=say.01	0	root	_
+9	"	"	``	_	8	punct	_
+10	volunteers	volunteer	NNS	_	8	dobj	8:A1=PPT
+11	"	"	''	p2=``	12	punct	_
+12	operate	operate	VBP	pb=operate.01	8	xcomp	_
+13	with	with	IN	_	12	prep	12:AM-MNR
+14	National	national	NNP	_	15	nn	_
+15	Guard	guard	NNP	_	16	nn	_
+16	forces	force	NNS	_	13	pobj	_
+17	.	.	.	_	8	punct	_
+
+1	They	they	PRP	_	2	nsubj	4:A0=PAG;2:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	"	"	``	p2=''	4	punct	_
+4	defend	defend	VB	p2=VBP|pb=defend.01	2	xcomp	2:A2=PRD
+5	(	(	-LRB-	_	4	punct	_
+6	ing	ing	VBG	p2=NN|pb=ing.01	4	dep	_
+7	)	)	-RRB-	_	4	punct	_
+8	Ukraine	ukraine	NNP	_	4	dobj	4:A1=PPT
+9	.	.	.	_	2	punct	_
+
+1	"	"	``	_	4	punct	_
+2	They	they	PRP	p2=PRP$	4	nsubj	4:A0=PAG
+3	"	"	''	p2=``	4	punct	_
+4	form	form	VBP	pb=form.02	0	root	_
+5	(	(	-LRB-	_	4	punct	_
+6	ed	ed	NN	_	4	dobj	_
+7	)	)	-RRB-	_	4	punct	_
+8	various	various	JJ	_	11	amod	_
+9	government	government	NN	_	11	nn	_
+10	security	security	NN	_	11	nn	_
+11	units	unit	NNS	_	4	dobj	4:A1=PPT
+12	within	within	IN	_	11	prep	_
+13	the	the	DT	_	15	det	_
+14	shortest	short	JJS	_	15	amod	_
+15	period	period	NN	_	12	pobj	_
+16	of	of	IN	_	15	prep	_
+17	time	time	NN	_	16	pobj	_
+18	and	and	CC	_	17	cc	_
+19	fill	fill	NN	p2=VB	17	conj	_
+20	(	(	-LRB-	_	11	punct	_
+21	ed	ed	NN	_	11	appos	_
+22	)	)	-RRB-	_	11	punct	_
+23	them	them	PRP	_	4	dobj	_
+24	with	with	IN	_	4	prep	_
+25	patriots	patriot	NNS	_	24	pobj	28:A0=PAG
+26	who	who	WP	_	28	nsubj	28:R-A0
+27	will	will	MD	_	28	aux	28:AM-MOD
+28	mount	mount	VB	pb=mount.01	25	rcmod	_
+29	an	an	DT	_	31	det	_
+30	armed	armed	JJ	_	31	amod	_
+31	defense	defense	NN	_	28	dobj	28:A1=PPT
+32	of	of	IN	_	31	prep	_
+33	Ukraine	ukraine	NNP	_	36	poss	_
+34	's	's	POS	_	33	possessive	_
+35	territorial	territorial	JJ	_	36	amod	_
+36	integrity	integrity	NN	_	32	pobj	_
+37	and	and	CC	_	36	cc	_
+38	independence	independence	NN	_	36	conj	_
+39	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	5	punct	_
+2	"	"	``	_	5	punct	_
+3	They	they	PRP	_	5	nsubj	5:A0=PAG;12:A0=PAG;16:A0=PAG
+4	'll	will	MD	_	5	aux	5:AM-MOD;12:AM-MOD;16:AM-MOD
+5	maintain	maintain	VB	pb=maintain.01	0	root	_
+6	public	public	JJ	_	7	amod	_
+7	order	order	NN	_	5	dobj	5:A1=PPT
+8	in	in	IN	_	5	prep	5:AM-LOC
+9	non-combat	non-combat	JJ	p2=NN	10	amod	_
+10	areas	area	NNS	_	8	pobj	_
+11	,	,	,	_	5	punct	_
+12	form	form	VB	p2=VBP|pb=form.01	5	conj	_
+13	a	a	DT	_	14	det	_
+14	reserve	reserve	NN	_	12	dobj	12:A1=PPT
+15	and	and	CC	_	12	cc	_
+16	provide	provide	VB	pb=provide.01	12	conj	_
+17	material	material	NN	p2=JJ	16	dobj	16:A1=PPT
+18	and	and	CC	_	17	cc	_
+19	technical	technical	JJ	_	20	amod	_
+20	aid	aid	NN	_	17	conj	_
+21	to	to	IN	_	16	prep	16:A2=GOL
+22	regular	regular	JJ	_	23	amod	_
+23	battalions	battalion	NNS	_	21	pobj	_
+24	.	.	.	_	5	punct	_
+
+1	"	"	``	_	3	punct	_
+2	They	they	PRP	_	3	nsubj	3:A1=PPT
+3	're	be	VBP	pb=be.01	0	root	_
+4	on	on	IN	_	3	prep	3:A2=PRD
+5	the	the	DT	_	7	det	_
+6	wrong	wrong	JJ	_	7	amod	_
+7	side	side	NN	_	4	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	're	be	VBP	_	3	aux	_
+3	defending	defend	VBG	pb=defend.01	0	root	_
+4	fascism	fascism	NN	_	3	dobj	3:A1=PPT
+5	.	.	.	_	3	punct	_
+
+1	Doing	do	VBG	pb=do.02	3	csubj	3:A0=PAG
+2	so	so	RB	p2=IN	1	advmod	1:A1=PPT
+3	wages	wage	VBZ	pb=wage.01	0	root	_
+4	war	war	NN	p2=VBP	3	dobj	3:A1=PPT
+5	on	on	IN	_	3	prep	3:A2=COM
+6	freedom	freedom	NN	_	5	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	Dozens	dozen	NNS	_	9	nsubj	9:A0=PAG
+2	of	of	IN	_	1	prep	_
+3	CIA	cia	NNP	_	2	pobj	_
+4	and	and	CC	_	3	cc	_
+5	FBI	fbi	NNP	_	6	nn	_
+6	operatives	operative	NNS	_	3	conj	_
+7	in	in	IN	_	6	prep	_
+8	Ukraine	ukraine	NNP	_	7	pobj	_
+9	direct	direct	VB	p2=JJ|pb=direct.01	0	root	_
+10	them	them	PRP	_	9	dobj	9:A1=PPT
+11	.	.	.	_	9	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	represent	represent	VBP	pb=represent.01	0	root	_
+3	Washington	washington	NNP	_	4	nn	_
+4	lawlessness	lawlessness	NN	p2=NNP	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Hopefully	hopefully	RB	_	7	advmod	7:AM-ADV
+2	self	self	NN	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	defense	defense	NN	p2=JJ	5	nn	_
+5	forces	force	NNS	_	7	nsubj	7:A0=PAG
+6	will	will	MD	_	7	aux	7:AM-MOD
+7	triumph	triumph	VB	pb=triumph.01	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	They	they	PRP	_	4	nsubjpass	4:A1=PPT
+2	're	be	VBP	_	4	auxpass	_
+3	fully	fully	RB	_	4	advmod	4:AM-EXT
+4	engaged	engage	VBN	p2=JJ|pb=engage.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	2	nsubj	5:A0=PAG;2:A1=PPT;3:A1=PPT
+2	're	be	VBP	pb=be.01	0	root	_
+3	committed	commit	VBN	p2=JJ|pb=commit.01	2	acomp	2:A2=PRD
+4	to	to	TO	_	5	aux	_
+5	do	do	VB	pb=do.02	3	xcomp	3:A2=GOL
+6	so	so	RB	_	5	advmod	5:A1=PPT
+7	.	.	.	_	2	punct	_
+
+1	They	they	PRP	_	4	nsubj	4:A0=PAG
+2	wo	wo	MD	_	4	aux	4:AM-MOD
+3	n't	not	RB	_	4	neg	4:AM-NEG
+4	roll	roll	VB	pb=roll.01	0	root	_
+5	over	over	RP	p2=RB	4	prt	4:C-V
+6	for	for	IN	_	4	prep	4:AM-PNC
+7	fascists	fascist	NNS	_	6	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0=PAG
+2	'll	will	MD	_	3	aux	3:AM-MOD
+3	fight	fight	VB	pb=fight.01	0	root	_
+4	what	what	WP	_	5	nsubj	5:R-A0;8:R-A1
+5	needs	need	VBZ	pb=need.01	3	ccomp	3:A1=COM
+6	to	to	TO	_	8	aux	_
+7	be	be	VB	_	8	auxpass	_
+8	eliminated	eliminate	VBN	pb=eliminate.01	5	xcomp	5:A1=PPT
+9	.	.	.	_	3	punct	_
+
+1	Maybe	maybe	RB	_	6	advmod	6:AM-ADV
+2	many	many	JJ	_	4	amod	_
+3	more	more	JJR	_	4	amod	_
+4	thousands	#crd#	NNS	_	6	nsubj	6:A0=PAG
+5	will	will	MD	_	6	aux	6:AM-MOD
+6	join	join	VB	pb=join.01	0	root	_
+7	them	them	PRP	_	6	dobj	6:A1=PPT
+8	.	.	.	_	6	punct	_
+
+1	Maybe	maybe	RB	_	5	advmod	5:AM-ADV
+2	mass	mass	JJ	p2=NN	3	amod	_
+3	rebellion	rebellion	NN	_	5	nsubj	5:A1=PPT
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	erupt	erupt	VB	pb=erupt.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Maybe	maybe	RB	_	4	advmod	4:AM-ADV
+2	it	it	PRP	_	4	nsubj	4:A0
+3	'll	will	MD	_	4	aux	4:AM-MOD
+4	rout	rout	VB	pb=route.01	0	root	_
+5	Ukraine	ukraine	NNP	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	cancer	cancer	NN	_	4	dobj	4:A1
+8	.	.	.	_	4	punct	_
+
+1	Maybe	maybe	RB	_	4	advmod	4:AM-ADV
+2	it	it	PRP	_	4	nsubj	4:A0=PAG
+3	'll	will	MD	_	4	aux	4:AM-MOD
+4	restore	restore	VB	pb=restore.02	0	root	_
+5	democratic	democratic	JJ	_	6	amod	_
+6	rights	right	NNS	_	4	dobj	4:A1=PPT
+7	.	.	.	_	4	punct	_
+
+1	Maybe	maybe	RB	_	3	advmod	3:AM-ADV
+2	Obama	obama	NNP	p2=TO	3	nsubj	3:A0
+3	bit	bite	VBD	p2=NN|pb=bite.01	0	root	_
+4	off	off	RP	_	3	prt	3:C-V
+5	more	more	RBR	p2=JJR	3	advmod	_
+6	than	than	IN	_	9	mark	_
+7	he	he	PRP	_	9	nsubj	9:A0=PAG
+8	can	can	MD	_	9	aux	9:AM-MOD
+9	chew	chew	VB	pb=chew.01	5	advcl	_
+10	.	.	.	_	3	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A0=PAG
+2	lost	lose	VBD	pb=lose.03	0	root	_
+3	every	every	DT	_	4	det	_
+4	war	war	NN	_	2	dobj	2:A1=PPT;6:A1=PPT
+5	he	he	PRP	_	6	nsubj	6:A0=PAG
+6	waged	wage	VBD	pb=wage.01	4	rcmod	_
+7	.	.	.	_	2	punct	_
+
+1	Imagine	imagine	VB	pb=imagine.01	0	root	_
+2	Ukraine	ukraine	NNP	_	3	nsubj	6:A1=PPT
+3	turning	turn	VBG	_	1	dobj	1:A1=PPT
+4	out	out	RP	_	3	prt	_
+5	to	to	TO	_	6	aux	_
+6	be	be	VB	pb=be.01	3	advcl	_
+7	his	his	PRP$	_	8	poss	_
+8	Waterloo	waterloo	NNP	p2=NN	6	attr	6:A2=PRD
+9	.	.	.	_	1	punct	_
+
+1	Imagine	imagine	VB	pb=imagine.01	0	root	_
+2	defeating	defeat	VBG	pb=defeat.01	1	xcomp	1:A1=PPT
+3	his	his	PRP$	_	5	poss	_
+4	imperial	imperial	JJ	_	5	amod	_
+5	agenda	agenda	NN	_	2	dobj	2:A1=PPT
+6	.	.	.	_	1	punct	_
+
+1	Imagine	imagine	VB	pb=imagine.01	0	root	_
+2	worldwide	worldwide	RB	p2=JJ	3	amod	_
+3	joy	joy	NN	p2=RB	1	dobj	1:A1=PPT
+4	.	.	.	_	1	punct	_
+
+1	Imagine	imagine	VB	pb=imagine.01	0	root	_
+2	peace	peace	NN	_	3	nsubj	3:A0=PAG
+3	replacing	replace	VBG	p2=NN|pb=replace.01	1	ccomp	1:A1=PPT
+4	war	war	NN	_	3	dobj	3:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	Imagine	imagine	VB	pb=imagine.01	0	root	_
+2	what	what	WP	_	5	nsubjpass	5:R-A1
+3	's	's	VBZ	p2=POS	5	auxpass	_
+4	vitally	vitally	RB	_	5	advmod	5:AM-MNR
+5	needed	need	VBN	pb=need.01	1	ccomp	1:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	save	save	VB	pb=save.02	5	advcl	5:AM-PRP
+8	us	us	PRP	_	7	dobj	7:A1=PPT
+9	.	.	.	_	1	punct	_
+
+1	It	it	PRP	_	4	nsubj	4:A1=PPT
+2	ca	can	MD	_	4	aux	4:AM-MOD
+3	n't	not	RB	_	4	neg	4:AM-NEG
+4	happen	happen	VB	pb=happen.01	0	root	_
+5	a	a	DT	_	6	det	_
+6	moment	moment	NN	_	4	npadvmod	_
+7	too	too	RB	_	8	advmod	_
+8	soon	soon	RB	_	4	advmod	4:AM-TMP
+9	.	.	.	_	4	punct	_
+
+1	Stephen	stephen	NNP	p2=NN	2	nn	_
+2	Lendman	lendman	NNP	_	3	nsubj	3:A0=PAG
+3	lives	live	VBZ	pb=live.01	0	root	_
+4	in	in	IN	_	3	prep	3:AM-LOC
+5	Chicago	chicago	NNP	_	4	pobj	_
+6	.	.	.	_	3	punct	_
+
+1	He	he	PRP	_	4	nsubjpass	4:A1=GOL
+2	can	can	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	reached	reach	VBN	pb=reach.01	0	root	_
+5	at	at	IN	_	4	prep	4:AM-LOC
+6	lendmanstephen	lendmanstephen	NNP	p2=NN	5	pobj	_
+7	(	(	-LRB-	_	8	punct	_
+8	at	at	IN	_	4	prep	4:AM-LOC
+9	)	)	-RRB-	_	8	punct	_
+10	sbcglobal.net	#url#	ADD	_	8	pobj	_
+11	.	.	.	_	4	punct	_
+
+1	His	his	PRP$	_	3	poss	_
+2	new	new	JJ	_	3	amod	_
+3	book	book	NN	_	9	nsubjpass	9:A1=PPT
+4	as	as	IN	_	3	prep	_
+5	editor	editor	NN	_	4	pobj	_
+6	and	and	CC	_	5	cc	_
+7	contributor	contributor	NN	_	5	conj	_
+8	is	be	VBZ	_	9	auxpass	_
+9	titled	title	VBN	pb=title.01	0	root	_
+10	"	"	``	p2=''	11	punct	_
+11	Flashpoint	flashpoint	NNP	p2=NN	9	oprd	9:A2
+12	in	in	IN	_	11	prep	_
+13	Ukraine	ukraine	NNP	_	12	pobj	_
+14	:	:	:	_	11	punct	_
+15	US	us	NNP	_	16	nn	_
+16	Drive	drive	NNP	p2=NN	11	appos	_
+17	for	for	IN	_	16	prep	_
+18	Hegemony	hegemony	NNP	_	21	nn	_
+19	Risks	risks	NNP	p2=NNPS	21	nn	_
+20	WW	ww	NNP	_	21	nn	_
+21	III	iii	NNP	_	17	pobj	_
+22	.	.	.	_	9	punct	_
+
+1	"	"	``	p2=''	2	punct	_
+2	Listen	listen	VB	p2=VBP|pb=listen.01	0	root	_
+3	to	to	IN	_	2	prep	2:A1
+4	cutting	cut	VBG	p2=NN	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	edge	edge	NN	_	7	nn	_
+7	discussions	discussion	NNS	_	3	pobj	_
+8	with	with	IN	_	7	prep	_
+9	distinguished	distinguished	JJ	_	10	amod	_
+10	guests	guest	NNS	_	8	pobj	_
+11	on	on	IN	_	10	prep	_
+12	the	the	DT	_	16	det	_
+13	Progressive	progressive	NNP	_	16	nn	_
+14	Radio	radio	NNP	_	16	nn	_
+15	News	news	NNP	_	16	nn	_
+16	Hour	hour	NNP	_	11	pobj	_
+17	on	on	IN	_	16	prep	_
+18	the	the	DT	_	21	det	_
+19	Progressive	progressive	NNP	_	21	nn	_
+20	Radio	radio	NNP	_	21	nn	_
+21	Network	network	NNP	_	17	pobj	_
+22	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	airs	air	VBZ	p2=NNS|pb=air.01	0	root	_
+3	three	#crd#	CD	_	7	num	_
+4	times	time	NNS	_	3	quantmod	_
+5	weekly	weekly	JJ	p2=RB	4	advmod	_
+6	:	:	:	_	2	punct	_
+7	live	live	VB	p2=VBP|pb=live.01	2	xcomp	2:A1=PPT
+8	on	on	IN	_	7	prep	7:AM-MNR
+9	Sundays	sunday	NNS	_	8	pobj	_
+10	at	at	IN	_	7	prep	7:AM-TMP
+11	1	0	CD	_	12	num	_
+12	PM	pm	NN	p2=NNP	10	pobj	_
+13	Central	central	JJ	p2=NNP	14	amod	_
+14	time	time	NN	_	7	npadvmod	7:AM-TMP
+15	plus	plus	CC	p2=IN	14	cc	_
+16	two	#crd#	CD	_	19	num	_
+17	prerecorded	prerecorded	JJ	p2=VBD	19	amod	_
+18	archived	archived	JJ	p2=VBN	19	amod	_
+19	programs	program	NNS	_	14	conj	_
+20	.	.	.	_	2	punct	_
+

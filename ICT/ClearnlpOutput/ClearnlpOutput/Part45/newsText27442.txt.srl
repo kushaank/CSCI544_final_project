@@ -1,0 +1,64 @@
+1	Davis	davis	NNP	_	3	nn	_
+2	Wade	wade	NNP	_	3	nn	_
+3	Stadium	stadium	NNP	_	7	nsubj	7:A0=PAG
+4	at	at	IN	_	3	prep	_
+5	Mississippi	mississippi	NNP	_	6	nn	_
+6	State	state	NNP	_	4	pobj	_
+7	hosted	host	VBD	pb=host.01	0	root	_
+8	four	#crd#	CD	_	7	dobj	7:A1=GOL
+9	of	of	IN	_	8	prep	_
+10	the	the	DT	_	12	det	_
+11	top	top	JJ	_	12	amod	_
+12	teams	team	NNS	_	9	pobj	_
+13	in	in	IN	_	12	prep	_
+14	the	the	DT	_	15	det	_
+15	state	state	NN	_	13	pobj	_
+16	on	on	IN	_	7	prep	7:AM-TMP
+17	Thursday	thursday	NNP	_	18	nn	_
+18	evening	evening	NN	_	16	pobj	_
+19	when	when	WRB	_	29	advmod	29:R-AM-TMP
+20	Meridian	meridian	NNP	_	29	nsubj	29:A0=PAG
+21	,	,	,	_	20	punct	_
+22	West	west	NNP	_	23	nn	_
+23	Point	point	NNP	_	20	conj	_
+24	,	,	,	_	23	punct	_
+25	Brandon	brandon	NNP	_	23	conj	_
+26	and	and	CC	_	25	cc	_
+27	Starkville	starkville	NNP	_	25	conj	_
+28	all	all	DT	p2=RB	20	appos	_
+29	had	have	VBD	pb=have.03	7	advcl	7:AM-TMP
+30	the	the	DT	_	31	det	_
+31	opportunity	opportunity	NN	_	29	dobj	29:A1=PPT
+32	to	to	TO	_	33	aux	_
+33	showcase	showcase	VB	pb=showcase.01	31	infmod	_
+34	their	their	PRP$	_	36	poss	_
+35	spring	spring	NN	_	36	nn	_
+36	work	work	NN	p2=VB	33	dobj	33:A1=PPT
+37	on	on	IN	_	33	prep	33:AM-LOC
+38	a	a	DT	_	40	det	_
+39	big	big	JJ	_	40	amod	_
+40	stage	stage	NN	_	37	pobj	_
+41	.	.	.	_	7	punct	_
+
+1	...	..	.	p2=NFP	0	root	_
+
+1	More	more	JJR	p2=RBR	0	root	_
+2	...	..	.	p2=NFP	1	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	continue	continue	VB	pb=continue.01	8	advcl	8:AM-PRP
+3	reading	read	VBG	pb=read.01	2	xcomp	2:A1=PPT
+4	this	this	DT	_	5	det	_
+5	article	article	NN	_	3	dobj	3:A1=PPT
+6	you	you	PRP	_	8	nsubj	8:A1=PPT
+7	must	must	MD	_	8	aux	8:AM-MOD
+8	be	be	VB	pb=be.01	0	root	_
+9	a	a	DT	_	10	det	_
+10	member	member	NN	_	8	attr	8:A2=PRD
+11	.	.	.	_	8	punct	_
+
+1	Sign	sign	VB	p2=NN|pb=sign.03	0	root	_
+2	Up	up	RP	p2=RB	1	prt	1:C-V
+3	Now	now	RB	_	1	advmod	1:AM-TMP
+4	!	!	.	_	1	punct	_
+

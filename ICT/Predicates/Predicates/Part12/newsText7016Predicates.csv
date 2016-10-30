@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Google Inc,say.01,"it has acquired Divide ,",,Affirmative,"SAN FRANCISCO ( Reuters ) - Google Inc said it has acquired Divide , a company whose software allows corporations to manage the personal smartphones that consumers increasingly use on the job . "
+A Google logo,acquire.01,"Divide ,",,Affirmative,"SAN FRANCISCO ( Reuters ) - Google Inc said it has acquired Divide , a company whose software allows corporations to manage the personal smartphones that consumers increasingly use on the job . "
+a company,allow.01,corporations to manage,,Affirmative,"SAN FRANCISCO ( Reuters ) - Google Inc said it has acquired Divide , a company whose software allows corporations to manage the personal smartphones that consumers increasingly use on the job . "
+corporations,manage.01,the personal smartphones,,Affirmative,"SAN FRANCISCO ( Reuters ) - Google Inc said it has acquired Divide , a company whose software allows corporations to manage the personal smartphones that consumers increasingly use on the job . "
+consumers,use.01,the personal smartphones,,Affirmative,"SAN FRANCISCO ( Reuters ) - Google Inc said it has acquired Divide , a company whose software allows corporations to manage the personal smartphones that consumers increasingly use on the job . "
+a company whose software allows corporations,say.01,it was joining,,Affirmative,"In a post on Divide 's website on Monday , the company said it was joining Google 's Android team . "
+a post on Divide 's website on Monday,join.01,Android team,,Affirmative,"In a post on Divide 's website on Monday , the company said it was joining Google 's Android team . "
+a post on Divide 's website on Monday,provide.01,financial terms of,,Affirmative,The post did not provide financial terms of the deal and a Google spokesman declined to comment on the terms . 
+a Google spokesman,decline.02,to comment on,,Affirmative,The post did not provide financial terms of the deal and a Google spokesman declined to comment on the terms . 
+a Google spokesman,comment.01,on,,Affirmative,The post did not provide financial terms of the deal and a Google spokesman declined to comment on the terms . 
+the deal,help.01,"Google ,",,Affirmative,"The deal could help Google , the world 's No. 1 Internet search company , make further inroads into corporate settings . "
+mobile app,separate.01,personal data and,,Affirmative,"Divide 's mobile app separates a consumer 's personal data and the corporate data contained on a phone , making it easier for businesses to manage disparate personal devices that consumers increasingly use on the job . "
+on,contain.01,personal data and,,Affirmative,"Divide 's mobile app separates a consumer 's personal data and the corporate data contained on a phone , making it easier for businesses to manage disparate personal devices that consumers increasingly use on the job . "
+businesses,manage.01,disparate personal devices,,Affirmative,"Divide 's mobile app separates a consumer 's personal data and the corporate data contained on a phone , making it easier for businesses to manage disparate personal devices that consumers increasingly use on the job . "
+consumers,use.01,disparate personal devices,,Affirmative,"Divide 's mobile app separates a consumer 's personal data and the corporate data contained on a phone , making it easier for businesses to manage disparate personal devices that consumers increasingly use on the job . "
+Divide,offer.01,its service to,,Affirmative,"Divide will continue to offer its service to existing customers , the post said . "
+a post on Divide 's website on Monday,say.01,Divide will continue,,Affirmative,"Divide will continue to offer its service to existing customers , the post said . "
+based company,raise.02,$ 25 million,,Affirmative,"The four - year - old , New York - based company had raised $ 25 million , with its most recent funding round led by Google 's venture capital arm , Google Ventures . "
+by,lead.02,recent funding round led by,,Affirmative,"The four - year - old , New York - based company had raised $ 25 million , with its most recent funding round led by Google 's venture capital arm , Google Ventures . "
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a bear,attack.01,a person,,Affirmative,"Here is some news about a bear attacking a person a military base in Alaska , because that is a thing that happened over the weekend . "
+by,attack.01,A woman,,Affirmative,"A woman was attacked by a bear while jogging at a military base outside of Anchorage on Sunday morning , according to officials at Joint Base Elmendorf - Richardson . "
+the bear,attack.01,"The woman , who was not a soldier but is a `` soldier dependent , ''",,Affirmative,"At this point , the bear attacked the woman , though the extent of the woman 's injuries are still unclear , Webb said . "
+Angela Webb,say.01,bear attacked,,Affirmative,"At this point , the bear attacked the woman , though the extent of the woman 's injuries are still unclear , Webb said . "
+A driver,spot.01,the unnamed woman,,Affirmative,"A driver spotted the unnamed woman after the attack , picked her up and brought her to the base 's medical facility . "
+A driver,pick.04,the unnamed woman,,Affirmative,"A driver spotted the unnamed woman after the attack , picked her up and brought her to the base 's medical facility . "
+A driver,bring.01,the unnamed woman,to,Affirmative,"A driver spotted the unnamed woman after the attack , picked her up and brought her to the base 's medical facility . "
+Angela Webb,say.01,She was conscious and in,,Affirmative,"She was conscious and in stable condition at that time , Webb said , and she has since been transferred to the Alaska Native Medical Center in Anchorage . "
+The injured person,request.01,information be released yet,,Affirmative,"The injured person has requested that no information be released yet , Webb said . "
+Angela Webb,say.01,person has requested,,Affirmative,"The injured person has requested that no information be released yet , Webb said . "
+Angela Webb,say.01,incident is,,Affirmative,"This incident is particularly unusual because the woman is a dependent , rather than an active duty member , Webb said ; this means she could be a spouse , child or have some other relationship with a person on the base . "
+this,mean.01,she could be,,Affirmative,"This incident is particularly unusual because the woman is a dependent , rather than an active duty member , Webb said ; this means she could be a spouse , child or have some other relationship with a person on the base . "
+"The woman , who was not a soldier but is a `` soldier dependent , ''",have.03,some other relationship with,,Affirmative,"This incident is particularly unusual because the woman is a dependent , rather than an active duty member , Webb said ; this means she could be a spouse , child or have some other relationship with a person on the base . "
+Angela Webb,say.01,was,,Affirmative,Webb said that the last time anyone on the base had a known bear encounter was when four young children saw a black bear in 2010 . 
+anyone on,have.03,a known bear encounter,,Affirmative,Webb said that the last time anyone on the base had a known bear encounter was when four young children saw a black bear in 2010 . 
+four young children,see.01,a black bear,,Affirmative,Webb said that the last time anyone on the base had a known bear encounter was when four young children saw a black bear in 2010 . 
+Three of,play.01,dead,,Affirmative,"Three of the children played dead , while the fourth ran to get an adult , and all of the children were brought to safety . "
+the fourth,get.01,an adult,,Affirmative,"Three of the children played dead , while the fourth ran to get an adult , and all of the children were brought to safety . "
+Mark Berman,anchor.01,"Post Nation ,",,Affirmative,"He anchors Post Nation , a destination for breaking news and developing stories from around the country . "
+"Post Nation ,",break.01,news,,Affirmative,"He anchors Post Nation , a destination for breaking news and developing stories from around the country . "
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

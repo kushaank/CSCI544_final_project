@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Express News,report.01,ordered,,Affirmative,"KARACHI :  A local court in Karachi ordered that the case against the Federal Bureau of Investigations ( FBI ) agent ,  who was apprehended at Jinnah International Airport , should be dropped , Express News reported on Monday . "
+"A district judge in Karachi ,",quash.01,the FBI agent case,,Affirmative,"A district judge in Karachi , Hasan Ali Kalwar , quashed the case after police failed to present any evidence against the agent . "
+police,present.01,any evidence against,,Affirmative,"A district judge in Karachi , Hasan Ali Kalwar , quashed the case after police failed to present any evidence against the agent . "
+the police,present.01,a final report regarding,,Affirmative,Cox was presented before district court Malir and the police presented a final report regarding the case after which the court gave the order . 
+a final report regarding,regard.01,the case,,Affirmative,Cox was presented before district court Malir and the police presented a final report regarding the case after which the court gave the order . 
+A local court in Karachi,give.01,the order,,Affirmative,Cox was presented before district court Malir and the police presented a final report regarding the case after which the court gave the order . 
+ the court,order.01, the police,to submit,Affirmative,"On May 10 ,  the court had ordered  the police to submit the final challan today ( Monday ) . "
+ the police,submit.01,the final challan,,Affirmative,"On May 10 ,  the court had ordered  the police to submit the final challan today ( Monday ) . "
+the police,say.01,situation had occurred because of,,Affirmative,In the final report the police had said that this whole situation had occurred because of a misunderstanding . 
+Hasan Ali Kalwar,say.01,police had invoked,,Affirmative,Kalwar said police had invoked an incorrect section of the law . 
+the police,invoke.01,an incorrect section of,,Affirmative,Kalwar said police had invoked an incorrect section of the law . 
+the police,carry.01,any weapon,,Affirmative,"He was not carrying any weapon but was carrying only the bullets and magazines , the judge was quoted as saying by a court official . "
+the police,carry.01,only the bullets and magazines,,Affirmative,"He was not carrying any weapon but was carrying only the bullets and magazines , the judge was quoted as saying by a court official . "
+the police,pursue.01,the FBI agent case,,Affirmative,"Police did not pursue the case after the interior ministry informed them that the agent was authorised to carry the ammunition , police officer Khalid Mehmood told AFP . "
+the interior ministry,inform.01,them,agent was authorised,Affirmative,"Police did not pursue the case after the interior ministry informed them that the agent was authorised to carry the ammunition , police officer Khalid Mehmood told AFP . "
+officer Khalid Mehmood,tell.01,"the ammunition ,",AFP,Affirmative,"Police did not pursue the case after the interior ministry informed them that the agent was authorised to carry the ammunition , police officer Khalid Mehmood told AFP . "
+by,present.01,A letter from,,Affirmative,A letter from the US embassy was also presented before the court by the FBI agent 's lawyers . 
+A letter from the US embassy,state.01,that Cox was on,,Affirmative,The letter stated that Cox was on a mission and was allowed to carry the ammunition . 
+Cox,travel.01,from Karachi,,Affirmative,Cox was travelling from Karachi to Islamabad by PK - 308 on the evening of May 5 when a routine search by Airport Security Force ( ASF ) staff at the Jinnah International Airport found  15 bullets and a magazine  in his bags . 
+staff at,found .01,15 bullets and, in,Affirmative,Cox was travelling from Karachi to Islamabad by PK - 308 on the evening of May 5 when a routine search by Airport Security Force ( ASF ) staff at the Jinnah International Airport found  15 bullets and a magazine  in his bags . 
+A local court in Karachi,send.01,PK-308 on the evening of May 5 when a routine search by Airport Security Force -LRB- ASF -RRB- staff at the Jinnah International Airport found 15 bullets and a magazine in his bags,into judicial remanded till May 10,Affirmative," When he was presented before the district Malir court the following day , the court had sent him into judicial remanded till May 10 . "
+court Malir ,release.01, Cox,,Affirmative,"The district and sessions court Malir  had released  Cox after the payment of a surety bond worth Rs1,000,000 . "
+US,wonder.01,mission might be,,Affirmative,I wonder what that mission might be that would require use of lethal force . 
+plane,give.01,some years,you,Affirmative,"that 's not true , keep arms and bullets while going on plane will give you some years punishment . "
+you,cover.01,the incompetency of,,Affirmative,To what lengths you will go to cover the incompetency of your Interior Minister ? 
+US,tell.01,you end up making,you,Affirmative,"Let me tell you , you end up making it worse for yourself and the party you support . "
+you,make.02,it worse,,Affirmative,"Let me tell you , you end up making it worse for yourself and the party you support . "
+you,support.01,the party,,Affirmative,"Let me tell you , you end up making it worse for yourself and the party you support . "
+you,visit.01,New York,,Affirmative,"Dear Mirza , Perhaps you are correct , but my advise is not to try a similar minor crime if you are visiting New York . "
+we,encourage.01,you,to provide,Affirmative,For this reason we encourage you to provide your city . 
+you,provide.01,your city,,Affirmative,For this reason we encourage you to provide your city . 
+The Express Tribune,bear.01,any responsibility for,,Affirmative,The Express Tribune does not bear any responsibility for user comments . 

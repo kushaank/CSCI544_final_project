@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Hill man,face.01,charges,,Affirmative,A Rock Hill man is facing charges after he admitted he 'd been drinking when he was arrested for punching his teen daughter in the face and choking her . 
+A Rock Hill man,admit.01,he 'd been drinking,,Affirmative,A Rock Hill man is facing charges after he admitted he 'd been drinking when he was arrested for punching his teen daughter in the face and choking her . 
+A Rock Hill man,punch.01,his teen daughter,,Affirmative,A Rock Hill man is facing charges after he admitted he 'd been drinking when he was arrested for punching his teen daughter in the face and choking her . 
+A Rock Hill man,choke.01,his teen daughter,,Affirmative,A Rock Hill man is facing charges after he admitted he 'd been drinking when he was arrested for punching his teen daughter in the face and choking her . 
+A teenage girl,tell.01,had been yelling at her,police,Affirmative,"A teenage girl told police that her father , 39 - year - old Antwain Patterson , had been yelling at her before he punched her in the face and wrapped his hands around her neck , choking her . "
+"her father ,",choke.01,A teenage girl,,Affirmative,"A teenage girl told police that her father , 39 - year - old Antwain Patterson , had been yelling at her before he punched her in the face and wrapped his hands around her neck , choking her . "
+wife,pull.01,39-year-old Antwain Patterson,off,Affirmative,"Patterson 's wife had to pull him off the girl , she told police . "
+wife,tell.01,she witnessed,police,Affirmative,Patterson 's wife told police she witnessed the assault . 
+Patterson 's wife,witness.01,an assault,,Affirmative,Patterson 's wife told police she witnessed the assault . 
+39-year-old Antwain Patterson,call.02,his daughter,,Affirmative,"According to the report , Patterson called his daughter to visit him earlier in the day , but they began arguing shortly after she arrived . "
+39-year-old Antwain Patterson,visit.01,39-year-old Antwain Patterson,,Affirmative,"According to the report , Patterson called his daughter to visit him earlier in the day , but they began arguing shortly after she arrived . "
+they,begin.01,arguing shortly,,Affirmative,"According to the report , Patterson called his daughter to visit him earlier in the day , but they began arguing shortly after she arrived . "
+39-year-old Antwain Patterson,say.01,teenager began yelling and cursing at him,,Affirmative,That 's when he says the teenager began yelling and cursing at him . 
+39-year-old Antwain Patterson,admit.01,to grabbing by,,Affirmative,"He admitted to grabbing by her arm and shirt , but denied choking her or grasping her neck . "
+39-year-old Antwain Patterson,deny.01,choking her or grasping,,Affirmative,"He admitted to grabbing by her arm and shirt , but denied choking her or grasping her neck . "
+39-year-old Antwain Patterson,choke.01,yelling and cursing at him,,Affirmative,"He admitted to grabbing by her arm and shirt , but denied choking her or grasping her neck . "
+39-year-old Antwain Patterson,grasp.01,her neck,,Affirmative,"He admitted to grabbing by her arm and shirt , but denied choking her or grasping her neck . "
+39-year-old Antwain Patterson,tell.01,he had been drinking,police,Affirmative,Patterson also told police he had been drinking . 
+All content,copyright.01,Worldnow and WBTV,,Affirmative,All content © Copyright 2000 - 2014 Worldnow and WBTV . 

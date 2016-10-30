@@ -1,0 +1,27 @@
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	pb=read.01	9	advcl	_
+3	the	the	DT	_	4	det	_
+4	article	article	NN	_	2	dobj	2:A1=PPT;5:A1=PPT
+5	titled	title	VBN	p2=VBD|pb=title.01	4	partmod	_
+6	,	,	,	_	9	punct	_
+7	"	"	``	p2=''	9	punct	_
+8	Death	death	NN	_	9	nn	_
+9	threats	threat	NNS	_	0	root	_
+10	'	'	''	_	9	punct	_
+11	for	for	IN	_	9	prep	_
+12	WWF	wwf	NNP	p2=NN	13	nn	_
+13	staff	staff	NN	_	11	pobj	14:A0=PPT
+14	opposing	oppose	VBG	pb=oppose.01	13	partmod	_
+15	UK	uk	NNP	_	17	nn	_
+16	oil	oil	NN	_	17	nn	_
+17	firm	firm	NN	p2=JJ	14	dobj	14:A1=PPT
+18	in	in	IN	_	14	prep	14:AM-LOC
+19	DR	dr	NNP	_	20	nn	_
+20	Congo	congo	NNP	_	21	nn	_
+21	park	park	NN	_	18	pobj	_
+22	,	,	,	_	9	punct	_
+23	"	"	''	p2=``	9	punct	_
+24	click	click	VB	p2=NN|pb=click.01	9	dep	_
+25	here	here	RB	_	24	advmod	24:AM-LOC
+26	.	.	.	_	9	punct	_
+

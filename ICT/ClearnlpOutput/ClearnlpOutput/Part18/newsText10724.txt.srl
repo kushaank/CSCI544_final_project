@@ -1,0 +1,14 @@
+1	The	the	DT	_	2	det	_
+2	Committee	committee	NNP	_	3	nsubj	3:A0;7:A0=PAG
+3	approved	approve	VBD	pb=approve.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	agreement	agreement	NN	_	3	dobj	3:A1=PPT
+6	and	and	CC	_	3	cc	_
+7	recommended	recommend	VBD	pb=recommend.01	3	conj	_
+8	it	it	PRP	_	7	dobj	7:A1=PPT
+9	to	to	IN	_	7	prep	7:A2=GOL
+10	the	the	DT	_	12	det	_
+11	plenary	plenary	JJ	_	12	amod	_
+12	meeting	meeting	NN	_	9	pobj	_
+13	.	.	.	_	3	punct	_
+

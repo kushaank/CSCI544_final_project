@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mr. Copeland,face.01,intense pressure,,Affirmative,Copeland had been facing intense pressure to resign after a resident complained about overhearing him use the N - word in a restaurant . 
+a resident,complain.01,about overhearing,,Affirmative,Copeland had been facing intense pressure to resign after a resident complained about overhearing him use the N - word in a restaurant . 
+a resident,use.01,the N - word in,,Affirmative,Copeland had been facing intense pressure to resign after a resident complained about overhearing him use the N - word in a restaurant . 
+Mr. Copeland,acknowledge.01,that he used,,Affirmative,Copeland acknowledged that he used the slur but refused to apologize or step down . 
+Mr. Copeland,use.01,the slur,,Affirmative,Copeland acknowledged that he used the slur but refused to apologize or step down . 
+Mr. Copeland,refuse.01,to apologize or step down,,Affirmative,Copeland acknowledged that he used the slur but refused to apologize or step down . 
+"Mitt Romney ,",have.03,a home in Wolfeboro,,Affirmative,"Town and state officials -- along with some national figures , such as Mitt Romney , who has a home in Wolfeboro -- had condemned the remark , and more than 100 residents packed a Police Commission meeting last week to demand Copleand 's resignation . "
+Town and,condemn.01,the remark,,Affirmative,"Town and state officials -- along with some national figures , such as Mitt Romney , who has a home in Wolfeboro -- had condemned the remark , and more than 100 residents packed a Police Commission meeting last week to demand Copleand 's resignation . "
+100 residents,pack.01,Commission meeting,,Affirmative,"Town and state officials -- along with some national figures , such as Mitt Romney , who has a home in Wolfeboro -- had condemned the remark , and more than 100 residents packed a Police Commission meeting last week to demand Copleand 's resignation . "
+100 residents,demand.01,resignation,,Affirmative,"Town and state officials -- along with some national figures , such as Mitt Romney , who has a home in Wolfeboro -- had condemned the remark , and more than 100 residents packed a Police Commission meeting last week to demand Copleand 's resignation . "
+Mr. Copeland,represent.01,a very welcoming community,,Affirmative,"Mr. Copeland certainly did not represent the town of Wolfeboro , said Town Manager Dave Owen . "
+Manager Dave Owen,say.01,Copeland certainly did not represent,,Affirmative,"Mr. Copeland certainly did not represent the town of Wolfeboro , said Town Manager Dave Owen . "
+state officials,say.01,resignation was,,Affirmative,Officials said resignation was the only way to get him out of office before the end of his term because the state has no recall provision for elected officials . 
+the state,have.03,no recall provision for,,Affirmative,Officials said resignation was the only way to get him out of office before the end of his term because the state has no recall provision for elected officials . 
+Mr. Copeland,oversee.01,certain police policies,,Affirmative,"As a member of the Police Commission , Copeland oversaw certain police policies but was not a member of the Police Department . "
+a member of the Police Commission,do.02,a bad thing,,Affirmative,"He did a bad thing , said Police Commission Chairman Joseph Balboni . "
+Chairman Joseph Balboni,say.01,He did,,Affirmative,"He did a bad thing , said Police Commission Chairman Joseph Balboni . "
+We,try.01,to make,,Affirmative,We tried to make him resign before all of this . 
+We,make.02,him resign before all of this,,Affirmative,We tried to make him resign before all of this . 
+people saying,say.01,they would boycott,,Affirmative,"After stories about the slur spread nationwide , town officials and the Police Department were slammed with phone calls from people saying they would boycott the town , a popular summer destination , until Copeland resigned . "
+people,boycott.01,a popular summer destination,,Affirmative,"After stories about the slur spread nationwide , town officials and the Police Department were slammed with phone calls from people saying they would boycott the town , a popular summer destination , until Copeland resigned . "
+Balboni and,appoint.01,"a new commissioner ,",,Affirmative,"Balboni and the other commissioner will appoint a new commissioner , who must be a registered voter who has lived in the town for at least five years . "
+you,agree.01,to accept,,Affirmative,By posting your comments you agree to accept our terms of use . 
+you,accept.01,our terms of use,,Affirmative,By posting your comments you agree to accept our terms of use . 
+Linda and,hit.01,the jackpot,,Affirmative,Linda and Walter Misco hit the jackpot in Las Vegas by beating the odds on the most famous slot machine at the MGM Grand . 
+Linda and,beat.01,the odds,on,Affirmative,Linda and Walter Misco hit the jackpot in Las Vegas by beating the odds on the most famous slot machine at the MGM Grand . 

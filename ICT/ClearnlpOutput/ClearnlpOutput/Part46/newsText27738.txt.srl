@@ -1,0 +1,78 @@
+1	If	if	IN	_	3	mark	_
+2	you	you	PRP	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	7	advcl	7:AM-ADV
+4	like	like	IN	_	7	intj	7:AM-DIS
+5	this	this	DT	_	6	det	_
+6	reporter and	reporter and	NN	p2=NNP	7	nsubj	7:A0=PAG
+7	gave	give	VBD	pb=give.01	0	root	_
+8	up	up	RP	_	7	prt	7:C-V
+9	after	after	IN	_	7	prep	7:AM-TMP
+10	a	a	DT	_	13	det	_
+11	very	very	RB	_	12	advmod	_
+12	frustrating	frustrating	JJ	_	13	amod	_
+13	ten minutes	ten minutes	NNS	p2=NNPS	9	pobj	_
+14	(	(	-LRB-	_	13	punct	_
+15	OK	ok	UH	p2=RB	13	intj	_
+16	,	,	,	_	13	punct	_
+17	more	more	JJR	_	19	amod	_
+18	like	like	IN	_	19	quantmod	_
+19	40	0	CD	_	15	npadvmod	_
+20	)	)	-RRB-	_	7	punct	_
+21	,	,	,	_	24	punct	_
+22	this	this	DT	_	24	nsubj	24:A1=PPT
+23	could	could	MD	_	24	aux	24:AM-MOD
+24	be	be	VB	pb=be.01	13	ccomp	_
+25	the	the	DT	_	26	det	_
+26	video	video	NN	_	24	attr	24:A2=PRD
+27	for	for	IN	_	26	prep	_
+28	you	you	PRP	_	27	pobj	_
+29	.	.	.	_	24	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0
+2	never	never	RB	_	3	neg	3:AM-NEG
+3	said	say	VBD	pb=say.01	0	root	_
+4	cheating	cheating	NN	p2=VBG	6	nsubj	6:A1=PPT
+5	would	would	MD	_	6	aux	6:AM-MOD
+6	be	be	VB	pb=be.01	3	ccomp	3:A1=PPT
+7	that easy	that easy	JJ	p2=NNP	6	acomp	6:A2=PRD
+8	.	.	.	_	3	punct	_
+
+1	Good	good	JJ	_	2	amod	_
+2	luck	luck	NN	_	0	root	_
+3	!	!	.	_	2	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Open	open	VB	p2=NNP|pb=open.01	0	root	_
+2	photoshop	photoshop	NN	p2=RB	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	Just	just	RB	_	2	advmod	2:AM-ADV
+2	think	think	VB	p2=NN|pb=think.01	0	root	_
+3	of	of	IN	_	2	prep	2:A1=PPT
+4	all	all	PDT	_	6	predet	_
+5	the	the	DT	_	6	det	_
+6	satisfaction	satisfaction	NN	_	3	pobj	_
+7	you	you	PRP	_	9	nsubj	9:A0=PAG
+8	will	will	MD	_	9	aux	9:AM-MOD
+9	have	have	VB	pb=have.03	6	rcmod	_
+10	of	of	IN	_	9	prep	9:A1=PPT
+11	gaining	gain	VBG	pb=gain.02	10	pcomp	_
+12	the	the	DT	_	14	det	_
+13	jealousy off	jealousy off	NNP	p2=NN	14	nn	_
+14	co-workers	co-worker	NNS	_	11	dobj	17:A0=PAG;11:A1=PPT
+15	who	who	WP	_	17	nsubj	17:R-A0;20:R-A0
+16	have	have	VBP	_	17	aux	_
+17	spent	spend	VBN	pb=spend.02	14	rcmod	_
+18	hours	hour	NNS	_	17	dobj	17:A1=VSP
+19	fruitlessly	fruitlessly	RB	p2=VBP	20	advmod	20:AM-MNR
+20	clicking	click	VBG	pb=click.01	17	xcomp	17:A2=GOL
+21	their	their	PRP$	_	22	poss	_
+22	mouse	mouse	NN	_	20	dobj	20:A1=PPT
+23	at	at	IN	_	20	prep	20:AM-LOC
+24	the	the	DT	_	26	det	_
+25	virtual	virtual	JJ	_	26	amod	_
+26	puzzle	puzzle	NN	_	23	pobj	_
+27	.	.	.	_	2	punct	_
+

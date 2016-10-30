@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a man,win.01,million Powerball prize,,Affirmative,"DES MOINES , Iowa  After six months of searching , Iowa Lottery officials made contact with a man who 'd won a $ 1 million Powerball prize back in November , but did n't know it because he had n't checked the ticket . "
+Lottery officials,know.01,six months of searching,,Affirmative,"DES MOINES , Iowa  After six months of searching , Iowa Lottery officials made contact with a man who 'd won a $ 1 million Powerball prize back in November , but did n't know it because he had n't checked the ticket . "
+a man who 'd won a $ 1 million Powerball prize back in November,check.01,the ticket,,Affirmative,"DES MOINES , Iowa  After six months of searching , Iowa Lottery officials made contact with a man who 'd won a $ 1 million Powerball prize back in November , but did n't know it because he had n't checked the ticket . "
+"Watson , 58",say.01,he was shocked,,Affirmative,Watson said he was shocked when he learned last week that he 'd won a big prize . 
+"Watson , 58",learn.01,that he 'd won,,Affirmative,Watson said he was shocked when he learned last week that he 'd won a big prize . 
+"Watson , 58",win.01,a big prize,,Affirmative,Watson said he was shocked when he learned last week that he 'd won a big prize . 
+"Watson , 58 ,",repair.01,industrial injection molding machines,,Affirmative,"Watson , 58 , who repairs industrial injection molding machines , said he purchased his winning ticket at the Kum & Go on Highway 38 in Tipton for the Powerball drawing on Nov . "
+"Watson , 58 ,",say.01,he purchased,,Affirmative,"Watson , 58 , who repairs industrial injection molding machines , said he purchased his winning ticket at the Kum & Go on Highway 38 in Tipton for the Powerball drawing on Nov . "
+he,purchase.01,his winning ticket at,,Affirmative,"Watson , 58 , who repairs industrial injection molding machines , said he purchased his winning ticket at the Kum & Go on Highway 38 in Tipton for the Powerball drawing on Nov . "
+He,buy.01,a ticket,,Affirmative,He was traveling for work and bought a ticket during a stop for gasoline . 
+Watson,admit.01,that he set,,Affirmative,Watson admitted that he set the ticket aside and did n't check it for months . 
+he,set.02,the ticket,aside,Affirmative,Watson admitted that he set the ticket aside and did n't check it for months . 
+he,check.01,it,,Affirmative,Watson admitted that he set the ticket aside and did n't check it for months . 
+he,have.03,tickets from,,Affirmative,"In fact , he currently has tickets from several different states that he has yet to check , but he plans to do that soon . "
+he,have.03,yet,,Affirmative,"In fact , he currently has tickets from several different states that he has yet to check , but he plans to do that soon . "
+he,plan.01,to do that soon,,Affirmative,"In fact , he currently has tickets from several different states that he has yet to check , but he plans to do that soon . "
+he,do.02,that,,Affirmative,"In fact , he currently has tickets from several different states that he has yet to check , but he plans to do that soon . "
+Rich,note.01,Division routinely gathers details about tickets,,Affirmative,"Rich noted that the Iowa Lottery 's Security Division routinely gathers details about tickets that win large prizes , and in the case of Watson 's ticket , the lottery worked with Kum & Go to obtain additional specifics . "
+Security Division,gather.01,details about tickets,,Affirmative,"Rich noted that the Iowa Lottery 's Security Division routinely gathers details about tickets that win large prizes , and in the case of Watson 's ticket , the lottery worked with Kum & Go to obtain additional specifics . "
+tickets,win.01,large prizes,,Affirmative,"Rich noted that the Iowa Lottery 's Security Division routinely gathers details about tickets that win large prizes , and in the case of Watson 's ticket , the lottery worked with Kum & Go to obtain additional specifics . "
+Security Division,obtain.01,additional specifics,,Affirmative,"Rich noted that the Iowa Lottery 's Security Division routinely gathers details about tickets that win large prizes , and in the case of Watson 's ticket , the lottery worked with Kum & Go to obtain additional specifics . "
+they,help.01,review,,Affirmative,"As time went on and the prize remained unclaimed , lottery security staffers asked Kum & Go officials if they would help review the information in the hopes of reaching the potential winner . "
+they,review.01,the information in,,Affirmative,"As time went on and the prize remained unclaimed , lottery security staffers asked Kum & Go officials if they would help review the information in the hopes of reaching the potential winner . "

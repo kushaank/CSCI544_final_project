@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A jury,find.01,"the fundamentalist imam ,",,Affirmative,"A jury found the fundamentalist imam , who was tried as Mustafa Kamel Mustafa , guilty of conspiring to aid al - Qaeda in a Yemen kidnapping of American citizens in 1998 and of sending men to terrorist training camps . "
+the fundamentalist imam,face.01,life,,Affirmative,"He now faces life in prison , the Associated Press reports . "
+the Associated Press,report.01,He now faces life in prison,,Affirmative,"He now faces life in prison , the Associated Press reports . "
+outdoor sermons condemning,condemn.01,"the West ,",,Affirmative,"The Egypt - born cleric was formerly based in London , where he became notorious for giving outdoor sermons condemning the West , and praising Osama bin Laden and the 9/11 hijackers . "
+outdoor sermons condemning,praise.01,Osama bin Laden and,,Affirmative,"The Egypt - born cleric was formerly based in London , where he became notorious for giving outdoor sermons condemning the West , and praising Osama bin Laden and the 9/11 hijackers . "
+by,frequent.01,The mosque,,Affirmative,"The mosque where he preached was also frequented by shoe bomber Richard Reid , though Abu Hamza claims he never met him . "
+Islamist cleric Abu Hamza al-Masri,claim.01,he never met him,,Affirmative,"The mosque where he preached was also frequented by shoe bomber Richard Reid , though Abu Hamza claims he never met him . "
+Islamist cleric Abu Hamza al-Masri,meet.02,Islamist cleric Abu Hamza al-Masri,,Affirmative,"The mosque where he preached was also frequented by shoe bomber Richard Reid , though Abu Hamza claims he never met him . "
+Islamist cleric Abu Hamza al-Masri,spend.02,seven years,,Affirmative,Abu Hamza was extradited to the U.S. in 2012 after spending seven years in a British jail for inciting murder and racial hatred . 
+by,nickname.01,Islamist cleric Abu Hamza al-Masri,Hook,Affirmative,"He was nicknamed Hook by the British tabloids on account of his scarred appearance , having lost both hands and an eye while working on a civil - engineering project in Pakistan in 1993 . "

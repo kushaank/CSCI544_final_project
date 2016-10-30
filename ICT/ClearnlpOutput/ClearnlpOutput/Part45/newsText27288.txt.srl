@@ -1,0 +1,168 @@
+1	SCALF	scalf	NNP	p2=NN	0	root	_
+2	,	,	,	_	1	punct	_
+3	Ky	ky	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	(	(	-LRB-	_	2	punct	_
+2	WATE	wate	NNP	p2=NN	0	root	_
+3	)	)	-RRB-	_	2	punct	_
+4	-	-	:	p2=,	10	punct	_
+5	Kentucky	kentucky	NNP	_	6	nn	_
+6	State	state	NNP	p2=NN	7	nn	_
+7	Police	police	NNS	p2=NNP	10	nsubj	10:A0=PAG
+8	have	have	VBP	_	10	aux	_
+9	now	now	RB	_	10	advmod	10:AM-TMP
+10	arrested	arrest	VBN	pb=arrest.01	0	root	_
+11	four	#crd#	CD	_	12	num	_
+12	people	people	NNS	_	10	dobj	10:A1=PPT
+13	in	in	IN	_	10	prep	10:AM-MNR
+14	connection	connection	NN	_	13	pobj	_
+15	with	with	IN	_	14	prep	_
+16	a	a	DT	_	19	det	_
+17	deadly	deadly	JJ	_	19	amod	_
+18	home	home	NN	_	19	nn	_
+19	invasion	invasion	NN	_	15	pobj	_
+20	in	in	IN	_	19	prep	_
+21	early	early	JJ	_	22	amod	_
+22	May	may	NNP	_	20	pobj	_
+23	.	.	.	_	10	punct	_
+
+1	Officers	officer	NNS	_	2	nsubj	2:A0
+2	say	say	VBP	p2=VB|pb=say.01	0	root	_
+3	Elijah	elijah	NNP	_	4	nn	_
+4	Messer	messer	NNP	_	10	nsubjpass	10:A1=PPT;12:A1=PPT
+5	and	and	CC	_	4	cc	_
+6	Angela	angela	NNP	_	7	nn	_
+7	Mills	mills	NNP	p2=NNPS	4	conj	_
+8	were	be	VBD	_	10	auxpass	_
+9	both	both	DT	p2=CC	10	advmod	_
+10	arrested	arrest	VBN	p2=JJ|pb=arrest.01	2	ccomp	2:A1=PPT
+11	and	and	CC	_	10	cc	_
+12	charged	charge	VBN	pb=charge.05	10	conj	_
+13	with	with	IN	_	12	prep	12:A2=PRD
+14	murder	murder	NN	_	13	pobj	_
+15	on	on	IN	_	12	prep	12:AM-TMP
+16	Saturday	saturday	NNP	_	15	pobj	_
+17	.	.	.	_	2	punct	_
+
+1	Those	those	DT	_	2	det	_
+2	arrests	arrest	NNS	_	3	nsubj	3:A1=PPT
+3	came	come	VBD	pb=come.01	0	root	_
+4	just	just	RB	_	6	advmod	_
+5	a	a	DT	_	6	det	_
+6	day	day	NN	_	9	npadvmod	_
+7	after	after	IN	p2=RB	9	mark	_
+8	KSP	ksp	NNP	_	9	nsubj	9:A0=PAG
+9	arrested	arrest	VBD	p2=VBN|pb=arrest.01	3	advcl	3:AM-TMP
+10	Patrick	patrick	NNP	_	11	nn	_
+11	Baker	baker	NNP	_	9	dobj	9:A1=PPT
+12	and	and	CC	_	11	cc	_
+13	Christopher	christopher	NNP	_	14	nn	_
+14	Wagner	wagner	NNP	_	11	conj	_
+15	on	on	IN	_	9	prep	9:A2=CAU
+16	the	the	DT	_	18	det	_
+17	same	same	JJ	_	18	amod	_
+18	charges	charge	NNS	_	15	pobj	_
+19	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	2	det	_
+2	four	#crd#	CD	_	5	nsubjpass	5:A1=PPT
+3	are	be	VBP	_	5	aux	_
+4	being	be	VBG	_	5	auxpass	_
+5	held	hold	VBN	pb=hold.04	0	root	_
+6	in	in	IN	_	5	prep	5:AM-LOC
+7	the	the	DT	_	10	det	_
+8	Knox	knox	NNP	_	9	nn	_
+9	County	county	NNP	_	10	nn	_
+10	Jail	jail	NNP	_	6	pobj	_
+11	.	.	.	_	5	punct	_
+
+1	Officials	official	NNS	_	2	nsubj	2:A0
+2	say	say	VBP	pb=say.01	0	root	_
+3	more	more	JJR	_	4	amod	_
+4	arrests	arrest	NNS	_	6	nsubj	_
+5	are	be	VBP	_	6	aux	_
+6	pending	pending	VBG	_	2	ccomp	2:A1=PPT
+7	.	.	.	_	2	punct	_
+
+1	KSP say	ksp say	NNP	p2=MD	4	npadvmod	4:AM-DIS
+2	they	they	PRP	_	4	nsubj	4:A0=PAG
+3	got a	got a	NNP	p2=MD	2	appos	_
+4	call	call	VBP	p2=VB|pb=call.01	0	root	_
+5	the	the	DT	_	6	det	_
+6	morning	morning	NN	_	4	dobj	4:A1=PPT
+7	of	of	IN	_	6	prep	_
+8	May	may	NNP	_	7	pobj	_
+9	9	0	CD	_	8	num	_
+10	requesting	request	VBG	pb=request.01	11	amod	_
+11	assistance	assistance	NN	_	4	oprd	10:A1=PPT;4:A2=PRD
+12	from	from	IN	_	11	prep	_
+13	the	the	DT	_	16	det	_
+14	Knox	knox	NNP	_	15	nn	_
+15	County	county	NNP	_	16	nn	_
+16	Sheriff	sheriff	NNP	_	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	Department	department	NNP	_	12	pobj	_
+19	after	after	IN	_	11	prep	_
+20	reports	report	NNS	_	19	pobj	_
+21	of	of	IN	_	20	prep	_
+22	a	a	DT	_	23	det	_
+23	shooting	shooting	NN	_	21	pobj	_
+24	.	.	.	_	4	punct	_
+
+1	Officials believe two of	officials believe two of	IN	p2=NNP	6	prep	_
+2	the	the	DT	_	5	det	_
+3	suspects forced	suspects forced	VBN	p2=``|pb=suspects forced.01	5	amod	_
+4	their	their	PRP$	_	5	poss	_
+5	way	way	NN	_	1	pobj	3:A1
+6	through	through	IN	p2=RB	7	advmod	7:AM-MNR
+7	a home	a home	VBN	p2=NNP|pb=a home.01	0	root	_
+8	by	by	IN	_	7	prep	7:AM-MNR
+9	identifying	identify	VBG	pb=identify.01	8	pcomp	_
+10	themselves	themselves	PRP	_	9	dobj	9:A1=PPT
+11	as	as	IN	_	9	prep	9:A2=PRD
+12	law	law	NN	_	13	nn	_
+13	enforcement	enforcement	NN	_	11	pobj	_
+14	.	.	.	_	1	punct	_
+
+1	A	a	DT	_	2	det	_
+2	struggle	struggle	NN	_	3	nsubj	3:A1=PPT
+3	took	take	VBD	pb=take.14	0	root	_
+4	place	place	NN	_	3	dobj	3:A2
+5	between	between	IN	_	3	prep	3:AM-LOC
+6	the	the	DT	_	7	det	_
+7	homeowner	homeowner	NN	_	5	pobj	_
+8	,	,	,	_	7	punct	_
+9	Donald	donald	NNP	_	10	nn	_
+10	Mills	mill	NNPS	p2=NNP	7	appos	_
+11	.	.	.	_	3	punct	_
+
+1	Officers	officer	NNS	_	2	nsubj	2:A0
+2	say	say	VBP	p2=VB|pb=say.01	0	root	_
+3	one	#crd#	CD	_	8	nsubj	8:A0=PAG
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	suspects	suspect	NNS	_	4	pobj	_
+7	then	then	RB	_	8	advmod	8:AM-TMP
+8	shot	shoot	VBD	pb=shoot.03	2	ccomp	2:A1=PPT
+9	Mills	mills	NNP	p2=NNS	8	dobj	8:A1=PPT
+10	.	.	.	_	2	punct	_
+
+1	Mills	mill	NNS	p2=NNP	3	nsubjpass	3:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	taken	take	VBN	pb=take.01	0	root	_
+4	to	to	IN	_	3	prep	3:A2=DIR
+5	the	the	DT	_	8	det	_
+6	Knox	knox	NNP	_	7	nn	_
+7	County	county	NNP	_	8	nn	_
+8	Hospital	hospital	NNP	p2=NN	4	pobj	_
+9	by	by	IN	_	3	agent	3:A0
+10	his	his	PRP$	_	11	poss	_
+11	wife	wife	NN	_	9	pobj	_
+12	where	where	WRB	_	15	advmod	15:R-AM-LOC
+13	he	he	PRP	_	15	nsubjpass	15:A1=PPT
+14	was	be	VBD	_	15	auxpass	_
+15	pronounced	pronounce	VBN	pb=pronounce.01	3	advcl	_
+16	dead	dead	JJ	_	15	oprd	15:A2=PRD
+17	.	.	.	_	3	punct	_
+

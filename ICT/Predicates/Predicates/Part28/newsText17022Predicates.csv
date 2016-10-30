@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+education teacher accused of,receive.01,day suspension,,Affirmative,A physical education teacher accused of verbally and physically harassing his students at Riverglades Elementary School in Parkland may receive a 10 - day suspension Tuesday . 
+teacher Robert Konnovitch,face.01,day suspension,,Affirmative,"At first , P.E. teacher Robert Konnovitch faced a five - day suspension without pay , but that went up to 10 days after new complaints surfaced and several meetings with the school 's principal went awry . "
+students in,say.01,Konnovitch had tried,,Affirmative,"According to an administrative complaint , students in early 2014 said Konnovitch had tried to kick one of them in the head . "
+P.E. teacher Robert Konnovitch,try.01,to kick one of them,,Affirmative,"According to an administrative complaint , students in early 2014 said Konnovitch had tried to kick one of them in the head . "
+P.E. teacher Robert Konnovitch,kick.01,one of them,,Affirmative,"According to an administrative complaint , students in early 2014 said Konnovitch had tried to kick one of them in the head . "
+a parent,complain.01,teacher referred to,,Affirmative,"In addition , a parent complained the teacher referred to a Hispanic student as Miguel , which was not the boy 's name . "
+A physical education teacher accused of verbally and physically harassing his students at Riverglades Elementary School in Parkland,refer.01,to,"as Miguel ,",Affirmative,"In addition , a parent complained the teacher referred to a Hispanic student as Miguel , which was not the boy 's name . "
+P.E. teacher Robert Konnovitch,continue.01,to call him,,Affirmative,Konnovitch continued to call him that even after he asked the teacher to stop . 
+P.E. teacher Robert Konnovitch,call.01,P.E. teacher Robert Konnovitch,,Affirmative,Konnovitch continued to call him that even after he asked the teacher to stop . 
+P.E. teacher Robert Konnovitch,ask.02,to stop,the teacher,Affirmative,Konnovitch continued to call him that even after he asked the teacher to stop . 
+The student and others in,take.01,the class,to be,Affirmative,The student and others in the class took it to be a putdown . 
+Anne Seltzer,set.03,a meeting with Konnovitch,,Affirmative,"After school principal Jo - Anne Seltzer set up a meeting with Konnovitch about the complaints , parents and students started piling on more accusations . "
+parents and students,start.01,piling on,,Affirmative,"After school principal Jo - Anne Seltzer set up a meeting with Konnovitch about the complaints , parents and students started piling on more accusations . "
+"students losers , stupid , idiots , and annoying and",tell.01,to shut up,them,Affirmative,"Konnovitch called students losers , stupid , idiots , and annoying and tells them to shut up , according to the complaint , while referring to other students as slow and scrawny . "
+principal Jo-Anne Seltzer,schedule.01,a second meeting,,Affirmative,Seltzer scheduled a second meeting to address these new complaints on the same day as the first meeting . 
+principal Jo-Anne Seltzer,recommend.01,day suspension,,Affirmative,"She recommended a five - day suspension without pay , given Konnovitch 's documented employment history , which includes a written reprimand that he assaulted a student in 2008 . "
+P.E. teacher Robert Konnovitch,assault.01,a student,,Affirmative,"She recommended a five - day suspension without pay , given Konnovitch 's documented employment history , which includes a written reprimand that he assaulted a student in 2008 . "
+School Board,make.02,it official,,Affirmative,"But before the Broward School Board could make it official , another parent complained to Seltzer that Konnovitch was angry , used profanity , and refused to let students use the bathroom . "
+another parent,complain.01,"that Konnovitch was angry , used profanity , and refused",to Seltzer,Affirmative,"But before the Broward School Board could make it official , another parent complained to Seltzer that Konnovitch was angry , used profanity , and refused to let students use the bathroom . "
+other students,use.01,the bathroom,,Affirmative,"But before the Broward School Board could make it official , another parent complained to Seltzer that Konnovitch was angry , used profanity , and refused to let students use the bathroom . "
+principal Jo-Anne Seltzer,bump.01,the suspension,,Affirmative,"Konnovitch was uncooperative and unprofessional in a meeting with parents , so Seltzer bumped the suspension up to 10 days . "
+the Broward School Board,approve.01,the decision,,Affirmative,The school board is expected to approve the decision Tuesday . 
+Superintendent Robert Runcie,deliver.01,a different complaint against,,Affirmative,"At the last School Board meeting , Superintendent Robert Runcie delivered a different complaint against Edouard Jean . "
+a different complaint,accuse.01,Jean,of,Affirmative,That complaint accuses Jean of physically abusing a nonverbal special needs student . 
+Jean,abuse.01,a nonverbal special,,Affirmative,That complaint accuses Jean of physically abusing a nonverbal special needs student . 
+A physical therapist,see.01,needs teacher at,,Affirmative,"A physical therapist saw Jean , who worked as a special needs teacher at Crystal Lake Middle School in Pompano Beach , hit the student with a mop handle and a ruler on different occasions . "
+"Jean ,",work.01,as,,Affirmative,"A physical therapist saw Jean , who worked as a special needs teacher at Crystal Lake Middle School in Pompano Beach , hit the student with a mop handle and a ruler on different occasions . "
+"Jean ,",need.01,teacher at,,Affirmative,"A physical therapist saw Jean , who worked as a special needs teacher at Crystal Lake Middle School in Pompano Beach , hit the student with a mop handle and a ruler on different occasions . "
+the Broward School Board,vote.01,on,,Affirmative,The board will vote on whether to fire Jean at the Tuesday meeting . 

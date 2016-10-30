@@ -1,0 +1,95 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+child welfare service,investigate.01,reports,,Affirmative,"SANTIAGO , May 16 ( Reuters ) - Chile 's child welfare service is investigating reports that a Catholic priest was involved in giving babies up for adoption in the 1970 s and 1980 s without their parents ' knowledge , telling the biological mothers that their child had died . "
+a Catholic priest,give.08,babies,,Affirmative,"SANTIAGO , May 16 ( Reuters ) - Chile 's child welfare service is investigating reports that a Catholic priest was involved in giving babies up for adoption in the 1970 s and 1980 s without their parents ' knowledge , telling the biological mothers that their child had died . "
+center Ciper,publish.01,the best choice for them,,Affirmative,Chilean investigative journalism center Ciper published a report last month saying that an unknown number of babies who were born to unmarried mothers were illegally given to other families . 
+center Ciper,say.01,were illegally given to,,Affirmative,Chilean investigative journalism center Ciper published a report last month saying that an unknown number of babies who were born to unmarried mothers were illegally given to other families . 
+the best choice for them,say.01,women were persuaded,,Affirmative,"In some cases , the women were persuaded it was the best choice for them , but in others they were told the baby had died soon after childbirth , the report said . "
+by,consider.01,subversives,,Affirmative,"In neighboring Argentina , there are hundreds of documented cases of babies being taken away from imprisoned mothers who were considered subversives by the state during the military dictatorship 's ' dirty war ' in the 1970s . "
+the priest Joannon,deny.01,any wrongdoing,,Affirmative,"The priest at the center of the scandal , Gerardo Joannon , has denied any wrongdoing , saying in an interview with Ciper that he had been working with doctors to try to prevent backstreet abortions . "
+the priest Joannon,say.01,that he had been working with doctors,,Affirmative,"The priest at the center of the scandal , Gerardo Joannon , has denied any wrongdoing , saying in an interview with Ciper that he had been working with doctors to try to prevent backstreet abortions . "
+"The priest at the center of the scandal , Gerardo Joannon",work.01,to try,,Affirmative,"The priest at the center of the scandal , Gerardo Joannon , has denied any wrongdoing , saying in an interview with Ciper that he had been working with doctors to try to prevent backstreet abortions . "
+"The priest at the center of the scandal , Gerardo Joannon",try.01,to prevent,,Affirmative,"The priest at the center of the scandal , Gerardo Joannon , has denied any wrongdoing , saying in an interview with Ciper that he had been working with doctors to try to prevent backstreet abortions . "
+"The priest at the center of the scandal , Gerardo Joannon",prevent.01,backstreet abortions,,Affirmative,"The priest at the center of the scandal , Gerardo Joannon , has denied any wrongdoing , saying in an interview with Ciper that he had been working with doctors to try to prevent backstreet abortions . "
+"The priest at the center of the scandal , Gerardo Joannon",say.01,was looked on,,Affirmative,"In those days , a girl who was a single mother was looked on very badly , he said , adding that he had helped in around four or five cases , I do n't remember . "
+"The priest at the center of the scandal , Gerardo Joannon",add.01,that he had helped in,,Affirmative,"In those days , a girl who was a single mother was looked on very badly , he said , adding that he had helped in around four or five cases , I do n't remember . "
+"The priest at the center of the scandal , Gerardo Joannon",help.01,in,,Affirmative,"In those days , a girl who was a single mother was looked on very badly , he said , adding that he had helped in around four or five cases , I do n't remember . "
+"The priest at the center of the scandal , Gerardo Joannon",say.01,he will not take part in,,Affirmative,His exact role remains unclear and he has said he will not take part in any investigation into what happened . 
+"The priest at the center of the scandal , Gerardo Joannon",take.01,part,,Affirmative,His exact role remains unclear and he has said he will not take part in any investigation into what happened . 
+"Andres Rillon ,",say.01,daughter was given up for adoption,,Affirmative,"One person identified in the report was Andres Rillon , who said his daughter was given up for adoption after he and the child 's mother were told she was dead . "
+"sister ,",say.01,that Joannon celebrated mass in memory of,,Affirmative,"Rillon 's sister , Maria Elvira Rillon , said that Joannon celebrated mass in memory of the supposedly deceased infant , a claim denied by the priest . "
+the priest Joannon,celebrate.02,mass,,Affirmative,"Rillon 's sister , Maria Elvira Rillon , said that Joannon celebrated mass in memory of the supposedly deceased infant , a claim denied by the priest . "
+by,deny.01,a claim denied by,,Affirmative,"Rillon 's sister , Maria Elvira Rillon , said that Joannon celebrated mass in memory of the supposedly deceased infant , a claim denied by the priest . "
+13,have.03,any relationship with,,Affirmative,"I did n't have any relationship with any parent , said Joannon in an interview with Chile 's Channel 13 . "
+the priest Joannon,say.01,I did n't have,,Affirmative,"I did n't have any relationship with any parent , said Joannon in an interview with Chile 's Channel 13 . "
+13,know.01,parents were,,Affirmative,I did n't know who the parents were ... 
+I,do.02,the only thing,,Affirmative,the only thing I did was to put the person with problems in contact with a doctor involved in locating families that wanted to have a child . 
+families,want.01,to have,,Affirmative,the only thing I did was to put the person with problems in contact with a doctor involved in locating families that wanted to have a child . 
+families,have.03,a child,,Affirmative,the only thing I did was to put the person with problems in contact with a doctor involved in locating families that wanted to have a child . 
+Sename,say.01,cases had come to light,,Affirmative,"The country 's child adoption and welfare department Sename said this week that eight new cases had come to light , mainly people in their thirties who knew they were adopted and suspected something irregular about the way it had taken place . "
+their thirties,know.01,they were adopted and suspected something irregular about,,Affirmative,"The country 's child adoption and welfare department Sename said this week that eight new cases had come to light , mainly people in their thirties who knew they were adopted and suspected something irregular about the way it had taken place . "
+It,say.01,it was requesting,,Affirmative,It said it was requesting a dedicated investigator . 
+it,request.01,a dedicated investigator,,Affirmative,It said it was requesting a dedicated investigator . 
+I,repeat.01,"Joannon ,",to,Affirmative,"I again repeat to the priest Joannon , the doctors and those who have information that they tell the authorities what they know . "
+those,have.03,information,,Affirmative,"I again repeat to the priest Joannon , the doctors and those who have information that they tell the authorities what they know . "
+they,tell.01,what they know,the authorities,Affirmative,"I again repeat to the priest Joannon , the doctors and those who have information that they tell the authorities what they know . "
+We,know.01,the truth,,Affirmative,"We have to know the truth , said Marcela Labrana , the head of Sename . "
+"Marcela Labrana ,",say.01,We have,,Affirmative,"We have to know the truth , said Marcela Labrana , the head of Sename . "
+Catholics,claim.01,that Jesus named Peter,,Affirmative,Catholics claim that Jesus named Peter the first pope with the words on this rock I will build my church ... 
+Jesus,name.01,Peter,the first pope,Affirmative,Catholics claim that Jesus named Peter the first pope with the words on this rock I will build my church ... 
+I,build.01,my church,,Affirmative,Catholics claim that Jesus named Peter the first pope with the words on this rock I will build my church ... 
+I,give.01,the keys of,you,Affirmative,I will give you the keys of the kingdom of heaven . 
+the former fisherman,deny.01,knowing Jesus at all,,Affirmative,"Soon after , the former fisherman publicly denied knowing Jesus at all and cut a man 's ear off . "
+the former fisherman,know.01,Jesus,,Affirmative,"Soon after , the former fisherman publicly denied knowing Jesus at all and cut a man 's ear off . "
+the former fisherman,cut.04,ear,,Affirmative,"Soon after , the former fisherman publicly denied knowing Jesus at all and cut a man 's ear off . "
+Jesus,miracle.01,the ear,,Affirmative,Luckily Jesus was there to miracle the ear back on . 
+Joan,hide.01,her naughties,,Affirmative,"Kind of a Catholic Yentl , Joan hid her naughties and made her way up the clerical ladder to the highest rung . "
+Joan,make.01,her way up,to,Affirmative,"Kind of a Catholic Yentl , Joan hid her naughties and made her way up the clerical ladder to the highest rung . "
+Joan,keep.02,her gender hidden until going into labor,,Affirmative,"According to the story , Joan is able to keep her gender hidden until going into labor in the middle of a papal parade and giving birth in front of a crowd of surprised onlookers . "
+The Vatican,deny.01,woman sat on,,Affirmative,The Vatican denies any woman sat on Peter 's seat . 
+Rome,use.01,the safety guard of,with,Affirmative,"But for several centuries , Rome did use the safety guard of a special coronation throne with a hole in the seat that allowed for a lucky cleric to make a quick examination of the would - be pontiff and declare the pope to be all man . "
+the seat,allow.01,cleric to make,,Affirmative,"But for several centuries , Rome did use the safety guard of a special coronation throne with a hole in the seat that allowed for a lucky cleric to make a quick examination of the would - be pontiff and declare the pope to be all man . "
+a lucky cleric,declare.01,pope to be,,Affirmative,"But for several centuries , Rome did use the safety guard of a special coronation throne with a hole in the seat that allowed for a lucky cleric to make a quick examination of the would - be pontiff and declare the pope to be all man . "
+"His successor ,",have.03,"body exhumed , dressed in",,Affirmative,"His successor , Pope Stephen VII , had the decomposing body exhumed , dressed in full papal vestments , seated on a throne , and put on trial for the breaking of canon law . "
+Guards,strip.01,the corpse of,,Affirmative,"Guards stripped the corpse of his vestments , cut off three fingers and tossed the body into the Tiber River . "
+Guards,cut.04,three fingers,,Affirmative,"Guards stripped the corpse of his vestments , cut off three fingers and tossed the body into the Tiber River . "
+Guards,toss.01,the body,,Affirmative,"Guards stripped the corpse of his vestments , cut off three fingers and tossed the body into the Tiber River . "
+Formosus,give.01,a proper burial,,Affirmative,Formosus was snagged from the river and given a proper burial ... 
+Pope Sergius III ( 904-11 ),dig.02,Formosus,,Affirmative,"Years later , Pope Sergius III ( 904-11 ) once again dug up Formosus , retried him and beheaded the abused corpse . "
+Pope Sergius III ( 904-11 ),retry.01,him,,Affirmative,"Years later , Pope Sergius III ( 904-11 ) once again dug up Formosus , retried him and beheaded the abused corpse . "
+Pope Sergius III ( 904-11 ),behead.01,the abused corpse,,Affirmative,"Years later , Pope Sergius III ( 904-11 ) once again dug up Formosus , retried him and beheaded the abused corpse . "
+Even the forgiving Catholic Encyclopedia,describe.01,John XII,as,Affirmative,"Even the forgiving Catholic Encyclopedia describes John XII as a coarse , immoral man , whose life was such that the Lateran was spoken of as a brothel , and the moral corruption in Rome became the subject of general odium . "
+old boy,toast.01,the devil,,Affirmative,"Among his credits were ordaining a ten - year - old boy a bishop , toasting the devil , castrating difficult clergy , blinding his confessor , and sleeping with almost anybody including his own niece . "
+He,receive.01,a severe beating,from,Affirmative,He died after receiving a severe beating from a jealous husband . 
+one historian,describe.01,him,as,Affirmative,"Accused of rape , murder , and other crimes , one historian described him as a demon from hell in the disguise of a priest . "
+Our Benedict,resign.01,the position,,Affirmative,"Benedict IX was back in power by spring , but soon resigned the position . "
+Benedict IX,sell.01,the papacy,to,Affirmative,"By most accounts , Benedict IX sold the papacy to his godfather John Gratian who became Pope Gregory VI . "
+Benedict IX,find.01,himself hankering for,,Affirmative,"Two years later , Benedict IX found himself hankering for that big pope hat and he forcefully reclaimed the office once again . "
+he,reclaim.01,the office,,Affirmative,"Two years later , Benedict IX found himself hankering for that big pope hat and he forcefully reclaimed the office once again . "
+He,retire.01,five months,,Affirmative,He retired just five months after being crowned and longed to return to his hermit life . 
+"his successor ,",let.01,that happen,,Affirmative,"But his successor , Boniface VIII , could n't let that happen . "
+Boniface,imprison.01,Celestine,,Affirmative,Boniface imprisoned Celestine just in case he changed his mind . 
+he,change.01,his mind,,Affirmative,Boniface imprisoned Celestine just in case he changed his mind . 
+Boniface,expand.01,the power of Rome,,Affirmative,"Boniface then went on to expand the power of Rome , sacking castles and towns and sending forces against foreign kings . "
+Boniface,sack.01,castles and towns,,Affirmative,"Boniface then went on to expand the power of Rome , sacking castles and towns and sending forces against foreign kings . "
+He,excommunicate.01,the King of France,,Affirmative,He excommunicated the King of France and claimed every human creature [ was ] subject to the Roman pontiff . 
+He,claim.01,every human creature,,Affirmative,He excommunicated the King of France and claimed every human creature [ was ] subject to the Roman pontiff . 
+Dante,describe.01,his damnation,,Affirmative,"So ambitious was this pope , that Dante describes his damnation in his Divine Comedy . "
+Dante,write.01,it,,Affirmative,This might have upset Boniface VII ; He was still alive when Dante wrote it . 
+Power,drive.02,this pope,mad,Affirmative,Power drove this pope mad . 
+the cardinals,elect.01,him,,Affirmative,"So much so , that the cardinals who elected him decided they had made a mistake and elected another pope in his place . "
+the cardinals,decide.01,they had made,,Affirmative,"So much so , that the cardinals who elected him decided they had made a mistake and elected another pope in his place . "
+they,elect.01,another pope,,Affirmative,"So much so , that the cardinals who elected him decided they had made a mistake and elected another pope in his place . "
+Urban VI,refuse.01,to step down,,Affirmative,"But Urban VI refused to step down and the new pope , Clement VII , set up court in France . "
+"the new pope ,",set.03,court,,Affirmative,"But Urban VI refused to step down and the new pope , Clement VII , set up court in France . "
+elected popes,claim.01,the authority of,,Affirmative,"So began the Western Schism that lasted into the next century and had , at one point , three officially elected popes all claiming the authority of the papacy . "
+Much of,battle.01,the expansion of,,Affirmative,Much of his pontificate was occupied with battling the expansion of the Ottoman Empire . 
+He,call.02,upon,,Affirmative,He often called upon the princes of Europe to aid the cause . 
+He,aid.01,the cause,,Affirmative,He often called upon the princes of Europe to aid the cause . 
+The pope,declare.02,athleta christi,,Affirmative,The pope declared the future blood - sucking vampire athleta christi ( champion of Christ ) . 
+the leader of,refuse.01,to publically denounce Hitler,,Affirmative,"As millions of people were imprisoned and murdered , the leader of the Catholic Church refused to publically denounce Hitler . "
+the leader of,denounce.01,Hitler,,Affirmative,"As millions of people were imprisoned and murdered , the leader of the Catholic Church refused to publically denounce Hitler . "
+Apostolic Nunciature to Germany,meet.03,with Hitler and,,Affirmative,"Pictured here is Cesare Orsenigo , Pius XII 's Apostolic Nunciature to Germany , meeting with Hitler and his inner circle . "
+Some,claim.01,XII felt,,Affirmative,"Some claim Pius XII felt he could do more to bring an end to Hitler 's slaughter by holding his tongue , but it is tragic that in the face of mass murder and torture the most powerful religious figure in the world did so very little . "
+Pius XII,feel.02,he could do more,,Affirmative,"Some claim Pius XII felt he could do more to bring an end to Hitler 's slaughter by holding his tongue , but it is tragic that in the face of mass murder and torture the most powerful religious figure in the world did so very little . "
+he,do.02,more,,Affirmative,"Some claim Pius XII felt he could do more to bring an end to Hitler 's slaughter by holding his tongue , but it is tragic that in the face of mass murder and torture the most powerful religious figure in the world did so very little . "
+he,bring.01,an end,to,Affirmative,"Some claim Pius XII felt he could do more to bring an end to Hitler 's slaughter by holding his tongue , but it is tragic that in the face of mass murder and torture the most powerful religious figure in the world did so very little . "

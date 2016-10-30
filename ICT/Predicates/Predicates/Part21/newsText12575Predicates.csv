@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Lou Rosamilia,think.01,people are finally starting,,Affirmative,"Lou Rosamilia thinks people are finally starting to notice Troy , New York again . "
+people,start.01,"to notice Troy ,",,Affirmative,"Lou Rosamilia thinks people are finally starting to notice Troy , New York again . "
+people,notice.01,"Troy ,",,Affirmative,"Lou Rosamilia thinks people are finally starting to notice Troy , New York again . "
+Lou Rosamilia,say.01,There is,,Affirmative,"There is a certain momentum and enthusiasm in the air , Rosamilia said of infrastructure , apartment and business developments in the City of Troy . "
+Lou Rosamilia,say.01,he has attended,,Affirmative,"Rosamilia said he has attended six ribbon cutting events in the last two weeks to celebrate the opening of new businesses , architecture firms , a beverage store and the new offices of the Rensselaer County Regional Chamber of Commerce . "
+Lou Rosamilia,attend.01,six ribbon cutting events in,,Affirmative,"Rosamilia said he has attended six ribbon cutting events in the last two weeks to celebrate the opening of new businesses , architecture firms , a beverage store and the new offices of the Rensselaer County Regional Chamber of Commerce . "
+six ribbon cutting events in,cut.02,events,,Affirmative,"Rosamilia said he has attended six ribbon cutting events in the last two weeks to celebrate the opening of new businesses , architecture firms , a beverage store and the new offices of the Rensselaer County Regional Chamber of Commerce . "
+start - ups,look.01,to,,Affirmative,"Empty storefronts are being developed , apartments are being rented out before construction is even complete and start - ups are looking to the area to start businesses , Rosamilia said . "
+start - ups,start.01,new businesses,,Affirmative,"Empty storefronts are being developed , apartments are being rented out before construction is even complete and start - ups are looking to the area to start businesses , Rosamilia said . "
+Lou Rosamilia,say.01,"developed , apartments are being rented out",,Affirmative,"Empty storefronts are being developed , apartments are being rented out before construction is even complete and start - ups are looking to the area to start businesses , Rosamilia said . "
+five area mayors,participate.01,in,,Affirmative,Rosamilia is one of five area mayors who will participate in a panel discussion in Troy Tuesday morning to focus on the state of local municipalities . 
+by,moderate.01,a panel discussion in Troy Tuesday,,Affirmative,The discussion will be moderated by meteorologist Neal Estano of WNYT . 
+Other panelists,work.01,to prove,,Affirmative,"We 're working to prove the atmosphere and show the benefits of removing blight , Rosamilia said . "
+Other panelists,prove.01,the atmosphere,,Affirmative,"We 're working to prove the atmosphere and show the benefits of removing blight , Rosamilia said . "
+Other panelists,show.01,the benefits of removing blight,,Affirmative,"We 're working to prove the atmosphere and show the benefits of removing blight , Rosamilia said . "
+Lou Rosamilia,say.01,We 're working,,Affirmative,"We 're working to prove the atmosphere and show the benefits of removing blight , Rosamilia said . "
+Lou Rosamilia,say.01,problem is,,Affirmative,"The city 's biggest infrastructure problem is an aging transmission line from the Tomhannock Reservoir , he said . "
+Lou Rosamilia,say.01,he 'd like,,Affirmative,A project that Rosamilia said he 'd like to see completed by the end of the year is the One Monument Square riverfront project being developed by Kirchhoff Consigli Construction Management in Albany . 
+Lou Rosamilia,like.02,to see completed by,,Affirmative,A project that Rosamilia said he 'd like to see completed by the end of the year is the One Monument Square riverfront project being developed by Kirchhoff Consigli Construction Management in Albany . 
+Lou Rosamilia,see.01,completed by,,Affirmative,A project that Rosamilia said he 'd like to see completed by the end of the year is the One Monument Square riverfront project being developed by Kirchhoff Consigli Construction Management in Albany . 
+Lou Rosamilia,complete.01,A project,,Affirmative,A project that Rosamilia said he 'd like to see completed by the end of the year is the One Monument Square riverfront project being developed by Kirchhoff Consigli Construction Management in Albany . 
+by,develop.02,Square riverfront project,,Affirmative,A project that Rosamilia said he 'd like to see completed by the end of the year is the One Monument Square riverfront project being developed by Kirchhoff Consigli Construction Management in Albany . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

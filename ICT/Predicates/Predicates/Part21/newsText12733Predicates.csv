@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Monsey family,sue.01,summer camp,,Affirmative,"MONSEY - A Monsey family is suing a popular Orthodox Jewish summer camp in Pennsylvania , claiming the camp tried to cover up that a counselor molested their son . "
+A Monsey family,claim.01,camp tried,,Affirmative,"MONSEY - A Monsey family is suing a popular Orthodox Jewish summer camp in Pennsylvania , claiming the camp tried to cover up that a counselor molested their son . "
+a popular Orthodox Jewish summer camp,try.01,to cover up,,Affirmative,"MONSEY - A Monsey family is suing a popular Orthodox Jewish summer camp in Pennsylvania , claiming the camp tried to cover up that a counselor molested their son . "
+a popular Orthodox Jewish summer camp,cover.04,counselor molested,,Affirmative,"MONSEY - A Monsey family is suing a popular Orthodox Jewish summer camp in Pennsylvania , claiming the camp tried to cover up that a counselor molested their son . "
+a counselor,molest.01,their son,,Affirmative,"MONSEY - A Monsey family is suing a popular Orthodox Jewish summer camp in Pennsylvania , claiming the camp tried to cover up that a counselor molested their son . "
+The father,say.01,son suffered at,,Affirmative,The father says his 12 - year - old son suffered at Camp Dora Golding and is not doing well now . 
+The father,claim.01,touched,,Affirmative,"He claims the 20 - year - old Canadian counselor , Chisdau Ben Porath , touched his son inappropriately at the camp last summer . "
+"old Canadian counselor ,",touch.01,his 12-year-old son,,Affirmative,"He claims the 20 - year - old Canadian counselor , Chisdau Ben Porath , touched his son inappropriately at the camp last summer . "
+The civil suit,claim.01,camp tried,,Affirmative,The civil suit claims the camp tried to cover the whole thing up . 
+a popular Orthodox Jewish summer camp,try.01,to cover,,Affirmative,The civil suit claims the camp tried to cover the whole thing up . 
+a popular Orthodox Jewish summer camp,cover.01,the whole thing,,Affirmative,The civil suit claims the camp tried to cover the whole thing up . 
+Chisdau Ben Porath,plead.02,guilty,to molesting,Affirmative,Porath pleaded guilty in February to molesting the boy and was sentenced to between 5 and 23 months in county jail . 
+Chisdau Ben Porath,molest.01,the boy,,Affirmative,Porath pleaded guilty in February to molesting the boy and was sentenced to between 5 and 23 months in county jail . 
+"attorney ,",say.01,are not good enough,,Affirmative,"The family 's attorney , Brian Condon , says the camp 's background checks for counselors are not good enough and Porath should never have been around children . "

@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Students,cheer.02,theres one slight problem,,Affirmative,"Students cheered , but theres one slight problem . "
+a duo,stage.01,elaborate political pranks,,Affirmative,"The speaker was Igor Vamos , a 1990 Reed graduate who is part of the Yes Men , a duo that stages elaborate political pranks to press an anti-corporate message . "
+a duo,press.01,an anti-corporate message,,Affirmative,"The speaker was Igor Vamos , a 1990 Reed graduate who is part of the Yes Men , a duo that stages elaborate political pranks to press an anti-corporate message . "
+"Igor Vamos , a 1990 Reed graduate who is part of the Yes Men , a duo that stages elaborate political pranks to press an anti-corporate message",send.02,a fake press release,,Affirmative,"Vamos sent a fake press release to publicize his faux news , and created a fake website . "
+"Igor Vamos , a 1990 Reed graduate who is part of the Yes Men , a duo that stages elaborate political pranks to press an anti-corporate message",create.01,a fake website,,Affirmative,"Vamos sent a fake press release to publicize his faux news , and created a fake website . "
+a fake press release,fool.01,"Life editor ,",,Affirmative,"The press release was credible enough to fool the Tribunes Sustainable Life editor , who posted a news brief based on the press release . "
+"Life editor ,",post.01,a news brief based on,,Affirmative,"The press release was credible enough to fool the Tribunes Sustainable Life editor , who posted a news brief based on the press release . "
+Sustainable Life,run.01,previous stories about,,Affirmative,Sustainable Life has run previous stories about Reed student activists campaign to get the private college to divest its fossil fuel stocks . 
+Sustainable Life,get.01,college to divest,,Affirmative,Sustainable Life has run previous stories about Reed student activists campaign to get the private college to divest its fossil fuel stocks . 
+the private college,divest.01,its fossil fuel stocks,,Affirmative,Sustainable Life has run previous stories about Reed student activists campaign to get the private college to divest its fossil fuel stocks . 
+"Kevin Myers ,",call.07,to notify us,,Affirmative,"Kevin Myers , Reeds director of strategic communications , called to notify us we were duped by the hoax . "
+"Kevin Myers ,",notify.01,us,we were duped by,Affirmative,"Kevin Myers , Reeds director of strategic communications , called to notify us we were duped by the hoax . "
+by,dupe.01,us,,Affirmative,"Kevin Myers , Reeds director of strategic communications , called to notify us we were duped by the hoax . "
+Reed officials,weigh.04,the request,,Affirmative,"Reed officials are still weighing the request to divest their fossil fuel stocks , but no decision has been made , Myers said . "
+Kevin Myers,say.01,officials are still weighing,,Affirmative,"Reed officials are still weighing the request to divest their fossil fuel stocks , but no decision has been made , Myers said . "
+Men,fix.02,the World,,Affirmative,"The Yes Mens political pranks have been well - publicized in two movies , The Yes Men ( 2003 ) and The Yes Men Fix the World ( 2009 ) . "
+Reed officials,take.01,Vamoss,latest prank,Affirmative,Reed officials took Vamoss latest prank in good humor . 

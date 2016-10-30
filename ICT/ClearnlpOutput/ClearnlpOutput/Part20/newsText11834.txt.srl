@@ -1,0 +1,45 @@
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	use	use	VBP	pb=use.01	0	root	_
+3	cookies	cookie	NNS	_	2	dobj	2:A1=PPT
+4	to	to	IN	p2=TO	5	aux	_
+5	customise	customise	NN	p2=JJ	2	xcomp	2:A2=PRP
+6	content	content	NN	_	5	dobj	_
+7	for	for	IN	_	5	prep	_
+8	your	your	PRP$	_	9	poss	_
+9	subscription	subscription	NN	_	7	pobj	_
+10	and	and	CC	_	7	cc	_
+11	for	for	IN	_	7	conj	_
+12	analytics	analytics	NNS	p2=NN	11	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	If	if	IN	_	3	mark	_
+2	you	you	PRP	_	3	nsubj	3:A0=PAG;5:A0=PAG
+3	continue	continue	VBP	pb=continue.01	10	advcl	10:AM-ADV
+4	to	to	TO	_	5	aux	_
+5	browse	browse	VB	pb=browse.01	3	xcomp	3:A1=PPT
+6	Lexology	lexology	NNP	p2=NN	5	dobj	5:A1=PPT
+7	,	,	,	_	10	punct	_
+8	we	we	PRP	_	10	nsubj	10:A0=PAG
+9	will	will	MD	_	10	aux	10:AM-MOD
+10	assume	assume	VB	pb=assume.02	0	root	_
+11	that	that	IN	_	13	complm	_
+12	you	you	PRP	_	13	nsubj	16:A0=PAG;13:A1=PPT
+13	are	be	VBP	pb=be.01	10	ccomp	10:A1=PPT
+14	happy	happy	JJ	_	13	acomp	13:A2=PRD
+15	to	to	TO	_	16	aux	_
+16	receive	receive	VB	pb=receive.01	14	xcomp	_
+17	all	all	PDT	p2=DT	19	predet	_
+18	our	our	PRP$	_	19	poss	_
+19	cookies	cookie	NNS	_	16	dobj	16:A1=PPT
+20	.	.	.	_	10	punct	_
+
+1	For	for	IN	_	5	prep	5:AM-PRP
+2	further	far	JJ	p2=DT	3	amod	_
+3	information	information	NN	_	1	pobj	_
+4	please	please	UH	_	5	intj	5:AM-DIS
+5	read	read	VB	p2=VBD|pb=read.01	0	root	_
+6	our	our	PRP$	_	8	poss	_
+7	Cookie	cookie	NNP	_	8	nn	_
+8	Policy	policy	NNP	_	5	dobj	5:A1=PPT
+9	.	.	.	_	5	punct	_
+

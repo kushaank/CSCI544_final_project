@@ -1,0 +1,25 @@
+1	Baku	baku	NNP	p2=LS	3	hmod	_
+2	-	-	HYPH	p2=:	3	hyph	_
+3	APA	apa	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Azerbaijan	azerbaijan	NNP	p2=JJ	5	nsubj	5:A0=PAG
+2	and	and	CC	_	1	cc	_
+3	Russia	russia	NNP	_	1	conj	_
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	hold	hold	VB	pb=hold.01	0	root	_
+6	the	the	DT	_	8	det	_
+7	next	next	JJ	_	8	amod	_
+8	stage	stage	NN	_	5	dobj	5:A1=PPT
+9	of	of	IN	_	8	prep	_
+10	bilateral	bilateral	JJ	_	11	amod	_
+11	consultations	consultation	NNS	_	9	pobj	_
+12	on	on	IN	_	11	prep	_
+13	the	the	DT	_	16	det	_
+14	Caspian	caspian	NNP	_	15	nn	_
+15	Sea	sea	NNP	_	16	nn	_
+16	issues	issue	NNS	p2=VBZ	12	pobj	_
+17	in	in	IN	_	16	prep	_
+18	Moscow	moscow	NNP	_	17	pobj	_
+19	.	.	.	_	5	punct	_
+

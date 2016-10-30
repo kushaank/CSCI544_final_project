@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Institution of,drop.01,its investigation into,,Affirmative,"The Institution of Professional Engineers New Zealand had dropped its investigation into Alan Reay on legal advice , chief executive Andrew Cleland said . "
+Andrew Cleland,say.01,had dropped,,Affirmative,"The Institution of Professional Engineers New Zealand had dropped its investigation into Alan Reay on legal advice , chief executive Andrew Cleland said . "
+company,design.01,the CTV building,,Affirmative,"Dr Reay 's company designed the CTV building which collapsed during the February 22 , 2011 Christchurch earthquake , killing 115 people . "
+company,kill.01,115 people,,Affirmative,"Dr Reay 's company designed the CTV building which collapsed during the February 22 , 2011 Christchurch earthquake , killing 115 people . "
+Dr Cleland,say.01,Reay resigned from IPENZ,,Affirmative,"Dr Cleland said Dr Reay resigned from IPENZ on February 28 , but remains a chartered professional engineer . "
+Dr Reay 's,resign.01,from IPENZ,,Affirmative,"Dr Cleland said Dr Reay resigned from IPENZ on February 28 , but remains a chartered professional engineer . "
+IPENZ,have.03,authority,,Affirmative,IPENZ has authority to take action only over engineers who are IPENZ members . 
+IPENZ,take.01,legal advice,,Affirmative,"'' After taking legal advice , IPENZ concluded the investigations could no longer proceed , Dr Cleland said . "
+IPENZ,conclude.01,longer proceed,,Affirmative,"'' After taking legal advice , IPENZ concluded the investigations could no longer proceed , Dr Cleland said . "
+Dr Cleland,say.01,", IPENZ concluded",,Affirmative,"'' After taking legal advice , IPENZ concluded the investigations could no longer proceed , Dr Cleland said . "
+Dr Cleland,say.01,had been informed,,Affirmative,He said the families of those killed in the building collapse had been informed . 
+Police,announce.01,had been engaged,,Affirmative,Police announced in February that engineering firm Beca had been engaged to review information on the collapse of the CTV Building to see whether any criminal investigations should be undertaken . 

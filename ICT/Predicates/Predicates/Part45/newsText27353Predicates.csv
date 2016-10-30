@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A guest on,explain.01,why he has fathered,,Affirmative,A guest on ABC 's The View on Monday explained why he has fathered about 100 babies without having used a sperm bank . 
+A guest on ABC 's '' The View '' on Monday,father.01,100 babies,,Affirmative,A guest on ABC 's The View on Monday explained why he has fathered about 100 babies without having used a sperm bank . 
+A guest on ABC 's '' The View '' on Monday,use.01,a sperm bank,,Affirmative,He did use a sperm bank for ten years until he met his quota . 
+A guest on ABC 's '' The View '' on Monday,meet.02,his quota,,Affirmative,He did use a sperm bank for ten years until he met his quota . 
+A guest on ABC 's '' The View '' on Monday,begin.01,volunteering,,Affirmative,Then he began volunteering his sperm to help women have babies after they have exhausted all other means . 
+A guest on ABC 's '' The View '' on Monday,volunteer.01,his sperm,,Affirmative,Then he began volunteering his sperm to help women have babies after they have exhausted all other means . 
+A guest on ABC 's '' The View '' on Monday,help.01,women have babies,,Affirmative,Then he began volunteering his sperm to help women have babies after they have exhausted all other means . 
+women,have.03,100 babies,,Affirmative,Then he began volunteering his sperm to help women have babies after they have exhausted all other means . 
+women,exhaust.01,all other means,,Affirmative,Then he began volunteering his sperm to help women have babies after they have exhausted all other means . 
+Ted Houben,gain.02,international attention,,Affirmative,Houben has gained international attention in the media for offering his service as a sperm donor . 
+Ted Houben,offer.01,his service,,Affirmative,Houben has gained international attention in the media for offering his service as a sperm donor . 
+Ted Houben,travel.01,the world,,Affirmative,He travels the world to help couples who seek to have a baby but are unable to do so because of medical reasons . 
+Ted Houben,help.01,couples,,Affirmative,He travels the world to help couples who seek to have a baby but are unable to do so because of medical reasons . 
+couples,seek.01,to have,,Affirmative,He travels the world to help couples who seek to have a baby but are unable to do so because of medical reasons . 
+couples,have.05,a baby,,Affirmative,He travels the world to help couples who seek to have a baby but are unable to do so because of medical reasons . 
+couples,do.02,so,,Affirmative,He travels the world to help couples who seek to have a baby but are unable to do so because of medical reasons . 
+Ted Houben,visit.01,the families,,Affirmative,"He visits the families who seek his services , and he determines if he wants to donate his sperm . "
+the families,seek.01,his services which are totally free,,Affirmative,"He visits the families who seek his services , and he determines if he wants to donate his sperm . "
+Ted Houben,determine.01,if he wants,,Affirmative,"He visits the families who seek his services , and he determines if he wants to donate his sperm . "
+Ted Houben,want.01,to donate,,Affirmative,"He visits the families who seek his services , and he determines if he wants to donate his sperm . "
+Ted Houben,donate.01,his mission in life to give loving couples the chance to be a family,,Affirmative,"He visits the families who seek his services , and he determines if he wants to donate his sperm . "
+Ted Houben,agree.01,to help,,Affirmative,"He agrees to help the couple only if he finds a positive , warm , and loving home . "
+Ted Houben,help.01,the couple,,Affirmative,"He agrees to help the couple only if he finds a positive , warm , and loving home . "
+the couple,find.01,loving home,,Affirmative,"He agrees to help the couple only if he finds a positive , warm , and loving home . "
+Ted Houben,consider.02,it to be,,Affirmative,Houben considers it to be his mission in life to give loving couples the chance to be a family . 
+Ted Houben,tell.01,his story,,Affirmative,Not only did he tell his story but also what it means to be a modern day sperm donor and the love and controversy that he is faced with . 
+it,mean.01,to be,,Affirmative,Not only did he tell his story but also what it means to be a modern day sperm donor and the love and controversy that he is faced with . 
+with,face.01,Ted Houben,,Affirmative,Not only did he tell his story but also what it means to be a modern day sperm donor and the love and controversy that he is faced with . 
+The women on,hear.01,story,,Affirmative,The women on The View were shocked to hear Houben 's story . 
+The women on '' The View '',ask.01,how he donates,him,Affirmative,They came right out and asked him how he donates his sperm without using a sperm bank . 
+Ted Houben,donate.01,his mission in life to give loving couples the chance to be a family,,Affirmative,They came right out and asked him how he donates his sperm without using a sperm bank . 
+Ted Houben,use.01,a sperm bank,,Affirmative,They came right out and asked him how he donates his sperm without using a sperm bank . 
+Ted Houben,tell.01,that he has sex with,them,Affirmative,He was n't ashamed to tell them that he has sex with the women with their husband 's permission . 
+Ted Houben,have.03,sex,,Affirmative,He was n't ashamed to tell them that he has sex with the women with their husband 's permission . 
+The husbands,have.03,the option,,Affirmative,The husbands have the option to watch . 
+One of,ask.01,what happened,,Affirmative,One of the women on The View asked what happened if the woman 's does n't get pregnant with the first donation . 
+Ted Houben,say.01,he will donate for,,Affirmative,Houben said he will donate for as many times as it takes . 
+Ted Houben,say.01,it is fine with him,,Affirmative,Houben said it is fine with him either way . 
+a modern day sperm donor,say.01,he does n't advertise,,Affirmative,The sperm donor said he does n't advertise . 
+couples who seek to have a baby,seek.01,a modern day sperm donor,,Affirmative,"Instead , couples seek him out for his services which are totally free . "
+Other men,ask.02,to help out,,Affirmative,"Other men have asked to help out , but Houben said he prefers providing his service alone . "
+Ted Houben,say.01,he prefers providing,,Affirmative,"Other men have asked to help out , but Houben said he prefers providing his service alone . "
+Ted Houben,prefer.01,providing,,Affirmative,"Other men have asked to help out , but Houben said he prefers providing his service alone . "
+Ted Houben,provide.01,his service,,Affirmative,"Other men have asked to help out , but Houben said he prefers providing his service alone . "
+man Sir Mick Jagger,attend.01,the premiere of,,Affirmative,Rolling Stones front man Sir Mick Jagger attended the premiere of ' Get on Up ' with his son Lucas . 

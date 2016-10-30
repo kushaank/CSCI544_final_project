@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+experts,rule.02,other measures,,Affirmative,"One - year - old baby Elise Bradshaw , who was born deaf , underwent the experimental procedure after experts ruled out other measures to restore her hearing , including a cochlear implant . "
+other measures,restore.01,"her hearing , including",,Affirmative,"One - year - old baby Elise Bradshaw , who was born deaf , underwent the experimental procedure after experts ruled out other measures to restore her hearing , including a cochlear implant . "
+an audiologist,activate.01,the implant,,Affirmative,"When an audiologist activated the implant , Elise was immediately able to turn toward the sound . "
+Elise Bradshaw,hear.01,implant wouldn,nerves,Affirmative,Because Elise was born without hearing nerves a cochlear implant wouldn ? 
+t,help.01,her,,Affirmative,"t help her , but the brainstem implant does by stimulating the brain directly . "
+the implant,convert.01,the sound waves,into signals,Affirmative,"However , unlike normal hearing , the implant converts the sound waves into signals that Elise has to decipher . "
+Elise,decipher.01,signals,,Affirmative,"However , unlike normal hearing , the implant converts the sound waves into signals that Elise has to decipher . "
+A video documenting,document.01,time Elise,,Affirmative,A video documenting the first time Elise can hear shows Elise 's mother smiling at her daughter 's reaction . 
+the experimental procedure,mean.01,the world,to me,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+her,say.01,I love you and,,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+I,love.01,you,,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+her,hear.01,me say,,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+me,say.01,I love her,,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+I,love.01,her,,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+Jill,tell.01,It would mean,WBZ,Affirmative,"It would mean the world to me for her to be able to say I love you and for her to hear me say I love her , Jill told WBZ . "
+doctors,say.01,there 's,,Affirmative,It 's an experimental procedure and doctors say there 's no guarantee that Elise will be able to understand spoken words . 
+Elise,understand.01,spoken words,,Affirmative,It 's an experimental procedure and doctors say there 's no guarantee that Elise will be able to understand spoken words . 

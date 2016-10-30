@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Newton crash,leave.01,the bus,hanging over,Affirmative,The MBTA bus driver involved in Sunday 's Newton crash that left the bus hanging over the Mass . 
+the MBTA Transit Police,obtain.01,a complaint in,,Affirmative,The charge comes after the MBTA Transit Police reportedly obtained a complaint in Newton District Court . 
+spokesman Joe Pesaturo,say.01,bus contained,,Affirmative,"According to The Boston Globe , T spokesman Joe Pesaturo said the bus contained a surveillance camera , which may help investigators determine what went wrong . "
+the bus hanging over the Mass.,contain.01,"a surveillance camera ,",,Affirmative,"According to The Boston Globe , T spokesman Joe Pesaturo said the bus contained a surveillance camera , which may help investigators determine what went wrong . "
+"a surveillance camera ,",help.01,investigators determine,,Affirmative,"According to The Boston Globe , T spokesman Joe Pesaturo said the bus contained a surveillance camera , which may help investigators determine what went wrong . "
+investigators,determine.01,what went wrong,,Affirmative,"According to The Boston Globe , T spokesman Joe Pesaturo said the bus contained a surveillance camera , which may help investigators determine what went wrong . "
+investigators,leave.01,home,,Affirmative,Investigators were seen leaving the driver 's home Monday afternoon . 

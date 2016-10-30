@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The city of Albuquerque,issue.01,a health alert due,,Affirmative,The city of Albuquerque has issued a health alert due to smoke causing elevated levels of particulate matter . 
+The city of Albuquerque,cause.01,elevated levels of,,Affirmative,The city of Albuquerque has issued a health alert due to smoke causing elevated levels of particulate matter . 
+satellite images showing smoke from,show.01,smoke from,,Affirmative,The alert is in effect from Monday at 9:00 p.m. through Tuesday at 2:00 p.m. The alert is being issued due to satellite images showing smoke from the Skunk Fire in eastern Arizona heading toward the Albuquerque area . 
+young children and,avoid.01,outdoor activities,,Affirmative,"People with asthma or other chronic respiratory disease , heart disease , adults age 65 and over , young children and pregnant women should avoid outdoor activities . "
+Everyone else,minimize.01,outdoor activities,,Affirmative,Everyone else should minimize outdoor activities . 
+ Avoid,use.01,swamp coolers,,Affirmative, Avoid using swamp coolers that can circulate outdoor air inside . 
+swamp coolers,circulate.01,outdoor air,,Affirmative, Avoid using swamp coolers that can circulate outdoor air inside . 
+- Individuals with heart or,follow.02,management plan,from,Affirmative,- Individuals with heart or lung disease should follow their health management plan from their health care provider . 
+ Asthmatic individuals,follow.02,management plan,,Affirmative, Asthmatic individuals should follow a prescribed asthma management plan . 
+KOB,welcome.01,discussion,,Affirmative,KOB welcomes a lively and courteous discussion as long as you follow the rules of conduct set forth in our Terms of Use . 
+you,follow.02,the rules of conduct set forth in,,Affirmative,KOB welcomes a lively and courteous discussion as long as you follow the rules of conduct set forth in our Terms of Use . 
+You,agree.01,"may be used , along with",,Affirmative,"You agree that anything you post may be used , along with your name and profile picture , in accordance with our Privacy Policy and the license you have granted pursuant to our Terms of Use . "
+you,post.01,anything,,Affirmative,"You agree that anything you post may be used , along with your name and profile picture , in accordance with our Privacy Policy and the license you have granted pursuant to our Terms of Use . "
+you,grant.01,pursuant,to,Affirmative,"You agree that anything you post may be used , along with your name and profile picture , in accordance with our Privacy Policy and the license you have granted pursuant to our Terms of Use . "

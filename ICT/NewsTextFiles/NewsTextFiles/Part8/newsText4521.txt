@@ -1,0 +1,28 @@
+
+AusCERT Sarong-clad anti-coal hippies have been marked as a chief threat to online voting at the election scheduled to take place in 2015 in the Australian state of New South Wales (NSW).
+
+The protestors are identified as a threat in a report penned by CSC for the NSW government. The Reg has seen a copy of the report, which suggests developers feared protesting farmers and fire fighters could launch an attack against New South Wales' iVote online ballot system in objection to various coal mining projects across the state.
+
+"Anti-coal lobby groups could lead to the targeting of the SGE (state government election) in 2015," the document read.
+
+The document also outlines scenarios in which protestors could launch denial of service attacks, knocking out the ability for 250,000 remote and blind users to vote online.
+
+The protesters were one of a dozen threat actors who could target e-voting in Australia. The report compiled by security vendor CSC also separately named Pyongyang and Beijing -backed hackers along with terror groups Al Qaeda and Al Islamiah as albeit unlikely threats, .
+
+More likely however was that a cunning sysadmin at iVote developer Scytl would have planted a backdoor in the platform.
+
+iVote collected 46,864 votes in the 2011 NSW state election by remote and disabled voters over phone and internet. It is expected to tally a quarter of a million ballots in the upcoming election.
+
+NSW Electoral Commission chief information officer Ian Brightwell predicted the system would account for no more than 20 percent of total votes by 2024.
+
+"Over the next five to 10 years I'd be say it will account for somewhere between 10 and 20 percent of votes," Brightwell told El Reg.
+
+"If you have a major electoral fraud and you're collecting say five percent of votes electronically, you're (the attackers) going to have to skew the results enormously to influence the outcome.
+
+"It's going to be a bit obvious."
+
+Brightwell said iVote should never become the main method of voting in the state because this would increase the chance of detecting online ballot stuffing since scammers would need to pump a huge amount of forged votes to influence elections.
+
+But the CIO was confident in the security of iVote. The platform had been subject to rigorous red-vs-blue 'wargame' penetration tests and threat analysis and was comparatively less risky than conventional paper voting, Brightwell said.
+
+While the borked Western Australia September state election served to illustrate the fallibility of paper voting, Brightwell was unshaken by vulnerabilities found this week in Estonia's electronic voting platform which accounted for up to a quarter of votes cast in the last election. A band of anti- e-voting academics found in lab tests that attackers could to stuff ballots by hacking the platform and voter machines.

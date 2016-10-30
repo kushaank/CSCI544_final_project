@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Joe Biden,attend.01,a Democratic fundraiser at,,Affirmative,"WASHINGTON May 19 ( Reuters ) - U.S. Vice President Joe Biden will attend a Democratic fundraiser at the home of activist Tom Steyer , the billionaire former hedge fund manager who is spending millions to lobby against the Keystone XL pipeline , a Democratic official said on Monday . "
+fund manager,lobby.01,against,,Affirmative,"WASHINGTON May 19 ( Reuters ) - U.S. Vice President Joe Biden will attend a Democratic fundraiser at the home of activist Tom Steyer , the billionaire former hedge fund manager who is spending millions to lobby against the Keystone XL pipeline , a Democratic official said on Monday . "
+a Democratic official,say.01,Biden will attend,,Affirmative,"WASHINGTON May 19 ( Reuters ) - U.S. Vice President Joe Biden will attend a Democratic fundraiser at the home of activist Tom Steyer , the billionaire former hedge fund manager who is spending millions to lobby against the Keystone XL pipeline , a Democratic official said on Monday . "
+a Democratic official said on Monday,say.01,fundraiser will take place at,,Affirmative,"The fundraiser will take place at Steyer 's home in San Francisco on May 28 , the official said . "
+Tom Steyer,boost.01,friendly political candidates,,Affirmative,Steyer is spending tens of millions of dollars to boost environmentally friendly political candidates across the United States . 
+Tom Steyer,oppose.01,"XL oil pipeline ,",,Affirmative,"He fervently opposes the Keystone XL oil pipeline , which would bring oil from Alberta to the U.S. Gulf Coast . "
+"XL oil pipeline ,",bring.01,oil,to,Affirmative,"He fervently opposes the Keystone XL oil pipeline , which would bring oil from Alberta to the U.S. Gulf Coast . "
+Environmentalists,oppose.01,XL oil pipeline,,Affirmative,Environmentalists oppose the pipeline because of concerns it would contribute to climate change . 
+Proponents,say.01,it would create jobs and help boost,,Affirmative,Proponents say it would create jobs and help boost U.S. energy security . 
+XL oil pipeline,create.01,jobs,,Affirmative,Proponents say it would create jobs and help boost U.S. energy security . 
+XL oil pipeline,help.01,boost,,Affirmative,Proponents say it would create jobs and help boost U.S. energy security . 
+XL oil pipeline,boost.01,U.S. energy security,,Affirmative,Proponents say it would create jobs and help boost U.S. energy security . 
+The Obama administration,delay.01,a decision on,,Affirmative,The Obama administration last month delayed a decision on whether to approve or reject the controversial pipeline to allow more time for the Nebraska Supreme Court to settle a dispute over what path the $ 5.4 billion TransCanada Corp project should take . 
+the Nebraska Supreme Court,settle.02,a dispute over,,Affirmative,The Obama administration last month delayed a decision on whether to approve or reject the controversial pipeline to allow more time for the Nebraska Supreme Court to settle a dispute over what path the $ 5.4 billion TransCanada Corp project should take . 

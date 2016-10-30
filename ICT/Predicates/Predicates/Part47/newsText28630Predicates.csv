@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Hurricane Irene,destroy.01,foundation,,Affirmative,"Sadly , Hurricane Irene destroyed the building 's foundation . "
+Neighbors,raise.01,funds,,Affirmative,"Neighbors raised funds to repair the foundation , as well as flood - proof and reconstruct the restaurant 's interior in a historically sensitive manner . "
+Neighbors,repair.01,"the foundation ,",,Affirmative,"Neighbors raised funds to repair the foundation , as well as flood - proof and reconstruct the restaurant 's interior in a historically sensitive manner . "
+Neighbors,reconstruct.01,interior,,Affirmative,"Neighbors raised funds to repair the foundation , as well as flood - proof and reconstruct the restaurant 's interior in a historically sensitive manner . "
+citizens,restore.01,derelict properties,,Affirmative,"In Guilford , citizens have been restoring derelict properties and remediating a toxic brown - field site . "
+citizens,remediate.01,field site,,Affirmative,"In Guilford , citizens have been restoring derelict properties and remediating a toxic brown - field site . "
+citizens,take.01,ownership of,,Affirmative,"Five years ago , they took ownership of The Guilford Country Store , originally opened in 1817 . "
+"Donations , grants , loans , and",allow.01,them to refurbish it,,Affirmative,"Donations , grants , loans , and sweat equity allowed them to refurbish it , guaranteeing this community a vital gathering place . "
+citizens,refurbish.01,sweat equity,,Affirmative,"Donations , grants , loans , and sweat equity allowed them to refurbish it , guaranteeing this community a vital gathering place . "
+"Donations , grants , loans , and",guarantee.01,this community,,Affirmative,"Donations , grants , loans , and sweat equity allowed them to refurbish it , guaranteeing this community a vital gathering place . "
+citizens,transform.01,the structure,,Affirmative,"They transformed the structure , taking what had become a deteriorated storage facility and creating a central meeting and event center for both town and college . "
+citizens,take.01,what had become,,Affirmative,"They transformed the structure , taking what had become a deteriorated storage facility and creating a central meeting and event center for both town and college . "
+residents,raise.01,funds,,Affirmative,"Its resurrection began in 1999 , when residents raised funds for a new roof , window repair and a polychromatic painting restoration . "
+Residents of,have.03,a similar journey,,Affirmative,Residents of Island Pond had a similar journey as they restored their Brighton Town Hall 's original architectural elements from 1889 . 
+Residents of Island Pond,restore.01,original architectural elements,from 1889,Affirmative,Residents of Island Pond had a similar journey as they restored their Brighton Town Hall 's original architectural elements from 1889 . 
+the idea of restoring,take.01,hold,,Affirmative,"In 2010 , the idea of restoring the building to its former grandeur took hold . "
+Installation of,make.02,this one of,,Affirmative,Installation of solar panels made this one of the lowest cost housing projects in the state to operate . 
+Bellows Falls Middle School,rejuvenate.01,modeling adaptive historic reuse with sustainable energy features,,Affirmative,"Bellows Falls Middle School also rejuvenated its building , modeling adaptive historic reuse with sustainable energy features in creating their 21st - century classrooms . "
+Bellows Falls Middle School,modeling.01,adaptive historic reuse with,,Affirmative,"Bellows Falls Middle School also rejuvenated its building , modeling adaptive historic reuse with sustainable energy features in creating their 21st - century classrooms . "
+this community,decide.01,pursue renovation over rebuilding,,Affirmative,"After much discussion , the community decided pursue renovation over rebuilding . "
+this community,pursue.01,renovation,,Affirmative,"After much discussion , the community decided pursue renovation over rebuilding . "
+Two Rivers Ottauquechee Planning Commission,keep.02,villages,,Affirmative,"On a regional level , Two Rivers Ottauquechee Planning Commission was acknowledged for its work prioritizing redevelopment in downtown districts , thereby keeping villages robust and farms and forest lands secure . "
+Buildings of Vermont,receive.01,accolades,,Affirmative,"Finally , historians Glen Andres ' and Curtis Johnson 's comprehensive study , Buildings of Vermont , received accolades for its quality and for their persistence . "
+to complete,take.10,20 years,them,Affirmative,It took them 20 years to complete this important compendium . 
+I,hear.01,"a new term , not",,Affirmative,"At the conference , I heard a new term , not a word really , but still apt as it combines preserve and perseverance . "
+I,know.01,it 's made-up,,Affirmative,"I know it 's made-up , but it reflects the grit and dogged determination needed to save iconic landmarks , not as relics of bygone eras , but as vital components in the heart of each of our communities today . "

@@ -1,0 +1,23 @@
+1	Delaware	delaware	NNP	_	3	nn	_
+2	State	state	NNP	_	3	nn	_
+3	Police	police	NNP	p2=NNPS	4	nsubj	4:A0=PAG
+4	suspect	suspect	VB	p2=VBP|pb=suspect.01	0	root	_
+5	a	a	DT	_	6	det	_
+6	man	man	NN	_	9	nsubj	9:A0=PAG
+7	and	and	CC	_	6	cc	_
+8	woman	woman	NN	_	6	conj	_
+9	found	find	VBD	p2=VBN|pb=find.01	4	ccomp	4:A1=PPT
+10	dead	dead	JJ	p2=VBN	9	advcl	9:A1=PPT
+11	May	may	NNP	_	15	nsubj	15:A1=PPT
+12	19	0	CD	_	11	num	_
+13	near	near	IN	p2=RB	11	prep	_
+14	Selbyville	selbyville	NNP	_	13	pobj	_
+15	was	be	VBD	pb=be.01	9	ccomp	_
+16	the	the	DT	_	17	det	_
+17	result	result	NN	_	15	attr	15:A2=PRD
+18	of	of	IN	_	17	prep	_
+19	a	a	DT	_	21	det	_
+20	murder	murder	NN	_	21	nn	_
+21	suicide	suicide	NN	_	18	pobj	_
+22	.	.	.	_	4	punct	_
+

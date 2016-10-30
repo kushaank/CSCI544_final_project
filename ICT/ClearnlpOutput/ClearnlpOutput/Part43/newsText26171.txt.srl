@@ -1,0 +1,65 @@
+1	The	the	DT	_	3	det	_
+2	European	european	NNP	_	3	nn	_
+3	Union	union	NNP	_	5	nsubj	5:A0=PPT;7:A0=PAG
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	aim	aim	VB	pb=aim.01	0	root	_
+6	to	to	TO	_	7	aux	_
+7	resolve	resolve	VB	pb=resolve.01	5	xcomp	5:A1=PPT
+8	a	a	DT	_	9	det	_
+9	row	row	NN	_	7	dobj	7:A1=PPT
+10	between	between	IN	_	9	prep	_
+11	Russia	russia	NNP	_	10	pobj	_
+12	and	and	CC	_	11	cc	_
+13	Ukraine	ukraine	NNP	_	11	conj	_
+14	over	over	IN	_	9	prep	_
+15	gas	gas	NN	_	16	nn	_
+16	prices	price	NNS	_	14	pobj	_
+17	by	by	IN	_	7	prep	7:AM-TMP
+18	June	june	NNP	_	17	pobj	_
+19	1	0	CD	_	18	num	_
+20	with	with	IN	_	7	prep	_
+21	two	#crd#	CD	_	23	num	_
+22	more	more	JJR	_	23	amod	_
+23	rounds	round	NNS	_	20	pobj	_
+24	of	of	IN	_	23	prep	_
+25	talks	talk	NNS	_	24	pobj	26:A1=PPT
+26	planned	plan	VBN	pb=plan.01	25	partmod	_
+27	for	for	IN	_	26	prep	26:AM-TMP
+28	next	next	JJ	_	29	amod	_
+29	week	week	NN	_	27	pobj	_
+30	.	.	.	_	5	punct	_
+
+1	The European	the european	NNP	p2=PRP$	2	nn	_
+2	Union	union	NNP	_	4	nsubj	4:A0=PPT
+3	will	will	MD	_	4	aux	4:AM-MOD
+4	aim	aim	VB	pb=aim.01	28	ccomp	28:A1=PPT
+5	to resolve	to resolve	NNP	p2=VB	6	nn	_
+6	a row	a row	NNP	p2=VB	4	dobj	4:A1=PPT
+7	between	between	IN	_	6	prep	_
+8	Russia	russia	NNP	_	9	nn	_
+9	and Ukraine	and ukraine	NNP	_	7	pobj	_
+10	over	over	IN	_	4	prep	_
+11	gas	gas	NN	_	12	nn	_
+12	prices	price	NNS	_	10	pobj	_
+13	by June	by june	NNP	p2=VBP	12	npadvmod	_
+14	1	0	CD	_	13	num	_
+15	with	with	IN	_	12	prep	_
+16	two	#crd#	CD	_	18	num	_
+17	more	more	JJR	_	16	amod	_
+18	rounds	round	NNS	_	19	nn	_
+19	of talks	of talks	NNS	p2=POS	15	pobj	20:A1=PPT
+20	planned	plan	VBN	p2=VBD|pb=plan.01	19	partmod	_
+21	for next	for next	JJ	p2=IN	22	amod	_
+22	week	week	NN	_	20	npadvmod	20:AM-TMP
+23	,	,	,	_	28	punct	_
+24	Europe	europe	NNP	_	27	poss	_
+25	's	's	POS	_	24	possessive	_
+26	Energy	energy	NNP	_	27	nn	_
+27	Commissioner	commissioner	NNP	_	28	nsubj	28:A0
+28	said	say	VBD	pb=say.01	0	root	_
+29	Monday	monday	NNP	_	28	npadvmod	28:AM-TMP
+30	,	,	,	_	29	punct	_
+31	May	may	NNP	_	29	appos	_
+32	19	0	CD	_	31	num	_
+33	.	.	.	_	28	punct	_
+

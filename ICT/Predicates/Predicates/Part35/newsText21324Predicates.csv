@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Barre regime,commit.01,massacres against,,Affirmative,"In 1988 , the Siad Barre regime committed massacres against the people of Somaliland , which were among the events that led to the Somali Civil War . "
+the local government,declare.02,independence,,Affirmative,"In 1991 , the local government declared independence from the rest of Somalia . "
+leader Councillor Christian Martin (,say.01,There has been,,Affirmative,"Lib Dem deputy leader Councillor Christian Martin ( Clifton East ) , who spoke to campaigners at an evening function , said : There has been 25 years of peace and people have their own currency , passports and government . "
+"the people of Somaliland , which were among the events that led to the Somali Civil War",have.03,"their own currency , passports and government",,Affirmative,"Lib Dem deputy leader Councillor Christian Martin ( Clifton East ) , who spoke to campaigners at an evening function , said : There has been 25 years of peace and people have their own currency , passports and government . "
+campaigners,have.03,international recognition,,Affirmative,"If they had international recognition they could apply to NATO for funding , which would offer further security for their country . "
+campaigners,apply.01,"for funding ,",to NATO,Affirmative,"If they had international recognition they could apply to NATO for funding , which would offer further security for their country . "
+"funding ,",offer.01,further security,,Affirmative,"If they had international recognition they could apply to NATO for funding , which would offer further security for their country . "

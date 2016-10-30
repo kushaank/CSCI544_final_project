@@ -1,0 +1,72 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+11 % of voters,name.01,one of,,Affirmative,"Let 's start by taking a look at what exactly you are voting for , especially given the results of a recent poll that only 11 % of voters could confidently name one of their MEPs . "
+'s,travel.01,to,,Affirmative,Twelve times a year they will be expected to travel to the chamber in Strasbourg . 
+EU legislation dealt with by,deal.01,with,,Affirmative,EU legislation dealt with by the parliament must also be approved by the Council of the European Union and vice versa . 
+by,approve.01,EU legislation dealt with by,,Affirmative,EU legislation dealt with by the parliament must also be approved by the Council of the European Union and vice versa . 
+the European parliament,have.03,"no say in matters of defence , education , housing , health or law and order",,Affirmative,"The European parliament has no say in matters of defence , education , housing , health or law and order . "
+it,legislate.01,on,,Affirmative,"However , it is able to legislate on environmental matters , trade , consumer protection and employment law . "
+a way,unsurprising.01,that people do n't feel much of,,Affirmative,In a way it 's unsurprising that people do n't feel much of a connection with their MEPs . 
+people,feel.02,much of,,Affirmative,In a way it 's unsurprising that people do n't feel much of a connection with their MEPs . 
+you,vote.01,for,,Affirmative,"As we will discuss later on , MEPs are voted in on a party list which means you vote for the party rather than the individual person . "
+Several of them,represent.01,broad regional territories,,Affirmative,Several of them represent broad regional territories and they also generally only spend a few days of their week in their home country doing constituency work . 
+Several of them,spend.02,few days of,doing,Affirmative,Several of them represent broad regional territories and they also generally only spend a few days of their week in their home country doing constituency work . 
+Several of them,do.02,constituency work,,Affirmative,Several of them represent broad regional territories and they also generally only spend a few days of their week in their home country doing constituency work . 
+a form of,mean.01,should match,,Affirmative,"MEPs are elected through a form of proportional representation , which theoretically means that the number of parliamentarians should match the party 's overall support in the country . "
+the UK,have.03,73 MEPs,,Affirmative,"However , it 's not quite that easy because the UK has 73 MEPs ( one more than 2009 ) broken down into 12 broad electoral regions and dividing equally between those is difficult . "
+The voting system,try.01,to rectify,,Affirmative,The voting system that is used to try to rectify those issues is a variation on the famous D'Hondt method . 
+those,have.03,the number of seats,,Affirmative,The best way to imagine it is like a series of first past the post elections for all the seats available with the party 's vote divided by the number of seats they have plus one . 
+Ukip,have.03,"50,000 votes ,",,Affirmative,"For example , in a hypothetical constituency Ukip have 50,000 votes , Labour have 39,000 , the Conservatives have 26,000 and the Lib Dems 11,000 . "
+Labour 's,have.03,"their 39,000",,Affirmative,"For example , in a hypothetical constituency Ukip have 50,000 votes , Labour have 39,000 , the Conservatives have 26,000 and the Lib Dems 11,000 . "
+the Conservatives,have.03,"26,000 and",,Affirmative,"For example , in a hypothetical constituency Ukip have 50,000 votes , Labour have 39,000 , the Conservatives have 26,000 and the Lib Dems 11,000 . "
+Ukip 's,win.01,the first round by virtue of having,,Affirmative,Ukip would win the first round by virtue of having the most votes . 
+Labour,take.01,the second round,,Affirmative,"Before the second round that 50,000 would be divided by two ( Ukip 's seat plus one ) and as a result Labour would take the second round as their 39,000 is more than 25,000 . "
+We,animate.01,all the voting rounds above,,Affirmative,We 've animated all the voting rounds above so you can see how it would happen in real time . 
+you,see.01,how it would happen in,,Affirmative,We 've animated all the voting rounds above so you can see how it would happen in real time . 
+a paltry showing of,show.01,of,,Affirmative,Dissatisfaction with Gordon Brown 's government was pretty high and that translated into a paltry showing of 15.8 % across the UK and 13 MEPs ( - 6 ) compared to 27.9 % for David Cameron 's Conservatives and 25 MEPs ( - 2 ) respectively . 
+This,mean.01,that Ukip took,,Affirmative,"This meant that Ukip took second place with 16.6 % , which at the time was a huge victory for the party even though they got the same number of seats as the Labour party . "
+Ukip 's,take.01,second place,,Affirmative,"This meant that Ukip took second place with 16.6 % , which at the time was a huge victory for the party even though they got the same number of seats as the Labour party . "
+This,get.01,the same number of seats as,,Affirmative,"This meant that Ukip took second place with 16.6 % , which at the time was a huge victory for the party even though they got the same number of seats as the Labour party . "
+Polling for,show.01,that we 're set for,,Affirmative,"Polling for this election shows that we 're set for a much bigger win for Ukip with Joe Twyman , director of political research at YouGov , saying as early as March that Farage 's party was likely to take the most votes . "
+party,take.01,the most votes,,Affirmative,"Polling for this election shows that we 're set for a much bigger win for Ukip with Joe Twyman , director of political research at YouGov , saying as early as March that Farage 's party was likely to take the most votes . "
+the majority of polls listed on,put.01,Ukip,in,Affirmative,"Since April , the majority of polls listed on YouGov 's UK Polling Report have put Ukip in first place with them hovering around 28 % - that 's a huge rise on their 2009 figures . "
+the Tories,get.01,23.4 %,,Affirmative,"Averaging the most recent five polls , Labour come out in second place with 26.6 % followed by the Tories who get 23.4 % . "
+Nate Silver,blog.01,about,,Affirmative,Nate Silver has blogged extensively about the difficulty of doing so for Westminster elections . 
+we,do.02,The best,,Affirmative,The best we can do is to use what is called a uniform swing . 
+This,see.01,the extent,,Affirmative,This is essentially seeing the extent to which all the regions varied from the national vote during the last election ( i.e the south - east gave 7.1 more percentage points to the Conservative party than they achieved nationally ) and applying those to current polling numbers . 
+the south - east,give.01,to,7.1 more percentage points,Affirmative,This is essentially seeing the extent to which all the regions varied from the national vote during the last election ( i.e the south - east gave 7.1 more percentage points to the Conservative party than they achieved nationally ) and applying those to current polling numbers . 
+26.6 %,give.01,8 more seats taking them to 22,them,Affirmative,"Labour 's 26.6 % would give them 8 more seats taking them to 22 , which would make up for a poor showing during the last elections . "
+8 more seats taking them to 22,make.16,for,,Affirmative,"Labour 's 26.6 % would give them 8 more seats taking them to 22 , which would make up for a poor showing during the last elections . "
+the SNP,take.01,an extra seat in Scotland,,Affirmative,"The BNP , as expected , would be wiped out and the SNP would take an extra seat in Scotland . "
+"the EU wide PollWatch 2014 ,",give.01,more seats to Ukip and to Labour,,Affirmative,"For reference sake we 've also included a graphic using the projection of the EU wide PollWatch 2014 , which gives more seats to Ukip and to Labour and fewer to the Tories . "
+reference sake,produce.01,optimistic swing to Ukip,,Affirmative,"We 've also added in what it would look like if some recent regional polling figures from ComRes , were correct - bear in mind with that poll that the base is so small for the specific regions it seems like it 's produced a very optimistic swing to Ukip . "
+the Liberal Democrats,look.02,set,,Affirmative,On all projections it is the Liberal Democrats who look set to take the biggest pounding . 
+the Liberal Democrats,take.01,the biggest pounding,,Affirmative,On all projections it is the Liberal Democrats who look set to take the biggest pounding . 
+a uniform swing,see.01,them getting,,Affirmative,"Our uniform swing sees them getting 7.4 % of the national vote , which would lead to their number of MEPs shrinking from 12 to just one . "
+the Liberal Democrats who look set to take the biggest pounding,get.01,7.4 % of,,Affirmative,"Our uniform swing sees them getting 7.4 % of the national vote , which would lead to their number of MEPs shrinking from 12 to just one . "
+"the Lib Dems 11,000",lose.02,all their MEPs,,Affirmative,Despite having better national popular polling numbers than the Green party the Lib Dems could very feasibly lose all their MEPs at this election . 
+a drop of,see.01,them lose,,Affirmative,"In our uniform swing model , a drop of just 0.18 percentage points in the Lib Dem vote would see them lose their prospective south east MEP to Ukip . "
+What,lose.02,east MEP,to Ukip,Affirmative,"In our uniform swing model , a drop of just 0.18 percentage points in the Lib Dem vote would see them lose their prospective south east MEP to Ukip . "
+we,forecast.01,What,,Affirmative,The strongest regions for Ukip in our model are the south - west and the West Midlands where we forecast them to get 33.8 % and 33 % of the vote respectively . 
+we,get.01,33.8 % and,,Affirmative,The strongest regions for Ukip in our model are the south - west and the West Midlands where we forecast them to get 33.8 % and 33 % of the vote respectively . 
+This,highlight.01,some of,,Affirmative,"This highlights some of the issues with the uniform model , given that we know Ukip 's regional power base is the east of England region . "
+we,know.01,base is,,Affirmative,"This highlights some of the issues with the uniform model , given that we know Ukip 's regional power base is the east of England region . "
+party,get.01,a seat in,,Affirmative,Under our model Nigel Farage 's party will comfortably get a seat in every region except Scotland and Northern Ireland . 
+Labour,take.01,most of,,Affirmative,Labour should comfortably take most of the MEPs they do win . 
+This,snatch.01,an MEP,from,Affirmative,"They could possibly snatch an MEP from the Conservatives in Scotland , from the Greens in London or from Ukip in the north - west . "
+just one,have.03,much more of,,Affirmative,"With the success of Ukip , this one has much more of a focus on the EU but one that is not really about the parliament but about the wider issue of Britain 's membership . "
+the potential stories,emerge.01,from it,,Affirmative,"Expect the potential stories to emerge from it to be very shrouded in domestic focus - Ukip threatening the Tories , the Liberal Democrats possibly getting wiped out at the next election . "
+All the parties likely,have.03,MEPs elected at,,Affirmative,All the parties likely to have MEPs elected at the European parliament are part of cross-continental political blocs fighting for overall control of legislature . 
+we,look.01,at,,Affirmative,In a post tomorrow we will look at how the UK vote could potentially impact on the wider European parliament . 
+the UK vote,impact.01,on,,Affirmative,In a post tomorrow we will look at how the UK vote could potentially impact on the wider European parliament . 
+we,use.01,the national polls,to apply,Affirmative,With Scotland and Wales specifically there was a lack of data from the national polls which we could use to apply a uniform swing to so we went out in search of specific polls for those region . 
+we,apply.02,a uniform swing to,,Affirmative,With Scotland and Wales specifically there was a lack of data from the national polls which we could use to apply a uniform swing to so we went out in search of specific polls for those region . 
+we,take.01,the last five polls,from,Affirmative,"For Scotland , we took the last five polls from What Scotland Thinks , which we used to provide specific averages ( no uniform swing ) . "
+we,provide.01,specific averages (,,Affirmative,"For Scotland , we took the last five polls from What Scotland Thinks , which we used to provide specific averages ( no uniform swing ) . "
+we,find.01,one regional poll for Wales,,Affirmative,"We only found one regional poll for Wales by Cardiff University in April , which was what we used to distribute the number of MEPs there . "
+we,distribute.01,their number of MEPs shrinking from 12 to just one,,Affirmative,"We only found one regional poll for Wales by Cardiff University in April , which was what we used to distribute the number of MEPs there . "
+Northern Ireland,elect.01,non-Westminster parties,,Affirmative,"Because Northern Ireland elects exclusively non-Westminster parties , we have allowed for that happening again and listed all of their MEPs as Others . "
+we,allow.01,for,,Affirmative,"Because Northern Ireland elects exclusively non-Westminster parties , we have allowed for that happening again and listed all of their MEPs as Others . "
+we,list.01,all of,as Others,Affirmative,"Because Northern Ireland elects exclusively non-Westminster parties , we have allowed for that happening again and listed all of their MEPs as Others . "
+This article,state.01,that there were,,Affirmative,It previously stated that there were 74 UK MEPs instead of 73 and MEPs had six sessions each year in Strasbourg when they have twelve . 
+their MEPs,have.03,six sessions,,Affirmative,It previously stated that there were 74 UK MEPs instead of 73 and MEPs had six sessions each year in Strasbourg when they have twelve . 
+74 UK MEPs instead of 73,have.03,Twelve,,Affirmative,It previously stated that there were 74 UK MEPs instead of 73 and MEPs had six sessions each year in Strasbourg when they have twelve . 

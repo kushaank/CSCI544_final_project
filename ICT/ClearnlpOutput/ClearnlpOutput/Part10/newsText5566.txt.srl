@@ -1,0 +1,26 @@
+1	Experts	expert	NNS	_	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	provide	provide	VB	pb=provide.01	0	root	_
+4	tips	tip	NNS	_	3	dobj	3:A1=PPT
+5	on	on	IN	_	4	prep	_
+6	how	how	WRB	_	8	advmod	8:R-AM-MNR
+7	to	to	TO	_	8	aux	_
+8	know	know	VB	p2=VBP|pb=know.01	5	pcomp	_
+9	when	when	WRB	_	11	advmod	11:R-AM-TMP
+10	kids	kid	NNS	_	11	nsubj	11:A0=PAG
+11	need	need	VBP	pb=need.01	8	ccomp	8:A1=PPT
+12	hospital	hospital	NN	_	13	nn	_
+13	care	care	NN	_	11	dobj	11:A1=PPT
+14	.	.	.	_	3	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	2014	0	CD	_	1	num	_
+3	©	©	NNP	p2=,	5	nn	_
+4	U.S.	u.s.	NNP	_	5	nn	_
+5	News	news	NNP	_	1	appos	_
+6	&	&	CC	_	5	cc	_
+7	World	world	NNP	_	9	nn	_
+8	Report	report	NNP	_	9	nn	_
+9	LP	lp	NNP	_	5	conj	_
+10	.	.	.	_	1	punct	_
+

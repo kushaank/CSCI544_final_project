@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Court records,say.01,told officers,,Affirmative,Court records say a central Idaho man accused of killing a neighbor and hiding the body told officers he acted in self - defense . 
+a central Idaho man accused of killing,kill.01,a neighbor,,Affirmative,Court records say a central Idaho man accused of killing a neighbor and hiding the body told officers he acted in self - defense . 
+a central Idaho man accused of killing,hide.01,the body,,Affirmative,Court records say a central Idaho man accused of killing a neighbor and hiding the body told officers he acted in self - defense . 
+a central Idaho man accused of killing,tell.01,he acted in,officers,Affirmative,Court records say a central Idaho man accused of killing a neighbor and hiding the body told officers he acted in self - defense . 
+old Keith Eric Blankenship of Hailey,conceal.01,evidence,,Affirmative,Forty - nine - year - old Keith Eric Blankenship of Hailey was charged with second - degree murder and concealing evidence Thursday in the slaying of 47 - year - old Steve Michael Romanchuk . 
+report,say.01,wife reported,,Affirmative,A Blaine County sheriff 's report says Romanchuk 's wife reported her husband missing in January . 
+wife,report.01,husband missing in January,,Affirmative,A Blaine County sheriff 's report says Romanchuk 's wife reported her husband missing in January . 
+Romanchuk 's wife,say.01,he had lent money to,,Affirmative,She said he had lent money to a neighbor and later confronted him over the loan . 
+A Blaine County sheriff 's,lend.01,money,to,Affirmative,She said he had lent money to a neighbor and later confronted him over the loan . 
+A Blaine County sheriff 's,confront.01,A Blaine County sheriff 's,over,Affirmative,She said he had lent money to a neighbor and later confronted him over the loan . 
+A Blaine County sheriff 's report,say.01,", Blankenship told",,Affirmative,"The report says after initially denying knowing Romanchuk or receiving money from him , Blankenship told a deputy on Wednesday he killed a man in self - defense and buried him in his backyard . "
+Forty-nine-year-old Keith Eric Blankenship of Hailey,tell.01,he killed,a deputy,Affirmative,"The report says after initially denying knowing Romanchuk or receiving money from him , Blankenship told a deputy on Wednesday he killed a man in self - defense and buried him in his backyard . "
+47-year-old Steve Michael Romanchuk,kill.01,a man in,,Affirmative,"The report says after initially denying knowing Romanchuk or receiving money from him , Blankenship told a deputy on Wednesday he killed a man in self - defense and buried him in his backyard . "
+47-year-old Steve Michael Romanchuk,bury.01,47-year-old Steve Michael Romanchuk,in,Affirmative,"The report says after initially denying knowing Romanchuk or receiving money from him , Blankenship told a deputy on Wednesday he killed a man in self - defense and buried him in his backyard . "
+reports detectives taking video outside of,take.01,video,,Affirmative,The Times - News reports detectives taking video outside of Blankenship 's home Thursday came upon a pile of dead leaves with partially exposed human remains . 
+you,agree.01,to,,Affirmative,By posting your comments you agree to our Terms of Use . 
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

@@ -1,0 +1,68 @@
+
+Summary: Canonical had an unexpected hit at OpenStack Summit: It's an Intel-powered, cloud-in-a-box.
+
+When Mark Shuttleworth, founder of Canonical , the parent company of Ubuntu Linux , made his keynote speech at OpenStack Summit in Atlanta, he announced many new Ubuntu OpenStack cloud and Juju DevOps initiatives.
+
+Here's what he didn't expect: The announcement that really grabbed the OpenStack crowd's attention was Canonical's cloud-in-a-box —  Ubuntu Orange Box .
+
+The unexpected hit of OpenStack Summit: Canonical's Ubuntu Orange Box.
+
+The Orange Box , an OpenStack cloud in a box, is designed to be luggable; the system is a bit smaller than a roll-along suitcase. At 37.4 pounds for the unit itself  (PDF Link) and 70 pounds with the accessories in its flight case, it's a bit too heavy to put above your seat. But, noted Canonical product marketing manager Mark Baker, "It's just light enough to be shipped as checked luggage."
+
+Inside the Orange Box, you'll find ten Intel micro-servers powered by Ivy Bridge i5-3427U CPUs. Each mini-server has four cores, Intel HD Graphics 4000, 16GBs of DDR3 RAM, a 128GB SSD root disk, and a Gigabit Ethernet port. The first computer also includes a Centrino Advanced-N 6235 Wi-Fi Adapter, and 2TB Western Digital hard drive. These are all connected in a cluster with a D-Link Gigabit switch. Put it all together and you get a 40-core, 160GB RAM, 1.2TB SSD cluster in a box.
+
+The Orange Box, which was designed by Canonical and the UK computer OEM Tranquil PC , sells for £7,575.00 , or approximately $12,750.
+
+In his keynote, Shuttleworth said that "you can do anything with these Orange Boxes." Each is loaded with Ubuntu 14.04 , and OpenStack Icehouse . Every unit also includes Juju and Metal-as-a-Service (MaaS)  cloud management and deployment tools. "These are a great way to learn how to use distributed systems," added Shuttleworth.
+
+Specifically, Canonical is using them for JumpStart training . JumpStart is Canonical's OpenStack training program, which comes with an Orange Box that trainees can keep for two weeks while they learn to run OpenStack with Juju and MaaS. It also includes two full days of technical training.
+
+So, from where Canonical sits, the Orange Box was really meant to give OpenStack cloud users a taste of Ubuntu's approach to OpenStack. They weren't meant to be a sales item in and of themselves. Baker explained, "This is a means to an end." That's what Canonical thought, anyway.
+
+As Chris Kenyon, Canonical's senior VP for worldwide sales and business development, told me the next day: "We've had people come up to the booth wanting to order a hundred of them." Large companies look at the Orange Box and see a way to quickly and easily deploy an OpenStack cloud in remote offices and branches. Small companies see it as a one-stop way to add a private cloud to their office without any fuss or muss.
+
+In a conversation after the keynote, Shuttleworth agreed that they hadn't expected this kind of reaction.
+
+Baker conceded that the Orange Box is generating a lot of interest from corporate customers. At least one individual told me that — $12,750 price tag aside — he was impressed enough to be thinking that Canonical should "Shut up and take my money." His thought was to use it as a Steam gaming server. In fact,  Dustin Kirkland, Canonical's Cloud Solutions Product Manager, had blogged: " It also makes one hell of a Steam server -- there's a [Juju] charm for that."
+
+Baker told me that while Canonical has no firm plans yet on how to meet the demand, the company is talking to potential customers in the EU, US, and Asian markets about their requirements. Personally, I have no doubt that via Tranquil PC, other OEMs, resellers or system integrators, Orange Boxes are going to become a popular business hardware sideline for Canonical.
+
+I've already asked for a review unit.
+
+security.
+
+The private cloud provides ownership control over the data, and you don't have to trust some third party to properly handle things.
+
+The advantage is that you also get to use the public cloud utility applications.
+
+The Internet began as a very distributed network, but now it's contracted some to large players into a bit of a server-centric network, but many see benefit in a hybrid model that adds an on premises server that acts as a sort of backup/development environment, which then interacts with the cloud hosting... so in a way things are expanding again to enable more distribution of Internet resoruces... with these little boxes as a quick and easy way to do it!
+
+I for one look at the value of this little box, and think that it might not be that big of a jump... I mean really, you can get a regular server with 4 cores, RAID, etc., for around $3500 - $5000. But for about 3x increase in price you get 10x increase in computing capacity... VERY ATTRACTIVE INDEED since this one server could run a fairly large office!
+
+A bit steep I think to add a 1 TB drive to the mix.
+
+I know the USD isn't what it used to be, but 82.00 pounds is nowhere near $700USD.
+
+2tb enterprise class drives are less then half of the full retail from Dell.
+
+I just added another one to my array.
+
+Looks pretty neat, but cannonical continually comes up with these Big Ideas or proof of concepts, but then never follows through with them.
+
+It seems like the company is grabbing at straws and has no direction.
+
+"So, from where Canonical sits, the Orange Box was really meant to give OpenStack cloud users a taste of Ubuntu's approach to OpenStack. They weren't meant to be a sales item in and of themselves."
+
+I don’t care what flavor of Linux you run (Mint, Cinnamon, Lubuntu or Ubuntu), if you want to break the Microsoft hegemony with the death of XP, please consider making networking easier and not being so geeky and clannish.
+
+Thank you.
+
+If you like the concept and want something deployable, the QuickFire Networks T-Video 1200 has eleven Core i7-4700 or i7-4860 processors in a 1U appliance with up to 14TB of SSD storage.
+
+We're temporarily in maintenance mode, which means you won't be able to sign up for a newsletter. Please check back shortly to resume the subscription process. Thanks for your patience.
+
+ZDNet Must Read News Alerts - US: Major news is breaking. Are you ready? This newsletter has only the most important tech news nothing else.
+
+Learn how you can deploy best-of-breed revenue management solutions that drive scalable, proactive processes. Join us for this live, interactive webcast featuring CBS Interactive's Featured Contributor Bill Kleyman and Intacct's Cloud Financials Strategist Mark Gervase.
+
+Learn how you can deploy best-of-breed revenue management solutions that drive scalable, proactive processes. Join us for this live, interactive webcast featuring CBS Interactive's Featured Contributor Bill Kleyman and Intacct's Cloud Financials Strategist Mark Gervase.

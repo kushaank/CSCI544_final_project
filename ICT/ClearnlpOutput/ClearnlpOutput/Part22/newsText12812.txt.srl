@@ -1,0 +1,41 @@
+1	Showers	shower	NNS	_	5	nsubj	5:A1=PPT
+2	and	and	CC	_	1	cc	_
+3	scattered	scatter	VBN	p2=VBD|pb=scatter.01	4	amod	_
+4	thunderstorms	thunderstorm	NNS	_	1	conj	3:A1=PPT
+5	are	be	VBP	pb=be.01	0	root	_
+6	on	on	RB	p2=IN	5	advmod	_
+7	tap	tap	NN	p2=VB	5	attr	5:A2=PRD
+8	as	as	IN	_	11	mark	_
+9	the	the	DT	_	10	det	_
+10	week	week	NN	_	11	nsubj	11:A1=PPT
+11	begins	begin	VBZ	pb=begin.01	7	advcl	_
+12	,	,	,	_	5	punct	_
+13	potentially	potentially	RB	_	14	advmod	14:AM-ADV
+14	adding	add	VBG	pb=add.02	5	advcl	5:AM-ADV
+15	to	to	IN	_	14	prep	14:A2=PPT
+16	a	a	DT	_	19	det	_
+17	swollen	swollen	JJ	p2=VBN	19	amod	_
+18	Mississippi	mississippi	NNP	_	19	nn	_
+19	River	river	NNP	_	15	pobj	_
+20	.	.	.	_	5	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Vladimir Putin,extend.02,his condolences,to,Affirmative,Russian President Vladimir Putin has extended his condolences to Colombian President Juan Manuel Santos Calderon over a bus fire which killed children . 
+a bus fire,kill.01,the children,,Affirmative,Russian President Vladimir Putin has extended his condolences to Colombian President Juan Manuel Santos Calderon over a bus fire which killed children . 
+the tragic accident in,claim.01,dozens of lives of children,,Affirmative,Please accept my deep condolences over the tragic accident in the Magdalena Department which claimed dozens of lives of children . 
+you,pass.01,my words of,for,Affirmative,"I am asking you to pass my words of sincere sympathy and support for the victims ' families and also wish swift recovery to all those injured , Putin said in a telegram posted on the Kremlin 's website , Interfax reports . "
+Russian President Vladimir Putin,say.01,I am asking you,,Affirmative,"I am asking you to pass my words of sincere sympathy and support for the victims ' families and also wish swift recovery to all those injured , Putin said in a telegram posted on the Kremlin 's website , Interfax reports . "
+Interfax,report.01,", Putin said in",,Affirmative,"I am asking you to pass my words of sincere sympathy and support for the victims ' families and also wish swift recovery to all those injured , Putin said in a telegram posted on the Kremlin 's website , Interfax reports . "
+by fire,kill.01,30 people,,Affirmative,"At least 30 people have been killed by fire on a bus in north Colombia , mostly children ; 18 passengers managed to escape , the BBC said . "
+18 passengers,manage.02,to escape,,Affirmative,"At least 30 people have been killed by fire on a bus in north Colombia , mostly children ; 18 passengers managed to escape , the BBC said . "
+the BBC,say.01,passengers managed,,Affirmative,"At least 30 people have been killed by fire on a bus in north Colombia , mostly children ; 18 passengers managed to escape , the BBC said . "
+"a bus in north Colombia , mostly children",carry.01,the children,,Affirmative,"According to police , the bus was carrying children , many of them less than 14 years of age , from a church event in the town of Fundacion on the Caribbean coast , 750 kilometers from the country 's capital , Bogota . "
+The bus,carry.01,the children,,Affirmative,"The bus which was carrying the children had been used earlier to smuggle gasoline , according to the local press . "

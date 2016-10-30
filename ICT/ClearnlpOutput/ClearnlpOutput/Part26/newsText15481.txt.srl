@@ -1,0 +1,5 @@
+1	Necesita	necesita	NNP	p2=JJ	2	nsubj	2:A0
+2	acceder	acceder	VBP	p2=NN|pb=acceder.01	0	root	_
+3	primero	primero	NN	p2=JJ	2	dobj	2:A1
+4	.	.	.	_	2	punct	_
+

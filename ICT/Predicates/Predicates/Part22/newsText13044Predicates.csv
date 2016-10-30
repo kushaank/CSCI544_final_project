@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+voters in Switzerland,defeat.01,a proposal,,Affirmative,"But voters in Switzerland Sunday defeated a proposal to raise the minimum wage there to $ 24.65 an hour , the highest in the world . "
+A preliminary tally,show.01,% voted against,,Affirmative,A preliminary tally showed 76 % voted against the proposal and 24 % voted for it . 
+76 %,vote.01,against,,Affirmative,A preliminary tally showed 76 % voted against the proposal and 24 % voted for it . 
+24 %,vote.01,for it,,Affirmative,A preliminary tally showed 76 % voted against the proposal and 24 % voted for it . 
+Labor unions,win.01,public backing for,,Affirmative,Labor unions had campaigned for months to win public backing for the increase . 
+the Swiss government and,warn.01,"that it would destroy jobs , hurt",,Affirmative,"But the Swiss government and business leaders had warned that it would destroy jobs , hurt lower skilled employees and make it harder for young people and others to enter the workforce . "
+the Swiss government,destroy.01,jobs,,Affirmative,"But the Swiss government and business leaders had warned that it would destroy jobs , hurt lower skilled employees and make it harder for young people and others to enter the workforce . "
+the Swiss government,hurt.01,skilled employees,,Affirmative,"But the Swiss government and business leaders had warned that it would destroy jobs , hurt lower skilled employees and make it harder for young people and others to enter the workforce . "
+the Swiss government,make.02,it harder for,,Affirmative,"But the Swiss government and business leaders had warned that it would destroy jobs , hurt lower skilled employees and make it harder for young people and others to enter the workforce . "
+President Obama,propose.01,raising,,Affirmative,"In the U.S. , President Obama has proposed raising the federal minimum wage to $ 10.10 an hour . "
+President Obama,raise.01,the federal minimum wage,,Affirmative,"In the U.S. , President Obama has proposed raising the federal minimum wage to $ 10.10 an hour . "

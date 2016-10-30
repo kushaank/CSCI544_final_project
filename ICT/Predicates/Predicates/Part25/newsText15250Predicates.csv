@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Anderson,say.01,he saw,,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+Anderson,see.01,happen,,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+Anderson,replay.01,"the surveillance video ,",,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+"the surveillance video ,",help.01,police,,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+police,say.01,they had,,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+they,have.03,a vague suspect description,,Affirmative,"Anderson says he saw it all happen when he replayed the surveillance video , which will help police who say they had a vague suspect description . "
+police who say they had a vague suspect description,give.01,video,them,Affirmative,"We gave them video that shows the perpetrator in the parking lot , Anderson told NewsChannel 3 . "
+video,show.01,the perpetrator in,,Affirmative,"We gave them video that shows the perpetrator in the parking lot , Anderson told NewsChannel 3 . "
+Anderson,tell.01,We gave them video,NewsChannel 3,Affirmative,"We gave them video that shows the perpetrator in the parking lot , Anderson told NewsChannel 3 . "
+the owner,say.01,there is not,,Affirmative,As for more security the owner says there is not much more he can do he has security cameras and fencing surrounding the restaurant . 
+the owner,do.02,he has,,Affirmative,As for more security the owner says there is not much more he can do he has security cameras and fencing surrounding the restaurant . 
+the owner,have.03,security cameras,,Affirmative,As for more security the owner says there is not much more he can do he has security cameras and fencing surrounding the restaurant . 
+Anderson,say.01,he feels,,Affirmative,Anderson says he feels as if his hands are tied and now hopes police will step up their game . 
+Anderson,feel.02,hands are tied and,,Affirmative,Anderson says he feels as if his hands are tied and now hopes police will step up their game . 
+his hands,hope.01,police will step up,,Affirmative,Anderson says he feels as if his hands are tied and now hopes police will step up their game . 
+police who say they had a vague suspect description,step.03,their game,,Affirmative,Anderson says he feels as if his hands are tied and now hopes police will step up their game . 
+Anderson,think.01,we will probably have,,Affirmative,I think if we were truly in Ghent we will probably have a better feeling from police . 
+police who say they had a vague suspect description,have.03,just one of their things they are not active enough in our neighborhood,,Affirmative,I think if we were truly in Ghent we will probably have a better feeling from police . 
+Anderson,add.01,now it 's,,Affirmative,"But right now it 's just one of their things they are not active enough in our neighborhood , he added . "
+"The owner ,",tell.01,a different story,,Affirmative,"The owner , Ernesto Alonso , tells a different story . "
+Ernesto Alonso,think.01,police are doing,,Affirmative,"I think police are doing a great job , Alonso said . "
+police who say they had a vague suspect description,do.02,a great job,,Affirmative,"I think police are doing a great job , Alonso said . "
+Ernesto Alonso,say.01,I think,,Affirmative,"I think police are doing a great job , Alonso said . "
+Ernesto Alonso,say.01,police respond quickly,,Affirmative,He says police respond quickly when needed but he heard the gun shots last night and says from now on he will do more than just rely on police . 
+Ernesto Alonso,hear.01,the gun shots,,Affirmative,He says police respond quickly when needed but he heard the gun shots last night and says from now on he will do more than just rely on police . 
+Ernesto Alonso,say.01,he will do more than,,Affirmative,He says police respond quickly when needed but he heard the gun shots last night and says from now on he will do more than just rely on police . 
+Ernesto Alonso,do.02,more than,,Affirmative,He says police respond quickly when needed but he heard the gun shots last night and says from now on he will do more than just rely on police . 
+more than just rely on police,take.01,safety precautions,,Affirmative,"We are scared for us , scared for our customers we will take safety precautions as far as trying to light up our parking lot more like I said get some security here and make our customers feel safe , Alonso said . "
+Ernesto Alonso,say.01,get,,Affirmative,"We are scared for us , scared for our customers we will take safety precautions as far as trying to light up our parking lot more like I said get some security here and make our customers feel safe , Alonso said . "
+our customers,feel.01,safe,,Affirmative,"We are scared for us , scared for our customers we will take safety precautions as far as trying to light up our parking lot more like I said get some security here and make our customers feel safe , Alonso said . "
+Ernesto Alonso,say.01,", scared for",,Affirmative,"We are scared for us , scared for our customers we will take safety precautions as far as trying to light up our parking lot more like I said get some security here and make our customers feel safe , Alonso said . "
+Neither of,want.01,to see,,Affirmative,Neither of these owners wants to see a crime scene like last night ever again . 
+Neither of,see.01,a crime scene like,,Affirmative,Neither of these owners wants to see a crime scene like last night ever again . 
+Anyone with information about,ask.02,to called,,Affirmative,Anyone with information about the attempted robbery or shooting is asking to called the Norfolk Crime Line at 1-888-LOCK-U-UP . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

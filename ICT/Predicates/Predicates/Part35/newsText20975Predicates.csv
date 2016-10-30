@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The caller,report.01,being robbed at gunpoint,,Affirmative,The caller reported being robbed at gunpoint at the intersection of Elaine Drive and Bluefield Avenue . 
+The caller,report.01,being robbed at gunpoint,,Affirmative,The caller reported being robbed at gunpoint at the intersection of Elaine Drive and Bluefield Avenue . 
+a emergency paramedic,transport.01,Jonathan David Mullins,to,Affirmative,"According to the criminal complaint , Mullins , 32 of St. Albans told a emergency paramedic who transported him to the facility that he would bring a gun to the hospital if they tried to pump his stomach . "
+Jonathan David Mullins,bring.01,a gun,to,Affirmative,"According to the criminal complaint , Mullins , 32 of St. Albans told a emergency paramedic who transported him to the facility that he would bring a gun to the hospital if they tried to pump his stomach . "
+they,try.01,to pump,,Affirmative,"According to the criminal complaint , Mullins , 32 of St. Albans told a emergency paramedic who transported him to the facility that he would bring a gun to the hospital if they tried to pump his stomach . "
+a nurse,examine.01,Jonathan David Mullins,,Affirmative,He also told a nurse that was examining him that bring a knife to the hospital if someone tried to put an IV in him . 
+someone,try.01,to put,,Affirmative,He also told a nurse that was examining him that bring a knife to the hospital if someone tried to put an IV in him . 
+someone,put.01,an IV,in him,Affirmative,He also told a nurse that was examining him that bring a knife to the hospital if someone tried to put an IV in him . 
+"the criminal complaint , Mullins",say.01,nurse was examining him,,Affirmative,The criminal complaint goes on to say the same nurse was examining him and asked him to remove his clothes so that she may complete the exam . 
+the same nurse,examine.01,Jonathan David Mullins,,Affirmative,The criminal complaint goes on to say the same nurse was examining him and asked him to remove his clothes so that she may complete the exam . 
+"the criminal complaint , Mullins",ask.02,to remove,him,Affirmative,The criminal complaint goes on to say the same nurse was examining him and asked him to remove his clothes so that she may complete the exam . 
+Jonathan David Mullins,remove.01,his clothes,,Affirmative,The criminal complaint goes on to say the same nurse was examining him and asked him to remove his clothes so that she may complete the exam . 
+the same nurse,complete.01,the exam,,Affirmative,The criminal complaint goes on to say the same nurse was examining him and asked him to remove his clothes so that she may complete the exam . 
+Jonathan David Mullins,take.07,his shoes,,Affirmative,Mullins took off his shoes and threw them across the room . 
+Jonathan David Mullins,throw.01,they,across,Affirmative,Mullins took off his shoes and threw them across the room . 
+the same nurse,tell.01,Mullins did have,investigators,Affirmative,"The nurse told investigators Mullins did have a weapon and that she feared for nurses , paramedics and other personnel who worked at the hospital . "
+Jonathan David Mullins,have.03,a weapon,,Affirmative,"The nurse told investigators Mullins did have a weapon and that she feared for nurses , paramedics and other personnel who worked at the hospital . "
+All content,copyright.01,WorldNow and WOWK,,Affirmative,All content © Copyright 2000 - 2014 WorldNow and WOWK . 

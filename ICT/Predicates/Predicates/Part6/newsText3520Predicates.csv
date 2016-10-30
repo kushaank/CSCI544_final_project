@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The accused,use.01,three different weapons,,Affirmative,"The accused used three different weapons and fired 26 bullets altogether , while the complainant and his security guards fired 10 shots . "
+The accused,fire.02,26 bullets,,Affirmative,"The accused used three different weapons and fired 26 bullets altogether , while the complainant and his security guards fired 10 shots . "
+the complainant and,fire.01,10 shots,,Affirmative,"The accused used three different weapons and fired 26 bullets altogether , while the complainant and his security guards fired 10 shots . "
+Police,say.01,Abro fired,,Affirmative,"Police further said that the accused , Salman Abro fired 12 bullets from the SMG of a policeman , while the killed policeman fired seven shots from his rifle . "
+Salman Abro,fire.01,12 bullets,,Affirmative,"Police further said that the accused , Salman Abro fired 12 bullets from the SMG of a policeman , while the killed policeman fired seven shots from his rifle . "
+the killed policeman,fire.01,seven shots,,Affirmative,"Police further said that the accused , Salman Abro fired 12 bullets from the SMG of a policeman , while the killed policeman fired seven shots from his rifle . "
+"Another arrested policeman , Maqbool ,",fire.01,7 bullets,,Affirmative,"Another arrested policeman , Maqbool , fired 7 bullets from his SMG . "
+Police,claim.01,were not friends,,Affirmative,"The police , on the basis of mobile phone record , claimed that the slain Suleman Lashari and Salman Abro were not friends . "
+Salman Abro,break.01,into,,Affirmative,"Salman Abro , along with a police personnel allegedly broke into the residence of Suleman Lashari and shot him dead . "
+Salman Abro,shoot.02,Salman Abro,,Affirmative,"Salman Abro , along with a police personnel allegedly broke into the residence of Suleman Lashari and shot him dead . "
+Abro,sustain.02,injuries in,,Affirmative,A policeman was also killed while Abro sustained injuries in retaliatory fire . 

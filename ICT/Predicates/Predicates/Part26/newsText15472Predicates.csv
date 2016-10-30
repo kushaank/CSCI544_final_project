@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The government,replace.01,local police forces,with,Affirmative,MEXICO CITY ( AP ) -- The government has replaced local police forces with army troops in a rural area about 100 kms ( 62 miles ) southwest of Mexico City that has been plagued by drug gangs . 
+by,plague.01,Mexico City,,Affirmative,MEXICO CITY ( AP ) -- The government has replaced local police forces with army troops in a rural area about 100 kms ( 62 miles ) southwest of Mexico City that has been plagued by drug gangs . 
+army troops in a rural area about 100 kms -LRB- 62 miles -RRB-,replace.01,untrustworthy municipal police,,Affirmative,"Army troops have replaced generally untrustworthy municipal police in more outlying parts of Mexico , amid fears that cops were cooperating with gangs . "
+The cops,cooperate.01,with gangs,,Affirmative,"Army troops have replaced generally untrustworthy municipal police in more outlying parts of Mexico , amid fears that cops were cooperating with gangs . "
+The government of,say.01,troops will replace,,Affirmative,"The government of Mexico State says 1,187 army troops will replace 556 municipal police in the southern part of the state . "
+"1,187 army troops",replace.01,556 municipal police,,Affirmative,"The government of Mexico State says 1,187 army troops will replace 556 municipal police in the southern part of the state . "
+a rural area about 100 kms -LRB- 62 miles -RRB-,suffer.01,turf battles and clashes with soldiers and police,,Affirmative,The area has suffered drug gang turf battles and clashes with soldiers and police . 

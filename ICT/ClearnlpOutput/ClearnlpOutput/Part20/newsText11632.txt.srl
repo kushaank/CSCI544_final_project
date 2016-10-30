@@ -1,0 +1,72 @@
+1	Overview	overview	NNP	p2=VB	2	nn	_
+2	Team	team	NNP	_	0	root	_
+3	of	of	IN	_	2	prep	_
+4	Dreamers	dreamer	NNPS	p2=NNP	3	pobj	_
+5	,	,	,	_	4	punct	_
+6	Makers	maker	NNPS	p2=NNS	4	conj	_
+7	,	,	,	_	6	punct	_
+8	Artists	artist	NNPS	p2=NNS	6	conj	_
+9	,	,	,	_	8	punct	_
+10	Thinkers	thinker	NNPS	_	8	conj	_
+11	,	,	,	_	8	punct	_
+12	and	and	CC	_	8	cc	_
+13	Gamers	gamer	NNPS	p2=NNP	8	conj	_
+14	.	.	.	_	2	punct	_
+
+1	Focus	focus	NNP	p2=NN	0	root	_
+2	:	:	:	_	1	punct	_
+3	Engaging	engaging	JJ	p2=NN	4	amod	_
+4	games	game	NNS	_	1	appos	_
+5	.	.	.	_	1	punct	_
+
+1	Immersive	immersive	JJ	p2=CD	2	amod	_
+2	tech	tech	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Unparalleled	unparalleled	JJ	p2=VBN	2	amod	_
+2	presence	presence	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Nathan	nathan	NNP	p2=JJ	2	nn	_
+2	Burba	burba	NNP	_	6	nsubj	6:A0=PAG
+3	and	and	CC	_	2	cc	_
+4	James	james	NNP	_	5	nn	_
+5	Iliff	iliff	NNP	_	2	conj	_
+6	launched	launch	VBD	pb=launch.01	0	root	_
+7	Project	project	NNP	_	8	nn	_
+8	Holodeck	holodeck	NNP	_	6	dobj	6:A1=PPT
+9	as	as	IN	_	6	prep	6:AM-PRP
+10	an	an	DT	_	12	det	_
+11	interdisciplinary	interdisciplinary	JJ	p2=NN	12	amod	_
+12	effort	effort	NN	_	9	pobj	_
+13	at	at	IN	_	12	prep	_
+14	the	the	DT	_	15	det	_
+15	University	university	NNP	_	21	poss	_
+16	of	of	IN	_	15	prep	_
+17	Southern	southern	NNP	_	18	nn	_
+18	California	california	NNP	_	16	pobj	_
+19	's	's	POS	_	15	possessive	_
+20	Games	game	NNPS	p2=NNP	21	nn	_
+21	program	program	NN	_	13	pobj	_
+22	.	.	.	_	6	punct	_
+
+1	From	from	IN	_	5	prep	5:AM-TMP
+2	Project	project	NNP	p2=JJ	3	nn	_
+3	Holodeck	holodeck	NNP	_	1	pobj	_
+4	they	they	PRP	_	5	nsubj	5:A0=PAG;9:A0=PAG
+5	founded	found	VBD	pb=found.01	0	root	_
+6	Survios	survios	NNP	p2=NNPS	5	dobj	5:A1=PPT
+7	,	,	,	_	5	punct	_
+8	and	and	CC	_	5	cc	_
+9	continue	continue	VB	p2=VBP|pb=continue.01	5	conj	_
+10	to	to	TO	_	11	aux	_
+11	focus	focus	VB	pb=focus.01	9	xcomp	9:A1=PPT
+12	on	on	IN	_	11	prep	11:A2=PPT
+13	virtual	virtual	JJ	_	14	amod	_
+14	reality	reality	NN	_	15	nn	_
+15	gaming	gaming	NN	_	12	pobj	_
+16	and	and	CC	_	15	cc	_
+17	immersive	immersive	JJ	p2=NN	18	amod	_
+18	technology	technology	NN	_	15	conj	_
+19	.	.	.	_	5	punct	_
+

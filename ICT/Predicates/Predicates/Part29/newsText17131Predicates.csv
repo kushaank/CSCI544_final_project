@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Feature Channels,help.01,feature,,Affirmative,Feature Channels help feature writers generate story ideas . 
+Feature Channels,feature.01,writers generate,,Affirmative,Feature Channels help feature writers generate story ideas . 
+writers,generate.01,story ideas,,Affirmative,Feature Channels help feature writers generate story ideas . 
+Heavier candidates,receive.01,lower vote share than,,Affirmative,"Heavier candidates tended to receive lower vote share than their thinner counterparts and the larger the size difference between the candidates , the larger the vote share discrepancy , says Patricia V. Roehling , professor of psychology at Hope College in Holland , Michigan . "
+"Patricia V. Roehling , professor of psychology",say.01,candidates tended,,Affirmative,"Heavier candidates tended to receive lower vote share than their thinner counterparts and the larger the size difference between the candidates , the larger the vote share discrepancy , says Patricia V. Roehling , professor of psychology at Hope College in Holland , Michigan . "
+the first,use.01,election data,to examine,Affirmative,"This study is the first to use election data to examine whether bias based on size extends to the electoral process , Patricia Roehling reports . "
+Patricia V. Roehling,report.01,study is,,Affirmative,"This study is the first to use election data to examine whether bias based on size extends to the electoral process , Patricia Roehling reports . "
+She and,use.01,election data,from,Affirmative,"She and a team of students from Hope College , and Mark Roehling of the Department of Human Resources and Industrial and Labor Relations at Michigan State , used data from 49 elections in 2008 and 77 elections in 2012 . "
+She and a team of students from Hope College,examine.01,pictures taken from,,Affirmative,They examined pictures taken from candidate websites and estimated the size of each candidate for Senate in both primary and general elections . 
+She and a team of students from Hope College,estimate.01,the size of,,Affirmative,They examined pictures taken from candidate websites and estimated the size of each candidate for Senate in both primary and general elections . 
+She and a team of students from Hope College,look.01,at,,Affirmative,They looked at 158 male candidates and 32 females . 
+She and a team of students from Hope College,examine.01,the vote totals for,,Affirmative,"They examined the vote totals for each candidate and , using multivariate regression analysis , controlled for variables such as age , gender , incumbency , and other factors . "
+She and a team of students from Hope College,use.01,"multivariate regression analysis , controlled for variables",,Affirmative,"They examined the vote totals for each candidate and , using multivariate regression analysis , controlled for variables such as age , gender , incumbency , and other factors . "
+She and a team of students from Hope College,find.01,evidence of,,Affirmative,They also found evidence of self - selection in the pool of candidates for Senate . 
+These findings,suggest.01,females are,,Affirmative,"These findings suggest that overweight females are more likely to be excluded from candidacy than are overweight males , Patricia Roehling says . "
+Patricia V. Roehling,say.01,findings suggest,,Affirmative,"These findings suggest that overweight females are more likely to be excluded from candidacy than are overweight males , Patricia Roehling says . "
+This,support.01,one of,,Affirmative,This supported one of the study 's hypotheses that women candidates would experience a greater weight bias than men . 
+women candidates,experience.01,a greater weight bias than men,,Affirmative,This supported one of the study 's hypotheses that women candidates would experience a greater weight bias than men . 

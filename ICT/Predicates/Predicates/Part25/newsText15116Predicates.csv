@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+stop worker,find.01,the baby,,Affirmative,A truck stop worker found the baby on Sunday and called police . 
+stop worker,call.02,police,,Affirmative,A truck stop worker found the baby on Sunday and called police . 
+Christina Reed,tell.01,that this is,CBS13,Affirmative,Christina Reed tells CBS13 that this is just a big misunderstanding . 
+Christina Reed,want.01,children to understand,,Affirmative,"Overcome with emotion , she wants her four children to understand that she did n't abandon her little sister . "
+her four children,understand.01,that she did n't abandon,,Affirmative,"Overcome with emotion , she wants her four children to understand that she did n't abandon her little sister . "
+Christina Reed,abandon.01,her little sister,,Affirmative,"Overcome with emotion , she wants her four children to understand that she did n't abandon her little sister . "
+Christina Reed,do.02,her four children,,Affirmative,"I would never do that , she said . "
+Christina Reed,say.01,I would never do that,,Affirmative,"I would never do that , she said . "
+Christina Reed,say.01,were visiting Sacramento from,,Affirmative,"Reed says she and her husband were visiting Sacramento from Lake County , hoping to buy a car . "
+she and,visit.01,Sacramento,,Affirmative,"Reed says she and her husband were visiting Sacramento from Lake County , hoping to buy a car . "
+she and,hope.01,to buy,,Affirmative,"Reed says she and her husband were visiting Sacramento from Lake County , hoping to buy a car . "
+she and,buy.01,a car,,Affirmative,"Reed says she and her husband were visiting Sacramento from Lake County , hoping to buy a car . "
+The couple,say.01,she became frustrated and left,,Affirmative,"The couple got into an argument at the truck stop , where she says she became frustrated and left her baby on the sidewalk with her husband . "
+The couple,leave.01,the baby,,Affirmative,"The couple got into an argument at the truck stop , where she says she became frustrated and left her baby on the sidewalk with her husband . "
+The couple,see.01,the baby,,Affirmative,"Last time I saw her she was sitting in her car seat sitting outside , she said . "
+Christina Reed,say.01,child has,,Affirmative,Reed says her six - week old child has a rare disease that left her partially paralyzed from the waist down . 
+week old child,have.03,a rare disease,,Affirmative,Reed says her six - week old child has a rare disease that left her partially paralyzed from the waist down . 
+a rare disease,leave.01,Christina Reed,partially paralyzed from,Affirmative,Reed says her six - week old child has a rare disease that left her partially paralyzed from the waist down . 
+by,shock.01,Christina Reed,,Affirmative,"Reed reached out to him through a bail bondsman , but was shocked by his response . "
+Christina Reed,tell.01,not to call back,the bondsman,Affirmative,"Because we were fighting yesterday , he told the bondsman not to call back , she said . "
+her six-week old child,say.01,", he told",,Affirmative,"Because we were fighting yesterday , he told the bondsman not to call back , she said . "
+Christina Reed,face.01,endangerment charges,,Affirmative,She 's now facing child endangerment charges . 
+detectives,look.01,for,,Affirmative,Reed is being held without bail as detectives look for her husband for questioning . 

@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a man from Massachusetts,try.01,to bring,,Affirmative,He was charged for allegedly trying to bring two loaded handguns to the school . 
+a man from Massachusetts,bring.01,two loaded handguns,to,Affirmative,He was charged for allegedly trying to bring two loaded handguns to the school . 
+a man from Massachusetts,incur.01,firearms violations,,Affirmative,He incurred firearms violations . 
+the university police,arrest.01,Andrea Mass,from Marshfield,Affirmative,"On Sunday afternoon , the university police arrested Andrea Mass from Marshfield . "
+"The wife of Massa , Sally Jenkins",tell.01,husband realized,Boston Herald,Affirmative,She told Boston Herald that her husband realized he will not be permitted to go in upon seeing the security area . 
+her husband,realize.01,he will not be permitted,,Affirmative,She told Boston Herald that her husband realized he will not be permitted to go in upon seeing the security area . 
+her husband,go.02,upon seeing,,Affirmative,She told Boston Herald that her husband realized he will not be permitted to go in upon seeing the security area . 
+her husband,see.01,the security area,,Affirmative,She told Boston Herald that her husband realized he will not be permitted to go in upon seeing the security area . 
+old Massa,have.03,a license,,Affirmative,"According to the District Attorney 's Office of Suffolk County , the 28 year old Massa has a license to care firearms as he used it for target and hunting practices . "
+the District Attorney 's,use.01,the District Attorney 's Office of Suffolk County,for,Affirmative,"According to the District Attorney 's Office of Suffolk County , the 28 year old Massa has a license to care firearms as he used it for target and hunting practices . "
+the District Attorney 's,violate.01,the terms of,,Affirmative,"Because he violated the terms of the license , he then incurred a civil penalty . "
+the District Attorney 's,incur.01,a civil penalty,,Affirmative,"Because he violated the terms of the license , he then incurred a civil penalty . "

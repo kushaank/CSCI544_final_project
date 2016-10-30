@@ -1,0 +1,35 @@
+1	·	·	NFP	p2=JJ	2	punct	_
+2	PHOTOGRAPHER	photographer	NN	p2=NNP	0	root	_
+3	:	:	:	_	2	punct	_
+4	MALE	male	NN	p2=NNP	2	appos	_
+5	:	:	:	_	4	punct	_
+6	42-48	0	CD	_	7	num	_
+7	years	year	NNS	_	8	npadvmod	_
+8	old	old	JJ	_	4	amod	_
+9	,	,	,	_	4	punct	_
+10	open	open	JJ	_	11	amod	_
+11	ethnicity	ethnicity	NN	_	4	appos	_
+12	.	.	.	_	2	punct	_
+
+1	Photography	photography	NN	p2=NNP	2	nsubj	2:A0=PPT
+2	experience	experience	VB	p2=VB|pb=experience.01	0	root	_
+3	essential	essential	JJ	p2=NN	2	advmod	2:AM-MNR
+4	.	.	.	_	2	punct	_
+
+1	·	·	NFP	p2=HYPH	3	punct	_
+2	DETECTIVE	detective	NNP	p2=JJ	3	nn	_
+3	SMITH	smith	NNP	_	0	root	_
+4	:	:	:	_	3	punct	_
+5	MALE	male	NN	p2=NNP	3	appos	_
+6	:	:	:	_	3	punct	_
+7	35-48	0	CD	_	8	num	_
+8	years	year	NNS	_	9	npadvmod	_
+9	old	old	JJ	_	3	amod	_
+10	,	,	,	_	3	punct	_
+11	open	open	JJ	_	12	amod	_
+12	ethnicity	ethnicity	NN	_	3	appos	_
+13	,	,	,	_	3	punct	_
+14	blue	blue	JJ	_	15	amod	_
+15	collar	collar	NN	_	3	appos	_
+16	.	.	.	_	3	punct	_
+

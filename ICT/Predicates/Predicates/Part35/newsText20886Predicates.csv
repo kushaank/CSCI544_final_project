@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,drive.02,A 2004 Cadillac DeVille,,Affirmative,"A 2004 Cadillac DeVille being driven by Arlene Isaak , 87 , of Arnegard , was struck by a 2013 Dodge Ram being driven by Blake Driscoll , 44 , of Roy , Utah . "
+by,strike.01,A 2004 Cadillac DeVille,,Affirmative,"A 2004 Cadillac DeVille being driven by Arlene Isaak , 87 , of Arnegard , was struck by a 2013 Dodge Ram being driven by Blake Driscoll , 44 , of Roy , Utah . "
+by,drive.02,a 2013 Dodge Ram,,Affirmative,"A 2004 Cadillac DeVille being driven by Arlene Isaak , 87 , of Arnegard , was struck by a 2013 Dodge Ram being driven by Blake Driscoll , 44 , of Roy , Utah . "
+Arlene Isaak,drive.01,into,,Affirmative,"According to the North Dakota Highway Patrol , Isaak drove into the intersection of the roads , and Driscoll was unable to avoid her . "
+Blake Driscoll,avoid.01,Arlene Isaak,,Affirmative,"According to the North Dakota Highway Patrol , Isaak drove into the intersection of the roads , and Driscoll was unable to avoid her . "
+His vehicle,strike.01,the front passenger side of,,Affirmative,"His vehicle struck the front passenger side of the Cadillac , sending both vehicles off the road . "
+His vehicle,send.01,both vehicles,off,Affirmative,"His vehicle struck the front passenger side of the Cadillac , sending both vehicles off the road . "
+Arlene Isaak,wear.01,a seatbelt,,Affirmative,Isaak was not wearing a seatbelt . 
+night crash,leave.01,his vehicle,upside-down on,Affirmative,"In a separate incident , a man was taken to the hospital after a Thursday night crash that left his vehicle upside-down on the side of the highway . "
+by,drive.02,a 2006 Dodge Ram 2500,,Affirmative,", was unable to stop his 2014 Chevrolet Silverado and struck the back of a 2006 Dodge Ram 2500 being driven by Michael Paul , 56 , of Beach . "
+Trevizo,stop.01,his vehicle,,Affirmative,"Paul had slowed to turn right off Highway 16 toward Odland Dam , and Trevizo was unable to stop his vehicle and struck the Dodge . "
+Trevizo,strike.01,the Dodge,,Affirmative,"Paul had slowed to turn right off Highway 16 toward Odland Dam , and Trevizo was unable to stop his vehicle and struck the Dodge . "
+Trevizo,give.01,a citation for care,,Affirmative,Trevizo was taken to St. Joseph 's Hospital and given a citation for care required . 
+Both drivers,wear.01,seatbelts,,Affirmative,Both drivers were wearing seatbelts . 
+1,keep.02,it,Clean,Affirmative,1 Keep it Clean . 
+us,know.01,of,,Affirmative,Use the ' Report ' link on each comment to let us know of abusive posts . 
+We,love.02,to hear,,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+We,hear.01,"eyewitness accounts ,",,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+The use of,disguise.01,your identity,,Affirmative,* The use of another person 's real name to disguise your identity . 

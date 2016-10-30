@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+car,cross.02,the centre line,,Affirmative,The woman 's car crossed the centre line into the path of two cars and a truck travelling in the opposite direction . 
+a truck travelling in,travel.01,in,,Affirmative,The woman 's car crossed the centre line into the path of two cars and a truck travelling in the opposite direction . 
+The woman 's,receive.01,fatal injuries,,Affirmative,"She received fatal injuries , while another person was airlifted to Waikato Hospital suffering from minor to moderate injuries . "
+Waikato Hospital,suffer.01,from minor,,Affirmative,"She received fatal injuries , while another person was airlifted to Waikato Hospital suffering from minor to moderate injuries . "
+Police,say.01,services are still working,,Affirmative,Police say emergency services are still working to clear the scene and people driving between Hamilton and Te Awamutu tonight should take alternative routes or expect major delays . 
+emergency services,work.01,to clear,,Affirmative,Police say emergency services are still working to clear the scene and people driving between Hamilton and Te Awamutu tonight should take alternative routes or expect major delays . 
+emergency services,clear.01,the scene,,Affirmative,Police say emergency services are still working to clear the scene and people driving between Hamilton and Te Awamutu tonight should take alternative routes or expect major delays . 
+people driving between Hamilton and,take.01,alternative routes,,Affirmative,Police say emergency services are still working to clear the scene and people driving between Hamilton and Te Awamutu tonight should take alternative routes or expect major delays . 
+people driving between Hamilton and,expect.01,major delays,,Affirmative,Police say emergency services are still working to clear the scene and people driving between Hamilton and Te Awamutu tonight should take alternative routes or expect major delays . 

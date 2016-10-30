@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Serbian authorities,order.01,the urgent evacuation of,,Affirmative,"Serbian authorities have ordered the urgent evacuation of a town where soldiers , police and volunteers have been battling to contain the raging Sava River before it can inundate the country 's main power plant . "
+"soldiers , police and volunteers",battle.01,to contain,,Affirmative,"Serbian authorities have ordered the urgent evacuation of a town where soldiers , police and volunteers have been battling to contain the raging Sava River before it can inundate the country 's main power plant . "
+"soldiers , police and volunteers",contain.01,the raging Sava River,,Affirmative,"Serbian authorities have ordered the urgent evacuation of a town where soldiers , police and volunteers have been battling to contain the raging Sava River before it can inundate the country 's main power plant . "
+the,inundate.01,main power plant,,Affirmative,"Serbian authorities have ordered the urgent evacuation of a town where soldiers , police and volunteers have been battling to contain the raging Sava River before it can inundate the country 's main power plant . "
+"Tesla plant ,",supply.01,electricity,for half of Serbia and most of Belgrade,Affirmative,"The coal - fired Nikola Tesla plant , which supplies electricity for half of Serbia and most of Belgrade , lies in the flood - hit town of Obrenovac , 16 miles upstream of the capital . "
+chief Nebojsa Stefanovic,order.01,the town,to evacuate,Affirmative,Serbian police chief Nebojsa Stefanovic ordered the town to evacuate because of an expected surge from the Sava . 
+Serbia and Bosnia,continue.01,to struggle with,,Affirmative,It comes as Serbia and Bosnia continue to struggle with the worst flooding in south - eastern Europe in more than a century . 
+Serbia and Bosnia,struggle.01,with,,Affirmative,It comes as Serbia and Bosnia continue to struggle with the worst flooding in south - eastern Europe in more than a century . 
+by,cause.01,flooding caused by,,Affirmative,At least 35 people have died in five days of flooding caused by torrential rain . 

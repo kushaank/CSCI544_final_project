@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The shuttered mall,exit.01,Chapter 11,,Affirmative,"The shuttered mall exited Chapter 11 in 2012 with plans for a 660,000-square-foot mixed - use development . "
+"Co. ,",file.01,a complaint,in,Affirmative,"Tangshan Ganglu Iron & Steel Co. , a Chinese company with an 80 percent ownership interest in the property , filed a complaint on May 7 in federal court in Fort Lauderdale against Chen , a Chinese citizen who resides in Aventura . "
+a Chinese citizen,reside.01,in Aventura,,Affirmative,"Tangshan Ganglu Iron & Steel Co. , a Chinese company with an 80 percent ownership interest in the property , filed a complaint on May 7 in federal court in Fort Lauderdale against Chen , a Chinese citizen who resides in Aventura . "
+"Chen , a Chinese citizen who resides in Aventura",own.01,the other 20 percent of,,Affirmative,"He owns the other 20 percent of Mapuche LLC , which controls U.S. Capital Holdings , the owner of the mall at 321 N. University Drive . "
+"Mapuche LLC ,",control.01,"U.S. Capital Holdings ,",,Affirmative,"He owns the other 20 percent of Mapuche LLC , which controls U.S. Capital Holdings , the owner of the mall at 321 N. University Drive . "
+"attorney Benjamin E. Olive ,",represent.01,Chen,,Affirmative,"Fort Lauderdale attorney Benjamin E. Olive , who represents Chen in the lawsuit , couldnâ€™t be reached for comment . "
+Benjamin E. Olive,say.01,court lacks jurisdiction,,Affirmative,"In a response to the complaint , Olive said the court lacks jurisdiction to hear the case because both parties are citizens of China . "
+the court,lack.01,jurisdiction,,Affirmative,"In a response to the complaint , Olive said the court lacks jurisdiction to hear the case because both parties are citizens of China . "
+Gangluâ€™s complaint,say.01,Chen misappropriated,,Affirmative,Gangluâ€™s complaint said Chen misappropriated $ 48.7 million of the $ 50 million that the company loaned to Mapuche in 2012 to develop the project . 
+"Chen , a Chinese citizen who resides in Aventura",misappropriate.01,$ 48.7 million of,,Affirmative,Gangluâ€™s complaint said Chen misappropriated $ 48.7 million of the $ 50 million that the company loaned to Mapuche in 2012 to develop the project . 
+a Chinese company with an 80 percent ownership interest in the property,loan.01,the $ 50 million,to Mapuche,Affirmative,Gangluâ€™s complaint said Chen misappropriated $ 48.7 million of the $ 50 million that the company loaned to Mapuche in 2012 to develop the project . 
+a Chinese company with an 80 percent ownership interest in the property,develop.02,"The 321 North project in Plantation , at the former Fashion Mall",,Affirmative,Gangluâ€™s complaint said Chen misappropriated $ 48.7 million of the $ 50 million that the company loaned to Mapuche in 2012 to develop the project . 
+The plaintiff,ask.02,to appoint,the court,Affirmative,The plaintiff asked the court to appoint Jianan Du as custodian of the property . 
+the court,appoint.01,Jianan Du,as custodian of,Affirmative,The plaintiff asked the court to appoint Jianan Du as custodian of the property . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

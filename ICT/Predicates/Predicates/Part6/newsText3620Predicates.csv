@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,say.01,information suggests,,Affirmative,"Police have said preliminary information suggests a man carrying a handgun confronted a security guard at a tavern located on Alexander Drive , Highland Park about 7.40 am this morning . "
+preliminary information,suggest.01,confronted,,Affirmative,"Police have said preliminary information suggests a man carrying a handgun confronted a security guard at a tavern located on Alexander Drive , Highland Park about 7.40 am this morning . "
+a man carrying,carry.01,a handgun,,Affirmative,"Police have said preliminary information suggests a man carrying a handgun confronted a security guard at a tavern located on Alexander Drive , Highland Park about 7.40 am this morning . "
+a man carrying,confront.01,a security guard,,Affirmative,"Police have said preliminary information suggests a man carrying a handgun confronted a security guard at a tavern located on Alexander Drive , Highland Park about 7.40 am this morning . "
+The alleged offender,sustain.02,several gun,,Affirmative,The alleged offender sustained several gun shot wounds and died at the scene . 
+"The security guard ,",sustain.02,minor facial injuries,,Affirmative,"The security guard , a 47 - year - old man , sustained minor facial injuries as a result of the incident . "
+by police for,seize.01,A vehicle located in,,Affirmative,A vehicle located in a nearby street found about midday has been seized by police for scientific examination . 
+Police,continue.01,to appeal for witnesses,,Affirmative,"Police continue to appeal for witnesses to the incident to contact them , or if members of the public noticed anyone acting suspiciously in the area at the time to call Crime Stoppers . "
+Police,appeal.01,for witnesses,to contact them,Affirmative,"Police continue to appeal for witnesses to the incident to contact them , or if members of the public noticed anyone acting suspiciously in the area at the time to call Crime Stoppers . "
+Police,contact.01,witnesses to the incident,,Affirmative,"Police continue to appeal for witnesses to the incident to contact them , or if members of the public noticed anyone acting suspiciously in the area at the time to call Crime Stoppers . "
+members of,notice.01,anyone acting suspiciously in,,Affirmative,"Police continue to appeal for witnesses to the incident to contact them , or if members of the public noticed anyone acting suspiciously in the area at the time to call Crime Stoppers . "
+a security guard,shoot.02,a bandit,,Affirmative,A SECURITY guard is being questioned after he allegedly shot dead a bandit who tried to hold up a pub on the Gold Coast this morning . 
+a bandit,try.01,to hold up,,Affirmative,A SECURITY guard is being questioned after he allegedly shot dead a bandit who tried to hold up a pub on the Gold Coast this morning . 
+a bandit,hold.04,a pub on,,Affirmative,A SECURITY guard is being questioned after he allegedly shot dead a bandit who tried to hold up a pub on the Gold Coast this morning . 
+Police,say.01,man was shot during,,Affirmative,Police said a man was shot during an armed robbery attempt outside the Highland Park tavern . 
+a male security guard,conduct.01,courier service,,Affirmative,"About 7.40 am a male security guard was conducting a cash courier service when he was confronted by a man armed with a handgun at the Alexander Drive premises , they said . "
+by,confront.01,a man,,Affirmative,"About 7.40 am a male security guard was conducting a cash courier service when he was confronted by a man armed with a handgun at the Alexander Drive premises , they said . "
+Police,say.01,7.40 am,,Affirmative,"About 7.40 am a male security guard was conducting a cash courier service when he was confronted by a man armed with a handgun at the Alexander Drive premises , they said . "
+The alleged offender,receive.01,threatening injury,,Affirmative,The alleged offender received a life - threatening injury and died at the scene . 
+"The security guard , a 47-year-old man , sustained minor facial injuries as a result of the incident .",sustain.02,minor facial injuries as,,Affirmative,The security guard sustained minor facial injuries as a result of the incident and is currently assisting police with their inquiries . 
+"The security guard , a 47-year-old man , sustained minor facial injuries as a result of the incident .",assist.01,Police,with,Affirmative,The security guard sustained minor facial injuries as a result of the incident and is currently assisting police with their inquiries . 
+Police,appeal.02,for members of,,Affirmative,Police are appealing for members of the public who may have seen anyone acting suspiciously in the area at the time to contact Crime Stoppers . 
+members of,see.01,anyone acting suspiciously in,,Affirmative,Police are appealing for members of the public who may have seen anyone acting suspiciously in the area at the time to contact Crime Stoppers . 
+you,experience.01,any problems,,Affirmative,Refer to our helpful FAQ section for any problems you might be experiencing . 

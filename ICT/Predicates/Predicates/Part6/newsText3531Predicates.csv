@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A MAN,catch.01,speeding at,,Affirmative,A MAN caught speeding at what police estimated was 140 kilometres an hour at Mount Panorama has been fined and disqualified from driving for six months . 
+Patrol police,conduct.01,enforcement duties near,,Affirmative,"Police facts tendered to the court told how on March 29 this year ,  Chifley Highway Patrol police were conducting speed enforcement duties near Forest Elbow on Mount Panorama . "
+Police,hear.01,a loud engine and tyres screeching,,Affirmative,"Police could hear a loud engine and tyres screeching , and then saw two vehicles driving towards Forest Elbow . "
+Police,see.01,vehicles driving towards,,Affirmative,"Police could hear a loud engine and tyres screeching , and then saw two vehicles driving towards Forest Elbow . "
+Police,estimate.01,Commodore was travelling at,,Affirmative,"Police estimated the Commodore was travelling at a speed in excess of 100 kilometres an hour in a 60km / h zone before braking , and the Lancer , close behind the Commodore , travelling at between 90 and 95km / h , braking at the same bend . "
+the Commodore,travel.01,in excess of,,Affirmative,"Police estimated the Commodore was travelling at a speed in excess of 100 kilometres an hour in a 60km / h zone before braking , and the Lancer , close behind the Commodore , travelling at between 90 and 95km / h , braking at the same bend . "
+the Lancer which was travelling very close behind him,try.01,to keep pace with,,Affirmative,It appeared to the police the Lancer was trying to keep pace with the Commodore . 
+the blue Commodore,continue.01,to accelerate away at,,Affirmative,Police caught up with the Lancer as the blue Commodore continued to accelerate away at an estimated speed of 140km / h . 
+police,stop.01,"the Commodore ,",,Affirmative,"When police stopped the Commodore , the driver ,  O'Neill , was remorseful and apologetic . "
+He,return.02,a negative roadside breath test,,Affirmative,He returned a negative roadside breath test . 
+Police,say.01,O'Neill made,,Affirmative,Police said O'Neill made frank admissions to exceeding the speed limit but said he did so to try and avoid the Lancer which was travelling very close behind him . 
+O'Neill,exceed.01,the speed limit,,Affirmative,Police said O'Neill made frank admissions to exceeding the speed limit but said he did so to try and avoid the Lancer which was travelling very close behind him . 
+O'Neill,say.01,he did so,,Affirmative,Police said O'Neill made frank admissions to exceeding the speed limit but said he did so to try and avoid the Lancer which was travelling very close behind him . 
+he,do.02,so,,Affirmative,Police said O'Neill made frank admissions to exceeding the speed limit but said he did so to try and avoid the Lancer which was travelling very close behind him . 
+he,avoid.01,the Lancer,,Affirmative,Police said O'Neill made frank admissions to exceeding the speed limit but said he did so to try and avoid the Lancer which was travelling very close behind him . 
+He,say.01,he had been travelling behind,,Affirmative,He went on to say he had been travelling behind the other vehicle across the top of Mount Panorama and the driver had waved him to overtake his vehicle . 
+Michael Emmett ONeill,travel.01,behind,,Affirmative,He went on to say he had been travelling behind the other vehicle across the top of Mount Panorama and the driver had waved him to overtake his vehicle . 
+Michael Emmett ONeill,overtake.01,his vehicle,,Affirmative,He went on to say he had been travelling behind the other vehicle across the top of Mount Panorama and the driver had waved him to overtake his vehicle . 
+A motor vehicle,exceed.01,speed limit,by more than,Affirmative,"On the class A motor vehicle exceed speed limit by more than 45km / h , Mr Allen convicted O'Neill , fining him $ 800 . "
+Mr Allen,convict.01,O'Neill,,Affirmative,"On the class A motor vehicle exceed speed limit by more than 45km / h , Mr Allen convicted O'Neill , fining him $ 800 . "
+Mr Allen,fine.01,$ 800,him,Affirmative,"On the class A motor vehicle exceed speed limit by more than 45km / h , Mr Allen convicted O'Neill , fining him $ 800 . "
+He,disqualify.01,him,from driving for,Affirmative,"He also disqualified him from driving for six months , with Section 225 ( 3 ) of the Roads and Traffic Act to apply . "

@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( BUSINESS WIRE ) --,affirm.01,the notes issued by,,Affirmative,"NEW YORK , May 19 , 2014 ( BUSINESS WIRE ) -- Fitch Ratings affirms the notes issued by Pennsylvania Higher Education Assistance Agency Series 2013-1 at ' AAAsf ' . "
+by,issue.01,the notes issued by,,Affirmative,"NEW YORK , May 19 , 2014 ( BUSINESS WIRE ) -- Fitch Ratings affirms the notes issued by Pennsylvania Higher Education Assistance Agency Series 2013-1 at ' AAAsf ' . "
+by,provided.01,the guarantees provided by,,Affirmative,"The credit quality of the trust collateral is high , in Fitch 's opinion , based on the guarantees provided by the transaction 's eligible guarantors and reinsurance provided by the U.S. Department of Education ( ED ) for at least 97 % of principal and accrued interest . "
+by,provided.01,eligible guarantors and reinsurance provided by,for,Affirmative,"The credit quality of the trust collateral is high , in Fitch 's opinion , based on the guarantees provided by the transaction 's eligible guarantors and reinsurance provided by the U.S. Department of Education ( ED ) for at least 97 % of principal and accrued interest . "
+Fitch 's,assign.01,Outlook,to,Affirmative,"Fitch affirmed at ' AAA ' and assigned a Stable Outlook to the U.S. sovereign rating on March 24 , 2014 . "
+by overcollateralization (,provided.01,CE,,Affirmative,"Sufficient Credit Enhancement ( CE ) : CE is provided by overcollateralization ( OC ; the excess of trust 's asset balance over bond balance ) , and excess spread . "
+by,provided.01,Liquidity support,,Affirmative,"Adequate Liquidity Support : Liquidity support is provided by a Debt Service Reserve Fund sized at the greater of 0.25 % of the pool balance and $ 893,445 . "
+Fitch 's,review.01,the servicing operations of PHEAA,,Affirmative,Fitch has reviewed the servicing operations of PHEAA and believes PHEAA to be an acceptable servicer of FFELP student loans . 
+Fitch 's,believe.01,PHEAA to be,,Affirmative,Fitch has reviewed the servicing operations of PHEAA and believes PHEAA to be an acceptable servicer of FFELP student loans . 
+loan ABS,rely.01,on,to reimburse defaults,Affirmative,"Since the FFELP student loan ABS relies on the U.S. government to reimburse defaults , ' AAAsf ' FFELP ABS ratings will likely move in tandem with the ' AAA ' U.S. sovereign rating . "
+by,drive.02,a buildup of,,Affirmative,"Likewise , a buildup of credit enhancement driven by positive excess spread given favorable basis factor conditions could lead to future upgrades . "
+a buildup of,give.01,factor conditions,,Affirmative,"Likewise , a buildup of credit enhancement driven by positive excess spread given favorable basis factor conditions could lead to future upgrades . "
+"CODE OF CONDUCT , CONFIDENTIALITY ,",conflict.01,"OF INTEREST ,",,Affirmative,"FITCH 'S CODE OF CONDUCT , CONFIDENTIALITY , CONFLICTS OF INTEREST , AFFILIATE FIREWALL , COMPLIANCE AND OTHER RELEVANT POLICIES AND PROCEDURES ARE ALSO AVAILABLE FROM THE ' CODE OF CONDUCT ' SECTION OF THIS SITE . "
+MAY,provided.01,ANOTHER PERMISSIBLE SERVICE,TO,Affirmative,FITCH MAY HAVE PROVIDED ANOTHER PERMISSIBLE SERVICE TO THE RATED ENTITY OR ITS RELATED THIRD PARTIES . 
+by,provided.01,Intraday Data,,Affirmative,Intraday Data provided by SIX Financial Information and subject to terms of use . 
+by,provided.01,day data provided by,,Affirmative,Historical and current end - of - day data provided by SIX Financial Information . 
+by NASDAQ,provided.01,time last sale data provided by NASDAQ,,Affirmative,Real time last sale data provided by NASDAQ . 
+More information on NASDAQ,trade.01,symbols and,,Affirmative,More information on NASDAQ traded symbols and their current financial status . 
+Intraday Data,delay.01,15 minutes for Nasdaq,,Affirmative,"Intraday data delayed 15 minutes for Nasdaq , and 20 minutes for other exchanges . "
+by,provided.01,SEHK intraday data,,Affirmative,SEHK intraday data is provided by SIX Financial Information and is at least 60 - minutes delayed . 

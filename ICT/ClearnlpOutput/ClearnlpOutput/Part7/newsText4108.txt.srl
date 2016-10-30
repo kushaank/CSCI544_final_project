@@ -1,0 +1,14 @@
+1	by	by	IN	_	0	root	_
+2	WCBM	wcbm	NNP	_	3	nn	_
+3	AM	am	NNP	_	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	  	  	VBN	p2=JJ|pb=  .01	3	amod	_
+2	Internet	internet	NN	p2=NNP	3	nn	_
+3	Development	development	NN	p2=NNP	0	root	1:A1
+4	by	by	IN	_	3	prep	_
+5	Triton	triton	NNP	_	7	nn	_
+6	Digital	digital	NNP	_	7	nn	_
+7	Media	media	NNP	_	4	pobj	_
+8	.	.	.	_	3	punct	_
+

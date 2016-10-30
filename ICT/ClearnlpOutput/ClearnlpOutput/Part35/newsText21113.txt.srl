@@ -1,0 +1,37 @@
+1	Off	off	IN	_	0	root	_
+2	Jalan	jalan	NNP	_	4	nn	_
+3	Tun	tun	NNP	_	4	nn	_
+4	Razak	razak	NNP	_	1	pobj	_
+5	,	,	,	_	4	punct	_
+6	50400	0	CD	_	8	num	_
+7	Kuala	kuala	NNP	_	8	nn	_
+8	Lumpur	lumpur	NNP	_	4	npadvmod	_
+9	,	,	,	_	8	punct	_
+10	Malaysia	malaysia	NNP	_	8	appos	_
+11	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	in	in	IN	_	12	prep	12:AM-MNR
+14	any	any	DT	_	15	det	_
+15	form	form	NN	_	13	pobj	_
+16	except	except	IN	_	15	prep	_
+17	with	with	IN	_	16	prep	_
+18	the	the	DT	_	21	det	_
+19	prior	prior	JJ	p2=RB	21	amod	_
+20	written	write	VBN	p2=JJ|pb=write.01	21	amod	_
+21	permission	permission	NN	_	17	pobj	20:A1=PPT
+22	of	of	IN	_	21	prep	_
+23	BERNAMA	bernama	NNP	_	22	pobj	_
+24	.	.	.	_	6	punct	_
+

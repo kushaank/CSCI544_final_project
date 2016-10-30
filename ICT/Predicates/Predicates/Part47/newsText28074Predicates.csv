@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Shively Police,arrest.01,a man,,Affirmative,( WDRB ) - Shively Police arrested a man who they say became involved in a verbal altercation that then became physical . 
+they,say.01,became involved in,,Affirmative,( WDRB ) - Shively Police arrested a man who they say became involved in a verbal altercation that then became physical . 
+by,flag.01,a police officer,,Affirmative,"According to an arrest report , Christopher Mcintosh was arrested Saturday afternoon on Dixie Highway , near Wathen Lane , after a police officer was flagged down by a passing motorist who reported seeing two people fighting a block away . "
+a passing motorist,report.01,seeing,,Affirmative,"According to an arrest report , Christopher Mcintosh was arrested Saturday afternoon on Dixie Highway , near Wathen Lane , after a police officer was flagged down by a passing motorist who reported seeing two people fighting a block away . "
+a passing motorist,see.01,people fighting,,Affirmative,"According to an arrest report , Christopher Mcintosh was arrested Saturday afternoon on Dixie Highway , near Wathen Lane , after a police officer was flagged down by a passing motorist who reported seeing two people fighting a block away . "
+two people,fight.01,a block,,Affirmative,"According to an arrest report , Christopher Mcintosh was arrested Saturday afternoon on Dixie Highway , near Wathen Lane , after a police officer was flagged down by a passing motorist who reported seeing two people fighting a block away . "
+Police records,state.01,officer arrived in,,Affirmative,Police records state an officer arrived in the area and saw Mcintosh loudly arguing with his brother . 
+an officer,see.01,Mcintosh loudly arguing with,,Affirmative,Police records state an officer arrived in the area and saw Mcintosh loudly arguing with his brother . 
+Christopher Mcintosh,argue.02,with,,Affirmative,Police records state an officer arrived in the area and saw Mcintosh loudly arguing with his brother . 
+Police records,say.01,Mcintosh was intoxicated,,Affirmative,Police records say Mcintosh was intoxicated and he admitted that he had been drinking . 
+he,admit.01,that he had been drinking,,Affirmative,Police records say Mcintosh was intoxicated and he admitted that he had been drinking . 
+An arrest report,state.01,that Mcintosh smelled strongly of alcohol,,Affirmative,An arrest report also states that Mcintosh smelled strongly of alcohol and that his speech was slurred . 
+Police,say.01,", Mcintosh allegedly struck",,Affirmative,"Police say that while an officer was attempting to resolve the incident , Mcintosh allegedly struck his brother in the mouth with a closed fist , while in front of the officer . "
+an officer,attempt.01,to resolve,,Affirmative,"Police say that while an officer was attempting to resolve the incident , Mcintosh allegedly struck his brother in the mouth with a closed fist , while in front of the officer . "
+an officer,resolve.01,the incident,,Affirmative,"Police say that while an officer was attempting to resolve the incident , Mcintosh allegedly struck his brother in the mouth with a closed fist , while in front of the officer . "
+Christopher Mcintosh,strike.01,his brother,with,Affirmative,"Police say that while an officer was attempting to resolve the incident , Mcintosh allegedly struck his brother in the mouth with a closed fist , while in front of the officer . "

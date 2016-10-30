@@ -1,0 +1,78 @@
+1	Copyright	copyright	NN	_	6	nn	_
+2	2014	0	CD	_	6	num	_
+3	Scripps	scripps	NNP	_	6	nn	_
+4	Media	media	NNP	_	6	nn	_
+5	,	,	,	_	6	punct	_
+6	Inc	inc	NNP	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	,	,	,	_	10	punct	_
+12	or	or	CC	_	10	cc	_
+13	redistributed	redistribute	VBN	p2=JJ|pb=redistribute.01	10	conj	_
+14	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	defendant	defendant	NN	_	3	nsubj	3:A1=PPT
+3	was	be	VBD	pb=be.01	21	ccomp	21:A1=PPT
+4	on	on	IN	_	3	prep	3:A2=PRD
+5	probation	probation	NN	_	4	pobj	_
+6	for	for	IN	_	3	prep	3:AM-TMP
+7	auto	auto	NN	_	8	nn	_
+8	theft	theft	NN	_	6	pobj	_
+9	and	and	CC	_	8	cc	_
+10	possession	possession	NN	_	8	conj	_
+11	of	of	IN	_	8	prep	_
+12	methamphetamine	methamphetamine	NN	_	11	pobj	_
+13	at	at	IN	_	3	prep	3:AM-TMP
+14	the	the	DT	_	15	det	_
+15	time	time	NN	_	13	pobj	_
+16	of	of	IN	_	15	prep	_
+17	the	the	DT	_	18	det	_
+18	crash	crash	NN	_	16	pobj	_
+19	,	,	,	_	21	punct	_
+20	Varela	varela	NNP	_	21	nsubj	21:A0
+21	said	say	VBD	pb=say.01	0	root	_
+22	.	.	.	_	21	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	2014	0	CD	_	1	npadvmod	_
+3	by	by	IN	_	1	prep	_
+4	City	city	NNP	_	6	nn	_
+5	News	news	NNP	_	6	nn	_
+6	Service	service	NNP	_	3	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+

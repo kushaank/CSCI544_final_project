@@ -1,0 +1,25 @@
+1	If	if	IN	_	4	mark	_
+2	Ukraine	ukraine	NNP	_	4	nsubj	4:A0=PAG
+3	can	can	MD	_	4	aux	4:AM-MOD
+4	hold	hold	VB	pb=hold.04	15	advcl	15:AM-ADV
+5	a	a	DT	_	7	det	_
+6	democratic	democratic	JJ	_	7	amod	_
+7	election	election	NN	_	4	dobj	4:A1=PPT
+8	for	for	IN	_	7	prep	_
+9	its	its	PRP$	_	10	poss	_
+10	president	president	NN	_	8	pobj	_
+11	next	next	JJ	p2=IN	12	amod	_
+12	Sunday	sunday	NNP	_	10	npadvmod	_
+13	,	,	,	_	15	punct	_
+14	there	there	EX	_	15	expl	_
+15	's	be	VBZ	pb=be.02	0	root	_
+16	a	a	DT	_	17	det	_
+17	hope	hope	NN	_	15	attr	15:A1=PPT
+18	it	it	PRP	_	20	nsubj	20:A1=PPT
+19	can	can	MD	_	20	aux	20:AM-MOD
+20	return	return	VB	pb=return.01	17	ccomp	_
+21	to	to	IN	_	20	prep	20:A4=GOL
+22	peaceful	peaceful	JJ	_	23	amod	_
+23	negotiations	negotiation	NNS	_	21	pobj	_
+24	.	.	.	_	15	punct	_
+

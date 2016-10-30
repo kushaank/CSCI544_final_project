@@ -1,0 +1,23 @@
+1	If	if	IN	_	7	mark	_
+2	the	the	DT	_	6	det	_
+3	Massachusetts	massachusetts	NNP	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	based	base	VBN	_	6	amod	_
+6	explorer	explorer	NN	p2=JJR	7	nsubj	7:A1=PPT
+7	is	be	VBZ	pb=be.01	12	advcl	12:AM-ADV
+8	right	right	JJ	_	7	acomp	7:A2=PRD
+9	,	,	,	_	12	punct	_
+10	the	the	DT	_	11	det	_
+11	discovery	discovery	NN	_	12	nsubj	12:A0=PAG
+12	marks	mark	VBZ	p2=NNS|pb=mark.01	0	root	_
+13	the	the	DT	_	17	det	_
+14	most	most	RBS	p2=JJS	16	advmod	_
+15	historically	historically	RB	_	16	advmod	_
+16	significant	significant	JJ	_	17	amod	_
+17	find	find	NN	p2=VBP	12	dobj	12:A1=PPT
+18	in	in	IN	_	17	prep	_
+19	modern	modern	JJ	_	21	amod	_
+20	ocean	ocean	NN	_	21	nn	_
+21	salvage	salvage	NN	_	18	pobj	_
+22	.	.	.	_	12	punct	_
+

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+China,send.01,five ships,,Affirmative,China is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+China,evacuate.01,Chinese nationals,from Vietnam,Affirmative,China is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+the first ship,set.01,sail,,Affirmative,"Already more than 3,000 people have been evacuated after the first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight . "
+injured Chinese nationals,leave.01,Vietnam,,Affirmative,"Already more than 3,000 people have been evacuated after the first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight . "
+Brendan Cole,speak.01,"Sachin Gavaskar ,",,Affirmative,"VoR 's Brendan Cole spoke Sachin Gavaskar , a journalist from Ho Chi Min City , in Southern Vietnam . "
+Sachin Gavaskar,tell.01,", there were hundreds of",VoR,Affirmative,"Gavaskar told VoR that in the key locations in Ho Chi Min City , there were hundreds of policemen and police vehicles . "
+This,affect.01,economy,,Affirmative,"This will definitely affect Vietnam 's economy , says Gavaskar . "
+"Sachin Gavaskar , a journalist from Ho Chi Min City",say.01,This will definitely affect,,Affirmative,"This will definitely affect Vietnam 's economy , says Gavaskar . "
+This,look.02,bad,,Affirmative,"It would have looked bad for the Vietnamese government if they did n't allow these showcases of patriotism , for its citizens to come out and protest against China , explains Gavaskar . "
+they,allow.01,these showcases of patriotism,,Affirmative,"It would have looked bad for the Vietnamese government if they did n't allow these showcases of patriotism , for its citizens to come out and protest against China , explains Gavaskar . "
+its citizens,protest.01,against China,,Affirmative,"It would have looked bad for the Vietnamese government if they did n't allow these showcases of patriotism , for its citizens to come out and protest against China , explains Gavaskar . "
+they,blame.01,the violence,on,Affirmative,They are blaming the violence on criminal gangs . 
+they,arrest.01,a couple of,,Affirmative,In fact they have arrested a couple of criminal gang leaders . 

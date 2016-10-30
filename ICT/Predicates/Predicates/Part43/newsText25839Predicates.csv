@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( AP ) Deutsche Bank,say.01,it is raising,,Affirmative,"FRANKFURT , Germany ( AP ) Deutsche Bank says it is raising 8 billion euros ( $ 11 billion ) in new capital from investors to strengthen its finances as it faces tighter regulation and seeks to invest in promising business areas . "
+"FRANKFURT , Germany",raise.01,billion euros (,,Affirmative,"FRANKFURT , Germany ( AP ) Deutsche Bank says it is raising 8 billion euros ( $ 11 billion ) in new capital from investors to strengthen its finances as it faces tighter regulation and seeks to invest in promising business areas . "
+"FRANKFURT , Germany",face.01,tighter regulation,,Affirmative,"FRANKFURT , Germany ( AP ) Deutsche Bank says it is raising 8 billion euros ( $ 11 billion ) in new capital from investors to strengthen its finances as it faces tighter regulation and seeks to invest in promising business areas . "
+"FRANKFURT , Germany",seek.01,to invest in,,Affirmative,"FRANKFURT , Germany ( AP ) Deutsche Bank says it is raising 8 billion euros ( $ 11 billion ) in new capital from investors to strengthen its finances as it faces tighter regulation and seeks to invest in promising business areas . "
+Deutsche Bank,say.01,it will raise,,Affirmative,The bank says it will raise 6.3 billion euros in a rights offering and has already secured 1.75 billion euros by placing shares with a single investor from Qatar . 
+Deutsche Bank,raise.01,billion euros,,Affirmative,The bank says it will raise 6.3 billion euros in a rights offering and has already secured 1.75 billion euros by placing shares with a single investor from Qatar . 
+Deutsche Bank,secure.01,billion euros,,Affirmative,The bank says it will raise 6.3 billion euros in a rights offering and has already secured 1.75 billion euros by placing shares with a single investor from Qatar . 
+Co-CEO Anshu Jain,tell.01,capital would also help,analysts,Affirmative,Co-CEO Anshu Jain told analysts Monday that the fresh capital would also help it meet unforeseen challenges that may be ahead . 
+the fresh capital,help.01,it meet,,Affirmative,Co-CEO Anshu Jain told analysts Monday that the fresh capital would also help it meet unforeseen challenges that may be ahead . 
+the fresh capital,meet.01,unforeseen challenges,,Affirmative,Co-CEO Anshu Jain told analysts Monday that the fresh capital would also help it meet unforeseen challenges that may be ahead . 
+The move,increase.01,"capital ratio ,",,Affirmative,"The move will increase the bank 's capital ratio , a key measure of financial strength , to 11.8 percent . "
+Banks across Europe,shed.01,risky investments,,Affirmative,Banks across Europe have been shedding risky investments and raising new capital as they seek to meet new regulatory standards . 
+Banks across Europe,raise.01,new capital,,Affirmative,Banks across Europe have been shedding risky investments and raising new capital as they seek to meet new regulatory standards . 
+analysts,seek.01,to meet,,Affirmative,Banks across Europe have been shedding risky investments and raising new capital as they seek to meet new regulatory standards . 
+analysts,meet.01,new regulatory standards,,Affirmative,Banks across Europe have been shedding risky investments and raising new capital as they seek to meet new regulatory standards . 
+you,watch.01,the latest news,,Affirmative,"In a few simple steps , you can read and watch the latest news or share it with family and friends by e-mail , text message and even post to Twitter and Facebook . "
+you,share.01,it,with family and friends,Affirmative,"In a few simple steps , you can read and watch the latest news or share it with family and friends by e-mail , text message and even post to Twitter and Facebook . "

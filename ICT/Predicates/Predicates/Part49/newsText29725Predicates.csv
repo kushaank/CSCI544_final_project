@@ -1,0 +1,48 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. Army,develop.02,a programming tool for,,Affirmative,"May 19 , 2014 : The U.S. Army is developing a programming tool for its troops that uses Android to create apps for military battlefield wireless networks . "
+a programming tool for,use.01,Android,to create apps for,Affirmative,"May 19 , 2014 : The U.S. Army is developing a programming tool for its troops that uses Android to create apps for military battlefield wireless networks . "
+ODIN,automate.01,the complex process,,Affirmative,"For example , one of the first apps developed , called ODIN that automates the complex process that allows the software controlled wireless networks being used by different units to quickly mesh with each other . "
+the complex process,allow.01,software controlled,,Affirmative,"For example , one of the first apps developed , called ODIN that automates the complex process that allows the software controlled wireless networks being used by different units to quickly mesh with each other . "
+the software,control.01,wireless networks,,Affirmative,"For example , one of the first apps developed , called ODIN that automates the complex process that allows the software controlled wireless networks being used by different units to quickly mesh with each other . "
+by,use.01,wireless networks,,Affirmative,"For example , one of the first apps developed , called ODIN that automates the complex process that allows the software controlled wireless networks being used by different units to quickly mesh with each other . "
+to mesh,take.10,hours,,Affirmative,"Before ODIN it took hours , or longer , to mesh two or more networks unless it was done by prearrangement . "
+by prearrangement,do.02,ODIN that automates the complex process that allows the software controlled wireless networks being used by different units to quickly mesh with each other,,Affirmative,"Before ODIN it took hours , or longer , to mesh two or more networks unless it was done by prearrangement . "
+MACE -LRB- Mounted Android Computing Environment -RRB-,allow.01,apps to be quickly converted,,Affirmative,MACE also allows most Android apps to be quickly converted to operate on army combat communications systems . 
+by troops,test.01,115 systems,,Affirmative,The final selection took place between 2012 and 2013 years as 115 systems were tested by troops and those found wanting ( most of them ) were dropped . 
+those found wanting,want.01,were dropped,,Affirmative,The final selection took place between 2012 and 2013 years as 115 systems were tested by troops and those found wanting ( most of them ) were dropped . 
+WIN-T,allow.01,"troops to simultaneously exchange text , data , video , and",,Affirmative,"WIN-T was designed to allow troops to simultaneously exchange text , data , video , and voice data using a new generation of radios . "
+combat troops,exchange.01,"text , data , video , and",,Affirmative,"WIN-T was designed to allow troops to simultaneously exchange text , data , video , and voice data using a new generation of radios . "
+The new gear,equip.01,individual troops,,Affirmative,The new gear equips individual troops as well as vehicles . 
+The commanders ',use.01,a handheld device or laptop,to view,Affirmative,Commanders can use a handheld device or laptop to view BFT locations . 
+The commanders ',view.01,BFT locations,,Affirmative,Commanders can use a handheld device or laptop to view BFT locations . 
+minefields or,post.01,The commanders ' app,,Affirmative,"The commanders ' app can also be used to take data from troops about enemy locations or where minefields or other obstacles are and post it , so that everyone else with JCR equipment can see and share it . "
+everyone else with,share.01,The commanders ' app,,Affirmative,"The commanders ' app can also be used to take data from troops about enemy locations or where minefields or other obstacles are and post it , so that everyone else with JCR equipment can see and share it . "
+Anyone with,see.01,where everyone was ( via,,Affirmative,"Anyone with a laptop , satellite data receiver , the right software , and access codes could then see where everyone was ( via a map showing blips for each BFT user ) . "
+a map showing blips for,show.01,blips for,,Affirmative,"Anyone with a laptop , satellite data receiver , the right software , and access codes could then see where everyone was ( via a map showing blips for each BFT user ) . "
+The spectacular success of BFT,get.01,the attention of generals everywhere,,Affirmative,The spectacular success of BFT got the attention of generals everywhere . 
+The U.S. Army,build.01,new versions of,,Affirmative,"Since 2003 , the U.S. Army built new versions of the BFT and this produced BFT 2 and now JCR . "
+this,produce.01,BFT 2 and,,Affirmative,"Since 2003 , the U.S. Army built new versions of the BFT and this produced BFT 2 and now JCR . "
+This single device,revolutionize.01,the way,,Affirmative,This single device has revolutionized the way commanders handle their troops in combat . 
+commanders,handle.01,the troops for the 2003 invasion of Iraq,,Affirmative,This single device has revolutionized the way commanders handle their troops in combat . 
+Company Command Post,give.01,the ability,a company commander,Affirmative,"Company Command Post gives a company commander the ability to quickly send and receive ( and sort out ) text , voice , and data with his troops ( three platoons consisting of nine squads and special teams of snipers and machine - guns ) . "
+this produced BFT 2 and now JCR,provide.01,The commanders ',,Affirmative,"This provides company commanders , using a laptop and other gear that can be carried while on foot , the same kind of command post capabilities previously restricted to battalion , brigade , and larger headquarters . "
+a third of its weight,have.03,a maximum output of,,Affirmative,"It has a maximum output of 20 watts and handles FM , UHF , and VHF signals , including satellite based communications . "
+a third of its weight,handle.01,"signals , including satellite",,Affirmative,"It has a maximum output of 20 watts and handles FM , UHF , and VHF signals , including satellite based communications . "
+20 kilometers,depend.01,on hills,,Affirmative,On the ground max range is 20 kilometers ( depending on hills and the antenna used ) . 
+The U.S.,use.01,PRC - 117,as,Affirmative,"The U.S. has been using the AN / PRC - 117 since the late 1990 s , as an interim radio , and found it a solid piece of equipment . "
+The U.S.,find.01,it a solid piece of equipment,,Affirmative,"The U.S. has been using the AN / PRC - 117 since the late 1990 s , as an interim radio , and found it a solid piece of equipment . "
+several foreign armed forces and,use.01,a commercial design (,,Affirmative,The AN / PRC - 117 is based on a commercial design ( the Falcon series ) that several foreign armed forces and many civilian operations use . 
+The RR,begin.01,the field tests,,Affirmative,The RR began field tests in 2010 . 
+the two watt RR,have.03,a range of,,Affirmative,"By itself , the two watt RR has a range of up to two kilometers . "
+then,form.01,"a mesh network ,",,Affirmative,"But it can also automatically form a mesh network , where all RRs within range of each other can pass on voice or data information . "
+aircraft,carry.01,a RR,,Affirmative,"The RR can also make use of an aerostat , UAV , or aircraft overhead carrying a RR to act as a communications booster ( to other RRs or other networks ) . "
+a RR,act.01,as,,Affirmative,"The RR can also make use of an aerostat , UAV , or aircraft overhead carrying a RR to act as a communications booster ( to other RRs or other networks ) . "
+a mesh network,enable.01,to sometimes eliminate carrying,troops,Affirmative,The mesh network enables troops to sometimes eliminate carrying a longer range ( and heavier ) AN / PRC - 117 for the platoon leader . 
+combat troops,eliminate.01,carrying,,Affirmative,The mesh network enables troops to sometimes eliminate carrying a longer range ( and heavier ) AN / PRC - 117 for the platoon leader . 
+combat troops,carry.01,a longer range ( and heavier,,Affirmative,The mesh network enables troops to sometimes eliminate carrying a longer range ( and heavier ) AN / PRC - 117 for the platoon leader . 
+"a ruggedized Android smart phone ,",handle.01,military communications,,Affirmative,"The new combat smart phone is a ruggedized Android smart phone , equipped to handle military communications via the mesh network . "
+This single device,supplement.01,PRC - 154,,Affirmative,This device will supplement the AN / PRC - 154 . 
+CS - 13,provide.01,"command post capabilities previously restricted to battalion , brigade , and larger headquarters",,Affirmative,"CS - 13 provides capabilities that , before September 11 , 2001 , where not expected until the 2020s . "
+all the American troops seeing combat in Iraq and Afghanistan,see.01,combat in Iraq and Afghanistan,,Affirmative,"But because of all the American troops seeing combat in Iraq and Afghanistan , there were opportunities to try out new equipment under combat conditions , and this accelerated the development process . "
+opportunities,try.03,new equipment,,Affirmative,"But because of all the American troops seeing combat in Iraq and Afghanistan , there were opportunities to try out new equipment under combat conditions , and this accelerated the development process . "
+this,accelerate.01,the development process,,Affirmative,"But because of all the American troops seeing combat in Iraq and Afghanistan , there were opportunities to try out new equipment under combat conditions , and this accelerated the development process . "

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Express News,report.01,Musharraf was exempted from appearing in court,,Affirmative,"KARACHI :  Former president General ( retd ) Pervez Musharraf was exempted from appearing in court on Monday to attend the proceedings of the Akbar Bugti murder case , Express News reported . "
+the court,summon.01,Musharraf,,Affirmative,"Summoning Musharraf on June 16 , the court ordered that the former military ruler 's guarantors should ensure his presence during future hearings . "
+guarantors,ensure.01,his presence,,Affirmative,"Summoning Musharraf on June 16 , the court ordered that the former military ruler 's guarantors should ensure his presence during future hearings . "
+by,indict.01,"Musharraf ,",for treason,Affirmative,"Musharraf , who has been indicted by a special court for treason , has been on bail in three other major cases dating to his time in power , including one relating to the 2006 assassination of Bugti  during a military operation . "
+Akbar Bugti, during.01,a military operation,,Affirmative,"Musharraf , who has been indicted by a special court for treason , has been on bail in three other major cases dating to his time in power , including one relating to the 2006 assassination of Bugti  during a military operation . "
+Akbar Bugti,lead.02,an armed campaign,,Affirmative,Bugti led an armed campaign to press for provincial autonomy and a greater share of profits from Balochistan 's natural resources . 
+His murder,spark.01,deadly nationwide protests,,Affirmative,His murder sparked deadly nationwide protests and inflamed an armed insurgency that rose up in 2004 . 
+His murder,inflame.01,an armed insurgency,,Affirmative,His murder sparked deadly nationwide protests and inflamed an armed insurgency that rose up in 2004 . 
+"Musharraf ,",lead.01,Pakistan,,Affirmative,"Musharraf , who led Pakistan from 1999 to 2008 , returned from self - imposed exile in March last year to fight in general elections , but was barred from taking part and has faced a barrage of legal cases including treason . "
+"Musharraf ,",face.01,a barrage of,,Affirmative,"Musharraf , who led Pakistan from 1999 to 2008 , returned from self - imposed exile in March last year to fight in general elections , but was barred from taking part and has faced a barrage of legal cases including treason . "
+we,encourage.01,you,to provide,Affirmative,For this reason we encourage you to provide your city . 
+you,provide.01,your city,,Affirmative,For this reason we encourage you to provide your city . 
+The Express Tribune,bear.01,any responsibility for,,Affirmative,The Express Tribune does not bear any responsibility for user comments . 

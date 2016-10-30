@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the last day investors,apply.01,for,,Affirmative,Tuesday May 20 is the last day investors can apply for Saga shares in the firm 's flotation . 
+direct investors,put.01,the shares,in,Affirmative,"For example , direct investors will not be able to put the shares in an Isa ; those who want to do this will have to use a broker , or transfer the shares to a broker at a later date . "
+those,want.01,to do this,,Affirmative,"For example , direct investors will not be able to put the shares in an Isa ; those who want to do this will have to use a broker , or transfer the shares to a broker at a later date . "
+those,do.02,this,,Affirmative,"For example , direct investors will not be able to put the shares in an Isa ; those who want to do this will have to use a broker , or transfer the shares to a broker at a later date . "
+those,use.01,a broker,,Affirmative,"For example , direct investors will not be able to put the shares in an Isa ; those who want to do this will have to use a broker , or transfer the shares to a broker at a later date . "
+those,transfer.01,the shares,to,Affirmative,"For example , direct investors will not be able to put the shares in an Isa ; those who want to do this will have to use a broker , or transfer the shares to a broker at a later date . "
+you,decide.01,to use,,Affirmative,"If you are not a Saga customer or employee and decide to use a broker , which one will be best ? "
+The answer,depend.01,on,,Affirmative,The answer depends on how long you will want to hold the shares . 
+you,want.01,to hold,,Affirmative,The answer depends on how long you will want to hold the shares . 
+you,hold.01,the shares,,Affirmative,The answer depends on how long you will want to hold the shares . 
+yourself a quick profit,buy.01,the shares,,Affirmative,"If you are buying shares to try to bag yourself a quick profit by selling on day one , you 'll just want a broker that has low dealing charges . "
+yourself a quick profit,want.01,a broker,,Affirmative,"If you are buying shares to try to bag yourself a quick profit by selling on day one , you 'll just want a broker that has low dealing charges . "
+a broker,have.03,low dealing charges,,Affirmative,"If you are buying shares to try to bag yourself a quick profit by selling on day one , you 'll just want a broker that has low dealing charges . "
+one of the lowest fees among participating brokers,charge.01,a percentage of,,Affirmative,It also charges a percentage of the value of the shares owned . 
+you,own.01,the shares,,Affirmative,"This is levied at the rate of 0.4pc a year , with a minimum of a month 's charge , even if you own the shares for just a few hours . "
+someone,sell.01,Saga shares,,Affirmative,"In other words , someone who sells Saga shares as soon as trading begins will pay a 12th of 0.4pc , 0.03pc , of the value on top of the £7.50 dealing fee . "
+someone,pay.01,"a 12th of 0.4pc , 0.03pc , of",,Affirmative,"In other words , someone who sells Saga shares as soon as trading begins will pay a 12th of 0.4pc , 0.03pc , of the value on top of the £7.50 dealing fee . "
+you,have.03,an account with,,Affirmative,"If you already have an account with another broker , you could use that instead . "
+you,use.01,that,,Affirmative,"If you already have an account with another broker , you could use that instead . "
+someone who sells Saga shares as soon as trading begins,deal.01,the dealing costs at,,Affirmative,"He are the dealing costs at the main brokers , compiled by Lang Cat , a consultancy . "
+by,compile.01,the dealing costs at,,Affirmative,"He are the dealing costs at the main brokers , compiled by Lang Cat , a consultancy . "
+you,care.01,about,,Affirmative,"Here , you wo n't care so much about the dealing commission but will want a broker that charges little or nothing to hold the shares . "
+you,want.01,a broker,,Affirmative,"Here , you wo n't care so much about the dealing commission but will want a broker that charges little or nothing to hold the shares . "
+a broker,charge.01,little or nothing,to hold,Affirmative,"Here , you wo n't care so much about the dealing commission but will want a broker that charges little or nothing to hold the shares . "
+a broker,hold.04,the shares,,Affirmative,"Here , you wo n't care so much about the dealing commission but will want a broker that charges little or nothing to hold the shares . "
+own direct service,levy.01,an annual charge,,Affirmative,Saga 's own direct service will not levy an annual charge and you can choose between an electronic account and having a share certificate . 
+AJ Bell Youinvest because it does not levy an annual fee,levy.01,an annual fee,,Affirmative,"Among the brokers , analysis by the Platforum , a consultancy , found that the lowest cost option was AJ Bell Youinvest because it does not levy an annual fee , whether or not you hold the shares in an Isa . "
+you,hold.03,the shares,,Affirmative,"Among the brokers , analysis by the Platforum , a consultancy , found that the lowest cost option was AJ Bell Youinvest because it does not levy an annual fee , whether or not you hold the shares in an Isa . "
+Other brokers,charge.01,a percentage of assets,,Affirmative,"Other brokers will charge a percentage of assets you hold or a flat annual charge , although Halifax and Hargreaves levy no charge if you have an ordinary trading account - in other words , not in an Isa . "
+you,hold.01,assets,,Affirmative,"Other brokers will charge a percentage of assets you hold or a flat annual charge , although Halifax and Hargreaves levy no charge if you have an ordinary trading account - in other words , not in an Isa . "
+Halifax and Hargreaves,levy.01,no charge,,Affirmative,"Other brokers will charge a percentage of assets you hold or a flat annual charge , although Halifax and Hargreaves levy no charge if you have an ordinary trading account - in other words , not in an Isa . "
+you,have.03,an ordinary trading account,,Affirmative,"Other brokers will charge a percentage of assets you hold or a flat annual charge , although Halifax and Hargreaves levy no charge if you have an ordinary trading account - in other words , not in an Isa . "
+the majority,accept.01,applications,,Affirmative,"No , but the majority will be accepting applications until 5 pm on Tuesday May 20 . "
+some notable names,take.01,part,,Affirmative,"There are some notable names not taking part in the float , such as TD Direct , NatWest Stockbrokers , Trustnet Direct and Fidelity Personal Investing . "
+anyone,hold.01,a magazine subscription,,Affirmative,"*Customers are defined as anyone who held a magazine subscription , or bought a Saga financial product or private health care policy between January 5 2013 and April 30 2014 or who booked or went on a Saga or Titan holiday or cruise between January 5 2011 and April 30 2014 . "
+*Customers,buy.01,a Saga financial product or,,Affirmative,"*Customers are defined as anyone who held a magazine subscription , or bought a Saga financial product or private health care policy between January 5 2013 and April 30 2014 or who booked or went on a Saga or Titan holiday or cruise between January 5 2011 and April 30 2014 . "

@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Tube driver,spark.01,a row,with,Affirmative,"A Tube driver has been suspended after sparking a row with a colleague over a poster of the Queen , it emerged today . "
+Line driver,object.01,to,,Affirmative,The argument broke out after a Central Line driver objected to the poster that his colleague had placed on the wall of a tube depot in east London . 
+a colleague over a poster of the Queen,place.01,a poster of the Queen,on,Affirmative,The argument broke out after a Central Line driver objected to the poster that his colleague had placed on the wall of a tube depot in east London . 
+London Underground bosses,suspend.01,the royalist driver,,Affirmative,London Underground bosses suspended the royalist driver and removed his poster as well as a photo of the monarch he had on his desk . 
+London Underground bosses,remove.01,his poster,,Affirmative,London Underground bosses suspended the royalist driver and removed his poster as well as a photo of the monarch he had on his desk . 
+the royalist driver,have.03,the monarch,,Affirmative,London Underground bosses suspended the royalist driver and removed his poster as well as a photo of the monarch he had on his desk . 
+Line worker,say.01,issue was about,,Affirmative,"But the Central Line worker who complained said the issue was about wider allegations of bullying and intimidation , including on social media . "
+The pair,belong.01,to,,Affirmative,The pair belong to rival unions  - the suspended driver being an Aslef member while the complainant is an RMT member . 
+The worker,say.01,has forced him,,Affirmative,The worker who complained said the stress involved with the case has forced him to take sick leave . 
+the stress involved with,force.01,the Central Line worker who complained,to take,Affirmative,The worker who complained said the stress involved with the case has forced him to take sick leave . 
+the Central Line worker who complained,take.01,sick leave,,Affirmative,The worker who complained said the stress involved with the case has forced him to take sick leave . 
+the Central Line worker who complained,tell.01,I 've had,the Evening Standard,Affirmative,He told the Evening Standard : I 've had a lot of time off work with stress with threats made against my family and my home . 
+the Central Line worker who complained,have.03,a lot of time,,Affirmative,He told the Evening Standard : I 've had a lot of time off work with stress with threats made against my family and my home . 
+union,brand.01,the suspension,' bizarre ',Affirmative,"The driver 's union has branded the suspension ' bizarre ' and wants the decision reversed , it emerged tonight . "
+union,want.01,decision reversed,,Affirmative,"The driver 's union has branded the suspension ' bizarre ' and wants the decision reversed , it emerged tonight . "
+Finn Brennan,say.01,worker denied,,Affirmative,Aslef 's Finn Brennan said the suspended worker denied all allegations of harassment adding : It is extraordinary that a public corporation under the control of Boris Johnson is instructing staff to remove photographs of the Queen . 
+the suspended worker,deny.01,all allegations of,,Affirmative,Aslef 's Finn Brennan said the suspended worker denied all allegations of harassment adding : It is extraordinary that a public corporation under the control of Boris Johnson is instructing staff to remove photographs of the Queen . 
+a public corporation under,instruct.01,staff,to remove photographs of,Affirmative,Aslef 's Finn Brennan said the suspended worker denied all allegations of harassment adding : It is extraordinary that a public corporation under the control of Boris Johnson is instructing staff to remove photographs of the Queen . 
+staff,remove.01,photographs of,,Affirmative,Aslef 's Finn Brennan said the suspended worker denied all allegations of harassment adding : It is extraordinary that a public corporation under the control of Boris Johnson is instructing staff to remove photographs of the Queen . 
+the Central Line worker who complained,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+the Central Line worker who complained,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 

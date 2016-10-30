@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,say.01,"were arrested ,",,Affirmative,"Police say a father , son and cousin were arrested , all of whom live together in the house where the shooting occurred . "
+Police,say.01,Arango showed up drunk at,,Affirmative,"They say Emmanuel Arango showed up drunk at the home , prompting his uncle Marco Osario , 82 , to kick him out at gunpoint . "
+Emmanuel Arango,prompt.01,his uncle,,Affirmative,"They say Emmanuel Arango showed up drunk at the home , prompting his uncle Marco Osario , 82 , to kick him out at gunpoint . "
+Emmanuel Arango,kick.01,Marco Osario,,Affirmative,"They say Emmanuel Arango showed up drunk at the home , prompting his uncle Marco Osario , 82 , to kick him out at gunpoint . "
+Emmanuel Arango,attack.01,Marco Osario,,Affirmative,Arango allegedly then violently attacked Marco Osario . 
+Emmanuel Arango,save.02,"a father , son and cousin",,Affirmative,Osario 's son Robinson then allegedly shot Arango to save his father . 
+A judge,issue.01,a protective order preventing Arango from moving back into,,Affirmative,A judge issued a protective order preventing Arango from moving back into the family home . 
+a protective order preventing Arango from moving back into,prevent.01,Emmanuel Arango,from moving back into,Affirmative,A judge issued a protective order preventing Arango from moving back into the family home . 
+The family,say.01,Osario did not appear in court,,Affirmative,The family says Marco Osario did not appear in court today because he is still in the hospital recovering from his injuries . 

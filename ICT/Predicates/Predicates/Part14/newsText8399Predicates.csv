@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the second,confirm.01,case in,,Affirmative,"The Florida MERS patient , the second confirmed case in the United States , was discharged from the hospital on Monday , while health officials say the Illinois patient is no longer infectious . "
+health officials,say.01,patient is,,Affirmative,"The Florida MERS patient , the second confirmed case in the United States , was discharged from the hospital on Monday , while health officials say the Illinois patient is no longer infectious . "
+health officials,say.01,he tested negative for,,Affirmative,"The 44 - year - old health care worker in Florida was released from the Dr. P. Phillips Hospital after officials said he tested negative for Middle East Respiratory Syndrome and had n't had a fever in over a week , reports WESH . "
+The 44-year-old health care worker in Florida,have.03,a fever,,Affirmative,"The 44 - year - old health care worker in Florida was released from the Dr. P. Phillips Hospital after officials said he tested negative for Middle East Respiratory Syndrome and had n't had a fever in over a week , reports WESH . "
+WESH,report.01,was released from,,Affirmative,"The 44 - year - old health care worker in Florida was released from the Dr. P. Phillips Hospital after officials said he tested negative for Middle East Respiratory Syndrome and had n't had a fever in over a week , reports WESH . "
+The 44-year-old health care worker in Florida,travel.01,to,,Affirmative,He contracted the coronavirus after traveling to Saudi Arabia . 
+a patient,feel.02,any effects from MERS,,Affirmative,"The third confirmed U.S. case , and a patient who barely felt any effects from MERS , in Illinois , was deemed to no longer be infectious , according to Reuters . "
+"Dr. LaMar Hasbrouck ,",say.01,virus is not in,,Affirmative,"What this means is , although the resident was infected at one time , if he sneezes or coughs , the virus is not in his nose or mouth and therefore can not be spread to others , said Dr. LaMar Hasbrouck , the Illinois Department of Public Health director . "
+the Illinois patient,suffer.01,he thought was,,Affirmative,"As previously reported , the Illinois patient never really got sick as he only suffered what he thought was a cold or allergy . "
+the Illinois patient,think.01,was,,Affirmative,"As previously reported , the Illinois patient never really got sick as he only suffered what he thought was a cold or allergy . "
+the Illinois patient,catch.01,the first case in the United States to have not contracted the virus from a trip to the Arabian Peninsula,,Affirmative,"He actually caught it after having two meetings with the first confirmed case , an Indiana man , before that person got sick . "
+the Illinois patient,have.03,two meetings with,,Affirmative,"He actually caught it after having two meetings with the first confirmed case , an Indiana man , before that person got sick . "
+No one,know.01,he had MERS,,Affirmative,No one even knew he had MERS until a second blood sample discovered antibodies . 
+the Illinois patient,have.03,"MERS , which is similar to SARS",,Affirmative,No one even knew he had MERS until a second blood sample discovered antibodies . 
+a second blood sample,discover.01,antibodies,,Affirmative,No one even knew he had MERS until a second blood sample discovered antibodies . 
+"MERS ,",infect.01,570 people,,Affirmative,"MERS , which is similar to SARS , has infected over 570 people since its discovery in 2012 . "
+the coronavirus,cause.01,"flu-like symptoms ,",,Affirmative,"The coronavirus causes flu-like symptoms , kidney failure , shortness of breath and can even develop into pneumonia . "

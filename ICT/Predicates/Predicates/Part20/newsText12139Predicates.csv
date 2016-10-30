@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Fisker Automotive,build.01,a new line of,,Affirmative,"Fisker Automotive is going to build a new line of electric vehicles ( EVs ) in the U.S. says its billionaire Chinese owner , who bought the bankrupt automaker in February . "
+"its billionaire Chinese owner ,",say.01,Automotive is going,,Affirmative,"Fisker Automotive is going to build a new line of electric vehicles ( EVs ) in the U.S. says its billionaire Chinese owner , who bought the bankrupt automaker in February . "
+"its billionaire Chinese owner ,",buy.01,the bankrupt automaker,,Affirmative,"Fisker Automotive is going to build a new line of electric vehicles ( EVs ) in the U.S. says its billionaire Chinese owner , who bought the bankrupt automaker in February . "
+"Wanxiang Group ,",have.03,profits,,Affirmative,"He is the chairman and founder of China 's Wanxiang Group , the country 's biggest auto parts manufacturer , which had profits last year of U.S. $ 1.3 billion . "
+Lu,win.01,Fisker,,Affirmative,"Lu won Fisker in a bidding war with other Chinese investors , paying $ 149.2 million . "
+Lu,pay.01,$ 149.2 million,,Affirmative,"Lu won Fisker in a bidding war with other Chinese investors , paying $ 149.2 million . "
+the failed automaker,assemble.02,its cars,,Affirmative,"When the failed automaker was under the control of founder Henrik Fisker , it assembled its cars in Finland . "
+Wanxiang Group,say.01,cars will be built in,,Affirmative,"Wanxiang Group says that when production resumes , its electric cars will be built in the U.S. Making this possible is that part of the Fisker holdings acquired by Lu 's company is a former General Motors assembly plant in Wilmington , Delaware . "
+founder Henrik Fisker,resume.01,production of,,Affirmative,"It 's believed Fisker first will resume production of its elegantly styled Karma , and then concentrate on new EV models - first for the U.S. market and then for China , where the government is moving to reduce massive air pollution in its major cities . "
+founder Henrik Fisker,concentrate.01,on,,Affirmative,"It 's believed Fisker first will resume production of its elegantly styled Karma , and then concentrate on new EV models - first for the U.S. market and then for China , where the government is moving to reduce massive air pollution in its major cities . "
+the government,reduce.01,massive air pollution,,Affirmative,"It 's believed Fisker first will resume production of its elegantly styled Karma , and then concentrate on new EV models - first for the U.S. market and then for China , where the government is moving to reduce massive air pollution in its major cities . "
+founder Henrik Fisker,run.02,into trouble,,Affirmative,Fisker first ran into trouble when deliveries of the Karma were delayed from 2009 to 2011 . 
+"A123 Systems ,",stop.01,production,,Affirmative,"But Fisker 's real woes began when A123 Systems , the Karma 's supplier of lithium - ion batteries , went broke under the weight of too many recalls and stopped production . "
+Lu won Fisker,acquire.01,most of,in,Affirmative,"In what he called buying brains , Lu also acquired most of A123's assets in a separate bankruptcy sale . "
+you,accept.01,our terms and conditions and,,Affirmative,"By adding a comment on the site , you accept our terms and conditions and our netiquette . "

@@ -1,0 +1,82 @@
+1	KARACHI	karachi	NNP	p2=FW	11	dep	_
+2	,	,	,	_	11	punct	_
+3	 	 	''	p2=:	11	punct	_
+4	Majlis-e-Wahdatul	majlis-e-wahdatul	NNP	p2=JJ	5	nn	_
+5	Muslimeen	muslimeen	NNP	_	11	nsubj	11:A0=PAG
+6	(	(	-LRB-	_	7	punct	_
+7	MWM	mwm	NNP	_	5	appos	_
+8	)	)	-RRB-	_	7	punct	_
+9	on	on	IN	_	11	prep	11:AM-TMP
+10	Monday	monday	NNP	_	9	pobj	_
+11	announced	announce	VBD	pb=announce.01	0	root	_
+12	it	it	PRP	_	14	nsubj	14:A0=PAG
+13	would	would	MD	_	14	aux	14:AM-MOD
+14	hold	hold	VB	pb=hold.04	11	ccomp	11:A1=PPT
+15	nationwide	nationwide	JJ	_	16	amod	_
+16	protest	protest	NN	_	14	dobj	14:A1=PPT
+17	on	on	IN	_	14	prep	14:AM-TMP
+18	Friday	friday	NNP	_	17	pobj	_
+19	against	against	IN	_	14	prep	14:A2=COM
+20	the	the	DT	_	21	det	_
+21	killing	killing	NN	_	19	pobj	_
+22	of	of	IN	_	21	prep	_
+23	Sherazi	sherazi	NNP	_	24	nn	_
+24	Imambargah	imambargah	NNP	_	25	nn	_
+25	caretaker	caretaker	NN	p2=NNP	22	pobj	_
+26	in	in	IN	_	21	prep	_
+27	Karachi	karachi	NNP	_	26	pobj	_
+28	.	.	.	_	11	punct	_
+
+1	A	a	DT	_	3	det	_
+2	MWM	mwm	NNP	p2=NN	3	nn	_
+3	spokesperson	spokesperson	NN	_	4	nsubj	4:A0
+4	said	say	VBD	pb=say.01	0	root	_
+5	that	that	IN	_	8	complm	_
+6	Shaukat	shaukat	NNP	_	7	nn	_
+7	Hussain	hussain	NNP	_	8	nsubj	8:A1=PPT;15:A1=PPT
+8	was	be	VBD	pb=be.01	4	ccomp	4:A1=PPT
+9	caretaker	caretaker	NN	p2=JJR	8	attr	8:A2=PRD
+10	of	of	IN	_	9	prep	_
+11	Sheerazi	sheerazi	NNP	_	12	nn	_
+12	Imamgarah	imamgarah	NNP	_	10	pobj	_
+13	and	and	CC	_	8	cc	_
+14	was	be	VBD	_	15	auxpass	_
+15	killed	kill	VBN	pb=kill.01	8	conj	_
+16	in	in	IN	_	15	prep	15:AM-LOC
+17	Methadar	methadar	NNP	p2=NN	16	pobj	_
+18	today	today	NN	_	15	npadvmod	15:AM-TMP
+19	.	.	.	_	4	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A0
+2	said	say	VBD	pb=say.01	0	root	_
+3	that	that	IN	_	5	complm	_
+4	MWM	mwm	NNP	_	5	nsubj	5:A0=PAG
+5	condemned	condemn	VBD	pb=condemn.01	2	ccomp	2:A1=PPT
+6	the	the	DT	_	7	det	_
+7	murder	murder	NN	_	5	dobj	5:A1=PPT
+8	of	of	IN	_	7	prep	_
+9	Shaukat	shaukat	NNP	_	10	nn	_
+10	Hussain	hussain	NNP	_	8	pobj	_
+11	and	and	CC	_	10	cc	_
+12	his	his	PRP$	_	13	poss	_
+13	guest	guest	NN	_	10	conj	_
+14	Qaiser	qaiser	NNP	_	15	nn	_
+15	Hussain	hussain	NNP	_	13	appos	_
+16	.	.	.	_	2	punct	_
+
+1	Get	get	VB	pb=get.01	0	root	_
+2	Social	social	NNP	p2=JJ	1	dobj	1:A1=PPT
+3	with	with	IN	_	1	prep	1:A2=DIR
+4	Us	us	PRP	p2=NNPS	3	pobj	_
+5	!	!	.	_	1	punct	_
+
+1	©	©	NNP	p2=''	0	root	_
+2	Onepakistan.com	#url#	ADD	_	3	nmod	_
+3	2012	0	CD	p2=LS	1	num	_
+4	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

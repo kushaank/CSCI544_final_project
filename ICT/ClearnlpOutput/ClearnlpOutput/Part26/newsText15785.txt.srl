@@ -1,0 +1,27 @@
+1	In	in	IN	p2=RP	12	prep	12:AM-TMP
+2	as	as	RB	_	5	advmod	_
+3	little	little	JJ	_	5	amod	_
+4	as	as	IN	_	5	quantmod	_
+5	18	0	CD	_	6	num	_
+6	months	month	NNS	_	1	pobj	_
+7	,	,	,	_	12	punct	_
+8	Sussex	sussex	NNP	p2=JJ	9	nn	_
+9	county	county	NN	_	10	nn	_
+10	residents	resident	NNS	_	12	nsubj	12:A0
+11	could	could	MD	_	12	aux	12:AM-MOD
+12	see	see	VB	pb=see.01	0	root	_
+13	a	a	DT	_	14	det	_
+14	decline	decline	NN	_	12	dobj	12:A1
+15	in	in	IN	_	14	prep	_
+16	ambulance	ambulance	NN	_	17	nn	_
+17	service	service	NN	_	15	pobj	_
+18	if	if	IN	_	25	mark	_
+19	new	new	JJ	_	21	amod	_
+20	funding	funding	NN	_	21	nn	_
+21	sources	source	NNS	_	25	nsubjpass	25:A1=PPT
+22	can	can	MD	_	25	aux	25:AM-MOD
+23	not	not	RB	_	25	neg	25:AM-NEG
+24	be	be	VB	_	25	auxpass	_
+25	found	find	VBN	pb=find.01	12	ccomp	_
+26	.	.	.	_	12	punct	_
+

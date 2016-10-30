@@ -1,0 +1,6 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A release from,state.01,dispatch received,,Affirmative,A release from the Sacramento County Sheriff 's Department stated 911 dispatch received a call from a man who told the operator he had an altercation with his mother . 
+911 dispatch,receive.01,a call from,,Affirmative,A release from the Sacramento County Sheriff 's Department stated 911 dispatch received a call from a man who told the operator he had an altercation with his mother . 
+a man,tell.01,he had,the operator,Affirmative,A release from the Sacramento County Sheriff 's Department stated 911 dispatch received a call from a man who told the operator he had an altercation with his mother . 
+the Sacramento County Sheriff 's,have.03,an altercation,,Affirmative,A release from the Sacramento County Sheriff 's Department stated 911 dispatch received a call from a man who told the operator he had an altercation with his mother . 
+deputies,find.01,woman dead inside,,Affirmative,"When deputies arrived at the home on the 8000 block of Silk Tree Way from which the call had originated , they found a 75 - year - old woman dead inside . "

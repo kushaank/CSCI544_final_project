@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Connecticut teenager Talia Maselli,dodge.01,a bullet,,Affirmative,"Connecticut teenager Talia Maselli dodged a bullet last week , after Joe Biden regretfully informed her that he would not be able to attend the high school prom she asked the vice president to seven months ago . "
+Joe Biden,inform.01,Connecticut teenager Talia Maselli,that he would not be able,Affirmative,"Connecticut teenager Talia Maselli dodged a bullet last week , after Joe Biden regretfully informed her that he would not be able to attend the high school prom she asked the vice president to seven months ago . "
+Joe Biden,attend.01,school prom,,Affirmative,"Connecticut teenager Talia Maselli dodged a bullet last week , after Joe Biden regretfully informed her that he would not be able to attend the high school prom she asked the vice president to seven months ago . "
+Connecticut teenager Talia Maselli,ask.02,to,the vice president,Affirmative,"Connecticut teenager Talia Maselli dodged a bullet last week , after Joe Biden regretfully informed her that he would not be able to attend the high school prom she asked the vice president to seven months ago . "
+Connecticut teenager Talia Maselli,warn.01,"refuse , she would ask",,Affirmative,"She also warned that should he refuse , she would ask Republican Speaker of the House John Boehner as a back - up date . "
+Connecticut teenager Talia Maselli,ask.01,as,John Boehner,Affirmative,"She also warned that should he refuse , she would ask Republican Speaker of the House John Boehner as a back - up date . "
+we,have.03,we,,Affirmative,"And we ca n't have that now can we , she wrote . "
+Connecticut teenager Talia Maselli,write.01,And we ca n't have that now,,Affirmative,"And we ca n't have that now can we , she wrote . "
+Connecticut teenager Talia Maselli,write.01,the letter,,Affirmative,Maselli wrote the letter back in October and never expected to receive a reply . 
+Connecticut teenager Talia Maselli,expect.01,to receive,,Affirmative,Maselli wrote the letter back in October and never expected to receive a reply . 
+Connecticut teenager Talia Maselli,open.01,a handwritten letter containing,,Affirmative,"So she was shocked ( and a little skeptical ) when she opened a handwritten letter containing a red , white and blue corsage last Thursday . "
+a handwritten letter containing,contain.01,corsage,,Affirmative,"So she was shocked ( and a little skeptical ) when she opened a handwritten letter containing a red , white and blue corsage last Thursday . "
+my schedule,permit.01,to be in Connecticut,me,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , Biden wrote . "
+Joe Biden,write.01,"I am flattered , but",,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , Biden wrote . "
+Joe Biden,hope.01,you will accept this corsage and enjoy,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+you,accept.01,this,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+you,enjoy.01,the high school prom she asked the vice president to seven months ago,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+Joe Biden,do.02,Joe Biden,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+ The vice president,invite.01,the girl,to visit,Affirmative, The vice president went on to invite the girl to visit the White House this summer . 
+the girl,visit.01,the White House,,Affirmative, The vice president went on to invite the girl to visit the White House this summer . 
+the girl to visit the White House,keep.02,"a red , white and blue corsage",,Affirmative,But she 's keeping the corsage fresh in her refrigerator and is gleefully awaiting her July visit with Uncle Joe . 

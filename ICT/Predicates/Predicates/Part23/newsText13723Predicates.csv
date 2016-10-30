@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+the I - Team,expose.01,a Chinese espionage case targeting,,Affirmative,"Seven years after the I - Team exposed a Chinese espionage case targeting suburban Motorola , the U.S. Justice Department announced Monday the other shoe is dropping . "
+a Chinese espionage case targeting,target.01,suburban Motorola,,Affirmative,"Seven years after the I - Team exposed a Chinese espionage case targeting suburban Motorola , the U.S. Justice Department announced Monday the other shoe is dropping . "
+the U.S. Justice Department,announce.01,shoe is dropping,,Affirmative,"Seven years after the I - Team exposed a Chinese espionage case targeting suburban Motorola , the U.S. Justice Department announced Monday the other shoe is dropping . "
+resident Hanjuan Jin,try.01,to smuggle,,Affirmative,"In February 2007 , Schaumburg resident Hanjuan Jin was caught red - handed by the FBI trying to smuggle military communication secrets to Beijing . "
+Her attorneys,try.01,to downplay,,Affirmative,Her attorneys tried to downplay the spy and espionage aspects of the case by framing it as a more common theft of corporate secrets . 
+Her attorneys,downplay.01,aspects of,,Affirmative,Her attorneys tried to downplay the spy and espionage aspects of the case by framing it as a more common theft of corporate secrets . 
+Her attorneys,frame.01,a Chinese espionage case,as,Affirmative,Her attorneys tried to downplay the spy and espionage aspects of the case by framing it as a more common theft of corporate secrets . 
+the I - Team,encounter.01,Jin,,Affirmative,"When the I - Team first encountered Jin in a Schaumburg parking lot , she did n't look like a spy and denied being one . "
+the I-Team,look.02,like,,Affirmative,"When the I - Team first encountered Jin in a Schaumburg parking lot , she did n't look like a spy and denied being one . "
+the I-Team,deny.01,being one,,Affirmative,"When the I - Team first encountered Jin in a Schaumburg parking lot , she did n't look like a spy and denied being one . "
+by,nab.01,Schaumburg resident Hanjuan Jin,,Affirmative,Jin was nabbed by federal agents at Chicago 's O'Hare International Airport . 
+prosecutors in Chicago,describe.01,Schaumburg resident Hanjuan Jin,as,Affirmative,Seven years ago prosecutors in Chicago described Jin as an intelligence operative for the Chinese government intent on stealing information from Motorola for use by China . 
+General Eric Holder,say.01,are unprecedented,,Affirmative,"Now , Attorney General Eric Holder said the espionage charges against actual Chinese military officials are unprecedented because it 's first time the U.S. government has ever accused another nation of Internet hacking . "
+the U.S. government,accuse.01,another nation of,,Affirmative,"Now , Attorney General Eric Holder said the espionage charges against actual Chinese military officials are unprecedented because it 's first time the U.S. government has ever accused another nation of Internet hacking . "
+the U.S. government,say.01,hackers used,,Affirmative,The U.S. government says the alleged hackers used unauthorized access and emails to steal secret and sensitive information from six American companies . 
+the alleged hackers,use.01,unauthorized access and emails,to steal,Affirmative,The U.S. government says the alleged hackers used unauthorized access and emails to steal secret and sensitive information from six American companies . 
+the alleged hackers,steal.01,information,from,Affirmative,The U.S. government says the alleged hackers used unauthorized access and emails to steal secret and sensitive information from six American companies . 
+Chuck Hagel,say.01,"You ca n't be ,",,Affirmative,"You ca n't be , Secretary of Defense Chuck Hagel said . "

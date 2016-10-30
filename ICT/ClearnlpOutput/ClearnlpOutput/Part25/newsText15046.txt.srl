@@ -1,0 +1,45 @@
+1	For	for	IN	_	5	prep	5:AM-PRP
+2	more	more	JJR	_	3	amod	_
+3	information	information	NN	_	1	pobj	_
+4	,	,	,	_	5	punct	_
+5	call	call	VB	p2=NN|pb=call.01	0	root	_
+6	Douglas	douglas	NNP	_	7	nn	_
+7	Cubbison	cubbison	NNP	_	5	dobj	5:A1=PPT
+8	,	,	,	_	7	punct	_
+9	museum	museum	NN	_	10	nn	_
+10	curator	curator	NN	_	7	appos	_
+11	,	,	,	_	7	punct	_
+12	at	at	IN	_	5	prep	5:AM-TMP
+13	472-1857	0	CD	_	12	pobj	_
+14	.	.	.	_	5	punct	_
+
+1	Copyright	copyright	NN	p2=NNP	0	root	_
+2	2014	0	CD	_	1	npadvmod	_
+3	CasperJournal.com	#url#	ADD	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+
+1	Username	username	NNP	p2=NN	0	root	_
+2	&	&	CC	_	1	cc	_
+3	Password	password	NNP	_	4	nn	_
+4	Required	required	NNP	p2=VBD	1	conj	_
+5	!	!	.	_	1	punct	_
+

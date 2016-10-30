@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+federal agents in Texas,seize.01,nine vehicles dating to 1947,from,Affirmative,"From an Edsel Ranger to two Chevrolet Bel Airs , federal agents in Texas have seized nine vehicles dating to 1947 from a Mexican marijuana smuggler with an apparent passion for classic American cars . "
+Samuel Avelar - Landeros,plead.02,guilty,,Affirmative,"Samuel Avelar - Landeros pleaded guilty in March in U.S. District Court in El Paso and agreed to pay $ 150,000 and forfeit his car collection . "
+Samuel Avelar - Landeros,agree.01,to pay,,Affirmative,"Samuel Avelar - Landeros pleaded guilty in March in U.S. District Court in El Paso and agreed to pay $ 150,000 and forfeit his car collection . "
+Samuel Avelar - Landeros,pay.01,"$ 150,000",,Affirmative,"Samuel Avelar - Landeros pleaded guilty in March in U.S. District Court in El Paso and agreed to pay $ 150,000 and forfeit his car collection . "
+Samuel Avelar - Landeros,forfeit.01,his car collection,,Affirmative,"Samuel Avelar - Landeros pleaded guilty in March in U.S. District Court in El Paso and agreed to pay $ 150,000 and forfeit his car collection . "
+"Avelar , 40 , a Mexican citizen",smuggle.01,100 kilograms of marijuana,,Affirmative,"Avelar , 40 , a Mexican citizen , admitted he smuggled more than 100 kilograms of marijuana from Mexico to the United States from July 2010 until he was indicted in June 2013 . "
+A jail report,list.01,"his hometown as Rogers , Arkansas",,Affirmative,"A jail report lists his hometown as Rogers , Arkansas . "
+The court records,give.01,a dollar value for,,Affirmative,The court records do not give a dollar value for the vehicles and prosecutors do not explain what Avelar was doing with so many cars or whether he used them to smuggle drugs . 
+"Avelar , 40 , a Mexican citizen",use.01,them,to smuggle drugs,Affirmative,The court records do not give a dollar value for the vehicles and prosecutors do not explain what Avelar was doing with so many cars or whether he used them to smuggle drugs . 
+"Avelar , 40 , a Mexican citizen",smuggle.01,drugs,,Affirmative,The court records do not give a dollar value for the vehicles and prosecutors do not explain what Avelar was doing with so many cars or whether he used them to smuggle drugs . 
+"His attorney ,",return.02,a call for comment,,Affirmative,"His attorney , Russell Aboud , of El Paso , did not return a call for comment . "
+His assistant,say.01,he was out of town,,Affirmative,His assistant said he was out of town all week and unavailable . 
+attorney,say.01,he needed,,Affirmative,"The sentencing was delayed after Avelar 's attorney said he needed more time to obtain financial records from Mexican banks to argue for a lower sentence , according to court documents . "
+Avelar 's attorney,need.01,more time,,Affirmative,"The sentencing was delayed after Avelar 's attorney said he needed more time to obtain financial records from Mexican banks to argue for a lower sentence , according to court documents . "
+Avelar 's attorney,obtain.01,financial records from,,Affirmative,"The sentencing was delayed after Avelar 's attorney said he needed more time to obtain financial records from Mexican banks to argue for a lower sentence , according to court documents . "
+Avelar 's attorney,argue.01,for,,Affirmative,"The sentencing was delayed after Avelar 's attorney said he needed more time to obtain financial records from Mexican banks to argue for a lower sentence , according to court documents . "
+The government,auction.02,vehicles and,,Affirmative,The government typically auctions vehicles and other property seized from convicted drug dealers but it is not clear when the vehicles might be sold . 

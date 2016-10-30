@@ -1,0 +1,33 @@
+1	Today	today	NN	_	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	edition	edition	NN	_	5	nsubjpass	5:A1=PPT
+4	is	be	VBZ	_	5	auxpass	_
+5	brought	bring	VBN	pb=bring.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	you	you	PRP	_	6	pobj	_
+8	by	by	IN	_	5	agent	5:A0=PAG
+9	EIN	ein	NNP	_	10	nn	_
+10	Presswire	presswire	NNP	_	8	pobj	_
+11	-	-	,	p2=:	10	punct	_
+12	a	a	DT	_	13	det	_
+13	service	service	NN	_	10	appos	14:A1=PPT
+14	dedicated	dedicate	VBN	pb=dedicate.01	13	partmod	_
+15	to	to	IN	_	14	prep	14:A2=GOL
+16	helping	help	VBG	pb=help.01	15	pcomp	_
+17	you	you	PRP	_	18	nsubj	18:A0=PAG
+18	get	get	VB	p2=VBP|pb=get.01	16	ccomp	16:A1=PPT
+19	your	your	PRP$	_	20	poss	_
+20	messages	message	NNS	_	21	nsubj	21:A1=PRD;23:A1=PPT
+21	published	publish	VBN	pb=publish.01	18	ccomp	18:A1=PPT
+22	and	and	CC	_	21	cc	_
+23	read	read	VBN	p2=VB|pb=read.01	21	conj	_
+24	online	online	RB	p2=JJ	23	advmod	23:AM-LOC
+25	.	.	.	_	5	punct	_
+
+1	Give	give	VB	pb=give.01	0	root	_
+2	EIN	ein	NNP	_	3	nn	_
+3	Presswire	presswire	NNP	p2=VB	1	iobj	1:A2=GOL
+4	a	a	DT	_	5	det	_
+5	try	try	NN	_	1	dobj	1:A1=PPT
+6	.	.	.	_	1	punct	_
+

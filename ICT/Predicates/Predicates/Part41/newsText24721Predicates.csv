@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+AstraZeneca,reject.01,a final takeover bid from,,Affirmative,LONDON -- The share price of British drugmaker AstraZeneca slumped on Monday after it rejected a final takeover bid from U.S. rival Pfizer worth US$ 117 billion . 
+AstraZeneca on Monday,reject.01,a final takeover bid from Pfizer,,Affirmative,"AstraZeneca on Monday rejected a final takeover bid from Pfizer that was pitched at 55 pounds per share , valuing the British firm at 69 billion pounds . "
+55 pounds per share,value.01,the British firm,at,Affirmative,"AstraZeneca on Monday rejected a final takeover bid from Pfizer that was pitched at 55 pounds per share , valuing the British firm at 69 billion pounds . "
+rival Pfizer,warn.01,that it would not proceed without,,Affirmative,"Pfizer had made an improved and final offer on Sunday , but warned that it would not proceed without a recommendation from AstraZeneca management . "
+The China Post,reserve.01,the right,,Affirmative,The China Post reserves the right to post or remove any comment for any reason without prior consent . 
+The China Post,remove.01,any comment for,,Affirmative,The China Post reserves the right to post or remove any comment for any reason without prior consent . 
+You,grant.01,the right,to,Affirmative,You hereby grant to The China Post the right to post your submissions in any way we see fit . 
+we,see.01,fit,,Affirmative,You hereby grant to The China Post the right to post your submissions in any way we see fit . 
+The China Post,make.02,assurances regarding,,Affirmative,The China Post makes no assurances regarding the accuracy of posted comments . 
+no assurances,regard.01,the accuracy of,,Affirmative,The China Post makes no assurances regarding the accuracy of posted comments . 
+Opinions,represent.01,the views of,,Affirmative,Opinions do not represent the views of The China Post . 

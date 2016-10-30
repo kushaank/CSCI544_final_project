@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Chief  Inspector Ramil Sarona ,",identify.01,the victims,as,Affirmative,"Chief  Inspector Ramil Sarona , Isabela Police chief , identified the victims as barangay tanod Melvin Tanghiyan , 42 , and his two children , Mary Nacelle , 13 , and Karen , 4 ; and neighbor Reynaldo Domingo , 45 , who allegedly brought the grenade to the victims ' house . "
+her father Melvin and sibling,sibling.01,Mary Nacelle,,Affirmative,"According to Sarona , Karen died on the spot while her father Melvin and sibling Mary Nacelle were dead on arrival when brought to a hospital . "
+Ramil Sarona,say.01,grenade exploded in,,Affirmative,"Sarona said only one grenade exploded in the victims ' house , contrary to the claims of Marilou , who insisted that two grenades went off . "
+"the claims of Marilou ,",insist.01,grenades went off,,Affirmative,"Sarona said only one grenade exploded in the victims ' house , contrary to the claims of Marilou , who insisted that two grenades went off . "
+Ramil Sarona,say.01,Domingo was drunk,,Affirmative,Sarona said Domingo was drunk when he went to the victims ' house to ask for help . 
+Reynaldo Domingo,ask.02,for help,,Affirmative,Sarona said Domingo was drunk when he went to the victims ' house to ask for help . 
+Reynaldo Domingo,ask.02,for,Melvin,Affirmative,"Domingo first asked Melvin for a cloth to tie around the grenade , but it was accidentally unpinned and went off . "
+Marilou Tanghiyan,claim.01,otherwise,,Affirmative,"On the other hand , Marilou claimed otherwise . "
+Marilou Tanghiyan,allege.01,sons were,,Affirmative,She alleged that Domingo 's two sons were the ones who allegedly threw a grenade at their home . 
+the ones,throw.01,a grenade,at,Affirmative,She alleged that Domingo 's two sons were the ones who allegedly threw a grenade at their home . 
+Marilou Tanghiyan,say.01,Domingo dropped,,Affirmative,"She further said Domingo dropped the grenade himself when he tried to escape , the blast of which tore his body into pieces . "
+Reynaldo Domingo,drop.01,the grenade,,Affirmative,"She further said Domingo dropped the grenade himself when he tried to escape , the blast of which tore his body into pieces . "
+Reynaldo Domingo,try.01,to escape,,Affirmative,"She further said Domingo dropped the grenade himself when he tried to escape , the blast of which tore his body into pieces . "
+the blast of which,tear.01,his body,,Affirmative,"She further said Domingo dropped the grenade himself when he tried to escape , the blast of which tore his body into pieces . "

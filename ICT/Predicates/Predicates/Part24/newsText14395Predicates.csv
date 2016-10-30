@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+the suspects,take.01,everything,,Affirmative,"The house is a mess , the aftermath of a burglary in which the suspects took everything they could . "
+Jessica,say.01,"Four TVs ,",,Affirmative,"Four TVs , a DVD , said Jessica . "
+The four suspects,break.04,through,,Affirmative,"The four suspects broke in through the back door and tried to take four TVs , various electronics and jewelry . "
+The four suspects,try.01,to take,,Affirmative,"The four suspects broke in through the back door and tried to take four TVs , various electronics and jewelry . "
+The four suspects,take.01,"four TVs ,",,Affirmative,"The four suspects broke in through the back door and tried to take four TVs , various electronics and jewelry . "
+A neighbor,call.02,911,,Affirmative,A neighbor called 911 and sheriff 's deputies responded before the suspects even pulled out of the driveway . 
+you,pay.01,attention,,Affirmative,"Thank you so much for paying attention and realizing they were next door , said Lydia . "
+Lydia,say.01,Thank you,,Affirmative,"Thank you so much for paying attention and realizing they were next door , said Lydia . "
+Neighbor Geno Simmons,recount.01,how deputies drew,,Affirmative,Neighbor Geno Simmons recounted how deputies drew their weapons to get the men to surrender . 
+deputies,draw.01,their weapons,,Affirmative,Neighbor Geno Simmons recounted how deputies drew their weapons to get the men to surrender . 
+deputies,get.01,men to surrender,,Affirmative,Neighbor Geno Simmons recounted how deputies drew their weapons to get the men to surrender . 
+They,say.01,Get out,,Affirmative,"They just came out the car and said , ' Get out the car . "
+he,say.01,Put,,Affirmative,"Put your hands up , ' he said . "
+the sisters,discover.01,something unusual,,Affirmative,"Once they were under arrest , the sisters discovered something unusual . "
+the sisters,purchase.01,the house,,Affirmative,"They say at least one of the suspects used to live in the home , until the sisters purchased the house last year . "

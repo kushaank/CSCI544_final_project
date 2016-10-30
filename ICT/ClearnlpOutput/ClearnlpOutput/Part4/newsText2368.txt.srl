@@ -1,0 +1,21 @@
+1	Amazon	amazon	NNP	_	2	nsubj	2:A0=PAG
+2	has	have	VBZ	pb=have.03	0	root	_
+3	a	a	DT	_	5	det	_
+4	new	new	JJ	_	5	amod	_
+5	feature	feature	NN	_	2	dobj	6:A0=PAG;2:A1=PPT
+6	allowing	allow	VBG	pb=allow.01	5	partmod	_
+7	Twitter	twitter	JJR	p2=NN	8	amod	_
+8	users	user	NNS	_	10	nsubj	10:A0=PAG
+9	to	to	TO	_	10	aux	_
+10	access	access	VB	pb=access.01	6	ccomp	6:A1=PPT
+11	the	the	DT	_	14	det	_
+12	online	online	JJ	p2=RB	14	amod	_
+13	retail	retail	JJ	p2=NN	14	amod	_
+14	site	site	NN	_	10	dobj	10:A1=PPT
+15	,	,	,	_	10	punct	_
+16	without	without	IN	_	10	prep	10:AM-MNR
+17	leaving	leave	VBG	pb=leave.01	16	pcomp	_
+18	the	the	DT	_	19	det	_
+19	forum	forum	NN	_	17	dobj	17:A1=DIR
+20	.	.	.	_	2	punct	_
+

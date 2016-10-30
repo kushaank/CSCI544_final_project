@@ -1,0 +1,127 @@
+1	Monday	monday	NNP	_	13	npadvmod	13:AM-TMP
+2	after	after	IN	_	13	prep	13:AM-TMP
+3	Indonesia	indonesia	NNP	_	7	poss	_
+4	's	's	POS	_	3	possessive	_
+5	second	#ord#	JJ	p2=RB	6	advmod	_
+6	largest	large	JJS	_	7	amod	_
+7	party	party	NN	_	2	pobj	_
+8	,	,	,	_	7	punct	_
+9	Golkar	golkar	NNP	p2=NN	7	appos	_
+10	,	,	,	_	13	punct	_
+11	Malaysian	malaysian	JJ	p2=NNP	12	amod	_
+12	ringgit	ringgit	NN	p2=VBP	13	nsubj	13:A0=PAG
+13	led	lead	VBD	pb=lead.02	0	root	_
+14	gains	gain	NNS	_	13	dobj	13:A1=PPT
+15	among	among	IN	_	13	prep	13:AM-ADV
+16	emerging	emerge	VBG	pb=emerge.01	18	amod	_
+17	Asian	asian	JJ	_	18	amod	_
+18	currencies	currency	NNS	_	15	pobj	16:A0=PPT
+19	.	.	.	_	13	punct	_
+
+1	former	former	JJ	_	4	amod	_
+2	general	general	JJ	p2=NN	4	nn	_
+3	Prabowo	prabowo	NNP	p2=NN	4	nn	_
+4	Subianto	subianto	NNP	_	0	root	_
+5	in	in	IN	_	4	prep	_
+6	July	july	NNP	_	9	poss	_
+7	's	's	POS	_	6	possessive	_
+8	presidential	presidential	JJ	_	9	amod	_
+9	election	election	NN	_	5	pobj	_
+10	,	,	,	_	9	punct	_
+11	former	former	JJ	_	13	amod	_
+12	vice	vice	NN	_	13	nn	_
+13	president	president	NN	_	9	appos	_
+14	,	,	,	_	13	punct	_
+15	Jusuf	jusuf	NNP	p2=RB	16	nn	_
+16	Kalla	kalla	NNP	_	13	appos	_
+17	as	as	IN	_	13	prep	_
+18	his	his	PRP$	_	20	poss	_
+19	running	run	VBG	p2=NN	20	nn	_
+20	mate	mate	NN	_	17	pobj	_
+21	.	.	.	_	4	punct	_
+
+1	Kalla	kalla	NNP	p2=FW	0	root	_
+2	onto	onto	IN	_	1	prep	_
+3	his	his	PRP$	_	4	poss	_
+4	ticket	ticket	NN	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	about	about	RB	p2=IN	2	advmod	_
+2	1	0	CD	_	3	num	_
+3	percent	percent	NN	p2=JJ	0	root	_
+4	,	,	,	_	3	punct	_
+5	due	due	IN	p2=JJ	3	prep	_
+6	to	to	IN	_	5	pcomp	_
+7	increased	increase	VBN	p2=VBD|pb=increase.01	9	amod	_
+8	political	political	JJ	_	9	amod	_
+9	uncertainty	uncertainty	NN	_	5	pobj	7:A1=PPT
+10	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	2	det	_
+2	rupiah	rupiah	NN	p2=NNP	5	poss	_
+3	's	's	POS	p2=VBZ	2	possessive	_
+4	non-deliverable	non-deliverable	JJ	_	5	amod	_
+5	forwards	forward	NNS	_	7	nsubj	7:A1=PPT
+6	also	also	RB	_	7	advmod	7:AM-DIS
+7	fell	fall	VBD	pb=fall.01	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	CIB	cib	NNP	p2=NN	0	root	_
+2	in	in	IN	_	1	prep	_
+3	Hong	hong	NNP	_	4	nn	_
+4	Kong	kong	NNP	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	lowers	lower	VBZ	pb=lower.01	0	root	_
+2	odds	odds	NNS	_	1	dobj	1:A1=PPT
+3	for	for	IN	_	1	prep	1:AM-PRP
+4	a	a	DT	_	6	det	_
+5	strong	strong	JJ	_	6	amod	_
+6	coalition	coalition	NN	_	3	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	"	"	``	p2=''	10	punct	_
+2	for	for	IN	_	0	root	_
+3	Jokowi	jokowi	NNP	p2=NNS	2	pobj	_
+4	in	in	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	presidential	presidential	JJ	_	7	amod	_
+7	election	election	NN	_	4	pobj	_
+8	on	on	IN	_	7	prep	_
+9	July	july	NNP	_	8	pobj	_
+10	9	0	CD	_	9	num	_
+11	.	.	.	_	2	punct	_
+
+1	surplus	surplus	NN	_	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	said	say	VBD	pb=say.01	0	root	_
+2	the	the	DT	_	4	det	_
+3	central	central	JJ	_	4	amod	_
+4	bank	bank	NN	_	6	nsubjpass	9:A0=PAG;6:A1=PAG;7:A1=PPT
+5	was	be	VBD	_	6	auxpass	_
+6	spotted	spot	VBN	pb=spot.01	1	ccomp	1:A1=PPT
+7	intervening	intervene	VBG	pb=intervene.01	6	xcomp	6:AM-PRD
+8	to	to	TO	_	9	aux	_
+9	stem	stem	VB	pb=stem.02	7	advcl	7:AM-PRP
+10	gains	gain	NNS	_	9	dobj	9:A1=PPT
+11	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	3	det	_
+2	Philippine	philippine	JJ	p2=NNP	3	amod	_
+3	peso	peso	NN	p2=TO	4	nsubj	4:A1
+4	advanced	advanced	VBD	p2=VBD|pb=advance.01	0	root	_
+5	on	on	IN	_	4	prep	4:AM-LOC
+6	firm	firm	JJ	p2=NN	7	amod	_
+7	stocks	stock	NNS	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	continuous	continuous	JJ	_	3	amod	_
+2	stock	stock	NN	_	3	nn	_
+3	inflows	inflow	NNS	_	0	root	_
+4	and	and	CC	_	3	cc	_
+5	exporters	exporter	NNS	_	7	poss	_
+6	'	'	POS	p2=''	5	possessive	_
+7	demand	demand	NN	_	3	conj	_
+8	.	.	.	_	7	punct	_
+

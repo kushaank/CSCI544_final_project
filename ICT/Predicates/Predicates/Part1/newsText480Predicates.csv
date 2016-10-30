@@ -1,0 +1,79 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Snecma ( Booth 5515,develop.02,the Silvercrest for,,Affirmative,"Snecma ( Booth 5515 ) is developing the Silvercrest for the Dassault Falcon 5X , while Pratt & Whitney Canada ( Booth 3834 ) has readied a new variant of the PW307 for the newly revealed Falcon 8X . "
+Pratt &,ready.01,a new variant of,,Affirmative,"Snecma ( Booth 5515 ) is developing the Silvercrest for the Dassault Falcon 5X , while Pratt & Whitney Canada ( Booth 3834 ) has readied a new variant of the PW307 for the newly revealed Falcon 8X . "
+based manufacturer,run.01,"the PW800 ,",,Affirmative,"The Québec - based manufacturer is also running the PW800 , a demonstrator in the 10,000 - to 20,000 - lb - thrust range . "
+GE ( Booth 5551,work.01,on,,Affirmative,GE ( Booth 5551 ) is working on its Passport engine for Bombardier 's Global 7000 and 8000 . 
+Only Honeywell ( Booth 6622,look.02,relatively quiet,,Affirmative,"Only Honeywell ( Booth 6622 ) looks relatively quiet , as its HTF7500E is closing in on certification , while Rolls - Royce ( Booth 5855 ) , which is producing engines for super-midsize to ultra-long-range jets but has no development ongoing , is thinking of the next generation . "
+Rolls - Royce ( Booth 5855,produce.01,engines,,Affirmative,"Only Honeywell ( Booth 6622 ) looks relatively quiet , as its HTF7500E is closing in on certification , while Rolls - Royce ( Booth 5855 ) , which is producing engines for super-midsize to ultra-long-range jets but has no development ongoing , is thinking of the next generation . "
+Rolls - Royce ( Booth 5855,have.03,no development ongoing,,Affirmative,"Only Honeywell ( Booth 6622 ) looks relatively quiet , as its HTF7500E is closing in on certification , while Rolls - Royce ( Booth 5855 ) , which is producing engines for super-midsize to ultra-long-range jets but has no development ongoing , is thinking of the next generation . "
+Rolls - Royce ( Booth 5855,think.01,of,,Affirmative,"Only Honeywell ( Booth 6622 ) looks relatively quiet , as its HTF7500E is closing in on certification , while Rolls - Royce ( Booth 5855 ) , which is producing engines for super-midsize to ultra-long-range jets but has no development ongoing , is thinking of the next generation . "
+Snecma -LRB- Booth 5515 -RRB-,say.01,Silvercrest is on time for certification,,Affirmative,Snecma says its Silvercrest is on time for certification next year . 
+ISA+20C ),power.01,the Dassault Falcon 5X,,Affirmative,"The 11,450 - lb - thrust engine ( at sea level , ISA+20C ) is to power the Falcon 5X . "
+thrust rated version,equip.01,the Cessna Longitude,,Affirmative,"A 11,000 - lb - thrust rated version is to equip the Cessna Longitude . "
+by,performed.01,"The modification , performed by",,Affirmative,"The modification , performed by Texas - based Sky Aerospace Technology ( in the same group as Sierra Industries ) , apparently has taken longer than expected , as the first flight was postponed several times last year . "
+"The modification , performed by",take.01,longer,,Affirmative,"The modification , performed by Texas - based Sky Aerospace Technology ( in the same group as Sierra Industries ) , apparently has taken longer than expected , as the first flight was postponed several times last year . "
+Snecma -LRB- Booth 5515 -RRB-,intend.01,to obtain,,Affirmative,"Snecma intends to obtain a permit to fly the modified aircraft in the U.S. , with one of its original Rolls - Royce Speys and one Silvercrest . "
+Snecma -LRB- Booth 5515 -RRB-,obtain.01,a permit,,Affirmative,"Snecma intends to obtain a permit to fly the modified aircraft in the U.S. , with one of its original Rolls - Royce Speys and one Silvercrest . "
+Snecma -LRB- Booth 5515 -RRB-,fly.01,the modified aircraft,,Affirmative,"Snecma intends to obtain a permit to fly the modified aircraft in the U.S. , with one of its original Rolls - Royce Speys and one Silvercrest . "
+We,need.01,flight tests for certification,,Affirmative,"We do n't need flight tests for certification but we want to reassure our airframers by operating the engine in realistic conditions , program general manager Laurence Finet said . "
+We,want.01,to reassure,,Affirmative,"We do n't need flight tests for certification but we want to reassure our airframers by operating the engine in realistic conditions , program general manager Laurence Finet said . "
+We,reassure.01,our airframers,,Affirmative,"We do n't need flight tests for certification but we want to reassure our airframers by operating the engine in realistic conditions , program general manager Laurence Finet said . "
+manager Laurence Finet,say.01,We do n't need,,Affirmative,"We do n't need flight tests for certification but we want to reassure our airframers by operating the engine in realistic conditions , program general manager Laurence Finet said . "
+Laurence Finet,say.01,testing allows,,Affirmative,"Finet also said the company finds such flight tests useful , too , because some differences exist with ground testing ; for example , flight testing allows aircraft attitude to be factored in . "
+the company,find.01,tests useful,,Affirmative,"Finet also said the company finds such flight tests useful , too , because some differences exist with ground testing ; for example , flight testing allows aircraft attitude to be factored in . "
+flight testing,allow.01,attitude to be factored in,,Affirmative,"Finet also said the company finds such flight tests useful , too , because some differences exist with ground testing ; for example , flight testing allows aircraft attitude to be factored in . "
+Laurence Finet,express.01,her confidence,,Affirmative,"Emissions and noise have not been measured yet but Finet expressed her confidence , as initial trials on the core engine had given encouraging results . "
+initial trials on,encourage.02,results,,Affirmative,"Emissions and noise have not been measured yet but Finet expressed her confidence , as initial trials on the core engine had given encouraging results . "
+Snecma -LRB- Booth 5515 -RRB-,target.01,percent cut in,,Affirmative,"Compared to exiting engines in this class , Snecma targets a 15 - percent cut in fuel burn , a 50 - percent margin below the CAEP6 NOx emission standard and a noise level 20 EPNdB below Stage 4 . "
+The assembly line,plan.01,to deliver,,Affirmative,"The assembly line is up and running , and it is planning to deliver the first engines to Dassault in the second half of this year . "
+The assembly line,deliver.01,the first engines,,Affirmative,"The assembly line is up and running , and it is planning to deliver the first engines to Dassault in the second half of this year . "
+"the PW800 , a demonstrator in the 10,000 - to 20,000-lb-thrust range",use.01,a core of,,Affirmative,The PW800 uses a core of the PW1000G geared turbofan series . 
+PW1000G,gear.01,geared turbofan series,,Affirmative,The PW800 uses a core of the PW1000G geared turbofan series . 
+Using,give.01,a head start,us,Affirmative,"Using a common core gives us a head start , as PW1000G engines will be in service with airlines before the PW800 is certified , he noted . "
+the PW1000G geared turbofan series,note.01,gives us,,Affirmative,"Using a common core gives us a head start , as PW1000G engines will be in service with airlines before the PW800 is certified , he noted . "
+The PW800 schedule revealed,call.03,for,,Affirmative,The PW800 schedule revealed last year calls for flight - tests this year . 
+Perodeau,disclose.01,the precise thrust of,,Affirmative,Perodeau would not disclose the precise thrust of the demonstrator . 
+Perodeau,say.01,It is,,Affirmative,"It is not pertinent , he said , as the technology is scalable within the 10,000 - to 20,000 - pound range . "
+PW800 designers,choose.01,just one,,Affirmative,"Three core sizes are already available in the PW1000G family , and PW800 designers had to choose just one . "
+"the PW800 , a demonstrator in the 10,000 - to 20,000-lb-thrust range",power.01,the Cessna Citation Columbus,,Affirmative,The PW800 was to power the Cessna Citation Columbus before that business jet was cancelled in July 2009 . 
+Perodeau,explain.01,is now waiting for,,Affirmative,Perodeau explained that Pratt & Whitney Canada is now waiting for an opportunity to arise - either a new - generation aircraft or an upgrade program . 
+The PW307 D,provide.01,"6,725 pounds of thrust at",,Affirmative,"The PW307 D provides 6,725 pounds of thrust at sea level , ISA+17C conditions . "
+This,represent.01,percent increase over,,Affirmative,This represents a 5 - percent increase over the 7X 's PW307A . 
+The three PW307Ds,power.01,the newly revealed Falcon 8X,,Affirmative,The three PW307Ds that will power the 8X on its first flight have already flown on Pratt & Whitney Canada 's Boeing 747 flying testbed . 
+GE -LRB- Booth 5551 -RRB-,run.01,"the first full Passport ,",,Affirmative,"Since the last EBACE , GE ran the first full Passport , which is the 16,500 - pound - thrust engine for Bombardier 's Global 7000 and Global 8000 . "
+the first campaign,complete.01,all test objectives,,Affirmative,"The first ground test took place on June 24 , 2013 , and the first campaign finished last August , completing all test objectives , according to Judd Tressler , director of Bombardier programs for GE . "
+The three PW307Ds that will power the 8X on its first flight,conduct.01,engine crosswind tests and,,Affirmative,"Also in 2013 , we conducted engine crosswind tests and two fan blade-out rig tests , successfully demonstrating fan blade-integrated disk [ blisk ] capability and composite fan - case containment characteristics , he said . "
+The three PW307Ds that will power the 8X on its first flight,demonstrate.01,containment characteristics,,Affirmative,"Also in 2013 , we conducted engine crosswind tests and two fan blade-out rig tests , successfully demonstrating fan blade-integrated disk [ blisk ] capability and composite fan - case containment characteristics , he said . "
+Judd Tressler,say.01,", we conducted",,Affirmative,"Also in 2013 , we conducted engine crosswind tests and two fan blade-out rig tests , successfully demonstrating fan blade-integrated disk [ blisk ] capability and composite fan - case containment characteristics , he said . "
+Ground testing in an altitude chamber,demonstrate.01,engine performance and operability from,,Affirmative,"It demonstrated engine performance and operability from sea level up to 51,000 feet . "
+We,finish.01,icing tests,,Affirmative,"We 're finishing engine icing tests at our Winnipeg icing facility - those tests began in March , Tressler said . "
+GE -LRB- Booth 5551 -RRB-,build.01,four full Passport engines,,Affirmative,"GE has built four full Passport engines and has another four , plus a dedicated core module , currently in the assembly process . "
+GE -LRB- Booth 5551 -RRB-,have.03,"another four , plus",,Affirmative,"GE has built four full Passport engines and has another four , plus a dedicated core module , currently in the assembly process . "
+GE -LRB- Booth 5551 -RRB-,plan.01,to run,,Affirmative,"For the development program , GE plans to run a total of nine engines with multiple builds of each . "
+GE -LRB- Booth 5551 -RRB-,run.01,a total of,,Affirmative,"For the development program , GE plans to run a total of nine engines with multiple builds of each . "
+multiple builds of each,run.01,"4,000 hours and",,Affirmative,"By entry into service , they will have run more than 4,000 hours and 8,000 cycles . "
+multiple builds of each,complete.01,multiple tests totaling,,Affirmative,"To date , we 've completed multiple tests totaling approximately 400 hours , 100 cycles and 200 starts , Tressler added . "
+Judd Tressler,add.01,", we 've completed",,Affirmative,"To date , we 've completed multiple tests totaling approximately 400 hours , 100 cycles and 200 starts , Tressler added . "
+Tressler and,expect.01,"certification to take place on time , in 2015",,Affirmative,"Therefore , Tressler and his team expect certification to take place on time , in 2015 . "
+GE -LRB- Booth 5551 -RRB-,target.01,percent reduction in,,Affirmative,GE is targeting an 8 - percent reduction in specific fuel consumption . 
+"Terry Sharp , president of",say.01,"facility in Burlington ,",,Affirmative,"facility in Burlington , North Carolina , said Terry Sharp , president of GE Honda Aero Engines . "
+The HF120,power.01,the HondaJet,,Affirmative,The HF120 powers the HondaJet very light jet . 
+a Honeywell spokesperson,answer.01,"the company ,",,Affirmative,"Asked about in-development engines , a Honeywell spokesperson answered that the company , ... "
+it,share.01,at,,Affirmative,does not have anything new or in the pipeline or significant updates it can share at this time . 
+it,expect.01,certification in June,,Affirmative,"Its latest business - jet engine development is the 6,000 - pound - thrust HTF7500E for the new Embraer Legacy 450 mid-light and Legacy 500 midsize jets , for which it is expecting certification in June . "
+Rolls - Royce,prepare.02,technologies,for,Affirmative,"Meanwhile , Rolls - Royce is preparing technologies for the next generation of business jet turbofans , and the design engineers ' motto seems to be smaller , faster , leaner . "
+one of,reduce.01,"fuel burn ,",,Affirmative,"As one of the main drivers is reducing fuel burn , the engine maker 's specialists in Dahlewitz , Germany , are endeavoring to make the core engine more compact . "
+A smaller core,aid.01,design of,greatly,Affirmative,A smaller core greatly aids design of a lighter engine . 
+it,feature.01,a pressure ratio of,,Affirmative,"Nevertheless , it will feature a pressure ratio of about 23:1 , much greater than the 16:1 currently on a Rolls - Royce business - jet engine ( and thus increasing efficiency ) . "
+The compressor,have.03,10 stages,,Affirmative,The compressor will have 10 stages and the turbine will have two . 
+smaller blades,create.01,a challenge -,,Affirmative,"However , smaller blades create a challenge - the need to prevent air leaks . "
+they,reposition.01,themselves,,Affirmative,"If blades are inserted into disk slots , there are still gaps , and as there already are gaps between each blade , during each run they can slightly reposition themselves and , therefore , tip clearance can slightly vary . "
+GE,do.02,on,,Affirmative,"Just as GE is doing on the Passport engine , Rolls - Royce is pursuing a blisk fan concept . "
+Rolls - Royce,pursue.01,a blisk fan concept,,Affirmative,"Just as GE is doing on the Passport engine , Rolls - Royce is pursuing a blisk fan concept . "
+Manufacturing,allow.01,a greater airflow and,,Affirmative,Manufacturing the blades and disk as one unit will allow a greater airflow and higher pressure ratios . 
+the UK company,target.01,lean burn for,,Affirmative,"Meanwhile , in combustion , the UK company is targeting lean burn for the long term . "
+Lean,mean.01,burning,,Affirmative,Lean burn combustion means burning the fuel in an excess of air to significantly reduce the formation of NOx . 
+The injectors,use.01,fuel staging,,Affirmative,"The injectors use fuel staging , with a pilot and a main fuel injector . "
+The pilot,maintain.01,combustion stability,,Affirmative,"The pilot maintains combustion stability at low power conditions , while the main injector reduces NOx emissions at high power conditions . "
+the main injector,reduce.01,NOx emissions,at,Affirmative,"The pilot maintains combustion stability at low power conditions , while the main injector reduces NOx emissions at high power conditions . "
+design engineers,see.01,major challenges in,,Affirmative,"However , design engineers see major challenges in the complexity of a fuel - staged system and the integration of controls . "

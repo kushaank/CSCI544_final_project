@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+group Eni,say.01,continued in line with,,Affirmative,MILAN May 19 ( Reuters ) - Italian oil and gas group Eni said on Monday production in Libya continued in line with the first quarter of 2014 and it had not started evacuating workers from the North African country . 
+Libya,start.01,evacuating workers from,,Affirmative,MILAN May 19 ( Reuters ) - Italian oil and gas group Eni said on Monday production in Libya continued in line with the first quarter of 2014 and it had not started evacuating workers from the North African country . 
+Libya,evacuate.01,its workers,,Affirmative,MILAN May 19 ( Reuters ) - Italian oil and gas group Eni said on Monday production in Libya continued in line with the first quarter of 2014 and it had not started evacuating workers from the North African country . 
+Eni,monitor.01,the situation in,,Affirmative,Eni is monitoring the situation in the country carefully ... 
+the company,say.01,production continues in line with,,Affirmative,"production continues in line with the first quarter , the company said in an emailed statement a day after gunmen loyal to a renegade army general stormed the country 's parliament . "
+army general stormed,storm.02,parliament,,Affirmative,"production continues in line with the first quarter , the company said in an emailed statement a day after gunmen loyal to a renegade army general stormed the country 's parliament . "
+Security concerns in Libya,prompt.02,state energy firm,to order,Affirmative,"Security concerns in Libya prompted Algeria 's state energy firm to order its workers to return from the neighbouring country , a source at the company said on Monday . "
+state energy firm,order.01,its workers,to return from,Affirmative,"Security concerns in Libya prompted Algeria 's state energy firm to order its workers to return from the neighbouring country , a source at the company said on Monday . "
+Eni,produce.01,"250,000 barrels of oil per day",,Affirmative,"Eni produced around 250,000 barrels of oil per day in Libya in the first quarter . "

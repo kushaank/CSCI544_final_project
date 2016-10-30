@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Spokesman Javier Camacho,tell.01,building is owned by,ABC - 7,Affirmative,"El Paso City development Spokesman Javier Camacho told ABC - 7 the building is owned by Minco Properties , but was currently unoccupied . "
+by,own.01,the building,,Affirmative,"El Paso City development Spokesman Javier Camacho told ABC - 7 the building is owned by Minco Properties , but was currently unoccupied . "
+El Paso City,deem.01,the area,,Affirmative,The city is deeming the area unsafe . 
+El Paso City development Spokesman Javier Camacho,say.01,city received,,Affirmative,"Camacho said the city received a plan to make the building a retail store last week , but after the collapse , more requirements will be needed before any plans move forward . "
+El Paso City,receive.01,a plan,,Affirmative,"Camacho said the city received a plan to make the building a retail store last week , but after the collapse , more requirements will be needed before any plans move forward . "
+El Paso City development Spokesman Javier Camacho,say.01,inspectors will be checking up on,,Affirmative,"He said city inspectors will be checking up on the building , putting up an exoskeleton to help support it . "
+city inspectors,check.01,on,,Affirmative,"He said city inspectors will be checking up on the building , putting up an exoskeleton to help support it . "
+city inspectors,put.11,an exoskeleton,,Affirmative,"He said city inspectors will be checking up on the building , putting up an exoskeleton to help support it . "
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

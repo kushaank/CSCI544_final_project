@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Test results,reveal.01,one was exposed to measles,,Affirmative,"PARMA , Ohio - Test results have revealed that no one was exposed to measles at two Parma schools recently , according to the Cuyahoga County Board of Health . "
+the Cuyahoga County Board of Health,say.01,"results twice came back negative , meaning",,Affirmative,"The Board of Health said test results twice came back negative , meaning there is no cause for concern that anyone at Parma Senior High School or Thoreau Park Elementary School was exposed to the disease . "
+the Cuyahoga County Board of Health,say.01,exposure was reported as,,Affirmative,"The possible exposure was reported as a precaution , the Board of Health said Monday , because someone exhibited symptoms similar to measles . "
+someone,exhibit.01,symptoms similar to measles,,Affirmative,"The possible exposure was reported as a precaution , the Board of Health said Monday , because someone exhibited symptoms similar to measles . "
+The Parma City Schools,tell.01,exposure might have happened between April 28 and May 2,parents,Affirmative,The Parma City Schools told parents earlier this month that the exposure might have happened between April 28 and May 2 . 
+The district,say.01,that it took precautions by sanitizing,,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+The district,take.10,precautions,,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+The district,sanitize.01,every school within,,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+The district,ask.02,to keep,parents,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+parents,keep.01,any children,,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+any children,show.01,symptoms of measles,,Affirmative,The district said earlier this month that it took precautions by sanitizing every school within the district and asking parents to keep any children who show symptoms of measles at home . 
+A measles outbreak in,infect.01,83 people,,Affirmative,"A measles outbreak in the Amish community in central Ohio , which has now infected 83 people , is the largest in the country since 1996 . "
+An outbreak of,infect.01,350 people around,,Affirmative,"An outbreak of another viral disease , mumps , has infected more than 350 people around Ohio State University recently . "
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+by,power.01,cleveland.com,,Affirmative,cleveland.com is powered by Plain Dealer Publishing Co. and Northeast Ohio Media Group . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

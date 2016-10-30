@@ -1,0 +1,58 @@
+1	PEN	pen	NNP	p2=XX	2	nn	_
+2	International	international	NNP	_	4	nsubj	4:A0=PAG
+3	is	be	VBZ	_	4	aux	_
+4	working	work	VBG	pb=work.01	0	root	_
+5	to revive	to revive	IN	p2=NNP	4	prep	4:AM-LOC
+6	the	the	DT	_	8	det	_
+7	PEN	pen	NNP	_	8	nn	_
+8	Center	center	NNP	_	5	pobj	_
+9	in	in	IN	_	8	prep	_
+10	Argentina	argentina	NNP	_	9	pobj	_
+11	,	,	,	_	4	punct	_
+12	after	after	IN	_	4	prep	4:AM-TMP
+13	years	year	NNS	_	12	pobj	_
+14	of	of	IN	_	13	prep	_
+15	indifference	indifference	NN	_	14	pobj	_
+16	in	in	IN	_	15	prep	_
+17	the	the	DT	_	18	det	_
+18	region	region	NN	_	16	pobj	_
+19	.	.	.	_	4	punct	_
+
+1	PEN	pen	NNP	p2=NN	3	nsubj	12:A0=PPT;3:A1=PPT
+2	has	have	VBZ	_	3	aux	_
+3	been	be	VBN	pb=be.01	0	root	_
+4	a	a	DT	_	5	det	_
+5	bit	bit	NN	_	3	attr	3:A2=PRD
+6	of	of	IN	_	5	prep	_
+7	a	a	DT	_	9	det	_
+8	class	class	NN	_	9	nn	_
+9	thing	thing	NN	_	6	pobj	_
+10	here	here	RB	_	9	advmod	_
+11	,	,	,	_	3	punct	_
+12	favoring	favor	VBG	pb=favor.01	3	advcl	3:AM-ADV
+13	belles	belle	NNS	p2=FW	12	dobj	12:A1=PAG
+14	-	-	HYPH	p2=,	13	punct	_
+15	lettres	lettres	NNS	_	13	appos	_
+16	over	over	IN	p2=RB	15	prep	_
+17	strong	strong	JJ	_	18	amod	_
+18	statements	statement	NNS	_	16	pobj	_
+19	.	.	.	_	3	punct	_
+
+1	James	james	NNP	p2=NNS	2	nn	_
+2	Tennant	tennant	NNP	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	10	ccomp	_
+4	the	the	DT	_	6	det	_
+5	Literary	literary	NNP	_	6	nn	_
+6	Manager	manager	NNP	_	3	attr	3:A2=PRD
+7	,	,	,	_	10	punct	_
+8	PEN	pen	NNP	_	9	nn	_
+9	International and	international and	NNP	_	10	nsubj	10:A1=PPT
+10	is	be	VBZ	pb=be.01	0	root	_
+11	poetry	poetry	NN	p2=JJ	12	nn	_
+12	editor	editor	NN	_	10	attr	10:A2=PRD
+13	of	of	IN	_	12	prep	_
+14	The	the	DT	p2=NNP	16	det	_
+15	White	white	NNP	_	16	nn	_
+16	Review	review	NNP	_	13	pobj	_
+17	.	.	.	_	10	punct	_
+

@@ -1,0 +1,14 @@
+
+Tamr , a Cambridge-based startup emerged from stealth today with a coming-out party at the DataBeat conference in San Francisco. Tamr also announced $16 million in funding from Google Ventures and New Enterprise Associates.
+
+Tamr is a new product that sits on top of a company’s database collection and, using machine intelligence, explores all of a company’s databases providing a single view across all of the systems, something that company co-founder Andy Palmer explained to me was difficult to do until now.
+
+Working in a similar fashion to a search indexing tool, Tamr finds all of the databases in the company and then delivers a report of any similar types of data. Palmer explained that the machine-learning part, only takes you part of the way there, though. Once Tamr has finished inventorying the data, it delivers a report, which requires human intervention to interpret. For example, it might understand that a five-digit ZIP code and a nine-digit ZIP code are both ZIP codes, but it can’t be sure, so it gives a confidence level that the data is similar, and it’s up to humans to figure out if the connection should be made or not.
+
+If a human, usually in the form of a database administrator or someone from the line of business who is familiar with the data types, determines that the two fields or columns are in fact similar types of data, he or she can then map the two together giving a more holistic view of the data than you might have gotten otherwise. Palmer said the ability to empower the lines of business that understand the data is really key. Until now, this has tended to be IT-driven, and while they understood the database technology, they didn’t necessarily understand the meaning of the underlying data.
+
+Palmer explained another problem is that most companies look at their database collections as a steady state and they are actually constantly changing. This could happen because you simply add a new data type, or you gain new databases as part of a merger or when your company signs up for a commercial data source. In the past, he said, it was so complicated to combine data sources that they often stayed separate and the companies failed to gain the knowledge they could have gotten from understanding the entire data set.
+
+Palmer said this ability to look across the entire data set and find connections could give companies an advantage over those who may be looking at data sets in isolation without knowing there are other data sources with similar information that could give them a more complete picture.
+
+As Miner pointed out, every company has more data than they can manage and Tamr provides the ability to leverage more of their information.

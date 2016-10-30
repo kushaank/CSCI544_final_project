@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The office of,say.01,he has ordered troops deployed in regions near Ukraine,,Affirmative,The office of Russian President Vladimir Putin says he has ordered troops deployed in regions near Ukraine to return to their home bases . 
+Russian President Vladimir Putin,order.01,troops deployed in regions near Ukraine,,Affirmative,The office of Russian President Vladimir Putin says he has ordered troops deployed in regions near Ukraine to return to their home bases . 
+the Kremlin,say.01,have been ordered back to,,Affirmative,"In a statement released Monday , the Kremlin said that troops involved in planned spring exercises in the Rostov , Belgorod and Bryansk regions have been ordered back to their barracks . "
+The West,criticize.01,Russia,for deploying,Affirmative,"The West has criticized Russia for deploying about 40,000 troops near the border with Ukraine and demanded they pull back . "
+Russia,deploy.01,"40,000 troops",,Affirmative,"The West has criticized Russia for deploying about 40,000 troops near the border with Ukraine and demanded they pull back . "
+The West,demand.01,they pull back,,Affirmative,"The West has criticized Russia for deploying about 40,000 troops near the border with Ukraine and demanded they pull back . "
+Russian President Vladimir Putin,claim.01,troops had been withdrawn,,Affirmative,"Putin has previously claimed that the troops had been withdrawn , but the United States and NATO said they saw no sign of that . "
+the United States and NATO,say.01,they saw,,Affirmative,"Putin has previously claimed that the troops had been withdrawn , but the United States and NATO said they saw no sign of that . "
+"40,000 troops near the border with Ukraine",see.01,no sign of that,,Affirmative,"Putin has previously claimed that the troops had been withdrawn , but the United States and NATO said they saw no sign of that . "

@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+General Eric Holder,announce.01,jury has charged,,Affirmative,Attorney General Eric Holder announced that a US grand jury has charged five Chinese hackers with economic espionage and trade secret theft . 
+a US grand jury,charge.05,five Chinese hackers,with,Affirmative,Attorney General Eric Holder announced that a US grand jury has charged five Chinese hackers with economic espionage and trade secret theft . 
+five Chinese hackers,target.01,industries,,Affirmative,"According to the indictment announced Monday , hackers targeted the U.S. nuclear power , metals and solar products industries and are accused of stealing trade secrets and economic espionage . "
+Holder,say.01,come on,,Affirmative,"The charges against the Chinese military officials come on the heels of a separate worldwide operation over the weekend that resulted in the arrest of 97 people in 16 countries who are suspected of developing , distributing or using malicious software called BlackShades , Holder said . "
+The software,allow.01,criminals to gain,,Affirmative,The software allows criminals to gain surreptitious control of personal computers . 
+criminals,gain.02,surreptitious control of,,Affirmative,The software allows criminals to gain surreptitious control of personal computers . 
+These two cases,show.01,that we are stepping up,,Affirmative,"'' These two cases show that we are stepping up our cyber enforcement efforts really around the globe , '' Holder said , adding that the U.S. will not tolerate these activities . "
+we,step.03,our cyber enforcement efforts,,Affirmative,"'' These two cases show that we are stepping up our cyber enforcement efforts really around the globe , '' Holder said , adding that the U.S. will not tolerate these activities . "
+Holder,say.01,cases show,,Affirmative,"'' These two cases show that we are stepping up our cyber enforcement efforts really around the globe , '' Holder said , adding that the U.S. will not tolerate these activities . "
+These two cases,add.01,U.S. will not tolerate,,Affirmative,"'' These two cases show that we are stepping up our cyber enforcement efforts really around the globe , '' Holder said , adding that the U.S. will not tolerate these activities . "
+the U.S.,tolerate.01,these activities,,Affirmative,"'' These two cases show that we are stepping up our cyber enforcement efforts really around the globe , '' Holder said , adding that the U.S. will not tolerate these activities . "
+U.S. officials,assert.03,had launched attacks on,,Affirmative,"U.S. officials have previously asserted that China 's army and China - based hackers had launched attacks on American industrial and military targets , often to steal secrets or intellectual property . "
+army and,launch.01,attacks on,,Affirmative,"U.S. officials have previously asserted that China 's army and China - based hackers had launched attacks on American industrial and military targets , often to steal secrets or intellectual property . "
+China,say.01,that it faces,,Affirmative,"China has said that it faces a major threat from hackers , and the country 's military is believed to be among the biggest targets of the NSA and U.S. Cyber Command . "
+it,face.01,a major threat from hackers,,Affirmative,"China has said that it faces a major threat from hackers , and the country 's military is believed to be among the biggest targets of the NSA and U.S. Cyber Command . "
+the Chinese government,respect.01,justice system,,Affirmative,"'' It is our hope that the Chinese government will respect our criminal justice system , '' Holder said . "
+Holder,say.01,'' It is,,Affirmative,"'' It is our hope that the Chinese government will respect our criminal justice system , '' Holder said . "
+The indictment,put.01,a greater strain on,,Affirmative,The indictment will put a greater strain on the U.S . 
+Beijing,complain.01,is emboldening,,Affirmative,"For its part , Beijing complains that the Obama administration 's attempt to redirect its foreign policy toward Asia after a decade of war in the Middle East is emboldening China 's neighbors and causing tension . "
+The hackers,steal.01,emails and,,Affirmative,The hackers allegedly stole emails and other communications that could have helped Chinese firms learn the strategies and weaknesses of American companies involved in litigation with the Chinese government or Chinese firms . 
+other communications,help.01,firms learn,,Affirmative,The hackers allegedly stole emails and other communications that could have helped Chinese firms learn the strategies and weaknesses of American companies involved in litigation with the Chinese government or Chinese firms . 
+Chinese firms,learn.01,the strategies and weaknesses of,,Affirmative,The hackers allegedly stole emails and other communications that could have helped Chinese firms learn the strategies and weaknesses of American companies involved in litigation with the Chinese government or Chinese firms . 
+least one of,downplay.01,the hacking,,Affirmative,"Despite the ominous - sounding allegations , at least one of the firms downplayed the hacking . "
+President Barack Obama,discuss.01,cybersecurity issues,with,Affirmative,"Last September , President Barack Obama discussed cybersecurity issues on the sidelines of a summit in St. Petersburg , Russia , with Chinese President Xi Jinping . "
+You,read.01,10 free articles,,Affirmative,You can now read 10 free articles . 
+you,subscribe.01,to BostonGlobe.com,,Affirmative,"Read the stories that matter to you as much as you want , whenever you want when you subscribe to BostonGlobe.com . "
+you,enter.01,The login information,,Affirmative,The login information you entered does not match an account in our records . 
+you,have.03,a subscription,,Affirmative,"If you do n't have a subscription , you can view our digital offers here . "
+you,view.02,our digital offers,,Affirmative,"If you do n't have a subscription , you can view our digital offers here . "
+We,send.01,an e-mail with,you,Affirmative,We 'll send you an e-mail with a link to reset your password . 

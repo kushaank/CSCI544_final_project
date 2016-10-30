@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Amtrak,suspend.01,service,,Affirmative,Amtrak suspends service at BWI for ' police activity ' Amtrak trains to Baltimore-Washington International Thurgood Marshall Airport were halted for more than an hour Sunday night after police found a suspicious package at the station . 
+police,find.01,a suspicious package,,Affirmative,Amtrak suspends service at BWI for ' police activity ' Amtrak trains to Baltimore-Washington International Thurgood Marshall Airport were halted for more than an hour Sunday night after police found a suspicious package at the station . 
+spokesman Sgt. Jonathan Green,say.01,package was determined,,Affirmative,Maryland Transportation Authority police spokesman Sgt. Jonathan Green said the package was determined to be non-hazardous and that police had responded out of an abundance of caution . 
+Amtrak,tell.01,would be delayed for,passengers,Affirmative,Amtrak told passengers around 9:30 p.m. that all trains traveling both north and south would be delayed for about 30 minutes to an hour . 
+all trains traveling,travel.01,both north and south,,Affirmative,Amtrak told passengers around 9:30 p.m. that all trains traveling both north and south would be delayed for about 30 minutes to an hour . 
+the company,say.01,Trains were moving by,,Affirmative,"Trains were moving by 10:37 p.m. , the company said . "
+"Craig Schultz ,",say.01,were affected by,,Affirmative,"Craig Schultz , an Amtrak spokesman , said in an email that four trains carrying about 1,000 people were affected by the delay . "
+four trains carrying,carry.01,"1,000 people",,Affirmative,"Craig Schultz , an Amtrak spokesman , said in an email that four trains carrying about 1,000 people were affected by the delay . "
+by,affect.01,four trains carrying,,Affirmative,"Craig Schultz , an Amtrak spokesman , said in an email that four trains carrying about 1,000 people were affected by the delay . "
+Passengers headed south on,say.01,they were allowed,,Affirmative,"Passengers headed south on a train from Philadelphia said they were allowed to exit their train at the Halethorpe station , where it had stopped . "
+Passengers headed south on a train from Philadelphia,exit.01,a train,,Affirmative,"Passengers headed south on a train from Philadelphia said they were allowed to exit their train at the Halethorpe station , where it had stopped . "

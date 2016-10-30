@@ -1,0 +1,112 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A HAMPSHIRE MP,warn.01,documentary may leave residents feeling,,Affirmative,A HAMPSHIRE MP has warned that a controversial documentary may leave residents feeling they have been misrepresented . 
+a controversial documentary,leave.01,residents feeling,,Affirmative,A HAMPSHIRE MP has warned that a controversial documentary may leave residents feeling they have been misrepresented . 
+residents feeling,feel.02,they have been misrepresented,,Affirmative,A HAMPSHIRE MP has warned that a controversial documentary may leave residents feeling they have been misrepresented . 
+"John Denham , MP for",voice.01,his fears over,,Affirmative,"John Denham , MP for Southampton Itchen , voiced his fears over how communities in Southampton may react once the sequel to Benefits Streets - understood to be called Immigration Street - hits our television screens . "
+communities in Southampton,react.01,the sequel to,,Affirmative,"John Denham , MP for Southampton Itchen , voiced his fears over how communities in Southampton may react once the sequel to Benefits Streets - understood to be called Immigration Street - hits our television screens . "
+Immigration Street,hit.01,our television screens,,Affirmative,"John Denham , MP for Southampton Itchen , voiced his fears over how communities in Southampton may react once the sequel to Benefits Streets - understood to be called Immigration Street - hits our television screens . "
+a series,prompt.01,criticism of,,Affirmative,"As previously reported , Love Productions , the film company behind Benefits Street - a series which prompted criticism of how it portrayed residents living on benefits - has started filming in St Mary's . "
+Love Productions,portray.01,the residents,,Affirmative,"As previously reported , Love Productions , the film company behind Benefits Street - a series which prompted criticism of how it portrayed residents living on benefits - has started filming in St Mary's . "
+"Love Productions ,",start.01,filming in,,Affirmative,"As previously reported , Love Productions , the film company behind Benefits Street - a series which prompted criticism of how it portrayed residents living on benefits - has started filming in St Mary's . "
+City leaders,criticise.01,the planned production,,Affirmative,"City leaders have already roundly criticised the planned production , saying they fear it could risk race relations within the city 's diverse communities . "
+City leaders,say.01,they fear,,Affirmative,"City leaders have already roundly criticised the planned production , saying they fear it could risk race relations within the city 's diverse communities . "
+City leaders,fear.01,it could risk,,Affirmative,"City leaders have already roundly criticised the planned production , saying they fear it could risk race relations within the city 's diverse communities . "
+the planned production,risk.01,race relations within,,Affirmative,"City leaders have already roundly criticised the planned production , saying they fear it could risk race relations within the city 's diverse communities . "
+Mr Denham,believe.01,Southampton is bigger than,,Affirmative,"However , Mr Denham believes Southampton is bigger than any television programme . "
+He,say.01,It is,,Affirmative,He said : It is more likely that people will watch this programme and feel that their community has been unfairly represented . 
+people 's,watch.01,this programme,,Affirmative,He said : It is more likely that people will watch this programme and feel that their community has been unfairly represented . 
+people 's,feel.02,community has been unfairly represented,,Affirmative,He said : It is more likely that people will watch this programme and feel that their community has been unfairly represented . 
+The Southampton Council of Faith,continue.01,to urge people,,Affirmative,The Southampton Council of Faith continues to urge people to use caution when speaking to the production teams . 
+The Southampton Council of Faith,urge.01,people 's,to use caution,Affirmative,The Southampton Council of Faith continues to urge people to use caution when speaking to the production teams . 
+people 's,use.01,caution,,Affirmative,The Southampton Council of Faith continues to urge people to use caution when speaking to the production teams . 
+"Mr Denham ,",praise.01,the work of,,Affirmative,"At the meeting Mr Denham , who was guest speaker , also praised the work of the council . "
+the meeting Mr,speak.01,of,,Affirmative,He spoke of how the charity had helped keep different communities talking to each other and fostering integration among the city 's diverse neighbourhoods . 
+the charity,help.01,keep,,Affirmative,He spoke of how the charity had helped keep different communities talking to each other and fostering integration among the city 's diverse neighbourhoods . 
+the charity,keep.02,different communities talking to,,Affirmative,He spoke of how the charity had helped keep different communities talking to each other and fostering integration among the city 's diverse neighbourhoods . 
+the meeting Mr,recognize.01,the many challenges,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+people in,face.01,rising number attending,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+people in,attend.01,food banks,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+the meeting Mr,say.01,had helped,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+the work of leaders of,help.01,to attack those,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+the work of leaders of,attack.01,those,,Affirmative,"He recognised the many challenges people in different communities face - rising number attending food banks , questions about immigration and community cohesion - but said that the work of leaders of different faiths had helped to attack those . "
+Mr Denham,say.01,then you have,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+the many challenges people in different communities,want.01,to believe,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+the many challenges people in different communities,believe.01,that we are,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+Mr Denham,think.01,we are,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+the many challenges people in different communities,want.01,to have shared values,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+the many challenges people in different communities,share.01,values,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+values,help.01,us work together,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+He,engage.01,people 's,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+by faith,motivate.01,people 's,,Affirmative,"Mr Denham said : If we want to believe that we are one society , which I think we are , if we want to have shared values that help us work together then you have to engage people , and that is done primarily when they are motivated by faith . "
+spokesman,say.01,Street sparked,,Affirmative,"When contacted previously by the Daily Echo , a Channel 4 spokesman said : Benefits Street sparked an important debate about the welfare system . "
+Benefits Street,spark.01,an important debate about,,Affirmative,"When contacted previously by the Daily Echo , a Channel 4 spokesman said : Benefits Street sparked an important debate about the welfare system . "
+fearfull the dwindling majority,see.01,exactly the kind of city,,Affirmative,Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+fearfull the dwindling majority,see.01,exactly the kind of city,,Affirmative,Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+fearfull the dwindling majority,see.01,exactly the kind of city,,Affirmative,Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+fearfull the dwindling majority,see.01,exactly the kind of city we live in,,Affirmative,[ quote ] [ p ] [ bold ] issacchunt [ / bold ] wrote : Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+fearfull the dwindling majority,see.01,exactly the kind of city,,Affirmative,Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+people 's,have.03,nothing untoward,,Affirmative,"Just like Benefit Street , if people have nothing untoward to hide then nothing untoward will be shown . "
+people 's,hide.01,will be shown,,Affirmative,"Just like Benefit Street , if people have nothing untoward to hide then nothing untoward will be shown . "
+The filming in Birmingham,show.01,are really like and,,Affirmative,The filming in Birmingham showed what some of the residents are really like and they did n't like the truth . 
+some of the residents,like.01,the truth,,Affirmative,The filming in Birmingham showed what some of the residents are really like and they did n't like the truth . 
+a Celebrity ' are a true-to-life documentary,think.01,it stirs up trouble,,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+The filming in Birmingham,stir.04,trouble,,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+The filming in Birmingham,bring.01,the truth,to light,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+a Celebrity ' are a true-to-life documentary,find.01,programme interesting,,Affirmative,I actually found the programme interesting as it exposed the life of people on benefits . 
+this programme,expose.01,the life of people on benefits,,Affirmative,I actually found the programme interesting as it exposed the life of people on benefits . 
+the children,eat.01,basic foods,,Affirmative,Tax payers money being used to buy alcohol and fags whilst the children have to eat basic foods . 
+some of those,have.03,jobs,,Affirmative,"On the positive side , after watching the interviews and debates afterwards , some of those now have jobs and some have had benefits stopped , so the programme actually was positive . "
+some,have.03,benefits,,Affirmative,"On the positive side , after watching the interviews and debates afterwards , some of those now have jobs and some have had benefits stopped , so the programme actually was positive . "
+fearfull the dwindling majority,see.01,exactly the kind of city,,Affirmative,Mr Denham much like council is fearfull the dwindling majority will see exactly the kind of city we live in . 
+they going to ship in actors,wishy.01,heart liberal,,Affirmative,"You wishy washy bleeding heart liberal , so are they going to ship in actors or will we see a true example of people living in a given area of this city . "
+we,see.01,a true example of people living in,,Affirmative,"You wishy washy bleeding heart liberal , so are they going to ship in actors or will we see a true example of people living in a given area of this city . "
+Mr Denham,know.01,only to well,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+Mark Thomas,find.01,a back bone,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+You,vote.01,for,,Affirmative,You vote for this man this is the spineless commons member you get . 
+you,get.01,the spineless commons member,,Affirmative,You vote for this man this is the spineless commons member you get . 
+Mr Denham,know.01,only to well,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+Mark Thomas,find.01,a back bone,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+You,vote.01,for,,Affirmative,You vote for this man this is the spineless commons member you get . 
+you,get.01,the spineless commons member,,Affirmative,You vote for this man this is the spineless commons member you get . 
+Mr Denham,know.01,only to well,,Affirmative,"[ quote ] [ p ] [ bold ] mike coll [ / bold ] wrote : Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+Mark Thomas,find.01,a back bone,,Affirmative,"[ quote ] [ p ] [ bold ] mike coll [ / bold ] wrote : Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+You,vote.01,for,,Affirmative,You vote for this man this is the spineless commons member you get . 
+you,get.01,the spineless commons member,,Affirmative,You vote for this man this is the spineless commons member you get . 
+Mark Thomas,get.01,to interview,,Affirmative,[ / p ] [ / quote ] What right has Mark Thomas got to interview anybody Lone Ranger . 
+Mark Thomas,interview.01,anybody Lone Ranger,,Affirmative,[ / p ] [ / quote ] What right has Mark Thomas got to interview anybody Lone Ranger . 
+Mr Denham,know.01,only to well,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+Mark Thomas,find.01,a back bone,,Affirmative,"Well Denham knows only to well how the power of the media , Mark Thomas is still waiting for him to find a back bone and be interviewed . "
+You,vote.01,for,,Affirmative,You vote for this man this is the spineless commons member you get . 
+you,get.01,the spineless commons member,,Affirmative,You vote for this man this is the spineless commons member you get . 
+"This ' spineless ' man ,",resign.01,his ministerial post in protest at,,Affirmative,"This ' spineless ' man , when in government , resigned his ministerial post in protest at the Iraq war . "
+This ` spineless ' man,put.01,principle,above,Affirmative,He put principle above personal gain and ambition . 
+a pity more of,do.02,the same,,Affirmative,It 's a pity more of our politicians do n't do the same . 
+a Celebrity ' are a true-to-life documentary,think.01,it stirs up trouble,,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+his ministerial post,stir.04,trouble,,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+his ministerial post,bring.01,the truth,to light,Affirmative,"I do n't think it stirs up trouble , it just brings the truth to light . "
+a Celebrity ' are a true-to-life documentary,find.01,programme interesting,,Affirmative,I actually found the programme interesting as it exposed the life of people on benefits . 
+this programme,expose.01,the life of people on benefits,,Affirmative,I actually found the programme interesting as it exposed the life of people on benefits . 
+the children,eat.01,basic foods,,Affirmative,Tax payers money being used to buy alcohol and fags whilst the children have to eat basic foods . 
+some of those,have.03,jobs,,Affirmative,"On the positive side , after watching the interviews and debates afterwards , some of those now have jobs and some have had benefits stopped , so the programme actually was positive . "
+some,have.03,benefits,,Affirmative,"On the positive side , after watching the interviews and debates afterwards , some of those now have jobs and some have had benefits stopped , so the programme actually was positive . "
+a Celebrity ' are a true-to-life documentary,understand.01,your point,,Affirmative,"I understand your point IronLady , and it would be fine if this were a company that made genuine documentary films - let 's say like Panorama , or something by Louis Theroux . "
+a company,make.01,genuine documentary films,,Affirmative,"I understand your point IronLady , and it would be fine if this were a company that made genuine documentary films - let 's say like Panorama , or something by Louis Theroux . "
+the company,make.02,these programmes,,Affirmative,The point here is that the company that makes these programmes has one ambition only . 
+the company,have.03,one ambition only,,Affirmative,The point here is that the company that makes these programmes has one ambition only . 
+making company,get.01,much profit as possible,,Affirmative,"That ambition is to turn people 's lives into ' entertainment ' , in order to maximise viewing figures , which in turn lead to advertising revenues , so that ultimately the film - making company gets as much profit as possible . "
+a company that made genuine documentary films - let 's say like Panorama,mean.01,that there is nothing objective about,,Affirmative,This means that there is nothing objective about the programmes which end up being made and broadcast . 
+No thinking person,believe.01,that ' Made in Chelsea,,Affirmative,No thinking person believes that ' Made in Chelsea ' or ' I 'm a Celebrity ' are a true - to - life documentary ( at least I hope not ! ) 
+by,make.LV,anything,,Affirmative,"Nor is anything that 's made by Love Films , who made Benefits Street . "
+"Love Films ,",make.01,Benefits Street,,Affirmative,"Nor is anything that 's made by Love Films , who made Benefits Street . "
+Made,try.01,to reflect,,Affirmative,"It 's naive to think that they are trying to reflect an objective reality - they 're not , they 're far more cynical , and commercially - minded , than that . "
+you,make.02,a documentary about immigration,,Affirmative,"If you 're going to make a documentary about immigration in Southampton , I 'd have thought basing it here in Shirley would be the obvious choice , given that it 's got a higher concentration of Polish people than anywhere else in the UK if I recall correctly . "
+a Celebrity ' are a true-to-life documentary,think.01,would be,,Affirmative,"If you 're going to make a documentary about immigration in Southampton , I 'd have thought basing it here in Shirley would be the obvious choice , given that it 's got a higher concentration of Polish people than anywhere else in the UK if I recall correctly . "
+"the obvious choice , given that it 's got a higher concentration of Polish people than anywhere else in the UK",get.02,a higher concentration of,,Affirmative,"If you 're going to make a documentary about immigration in Southampton , I 'd have thought basing it here in Shirley would be the obvious choice , given that it 's got a higher concentration of Polish people than anywhere else in the UK if I recall correctly . "
+a Celebrity ' are a true-to-life documentary,like.01,my home district and,,Affirmative,"I like my home district and my Polish fellow Shirleyites , and I 'm sure it would n't portray the area fairly . "
+my home district,portray.01,a given area of this city,,Affirmative,"I like my home district and my Polish fellow Shirleyites , and I 'm sure it would n't portray the area fairly . "
+We,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+you,enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+We,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+We,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+you,agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+We,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

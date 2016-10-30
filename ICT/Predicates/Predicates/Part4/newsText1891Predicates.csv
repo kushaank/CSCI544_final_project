@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A BAHRAINI teenager,plant.01,a bomb targeting policemen,,Affirmative,"A BAHRAINI teenager who died in an explosion on Friday was planting a bomb targeting policemen , it has been revealed . "
+a bomb targeting policemen,target.01,policemen,,Affirmative,"A BAHRAINI teenager who died in an explosion on Friday was planting a bomb targeting policemen , it has been revealed . "
+Residents,alert.01,police,,Affirmative,"Residents alerted police after hearing a loud explosion and when officers arrived on the scene , they saw an injured person being carried away . "
+Residents,hear.01,a loud explosion,,Affirmative,"Residents alerted police after hearing a loud explosion and when officers arrived on the scene , they saw an injured person being carried away . "
+officers,see.01,person being carried away,,Affirmative,"Residents alerted police after hearing a loud explosion and when officers arrived on the scene , they saw an injured person being carried away . "
+An initial examination of,reveal.01,bloodstains on,,Affirmative,An initial examination of the area revealed bloodstains on the ground as well as damage to a car and the wall of a house . 
+The Interior Ministry,say.01,was still ongoing and,,Affirmative,The Interior Ministry said yesterday that an investigation into the explosion was still ongoing and the full details were not known . 
+sources,confirm.01,Akrawi was in,to,Affirmative,"However , sources confirmed to the GDN that Mr Al Akrawi was in the process of planting an explosive when he was fatally injured . "
+A BAHRAINI teenager who died in an explosion on Friday,place.01,a bomb targeting policemen,,Affirmative,"The teenager was placing a bomb targeting policemen when it exploded , the source said . "
+a bomb targeting policemen,target.01,policemen,,Affirmative,"The teenager was placing a bomb targeting policemen when it exploded , the source said . "
+the source,say.01,teenager was placing,,Affirmative,"The teenager was placing a bomb targeting policemen when it exploded , the source said . "
+A BAHRAINI teenager who died in an explosion on Friday,sustain.02,multiple critical injuries in,,Affirmative,He sustained multiple critical injuries in the blast . 
+his right leg,leave.01,leg,,Affirmative,"His face was completely damaged , left eye severely injured , his right leg blown off and left leg seriously injured . "
+no more details,get.01,reports from CID and,,Affirmative,Details will be revealed after getting reports from CID and Public Prosecution . 
+The GDN,report.01,confession,,Affirmative,The GDN reported yesterday Mr Al Akrawi 's mother 's confession that her son was a member of the outlawed terrorist group Coalition of February 14 . 
+by,upload.01,a YouTube video uploaded by,,Affirmative,"In a YouTube video uploaded by the group , she described her son 's death as a sacrifice for Bahrain . "
+yesterday Mr Al Akrawi 's mother 's,describe.01,death,as,Affirmative,"In a YouTube video uploaded by the group , she described her son 's death as a sacrifice for Bahrain . "
+cousin,say.01,that they had received,,Affirmative,"Mr Al Akrawi 's cousin said yesterday that they had received his death certificate , which confirms that he died of critical injuries in an explosion . "
+they,receive.01,"his death certificate ,",,Affirmative,"Mr Al Akrawi 's cousin said yesterday that they had received his death certificate , which confirms that he died of critical injuries in an explosion . "
+"his death certificate ,",confirm.01,that he died of,,Affirmative,"Mr Al Akrawi 's cousin said yesterday that they had received his death certificate , which confirms that he died of critical injuries in an explosion . "
+His parents,lose.03,their only son,,Affirmative,"His parents are in deep shock , as they lost their only son , the cousin said . "
+Mr Al Akrawi 's cousin,say.01,parents are in,,Affirmative,"His parents are in deep shock , as they lost their only son , the cousin said . "
+police,reveal.01,details about,,Affirmative,We are also waiting for police to reveal details about the explosion . 
+they,admit.01,that Ali was involved in rioting and vandalism,,Affirmative,"We admit that Ali was involved in rioting and vandalism , but we have no clue how he got involved in this blast . "
+they,have.03,no clue,,Affirmative,"We admit that Ali was involved in rioting and vandalism , but we have no clue how he got involved in this blast . "
+by authorities,release.01,body,,Affirmative,"Mr Al Akrawi 's body was released by authorities yesterday and buried in Wadiyan graveyard , Sitra . "
+His parents,maintain.01,Akrawi was,,Affirmative,His parents maintain that Mr Al Akrawi was an innocent victim and prayed for his soul to rest in peace . 

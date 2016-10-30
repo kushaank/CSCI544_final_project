@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"officer Richard Soares ,",receive.01,light sentence,,Affirmative,"Take , for example , San Francisco police officer Richard Soares , who received a feather - light sentence after being convicting of charges stemming from an assault on his former girlfriend outside a Union Square nightclub . "
+Richard Soares,push.01,the woman,to,Affirmative,"Soares reportedly pushed the woman to the ground , causing her to sustain 1 - inch gash to the back of her head . "
+Richard Soares,cause.01,her to sustain,,Affirmative,"Soares reportedly pushed the woman to the ground , causing her to sustain 1 - inch gash to the back of her head . "
+the woman,sustain.01,inch gash,,Affirmative,"Soares reportedly pushed the woman to the ground , causing her to sustain 1 - inch gash to the back of her head . "
+Soares,face.01,11 charges related to,,Affirmative,"Soares at one point faced 11 charges related to the case : One count of felony assault , which the judge reduced to a misdemeanor , one felony count of dissuading a witness , and nine misdemeanor counts of violating a restraining order , prosecutors said . "
+the judge,reduce.01,One count of,,Affirmative,"Soares at one point faced 11 charges related to the case : One count of felony assault , which the judge reduced to a misdemeanor , one felony count of dissuading a witness , and nine misdemeanor counts of violating a restraining order , prosecutors said . "
+prosecutors,say.01,faced,,Affirmative,"Soares at one point faced 11 charges related to the case : One count of felony assault , which the judge reduced to a misdemeanor , one felony count of dissuading a witness , and nine misdemeanor counts of violating a restraining order , prosecutors said . "
+Richard Soares,dissuade.01,a witness,,Affirmative,"Soares was n't found guilty of assault and dissuading a witness , but a jury found him guilty of nine counts of violating the restraining order . "
+a jury,find.02,him guilty of,,Affirmative,"Soares was n't found guilty of assault and dissuading a witness , but a jury found him guilty of nine counts of violating the restraining order . "
+Richard Soares,violate.01,a restraining order,,Affirmative,"Soares was n't found guilty of assault and dissuading a witness , but a jury found him guilty of nine counts of violating the restraining order . "
+"SFist Daily ,",deliver.01,popular stories,to,Affirmative,"Sign up for SFist Daily , which will deliver the day 's most popular stories to your inbox at 5 p.m. every day ! "

@@ -1,0 +1,16 @@
+1	The	the	DT	_	4	det	_
+2	European	european	NNP	_	4	nn	_
+3	Investment	investment	NNP	_	4	nn	_
+4	Bank	bank	NNP	_	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	0	root	_
+6	not	not	RB	_	5	neg	5:AM-NEG
+7	responsible	responsible	JJ	_	5	acomp	5:A2=PRD
+8	for	for	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	content	content	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	external	external	JJ	_	14	amod	_
+13	internet	internet	NN	_	14	nn	_
+14	sites	site	NNS	_	11	pobj	_
+15	.	.	.	_	5	punct	_
+

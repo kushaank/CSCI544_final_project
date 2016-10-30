@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Bus carrying children,carry.01,children,,Affirmative,"Bus carrying children catches fire in country 's north , leaving 31 children dead and at least 25 others injured . "
+Bus carrying children,catch.01,fire,in,Affirmative,"Bus carrying children catches fire in country 's north , leaving 31 children dead and at least 25 others injured . "
+Bus carrying children,leave.01,31 children,dead,Affirmative,"Bus carrying children catches fire in country 's north , leaving 31 children dead and at least 25 others injured . "
+At least 31 children,travel.01,a bus,,Affirmative,"At least 31 children were burned to death when a bus they were travelling in caught fire in northern Colombia , the Red Cross said . "

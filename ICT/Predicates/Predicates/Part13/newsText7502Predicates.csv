@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Fianna Fail,spend.02,less money,promoting women in politics,Affirmative,"FIANNA Fail spent less money promoting women in politics than any other party , according to recently released figures . "
+Fianna Fail,promote.02,women,,Affirmative,"FIANNA Fail spent less money promoting women in politics than any other party , according to recently released figures . "
+its state funding encouraging women,encourage.01,women,to get involved in politics,Affirmative,"Micheal Martin 's party spent just €7,000 of its state funding encouraging women to get involved in politics last year . "
+The Labour Party,spend.01,"€43,000 and","spent €24,000 addressing",Affirmative,"The Labour Party spent €43,000 and Fine Gael spent €24,000 addressing the gender balance in their parties . "
+"Even Sinn Fein ,",receive.01,less state funding than,,Affirmative,"Even Sinn Fein , which received less state funding than Fianna Fail , spent €36,000 encouraging more participation by women in politics . "
+"Even Sinn Fein ,",spend.02,"€36,000",encouraging,Affirmative,"Even Sinn Fein , which received less state funding than Fianna Fail , spent €36,000 encouraging more participation by women in politics . "
+"Even Sinn Fein ,",encourage.02,more participation by women in politics,,Affirmative,"Even Sinn Fein , which received less state funding than Fianna Fail , spent €36,000 encouraging more participation by women in politics . "
+The revelation,heap.01,pressure,,Affirmative,"The revelation will heap pressure on Mr Martin , who faced criticism when Fianna Fail failed to meet its own gender quota for the local elections . "
+"Mr Martin ,",face.01,criticism,,Affirmative,"The revelation will heap pressure on Mr Martin , who faced criticism when Fianna Fail failed to meet its own gender quota for the local elections . "
+Fianna Fail,meet.01,its own gender quota for,,Affirmative,"The revelation will heap pressure on Mr Martin , who faced criticism when Fianna Fail failed to meet its own gender quota for the local elections . "
+The Labour Party,hope.01,would be women,,Affirmative,"The party hoped 33pc of its candidates would be women , but fell short by almost half . "
+Fail spokesperson,comment.02,figure relates to,,Affirmative,"However , a Fianna Fail spokesperson commented : This figure relates to a proportion of Fianna Fail 's overall spend on promoting women . "
+by,reveal.01,The spending on participation by women,,Affirmative,The spending on participation by women revealed by the Standards in Public Office ( SIPO ) shows Fianna Fail received €2.8 m from the State last year . 
+The spending on participation by women,show.01,Fail received,,Affirmative,The spending on participation by women revealed by the Standards in Public Office ( SIPO ) shows Fianna Fail received €2.8 m from the State last year . 
+Fianna Fail,receive.01,€2.8 m,from,Affirmative,The spending on participation by women revealed by the Standards in Public Office ( SIPO ) shows Fianna Fail received €2.8 m from the State last year . 
+Fine Gael,receive.01,€4.9 m,,Affirmative,"As the largest party in Government , Fine Gael received €4.9 m , and Coalition partner Labour received €3m . "
+partner Labour,receive.01,€3m,,Affirmative,"As the largest party in Government , Fine Gael received €4.9 m , and Coalition partner Labour received €3m . "
+The Socialist Party,receive.01,"€74,000",,Affirmative,"The Socialist Party received €74,000 and People before Profits got €143,000 . "
+People before Profits,get.01,"€143,000",,Affirmative,"The Socialist Party received €74,000 and People before Profits got €143,000 . "
+Political parties,receive.01,funding,,Affirmative,"Political parties receive funding under the Party Leader 's Allowance , based on the number of TDs and elected senators . "

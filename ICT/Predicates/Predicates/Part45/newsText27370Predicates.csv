@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The state,submit.01,a response to,,Affirmative,STATE TO RESPOND TO BLIND TRUST SUIT : The state is required to submit a response to the Florida Supreme Court by noon Monday in a case challenging a 2013 law that allows blind trusts for public officials . 
+a case challenging,challenge.01,a 2013 law,,Affirmative,STATE TO RESPOND TO BLIND TRUST SUIT : The state is required to submit a response to the Florida Supreme Court by noon Monday in a case challenging a 2013 law that allows blind trusts for public officials . 
+a 2013 law,allow.01,blind trusts for,,Affirmative,STATE TO RESPOND TO BLIND TRUST SUIT : The state is required to submit a response to the Florida Supreme Court by noon Monday in a case challenging a 2013 law that allows blind trusts for public officials . 
+by,file.01,"The case , filed by",,Affirmative,"The case , filed by Jim Apthorp , a former chief of staff to the late Gov. Reubin Askew , contends that blind trusts violate the open - government Sunshine Amendment . "
+"The case , filed by",contend.01,trusts violate,,Affirmative,"The case , filed by Jim Apthorp , a former chief of staff to the late Gov. Reubin Askew , contends that blind trusts violate the open - government Sunshine Amendment . "
+blind trusts for public officials,violate.01,government Sunshine Amendment,,Affirmative,"The case , filed by Jim Apthorp , a former chief of staff to the late Gov. Reubin Askew , contends that blind trusts violate the open - government Sunshine Amendment . "

@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Karachi :,dismiss.01,a case against,,Affirmative,"Karachi : A Pakistani court today dismissed a case against an FBI agent , arrested on anti-terrorism charges here for carrying bullets while trying to board a flight , after police failed to present any evidence against the American national . "
+police,present.01,any evidence against,,Affirmative,"Karachi : A Pakistani court today dismissed a case against an FBI agent , arrested on anti-terrorism charges here for carrying bullets while trying to board a flight , after police failed to present any evidence against the American national . "
+Joel Cox,carry.01,15 bullets and,,Affirmative,Joel Cox was arrested on May 5 from Jinnah International Airport here for carrying 15 bullets and three small knives before boarding a plane for Islamabad . 
+Joel Cox,board.01,a plane,,Affirmative,Joel Cox was arrested on May 5 from Jinnah International Airport here for carrying 15 bullets and three small knives before boarding a plane for Islamabad . 
+Police,present.01,final chargesheet,,Affirmative,Police today presented final chargesheet in a district court in Karachi . 
+Judge Hasan Ali Kalwar,reject.01,"the allegation ,",,Affirmative,"Judge Hasan Ali Kalwar after hearing arguments of Cox 's lawyer rejected the allegation , which he said were based on a misunderstanding . "
+Judge Hasan Ali Kalwar after hearing arguments of Cox 's lawyer,say.01,were based on,,Affirmative,"Judge Hasan Ali Kalwar after hearing arguments of Cox 's lawyer rejected the allegation , which he said were based on a misunderstanding . "
+Judge Hasan Ali Kalwar after hearing arguments of Cox 's lawyer,say.01,accused was not carrying,,Affirmative,He also said that the accused was not carrying any weapons at the time of arrest and the anti-terror laws invoked by police do not apply in the case . 
+the accused,carry.01,any weapons,,Affirmative,He also said that the accused was not carrying any weapons at the time of arrest and the anti-terror laws invoked by police do not apply in the case . 
+by police,invoke.01,the anti-terror laws invoked by police,,Affirmative,He also said that the accused was not carrying any weapons at the time of arrest and the anti-terror laws invoked by police do not apply in the case . 
+The defence lawyer,submit.01,a letter from,,Affirmative,The defence lawyer also submitted a letter from the US embassy that the man was on duty and authorised to carry arms . 
+the judge,discharge.10,the accused was not carrying any weapons at the time of arrest and the anti-terror laws invoked by police,,Affirmative,"While discharging the accused , the judge also ordered that Cox 's belongings should be returned . "
+contractor Raymond Davis,kill.01,two men,,Affirmative,The quiet dismissal of the case is in sharp contrast to the furor after arrest of CIA contractor Raymond Davis who killed two men in Lahore in 2011 . 
+wing parties,protest.01,against,,Affirmative,Right wing parties had protested against Raymond 's release after paying an unspecified amount of blood money to the heirs of victims . 
+wing parties,pay.01,an unspecified amount of,to,Affirmative,Right wing parties had protested against Raymond 's release after paying an unspecified amount of blood money to the heirs of victims . 

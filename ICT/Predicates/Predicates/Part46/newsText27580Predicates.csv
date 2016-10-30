@@ -1,0 +1,40 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Yadira Smith,tell.01,Hedghill threatened,friends and family,Affirmative,"Yadira Smith told friends and family that Robinson Hedghill threatened to kill her if she did n't marry him , records show . "
+Robinson Hedghill,threaten.01,to kill her,,Affirmative,"Yadira Smith told friends and family that Robinson Hedghill threatened to kill her if she did n't marry him , records show . "
+Robinson Hedghill,kill.01,Yadira Smith,,Affirmative,"Yadira Smith told friends and family that Robinson Hedghill threatened to kill her if she did n't marry him , records show . "
+Records,show.01,Yadira Smith,,Affirmative,"Yadira Smith told friends and family that Robinson Hedghill threatened to kill her if she did n't marry him , records show . "
+Yadira Smith,want.01,to make sure,,Affirmative,"If anything were to happen , Smith confided with neighbor Charlotte Hampton , she wanted to make sure her children stayed together . "
+Yadira Smith,make.02,sure,,Affirmative,"If anything were to happen , Smith confided with neighbor Charlotte Hampton , she wanted to make sure her children stayed together . "
+Charlotte Hampton,tell.01,she went to,police,Affirmative,"Hampton told police she went to Smith 's house , where Hedghill answered the door . "
+Robinson Hedghill,answer.01,the door,,Affirmative,"Hampton told police she went to Smith 's house , where Hedghill answered the door . "
+Records,say.01,Smith stood behind Hedghill,,Affirmative,Records said Smith stood behind Hedghill and told her friend : He wo n't let me out . 
+"Smith , who used to live in New York",tell.01,: He wo n't let me out,her friend,Affirmative,Records said Smith stood behind Hedghill and told her friend : He wo n't let me out . 
+"Smith , who used to live in New York",let.01,Records,,Affirmative,Records said Smith stood behind Hedghill and told her friend : He wo n't let me out . 
+Charlotte Hampton,call.02,911,,Affirmative,Hampton returned to her home and called 911 . 
+teen son,find.01,mother dead,,Affirmative,"But before Orlando police arrived at their Pine Hills - area home , Smith 's teen son came home from school and found his mother dead . "
+Court records,release.01,Monday detail,,Affirmative,"Court records released Monday detail the allegedly tumultuous relationship between Smith , 42 , and Hedghill , 49 , who was arrested Saturday . "
+Several people,say.01,Smith was trying,,Affirmative,"Several people said Smith was trying to end her relationship with Hedghill , but he would n't move out . "
+"Smith , who used to live in New York",try.01,to end,,Affirmative,"Several people said Smith was trying to end her relationship with Hedghill , but he would n't move out . "
+"Smith , who used to live in New York",end.01,her relationship with Hedghill,,Affirmative,"Several people said Smith was trying to end her relationship with Hedghill , but he would n't move out . "
+Charlotte Hampton,tell.01,she called,police,Affirmative,Hampton told police she called Smith Friday and asked if she could borrow hair spray . 
+his mother,call.02,Smith Friday,,Affirmative,Hampton told police she called Smith Friday and asked if she could borrow hair spray . 
+his mother,ask.01,if she could borrow,,Affirmative,Hampton told police she called Smith Friday and asked if she could borrow hair spray . 
+his mother,borrow.01,the hair spray,,Affirmative,Hampton told police she called Smith Friday and asked if she could borrow hair spray . 
+"Smith , who used to live in New York",tell.01,to stop by,her,Affirmative,Smith told her to stop by . 
+Charlotte Hampton,send.01,old brother,to,Affirmative,"Several hours later , Hampton sent her 13 - year - old brother to Smith 's home to pick up the hair spray . "
+Hedghill,answer.01,the door,,Affirmative,"Hedghill answered the door , said no one else was home , and then slammed the door shut . "
+Hedghill,say.01,was home,,Affirmative,"Hedghill answered the door , said no one else was home , and then slammed the door shut . "
+Charlotte Hampton,know.01,something was amiss,,Affirmative,"About 25 minutes later , Hampton spoke with Smith on the phone and knew something was amiss . "
+his mother,encounter.01,her friend and Hedghill,,Affirmative,"That 's when she walked to Smith 's house , and encountered her friend and Hedghill . "
+the victim,try.01,to leave,,Affirmative,"It was apparent to Charlotte the victim was trying to leave , but the defendant would not let her , police stated . "
+the defendant,let.01,the victim,,Affirmative,"It was apparent to Charlotte the victim was trying to leave , but the defendant would not let her , police stated . "
+Charlotte Hampton,call.02,Orlando police,,Affirmative,"Hampton returned home and called police at roughly 2:55 p.m. Minutes later , two neighbors saw Hedghill drive away . "
+two neighbors,see.01,Hedghill drive away,,Affirmative,"Hampton returned home and called police at roughly 2:55 p.m. Minutes later , two neighbors saw Hedghill drive away . "
+The teen,see.01,her,,Affirmative,The teen peered into a kitchen window and saw her in a pool of blood . 
+son,run.02,to,,Affirmative,Smith 's son ran to Hampton 's house for help and a second 911 call was made . 
+for officers to arrive,take.10,20 minutes,,Affirmative,"Asked why it took more than 20 minutes for officers to arrive , police Sgt. Jim Young said the initial call was not designated a priority incident because there were no signs of violence - it was a verbal argument . "
+police Sgt. Jim Young,say.01,call was not designated,,Affirmative,"Asked why it took more than 20 minutes for officers to arrive , police Sgt. Jim Young said the initial call was not designated a priority incident because there were no signs of violence - it was a verbal argument . "
+An officer,spot.01,him,,Affirmative,An officer spotted him Saturday at a bus stop on West Washington Street and Coburn Avenue . 
+No one,answer.01,the door,,Affirmative,"No one answered the door at Hampton 's home Monday , and a neighbor knew little about Smith , who used to live in New York . "
+a neighbor,know.01,"little about Smith ,",,Affirmative,"No one answered the door at Hampton 's home Monday , and a neighbor knew little about Smith , who used to live in New York . "
+he,share.01,Avenue home,with Smith,Affirmative,"At the Fremont Park Avenue home he shared with Smith , a single tea - light and silk flower rested on the doorstep . "

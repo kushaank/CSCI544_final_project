@@ -1,0 +1,78 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County government building,build.01,the same day,,Affirmative,"Ten years ago , thousands of gay couples rushed to the Multnomah County government building the same day the clerk 's office started giving same - sex marriage certificates . "
+office,start.01,giving,,Affirmative,"Ten years ago , thousands of gay couples rushed to the Multnomah County government building the same day the clerk 's office started giving same - sex marriage certificates . "
+office,give.01,sex marriage certificates,,Affirmative,"Ten years ago , thousands of gay couples rushed to the Multnomah County government building the same day the clerk 's office started giving same - sex marriage certificates . "
+by,give.01,the chance,,Affirmative,"Ten years later , Deborah and Betty , married in March 2004 , say they wo n't rush to the clerk 's office again this time around even if given the chance on Monday by Federal Judge Michael McShane . "
+Deborah and Betty,watch.01,what 's happened in,,Affirmative,"We 've watched what 's happened in the last ten years , said Betty , who asked not to use her last name . "
+"Betty ,",say.01,We 've watched,,Affirmative,"We 've watched what 's happened in the last ten years , said Betty , who asked not to use her last name . "
+"Betty ,",ask.02,not to use her,,Affirmative,"We 've watched what 's happened in the last ten years , said Betty , who asked not to use her last name . "
+Deborah and Betty,want.01,it to stick,,Affirmative,We want it to stick . 
+Deborah and Betty,want.01,it to be real,,Affirmative,We want it to be real . 
+Federal Judge Michael McShane,announce.01,his decision,,Affirmative,"Judge McShane will announce his decision at noon on Monday that could overturn Oregon 's Measure 36 , which banned gay marriage in November 2004 and ultimately un-married the 3,000 gay couples like Deborah and Betty who got licenses in Multnomah County . "
+"Measure 36 ,",ban.01,gay marriage,,Affirmative,"Judge McShane will announce his decision at noon on Monday that could overturn Oregon 's Measure 36 , which banned gay marriage in November 2004 and ultimately un-married the 3,000 gay couples like Deborah and Betty who got licenses in Multnomah County . "
+"un-married the 3,000 gay couples like Deborah and Betty",get.01,licenses in,,Affirmative,"Judge McShane will announce his decision at noon on Monday that could overturn Oregon 's Measure 36 , which banned gay marriage in November 2004 and ultimately un-married the 3,000 gay couples like Deborah and Betty who got licenses in Multnomah County . "
+Federal Judge Michael McShane,overturn.01,the ban on,,Affirmative,"If Judge McShane overturns the ban on the grounds that it violates the 14th Amendment , he could make his decision effective immediately or put a hold on it , known as a stay , until the legal process plays out in higher courts . "
+The ban,violate.01,the 14th Amendment,,Affirmative,"If Judge McShane overturns the ban on the grounds that it violates the 14th Amendment , he could make his decision effective immediately or put a hold on it , known as a stay , until the legal process plays out in higher courts . "
+Federal Judge Michael McShane,make.02,decision effective immediately,,Affirmative,"If Judge McShane overturns the ban on the grounds that it violates the 14th Amendment , he could make his decision effective immediately or put a hold on it , known as a stay , until the legal process plays out in higher courts . "
+Federal Judge Michael McShane,put.01,a hold,on it,Affirmative,"If Judge McShane overturns the ban on the grounds that it violates the 14th Amendment , he could make his decision effective immediately or put a hold on it , known as a stay , until the legal process plays out in higher courts . "
+The Oregon Family Council,hope.01,ban will remain in place,,Affirmative,The Oregon Family Council is hoping the ban will remain in place . 
+Everybody,have.03,opinion heard except for,,Affirmative,"Everybody 's had their opinion heard except for the majority of Oregon voters who passed Measure 36 , said Shawn Lindsay , a lawyer hired by the Oregon Family Council . "
+Oregon voters,pass.01,Oregon 's Measure 36,,Affirmative,"Everybody 's had their opinion heard except for the majority of Oregon voters who passed Measure 36 , said Shawn Lindsay , a lawyer hired by the Oregon Family Council . "
+"Shawn Lindsay ,",say.01,Everybody 's had,,Affirmative,"Everybody 's had their opinion heard except for the majority of Oregon voters who passed Measure 36 , said Shawn Lindsay , a lawyer hired by the Oregon Family Council . "
+by,hire.01,a lawyer hired by,,Affirmative,"Everybody 's had their opinion heard except for the majority of Oregon voters who passed Measure 36 , said Shawn Lindsay , a lawyer hired by the Oregon Family Council . "
+Federal Judge Michael McShane,hear.01,arguments from people suing,,Affirmative,"Judge McShane heard arguments from people suing to throw out the ban , but he did not allow anyone to defend it . "
+people suing,sue.01,to throw out,,Affirmative,"Judge McShane heard arguments from people suing to throw out the ban , but he did not allow anyone to defend it . "
+people suing,throw.01,The ban,out,Affirmative,"Judge McShane heard arguments from people suing to throw out the ban , but he did not allow anyone to defend it . "
+Federal Judge Michael McShane,allow.01,anyone to defend it,,Affirmative,"Judge McShane heard arguments from people suing to throw out the ban , but he did not allow anyone to defend it . "
+anyone,defend.01,The ban,,Affirmative,"Judge McShane heard arguments from people suing to throw out the ban , but he did not allow anyone to defend it . "
+"Attorney General ,",defend.01,existing state laws,,Affirmative,"Oregon 's Attorney General , who would normally defend existing state laws being challenged in court and would have been permitted to defend the ban , declined to defend Measure 36 , and no outside group or organization had the legal standing to step in instead . "
+"Attorney General ,",decline.02,to defend Measure 36,,Affirmative,"Oregon 's Attorney General , who would normally defend existing state laws being challenged in court and would have been permitted to defend the ban , declined to defend Measure 36 , and no outside group or organization had the legal standing to step in instead . "
+no outside group or organization,have.03,the legal standing,,Affirmative,"Oregon 's Attorney General , who would normally defend existing state laws being challenged in court and would have been permitted to defend the ban , declined to defend Measure 36 , and no outside group or organization had the legal standing to step in instead . "
+Shawn Lindsay,expect.01,case to ultimately reach,,Affirmative,Lindsay expects the case to ultimately reach the U.S. Supreme Court along with similar cases in other states and federal court districts challenging gay marriage bans . 
+the case,reach.01,the U.S. Supreme Court,,Affirmative,Lindsay expects the case to ultimately reach the U.S. Supreme Court along with similar cases in other states and federal court districts challenging gay marriage bans . 
+court districts challenging,challenge.01,gay marriage bans,,Affirmative,Lindsay expects the case to ultimately reach the U.S. Supreme Court along with similar cases in other states and federal court districts challenging gay marriage bans . 
+rights supporters,plan.01,for,,Affirmative,Gay - rights supporters are planning for a victory even before the announcement . 
+Some groups,organize.01,rallies and,,Affirmative,Some groups are organizing rallies and social media campaigns to encourage gay couples to get married at 12:01 pm Monday -- if that 's what the judge allows . 
+Some groups,encourage.01,"the 3,000 gay couples",to get married at,Affirmative,Some groups are organizing rallies and social media campaigns to encourage gay couples to get married at 12:01 pm Monday -- if that 's what the judge allows . 
+Deborah and Betty,say.01,they 'll wait,,Affirmative,Deborah and Betty say they 'll wait . 
+Deborah and Betty,want.01,it to be tangible,,Affirmative,"We want it to be tangible , said Betty . "
+"Betty , who asked not to use her last name",say.01,We want,,Affirmative,"We want it to be tangible , said Betty . "
+Deborah and Betty,want.01,to plan,,Affirmative,We want to plan . 
+he,pass.01,WE WON !,,Affirmative,B y the way he has to pass it .. 
+he,rule.03,agaisnt it,,Affirmative,If he rules agaisnt it then he is divded . 
+.,pass.01,a house,,Affirmative,So he has to pass it and he will . 
+.,do.02,the ruling,,Affirmative,"In this case civil rights or not , he has to do the ruling in a yes favor irregardless . "
+"Even the protection of life , liberty , and property",say.01,nothing about marriage,,Affirmative,"Â  Even the protection of life , liberty , and property says nothing about marriage . "
+Â ,look.02,lot like,,Affirmative,Â  Looks a lot like current stuffed legislation . 
+by,use.01,it,to overturn,Affirmative,Â  Now it is used by the federal government to overturn the votes of people of the states wherever it seems useful to do so . 
+the states,let.01,government assume,,Affirmative,Â  Suppose the states may as well just give up and let the federal government assume total control of every aspect of our lives . 
+the federal government,assume.01,total control of,,Affirmative,Â  Suppose the states may as well just give up and let the federal government assume total control of every aspect of our lives . 
+Â  States,play.01,a role,,Affirmative,Â  States really no longer play a role . 
+we all,accept.01,it,,Affirmative,"As to homosexual marriage , we all , nationwide , may as well just accept it and get back to the important stuff . "
+aminophenol Â  Â Kinda,give.01,chills,me,Affirmative,@ N - acetyl - p - aminophenol Â  Â Kinda gave me chills . 
+by this,impact.01,those,,Affirmative,Â Congrats to those whose lives will be impacted by this .... 
+You,look.01,at cases like Loving,,Affirmative,You should go back and look at cases like Loving v. Virginia ( 1967 ) . 
+the cases,set.02,precedent for marriage,,Affirmative,Those are the cases that set precedent for marriage being a right . 
+we,have.03,- like Miranda -,,Affirmative,"Many of the rights we have - like Miranda - are not in the Constitution , but instead are court interpretations . "
+you,tell.01,items are supposed,the future and,Affirmative,The founding documents and subsequent Amendments are purposefully a little vague because you ca n't tell the future and these items are supposed to stand up fairly well throughout time . 
+they,set.03,the judicial system,,Affirmative,"That is why they set up the judicial system to deal with issues of constitutionality , as they could take into consideration today 's world with regard to the Constitution . "
+they,take.01,world,into consideration,Affirmative,"That is why they set up the judicial system to deal with issues of constitutionality , as they could take into consideration today 's world with regard to the Constitution . "
+someone 's mad,overrule.01,the Oregon one,,Affirmative,"@ Nobody Â Aww , someone 's mad the US Constitution overrules the Oregon one . "
+a mush-head,hear.01,THE WORST word,,Affirmative,@ Unknown Â  @ lee98632 Â  Â It 's THE WORST word I ever hear . 
+Â I,hate.01,it,,Affirmative,"Â I 've pacifically hated it , hated it being added to the dictionary . "
+Â I,hate.01,it being added to,,Affirmative,"Â I 've pacifically hated it , hated it being added to the dictionary . "
+I,plunge.02,myself,into,Affirmative,"Â It 's indeed a slippy slope when a double negative is accepted , but now I 've accidentally plunged myself into mathy stuff . "
+I,hate.01,it,,Affirmative,"@ Unknown Â  @ lee98632 Â As much as I hate it , irregardless was added to the dictionary a few years ago . "
+The kidney stone,divide.02,the judge,in half,Affirmative,The kidney stone is dividing the judge in half .... 
+I,have.03,no problem with,,Affirmative,"Â  Contrary to responses , I have no problem with the 14th Amendment as it was originally intended . "
+I,feel.02,it has been twisted for use in situations,,Affirmative,Â  I just feel it has been twisted for use in situations that it was never written or adopted to cover . 
+someone,want.01,to push for,,Affirmative,Â  But again that can be twisted to allow marriage between 80 year old men and 12 year old boys if someone really wanted to push for the limit . 
+I,celebrate.02,our 17th wedding anniversary,,Affirmative,"Same here , and next month my husband and I will be celebrating our 17th wedding anniversary . "
+it,benefit.01,me,,Affirmative,So it obviously does n't directly benefit me . 
+I,have.03,someone,,Affirmative,"Me too , now if only I had someone to marry . "
+Â ,give.01,goose bumps,me,Affirmative,Â  Definitely gives me goose bumps . 
+I,see.01,Christmas ads,,Affirmative,"@ Jenni S. Â  Â Me too , but then I get teary when I see the Budwiser Christmas ads on TV with the horses pulling the sleigh . "
+the horses,pull.01,the sleigh,,Affirmative,"@ Jenni S. Â  Â Me too , but then I get teary when I see the Budwiser Christmas ads on TV with the horses pulling the sleigh . "
+many,believe.01,has been twisted from,,Affirmative,"@ Nobody Â  @ JTesla Â  Â I do n't mean to be arbitrary , but many believe today 's interpretation of the Second Amendment has been twisted from what the founding fathers had in mind . "
+The 14th,guarantee.01,due process and,,Affirmative,"The 14th guarantees due process and equal protection , which come to play in this decision . "
+Copyright,©.01,"2014 Sinclair Interactive Media , LLC ;",,Affirmative,"Portland , Copyright © 2014 Sinclair Interactive Media , LLC ; a member of Sinclair Broadcast Group , Inc . "

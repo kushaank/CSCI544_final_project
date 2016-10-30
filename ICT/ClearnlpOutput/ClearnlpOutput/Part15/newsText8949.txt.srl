@@ -1,0 +1,45 @@
+1	Canton	canton	NNP	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	Mass	mass	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Dunkin	dunkin	NNP	_	4	poss	_
+3	'	'	POS	p2=''	2	possessive	_
+4	Donuts	donuts	NNP	p2=NNPS	6	nsubj	6:A0=PAG
+5	is	be	VBZ	_	6	aux	_
+6	recruiting	recruit	VBG	p2=NN|pb=recruit.01	0	root	_
+7	franchisees	franchisee	NNS	_	6	dobj	6:A1=PPT
+8	in	in	IN	_	6	prep	6:AM-LOC
+9	Roanoke	roanoke	NNP	p2=NN	8	pobj	_
+10	,	,	,	_	9	punct	_
+11	Virginia	virginia	NNP	_	9	appos	_
+12	.	.	.	_	6	punct	_
+
+1	This	this	DT	_	2	det	_
+2	month	month	NN	_	6	npadvmod	6:AM-TMP
+3	,	,	,	_	6	punct	_
+4	the	the	DT	_	5	det	_
+5	retailer	retailer	NN	_	6	nsubj	6:A0=PAG
+6	signed	sign	VBD	p2=VBN|pb=sign.01	0	root	_
+7	a	a	DT	_	11	det	_
+8	multi-unit	multi-unit	JJ	p2=NN	11	amod	_
+9	store	store	NN	_	11	nn	_
+10	development	development	NN	_	11	nn	_
+11	agreement	agreement	NN	_	6	dobj	6:A1=GOL
+12	with	with	IN	_	11	prep	_
+13	existing	exist	VBG	pb=exist.01	14	amod	_
+14	franchisee	franchisee	NN	p2=NNP	16	nn	13:A1=PAG
+15	Greg	greg	NNP	_	16	nn	_
+16	Nigro	nigro	NNP	_	12	pobj	_
+17	to	to	TO	_	18	aux	_
+18	develop	develop	VB	pb=develop.02	11	infmod	_
+19	13	0	CD	_	21	num	_
+20	new	new	JJ	_	21	amod	_
+21	restaurants	restaurant	NNS	_	18	dobj	18:A1=PRD
+22	throughout	throughout	IN	_	18	prep	18:AM-LOC
+23	Richmond	richmond	NNP	_	22	pobj	_
+24	,	,	,	_	23	punct	_
+25	Virginia	virginia	NNP	_	23	appos	_
+26	.	.	.	_	6	punct	_
+

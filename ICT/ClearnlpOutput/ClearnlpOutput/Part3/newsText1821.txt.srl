@@ -1,0 +1,30 @@
+1	Health	health	NNP	p2=NN	2	nn	_
+2	Ministers	minister	NNPS	p2=NNP	8	nsubj	8:A0=PAG;17:A0=PAG
+3	from	from	IN	_	2	prep	_
+4	53	0	CD	p2=NNP	6	num	_
+5	Commonwealth	commonwealth	NNP	p2=NN	6	nn	_
+6	countries	country	NNS	_	3	pobj	_
+7	have	have	VBP	_	8	aux	_
+8	gathered	gather	VBN	pb=gather.01	0	root	_
+9	for	for	IN	_	8	prep	8:AM-PRP
+10	a	a	DT	_	11	det	_
+11	meeting	meeting	NN	_	9	pobj	_
+12	in	in	IN	_	11	prep	_
+13	Geneva	geneva	NNP	_	12	pobj	_
+14	,	,	,	_	8	punct	_
+15	Switzerland	switzerland	NNP	_	8	npadvmod	8:AM-TMP
+16	to	to	TO	_	17	aux	_
+17	discuss	discuss	VB	pb=discuss.01	8	advcl	8:AM-PRP
+18	strengthening	strengthen	VBG	pb=strengthen.01	17	xcomp	17:A1=PPT
+19	public	public	JJ	_	20	amod	_
+20	health systems	health systems	NNS	p2=NNPS	18	dobj	18:A1=PPT
+21	.	.	.	_	8	punct	_
+
+1	Please	please	UH	p2=VB	2	intj	2:AM-DIS
+2	subscribe	subscribe	VB	p2=VBP|pb=subscribe.01	0	root	_
+3	to	to	IN	p2=TO	2	prep	2:A1=PPT
+4	access	access	NN	_	5	nn	_
+5	premium	premium	NN	_	6	nn	_
+6	content	content	NN	_	3	pobj	_
+7	.	.	.	_	2	punct	_
+

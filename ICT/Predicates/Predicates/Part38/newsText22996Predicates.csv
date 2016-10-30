@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A solar company based in Vermont,have.03,success beyond growing,,Affirmative,A solar company based in Vermont is having success beyond growing its business - it is helping employees reduce their  carbon footprints by offering them a bonus when they do . 
+A solar company based in Vermont,help.01,employees reduce,,Affirmative,A solar company based in Vermont is having success beyond growing its business - it is helping employees reduce their  carbon footprints by offering them a bonus when they do . 
+employees,reduce.01,their  carbon footprints,by offering them,Affirmative,A solar company based in Vermont is having success beyond growing its business - it is helping employees reduce their  carbon footprints by offering them a bonus when they do . 
+employees,offer.01,a bonus,,Affirmative,A solar company based in Vermont is having success beyond growing its business - it is helping employees reduce their  carbon footprints by offering them a bonus when they do . 
+he,say.01,"tax did n't go over well , but",,Affirmative,"In an interview with Associated Press , he says his initial idea of charging his 31 employees a car tax did n't go over well , but after brainstorming together they came up with another plan . "
+its business,have.03,a carbon tax,,Affirmative,"Essentially the business has a carbon tax , which is charged against the potential bonus . "
+which is,charge.06,against the potential bonus,,Affirmative,"Essentially the business has a carbon tax , which is charged against the potential bonus . "
+you,put.01,a pot of money,there,Affirmative,"Basically , you put a pot of money there , you subtract all the carbon - intensive stuff and they get the balance , Blittersdorf told Associated Press . "
+you,subtract.01,intensive stuff,,Affirmative,"Basically , you put a pot of money there , you subtract all the carbon - intensive stuff and they get the balance , Blittersdorf told Associated Press . "
+his 31 employees,get.01,the balance,,Affirmative,"Basically , you put a pot of money there , you subtract all the carbon - intensive stuff and they get the balance , Blittersdorf told Associated Press . "
+Blittersdorf,tell.01,"Basically , you put",Associated Press,Affirmative,"Basically , you put a pot of money there , you subtract all the carbon - intensive stuff and they get the balance , Blittersdorf told Associated Press . "
+his 31 employees,do.02,The less,,Affirmative,"The less they do ( in emitting carbon ) , the more money they have . "
+a car,get.01,20 miles per gallon,,Affirmative,"For a 20 - mile commute in a car that gets 20 miles per gallon , an employee pays a $ 5.55 REWIRE tax , which is deducted from the $ 6000 bonus . "
+an employee,pay.01,"5.55 REWIRE tax ,",,Affirmative,"For a 20 - mile commute in a car that gets 20 miles per gallon , an employee pays a $ 5.55 REWIRE tax , which is deducted from the $ 6000 bonus . "
+employees,pay.01,$ 0.15,,Affirmative,"The formula : employees pay $ 0.15 for every kilowatt hour they use -  since one gallon of gas equals about 37 kWh , that comes to  $ 5.55 for that 20 - mile commute . "
+employees,add.04,the carbon use,,Affirmative,They add up the carbon use every year simply by checking the odometer . 
+employees,check.01,the odometer,,Affirmative,They add up the carbon use every year simply by checking the odometer . 
+"carpooling , bike-riding and taking the bus",consume.01,less energy,,Affirmative,"They can consume less energy by retrofitting their home , and getting heat and power from renewable energy . "
+"carpooling , bike-riding and taking the bus",retrofit.01,their home,,Affirmative,"They can consume less energy by retrofitting their home , and getting heat and power from renewable energy . "
+"carpooling , bike-riding and taking the bus",don't owe .01,money,,Affirmative,"Energy hogs end up without a bonus , but they don't owe  money if they exceed the $ 6000 in energy use . "
+"carpooling , bike-riding and taking the bus",exceed.01,the $ 6000 in,,Affirmative,"Energy hogs end up without a bonus , but they don't owe  money if they exceed the $ 6000 in energy use . "
+employees,collect.01,about half of,,Affirmative,"So far , employees have collected about half of the  $ 186,000 bonus pool ,  Blittersdorf told Associated Press . "

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+she,try.01,to kill someone with,,Affirmative,A surfer in Hawaii has been charged with attempted second - degree murder after she allegedly tried to kill someone with her car last Wednesday . 
+she,kill.01,someone with,,Affirmative,A surfer in Hawaii has been charged with attempted second - degree murder after she allegedly tried to kill someone with her car last Wednesday . 
+Reuters,report.01,was arrested after,,Affirmative,"Aspiring surfer and model Jill Hansen was arrested after allegedly hitting a 73 - year - old woman who was getting out of her car , reports Reuters . "
+by breaking,intervene.01,a witness intervened by breaking,,Affirmative,"Honolulu City Prosecutor 's Office spokesman Dave Koga said a witness intervened by breaking the rear window of Hansen 's car , which caused her to run away . "
+a witness intervened by breaking,break.01,the rear window of,,Affirmative,"Honolulu City Prosecutor 's Office spokesman Dave Koga said a witness intervened by breaking the rear window of Hansen 's car , which caused her to run away . "
+"car ,",cause.01,her to run away,,Affirmative,"Honolulu City Prosecutor 's Office spokesman Dave Koga said a witness intervened by breaking the rear window of Hansen 's car , which caused her to run away . "
+police,arrest.01,Elizabeth Conklin,,Affirmative,"According to KHON2 , the incident took place in an underground parking garage and police arrested her not that long ago she fled the scene . "
+Elizabeth Conklin,flee.01,the scene,,Affirmative,"According to KHON2 , the incident took place in an underground parking garage and police arrested her not that long ago she fled the scene . "
+Elizabeth Conklin,have.03,court appearance,,Affirmative,On Monday she had her first court appearance where the bail was set at $ 1 million and Hansen reportedly left the courtroom by blowing a kiss to those inside . 
+model Jill Hansen,leave.01,the courtroom,by blowing,Affirmative,On Monday she had her first court appearance where the bail was set at $ 1 million and Hansen reportedly left the courtroom by blowing a kiss to those inside . 
+Honolulu City Prosecutor 's Office spokesman Dave Koga,note.01,that she has been pulled over,,Affirmative,Koga noted that she has been pulled over several times before for reckless driving and still has two other traffic cases that are n't closed . 
+Elizabeth Conklin,have.03,two other traffic cases,,Affirmative,Koga noted that she has been pulled over several times before for reckless driving and still has two other traffic cases that are n't closed . 
+A surfer in Hawaii,face.01,a mandatory life sentence,,Affirmative,"If found guilty of attempted second degree murder , the surfer would face a mandatory life sentence , with the possibility of parole . "

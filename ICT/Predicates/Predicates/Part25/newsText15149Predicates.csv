@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"PROVIDENCE , R.I.",tell.01,he was leaving,police,Affirmative,"PROVIDENCE , R.I. ( AP ) - A Rhode Island man has told police he was leaving a bar when he noticed he 'd been shot . "
+he,leave.02,a bar,,Affirmative,"PROVIDENCE , R.I. ( AP ) - A Rhode Island man has told police he was leaving a bar when he noticed he 'd been shot . "
+he,notice.01,he 'd been shot,,Affirmative,"PROVIDENCE , R.I. ( AP ) - A Rhode Island man has told police he was leaving a bar when he noticed he 'd been shot . "
+A Rhode Island man has told police he was leaving a bar when he noticed he 'd been shot,tell.01,he was leaving,police,Affirmative,He tells police he was leaving the bar with a friend shortly after 1 a.m. Saturday when they both noticed he was bleeding . 
+A Rhode Island man has told police he was leaving a bar when he noticed he 'd been shot,leave.01,the bar with,,Affirmative,He tells police he was leaving the bar with a friend shortly after 1 a.m. Saturday when they both noticed he was bleeding . 
+they both,notice.01,he was bleeding,,Affirmative,He tells police he was leaving the bar with a friend shortly after 1 a.m. Saturday when they both noticed he was bleeding . 
+police he was leaving the bar with a friend shortly after 1 a.m. Saturday when they both noticed he was bleeding,stop.01,the bleeding,,Affirmative,They went to Hernandez 's house but were unable to stop the bleeding . 

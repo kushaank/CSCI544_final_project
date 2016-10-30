@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A UNIVERSITY student,skip.01,class,,Affirmative,A UNIVERSITY student who skipped class for a year allegedly called in bomb threats before her graduation ceremony so her family would n't discover she 'd quit . 
+A UNIVERSITY student,call.04,a year,,Affirmative,A UNIVERSITY student who skipped class for a year allegedly called in bomb threats before her graduation ceremony so her family would n't discover she 'd quit . 
+her family,discover.01,she 'd quit,,Affirmative,A UNIVERSITY student who skipped class for a year allegedly called in bomb threats before her graduation ceremony so her family would n't discover she 'd quit . 
+Police,say.01,did n't attend,,Affirmative,"Police said Danielle Shea , 22 , did n't attend Quinnipiac University in Connecticut this year even though her mother paid thousands of dollars in tuition . "
+"Danielle Shea , 22 ,",attend.01,Quinnipiac University in Connecticut,,Affirmative,"Police said Danielle Shea , 22 , did n't attend Quinnipiac University in Connecticut this year even though her mother paid thousands of dollars in tuition . "
+her mother,pay.01,thousands of dollars,,Affirmative,"Police said Danielle Shea , 22 , did n't attend Quinnipiac University in Connecticut this year even though her mother paid thousands of dollars in tuition . "
+relatives,see.01,her name,,Affirmative,"When graduation arrived on Sunday , Shea allegedly panicked when relatives did n't see her name and tried to have the ceremony cancelled . "
+relatives,try.01,to have,,Affirmative,"When graduation arrived on Sunday , Shea allegedly panicked when relatives did n't see her name and tried to have the ceremony cancelled . "
+Cops,identify.01,Danielle Shea,,Affirmative,"Cops identified Shea using the telephone number she 'd called from and then found her in the arena , wearing a graduation cap and gown . "
+Cops,use.01,the telephone number,,Affirmative,"Cops identified Shea using the telephone number she 'd called from and then found her in the arena , wearing a graduation cap and gown . "
+Danielle Shea,call.02,the telephone number,,Affirmative,"Cops identified Shea using the telephone number she 'd called from and then found her in the arena , wearing a graduation cap and gown . "
+Cops,find.01,Danielle Shea,,Affirmative,"Cops identified Shea using the telephone number she 'd called from and then found her in the arena , wearing a graduation cap and gown . "
+The Massachusetts resident,report.01,an incident,,Affirmative,The Massachusetts resident has been charged with first degree threatening and falsely reporting an incident . 
+Police,say.01,she gave,,Affirmative,Police said she gave a detailed confession . 
+The Massachusetts resident,give.01,a detailed confession,,Affirmative,Police said she gave a detailed confession . 

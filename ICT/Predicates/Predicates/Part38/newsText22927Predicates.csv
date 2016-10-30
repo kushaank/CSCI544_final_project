@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+investigators,say.01,hit,,Affirmative,"At about 6:30 p.m. , investigators say Robert Abdoo of Armonk hit the wrong pedal of his Toyota Venza and drove through a fence , across the electrified third rail , and over the first set of tracks . "
+Robert Abdoo of Armonk,hit.01,the wrong pedal of,,Affirmative,"At about 6:30 p.m. , investigators say Robert Abdoo of Armonk hit the wrong pedal of his Toyota Venza and drove through a fence , across the electrified third rail , and over the first set of tracks . "
+men from,sprint.01,a gas station sprinted across,,Affirmative,"Moments after the car landed on the tracks , men from a gas station sprinted across the busy Bronx River Parkway , carefully avoided the third rail , grabbed the shaken up driver and escorted him to safety . "
+men from,avoid.01,the electrified third rail,,Affirmative,"Moments after the car landed on the tracks , men from a gas station sprinted across the busy Bronx River Parkway , carefully avoided the third rail , grabbed the shaken up driver and escorted him to safety . "
+men from,escort.01,the shaken up driver,,Affirmative,"Moments after the car landed on the tracks , men from a gas station sprinted across the busy Bronx River Parkway , carefully avoided the third rail , grabbed the shaken up driver and escorted him to safety . "
+You,want.01,to get stuck in,,Affirmative,"You would n't want to get stuck in that kind of situation , so you would hope somebody would come and get you too , right ? "
+You,hope.01,somebody would come and get you too,,Affirmative,"You would n't want to get stuck in that kind of situation , so you would hope somebody would come and get you too , right ? "
+somebody,get.01,You,,Affirmative,"You would n't want to get stuck in that kind of situation , so you would hope somebody would come and get you too , right ? "
+Paul Thompson,see.01,that kind of situation,,Affirmative,"Oh , you should have seen it . "
+he,try.01,to jump,,Affirmative,Twice he tried to jump the rail and twice it shorted and blew up . 
+he,jump.07,the electrified third rail,,Affirmative,Twice he tried to jump the rail and twice it shorted and blew up . 
+he,blow.06,the electrified third rail,,Affirmative,Twice he tried to jump the rail and twice it shorted and blew up . 
+"another eyewitness ,",say.01,"man , you kidding ,",,Affirmative,"Very lucky man , you kidding , very , very lucky , said another eyewitness , Angelo Zervoudis . "
+old driver,have.03,an orthopedic boot on,,Affirmative,The 63 - year old driver had an orthopedic boot on his right foot . 
+firefighter Roger King,say.01,would have been,,Affirmative,"I mean if there was a train coming through that would have been a totally different story , said Valhalla volunteer firefighter Roger King . "
+volunteer firefighter Roger King,see.01,flames from,,Affirmative,I saw flames from the kitchen window . 
+We,douse.01,that,,Affirmative,"We doused that out , said Stan Chelluck of Valhalla Crossing . "
+Stan Chelluck of,say.01,We doused that out,,Affirmative,"We doused that out , said Stan Chelluck of Valhalla Crossing . "
+"the evening rush hour ,",delay.01,northbound trains packed with commuters,,Affirmative,"The accident happened during the evening rush hour , which delayed northbound trains packed with commuters . "
+The crash and fire,damage.01,"the tracks ,",,Affirmative,"The crash and fire damaged the tracks , railroad ties and third rail , leaving a significant amount of repair work for Metro - North workers to tackle before the Tuesday morning commute . "
+"the tracks ,",leave.02,a significant amount of,,Affirmative,"The crash and fire damaged the tracks , railroad ties and third rail , leaving a significant amount of repair work for Metro - North workers to tackle before the Tuesday morning commute . "

@@ -1,0 +1,28 @@
+1	Tell	tell	VB	pb=tell.01	0	root	_
+2	us	us	PRP	_	1	dobj	1:A2=GOL
+3	who	who	WP	_	5	attr	5:R-A2
+4	you	you	PRP	_	5	nsubj	5:A1=PPT
+5	are	be	VBP	pb=be.01	1	ccomp	1:A1=PPT
+6	and	and	CC	_	5	cc	_
+7	we	we	PRP	_	9	nsubj	9:A0=PAG
+8	will	will	MD	_	9	aux	9:AM-MOD
+9	contact	contact	VB	pb=contact.01	5	conj	_
+10	you	you	PRP	_	9	dobj	9:A1=PPT
+11	as	as	RB	_	12	advmod	_
+12	soon	soon	RB	_	9	advmod	9:AM-TMP
+13	as	as	IN	_	12	prep	_
+14	possible	possible	JJ	_	13	amod	_
+15	.	.	.	_	1	punct	_
+
+1	Register	register	NNP	p2=NN	0	root	_
+2	in	in	IN	_	1	prep	_
+3	30	0	CD	_	4	num	_
+4	seconds	#ord#	NNS	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	No	no	DT	p2=UH	3	det	_
+2	credit	credit	NN	_	3	nn	_
+3	card	card	NN	_	0	root	4:A1=PPT
+4	required	require	VBN	p2=VBD|pb=require.01	3	partmod	_
+5	.	.	.	_	3	punct	_
+

@@ -1,0 +1,4 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sources,say.01,company had,,Affirmative,Sources said that the company had to suspend the service due to its failure in engaging some financer . 
+the company,suspend.01,A special transport service,,Affirmative,Sources said that the company had to suspend the service due to its failure in engaging some financer . 
+the company,engage.01,some financer,,Affirmative,Sources said that the company had to suspend the service due to its failure in engaging some financer . 

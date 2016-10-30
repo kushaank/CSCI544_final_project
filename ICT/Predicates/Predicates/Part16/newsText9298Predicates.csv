@@ -1,0 +1,45 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Minnesota woman,claim.01,she was kicked out of,,Affirmative,A Minnesota woman claims she was kicked out of McCormick Place for carrying her infant . 
+A Minnesota woman,carry.01,her infant,,Affirmative,A Minnesota woman claims she was kicked out of McCormick Place for carrying her infant . 
+Kristin Osborne,say.01,guards asked her,,Affirmative,Kristin Osborne says security guards asked her to leave the National Restaurant Association trade show on Saturday . 
+security guards,ask.02,to leave,her,Affirmative,Kristin Osborne says security guards asked her to leave the National Restaurant Association trade show on Saturday . 
+Kristin Osborne,leave.01,Association trade show,,Affirmative,Kristin Osborne says security guards asked her to leave the National Restaurant Association trade show on Saturday . 
+the National Restaurant Association trade show on Saturday,have.03,a strict policy banning,,Affirmative,The show has a strict policy banning all children under 16 for safety reasons . 
+a strict policy banning,ban.01,all children under 16,,Affirmative,The show has a strict policy banning all children under 16 for safety reasons . 
+Kristin Osborne,have.03,two other children,,Affirmative,Osborne has two other children and she says she knew about the ban but did n't think it applied to her 10 - day old infant . 
+Kristin Osborne,say.01,she knew about,,Affirmative,Osborne has two other children and she says she knew about the ban but did n't think it applied to her 10 - day old infant . 
+Kristin Osborne,know.01,about,,Affirmative,Osborne has two other children and she says she knew about the ban but did n't think it applied to her 10 - day old infant . 
+Kristin Osborne,think.01,it applied to,,Affirmative,Osborne has two other children and she says she knew about the ban but did n't think it applied to her 10 - day old infant . 
+Kristin Osborne,say.01,she could n't leave her newborn,,Affirmative,She says she could n't leave her newborn because is breastfeeding . 
+Kristin Osborne,leave.01,Kristin Osborne,newborn,Affirmative,She says she could n't leave her newborn because is breastfeeding . 
+Kristin Osborne,promote.02,winery,,Affirmative,Osborne was at the show to promote her family 's winery . 
+an attorney,say.01,law does not apply in,,Affirmative,But an attorney who is an expert in national breast - feeding laws says the law does not apply in this case because children are excluded for safety reasons . 
+I,have.03,two children,,Affirmative,"Terry Z. I have two children also and when they were younger , I never took them to a place that had a no children policy . "
+I,take.01,two children also,to,Affirmative,"Terry Z. I have two children also and when they were younger , I never took them to a place that had a no children policy . "
+a place,have.03,children policy,,Affirmative,"Terry Z. I have two children also and when they were younger , I never took them to a place that had a no children policy . "
+a `` no children '' policy,understand.01,places just are n't,,Affirmative,We understood some places just are n't the right venue . 
+Her defense of,think.01,it applied to,,Affirmative,Her defense of did n't think it applied to her 10 - day old infant smacks of some type of entitlement . 
+you,take.01,some social responsibility,,Affirmative,"Like them or not , it behooves you to take some social responsibility . "
+She,attend.01,the National Restaurant Association trade show on Saturday,,Affirmative,She either should not have attended the show or left her infant with a nanny / family member who could have cared for the child . 
+She,leave.01,her infant,with,Affirmative,She either should not have attended the show or left her infant with a nanny / family member who could have cared for the child . 
+family member,care.01,for,,Affirmative,She either should not have attended the show or left her infant with a nanny / family member who could have cared for the child . 
+She,take.01,her baby,to,Affirmative,"Unbelievable , irresponsible , infants are so vulnerable to germs it is against doctors recommendations to take them out for the first 6 weeks of their lives , and she takes her baby to a trade show ?! "
+I,cry.02,foul,,Affirmative,I love crying foul for breastfeeding . 
+people,try.01,to conduct business,,Affirmative,No lady the ban is not on breastfeeding but on children being a distraction while people try to conduct business . 
+people,conduct.01,business,,Affirmative,No lady the ban is not on breastfeeding but on children being a distraction while people try to conduct business . 
+companies,want.01,children running around bumping into people and things,,Affirmative,I am sure it is expensive for companies to exhibit at the restaurant show and do n't want children running around bumping into people and things . 
+children,bump.01,into people and things,,Affirmative,I am sure it is expensive for companies to exhibit at the restaurant show and do n't want children running around bumping into people and things . 
+No lady the ban,think.01,she was going,,Affirmative,"Also , as a business owner how did she think she was going to promote her wine with a 10 day old baby , how unprofessional . "
+No lady the ban,promote.02,her wine,,Affirmative,"Also , as a business owner how did she think she was going to promote her wine with a 10 day old baby , how unprofessional . "
+I,bring.01,kids,to,Affirmative,"As a business owner myself with kids , I would never bring them to such an event . "
+I,side.01,with,,Affirmative,I 'm sorry but on this one I have to side with the event .. 
+The title using,use.01,Kicked Out,,Affirmative,The title using Kicked Out brings images of her being dragged by security & escorted from the event . 
+The title using,bring.01,images of,,Affirmative,The title using Kicked Out brings images of her being dragged by security & escorted from the event . 
+by security,drag.01,her,,Affirmative,The title using Kicked Out brings images of her being dragged by security & escorted from the event . 
+people in,cause.01,more injuries,,Affirmative,"Accidents can happen in an instant , people in a panic cause more injuries to others around them by fleeing & placing an infant into a potentially dangerous & hazardous situation is at least to me not a good idea . "
+she,store.01,milk,,Affirmative,If the baby needs fed once every hour she could have pumped & stored milk in the fridge for use during the time she would have been at the event . 
+The article,state.01,she left,,Affirmative,The article states she left her other Two children at home which means either a babysitter or her co-parent or partner was at the house easily allowing them to feed the baby . 
+a 10 day old baby,leave.02,her other Two children,,Affirmative,The article states she left her other Two children at home which means either a babysitter or her co-parent or partner was at the house easily allowing them to feed the baby . 
+I,see.01,the controversy,,Affirmative,So I do not see the controversy . 
+I,think.01,event was well within,,Affirmative,I think the event was well within its rights . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

@@ -1,0 +1,20 @@
+
+Opinions expressed by Forbes Contributors are their own.
+
+Earlier this year, I wrote about the reinvention of the space imaging industry. The disappearance of the Malaysian Airliner MH 370 galvanized two companies I wrote about – DigitalGlobe and Skybox Imaging – into action. Colorado-based Digital Globe, which provided satellite images to the government, crowdsourced search efforts through Tomnod – its crowdsourcing platform. Millions of volunteers combed through imagery displaying large swathes of the ocean for suspicious debris. The effort attracted more than eight million page impressions and resulted in fifteen million tags of suspicious objects.
+
+I caught up with Dr. Shay Har Noy,director of geospatial data at DigitalGlobe, last week to know more about the effort. He told me that their platform was no longer involved in the search efforts. But, their efforts helped the Australian Maritime Authority reduce the search area substantially and eliminated a large number of sketchy objects that would have required hours of identification work.
+
+To help the authorities in their search for MH370, Tomnod relied on wisdom of the crowds. “Computer vision is not hundred percent accurate,” says Har Noy. So, the company supplemented image data with human cognition to recognize data patterns. “In effect, we were leveraging the machine-human hybrid,” he says. The hybrid was then subjected to statistical validation of the ascertained pattern. For example, if nine out of ten people agreed on a piece of debris, then it was categorized as such. However, the reputation and ranking of the individual dissenting opinion may also have the power to sway opinions. “The goal was to make a statistically significant aggregate of key features,” he says.
+
+This is not the first time that the application has been used in disaster recovery. It was used extensively last year during rescue efforts in Moore, Oklahoma. More recently, it was also used to quantify damage after Typhoon Haiyan wrecked Philippines.
+
+DigitalGlobe’s approach to the disappearance of MH370 interested me because it represents another step toward in the consumerization of space technology. With its capital- and knowledge-intensive framework, space technology is mostly inaccessible to lay enthusiasts. The industry requires an army of scientists and sophisticated machinery for its operations.
+
+Tomnod inverts this paradigm by employing volunteers to analyze image data. Statistical validation or big data is further used to make sense of the analysis. Shay Har Noy, who came to the company via DigitalGlobe’s acquisition of Tomnod, says the platform responds to events around the world. Those events can be as trivial as a fire in the backyard or a natural disaster and disappearance of an object.
+
+That value proposition is not new as social networking sites, such as Twitter Twitter , claim to have ignited revolutions in distant countries. But, Har Noy says both products are different. “Twitter tells you what is broken and not what is not broken,” he says, adding that images provide a “holistic” picture of the situation.
+
+Crowd-sourced imaging platforms come with their own set of expenses and riders. Tomnod’s access to DigitalGlobe imagery, which typically costs hundreds of thousands of dollars, provided the service with a leg up during the crises. There is also the problem with statistical validation, which can result in errors due to incorrect estimation techniques or large sample sizes.
+
+But, the benefits of such an approach outweigh its drawbacks. As I mentioned in my previous post about this technology, these are, at best, problems of technology. Once they are corrected, space imaging might just take off in popular imagination.

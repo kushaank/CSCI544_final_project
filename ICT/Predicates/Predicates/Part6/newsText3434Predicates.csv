@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,threaten.01,to blow up,,Affirmative,"A man threatened to blow up Love 's Truck Stop and travel center Sunday evening , earning him a trip to jail . "
+A man,blow.06,Truck Stop and,,Affirmative,"A man threatened to blow up Love 's Truck Stop and travel center Sunday evening , earning him a trip to jail . "
+A man,earn.01,him a trip,to jail,Affirmative,"A man threatened to blow up Love 's Truck Stop and travel center Sunday evening , earning him a trip to jail . "
+", 3211 S. Newberry ,",check.01,a report,,Affirmative,", police went to Love 's , 3211 S. Newberry , to check out a report that a man was claiming he was going to blow the place up , police spokesman Rodney Brown said . "
+a man was claiming,claim.01,he was going,,Affirmative,", police went to Love 's , 3211 S. Newberry , to check out a report that a man was claiming he was going to blow the place up , police spokesman Rodney Brown said . "
+he,blow.06,the place,,Affirmative,", police went to Love 's , 3211 S. Newberry , to check out a report that a man was claiming he was going to blow the place up , police spokesman Rodney Brown said . "
+Officers,arrest.01,Tzakis,,Affirmative,Officers arrested Tzakis and charged him with making terroristic threats . 
+Officers,charge.05,him,with making,Affirmative,Officers arrested Tzakis and charged him with making terroristic threats . 
+him,make.01,terroristic threats,,Affirmative,Officers arrested Tzakis and charged him with making terroristic threats . 
+ Tzakis,get.01,his ID,,Affirmative," Tzakis climbed inside his vehicle to get his ID , but then refused to get out and became non-compliant , Brown said . "
+ Tzakis,refuse.01,to get out and became non-compliant,,Affirmative," Tzakis climbed inside his vehicle to get his ID , but then refused to get out and became non-compliant , Brown said . "
+Brown,say.01, Tzakis climbed inside,,Affirmative," Tzakis climbed inside his vehicle to get his ID , but then refused to get out and became non-compliant , Brown said . "
+police,get.05,him,out of,Affirmative,"Eventually police got him out of the vehicle , and after a brief struggle ,  handcuffed him and took him to the Lincoln County jail . "

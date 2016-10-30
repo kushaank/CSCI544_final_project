@@ -1,0 +1,92 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+She,say.01,we would never have got tested ',,Affirmative,"She said : ' If my mum had n't died of cancer we would never have got tested ' She lost her mother to cancer , and watched her sister fight the disease . "
+She,lose.02,her mother,to cancer,Affirmative,"She said : ' If my mum had n't died of cancer we would never have got tested ' She lost her mother to cancer , and watched her sister fight the disease . "
+She,watch.01,sister fight,,Affirmative,"She said : ' If my mum had n't died of cancer we would never have got tested ' She lost her mother to cancer , and watched her sister fight the disease . "
+her sister,fight.01,the disease,,Affirmative,"She said : ' If my mum had n't died of cancer we would never have got tested ' She lost her mother to cancer , and watched her sister fight the disease . "
+The heartache,prompt.02,Carole Graham,"to take action , determined",Affirmative,"The heartache prompted Carole Graham to take action , determined to face the killer head on and do all she could to stop it in its path . "
+Doctors,advise.01,year - old,to have,Affirmative,"Doctors advised the 58 - year - old to have a preventative hysterectomy after tests revealed she carried a killer cancer gene , predisposing her to the disease . "
+year - old,have.03,a preventative hysterectomy,,Affirmative,"Doctors advised the 58 - year - old to have a preventative hysterectomy after tests revealed she carried a killer cancer gene , predisposing her to the disease . "
+tests,reveal.01,she carried,,Affirmative,"Doctors advised the 58 - year - old to have a preventative hysterectomy after tests revealed she carried a killer cancer gene , predisposing her to the disease . "
+the 58-year-old,carry.01,cancer gene,,Affirmative,"Doctors advised the 58 - year - old to have a preventative hysterectomy after tests revealed she carried a killer cancer gene , predisposing her to the disease . "
+the 58-year-old,predispose.01,the 58-year-old,to,Affirmative,"Doctors advised the 58 - year - old to have a preventative hysterectomy after tests revealed she carried a killer cancer gene , predisposing her to the disease . "
+surgeons,carry.03,the operation,,Affirmative,But when surgeons carried out the operation they discovered Ms Graham already had ovarian cancer - which would otherwise could have gone unnoticed until it was too late . 
+surgeons,discover.01,Graham already had,,Affirmative,But when surgeons carried out the operation they discovered Ms Graham already had ovarian cancer - which would otherwise could have gone unnoticed until it was too late . 
+"Ms Graham , from Pity Me in Durham",have.03,ovarian cancer -,,Affirmative,But when surgeons carried out the operation they discovered Ms Graham already had ovarian cancer - which would otherwise could have gone unnoticed until it was too late . 
+"Ms Graham , from Pity Me in Durham",say.01,", it was not",,Affirmative,"Ms Graham , from Pity Me in Durham , said : ' I was totally in shock , it was not what I had expected . "
+my,think.01,I was doing this,,Affirmative,' I thought I was doing this to prevent the cancer but I already had it . 
+my,do.02,this,,Affirmative,' I thought I was doing this to prevent the cancer but I already had it . 
+my,prevent.01,the cancer,,Affirmative,' I thought I was doing this to prevent the cancer but I already had it . 
+my,have.03,this,,Affirmative,' I thought I was doing this to prevent the cancer but I already had it . 
+my,show.01,no symptoms,,Affirmative,' I was showing no symptoms so it would have gone unnoticed until it was too late . 
+we,test.01,our genes,,Affirmative,' If my mum had n't died of cancer we would never have tested our genes when my sister Jan was diagnosed . 
+the four sisters,receive.01,changing news,,Affirmative,' Ms Graham was one of the four sisters to receive the life - changing news . 
+The NHS worker,say.01,I was devastated,,Affirmative,The NHS worker said : ' I was devastated . 
+a killer cancer gene,make.02,90 per cent likely,,Affirmative,The gene makes you 90 per cent likely to get cancer . 
+the doctor,tell.01,I carried it,me,Affirmative,"' So when the doctor told me I carried it , I asked straight away for a hysterectomy . "
+my,carry.01,a killer cancer gene,,Affirmative,"' So when the doctor told me I carried it , I asked straight away for a hysterectomy . "
+my,ask.02,for,,Affirmative,"' So when the doctor told me I carried it , I asked straight away for a hysterectomy . "
+she,have.03,a killer cancer gene,,Affirmative,"' As soon as she discovered she had the gene , Ms Graham immediately requested a preventative hysterectomy . "
+"Ms Graham , from Pity Me in Durham",request.01,a preventative hysterectomy,,Affirmative,"' As soon as she discovered she had the gene , Ms Graham immediately requested a preventative hysterectomy . "
+A woman 's,inherit.01,a harmful mutation of,,Affirmative,A woman 's risk of developing breast and / or ovarian cancer is greatly increased if she inherits a harmful mutation of the BRCA1 or BRCA2 gene . 
+Men,inherit.01,our genes,,Affirmative,"Men who inherit the genes also have an increased risk of breast cancer , and both men and woman with the genes may face a greater risk of developing other cancers . "
+Men,have.03,an increased risk of,,Affirmative,"Men who inherit the genes also have an increased risk of breast cancer , and both men and woman with the genes may face a greater risk of developing other cancers . "
+both men and woman with,face.01,a greater risk of developing,,Affirmative,"Men who inherit the genes also have an increased risk of breast cancer , and both men and woman with the genes may face a greater risk of developing other cancers . "
+Genetic tests,check.01,for,,Affirmative,"Genetic tests can check for BRCA1 and BRCA2 mutations , in people with a family history of cancer that suggests the presence of the genes . "
+cancer,suggest.01,the presence of,,Affirmative,"Genetic tests can check for BRCA1 and BRCA2 mutations , in people with a family history of cancer that suggests the presence of the genes . "
+patients,face.01,several options,,Affirmative,"If the harmful mutations are found , patients face several options to help manage their risk of cancer , including preventative surgery . "
+star Angelina Jolie,reveal.01,she had undergone,,Affirmative,Last May Hollywood star Angelina Jolie revealed she had undergone a preventative double mastectomy to reduce her risk of developing the disease . 
+Angelina Jolie,reduce.01,her risk of developing,,Affirmative,Last May Hollywood star Angelina Jolie revealed she had undergone a preventative double mastectomy to reduce her risk of developing the disease . 
+"Jolie ,",say.01,she took,,Affirmative,"Jolie , a mother of six and partner of Brad Pitt , said she took the decision to have the procedure because she found she carries BRCA1 , which sharply increases her risk of developing breast cancer and ovarian cancer . "
+Angelina Jolie,take.01,the decision,,Affirmative,"Jolie , a mother of six and partner of Brad Pitt , said she took the decision to have the procedure because she found she carries BRCA1 , which sharply increases her risk of developing breast cancer and ovarian cancer . "
+Angelina Jolie,find.01,"she carries BRCA1 ,",,Affirmative,"Jolie , a mother of six and partner of Brad Pitt , said she took the decision to have the procedure because she found she carries BRCA1 , which sharply increases her risk of developing breast cancer and ovarian cancer . "
+Angelina Jolie,carry.01,"BRCA1 ,",,Affirmative,"Jolie , a mother of six and partner of Brad Pitt , said she took the decision to have the procedure because she found she carries BRCA1 , which sharply increases her risk of developing breast cancer and ovarian cancer . "
+"BRCA1 ,",increase.01,her risk of developing,,Affirmative,"Jolie , a mother of six and partner of Brad Pitt , said she took the decision to have the procedure because she found she carries BRCA1 , which sharply increases her risk of developing breast cancer and ovarian cancer . "
+"her sister Pauline ,",carry.01,a killer cancer gene,,Affirmative,"On January 8 , 2013 , she went in to Newcastle 's Royal Victoria Infirmary for her hysterectomy with her sister Pauline , who also carried the gene . "
+Angelina Jolie,say.01,We walked hand in hand,,Affirmative,She said : ' We walked hand in hand into that hospital and our beds lay next to each other . 
+We,walk.01,hand,,Affirmative,She said : ' We walked hand in hand into that hospital and our beds lay next to each other . 
+Angelina Jolie,climb.01,straight into,,Affirmative,' Before our operations I was crying and she climbed straight into my bed where we cried together . 
+Angelina Jolie,get.01,my,,Affirmative,' Having her there got me through . 
+"her sister Pauline , who also carried the gene",add.01,It 's,,Affirmative,' Her sister Pauline added : ' It 's a massive thing having a hysterectomy so we wanted to go in together . 
+a massive thing having,have.03,a hysterectomy,,Affirmative,' Her sister Pauline added : ' It 's a massive thing having a hysterectomy so we wanted to go in together . 
+We,want.01,to go in together,,Affirmative,' Her sister Pauline added : ' It 's a massive thing having a hysterectomy so we wanted to go in together . 
+We,need.01,to grab this by,,Affirmative,' We needed to grab this by the bones and say I will not be a victim . 
+We,grab.01,a victim,,Affirmative,' We needed to grab this by the bones and say I will not be a victim . 
+We,say.01,I will not be,,Affirmative,' We needed to grab this by the bones and say I will not be a victim . 
+"Ms Graham , from Pity Me in Durham",expect.01,the preventative surgery,,Affirmative,"' But for Ms Graham , the operation was not the preventative surgery she had expected . "
+"Ms Graham , from Pity Me in Durham",say.01,", they found",,Affirmative,"She said : ' During the operation , they found a cyst on my ovaries . "
+they,find.01,a cyst on,,Affirmative,"She said : ' During the operation , they found a cyst on my ovaries . "
+they,send.02,the operation,to be tested,Affirmative,' They sent it off to be tested and it came back positive . 
+my,have.03,cancer of,,Affirmative,' I already had cancer of the ovaries and the dreaded gene had caused it . 
+"Ms Graham , from Pity Me in Durham",show.01,no signs of,,Affirmative,' Ms Graham had shown no signs of the cancer and her symptoms would have carried on unnoticed . 
+"Ms Graham , from Pity Me in Durham",say.01,I was told that in,,Affirmative,"She said : ' I was told that in a couple of years time if my symptoms began to show , it would have been too late . "
+no symptoms,show.01,", it would have been",,Affirmative,"She said : ' I was told that in a couple of years time if my symptoms began to show , it would have been too late . "
+me and,have.03,that chance,,Affirmative,' I am just so thankful me and my sisters had that chance to get tested . 
+' Ms Graham,start.01,a fantastic day,,Affirmative,' Ms Graham started a course of chemotherapy to kill off the disease and the results were exactly what she was hoping for . 
+' Ms Graham,kill.02,the disease,,Affirmative,' Ms Graham started a course of chemotherapy to kill off the disease and the results were exactly what she was hoping for . 
+we,test.01,our genes ',,Affirmative,' If my mum had n't died of cancer we would never have tested our genes ' She said : ' My bloods showed that I was in remission . 
+my mum,say.01,bloods showed,,Affirmative,' If my mum had n't died of cancer we would never have tested our genes ' She said : ' My bloods showed that I was in remission . 
+My bloods,show.01,that I was in remission,,Affirmative,' If my mum had n't died of cancer we would never have tested our genes ' She said : ' My bloods showed that I was in remission . 
+"Ms Graham , from Pity Me in Durham",have.03,another preventative operation,,Affirmative,' Ms Graham returned to work cancer - free but still had another preventative operation to endure . 
+"Ms Graham , from Pity Me in Durham",say.01,is,,Affirmative,"' The only way to prevent getting breast cancer with this gene is to have a bilateral mastectomy , ' she said . "
+my,dice.01,with death,,Affirmative,"' I had already diced with death once , I did n't want to do it again . "
+my,want.01,to do it again,,Affirmative,"' I had already diced with death once , I did n't want to do it again . "
+my,do.02,The only way to prevent getting breast cancer with this gene,,Affirmative,"' I had already diced with death once , I did n't want to do it again . "
+my,hope.01,will be,,Affirmative,' All six of my sisters were by my side as I went through what I hope will be my last surgery . 
+God,take.01,my mum,,Affirmative,"' God may have taken my mum , but he left me with six wonderful sisters . "
+God,leave.02,my,with,Affirmative,"' God may have taken my mum , but he left me with six wonderful sisters . "
+"Ms Graham , 58 ,",say.01,we would never have tested,,Affirmative,"Ms Graham , 58 , said : ' If my mum had n't died of cancer we would never have tested our genes when my sister Jan was diagnosed . "
+we,test.01,our genes,,Affirmative,"Ms Graham , 58 , said : ' If my mum had n't died of cancer we would never have tested our genes when my sister Jan was diagnosed . "
+my,have.03,"six strong , powerful women behind me",,Affirmative,"It 's thanks to my Mum ( pictured on her wedding day ) that I 'm still here ' ' I always have six strong , powerful women behind me . "
+one of us,have.03,a killer cancer gene,,Affirmative,Whether one of us has the gene or not we are all in it together . 
+"Ms Graham , from Pity Me in Durham",say.01,came back clear,,Affirmative,She said : ' All of the breast tissue they removed came back clear . 
+pictured on her wedding day,remove.01,the breast tissue,,Affirmative,She said : ' All of the breast tissue they removed came back clear . 
+my,put.01,a killer cancer gene,to bed,Affirmative,' I can put that gene to bed now because I 've removed all the bits it can get . 
+my,remove.01,all the bits,,Affirmative,' I can put that gene to bed now because I 've removed all the bits it can get . 
+"Ms Graham , from Pity Me in Durham",say.01,I am not going,,Affirmative,She said : ' I am not going to let it worry me because I know he will be protected and screened . 
+my,let.01,it worry me,,Affirmative,She said : ' I am not going to let it worry me because I know he will be protected and screened . 
+two,worry.01,my,,Affirmative,She said : ' I am not going to let it worry me because I know he will be protected and screened . 
+my,know.01,he will be protected and screened,,Affirmative,She said : ' I am not going to let it worry me because I know he will be protected and screened . 
+two,take.10,my mum,,Affirmative,' It took my mum and I 'm not letting it take any more of us . 
+my,let.01,it take,,Affirmative,' It took my mum and I 'm not letting it take any more of us . 
+two,take.10,any more of us,,Affirmative,' It took my mum and I 'm not letting it take any more of us . 
+us,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

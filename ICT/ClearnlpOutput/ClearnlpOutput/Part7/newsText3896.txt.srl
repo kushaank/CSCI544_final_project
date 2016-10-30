@@ -1,0 +1,23 @@
+1	Notify	notify	VB	p2=IN|pb=notify.01	0	root	_
+2	me	me	PRP	_	1	dobj	1:A1=GOL
+3	of	of	IN	_	1	prep	1:A2=PPT
+4	followup	followup	JJ	p2=NN	5	amod	_
+5	comments	comment	NNS	_	3	pobj	_
+6	via	via	IN	_	1	prep	1:AM-MNR
+7	e-mail	e-mail	NN	_	6	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	4	nsubj	4:A0=PAG;6:A0=PAG
+2	can	can	MD	_	4	aux	4:AM-MOD
+3	also	also	RB	_	4	advmod	4:AM-DIS
+4	subscribe	subscribe	VB	pb=subscribe.01	0	root	_
+5	without	without	IN	_	4	prep	4:AM-MNR
+6	commenting	comment	VBG	pb=comment.01	5	pcomp	_
+7	.	.	.	_	4	punct	_
+
+1	Send	send	VB	pb=send.01	0	root	_
+2	us	us	PRP	_	1	iobj	1:A2=GOL
+3	some	some	DT	_	4	det	_
+4	bitcoin	bitcoin	NN	p2=JJ	1	dobj	1:A1=PPT
+5	!	!	.	_	1	punct	_
+

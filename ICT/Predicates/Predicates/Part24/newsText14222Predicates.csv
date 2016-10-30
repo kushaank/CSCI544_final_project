@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Harris trial : entertainer ' asked girl,push.01,his hand,up,Affirmative,"Rolf Harris trial : entertainer ' asked girl to dance then pushed his hand up her skirt ' Rolf Harris showed his evil , dark side when he pushed his hand between a teenage girl 's legs as they danced at a cocktail evening , a court heard today . "
+Rolf Harris,show.01,"his evil , dark side",,Affirmative,"Rolf Harris trial : entertainer ' asked girl to dance then pushed his hand up her skirt ' Rolf Harris showed his evil , dark side when he pushed his hand between a teenage girl 's legs as they danced at a cocktail evening , a court heard today . "
+Rolf Harris,push.01,his hand,between,Affirmative,"Rolf Harris trial : entertainer ' asked girl to dance then pushed his hand up her skirt ' Rolf Harris showed his evil , dark side when he pushed his hand between a teenage girl 's legs as they danced at a cocktail evening , a court heard today . "
+The alleged victim,keep.01,his autograph and photographs taken of them,,Affirmative,"She had been 16 or 17 and kept his autograph and photographs taken of them together that night as a lifetime reminder of how the disgusting , vile , repulsive man had betrayed her . "
+"the disgusting , vile , repulsive man",betray.01,The alleged victim,,Affirmative,"She had been 16 or 17 and kept his autograph and photographs taken of them together that night as a lifetime reminder of how the disgusting , vile , repulsive man had betrayed her . "
+"The witness , known as MC",say.01,she did not report,,Affirmative,"The witness , known as MC , said she did not report the incident to the police for 43 years because it 's a man 's world and even if she had been raped she thought she would not be believed . "
+The alleged victim,report.01,the incident,to,Affirmative,"The witness , known as MC , said she did not report the incident to the police for 43 years because it 's a man 's world and even if she had been raped she thought she would not be believed . "
+The alleged victim,think.01,she would not be believed,,Affirmative,"The witness , known as MC , said she did not report the incident to the police for 43 years because it 's a man 's world and even if she had been raped she thought she would not be believed . "
+Harris victim,write.01,of,,Affirmative,' Rolf Harris victim wrote of great time in her diary on day of alleged assault ' She had been working at a wine promotion function when she met Harris and was immediately charmed . 
+Rolf Harris victim,meet.02,Rolf Harris,,Affirmative,' Rolf Harris victim wrote of great time in her diary on day of alleged assault ' She had been working at a wine promotion function when she met Harris and was immediately charmed . 
+Rolf Harris,sign.02,an autograph,with,Affirmative,He signed an autograph with my love Rolf Harris and they posed for photographs before he invited her to dance . 
+an,pose.02,for photographs,,Affirmative,He signed an autograph with my love Rolf Harris and they posed for photographs before he invited her to dance . 
+Rolf Harris,invite.01,Rolf Harris victim,to dance,Affirmative,He signed an autograph with my love Rolf Harris and they posed for photographs before he invited her to dance . 
+Rolf Harris victim,feel.01,relaxed and comfortable and,,Affirmative,I felt relaxed and comfortable and then in a flash ... 
+I,expect.01,this behaviour,,Affirmative,She went on : In my wildest dreams I did n't expect this behaviour from one moment being charming and what you see on the TV and the next him putting his hand up my skirt and trying to get into my most private area of my body . 
+him,put.01,his hand,up,Affirmative,She went on : In my wildest dreams I did n't expect this behaviour from one moment being charming and what you see on the TV and the next him putting his hand up my skirt and trying to get into my most private area of my body . 
+him,try.01,to get into,,Affirmative,She went on : In my wildest dreams I did n't expect this behaviour from one moment being charming and what you see on the TV and the next him putting his hand up my skirt and trying to get into my most private area of my body . 
+She,add.01,He has,,Affirmative,"She added : He has an evil , dark side . "
+He,have.03,"an evil , dark side",,Affirmative,"She added : He has an evil , dark side . "
+by Harris,face.01,the indictment faced by Harris,,Affirmative,MC 's allegation is not on the indictment faced by Harris . 
+character witness,support.01,the prosecution case,,Affirmative,She was called as a bad character witness to support the prosecution case . 
+"The witness , known as CM",say.01,incident happened in Darwin,,Affirmative,"The witness , known as CM , said the incident happened in Darwin , Australia when she was staying with friends of her parents in 1969 . "
+He,put.01,his tongue,in,Affirmative,"  He put his tongue in my mouth , I was quite repulsed by him , she told the court . "
+by him,repulse.01,I,,Affirmative,"  He put his tongue in my mouth , I was quite repulsed by him , she told the court . "
+"Harris , 84 , of Bray",deny.01,12 charges of,,Affirmative,"Harris , 84 , of Bray , denies 12 charges of indecent assault against four women victims between 1968 and 1986 . "
+you,agree.01,to,,Affirmative,By clicking ' search ' you are agreeing to our Terms of Use . 

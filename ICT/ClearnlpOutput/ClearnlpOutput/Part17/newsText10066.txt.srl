@@ -1,0 +1,25 @@
+1	The	the	DT	_	2	det	_
+2	request	request	NN	_	6	nsubjpass	6:A1=PPT
+3	could	could	MD	_	6	aux	6:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	processed	process	VBN	pb=process.01	0	root	_
+7	due	due	IN	p2=JJ	6	prep	6:AM-CAU
+8	to	to	IN	_	7	pcomp	_
+9	an	an	DT	_	10	det	_
+10	error	error	NN	_	7	pobj	_
+11	.	.	.	_	6	punct	_
+
+1	Query	query	NNP	p2=NN	2	nsubj	_
+2	returned	return	VBD	pb=return.02	0	root	_
+3	1	0	CD	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Requested	requested	NNP	p2=VBN	6	nn	_
+6	Document	document	NNP	p2=NN	2	dobj	2:A1=PPT;11:A1=PPT
+7	(	(	-LRB-	_	8	punct	_
+8	s	s	NN	p2=LS	6	appos	_
+9	)	)	-RRB-	_	8	punct	_
+10	Not	not	RB	p2=NNP	11	neg	11:AM-NEG
+11	Found	find	VBN	p2=VBD|pb=find.01	2	advcl	_
+12	.	.	.	_	2	punct	_
+

@@ -1,0 +1,54 @@
+1	Now	now	RB	_	2	advmod	2:AM-TMP
+2	entering	enter	VBG	pb=enter.01	15	advcl	15:AM-PRD
+3	its	its	PRP$	_	5	poss	_
+4	15th	#ord#	JJ	_	5	amod	_
+5	year	year	NN	_	2	dobj	2:A1=LOC
+6	,	,	,	_	15	punct	_
+7	Mr.	mr.	NNP	_	8	nn	_
+8	Hetfield	hetfield	NNP	_	14	poss	_
+9	's	's	POS	_	8	possessive	_
+10	Rock	rock	NNP	_	13	nn	_
+11	and	and	CC	_	10	cc	_
+12	Roll	roll	NNP	_	10	conj	_
+13	Summer	summer	NNP	_	14	nn	_
+14	Camp	camp	NNP	_	15	nsubj	2:A0=PPT;15:A0=PAG
+15	begins	begin	VBZ	pb=begin.01	0	root	_
+16	Monday	monday	NNP	_	15	npadvmod	15:AM-TMP
+17	,	,	,	_	18	punct	_
+18	July	july	NNP	_	15	npadvmod	15:AM-TMP
+19	21	0	CD	_	18	num	_
+20	,	,	,	_	15	punct	_
+21	and	and	CC	_	18	cc	_
+22	continues	continue	VBZ	pb=continue.01	18	conj	_
+23	through	through	IN	p2=RP	22	prep	22:AM-TMP
+24	Friday	friday	NNP	_	23	pobj	_
+25	,	,	,	_	24	punct	_
+26	Aug	aug	NNP	_	24	appos	_
+27	.	.	.	_	15	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	year	year	NN	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	camp	camp	NN	_	5	nsubj	5:A1=PPT
+5	returns	return	VBZ	p2=NNS|pb=return.01	0	root	_
+6	to	to	IN	p2=TO	5	prep	5:A4=GOL
+7	Rehoboth	rehoboth	NNP	_	9	nn	_
+8	Elementary	elementary	NNP	_	9	nn	_
+9	School	school	NNP	_	6	pobj	_
+10	in	in	IN	_	9	prep	_
+11	Rehoboth	rehoboth	NNP	_	10	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	cost	cost	NN	_	6	nsubj	6:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	the	the	DT	_	5	det	_
+5	camp	camp	NN	_	3	pobj	_
+6	is	be	VBZ	pb=be.01	0	root	_
+7	$	$	$	_	8	nmod	_
+8	400	0	CD	_	6	attr	6:A2=PRD
+9	.	.	.	_	6	punct	_
+

@@ -1,0 +1,86 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The man charged with murdering,murder.01,nanny Aoife Phelan,,Affirmative,The man charged with murdering Laois nanny Aoife Phelan told detectives that he killed her because her pregnancy was going to scupper his relationship with his ex-girlfriend . 
+The man charged with murdering,tell.01,that he killed her,detectives,Affirmative,The man charged with murdering Laois nanny Aoife Phelan told detectives that he killed her because her pregnancy was going to scupper his relationship with his ex-girlfriend . 
+The man charged with murdering Laois nanny Aoife Phelan,kill.01,Laois nanny Aoife Phelan,,Affirmative,The man charged with murdering Laois nanny Aoife Phelan told detectives that he killed her because her pregnancy was going to scupper his relationship with his ex-girlfriend . 
+her pregnancy,scupper.01,his relationship with,,Affirmative,The man charged with murdering Laois nanny Aoife Phelan told detectives that he killed her because her pregnancy was going to scupper his relationship with his ex-girlfriend . 
+The jury in,hear.01,extracts from,,Affirmative,The jury in Robert Corbet 's trial today heard extracts from the interviews he gave gardai after her body was discovered on his property . 
+Robert Corbet 's,give.01,gardai,,Affirmative,The jury in Robert Corbet 's trial today heard extracts from the interviews he gave gardai after her body was discovered on his property . 
+"year - old from Capoley ,",plead.02,not guilty to murdering,,Affirmative,"The 25 - year - old from Capoley , Sheffield Cross , Laois has pleaded not guilty to murdering Ms Phelan . "
+"year - old from Capoley ,",murder.01,Ms Phelan 's,,Affirmative,"The 25 - year - old from Capoley , Sheffield Cross , Laois has pleaded not guilty to murdering Ms Phelan . "
+"The 25-year-old from Capoley , Sheffield Cross , Laois",admit.01,manslaughter between,,Affirmative,"However he has admitted the 30 - year - old 's manslaughter between October 25th and November 7th , when her body was found in a barrel , buried in Capoley . "
+The Central Criminal Court,hear.01,Corbet first denied involvement in,,Affirmative,"The Central Criminal Court heard last week that Mr Corbet first denied involvement in her disappearance , but admitted killing her after phone records were put to him . "
+Mr Corbet,deny.01,involvement in,,Affirmative,"The Central Criminal Court heard last week that Mr Corbet first denied involvement in her disappearance , but admitted killing her after phone records were put to him . "
+Mr Corbet,admit.01,killing her,,Affirmative,"The Central Criminal Court heard last week that Mr Corbet first denied involvement in her disappearance , but admitted killing her after phone records were put to him . "
+Mr Corbet,say.01,he had snapped and hit her,,Affirmative,He said he had snapped and hit her while in his jeep and had thrown her body in a river . 
+Mr Corbet,hit.01,the 30-year-old 's,,Affirmative,He said he had snapped and hit her while in his jeep and had thrown her body in a river . 
+the trial,hear.01,property was searched and,,Affirmative,"However , the trial heard that his property was searched and her body was discovered in a barrel buried about 10 - feet deep . "
+Mr Corbet,send.01,gardai,to,Affirmative,"He apologised for sending gardai to the river , but said he had wanted ' to protect the home place ' . "
+Mr Corbet,say.01,he had wanted ',,Affirmative,"He apologised for sending gardai to the river , but said he had wanted ' to protect the home place ' . "
+Mr Corbet,want.01,to protect,,Affirmative,"He apologised for sending gardai to the river , but said he had wanted ' to protect the home place ' . "
+Mr Corbet,protect.01,the home place ',,Affirmative,"He apologised for sending gardai to the river , but said he had wanted ' to protect the home place ' . "
+Detective Garda Brian Hanley,testify.01,that he interviewed,,Affirmative,"Detective Garda Brian Hanley testified yesterday that he interviewed the accused on November 7th , hours after Ms Phelan 's body was found . "
+Detective Garda Brian Hanley,interview.01,the accused,,Affirmative,"Detective Garda Brian Hanley testified yesterday that he interviewed the accused on November 7th , hours after Ms Phelan 's body was found . "
+the accused on November 7th,say.01,he had collected her in Portlaoise,,Affirmative,The accused said he had collected her in Portlaoise on the evening of October 25th and brought her to Capoley and that they had chatted in a garage while he cleaned out his jeep . 
+Detective Garda Brian Hanley,collect.01,Ms Phelan 's,,Affirmative,The accused said he had collected her in Portlaoise on the evening of October 25th and brought her to Capoley and that they had chatted in a garage while he cleaned out his jeep . 
+Detective Garda Brian Hanley,bring.01,Ms Phelan 's,to Capoley,Affirmative,The accused said he had collected her in Portlaoise on the evening of October 25th and brought her to Capoley and that they had chatted in a garage while he cleaned out his jeep . 
+Detective Garda Brian Hanley,clean.03,his jeep,,Affirmative,The accused said he had collected her in Portlaoise on the evening of October 25th and brought her to Capoley and that they had chatted in a garage while he cleaned out his jeep . 
+Detective Garda Brian Hanley,say.01,"he snapped , put",,Affirmative,"He said he snapped , put his right forearm around her neck and that they fell to the ground . "
+Detective Garda Brian Hanley,put.01,his right forearm,around,Affirmative,"He said he snapped , put his right forearm around her neck and that they fell to the ground . "
+Detective Garda Brian Hanley,say.01,she banged,,Affirmative,He said she banged her head and he saw blood coming from her eye . 
+Ms Phelan 's,bang.02,her head,,Affirmative,He said she banged her head and he saw blood coming from her eye . 
+Detective Garda Brian Hanley,see.01,blood coming from,,Affirmative,He said she banged her head and he saw blood coming from her eye . 
+Detective Garda Brian Hanley,have.03,"a good , firm grip",,Affirmative,"I had a good , firm grip , he said . "
+Detective Garda Brian Hanley,say.01,I had,,Affirmative,"I had a good , firm grip , he said . "
+you,try.01,to do,,Affirmative,What were you trying to do ? 
+you,reply.01,Kill her,,Affirmative,"Kill her , he replied . "
+you,think.01,would be,,Affirmative,He was asked what he thought the end result of placing his arm around her neck would be . 
+you,reply.01,Death,,Affirmative,"Death , he replied . "
+you,strangle.01,her,,Affirmative,"I strangled her , he replied . "
+you,reply.01,I strangled her,,Affirmative,"I strangled her , he replied . "
+you,say.01,She was forward about,,Affirmative,"She was forward about our relationship and giving me agro about it , he said . "
+you,say.01,he started,,Affirmative,He said he started to panic when she did n't move . 
+you,start.01,to panic,,Affirmative,He said he started to panic when she did n't move . 
+you,say.01,he realised,,Affirmative,He said he realised she was dead and saw an empty barrel . 
+you,realize.01,she was dead,,Affirmative,He said he realised she was dead and saw an empty barrel . 
+you,see.01,an empty barrel,,Affirmative,He said he realised she was dead and saw an empty barrel . 
+you,put.01,a black sack,over,Affirmative,He put a black sack over her head . 
+you,put.01,two cable ties around it,,Affirmative,"I put two cable ties around it , he said . "
+you,say.01,I put,,Affirmative,"I put two cable ties around it , he said . "
+you,put.01,the bag,over,Affirmative,He was asked why he had put the bag over her head . 
+you,want.01,her to come back to life,,Affirmative,He was asked if he had wanted her to come back to life . 
+you,say.01,he put her in,,Affirmative,"He said he put her in the barrel , sealed it and left it in the shed overnight . "
+you,put.01,her,in,Affirmative,"He said he put her in the barrel , sealed it and left it in the shed overnight . "
+you,seal.01,an empty barrel,,Affirmative,"He said he put her in the barrel , sealed it and left it in the shed overnight . "
+you,leave.01,an empty barrel,,Affirmative,"He said he put her in the barrel , sealed it and left it in the shed overnight . "
+you,drive.01,The following morning,,Affirmative,"The following morning , he drove it over to a large hole he had dug a few weeks earlier and rolled it in . "
+you,dig.01,a large hole,,Affirmative,"The following morning , he drove it over to a large hole he had dug a few weeks earlier and rolled it in . "
+you,roll.01,The following morning,,Affirmative,"The following morning , he drove it over to a large hole he had dug a few weeks earlier and rolled it in . "
+D Gda Conor Murphy,say.01,he interviewed,,Affirmative,"D Gda Conor Murphy said he interviewed the accused the following morning , November 8th . "
+D Gda Conor Murphy,interview.01,the accused,,Affirmative,"D Gda Conor Murphy said he interviewed the accused the following morning , November 8th . "
+The Central Criminal Court,hear.01,Corbet flew to,,Affirmative,The court has already heard that Mr Corbet flew to New York to visit his ex-girlfriend on a pre-planned trip the following evening . 
+Mr Corbet,visit.01,his ex-girlfriend,,Affirmative,The court has already heard that Mr Corbet flew to New York to visit his ex-girlfriend on a pre-planned trip the following evening . 
+Mr Corbet,want.01,"everything sorted with Aoife ,",,Affirmative,"I wanted everything sorted with Aoife , where we stood so I could tell Caitriona , he said . "
+Mr Corbet,say.01,"I wanted everything sorted with Aoife ,",,Affirmative,"I wanted everything sorted with Aoife , where we stood so I could tell Caitriona , he said . "
+Mr Corbet,intend.01,Phelan to leave,,Affirmative,It was suggested that he had never intended for Ms Phelan to leave his yard that night . 
+Ms Phelan 's,leave.01,his yard,,Affirmative,It was suggested that he had never intended for Ms Phelan to leave his yard that night . 
+you,try.01,to say,,Affirmative,Are you trying to say this was pre-meditated ? 
+you,say.01,this was pre-meditated,,Affirmative,Are you trying to say this was pre-meditated ? 
+Mr Corbet,agree.01,that he knew,,Affirmative,He agreed that he knew the large hole in his land was going to be covered and was asked if he wanted her to be found . 
+Mr Corbet,know.01,the large hole,,Affirmative,He agreed that he knew the large hole in his land was going to be covered and was asked if he wanted her to be found . 
+Mr Corbet,want.01,her to be found,,Affirmative,He agreed that he knew the large hole in his land was going to be covered and was asked if he wanted her to be found . 
+Mr Corbet,say.01,fear of,,Affirmative,"When asked why , he said : ' fear of the consequences ' . "
+you,have.03,a hold of her,,Affirmative,"When you had a hold of her in the shed , did you want her dead ? "
+you,want.01,her dead,,Affirmative,"When you had a hold of her in the shed , did you want her dead ? "
+you,agree.01,that she was,,Affirmative,He agreed that she was a big barrier to him getting back together with his ex-girlfriend . 
+her pregnancy,scupper.01,the love of your life,,Affirmative,"The pregnancy was going to scupper it , the love of your life . "
+your,kill.01,Laois nanny Aoife Phelan,,Affirmative,Is that why you killed Aoife Phelan ? 
+The jury,see.01,bag bearing,,Affirmative,"The jury earlier saw the plastic bag bearing the accused man 's palm print and two cable ties , which were found around Ms Phelan 's head and neck . "
+the plastic bag,bear.01,palm print and,,Affirmative,"The jury earlier saw the plastic bag bearing the accused man 's palm print and two cable ties , which were found around Ms Phelan 's head and neck . "
+Sergeant Colm Reilly of,testify.01,that he attended,,Affirmative,Detective Sergeant Colm Reilly of the Garda Technical Bureau testified that he attended the post-mortem exam on Ms Phelan 's body from which two black cable ties and a black plastic bag were recovered . 
+Detective Sergeant Colm Reilly of the Garda Technical Bureau,attend.01,the post-mortem exam,,Affirmative,Detective Sergeant Colm Reilly of the Garda Technical Bureau testified that he attended the post-mortem exam on Ms Phelan 's body from which two black cable ties and a black plastic bag were recovered . 
+Detective Sergeant Colm Reilly of the Garda Technical Bureau,hold.01,them,,Affirmative,He held them up in the witness box for the jury to see . 
+expert Detective James Cunningham,show.01,the court photographs of,,Affirmative,Fingerprint expert Detective James Cunningham showed the court photographs of Mr Phelan 's left palm print . 
+Fingerprint expert Detective James Cunningham,show.01,photographs of,,Affirmative,"He also showed photographs of the palm print found on the black plastic bag , which had been around Ms Phelan 's head . "
+Fingerprint expert Detective James Cunningham,have.03,no doubt,,Affirmative,"I had no doubt that the palm mark on the black bag was made by the left palm print of Robert Corbet , he said . "
+by,make.02,the palm mark on,,Affirmative,"I had no doubt that the palm mark on the black bag was made by the left palm print of Robert Corbet , he said . "
+Fingerprint expert Detective James Cunningham,say.01,I had,,Affirmative,"I had no doubt that the palm mark on the black bag was made by the left palm print of Robert Corbet , he said . "

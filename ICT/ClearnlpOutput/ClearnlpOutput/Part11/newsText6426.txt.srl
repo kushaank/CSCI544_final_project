@@ -1,0 +1,57 @@
+1	We	we	PRP	_	2	nsubj	2:A0=PAG;11:A0=PAG
+2	run	run	VBP	pb=run.01	0	root	_
+3	various	various	JJ	_	4	amod	_
+4	sites	site	NNS	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	defense	defense	NN	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	human	human	JJ	_	9	amod	_
+9	rights	right	NNS	_	7	pobj	_
+10	and	and	CC	_	2	cc	_
+11	need	need	VB	p2=NN|pb=need.01	2	conj	_
+12	support	support	NN	_	11	dobj	11:A1=PPT
+13	in	in	IN	_	12	prep	_
+14	paying	pay	VBG	pb=pay.01	13	pcomp	_
+15	for	for	IN	_	14	prep	14:A3=PPT
+16	servers	server	NNS	_	15	pobj	_
+17	.	.	.	_	2	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	delegates	delegate	NNS	_	6	nsubj	6:A0=PAG
+2	from	from	IN	_	1	prep	_
+3	several	several	JJ	_	4	amod	_
+4	countries	country	NNS	_	2	pobj	_
+5	have	have	VBP	_	6	aux	_
+6	confirmed	confirm	VBN	pb=confirm.01	0	root	_
+7	their	their	PRP$	_	8	poss	_
+8	attendance	attendance	NN	_	6	dobj	6:A1=PPT
+9	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	director	director	NN	_	14	nsubj	_
+3	of	of	IN	_	2	prep	_
+4	the	the	DT	_	7	det	_
+5	Cuban	cuban	NNP	p2=JJ	7	nn	_
+6	Napoleonic	napoleonic	NNP	_	7	nn	_
+7	Museum	museum	NNP	_	3	pobj	_
+8	and	and	CC	_	2	cc	_
+9	organizer	organizer	NN	_	2	conj	_
+10	of	of	IN	_	9	prep	_
+11	the	the	DT	_	12	det	_
+12	event	event	NN	_	10	pobj	_
+13	,	,	,	_	9	punct	_
+14	order	order	NN	p2=VBP	0	root	_
+15	to	to	TO	p2=IN	16	aux	_
+16	surface	surface	VB	p2=NN|pb=surface.01	14	infmod	_
+17	in	in	IN	_	16	prep	16:AM-LOC
+18	our	our	PRP$	_	19	poss	_
+19	culture	culture	NN	_	17	pobj	_
+20	.	.	.	_	14	punct	_
+
+1	the	the	DT	_	2	det	_
+2	windows	window	NNS	_	0	root	_
+3	.	.	.	_	2	punct	_
+

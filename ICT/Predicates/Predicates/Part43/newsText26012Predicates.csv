@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+bank Vnesheconombank,open.01,a subsidiary,,Affirmative,"MOSCOW May 19 ( Reuters ) - Russian state - owned development bank Vnesheconombank ( VEB ) has opened a subsidiary in Hong Kong to attract Asian investors into Russia and expand domestic companies ' access to Asian capital markets , the lender said on Monday . "
+bank Vnesheconombank,attract.01,Asian investors,into Russia,Affirmative,"MOSCOW May 19 ( Reuters ) - Russian state - owned development bank Vnesheconombank ( VEB ) has opened a subsidiary in Hong Kong to attract Asian investors into Russia and expand domestic companies ' access to Asian capital markets , the lender said on Monday . "
+the lender,say.01,has opened,,Affirmative,"MOSCOW May 19 ( Reuters ) - Russian state - owned development bank Vnesheconombank ( VEB ) has opened a subsidiary in Hong Kong to attract Asian investors into Russia and expand domestic companies ' access to Asian capital markets , the lender said on Monday . "
+a subsidiary,promote.02,Russian exports to east and,,Affirmative,"The subsidiary will promote Russian exports to east and southeast Asia , the bank said in a statement . "
+the bank,say.01,subsidiary will promote,,Affirmative,"The subsidiary will promote Russian exports to east and southeast Asia , the bank said in a statement . "
+Russian companies,scout.02,the possibility of raising cash via,,Affirmative,Russian companies shut out of western markets as a result of the Ukraine crisis have been scouting the possibility of raising cash via Chinese or Singaporean bonds instead . 
+Chinese investors,finance.01,"Russian projects , including",,Affirmative,"Chinese investors are also stepping up to finance Russian projects , including financing part of Novatek 's $ 27 billion Russian gas project , which lost U.S. support because of sanctions . "
+"billion Russian gas project ,",lose.02,U.S. support,,Affirmative,"Chinese investors are also stepping up to finance Russian projects , including financing part of Novatek 's $ 27 billion Russian gas project , which lost U.S. support because of sanctions . "
+by,head.01,its supervisory board,,Affirmative,VEB is a major source of long - term funding for investment projects in strategic sectors and its supervisory board is headed by Prime Minister Dmitry Medvedev . 
+a major source of long-term funding for investment projects in strategic sectors,support.01,infrastructure projects,,Affirmative,"It lends to industries of strategic importance to Russia , supports infrastructure projects and provides export finance as well as managing government assets and pensions . "
+a major source of long-term funding for investment projects in strategic sectors,support.01,Projects,,Affirmative,Projects it has supported include the Sochi Winter Olympics . 
+VEB 's,have.03,trouble refinancing,,Affirmative,VEB has had trouble refinancing a $ 2.45 billion syndicated loan . 
+VEB 's,refinance.02,billion syndicated loan,,Affirmative,VEB has had trouble refinancing a $ 2.45 billion syndicated loan . 
+VEB 's,say.01,banks were willing,,Affirmative,It said earlier in April that not all banks were willing to confirm they would participate in the loan due to market conditions and political uncertainty . 
+not all banks,confirm.01,they would participate in,,Affirmative,It said earlier in April that not all banks were willing to confirm they would participate in the loan due to market conditions and political uncertainty . 
+they,participate.01,in,,Affirmative,It said earlier in April that not all banks were willing to confirm they would participate in the loan due to market conditions and political uncertainty . 
+VEB 's,say.01,it hoped,,Affirmative,It said it hoped to attract attract debt capital in Asia . 
+VEB 's,hope.01,to attract attract,,Affirmative,It said it hoped to attract attract debt capital in Asia . 
+VEB 's,attract.01,attract,,Affirmative,It said it hoped to attract attract debt capital in Asia . 
+VEB 's,attract.01,debt capital,,Affirmative,It said it hoped to attract attract debt capital in Asia . 

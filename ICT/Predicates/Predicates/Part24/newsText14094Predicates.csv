@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a massive fire,engulf.01,a bus carrying,,Affirmative,"Bogota : On Sunday , a massive fire engulfed a bus carrying 32 children in Colombia . "
+a bus carrying,carry.01,32 children,,Affirmative,"Bogota : On Sunday , a massive fire engulfed a bus carrying 32 children in Colombia . "
+a bus carrying 32 children in Colombia,pick.04,32 children in Colombia,from,Affirmative,"As per officials said that the bus was picking up children from an event at a church in Fundacion , Colombia , when the blaze began , as per officials said . "
+Authorities,investigate.01,what caused,,Affirmative,"Authorities are investigating what caused the fire , officials said . "
+per officials,say.01,Authorities are investigating,,Affirmative,"Authorities are investigating what caused the fire , officials said . "
+one witness,tell.01,driver went,,Affirmative,"As per sources , one witness told that the driver went to get a drink and left children to put gasoline into the vehicle 's tank . "
+the driver,get.01,a drink,,Affirmative,"As per sources , one witness told that the driver went to get a drink and left children to put gasoline into the vehicle 's tank . "
+the driver,leave.01,32 children in Colombia,,Affirmative,"As per sources , one witness told that the driver went to get a drink and left children to put gasoline into the vehicle 's tank . "
+32 children in Colombia,put.01,gasoline,into,Affirmative,"As per sources , one witness told that the driver went to get a drink and left children to put gasoline into the vehicle 's tank . "
+Juan Manuel Santos,express.01,his condolence,,Affirmative,"Colombian President , Juan Manuel Santos expressed his condolence on the micro-blogging site on Sunday and traveled to the northern Colombian municipality to be with victims . "
+Juan Manuel Santos,travel.01,to,,Affirmative,"Colombian President , Juan Manuel Santos expressed his condolence on the micro-blogging site on Sunday and traveled to the northern Colombian municipality to be with victims . "
+"Colombian President , Juan Manuel Santos",say.01,country is in mourning,,Affirmative,"The country is in mourning , he said . "

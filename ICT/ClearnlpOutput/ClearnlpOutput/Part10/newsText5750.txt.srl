@@ -1,0 +1,1088 @@
+1	The	the	DT	_	4	det	_
+2	MT	mt	NNP	_	3	nn	_
+3	Conferences	conferences	NNP	p2=NNPS	4	nn	_
+4	section	section	NN	_	7	nsubj	7:A2=PPT
+5	did	do	VBD	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	involve	involve	VB	pb=involve.01	0	root	_
+8	the reporting	the reporting	VBG	p2=NNP|pb=the reporting.01	7	xcomp	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	the editorial	the editorial	JJ	p2=DT	11	amod	_
+11	staff	staff	NN	_	13	nn	_
+12	of The Moscow	of the moscow	NNP	p2=NN	13	nn	_
+13	Times	times	NNP	_	8	conj	_
+14	.	.	.	_	7	punct	_
+
+1	On April	on april	NNP	p2=IN	8	npadvmod	8:AM-TMP
+2	9	0	CD	_	1	num	_
+3	,	,	,	_	1	punct	_
+4	2014	0	CD	_	1	appos	_
+5	,	,	,	_	8	punct	_
+6	the Finance	the finance	NNP	p2=RB	7	nn	_
+7	Ministry	ministry	NNP	_	8	nsubj	8:A0=PAG
+8	issued	issue	VBD	p2=VBN|pb=issue.01	0	root	_
+9	guidelines	guideline	NNS	_	8	dobj	8:A1=PPT
+10	on the	on the	POS	p2=IN	9	possessive	_
+11	application	application	NN	_	12	nn	_
+12	of agreements	of agreements	NNS	p2=VBZ	8	dobj	_
+13	on the	on the	IN	p2=POS	9	prep	_
+14	avoidance	avoidance	NN	_	16	amod	_
+15	of double	of double	JJ	p2=NN	16	amod	_
+16	taxation	taxation	NN	_	13	pobj	22:A0=PAG
+17	(	(	-LRB-	_	18	punct	_
+18	DTAs	dtas	NNP	_	16	appos	_
+19	)	)	-RRB-	_	18	punct	_
+20	,	,	,	_	16	punct	_
+21	which	which	WDT	_	22	nsubj	22:R-A0
+22	requires	require	VBZ	pb=require.01	16	rcmod	_
+23	tax	tax	NN	_	24	nn	_
+24	agents	agent	NNS	_	22	dobj	22:A2
+25	and tax	and tax	CC	p2=POS	24	cc	_
+26	authorities	authority	NNS	_	24	conj	_
+27	to conduct	to conduct	VBP	p2=WDT	28	nn	_
+28	an assessment	an assessment	NN	p2=VBN	22	dobj	22:A1=PPT
+29	of whether	of whether	IN	p2=RB	32	mark	_
+30	foreign	foreign	JJ	_	31	amod	_
+31	recipients	recipient	NNS	_	32	nsubj	32:A0
+32	of income	of income	VBP	p2=VBN|pb=of income.01	35	advcl	35:A0
+33	in Russia	in russia	NNP	p2=NNS	32	dobj	32:A1
+34	have	have	VBP	p2=VB	35	aux	_
+35	the right	the right	VBN	p2=RB|pb=the right.01	27	advcl	_
+36	to apply	to apply	RB	p2=NNP	37	advmod	37:AM-MNR
+37	a tax	a tax	VBN	p2=''|pb=a tax.01	38	amod	_
+38	exemption	exemption	NN	_	39	nn	37:A1
+39	in Russia	in russia	NNP	p2=NN	35	dobj	35:A1
+40	or	or	CC	_	39	cc	_
+41	a lower	a lower	JJR	p2=NNP	43	amod	_
+42	tax	tax	NN	_	43	nn	_
+43	rate	rate	NN	_	35	dobj	_
+44	.	.	.	_	8	punct	_
+
+1	Combatting	combat	VBG	p2=NN	2	nn	_
+2	the abuse	the abuse	NNP	p2=EX	3	nn	_
+3	of DTAs	of dtas	NNP	p2=NNPS	5	nsubj	5:A1=PPT
+4	has	have	VBZ	_	5	aux	_
+5	been	be	VBN	pb=be.01	0	root	_
+6	a priority	a priority	NNP	p2=,	7	nn	_
+7	in Russia	in russia	NNP	_	13	poss	_
+8	's	's	POS	_	7	possessive	_
+9	tax	tax	NN	_	10	nn	_
+10	policy	policy	NN	_	12	nn	_
+11	for a	for a	NN	p2=''	12	nn	_
+12	number	number	NN	_	13	nn	_
+13	of years	of years	NNS	p2=RB	5	attr	5:A2=PRD
+14	.	.	.	_	5	punct	_
+
+1	Given	give	VBN	_	33	prep	33:AM-ADV
+2	that	that	IN	p2=DT	6	complm	_
+3	most	most	JJS	p2=RBS	5	amod	_
+4	Russian	russian	JJ	_	5	amod	_
+5	DTAs	dtas	NNP	p2=NNS	6	nsubj	6:A1=PPT
+6	operate	operate	VBP	p2=VB|pb=operate.01	1	pcomp	_
+7	on the	on the	IN	p2=PRP	6	prep	6:AM-MNR
+8	basis	basis	NN	_	7	pobj	_
+9	of 	of 	IN	p2=CC	6	prep	6:AM-MNR
+10	"	"	``	_	13	punct	_
+11	actual	actual	JJ	_	13	amod	_
+12	recipient	recipient	NN	_	13	nn	_
+13	of income	of income	NN	p2=RB	9	pobj	_
+14	"	"	''	_	13	punct	_
+15	or	or	CC	_	13	cc	_
+16	"	"	``	p2=''	18	punct	_
+17	beneficiary	beneficiary	NN	p2=JJ	18	nn	_
+18	owner	owner	NN	_	13	conj	22:A1=PPT
+19	of income	of income	,	p2=''	18	punct	_
+20	"	"	''	p2=``	18	punct	_
+21	(	(	-LRB-	_	18	punct	_
+22	translated	translate	VBN	pb=translate.01	18	partmod	_
+23	in various	in various	JJ	p2=NNP	24	amod	_
+24	ways	way	NNS	_	22	npadvmod	22:AM-MNR
+25	)	)	-RRB-	_	18	punct	_
+26	,	,	,	_	18	punct	_
+27	without	without	IN	_	6	prep	6:AM-MNR
+28	defining	define	VBG	pb=define.01	27	pcomp	_
+29	the term	the term	RB	p2=NN	28	advmod	28:AM-MNR
+30	,	,	,	_	33	punct	_
+31	it	it	PRP	_	33	nsubj	_
+32	would	would	MD	_	33	aux	33:AM-MOD
+33	appear	appear	VB	pb=appear.02	0	root	_
+34	that	that	IN	p2=DT	38	complm	_
+35	regulation	regulation	NN	_	37	nn	_
+36	of this	of this	PRP$	p2=SYM	37	poss	_
+37	issue	issue	NN	_	38	nsubj	38:A1=PPT
+38	is	be	VBZ	pb=be.01	33	ccomp	33:A1=PPT
+39	a matter	a matter	RB	p2=JJR	38	advmod	38:A2=PRD
+40	for the	for the	JJ	p2=VB	42	amod	_
+41	national	national	JJ	_	42	amod	_
+42	law	law	NN	_	38	attr	_
+43	of the	of the	IN	p2=NN	42	prep	_
+44	contracting	contracting	NN	p2=VBG	45	nn	_
+45	states	state	NNS	_	43	pobj	_
+46	.	.	.	_	33	punct	_
+
+1	Unfortunately	unfortunately	RB	_	8	advmod	8:AM-ADV
+2	,	,	,	_	8	punct	_
+3	to date	to date	JJ	p2=VB	5	amod	_
+4	Russian	russian	JJ	_	5	amod	_
+5	legislation	legislation	NN	_	8	nsubj	8:A0=PAG
+6	has	have	VBZ	_	8	aux	_
+7	not	not	RB	_	8	neg	8:AM-NEG
+8	formulated	formulate	VBN	pb=formulate.01	0	root	_
+9	the concept	the concept	IN	p2=DT	8	prep	8:A1=PRD
+10	of actual	of actual	JJ	_	12	amod	_
+11	recipient	recipient	NN	_	12	nn	_
+12	of income	of income	NN	p2=RB	9	pobj	_
+13	.	.	.	_	8	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	perhaps	perhaps	RB	_	2	advmod	2:AM-ADV
+4	due	due	JJ	_	6	amod	_
+5	to the	to the	NN	p2=IN	6	nn	_
+6	complexity	complexity	NN	_	8	nn	_
+7	of the	of the	NN	p2=SYM	8	nn	_
+8	subject	subject	NN	_	2	attr	2:A2=PRD
+9	,	,	,	_	2	punct	_
+10	as	as	IN	_	12	mark	_
+11	it	it	PRP	_	12	nsubj	12:A1=PPT
+12	is	be	VBZ	pb=be.01	2	advcl	2:AM-ADV
+13	no	no	DT	p2=RB	14	det	_
+14	secret	secret	NN	p2=JJ	12	attr	12:A2=PRD
+15	that	that	WDT	p2=IN	36	complm	_
+16	the Organization	the organization	NNP	p2=NN	19	nn	_
+17	for Economic	for economic	NNP	p2=VBD	19	nn	_
+18	Cooperation	cooperation	NNP	_	19	nn	_
+19	and Development	and development	NNP	_	36	nsubj	26:A0=PAG;36:A0
+20	(	(	-LRB-	_	19	punct	_
+21	OECD	oecd	NNP	_	19	appos	_
+22	)	)	-RRB-	_	19	punct	_
+23	,	,	,	_	19	punct	_
+24	which	which	WDT	_	26	nsubj	26:R-A0
+25	initially	initially	RB	_	26	advmod	26:AM-TMP
+26	proposed	propose	VBD	pb=propose.01	19	rcmod	_
+27	the application	the application	NN	p2=CD	31	nn	_
+28	of this	of this	POS	p2=PRP$	27	possessive	_
+29	concept	concept	NN	_	30	nn	_
+30	in tax	in tax	NN	p2=NNP	31	nn	_
+31	treaties	treaty	NNS	_	26	dobj	26:A1=PPT
+32	,	,	,	_	19	punct	_
+33	has	have	VBZ	_	36	aux	_
+34	also	also	RB	_	36	advmod	36:AM-ADV
+35	yet	yet	RB	p2=CC	36	advmod	36:AM-TMP
+36	to make	to make	VBN	p2=JJ|pb=to make.01	14	rcmod	_
+37	substantive	substantive	JJ	_	40	amod	_
+38	progress	progress	NN	_	39	nn	_
+39	in this	in this	NN	p2=POS	40	nn	_
+40	matter	matter	NN	_	36	dobj	36:A1
+41	.	.	.	_	2	punct	_
+
+1	As	as	IN	_	19	prep	19:AM-MNR
+2	a result	a result	NNP	p2=DT	6	poss	_
+3	of the	of the	POS	p2=JJ	2	possessive	_
+4	absence	absence	NN	_	6	amod	_
+5	of a	of a	NN	p2=NNP	6	amod	_
+6	definition	definition	NN	_	1	pobj	_
+7	of 	of 	IN	p2=NN	6	prep	_
+8	"	"	``	_	11	punct	_
+9	actual	actual	JJ	_	11	amod	_
+10	recipient	recipient	NN	_	11	nn	_
+11	of income	of income	NN	p2=''	7	pobj	_
+12	"	"	''	_	11	punct	_
+13	,	,	,	_	19	punct	_
+14	the respective	the respective	JJ	p2=CD	16	amod	_
+15	DTA	dta	NNP	p2=NN	16	nn	_
+16	provisions	provision	NNS	_	19	nsubjpass	19:A1=PPT
+17	are	be	VBP	_	19	auxpass	_
+18	effectively	effectively	RB	_	19	advmod	19:AM-MNR
+19	disregarded	disregard	VBN	pb=disregard.01	0	root	_
+20	.	.	.	_	19	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	probably	probably	RB	_	2	advmod	2:AM-ADV
+4	why	why	WRB	_	8	advmod	8:R-AM-CAU
+5	the Finance	the finance	NNP	p2=IN	6	nn	_
+6	Ministry	ministry	NNP	_	8	nsubj	8:A0=PAG
+7	is	be	VBZ	_	8	aux	_
+8	trying	try	VBG	pb=try.01	2	advcl	2:A2=PRD
+9	to boost	to boost	JJS	p2=JJ	10	amod	_
+10	efforts	effort	NNS	_	8	dobj	8:A1=PPT
+11	against	against	IN	_	10	prep	_
+12	the abuse	the abuse	DT	p2=NNP	13	det	_
+13	of DTAs	of dtas	NNS	p2=NNP	11	pobj	_
+14	,	,	,	_	2	punct	_
+15	at least	at least	IN	p2=JJS	8	prep	_
+16	at the	at the	DT	p2=JJ	18	det	_
+17	level	level	NN	_	18	nn	_
+18	of guidance	of guidance	NN	p2=IN	15	pobj	_
+19	from the	from the	IN	p2=JJ	18	prep	_
+20	competent	competent	JJ	_	21	amod	_
+21	authority	authority	NN	_	19	pobj	_
+22	on the	on the	NN	p2=DT	24	nn	_
+23	application	application	NN	_	24	nn	_
+24	of DTAs	of dtas	NNS	p2=NNP	19	pobj	_
+25	.	.	.	_	2	punct	_
+
+1	The Finance	the finance	NNP	p2=IN	2	nn	_
+2	Ministry	ministry	NNP	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	guidelines	guideline	NNS	_	5	nsubj	5:A0=PAG
+5	emphasize	emphasize	VBP	p2=VB|pb=emphasize.01	0	root	_
+6	that	that	IN	p2=DT	11	complm	_
+7	the term	the term	EX	p2=PRP$	11	amod	_
+8	"	"	``	_	11	punct	_
+9	actual	actual	JJ	_	11	amod	_
+10	beneficiary	beneficiary	NN	_	11	nn	_
+11	of income	of income	NN	p2=''	15	nsubjpass	_
+12	"	"	''	_	11	punct	_
+13	is	be	VBZ	_	15	auxpass	_
+14	not	not	RB	_	15	neg	15:AM-NEG
+15	used	use	VBN	p2=JJ|pb=use.01	5	ccomp	5:A1=PPT
+16	in a	in a	NNP	p2=CD	19	nn	_
+17	narrow	narrow	JJ	p2=VB	19	amod	_
+18	technical	technical	JJ	_	19	amod	_
+19	sense	sense	NN	_	15	dobj	15:A1=PPT
+20	,	,	,	_	15	punct	_
+21	but	but	CC	_	15	cc	_
+22	on the	on the	JJ	p2=DT	25	amod	_
+23	basis	basis	NN	_	24	nn	_
+24	of the	of the	NN	p2=DT	25	nn	_
+25	purpose	purpose	NN	_	26	nsubj	26:A0
+26	and objectives	and objectives	VBZ	p2=NNS|pb=and objectives.01	15	conj	_
+27	of the	of the	JJ	p2=RP	28	amod	_
+28	DTA	dta	NNP	p2=NN	26	dobj	26:A1
+29	:	:	:	_	26	punct	_
+30	the elimination	the elimination	NN	p2=CD	32	amod	_
+31	of double	of double	JJ	p2=NN	32	amod	_
+32	taxation	taxation	NN	_	26	npadvmod	_
+33	,	,	,	_	32	punct	_
+34	prevention	prevention	NN	_	35	nn	_
+35	of abuse	of abuse	NN	p2=IN	36	npadvmod	_
+36	of contractual	of contractual	JJ	p2=NN	37	amod	_
+37	provisions	provision	NNS	_	32	conj	_
+38	,	,	,	_	37	punct	_
+39	and prevalence	and prevalence	NNP	p2=NN	11	appos	_
+40	of substance	of substance	RB	p2=NNP	41	advmod	_
+41	over	over	IN	p2=RB	39	prep	_
+42	form	form	NN	_	41	pobj	_
+43	.	.	.	_	26	punct	_
+
+1	Under	under	IN	_	20	prep	20:AM-LOC
+2	this	this	DT	_	3	det	_
+3	approach	approach	NN	_	1	pobj	_
+4	,	,	,	_	1	punct	_
+5	the fact	the fact	IN	p2=''	10	mark	_
+6	that	that	IN	p2=DT	10	mark	_
+7	the recipient	the recipient	JJ	p2=NNP	9	amod	_
+8	of the	of the	JJ	p2=NN	9	amod	_
+9	income	income	NN	_	10	nsubj	10:A1=PPT
+10	is	be	VBZ	pb=be.01	1	advcl	_
+11	a resident	a resident	JJ	p2=VBN	12	amod	_
+12	of one	of one	NN	p2=JJ	10	attr	10:A2=PRD
+13	of the	of the	IN	p2=HYPH	12	prep	_
+14	contracting	contracting	NN	p2=VBG	15	nn	_
+15	states	state	NNS	_	13	pobj	_
+16	does	do	VBZ	_	20	aux	_
+17	not	not	RB	_	18	neg	_
+18	per	per	FW	p2=VB	19	advmod	_
+19	se	se	FW	_	20	nsubj	20:A0=PAG
+20	mean	mean	VB	p2=VBP|pb=mean.01	0	root	_
+21	that	that	IN	_	26	complm	_
+22	that	that	DT	_	23	det	_
+23	person	person	NN	_	26	nsubjpass	26:A1=PPT
+24	should	should	MD	_	26	aux	26:AM-MOD
+25	be	be	VB	_	26	auxpass	_
+26	treated	treat	VBN	pb=treat.01	20	ccomp	20:A1=PPT
+27	as	as	IN	_	26	prep	26:A2=PRD
+28	the actual	the actual	JJ	p2=DT	29	amod	_
+29	beneficiary	beneficiary	NN	_	27	pobj	_
+30	of the	of the	DT	p2=NN	31	det	_
+31	income	income	NN	_	26	npadvmod	_
+32	.	.	.	_	20	punct	_
+
+1	As	as	IN	_	3	mark	_
+2	examples	example	NNS	p2=VBZ	3	nsubj	3:A0
+3	of cases	of cases	VBZ	p2=NNS|pb=of cases.01	21	advcl	21:AM-ADV
+4	where	where	WRB	_	12	advmod	12:R-AM-LOC
+5	a resident	a resident	JJ	p2=NNP	8	amod	_
+6	of a	of a	JJ	p2=HYPH	8	amod	_
+7	contracting	contracting	NN	_	8	nn	_
+8	state	state	NN	_	12	nsubjpass	12:A1=PPT
+9	should	should	MD	_	12	aux	12:AM-MOD
+10	not	not	RB	_	12	neg	12:AM-NEG
+11	be	be	VB	_	12	auxpass	_
+12	treated	treat	VBN	pb=treat.01	3	ccomp	3:A1
+13	as	as	IN	_	12	prep	12:A2=PRD
+14	the actual	the actual	JJ	p2=DT	16	amod	_
+15	beneficiary	beneficiary	NN	_	16	nn	_
+16	of income	of income	NN	p2=NNP	13	pobj	_
+17	,	,	,	_	21	punct	_
+18	the Finance	the finance	NNP	p2=IN	19	nn	_
+19	Ministry	ministry	NNP	_	21	nsubj	21:A0
+20	has	have	VBZ	_	21	aux	_
+21	followed	followed	VBN	pb=follow.02	0	root	_
+22	the OECD	the oecd	NNP	p2=RB	27	nn	_
+23	Commentary	commentary	NNP	_	25	nn	_
+24	on the	on the	NNP	p2=IN	25	nn	_
+25	Model	model	NNP	_	27	nn	_
+26	Tax	tax	NNP	_	27	nn	_
+27	Convention	convention	NNP	_	21	dobj	28:A0;21:A2
+28	in citing	in citing	VBG	p2=NNP|pb=in citing.01	27	partmod	_
+29	agents	agent	NNS	_	31	poss	_
+30	and nominee	and nominee	POS	p2=NNP	29	possessive	_
+31	holdings	holding	NNS	_	28	dobj	28:A1
+32	.	.	.	_	21	punct	_
+
+1	The Finance	the finance	NNP	p2=IN	2	nn	_
+2	Ministry	ministry	NNP	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	logic	logic	NN	_	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	0	root	_
+6	that	that	IN	_	26	complm	_
+7	agents	agent	NNS	_	9	poss	_
+8	and nominee	and nominee	POS	p2=XX	7	possessive	_
+9	holders	holder	NNS	_	26	nsubj	26:A1=PPT
+10	of assets	of assets	NNS	p2=CC	13	nsubj	13:A0=PAG
+11	can	can	MD	_	13	aux	13:AM-MOD
+12	not	not	RB	_	13	neg	13:AM-NEG
+13	apply	apply	VB	pb=apply.02	9	rcmod	_
+14	the benefits	the benefits	NNS	p2=PRP$	13	dobj	13:A1=PPT;15:A1
+15	provided	provided	VBN	p2=VBD|pb=provide.01	14	partmod	_
+16	by a	by a	IN	p2=NNP	15	prep	15:A2
+17	Russian	russian	JJ	p2=NNP	18	amod	_
+18	DTA	dta	NNP	p2=NN	16	pobj	_
+19	with	with	IN	_	15	prep	_
+20	the state	the state	NNP	p2=PRP$	22	nn	_
+21	of which	of which	NNP	p2=POS	22	nn	_
+22	the agent	the agent	NNP	p2=NN	19	pobj	_
+23	or	or	CC	_	22	cc	_
+24	nominee	nominee	NN	_	25	nn	_
+25	holder	holder	NN	_	22	conj	_
+26	is	be	VBZ	pb=be.01	5	ccomp	5:A2=PRD
+27	resident	resident	NN	p2=JJ	26	attr	26:A2=PRD
+28	,	,	,	_	27	punct	_
+29	if	if	IN	_	34	mark	_
+30	the beneficiary	the beneficiary	NNP	p2=DT	34	nsubj	34:A1=PPT
+31	(	(	-LRB-	_	32	punct	_
+32	principal	principal	NN	p2=JJ	30	appos	_
+33	)	)	-RRB-	_	32	punct	_
+34	is	be	VBZ	pb=be.01	26	advcl	26:AM-ADV
+35	not	not	RB	_	34	neg	34:AM-NEG
+36	also	also	RB	_	37	advmod	_
+37	a resident	a resident	JJ	p2=NNP	39	amod	_
+38	of that	of that	JJ	p2=NN	39	amod	_
+39	state	state	NN	_	34	attr	34:A2=PRD
+40	.	.	.	_	5	punct	_
+
+1	Another	another	DT	_	2	det	_
+2	example	example	NN	_	32	nsubjpass	32:A1=PPT
+3	in which	in which	WDT	p2=HYPH	10	advmod	_
+4	the formal	the formal	JJ	p2=DT	5	amod	_
+5	recipient	recipient	NN	_	7	nn	_
+6	of the	of the	JJ	p2=NN	7	amod	_
+7	income	income	NN	_	10	nsubj	10:A0=PAG
+8	does	do	VBZ	_	10	aux	_
+9	not	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	2	rcmod	_
+11	the rights	the rights	NNS	p2=PRP$	14	poss	_
+12	of the	of the	POS	p2=VBN	11	possessive	_
+13	beneficiary	beneficiary	NN	_	14	nn	_
+14	owner	owner	NN	_	10	dobj	10:A1=PPT
+15	(	(	-LRB-	_	14	punct	_
+16	and	and	CC	_	14	cc	_
+17	therefore	therefore	RB	_	32	advmod	32:AM-DIS
+18	the right	the right	RB	p2=DT	20	advmod	_
+19	to apply	to apply	JJ	p2=JJS	20	amod	_
+20	benefits	benefit	NNS	_	14	conj	_
+21	under	under	IN	_	20	prep	_
+22	a Russian	a russian	JJ	p2=NNP	23	nn	_
+23	DTA	dta	NNP	p2=NN	21	pobj	_
+24	with	with	IN	_	20	prep	_
+25	the state	the state	NNP	p2=NN	26	nn	_
+26	in which	in which	NNP	p2=WDT	30	nn	_
+27	the formal	the formal	JJ	p2=NNP	30	amod	_
+28	recipient	recipient	NN	_	30	nn	_
+29	of the	of the	NN	p2=JJ	30	nn	_
+30	income	income	NN	_	24	pobj	_
+31	is	be	VBZ	_	32	auxpass	_
+32	located	locate	VBN	pb=locate.01	0	root	_
+33	)	)	-RRB-	_	32	punct	_
+34	given	give	VBN	_	32	prep	_
+35	by the	by the	NNP	p2=NN	37	nn	_
+36	Finance	finance	NNP	_	37	nn	_
+37	Ministry	ministry	NNP	_	40	nsubjpass	40:A1
+38	is	be	VBZ	_	40	auxpass	_
+39	the use	the use	RB	p2=NNP	40	advmod	40:AM-TMP
+40	of conduit	of conduit	VBN	p2=NNP|pb=of conduit.01	32	conj	_
+41	(	(	-LRB-	_	40	punct	_
+42	intermediary	intermediary	NN	p2=JJ	40	npadvmod	_
+43	)	)	-RRB-	_	40	punct	_
+44	companies	company	VBZ	_	54	nsubj	54:A0=PAG
+45	with	with	IN	_	44	prep	_
+46	"	"	``	_	45	punct	_
+47	narrow	narrow	JJ	_	48	amod	_
+48	authority	authority	NN	_	45	pobj	_
+49	"	"	''	_	45	punct	_
+50	with	with	IN	_	44	prep	_
+51	respect	respect	NN	_	53	nn	_
+52	to the	to the	NN	p2=DT	53	nn	_
+53	income	income	NN	_	50	pobj	_
+54	received	receive	VBD	p2=VBN|pb=receive.01	32	conj	_
+55	,	,	,	_	54	punct	_
+56	that	that	RB	_	57	advmod	_
+57	is	is	RB	_	44	advmod	_
+58	,	,	,	_	62	punct	_
+59	acting	act	VBG	p2=NN|pb=act.02	70	amod	_
+60	,	,	,	_	59	punct	_
+61	in the	in the	JJ	p2=VB	62	amod	_
+62	opinion	opinion	NN	_	34	pobj	_
+63	of the	of the	IN	p2=SYM	62	prep	_
+64	competent	competent	JJ	_	65	amod	_
+65	authority	authority	NN	_	63	pobj	_
+66	,	,	,	_	40	punct	_
+67	on behalf	on behalf	IN	p2=JJ	48	prep	_
+68	of interested	of interested	JJ	p2=VBN	70	amod	_
+69	third	#ord#	JJ	_	70	amod	_
+70	parties	party	NNS	_	67	pobj	59:A0=PAG
+71	.	.	.	_	32	punct	_
+
+1	b	b	LS	p2=NN	3	meta	_
+2	)	)	-RRB-	_	1	punct	_
+3	have	have	VBP	p2=VB|pb=have.03	0	root	_
+4	the ability	the ability	NN	p2=PRP$	10	amod	_
+5	to determine	to determine	NN	p2=CD	10	nn	_
+6	the subsequent	the subsequent	JJ	p2=WDT	8	amod	_
+7	economic	economic	JJ	_	8	amod	_
+8	use	use	NN	_	10	nn	_
+9	of the	of the	NN	p2=DT	10	nn	_
+10	income	income	NN	_	3	dobj	3:A1=PPT
+11	.	.	.	_	3	punct	_
+
+1	In order	in order	RBR	p2=JJR	2	amod	_
+2	to determine	to determine	NN	p2=RB	13	npadvmod	13:AM-TMP
+3	whether	whether	IN	_	8	complm	_
+4	the formal	the formal	JJ	p2=DT	7	amod	_
+5	recipient	recipient	NN	_	7	nn	_
+6	of the	of the	JJ	p2=NN	7	amod	_
+7	income	income	NN	_	8	nsubj	8:A0=PAG
+8	meets	meet	VBZ	pb=meet.02	2	ccomp	_
+9	this	this	DT	_	10	det	_
+10	criterion	criterion	NN	_	8	dobj	8:A1=COM
+11	,	,	,	_	13	punct	_
+12	the functions	the functions	NNS	p2=PRP	13	nsubj	13:A0
+13	performed	performed	VBD	p2=VBN|pb=perform.01	0	root	_
+14	by this	by this	DT	p2=NNS	15	det	_
+15	person	person	NN	_	13	dobj	13:A1
+16	and the	and the	IN	p2=DT	13	prep	13:AM-MNR
+17	economic	economic	JJ	_	18	amod	_
+18	risks	risk	NNS	_	16	pobj	20:A1=PPT
+19	it	it	PRP	_	20	nsubj	20:A0=PAG
+20	undertakes	undertake	VBZ	p2=NNS|pb=undertake.01	18	rcmod	_
+21	are	be	VBP	_	23	auxpass	_
+22	to be	to be	NNP	p2=VBN	23	npadvmod	23:A0
+23	taken	take	VBN	pb=take.01	18	rcmod	_
+24	into consideration	into consideration	NN	p2=NNP	23	dobj	23:A1=PPT
+25	.	.	.	_	13	punct	_
+
+1	If	if	IN	_	7	mark	_
+2	the recipient	the recipient	JJ	p2=DT	4	amod	_
+3	of the	of the	JJ	p2=NN	4	amod	_
+4	income	income	NN	_	7	nsubj	7:A0=PAG
+5	does	do	VBZ	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	meet	meet	VB	pb=meet.01	15	advcl	15:AM-ADV
+8	these	these	DT	_	9	det	_
+9	requirements	requirement	NNS	_	7	dobj	7:A1=PPT
+10	,	,	,	_	15	punct	_
+11	then	then	RB	_	15	advmod	15:AM-ADV
+12	the RF	the rf	NNP	p2=RB	14	nn	_
+13	Finance	finance	NNP	_	14	nn	_
+14	Ministry	ministry	NNP	_	15	nsubj	15:A0=PAG
+15	believes	believe	VBZ	pb=believe.01	0	root	_
+16	it	it	PRP	_	20	nsubjpass	20:A2=GOL
+17	should	should	MD	_	20	aux	20:AM-MOD
+18	not	not	RB	_	20	neg	20:AM-NEG
+19	be	be	VB	_	20	auxpass	_
+20	permitted	permit	VBN	pb=permit.01	15	ccomp	15:A1=PPT
+21	to apply	to apply	JJ	p2=NN	22	amod	_
+22	benefits	benefit	NNS	_	20	dobj	20:A1=PPT
+23	under	under	IN	_	22	prep	_
+24	a Russian	a russian	JJ	p2=NNP	25	nn	_
+25	DTA	dta	NNP	p2=NN	23	pobj	_
+26	with	with	IN	_	31	mark	_
+27	the state	the state	NNP	p2=NN	28	nn	_
+28	of which	of which	NNP	p2=POS	30	nn	_
+29	the formal	the formal	JJ	p2=POS	30	amod	_
+30	recipient	recipient	NN	_	31	nsubj	31:A1=PPT
+31	is	be	VBZ	pb=be.01	20	advcl	_
+32	resident	resident	NN	p2=JJ	31	attr	31:A2=PRD
+33	.	.	.	_	15	punct	_
+
+1	The indicator	the indicator	NN	p2=NNP	3	nn	_
+2	of taxpayer	of taxpayer	NN	p2=IN	3	nn	_
+3	abuse	abuse	NN	_	5	nn	_
+4	in this	in this	IN	p2=SYM	5	det	_
+5	case	case	NN	_	7	nsubj	7:A1=PPT
+6	should	should	MD	_	7	aux	7:AM-MOD
+7	be	be	VB	pb=be.01	0	root	_
+8	whether	whether	IN	_	13	complm	_
+9	the person	the person	NNP	p2=DT	11	nn	_
+10	to whom	to whom	NNP	p2=WP	11	nn	_
+11	the income	the income	NNP	p2=EX	13	nsubjpass	_
+12	was	be	VBD	_	13	auxpass	_
+13	transferred	transfer	VBN	pb=transfer.01	7	ccomp	7:A2=PRD
+14	by the	by the	DT	p2=JJ	18	det	_
+15	actual	actual	JJ	_	18	amod	_
+16	recipient	recipient	NN	_	18	nn	_
+17	of the	of the	NN	p2=JJ	18	nn	_
+18	income	income	NN	_	13	dobj	13:A1=PPT
+19	had	have	VBD	_	20	aux	_
+20	the right	the right	VBN	p2=RB|pb=the right.01	13	advcl	13:AM-TMP
+21	to receive	to receive	JJ	p2=NNP	23	amod	_
+22	the same	the same	JJ	p2=NN	23	amod	_
+23	benefit	benefit	NN	_	20	dobj	20:A1
+24	under	under	IN	_	23	prep	_
+25	the same	the same	NNP	p2=NN	27	nn	_
+26	DTA	dta	NNP	_	27	nn	_
+27	in the	in the	NNP	p2=DT	28	nn	_
+28	event	event	NN	_	24	pobj	_
+29	that	that	WDT	p2=IN	32	complm	_
+30	the income	the income	NNP	p2=EX	32	nsubjpass	32:A1=VSP
+31	was	be	VBD	_	32	auxpass	_
+32	paid	pay	VBN	pb=pay.01	28	rcmod	_
+33	directly	directly	RB	_	35	advmod	35:AM-MNR
+34	to the	to the	NNP	p2=DT	35	nsubj	35:A0
+35	said	say	VBD	pb=say.01	32	advcl	32:AM-TMP
+36	person	person	NN	_	35	dobj	35:A1=PPT
+37	.	.	.	_	7	punct	_
+
+1	In other	in other	JJ	p2=PRP$	2	amod	7:A1
+2	words	word	NNS	_	0	root	7:A1=PPT
+3	,	,	,	_	2	punct	_
+4	if	if	IN	_	26	mark	_
+5	a person	a person	NNP	p2=NN	4	pobj	_
+6	that	that	WDT	_	7	nsubj	7:R-A1
+7	is	be	VBZ	pb=be.01	1	rcmod	_
+8	not	not	RB	_	7	neg	7:AM-NEG
+9	the formal	the formal	JJ	p2=DT	12	amod	_
+10	recipient	recipient	NN	_	12	nn	_
+11	of the	of the	NN	p2=JJ	12	nn	_
+12	income	income	NN	_	7	attr	15:A0;7:A2=PRD
+13	and which	and which	WDT	p2=NNP	15	nsubj	15:R-A0
+14	may	may	MD	_	15	aux	15:AM-MOD
+15	on the	on the	VB	p2=RB|pb=on the.01	12	rcmod	_
+16	basis	basis	NN	_	18	nn	_
+17	of the	of the	JJ	p2=IN	18	amod	_
+18	criteria	criterion	NNS	_	15	dobj	15:A1
+19	above	above	RB	p2=IN	21	advmod	21:AM-ADV
+20	be	be	VB	p2=VBP	21	auxpass	_
+21	considered	consider	VBN	pb=consider.01	25	amod	_
+22	the actual	the actual	JJ	p2=RB	25	amod	_
+23	recipient	recipient	NN	_	25	nn	_
+24	of the	of the	JJ	p2=NN	25	amod	_
+25	income	income	NN	_	26	nsubj	21:A1;26:A1=PPT
+26	is	be	VBZ	pb=be.01	15	ccomp	_
+27	not	not	RB	_	26	neg	26:AM-NEG
+28	a resident	a resident	JJ	p2=NNP	31	amod	_
+29	of the	of the	JJ	p2=XX	31	amod	_
+30	same	same	JJ	_	31	amod	_
+31	state	state	NN	_	26	attr	26:A2=PRD
+32	as	as	IN	_	44	prep	_
+33	the formal	the formal	JJ	p2=DT	34	amod	_
+34	recipient	recipient	NN	_	32	pobj	_
+35	of the	of the	DT	p2=NN	36	det	_
+36	income	income	NN	_	44	nsubjpass	44:A1=PPT
+37	,	,	,	_	36	punct	_
+38	the application	the application	NN	p2=NNP	36	conj	_
+39	of the	of the	IN	p2=RB	38	prep	_
+40	respective	respective	JJ	_	41	amod	_
+41	DTA	dta	NNP	p2=NN	39	pobj	_
+42	may	may	MD	_	44	aux	44:AM-MOD
+43	be	be	VB	_	44	auxpass	_
+44	denied	deny	VBN	pb=deny.01	26	advcl	_
+45	.	.	.	_	7	punct	_
+
+1	a	a	DT	p2=LS	7	meta	_
+2	)	)	-RRB-	_	1	punct	_
+3	the formal	the formal	JJ	p2=DT	6	amod	_
+4	recipient	recipient	NN	_	6	nn	_
+5	of the	of the	JJ	p2=NN	6	amod	_
+6	income	income	NN	_	7	nsubj	7:A0=PAG
+7	has	have	VBZ	pb=have.03	0	root	_
+8	an obligation	an obligation	NN	p2=VBN	9	nn	_
+9	to pay	to pay	NNP	p2=MD	7	dobj	7:A1=PPT
+10	all	all	DT	p2=RB	9	appos	_
+11	or	or	CC	_	10	cc	_
+12	most	most	RBS	p2=JJS	13	advmod	_
+13	of the	of the	JJ	_	14	amod	_
+14	income	income	NN	_	10	conj	52:A1=PPT
+15	to a	to a	WDT	p2=,	17	det	_
+16	third	#ord#	JJ	_	17	amod	_
+17	party	party	NN	_	10	conj	19:A1;34:A1
+18	that	that	WDT	_	19	nsubj	19:R-A1;34:R-A1
+19	is	be	VBZ	pb=be.01	17	rcmod	_
+20	a tax	a tax	JJ	p2=DT	19	acomp	38:A0;19:A2=PRD
+21	resident	resident	NN	p2=JJ	23	amod	_
+22	of a	of a	NN	p2=FW	23	nn	_
+23	state	state	NN	_	19	attr	28:A0
+24	that	that	WDT	_	28	nsubj	28:R-A1
+25	does	do	VBZ	_	28	aux	_
+26	not	not	RB	_	28	neg	28:AM-NEG
+27	have	have	VB	_	28	aux	_
+28	a DTA	a dta	VBN	p2=NNP|pb=a dta.01	23	rcmod	_
+29	with	with	IN	_	28	prep	28:A2
+30	the RF	the rf	NNP	p2=NN	29	pobj	_
+31	,	,	,	_	20	punct	_
+32	or	or	CC	_	19	cc	_
+33	has	have	VBZ	_	34	aux	_
+34	a DTA	a dta	VBN	p2=NNP|pb=a dta.01	19	conj	_
+35	with	with	IN	_	34	prep	34:A2
+36	the RF	the rf	NNP	p2=RB	35	pobj	_
+37	that	that	WDT	_	38	nsubj	38:R-A0
+38	provides	provide	VBZ	pb=provide.01	20	rcmod	_
+39	less	less	RBR	p2=JJR	40	advmod	_
+40	favorable	favorable	JJ	_	41	amod	_
+41	conditions	condition	NNS	_	42	nn	_
+42	of taxation	of taxation	NN	p2=VBP	38	dobj	38:A1=PPT
+43	than	than	IN	_	42	prep	_
+44	the DTA	the dta	NNP	p2=NNS	43	pobj	_
+45	with	with	IN	_	44	prep	_
+46	the state	the state	NNP	p2=CD	47	nn	_
+47	in which	in which	NNP	p2=WDT	51	nn	_
+48	the formal	the formal	JJ	p2=NNP	51	amod	_
+49	recipient	recipient	NN	_	51	nn	_
+50	of the	of the	NN	p2=JJ	51	nn	_
+51	income	income	NN	_	45	pobj	_
+52	is	be	VBZ	pb=be.01	14	rcmod	_
+53	resident	resident	NN	p2=JJ	62	nn	_
+54	;	;	:	p2=,	62	punct	_
+55	b	b	LS	p2=CC	62	meta	_
+56	)	)	-RRB-	_	55	punct	_
+57	back	back	NN	p2=RB	61	hmod	_
+58	-	-	HYPH	_	61	hyph	_
+59	to	to	IN	_	61	hmod	_
+60	-	-	HYPH	_	61	hyph	_
+61	back	back	NN	_	62	nn	_
+62	transactions	transaction	NNS	_	52	attr	52:A2=PRD
+63	.	.	.	_	7	punct	_
+
+1	This	this	DT	_	3	nsubj	3:A0=PAG
+2	mainly	mainly	RB	_	3	advmod	3:AM-ADV
+3	applies	apply	VBZ	pb=apply.02	0	root	_
+4	to the	to the	NN	p2=DT	5	nn	_
+5	provision	provision	NN	_	6	nn	_
+6	of loans	of loans	NNS	p2=VBZ	3	dobj	3:A1=PPT;7:A1
+7	and licensing	and licensing	VBG	p2=''|pb=and licensing.01	6	partmod	_
+8	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	4	nsubjpass	_
+2	should	should	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	noted	note	VBN	pb=note.01	0	root	_
+5	that	that	IN	p2=WDT	11	complm	_
+6	the tax	the tax	CD	p2=PRP$	7	num	_
+7	authorities	authority	NNS	_	11	nsubj	11:A0=PAG
+8	have	have	VBP	_	11	aux	_
+9	previously	previously	RB	_	11	advmod	11:AM-TMP
+10	already	already	RB	_	11	advmod	11:AM-TMP
+11	attempted	attempt	VBN	pb=attempt.01	4	ccomp	4:A1=PPT
+12	to apply	to apply	RB	p2=NNP	13	advmod	_
+13	a similar	a similar	JJ	p2=IN	14	amod	_
+14	approach	approach	NN	_	11	dobj	11:A1=PPT
+15	in Eastern	in eastern	NNP	p2=IN	18	nn	_
+16	Value	value	NNP	_	18	nn	_
+17	Partners	partner	NNPS	p2=NNP	18	nn	_
+18	Limited	limited	NNP	_	14	appos	_
+19	(	(	-LRB-	_	20	punct	_
+20	case	case	NN	_	18	appos	_
+21	No	no	UH	p2=NNP	18	intj	_
+22	.	.	.	_	4	punct	_
+
+1	А40-60755/1220-388	а0	LS	p2=NN	4	meta	_
+2	)	)	-RRB-	_	1	punct	_
+3	,	,	,	_	4	punct	_
+4	without	without	IN	_	0	root	_
+5	much	much	JJ	_	6	amod	_
+6	success	success	NN	_	4	pobj	_
+7	.	.	.	_	4	punct	_
+
+1	The Russian	the russian	JJ	p2=DT	2	amod	_
+2	courts	court	NNS	_	3	nsubj	_
+3	turned	turn	VBD	pb=turn.11	0	root	_
+4	out	out	RP	_	3	prt	3:C-V
+5	to be	to be	NNP	p2=NN	9	nn	_
+6	unready	unready	JJ	p2=RB	9	amod	_
+7	for such	for such	JJ	p2=IN	9	amod	_
+8	radical	radical	JJ	_	9	amod	_
+9	steps	step	NNS	_	3	dobj	3:A1=PPT
+10	.	.	.	_	3	punct	_
+
+1	Time	time	NN	p2=NNP	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	tell	tell	VB	pb=tell.01	0	root	_
+4	whether	whether	IN	_	8	complm	_
+5	the RF	the rf	NNP	p2=DT	7	nn	_
+6	Finance	finance	NNP	_	7	nn	_
+7	Ministry	ministry	NNP	_	8	nsubj	8:A1=PPT
+8	is	be	VBZ	pb=be.01	3	ccomp	3:A1=PPT
+9	able	able	JJ	_	10	amod	_
+10	to change	to change	NN	p2=IN	8	attr	8:A2=PRD
+11	this	this	DT	_	12	det	_
+12	trend	trend	NN	_	8	npadvmod	8:AM-TMP
+13	.	.	.	_	3	punct	_
+
+1	Unfortunately	unfortunately	RB	_	4	advmod	4:AM-ADV
+2	,	,	,	_	4	punct	_
+3	these	these	DT	_	4	nsubj	4:A0
+4	and certain	and certain	VBP	p2=NNP|pb=and certain.01	0	root	_
+5	other	other	JJ	_	6	amod	_
+6	matters	matter	NNS	_	9	nsubjpass	9:A1=PPT
+7	have	have	VBP	_	9	aux	_
+8	been	be	VBN	_	9	auxpass	_
+9	overlooked	overlook	VBN	pb=overlook.01	4	ccomp	4:A1
+10	by the	by the	NNP	p2=IN	13	nn	_
+11	RF	rf	NNP	_	13	nn	_
+12	Finance	finance	NNP	_	13	nn	_
+13	Ministry	ministry	NNP	_	9	oprd	9:AM-PRD
+14	.	.	.	_	4	punct	_
+
+1	If	if	IN	_	6	mark	_
+2	the notion	the notion	NN	p2=DT	4	nn	_
+3	of actual	of actual	JJ	p2=CD	4	amod	_
+4	recipient	recipient	NN	_	6	nsubjpass	6:A1=PPT
+5	is	be	VBZ	_	6	auxpass	_
+6	applied	apply	VBN	p2=JJ|pb=apply.02	11	advcl	11:AM-ADV
+7	in practice	in practice	NNP	p2=NN	6	npadvmod	6:AM-TMP
+8	,	,	,	_	11	punct	_
+9	these	these	DT	_	10	det	_
+10	questions	question	NNS	_	11	nsubj	11:A1=PPT
+11	are	be	VBP	pb=be.01	0	root	_
+12	likely	likely	JJ	p2=RB	11	acomp	11:A2=PRD
+13	to become	to become	VBN	p2=JJ|pb=to become.01	12	xcomp	_
+14	crucial	crucial	JJ	_	13	oprd	13:A1
+15	.	.	.	_	11	punct	_
+
+1	The	the	DT	_	4	det	_
+2	MT	mt	NNP	_	3	nn	_
+3	Conferences	conferences	NNP	p2=NNPS	4	nn	_
+4	section	section	NN	_	7	nsubj	7:A2=PPT
+5	did	do	VBD	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	involve	involve	VB	pb=involve.01	0	root	_
+8	the reporting	the reporting	VBG	p2=NNP|pb=the reporting.01	7	xcomp	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	the editorial	the editorial	JJ	p2=DT	11	amod	_
+11	staff	staff	NN	_	13	nn	_
+12	of The Moscow	of the moscow	NNP	p2=NN	13	nn	_
+13	Times	times	NNP	_	8	conj	_
+14	.	.	.	_	7	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

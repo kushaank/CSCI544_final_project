@@ -1,0 +1,16 @@
+1	    	    	:	p2=NFP	7	punct	_
+2	The	the	DT	_	4	det	_
+3	other	other	JJ	_	4	amod	_
+4	candidates	candidate	NNS	_	6	poss	_
+5	'	'	POS	_	4	possessive	_
+6	records	record	NNS	_	7	nsubj	7:A0=CAU
+7	show	show	VBP	pb=show.01	0	root	_
+8	traffic	traffic	NN	_	9	nn	_
+9	tickets	ticket	NNS	_	7	dobj	7:A1=PPT
+10	,	,	,	_	9	punct	_
+11	pet	pet	JJ	p2=NN	7	conj	_
+12	and	and	CC	_	11	cc	_
+13	hunting	hunt	VBG	p2=JJ|pb=hunt.01	11	conj	_
+14	violations	violation	NNS	_	13	dobj	13:A1=PPT
+15	.	.	.	_	7	punct	_
+

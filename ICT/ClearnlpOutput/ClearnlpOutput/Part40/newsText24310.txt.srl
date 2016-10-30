@@ -1,0 +1,5 @@
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

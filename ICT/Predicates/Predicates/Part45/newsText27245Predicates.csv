@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( HealthDay News ) -- Delaying,delay.01,certain routine immunizations,,Affirmative,"MONDAY , May 19 , 2014 ( HealthDay News ) -- Delaying certain routine immunizations past the first 15 months of life could boost the risk of fever - related seizures , new research suggests . "
+( HealthDay News ) -- Delaying,boost.01,the risk of,,Affirmative,"MONDAY , May 19 , 2014 ( HealthDay News ) -- Delaying certain routine immunizations past the first 15 months of life could boost the risk of fever - related seizures , new research suggests . "
+new research,suggest.01,could boost,,Affirmative,"MONDAY , May 19 , 2014 ( HealthDay News ) -- Delaying certain routine immunizations past the first 15 months of life could boost the risk of fever - related seizures , new research suggests . "
+by,cause.01,fevers caused by,,Affirmative,"The risk appears very small , and the brief seizures -- due to fevers caused by the shots -- usually do n't lead to any harm other than shattered nerves in parents . "
+the brief seizures -- due to fevers caused by,lead.02,to,,Affirmative,"The risk appears very small , and the brief seizures -- due to fevers caused by the shots -- usually do n't lead to any harm other than shattered nerves in parents . "
+the findings,provide.01,more evidence,,Affirmative,"Still , the findings provide more evidence to support not delaying immunizations , said Dr. Simon Hambidge , professor of pediatrics and epidemiology at the University of Colorado in Denver and lead author of the new study . "
+"Dr. Simon Hambidge , professor of pediatrics",say.01,findings provide,,Affirmative,"Still , the findings provide more evidence to support not delaying immunizations , said Dr. Simon Hambidge , professor of pediatrics and epidemiology at the University of Colorado in Denver and lead author of the new study . "
+Pediatrics,recommend.01,following,,Affirmative,"It 's one more reason we would recommend following the guidelines , he said . "
+Pediatrics,follow.02,the guidelines,,Affirmative,"It 's one more reason we would recommend following the guidelines , he said . "
+Simon Hambidge,say.01,It 's,,Affirmative,"It 's one more reason we would recommend following the guidelines , he said . "
+The U.S. Centers for,recommend.01,a first dose of,,Affirmative,The U.S. Centers for Disease Control and Prevention recommends a first dose of either vaccine at 12 to 15 months and a second dose at 4 to 6 years . 
+Simon Hambidge,say.01,who get,,Affirmative,"As many as 5 percent of kids who get the measles - mumps - rubella shot develop a fever , typically within seven to 10 days , Hambidge said . "
+"4,000 doses",cause.01,related seizure,,Affirmative,"About 1 in 4,000 doses will cause a fever - related seizure . "
+the risk of,say.01,"the study , published online May 19",,Affirmative,"But when vaccination is postponed , the risk of fever - related seizure rises twofold , said the study , published online May 19 in Pediatrics . "
+you,have.03,roughly a doubling of,,Affirmative,"If you delay either kind of vaccine until the child is 16 to 23 months , you have roughly a doubling of the occurrence of febrile seizures , Hambidge said . "
+Simon Hambidge,say.01,", you have",,Affirmative,"If you delay either kind of vaccine until the child is 16 to 23 months , you have roughly a doubling of the occurrence of febrile seizures , Hambidge said . "
+The seizures,cause.01,"an altered state of consciousness , trembling and",,Affirmative,"The seizures only last one to two minutes , causing an altered state of consciousness , trembling and possible loss of bladder and bowel control , he said . "
+The seizures only last one to two minutes,have.03,no lasting effect,,Affirmative,"Typically , the seizures have no lasting effect . "
+parents,put.01,vaccinations,for,Affirmative,Parents put off vaccinations for various reasons . 
+Simon Hambidge,say.01,are,,Affirmative,"About 10 percent of parents are hard - core refusers who are extremely skeptical of vaccinations , Hambidge said . "
+Many other parents,follow.02,guidelines about,,Affirmative,"Many other parents do n't follow guidelines about vaccination timing , perhaps because of lack of health insurance or transportation , the study noted . "
+the new study,note.01,parents do n't follow guidelines about,,Affirmative,"Many other parents do n't follow guidelines about vaccination timing , perhaps because of lack of health insurance or transportation , the study noted . "
+The researchers,want.01,to know,,Affirmative,The researchers wanted to know if babies whose vaccinations were delayed were more likely to develop fever - related seizures . 
+The researchers,know.01,were,,Affirmative,The researchers wanted to know if babies whose vaccinations were delayed were more likely to develop fever - related seizures . 
+babies,develop.02,related seizures,,Affirmative,The researchers wanted to know if babies whose vaccinations were delayed were more likely to develop fever - related seizures . 
+The researchers,get.01,answers to,,Affirmative,"To get answers to their questions , the researchers studied vaccination records of over 323,000 U.S. children from 2004 to 2008 . "
+The researchers,study.01,vaccination records of,,Affirmative,"To get answers to their questions , the researchers studied vaccination records of over 323,000 U.S. children from 2004 to 2008 . "
+The timing of vaccinations,affect.01,seizure rates,,Affirmative,The timing of vaccinations during the first year of life did n't affect seizure rates . 
+23 months,boost.01,the risk of fever-related seizure,,Affirmative,"But delaying a measles - mumps - rubella immunization until 16 to 23 months boosted the risk of seizure from about 1 in 4,000 doses to 1 in 2,000 doses , Hambidge said . "
+the vaccine,ward.01,chicken pox -LRB- varicella -RRB-,,Affirmative,"For the vaccine that also wards off chicken pox , the rate grew from 1 in 2,000 doses to 1 in 1,000 doses , he said . "
+Simon Hambidge,say.01,rate grew from 1,,Affirmative,"For the vaccine that also wards off chicken pox , the rate grew from 1 in 2,000 doses to 1 in 1,000 doses , he said . "
+Simon Hambidge,say.01,are stronger,,Affirmative,"It 's possible , Hambidge said , that the immune systems of the older children are stronger , allowing them to develop fevers to fend off the weakened germs in the vaccines . "
+the older children,develop.02,The fevers,,Affirmative,"It 's possible , Hambidge said , that the immune systems of the older children are stronger , allowing them to develop fevers to fend off the weakened germs in the vaccines . "
+The fevers,fend.02,the weakened germs in,,Affirmative,"It 's possible , Hambidge said , that the immune systems of the older children are stronger , allowing them to develop fevers to fend off the weakened germs in the vaccines . "
+"Dr. Geoffrey Weinberg , professor of pediatrics",say.01,are common,,Affirmative,"Seizures in young children are common , said Dr. Geoffrey Weinberg , professor of pediatrics at University of Rochester School of Medicine and Dentistry in Rochester , N.Y. They occur in as many as 2 to 5 percent of children by age 5 , most commonly at 16 to 18 months of age , Weinberg said . "
+Geoffrey Weinberg,say.01,it 's important,,Affirmative,"Whatever the risk of seizures , Weinberg said it 's important to get babies immunized on time so they 'll be protected against measles , mumps , rubella and chicken pox . "
+"Dr. Anne Schuchat , director of",say.01,that 's,,Affirmative,"Dr. Anne Schuchat , director of the National Center for Immunization and Respiratory Diseases , said that 's the most measles cases reported in the first four months of the year since 1996 . "
+Copyright,©.01,2014 HealthDay,,Affirmative,Copyright © 2014 HealthDay . 

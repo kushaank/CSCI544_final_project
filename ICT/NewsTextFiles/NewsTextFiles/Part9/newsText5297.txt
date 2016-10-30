@@ -1,0 +1,18 @@
+
+In one of the largest coordinated crackdowns in the history of hacking and law enforcement, hundreds of people have been raided, questioned, or arrested for being connected with a commercially available program that sells for as little as $40 on the open market. It’s called Blackshades, and it’s a remote access tool, or RAT as it is known in the computer industry.
+
+Europol claimed 359 raids connected to the Blackshades investigation , with the FBI confirming 97 arrests in 16 countries. The arrests were trumpeted with press conferences on both sides of the Atlantic. But it’s unclear how many actually used the software for criminal activity—instead of merely possessing it. And it’s unclear whether the charges against all of these supposed hackers will actually stick.
+
+Europol claimed the raids had seized firearms, drugs, and cash unrelated to the software, and those people will likely face additional charges.
+
+Michael Hogue, one of the alleged creators of Blackshades, was arrested in connection to a credit card sting operation in July of 2012 and released on $20,000 bail. He pled guilty and cooperated with the authorities. The four indictments issued Monday by the U.S. Attorney╒s office in the Southern District of New York included Hogue’s alleged co-creator of Blackshades, Moldova-based Alex Yⁿcel; Brendan Johnston, who did sales and marketing for the product; and two customers, Marlen Rappa and Kyle Fedorek, who allegedly bought Blackshades and used it to compromise unauthorized computers.
+
+The FBI claims that over 700,000 computers have been taken over by Blackshades worldwide, allowing for a host of possible abuses. It is unclear how many perpetrators might have been involved, or the nature of the exploitation of those computers.
+
+“Once a computer was infected with the RAT, the user of the RAT had complete control over the computer,” said the FBI in a press release Monday. “The user could, among other things, remotely activate the victim’s web camera.” The release also went on to mention file access, access to online logins, as well as the ability to use the computer in a distributed denial of service, or DDoS, attack.
+
+Despite the shocking list of features highlighted by the FBI press release, Blackshades was technically no different than any other remote desktop tool. There is nothing sinister about RATs as a kind of program. Remote Access Tools are a ubiquitous feature of networks and the internet, allowing for administration and control without being physically present with the computer. To work properly, such a tool needs to have administrative access—to do anything the computer owner can do, including access files, logins, and USB devices like a webcam. But unlike most commercially available RATs, Blackshades was promoted and packaged as a spying tool, much like Hacking Team’s DaVinci and Gamma’s Finfisher programs, controversial software packages marketed for unauthorized control of someone else’s computer.
+
+In a way, Blackshades was democratizing the same tools available to wealthy nations to poor ones and normal people.
+
+Blackshades is only one of many remote access tools. Dozens are available in the black and gray market, as wall as being marketed more normally to remote workers and worried parents. If purchasing or downloading remote access software is grounds for a search warrant or arrest, the civil liberties implications are worrying.

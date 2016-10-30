@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sarah Palin,want.01,to know,,Affirmative,Sarah Palin wants to know why everyone is so upset about Karl Rove suggesting there 's something wrong with Hillary Clinton 's brain . 
+Sarah Palin,know.01,why everyone is,,Affirmative,Sarah Palin wants to know why everyone is so upset about Karl Rove suggesting there 's something wrong with Hillary Clinton 's brain . 
+Karl Rove suggesting,suggest.01,there 's something wrong with,,Affirmative,Sarah Palin wants to know why everyone is so upset about Karl Rove suggesting there 's something wrong with Hillary Clinton 's brain . 
+Sarah Palin,argue.01,one went easy on her,,Affirmative,"In a Facebook post Monday , Palin argued that no one went easy on her during the 2008 presidential election so Clinton should expect the same treatment . "
+no one,go.02,on her,,Affirmative,"In a Facebook post Monday , Palin argued that no one went easy on her during the 2008 presidential election so Clinton should expect the same treatment . "
+Hillary Clinton 's,expect.01,the same treatment,,Affirmative,"In a Facebook post Monday , Palin argued that no one went easy on her during the 2008 presidential election so Clinton should expect the same treatment . "
+Sarah Palin,find.01,Journal article on,,Affirmative,"Linking to a Wall Street Journal article on the issue she evidently found on The Drudge Report , Palin mocked Rove 's critics . "
+Sarah Palin,mock.01,critics,,Affirmative,"Linking to a Wall Street Journal article on the issue she evidently found on The Drudge Report , Palin mocked Rove 's critics . "
+You,probe.01,a woman like that,,Affirmative,"You ca n't probe a woman like that because , well , it 's a war on women ! "
+Sarah Palin,post.01,"links from POLITCO , Salon and elsewhere about",,Affirmative,"As proof that this is n't the first time a ( potential ) female candidate 's health records have been mined for scandal , Palin posted links from POLITCO , Salon and elsewhere about the conspiracy theories surrounding her son Trig . "

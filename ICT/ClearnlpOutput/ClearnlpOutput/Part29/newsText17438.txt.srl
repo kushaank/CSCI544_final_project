@@ -1,0 +1,89 @@
+1	Error	error	NN	p2=VB	0	root	15:A1=PPT
+2	on	on	IN	_	1	prep	_
+3	line	line	NN	_	2	pobj	_
+4	263	0	CD	_	5	num	_
+5	position	position	NN	_	1	appos	_
+6	5	0	CD	_	5	num	_
+7	:	:	:	_	5	punct	_
+8	The	the	DT	_	9	det	_
+9	data	datum	NNS	p2=NN	5	appos	_
+10	necessary	necessary	JJ	_	9	amod	_
+11	to	to	TO	_	12	aux	_
+12	complete	complete	VB	p2=JJ|pb=complete.01	9	infmod	_
+13	this	this	DT	_	14	det	_
+14	operation	operation	NN	_	12	dobj	12:A1=PPT
+15	is	be	VBZ	pb=be.01	0	root	_
+16	not	not	RB	_	18	neg	_
+17	yet	yet	RB	_	18	advmod	_
+18	available	available	JJ	_	15	acomp	15:A2=PRD
+19	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	4	nsubjpass	4:A1=PPT
+2	will	will	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	redirected	redirect	VBN	p2=JJ|pb=redirect.01	0	root	_
+5	to	to	IN	_	4	prep	4:A2=DIR
+6	the	the	DT	_	7	det	_
+7	page	page	NN	_	5	pobj	_
+8	you	you	PRP	_	9	nsubj	9:A0=PAG;11:A0=PPT
+9	want	want	VBP	pb=want.01	7	rcmod	_
+10	to	to	TO	_	11	aux	_
+11	view	view	VB	pb=view.01	9	xcomp	9:A1=PPT
+12	in  seconds	in  seconds	NNS	p2=NNP	11	dobj	11:A1=PAG
+13	.	.	.	_	4	punct	_
+
+1	Error	error	NN	p2=VB	0	root	15:A1=PPT
+2	on	on	IN	_	1	prep	_
+3	line	line	NN	_	2	pobj	_
+4	263	0	CD	_	5	num	_
+5	position	position	NN	_	1	appos	_
+6	5	0	CD	_	5	num	_
+7	:	:	:	_	5	punct	_
+8	The	the	DT	_	9	det	_
+9	data	datum	NNS	p2=NN	5	appos	_
+10	necessary	necessary	JJ	_	9	amod	_
+11	to	to	TO	_	12	aux	_
+12	complete	complete	VB	p2=JJ|pb=complete.01	9	infmod	_
+13	this	this	DT	_	14	det	_
+14	operation	operation	NN	_	12	dobj	12:A1=PPT
+15	is	be	VBZ	pb=be.01	0	root	_
+16	not	not	RB	_	18	neg	_
+17	yet	yet	RB	_	18	advmod	_
+18	available	available	JJ	_	15	acomp	15:A2=PRD
+19	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	2	det	_
+2	page	page	NN	_	6	nsubjpass	6:A1=PPT
+3	could	could	MD	_	6	aux	6:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	displayed	display	VBN	pb=display.01	0	root	_
+7	at	at	IN	_	6	prep	6:AM-TMP
+8	this	this	DT	_	9	det	_
+9	time	time	NN	_	7	pobj	_
+10	.	.	.	_	6	punct	_
+
+1	A	a	DT	_	2	det	_
+2	link	link	NN	_	8	nsubjpass	8:A1=PPT
+3	to	to	IN	_	2	prep	_
+4	this	this	DT	_	5	det	_
+5	page	page	NN	_	3	pobj	_
+6	will	will	MD	_	8	aux	8:AM-MOD
+7	be	be	VB	_	8	auxpass	_
+8	included	include	VBN	pb=include.01	0	root	_
+9	in	in	IN	_	8	prep	8:A2=GOL
+10	your	your	PRP$	_	11	poss	_
+11	message	message	NN	_	9	pobj	_
+12	.	.	.	_	8	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	©	©	IN	p2=VBD	1	prep	_
+3	2014	0	CD	_	4	num	_
+4	archive.battlecreekenquirer.com	#url#	ADD	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

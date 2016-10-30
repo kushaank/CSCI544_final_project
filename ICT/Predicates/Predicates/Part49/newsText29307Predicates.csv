@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+â€ < Albuquerque,lose.03,Airlines flight,,Affirmative,"â€ < Albuquerque will lose 11 Southwest Airlines flight a day beginning in November as a result of schedule changes , Southwest said Monday . "
+Southwest Airlines,say.01,Albuquerque will lose,,Affirmative,"â€ < Albuquerque will lose 11 Southwest Airlines flight a day beginning in November as a result of schedule changes , Southwest said Monday . "
+Albuquerque,lose.03,Airlines flights,,Affirmative,"Albuquerque will lose 11 Southwest Airlines flights a day beginning in November as a result of schedule changes , Southwest said Monday . "
+Southwest Airlines,say.01,Albuquerque will lose,,Affirmative,"Albuquerque will lose 11 Southwest Airlines flights a day beginning in November as a result of schedule changes , Southwest said Monday . "
+Southwest Airlines,say.01,will decrease to 34,,Affirmative,"The number of flights in and out of the Albuquerque International Sunport will decrease to 34 in November from 45 today , Southwest said . "
+The airline,say.01,it is not dropping any of,,Affirmative,The airline said it is not dropping any of its regular destinations to and from the Sunport . 
+The airline,drop.01,any of,,Affirmative,The airline said it is not dropping any of its regular destinations to and from the Sunport . 
+by Southwest,provided.01,information provided by Southwest,,Affirmative,"According to information provided by Southwest , between May and November , the airline will cut one flight to Baltimore , three flights to Dallas , two flights to Phoenix , two flights to Seattle , two flights to Las Vegas , and one to San Diego . "
+The airline,cut.02,one flight to Baltimore,,Affirmative,"According to information provided by Southwest , between May and November , the airline will cut one flight to Baltimore , three flights to Dallas , two flights to Phoenix , two flights to Seattle , two flights to Las Vegas , and one to San Diego . "
+spokesman Daniel Jiron,say.01,are seasonal and,,Affirmative,Sunport spokesman Daniel Jiron said six of those lost flights are seasonal and five are long - term reductions . 
+Sunport spokesman Daniel Jiron,add.01,reductions were not,,Affirmative,He added that the reductions were not as great as had been expected . 
+We,see.01,a reduction in frequency,,Affirmative,"We do see a reduction in frequency but no destination losses , â€� Jiron said . "
+Jiron,say.01,We do see,,Affirmative,"We do see a reduction in frequency but no destination losses , â€� Jiron said . "
+We,land.01,two airlines â€,,Affirmative,â€œRecently we have landed two airlines â€ Jet Blue and Alaska Airlinesâ€� and the airport is always looking to line up more airlines . 
+the airport,look.04,to line up,,Affirmative,â€œRecently we have landed two airlines â€ Jet Blue and Alaska Airlinesâ€� and the airport is always looking to line up more airlines . 
+the airport,line.02,more airlines,,Affirmative,â€œRecently we have landed two airlines â€ Jet Blue and Alaska Airlinesâ€� and the airport is always looking to line up more airlines . 
+the Albuquerque International Sunport,have.03,90 departures,,Affirmative,"In the busy summer months , the Sunport has about 90 departures a day , Jiron added . "
+Sunport spokesman Daniel Jiron,add.01,Sunport has,,Affirmative,"In the busy summer months , the Sunport has about 90 departures a day , Jiron added . "
+the Albuquerque International Sunport,see.01,percent decrease in,,Affirmative,"Since 2008 , the Sunport has seen a 24 percent decrease in the number of inbound and outbound passengers , Jiron said . "
+Sunport spokesman Daniel Jiron,say.01,Sunport has seen,,Affirmative,"Since 2008 , the Sunport has seen a 24 percent decrease in the number of inbound and outbound passengers , Jiron said . "
+Sunport spokesman Daniel Jiron,add.01,reason is,,Affirmative,"â€œMedium hub airports like Albuquerque have suffered greatly over the past few years , one reason is the economy , â€� and the other is that airlines are moving away from medium hub airports to more profitable routes , Jiron added . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

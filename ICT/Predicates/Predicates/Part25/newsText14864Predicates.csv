@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Gates,say.01,"Lowell was speeding , adding ,",,Affirmative,"Gates said Lowell was speeding , adding , There maybe other factors involved . "
+Lowell,add.01,factors involved,,Affirmative,"Gates said Lowell was speeding , adding , There maybe other factors involved . "
+Gates,decline.02,to clarify,,Affirmative,He declined to clarify what other factors were under investigation . 
+Gates,clarify.01,factors were under investigation,,Affirmative,He declined to clarify what other factors were under investigation . 
+you,agree.01,to accept,,Affirmative,By posting your comments you agree to accept our terms of use . 
+you,accept.01,our terms of use,,Affirmative,By posting your comments you agree to accept our terms of use . 

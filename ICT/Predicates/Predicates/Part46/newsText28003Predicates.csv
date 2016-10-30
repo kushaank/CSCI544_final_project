@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Shakespeare,give.01,the commencement address,,Affirmative,"If Shakespeare were alive and invited to give the commencement address at a major American university , the favorite spring sport on campus would explode with loud and shrill protest . "
+Blacks,object.01,"to Othello ,",,Affirmative,"Blacks could object to Othello , the angry , erring barbarian wife - murderer . "
+Jews,protest.01,"Shylock ,",,Affirmative,"Jews could protest Shylock , the stereotypical Jewish moneylender demanding his pound of flesh . "
+the stereotypical Jewish moneylender demanding,demand.01,his pound of flesh,,Affirmative,"Jews could protest Shylock , the stereotypical Jewish moneylender demanding his pound of flesh . "
+Ageists,decry.01,a senile Lear,,Affirmative,Ageists would decry a senile Lear . 
+Feminists,despise.01,"Lady Macbeth ,",,Affirmative,"Feminists would despise Lady Macbeth , the Bard 's most powerful woman , as a power - seeking termagant . "
+a subscriber,subscribe.01,for,,Affirmative,"If you 're not a subscriber , you can subscribe for the first month for just 99 cents . "
+Subscribe,find.03,more,,Affirmative,Select Subscribe to find out more . 
+You,need.01,an online service,,Affirmative,You need an online service to view this article in its entirety . 
+You,view.01,this article in,,Affirmative,You need an online service to view this article in its entirety . 
+1,keep.02,1,Clean,Affirmative,1 Keep it Clean . 
+us,know.01,of,,Affirmative,Use the ' Report ' link on each comment to let us know of abusive posts . 
+us,love.02,to hear,,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+us,hear.01,"eyewitness accounts ,",,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "

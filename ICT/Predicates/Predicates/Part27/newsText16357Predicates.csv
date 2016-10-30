@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Investigators,determine.01,old Saranac man driving,,Affirmative,"Investigators determined a 46 - year - old Saranac man driving a Ford F - 150 pickup , towing a boat , was northbound on State Street and attempted to turn into a private drive . "
+old Saranac man driving,drive.01,150 pickup,,Affirmative,"Investigators determined a 46 - year - old Saranac man driving a Ford F - 150 pickup , towing a boat , was northbound on State Street and attempted to turn into a private drive . "
+old Saranac man driving,tow.01,a boat,,Affirmative,"Investigators determined a 46 - year - old Saranac man driving a Ford F - 150 pickup , towing a boat , was northbound on State Street and attempted to turn into a private drive . "
+a 57-year-old Howard City woman in a Jeep Cherokee,strike.01,a boat,,Affirmative,"She struck the boat as the truck driver attempted to turn , police said . "
+the truck driver,attempt.01,to turn,,Affirmative,"She struck the boat as the truck driver attempted to turn , police said . "
+police,say.01,She struck,,Affirmative,"She struck the boat as the truck driver attempted to turn , police said . "
+a Jeep Cherokee,veer.01,off,,Affirmative,"The Jeep then veered off the road and struck a Consumers Energy natural gas line , resulting in a gas leak . "
+a Jeep Cherokee,strike.01,gas line,,Affirmative,"The Jeep then veered off the road and struck a Consumers Energy natural gas line , resulting in a gas leak . "
+South State Street,cause.01,some traffic issues for those attending,,Affirmative,"South State Street was closed for about three hours , causing some traffic issues for those attending the Central Montcalm graduation ceremony . "
+those attending,attend.01,Montcalm graduation ceremony,,Affirmative,"South State Street was closed for about three hours , causing some traffic issues for those attending the Central Montcalm graduation ceremony . "
+police,say.01,was not affected,,Affirmative,"The ceremony itself was not affected , police said . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

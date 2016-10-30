@@ -1,0 +1,63 @@
+1	Russia	russia	NNP	_	6	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	top	top	JJ	p2=NN	6	amod	_
+4	general	general	JJ	p2=NN	6	nn	_
+5	Valery	valery	NNP	p2=NN	6	nn	_
+6	Gerasimov	gerasimov	NNP	_	7	nsubj	7:A0
+7	said	say	VBD	pb=say.01	0	root	_
+8	that	that	IN	_	12	complm	_
+9	the	the	DT	_	11	det	_
+10	Atlantic	atlantic	NNP	_	11	nn	_
+11	bloc	bloc	NNP	p2=NN	15	poss	_
+12	's	's	POS	_	11	possessive	_
+13	increased	increased	JJ	p2=VBD	15	amod	_
+14	military	military	JJ	p2=NN	15	amod	_
+15	activity	activity	NN	_	6	appos	_
+16	near	near	IN	_	15	prep	_
+17	the	the	DT	_	19	det	_
+18	Russian	russian	JJ	_	19	amod	_
+19	border	border	NN	_	16	pobj	_
+20	.	.	.	_	7	punct	_
+
+1	Russia	russia	NNP	_	5	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	top	top	JJ	p2=NN	5	amod	_
+4	general Valery	general valery	NNP	p2=NN	5	nn	_
+5	Gerasimov has	gerasimov has	NNP	p2=NNPS	6	nsubj	6:A0=PAG
+6	told	tell	VBD	pb=tell.01	0	root	_
+7	the	the	DT	_	8	det	_
+8	chairman	chairman	NN	_	6	dobj	6:A2=GOL
+9	of	of	IN	_	8	prep	_
+10	NATO	nato	NNP	_	15	poss	_
+11	's	's	POS	_	10	possessive	_
+12	Military	military	NNP	_	14	nn	_
+13	Committee Knud	committee knud	NNP	_	14	nn	_
+14	Bartels by	bartels by	NNP	_	15	nn	_
+15	telephone	telephone	NN	_	9	pobj	_
+16	that	that	IN	p2=WDT	30	complm	_
+17	the	the	DT	_	19	det	_
+18	Atlantic	atlantic	NNP	_	19	nn	_
+19	bloc	bloc	NNP	p2=NN	23	poss	_
+20	's	's	POS	_	19	possessive	_
+21	increased	increased	JJ	p2=VBD	23	amod	_
+22	military	military	JJ	p2=NN	23	amod	_
+23	activity	activity	NN	_	30	nsubj	30:A0=PAG
+24	near	near	IN	_	23	prep	_
+25	the	the	DT	_	27	det	_
+26	Russian	russian	JJ	_	27	amod	_
+27	border	border	NN	_	24	pobj	_
+28	is	be	VBZ	_	30	aux	_
+29	not	not	RB	_	30	neg	30:AM-NEG
+30	helping	help	VBG	pb=help.01	6	ccomp	6:A1=PPT
+31	European	european	JJ	_	32	amod	_
+32	security	security	NN	_	30	dobj	30:A1=PPT
+33	,	,	,	_	37	punct	_
+34	the	the	DT	_	36	det	_
+35	Defense	defense	NNP	_	36	nn	_
+36	Ministry	ministry	NNP	_	37	nsubj	37:A0
+37	said	say	VBD	pb=say.01	6	conj	_
+38	on	on	IN	_	37	prep	37:AM-TMP
+39	May	may	NNP	_	38	pobj	_
+40	19	0	CD	_	39	num	_
+41	.	.	.	_	37	punct	_
+

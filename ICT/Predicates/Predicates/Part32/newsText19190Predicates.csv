@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the 18th state,allow.01,gay marriage,,Affirmative,NBC News - Oregon became the 18th state to allow gay marriage after a federal judge on Monday struck down a voter - approved ban . 
+a federal judge on Monday,strike.08,approved ban,,Affirmative,NBC News - Oregon became the 18th state to allow gay marriage after a federal judge on Monday struck down a voter - approved ban . 
+Judge Michael McShane,hold.02,ban violates,,Affirmative,U.S. District Judge Michael McShane held that the ban violates the Constitution by discriminating against gay couples . 
+a voter-approved ban,violate.01,the Constitution,,Affirmative,U.S. District Judge Michael McShane held that the ban violates the Constitution by discriminating against gay couples . 
+U.S. District Judge Michael McShane,order.01,the state,not to enforce it,Affirmative,He ordered the state not to enforce it . 
+the state,enforce.01,a voter-approved ban,,Affirmative,He ordered the state not to enforce it . 
+State officials,say.01,they would be prepared,,Affirmative,State officials had said they would be prepared to carry out same - sex marriages almost immediately . 
+State officials,carry.03,sex marriages,,Affirmative,State officials had said they would be prepared to carry out same - sex marriages almost immediately . 
+by,approve.01,a voter-approved ban,,Affirmative,The ban was approved by Oregon voters in 2004 . 
+"The state attorney general ,",refuse.01,to defend,,Affirmative,"The state attorney general , a Democrat , refused to defend the ban in court and said that she would not appeal . "
+"The state attorney general ,",defend.01,the ban in court,,Affirmative,"The state attorney general , a Democrat , refused to defend the ban in court and said that she would not appeal . "
+"The state attorney general ,",say.01,that she would not appeal,,Affirmative,"The state attorney general , a Democrat , refused to defend the ban in court and said that she would not appeal . "
+The National Organization for Marriage,ask.02,to defend,,Affirmative,"The National Organization for Marriage had asked to defend the law on behalf of its members in Oregon , but the judge said no. A federal appeals court denied its request for an emergency stay . "
+a federal judge on Monday,say.01,court denied,,Affirmative,"The National Organization for Marriage had asked to defend the law on behalf of its members in Oregon , but the judge said no. A federal appeals court denied its request for an emergency stay . "
+A federal appeals court,deny.01,its request for,,Affirmative,"The National Organization for Marriage had asked to defend the law on behalf of its members in Oregon , but the judge said no. A federal appeals court denied its request for an emergency stay . "
+Eighteen states and,allow.01,gay marriage,,Affirmative,Eighteen states and the District of Columbia allow gay marriage . 
+Judges in,find.01,marriage bans,,Affirmative,"Judges in seven other states - Idaho , Oklahoma , Virginia , Michigan , Texas , Utah and Arkansas - have found gay - marriage bans to be unconstitutional , but those rulings are tied up in appeals . "
+Judges,order.01,"Kentucky , Ohio and Tennessee",to recognize,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "
+"Kentucky , Ohio and Tennessee",recognize.01,sex marriages from,,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "

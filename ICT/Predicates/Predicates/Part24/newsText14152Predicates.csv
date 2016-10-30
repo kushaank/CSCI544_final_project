@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An eyewitness,say.01,train hit,,Affirmative,An eyewitness said that the high speed train hit the truck and pushed it for half a kilometer . 
+speed train,hit.02,the truck,,Affirmative,An eyewitness said that the high speed train hit the truck and pushed it for half a kilometer . 
+speed train,push.01,the high speed train,for,Affirmative,An eyewitness said that the high speed train hit the truck and pushed it for half a kilometer . 
+"Six members of a family , including three women",travel.01,in,,Affirmative,"UDAIPUR / JAIPUR : Six members of a family , including three women , were killed and four injured when the mini-truck they were travelling in collided with the Bandra - Udaipur Superfast train at an unmanned railway crossing near Sindiyada village in Kapasan area in Chittorgarh district . "
+the mini-truck,collide.01,with,,Affirmative,"UDAIPUR / JAIPUR : Six members of a family , including three women , were killed and four injured when the mini-truck they were travelling in collided with the Bandra - Udaipur Superfast train at an unmanned railway crossing near Sindiyada village in Kapasan area in Chittorgarh district . "
+police,say.01,victims were on,,Affirmative,"The victims were on their way to the market near Sandiapura in Kapasan town around 7.30 am , police said . "
+The injured,add.01,injured were being treated at,,Affirmative,"The injured were being treated at government hospital , they added . "
+by,announce.01,Ex gratia of Rs,,Affirmative,"Ex gratia of Rs 50,000 to the deceased 's family was announced by the state government . "
+a senior police officer,say.01,was,,Affirmative,"The impact of the collision was so huge that the vehicle was reduced to pieces , said a senior police officer while quoting a witness . "
+a senior police officer,quote.01,a witness,,Affirmative,"The impact of the collision was so huge that the vehicle was reduced to pieces , said a senior police officer while quoting a witness . "
+An eyewitness,add.01,train hit,,Affirmative,An eyewitness added that the high speed train hit the truck and pushed it for half a kilometer while the upper portion of the truck went flying up above . 
+speed train,hit.02,the truck,,Affirmative,An eyewitness added that the high speed train hit the truck and pushed it for half a kilometer while the upper portion of the truck went flying up above . 
+speed train,push.01,the high speed train,for,Affirmative,An eyewitness added that the high speed train hit the truck and pushed it for half a kilometer while the upper portion of the truck went flying up above . 
+The cops,collect.01,the pieces of,,Affirmative,The cops collected the pieces of the mutilated bodies scattered along the tracks . 
+track to be cleared,take.10,three hours,,Affirmative,It took about three hours for the track to be cleared . 
+drivers,cross.02,the track to be cleared,,Affirmative,"As per the law , a huge caution board was installed at the unmanned crossing clearly warning drivers to cross the track only after assuring that no train was approaching but in this case the driver was reckless and cared two hoots to follow the rule which may have led to the mishap , alleged Harphool Singh Choudhary the regional railway officer . "
+the driver,care.01,two hoots,,Affirmative,"As per the law , a huge caution board was installed at the unmanned crossing clearly warning drivers to cross the track only after assuring that no train was approaching but in this case the driver was reckless and cared two hoots to follow the rule which may have led to the mishap , alleged Harphool Singh Choudhary the regional railway officer . "

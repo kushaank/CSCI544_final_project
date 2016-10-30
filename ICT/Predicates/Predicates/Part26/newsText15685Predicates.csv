@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Mitt Romney ,",join.01,calls for,,Affirmative,"Mitt Romney , the former presidential candidate , has joined calls for the resignation of a New Hampshire police commissioner who used the N - word when referring to President Barack Obama . "
+Hampshire police commissioner,use.01,the N - word,,Affirmative,"Mitt Romney , the former presidential candidate , has joined calls for the resignation of a New Hampshire police commissioner who used the N - word when referring to President Barack Obama . "
+resident Jane O'Toole,say.01,she heard,,Affirmative,"Local resident Jane O'Toole , says she heard Mr Copeland use the racial slur in a restaurant . "
+Jane O'Toole,hear.01,Copeland use,,Affirmative,"Local resident Jane O'Toole , says she heard Mr Copeland use the racial slur in a restaurant . "
+Mr Copeland 's,use.01,the racial slur,,Affirmative,"Local resident Jane O'Toole , says she heard Mr Copeland use the racial slur in a restaurant . "
+"Mr Romney ,",own.01,a home in,,Affirmative,"But now , Mr Romney , who owns a home in the New Hampshire town of Wolfeboro , has called for his resignation . "
+"Mr Romney ,",call.03,for,,Affirmative,"But now , Mr Romney , who owns a home in the New Hampshire town of Wolfeboro , has called for his resignation . "
+the former Massachusetts governor,say.01,vile epithet used and confirmed by,,Affirmative,In a statement the former Massachusetts governor said : ' The vile epithet used and confirmed by the commissioner has no place in our community : He should apologize and resign . 
+by,confirm.01,The vile,,Affirmative,In a statement the former Massachusetts governor said : ' The vile epithet used and confirmed by the commissioner has no place in our community : He should apologize and resign . 
+His remarks,echo.01,the sentiments of some of residents of,,Affirmative,"' His remarks echo the sentiments of some of residents of the predominantly white town , who are upset with the racist remarks . "
+by,obtain.01,Mrs O'Toole obtained by,,Affirmative,The incident came to light when in an email to Mrs O'Toole obtained by The Associated Press ; Mr Copeland acknowledged using the ' N ' word in referring to the president and said he will not apologize . 
+Mr Copeland 's,use.01,the ' N ' word,in referring to,Affirmative,The incident came to light when in an email to Mrs O'Toole obtained by The Associated Press ; Mr Copeland acknowledged using the ' N ' word in referring to the president and said he will not apologize . 
+Mr Copeland 's,refer.01,to,,Affirmative,The incident came to light when in an email to Mrs O'Toole obtained by The Associated Press ; Mr Copeland acknowledged using the ' N ' word in referring to the president and said he will not apologize . 
+The incident,say.01,he will not apologize,,Affirmative,The incident came to light when in an email to Mrs O'Toole obtained by The Associated Press ; Mr Copeland acknowledged using the ' N ' word in referring to the president and said he will not apologize . 
+"Mrs O'Toole ,",say.01,she overheard,,Affirmative,"Mrs O'Toole , who moved to Wolfeboro four months ago , said she overheard Mr Copeland use a racial slur to describe Obama at a local restaurant earlier this year . "
+Mrs O'Toole obtained by The Associated Press,overhear.01,Copeland use,,Affirmative,"Mrs O'Toole , who moved to Wolfeboro four months ago , said she overheard Mr Copeland use a racial slur to describe Obama at a local restaurant earlier this year . "
+Mr Copeland 's,use.01,a racial slur,to describe Obama at,Affirmative,"Mrs O'Toole , who moved to Wolfeboro four months ago , said she overheard Mr Copeland use a racial slur to describe Obama at a local restaurant earlier this year . "
+Mr Copeland 's,describe.01,Obama,at,Affirmative,"Mrs O'Toole , who moved to Wolfeboro four months ago , said she overheard Mr Copeland use a racial slur to describe Obama at a local restaurant earlier this year . "
+Mrs O'Toole obtained by The Associated Press,claim.01,she heard,,Affirmative,"She claims she heard him say he hates turning on the television because every time he does , there 's that ' f *** ing n ***** . "
+Mrs O'Toole obtained by The Associated Press,hear.01,him say,,Affirmative,"She claims she heard him say he hates turning on the television because every time he does , there 's that ' f *** ing n ***** . "
+Mr Copeland 's,say.01,he hates turning on,,Affirmative,"She claims she heard him say he hates turning on the television because every time he does , there 's that ' f *** ing n ***** . "
+Mr Copeland 's,hate.01,turning,,Affirmative,"She claims she heard him say he hates turning on the television because every time he does , there 's that ' f *** ing n ***** . "
+Mr Copeland 's,puff.03,his chest,,Affirmative,"' ' He sort of swung around and puffed up his chest and said , Yeah , ' she told the Concord Monitor . "
+Mr Copeland 's,say.01,"Yeah , ' she told",,Affirmative,"' ' He sort of swung around and puffed up his chest and said , Yeah , ' she told the Concord Monitor . "
+I,say.01,"good , not good",,Affirmative,"' And I said , Not good , not good at all . "
+Mrs O'Toole obtained by The Associated Press,say.01,she did n't know,,Affirmative,' Mrs O'Toole said she did n't know Mr Copeland was the police commissioner until she returned to the restaurant the next day and asked about him . 
+Mrs O'Toole obtained by The Associated Press,know.01,Copeland was,,Affirmative,' Mrs O'Toole said she did n't know Mr Copeland was the police commissioner until she returned to the restaurant the next day and asked about him . 
+Mrs O'Toole obtained by The Associated Press,ask.01,about him,,Affirmative,' Mrs O'Toole said she did n't know Mr Copeland was the police commissioner until she returned to the restaurant the next day and asked about him . 
+Mr Copeland 's,send.01,an email,to,Affirmative,"In an email response to her , Mr Copeland included an excerpt from an email he sent to his fellow commissioners acknowledging his remark . "
+his fellow commissioners acknowledging,acknowledge.01,his remark,,Affirmative,"In an email response to her , Mr Copeland included an excerpt from an email he sent to his fellow commissioners acknowledging his remark . "
+Manager David Owen,say.01,have,,Affirmative,"Wolfeboro Town Manager David Owen said on Thursday that while he finds Copeland 's comment ' reprehensible , ' he and the board of selectmen have no authority to remove an elected official . "
+Wolfeboro Town Manager David Owen,find.02,comment ' reprehensible,,Affirmative,"Wolfeboro Town Manager David Owen said on Thursday that while he finds Copeland 's comment ' reprehensible , ' he and the board of selectmen have no authority to remove an elected official . "
+he and,have.03,no authority,,Affirmative,"Wolfeboro Town Manager David Owen said on Thursday that while he finds Copeland 's comment ' reprehensible , ' he and the board of selectmen have no authority to remove an elected official . "
+Mr Copeland 's,decline.02,to be interviewed,,Affirmative,Mr Copeland has declined to be interviewed . 
+he,plan.01,to ask Copeland,,Affirmative,told the Concord Monitor he does n't plan to ask Copeland to resign . 
+he,ask.02,to resign,Copeland,Affirmative,told the Concord Monitor he does n't plan to ask Copeland to resign . 
+board of,say.01,I feel,,Affirmative,"Meanwhile , board of selectman chairwoman Linda Murray said : ' I feel Mrs O'Toole did what was appropriate . "
+I,feel.02,O'Toole did,,Affirmative,"Meanwhile , board of selectman chairwoman Linda Murray said : ' I feel Mrs O'Toole did what was appropriate . "
+Mrs O'Toole,do.02,what was appropriate,,Affirmative,"Meanwhile , board of selectman chairwoman Linda Murray said : ' I feel Mrs O'Toole did what was appropriate . "
+She,inform.01,the public.There,,Affirmative,"' She informed the public.There are people in the public who are coming out dismayed by the kind of language and disrespect for the president of the United States , and they are going to stand up . "
+by,dismay.01,people in,,Affirmative,"' She informed the public.There are people in the public who are coming out dismayed by the kind of language and disrespect for the president of the United States , and they are going to stand up . "
+office,say.01,is,,Affirmative,The town manager 's office said none of the police department 's 12 full - time officers is African American or a member of another minority . 
+"the police commission ,",hire.01,fires and,,Affirmative,"Mr Copeland is one of three members of the police commission , which hires , fires and disciplines officers and sets their salaries . "
+"the police commission ,",set.01,their salaries,,Affirmative,"Mr Copeland is one of three members of the police commission , which hires , fires and disciplines officers and sets their salaries . "
+We,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

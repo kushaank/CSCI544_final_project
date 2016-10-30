@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The FDA,hit.01,drugmaker Novartis,with,Affirmative,"The FDA hit drugmaker Novartis with a setback Friday , rejecting the company 's experimental acute heart - failure drug serelaxin through a Complete Response Letter . "
+The FDA,reject.01,failure drug serelaxin,,Affirmative,"The FDA hit drugmaker Novartis with a setback Friday , rejecting the company 's experimental acute heart - failure drug serelaxin through a Complete Response Letter . "
+drugmaker Novartis,say.01,regulator wanted,,Affirmative,"Novartis announced the CRL Friday , saying the US regulator wanted more efficacy information than the Phase - II and Phase - III safety and efficacy data that accompanied the filing . "
+the US regulator,want.01,efficacy information than,,Affirmative,"Novartis announced the CRL Friday , saying the US regulator wanted more efficacy information than the Phase - II and Phase - III safety and efficacy data that accompanied the filing . "
+data,accompany.01,the filing,,Affirmative,"Novartis announced the CRL Friday , saying the US regulator wanted more efficacy information than the Phase - II and Phase - III safety and efficacy data that accompanied the filing . "
+The FDA,adhere.02,to,,Affirmative,"Although the FDA does not have to adhere to advisory panel recommendations , Friday 's news synchs with an FDA panel 's March vote against the drug , which rang in at 11-0 . "
+the company 's,say.01,it will expand,,Affirmative,"Instead , the company said it will expand the data set with a patient pool that will ultimately include 6,300 patients worldwide . "
+the company 's,expand.01,the data set with,,Affirmative,"Instead , the company said it will expand the data set with a patient pool that will ultimately include 6,300 patients worldwide . "

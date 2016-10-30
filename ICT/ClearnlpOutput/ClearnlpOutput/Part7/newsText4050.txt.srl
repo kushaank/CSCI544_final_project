@@ -1,0 +1,12 @@
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	follow	follow	VB	pb=follow.02	0	root	_
+3	SpaceRef	spaceref	NNP	p2=NN	2	dobj	2:A1=PPT
+4	on	on	IN	p2=RP	2	prep	2:A2=GOL
+5	Twitter	twitter	NNP	p2=NNPS	4	pobj	_
+6	and	and	CC	_	2	cc	_
+7	Like	like	IN	p2=UH	2	prep	_
+8	us	us	PRP	_	7	pobj	_
+9	on	on	IN	_	8	prep	_
+10	Facebook	facebook	NNP	p2=NN	9	pobj	_
+11	.	.	.	_	2	punct	_
+

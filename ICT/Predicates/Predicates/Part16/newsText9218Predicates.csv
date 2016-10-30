@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Jordan Belfort ,",expect.01,to earn more,,Affirmative,"Jordan Belfort , whose memoir The Wolf of Wall Street was turned into a film by Martin Scorsese , expects to earn more this year than he made at his peak as a stockbroker , allowing him to repay the victims of his fraud . "
+"Jordan Belfort ,",earn.01,more,,Affirmative,"Jordan Belfort , whose memoir The Wolf of Wall Street was turned into a film by Martin Scorsese , expects to earn more this year than he made at his peak as a stockbroker , allowing him to repay the victims of his fraud . "
+Jordan Belfort,make.LV,at,,Affirmative,"Jordan Belfort , whose memoir The Wolf of Wall Street was turned into a film by Martin Scorsese , expects to earn more this year than he made at his peak as a stockbroker , allowing him to repay the victims of his fraud . "
+Jordan Belfort,allow.01,him to repay,,Affirmative,"Jordan Belfort , whose memoir The Wolf of Wall Street was turned into a film by Martin Scorsese , expects to earn more this year than he made at his peak as a stockbroker , allowing him to repay the victims of his fraud . "
+Jordan Belfort,repay.01,the victims of,,Affirmative,"Jordan Belfort , whose memoir The Wolf of Wall Street was turned into a film by Martin Scorsese , expects to earn more this year than he made at his peak as a stockbroker , allowing him to repay the victims of his fraud . "
+"Belfort ,",use.01,his earnings,from,Affirmative,"Belfort , a motivational speaker , will use his earnings from a 45 - city speaking tour in the U.S. to repay about $ 50 million to investors . "
+"Belfort ,",repay.01,about $ 50 million,to investors,Affirmative,"Belfort , a motivational speaker , will use his earnings from a 45 - city speaking tour in the U.S. to repay about $ 50 million to investors . "
+Jordan Belfort,say.01,That was,,Affirmative,"That was his share of the fine , he said . "
+U.S. stockbrokerBelfort,spend.01,22 months,in jail,Affirmative,U.S. stockbrokerBelfort spent 22 months in jail for money laundering and securities fraud in the 1990 s after his Long Island - based Stratton Oakmont Inc . 
+Commission,shut.05,his firm,,Affirmative,"The Securities and Exchange Commission shut down his firm in 1998 , and in 2003 Belfort was convicted and sentenced to four years in jail . "
+The government,say.01,fund must receive,,Affirmative,The government said a $ 110.4 million victim - compensation fund must receive half his income . 
+compensation fund,receive.01,half his income,,Affirmative,The government said a $ 110.4 million victim - compensation fund must receive half his income . 
+Belfort,admit.01,"he fleeced investors , cheated on spouses",,Affirmative,"Belfort admits he fleeced investors , cheated on spouses , and was once so addicted to drugs that he kicked his second wife down the stairs in front of his daughter . "
+Jordan Belfort,fleece.01,investors,,Affirmative,"Belfort admits he fleeced investors , cheated on spouses , and was once so addicted to drugs that he kicked his second wife down the stairs in front of his daughter . "
+Jordan Belfort,kick.01,his second wife,,Affirmative,"Belfort admits he fleeced investors , cheated on spouses , and was once so addicted to drugs that he kicked his second wife down the stairs in front of his daughter . "
+he,maintain.01,most of,,Affirmative,"Even after the fines , he maintains most of his trading activities were legal . "
+million film,earn.01,Globe award,,Affirmative,"In Dubai , where Belfort spoke today , the $ 100 million film that earned DiCaprio a Golden Globe award , was cut by a quarter for multiple scenes depicting drug use and sex . "
+by,cut.02,million film,for,Affirmative,"In Dubai , where Belfort spoke today , the $ 100 million film that earned DiCaprio a Golden Globe award , was cut by a quarter for multiple scenes depicting drug use and sex . "
+multiple scenes depicting,depict.01,drug use and sex,,Affirmative,"In Dubai , where Belfort spoke today , the $ 100 million film that earned DiCaprio a Golden Globe award , was cut by a quarter for multiple scenes depicting drug use and sex . "
+"Bloomberg ,",send.01,offers and promotions,me,Affirmative,"Bloomberg , on behalf of itself and select partners , may send me offers and promotions . "
+you,subscribe.01,to,,Affirmative,Thank you for subscribing to our Daily Newsletter . 
+You,receive.01,a confirmation email,,Affirmative,You will receive a confirmation email shortly at . 

@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Station men,break.01,into,,Affirmative,MERRILLVILLE | Two Lake Station men allegedly broke into a construction company 's property May 13 and stole an industrial air compressor and a trailer . 
+Station men,steal.01,an industrial air compressor and,,Affirmative,MERRILLVILLE | Two Lake Station men allegedly broke into a construction company 's property May 13 and stole an industrial air compressor and a trailer . 
+a Merrillville officer,see.01,a silver,,Affirmative,"En route to the scene , a Merrillville officer saw a silver Ford SUV matching the description of the suspicious vehicle . "
+"The SUV ,",tow.01,a trailer carrying,,Affirmative,"The SUV , which was towing a trailer carrying an industrial air compressor , was stopped on U.S. 30 near an Interstate 65 entrance ramp . "
+a trailer carrying,carry.01,an industrial air compressor,,Affirmative,"The SUV , which was towing a trailer carrying an industrial air compressor , was stopped on U.S. 30 near an Interstate 65 entrance ramp . "
+Lonnie Chabes,drive.02,the suspicious vehicle,,Affirmative,"According to court documents , Chabes was driving the vehicle and Maldonado was a passenger . "
+state Chabes,indicate.01,he picked up,,Affirmative,"The documents state Chabes indicated he picked up the compressor , and he often uses his SUV to tow the item . "
+Lonnie Chabes,pick.04,an industrial air compressor,,Affirmative,"The documents state Chabes indicated he picked up the compressor , and he often uses his SUV to tow the item . "
+Lonnie Chabes,use.01,"The SUV , which was towing a trailer carrying an industrial air compressor",to tow,Affirmative,"The documents state Chabes indicated he picked up the compressor , and he often uses his SUV to tow the item . "
+An officer,ask.01,they were traveling from,Maldonado,Affirmative,"An officer asked Maldonado where they were traveling from , and he allegedly told police whatever he was doing is on him . "
+Lonnie Chabes,tell.01,doing is on him,police,Affirmative,"An officer asked Maldonado where they were traveling from , and he allegedly told police whatever he was doing is on him . "
+The owner of,confirm.01,belong to,,Affirmative,The owner of the construction company confirmed the compressor and trailer belong to his business . 
+an industrial air compressor and a trailer,belong.01,to,,Affirmative,The owner of the construction company confirmed the compressor and trailer belong to his business . 
+The owner of the construction company,tell.01,Maldonado never worked for,police Chabes and,Affirmative,He also told police Chabes and Maldonado never worked for his company . 
+camera footage at,show.01,a silver SUV driving past,,Affirmative,Security camera footage at the business shows a silver SUV driving past the business multiple times before the vehicle eventually stopped at the property . 
+The driver and passenger of,break.01,a chain,,Affirmative,"The driver and passenger of the SUV broke a chain on a gate , returned to the vehicle and left the area , court documents state . "
+The driver and passenger of,leave.01,that area,documents state,Affirmative,"The driver and passenger of the SUV broke a chain on a gate , returned to the vehicle and left the area , court documents state . "
+The driver and passenger of the SUV,enter.01,a construction company 's property,,Affirmative,"According to court documents , the driver and passenger entered the property and connected the trailer carrying the air compressor to the SUV before the vehicle drover out of the lot . "
+The driver and passenger of the SUV,connect.01,the trailer carrying,,Affirmative,"According to court documents , the driver and passenger entered the property and connected the trailer carrying the air compressor to the SUV before the vehicle drover out of the lot . "
+the trailer carrying,carry.01,an industrial air compressor and a trailer,,Affirmative,"According to court documents , the driver and passenger entered the property and connected the trailer carrying the air compressor to the SUV before the vehicle drover out of the lot . "

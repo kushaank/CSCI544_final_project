@@ -1,0 +1,26 @@
+1	His	his	PRP$	_	2	poss	_
+2	offensive	offensive	JJ	p2=NN	3	nsubj	3:A1=PPT
+3	comes	come	VBZ	p2=NNS|pb=come.01	0	root	_
+4	at	at	IN	_	3	prep	3:AM-TMP
+5	a	a	DT	_	6	det	_
+6	time	time	NN	_	4	pobj	_
+7	of	of	IN	_	6	prep	_
+8	high	high	JJ	_	10	amod	_
+9	political	political	JJ	_	10	amod	_
+10	tension	tension	NN	_	7	pobj	_
+11	,	,	,	_	6	punct	_
+12	particularly	particularly	RB	_	13	advmod	_
+13	after	after	IN	_	3	prep	3:AM-TMP
+14	this	this	DT	_	15	det	_
+15	month	month	NN	_	18	poss	_
+16	's	's	POS	_	15	possessive	_
+17	disputed	dispute	VBN	p2=JJ|pb=dispute.01	18	amod	_
+18	election	election	NN	_	13	pobj	17:A2=PPT
+19	of	of	IN	_	18	prep	_
+20	the	the	DT	_	24	det	_
+21	Islamist	islamist	NNP	p2=NN	23	hmod	_
+22	-	-	HYPH	_	23	hyph	_
+23	backed	back	VBN	_	24	amod	_
+24	Thani	thani	NNP	_	19	pobj	_
+25	.	.	.	_	3	punct	_
+

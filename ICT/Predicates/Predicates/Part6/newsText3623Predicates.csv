@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Providence man,tell.01,he was leaving,police,Affirmative,A Providence man told police he was leaving a bar when he noticed he 'd been shot . 
+A Providence man,leave.02,a bar,,Affirmative,A Providence man told police he was leaving a bar when he noticed he 'd been shot . 
+A Providence man,notice.01,he 'd been shot,,Affirmative,A Providence man told police he was leaving a bar when he noticed he 'd been shot . 
+Police,tell.01,Aguayofuentes was shot in,,Affirmative,Police tell the  that 22 - year - old Hector Aguayofuentes was shot in the leg early Saturday . 
+Police,tell.01,he was leaving,police,Affirmative,He told police he was leaving the D'Nooche Cafe on Plainfield Street with a friend shortly after 1 a.m. Saturday when they noticed he was bleeding . 
+Police,leave.01,the D'Nooche Cafe,with,Affirmative,He told police he was leaving the D'Nooche Cafe on Plainfield Street with a friend shortly after 1 a.m. Saturday when they noticed he was bleeding . 
+the that 22-year-old Hector Aguayofuentes was shot in the leg early Saturday,notice.01,he was bleeding,,Affirmative,He told police he was leaving the D'Nooche Cafe on Plainfield Street with a friend shortly after 1 a.m. Saturday when they noticed he was bleeding . 
+police he was leaving the D'Nooche Cafe on Plainfield Street with a friend shortly after 1 a.m. Saturday when they noticed he was bleeding,stop.01,the bleeding,,Affirmative,"They went to his friend 's home , where they were unable to stop the bleeding . "
+Police,say.01,Aguayofuentes did n't provide,,Affirmative,Police say Aguayofuentes did n't provide any other details or explain to police how the shooting might have occurred . 
+22-year-old Hector Aguayofuentes,provide.01,any other details,,Affirmative,Police say Aguayofuentes did n't provide any other details or explain to police how the shooting might have occurred . 

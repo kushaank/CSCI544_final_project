@@ -1,0 +1,26 @@
+1	IIIT	iiit	NNP	p2=VBD	2	nn	_
+2	Director	director	NNP	_	4	nn	_
+3	Krishna	krishna	NNP	_	4	nn	_
+4	Reddy	reddy	NNP	_	13	nsubj	13:A0=PAG
+5	and	and	CC	_	4	cc	_
+6	Rajiv	rajiv	NNP	_	8	nn	_
+7	Technology	technology	NNP	_	8	nn	_
+8	Valley	valley	NNP	_	9	nn	_
+9	circle	circle	NN	_	10	nn	_
+10	inspector	inspector	NN	_	12	nn	_
+11	Rasool	rasool	NNP	p2=NN	12	nn	_
+12	Saheb	saheb	NNP	_	4	conj	_
+13	enquired	enquire	VBD	p2=VBZ|pb=enquire.01	0	root	_
+14	about	about	IN	_	13	prep	13:A1=PPT
+15	his	his	PRP$	_	16	poss	_
+16	health	health	NN	_	14	pobj	_
+17	and	and	CC	_	16	cc	_
+18	the	the	DT	_	19	det	_
+19	reason	reason	NN	_	16	conj	_
+20	for	for	IN	_	19	prep	_
+21	attempting	attempt	VBG	pb=attempt.01	20	pcomp	_
+22	the	the	DT	_	24	det	_
+23	extreme	extreme	JJ	_	24	amod	_
+24	step	step	NN	_	21	dobj	21:A1=PPT
+25	.	.	.	_	13	punct	_
+

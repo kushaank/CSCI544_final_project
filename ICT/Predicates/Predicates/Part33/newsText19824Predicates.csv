@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,sell.01,Bonds sold by,,Affirmative,Bonds sold by the Depfa Bank subsidiary of bailed - out lender Hypo Real Estate AG fell by the most in almost three years after Germany 's government scrapped plans to sell the unit and opted to wind it down instead . 
+government,scrap.01,plans,,Affirmative,Bonds sold by the Depfa Bank subsidiary of bailed - out lender Hypo Real Estate AG fell by the most in almost three years after Germany 's government scrapped plans to sell the unit and opted to wind it down instead . 
+government,sell.01,the unit,,Affirmative,Bonds sold by the Depfa Bank subsidiary of bailed - out lender Hypo Real Estate AG fell by the most in almost three years after Germany 's government scrapped plans to sell the unit and opted to wind it down instead . 
+government,opt.01,to wind it down instead,,Affirmative,Bonds sold by the Depfa Bank subsidiary of bailed - out lender Hypo Real Estate AG fell by the most in almost three years after Germany 's government scrapped plans to sell the unit and opted to wind it down instead . 
+The German government,abandon.01,the Depfa sale plans,,Affirmative,The German government abandoned the Depfa sale plans after months considering bids from potential buyers . 
+The decision,create.01,the risk of,,Affirmative,"The decision to wind down the lender creates the risk of Germany imposing losses on holders of the securities and extending a ban on coupons , according to Barclays Plc ( BARC ) analysts Christy Hajiloizou and Yulia di Mambro . "
+Germany 's,impose.01,losses,on holders of,Affirmative,"The decision to wind down the lender creates the risk of Germany imposing losses on holders of the securities and extending a ban on coupons , according to Barclays Plc ( BARC ) analysts Christy Hajiloizou and Yulia di Mambro . "
+Germany 's,extend.02,a ban on coupons,,Affirmative,"The decision to wind down the lender creates the risk of Germany imposing losses on holders of the securities and extending a ban on coupons , according to Barclays Plc ( BARC ) analysts Christy Hajiloizou and Yulia di Mambro . "
+bailed-out lender Hypo Real Estate AG,agree.01,"to sell Depfa ,",,Affirmative,"Hypo Real Estate agreed to sell Depfa , a provider of public - sector finance , by the end of the year under a plan approved by the European Union in 2011 . "
+bailed-out lender Hypo Real Estate AG,sell.01,"Depfa ,",,Affirmative,"Hypo Real Estate agreed to sell Depfa , a provider of public - sector finance , by the end of the year under a plan approved by the European Union in 2011 . "
+by,approve.01,a plan approved by,,Affirmative,"Hypo Real Estate agreed to sell Depfa , a provider of public - sector finance , by the end of the year under a plan approved by the European Union in 2011 . "
+Germany 's,inject.01,billion euros,into,Affirmative,The EU review was triggered after Germany injected 10 billion euros into Hypo Real Estate in a rescue program . 
+"Walter Allwicher ,",decline.02,to comment on,,Affirmative,"Walter Allwicher , a spokesman for Depfa , declined to comment on the bonds . "
+"Walter Allwicher ,",comment.01,on,,Affirmative,"Walter Allwicher , a spokesman for Depfa , declined to comment on the bonds . "
+EU officials,ban.01,Depfa,,Affirmative,"As part of Hypo Real Estate 's restructuring plan , EU officials banned Depfa from making coupon payments on the Tier 1 instruments , Hajiloizou and di Mambro said in their note . "
+EU officials,say.01,ban would have expired in,,Affirmative,"The ban would have expired in the event of a sale , they said . "
+Press,continue.01,Press spacebar to pause,,Affirmative,Press spacebar to pause and continue . 
+Press,esc.01,to stop,,Affirmative,Press esc to stop . 

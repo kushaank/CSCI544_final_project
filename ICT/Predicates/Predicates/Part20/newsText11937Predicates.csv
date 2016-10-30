@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Duncan,succeed.01,a member of,,Affirmative,"Duncan would succeed a member of Congress / state senator , Kent Hance , at Tech . "
+Duncan,join.01,Chancellor John Sharp (,,Affirmative,And he would join Texas A&M Chancellor John Sharp ( a former state rep and senator and comptroller ) on the list of former lawmakers who head Texas university systems . 
+former lawmakers,head.01,Texas university systems,,Affirmative,And he would join Texas A&M Chancellor John Sharp ( a former state rep and senator and comptroller ) on the list of former lawmakers who head Texas university systems . 
+by,head.01,State University System,,Affirmative,"The Texas State University System is headed by Brian McCall , who represented Plano and other suburban parts in the Texas House . "
+"Brian McCall ,",represented.01,Plano and,,Affirmative,"The Texas State University System is headed by Brian McCall , who represented Plano and other suburban parts in the Texas House . "
+by,head.01,The University of,,Affirmative,"The University of North Texas System is headed by Lee Jackson , former state rep and Dallas County judge . "
+by,head.02,The UT System,,Affirmative,"The UT System is headed by a physician , Francisco Cigarroa , who announced his resignation this year . "
+"a physician ,",announce.01,his resignation,,Affirmative,"The UT System is headed by a physician , Francisco Cigarroa , who announced his resignation this year . "
+The UT System,join.01,the others,,Affirmative,Could the UT system join the others and end up with a former lawmaker in his place ? 
+I,think.01,it would be,,Affirmative,"If so , I think it would be first time that an elected politician would head the UT system since the job of chancellor was created . "
+an elected politician,head.01,The UT System,,Affirmative,"If so , I think it would be first time that an elected politician would head the UT system since the job of chancellor was created . "
+the job of chancellor,require.01,promoting,,Affirmative,The job requires promoting the brand and bringing in prodigious amounts of money . 
+the other,see.01,"the entrepreneurial opportunities ,",,Affirmative,"Part of that is through the state Capitol , but the other is seeing the entrepreneurial opportunities , much the way that Sharp and company have moved into big pharma and landed a national bio-defense lab for College Station . "
+Sharp and company,land.02,a national bio-defense lab for,,Affirmative,"Part of that is through the state Capitol , but the other is seeing the entrepreneurial opportunities , much the way that Sharp and company have moved into big pharma and landed a national bio-defense lab for College Station . "
+the Texas House,consider.02,hiring,,Affirmative,"If Texas is going to consider hiring an ex-lawmaker for system chief , we may have to wait through this year 's elections to see who 's available . "
+the Texas House,hire.01,an ex-lawmaker for,,Affirmative,"If Texas is going to consider hiring an ex-lawmaker for system chief , we may have to wait through this year 's elections to see who 's available . "
+we,see.01,who 's available,,Affirmative,"If Texas is going to consider hiring an ex-lawmaker for system chief , we may have to wait through this year 's elections to see who 's available . "
+the first editorial board in,use.01,a blog,to openly discuss,Affirmative,The Dallas Morning News Editorial Board was the first editorial board in the nation to use a blog to openly discuss hot topics and issues among its members and with readers . 

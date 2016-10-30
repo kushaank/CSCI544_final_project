@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Dispatch,provide.01,a specific location or details,,Affirmative,Dispatch could not provide a specific location or details . 
+"news partner ,",report.01,fire destroyed,,Affirmative,"However , AL.com 's news partner , WHNT News 19 , reports the fire destroyed the house . "
+the fire,destroy.01,the house,,Affirmative,"However , AL.com 's news partner , WHNT News 19 , reports the fire destroyed the house . "
+Firefighters,tell.01,fire appeared suspicious and,WHNT,Affirmative,Firefighters told WHNT the fire appeared suspicious and the investigation is ongoing . 
+Dispatch,refer.02,AL.com 's,to,Affirmative,"Dispatch referred AL.com to the state fire marshal 's office , but the case has not gone there at this time . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

@@ -1,0 +1,50 @@
+1	Canada	canada	NNP	_	2	nn	_
+2	Search	search	NNP	_	0	root	_
+3	For	for	IN	p2=NNP	2	prep	_
+4	Franklin	franklin	NNP	_	5	nn	_
+5	Expedition	expedition	NNP	p2=NNPS	3	pobj	_
+6	:	:	:	_	2	punct	_
+7	Nationalism	nationalism	NNP	p2=NN	2	conj	_
+8	And	and	CC	_	7	cc	_
+9	Control	control	NNP	_	7	conj	_
+10	Of	of	IN	p2=NNP	9	prep	_
+11	Northwest	northwest	NNP	_	12	nn	_
+12	Passage	passage	NNP	_	10	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	Get	get	VB	p2=VBP|pb=get.01	0	root	_
+2	top	top	JJ	_	3	amod	_
+3	stories	story	NNS	_	1	dobj	1:A1=PPT
+4	and	and	CC	_	3	cc	_
+5	blog	blog	NN	_	6	nn	_
+6	posts	post	NNS	_	3	conj	7:A1=PPT
+7	emailed	email	VBN	p2=VBD|pb=email.01	6	partmod	_
+8	to	to	IN	_	7	prep	7:A2=GOL
+9	me	me	PRP	_	8	pobj	_
+10	each	each	DT	_	11	det	_
+11	day	day	NN	_	7	npadvmod	7:AM-TMP
+12	..	..	.	p2=:	1	punct	_
+
+1	Use	use	VB	pb=use.01	0	root	_
+2	this	this	DT	_	3	det	_
+3	form	form	NN	_	1	dobj	1:A1=PPT
+4	to	to	TO	_	5	aux	_
+5	alert	alert	VB	pb=alert.01	1	xcomp	1:A2=PRP
+6	a	a	DT	_	8	det	_
+7	HuffPost	huffpost	NNP	p2=JJ	8	nn	_
+8	editor	editor	NN	_	5	dobj	5:A1=GOL
+9	about	about	IN	_	8	prep	_
+10	a	a	DT	_	14	det	_
+11	factual	factual	JJ	_	14	amod	_
+12	or	or	CC	_	11	cc	_
+13	typographical	typographical	JJ	_	11	conj	_
+14	error	error	NN	_	9	pobj	_
+15	in	in	IN	_	14	prep	_
+16	this	this	DT	_	17	det	_
+17	story	story	NN	_	15	pobj	_
+18	.	.	.	_	1	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	!	!	.	_	1	punct	_
+

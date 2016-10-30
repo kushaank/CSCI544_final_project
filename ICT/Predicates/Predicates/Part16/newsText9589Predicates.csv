@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,attack.01,A woman,,Affirmative,"A woman was attacked by a bear on a military base in Alaska on Sunday , according to The Associated Press . "
+Various accounts of,suggest.01,she was either knocked unconscious by,,Affirmative,"Various accounts of the incident are swirling , suggesting she was either knocked unconscious by the bear or played dead -- which is what you are supposed to do when encountering a bear , Webb added . "
+A woman,knock.01,unconscious,,Affirmative,"Various accounts of the incident are swirling , suggesting she was either knocked unconscious by the bear or played dead -- which is what you are supposed to do when encountering a bear , Webb added . "
+A woman,play.01,dead --,,Affirmative,"Various accounts of the incident are swirling , suggesting she was either knocked unconscious by the bear or played dead -- which is what you are supposed to do when encountering a bear , Webb added . "
+Webb,add.01,"are swirling , suggesting",,Affirmative,"Various accounts of the incident are swirling , suggesting she was either knocked unconscious by the bear or played dead -- which is what you are supposed to do when encountering a bear , Webb added . "
+A woman,remember.01,much,,Affirmative,"It was very quick , and she did n't remember much , Webb said of the attack and what the woman could remember . "
+Webb,say.01,It was,,Affirmative,"It was very quick , and she did n't remember much , Webb said of the attack and what the woman could remember . "
+a military base in Alaska,increase.01,awareness efforts,,Affirmative,"In 2010 , the base increased bear awareness efforts after four girls , ages 5 to 9 , had a bear encounter . "
+a military base in Alaska,have.03,a bear encounter,,Affirmative,"In 2010 , the base increased bear awareness efforts after four girls , ages 5 to 9 , had a bear encounter . "
+one of,attack.01,Terri Frana,,Affirmative,"Terri Frana , 44 , of Lake Mary , was in her garage when one of the five bears attacked her , causing her to receive 30 staples in her scalp and 10 stitches on her forehead . "
+one of,cause.01,her to receive,,Affirmative,"Terri Frana , 44 , of Lake Mary , was in her garage when one of the five bears attacked her , causing her to receive 30 staples in her scalp and 10 stitches on her forehead . "
+Terri Frana,receive.01,30 staples,,Affirmative,"Terri Frana , 44 , of Lake Mary , was in her garage when one of the five bears attacked her , causing her to receive 30 staples in her scalp and 10 stitches on her forehead . "

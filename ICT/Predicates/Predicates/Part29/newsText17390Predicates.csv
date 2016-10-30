@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Speaker Pro Tem Denny Hoskins,sponsor.01,the enabling bill,,Affirmative,House Speaker Pro Tem Denny Hoskins sponsored the enabling bill . 
+Denny Hoskins,say.01,bill continues,,Affirmative,"Hoskins said his bill continues the tax , which supports arts programs . "
+the enabling bill,continue.01,"the tax ,",,Affirmative,"Hoskins said his bill continues the tax , which supports arts programs . "
+"the tax ,",support.01,arts programs,,Affirmative,"Hoskins said his bill continues the tax , which supports arts programs . "
+", Humanities Council ,",voice.01,their support for,,Affirmative,"The Missouri Arts Council , Missouri Citizens for the Arts , Humanities Council , Missouri Library Association , Missouri Public Broadcasting , Missouri Historical Preservation , and the University of Central Missouri all voiced their support for this bill , Hoskins stated . "
+Denny Hoskins,state.01,voiced,,Affirmative,"The Missouri Arts Council , Missouri Citizens for the Arts , Humanities Council , Missouri Library Association , Missouri Public Broadcasting , Missouri Historical Preservation , and the University of Central Missouri all voiced their support for this bill , Hoskins stated . "
+"the tax , which supports arts programs",generate.01,roughly $ 30 million in 2013,,Affirmative,The tax generated roughly $ 30 million in 2013 . 
+Other states,collect.01,the same tax from,,Affirmative,Other states collect the same tax from Missouri athletes and entertainers . 
+Manning,play.01,against,,Affirmative,"Regarding a special doubling of the tax when Manning plays against the Chiefs , Hoskins laughed . "

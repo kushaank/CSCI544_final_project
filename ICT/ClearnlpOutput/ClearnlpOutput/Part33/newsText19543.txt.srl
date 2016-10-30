@@ -1,0 +1,27 @@
+1	A	a	DT	_	2	det	_
+2	dinner	dinner	NN	_	5	nsubjpass	5:A1=PPT
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	given	give	VBN	pb=give.01	0	root	_
+6	in	in	IN	_	5	prep	5:AM-LOC
+7	honor	honor	NN	_	6	pobj	_
+8	of	of	IN	_	7	prep	_
+9	First	first	NNP	_	10	nn	_
+10	Lady	lady	NNP	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	Azerbaijan	azerbaijan	NNP	_	14	nn	_
+13	Mehriban	mehriban	NNP	_	14	nn	_
+14	Aliyeva	aliyeva	NNP	_	11	pobj	_
+15	on	on	IN	_	5	prep	5:AM-PRP
+16	behalf	behalf	NN	_	15	pobj	_
+17	of	of	IN	_	16	prep	_
+18	spouse	spouse	NN	_	17	pobj	_
+19	of	of	IN	_	18	prep	_
+20	President	president	NNP	_	19	pobj	_
+21	of	of	IN	_	20	prep	_
+22	Vietnam	vietnam	NNP	_	23	nn	_
+23	Mai	mai	NNP	_	25	nn	_
+24	Thi	thi	NNP	_	25	nn	_
+25	Hanh	hanh	NNP	_	21	pobj	_
+26	.	.	.	_	5	punct	_
+

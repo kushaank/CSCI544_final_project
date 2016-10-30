@@ -1,0 +1,56 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+student Jose Reyes,kill.01,a teacher,,Affirmative,"21 , 2013 when 12 - year - old student Jose Reyes shot and killed a teacher and himself and injured two students , recently released documents show . "
+student Jose Reyes,injure.01,show,,Affirmative,"21 , 2013 when 12 - year - old student Jose Reyes shot and killed a teacher and himself and injured two students , recently released documents show . "
+"two students ,",release.01,documents,,Affirmative,"21 , 2013 when 12 - year - old student Jose Reyes shot and killed a teacher and himself and injured two students , recently released documents show . "
+35,have.03,intercom systems,,Affirmative,"Of the Washoe County School District 's 93 schools , 35 have intercom systems that are listed as expired and 25 are listed as expired but serviceable . "
+"Pete Etchart ,",say.01,are in,,Affirmative,"Several of the school 's public address systems are in the ' expired ' or ' expired but serviceable ' category , said Pete Etchart , chief operations officer for the district . "
+Being in,mean.01,systems do not operate,,Affirmative,Being in these categories does not mean that the systems do not operate . 
+He,say.01,it means,,Affirmative,He said it means they are no longer economically serviceable and need to be replaced . 
+it,mean.01,they are,,Affirmative,He said it means they are no longer economically serviceable and need to be replaced . 
+they,need.01,to be replaced,,Affirmative,He said it means they are no longer economically serviceable and need to be replaced . 
+Many of,have.03,parts available for repair,,Affirmative,"Many of these older systems no longer have parts available for repair , he said . "
+he,say.01,longer have parts available for repair,,Affirmative,"Many of these older systems no longer have parts available for repair , he said . "
+Police,interview.01,Principal Stacey Cooper,,Affirmative,Police interviewed then - Sparks Middle School Principal Stacey Cooper after the shooting . 
+She,hear.01,students yelling about,,Affirmative,"She told police after hearing students yelling about a shooter , she attempted to announce a Code Red over the intercom . "
+she,attempt.01,to announce,,Affirmative,"She told police after hearing students yelling about a shooter , she attempted to announce a Code Red over the intercom . "
+she,announce.01,a Code Red,,Affirmative,"She told police after hearing students yelling about a shooter , she attempted to announce a Code Red over the intercom . "
+A Code Red,warn.01,of,,Affirmative,"A Code Red is used to warn of an intruder or active shooter and alert students and staff to remain in a classroom or secure area , usually behind a locked door . "
+Cooper,say.01,that it was,,Affirmative,"Cooper said that it was first day back to school from fall break and it was not uncommon for the intercom to be nonfunctional after school was out for some time , the report said . "
+the report,say.01,Cooper said,,Affirmative,"Cooper said that it was first day back to school from fall break and it was not uncommon for the intercom to be nonfunctional after school was out for some time , the report said . "
+Principal Jerry Endres,attempt.01,to use,,Affirmative,"At Sparks Middle School , Vice Principal Jerry Endres also attempted to use the school 's intercom after running from Reyes and getting inside the school . "
+Principal Jerry Endres,use.01,intercom,,Affirmative,"At Sparks Middle School , Vice Principal Jerry Endres also attempted to use the school 's intercom after running from Reyes and getting inside the school . "
+The district,say.01,it did learn,,Affirmative,The district said it did learn that the intercom at Sparks Middle School was intermittent but addressed the problem the day after the Oct . 
+it,learn.01,was intermittent but addressed,,Affirmative,The district said it did learn that the intercom at Sparks Middle School was intermittent but addressed the problem the day after the Oct . 
+the intercom at,address.02,the problem,,Affirmative,The district said it did learn that the intercom at Sparks Middle School was intermittent but addressed the problem the day after the Oct . 
+repair shop,receive.01,six work orders related to,,Affirmative,"Our equipment repair shop has received six work orders related to the intercom system this year ( at Sparks Middle School ) , Facilities Management Officer Charlie Hoppe said . "
+Officer Charlie Hoppe,say.01,shop has received,,Affirmative,"Our equipment repair shop has received six work orders related to the intercom system this year ( at Sparks Middle School ) , Facilities Management Officer Charlie Hoppe said . "
+The district,receive.01,118 work orders for,,Affirmative,The district has received 118 work orders for intercom systems this school year and receives an average of 2.5 calls a week . 
+The district,receive.01,an average of,,Affirmative,The district has received 118 work orders for intercom systems this school year and receives an average of 2.5 calls a week . 
+the Washoe County School District 's,use.01,old parts from,,Affirmative,"For parts no longer available , the district uses old parts from previously replaced systems . "
+"Randy Drake ,",say.01,intercom was n't,,Affirmative,"While Randy Drake , the chief general counsel for the school district , said the intercom was n't a factor in the Sparks Middle School shooting , security experts say intercoms play a critical role . "
+security experts,say.01,intercoms play,,Affirmative,"While Randy Drake , the chief general counsel for the school district , said the intercom was n't a factor in the Sparks Middle School shooting , security experts say intercoms play a critical role . "
+intercoms,play.02,a critical role,,Affirmative,"While Randy Drake , the chief general counsel for the school district , said the intercom was n't a factor in the Sparks Middle School shooting , security experts say intercoms play a critical role . "
+"Tracy Moore ,",say.01,They are used on,,Affirmative,"They are used on a daily basis and are the primary means for emergency notifications such as fire , evacuations , shelter in place and lockdowns , said Tracy Moore , the head of emergency management for the district . "
+expert Ken Trump,say.01,system is one of,,Affirmative,National school safety expert Ken Trump said an intercom system is one of the most important tools in a school 's emergency plan . 
+He,say.01,measures often include fortifying entrances and upgrading hardware for doors,,Affirmative,"He said school safety measures often include fortifying entrances and upgrading hardware for doors , but a communication gap is often the most critical component in saving lives . "
+Trump,say.01,systems are dinosaurs and,,Affirmative,"In general across the country , PA systems are dinosaurs and although they may be at the top of wish lists , there is no funding , Trump said . "
+You,make.LV,do with,,Affirmative,"You have to make do with what you have and sometimes do things like you would before electricity , he said . "
+you,do.02,things like you,,Affirmative,"You have to make do with what you have and sometimes do things like you would before electricity , he said . "
+he,say.01,You have,,Affirmative,"You have to make do with what you have and sometimes do things like you would before electricity , he said . "
+I,love.02,to see in,,Affirmative,"I would love to see in every school surveillance systems with access codes with integrated fire alarms and a mass notification system , Moore said . "
+Tracy Moore,say.01,I would love,,Affirmative,"I would love to see in every school surveillance systems with access codes with integrated fire alarms and a mass notification system , Moore said . "
+The system,integrate.01,the fire alarm,with,Affirmative,The system integrates the fire alarm with the intercom system . 
+Moore,say.01,district is,,Affirmative,"Moore said since the Sparks Middle School shooting , the district is better training staff . "
+dedicated phones,rely.01,on,,Affirmative,"At many schools , intercom systems can be accessed through one or two dedicated phones that do n't rely on the entire system to work . "
+We,need.01,to get,,Affirmative,"We need to get staff comfortable knowing those phones are there as a backup , he said . "
+staff,know.01,phones are there as,,Affirmative,"We need to get staff comfortable knowing those phones are there as a backup , he said . "
+he,say.01,We need,,Affirmative,"We need to get staff comfortable knowing those phones are there as a backup , he said . "
+people,forget.01,about,,Affirmative,He said in during stressful situations people forget about this type of backup to get a message out over an intercom system . 
+The district,say.01,it is now requiring,,Affirmative,The district said it is now requiring all facility coordinators to test systems 15 minutes before the start of school every day . 
+it,require.01,all facility coordinators,,Affirmative,The district said it is now requiring all facility coordinators to test systems 15 minutes before the start of school every day . 
+The district,say.01,systems are,,Affirmative,The district also said replacing systems are a priority but because of the failure of AB46 before the Washoe County Commission resources are limited . 
+elementary schools,receive.01,new intercom systems,,Affirmative,"Alice Smith , Taylor and Westergard elementary schools are scheduled to receive new intercom systems . "
+District officials,present.01,several capital needs,,Affirmative,"• Washoe County School District officials presented several capital needs during their testimony last year in favor of Assembly Bill 46 , a measure that would have increased property and sales taxes to pay for school repairs . "
+a measure,increase.01,property,,Affirmative,"• Washoe County School District officials presented several capital needs during their testimony last year in favor of Assembly Bill 46 , a measure that would have increased property and sales taxes to pay for school repairs . "
+County Commission,kill.01,the measure,,Affirmative,"• As part of that testimony , presented before the Washoe County Commission that ultimately killed the measure , district officials pointed out several school intercom systems that were expired or expired but serviceable . "
+district officials,point.02,expired or expired but serviceable,,Affirmative,"• As part of that testimony , presented before the Washoe County Commission that ultimately killed the measure , district officials pointed out several school intercom systems that were expired or expired but serviceable . "

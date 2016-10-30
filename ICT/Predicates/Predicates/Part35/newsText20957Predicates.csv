@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A California construction worker,help.01,demolish,,Affirmative,A California construction worker fell to his death when the bridge he was helping demolish collapsed onto the 91 Freeway . 
+A California construction worker,demolish.01,the bridge,,Affirmative,A California construction worker fell to his death when the bridge he was helping demolish collapsed onto the 91 Freeway . 
+Angeles Times,report.01,incident occurred around,,Affirmative,The Los Angeles Times reported that the incident occurred around 3:15 a.m. on Sunday . 
+workers,spend.02,the morning,trying,Affirmative,"However , due to the collapse and the fatality , the closure was extended indefinitely , as workers spent the morning trying to clear up the fallen bridge that blocked the freeway lanes . "
+workers,try.01,to clear up,,Affirmative,"However , due to the collapse and the fatality , the closure was extended indefinitely , as workers spent the morning trying to clear up the fallen bridge that blocked the freeway lanes . "
+workers,clear.01,the fallen bridge,,Affirmative,"However , due to the collapse and the fatality , the closure was extended indefinitely , as workers spent the morning trying to clear up the fallen bridge that blocked the freeway lanes . "
+the fallen bridge,block.01,the freeway lanes,,Affirmative,"However , due to the collapse and the fatality , the closure was extended indefinitely , as workers spent the morning trying to clear up the fallen bridge that blocked the freeway lanes . "
+witnesses,say.01,just buckled and collapsed,,Affirmative,"While it is n't clear what caused the bridge to collapse , witnesses say a part of it just buckled and collapsed . "
+spokeswoman Michelle Profant,say.01,investigation will be conducted,,Affirmative,Cal Trans spokeswoman Michelle Profant said an investigation will be conducted . 

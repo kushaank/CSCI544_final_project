@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The court,find.01,"Rosemary Namubiru ,",,Affirmative,"The court found Rosemary Namubiru , who is HIV positive herself , guilty of exposing a patient to the virus , the Associated Press reports . "
+"Rosemary Namubiru ,",expose.01,a patient,to,Affirmative,"The court found Rosemary Namubiru , who is HIV positive herself , guilty of exposing a patient to the virus , the Associated Press reports . "
+the Associated Press,report.01,court found,,Affirmative,"The court found Rosemary Namubiru , who is HIV positive herself , guilty of exposing a patient to the virus , the Associated Press reports . "
+Rosemary Namubiru,maintain.01,her innocence,,Affirmative,"Namubiru has maintained her innocence , saying she accidentally pricked herself with a needle she then used to give a baby an injection . "
+Rosemary Namubiru,say.01,she accidentally pricked herself with,,Affirmative,"Namubiru has maintained her innocence , saying she accidentally pricked herself with a needle she then used to give a baby an injection . "
+Rosemary Namubiru,prick.01,Rosemary Namubiru,,Affirmative,"Namubiru has maintained her innocence , saying she accidentally pricked herself with a needle she then used to give a baby an injection . "
+Rosemary Namubiru,give.01,an injection,a baby,Affirmative,"Namubiru has maintained her innocence , saying she accidentally pricked herself with a needle she then used to give a baby an injection . "
+mother,realize.01,needle had not been changed and alerted authorities,,Affirmative,"The child 's mother realized the needle had not been changed and alerted authorities , after which Namubiru was immediately arrested . "
+two tests,show.01,child was not infected with HIV,,Affirmative,"According to court records , two tests have shown the child was not infected with HIV . "
+a magistrate,rule.01,she posed,,Affirmative,The nurse was denied bail as a magistrate ruled she posed a danger to the public . 
+A Ugandan nurse,pose.02,a danger to,,Affirmative,The nurse was denied bail as a magistrate ruled she posed a danger to the public . 
+International activists,claim.01,Namubiru was,,Affirmative,"International activists claimed Namubiru was the victim of discrimination because she is HIV positive , and said that her trial was unwarranted . "
+International activists,say.01,trial was unwarranted,,Affirmative,"International activists claimed Namubiru was the victim of discrimination because she is HIV positive , and said that her trial was unwarranted . "
+the 60 countries,criminalize.01,the intentional transmission of HIV,,Affirmative,Uganda is one of the 60 countries that criminalizes the intentional transmission of HIV . 

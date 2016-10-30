@@ -1,0 +1,48 @@
+1	The	the	DT	_	3	det	_
+2	greatest	great	JJS	_	3	amod	_
+3	risk	risk	NN	_	8	nsubj	8:A0
+4	in	in	IN	_	3	prep	_
+5	life	life	NN	_	4	pobj	_
+6	is	be	VBZ	_	8	aux	_
+7	not	not	RB	_	8	neg	8:AM-NEG
+8	taking	take	VBG	pb=take.01	0	root	_
+9	one	#crd#	CD	p2=NN	8	dobj	8:A1=PPT
+10	.	.	.	_	8	punct	_
+
+1	Notify	notify	VB	p2=IN|pb=notify.01	0	root	_
+2	me	me	PRP	_	1	dobj	1:A1=GOL
+3	of	of	IN	_	1	prep	1:A2=PPT
+4	followup	followup	JJ	p2=NN	5	amod	_
+5	comments	comment	NNS	_	3	pobj	_
+6	via	via	IN	_	1	prep	1:AM-MNR
+7	e-mail	e-mail	NN	_	6	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	4	nsubj	4:A0=PAG;6:A0=PAG
+2	can	can	MD	_	4	aux	4:AM-MOD
+3	also	also	RB	_	4	advmod	4:AM-DIS
+4	subscribe	subscribe	VB	pb=subscribe.01	0	root	_
+5	without	without	IN	_	4	prep	4:AM-MNR
+6	commenting	comment	VBG	pb=comment.01	5	pcomp	_
+7	.	.	.	_	4	punct	_
+
+1	Notify	notify	VB	p2=VBP|pb=notify.01	0	root	_
+2	me	me	PRP	_	1	dobj	1:A1=GOL
+3	of	of	IN	_	1	prep	1:A2=PPT
+4	follow	follow	NN	p2=VB	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	up	up	NN	p2=RP	7	amod	_
+7	comments	comment	NNS	_	3	pobj	_
+8	by	by	IN	_	7	prep	_
+9	email	email	NN	_	8	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	Notify	notify	VB	p2=IN|pb=notify.01	0	root	_
+2	me	me	PRP	_	1	dobj	1:A1=GOL
+3	of	of	IN	_	1	prep	1:A2=PPT
+4	new	new	JJ	_	5	amod	_
+5	posts	post	NNS	_	3	pobj	_
+6	by	by	IN	_	1	prep	1:AM-MNR
+7	email	email	NN	_	6	pobj	_
+8	.	.	.	_	1	punct	_
+

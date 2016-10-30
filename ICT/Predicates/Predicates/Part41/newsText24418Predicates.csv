@@ -1,0 +1,98 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+army,declare.02,martial law,,Affirmative,"Thailand 's army has declared martial law in an announcement on military TV , but insists it is not staging a coup . "
+army,insist.01,it is not staging,,Affirmative,"Thailand 's army has declared martial law in an announcement on military TV , but insists it is not staging a coup . "
+Thailand 's army,stage.01,yet another coup,,Affirmative,"Thailand 's army has declared martial law in an announcement on military TV , but insists it is not staging a coup . "
+an announcement on military TV,say.01,law had been invoked,,Affirmative,The announcement said martial law had been invoked to restore peace and order for people from all sides and added that the public do not need to panic but can still live their lives as normal . 
+the public,need.01,to panic,,Affirmative,The announcement said martial law had been invoked to restore peace and order for people from all sides and added that the public do not need to panic but can still live their lives as normal . 
+the public,live.01,their lives,,Affirmative,The announcement said martial law had been invoked to restore peace and order for people from all sides and added that the public do not need to panic but can still live their lives as normal . 
+The Thai government,say.01,it was not consulted in advance of,,Affirmative,"The Thai government said it was not consulted in advance of the military declaration , and said acting prime minister Niwattumrong Boonsongpaisan remained in power . "
+The Thai government,say.01,Boonsongpaisan remained in power,,Affirmative,"The Thai government said it was not consulted in advance of the military declaration , and said acting prime minister Niwattumrong Boonsongpaisan remained in power . "
+chief security adviser,tell.01,Everything is normal,the AFP news agency,Affirmative,"Everything is normal except the military is responsible for all national security issues , the prime minister 's chief security adviser Paradon Pattanatabut told the AFP news agency . "
+The caretaker government,discuss.01,declaration,,Affirmative,The caretaker government was due to meet today to discuss the army 's declaration . 
+the prime minister 's,call.01,an emergency cabinet meeting,,Affirmative,The prime minister has called an emergency cabinet meeting to discuss the situation . 
+the prime minister 's,discuss.01,the situation,,Affirmative,The prime minister has called an emergency cabinet meeting to discuss the situation . 
+"Suranand Vejjajiva ,",tell.01,location will be in,reporters,Affirmative,"The location will be in a safe house and can not be disclosed , Suranand Vejjajiva , an aide to the prime minister , told reporters . "
+correspondent Samantha Hawley,say.01,military had moved,,Affirmative,The ABC 's South East Asia correspondent Samantha Hawley said the Thai military had moved to take control of key areas of the capital Bangkok . 
+the Thai military,take.01,control of,,Affirmative,The ABC 's South East Asia correspondent Samantha Hawley said the Thai military had moved to take control of key areas of the capital Bangkok . 
+spokesman Colonel Winthai Suvari,say.01,law had,,Affirmative,"Army spokesman Colonel Winthai Suvari said the martial law had no impact on the caretaker government , which is still in office . "
+the martial law,have.03,no impact on,,Affirmative,"Army spokesman Colonel Winthai Suvari said the martial law had no impact on the caretaker government , which is still in office . "
+Suranand Vejjajiva,tell.01,law is,Reuters,Affirmative,"This martial law is just to restore peace and stability , he told Reuters . "
+the martial law,have.03,nothing,,Affirmative,"It has nothing to do with the government , the government is still functioning as normal . "
+The caretaker government,function.01,as normal,,Affirmative,"It has nothing to do with the government , the government is still functioning as normal . "
+A general,decline.02,to be identified,,Affirmative,A general who declined to be identified told Reuters that troops were patrolling in Bangkok and had secured television stations . 
+A general,tell.01,that troops were patrolling in Bangkok,Reuters,Affirmative,A general who declined to be identified told Reuters that troops were patrolling in Bangkok and had secured television stations . 
+troops,secure.01,television stations,,Affirmative,A general who declined to be identified told Reuters that troops were patrolling in Bangkok and had secured television stations . 
+troops,declare.02,a state of emergency,,Affirmative,"We declared a state of emergency , it 's not a coup . "
+they,kill.01,each other every day,,Affirmative,"Because of the situation , it 's not stable , they kill each other every day , he said . "
+A general who declined to be identified,say.01,", they kill",,Affirmative,"Because of the situation , it 's not stable , they kill each other every day , he said . "
+A general who declined to be identified,say.01,organisations had been occupied,,Affirmative,"He said media organisations had been occupied because we need cooperation from them to announce to the people ' do not panic , this is not a coup ' . "
+troops,need.01,cooperation,,Affirmative,"He said media organisations had been occupied because we need cooperation from them to announce to the people ' do not panic , this is not a coup ' . "
+troops,announce.01,"panic , this is not",to,Affirmative,"He said media organisations had been occupied because we need cooperation from them to announce to the people ' do not panic , this is not a coup ' . "
+Army,suspend.01,broadcasts,from,Affirmative,The Thai army suspended broadcasts from several television channels including those linked to the kingdom 's bitterly opposed political sides . 
+"the people ` do not panic , this is not a coup '",get.01,the correct information,,Affirmative,"The channels were suspended in order that people will get the correct information and not distort information to deepen the conflict , according to a written order broadcast simultaneously on all television channels . "
+"the people ` do not panic , this is not a coup '",distort.01,information,,Affirmative,"The channels were suspended in order that people will get the correct information and not distort information to deepen the conflict , according to a written order broadcast simultaneously on all television channels . "
+O - Cha,order.01,the censorship of,,Affirmative,Army chief General Prayut Chan - O - Cha ordered the censorship of the media in the interests of national security in a signed statement delivered to every television station . 
+"the Red Shirts , others the Yellow Shirts",hold.04,a rally,,Affirmative,"Pro-government activists known as the Red Shirts held a rally in Bangkok , but they were quickly surrounded by soldiers . "
+Months of,leave.01,28 people,dead,Affirmative,"Months of anti-government protests in Thailand have left 28 people dead and hundreds wounded , and the country 's political crisis intensified earlier this month when prime minister Yingluck Shinawatra was thrown out of office . "
+The ABC 's South East Asia correspondent Samantha Hawley,say.01,has been increasing,,Affirmative,Hawley said in recent days the rhetoric from the anti-government protest leader has been increasing . 
+the anti-government protest leader,say.01,that they have had enough,,Affirmative,"He 'd been saying that they have had enough , they 're going to use force , I guess , to take control of the country , she told ABC News 24 . "
+28 people,have.03,enough,,Affirmative,"He 'd been saying that they have had enough , they 're going to use force , I guess , to take control of the country , she told ABC News 24 . "
+28 people,use.01,force,,Affirmative,"He 'd been saying that they have had enough , they 're going to use force , I guess , to take control of the country , she told ABC News 24 . "
+The ABC 's South East Asia correspondent Samantha Hawley,tell.01,ABC News 24,,Affirmative,"He 'd been saying that they have had enough , they 're going to use force , I guess , to take control of the country , she told ABC News 24 . "
+28 people,see.01,"the red shirts ,",,Affirmative,"We 've also seen the red shirts , the government supporters , rallying on the outskirts of Bangkok . "
+28 people,rally.01,"the red shirts ,",on,Affirmative,"We 've also seen the red shirts , the government supporters , rallying on the outskirts of Bangkok . "
+based Australian cameraman Matt Jasper,tell.01,there was,,Affirmative,Bangkok - based Australian cameraman Matt Jasper told ABC News 24 there was no sense of alarm throughout the morning . 
+Bangkok-based Australian cameraman Matt Jasper,expect.01,it to be,,Affirmative,"I mean , I would personally expect it to be probably quiet today , while both sides sort of reassess where they 're at with the army , Jasper said . "
+Bangkok-based Australian cameraman Matt Jasper,say.01,"mean , I would personally expect",,Affirmative,"I mean , I would personally expect it to be probably quiet today , while both sides sort of reassess where they 're at with the army , Jasper said . "
+Bangkok-based Australian cameraman Matt Jasper,say.01,broadcasts have not been interrupted,,Affirmative,"Despite reports the military had arrived at televisions stations , Jasper said broadcasts have not been interrupted . "
+Bangkok-based Australian cameraman Matt Jasper,say.01,", it 's not",,Affirmative,"They 're all operating pretty much as normal , although there are messages every now and again just suggesting it 's to restore peace , it 's not a coup , but everything seems to be running as normal , he said . "
+diplomat Richard Broinowski,say.01,things seemed,,Affirmative,Former Australia - Asia diplomat Richard Broinowski is in Bangkok and said things seemed to be quiet . 
+Former Australia-Asia diplomat Richard Broinowski is in Bangkok and said things,think.01,army is being,,Affirmative,I think the army is being very cautious ... 
+I,get.01,the impression,,Affirmative,I get the impression they 're trying not to be heavy - handed . 
+they,try.01,not to be,,Affirmative,I get the impression they 're trying not to be heavy - handed . 
+they,try.01,to do,,Affirmative,"What they are trying to do is separate the Red Shirts and the Yellow Shirts [ and keep them ] from attacking each other , he said . "
+Former Australia-Asia diplomat Richard Broinowski is in Bangkok and said things,say.01,is separate,,Affirmative,"What they are trying to do is separate the Red Shirts and the Yellow Shirts [ and keep them ] from attacking each other , he said . "
+Former Australia-Asia diplomat Richard Broinowski is in Bangkok and said things,say.01,he can not see,,Affirmative,But he said he can not see an easy breakthrough in the political stalemate in Thailand . 
+Former Australia-Asia diplomat Richard Broinowski is in Bangkok and said things,see.01,an easy breakthrough in,,Affirmative,But he said he can not see an easy breakthrough in the political stalemate in Thailand . 
+The Red Shirts and,give.08,their confrontation and,,Affirmative,"The Red Shirts and the Yellow Shirts are n't going to give up their confrontation and the more this happens the more likely things are to spin out of control , he said . "
+he,say.01,are n't going,,Affirmative,"The Red Shirts and the Yellow Shirts are n't going to give up their confrontation and the more this happens the more likely things are to spin out of control , he said . "
+Sections of,want.01,there,,Affirmative,Sections of the army do n't want there to be a coup . 
+sections of,support.01,the Red Shirts,,Affirmative,"There are sections of the army that support the Red Shirts , others the Yellow Shirts . "
+the Yellow Shirts,others.01,There are sections of,,Affirmative,"There are sections of the army that support the Red Shirts , others the Yellow Shirts . "
+We,have.03,a situation,,Affirmative,We have a situation that is very slowly beginning to spin out of control . 
+powerful military,attempt.01,18 coups,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+it,seek.01,to ease fears,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+it,ease.02,fears,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+chief General Prayuth Chan - ocha,warn.01,forces were ready,,Affirmative,But last weekend army chief General Prayuth Chan - ocha warned his forces were ready to use force to deal with any future violence . 
+his forces,use.01,force,to deal with,Affirmative,But last weekend army chief General Prayuth Chan - ocha warned his forces were ready to use force to deal with any future violence . 
+I,want.01,to warn,,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+I,warn.01,to stop now,"every group ,",Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+especially those using violence and,use.01,violence and,against,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+he,say.01,I want,,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+election commission,call.03,for,,Affirmative,"Last week , Thailand 's election commission called for national polls planned for July to be postponed because of the political unrest escalating in the kingdom . "
+by,oust.01,minister Ms Yingluck,for abuse of power,Affirmative,Former prime minister Ms Yingluck was ousted by a Thai court for abuse of power earlier this month after six months of protests against her government . 
+that,do.02,little,,Affirmative,A caretaker government was installed but that did little to curb the protests . 
+by,rive.01,Thailand,,Affirmative,"Thailand has been riven by political divisions since 2006 , when Ms Yingluck 's older brother Thaksin Shinawatra was ousted in a military coup after frictions with the country 's royalist establishment . "
+aligned parties,win.01,every election,,Affirmative,"Thaksin-led or aligned parties have won every election since 2001 , but four prime ministers have been removed by coups or court rulings . "
+by coups or,remove.01,four prime ministers,,Affirmative,"Thaksin-led or aligned parties have won every election since 2001 , but four prime ministers have been removed by coups or court rulings . "
+Mr Thaksin,say.01,declaration had been expected and,,Affirmative,On Tuesday morning Mr Thaksin said the army 's declaration had been expected and he hoped that no - one would undermine democracy . 
+Mr Thaksin,hope.01,one would undermine democracy,,Affirmative,On Tuesday morning Mr Thaksin said the army 's declaration had been expected and he hoped that no - one would undermine democracy . 
+no - one,undermine.01,democracy,,Affirmative,On Tuesday morning Mr Thaksin said the army 's declaration had been expected and he hoped that no - one would undermine democracy . 
+those,followed.02,the political situation,,Affirmative,"The declaration of martial law was expected for those who have followed the political situation , he said in a message posted on his official Twitter account . "
+he,say.01,was expected for those,,Affirmative,"The declaration of martial law was expected for those who have followed the political situation , he said in a message posted on his official Twitter account . "
+I,hope.01,side will violate,,Affirmative,I hope that no side will violate human rights and damage the democratic process more than it has already been . 
+no side,violate.01,human rights,,Affirmative,I hope that no side will violate human rights and damage the democratic process more than it has already been . 
+no side,damage.01,the democratic process,,Affirmative,I hope that no side will violate human rights and damage the democratic process more than it has already been . 
+Department of,say.01,is,,Affirmative,Australia 's Department of Foreign Affairs said its current travel advice for Australians in Thailand is to show a high degree of caution . 
+Thailand,have.03,goodwill and support,,Affirmative,"Thailand has Australia 's goodwill and support as it tries to find ways to settle its political difficulties , DFAT said in a statement . "
+it,try.01,to find ways,,Affirmative,"Thailand has Australia 's goodwill and support as it tries to find ways to settle its political difficulties , DFAT said in a statement . "
+it,find.01,ways,,Affirmative,"Thailand has Australia 's goodwill and support as it tries to find ways to settle its political difficulties , DFAT said in a statement . "
+DFAT,say.01,Thailand has,,Affirmative,"Thailand has Australia 's goodwill and support as it tries to find ways to settle its political difficulties , DFAT said in a statement . "
+Federal Treasurer Joe Hockey,say.01,Government is concerned about,,Affirmative,Federal Treasurer Joe Hockey said the Australian Government is concerned about what is happening there . 
+We,urge.01,Australians,to contact,Affirmative,"We urge Australians to contact Australian diplomatic officials in Thailand and to be in contact with families , and to take good care and to heed the travel warnings provided by the Department of Foreign Affairs , he said . "
+Australians,contact.01,Australian diplomatic officials,,Affirmative,"We urge Australians to contact Australian diplomatic officials in Thailand and to be in contact with families , and to take good care and to heed the travel warnings provided by the Department of Foreign Affairs , he said . "
+Australians,take.01,good care,,Affirmative,"We urge Australians to contact Australian diplomatic officials in Thailand and to be in contact with families , and to take good care and to heed the travel warnings provided by the Department of Foreign Affairs , he said . "
+by,provided.01,the travel warnings provided by,,Affirmative,"We urge Australians to contact Australian diplomatic officials in Thailand and to be in contact with families , and to take good care and to heed the travel warnings provided by the Department of Foreign Affairs , he said . "
+he,say.01,We urge Australians,,Affirmative,"We urge Australians to contact Australian diplomatic officials in Thailand and to be in contact with families , and to take good care and to heed the travel warnings provided by the Department of Foreign Affairs , he said . "
+you,have.03,inside knowledge of,,Affirmative,"If you have inside knowledge of a topic in the news , contact the ABC . "
+Ebola,wipe.02,a family,,Affirmative,An aid worker becomes a little girl 's sole guardian after Ebola wipes out a family in Sierra Leone . 

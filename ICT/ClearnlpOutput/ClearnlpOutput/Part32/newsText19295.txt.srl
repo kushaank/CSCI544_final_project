@@ -1,0 +1,76 @@
+1	According	accord	VBG	_	9	prep	9:AM-ADV
+2	to	to	IN	_	1	prep	_
+3	the	the	DT	_	4	det	_
+4	Finnish government	finnish government	NN	p2=NNP	2	pobj	_
+5	,	,	,	_	9	punct	_
+6	"	"	``	p2=''	9	punct	_
+7	The	the	DT	_	8	det	_
+8	presidents	president	NNS	_	9	nsubj	9:A0=PAG
+9	discussed	discuss	VBD	pb=discuss.01	0	root	_
+10	the	the	DT	_	11	det	_
+11	crisis	crisis	NN	_	9	dobj	9:A1=PPT
+12	in	in	IN	_	11	prep	_
+13	Ukraine	ukraine	NNP	_	12	pobj	_
+14	and	and	CC	_	13	cc	_
+15	bilateral	bilateral	JJ	_	16	amod	_
+16	relations	relation	NNS	_	13	conj	_
+17	between	between	IN	_	16	prep	_
+18	Finland	finland	NNP	_	17	pobj	_
+19	and	and	CC	_	18	cc	_
+20	Russia	russia	NNP	_	18	conj	_
+21	.	.	.	_	9	punct	_
+22	"	"	''	_	9	punct	_
+
+1	Niinistö	niinistö	NNP	p2=,	2	nsubj	2:A0=PAG
+2	expressed	express	VBD	pb=express.01	0	root	_
+3	that	that	IN	_	5	complm	_
+4	he	he	PRP	_	5	nsubj	5:A0
+5	hoped	hope	VBD	pb=hope.01	2	ccomp	2:A1=PPT
+6	Russia	russia	NNP	_	8	nsubj	8:A0
+7	would	would	MD	_	8	aux	8:AM-MOD
+8	support	support	VB	pb=support.01	5	ccomp	5:A1=PPT
+9	democratic	democratic	JJ	_	11	amod	_
+10	presidential	presidential	JJ	_	11	amod	_
+11	elections	election	NNS	_	8	dobj	8:A1;13:A1=PPT
+12	being	be	VBG	_	13	auxpass	_
+13	held	hold	VBN	pb=hold.04	11	partmod	_
+14	in	in	IN	_	13	prep	13:AM-LOC
+15	Ukraine	ukraine	NNP	_	14	pobj	_
+16	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	3	det	_
+2	Finnish	finnish	JJ	_	3	amod	_
+3	president	president	NN	_	5	nsubj	5:A0=PAG;14:A0=PAG
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	join	join	VB	pb=join.01	0	root	_
+6	a Parliamentary	a parliamentary	NNP	p2=JJ	8	nn	_
+7	Defence	defence	NNP	_	8	nn	_
+8	Committee	committee	NNP	_	9	nn	_
+9	meeting	meeting	NN	p2=VBG	5	dobj	5:A1=PPT
+10	on	on	IN	_	9	prep	_
+11	Thursday	thursday	NNP	_	10	pobj	_
+12	and	and	CC	_	5	cc	_
+13	will	will	MD	_	14	aux	14:AM-MOD
+14	meet	meet	VB	pb=meet.03	5	conj	_
+15	with	with	IN	_	14	prep	14:A1=COM
+16	the Minister	the minister	NNP	p2=JJR	21	nn	_
+17	for	for	IN	_	16	prep	_
+18	Foreign	foreign	NNP	_	19	nn	_
+19	Affairs	affair	NNPS	_	17	pobj	_
+20	Erkki	erkki	NNP	p2=NNPS	21	nn	_
+21	Tuomioja	tuomioja	NNP	_	15	pobj	_
+22	on	on	IN	_	14	prep	14:AM-TMP
+23	Saturday	saturday	NNP	_	22	pobj	_
+24	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	government	government	NN	_	5	nsubj	5:A0
+3	did	do	VBD	_	5	aux	_
+4	not	not	RB	_	5	neg	5:AM-NEG
+5	release the	release the	VB	pb=release the.01	0	root	_
+6	agenda	agenda	NN	_	5	dobj	5:A1
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	meetings	meeting	NNS	_	7	pobj	_
+10	.	.	.	_	5	punct	_
+

@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sell,announce.01,the launch of,,Affirmative,"Sell Your Car for Cash , a cash - for - cars services based in Suffolk County , New York , announces the launch of its new website , which features responsive design and a customer quoting feature to facilitate easy sales for mobile users . "
+"its new website ,",feature.01,responsive design and,,Affirmative,"Sell Your Car for Cash , a cash - for - cars services based in Suffolk County , New York , announces the launch of its new website , which features responsive design and a customer quoting feature to facilitate easy sales for mobile users . "
+a customer quoting feature,quote.01,feature,,Affirmative,"Sell Your Car for Cash , a cash - for - cars services based in Suffolk County , New York , announces the launch of its new website , which features responsive design and a customer quoting feature to facilitate easy sales for mobile users . "
+The company,buy.01,cars of,,Affirmative,"The company buys cars of any year , make or model , with any amount of mileage and in any condition , including motorcycles , snowmobiles , boats , and all - terrain vehicles . "

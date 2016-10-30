@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+MI - Police,issue.01,threats,,Affirmative,"LEELANAU COUNTY , MI - Police are investigating after a woman called U.S. Sen. Debbie Stabenow 's Traverse City office and allegedly issued threats if the lawmaker did not stop illegal workers from taking U.S. jobs . "
+the lawmaker,stop.03,illegal workers,from taking,Affirmative,"LEELANAU COUNTY , MI - Police are investigating after a woman called U.S. Sen. Debbie Stabenow 's Traverse City office and allegedly issued threats if the lawmaker did not stop illegal workers from taking U.S. jobs . "
+illegal workers,take.01,U.S. jobs,,Affirmative,"LEELANAU COUNTY , MI - Police are investigating after a woman called U.S. Sen. Debbie Stabenow 's Traverse City office and allegedly issued threats if the lawmaker did not stop illegal workers from taking U.S. jobs . "
+Police,say.01,were hired by,,Affirmative,"The caller threatened Jamaican workers she said were hired by Homestead Resort , Leelanau County sheriff 's deputies said . "
+by,hire.01,Jamaican workers,,Affirmative,"The caller threatened Jamaican workers she said were hired by Homestead Resort , Leelanau County sheriff 's deputies said . "
+deputies,say.01,caller threatened,,Affirmative,"The caller threatened Jamaican workers she said were hired by Homestead Resort , Leelanau County sheriff 's deputies said . "
+the caller 's,ask.02,to stop illegals from coming into,Stabenow,Affirmative,"The caller asked Stabenow to stop illegals from coming into the country and taking away jobs from local workers , police said in a statement . "
+"Stabenow , D-Lansing",stop.03,illegals,from coming into,Affirmative,"The caller asked Stabenow to stop illegals from coming into the country and taking away jobs from local workers , police said in a statement . "
+police,say.01,caller asked Stabenow,,Affirmative,"The caller asked Stabenow to stop illegals from coming into the country and taking away jobs from local workers , police said in a statement . "
+The chief of staff,call.01,police,,Affirmative,"The chief of staff for Stabenow , D - Lansing , called police . "
+Investigators,track.01,cell phone,to,Affirmative,"Investigators tracked the caller 's cell phone to an Oregon subscriber , but learned it had been used in the Cedar and Maple City areas . "
+Investigators,learn.01,it had been used in,,Affirmative,"Investigators tracked the caller 's cell phone to an Oregon subscriber , but learned it had been used in the Cedar and Maple City areas . "
+by,use.01,the caller 's cell phone,,Affirmative,The phone was being used by a 61 - year - old woman who lives in Leelanau County 's Kasson Township . 
+Police,believe.01,woman had,,Affirmative,Police do not believe that the woman had the means to carry out the threat . 
+a 61-year-old woman who lives in Leelanau County 's Kasson Township,have.03,the means,,Affirmative,Police do not believe that the woman had the means to carry out the threat . 
+a 61-year-old woman who lives in Leelanau County 's Kasson Township,carry.03,the threat,,Affirmative,Police do not believe that the woman had the means to carry out the threat . 
+Police,turn.12,reports for review by prosecutors,,Affirmative,Police will turn over reports for review by prosecutors . 
+Police,contact.01,Homestead representatives,,Affirmative,"Police contacted Homestead representatives and were told that housekeeping jobs had been advertised locally , with Michigan Works ! "
+Police,tell.01,"jobs had been advertised locally , with",,Affirmative,"Police contacted Homestead representatives and were told that housekeeping jobs had been advertised locally , with Michigan Works ! "
+with,advertise.01,housekeeping jobs,,Affirmative,"Police contacted Homestead representatives and were told that housekeeping jobs had been advertised locally , with Michigan Works ! "
+Homestead Resort,receive.01,one job application,,Affirmative,"The resort received only one job application , however . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

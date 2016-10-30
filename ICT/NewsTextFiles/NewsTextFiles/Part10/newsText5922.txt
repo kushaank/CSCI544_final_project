@@ -1,0 +1,64 @@
+
+An ingenious group of nonprofit startups hopes they can prevent suffering with hacked hardware and intelligent simulations. Here's how.
+
+This story contains interviews with Sean Bonner , director of global operations at Safecast; Bilal Ghalib , hackerspace creator at Gemsi.org; and Megan Price , director of research at HRDAG.
+
+In conflict or disaster areas, violence, injury and disease are major threats. Collecting statistics about these scenarios is extremely difficult in real time, especially when infrastructure like hospitals and law enforcement aren't reliably keeping records. Other times, the data exists, but sharing and analysis are too slow and unwieldy.
+
+The right data can help avoid mass suffering, property loss, and cost--but much of it sits under our noses, uncollected or uncollectable. Now a small group of tech nonprofits are devising their own ways of filling in the data gaps in these troubled regions of the world, so that aid organizations can respond faster and more intelligently.
+
+The challenges are big. In order for the data to have an impact, these nonprofits must rely on cooperation from volunteers that need quick technical training, other data-collecting organizations, and the local authorities, who can nullify even the most bulletproof evidence in the data.
+
+If their efforts succeed, these nonprofits can help quickly evacuate vulnerable groups, secure healthier living conditions for refugees, and even obtain overdue justice.
+
+When measuring a few data points becomes a time-consuming chore, it can be advantageous to build a custom device that automates it all, especially if that means getting people out of a toxic environment faster. Take, for example, the nonprofit Safecast , which started in response to the 2011 earthquake and tsunami in Japan. Sean Bonner, now the director of global operations there, was interested in measuring the amount of local radiation after the Fukushima nuclear disaster .
+
+In the aftermath of the nuclear spillage, there was very little public data on current radiation levels. “The little data that we had was vague. An analogy I like to use is if you were in San Francisco, and you wanted to find out the weather, then the data you could find was an average of all of California,” Bonner says.
+
+So Bonner wanted a higher resolution of readings, but finding the means to independently measure them proved difficult. “In the days following the Fukushima disaster, it was impossible to find Geiger counters ,” says Bonner. Geiger counter suppliers could not meet the demand, sometimes receiving up to 1,000 requests per day, whereas they were used to selling only five per month, on average.
+
+“It looks like a bento box,” says Bonner, referring to a traditional Japanese-style lunchbox. All of the components are convenient enough to fit inside a small encasement and are altogether cheaper than an ordinary Geiger counter.
+
+Besides its compactness and value, the device’s extra gadgets eliminate any need to manually log readings. “Prior to this, if you had a device, you would have to look at the screen, see what the reading was, write it down on a piece of paper, and go decide if you were going to email that to somebody. You would have to have some other device tell you where you were located,” says Bonner. Now, Safecast’s bGeigie device tags each radiation reading to a GPS point every five seconds.
+
+As of this month, Safecast has put together 18 million data points worldwide. With the help of its team in Tokyo and the bGeigie device , the Japanese data has forced local authorities to concede that their designated evacuation areas were incorrect and changed the official boundaries of the affected areas. In addition, numerous studies based on the open data have been published in academic journals.
+
+Now, volunteers all over the world are taking data with the bGeigie. Data that has been gathered by or shared with Safecast is open for everyone to access on the web, under a Creative Commons license. The Safecast.org site has an available API for interested developers, but it has its own iOS app as well. The iOS app now hosts the most up-to-date dataset of every radiation reading in Safecast.org’s scope, a nod to Safecast’s preference for storing data on the go.
+
+Earlier this year, Bilal Ghalib, who creates hackerspaces in the Middle East through Gemsi.org , set out on a project in Iraq. Before leaving for a PeaceTech camp there, he spoke to Bonner about how he could help an Iraq-based NGO create data visualizations about the levels of depleted uranium in the country. Bonner gave Ghalib a bGeigie device to take with him.
+
+Experts believe the radioactive uranium has given rise to and birth defects since its introduction into Iraq, but the World Health Organization recently put out a contradictory report , discrediting those claims. After learning about the bGeigie device, the NGO looked to Ghalib for guidance on how the technology could clear up these reporting conflicts.
+
+Ghalib eventually linked the Iraqi NGO up with a hackerspace he knew of, also based in Iraq. Within days of the PeaceTech camp, Ghalib and members of the NGO and the hackerspace started taking readings with the bGeigie device to create a radiation map in the areas surrounding Baghdad.
+
+After Ghalib returned to the States, the crew continued taking readings in the southern Iraqi town of Basra. There, they found a heavy prevalence of radiation levels. “In Baghdad, the areas with radiation problems are off limits, i.e., presidential palace, airport ... but in the south, the radiation is pretty severe,” Ghalib wrote in an email to us.
+
+Megan Price is a biostatistician-turned-conflict analyst, now director of research at the Human Rights Data Analysis Group (HRDAG). She quantifies violence in conflict zones for organizations as big as the United Nations and the Human Rights Watch and as small as the most local organizations in the battling regions. The data she investigates deals with counting things: victims, injuries, and documents.
+
+Price sees a few problems when gathering intelligence in areas under siege, especially when compared to non-conflict areas. First, most data of interest is incomplete. Second, local, national, and international organizations are not necessarily willing to share data. And third, much less information is typically available in conflict zones. For example, homicide numbers in a Western European country will be more complete than those in Syria, she says.
+
+“Our general rule of thumb is that all data are incomplete. And particularly, we think about data about violence, and inherently, that tends to be the kind of thing that people want to hide,” Price says.
+
+Price’s main data analysis tool requires fitting a model to the data that ends up in her lap. That way, she can see whether there are gaps in the data and what more needs to be included. The method, called multiple systems estimation analysis , lets Price look at patterns across lists of data, for example, lists of victims. The resulting model reveals how much data is missing, to a degree of uncertainty. Price does not make any assumptions about the data beforehand.
+
+“There is a wide variety of things that could be considered data,” Price says. In a project in Kosovo, her colleague obtained and copied border-crossing records of people who fled Kosovo into Albania. In Chad, other colleagues copied bureaucratic data about a prison’s management. Often, data collectors will write the info down on pieces of paper or get it through interviews.
+
+Once HRDAG gathers the data it needs, it is hard to say what the outcome for those seeking justice will be. Even the best analyses risk political dismissal. One of Price’s most successful data projects compared the risk of death for indigenous versus non-indigenous populations in Guatemala in the 1990s. During a court case, her team proved that indigenous populations had a five-time greater prospect of death than the other group. “The result was consistent to genocide,” Price says.
+
+A Guatemalan court later convicted the responsible general for genocide, based on HRDAG’s analysis. But Guatemala’s Constitutional Court overturned the ruling 10 weeks later. In some cases, hard data will not win over politics.
+
+Now, Ghalib and the team are lobbying the authors of all the relevant radiation public health studies, including the WHO, to release their data on radiation readings and negative health effects from the respective studies. The goal is to uncover the origin of their mysteriously conflicting conclusions through sharing open data.
+
+Ghalib’s ultimate objective, getting all the data out in the open, seems far away at this point. The WHO has disregarded past demands for access to their research data. And obtaining direct access to researchers at such a large organization is not so straightforward. On top of that, not every researcher shares an open data ethos, but Ghalib believes the public deserves open access to all research material. “We paid for all this data, right?” he says.
+
+But some data might never reach the public. “Organizations in conflict regions or in regions recovering from conflict tend to have good reasons to not have a trust in other groups or to need to keep the data that they have access to confidential. We try to respect and understand that,” Price says.
+
+Still, there might be hope for Ghalib. Earlier this month, the WHO ended up releasing some data on worldwide pollution levels. But the data did not belong to a previously published report, as it is in the case of the radiation studies that Ghalib is trying to unlock.
+
+Gathering data in areas that need it most requires some sleuthing. Whether that means piecing together your own data meter or relying on pen-and-paper accounts of what happened, taking the initiative might pay off in better public health services or overdue justice to the local communities. And a little technical know-how doesn't hurt, either.
+
+I'm a senior writer for Fast Co.Labs. My writing revolves around science and technology and tends toward women in STEM.
+
+My work has appeared in the New Statesman, Science and The Atlantic Cities, among others. I have two engineering degrees and am a graduate of Northwestern.
+
+I'm from Chicago. Follow me on Twitter @tinamirtha.

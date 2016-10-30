@@ -1,0 +1,26 @@
+
+As many as 700,000 victims were infected by "Blackshades" remote access trojan.
+
+More than 100 people in the US and countries around the world have been arrested and charged with using malware available for sale online to surreptitiously spy on computer users' most intimate moments. The victims include Miss Teen USA, who last year was the target of a high-profile peeping tom attack that secretly snapped nude images while she was dressing in her bedroom.
+
+The coordinated global crackdown coincided with the FBI seizure of bshades.eu , a website that, according to US prosecutors , brazenly sold Blackshades for about $40 and provided technical support for the so-called remote access trojan (RAT). Indictments filed in US District Court in Manhattan named Alex Yücel and Brendan Johnston with distributing, marketing, and supporting the malware and Kyle Fedorek and Marlen Rappa with purchasing it and collectively using it to infect more than 400 people. Police in at least 15 countries outside of the US announced the arrest of 100 other people in raids that were coordinated to prevent defendants from tipping off each other. Word of the raids began circulating over the weekend on hacker forums .
+
+While prosecutors said Blackshades was used to perpetrate everything from bank fraud to extortion, the best known application remains men using it to spy on women through the webcams of RAT-infected PCs . Blackshades isn't the only malware used in the illicit pastime, although the ease in buying, installing, and using it makes it among the most popular, especially by peeping toms with little technical skill.
+
+As chronicled by Ars, RATing went mainstream with the targeting of Miss Teen USA, who in August revealed she was the victim of malware that for months had been used to secretly spy on her . A month later, prosecutors charged a former classmate with infecting the teen pageant winner with Blackshades and other RATs by sending her Facebook messages that included malicious links. Jared Abrahams, who was 19 years old at the time, was sentenced to 18 months in prison after pleading guilty.
+
+Yücel, a 24-year-old Swedish national, was the co-creator of Blackshades and the operator of a business that sold it, prosecutors said. He was arrested in Moldova in November and is pending extradition to the US. He allegedly employed several paid employees, including a director of marketing, website developer, customer service manager, and a team of customer service representatives. The malware generated sales of more than $350,000 from September 2010 to April of this year. Michael Hogue, co-creator of the RAT, was arrested in June 2012 and pled guilty in January in US District Court. A transcript of his guilty plea was unsealed Monday morning.
+
+Johnston, 23, of Thousand Oaks, California, was a paid employee who, among other things, marketed and sold the RAT and provided technical support to customers, prosecutors said. Fedorek purchased Blackshades and used it to steal financial information and other data for more than 400 victims, prosecutors said. Rappa was also a Blackshades customer who used it to operate victims' webcams and steal their personal data, court documents allege. None of the defendants have entered a plea in court.
+
+According to Reuters and CNN , the US arrests were part of a major crackdown on users of Blackshades and other RATs. Worldwide raids involved searches of about 360 homes and arrests of 80 to 100 people. The estimated number of victims infected ranged from 500,000 to 700,000.
+
+People who are concerned that they may fall victim to RATers should remember that most successful infections are the result of clicking on links in e-mails, instant messages, or on websites that ultimately require the end user to install some sort of executable software. You should never click the OK button to install software unless you fully understand what it does and can be sure it was downloaded from a trusted website. Malware is often extremely hard to detect or uninstall once it has taken hold. When in doubt, it's better to forgo whatever offer accompanies the installation request than it is to take the chance of becoming infected. Readers should strongly consider placing a piece of opaque tape over webcams when they're not in use.
+
+In some cases, RATs can be installed by exploiting known vulnerabilities in widely used operating systems or apps. People should ensure their computer software is up to date. Anyone running Microsoft's recently decommissioned Windows XP should stop using it for any Internet-related tasks and upgrade to a safer OS as soon as possible. Security firm Symantec, which said it worked closely with the FBI in targeting Blackshades offenders , has much more information about Blackshades here .
+
+Dan Goodin / Dan is the Security Editor at Ars Technica, which he joined in 2012 after working for The Register, the Associated Press, Bloomberg News, and other publications.
+
+Don't have an Ars account? It’s fast and easy to register for one.
+
+If you don't have an account yet it's free and easy.

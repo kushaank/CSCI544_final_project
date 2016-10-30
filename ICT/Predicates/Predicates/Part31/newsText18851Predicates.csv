@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,back.01,a Texas energy company backed by,,Affirmative,"Venado Oil & Gas LLC , a Texas energy company backed by Riverstone Holdings LLC and EnCap Investments LP , is seeking a buyer , people familiar with the matter said . "
+"LLC ,",seek.01,a buyer,,Affirmative,"Venado Oil & Gas LLC , a Texas energy company backed by Riverstone Holdings LLC and EnCap Investments LP , is seeking a buyer , people familiar with the matter said . "
+people familiar with,say.01,", is seeking",,Affirmative,"Venado Oil & Gas LLC , a Texas energy company backed by Riverstone Holdings LLC and EnCap Investments LP , is seeking a buyer , people familiar with the matter said . "
+held company,work.01,to find buyers,,Affirmative,"The closely - held company is working with Jefferies Group LLC to find buyers and may fetch between $ 800 million and $ 1 billion in a sale , said the people , who asked not to be identified because the matter is not public . "
+held company,find.01,buyers,,Affirmative,"The closely - held company is working with Jefferies Group LLC to find buyers and may fetch between $ 800 million and $ 1 billion in a sale , said the people , who asked not to be identified because the matter is not public . "
+held company,fetch.01,between $ 800 million and,,Affirmative,"The closely - held company is working with Jefferies Group LLC to find buyers and may fetch between $ 800 million and $ 1 billion in a sale , said the people , who asked not to be identified because the matter is not public . "
+"the people ,",say.01,company is working with,,Affirmative,"The closely - held company is working with Jefferies Group LLC to find buyers and may fetch between $ 800 million and $ 1 billion in a sale , said the people , who asked not to be identified because the matter is not public . "
+"the people ,",ask.02,not to be identified,,Affirmative,"The closely - held company is working with Jefferies Group LLC to find buyers and may fetch between $ 800 million and $ 1 billion in a sale , said the people , who asked not to be identified because the matter is not public . "
+The buyout firms,bring.01,Austin-based Venado,to market,Affirmative,The buyout firms are bringing Austin-based Venado to market as energy companies seek to bulk up in Texas ' oil - rich Eagle Ford and Permian basins . 
+energy companies,seek.01,to bulk up in,,Affirmative,The buyout firms are bringing Austin-based Venado to market as energy companies seek to bulk up in Texas ' oil - rich Eagle Ford and Permian basins . 
+"Venado , founded in 2011",explore.01,for oil and gas,,Affirmative,"Venado , founded in 2011 , explores for oil and gas in the Permian and along the Gulf Coast , according to its website . "
+it,say.01,It is also on track,,Affirmative,"It is also on track to producing the equivalent of 5,000 barrels of oils a day in the Eagle Ford by mid-summer , it said in April . "
+EnCap and Riverstone,invest.01,least $ 275 million,in Venado,Affirmative,"EnCap and Riverstone have invested at least $ 275 million in Venado , according to a press release last year . "
+"Spokesmen for Riverstone , EnCap , and Jefferies",decline.02,to comment,,Affirmative,"Spokesmen for Riverstone , EnCap , and Jefferies declined to comment . "
+Officer Scott Garrick,return.02,a call seeking comment,,Affirmative,Venado Chief Executive Officer Scott Garrick did not return a call seeking comment . 
+a call seeking comment,seek.01,comment,,Affirmative,Venado Chief Executive Officer Scott Garrick did not return a call seeking comment . 
+Press,continue.01,Press spacebar to pause,,Affirmative,Press spacebar to pause and continue . 
+Press,esc.01,to stop,,Affirmative,Press esc to stop . 

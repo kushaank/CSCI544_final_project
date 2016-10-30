@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the California Highway Patrol,spearhead.01,efforts,,Affirmative,So the California Highway Patrol is spearheading efforts now through June 1 around the state to pull over drivers who are not wearing seat belts or who allow passengers in their cars to not wear them . 
+the California Highway Patrol,pull.01,drivers,,Affirmative,So the California Highway Patrol is spearheading efforts now through June 1 around the state to pull over drivers who are not wearing seat belts or who allow passengers in their cars to not wear them . 
+drivers,wear.01,seat belts or,,Affirmative,So the California Highway Patrol is spearheading efforts now through June 1 around the state to pull over drivers who are not wearing seat belts or who allow passengers in their cars to not wear them . 
+drivers,allow.01,passengers,,Affirmative,So the California Highway Patrol is spearheading efforts now through June 1 around the state to pull over drivers who are not wearing seat belts or who allow passengers in their cars to not wear them . 
+drivers,save.02,their lives,,Affirmative,They save lives . 
+"some 12,174 people",wear.01,seat belts,,Affirmative,"In 2012 , according to figures from the National Highway Traffic Safety Administration , some 12,174 people did n't die in auto accidents they were in because they were wearing seat belts . "
+"some 12,174 people",risk.01,their lives,,Affirmative,"But , even if people are willing to risk their lives , perhaps they are less willing to risk cold , hard cash . "
+"some 12,174 people",risk.01,"cold , hard cash",,Affirmative,"But , even if people are willing to risk their lives , perhaps they are less willing to risk cold , hard cash . "

@@ -1,0 +1,57 @@
+1	    	    	''	p2=NN	2	punct	_
+2	Investors.com	#url#	ADD	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	    	    	NNS	p2=NN	0	root	_
+2	for	for	IN	_	1	prep	_
+3	free	free	JJ	_	4	amod	_
+4	membership	membership	NN	_	2	pobj	_
+5	on	on	IN	_	4	prep	_
+6	Investors.com	#url#	ADD	_	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	Use	use	VB	p2=VBP|pb=use.01	0	root	_
+2	stock	stock	NN	_	3	nn	_
+3	charts	chart	NNS	_	1	dobj	1:A1=PPT
+4	,	,	,	_	3	punct	_
+5	not	not	RB	p2=NN	3	neg	_
+6	features	feature	NNS	p2=VBZ	3	appos	_
+7	,	,	,	_	1	punct	_
+8	to	to	TO	_	9	aux	_
+9	determine	determine	VB	pb=determine.01	1	advcl	1:AM-PRP
+10	your	your	PRP$	_	12	poss	_
+11	entry	entry	NN	_	12	nn	_
+12	point	point	NN	_	9	dobj	9:A1=PPT
+13	.	.	.	_	1	punct	_
+
+1	©	©	$	p2=SYM	2	nmod	_
+2	2014	0	CD	_	3	nn	_
+3	MarketSmith	marketsmith	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	Incorporated	incorporated	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	Charts	chart	NNS	p2=VBZ	6	nsubjpass	2:A1;6:A1=PPT
+2	provided	provided	VBN	pb=provide.01	1	partmod	_
+3	by	by	IN	_	2	agent	2:A0
+4	MarketSmith	marketsmith	NNP	_	3	pobj	_
+5	are	be	VBP	_	6	auxpass	_
+6	used	use	VBN	pb=use.01	0	root	_
+7	by	by	IN	_	6	agent	6:A0=PAG
+8	IBD	ibd	NNP	_	7	pobj	_
+9	under	under	IN	_	6	prep	6:AM-MNR
+10	license	license	NN	p2=JJ	11	nn	_
+11	agreement	agreement	NN	_	9	pobj	_
+12	.	.	.	_	6	punct	_
+
+1	MarketSmith	marketsmith	NNP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	registered	register	VBN	p2=JJ|pb=register.02	5	amod	_
+5	trademark	trademark	NN	_	2	attr	4:A1=PPT;2:A2=PRD
+6	of	of	IN	_	5	prep	_
+7	MarketSmith	marketsmith	NNP	_	6	pobj	_
+8	,	,	,	_	7	punct	_
+9	Incorporated	incorporated	NNP	_	7	appos	_
+10	.	.	.	_	2	punct	_
+

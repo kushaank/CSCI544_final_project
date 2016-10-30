@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ISLAMABAD,drop.01,a case against,,Affirmative,ISLAMABAD ( Reuters ) - A Pakistani court on Monday dropped a case against a U.S. law enforcement agent charged with weapons offenses for trying to board a flight while carrying bullets and a knife in his luggage . 
+The incident,revive.01,memories of,,Affirmative,"The incident revived memories of Pakistan 's 2011 arrest of a CIA contractor , who shot dead two men he thought were trying to rob him , souring U.S . "
+"a CIA contractor ,",shoot.03,dead two men,,Affirmative,"The incident revived memories of Pakistan 's 2011 arrest of a CIA contractor , who shot dead two men he thought were trying to rob him , souring U.S . "
+a CIA contractor,think.01,were trying,,Affirmative,"The incident revived memories of Pakistan 's 2011 arrest of a CIA contractor , who shot dead two men he thought were trying to rob him , souring U.S . "
+dead two men,try.01,"to rob him ,",,Affirmative,"The incident revived memories of Pakistan 's 2011 arrest of a CIA contractor , who shot dead two men he thought were trying to rob him , souring U.S . "
+Both nations,fight.01,Islamist militants,,Affirmative,Both nations officially cooperate to fight Islamist militants but frequently trade public accusations . 
+Both nations,trade.01,public accusations,,Affirmative,Both nations officially cooperate to fight Islamist militants but frequently trade public accusations . 
+Pakistani authorities,arrest.01,"Joel Cox ,",,Affirmative,"In the current case , Pakistani authorities arrested Joel Cox , a Federal Bureau of Investigation agent , at the airport in the southern city of Karachi on May 4 after he tried to board a civilian flight with the knife and 15 9 - mm bullets , police said . "
+he,try.01,to board,,Affirmative,"In the current case , Pakistani authorities arrested Joel Cox , a Federal Bureau of Investigation agent , at the airport in the southern city of Karachi on May 4 after he tried to board a civilian flight with the knife and 15 9 - mm bullets , police said . "
+he,board.01,a civilian flight with,,Affirmative,"In the current case , Pakistani authorities arrested Joel Cox , a Federal Bureau of Investigation agent , at the airport in the southern city of Karachi on May 4 after he tried to board a civilian flight with the knife and 15 9 - mm bullets , police said . "
+police,say.01,authorities arrested,,Affirmative,"In the current case , Pakistani authorities arrested Joel Cox , a Federal Bureau of Investigation agent , at the airport in the southern city of Karachi on May 4 after he tried to board a civilian flight with the knife and 15 9 - mm bullets , police said . "
+He,spend.02,three nights,in jail,Affirmative,"He spent three nights in jail before being freed on a $ 10,000 bond . "
+police,say.01,they asked for,,Affirmative,"On Monday , police said they asked for the case to be cancelled . "
+they,ask.02,for,,Affirmative,"On Monday , police said they asked for the case to be cancelled . "
+he,carry.01,a weapon,,Affirmative,"Since he was not carrying a weapon , only bullets were found from his luggage , the investigation report recommended the cancellation of the case , Inspector Khalid Mehmood told Reuters . "
+the investigation report,recommend.01,the cancellation of,,Affirmative,"Since he was not carrying a weapon , only bullets were found from his luggage , the investigation report recommended the cancellation of the case , Inspector Khalid Mehmood told Reuters . "
+by,allow.01,a practice allowed by,,Affirmative,"In the 2011 shooting , the detained contractor , Raymond Davis , was eventually freed after the payment of blood money to the families of the two men , a practice allowed by Pakistani law . "
+AlertNet,provide.01,"news , images and insight from",,Affirmative,"AlertNet provides news , images and insight from the world 's disasters and conflicts and is brought to you by Reuters Foundation . "
+by,bring.01,AlertNet,to you,Affirmative,"AlertNet provides news , images and insight from the world 's disasters and conflicts and is brought to you by Reuters Foundation . "

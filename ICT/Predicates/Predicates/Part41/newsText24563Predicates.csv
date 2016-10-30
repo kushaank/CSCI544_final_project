@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( Reuters ) -,shut.01,oil production,,Affirmative,"OSLO May 19 ( Reuters ) - Norwegian energy firm Statoil shut oil production at its Snorre B platform in the North Sea and evacuated a quarter of its personnel after detecting a soil shift under a drilling template , the company said on Monday . "
+( Reuters ) -,evacuate.01,a quarter of,,Affirmative,"OSLO May 19 ( Reuters ) - Norwegian energy firm Statoil shut oil production at its Snorre B platform in the North Sea and evacuated a quarter of its personnel after detecting a soil shift under a drilling template , the company said on Monday . "
+the company,say.01,shut,,Affirmative,"OSLO May 19 ( Reuters ) - Norwegian energy firm Statoil shut oil production at its Snorre B platform in the North Sea and evacuated a quarter of its personnel after detecting a soil shift under a drilling template , the company said on Monday . "
+the firm,say.01,Production was first shut on Saturday,,Affirmative,"Production was first shut on Saturday then halted again on Monday when more problems were discovered during a restart attempt , the firm said . "
+manager,evacuate.01,some of,,Affirmative,"Production was shut again on Monday after detecting an oil leak , and as a precautionary measure the platform 's manager has ordered to evacuate some of the people from the platform , a spokeswoman for the company told Reuters . "
+"Snorre field ,",have.03,two platforms,,Affirmative,"Snorre field , which has two platforms , produced 88,000 barrels of oil per day in 2013 . "
+"Snorre field ,",produce.01,"88,000 barrels of oil per day",,Affirmative,"Snorre field , which has two platforms , produced 88,000 barrels of oil per day in 2013 . "

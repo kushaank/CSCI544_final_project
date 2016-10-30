@@ -1,0 +1,36 @@
+1	Markets	markets	NNP	p2=NNS	2	nn	_
+2	Stream	stream	NNP	_	3	nsubj	3:A0=PAG
+3	gives	give	VBZ	pb=give.01	0	root	_
+4	you	you	PRP	_	3	iobj	3:A2=GOL
+5	a	a	DT	_	7	det	_
+6	single	single	JJ	_	7	amod	_
+7	place	place	NN	_	3	dobj	3:A1=PPT;9:A2=GOL
+8	to	to	TO	_	9	aux	_
+9	follow	follow	VB	pb=follow.02	7	infmod	_
+10	live	live	JJ	p2=VB	11	amod	_
+11	updates	update	NNS	_	9	dobj	9:A1=PPT
+12	of	of	IN	_	11	prep	_
+13	markets	market	NNS	_	14	nn	_
+14	moves	move	NNS	_	12	pobj	_
+15	and	and	CC	_	14	cc	_
+16	commentary	commentary	NN	_	14	conj	_
+17	,	,	,	_	16	punct	_
+18	plus	plus	CC	_	16	cc	_
+19	relevant	relevant	JJ	_	20	amod	_
+20	insight	insight	NN	_	16	conj	_
+21	from	from	IN	_	20	prep	_
+22	the	the	DT	_	23	det	_
+23	web	web	NN	_	21	pobj	_
+24	and	and	CC	_	23	cc	_
+25	social	social	JJ	_	26	amod	_
+26	media	medium	NNS	_	23	conj	_
+27	.	.	.	_	3	punct	_
+
+1	 	 	NNP	p2=``	3	nsubj	3:A1=PPT
+2	Here	here	RB	p2=NNP	3	advmod	3:A2=PRD
+3	's	be	VBZ	pb=be.01	0	root	_
+4	how	how	WRB	_	6	advmod	6:R-AM-MNR
+5	it	it	PRP	_	6	nsubj	6:A0=PAG
+6	works	work	VBZ	pb=work.09	3	ccomp	3:AM-PRD
+7	.	.	.	_	3	punct	_
+

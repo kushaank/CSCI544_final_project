@@ -1,0 +1,104 @@
+1	Thailand will	thailand will	MD	p2=EX	2	aux	2:AM-MOD
+2	be	be	VB	pb=be.01	0	root	_
+3	one	#crd#	CD	_	2	attr	2:A2=PRD
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	lucky	lucky	JJ	_	7	amod	_
+7	countries	country	NNS	_	4	pobj	_
+8	to	to	TO	p2=IN	9	aux	_
+9	witness	witness	VB	p2=NN|pb=witness.01	3	infmod	_
+10	B.A	b.a	NNP	_	9	dobj	9:A1
+11	.	.	.	_	2	punct	_
+
+1	P	p	NN	_	3	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	world tour	world tour	NN	p2=NNP	0	root	_
+4	,	,	,	_	3	punct	_
+5	B.A.P	b.a.p	NNP	p2=CC	6	nn	_
+6	Live	live	NNP	p2=VB	3	appos	_
+7	on	on	IN	_	6	prep	_
+8	Earth	earth	NNP	_	7	pobj	_
+9	2014	0	CD	_	8	num	_
+10	.	.	.	_	1	punct	_
+
+1	Details	detail	NNS	_	7	nsubjpass	7:A1=PPT
+2	for	for	IN	_	1	prep	_
+3	the	the	DT	_	5	det	_
+4	Bangkok	bangkok	NNP	_	5	nn	_
+5	Attack	attack	NNP	p2=NN	2	pobj	_
+6	was	be	VBD	_	7	auxpass	_
+7	released	release	VBN	pb=release.01	0	root	_
+8	today	today	NN	_	7	npadvmod	7:AM-TMP
+9	.	.	.	_	7	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A1=PPT
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	be	be	VB	pb=be.01	0	root	_
+4	performing  in	performing  in	NNP	p2=VBG	3	attr	3:A2=PRD
+5	the	the	DT	_	7	det	_
+6	country on	country on	NNP	p2=NN	7	nn	_
+7	June	june	NNP	_	4	appos	_
+8	28	0	CD	_	7	num	_
+9	at	at	IN	_	7	prep	_
+10	the	the	DT	_	13	det	_
+11	Royal	royal	NNP	_	13	nn	_
+12	Paragon	paragon	NNP	_	13	nn	_
+13	Hall	hall	NNP	_	9	pobj	_
+14	2-3	0	CD	_	13	num	_
+15	.	.	.	_	3	punct	_
+
+1	Previously	previously	RB	_	5	advmod	5:AM-TMP
+2	,	,	,	_	5	punct	_
+3	the	the	DT	_	4	det	_
+4	group	group	NN	_	5	nsubj	5:A0=PAG
+5	had	have	VBD	pb=have.03	0	root	_
+6	successful	successful	JJ	_	7	amod	_
+7	concerts	concert	NNS	_	5	dobj	5:A1=PPT
+8	in	in	IN	_	5	prep	5:AM-LOC
+9	South	south	NNP	_	10	nn	_
+10	Korea	korea	NNP	_	8	pobj	_
+11	,	,	,	_	10	punct	_
+12	Europe	europe	NNP	_	10	conj	_
+13	,	,	,	_	12	punct	_
+14	United	united	NNP	_	15	nn	_
+15	States	states	NNP	_	12	conj	_
+16	of	of	IN	_	15	prep	_
+17	America	america	NNP	_	16	pobj	_
+18	,	,	,	_	17	punct	_
+19	Australia	australia	NNP	_	17	conj	_
+20	and	and	CC	_	19	cc	_
+21	Taiwan	taiwan	NNP	_	19	conj	_
+22	.	.	.	_	5	punct	_
+
+1	With	with	IN	_	11	prep	11:AM-ADV
+2	their	their	PRP$	_	4	poss	_
+3	large	large	JJ	_	4	amod	_
+4	following	following	NN	p2=VBG	1	pobj	_
+5	in	in	IN	_	4	prep	_
+6	Thailand	thailand	NNP	_	5	pobj	_
+7	,	,	,	_	11	punct	_
+8	the	the	DT	_	9	det	_
+9	show	show	NN	_	11	nsubjpass	13:A0=PAG;11:A1=PPT
+10	is	be	VBZ	_	11	auxpass	_
+11	expected	expect	VBN	pb=expect.01	0	root	_
+12	to	to	TO	_	13	aux	_
+13	draw	draw	VB	pb=draw.02	11	xcomp	11:C-A1
+14	thousands	#crd#	NNS	_	13	dobj	13:A1=PPT
+15	of	of	IN	_	14	prep	_
+16	fans	fan	NNS	_	15	pobj	_
+17	.	.	.	_	11	punct	_
+
+1	Meanwhile	meanwhile	RB	_	6	advmod	6:AM-TMP
+2	,	,	,	_	6	punct	_
+3	there	there	EX	_	6	expl	_
+4	will	will	MD	_	6	aux	6:AM-MOD
+5	also	also	RB	_	6	advmod	6:AM-ADV
+6	be	be	VB	pb=be.02	0	root	_
+7	upcoming	upcoming	JJ	_	8	amod	_
+8	performances	performance	NNS	_	6	attr	6:A1=PPT
+9	in	in	IN	_	8	prep	_
+10	Singapore	singapore	NNP	_	9	pobj	_
+11	and	and	CC	_	10	cc	_
+12	Japan	japan	NNP	_	10	conj	_
+13	.	.	.	_	6	punct	_
+

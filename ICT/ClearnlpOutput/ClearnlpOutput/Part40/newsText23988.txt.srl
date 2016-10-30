@@ -1,0 +1,31 @@
+1	Did	do	VBD	_	3	aux	_
+2	you	you	PRP	_	3	nsubj	3:A0=PAG
+3	know	know	VB	p2=VBP|pb=know.01	0	root	_
+4	?	?	.	_	3	punct	_
+
+1	 The	 the	DT	p2=VB	3	det	_
+2	same	same	JJ	_	3	amod	_
+3	people	people	NNS	_	0	root	5:A0=PAG
+4	who	who	WP	_	5	nsubj	5:R-A0
+5	bring	bring	VBP	pb=bring.01	3	rcmod	_
+6	you	you	PRP	_	5	iobj	5:A2=GOL
+7	this	this	DT	_	8	det	_
+8	website	website	NN	_	5	dobj	5:A1=PPT
+9	also	also	RB	_	11	advmod	_
+10	run 	run 	NNP	p2=VBZ	11	nn	_
+11	4G	4g	NNP	p2=CD	8	appos	14:A1=PPT
+12	,	,	,	_	11	punct	_
+13	which	which	WDT	_	14	nsubj	14:R-A1
+14	is	be	VBZ	pb=be.01	11	rcmod	_
+15	a	a	DT	_	16	det	_
+16	website	website	NN	_	14	attr	17:A1=PPT;14:A2=PRD
+17	dedicated	dedicate	VBN	pb=dedicate.01	16	partmod	_
+18	exclusively	exclusively	RB	_	17	advmod	17:AM-MNR
+19	to	to	IN	p2=TO	17	prep	17:A2=GOL
+20	4G	0g	VBG	p2=CD|pb=0g.01	19	pcomp	_
+21	mobile	mobile	NN	p2=JJ	20	dobj	20:A1
+22	in	in	IN	_	21	prep	_
+23	the	the	DT	_	24	det	_
+24	UK	uk	NNP	_	22	pobj	_
+25	.	.	.	_	11	punct	_
+

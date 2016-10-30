@@ -1,0 +1,20 @@
+1	Like	like	IN	p2=UH	0	root	_
+2	us	us	PRP	_	1	pobj	_
+3	on	on	IN	_	2	prep	_
+4	Facebook	facebook	NNP	_	3	pobj	_
+5	now	now	RB	_	7	advmod	7:AM-TMP
+6	to	to	TO	_	7	aux	_
+7	see	see	VB	pb=see.01	0	root	_
+8	this	this	DT	_	9	det	_
+9	stuff	stuff	NN	_	7	dobj	7:A1
+10	before	before	IN	_	13	mark	_
+11	your	your	PRP$	_	12	poss	_
+12	friends	friend	NNS	_	13	nsubj	13:A0=PAG
+13	do	do	VBP	p2=VB|pb=do.02	7	advcl	7:AM-TMP
+14	.	.	.	_	1	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

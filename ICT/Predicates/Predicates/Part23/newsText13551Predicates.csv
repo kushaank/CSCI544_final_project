@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Authorities,announce.01,the seizure of,,Affirmative,"Mexican authorities on May 1 announced the seizure of a ship carrying 68,000 tons of illegal iron ore bound for China - hailed as the latest blow in a crackdown on the  contraband mineral sideline by the Knights Templar drug cartel . "
+a ship carrying,carry.01,"68,000 tons of",,Affirmative,"Mexican authorities on May 1 announced the seizure of a ship carrying 68,000 tons of illegal iron ore bound for China - hailed as the latest blow in a crackdown on the  contraband mineral sideline by the Knights Templar drug cartel . "
+by,tip.04,Federal police,,Affirmative,"Federal police were apparently tipped off by an anonymous phone call after the ship left Lazaro Cárdenas , the Pacific port in conflicted Michoacán state . "
+"the ship , China 's Fujian Huarong Marine",leave.01,"Lazaro Cárdenas ,",,Affirmative,"Federal police were apparently tipped off by an anonymous phone call after the ship left Lazaro Cárdenas , the Pacific port in conflicted Michoacán state . "
+Authorities,detain.01,"the ship ,",,Affirmative,"Authorities detained the ship , the Jian Hua , off Manzanillo , the next major port up the coast , in neighboring Colima state . "
+crew,produce.01,documents showing,,Affirmative,The ship 's crew produced documents showing it had authorization to transport the iron ore . 
+documents showing,show.01,it had authorization,,Affirmative,The ship 's crew produced documents showing it had authorization to transport the iron ore . 
+"the ship , China 's Fujian Huarong Marine",have.03,authorization,,Affirmative,The ship 's crew produced documents showing it had authorization to transport the iron ore . 
+authoriites,say.01,paperwork listed,,Affirmative,But authoriites said the paperwork listed a legal mine that was not the actual source of the contraband ore . 
+the paperwork,list.01,a legal mine,,Affirmative,But authoriites said the paperwork listed a legal mine that was not the actual source of the contraband ore . 
+The company,operate.01,"the ship , China 's Fujian Huarong Marine",,Affirmative,"The company operating the ship , China 's Fujian Huarong Marine , has been given one month to prove to authorities that the ore was extracted legally . "
+Authorities,say.01,headed for China,,Affirmative,"Mexican authorities say they have seized more than 200,000 tons of illegal iron ore so far this year , most of it headed for China . "
+Authorities,seize.01,"200,000 tons of",,Affirmative,"Mexican authorities say they have seized more than 200,000 tons of illegal iron ore so far this year , most of it headed for China . "
+most of it,head.02,for China,,Affirmative,"Mexican authorities say they have seized more than 200,000 tons of illegal iron ore so far this year , most of it headed for China . "

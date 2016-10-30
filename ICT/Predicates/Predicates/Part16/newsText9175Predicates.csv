@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,allow.01,the limit allowed by,,Affirmative,"A poacher in New Mexico was caught with 1,600 rainbow trout - more than 160 times the limit allowed by state conservation officials . "
+Officers,nab.01,Bounchanh Bounsombath of Clovis,,Affirmative,"Officers nabbed Bounchanh Bounsombath of Clovis , May 12 , after getting an anonymous tip . "
+"Bounsombath , 62",admit.01,catching,,Affirmative,"Bounsombath , 62 , admitted catching all the fish at Green Acres Lake and Denis Chaves Pond in northwest Clovis , both of which are stocked by the state for sport fishing . "
+"Bounsombath , 62",catch.01,all the fish,at,Affirmative,"Bounsombath , 62 , admitted catching all the fish at Green Acres Lake and Denis Chaves Pond in northwest Clovis , both of which are stocked by the state for sport fishing . "
+by,stock.01,both of which,,Affirmative,"Bounsombath , 62 , admitted catching all the fish at Green Acres Lake and Denis Chaves Pond in northwest Clovis , both of which are stocked by the state for sport fishing . "
+State hatchery workers,release.01,"10,000 rainbow trout",,Affirmative,"State hatchery workers released 10,000 rainbow trout into the lakes between November and March . "
+Licensed anglers,keep.01,five rainbow trout per day,,Affirmative,Licensed anglers are allowed to keep up to five rainbow trout per day and may possess up to 10 rainbow trout at their home . 
+Licensed anglers,possess.01,10 rainbow trout,,Affirmative,Licensed anglers are allowed to keep up to five rainbow trout per day and may possess up to 10 rainbow trout at their home . 
+"Bounsombath , 62",face.01,related charges,,Affirmative,"Bounsombath faces poaching - related charges and the state department will seek $ 8,000 in civil restitution to recover the loss . "
+the state department,seek.01,"$ 8,000 in",,Affirmative,"Bounsombath faces poaching - related charges and the state department will seek $ 8,000 in civil restitution to recover the loss . "

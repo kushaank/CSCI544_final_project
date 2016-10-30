@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+PHOENIX --,say.01,was,,Affirmative,PHOENIX -- The son of a U.S. Army soldier from Tucson who died from wounds suffered in Afghanistan says his father 's role in the 2003 rescue of former prisoner of war Jessica Lynch was just one facet of what he achieved in his life . 
+Command Sgt. Maj. Martin R. Barreras,say.01,Barreras was instrumental in orchestrating,,Affirmative,"Calvin Barreras said Sunday that Command Sgt. Maj. Martin R. Barreras was instrumental in orchestrating Lynch 's rescue , but he was humble about his part in it . "
+Command Sgt. Maj. Martin R. Barreras,orchestrate.01,rescue,,Affirmative,"Calvin Barreras said Sunday that Command Sgt. Maj. Martin R. Barreras was instrumental in orchestrating Lynch 's rescue , but he was humble about his part in it . "
+The son of a U.S. Army soldier from Tucson who died from wounds suffered in Afghanistan,take.01,part,,Affirmative,"It was something he took part in , and it was n't anything he wanted recognition for , Calvin Barreras said . "
+The son of a U.S. Army soldier from Tucson who died from wounds suffered in Afghanistan,want.01,recognition for,,Affirmative,"It was something he took part in , and it was n't anything he wanted recognition for , Calvin Barreras said . "
+Command Sgt. Maj. Martin R. Barreras,say.01,It was something,,Affirmative,"It was something he took part in , and it was n't anything he wanted recognition for , Calvin Barreras said . "
+The Department of Defense,confirm.01,that Barreras died Tuesday in,,Affirmative,The Department of Defense confirmed this week that Barreras died Tuesday in San Antonio Military Medical Center . 
+Officials,say.01,old was injured,,Affirmative,"Officials say the 49 - year - old was injured earlier this month when his unit was attacked in Herat Province , Afghanistan . "
+Command Sgt. Maj. Martin R. Barreras,serve.01,in,,Affirmative,"Based on an email from an unidentified friend and fellow Ranger , Fox News on Friday reported that Barreras served in the Army battalion that conducted the rescue . "
+the Army battalion,conduct.01,the 2003 rescue of former prisoner of war Jessica Lynch,,Affirmative,"Based on an email from an unidentified friend and fellow Ranger , Fox News on Friday reported that Barreras served in the Army battalion that conducted the rescue . "
+Command Sgt. Maj. Martin R. Barreras,hand.01,war Jessica Lynch,to,Affirmative,"According to the friend , Barreras handed Lynch to another soldier to take her to a waiting helicopter , Fox reported . "
+war Jessica Lynch,take.01,an unidentified friend,to,Affirmative,"According to the friend , Barreras handed Lynch to another soldier to take her to a waiting helicopter , Fox reported . "
+Fox,report.01,", Barreras handed Lynch to",,Affirmative,"According to the friend , Barreras handed Lynch to another soldier to take her to a waiting helicopter , Fox reported . "
+The U.S. Department of Defense,comment.01,on,,Affirmative,The U.S. Department of Defense has not commented on the matter . 

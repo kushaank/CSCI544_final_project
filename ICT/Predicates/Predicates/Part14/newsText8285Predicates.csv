@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Judge Michael McShane,hold.02,is unconstitutional,,Affirmative,"In an unusually personal opinion , Oregon District Judge Michael McShane today held that the state 's ban on same - sex marriage is unconstitutional . "
+"sex couples in Oregon ,",expect.01,the ruling,,Affirmative," Same - sex couples in Oregon , who expected the ruling and had already lined up at county clerks ' office , immediately began marrying . "
+"sex couples in Oregon ,",begin.01,marrying,,Affirmative," Same - sex couples in Oregon , who expected the ruling and had already lined up at county clerks ' office , immediately began marrying . "
+the seventeenth consecutive judicial win for same-sex marriage advocates since the Supreme Court 's decision in United States v. Windsor last summer,refuse.01,to defend,,Affirmative,"The state refused to defend the law , and the Ninth Circuit today rejected a last - ditch effort by the National Organization for Marriage to intervene , so it seems there will be no appeal . "
+the seventeenth consecutive judicial win for same-sex marriage advocates since the Supreme Court 's decision in United States v. Windsor last summer,defend.01,the law,,Affirmative,"The state refused to defend the law , and the Ninth Circuit today rejected a last - ditch effort by the National Organization for Marriage to intervene , so it seems there will be no appeal . "
+the Ninth Circuit,reject.01,ditch effort by,,Affirmative,"The state refused to defend the law , and the Ninth Circuit today rejected a last - ditch effort by the National Organization for Marriage to intervene , so it seems there will be no appeal . "
+the seventeenth consecutive judicial win for same-sex marriage advocates since the Supreme Court 's decision in United States v. Windsor last summer,make.02,Oregon the 18th state,,Affirmative,That makes Oregon the 18th state to recognize same - sex marriages . 
+Oregon District Judge Michael McShane,hold.02,violates,,Affirmative,Judge McShane held that Oregon 's state constitutional ban on same - sex marriage violates the Fourteenth Amendment 's Equal Protection Clause . 
+state constitutional ban on,violate.01,Protection Clause,,Affirmative,Judge McShane held that Oregon 's state constitutional ban on same - sex marriage violates the Fourteenth Amendment 's Equal Protection Clause . 
+Oregon District Judge Michael McShane,reject.01,the argument,,Affirmative,"In line with almost every court to review the issue , he rejected the argument that the ban was a form of sex discrimination . "
+Oregon District Judge Michael McShane,conclude.01,that it constituted discrimination based on,,Affirmative,Instead he concluded that it constituted discrimination based on sexual orientation . 
+line with almost every court to review the issue,constitute.01,discrimination based on,,Affirmative,Instead he concluded that it constituted discrimination based on sexual orientation . 
+Oregon District Judge Michael McShane,avoid.01,the question of,,Affirmative,"Judge McShane avoided the question of heightened scrutiny and held that the law failed even rational - basis review , as several courts have now decided . "
+Oregon District Judge Michael McShane,hold.02,law failed,,Affirmative,"Judge McShane avoided the question of heightened scrutiny and held that the law failed even rational - basis review , as several courts have now decided . "
+the Constitution,protect.01,the expression of,,Affirmative,"But just as the Constitution protects the expression of these moral viewpoints , it equally protects the minority from being diminished by them . "
+the Constitution,protect.01,the minority,from,Affirmative,"But just as the Constitution protects the expression of these moral viewpoints , it equally protects the minority from being diminished by them . "
+banners reading,read.01,God Hates Fags,,Affirmative,"Accusations of religious bigotry and banners reading God Hates Fags make for a messy democracy and , at times , test the First Amendment resolve of both sides . "
+more by,strike.01,God,the final word on,Affirmative,"My decision will not be the final word on this subject , but on this issue of marriage I am struck more by our similarities than our differences . "
+God,believe.01,", we can see in",,Affirmative,"I believe that if we can look for a moment past gender and sexuality , we can see in these plaintiffs nothing more or less than our own families . "
+our,look.01,for,,Affirmative,"I believe that if we can look for a moment past gender and sexuality , we can see in these plaintiffs nothing more or less than our own families . "
+our,see.01,nothing more or less than,,Affirmative,"I believe that if we can look for a moment past gender and sexuality , we can see in these plaintiffs nothing more or less than our own families . "
+our,expect.01,"Constitution to protect ,",,Affirmative,"Families who we would expect our Constitution to protect , if not exalt , in equal measure . "
+our,see.01,shadows lurking in closets or,,Affirmative,"With discernment we see not shadows lurking in closets or the stereotypes of what was once believed ; rather , we see families committed to the common purpose of love , devotion , and service to the greater community . "
+our,see.01,families committed to,,Affirmative,"With discernment we see not shadows lurking in closets or the stereotypes of what was once believed ; rather , we see families committed to the common purpose of love , devotion , and service to the greater community . "
+God,know.01,that many suggest,,Affirmative,I know that many suggest we are going down a slippery slope that will have no moral boundaries . 
+many,suggest.01,we are going down,,Affirmative,I know that many suggest we are going down a slippery slope that will have no moral boundaries . 
+a slippery slope,have.03,no moral boundaries,,Affirmative,I know that many suggest we are going down a slippery slope that will have no moral boundaries . 
+those,harbor.01,such fears,,Affirmative,"To those who truly harbor such fears , I can only say this : Let us look less to the sky to see what might fall ; rather , let us look to each other ... "
+God,say.01,this :,To those,Affirmative,"To those who truly harbor such fears , I can only say this : Let us look less to the sky to see what might fall ; rather , let us look to each other ... "
+our,look.02,less to,,Affirmative,"To those who truly harbor such fears , I can only say this : Let us look less to the sky to see what might fall ; rather , let us look to each other ... "
+our,see.01,what might fall,,Affirmative,"To those who truly harbor such fears , I can only say this : Let us look less to the sky to see what might fall ; rather , let us look to each other ... "
+our,look.01,to,,Affirmative,"To those who truly harbor such fears , I can only say this : Let us look less to the sky to see what might fall ; rather , let us look to each other ... "
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

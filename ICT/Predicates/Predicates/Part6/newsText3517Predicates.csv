@@ -1,0 +1,92 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+City man,rob.01,his aunt,,Affirmative,"BAY CITY , MI - Crying and brimming with apologies , a 26 - year - old Bay City man who robbed his aunt asked a judge for mercy and help in overcoming his drug addiction . "
+a judge for mercy and help,say.01,he had,,Affirmative,"The judge , however , said he had to send the man to prison , though he encouraged him to pursue a future free of drugs . "
+a 26-year-old Bay City man who robbed his aunt,send.01,a 26-year-old Bay City man who robbed his aunt,to prison,Affirmative,"The judge , however , said he had to send the man to prison , though he encouraged him to pursue a future free of drugs . "
+a 26-year-old Bay City man who robbed his aunt,encourage.01,a 26-year-old Bay City man who robbed his aunt,to pursue,Affirmative,"The judge , however , said he had to send the man to prison , though he encouraged him to pursue a future free of drugs . "
+a 26-year-old Bay City man who robbed his aunt,pursue.01,a future free of drugs,,Affirmative,"The judge , however , said he had to send the man to prison , though he encouraged him to pursue a future free of drugs . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",like.02,to apologize to you and,,Affirmative,"I would like to apologize to you and the courts , Darrell A. Spiker told Bay County Circuit Judge Harry P. Gill at his sentencing hearing on Monday , May 19 . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",tell.01,I would like,Judge Harry P. Gill,Affirmative,"I would like to apologize to you and the courts , Darrell A. Spiker told Bay County Circuit Judge Harry P. Gill at his sentencing hearing on Monday , May 19 . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",like.02,to apologize to,,Affirmative,I 'd like to apologize to my family . 
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",know.01,did was wrong,,Affirmative,"I know what I did was wrong , and I 'm truly sorry . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",have.03,drug problem,,Affirmative,I have drug problem ; please help me get help . 
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",get.01,help,,Affirmative,I have drug problem ; please help me get help . 
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",believe.01,prison is,,Affirmative,I do n't believe prison is the answer for me . 
+"Spiker , shackled and in",begin.01,choking up at,,Affirmative,"Spiker , shackled and in an orange jumpsuit , began choking up at this point , saying his eyes have been opened by the time he has spent in jail over the past few months . "
+"Spiker , shackled and in",say.01,eyes have been opened by,,Affirmative,"Spiker , shackled and in an orange jumpsuit , began choking up at this point , saying his eyes have been opened by the time he has spent in jail over the past few months . "
+by,open.01,his eyes,,Affirmative,"Spiker , shackled and in an orange jumpsuit , began choking up at this point , saying his eyes have been opened by the time he has spent in jail over the past few months . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",begin.01,my life drug,,Affirmative,"I 'm ready to begin my life drug free and become a positive and productive member of society , Spiker said , adding he wants to attend Delta College to study as a welder . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",say.01,I 'm ready,,Affirmative,"I 'm ready to begin my life drug free and become a positive and productive member of society , Spiker said , adding he wants to attend Delta College to study as a welder . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",want.01,to attend,,Affirmative,"I 'm ready to begin my life drug free and become a positive and productive member of society , Spiker said , adding he wants to attend Delta College to study as a welder . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",attend.01,Delta College,,Affirmative,"I 'm ready to begin my life drug free and become a positive and productive member of society , Spiker said , adding he wants to attend Delta College to study as a welder . "
+Delta College,study.01,as,,Affirmative,"I 'm ready to begin my life drug free and become a positive and productive member of society , Spiker said , adding he wants to attend Delta College to study as a welder . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",ask.02,for,,Affirmative,"Basically , I 'm asking for a second chance , your honor . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",need.01,help,,Affirmative,I need help . 
+"defense attorney ,",say.01,client was motivated in,,Affirmative,"Spiker 's defense attorney , Paul F. Beggs , said that his client was motivated in his crimes by a drug addiction , but in the months since , he has seen a significant change in him , both in his demeanor and physical appearance . "
+his client,see.01,a significant change in him,,Affirmative,"Spiker 's defense attorney , Paul F. Beggs , said that his client was motivated in his crimes by a drug addiction , but in the months since , he has seen a significant change in him , both in his demeanor and physical appearance . "
+"Spiker 's defense attorney , Paul F. Beggs",like.01,"Spiker 's defense attorney , Paul F. Beggs",,Affirmative,"He likes himself now ; he 's bound and determined to maintain a path of sobriety , Beggs said , describing his client as a smart kid with lots of potential . "
+"Spiker 's defense attorney , Paul F. Beggs",maintain.01,a path of sobriety,,Affirmative,"He likes himself now ; he 's bound and determined to maintain a path of sobriety , Beggs said , describing his client as a smart kid with lots of potential . "
+Paul F. Beggs,say.01,; he 's bound and determined,,Affirmative,"He likes himself now ; he 's bound and determined to maintain a path of sobriety , Beggs said , describing his client as a smart kid with lots of potential . "
+Paul F. Beggs,describe.01,his client,as,Affirmative,"He likes himself now ; he 's bound and determined to maintain a path of sobriety , Beggs said , describing his client as a smart kid with lots of potential . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,say.01,guidelines did n't leave him much in,,Affirmative,"Gill , though , said that sentencing guidelines did n't leave him much in the way of options . "
+sentencing guidelines,leave.01,Bay County Circuit Judge Harry P. Gill at his sentencing hearing,,Affirmative,"Gill , though , said that sentencing guidelines did n't leave him much in the way of options . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,have.03,no choice but,,Affirmative,"I have no choice but to send you to prison , Gill said . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,send.01,a drug addict,to prison,Affirmative,"I have no choice but to send you to prison , Gill said . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,say.01,I have,,Affirmative,"I have no choice but to send you to prison , Gill said . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,think.01,you have potential,,Affirmative,I do think you have potential . 
+a drug addict,have.03,potential,,Affirmative,I do think you have potential . 
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,think.01,you are,,Affirmative,"I do think you are a drug addict , and I think you can deal with that . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,think.01,you can deal with that,,Affirmative,"I do think you are a drug addict , and I think you can deal with that . "
+a drug addict,deal.01,with that,,Affirmative,"I do think you are a drug addict , and I think you can deal with that . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,think.01,that it 's up to you,,Affirmative,I think that it 's up to you . 
+They,have.03,the programs,,Affirmative,"They do n't have the programs I 'd like to see in prison , but they do have some programming . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,like.02,to see in prison,,Affirmative,"They do n't have the programs I 'd like to see in prison , but they do have some programming . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,see.01,the programs,,Affirmative,"They do n't have the programs I 'd like to see in prison , but they do have some programming . "
+They,have.03,some programming,,Affirmative,"They do n't have the programs I 'd like to see in prison , but they do have some programming . "
+a drug addict,need.01,to take advantage of that,,Affirmative,You need to take advantage of that . 
+a drug addict,take.01,advantage,of that,Affirmative,You need to take advantage of that . 
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,advise.01,"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",to participate in,Affirmative,Gill advised Spiker to participate in Alcoholics Anonymous and Narcotics Anonymous . 
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",participate.01,in,,Affirmative,Gill advised Spiker to participate in Alcoholics Anonymous and Narcotics Anonymous . 
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,need.01,to follow that up,,Affirmative,"When you get out , you 're going to need to follow that up , he said . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,follow.02,that,,Affirmative,"When you get out , you 're going to need to follow that up , he said . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",say.01,", you 're going",,Affirmative,"When you get out , you 're going to need to follow that up , he said . "
+( Drug addiction ),follow.01,you,,Affirmative,( Drug addiction ) will follow you . 
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,sentence.01,"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",to,Affirmative,"Gill sentenced Spiker to three to 10 years in prison on a count of larceny from a person , 23 months to 10 years on a charge of breaking and entering with intent and one year on a count of delivery of heroin less than 50 grams . "
+Bay County Circuit Judge Harry P. Gill at his sentencing hearing,give.01,credit,Spiker,Affirmative,"All three sentences are concurrent , and Gill gave Spiker credit for 180 days already served . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",plead.02,guilty to,,Affirmative,Spiker previously pleaded guilty to all three counts . 
+the prosecution,dismiss.01,a life offense of,,Affirmative,"In exchange for his pleas , the prosecution dismissed a life offense of armed robbery . "
+Police,respond.01,to a home,,Affirmative,"20 , when police responded to a home in the 1200 block of Andre Drive in Monitor Township after resident Starlith Spiker , 57 , called 911 to report she 'd been robbed . "
+"resident Starlith Spiker , 57 ,",call.02,911,to report,Affirmative,"20 , when police responded to a home in the 1200 block of Andre Drive in Monitor Township after resident Starlith Spiker , 57 , called 911 to report she 'd been robbed . "
+Starlith Spiker,tell.01,", had called her asking",police,Affirmative,"Starlith Spiker told police that her nephew , Darrell Spiker , had called her asking if he could stop by and borrow $ 10 . "
+"her nephew ,",call.01,Police,,Affirmative,"Starlith Spiker told police that her nephew , Darrell Spiker , had called her asking if he could stop by and borrow $ 10 . "
+"her nephew ,",ask.01,if he could stop by and borrow,,Affirmative,"Starlith Spiker told police that her nephew , Darrell Spiker , had called her asking if he could stop by and borrow $ 10 . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",borrow.01,$ 10,,Affirmative,"Starlith Spiker told police that her nephew , Darrell Spiker , had called her asking if he could stop by and borrow $ 10 . "
+she,say.01,he stuck,,Affirmative,"When he arrived at her home , she said he stuck a gun in her face and stole $ 820 from her Social Security check . "
+he,stick.01,a gun,in,Affirmative,"When he arrived at her home , she said he stuck a gun in her face and stole $ 820 from her Social Security check . "
+he,steal.01,$ 820,from,Affirmative,"When he arrived at her home , she said he stuck a gun in her face and stole $ 820 from her Social Security check . "
+I,get.01,my money,,Affirmative,"Thanks , now I got my money for my pills , Darrell Spiker told his aunt , according to court records . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",tell.01,"Thanks , now I got",his aunt,Affirmative,"Thanks , now I got my money for my pills , Darrell Spiker told his aunt , according to court records . "
+a woman named,say.01,she was in,,Affirmative,Police later spoke with a woman named Lynn M. Walters who said she was in the car with Spiker and that he had gone to his aunt 's to get pills . 
+She,say.01,she stayed in,,Affirmative,She said she stayed in the car while he went inside . 
+by police,interview.01,Darrell Spiker,,Affirmative,"Interviewed by police , Darrell Spiker said , I ai n't got no gun and I did n't steal nothing . "
+Darrell Spiker,say.01,I ai n't got,,Affirmative,"Interviewed by police , Darrell Spiker said , I ai n't got no gun and I did n't steal nothing . "
+I,get.01,no gun,,Affirmative,"Interviewed by police , Darrell Spiker said , I ai n't got no gun and I did n't steal nothing . "
+I,steal.01,nothing,,Affirmative,"Interviewed by police , Darrell Spiker said , I ai n't got no gun and I did n't steal nothing . "
+Police,write.01,that they had not mentioned,,Affirmative,"Police wrote in their reports , contained in court records , that they had not mentioned a gun to Spiker before he made that statement . "
+in,contain.01,"their reports , contained in",,Affirmative,"Police wrote in their reports , contained in court records , that they had not mentioned a gun to Spiker before he made that statement . "
+they,mention.01,a gun,,Affirmative,"Police wrote in their reports , contained in court records , that they had not mentioned a gun to Spiker before he made that statement . "
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",say.01,aunt was mad at him,,Affirmative,"Spiker went on to say that his aunt was mad at him because he had loaned her $ 10 when she really wanted $ 20 , court records show . "
+he,loan.01,her $ 10,,Affirmative,"Spiker went on to say that his aunt was mad at him because he had loaned her $ 10 when she really wanted $ 20 , court records show . "
+she,want.01,$ 20,,Affirmative,"Spiker went on to say that his aunt was mad at him because he had loaned her $ 10 when she really wanted $ 20 , court records show . "
+Police,arrest.01,Spiker,,Affirmative,Police arrested Spiker . 
+They,note.01,that he appeared intoxicated at,,Affirmative,They noted in their reports that he appeared intoxicated at the time and that he told police he had injected the prescription painkiller Dilaudid . 
+he,tell.01,he had injected,police,Affirmative,They noted in their reports that he appeared intoxicated at the time and that he told police he had injected the prescription painkiller Dilaudid . 
+he,inject.01,painkiller Dilaudid,,Affirmative,They noted in their reports that he appeared intoxicated at the time and that he told police he had injected the prescription painkiller Dilaudid . 
+Gill,order.01,"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",to pay,Affirmative,Gill ordered Spiker to pay his aunt $ 820 in restitution . 
+"resident Starlith Spiker , 57 , called 911 to report she 'd been robbed",pay.01,$ 820 in restitution,his aunt,Affirmative,Gill ordered Spiker to pay his aunt $ 820 in restitution . 
+He,say.01,he would not oppose,,Affirmative,He also said he would not oppose Spiker entering a Michigan Department of Corrections boot camp program after he serves the first year of his sentence . 
+he,oppose.01,Spiker entering,,Affirmative,He also said he would not oppose Spiker entering a Michigan Department of Corrections boot camp program after he serves the first year of his sentence . 
+Spiker,enter.01,camp program,,Affirmative,He also said he would not oppose Spiker entering a Michigan Department of Corrections boot camp program after he serves the first year of his sentence . 
+he,serve.01,the first year of,,Affirmative,He also said he would not oppose Spiker entering a Michigan Department of Corrections boot camp program after he serves the first year of his sentence . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

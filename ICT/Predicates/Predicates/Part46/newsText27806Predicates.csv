@@ -1,0 +1,70 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+family members,say.01,she was stung by bees,,Affirmative,A Box Elder County beekeeper is dead after family members say she was stung by bees she kept in her backyard . 
+by bees,sting.01,she,,Affirmative,A Box Elder County beekeeper is dead after family members say she was stung by bees she kept in her backyard . 
+she,keep.01,bees,,Affirmative,A Box Elder County beekeeper is dead after family members say she was stung by bees she kept in her backyard . 
+family members,say.01,she was stung by bees,,Affirmative,"WILLARD , Box Elder County - A Utah beekeeper is dead after family members say she was stung by bees she kept in her backyard . "
+by bees,sting.01,she,,Affirmative,"WILLARD , Box Elder County - A Utah beekeeper is dead after family members say she was stung by bees she kept in her backyard . "
+she,keep.01,bees,,Affirmative,"WILLARD , Box Elder County - A Utah beekeeper is dead after family members say she was stung by bees she kept in her backyard . "
+"April Taylor , 31 ,",take.01,of,,Affirmative,"April Taylor , 31 , was taking care of her beehive last Tuesday , wearing gloves and a veil , said her husband , Zak Taylor . "
+"April Taylor , 31 ,",wear.01,gloves,,Affirmative,"April Taylor , 31 , was taking care of her beehive last Tuesday , wearing gloves and a veil , said her husband , Zak Taylor . "
+"April Taylor , 31 ,",say.01,"her husband ,",,Affirmative,"April Taylor , 31 , was taking care of her beehive last Tuesday , wearing gloves and a veil , said her husband , Zak Taylor . "
+Zak Taylor 's,say.01,She came back in,,Affirmative,"She came back in the house with 30 to 40 stings , but she seemed fine , he said . "
+Zak Taylor 's,find.01,her passed out on,,Affirmative,"April Taylor then went back outside , and her husband later found her passed out on the ground . "
+Zak Taylor 's,say.01,he believes,,Affirmative,Zak Taylor said he believes his wife may have had an allergy to bees . 
+Zak Taylor 's,believe.01,wife may have had,,Affirmative,Zak Taylor said he believes his wife may have had an allergy to bees . 
+his wife,have.03,an allergy to bees,,Affirmative,Zak Taylor said he believes his wife may have had an allergy to bees . 
+"Bruce Vail ,",say.01,members are having,,Affirmative,"Bruce Vail , Zak Taylor 's uncle , said family members are having a tough time believing what happened . "
+family members,have.03,a tough time,,Affirmative,"Bruce Vail , Zak Taylor 's uncle , said family members are having a tough time believing what happened . "
+family members,believe.01,what happened,,Affirmative,"Bruce Vail , Zak Taylor 's uncle , said family members are having a tough time believing what happened . "
+We all,start.01,"thinking , '",,Affirmative,"We all started thinking , ' Well , how did this happen ? "
+We all,think.01,"Well , how did this happen",,Affirmative,"We all started thinking , ' Well , how did this happen ? "
+Bruce Vail,guess.01,husband called,,Affirmative,"But I guess after she had got stung , her husband called the beekeeper , and he came and figured out there was no queen bee in the hive , Vail said . "
+Zak Taylor 's,call.01,A Utah beekeeper,,Affirmative,"But I guess after she had got stung , her husband called the beekeeper , and he came and figured out there was no queen bee in the hive , Vail said . "
+Zak Taylor 's,figure.05,there was,,Affirmative,"But I guess after she had got stung , her husband called the beekeeper , and he came and figured out there was no queen bee in the hive , Vail said . "
+Bruce Vail,say.01,But I guess,,Affirmative,"But I guess after she had got stung , her husband called the beekeeper , and he came and figured out there was no queen bee in the hive , Vail said . "
+Zak Taylor 's,say.01,", they get",,Affirmative,"He said if there 's no queen bee in the hive , they get really protective of their hive and they just swarmed her . "
+what,swarm.01,she,,Affirmative,"He said if there 's no queen bee in the hive , they get really protective of their hive and they just swarmed her . "
+Bruce Vail,describe.01,April,as,Affirmative,Vail described April as a free spirit and someone everybody loved . 
+everybody,love.01,someone,,Affirmative,Vail described April as a free spirit and someone everybody loved . 
+"Larry Lewis , with",say.01,someone is stung and passes away,,Affirmative,"Anytime someone is stung and passes away , that 's a serious event , said Larry Lewis , with the Utah Department of Agriculture and Food . "
+Entomologists with the Utah Department of Agriculture and Food,want.01,to know,,Affirmative,"We want to know exactly what happened and whether they were European honeybees , or Africanized , or any kind of percentage of Africanized bees . "
+Entomologists with the Utah Department of Agriculture and Food,know.01,what happened and,,Affirmative,"We want to know exactly what happened and whether they were European honeybees , or Africanized , or any kind of percentage of Africanized bees . "
+Larry Lewis,say.01,"bees are safe , but",,Affirmative,"Lewis said backyard bees are safe , but it 's not an exact science . "
+Larry Lewis,say.01,There are circumstances,,Affirmative,"There are circumstances when things change that , as evident with this one , that there 's a possibility of situations that might develop that turn out negatively , Lewis said . "
+Africanized,say.01,Bees can be docile or aggressive,,Affirmative,"Bees can be docile or aggressive , and they do n't have to be Africanized to be aggressive , he said . "
+the owner of,say.01,he believes,,Affirmative,"Exactly what happened is still to be determined , but the owner of The Honey Jar in Brigham City said he believes the hobby of beekeeping is safe . "
+the owner of The Honey Jar in Brigham City,believe.01,is safe,,Affirmative,"Exactly what happened is still to be determined , but the owner of The Honey Jar in Brigham City said he believes the hobby of beekeeping is safe . "
+Kyle Kanno,say.01,there is risk involved,,Affirmative,"As with any hobby there is risk involved , especially when there 's insects or animals involved , Kyle Kanno said . "
+you,take.01,precautions,,Affirmative,"But with every hobby , there 's precautions you can take too to limit your risk . "
+you,limit.01,your risk,,Affirmative,"But with every hobby , there 's precautions you can take too to limit your risk . "
+Kyle Kanno,say.01,it 's important,,Affirmative,Kanno said it 's important for beekeepers to wear protective gear . 
+beekeepers,wear.01,protective gear,,Affirmative,Kanno said it 's important for beekeepers to wear protective gear . 
+Kyle Kanno,make.02,sure,,Affirmative,"I always make sure that I wear a full beekeeping suit , he said . "
+Kyle Kanno,wear.01,a full beekeeping suit,,Affirmative,"I always make sure that I wear a full beekeeping suit , he said . "
+Kyle Kanno,say.01,I always make sure,,Affirmative,"I always make sure that I wear a full beekeeping suit , he said . "
+Kyle Kanno,get.02,boots on that,,Affirmative,I 've got boots on that go up past the ankle . 
+You,do.02,an inspection on,,Affirmative,You do an inspection on your equipment to make sure that your veil does n't have holes in it . 
+You,make.02,sure,,Affirmative,You do an inspection on your equipment to make sure that your veil does n't have holes in it . 
+a veil,have.03,holes in it,,Affirmative,You do an inspection on your equipment to make sure that your veil does n't have holes in it . 
+We,use.01,gloves,to minimize exposure on,Affirmative,We use gloves to minimize exposure on your hands . 
+We,minimize.01,exposure on,,Affirmative,We use gloves to minimize exposure on your hands . 
+Kyle Kanno,say.01,", he 's been stung less",,Affirmative,"Kanno said in the nine years he 's been a beekeeper , he 's been stung less than a dozen times , and on those occasions it was usually because he did n't take the precautions he should have . "
+A Utah beekeeper,take.01,the precautions,,Affirmative,"Kanno said in the nine years he 's been a beekeeper , he 's been stung less than a dozen times , and on those occasions it was usually because he did n't take the precautions he should have . "
+A Utah beekeeper,have.03,the precautions,,Affirmative,"Kanno said in the nine years he 's been a beekeeper , he 's been stung less than a dozen times , and on those occasions it was usually because he did n't take the precautions he should have . "
+Kyle Kanno,wear.01,my full setup,,Affirmative,"I still wear my full setup , just out of precaution , he said . "
+Kyle Kanno,say.01,I still wear,,Affirmative,"I still wear my full setup , just out of precaution , he said . "
+Kyle Kanno,urge.01,any new beekeepers,to not let,Affirmative,I 'd urge any new beekeepers to not let their guard down too fast . 
+any new beekeepers,let.01,their guard,,Affirmative,I 'd urge any new beekeepers to not let their guard down too fast . 
+you,ride.01,a bike,,Affirmative,It 's like wearing a helmet when you 're riding a bike . 
+Larry Lewis,recommend.01,beekeepers license,,Affirmative,Lewis recommends Utah beekeepers license their hives with the state so they can get up - to - date information on changing conditions and things than can affect bees . 
+Utah beekeepers,license.01,their hives,with,Affirmative,Lewis recommends Utah beekeepers license their hives with the state so they can get up - to - date information on changing conditions and things than can affect bees . 
+Utah beekeepers,get.01,date information on changing conditions and things,,Affirmative,Lewis recommends Utah beekeepers license their hives with the state so they can get up - to - date information on changing conditions and things than can affect bees . 
+The investigation,take.01,weeks,,Affirmative,The investigation could take weeks to get conclusive information . 
+by,sting.01,The only times,,Affirmative,The only times I 've been stung by my bees is when I 've been in a hurry and did n't put on my whole suit . 
+Utah beekeepers,protect.01,their home,,Affirmative,They are programed to protect their home and when it 's being threatened they react . 
+you,smoke.02,the hive,,Affirmative,If you smoke the hive prior to opening More .. 
+you,open.02,More,,Affirmative,If you smoke the hive prior to opening More .. 
+I,see.01,photos of beekeepers,,Affirmative,"I 've seen photos of beekeepers , and many times they only wear the veil . "
+they,wear.01,the veil,,Affirmative,"I 've seen photos of beekeepers , and many times they only wear the veil . "
+they,wear.01,the veil or hat and veil,,Affirmative,Often they only wear the veil or hat and veil but they have other clothes on . 
+they,have.03,other clothes,,Affirmative,Often they only wear the veil or hat and veil but they have other clothes on . 

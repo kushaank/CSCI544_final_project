@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A press release,state.01,meeting was chaired by,,Affirmative,"A press release stated that the meeting was chaired by Said bin Ghanem al Muqbali , head of the committee , in the presence of other members of the committee . "
+by,chair.01,the meeting,,Affirmative,"A press release stated that the meeting was chaired by Said bin Ghanem al Muqbali , head of the committee , in the presence of other members of the committee . "
+"Amor bin Nasser al Matani ,",bint.01,"Murtadha al Lawati ,",,Affirmative,"Amor bin Nasser al Matani , a board member and Shaima bint Murtadha al Lawati , chief executive officer , ORSA represented the association at the meeting . "
+ORSA,represented.01,the association,,Affirmative,"Amor bin Nasser al Matani , a board member and Shaima bint Murtadha al Lawati , chief executive officer , ORSA represented the association at the meeting . "
+The attendees,express.01,their views,,Affirmative,The attendees expressed their views and discussed all aspects of the law referred by the government to the Majlis A'Shura . 
+The attendees,discuss.01,all aspects of,,Affirmative,The attendees expressed their views and discussed all aspects of the law referred by the government to the Majlis A'Shura . 
+by,refer.02,to,,Affirmative,The attendees expressed their views and discussed all aspects of the law referred by the government to the Majlis A'Shura . 
+Amor bin Nasser al Matani,say.01,the meeting,,Affirmative,"Speaking at the meeting Matani said , '' We thank the Majlis A'Shura for hosting us and listening to our proposals . "
+We,thank.01,the Majlis A'Shura,for hosting us and listening to,Affirmative,"Speaking at the meeting Matani said , '' We thank the Majlis A'Shura for hosting us and listening to our proposals . "
+the Majlis A'Shura,host.01,We,,Affirmative,"Speaking at the meeting Matani said , '' We thank the Majlis A'Shura for hosting us and listening to our proposals . "
+the Majlis A'Shura,listen.01,to,,Affirmative,"Speaking at the meeting Matani said , '' We thank the Majlis A'Shura for hosting us and listening to our proposals . "
+We,commend.01,the involvement of,,Affirmative,"We commend the involvement of the civil society , especially ORSA in drafting the legislations . "
+We,need.01,to keep up with legislations and penalties,,Affirmative,We need to keep up with legislations and penalties especially in light of developments in technology . 
+We,keep.05,with legislations and penalties,,Affirmative,We need to keep up with legislations and penalties especially in light of developments in technology . 
+Amor bin Nasser al Matani,advocate.01,the use of,,Affirmative,'' Matani advocated the use of child safety seats and seat belts in the rear seat of four wheelers and helmets for cyclists . 

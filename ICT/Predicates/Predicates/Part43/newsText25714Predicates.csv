@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+SIU-ZCPO chief,say.01,"married , and",,Affirmative,", SIU-ZCPO chief , said that Hussin Batalan y Usman , of legal age , married , and a resident of Kaliran , Mabuhay , Zamboanga Sibugay , gave up to the local police . "
+"a resident of Kaliran , Mabuhay ,",give.01,"Hussin Batalan y Usman , of",to,Affirmative,", SIU-ZCPO chief , said that Hussin Batalan y Usman , of legal age , married , and a resident of Kaliran , Mabuhay , Zamboanga Sibugay , gave up to the local police . "
+Martinez,tell.01,Albani facilitated,Zamboanga,Affirmative,Martinez told Zamboanga Today that owner of the color black and white combination car with plate number TJA 259 Hassan Sabban Albani facilitated the surrender of Batalan . 
+Hassan Sabban Albani,facilitate.01,the surrender of Batalan,,Affirmative,Martinez told Zamboanga Today that owner of the color black and white combination car with plate number TJA 259 Hassan Sabban Albani facilitated the surrender of Batalan . 
+Martinez,say.01,that Albani lend,,Affirmative,Martinez said that Albani lend the car in good faith to his friend Batalan without knowing his plan . 
+Albani,lend.01,the car,,Affirmative,Martinez said that Albani lend the car in good faith to his friend Batalan without knowing his plan . 
+Albani,know.01,his plan,,Affirmative,Martinez said that Albani lend the car in good faith to his friend Batalan without knowing his plan . 
+Batalan,admit.01,the crime,,Affirmative,"Batalan admitted the crime in killing Adjan Gadjali , also of Mabuhay , Zamboanga Sibugay Province while eating at M.S. Carenderia along Mayor Jaldon Street , Barangay Canelar , this city , near the entrance road of Canelar Moret , Friday morning . "
+Batalan,kill.01,Adjan Gadjali,,Affirmative,"Batalan admitted the crime in killing Adjan Gadjali , also of Mabuhay , Zamboanga Sibugay Province while eating at M.S. Carenderia along Mayor Jaldon Street , Barangay Canelar , this city , near the entrance road of Canelar Moret , Friday morning . "
+Zamboanga Sibugay Province,eat.01,"Barangay Canelar ,",,Affirmative,"Batalan admitted the crime in killing Adjan Gadjali , also of Mabuhay , Zamboanga Sibugay Province while eating at M.S. Carenderia along Mayor Jaldon Street , Barangay Canelar , this city , near the entrance road of Canelar Moret , Friday morning . "
+by SIU,conduct.01,Further investigation conducted by SIU,,Affirmative,Further investigation conducted by SIU showed that Gadjali faces a complaint for rape in their hometown filed by the wife of the suspect . 
+Further investigation conducted by SIU,show.01,that Gadjali faces,,Affirmative,Further investigation conducted by SIU showed that Gadjali faces a complaint for rape in their hometown filed by the wife of the suspect . 
+Gadjali,face.01,a complaint for rape in,,Affirmative,Further investigation conducted by SIU showed that Gadjali faces a complaint for rape in their hometown filed by the wife of the suspect . 
+by,file.01,their hometown filed by,,Affirmative,Further investigation conducted by SIU showed that Gadjali faces a complaint for rape in their hometown filed by the wife of the suspect . 
+Martinez,add.01,suspect told him,,Affirmative,Martinez added that the suspect told him that he could not find the suspect in Zamboanga Sibugay Province then later spotted him in this city . 
+the suspect,tell.01,that he could not find,him,Affirmative,Martinez added that the suspect told him that he could not find the suspect in Zamboanga Sibugay Province then later spotted him in this city . 
+he,find.01,then later spotted him in,,Affirmative,Martinez added that the suspect told him that he could not find the suspect in Zamboanga Sibugay Province then later spotted him in this city . 
+the suspect in,spot.01,him,,Affirmative,Martinez added that the suspect told him that he could not find the suspect in Zamboanga Sibugay Province then later spotted him in this city . 

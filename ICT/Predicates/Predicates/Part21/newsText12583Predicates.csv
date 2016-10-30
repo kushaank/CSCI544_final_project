@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a staff writer covering,cover.03,all things,,Affirmative,I 'm a staff writer covering all things Wall Street and Investing . 
+a staff writer covering all things Wall Street and Investing,have.03,hate relationship with,,Affirmative,I have a love hate relationship with the world of finance . 
+by,fascinate.01,a staff writer covering all things Wall Street and Investing,,Affirmative,"I am fascinated by the industry 's power and influence around the globe , and the ingenuity of the people it employs . "
+the ingenuity of the people,employ.02,the people,,Affirmative,"I am fascinated by the industry 's power and influence around the globe , and the ingenuity of the people it employs . "
+people and companies,say.01,it would n't happen,,Affirmative,"They said it would n't happen , but the Department of Justice is getting what it 's been looking for : A criminal charge against a financial firm . "
+the Department of Justice,get.01,it 's been looking for :,,Affirmative,"They said it would n't happen , but the Department of Justice is getting what it 's been looking for : A criminal charge against a financial firm . "
+Credit Suisse 's,plead.02,guilty to,,Affirmative,Credit Suisse will plead guilty to criminal wrongdoing today in a case where the Swiss bank helped Americans dodge taxes . 
+the Swiss bank,help.01,Americans dodge taxes,,Affirmative,Credit Suisse will plead guilty to criminal wrongdoing today in a case where the Swiss bank helped Americans dodge taxes . 
+Americans,dodge.01,taxes,,Affirmative,Credit Suisse will plead guilty to criminal wrongdoing today in a case where the Swiss bank helped Americans dodge taxes . 
+the Swiss bank,plead.02,guilty to,,Affirmative,"The bank is expected to plead guilty to one count of conspiring to aid tax evasion , and it will pay $ 2.6 billion in penalties . "
+the Swiss bank,pay.01,$ 2.6 billion in penalties,,Affirmative,"The bank is expected to plead guilty to one count of conspiring to aid tax evasion , and it will pay $ 2.6 billion in penalties . "
+Attorney General Eric Holder,say.01,staff is hesitant,,Affirmative,Attorney General Eric Holder was put in the spotlight last March when he said his staff is hesitant to prosecute large financial firms for fear of the economic repercussions . 
+his staff,prosecute.01,large financial firms,for fear of,Affirmative,Attorney General Eric Holder was put in the spotlight last March when he said his staff is hesitant to prosecute large financial firms for fear of the economic repercussions . 
+The guilty plea from,alleviate.01,some of,,Affirmative,"The guilty plea from Credit Suisse on tax evasion may alleviate some of the pressure on the DoJ , but it still does n't address the lack of prosecutions of firms involved in the financial crisis . "
+The guilty plea from Credit Suisse on tax evasion,address.02,the lack of prosecutions of firms involved in,,Affirmative,"The guilty plea from Credit Suisse on tax evasion may alleviate some of the pressure on the DoJ , but it still does n't address the lack of prosecutions of firms involved in the financial crisis . "
+CEO,keep.01,his job,,Affirmative,"What 's more , Credit Suisse 's CEO is expected to keep his job , according to some reports . "
+Credit Suisse 's,raise.01,eyebrows,,Affirmative,That may raise eyebrows as other CEOs have lost their jobs over lesser offenses . 
+other CEOs,lose.02,their jobs,,Affirmative,That may raise eyebrows as other CEOs have lost their jobs over lesser offenses . 
+Credit Suisse 's,have.03,"22,000 U.S. customers",,Affirmative,"According to report from the U.S. Senate Permanent Subcommittee on Investigation , at its peak , Credit Suisse had over 22,000 U.S. customers with Swiss accounts with assets of roughly $ 10 billion . "
+"a client based in Elizabeth ,",inherit.01,an undeclared accounts,at,Affirmative,"In 1988 , a client based in Elizabeth , New Jersey inherited an undeclared accounts at Credit Suisse in Switzerland , according to documents from the DoJ . "
+the Swiss bank,transfer.01,the account,into,Affirmative,"In 2002 , the bank transferred the account into a new account and a banker later met with the client at hotel in New York City to discuss investment strategies . "
+a banker,meet.03,with,,Affirmative,"In 2002 , the bank transferred the account into a new account and a banker later met with the client at hotel in New York City to discuss investment strategies . "
+a banker,discuss.01,investment strategies,,Affirmative,"In 2002 , the bank transferred the account into a new account and a banker later met with the client at hotel in New York City to discuss investment strategies . "
+the same client,declare.01,Suisse account,,Affirmative,"Then in April 2006 , the same client failed to declare the Credit Suisse account , the DoJ said . "
+the DoJ,say.01,client failed,,Affirmative,"Then in April 2006 , the same client failed to declare the Credit Suisse account , the DoJ said . "
+a banker,suggest.01,client transfer,,Affirmative,"The scheme went on , according to prosecutors , when in 2009 a banker suggested the client transfer the account to another Swiss bank rather than return the funds to the U.S. UBS dealt with similar tax evasion challenges in 2009 . "
+the same client,transfer.01,the account,to,Affirmative,"The scheme went on , according to prosecutors , when in 2009 a banker suggested the client transfer the account to another Swiss bank rather than return the funds to the U.S. UBS dealt with similar tax evasion challenges in 2009 . "
+the same client,return.02,the funds,to,Affirmative,"The scheme went on , according to prosecutors , when in 2009 a banker suggested the client transfer the account to another Swiss bank rather than return the funds to the U.S. UBS dealt with similar tax evasion challenges in 2009 . "
+"The scheme went on , according to prosecutors , when in 2009 a banker suggested the client transfer the account to another Swiss bank rather than return the funds to the U.S. UBS",enter.01,a deferred prosecution agreement,,Affirmative,It entered a deferred prosecution agreement that allowed the charges against it to be dismissed . 
+a deferred prosecution agreement,allow.01,the charges against it,,Affirmative,It entered a deferred prosecution agreement that allowed the charges against it to be dismissed . 
+the U.S. UBS,enter.01,a deferred prosecution agreement,,Affirmative,"In the end , UBS entered a deferred prosecution agreement that allowed the charges against it to be dismissed . "
+a deferred prosecution agreement,allow.01,the charges against it,,Affirmative,"In the end , UBS entered a deferred prosecution agreement that allowed the charges against it to be dismissed . "
+the U.S. UBS,pay.01,over $ 780 million in,,Affirmative,UBS also paid over $ 780 million in the case . 
+the DoJ,hold.04,a press conference,,Affirmative,The DoJ will hold a press conference at 6 pm with more detail on the Credit Suisse case . 

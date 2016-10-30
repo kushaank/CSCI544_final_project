@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the late Paul Walker,have.03,a handsome car collection,,Affirmative,"Turns out the late Paul Walker had a handsome car collection , and those cars are going on sale , TMZ reports . "
+TMZ,report.01,Turns out,,Affirmative,"Turns out the late Paul Walker had a handsome car collection , and those cars are going on sale , TMZ reports . "
+The actor,amass.01,a collection of,,Affirmative,"The actor was as much a car guy in real life as on screen , and has amassed a collection of approximately 30 cars , some of which have previously been featured in the media , and some of which have not . "
+"exotic car shop ,",organize.01,the sale along with,,Affirmative,"Walker 's exotic car shop , Always Evolving , is organizing the sale along with the late actor 's estate , and has decided not to publicize the cars or Walker 's connection to them . "
+"exotic car shop ,",decide.01,not to publicize,,Affirmative,"Walker 's exotic car shop , Always Evolving , is organizing the sale along with the late actor 's estate , and has decided not to publicize the cars or Walker 's connection to them . "
+the late actor 's estate,feel.02,that Walker would n't want,,Affirmative,"The estate felt that Walker would n't want his name to be used if his cars were sold , so as not to make money on the infamy of his crash . "
+the late Paul Walker,want.01,name to be used,,Affirmative,"The estate felt that Walker would n't want his name to be used if his cars were sold , so as not to make money on the infamy of his crash . "
+by,found.01,Evolving,,Affirmative,"Always Evolving was founded by Roger Rodas , who died along with Walker Nov . "
+by Rodas,drive.01,"their Porsche Carrera GT , driven by Rodas",,Affirmative,"30 , 2013 , when their Porsche Carrera GT , driven by Rodas , hit a light pole and a tree after skidding off the road . "
+"their Porsche Carrera GT , driven by Rodas",hit.02,a light pole and,,Affirmative,"30 , 2013 , when their Porsche Carrera GT , driven by Rodas , hit a light pole and a tree after skidding off the road . "
+Matt Farah of,get.01,a look at,,Affirmative,"Matt Farah of The Smoking Tire got a look at the collection at the shop 's garage in 2012 , and a video offers a detailed look of Walker 's collection , in accordance with the wishes of the estate . "
+a video,offer.01,a detailed look of,,Affirmative,"Matt Farah of The Smoking Tire got a look at the collection at the shop 's garage in 2012 , and a video offers a detailed look of Walker 's collection , in accordance with the wishes of the estate . "
+GT-A,show.01,enough details,,Affirmative,"The video was published more than two years ago , giving a brief look at some of the vehicles stored in the shop , and it arguably does n't show enough details for the vehicles to be immediately identified if they were to appear on the open market , without looking at the paperwork . "
+by,own.01,Skyline R34 GT - R owned by,,Affirmative,"The only other known Paul Walker car which has recently been offered for sale is a Nissan Skyline R34 GT - R owned by a Munich - based tuning shop called GT - A , which acquired the car after federal agents in Costa Mesa , Calif . "
+"GT - A ,",acquire.01,the car,,Affirmative,"The only other known Paul Walker car which has recently been offered for sale is a Nissan Skyline R34 GT - R owned by a Munich - based tuning shop called GT - A , which acquired the car after federal agents in Costa Mesa , Calif . "
+The German shop,offer.01,the car,,Affirmative,"The German shop offered the car for 1 million euros , promising to donate half the proceeds to Walker 's charity , Reach Out Worldwide , though in the three months that it has been on sale no word of a deal has emerged . "
+by,provided.01,Intraday Data,,Affirmative,Intraday Data provided by SIX Financial Information and subject to terms of use . 
+by,provided.01,day data provided by,,Affirmative,Historical and current end - of - day data provided by SIX Financial Information . 
+by NASDAQ,provided.01,time last sale data provided by NASDAQ,,Affirmative,Real time last sale data provided by NASDAQ . 
+More information on NASDAQ,trade.01,symbols and,,Affirmative,More information on NASDAQ traded symbols and their current financial status . 
+Intraday data,delay.01,15 minutes for Nasdaq,,Affirmative,"Intraday data delayed 15 minutes for Nasdaq , and 20 minutes for other exchanges . "
+by,provided.01,SEHK intraday data,,Affirmative,SEHK intraday data is provided by SIX Financial Information and is at least 60 - minutes delayed . 

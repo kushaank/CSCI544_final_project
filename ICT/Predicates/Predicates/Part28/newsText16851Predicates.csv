@@ -1,0 +1,149 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+earnings,call.01,an April 2014,,Affirmative," In an April 2014 earnings call , CEO Brian Krzanich insisted that the wait was almost over , saying that the chips would ship sometime in H2 2014 . "
+CEO Brian Krzanich,insist.01,wait was,,Affirmative," In an April 2014 earnings call , CEO Brian Krzanich insisted that the wait was almost over , saying that the chips would ship sometime in H2 2014 . "
+the wait,say.01,chips would ship sometime in H2 2014,,Affirmative," In an April 2014 earnings call , CEO Brian Krzanich insisted that the wait was almost over , saying that the chips would ship sometime in H2 2014 . "
+this,mean.01,"Q3 2014 , in time for",,Affirmative," Most hoped this might mean Q3 2014 , in time for the August - September back to school shopping season . "
+I,guarantee.01,"for holiday , and",,Affirmative,"I can guarantee for holiday , and not at the last second of holiday . "
+you,have.03,it,,Affirmative,"Back to school you have to really have it on - shelf in July , August . "
+Intel,lose.03,nearly a full year,,Affirmative,"shipping window ( perhaps with a September soft launch at the Intel Developer Forum ) proves accurate , Intel will have lost nearly a full year in terms of slippage over the past four launch cycles , starting with Sandy Bridge . "
+ TSMC,expect.01,to tape out,,Affirmative," TSMC is expecting to tape out 16 nm FinFET transistor - based chips late this year , possibly in Q4 2014 . "
+ TSMC,tape.02,based chips,,Affirmative," TSMC is expecting to tape out 16 nm FinFET transistor - based chips late this year , possibly in Q4 2014 . "
+it,pull.01,that,,Affirmative," If it can pull that off , it may have closed the gap with Intel to about a year , versus the gap of over two years process-wise that existed back in 2011 . "
+it,close.01,the gap with Intel,,Affirmative," If it can pull that off , it may have closed the gap with Intel to about a year , versus the gap of over two years process-wise that existed back in 2011 . "
+ Having,tape.02,14 nm transistors in Dec,,Affirmative, Having taped out 14 nm transistors in Dec . 
+Samsung,work.01,to mature,,Affirmative,"2012 in a test run , Samsung has been working to mature the technology at its fabs . "
+"( AMD ) spinoff ,",push.01,the technology,into production,Affirmative,"( AMD ) spinoff , Global Foundries to push the technology into production . "
+Samsung and GlobalFoundries,hope.01,to ship,,Affirmative,"Samsung and GlobalFoundries hope to ship 14 nm FinFET product by the end of 2014 , as well . "
+Samsung and GlobalFoundries,ship.01,nm FinFET product,,Affirmative,"Samsung and GlobalFoundries hope to ship 14 nm FinFET product by the end of 2014 , as well . "
+IBS,expect.01,companies also will experience delays on FinFETs similar to Intel,,Affirmative,IBS is expecting foundry - fabless companies also will experience delays on FinFETs similar to Intel . 
+fabless companies,experience.01,delays,,Affirmative,IBS is expecting foundry - fabless companies also will experience delays on FinFETs similar to Intel . 
+Intel,have.03,experience of FinFETs,,Affirmative,"  Also , Intel has experience of FinFETs at 22 nm , and foundry - fabless companies do not have same expertise . "
+fabless companies,have.03,same expertise,,Affirmative,"  Also , Intel has experience of FinFETs at 22 nm , and foundry - fabless companies do not have same expertise . "
+This,mean.01,air is going,,Affirmative,This means that the retina Macbook air is going to be delayed as well and so will the next - gen Macbook Pros . 
+I,hope.01,to get,,Affirmative,I was really hoping to get 15 hours of battery life with the retina Air this Summer . 
+I,get.01,15 hours of,with,Affirmative,I was really hoping to get 15 hours of battery life with the retina Air this Summer . 
+Apple,create.01,their own processors,,Affirmative,Apple can create their own processors . 
+They,use.01,that,,Affirmative,They should make use that instead . 
+I,doubt.01,it 's going,,Affirmative,Because I doubt it 's going to be taking it to a high - end hex / octo-core anytime soon . 
+each iOS,take.01,each iOS,to,Affirmative,Because I doubt it 's going to be taking it to a high - end hex / octo-core anytime soon . 
+A7,give.01,a run,Atom,Affirmative,"A7 might give Atom a run for it 's money , but even that 's debatable . "
+benchmarks,show.01,A7 beating Baytrail,,Affirmative,"There are benchmarks that show A7 beating Baytrail , but that could be more about the software as its the A7 running iOS vs Baytrail running full Windows 8.1 . "
+A7,beat.03,Baytrail,,Affirmative,"There are benchmarks that show A7 beating Baytrail , but that could be more about the software as its the A7 running iOS vs Baytrail running full Windows 8.1 . "
+the A7,run.02,running iOS vs,,Affirmative,"There are benchmarks that show A7 beating Baytrail , but that could be more about the software as its the A7 running iOS vs Baytrail running full Windows 8.1 . "
+You,justify.01,why A7 is clearly,,Affirmative,You just answered and justified why A7 is clearly the better approach . 
+new cpu,do.02,any good,us,Affirmative,How could new cpu do us any good when the software is not even optimized properly for these new gen CPU . 
+Apple,make.02,Apps take advantage of,,Affirmative,"With each iOS update and even Mac OS updates , Apple make API changes to make the Apps take advantage of the new features of he processor design . "
+the Apps,take.01,advantage,of,Affirmative,"With each iOS update and even Mac OS updates , Apple make API changes to make the Apps take advantage of the new features of he processor design . "
+he,processor.01,design,,Affirmative,"With each iOS update and even Mac OS updates , Apple make API changes to make the Apps take advantage of the new features of he processor design . "
+to move to X64,take.10,the market,,Affirmative,How long did it took the market to move to X64 while Apple has this done in under one year . 
+Apple,have.03,this done in under,,Affirmative,How long did it took the market to move to X64 while Apple has this done in under one year . 
+iOS apps,take.01,advantage,of,Affirmative,iOS apps can take advantage of 64bit process right away . 
+You,compare.01,a < 10w chip,to,Affirmative,You 're comparing a < 10w chip to a 83w ? 
+you,slap.01,type fan / heatsink on,,Affirmative,What happens today if you simply slap a good PC type fan / heatsink on and crank it up as far as you can go ? 
+you,crank.02,it,,Affirmative,What happens today if you simply slap a good PC type fan / heatsink on and crank it up as far as you can go ? 
+They,do.02,that,,Affirmative,"They probably ca n't do that without a new rev but you should get the point ( likely need to lengthen pipeline to hit PC speeds , but this is where they 're driving to ) . "
+you,get.01,the point,,Affirmative,"They probably ca n't do that without a new rev but you should get the point ( likely need to lengthen pipeline to hit PC speeds , but this is where they 're driving to ) . "
+They,get.01,21 % of,,Affirmative,They already got 21 % of all notebooks with a chromebook . 
+A57's,encroach.01,on,,Affirmative,A57's will climb further up the chain and encroach on low - end PC 's also . 
+you,pay.01,any attention,,Affirmative,"If you paid any attention , you 'd know intel 's last tick ( Ivy Bridge ) did very little for power consumption . "
+you,know.01,last tick (,,Affirmative,"If you paid any attention , you 'd know intel 's last tick ( Ivy Bridge ) did very little for power consumption . "
+that,bring.01,us,about 1GHz more,Affirmative,The last impressive tick was Penryn ; that brought us about 1GHz more within the same power envelope . 
+I,know.01,why you 'd have,,Affirmative,So I do n't know why you 'd have high hopes for this tick either . 
+you,have.03,high hopes for,,Affirmative,So I do n't know why you 'd have high hopes for this tick either . 
+CPUs,eat.01,25-40W,,Affirmative,"CPUs will eat 25-40W , but only if you run them at 100 % . "
+you,run.01,them,,Affirmative,"CPUs will eat 25-40W , but only if you run them at 100 % . "
+Nobody,do.02,that,for,Affirmative,"Nobody does that for extended periods , but we all need the screen to look at . "
+we all,need.01,the screen,,Affirmative,"Nobody does that for extended periods , but we all need the screen to look at . "
+Mobile SB and IB,have.03,the same TDP (,,Affirmative,"Mobile SB and IB have the same TDP ( yes , I know a beefier GPU is included ) : 35-55W . "
+I,know.01,a beefier,,Affirmative,"Mobile SB and IB have the same TDP ( yes , I know a beefier GPU is included ) : 35-55W . "
+"the 35-45W range ,",suggest.01,improvement was,,Affirmative,"But even on the desktop , low - power chips have remained in the 35-45W range , which would suggest the improvement was more geared towards full - load , rather than idle state . "
+it,do.02,something for,,Affirmative,"So yes , it did something for power consumption ( I never said it did nothing ) , but it was n't the massive improvement we were waiting for ( quite possibly due to many sensationalist news , like this one over here ) . "
+I,say.01,it did nothing,,Affirmative,"So yes , it did something for power consumption ( I never said it did nothing ) , but it was n't the massive improvement we were waiting for ( quite possibly due to many sensationalist news , like this one over here ) . "
+it,do.02,nothing,,Affirmative,"So yes , it did something for power consumption ( I never said it did nothing ) , but it was n't the massive improvement we were waiting for ( quite possibly due to many sensationalist news , like this one over here ) . "
+These changes,allow.01,for Apple to create,,Affirmative,"These changes might allow for Apple to create a fanless MacBook Air with Retina display , but it 's not going to be faster than the current generation , after factoring in all the extra pixels . "
+Apple,create.01,a fanless MacBook Air,,Affirmative,"These changes might allow for Apple to create a fanless MacBook Air with Retina display , but it 's not going to be faster than the current generation , after factoring in all the extra pixels . "
+you,see.01,the biggest boost,,Affirmative,On - board GPU performance is where you will see the biggest boost . 
+intel,uphold.01,some imaginary schedule,,Affirmative,The question is not whether intel can uphold some imaginary schedule . 
+Broadwell,bring.01,any improvements,,Affirmative,"The question is will Broadwell bring any improvements in , I do n't know , CPU ? "
+I,have.03,no use,,Affirmative,It 's all been about the integrated GPU which I have no use for . 
+you,find.01,any info about that,,Affirmative,"If you can find any info about that , then write an article about Broadwell . "
+people in general,need.01,more performance,,Affirmative,CPU performance has flatlined because people in general do n't need more performance . 
+they,decide.01,it wouldn't,,Affirmative,"Intel investigated if additional performance improvements would sell , and they decided it wouldn't . "
+Current applications,need.01,more performance,,Affirmative,Current applications do n't need more performance . 
+powerful CPUs,allow.01,for,,Affirmative,But more powerful CPUs will allow for smarter apps . 
+Intel 's,choose.01,"not to improve ,",,Affirmative,"Intel simply chooses not to improve , because , frankly , why should they ? "
+they,milk.01,what they have,,Affirmative,"So , they 're just milking what they have . "
+them,maintain.01,their lead,,Affirmative,"Now do n't get me wrong , the advances in manufacturing process are both astonishing and critical to them maintaining their lead . "
+US,see.01,them focusing elsewhere with,,Affirmative,It 's just that CPU performance is what I need and I 'm disappointing to see them focusing elsewhere with each generation . 
+Intel,have.03,a sizable lead over,,Affirmative,Intel still has a sizable lead over its competitors in design as well . 
+The latest offerings from AMD,mind.01,blowing and,,Affirmative,The latest offerings from AMD are not exactly mind blowing and definitely do not compete in the high end desktop and server space . 
+they,want.01,to beat Intel,,Affirmative,"So while their competition might be getting closer on the process front , there is still a lot of catching up to do in other areas if they want to beat Intel . "
+they,beat.03,Intel,,Affirmative,"So while their competition might be getting closer on the process front , there is still a lot of catching up to do in other areas if they want to beat Intel . "
+I,hope.01,for,,Affirmative,"Now according to Intel 's figures , desktop 's and by extension high - end enthusiast markets have grown by roughly 7 % , hence their reasoning of accelerating Haswell - E 's launch , I 'm personally hoping for massive gains ( Mostly due to the extra 2 cores ) , Ivy - Bridge - E was incredibly laughable , if you owned Sandy , no point jumping on Ivy unless you have cash to burn . "
+you,own.01,"Sandy ,",,Affirmative,"Now according to Intel 's figures , desktop 's and by extension high - end enthusiast markets have grown by roughly 7 % , hence their reasoning of accelerating Haswell - E 's launch , I 'm personally hoping for massive gains ( Mostly due to the extra 2 cores ) , Ivy - Bridge - E was incredibly laughable , if you owned Sandy , no point jumping on Ivy unless you have cash to burn . "
+you,have.03,cash,,Affirmative,"Now according to Intel 's figures , desktop 's and by extension high - end enthusiast markets have grown by roughly 7 % , hence their reasoning of accelerating Haswell - E 's launch , I 'm personally hoping for massive gains ( Mostly due to the extra 2 cores ) , Ivy - Bridge - E was incredibly laughable , if you owned Sandy , no point jumping on Ivy unless you have cash to burn . "
+AMD,look.02,like it 's doing anything in,,Affirmative,"AMD does n't look like it 's doing anything in the high - end ( I.E. AM3+ ) until 2015 at the earliest , which is a really big shame , we need a competitive AMD to keep Intel humble and competitive so we all benefit . "
+This,do.02,anything,,Affirmative,"AMD does n't look like it 's doing anything in the high - end ( I.E. AM3+ ) until 2015 at the earliest , which is a really big shame , we need a competitive AMD to keep Intel humble and competitive so we all benefit . "
+we,need.01,a competitive AMD,,Affirmative,"AMD does n't look like it 's doing anything in the high - end ( I.E. AM3+ ) until 2015 at the earliest , which is a really big shame , we need a competitive AMD to keep Intel humble and competitive so we all benefit . "
+a competitive AMD,keep.02,Intel,,Affirmative,"AMD does n't look like it 's doing anything in the high - end ( I.E. AM3+ ) until 2015 at the earliest , which is a really big shame , we need a competitive AMD to keep Intel humble and competitive so we all benefit . "
+the freq,increase.01,the voltage / heat,,Affirmative,All AMD can do now is increase the freq which just increases the voltage / heat . 
+a $ 200 i5,blow.01,200 AMD,,Affirmative,"Cost wise , a $ 200 i5 blows a $ 200 AMD away . "
+they,deliver.01,anything,,Affirmative,"I used to get excited about new CPU lines from AMD but at the end of the day and looking over the benchmarks , they consistently fail to deliver anything truly remarkable . "
+I,limit.01,the performance of,,Affirmative,I 'm all about competition but I can no longer limit the performance of my rig over brand loyalty . 
+a straw man suggesting,suggest.01,there is,,Affirmative,This seems like a straw man suggesting there is a fresh delay because Broadwell wo n't get released by a time nobody has said it will be released by anymore . 
+by,release.01,Broadwell,,Affirmative,This seems like a straw man suggesting there is a fresh delay because Broadwell wo n't get released by a time nobody has said it will be released by anymore . 
+by,release.01,it,,Affirmative,This seems like a straw man suggesting there is a fresh delay because Broadwell wo n't get released by a time nobody has said it will be released by anymore . 
+I,agree.01,that there were defects in,,Affirmative,I totally agree that there were defects in the 14 nm shrink that led to unacceptably high reject rates . 
+you,see.01,laptops,,Affirmative,"In weekly electronics / office advertising fliers , you 'll still see third - generation Core ( aka Ivy Bridge ) laptops for sale . "
+Poor demand over,cause.01,a necessary slowdown in,,Affirmative,Poor demand over the past three years has caused a necessary slowdown in the tick - tock cadence . 
+Intel,want.01,to economically cripple,,Affirmative,"Intel does not want to economically cripple the low - profit PC industry ( e.g. , Lenovo , HP , Dell , Acer , Samsung ) by cramming new products down the channel 's throat every twelve months . "
+Intel,cripple.01,"profit PC industry ( e.g. , Lenovo , HP , Dell , Acer , Samsung",,Affirmative,"Intel does not want to economically cripple the low - profit PC industry ( e.g. , Lenovo , HP , Dell , Acer , Samsung ) by cramming new products down the channel 's throat every twelve months . "
+That,kill.01,the golden goose,,Affirmative,"That 's killing the golden goose , permanently . "
+Intel,mumble.01,14 nm chip defects,,Affirmative,"So , rather than point the spotlight at poor demand , Intel mumbles about 14 nm chip defects . "
+You,track.01,the sense - of - the - market,,Affirmative,You can track the sense - of - the - market on Intel 's quarterly earnings calls by looking for a discussion of inventories . 
+we,make.01,them,,Affirmative,"If inventories are higher than desired , that 's code words for the chips are n't selling as fast as we make them . "
+My gut,say.01,chips will feature,,Affirmative,"My gut says the holiday 2014 Broadwell chips will feature Ultrabook low - voltage versions , and that the bulk of the Broadwell hard launch will spread out over the first two quarters of 2015 -- a year from now . "
+Broadwell chips,feature.01,voltage versions,,Affirmative,"My gut says the holiday 2014 Broadwell chips will feature Ultrabook low - voltage versions , and that the bulk of the Broadwell hard launch will spread out over the first two quarters of 2015 -- a year from now . "
+Intel,improve.01,the silicon fabrication process,,Affirmative,"Since Intel is continuously pushing to improve the silicon fabrication process , the more time that passes , the better quality of the median chip . "
+anyone adopting,adopt.01,complimentary lateral bipolar devices,,Affirmative,Any word on anyone adopting complimentary lateral bipolar devices ? 
+The switch,solve.01,"all major problems with CMOS ,",,Affirmative,"The switch solves all major problems with CMOS , which are inadequate channel doping ( there is no longer a source - body or body - drain PN - junction boundary at 14 nm and under at ideal doping levels ) , minimum thin oxide thickness ( we 've been at since 32nm . "
+process shrink,drop.01,wire thickness,,Affirmative,"This is why Intel 's 22 nm and 32 nm chips ran at the same voltages ) , and poor current drive for ever increasing wire resistance ( process shrink drops wire thickness ) . "
+SOI,prevent.01,base leakage,,Affirmative,"Lateral bipolars push 4 times the current at the same size as a FET to combat rising interconnect resistance , maintain switching times , while having zero leakage ( SOI prevents base leakage , exponential turn - on prevents off - state leakage ) , and lack a thin-film oxide so they will have higher yield . "
+they,have.03,higher yield,,Affirmative,"Lateral bipolars push 4 times the current at the same size as a FET to combat rising interconnect resistance , maintain switching times , while having zero leakage ( SOI prevents base leakage , exponential turn - on prevents off - state leakage ) , and lack a thin-film oxide so they will have higher yield . "
+they,draw.02,base,current,Affirmative,"Yes they draw base current , but beta for a lateral bipolar is over 100 . "
+That,mean.01,you can decrease,,Affirmative,"That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes , something that CMOS currently can not do . "
+you,decrease.01,wire thickness,,Affirmative,"That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes , something that CMOS currently can not do . "
+you,increase.01,dopant levels allowing,,Affirmative,"That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes , something that CMOS currently can not do . "
+dopant levels allowing,allow.01,device to be shrunk down for,,Affirmative,"That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes , something that CMOS currently can not do . "
+CMOS,do.02,something,,Affirmative,"That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes , something that CMOS currently can not do . "
+this,drop.05,the thin oxide,,Affirmative,"Since this would drop the thin oxide there is no reason to use Silicon , thus allowing Germanium to be used instead to cut the voltage by 40 % . "
+Germanium,cut.02,the voltage,by,Affirmative,"Since this would drop the thin oxide there is no reason to use Silicon , thus allowing Germanium to be used instead to cut the voltage by 40 % . "
+They,require.01,a boxed transistor ( SOI ),,Affirmative,"They do require a boxed transistor ( SOI ) though , but dropping the thin oxide for a backside oxide should be a roughly even tradeoff . "
+you,remember.01,that,,Affirmative,"If you ca n't remember that , maybe you should read websites based wherever you live . "
+you,read.01,websites,,Affirmative,"If you ca n't remember that , maybe you should read websites based wherever you live . "
+I,think.01,is,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+he,attempt.01,to make,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+he,make.16,the point,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+wide audience,access.01,this site,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+it,need.01,to alienate,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+it,alienate.01,the Americans or,,Affirmative,"I think the point he is attempting to make is for the articles to be written in such a way that it 's mindful of the world - wide audience that can access this site , that does n't mean it needs to alienate the Americans or other nationalities that may frequent here . "
+Steam,have.03,seasonal sales,,Affirmative,"Case in point , Steam has seasonal sales , yet is pretty much a US based company also with a world - wide audience , not that much different to Anandtech / Dailytech , yet during it 's sales it showcases Summer and Winter . "
+months,showcase.01,Summer and Winter,,Affirmative,"Case in point , Steam has seasonal sales , yet is pretty much a US based company also with a world - wide audience , not that much different to Anandtech / Dailytech , yet during it 's sales it showcases Summer and Winter . "
+Another point,use.01,things like,,Affirmative,"Another point is using things like imperial measurements , when the majority of the planet uses metric , both could be used . "
+the majority of,use.01,metric,,Affirmative,"Another point is using things like imperial measurements , when the majority of the planet uses metric , both could be used . "
+US,hope.01,people do n't stop saying Christmas,,Affirmative,Yeah and I hope people do n't stop saying Christmas instead of holiday season . 
+people,stop.01,saying Christmas,,Affirmative,Yeah and I hope people do n't stop saying Christmas instead of holiday season . 
+people,say.01,Christmas,,Affirmative,Yeah and I hope people do n't stop saying Christmas instead of holiday season . 
+our Lord and Brian,look.02,like,,Affirmative,It 's holiday because of our Lord and Brian looks like Michael Scott . 
+what Q4 2014 means,do.02,a big guffaw,,Affirmative,If only he 'd do a big guffaw they could be the same person . 
+i,wish.01,journalists would use,,Affirmative,"i wish journalists would use actual dates , or months ... "
+journalists,use.01,"actual dates , or months",,Affirmative,"i wish journalists would use actual dates , or months ... "
+no one,know.01,what 2014Q4 means precisely,,Affirmative,no one really knows what 2014Q4 means precisely ... 
+no one,know.01,what 2014Q4 means,,Affirmative,no one really knows what 2014Q4 means precisely I 'm surprised there are people who do n't know what Q4 2014 means . 
+2014Q4,mean.01,precisely I 'm surprised,,Affirmative,no one really knows what 2014Q4 means precisely I 'm surprised there are people who do n't know what Q4 2014 means . 
+people,know.01,means,,Affirmative,no one really knows what 2014Q4 means precisely I 'm surprised there are people who do n't know what Q4 2014 means . 
+I,hope.01,he meant,,Affirmative,I really hope he meant he was looking for a more precise target than a 3 month range ... 
+he,mean.01,he was looking for,,Affirmative,I really hope he meant he was looking for a more precise target than a 3 month range ... 
+he,look.01,for,,Affirmative,I really hope he meant he was looking for a more precise target than a 3 month range ... 
+anyone with,know.01,what 2014Q4 means,,Affirmative,Because anyone with a 3rd grade education ( even in America ) knows what 2014Q4 means . 
+He,give.01,the month,you,Affirmative,He did give you the month and / or date range . 

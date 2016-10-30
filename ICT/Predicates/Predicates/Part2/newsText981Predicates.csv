@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+URBANA - University of,say.01,she is seeking input from,,Affirmative,URBANA - University of Illinois Chancellor Phyllis Wise said she is seeking input from the members of the local community and the Chicago campus - critics included - on a proposal to establish an independent medical school in Champaign - Urbana . 
+Illinois Chancellor Phyllis Wise,seek.01,input from,,Affirmative,URBANA - University of Illinois Chancellor Phyllis Wise said she is seeking input from the members of the local community and the Chicago campus - critics included - on a proposal to establish an independent medical school in Champaign - Urbana . 
+by,hire.01,Consultants hired by,,Affirmative,"Consultants hired by the UI and Carle recommended the two entities partner to form a new , autonomous medical school , one that would tap into the campus ' strengths in bioengineering , high - speed computing and other areas . "
+Consultants hired by,recommend.01,entities partner,,Affirmative,"Consultants hired by the UI and Carle recommended the two entities partner to form a new , autonomous medical school , one that would tap into the campus ' strengths in bioengineering , high - speed computing and other areas . "
+one,tap.03,into,,Affirmative,"Consultants hired by the UI and Carle recommended the two entities partner to form a new , autonomous medical school , one that would tap into the campus ' strengths in bioengineering , high - speed computing and other areas . "
+Illinois Chancellor Phyllis Wise,want.01,to schedule,,Affirmative,"Wise told members of the Senate Executive Committee , made up of committee chairs of the Academic Senate , that she wanted to schedule a time to discuss the report with them . "
+Illinois Chancellor Phyllis Wise,schedule.01,a time,,Affirmative,"Wise told members of the Senate Executive Committee , made up of committee chairs of the Academic Senate , that she wanted to schedule a time to discuss the report with them . "
+by,review.01,a proposal to establish an independent medical school in Champaign-Urbana,,Affirmative,"The proposal also will be reviewed by the University Senates Conference , a group of leaders from each campus senate , and eventually it will need to be approved by the UI Board of Trustees and Illinois Board of Higher Education . "
+a proposal to establish an independent medical school in Champaign-Urbana,need.01,to be approved by,,Affirmative,"The proposal also will be reviewed by the University Senates Conference , a group of leaders from each campus senate , and eventually it will need to be approved by the UI Board of Trustees and Illinois Board of Higher Education . "
+by,approve.01,a proposal to establish an independent medical school in Champaign-Urbana,,Affirmative,"The proposal also will be reviewed by the University Senates Conference , a group of leaders from each campus senate , and eventually it will need to be approved by the UI Board of Trustees and Illinois Board of Higher Education . "
+the Liaison Committee on,accredit.01,medical schools,,Affirmative,"In the meantime , a financial feasibility study will be undertaken and preliminary discussions will begin with LCME , the Liaison Committee on Medical Education , which accredits medical schools . "
+Illinois Chancellor Phyllis Wise,say.01,We 're going slowly,,Affirmative,"We 're going slowly , Wise said . "
+Consultants hired by the UI and Carle,submit.01,the report,,Affirmative,"Since the consultants submitted the report last month , Wise said she has been talking with people , mainly critics from the Chicago campus , about the idea . "
+Illinois Chancellor Phyllis Wise,say.01,she has been talking with people,,Affirmative,"Since the consultants submitted the report last month , Wise said she has been talking with people , mainly critics from the Chicago campus , about the idea . "
+Consultants hired by the UI and Carle,ask.02,to let,members of,Affirmative,She asked members of the Senate Executive Committee to let her know if they heard from someone opposed to the idea . 
+members of,let.01,her know,,Affirmative,She asked members of the Senate Executive Committee to let her know if they heard from someone opposed to the idea . 
+Consultants hired by the UI and Carle,know.01,if they heard from someone opposed to,,Affirmative,She asked members of the Senate Executive Committee to let her know if they heard from someone opposed to the idea . 
+someone opposed to,oppose.01,to,,Affirmative,She asked members of the Senate Executive Committee to let her know if they heard from someone opposed to the idea . 
+Consultants hired by the UI and Carle,mitigate.01,some things,,Affirmative,"As for any concerns or criticisms raised , some things we will be able to mitigate , she said . "
+Consultants hired by the UI and Carle,say.01,some things,,Affirmative,"As for any concerns or criticisms raised , some things we will be able to mitigate , she said . "
+some Urbana residents,express.01,about,,Affirmative,"In response to concerns some Urbana residents expressed about the proposal , Wise said the university has no plans to buy Carle . "
+Illinois Chancellor Phyllis Wise,say.01,university has,,Affirmative,"In response to concerns some Urbana residents expressed about the proposal , Wise said the university has no plans to buy Carle . "
+University of Illinois Chancellor Phyllis Wise,have.03,no plans,,Affirmative,"In response to concerns some Urbana residents expressed about the proposal , Wise said the university has no plans to buy Carle . "
+Critics,say.01,would solidify,,Affirmative,( Critics have said doing so would solidify Carle 's tax - exempt status . 
+doing so,solidify.01,exempt status,,Affirmative,( Critics have said doing so would solidify Carle 's tax - exempt status . 
+a legal dispute regarding,regard.01,hospital 's not paying,,Affirmative,"Carle and the city of Urbana are mired in a legal dispute regarding the hospital 's not paying property taxes due to the charity health care it provides , as allowed per a relatively recent state law . "
+the hospital,pay.01,property taxes due to,,Affirmative,"Carle and the city of Urbana are mired in a legal dispute regarding the hospital 's not paying property taxes due to the charity health care it provides , as allowed per a relatively recent state law . "
+the city of Urbana,provide.01,the charity health care,,Affirmative,"Carle and the city of Urbana are mired in a legal dispute regarding the hospital 's not paying property taxes due to the charity health care it provides , as allowed per a relatively recent state law . "
+Carle and the city of Urbana,have.03,no intentions of buying,,Affirmative,"We have no intentions of buying a hospital , Wise said . "
+Carle and the city of Urbana,buy.01,a hospital,,Affirmative,"We have no intentions of buying a hospital , Wise said . "
+Illinois Chancellor Phyllis Wise,say.01,We have,,Affirmative,"We have no intentions of buying a hospital , Wise said . "
+Carle and the city of Urbana,want.01,to do,,Affirmative,We want to do other things that are different from UIC . 
+Carle and the city of Urbana,do.02,other things,,Affirmative,We want to do other things that are different from UIC . 
+the UI 's,operate.01,a hospital in Chicago,,Affirmative,( The UI operates a hospital in Chicago . ) 
+Carle and the city of Urbana,want.01,to own,,Affirmative,We do n't want to own a hospital . 
+Carle and the city of Urbana,own.01,a hospital,,Affirmative,We do n't want to own a hospital . 
+Carle and the city of Urbana,want.01,to partner with,,Affirmative,"We want to partner with a clinical enterprise so we can provide a full , four - year educational experience for the students so that collaborations between us and clinical scientists are facilitated . "
+Carle and the city of Urbana,partner.01,with,,Affirmative,"We want to partner with a clinical enterprise so we can provide a full , four - year educational experience for the students so that collaborations between us and clinical scientists are facilitated . "
+Carle and the city of Urbana,provide.01,year educational experience for,,Affirmative,"We want to partner with a clinical enterprise so we can provide a full , four - year educational experience for the students so that collaborations between us and clinical scientists are facilitated . "
+Some medical schools,own.01,hospitals,,Affirmative,"Some medical schools own hospitals , and some do not . "
+Illinois Chancellor Phyllis Wise,say.01,include,,Affirmative,"Wise said other universities with a clinical affiliation model similar to the one being proposed include Case Western Reserve University and the Cleveland Clinic , as well as Harvard Medical School , which has several clinical affiliations . "
+"Harvard Medical School ,",have.03,several clinical affiliations,,Affirmative,"Wise said other universities with a clinical affiliation model similar to the one being proposed include Case Western Reserve University and the Cleveland Clinic , as well as Harvard Medical School , which has several clinical affiliations . "
+by,oversee.01,"a new , autonomous medical school",,Affirmative,"As proposed , the new medical school would be overseen by a private organization created by the UI and Carle . "
+by,create.01,a private organization created by,,Affirmative,"As proposed , the new medical school would be overseen by a private organization created by the UI and Carle . "
+some,do.02,proposed,,Affirmative,"If we do it right , it will help UIC , it will help Chicago , central Illinois and all of Illinois , Wise said . "
+proposed,help.01,UIC,,Affirmative,"If we do it right , it will help UIC , it will help Chicago , central Illinois and all of Illinois , Wise said . "
+proposed,help.01,Chicago,,Affirmative,"If we do it right , it will help UIC , it will help Chicago , central Illinois and all of Illinois , Wise said . "
+Illinois Chancellor Phyllis Wise,say.01,", it will help Chicago ,",,Affirmative,"If we do it right , it will help UIC , it will help Chicago , central Illinois and all of Illinois , Wise said . "
+News - Gazette.com,embrace.01,discussion of,,Affirmative,News - Gazette.com embraces discussion of both community and world issues . 
+We,welcome.01,you,to contribute,Affirmative,"We welcome you to contribute your ideas , opinions and comments , but we ask that you avoid personal attacks , vulgarity and hate speech . "
+We,contribute.01,"your ideas , opinions and comments",,Affirmative,"We welcome you to contribute your ideas , opinions and comments , but we ask that you avoid personal attacks , vulgarity and hate speech . "
+we,ask.02,that you avoid,,Affirmative,"We welcome you to contribute your ideas , opinions and comments , but we ask that you avoid personal attacks , vulgarity and hate speech . "
+you,avoid.01,"personal attacks , vulgarity and",,Affirmative,"We welcome you to contribute your ideas , opinions and comments , but we ask that you avoid personal attacks , vulgarity and hate speech . "
+We,reserve.01,the right,,Affirmative,"We reserve the right to remove any comment at our discretion , and we will block repeat offenders ' accounts . "
+We,remove.01,any comment at,,Affirmative,"We reserve the right to remove any comment at our discretion , and we will block repeat offenders ' accounts . "
+We,block.01,repeat,,Affirmative,"We reserve the right to remove any comment at our discretion , and we will block repeat offenders ' accounts . "
+We,repeat.01,accounts,,Affirmative,"We reserve the right to remove any comment at our discretion , and we will block repeat offenders ' accounts . "
+you,post.01,any comment,,Affirmative,"To post comments , you must first be a registered user , and your username will appear with any comment you post . "

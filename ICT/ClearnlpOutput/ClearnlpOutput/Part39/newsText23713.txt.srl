@@ -1,0 +1,63 @@
+1	News	news	NN	p2=NNP	0	root	_
+2	and	and	CC	_	1	cc	_
+3	comment	comment	NN	p2=VB	1	conj	_
+4	from	from	IN	_	3	prep	_
+5	more	more	JJR	_	7	amod	_
+6	than	than	IN	_	7	quantmod	_
+7	40	0	CD	_	9	num	_
+8	emerging	emerge	VBG	p2=NN|pb=emerge.01	9	amod	_
+9	economies	economy	NNS	_	4	pobj	8:A0=PPT;11:A1=PPT
+10	,	,	,	_	9	punct	_
+11	headed	head	VBN	pb=head.01	9	partmod	_
+12	by	by	IN	_	11	agent	11:A0=PPT
+13	Brazil	brazil	NNP	_	12	pobj	_
+14	,	,	,	_	13	punct	_
+15	Russia	russia	NNP	_	13	conj	_
+16	,	,	,	_	15	punct	_
+17	India	india	NNP	_	15	conj	_
+18	and	and	CC	_	17	cc	_
+19	China	china	NNP	_	17	conj	_
+20	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	posts	post	NNS	_	4	nsubjpass	4:A1=PRD
+3	are	be	VBP	_	4	auxpass	_
+4	published	publish	VBN	pb=publish.01	0	root	_
+5	in	in	IN	_	4	prep	4:AM-TMP
+6	UK	uk	NNP	_	7	nn	_
+7	time	time	NN	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Get	get	VB	pb=get.01	0	root	_
+2	in	in	IN	_	1	prep	1:A2=DIR
+3	touch	touch	NN	_	2	pobj	_
+4	with	with	IN	_	3	prep	_
+5	us	us	PRP	p2=NNP	4	pobj	_
+6	-	-	,	p2=HYPH	5	punct	_
+7	your	your	PRP$	_	8	poss	_
+8	comments	comment	NNS	_	5	appos	_
+9	,	,	,	_	8	punct	_
+10	advice	advice	NN	_	8	conj	_
+11	and	and	CC	_	10	cc	_
+12	even	even	RB	p2=JJ	13	advmod	_
+13	complaints	complaint	NNS	p2=VBZ	10	conj	_
+14	.	.	.	_	1	punct	_
+
+1	Find	find	VB	pb=find.03	0	root	_
+2	out	out	RP	p2=RB	1	prt	1:C-V
+3	how	how	WRB	_	5	advmod	5:R-AM-MNR
+4	to	to	TO	_	5	aux	_
+5	contact	contact	VB	pb=contact.01	1	xcomp	1:A1=PPT
+6	the	the	DT	_	7	det	_
+7	team	team	NN	_	5	dobj	5:A1=PPT
+8	.	.	.	_	1	punct	_
+
+1	See	see	VB	pb=see.01	0	root	_
+2	the	the	DT	_	4	det	_
+3	full	full	JJ	_	4	amod	_
+4	list	list	NN	_	1	dobj	1:A1
+5	of	of	IN	_	4	prep	_
+6	FT	ft	NNP	p2=JJ	7	nn	_
+7	blogs	blog	NNS	p2=VBZ	5	pobj	_
+8	.	.	.	_	1	punct	_
+

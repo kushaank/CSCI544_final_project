@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+U.S. Century Bank,sell.01,14 loans,,Affirmative,U.S. Century Bank sold 14 loans with an original balance of $ 14.2 million . 
+U.S. Century Bank,sell.01,about $ 14.2 million in loans,,Affirmative,"U.S. Century Bank sold about $ 14.2 million in loans , plus a large foreclosure judgment , as it seeks to cure its â€œundercapitalizedâ€� status . "
+U.S. Century Bank,seek.01,to cure,,Affirmative,"U.S. Century Bank sold about $ 14.2 million in loans , plus a large foreclosure judgment , as it seeks to cure its â€œundercapitalizedâ€� status . "
+"based bank ,",hope.01,to raise capital or find,,Affirmative,"The Doral - based bank , a recipient of a $ 50.2 million federal bailout , is hoping to raise capital or find a buyer . "
+"based bank ,",raise.02,capital,,Affirmative,"The Doral - based bank , a recipient of a $ 50.2 million federal bailout , is hoping to raise capital or find a buyer . "
+"based bank ,",find.01,a buyer,,Affirmative,"The Doral - based bank , a recipient of a $ 50.2 million federal bailout , is hoping to raise capital or find a buyer . "
+the books,make.02,bank smaller,,Affirmative,By getting some loans off the books that makes the bank smaller and reduces the amount of new capital it would require to meet the demands of regulators . 
+the books,reduce.01,the amount of,,Affirmative,By getting some loans off the books that makes the bank smaller and reduces the amount of new capital it would require to meet the demands of regulators . 
+The Doral-based bank,require.01,to meet,,Affirmative,By getting some loans off the books that makes the bank smaller and reduces the amount of new capital it would require to meet the demands of regulators . 
+The Doral-based bank,meet.01,the demands of regulators,,Affirmative,By getting some loans off the books that makes the bank smaller and reduces the amount of new capital it would require to meet the demands of regulators . 
+U.S. Century Bank,sell.01,22 loans,to,Affirmative,"According to court records in Miami - Dade and Broward counties , U.S. Century Bank sold 22 loans on March 31 â€ the final day of the first quarter â€ to Waterfall Olympic Master Fund , a Cayman Islands company registered in New York . "
+quarter report,show.01,"423,000 gain on",,Affirmative,"Its first quarter report showed a $ 423,000 gain on the sale of loans , which helped it turn a profit during that period . "
+"423,000 gain on",help.01,it turn,,Affirmative,"Its first quarter report showed a $ 423,000 gain on the sale of loans , which helped it turn a profit during that period . "
+Its first quarter report,turn.16,a profit,,Affirmative,"Its first quarter report showed a $ 423,000 gain on the sale of loans , which helped it turn a profit during that period . "
+U.S. Century Bank,settle.02,the lawsuit,,Affirmative,"The $ 3.37 million mortgage of Sims & Son , the owner of a Shell service station at 9489 Sheridan Street in Cooper City , was previously in foreclosure but U.S. Century Bank settled the lawsuit and granted it a modified mortgage . "
+U.S. Century Bank,grant.01,a modified mortgage,it,Affirmative,"The $ 3.37 million mortgage of Sims & Son , the owner of a Shell service station at 9489 Sheridan Street in Cooper City , was previously in foreclosure but U.S. Century Bank settled the lawsuit and granted it a modified mortgage . "
+The other larger loans,sell.01,the bank sold,,Affirmative,The other larger loans that the bank sold included Royal Gate Centerâ€™s $ 3.9 million mortgage on a shopping center at 15360 S.W. 280 th Street in Miami - Dade County and Thurff Corp . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

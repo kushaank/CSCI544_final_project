@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,take.01,your own actions,into account,Affirmative,"Not only is it important to teach your kids proper safety precautions , but it 's also crucial that you take your own actions into account . "
+A health issue,cause.01,Cook to have part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Aaron Cook,have.03,part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+he and,learn.01,one of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Target 12 fact check on,claim.01,state,,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+Target 12 fact check on,waste.01,millions,on,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+"by family , hope , and",inspire.01,line,,Affirmative,"Glenn Michael 's line is inspired by family , hope , and a promise of a better tomorrow . "
+research,suggest.01,will leave,,Affirmative,"PROVIDENCE , R.I. ( WPRI ) - Thousands of local college students graduated this past week , and research suggests that many of these recent graduates will leave Rhode Island and take their talents elsewhere . "
+many of,leave.01,Rhode Island,,Affirmative,"PROVIDENCE , R.I. ( WPRI ) - Thousands of local college students graduated this past week , and research suggests that many of these recent graduates will leave Rhode Island and take their talents elsewhere . "
+many of,take.01,their talents,,Affirmative,"PROVIDENCE , R.I. ( WPRI ) - Thousands of local college students graduated this past week , and research suggests that many of these recent graduates will leave Rhode Island and take their talents elsewhere . "
+Governor Lincoln Chafee,urge.01,"3,000 students from",,Affirmative,"Governor Lincoln Chafee urged more than 3,000 students from the University of Rhode Island who got their diplomas to explore , but keep Rhode Island close in their hearts . "
+"3,000 students from",get.01,their diplomas,,Affirmative,"Governor Lincoln Chafee urged more than 3,000 students from the University of Rhode Island who got their diplomas to explore , but keep Rhode Island close in their hearts . "
+Governor Lincoln Chafee,say.01,It 's,,Affirmative,"It 's very important that the young people coming out of , whether Salve Regina or Bryant or Roger Williams or URI , stay here , said Chafee . "
+three graduates,leave.06,Rhode Island,,Affirmative,"According to a Greater Providence Chamber of Commerce study , two out of three graduates leave Rhode Island after getting their degrees . "
+three graduates,get.01,their degrees,,Affirmative,"According to a Greater Providence Chamber of Commerce study , two out of three graduates leave Rhode Island after getting their degrees . "
+The Ocean State,have.03,one of,,Affirmative,The Ocean State also has one of the highest rates of college loan debt in the country . 
+The Ocean State,work.01,to turn things around and motivate,,Affirmative,"According to Chafee , the state is working to turn things around and motivate talented youth to stay here in Rhode Island . "
+The Ocean State,turn.01,things,,Affirmative,"According to Chafee , the state is working to turn things around and motivate talented youth to stay here in Rhode Island . "
+The Ocean State,motivate.01,talented youth,,Affirmative,"According to Chafee , the state is working to turn things around and motivate talented youth to stay here in Rhode Island . "
+"Not all local graduates though ,",plan.01,to stay in,,Affirmative,"Not all local graduates though , plan to stay in the smallest state . "
+RISD graphic design student Hayon Shin,think.01,that I want,,Affirmative,"Rhode Island 's so small and I think that I want to be involved in bigger projects , so that usually means places like New York , California , or out of the country , said RISD graphic design student Hayon Shin . "
+RISD graphic design student Hayon Shin,want.01,to be involved in,,Affirmative,"Rhode Island 's so small and I think that I want to be involved in bigger projects , so that usually means places like New York , California , or out of the country , said RISD graphic design student Hayon Shin . "
+that,mean.01,places like,,Affirmative,"Rhode Island 's so small and I think that I want to be involved in bigger projects , so that usually means places like New York , California , or out of the country , said RISD graphic design student Hayon Shin . "
+student Hayon Shin,say.01,I think,,Affirmative,"Rhode Island 's so small and I think that I want to be involved in bigger projects , so that usually means places like New York , California , or out of the country , said RISD graphic design student Hayon Shin . "
+Lawmakers,introduce.02,several bills,,Affirmative,"Lawmakers have recently introduced several bills to keep graduates here , including one that would give a tax credit to recent college graduates for up to ten years . "
+one,give.01,a tax credit,to,Affirmative,"Lawmakers have recently introduced several bills to keep graduates here , including one that would give a tax credit to recent college graduates for up to ten years . "
+Governor Lincoln Chafee,say.01,he will be looking at,,Affirmative,Chafee said he will be looking at that bill and whether the state can afford it at what he called a critical time . 
+Governor Lincoln Chafee,look.01,at,,Affirmative,Chafee said he will be looking at that bill and whether the state can afford it at what he called a critical time . 
+The Ocean State,afford.01,The Ocean State,,Affirmative,Chafee said he will be looking at that bill and whether the state can afford it at what he called a critical time . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Firefighters,recover.02,32 bodies believed,,Affirmative,"Firefighters recovered 32 bodies believed to be children from the bus but horrific burns made their identification difficult , Magdalena police chief Adan Leon told local media . "
+Witnesses,say.01,bus had traveled,,Affirmative,Witnesses said the bus had traveled about four blocks when it suddenly caught fire and exploded . 
+the bus,travel.01,four blocks,,Affirmative,Witnesses said the bus had traveled about four blocks when it suddenly caught fire and exploded . 
+the bus,catch.01,fire,,Affirmative,Witnesses said the bus had traveled about four blocks when it suddenly caught fire and exploded . 
+Some older children,manage.02,to climb from,,Affirmative,Some older children managed to climb from the windows but the younger ones were trapped and burned to death . 
+Some older children,burn.01,the younger ones,,Affirmative,Some older children managed to climb from the windows but the younger ones were trapped and burned to death . 
+The police,say.01,was underway,,Affirmative,The police said investigations into the cause of the tragedy was underway . 
+by,relate.01,the deadliest road accident involving children in Colombia 's history,to,Affirmative,It was speculated the accident was related to fuel smuggling or misconduct by the driver . 
+A lot of Colombians,smuggle.01,cheap gasoline,,Affirmative,A lot of Colombians smuggle cheap gasoline from Venezuela and transport it hidden in private cars and buses . 
+"Major Eduardo Velez , coordinator of",say.01,there was,,Affirmative,"Major Eduardo Velez , coordinator of Magdalena province 's emergency response corps , said there was a canister of gasoline inside the vehicle and the fire spread very fast . "
+Eduardo Velez,say.01,fire started,,Affirmative,"He said the fire started after the driver attempted to start the malfunctioning bus by pouring fuel into the engine , which he accessed through the floor of the cabin . "
+the driver,attempt.01,to start,,Affirmative,"He said the fire started after the driver attempted to start the malfunctioning bus by pouring fuel into the engine , which he accessed through the floor of the cabin . "
+the driver,start.01,the malfunctioning bus,,Affirmative,"He said the fire started after the driver attempted to start the malfunctioning bus by pouring fuel into the engine , which he accessed through the floor of the cabin . "
+Eduardo Velez,access.01,"the engine ,",,Affirmative,"He said the fire started after the driver attempted to start the malfunctioning bus by pouring fuel into the engine , which he accessed through the floor of the cabin . "
+the driver,say.01,driver escaped unharmed and,,Affirmative,"The driver escaped unharmed and was being questioned by police , he said . "
+President Juan Manuel Santos,review.01,rescue efforts,,Affirmative,Colombian President Juan Manuel Santos went to Fundacion to review rescue efforts and console the families of the victims . 
+President Juan Manuel Santos,console.01,the families of,,Affirmative,Colombian President Juan Manuel Santos went to Fundacion to review rescue efforts and console the families of the victims . 
+Colombian President Juan Manuel Santos,say.01,country is in mourning for,,Affirmative,"The entire country is in mourning for the death of these children , Santos said upon arriving in Fundacion , accompanied by his wife . "

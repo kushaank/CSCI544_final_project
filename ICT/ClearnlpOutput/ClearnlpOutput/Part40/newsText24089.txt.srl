@@ -1,0 +1,23 @@
+1	Mike	mike	NNP	_	2	nn	_
+2	Hopkins	hopkins	NNP	_	3	nsubj	3:A0=PAG
+3	talking	talk	VBG	pb=talk.01	0	root	_
+4	to	to	IN	_	3	prep	3:A2=GOL
+5	reporters	reporter	NNS	_	4	pobj	_
+6	at	at	IN	_	3	prep	3:AM-LOC
+7	the	the	DT	_	8	det	_
+8	University	university	NNP	_	6	pobj	_
+9	of	of	IN	_	8	prep	_
+10	Illinois	illinois	NNP	_	9	pobj	_
+11	at	at	IN	_	8	prep	_
+12	Urbana	urbana	NNP	_	14	hmod	_
+13	-	-	HYPH	p2=,	14	hyph	_
+14	Champaign	champaign	NNP	_	11	pobj	_
+15	on	on	IN	_	3	prep	3:AM-TMP
+16	Friday	friday	NNP	_	15	pobj	_
+17	,	,	,	_	21	punct	_
+18	May	may	NNP	_	2	npadvmod	_
+19	16	0	CD	_	18	num	_
+20	,	,	,	_	18	punct	_
+21	2014	0	CD	_	18	num	_
+22	.	.	.	_	3	punct	_
+

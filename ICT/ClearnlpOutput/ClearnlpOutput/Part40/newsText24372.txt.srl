@@ -1,0 +1,27 @@
+1	An	an	DT	p2=NNP	4	det	_
+2	Air	air	NNP	p2=NN	3	nn	_
+3	Malta	malta	NNP	_	4	nn	_
+4	aircraft	aircraft	NN	_	5	nsubj	5:A1=PPT
+5	landed	land	VBD	pb=land.01	25	ccomp	_
+6	safely	safely	RB	_	5	advmod	5:AM-MNR
+7	last	last	JJ	_	8	amod	_
+8	night	night	NN	_	5	npadvmod	5:AM-TMP
+9	in	in	IN	_	5	prep	5:AM-LOC
+10	spite	spite	NN	_	9	pobj	_
+11	of	of	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	captain	captain	NN	_	11	pobj	18:A0=PAG;15:A1=PPT
+14	not	not	RB	_	15	neg	15:AM-NEG
+15	being	be	VBG	pb=be.01	13	partmod	_
+16	able	able	JJ	_	15	acomp	15:A2=PRD
+17	to	to	TO	_	18	aux	_
+18	deploy	deploy	VB	pb=deploy.01	16	xcomp	_
+19	the	the	DT	_	20	det	_
+20	flaps	flap	NNS	_	18	dobj	18:A1=PPT
+21	,	,	,	_	25	punct	_
+22	the	the	DT	_	23	det	_
+23	airline	airline	NN	_	25	nsubj	25:A0=PAG
+24	has	have	VBZ	_	25	aux	_
+25	confirmed	confirm	VBN	pb=confirm.01	0	root	_
+26	.	.	.	_	25	punct	_
+

@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the ferry disaster,kill.01,300 people,,Affirmative,"SEOUL , South Korea ( CNN ) South Korea 's President made an emotional apology Monday over the ferry disaster that killed close to 300 people last month and said she would dismantle the country 's coast guard . "
+the ferry disaster,say.01,she would dismantle,,Affirmative,"SEOUL , South Korea ( CNN ) South Korea 's President made an emotional apology Monday over the ferry disaster that killed close to 300 people last month and said she would dismantle the country 's coast guard . "
+she,dismantle.01,coast guard,,Affirmative,"SEOUL , South Korea ( CNN ) South Korea 's President made an emotional apology Monday over the ferry disaster that killed close to 300 people last month and said she would dismantle the country 's coast guard . "
+Geun-hye in a televised speech,apologize.01,for having,to,Affirmative,"As the President who should be responsible for people 's life and security , I am sincerely apologizing to the people for having to suffer pain , said President Park Geun-hye in a televised speech . "
+President Park Geun-hye,say.01,", I am sincerely apologizing to",,Affirmative,"As the President who should be responsible for people 's life and security , I am sincerely apologizing to the people for having to suffer pain , said President Park Geun-hye in a televised speech . "
+President Park,feel.01,a sense of sorrow,for,Affirmative,"As a President , I feel a sense of sorrow for not being able to protect them during their family trip , said Park , whose approval ratings have dropped significantly in the weeks since the sinking . "
+"Park ,",say.01,", I feel",,Affirmative,"As a President , I feel a sense of sorrow for not being able to protect them during their family trip , said Park , whose approval ratings have dropped significantly in the weeks since the sinking . "
+The Sewol disaster,cause.01,widespread outrage in,,Affirmative,The Sewol disaster caused widespread outrage in South Korea over lax safety standards and the failure to rescue more people as the ship foundered . 
+President Park,slam.01,the country 's coast guard,for,Affirmative,"Park slammed the coast guard for its role in the disaster , saying it failed in its duty to carry out the rescue operation . "
+President Park,say.01,it failed in,,Affirmative,"Park slammed the coast guard for its role in the disaster , saying it failed in its duty to carry out the rescue operation . "
+President Park,carry.03,the rescue operation,,Affirmative,"Park slammed the coast guard for its role in the disaster , saying it failed in its duty to carry out the rescue operation . "
+President Park,save.01,more passengers,,Affirmative,The coast guard has been criticized amid suggestions it could have saved more passengers as the ferry was sinking into the frigid waters of the Yellow Sea . 
+President Park,decide.01,to dismantle,,Affirmative,"After serious consideration , I 've decided to dismantle the coast guard , Park said . "
+President Park,dismantle.01,the country 's coast guard,,Affirmative,"After serious consideration , I 've decided to dismantle the coast guard , Park said . "
+President Park,say.01,", I 've decided",,Affirmative,"After serious consideration , I 've decided to dismantle the coast guard , Park said . "
+the police,shed.01,tears,,Affirmative,"Shedding tears , she proposed building a monument to the victims and setting aside April 16 as a day to focus on safety . "
+the police,propose.01,building,,Affirmative,"Shedding tears , she proposed building a monument to the victims and setting aside April 16 as a day to focus on safety . "
+the police,build.01,a monument,,Affirmative,"Shedding tears , she proposed building a monument to the victims and setting aside April 16 as a day to focus on safety . "
+the police,set.01,April 16,aside,Affirmative,"Shedding tears , she proposed building a monument to the victims and setting aside April 16 as a day to focus on safety . "
+President Park,express.01,my deep condolence,to,Affirmative,"I , again , pray for those who passed away during the incident and express my deep condolence to the families , Park said . "
+President Park,say.01,"I , again , pray for those",,Affirmative,"I , again , pray for those who passed away during the incident and express my deep condolence to the families , Park said . "
+those who passed away during the incident,single.01,people --,,Affirmative,She singled out people -- both passengers and crew members -- who perished trying to save the lives of others . 
+both passengers and,try.01,to save,,Affirmative,She singled out people -- both passengers and crew members -- who perished trying to save the lives of others . 
+both passengers and,save.02,the lives of others,,Affirmative,She singled out people -- both passengers and crew members -- who perished trying to save the lives of others . 
+President Park,believe.01,people are,,Affirmative,"I believe these people are the real heroes of our generation , Park said . "
+President Park,say.01,I believe,,Affirmative,"I believe these people are the real heroes of our generation , Park said . "
+The captain and crew members who survived,tell.01,to stay put,passengers,Affirmative,They are accused of telling passengers to stay put as the ferry began to capsize and then being among the first people to leave the stricken vessel . 
+The Sewol ferry,leave.01,the stricken vessel,,Affirmative,They are accused of telling passengers to stay put as the ferry began to capsize and then being among the first people to leave the stricken vessel . 
+A chief prosecutor,announce.01,have been charged with murder,,Affirmative,A chief prosecutor announced last week that the captain and three other crew members have been charged with murder . 
+Eleven other crew members,violate.01,safety act,,Affirmative,Eleven other crew members have been indicted on charges of abandonment and violating a ship safety act . 
+Investigators,identify.01,problems with,,Affirmative,"Investigators have identified problems with the cargo , including overloading and the failure to secure it properly , as being among the likely reasons for the Sewol 's sinking . "
+Investigators,say.01,modifications,to,Affirmative,"They have said modifications to the ship last year , in which passenger cabins were added to increase its capacity , may have contributed to problems with the ship 's balance . "
+The chief executive of,face.01,charges of causing death by negligence,,Affirmative,"The chief executive of the ferry operator is facing charges of causing death by negligence , as well as causing the capsizing of the ship in the line of duty . "
+The chief executive of,cause.01,death,,Affirmative,"The chief executive of the ferry operator is facing charges of causing death by negligence , as well as causing the capsizing of the ship in the line of duty . "

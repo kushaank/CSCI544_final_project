@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A pair of employees,lock.01,employees at a store in northwest Harris County,,Affirmative,A pair of employees at a store in northwest Harris County locked themselves into a back room during a robbery late Monday that triggered a SWAT scene lasting several hours . 
+A pair of employees,trigger.01,a SWAT scene lasting,,Affirmative,A pair of employees at a store in northwest Harris County locked themselves into a back room during a robbery late Monday that triggered a SWAT scene lasting several hours . 
+deputies,say.01,men stormed,,Affirmative,Harris County sheriff 's deputies said two masked men stormed the Dollar General along Kuykendahl near Ella about 9:45 p.m. Monday as the manager was locking the front door . 
+two masked men,storm.02,the Dollar General along Kuykendahl near Ella,,Affirmative,Harris County sheriff 's deputies said two masked men stormed the Dollar General along Kuykendahl near Ella about 9:45 p.m. Monday as the manager was locking the front door . 
+the manager,lock.02,the front door,,Affirmative,Harris County sheriff 's deputies said two masked men stormed the Dollar General along Kuykendahl near Ella about 9:45 p.m. Monday as the manager was locking the front door . 
+Deputies,demand.01,money,,Affirmative,"They came in and demanded money , Deputy Thomas Gilliland said . "
+Deputy Thomas Gilliland,say.01,They came in and demanded money,,Affirmative,"They came in and demanded money , Deputy Thomas Gilliland said . "
+Deputies,say.01,employees ran toward,,Affirmative,Deputies said two employees ran toward the back during the holdup . 
+Deputies,lock.01,Deputies,,Affirmative,They locked themselves in a back room at the store while the robbery continued . 
+The robbers,open.01,the counter register or,,Affirmative,The robbers could n't open the counter register or a cash drawer in the office . 
+The robbers,take.01,a wallet and,from,Affirmative,They took a wallet and a cell phone from a customer . 
+Deputies,say.01,it was all,,Affirmative,Deputies said it was all they got away with . 
+Deputies,get.01,with,,Affirmative,Deputies said it was all they got away with . 
+Somebody in,hit.01,a panic alarm,,Affirmative,"Somebody in the store hit a panic alarm , triggering a police response . "
+Somebody in,trigger.01,a police response,,Affirmative,"Somebody in the store hit a panic alarm , triggering a police response . "
+County SWAT officers,set.03,a perimeter,,Affirmative,Harris County SWAT officers arrived and set up a perimeter . 
+Harris County SWAT officers,have.03,communications with them,,Affirmative,We had communications with them . 
+Harris County SWAT officers,ask.02,not to come out and stay,them,Affirmative,"We asked them not to come out and stay where they were , Gilliland said . "
+Deputies,make.01,aisle sweep through,,Affirmative,The deputies went inside about 12:30 a.m. and made an aisle - by - aisle sweep through the store . 
+by paramedics,check.01,two employees,,Affirmative,The employees were checked out by paramedics but had no apparent injuries . 
+two employees,have.03,no apparent injuries,,Affirmative,The employees were checked out by paramedics but had no apparent injuries . 
+Deputies,have.03,a detailed description of,,Affirmative,Deputies did not have a detailed description of the armed robbers . 
+scene specialists,examine.01,the store,,Affirmative,Crime scene specialists are examining the store for any clues to help them with the investigation . 
+any clues,help.01,with,them,Affirmative,Crime scene specialists are examining the store for any clues to help them with the investigation . 

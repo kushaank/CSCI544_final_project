@@ -1,0 +1,52 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+your friend 's,ask.02,to use,a home owner,Affirmative,"PINE LEVEL The subject of an intense Autauga County manhunt was nabbed early Monday evening , after he asked a home owner to use their phone . "
+a home owner,use.01,their phone,,Affirmative,"PINE LEVEL The subject of an intense Autauga County manhunt was nabbed early Monday evening , after he asked a home owner to use their phone . "
+"Christopher Wingard , 37 ,",ask.02,to use,,Affirmative,"Christopher Wingard , 37 , went to a home and asked to use the phone , Sheriff Herbie Johnson said . "
+"Christopher Wingard , 37 ,",use.01,their phone,,Affirmative,"Christopher Wingard , 37 , went to a home and asked to use the phone , Sheriff Herbie Johnson said . "
+Sheriff Herbie Johnson,say.01,went to,,Affirmative,"Christopher Wingard , 37 , went to a home and asked to use the phone , Sheriff Herbie Johnson said . "
+Christopher Wingard,leave.01,the call,,Affirmative,"After making the call he left , and the homeowner called authorities , the sheriff said . "
+the homeowner,call.01,called authorities,,Affirmative,"After making the call he left , and the homeowner called authorities , the sheriff said . "
+tracking teams,find.01,a hot trail,,Affirmative,"The state prison system dog tracking teams returned to the area , found a hot trail and Wingard was placed in custody about 6:50 p.m. , the sheriff said . "
+the sheriff 's,say.01,teams returned to,,Affirmative,"The state prison system dog tracking teams returned to the area , found a hot trail and Wingard was placed in custody about 6:50 p.m. , the sheriff said . "
+Sheriff Herbie Johnson,say.01,dogs got on,,Affirmative,"Once the dogs got on the trial at the home it did n't take long , Johnson said . "
+the dogs,track.01,The state prison system dog tracking teams,,Affirmative,The dogs started tracking him and he ran out of the woods right into one of my deputies . 
+Sheriff Herbie Johnson,say.01,Wingard is wanted on,,Affirmative,"Wingard is wanted on at least four felony charges by Millbrook police , Johnson said . "
+the sheriff 's,say.01,He will be placed in,,Affirmative,"He will be placed in the Autauga Metro Jail Monday night and local charges may be pending , the sheriff said . "
+A deputy,spot.01,Wingard walking along Interstate 65,,Affirmative,"A deputy spotted Wingard walking along Interstate 65 about 1 p.m. Monday , and when the deputy approached him , Wingard bolted into nearby woods , Johnson said . "
+Wingard walking along Interstate 65 about 1 p.m. Monday,bolt.02,into,,Affirmative,"A deputy spotted Wingard walking along Interstate 65 about 1 p.m. Monday , and when the deputy approached him , Wingard bolted into nearby woods , Johnson said . "
+Sheriff Herbie Johnson,say.01,deputy spotted,,Affirmative,"A deputy spotted Wingard walking along Interstate 65 about 1 p.m. Monday , and when the deputy approached him , Wingard bolted into nearby woods , Johnson said . "
+team members,cross.02,the interstate,,Affirmative,"A manhunt that grew to include several dozen deputies , state troopers and Department of Corrections tracking team members criss - crossed the interstate and later concentrated the search in the area of Autauga County 66 and Autauga County 61 , west of I - 65 . "
+team members,concentrate.01,the search,,Affirmative,"A manhunt that grew to include several dozen deputies , state troopers and Department of Corrections tracking team members criss - crossed the interstate and later concentrated the search in the area of Autauga County 66 and Autauga County 61 , west of I - 65 . "
+A Department of,help.01,in,,Affirmative,"A Department of Public Safety helicopter clattered overhead for several hours , also helping in the search effort . "
+Sheriff Herbie Johnson,say.01,search was called off,,Affirmative,"The active search was called off about 5:30 p.m. , but officers remained in the area , Johnson said . "
+The Department of,leave.01,the area,,Affirmative,"The Department of Corrections dog tracking teams had left the area then , he said . "
+Sheriff Herbie Johnson,say.01,had left,,Affirmative,"The Department of Corrections dog tracking teams had left the area then , he said . "
+officers,set.03,roadblocks along,,Affirmative,"During the manhunt , officers set up roadblocks along Autauga County 66 , searching vehicles and asking drivers if they had seen anyone matching Wingard 's description . "
+officers,search.01,vehicles,,Affirmative,"During the manhunt , officers set up roadblocks along Autauga County 66 , searching vehicles and asking drivers if they had seen anyone matching Wingard 's description . "
+officers,ask.01,if they had seen anyone matching,drivers,Affirmative,"During the manhunt , officers set up roadblocks along Autauga County 66 , searching vehicles and asking drivers if they had seen anyone matching Wingard 's description . "
+drivers,see.01,anyone matching,,Affirmative,"During the manhunt , officers set up roadblocks along Autauga County 66 , searching vehicles and asking drivers if they had seen anyone matching Wingard 's description . "
+anyone matching,match.01,description,,Affirmative,"During the manhunt , officers set up roadblocks along Autauga County 66 , searching vehicles and asking drivers if they had seen anyone matching Wingard 's description . "
+Wingard walking along Interstate 65 about 1 p.m. Monday,wear.01,a green shirt and,,Affirmative,He was last seen wearing a green shirt and gray pants . 
+officials,say.01,He is wanted on,,Affirmative,"He is wanted on forgery charges , as well as several counts of failure to appear in court on misdemeanor drug charges , officials said . "
+Someone,drop.03,Wingard walking along Interstate 65 about 1 p.m. Monday,,Affirmative,"Someone dropped Wingard off at a gas station at the intersection of U.S. 31 and the interstate about noon , then that person called Millbrook police . "
+that person,call.01,Millbrook police,,Affirmative,"Someone dropped Wingard off at a gas station at the intersection of U.S. 31 and the interstate about noon , then that person called Millbrook police . "
+Millbrook,call.02,Millbrook police,,Affirmative,"Millbrook called us and asked for our help in finding him , Johnson said . "
+Millbrook,ask.02,for,,Affirmative,"Millbrook called us and asked for our help in finding him , Johnson said . "
+Sheriff Herbie Johnson,say.01,Millbrook called us and asked for,,Affirmative,"Millbrook called us and asked for our help in finding him , Johnson said . "
+The Department of,use.01,beagles,to track,Affirmative,The Department of Corrections teams use beagles to track . 
+The Department of Corrections dog tracking teams,have.03,good relationship with,,Affirmative,"We have a very good relationship with the prison system , Johnson said . "
+Sheriff Herbie Johnson,say.01,We have,,Affirmative,"We have a very good relationship with the prison system , Johnson said . "
+beagles,have.03,some of,,Affirmative,They have some of the best dogs in this part of the country . 
+The Department of Corrections dog tracking teams,do.02,All,,Affirmative,"All we have to do is call , and they come right away . "
+The Department of Corrections dog tracking teams,rely.01,valuable resource,,Affirmative,It 's a very valuable resource that we have come to rely on . 
+she,allow.01,deputies to open,,Affirmative,She allowed deputies to open the back hatch of her Chevrolet Tahoe to look inside . 
+Deputies,open.01,the back hatch of,,Affirmative,She allowed deputies to open the back hatch of her Chevrolet Tahoe to look inside . 
+she,say.01,"Lord , this is scary",,Affirmative,"Lord , this is scary , she said . "
+The officer,thank.01,she,,Affirmative,The officer thanked her and closed the hatch . 
+The officer,close.01,the back hatch of her Chevrolet Tahoe,,Affirmative,The officer thanked her and closed the hatch . 
+The officer,hope.01,they catch him,,Affirmative,I hope they catch him . 
+These,catch.03,the back hatch of her Chevrolet Tahoe,,Affirmative,I hope they catch him . 
+Superintendent Spence Agee,say.01,School went into,,Affirmative,"Pine Level Elementary School went into a soft lockdown during the search , but school was dismissed on schedule , Superintendent Spence Agee said . "
+office,contact.01,These,,Affirmative,"We went into a soft lockdown after the sheriff 's office contacted us as a precaution , Agees said . "
+Agees,say.01,We went into,,Affirmative,"We went into a soft lockdown after the sheriff 's office contacted us as a precaution , Agees said . "
+Deputies,set.03,roadblocks as part of,,Affirmative,Deputies set up roadblocks as part of the manhunt in the Pine Level area . 

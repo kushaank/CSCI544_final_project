@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+model Jill Hansen,run.02,over,,Affirmative,Professional surfer and model Jill Hansen has been charged with attempted murder amid allegations she deliberately ran over an elderly woman in Hawaii . 
+The sportswoman,try.01,to kill,,Affirmative,The sportswoman stands accused of trying to kill 73 - year - old Elizabeth Conklin outside the alleged victim 's home in Waikiki on Wednesday ( 14May14 ) . 
+The sportswoman,kill.01,old Elizabeth Conklin,,Affirmative,The sportswoman stands accused of trying to kill 73 - year - old Elizabeth Conklin outside the alleged victim 's home in Waikiki on Wednesday ( 14May14 ) . 
+model Jill Hansen,reverse.01,her car,,Affirmative,"According to police , Hansen was spotted reversing her car after initially hitting Conklin and attempting to ram her again as she lay on the ground , unconscious , before driving off . "
+model Jill Hansen,hit.01,73-year-old Elizabeth Conklin outside the alleged victim 's home,,Affirmative,"According to police , Hansen was spotted reversing her car after initially hitting Conklin and attempting to ram her again as she lay on the ground , unconscious , before driving off . "
+model Jill Hansen,attempt.01,to ram her again,,Affirmative,"According to police , Hansen was spotted reversing her car after initially hitting Conklin and attempting to ram her again as she lay on the ground , unconscious , before driving off . "
+"year old ,",own.01,her own line of swimsuits,,Affirmative,"The 30 year old , who owns her own line of swimsuits , was tracked down by cops and she is now being held on $ 1 million ( £625,000 ) bail . "
+by cops,track.02,"year old ,",,Affirmative,"The 30 year old , who owns her own line of swimsuits , was tracked down by cops and she is now being held on $ 1 million ( £625,000 ) bail . "
+Investigators,have.03,yet,,Affirmative,Investigators have yet to reveal a possible motive for Hansen 's alleged actions . 
+Investigators,reveal.01,a possible motive for,,Affirmative,Investigators have yet to reveal a possible motive for Hansen 's alleged actions . 

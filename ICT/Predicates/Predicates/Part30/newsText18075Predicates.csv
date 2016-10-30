@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+one,expect.01,it to end,,Affirmative,This ends about how one would expect it to end . 
+A drunk man,attempt.01,to scale,,Affirmative,"PARIS , May 19 ( UPI ) -- A drunk man attempted to scale the Eiffel tower Saturday morning and was about 100 feet up when police were able to coax him down . "
+A drunk man,scale.03,the Eiffel tower,,Affirmative,"PARIS , May 19 ( UPI ) -- A drunk man attempted to scale the Eiffel tower Saturday morning and was about 100 feet up when police were able to coax him down . "
+Police,coax.01,Police,,Affirmative,"PARIS , May 19 ( UPI ) -- A drunk man attempted to scale the Eiffel tower Saturday morning and was about 100 feet up when police were able to coax him down . "
+Police in,receive.01,a call,,Affirmative,Police in the seventh arrondissement of Paris received a call at approximately 3:15 a.m. saying that someone trying to climb the monument . 
+3:15 a.m. saying,say.01,that someone trying,,Affirmative,Police in the seventh arrondissement of Paris received a call at approximately 3:15 a.m. saying that someone trying to climb the monument . 
+someone,try.01,to climb,,Affirmative,Police in the seventh arrondissement of Paris received a call at approximately 3:15 a.m. saying that someone trying to climb the monument . 
+someone,climb.01,the monument,,Affirmative,Police in the seventh arrondissement of Paris received a call at approximately 3:15 a.m. saying that someone trying to climb the monument . 
+police,find.01,The Paris police,,Affirmative,"After police found him and were able to get him to step down , the man , described to be in his 30 s , did n't really give a clear reason as to why he climbed the tower . "
+"the man , described",give.01,a clear reason,,Affirmative,"After police found him and were able to get him to step down , the man , described to be in his 30 s , did n't really give a clear reason as to why he climbed the tower . "
+The Paris police,climb.01,the Eiffel tower,,Affirmative,"After police found him and were able to get him to step down , the man , described to be in his 30 s , did n't really give a clear reason as to why he climbed the tower . "
+Police,say.01,"Basically , he was drunk",,Affirmative,"Police just said , Basically , he was drunk . "
+The Paris police,charge.05,The Paris police,,Affirmative,The Paris police then arrested and charged him and he has been ordered to appear in court . 
+distribution partners,provide.01,our content,"to thousands of businesses ,",Affirmative,"In addition , UPI 's distribution partners provide our content to thousands of businesses , policy groups and academic institutions worldwide . "
+decision - makers,depend.01,on,,Affirmative,Our audience consists of millions of decision - makers who depend on UPI 's insightful and analytical stories to make better business or policy decisions . 
+our company,strive.01,to continue,,Affirmative,"In the year of our 107th anniversary , our company strives to continue being a leading and trusted source for news , analysis and insight for readers around the world . "
+We,thank.01,you,for visiting us,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+you,visit.01,We,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+We,hope.01,that we will be,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 

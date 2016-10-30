@@ -1,0 +1,27 @@
+1	Two	#crd#	CD	_	5	num	_
+2	Sussex	sussex	NNP	_	3	nn	_
+3	County	county	NNP	_	4	nn	_
+4	heroin	heroin	NN	p2=NNP	5	nn	_
+5	deaths	death	NNS	_	8	nsubjpass	8:A1=PPT
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	connected	connect	VBN	pb=connect.01	0	root	_
+9	to	to	IN	_	8	prep	8:C-A1
+10	a	a	DT	_	12	det	_
+11	fentanyl	fentanyl	NN	p2=NNP	12	nn	_
+12	additive	additive	NN	p2=JJ	9	pobj	_
+13	,	,	,	_	8	punct	_
+14	according	accord	VBG	_	8	prep	8:AM-ADV
+15	to	to	IN	_	14	prep	_
+16	a	a	DT	_	17	det	_
+17	report	report	NN	_	15	pobj	_
+18	from	from	IN	_	17	prep	_
+19	the	the	DT	_	20	det	_
+20	Office	office	NNP	_	18	pobj	_
+21	of	of	IN	_	20	prep	_
+22	the	the	DT	_	25	det	_
+23	Chief	chief	NNP	_	25	nn	_
+24	Medical	medical	NNP	_	25	nn	_
+25	Examiner	examiner	NNP	_	21	pobj	_
+26	.	.	.	_	8	punct	_
+

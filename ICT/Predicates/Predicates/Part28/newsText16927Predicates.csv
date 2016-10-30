@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Jill Abramson , pictured at",break.01,her silence,,Affirmative,"Jill Abramson , pictured at an event in April , is set to break her silence Monday in a speech at Wake Forest University .. "
+Jill Abramson,keep.01,a low profile,,Affirmative,Jill Abramson has kept a low profile since she was fired by the New York Times last week . 
+by,fire.02,she,,Affirmative,Jill Abramson has kept a low profile since she was fired by the New York Times last week . 
+"Jill Abramson , pictured at an event in April",break.01,her silence Monday,,Affirmative,But she is set to break her silence Monday with a commencement address at Wake Forest University . 
+"Jill Abramson , pictured at an event in April",address.02,her abrupt dismissal,,Affirmative,"It is n't clear if or how she 'll address her abrupt dismissal from the paper , the causes of which are now the subject of rampant speculation . "
+silence,leave.01,her friends and confidants,many speaking anonymously,Affirmative,But Abramson 's silence has left her friends and confidants -- many speaking anonymously -- to make her case . 
+many,make.02,her case,,Affirmative,But Abramson 's silence has left her friends and confidants -- many speaking anonymously -- to make her case . 
+The school,affirm.01,that she remained on,,Affirmative,The school affirmed Sunday morning that she remained on the event 's program . 
+Arthur Sulzberger Jr.,say.01,involved,,Affirmative,Sulzberger said the reasons for her dismissal involved her management of the paper 's newsroom . 
+some,raise.01,questions of,,Affirmative,But some have raised questions of sexism following reports that Abramson -- appointed in 2011 as the paper 's first female executive editor -- was paid less than her male predecessor . 
+Arthur Sulzberger Jr.,deny.01,that was,,Affirmative,Sulzberger denied that was the case . 
+Arthur Sulzberger Jr.,say.01,", it was",,Affirmative,"He said Abramson 's total compensation was was comparable with ( predecessor ) Bill Keller 's ; in fact , by her last full year as executive editor , it was more than 10 % higher than his . "
+"Jill Abramson , pictured at an event in April",write.01,story is n't over,,Affirmative,"On Friday , she wrote , The story is n't over , not even close . "
+by,delay.01,"the DJIA ,",,Affirmative,"Market indexes are shown in real time , except for the DJIA , which is delayed by two minutes . "
+by,distribute.01,Jones IndexesSM,,Affirmative,"Disclaimer The Dow Jones IndexesSM are proprietary to and distributed by Dow Jones & Company , Inc . "
+by BATS,provided.01,quote data provided by BATS,,Affirmative,Most stock quote data provided by BATS . 

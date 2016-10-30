@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+he,say.01,Here is,,Affirmative,"Here is the problem with that question in American politics , he said . "
+you,say.01,that you did,,Affirmative,"If you say that you did , suddenly there are people out there saying it is not a big deal , look at all these successful people who did it . "
+people that have different views on it,say.01,it is not,,Affirmative,"If you say that you did , suddenly there are people out there saying it is not a big deal , look at all these successful people who did it . "
+all these successful people,do.02,a big deal,,Affirmative,"If you say that you did , suddenly there are people out there saying it is not a big deal , look at all these successful people who did it . "
+he,want.01,my kids,,Affirmative,And I do n't want my kids to smoke marijuana . 
+he,want.01,kids,,Affirmative,And I do n't want other people 's kids to smoke marijuana . 
+he,think.01,there is,,Affirmative,I do n't think there is a responsible way to recreationally use marijuana . 
+you,tell.01,that you did n't,people,Affirmative,"On the other side of it , if you tell people that you did n't , they wo n't believe you . "
+people that have different views on it,believe.01,you,,Affirmative,"On the other side of it , if you tell people that you did n't , they wo n't believe you . "
+The Florida senator,say.01,he decided against answering,,Affirmative,"The Florida senator said he decided against answering the question after a conversation he had following the publication of his book , An American Son , in which he wrote about his mediocre grades in high school . "
+The Florida senator,decide.01,against answering,,Affirmative,"The Florida senator said he decided against answering the question after a conversation he had following the publication of his book , An American Son , in which he wrote about his mediocre grades in high school . "
+The Florida senator,answer.01,the question after,,Affirmative,"The Florida senator said he decided against answering the question after a conversation he had following the publication of his book , An American Son , in which he wrote about his mediocre grades in high school . "
+The Florida senator,follow.02,the publication of,,Affirmative,"The Florida senator said he decided against answering the question after a conversation he had following the publication of his book , An American Son , in which he wrote about his mediocre grades in high school . "
+The Florida senator,write.01,about,,Affirmative,"The Florida senator said he decided against answering the question after a conversation he had following the publication of his book , An American Son , in which he wrote about his mediocre grades in high school . "
+"Rubio , an opponent of legalization",say.01,laws should be enforced there,,Affirmative,Rubio said federal law drug laws should be enforced there . 
+"Rubio , an opponent of legalization",believe.01,is not good for,,Affirmative,"And the bottom line is , I believe that adding yet another mind - altering substance to something that 's legal is not good for the country , he said . "
+"Rubio , an opponent of legalization",say.01,"line is ,",,Affirmative,"And the bottom line is , I believe that adding yet another mind - altering substance to something that 's legal is not good for the country , he said . "
+"Rubio , an opponent of legalization",understand.01,there are people,,Affirmative,"I understand there are people that have different views on it , but I feel strongly about that . "
+people,have.03,different views on it,,Affirmative,"I understand there are people that have different views on it , but I feel strongly about that . "
+"Rubio , an opponent of legalization",feel.02,about that,,Affirmative,"I understand there are people that have different views on it , but I feel strongly about that . "
+vacation,end.01,The president,returns to Washington,Affirmative,Obama 's vacation ends The president returns to Washington after a vacation plagued by criticism . 
+by criticism,plague.01,a vacation plagued by criticism,,Affirmative,Obama 's vacation ends The president returns to Washington after a vacation plagued by criticism . 
+Some lawmakers,worry.01,program has created,,Affirmative,Some lawmakers worry a visa program has created a major security weakness . 
+a visa program,create.01,a major security weakness,,Affirmative,Some lawmakers worry a visa program has created a major security weakness . 
+House Republicans,hire.01,legal,,Affirmative,House Republicans hire legal ... 
+A contract with,set.02,a cap of,,Affirmative,"A contract with Baker Hostetler sets a cap of $ 350,000 for legal costs . "
+Sharpton,blast.05,police,,Affirmative,Sharpton blasts police at Brown ... 
+Rev. Al Sharpton,say.01,it was time,,Affirmative,Rev. Al Sharpton said it was time to deal with policing . 

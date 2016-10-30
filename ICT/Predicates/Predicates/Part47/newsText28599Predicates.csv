@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Federal officials,say.01,fires were intentionally set in,,Affirmative,"Federal officials said fires were intentionally set in the Brentwood , N.H. home where Officer Stephen Arkell was shot and killed May 12 . "
+by,feed.01,an explosion,,Affirmative,"Those fires led to an explosion which was fed by gas lines in the home , according to Seacoast Online . "
+An ATF official,say.01,bullets penetrated,,Affirmative,"An ATF official said bullets penetrated gas lines in the basement , gas filled the basement and led to the explosion that destroyed the home . "
+bullets,penetrate.01,gas lines in,,Affirmative,"An ATF official said bullets penetrated gas lines in the basement , gas filled the basement and led to the explosion that destroyed the home . "
+gas,fill.01,the basement,,Affirmative,"An ATF official said bullets penetrated gas lines in the basement , gas filled the basement and led to the explosion that destroyed the home . "
+the explosion,destroy.01,Brentwood,,Affirmative,"An ATF official said bullets penetrated gas lines in the basement , gas filled the basement and led to the explosion that destroyed the home . "
+"Arkell ,",respond.01,to,,Affirmative,"The news came during a Monday evening press briefing on the investigation that has followed the death of Arkell , who responded to a home at 46 Mill Pond Road to investigate a verbal domestic disturbance . "
+The ATF,say.01,gas caused,,Affirmative,The ATF said gas caused the explosion in the home after a period time when the fires were burning . 
+gas,cause.01,the explosion in,,Affirmative,The ATF said gas caused the explosion in the home after a period time when the fires were burning . 
+Neighbors,call.02,911,,Affirmative,"Neighbors called 911 after they said they heard Michael Nolan , 47 , swearing loudly at his father , Walter Nolan , 86 , inside the residence they shared . "
+Neighbors,say.01,they heard,,Affirmative,"Neighbors called 911 after they said they heard Michael Nolan , 47 , swearing loudly at his father , Walter Nolan , 86 , inside the residence they shared . "
+Neighbors,hear.01,"Michael Nolan , 47 ,",,Affirmative,"Neighbors called 911 after they said they heard Michael Nolan , 47 , swearing loudly at his father , Walter Nolan , 86 , inside the residence they shared . "
+Neighbors,share.01,the residence,,Affirmative,"Neighbors called 911 after they said they heard Michael Nolan , 47 , swearing loudly at his father , Walter Nolan , 86 , inside the residence they shared . "
+Michael Nolan,own.01,three handguns and,,Affirmative,"Nolan owned three handguns and three rifles , all of which were legal , according to CBS Boston . "
+The fire and explosion,destroy.01,a lot of,,Affirmative,"The fire and explosion destroyed a lot of potential evidence , according to officials . "
+General Jane Young,tell.01,results may not be available for,reporters,Affirmative,New Hampshire Associate Attorney General Jane Young told reporters autopsy results may not be available for some time . 
+The elder Nolan,have.03,difficulty explaining,,Affirmative,"The elder Nolan has had difficulty explaining what happened before the deadly confrontation , according to NECN . "
+The elder Nolan,explain.01,what happened before,,Affirmative,"The elder Nolan has had difficulty explaining what happened before the deadly confrontation , according to NECN . "
+"Walter Nolan ,",own.01,the condo,,Affirmative,"Walter Nolan , who owns the condo , had invited his son Michael into the residence , according to New Hampshire State Police ; however , they do n't believe he knew what his son was allegedly going to do . "
+"Walter Nolan ,",invite.01,his son Michael,into,Affirmative,"Walter Nolan , who owns the condo , had invited his son Michael into the residence , according to New Hampshire State Police ; however , they do n't believe he knew what his son was allegedly going to do . "
+The elder Nolan,believe.01,he knew,,Affirmative,"Walter Nolan , who owns the condo , had invited his son Michael into the residence , according to New Hampshire State Police ; however , they do n't believe he knew what his son was allegedly going to do . "
+"Walter Nolan , who owns the condo",know.01,son was allegedly going,,Affirmative,"Walter Nolan , who owns the condo , had invited his son Michael into the residence , according to New Hampshire State Police ; however , they do n't believe he knew what his son was allegedly going to do . "
+New Hampshire State Police,say.01,it was,,Affirmative,State Police say it was a significant argument that had prompted the 9-1 - 1 call last Monday and they 've done everything they can do to get answers out of Walter Nolan . 
+a significant argument,prompt.01,call,,Affirmative,State Police say it was a significant argument that had prompted the 9-1 - 1 call last Monday and they 've done everything they can do to get answers out of Walter Nolan . 
+The elder Nolan,do.02,everything,,Affirmative,State Police say it was a significant argument that had prompted the 9-1 - 1 call last Monday and they 've done everything they can do to get answers out of Walter Nolan . 
+The elder Nolan,do.02,everything,,Affirmative,State Police say it was a significant argument that had prompted the 9-1 - 1 call last Monday and they 've done everything they can do to get answers out of Walter Nolan . 
+The elder Nolan,get.01,answers,out of,Affirmative,State Police say it was a significant argument that had prompted the 9-1 - 1 call last Monday and they 've done everything they can do to get answers out of Walter Nolan . 

@@ -1,0 +1,42 @@
+1	Ukrainian	ukrainian	JJ	_	3	amod	_
+2	armed	armed	JJ	p2=VBN	3	amod	_
+3	soldiers	soldier	NNS	_	0	root	_
+4	in	in	IN	_	3	prep	_
+5	Sloviansk	sloviansk	NNP	p2=NN	4	pobj	_
+6	,	,	,	_	5	punct	_
+7	east	east	NN	p2=RB	5	appos	_
+8	of	of	IN	_	7	prep	_
+9	Ukraine	ukraine	NNP	_	8	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	MOSCOW	moscow	NNP	p2=WRB	7	nn	_
+2	 	 	RB	p2=''	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	Russian	russian	JJ	_	5	amod	_
+5	President	president	NNP	_	7	nn	_
+6	Vladimir	vladimir	NNP	_	7	nn	_
+7	Putin	putin	NNP	_	9	nsubj	9:A0=PAG
+8	has	have	VBZ	_	9	aux	_
+9	ordered	order	VBN	pb=order.01	25	ccomp	25:A1=PPT
+10	troops	troop	NNS	_	9	dobj	9:A1=GOL;11:A1=PPT;17:A1=PPT
+11	deployed	deploy	VBN	pb=deploy.01	10	partmod	_
+12	in	in	IN	_	11	prep	11:AM-LOC
+13	regions	region	NNS	_	12	pobj	_
+14	near	near	IN	_	13	prep	_
+15	Ukraine	ukraine	NNP	_	14	pobj	_
+16	to	to	TO	_	17	aux	_
+17	return	return	VB	pb=return.01	11	advcl	11:AM-PRP
+18	to	to	IN	_	17	prep	17:A4=GOL
+19	their	their	PRP$	_	21	poss	_
+20	home	home	NN	_	21	nn	_
+21	bases	base	NNS	_	18	pobj	_
+22	,	,	,	_	25	punct	_
+23	the	the	DT	_	24	det	_
+24	Kremlin	kremlin	NNP	_	25	nsubj	25:A0
+25	said	say	VBD	pb=say.01	0	root	_
+26	Monday	monday	NNP	_	25	npadvmod	25:AM-TMP
+27	,	,	,	_	26	punct	_
+28	May	may	NNP	_	26	appos	_
+29	19	0	CD	_	28	num	_
+30	.	.	.	_	25	punct	_
+

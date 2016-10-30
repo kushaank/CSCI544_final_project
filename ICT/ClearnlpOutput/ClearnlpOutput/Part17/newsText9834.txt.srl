@@ -1,0 +1,1161 @@
+1	Fossil	fossil	JJ	p2=NNP	3	amod	_
+2	fuel	fuel	NN	_	3	nn	_
+3	companies	company	NNS	_	5	nsubj	5:A0=PAG
+4	have	have	VBP	_	5	aux	_
+5	lobbied	lobby	VBN	pb=lobby.01	0	root	_
+6	hard 	hard 	RBS	p2=RB	8	hmod	_
+7	-	-	HYPH	p2=:	8	hyph	_
+8	and often	and often	NNP	p2=VBN	5	dobj	5:A1=PPT
+9	successfully 	successfully 	''	p2=NNP	5	punct	_
+10	-	-	:	p2=HYPH	5	punct	_
+11	against	against	IN	_	5	prep	_
+12	effective	effective	JJ	_	14	amod	_
+13	climate	climate	NN	_	14	nn	_
+14	policies	policy	NNS	_	11	pobj	_
+15	.	.	.	_	5	punct	_
+
+1	But	but	CC	_	10	cc	10:AM-DIS
+2	a November	a november	NNP	p2=VB	4	nn	_
+3	2013	0	CD	p2=NNP	4	num	_
+4	report	report	NN	p2=VB	10	nsubj	10:A0
+5	by the	by the	IN	p2=VBD	4	prep	_
+6	environmental	environmental	JJ	_	8	amod	_
+7	research	research	NN	_	8	nn	_
+8	group	group	NN	_	5	pobj	_
+9	CDP	cdp	NNP	_	8	appos	_
+10	revealed	reveal	VBD	pb=reveal.01	0	root	_
+11	that	that	IN	_	24	complm	_
+12	at least	at least	NN	p2=NNP	15	nn	_
+13	29	0	CD	_	15	num	_
+14	major	major	JJ	p2=NN	15	amod	_
+15	companies	company	NNS	_	24	nsubj	24:A0=PAG
+16	,	,	,	_	15	punct	_
+17	including	include	VBG	_	15	prep	_
+18	five	#crd#	CD	_	21	num	_
+19	major	major	JJ	_	21	amod	_
+20	oil	oil	NN	_	21	nn	_
+21	producers	producer	NNS	_	17	pobj	_
+22	,	,	,	_	15	punct	_
+23	are	be	VBP	_	24	aux	_
+24	basing	base	VBG	pb=base.02	10	ccomp	10:A1=PPT
+25	their	their	PRP$	_	27	poss	_
+26	internal	internal	JJ	_	27	amod	_
+27	planning	planning	NN	p2=VBG	24	dobj	24:A1=PPT
+28	on the	on the	DT	p2=CD	29	det	_
+29	assumption	assumption	NN	_	24	dobj	24:R-A2
+30	that	that	IN	p2=WDT	43	complm	_
+31	such	such	JJ	_	34	amod	_
+32	policies 	policies 	NN	p2=NNP	34	hmod	_
+33	-	-	HYPH	p2=:	34	hyph	_
+34	­specifically	­specifically	RB	p2=NN	43	advmod	_
+35	,	,	,	_	43	punct	_
+36	a government	a government	NN	p2=NNP	38	hmod	_
+37	-	-	HYPH	_	38	hyph	_
+38	mandated	mandate	VBN	_	40	amod	_
+39	carbon	carbon	NN	_	40	nn	_
+40	price 	price 	NN	p2=''	43	nsubj	43:A1=PPT
+41	-	-	:	p2=,	43	punct	_
+42	will	will	MD	_	43	aux	43:AM-MOD
+43	be	be	VB	pb=be.01	29	ccomp	_
+44	a reality	a reality	NN	p2=NNP	43	attr	43:A2=PRD
+45	as	as	RB	_	46	advmod	_
+46	soon	soon	RB	_	43	advmod	43:AM-TMP
+47	as	as	IN	_	48	quantmod	_
+48	2020	0	CD	_	46	advcl	_
+49	.	.	.	_	10	punct	_
+
+1	The question	the question	NN	p2=NNP	3	nsubj	3:A1=PPT
+2	now	now	RB	_	3	advmod	3:AM-TMP
+3	is	be	VBZ	pb=be.01	0	root	_
+4	whether	whether	IN	_	12	complm	_
+5	oil	oil	NN	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	­producing	­producing	VBG	p2=NN	8	amod	_
+8	countries	country	NNS	_	10	poss	_
+9	'	'	POS	_	8	possessive	_
+10	governments	government	NNS	_	11	nn	_
+11	and citizens	and citizens	NNS	p2=CC	12	nsubj	12:A0=PAG
+12	share	share	VBP	pb=share.01	3	ccomp	3:A2=PRD
+13	this	this	DT	_	14	det	_
+14	expectation	expectation	NN	_	12	dobj	12:A1=PPT
+15	.	.	.	_	3	punct	_
+
+1	World	world	NN	p2=JJ	2	nn	_
+2	leaders	leader	NNS	_	6	nsubj	6:A0
+3	are	be	VBP	_	6	aux	_
+4	ostensibly	ostensibly	RB	_	5	advmod	5:AM-MNR
+5	committed	commit	VBN	p2=JJ|pb=commit.01	3	acomp	_
+6	to keeping	to keeping	VBG	p2=NN|pb=to keeping.01	0	root	_
+7	the increase	the increase	PRP	p2=DT	6	dobj	6:A1
+8	in average	in average	JJ	p2=VB	10	amod	_
+9	global	global	JJ	_	10	amod	_
+10	temperature	temperature	NN	_	5	dobj	5:A1=PPT
+11	below	below	IN	p2=RB	10	prep	_
+12	2	0	CD	_	13	num	_
+13	degrees	degree	NNS	_	11	pobj	_
+14	Celsius	celsius	JJ	p2=NNPS	13	amod	_
+15	relative	relative	JJ	p2=NN	19	amod	_
+16	to preindustrial	to preindustrial	JJ	p2=NN	19	amod	_
+17	levels 	levels 	NN	p2=''	19	hmod	_
+18	-	-	HYPH	p2=:	19	hyph	_
+19	the threshold	the threshold	NN	p2=JJ	10	appos	22:A0
+20	beyond	beyond	IN	_	22	prep	22:R-AM-LOC
+21	which	which	WDT	_	20	pobj	_
+22	the most	the most	VBD	p2=JJS|pb=the most.01	19	rcmod	_
+23	catastrophic	catastrophic	JJ	_	24	amod	_
+24	effects	effect	NNS	_	22	dobj	22:A1
+25	of global	of global	JJ	p2=IN	26	amod	_
+26	warming	warming	NN	p2=VBG	29	nsubjpass	29:A1=PPT
+27	would	would	MD	_	29	aux	29:AM-MOD
+28	be	be	VB	_	29	auxpass	_
+29	triggered	trigger	VBN	pb=trigger.01	22	ccomp	_
+30	.	.	.	_	6	punct	_
+
+1	Indeed	indeed	RB	_	4	advmod	4:AM-DIS
+2	,	,	,	_	4	punct	_
+3	they	they	PRP	_	4	nsubj	4:A0=PAG
+4	endorsed	endorse	VBD	pb=endorse.01	0	root	_
+5	the limit	the limit	RB	p2=CD	4	advmod	4:AM-MNR
+6	at the	at the	DT	p2=$	15	det	_
+7	2009	0	CD	_	9	num	_
+8	Copenhagen	copenhagen	NNP	p2=VBN	9	nn	_
+9	Climate	climate	NN	p2=NNP	11	nn	_
+10	Change	change	NNP	p2=NN	11	nn	_
+11	Conference	conference	NNP	_	15	nn	_
+12	and again	and again	NNP	p2=RB	14	nn	_
+13	in Cancun	in cancun	NNP	_	14	nn	_
+14	the following	the following	NNP	p2=VBG	15	nn	_
+15	year	year	NN	_	4	dobj	4:A1=PPT
+16	.	.	.	_	4	punct	_
+
+1	Advanced	advanced	JJ	p2=NNP	2	amod	_
+2	nations	nation	NNS	_	5	nsubj	5:A0=PAG
+3	are	be	VBP	_	5	aux	_
+4	already	already	RB	_	5	advmod	5:AM-TMP
+5	formulating	formulate	VBG	pb=formulate.01	0	root	_
+6	more	more	RBR	p2=JJR	7	advmod	_
+7	responsible	responsible	JJ	_	11	amod	_
+8	climate	climate	NN	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	change	change	NN	_	11	nn	_
+11	policies	policy	NNS	_	5	dobj	5:A1=PRD
+12	.	.	.	_	5	punct	_
+
+1	Success	success	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	require	require	VB	pb=require.01	0	root	_
+4	that	that	DT	p2=IN	3	dobj	3:A1=PPT
+5	up	up	RP	_	3	prt	3:C-V
+6	to 80	to 0	CD	p2=NN	7	num	_
+7	percent	percent	NN	_	8	npadvmod	_
+8	of proven	of proven	JJ	p2=NN	13	amod	_
+9	oil	oil	NN	_	13	nn	_
+10	,	,	,	_	9	punct	_
+11	gas	gas	NN	_	12	nn	_
+12	and coal	and coal	NN	p2=XX	13	nn	_
+13	reserves	reserve	NNS	_	16	nsubjpass	16:A1
+14	not	not	RB	_	16	neg	16:AM-NEG
+15	be	be	VB	p2=VBP	16	auxpass	_
+16	consumed	consume	VBN	pb=consume.01	3	ccomp	_
+17	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	conclusion	conclusion	NN	_	3	nsubj	3:A0
+3	shapes	shape	VBZ	p2=NNS|pb=shape.01	0	root	_
+4	the risk	the risk	DT	p2=PRP$	8	det	_
+5	analysis	analysis	NN	_	6	npadvmod	_
+6	of these	of these	JJ	p2=IN	8	amod	_
+7	carbon	carbon	NN	_	8	nn	_
+8	assets	asset	NNS	_	3	dobj	3:A1=PPT;11:A1=PPT
+9	,	,	,	_	8	punct	_
+10	which	which	WDT	_	11	nsubj	11:R-A1
+11	are	be	VBP	pb=be.01	8	rcmod	_
+12	a major	a major	JJ	p2=IN	13	amod	_
+13	contributor	contributor	NN	_	11	attr	11:A2=PRD
+14	to their	to their	PRP$	p2=NN	15	poss	_
+15	owners	owner	NNS	_	18	poss	_
+16	'	'	POS	_	15	possessive	_
+17	market	market	NN	_	18	nn	_
+18	capitalization	capitalization	NN	_	13	appos	_
+19	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	4	nsubj	4:A0=PAG
+2	is	be	VBZ	_	4	aux	_
+3	also	also	RB	_	4	advmod	4:AM-ADV
+4	driving	drive	VBG	pb=drive.02	0	root	_
+5	a global	a global	JJ	p2=CD	8	amod	_
+6	campaign	campaign	NN	_	7	nn	_
+7	to lobby	to lobby	NN	p2=NNP	8	nn	_
+8	municipalities	municipality	NNS	_	4	dobj	4:A1=PPT;12:A2
+9	,	,	,	_	8	punct	_
+10	public	public	JJ	_	11	amod	_
+11	universities	university	NNS	_	12	nsubj	12:A0
+12	and pension	and pension	VBP	p2=NN|pb=and pension.01	8	rcmod	_
+13	funds	fund	NNS	_	12	dobj	12:A1
+14	to divest	to divest	JJS	p2=WDT	16	amod	_
+15	from fossil	from fossil	JJ	p2=IN	16	amod	_
+16	fuels	fuel	NNS	_	13	conj	_
+17	.	.	.	_	4	punct	_
+
+1	While	while	IN	_	10	mark	_
+2	the introduction	the introduction	NN	p2=NNP	8	nn	_
+3	of a	of a	RB	p2=CC	5	advmod	_
+4	more	more	RBR	_	5	advmod	_
+5	responsible	responsible	JJ	_	8	amod	_
+6	climate	climate	NN	_	7	nn	_
+7	change	change	NN	_	8	nn	_
+8	policy	policy	NN	_	10	nsubj	10:A1=PPT
+9	may	may	MD	_	10	aux	10:AM-MOD
+10	seem	seem	VB	pb=seem.01	20	advcl	20:AM-ADV
+11	far	far	RB	_	12	advmod	_
+12	off	off	RB	p2=JJ	10	advmod	10:AM-LOC
+13	,	,	,	_	20	punct	_
+14	serious	serious	JJ	_	17	amod	_
+15	work	work	NN	_	16	nn	_
+16	by senior	by senior	NN	p2=IN	17	nn	_
+17	officials	official	NNS	_	19	poss	_
+18	and business	and business	POS	p2=IN	17	possessive	_
+19	leaders	leader	NNS	_	20	nsubj	20:A0
+20	to formulate	to formulate	VBP	p2=NNP|pb=to formulate.01	0	root	_
+21	one	#crd#	CD	p2=PRP	23	nsubj	23:A0=PAG
+22	has	have	VBZ	_	23	aux	_
+23	begun	begin	VBN	pb=begin.01	20	ccomp	20:A1
+24	in many	in many	JJ	p2=RB	26	amod	_
+25	advanced	advanced	JJ	_	26	amod	_
+26	countries	country	NNS	_	23	dobj	23:A1=PPT
+27	.	.	.	_	20	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	because	because	IN	_	32	mark	_
+4	,	,	,	_	32	punct	_
+5	unlike	unlike	IN	_	32	prep	32:AM-ADV
+6	news	news	NN	_	7	nn	_
+7	cycles	cycle	NNS	_	5	pobj	21:A0;11:A1
+8	,	,	,	_	7	punct	_
+9	which	which	WDT	_	11	nsubjpass	11:R-A1
+10	are	be	VBP	_	11	auxpass	_
+11	measured	measure	VBN	pb=measure.01	7	rcmod	_
+12	in days	in days	NNS	p2=NNPS	11	oprd	11:A2=MNR
+13	or	or	CC	_	12	cc	_
+14	weeks	week	NNS	_	12	conj	_
+15	,	,	,	_	12	punct	_
+16	or	or	CC	_	12	cc	_
+17	electoral	electoral	JJ	_	18	amod	_
+18	politics	politics	NNS	_	12	conj	_
+19	,	,	,	_	7	punct	_
+20	which	which	WDT	_	21	nsubj	21:R-A0
+21	plays	play	VBZ	pb=play.03	7	rcmod	_
+22	out	out	RP	_	21	prt	21:C-V
+23	over	over	IN	_	21	prep	21:AM-TMP
+24	months	month	NNS	_	23	pobj	_
+25	and years	and years	NNS	p2=POS	21	dobj	21:A1=PPT
+26	,	,	,	_	32	punct	_
+27	extractive	extractive	JJ	p2=NN	28	amod	_
+28	industries	industry	NNS	_	31	poss	_
+29	'	'	POS	_	28	possessive	_
+30	investment	investment	NN	_	31	nn	_
+31	timelines	timeline	NNS	_	32	nsubj	32:A1=PPT
+32	are	be	VBP	pb=be.01	2	advcl	2:A2=PRD
+33	typically	typically	RB	_	32	advmod	32:AM-ADV
+34	20	0	CD	_	35	number	_
+35	to 25	to 0	CD	p2=NN	36	num	_
+36	years	year	NNS	_	32	attr	32:A2=PRD
+37	.	.	.	_	2	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A0=PAG
+2	means	mean	VBZ	p2=NN|pb=mean.01	0	root	_
+3	,	,	,	_	2	punct	_
+4	for example	for example	NNP	p2=UH	2	npadvmod	2:AM-DIS
+5	,	,	,	_	2	punct	_
+6	that	that	IN	p2=WDT	10	complm	_
+7	one	#crd#	CD	p2=PRP	10	nsubj	10:A0
+8	only	only	RB	_	10	advmod	10:AM-ADV
+9	has	have	VBZ	_	10	aux	_
+10	to posit	to posit	VBN	p2=CD|pb=to posit.01	2	ccomp	2:A1=PPT
+11	significant	significant	JJ	_	13	amod	_
+12	carbon	carbon	NN	_	13	nn	_
+13	taxes	tax	NNS	_	10	dobj	10:A1
+14	in 2020 	in 0 	CD	p2=,	16	hmod	_
+15	-	-	HYPH	p2=,	16	hyph	_
+16	two	#crd#	CD	_	18	num	_
+17	government	government	NN	_	18	nn	_
+18	transitions	transition	NNS	_	19	npadvmod	_
+19	away	away	RB	p2=RP	10	advmod	_
+20	from now	from now	IN	p2=VBP	30	mark	_
+21	in most	in most	JJ	p2=NNP	29	amod	_
+22	The Organization	the organization	NNP	p2=NN	29	nn	_
+23	for Economic	for economic	NNP	p2=POS	29	nn	_
+24	Cooperation	cooperation	NNP	_	28	nn	_
+25	and Development	and development	NNP	_	28	nn	_
+26	countries 	countries 	NNP	p2=,	28	hmod	_
+27	-	-	HYPH	p2=:	28	hyph	_
+28	for such	for such	NNP	p2=JJ	29	nn	_
+29	taxes	tax	NNS	p2=VBZ	30	nsubj	30:A0
+30	to affect	to affect	VBP	p2=,|pb=to affect.01	10	advcl	_
+31	returns	return	NNS	_	30	dobj	30:A1
+32	over	over	IN	p2=RB	31	prep	_
+33	most	most	JJS	p2=RBS	38	amod	_
+34	of the	of the	JJ	p2=DT	35	amod	_
+35	lifetime	lifetime	NN	_	38	nn	_
+36	of an	of an	JJ	p2=IN	38	amod	_
+37	investment	investment	NN	_	38	nn	_
+38	decision	decision	NN	_	32	pobj	39:AM-PRR
+39	made	make	VBN	p2=VBD|pb=make.01	38	partmod	_
+40	now	now	RB	_	39	advmod	39:AM-TMP
+41	.	.	.	_	2	punct	_
+
+1	How	how	WRB	_	5	advmod	5:R-AM-MNR
+2	to model	to model	NNP	p2=NN	4	nn	_
+3	such	such	JJ	p2=PDT	4	amod	_
+4	eventualities	eventuality	NNS	p2=NN	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	0	root	_
+6	a simple	a simple	JJ	p2=IN	8	amod	_
+7	risk	risk	NN	_	8	nn	_
+8	management	management	NN	_	9	nn	_
+9	question	question	NN	_	5	attr	5:A2=PRD
+10	.	.	.	_	5	punct	_
+
+1	Most	most	JJS	p2=RBS	6	amod	_
+2	fossil	fossil	NN	p2=JJ	6	nn	_
+3	fuel	fuel	NN	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	producing	produce	VBG	_	6	amod	_
+6	countries	country	NNS	_	7	nsubj	7:A1=PPT
+7	are	be	VBP	pb=be.01	0	root	_
+8	far	far	RB	_	9	advmod	_
+9	from the	from the	JJ	p2=IN	14	amod	_
+10	locus	locus	NN	p2=NNS	14	nn	_
+11	of climate	of climate	JJ	p2=VBP	12	amod	_
+12	change	change	NN	_	14	nn	_
+13	policy	policy	NN	_	14	nn	_
+14	development	development	NN	_	7	attr	7:A2=PRD
+15	,	,	,	_	7	punct	_
+16	despite	despite	IN	_	7	prep	7:AM-ADV
+17	the impact	the impact	JJS	p2=NN	16	pobj	_
+18	that	that	IN	p2=DT	21	complm	_
+19	it	it	PRP	_	21	nsubj	21:A0=PAG
+20	will	will	MD	_	21	aux	21:AM-MOD
+21	have	have	VB	pb=have.03	17	ccomp	_
+22	on their	on their	PRP$	p2=JJ	24	poss	_
+23	economic	economic	JJ	_	24	amod	_
+24	prospects	prospect	NNS	_	21	dobj	21:A1=PPT
+25	.	.	.	_	7	punct	_
+
+1	In fact	in fact	NNP	p2=NN	11	npadvmod	11:AM-DIS
+2	,	,	,	_	1	punct	_
+3	in the	in the	NNP	p2=VB	5	nn	_
+4	Middle	middle	NNP	_	5	nn	_
+5	East	east	NNP	_	1	conj	_
+6	,	,	,	_	5	punct	_
+7	Africa	africa	NNP	_	8	nn	_
+8	and Asia	and asia	NNP	_	5	conj	_
+9	,	,	,	_	11	punct	_
+10	there	there	EX	_	11	expl	_
+11	is	be	VBZ	pb=be.02	0	root	_
+12	no	no	DT	_	14	det	_
+13	public	public	JJ	_	14	amod	_
+14	debate	debate	NN	_	11	attr	11:A1=PPT
+15	on the	on the	DT	p2=IN	17	det	_
+16	specific	specific	JJ	_	17	amod	_
+17	impact	impact	NN	_	11	attr	_
+18	that	that	IN	p2=WDT	22	complm	_
+19	climate	climate	NN	_	20	nn	_
+20	policies	policy	NNS	_	22	nsubj	22:A0=PAG
+21	could	could	MD	_	22	aux	22:AM-MOD
+22	have	have	VB	pb=have.03	17	rcmod	_
+23	on fossil	on fossil	JJ	p2=NN	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	fuel	fuel	NN	_	26	nn	_
+26	production	production	NN	_	22	dobj	22:A1=PPT
+27	.	.	.	_	11	punct	_
+
+1	Instead	instead	RB	_	4	advmod	4:AM-DIS
+2	,	,	,	_	4	punct	_
+3	discussions	discussion	NNS	_	4	nsubj	4:A0=PPT
+4	focused	focus	VBD	p2=VBN|pb=focus.01	0	root	_
+5	on the	on the	JJ	p2=IN	9	amod	_
+6	consumer	consumer	NN	_	9	nn	_
+7	side 	side 	NNP	p2=NN	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	for example	for example	NNP	_	4	dobj	4:A1=PPT
+10	,	,	,	_	9	punct	_
+11	carbon	carbon	NN	_	12	nn	_
+12	pricing	pricing	NN	_	15	poss	_
+13	's	's	POS	p2=VBZ	12	possessive	_
+14	potential	potential	JJ	_	15	amod	_
+15	consequences	consequence	NNS	_	9	conj	_
+16	for economic	for economic	JJ	p2=POS	17	amod	_
+17	growth	growth	NN	_	19	nn	_
+18	in India	in india	NNP	p2=IN	19	nn	_
+19	and China	and china	NNP	_	15	appos	_
+20	.	.	.	_	4	punct	_
+
+1	As	as	IN	_	6	prep	6:AM-ADV
+2	a result	a result	NN	p2=NNP	1	pobj	_
+3	,	,	,	_	6	punct	_
+4	these	these	DT	_	5	det	_
+5	countries	country	NNS	_	6	nsubj	6:A1=PPT
+6	remain	remain	VBP	pb=remain.01	0	root	_
+7	woefully	woefully	RB	p2=JJ	8	advmod	_
+8	unprepared	unprepared	JJ	_	6	acomp	6:A3=PRD
+9	for what	for what	WP	p2=NN	11	nsubj	11:R-A1
+10	is	be	VBZ	_	11	aux	_
+11	coming	come	VBG	pb=come.01	8	ccomp	_
+12	.	.	.	_	6	punct	_
+
+1	As	as	IN	_	3	mark	_
+2	it	it	PRP	_	3	nsubj	3:A1=PPT
+3	stands	stand	VBZ	pb=stand.04	9	advcl	9:AM-ADV
+4	,	,	,	_	9	punct	_
+5	most	most	JJS	_	7	amod	_
+6	oil	oil	NN	_	7	nn	_
+7	contracts	contract	NNS	_	9	nsubjpass	9:A1=PPT
+8	are	be	VBP	_	9	auxpass	_
+9	structured	structure	VBN	pb=structure.01	0	root	_
+10	so	so	IN	p2=RB	13	mark	_
+11	that	that	IN	p2=DT	13	mark	_
+12	the investor	the investor	NNP	p2=NN	13	nsubj	13:A0=PAG
+13	recovers	recover	VBZ	p2=NNS|pb=recover.02	9	advcl	9:A2=PRD
+14	costs	cost	NNS	p2=VBZ	13	dobj	13:A1=PPT
+15	first	#ord#	RB	p2=JJ	13	advmod	13:AM-TMP
+16	,	,	,	_	13	punct	_
+17	with	with	IN	_	13	prep	13:AM-MNR
+18	the remaining	the remaining	VBG	p2=CD|pb=the remaining.01	17	pcomp	_
+19	profits	profit	NNS	_	18	dobj	18:A1;21:A1=PPT
+20	then	then	RB	_	21	advmod	21:AM-TMP
+21	divided	divide	VBN	p2=VBD|pb=divide.02	19	partmod	_
+22	between	between	IN	_	21	prep	21:A2=GOL
+23	the producer	the producer	PRP$	p2=NNP	25	poss	_
+24	and the	and the	DT	p2=JJ	25	det	_
+25	government	government	NN	_	22	pobj	27:A0=PAG
+26	that	that	WDT	p2=IN	27	nsubj	27:R-A0
+27	granted	grant	VBD	p2=VBN|pb=grant.01	25	rcmod	_
+28	it	it	PRP	_	27	iobj	27:A2
+29	the concession	the concession	NN	p2=NNP	27	dobj	27:A1
+30	.	.	.	_	9	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A0=PAG
+2	means	mean	VBZ	pb=mean.01	0	root	_
+3	that	that	IN	_	20	complm	_
+4	,	,	,	_	20	punct	_
+5	if	if	IN	_	8	mark	_
+6	carbon	carbon	NN	_	7	nn	_
+7	pricing	pricing	NN	_	8	nsubj	8:A0
+8	reduces	reduce	VBZ	pb=reduce.01	20	advcl	20:AM-ADV
+9	oil	oil	NN	_	11	poss	_
+10	's	's	POS	_	9	possessive	_
+11	profitability	profitability	NN	_	8	dobj	8:A1=PPT
+12	,	,	,	_	8	punct	_
+13	as	as	IN	p2=RB	14	mark	_
+14	intended	intend	VBN	pb=intend.01	8	advcl	_
+15	,	,	,	_	20	punct	_
+16	the loss	the loss	NNP	p2=POS	18	nn	_
+17	in government	in government	NN	p2=JJ	18	nn	_
+18	revenue	revenue	NN	_	20	nsubj	20:A1=PPT
+19	could	could	MD	_	20	aux	20:AM-MOD
+20	be	be	VB	pb=be.01	2	ccomp	2:A1=PPT
+21	larger	large	JJR	_	20	acomp	20:A2=PRD
+22	than	than	IN	_	21	prep	_
+23	the drop	the drop	NNP	p2=PRP$	25	poss	_
+24	in overall	in overall	POS	p2=NNP	23	possessive	_
+25	profits	profit	NNS	_	22	pobj	_
+26	.	.	.	_	2	punct	_
+
+1	Making	make	VBG	p2=NN|pb=make.01	10	advcl	10:AM-ADV
+2	matters	matter	NNS	p2=VBZ	3	nsubj	_
+3	worse	bad	RBR	p2=JJR	1	ccomp	1:A1=PRD
+4	,	,	,	_	10	punct	_
+5	the details	the details	NNS	p2=PRP$	7	nn	_
+6	of these	of these	JJ	p2=POS	7	amod	_
+7	agreements	agreement	NNS	_	10	nsubjpass	10:A1=PPT
+8	are	be	VBP	_	10	auxpass	_
+9	largely	largely	RB	_	10	advmod	10:AM-ADV
+10	hidden	hide	VBN	p2=JJ|pb=hide.01	0	root	_
+11	,	,	,	_	10	punct	_
+12	thereby	thereby	RB	_	13	advmod	13:AM-DIS
+13	preventing	prevent	VBG	pb=prevent.01	10	advcl	10:AM-ADV
+14	citizens	citizen	NNS	_	13	dobj	15:A0;13:A1=PPT
+15	from holding	from holding	VBG	p2=IN|pb=from holding.01	14	partmod	_
+16	their	their	PRP$	_	17	poss	_
+17	governments	government	NNS	_	18	nsubj	_
+18	accountable	accountable	JJ	_	15	ccomp	15:A1
+19	,	,	,	_	10	punct	_
+20	which	which	WDT	_	21	det	_
+21	in turn	in turn	NN	p2=VBP	22	nsubj	22:A0=PAG
+22	undermines	undermine	VBZ	pb=undermine.01	10	conj	_
+23	democracy	democracy	NN	_	24	nn	_
+24	and facilitates	and facilitates	NNS	p2=XX	25	nn	_
+25	corruption	corruption	NN	_	22	dobj	22:A1=PPT
+26	.	.	.	_	22	punct	_
+
+1	To remedy	to remedy	NNP	p2=JJ	2	nn	_
+2	the situation	the situation	NNP	p2=NN	9	nsubj	9:A1=PPT
+3	,	,	,	_	2	punct	_
+4	ongoing	ongoing	JJ	_	5	amod	_
+5	efforts	effort	NNS	_	2	appos	_
+6	to increase	to increase	IN	p2=VBP	5	prep	_
+7	transparency	transparency	NN	_	6	pobj	_
+8	should	should	MD	_	9	aux	9:AM-MOD
+9	go	go	VB	pb=go.01	0	root	_
+10	beyond	beyond	IN	_	9	prep	9:A4=GOL
+11	revenue	revenue	NN	_	12	nn	_
+12	flows 	flows 	NN	p2=NNP	10	pobj	_
+13	-	-	,	p2=:	9	punct	_
+14	which	which	WDT	_	16	nsubjpass	16:R-A1
+15	are	be	VBP	_	16	auxpass	_
+16	set	set	VBN	pb=set.01	9	advcl	_
+17	to face	to face	``	p2=IN	21	punct	_
+18	new	new	JJ	_	20	amod	_
+19	transparency	transparency	NN	_	20	nn	_
+20	requirements	requirement	NNS	_	21	nsubj	21:A0
+21	in the	in the	VBP	p2=POS|pb=in the.01	9	advcl	_
+22	U.S.	u.s.	NNP	_	28	nn	_
+23	and the	and the	NNP	p2=VB	27	nn	_
+24	European	european	NNP	p2=JJ	27	nn	_
+25	Union 	union 	NNP	_	27	hmod	_
+26	-	-	HYPH	_	27	hyph	_
+27	to include	to include	NNP	_	28	nn	_
+28	contracts	contract	NNS	_	21	dobj	21:A1
+29	.	.	.	_	9	punct	_
+
+1	Once	once	IN	p2=RB	3	mark	_
+2	a contract	a contract	NNP	p2=DT	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	13	advcl	13:AM-TMP
+4	public	public	JJ	_	3	acomp	3:A2=PRD
+5	,	,	,	_	13	punct	_
+6	future	future	JJ	_	10	amod	_
+7	carbon	carbon	NN	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	pricing	pricing	NN	p2=VBG	10	nn	_
+10	scenarios	scenario	NNS	_	13	nsubjpass	13:A1=PRD
+11	can	can	MD	_	13	aux	13:AM-MOD
+12	be	be	VB	_	13	auxpass	_
+13	modeled	model	VBN	pb=model.01	0	root	_
+14	to demonstrate	to demonstrate	IN	p2=JJ	13	prep	13:A2=VSP
+15	that	that	IN	p2=DT	19	mark	_
+16	most	most	JJS	_	17	amod	_
+17	governments	government	NNS	_	19	nsubj	19:A0=PAG
+18	will	will	MD	_	19	aux	19:AM-MOD
+19	earn	earn	VB	pb=earn.01	14	pcomp	_
+20	less	less	JJR	_	19	dobj	19:A1=PPT
+21	than	than	IN	_	23	mark	_
+22	they	they	PRP	_	23	nsubj	23:A0
+23	expect	expect	VBP	pb=expect.01	20	advcl	_
+24	and	and	CC	_	19	cc	_
+25	,	,	,	_	19	punct	_
+26	more	more	RBR	_	27	advmod	_
+27	important	important	JJ	_	19	conj	_
+28	,	,	,	_	36	punct	_
+29	that	that	IN	p2=WDT	36	complm	_
+30	many	many	JJ	_	32	amod	_
+31	potential	potential	JJ	_	32	amod	_
+32	projects	project	NNS	_	36	nsubj	36:A1=PPT
+33	and new	and new	IN	p2=POS	32	prep	_
+34	discoveries	discovery	NNS	_	33	pobj	_
+35	could	could	MD	_	36	aux	36:AM-MOD
+36	become	become	VB	pb=become.01	19	conj	_
+37	stranded	stranded	JJ	p2=VBN	38	amod	_
+38	assets	asset	NNS	_	36	attr	36:A2=PRD
+39	.	.	.	_	13	punct	_
+
+1	Consider	consider	VB	pb=consider.01	0	root	_
+2	Afghanistan	afghanistan	NNP	_	7	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Amu	amu	NNP	_	5	nn	_
+5	Darya	darya	NNP	_	7	nn	_
+6	oil	oil	NN	_	7	nn	_
+7	fields	field	NNS	_	1	dobj	1:A1
+8	.	.	.	_	1	punct	_
+
+1	Following	follow	VBG	_	27	prep	27:AM-TMP
+2	many	many	JJ	_	3	amod	_
+3	years	year	NNS	_	1	pobj	_
+4	of commercial	of commercial	JJ	p2=POS	5	amod	_
+5	efforts	effort	NNS	_	27	dep	_
+6	to develop	to develop	NNP	p2=VBP	7	nn	_
+7	the country	the country	NNP	p2=NN	11	poss	_
+8	's	's	POS	_	7	possessive	_
+9	oil	oil	NN	_	10	nn	_
+10	and mining	and mining	VBG	p2=CC	11	nn	_
+11	assets	asset	NNS	_	27	dep	14:A1
+12	that	that	WDT	_	14	nsubjpass	14:R-A1
+13	were	be	VBD	_	14	auxpass	_
+14	valued	value	VBN	pb=value.01	11	rcmod	_
+15	at more	at more	RB	p2=IN	14	advmod	14:AM-MNR
+16	than	than	IN	_	15	prep	_
+17	$	$	$	_	19	quantmod	_
+18	1	0	CD	_	19	number	_
+19	trillion	#crd#	CD	_	23	nn	_
+20	by the	by the	NNP	p2=DT	23	nn	_
+21	U.S.	u.s.	NNP	_	23	nn	_
+22	Geological	geological	NNP	_	23	nn	_
+23	Survey	survey	NNP	_	16	pobj	_
+24	,	,	,	_	27	punct	_
+25	they	they	PRP	_	27	nsubjpass	27:A1=PPT
+26	were	be	VBD	_	27	auxpass	_
+27	auctioned	auction	VBN	pb=auction.01	0	root	_
+28	off	off	RP	p2=IN	27	prt	27:C-V
+29	to China	to china	NNP	_	32	nn	_
+30	National	national	NNP	_	32	nn	_
+31	Petroleum	petroleum	NNP	_	32	nn	_
+32	Corporation	corporation	NNP	_	33	nn	_
+33	at the	at the	NNP	p2=DT	35	nn	_
+34	end	end	NN	p2=VB	35	nn	_
+35	of 2011	of 0	NN	p2=CD	27	dobj	_
+36	.	.	.	_	27	punct	_
+
+1	Even	even	RB	_	2	advmod	_
+2	under	under	IN	_	12	prep	12:AM-LOC
+3	a modest	a modest	JJS	p2=JJ	7	amod	_
+4	carbon	carbon	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	pricing	pricing	NN	p2=VBG	7	nn	_
+7	scenario	scenario	NN	_	2	pobj	_
+8	,	,	,	_	12	punct	_
+9	Afghanistan	afghanistan	NNP	_	12	nsubjpass	12:A1=PPT
+10	could	could	MD	_	12	aux	12:AM-MOD
+11	be	be	VB	_	12	auxpass	_
+12	expected	expect	VBN	pb=expect.01	0	root	_
+13	to earn	to earn	NNP	p2=RP	16	quantmod	_
+14	$	$	$	_	16	quantmod	_
+15	570	0	CD	_	16	number	_
+16	million	#crd#	CD	_	12	dobj	12:C-A1
+17	over	over	IN	_	12	prep	12:AM-TMP
+18	the first	the first	RB	p2=JJS	19	quantmod	_
+19	10	0	CD	_	20	num	_
+20	years	year	NNS	_	17	pobj	_
+21	of the	of the	JJ	p2=PRP$	22	amod	_
+22	project	project	NN	_	12	dobj	_
+23	under	under	IN	_	22	prep	_
+24	existing	exist	VBG	pb=exist.01	26	amod	_
+25	production	production	NN	_	26	nn	_
+26	profiles	profile	NNS	_	23	pobj	24:A1=PAG
+27	.	.	.	_	12	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	amounts	amount	VBZ	p2=NNS|pb=amount.02	0	root	_
+3	to about	to about	IN	p2=RP	2	prep	2:A2=PRD
+4	$	$	$	_	6	quantmod	_
+5	500	0	CD	_	6	number	_
+6	million	#crd#	CD	_	7	npadvmod	_
+7	less	less	JJR	_	3	pobj	_
+8	than	than	IN	_	7	prep	_
+9	under	under	IN	_	8	prep	_
+10	a business	a business	NN	_	14	hmod	_
+11	-	-	HYPH	p2=:	14	hyph	_
+12	as	as	IN	p2=RB	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	usual	usual	JJ	_	21	amod	_
+15	scenario 	scenario 	NN	p2=''	17	hmod	_
+16	-	-	HYPH	p2=:	17	hyph	_
+17	and less	and less	JJ	p2=CC	21	amod	_
+18	than	than	IN	_	21	quantmod	_
+19	one	#crd#	CD	_	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	quarter	quarter	NN	_	9	pobj	_
+22	of the	of the	:	p2=CD	21	punct	_
+23	$	$	$	_	25	quantmod	_
+24	2.6	0	CD	_	25	number	_
+25	billion	#crd#	CD	_	26	nn	_
+26	in earnings	in earnings	NNS	_	3	pobj	32:A1=PPT
+27	that	that	WDT	p2=IN	32	dobj	32:R-A1
+28	some	some	DT	_	31	det	_
+29	Afghan	afghan	JJ	_	31	amod	_
+30	government	government	NN	_	31	nn	_
+31	officials	official	NNS	_	32	nsubj	32:A0=PAG
+32	projected	project	VBD	p2=VBN|pb=project.02	26	rcmod	_
+33	.	.	.	_	2	punct	_
+
+1	The decision	the decision	NN	p2=DT	2	nn	_
+2	to extract	to extract	NN	p2=IN	6	nn	_
+3	fossil	fossil	NN	p2=JJ	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	fuel	fuel	NN	_	6	nn	_
+6	resources	resource	NNS	_	8	nsubj	8:A1=PPT
+7	should	should	MD	_	8	aux	8:AM-MOD
+8	be	be	VB	pb=be.01	0	root	_
+9	a conscious	a conscious	JJ	p2=IN	10	amod	_
+10	one	#crd#	NN	p2=CD	8	attr	8:A2=PRD
+11	,	,	,	_	8	punct	_
+12	resulting	result	VBG	pb=result.01	8	advcl	8:AM-ADV
+13	from robust	from robust	IN	p2=JJ	12	prep	12:A1=PPT
+14	public	public	JJ	_	15	amod	_
+15	debate	debate	NN	_	13	pobj	_
+16	and broad	and broad	CC	p2=NN	15	cc	_
+17	consultations	consultation	NNS	_	15	conj	_
+18	with	with	IN	_	17	prep	_
+19	unbiased	unbiased	JJ	_	20	amod	_
+20	experts	expert	NNS	_	18	pobj	_
+21	.	.	.	_	8	punct	_
+
+1	But	but	CC	_	5	cc	5:AM-DIS
+2	such	such	JJ	_	3	amod	_
+3	discussions	discussion	NNS	_	5	nsubj	5:A1=PPT
+4	rarely	rarely	RB	_	5	advmod	5:AM-TMP
+5	take	take	VBP	p2=VB|pb=take.14	0	root	_
+6	place	place	NN	_	5	dobj	5:A2
+7	.	.	.	_	5	punct	_
+
+1	Nonetheless	nonetheless	RB	_	8	advmod	8:AM-DIS
+2	,	,	,	_	8	punct	_
+3	the 	the 	PRP$	p2=EX	6	poss	_
+4	"	"	``	_	6	punct	_
+5	decision	decision	NN	_	6	nn	_
+6	to extract	to extract	NN	_	8	nsubj	8:A1=PPT
+7	"	"	''	_	6	punct	_
+8	is	be	VBZ	pb=be.01	0	root	_
+9	present	present	JJ	_	8	acomp	8:A2=PRD
+10	either	either	CC	_	11	preconj	_
+11	explicitly	explicitly	RB	p2=JJ	17	advmod	17:AM-MNR
+12	or	or	CC	_	11	cc	_
+13	implicitly	implicitly	RB	_	11	conj	_
+14	in most	in most	RB	p2=JJ	15	advmod	_
+15	of the	of the	RB	p2=,	17	advmod	17:AM-MNR
+16	paradigms	paradigm	NNS	p2=VBZ	17	nsubj	17:A0=PAG
+17	used	use	VBD	p2=VBN|pb=use.01	8	ccomp	_
+18	for extractive	for extractive	JJ	p2=CD	20	hmod	_
+19	-	-	HYPH	_	20	hyph	_
+20	industry	industry	NN	_	21	nn	_
+21	governance	governance	NN	_	17	dobj	17:A1=PPT
+22	,	,	,	_	17	punct	_
+23	including	include	VBG	_	8	prep	_
+24	those	those	DT	_	27	det	_
+25	of the	of the	NNP	p2=IN	27	nn	_
+26	World	world	NNP	_	27	nn	_
+27	Bank	bank	NNP	_	23	pobj	32:AM-LOC
+28	,	,	,	_	27	punct	_
+29	Publish	publish	NNP	p2=VB	27	conj	_
+30	What	what	WP	_	32	dobj	32:R-A1
+31	You	you	PRP	_	32	nsubj	32:A0=PAG
+32	Pay	pay	VBP	p2=NNP|pb=pay.01	27	rcmod	_
+33	and Revenue	and revenue	NNP	p2=XX	34	nn	_
+34	Watch	watch	NNP	p2=VB	32	dobj	32:A2=GOL
+35	.	.	.	_	8	punct	_
+
+1	The Extractive	the extractive	NNP	p2=JJ	4	nn	_
+2	Industries	industry	NNPS	p2=NNP	4	nn	_
+3	Transparency	transparency	NNP	p2=NN	4	nn	_
+4	Initiative	initiative	NNP	_	7	nsubj	7:A0=PAG
+5	is	be	VBZ	_	7	aux	_
+6	also	also	RB	_	7	advmod	7:AM-DIS
+7	moving	move	VBG	pb=move.01	0	root	_
+8	closer	close	RBR	p2=JJR	7	advmod	7:AM-DIR
+9	to the	to the	DT	p2=JJ	10	det	_
+10	issue	issue	NN	_	7	dobj	7:A1=PPT
+11	.	.	.	_	7	punct	_
+
+1	While	while	IN	_	9	mark	_
+2	its	its	PRP$	_	5	poss	_
+3	recently	recently	RB	_	4	advmod	4:AM-TMP
+4	revised	revise	VBN	pb=revise.01	5	amod	_
+5	standard	standard	NN	p2=JJ	9	nsubj	9:A0=PAG;4:A1=PPT
+6	does	do	VBZ	_	9	aux	_
+7	not	not	RB	_	9	neg	9:AM-NEG
+8	specifically	specifically	RB	_	9	advmod	9:AM-MNR
+9	address	address	VB	p2=NN|pb=address.02	15	advcl	15:AM-ADV
+10	the decision	the decision	NNP	p2=NN	11	nn	_
+11	to extract	to extract	NNP	p2=NN	9	dobj	9:A1=PPT
+12	,	,	,	_	15	punct	_
+13	it	it	PRP	_	15	nsubj	15:A0=PAG
+14	does	do	VBZ	_	15	aux	_
+15	encourage	encourage	VB	pb=encourage.01	0	root	_
+16	more	more	RBR	p2=JJR	17	advmod	_
+17	substantial	substantial	JJ	_	19	amod	_
+18	policy	policy	NN	_	19	nn	_
+19	discussions	discussion	NNS	_	15	dobj	15:A1=PPT
+20	at all	at all	VBP	p2=POS|pb=at all.01	15	xcomp	15:A2=PRD
+21	stages	stage	NNS	_	20	dobj	20:A1
+22	of the	of the	IN	p2=VBP	20	prep	20:AM-MNR
+23	value	value	NN	_	24	nn	_
+24	chain	chain	NN	_	22	pobj	_
+25	.	.	.	_	15	punct	_
+
+1	Given	give	VBN	_	14	prep	14:AM-ADV
+2	how	how	WRB	_	6	advmod	6:R-AM-MNR
+3	civil	civil	JJ	_	4	amod	_
+4	society	society	NN	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	mobilized	mobilize	VBN	pb=mobilize.01	1	pcomp	_
+7	around	around	IN	_	6	prep	6:A1=PPT
+8	such	such	JJ	_	9	amod	_
+9	issues	issue	NNS	_	7	pobj	_
+10	,	,	,	_	14	punct	_
+11	the decision	the decision	NN	p2=NNP	12	nn	_
+12	to extract	to extract	NN	p2=''	14	nsubj	14:A1=PPT
+13	would	would	MD	_	14	aux	14:AM-MOD
+14	be	be	VB	pb=be.01	0	root	_
+15	a natural	a natural	JJ	p2=RB	14	acomp	14:A2=PRD
+16	starting	start	VBG	p2=NN|pb=start.01	14	advcl	14:AM-TMP
+17	point	point	NN	_	16	npadvmod	_
+18	for much	for much	RB	p2=NNP	20	hmod	_
+19	-	-	HYPH	p2=,	20	hyph	_
+20	needed	need	VBN	_	22	amod	_
+21	public	public	JJ	_	22	amod	_
+22	debate	debate	NN	_	16	dobj	16:A1=PPT
+23	.	.	.	_	14	punct	_
+
+1	Moreover	moreover	RB	_	5	advmod	5:AM-DIS
+2	,	,	,	_	5	punct	_
+3	it	it	PRP	_	5	nsubj	5:A0=PAG
+4	could	could	MD	_	5	aux	5:AM-MOD
+5	spur	spur	VB	pb=spur.01	0	root	_
+6	a more	a more	DT	p2=NNP	13	det	_
+7	realistic	realistic	JJ	_	13	amod	_
+8	cost	cost	NN	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	­benefit	­benefit	JJ	p2=NN	11	amod	_
+11	analysis	analysis	NN	_	13	nn	_
+12	of hydrocarbon	of hydrocarbon	NN	p2=IN	13	nn	_
+13	development	development	NN	_	5	dobj	5:A1=PPT
+14	.	.	.	_	5	punct	_
+
+1	In this	in this	DT	p2=PRP$	2	det	_
+2	sense	sense	NN	_	31	amod	_
+3	,	,	,	_	9	punct	_
+4	"	"	``	p2=''	6	punct	_
+5	unextractable	unextractable	JJ	_	6	amod	_
+6	carbon	carbon	NN	_	9	nsubj	9:A0=PAG
+7	"	"	''	_	6	punct	_
+8	can	can	MD	_	9	aux	9:AM-MOD
+9	form	form	VB	pb=form.01	0	root	_
+10	part	part	NN	_	9	dobj	9:A1=PPT
+11	of a	of a	IN	p2=RP	10	prep	_
+12	broader	broad	JJR	p2=CC	14	amod	_
+13	political	political	JJ	_	14	amod	_
+14	agenda	agenda	NN	_	11	pobj	15:A2=PPT
+15	linking	link	VBG	pb=link.01	14	partmod	_
+16	issues	issue	NNS	_	15	dobj	15:A1=PPT
+17	like	like	IN	_	16	prep	_
+18	governance	governance	NN	_	17	pobj	_
+19	,	,	,	_	18	punct	_
+20	community	community	NN	_	21	nn	_
+21	consent	consent	NN	_	22	nn	_
+22	and transparency	and transparency	NN	p2=NNP	18	conj	_
+23	to local	to local	IN	p2=JJ	22	prep	_
+24	environmental	environmental	JJ	_	25	amod	_
+25	issues	issue	NNS	_	23	pobj	_
+26	,	,	,	_	25	punct	_
+27	climate	climate	NN	p2=VB	28	nn	_
+28	change	change	NN	p2=VB	25	conj	_
+29	and a	and a	IN	p2=CC	28	prep	_
+30	sustainable	sustainable	JJ	_	31	amod	_
+31	future	future	NN	_	29	pobj	_
+32	.	.	.	_	9	punct	_
+
+1	That	that	DT	_	3	nsubj	3:A1=PPT
+2	would	would	MD	_	3	aux	3:AM-MOD
+3	be	be	VB	pb=be.01	0	root	_
+4	good	good	JJ	_	5	amod	_
+5	for everyone	for everyone	NN	p2=NNP	3	attr	3:A2=PRD
+6	.	.	.	_	3	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

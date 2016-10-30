@@ -1,0 +1,12 @@
+1	Copyright	copyright	NN	_	2	nsubj	2:A0
+2	©	©	VBD	p2=IN|pb=©.01	0	root	_
+3	2014	0	CD	_	5	num	_
+4	Getty	getty	NNP	p2=JJ	5	nn	_
+5	Images	images	NNP	p2=NNPS	2	dobj	2:A1
+6	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An Emmonak man,face.01,six assault charges,,Affirmative,"An Emmonak man faces six assault charges after fleeing Alaska State Troopers and violently resisting arrest Friday evening , according to trooper dispatch . "
+An Emmonak man,flee.01,Alaska State Troopers,,Affirmative,"An Emmonak man faces six assault charges after fleeing Alaska State Troopers and violently resisting arrest Friday evening , according to trooper dispatch . "
+Alaska State Troopers,respond.01,to,,Affirmative,"When troopers responded to 23 - year - old Justin Oktoyak 's home around 7:15 p.m. after a reported ax assault , AST said Oktoyak barricaded himself inside the residence then ran from troopers . "
+Alaska State Troopers,say.01,Oktoyak barricaded himself inside,,Affirmative,"When troopers responded to 23 - year - old Justin Oktoyak 's home around 7:15 p.m. after a reported ax assault , AST said Oktoyak barricaded himself inside the residence then ran from troopers . "
+"Oktoyak , according to AST",barricade.01,"Oktoyak , according to AST",,Affirmative,"When troopers responded to 23 - year - old Justin Oktoyak 's home around 7:15 p.m. after a reported ax assault , AST said Oktoyak barricaded himself inside the residence then ran from troopers . "
+a trooper,catch.01,"Oktoyak , according to AST",,Affirmative,"When a trooper caught Oktoyak , according to AST dispatch , he struggled . "
+Both he and,receive.01,minor injuries,,Affirmative,Both he and the trooper received minor injuries . 
+An investigation,reveal.01,Oktoyak had damaged,,Affirmative,"An investigation revealed Oktoyak had damaged the family 's vehicle before the alleged attack with an ax , and was also wanted on an outstanding warrant from Anchorage . "
+"Oktoyak , according to AST",damage.01,vehicle,,Affirmative,"An investigation revealed Oktoyak had damaged the family 's vehicle before the alleged attack with an ax , and was also wanted on an outstanding warrant from Anchorage . "
+Court records,show.01,Oktoyak was convicted of,,Affirmative,"Court records show Oktoyak was convicted of a 2010 Anchorage drug charge , and a warrant was issued for his arrest after he failed to appear for a remand hearing at a local halfway house in March . "
+Alaska State Troopers,say.01,Oktoyak was arraigned on,,Affirmative,"After his arrest in Emmonak Friday , troopers said Oktoyak was arraigned on six counts of third - degree assault and single counts of third - degree criminal mischief and resisting arrest . "

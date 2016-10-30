@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Some voters like,question.01,relationship with,,Affirmative,"Some voters like Kirt McKinlay , who once sat on the board of directors for Bingham Memorial Hospital , are questioning West 's relationship with hospital board member Wayne Brower . "
+Kirt McKinlay,think.01,needs,,Affirmative,"I think whoever represents that situation needs to not have ties or influence that could bias them , said McKinlay . "
+whoever represents,need.01,to not have ties or influence,,Affirmative,"I think whoever represents that situation needs to not have ties or influence that could bias them , said McKinlay . "
+whoever represents,have.03,ties or influence,,Affirmative,"I think whoever represents that situation needs to not have ties or influence that could bias them , said McKinlay . "
+ties or influence,bias.01,"Some voters like Kirt McKinlay , who once sat on the board of directors for Bingham Memorial Hospital",,Affirmative,"I think whoever represents that situation needs to not have ties or influence that could bias them , said McKinlay . "
+Kirt McKinlay,say.01,I think,,Affirmative,"I think whoever represents that situation needs to not have ties or influence that could bias them , said McKinlay . "
+Incumbent Whitney Manwaring,have.03,a comment on,,Affirmative,"Manwaring did n't have a comment on West 's relationship with the hospital , but did say his experience is what makes him different than his opponent . "
+Incumbent Whitney Manwaring,say.01,experience is,,Affirmative,"Manwaring did n't have a comment on West 's relationship with the hospital , but did say his experience is what makes him different than his opponent . "
+Incumbent Whitney Manwaring,say.01,contracts involved,,Affirmative,Manwaring said those contracts involved the county hauling municipal waste and companies who were paid to pick up tires . 
+the county hauling,haul.01,municipal waste and companies,,Affirmative,Manwaring said those contracts involved the county hauling municipal waste and companies who were paid to pick up tires . 
+companies,pick.04,tires,,Affirmative,Manwaring said those contracts involved the county hauling municipal waste and companies who were paid to pick up tires . 
+Ralph West on Tuesday,say.01,skills make,,Affirmative,"Meanwhile , West said his management skills make him different than Manwaring . "
+his management skills,make.02,him different than Manwaring,,Affirmative,"Meanwhile , West said his management skills make him different than Manwaring . "
+Incumbent Whitney Manwaring,say.01,he wants,,Affirmative,Manwaring said he wants to work on creating better roads for the county . 
+Incumbent Whitney Manwaring,want.01,to work on creating,,Affirmative,Manwaring said he wants to work on creating better roads for the county . 
+Incumbent Whitney Manwaring,work.01,on creating,,Affirmative,Manwaring said he wants to work on creating better roads for the county . 
+Incumbent Whitney Manwaring,create.01,better roads for,,Affirmative,Manwaring said he wants to work on creating better roads for the county . 
+Ralph West on Tuesday,say.01,he wants,,Affirmative,West said he wants to make sure he is available for people in the county office . 
+Ralph West on Tuesday,want.01,to make sure,,Affirmative,West said he wants to make sure he is available for people in the county office . 
+Ralph West on Tuesday,make.02,sure,,Affirmative,West said he wants to make sure he is available for people in the county office . 
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

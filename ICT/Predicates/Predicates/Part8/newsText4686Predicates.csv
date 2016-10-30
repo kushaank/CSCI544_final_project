@@ -1,0 +1,70 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the US general,lead.02,Day landings,,Affirmative,Playing fields at an Enniskillen school have been renamed in honour of the US general who led the D - Day landings during World War 2 . 
+"Eisenhower , the Supreme Commander of the Allied Forces in Europe during WW2",inspect.01,"2,000 soldiers",,Affirmative,"He inspected 2,000 soldiers who were in Fermanagh preparing for the invasion of Normandy . "
+US consul for,attend.01,ceremonies,,Affirmative,"On Monday , US consul for Northern Ireland , Gregory Burton , attended ceremonies at two schools where Eisenhower inspected troops . "
+"Eisenhower , the Supreme Commander of the Allied Forces in Europe during WW2",inspect.01,troops,,Affirmative,"On Monday , US consul for Northern Ireland , Gregory Burton , attended ceremonies at two schools where Eisenhower inspected troops . "
+Gregory Burton,help.01,children plant,,Affirmative,On Monday the US Consul helped children plant an oak tree and unveil a commemorative plinth . 
+the children,plant.01,an oak tree,,Affirmative,On Monday the US Consul helped children plant an oak tree and unveil a commemorative plinth . 
+the children,unveil.01,a commemorative plinth,,Affirmative,On Monday the US Consul helped children plant an oak tree and unveil a commemorative plinth . 
+a ceremony commemorating,commemorate.01,air crash near,,Affirmative,"Roger Edmondson , whose father was a GI in the 28th regiment based in Fermanagh , was present at a ceremony commemorating a US military air crash near St Angelo airfield . "
+his father 's,say.01,% were either killed or wounded,,Affirmative,"He said of the 2,000 soldiers inspected at Portora , 65 % were either killed or wounded . "
+father,meet.02,his mother,,Affirmative,Roger 's father met his mother in Enniskillen but they divorced after the war . 
+Roger Edmondson,bring.01,Roger Edmondson,,Affirmative,It was 39 years before Roger made contact with him and brought him back to see Enniskillen . 
+Roger Edmondson,see.01,Enniskillen,,Affirmative,It was 39 years before Roger made contact with him and brought him back to see Enniskillen . 
+Roger Edmondson,want.01,to see,,Affirmative,"He wanted to see Castlecoole Lake , which the soldiers were put in to see if they could swim , and various pubs in the town , he said . "
+Roger Edmondson,see.01,Castlecoole Lake,,Affirmative,"He wanted to see Castlecoole Lake , which the soldiers were put in to see if they could swim , and various pubs in the town , he said . "
+"the 2,000 soldiers inspected at Portora",see.01,if they could swim,,Affirmative,"He wanted to see Castlecoole Lake , which the soldiers were put in to see if they could swim , and various pubs in the town , he said . "
+"the 2,000 soldiers inspected at Portora",swim.01,various pubs in,,Affirmative,"He wanted to see Castlecoole Lake , which the soldiers were put in to see if they could swim , and various pubs in the town , he said . "
+Roger 's father,say.01,He wanted,,Affirmative,"He wanted to see Castlecoole Lake , which the soldiers were put in to see if they could swim , and various pubs in the town , he said . "
+those watching,watch.01,the commemorative events,,Affirmative,"Earlier , former RAF pilot Bill Eames was among those watching the commemorative events . "
+former RAF pilot Bill Eames,tow.01,a glider full of paratroopers,to targets in Normandy,Affirmative,He towed a glider full of paratroopers to targets in Normandy just ahead of the D Day landings . 
+former RAF pilot Bill Eames,say.01,he was back in bed,,Affirmative,He said he was back in bed by the time the landings took place . 
+former RAF pilot Bill Eames,say.01,", there was",,Affirmative,"It had to be a success , no doubt about that , there was no going back , he said . "
+former RAF pilot Bill Eames,say.01,thoughts are,,Affirmative,"Asked how he felt on a day like this , he said : My thoughts are that I 'm very glad to be alive here at Portora , here in Enniskillen . "
+former RAF pilot Bill Eames,say.01,would be like,,Affirmative,He said the anniversary of D Day would be like any other day . 
+former RAF pilot Bill Eames,enjoy.01,life,,Affirmative,"I just enjoy life as it comes and am very glad to have been a part of it ( D Day ) , he said . "
+former RAF pilot Bill Eames,say.01,I just enjoy life,,Affirmative,"I just enjoy life as it comes and am very glad to have been a part of it ( D Day ) , he said . "
+by men in,join.01,Gregory Burton,,Affirmative,The US consul was joined by men in American army uniforms from a historical re-enactment group . 
+"Rachel Coulson ,",say.01,event brought history to life,,Affirmative,"Rachel Coulson , acting principal of the Model School , said the event brought history to life for the children . "
+the event,bring.01,history,to life,Affirmative,"Rachel Coulson , acting principal of the Model School , said the event brought history to life for the children . "
+the children,know.01,a bit about it,,Affirmative,"The consul visited last year for another commemoration , so they do know a bit about it , she said . "
+Rachel Coulson,say.01,consul visited,,Affirmative,"The consul visited last year for another commemoration , so they do know a bit about it , she said . "
+The P4 pupils,do.02,World War 2,,Affirmative,The P4 pupils are doing World War 2 as their project so they were super excited . 
+his parents,take.01,Mr Dixon,back to,Affirmative,"Mr Dixon was born in the US , but his parents took him back to Northern Ireland when he was young and he joined the US Army in Belfast . "
+Mr Dixon,join.01,the US Army 's 42,,Affirmative,"Mr Dixon was born in the US , but his parents took him back to Northern Ireland when he was young and he joined the US Army in Belfast . "
+Mr Dixon,help.01,retrieve,,Affirmative,"He also helped retrieve priceless art looted by the Nazi 's , echoing the plot of recently released Hollywood film Monuments Men . "
+Mr Dixon,retrieve.01,priceless art looted by,,Affirmative,"He also helped retrieve priceless art looted by the Nazi 's , echoing the plot of recently released Hollywood film Monuments Men . "
+by,loot.01,priceless art looted by,,Affirmative,"He also helped retrieve priceless art looted by the Nazi 's , echoing the plot of recently released Hollywood film Monuments Men . "
+the Nazi 's,echo.01,the plot of,,Affirmative,"He also helped retrieve priceless art looted by the Nazi 's , echoing the plot of recently released Hollywood film Monuments Men . "
+Mr Dixon,say.01,seeing,,Affirmative,He said seeing the military uniforms 70 years later brings back a lot of memories . 
+Mr Dixon,see.01,the military uniforms,,Affirmative,He said seeing the military uniforms 70 years later brings back a lot of memories . 
+Gregory Burton,attend.01,an event,,Affirmative,"The US Consul also attended an event for 130 schoolchildren outlining what it was like to live in Fermanagh during WW2 , the background to US forces stationed in Fermanagh and the significance of General Eisenhower 's visit . "
+130 schoolchildren outlining,outline.01,it was like,,Affirmative,"The US Consul also attended an event for 130 schoolchildren outlining what it was like to live in Fermanagh during WW2 , the background to US forces stationed in Fermanagh and the significance of General Eisenhower 's visit . "
+Gregory Burton,attend.01,the official renaming ceremony of playing fields at,,Affirmative,The consul then attended the official renaming ceremony of playing fields at Portora Royal School . 
+Mr Burton,lead.01,the official renaming ceremony of playing fields at Portora Royal School,,Affirmative,"Leading the ceremony , Mr Burton said it was incredibly crucial to remember such events . "
+Mr Burton,say.01,it was,,Affirmative,"Leading the ceremony , Mr Burton said it was incredibly crucial to remember such events . "
+it,remember.01,such events,,Affirmative,"Leading the ceremony , Mr Burton said it was incredibly crucial to remember such events . "
+Mr Burton,say.01,I 'm,,Affirmative,"I 'm very honoured to be here with local dignitaries , but most importantly with two veterans of WW2 , Bill Eames and Teddy Dixon , he said . "
+"Neill Morton ,",say.01,to meet Eisenhower,,Affirmative,"Neill Morton , Portora school principal , said that 70 years ago the then headmaster had been refused entry to the playing fields to meet Eisenhower . "
+refused entry to,meet.02,"Eisenhower , the Supreme Commander of the Allied Forces in Europe during WW2",,Affirmative,"Neill Morton , Portora school principal , said that 70 years ago the then headmaster had been refused entry to the playing fields to meet Eisenhower . "
+Neill Morton,joke.01,that he hoped,,Affirmative,He joked that he hoped his hospitality and largesse in allowing the consul access would be appreciated . 
+Neill Morton,hope.01,his hospitality and largesse in allowing,,Affirmative,He joked that he hoped his hospitality and largesse in allowing the consul access would be appreciated . 
+The pilot 's,try.01,to reach,,Affirmative,"The pilot had been trying to reach St Angelo airfield , which was built by the US military . "
+The pilot 's,reach.01,"Angelo airfield ,",,Affirmative,"The pilot had been trying to reach St Angelo airfield , which was built by the US military . "
+by,build.01,"Angelo airfield ,",,Affirmative,"The pilot had been trying to reach St Angelo airfield , which was built by the US military . "
+The pilot 's,see.01,Mr Burton,,Affirmative,"The pilot 's last words on the radio were : I can see you , I do n't think I can make it . "
+The pilot 's,think.01,I can make it,,Affirmative,"The pilot 's last words on the radio were : I can see you , I do n't think I can make it . "
+The pilot 's,make.01,the radio,,Affirmative,"The pilot 's last words on the radio were : I can see you , I do n't think I can make it . "
+Robin Houston,attend.01,the official renaming ceremony of playing fields at Portora Royal School,,Affirmative,Robin Houston attended the ceremony . 
+The pilot 's,remember.01,that tragic day,,Affirmative,His farm was close to the crash scene and he remembers that tragic day . 
+The pilot 's,remember.01,weakened,,Affirmative,I remember the noise of the engine weakened . 
+The pilot 's,say.01,It was n't normal,,Affirmative,"It was n't normal , he said . "
+The pilot 's,hear.01,a US military air crash near St Angelo airfield,,Affirmative,I heard the crash . 
+his mother,say.01,there 's been,,Affirmative,She arrived home and said there 's been an air crash and there must be a lot killed or injured because she 'd never seen the like of the number of ambulances . 
+his mother,see.01,the like of,,Affirmative,She arrived home and said there 's been an air crash and there must be a lot killed or injured because she 'd never seen the like of the number of ambulances . 
+the Passionist monks,pull.01,seven crew members,from,Affirmative,"While seven crew members died , five were saved mainly due to the actions of the Passionist monks who pulled them from the wreckage . "
+Passionist,say.01,it was important,,Affirmative,"He said it was important not just to remember those killed in the crash , but also all the other soldiers who died in the war . "
+Fr D'Arcy,say.01,this was,,Affirmative,Fr D'Arcy said this was to remember that without the American contribution to the war there would be no EU . 
+"Eisenhower , the Supreme Commander of the Allied Forces in Europe during WW2",lead.02,the massive invasion of,,Affirmative,"Eisenhower led the massive invasion of Nazi - occupied Europe that began on D - Day , 6 June 1944 . "
+troops,take.01,part,,Affirmative,"More than 80,000 British and Canadian troops took part in the invasion and about 3,000 Allied troops lost their lives . "
+"3,000 Allied troops",lose.02,their lives,,Affirmative,"More than 80,000 British and Canadian troops took part in the invasion and about 3,000 Allied troops lost their lives . "

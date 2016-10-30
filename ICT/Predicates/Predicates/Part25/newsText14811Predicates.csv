@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,warn.01,not to approach,the public,Affirmative,Police have warned the public not to approach the convicts . 
+Police,issue.01,a public warning,,Affirmative,Police have issued a public warning after two dangerous criminals failed to return to prison after being let out on day release . 
+Arnold Pickering and Thomas,moffett walked.01,"of HMP Kennet in Maghull , Liverpool ,",,Affirmative,"Arnold Pickering and Thomas Moffett walked out of HMP Kennet in Maghull , Liverpool , at around 9.30 am on Saturday morning ( May 18 ) . "
+"Pickering , 44 ,",serve.01,a life sentence,,Affirmative,"Pickering , 44 , is serving a life sentence after being convicted of a murder in Oldham , Greater Manchester , in 1990 . "
+Arnold Pickering,have.03,tattoos on,,Affirmative,He has tattoos on his arms and chest . 
+"Moffett , 51 ,",serve.01,an indeterminate sentence for,,Affirmative,"Moffett , 51 , is serving an indeterminate sentence for several robberies carried out in Blackburn , Lancashire , in 2006 . "
+"Moffett , 51",have.03,a scar on,,Affirmative,He has a scar on his right knee and tattoos of swastikas on his arms . 
+Officers,believe.01,men could be in,,Affirmative,Officers believe both men could be in the Southport area . 
+Police hunting for,hunt.01,for,,Affirmative,Police hunting for the escaped convicts have warned the public not to approach them . 
+Police hunting for,warn.01,not to approach them,the public,Affirmative,Police hunting for the escaped convicts have warned the public not to approach them . 
+Officers,appeal.02,to anyone with information,to call,Affirmative,"Officers are appealing to anyone with information to call Merseyside Police on either 0151 777 3803 or 0151 777 3891 , or via 101 . "
+Officers,call.02,Merseyside Police,,Affirmative,"Officers are appealing to anyone with information to call Merseyside Police on either 0151 777 3803 or 0151 777 3891 , or via 101 . "

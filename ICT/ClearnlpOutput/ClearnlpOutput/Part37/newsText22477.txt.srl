@@ -1,0 +1,25 @@
+1	On	on	IN	_	9	prep	9:AM-TMP
+2	CBS	cbs	NNP	_	1	pobj	_
+3	,	,	,	_	9	punct	_
+4	Chief	chief	NNP	_	8	nn	_
+5	of	of	IN	_	4	prep	_
+6	Staff	staff	NNP	_	5	pobj	_
+7	Denis	denis	NNP	_	8	nn	_
+8	McDonaugh	mcdonaugh	NNP	_	9	nsubj	9:A0=PAG
+9	insisted	insist	VBD	pb=insist.01	0	root	_
+10	the	the	DT	_	11	det	_
+11	president	president	NN	p2=NNP	13	nsubjpass	13:A1=PPT
+12	is	be	VBZ	_	13	auxpass	_
+13	riled	rile	VBN	pb=rile.01	9	ccomp	9:A1=PPT
+14	up	up	RP	_	13	prt	13:C-V
+15	about	about	IN	p2=RB	13	prep	13:AM-ADV
+16	severe	severe	JJ	_	17	amod	_
+17	backlog	backlog	NN	_	15	pobj	_
+18	and	and	CC	_	17	cc	_
+19	falsified	falsified	JJ	p2=VBD	20	amod	_
+20	documents	document	NNS	_	17	conj	_
+21	at	at	IN	_	17	prep	_
+22	Veterans	veterans	NNP	p2=NNPS	23	nn	_
+23	Affairs	affair	NNPS	p2=NNP	21	pobj	_
+24	.	.	.	_	9	punct	_
+

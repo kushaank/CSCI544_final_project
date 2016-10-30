@@ -1,0 +1,61 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+The new coroner,open.03,facilities for,,Affirmative,"CSI St. Tammany Coroner 's Office : New coroner opens up facilities for the public to see Dr. Charles Preston of Slidell was sworn in as St. Tammany Parish coroner on Monday , May 20 , 2014 and immediately fulfilled one of his campaign promises : making the coroner 's office available to the public . "
+"May 20 , 2014",fulfil.01,one of,,Affirmative,"CSI St. Tammany Coroner 's Office : New coroner opens up facilities for the public to see Dr. Charles Preston of Slidell was sworn in as St. Tammany Parish coroner on Monday , May 20 , 2014 and immediately fulfilled one of his campaign promises : making the coroner 's office available to the public . "
+Dr. Charles Preston of Slidell,invite.01,the crowd,to tour,Affirmative,Preston invited the crowd to tour the state of the art coroner 's facility north of Lacombe . 
+the crowd,tour.01,the state of,,Affirmative,Preston invited the crowd to tour the state of the art coroner 's facility north of Lacombe . 
+Dr. Charles Preston of Slidell,want.01,you to see,,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish , said Preston . "
+the taxpayers of St. Tammany Parish,see.01,the office,,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish , said Preston . "
+the office,belong.01,"to you ,",,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish , said Preston . "
+the taxpayers of,say.01,I want,,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish , said Preston . "
+Dr. Charles Preston of Slidell,want.01,you to see,,Affirmative,I want you to see how this office is and how it functions . 
+the taxpayers of St. Tammany Parish,see.01,office is and,,Affirmative,I want you to see how this office is and how it functions . 
+Dr. Charles Preston of Slidell,fulfil.01,one of,,Affirmative,Dr. Charles Preston of Slidell was sworn in as St. Tammany Parish coroner on Monday afternoon and immediately fulfilled one of his campaign promises : making the coroner 's office available to the public . 
+Dr. Charles Preston of Slidell,invite.01,the crowd to tour the state of the art coroner 's facility north of Lacombe,to,Affirmative,"After a few brief remarks in the coroner 's office media room - packed with family , friends , law enforcement and elected officials - Preston invited the crowd to a reception in his adjacent spacious office he takes over , and staffers later took groups for tours of the facility north of Lacombe . "
+staffers,take.01,groups,,Affirmative,"After a few brief remarks in the coroner 's office media room - packed with family , friends , law enforcement and elected officials - Preston invited the crowd to a reception in his adjacent spacious office he takes over , and staffers later took groups for tours of the facility north of Lacombe . "
+"family , friends , law enforcement and elected officials",try.01,to open,,Affirmative,"We are literally trying to open this office to you , Preston told the crowd after being sworn in by retired 22nd Judicial District Judge Patricia Hedges , his wife Lisa Leonard at his side . "
+"family , friends , law enforcement and elected officials",open.01,"the office that belongs to you , the taxpayers of St. Tammany Parish",,Affirmative,"We are literally trying to open this office to you , Preston told the crowd after being sworn in by retired 22nd Judicial District Judge Patricia Hedges , his wife Lisa Leonard at his side . "
+Dr. Charles Preston of Slidell,tell.01,We are literally trying,the crowd,Affirmative,"We are literally trying to open this office to you , Preston told the crowd after being sworn in by retired 22nd Judicial District Judge Patricia Hedges , his wife Lisa Leonard at his side . "
+Dr. Charles Preston of Slidell,want.01,you to see,,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish . "
+you,see.01,the office,,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish . "
+the office,belong.01,"to you ,",,Affirmative,"I want you to see the office that belongs to you , the taxpayers of St. Tammany Parish . "
+Dr. Charles Preston of Slidell,want.01,you to see,,Affirmative,I want you to see how this office is and how it functions . 
+you,see.01,office is and,,Affirmative,I want you to see how this office is and how it functions . 
+Preston,fill.01,the remainder of,,Affirmative,"As winner of the May 3 special election , Preston will fill the remainder of the term of former coroner Dr. Peter Galvan , who resigned last October and pleaded guilty to a federal corruption charge . "
+"Preston ,",vow.01,to run,,Affirmative,"During the campaign , Preston , a retired emergency medicine physician , vowed repeatedly to run a transparent office and make it available to the citizens , unlike his predecessor . "
+"Preston ,",run.01,a transparent office,,Affirmative,"During the campaign , Preston , a retired emergency medicine physician , vowed repeatedly to run a transparent office and make it available to the citizens , unlike his predecessor . "
+Galvan,persuade.01,voters,to approve,Affirmative,Galvan persuaded voters to approve a property tax to build the state - of - the - art forensic facility on Louisiana 434 north of Lacombe ; he even held a public ground - breaking ceremony . 
+voters,approve.01,a property tax,,Affirmative,Galvan persuaded voters to approve a property tax to build the state - of - the - art forensic facility on Louisiana 434 north of Lacombe ; he even held a public ground - breaking ceremony . 
+he,hold.01,breaking ceremony,,Affirmative,Galvan persuaded voters to approve a property tax to build the state - of - the - art forensic facility on Louisiana 434 north of Lacombe ; he even held a public ground - breaking ceremony . 
+Preston,receive.01,a standing ovation,,Affirmative,"Preston received a standing ovation after Hedges performed the swearing and concluded with the words , Congratulations . "
+Hedges,performed.01,the swearing,,Affirmative,"Preston received a standing ovation after Hedges performed the swearing and concluded with the words , Congratulations . "
+Preston,tell.01,I am,the audience,Affirmative,"I am truly honored and humbled to be in this position today , Preston told the audience . "
+I,intend.01,to work,,Affirmative,And I intend to work very hard . 
+The new coroner,say.01,he had,,Affirmative,The new coroner said he had but one message for the public : ' This office is not embattled . 
+Dr. Charles Preston of Slidell,say.01,he inherited,,Affirmative,"He said he inherited a fine office from interim Coroner Dr. Pramod Menon , who was appointed by the Parish Council after Galvan resigned . "
+he,inherit.01,a fine office,from,Affirmative,"He said he inherited a fine office from interim Coroner Dr. Pramod Menon , who was appointed by the Parish Council after Galvan resigned . "
+by,appoint.01,"interim Coroner Dr. Pramod Menon ,",,Affirmative,"He said he inherited a fine office from interim Coroner Dr. Pramod Menon , who was appointed by the Parish Council after Galvan resigned . "
+Both Preston and,praise.01,Menon,for stepping into,Affirmative,Both Preston and Parish Council Chairman Reid Falconer praised Menon for stepping into a difficult situation and stabilizing things at the coroner 's office . 
+we,need.01,him,,Affirmative,"He stepped up when we really needed him , Falconer said . "
+Falconer,say.01,He stepped up,,Affirmative,"He stepped up when we really needed him , Falconer said . "
+He,spend.02,countless hours,,Affirmative,He has spent countless hours here and really brought the coroner 's office back on track . 
+He,bring.01,office,,Affirmative,He has spent countless hours here and really brought the coroner 's office back on track . 
+Falconer,thank.01,office staff,,Affirmative,"Falconer also thanked the coroner 's office staff that endured nearly a year of turmoil , publicity and state and federal investigations into the wrongdoing by Galvan , who is now serving a two - year prison sentence . "
+"Galvan ,",serve.01,year prison sentence,,Affirmative,"Falconer also thanked the coroner 's office staff that endured nearly a year of turmoil , publicity and state and federal investigations into the wrongdoing by Galvan , who is now serving a two - year prison sentence . "
+Falconer,say.01,They hung in there through,,Affirmative,"They hung in there through very very difficult times , Falconer said . "
+"Mike Cooper ,",enjoy.01,refreshments and food,,Affirmative,"After the formal ceremony - attended by a number of Parish Council members as well as Covington Mayor Mike Cooper , Sheriff Jack Strain , Covington Police Chief Tim Lentz , Slidell Police Chief Randy Smith and Mandeville Police Chief Rick Richard - the guests enjoyed refreshments and food in the cavernous office Galvan had built . "
+Councilman Dennis Sharp,look.01,on,,Affirmative,"Looking on , Parish Councilman Dennis Sharp said the swearing - in turns the page on the Galvan saga . "
+Councilman Dennis Sharp,say.01,in turns,,Affirmative,"Looking on , Parish Councilman Dennis Sharp said the swearing - in turns the page on the Galvan saga . "
+Sharp,say.01,he did not know Preston,,Affirmative,Sharp said he did not know Preston but was planning on introducing himself before the event concluded . 
+he,know.01,Preston,,Affirmative,Sharp said he did not know Preston but was planning on introducing himself before the event concluded . 
+Sharp,plan.01,on introducing himself,,Affirmative,Sharp said he did not know Preston but was planning on introducing himself before the event concluded . 
+He,get.02,a lot of opportunity and potential,,Affirmative,"He 's got a lot of opportunity and potential , Sharp said . "
+Sharp,say.01,He 's got,,Affirmative,"He 's got a lot of opportunity and potential , Sharp said . "
+I,think.01,he 's,,Affirmative,I think he 's the kind of guy that can make good on it . 
+guy,make.02,good,,Affirmative,I think he 's the kind of guy that can make good on it . 
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,dont.01,see it,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,see.01,it,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

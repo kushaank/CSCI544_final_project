@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Police,say.01,Adams has been found safe,,Affirmative,Police say missing Pleasant Hill resident Jason Adams has been found safe . 
+Hill man,report.01,Friday has been located in Nevada,,Affirmative,"A Pleasant Hill man reported missing Friday has been located in Nevada in good health , according to Pleasant Hill police . "
+Police,put.01,person notice,,Affirmative,"Police put out a missing person notice for Jason Adams , 31 , after he was last seen at Friday at work and never returned home from work . "
+Nevada,spot.01,vehicle,,Affirmative,"Around 2 a.m. , officers in Reno , Nevada spotted Adams ' vehicle in a parking lot . "
+"officers in Reno , Nevada",determine.01,he was in,,Affirmative,"They made contact with Adams and determined he was in good health , according to Pleasant Hill police . "

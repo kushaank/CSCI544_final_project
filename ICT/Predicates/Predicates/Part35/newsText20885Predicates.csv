@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the middle class,help.01,the poor and needy,,Affirmative,"It is not just people from the affluent sections , but also the middle class who can help the poor and needy , says V. Srimathy Santhanam , who , five years ago , started the Sri Sarangathi Seva Trust , to help the downtrodden in need of money for medical treatment . "
+"V. Srimathy Santhanam ,",say.01,It is not,,Affirmative,"It is not just people from the affluent sections , but also the middle class who can help the poor and needy , says V. Srimathy Santhanam , who , five years ago , started the Sri Sarangathi Seva Trust , to help the downtrodden in need of money for medical treatment . "
+"V. Srimathy Santhanam ,",start.01,the Sri Sarangathi Seva Trust,,Affirmative,"It is not just people from the affluent sections , but also the middle class who can help the poor and needy , says V. Srimathy Santhanam , who , five years ago , started the Sri Sarangathi Seva Trust , to help the downtrodden in need of money for medical treatment . "
+the Sri Sarangathi Seva Trust,help.01,the downtrodden in need of money,,Affirmative,"It is not just people from the affluent sections , but also the middle class who can help the poor and needy , says V. Srimathy Santhanam , who , five years ago , started the Sri Sarangathi Seva Trust , to help the downtrodden in need of money for medical treatment . "
+Sri Sarangathi Seva Trust,disburse.01,the amount,to,Affirmative,The Trust disburses the amount to the hospital to fund a patient 's treatment . 
+Sri Sarangathi Seva Trust,fund.01,treatment,,Affirmative,The Trust disburses the amount to the hospital to fund a patient 's treatment . 
+people from the affluent sections,help.01,two people,,Affirmative,"The Hindu Every week , we help more than two people towards their medical treatment . "
+people from the affluent sections,fund.01,250 patients,,Affirmative,"Till date , we have funded over 250 patients , says Srimathy . "
+V. Srimathy Santhanam,say.01,", we have funded",,Affirmative,"Till date , we have funded over 250 patients , says Srimathy . "
+V. Srimathy Santhanam,add.01,are,,Affirmative,"Friends and relatives are the major contributors of the trust , she added . "
+brother,run.01,an orphanage in Bangalore ',,Affirmative,My husband 's brother V. Mani runs an orphanage in Bangalore ' SO CARE IND ' for children of life - convicts . 
+The orphanage,fund.01,education,,Affirmative,The orphanage funds the children 's education and looks after their well - being . 
+My husband 's brother V. Mani,advise.01,The Hindu Every week,to start,Affirmative,"He advised me to start a Trust to help the poor and his work has been an inspiration to me , she adds . "
+The Hindu Every week,start.01,a Trust,,Affirmative,"He advised me to start a Trust to help the poor and his work has been an inspiration to me , she adds . "
+a Trust,help.01,the poor and needy,,Affirmative,"He advised me to start a Trust to help the poor and his work has been an inspiration to me , she adds . "
+SO CARE IND ' for children of life-convicts,add.01,He advised me,,Affirmative,"He advised me to start a Trust to help the poor and his work has been an inspiration to me , she adds . "
+V. Srimathy Santhanam,have.03,the will,,Affirmative,"If you have the will to help , you can . "

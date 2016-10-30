@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,consent.01,to,,Affirmative,"By using this website , you consent to our use of cookies . "
+Three men,break.02,into,,Affirmative,"Three men broke into the house shortly after midday , assaulted the man , locked him in a toilet and stole property . "
+Three men,assault.01,the only person in the house,,Affirmative,"Three men broke into the house shortly after midday , assaulted the man , locked him in a toilet and stole property . "
+Three men,lock.01,the only person in the house,,Affirmative,"Three men broke into the house shortly after midday , assaulted the man , locked him in a toilet and stole property . "
+Three men,steal.01,property,,Affirmative,"Three men broke into the house shortly after midday , assaulted the man , locked him in a toilet and stole property . "
+the only person in the house,manage.02,to free himself and alert gardaí,,Affirmative,He managed to free himself and alert gardaí . 
+the only person in the house,free.01,the only person in the house,,Affirmative,He managed to free himself and alert gardaí . 
+the only person in the house,alert.01,gardaí,,Affirmative,He managed to free himself and alert gardaí . 

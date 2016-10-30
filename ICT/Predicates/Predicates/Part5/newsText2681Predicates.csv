@@ -1,0 +1,79 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the Electronic Frontier Foundation,publish.01,a report listing,,Affirmative,"SnapChat settled with the Federal Trade Commission earlier this month over a complaint that its privacy claims were misleading , as reported by USA Today , and last week , the Electronic Frontier Foundation published a report listing the company as the least privacy - friendly tech outfit it reviewed , including Comcast , Facebook , and Google . "
+a report listing,list.02,the company,as,Affirmative,"SnapChat settled with the Federal Trade Commission earlier this month over a complaint that its privacy claims were misleading , as reported by USA Today , and last week , the Electronic Frontier Foundation published a report listing the company as the least privacy - friendly tech outfit it reviewed , including Comcast , Facebook , and Google . "
+last week,review.01,friendly tech outfit,,Affirmative,"SnapChat settled with the Federal Trade Commission earlier this month over a complaint that its privacy claims were misleading , as reported by USA Today , and last week , the Electronic Frontier Foundation published a report listing the company as the least privacy - friendly tech outfit it reviewed , including Comcast , Facebook , and Google . "
+WhatsApp,face.01,privacy complaints,,Affirmative,"Last year , WhatsApp faced privacy complaints from the Canadian and Dutch governments , and like Snapchat , its security has been an issue as well . "
+you,use.01,messaging services like these,,Affirmative,"When you use messaging services like these , you 're depending on outside companies to properly encrypt your messages , store them safely , and protect them when the authorities come calling . "
+you,depend.01,on,,Affirmative,"When you use messaging services like these , you 're depending on outside companies to properly encrypt your messages , store them safely , and protect them when the authorities come calling . "
+you,encrypt.01,your messages,,Affirmative,"When you use messaging services like these , you 're depending on outside companies to properly encrypt your messages , store them safely , and protect them when the authorities come calling . "
+you,store.01,these,,Affirmative,"When you use messaging services like these , you 're depending on outside companies to properly encrypt your messages , store them safely , and protect them when the authorities come calling . "
+no one,have.03,access to,,Affirmative,"The only way to ensure your messages are reasonably safe is to encrypt them yourself , using keys that no one has access to - including your messaging service provider . "
+the authorities,hit.01,hackers bust into your service provider or the authorities,with subpoenas,Affirmative,"That way , even if hackers bust into your service provider or the authorities hit it with subpoenas , your messages are protected . "
+several projects,work.01,to change this,,Affirmative,"But several projects are working to change this , building a more polished breed of encryption software that can serve the everyday consumer . "
+several projects,change.01,this,,Affirmative,"But several projects are working to change this , building a more polished breed of encryption software that can serve the everyday consumer . "
+several projects,build.01,polished breed of,,Affirmative,"But several projects are working to change this , building a more polished breed of encryption software that can serve the everyday consumer . "
+A new open source project called Briar,put.01,a fresh twist,on,Affirmative,"A new open source project called Briar is part of this crowd , but it puts a fresh twist on the idea . "
+A new open source project called Briar,encrypt.01,your messages,,Affirmative,It does n't just encrypt your messages . 
+A new open source project called Briar,let.01,s,,Affirmative,It let s you jettison your messaging service provider altogether . 
+you,jettison.01,service provider,,Affirmative,It let s you jettison your messaging service provider altogether . 
+your messages,travel.01,to,,Affirmative,"Your messages travel straight to the person you 're sending them to , without passing through a central server of any sort . "
+you,send.01,them,to,Affirmative,"Your messages travel straight to the person you 're sending them to , without passing through a central server of any sort . "
+This,have.03,a few advantages,,Affirmative,This has a few advantages . 
+You and,keep.01,complete control,,Affirmative,"You and your contacts keep complete control your data , but you need n't setup your own computer server in order to do so . "
+you,setup.01,your own computer server,,Affirmative,"You and your contacts keep complete control your data , but you need n't setup your own computer server in order to do so . "
+you,send.01,your messages,,Affirmative,"Plus , you can send messages without even connecting to the internet . "
+you,use.01,Briar,,Affirmative,"Using Briar , you can send messages over Bluetooth , a shared WiFi connection , or even a shared USB stick . "
+you,send.01,messages,"over Bluetooth ,",Affirmative,"Using Briar , you can send messages over Bluetooth , a shared WiFi connection , or even a shared USB stick . "
+you,want.01,to communicate privately,,Affirmative,"The first observation was that , if you want to communicate privately , the internet 's not a good place to do it . "
+even a shared USB stick,say.01,network can be monitored from,,Affirmative,"The whole network can be monitored from a small number of points - and it is , he says . "
+new tools,prevent.01,censorship,,Affirmative,The second was that internet censorship moves faster than the adoption of new tools that prevent censorship . 
+we,protect.01,privacy and guard,against censorship,Affirmative,"In other words , we ca n't protect privacy and guard against censorship without building something that fundamentally changes the way the internet works - or bypasses it altogether . "
+something,change.01,the way,,Affirmative,"In other words , we ca n't protect privacy and guard against censorship without building something that fundamentally changes the way the internet works - or bypasses it altogether . "
+the internet 's,bypass.01,the internet 's,,Affirmative,"In other words , we ca n't protect privacy and guard against censorship without building something that fundamentally changes the way the internet works - or bypasses it altogether . "
+Briar,aim.01,to do,,Affirmative,This is what Briar aims to do . 
+each computer or device,act.01,as,,Affirmative,"When used over a local area wireless connection , it works kind of like a mesh network , in which each computer or device acts as a type of repeater for the data that travels from one location to another . "
+Briar,alter.01,this setup,,Affirmative,But Briar alters this setup a bit . 
+a classic mesh network,transfer.01,the data that travels from one location to another,by finding,Affirmative,"With a classic mesh network , your device communicates directly with every other device within range , and it transfers data by finding a path across the mesh in real time . "
+Briar,take.01,a simpler approach,,Affirmative,But Briar takes a simpler approach : your device only communicates with the machines it wants to send messages through . 
+your device,want.01,to send messages through,,Affirmative,But Briar takes a simpler approach : your device only communicates with the machines it wants to send messages through . 
+your device,send.01,your messages,,Affirmative,But Briar takes a simpler approach : your device only communicates with the machines it wants to send messages through . 
+You,say.01,"Hey , I 'm using Briar",,Affirmative,"You do n't walk around saying ' Hey , I 'm using Briar ! "
+Rogers,use.01,Briar,,Affirmative,"You do n't walk around saying ' Hey , I 'm using Briar ! "
+a simpler approach,want.01,to talk to,,Affirmative,Your device picks which machines it wants to talk to . 
+a simpler approach,eliminate.01,the need,,Affirmative,"This approach is more secretive , and it eliminates the need for messages to find their way across a network . "
+your messages,find.01,their way across,,Affirmative,"This approach is more secretive , and it eliminates the need for messages to find their way across a network . "
+this,limit.01,you send messages to,,Affirmative,"Yes , this limits who you send messages to , and it requires them to be close - by . "
+you,send.01,messages,,Affirmative,"Yes , this limits who you send messages to , and it requires them to be close - by . "
+a simpler approach,require.01,to be,them,Affirmative,"Yes , this limits who you send messages to , and it requires them to be close - by . "
+the public internet,send.01,messages,,Affirmative,"But Briar can also work over the public internet , where it will send messages via Tor , an existing system that anonymizes internet traffic by routing it through computers run by volunteers around the world . "
+an existing system,anonymizes.01,internet traffic,,Affirmative,"But Briar can also work over the public internet , where it will send messages via Tor , an existing system that anonymizes internet traffic by routing it through computers run by volunteers around the world . "
+by volunteers around,run.01,computers run by volunteers around,,Affirmative,"But Briar can also work over the public internet , where it will send messages via Tor , an existing system that anonymizes internet traffic by routing it through computers run by volunteers around the world . "
+Briar,offer.01,discussion forums,,Affirmative,"Briar also offers public discussion forums , using a system that harkens back to Usenet , a decentralized group discussion system that 's been around since the early days of the internet . "
+Briar,use.01,a system,,Affirmative,"Briar also offers public discussion forums , using a system that harkens back to Usenet , a decentralized group discussion system that 's been around since the early days of the internet . "
+Each user,subscribe.01,to,,Affirmative,Each user who subscribes to a particular forum will only share posts with those who also subscribe to the forum . 
+Each user,share.01,posts with those,,Affirmative,Each user who subscribes to a particular forum will only share posts with those who also subscribe to the forum . 
+those,subscribe.01,to,,Affirmative,Each user who subscribes to a particular forum will only share posts with those who also subscribe to the forum . 
+you,want.01,"to use OffTheRecord ,",,Affirmative,"If you want to use OffTheRecord , an encryption plugin for the Pidgen and Adium instant messaging clients , you need to do quite a bit more . "
+you,use.01,"OffTheRecord ,",,Affirmative,"If you want to use OffTheRecord , an encryption plugin for the Pidgen and Adium instant messaging clients , you need to do quite a bit more . "
+you,need.01,to do,,Affirmative,"If you want to use OffTheRecord , an encryption plugin for the Pidgen and Adium instant messaging clients , you need to do quite a bit more . "
+you,do.02,bit more,,Affirmative,"If you want to use OffTheRecord , an encryption plugin for the Pidgen and Adium instant messaging clients , you need to do quite a bit more . "
+a dead simple way to encrypt short messages,route.01,your messages,,Affirmative,"The SMS alternative TextSecure is a dead simple way to encrypt short messages , but it routes messages through central servers , and for now , it still requires a phone number for identification , meaning it can only work on smartphones , not tablets or laptops . "
+a dead simple way to encrypt short messages,require.01,a phone number for identification,,Affirmative,"The SMS alternative TextSecure is a dead simple way to encrypt short messages , but it routes messages through central servers , and for now , it still requires a phone number for identification , meaning it can only work on smartphones , not tablets or laptops . "
+a dead simple way to encrypt short messages,work.01,"on smartphones , not tablets or laptops",,Affirmative,"The SMS alternative TextSecure is a dead simple way to encrypt short messages , but it routes messages through central servers , and for now , it still requires a phone number for identification , meaning it can only work on smartphones , not tablets or laptops . "
+Briar,aim.01,to offer,,Affirmative,Briar aims to offer a single app that you can download and start using right away . 
+Briar,offer.01,a single app,,Affirmative,Briar aims to offer a single app that you can download and start using right away . 
+you,download.01,a single app,,Affirmative,Briar aims to offer a single app that you can download and start using right away . 
+you,start.01,using,,Affirmative,Briar aims to offer a single app that you can download and start using right away . 
+you,download.01,the source code,,Affirmative,"For now , you can download the source code and install the app on your Android phone , but the team has n't yet offered an easy installer . "
+you,install.01,a single app,on,Affirmative,"For now , you can download the source code and install the app on your Android phone , but the team has n't yet offered an easy installer . "
+the team,offer.01,an easy installer,,Affirmative,"For now , you can download the source code and install the app on your Android phone , but the team has n't yet offered an easy installer . "
+you,target.01,risk users,,Affirmative,"I 'm not comfortable with releasing alpha builds because we 're targetting high - risk users , Rogers says . "
+Rogers,say.01,builds,,Affirmative,"I 'm not comfortable with releasing alpha builds because we 're targetting high - risk users , Rogers says . "
+The Briar team,know.01,they wo n't be competing with,,Affirmative,The Briar team knows they wo n't be competing with the Snapchats of the world any time soon . 
+high-risk users,compete.01,with,,Affirmative,The Briar team knows they wo n't be competing with the Snapchats of the world any time soon . 
+you,concentrate.01,on people,,Affirmative,"We 're concentrating first of all on people who need secure communication the most : activists , journalists and civil society , Rogers says . "
+people,need.01,secure communication,,Affirmative,"We 're concentrating first of all on people who need secure communication the most : activists , journalists and civil society , Rogers says . "
+Rogers,say.01,We 're concentrating first of all,,Affirmative,"We 're concentrating first of all on people who need secure communication the most : activists , journalists and civil society , Rogers says . "
+Rogers,hope.01,"that , eventually , Briar will be simple enough",,Affirmative,"But he does hope that , eventually , Briar will be simple enough to help anyone keep their data safe . "
+Briar,help.01,anyone keep,,Affirmative,"But he does hope that , eventually , Briar will be simple enough to help anyone keep their data safe . "
+anyone,keep.02,the data that travels from one location to another,,Affirmative,"But he does hope that , eventually , Briar will be simple enough to help anyone keep their data safe . "

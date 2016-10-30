@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Harry Enfield .,say.01,Thompson would just sack someone,,Affirmative,"Speaking to the Radio Times , he said Thompson would just sack someone if anyone criticised it , when he should have come out fighting . "
+Mark Thompson,sack.01,someone,,Affirmative,"Speaking to the Radio Times , he said Thompson would just sack someone if anyone criticised it , when he should have come out fighting . "
+anyone,criticise.01,Radio Times,,Affirmative,"Speaking to the Radio Times , he said Thompson would just sack someone if anyone criticised it , when he should have come out fighting . "
+The problem,sack.01,someone,,Affirmative,It would just sack someone if anyone criticised it . 
+anyone,criticise.01,The problem,,Affirmative,It would just sack someone if anyone criticised it . 
+just sack someone if anyone criticised it,say.01,this thing,,Affirmative,"Like Peter Fincham when he was sacked , when he so - called resigned , Thompson should have come out and said , ' OK , he said this thing that was slightly inaccurate about the Queen because he was briefed by a private company that 's come in because everything has to be private now . "
+by,brief.01,just sack someone if anyone criticised it,,Affirmative,"Like Peter Fincham when he was sacked , when he so - called resigned , Thompson should have come out and said , ' OK , he said this thing that was slightly inaccurate about the Queen because he was briefed by a private company that 's come in because everything has to be private now . "
+"Peter Fincham when he was sacked , when he so-called resigned",do.02,You,,Affirmative,He did n't do that . 
+this thing that was slightly inaccurate about the Queen because he was briefed by a private company that 's come in because everything has to be private now,put.01,this thing that was slightly inaccurate about the Queen because he was briefed by a private company that 's come in because everything has to be private now,on,Affirmative,It was a bad thing for the BBC and put it on a bad footing for the future ... 

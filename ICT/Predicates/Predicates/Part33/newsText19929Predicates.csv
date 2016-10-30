@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a judge,overturn.01,gay marriage ban,,Affirmative,"PORTLAND -- John Halseth and Robin Castro were nervous Sunday , one day before a judge could overturn Oregon 's gay marriage ban . "
+a federal judge in Eugene,plan.01,to release,,Affirmative,"Monday at noon , a federal judge in Eugene plans to release an opinion that could overturn the state ban and make same sex marriages legal once again in Oregon . "
+a federal judge in Eugene,release.01,an opinion,,Affirmative,"Monday at noon , a federal judge in Eugene plans to release an opinion that could overturn the state ban and make same sex marriages legal once again in Oregon . "
+an opinion,overturn.01,the state ban,,Affirmative,"Monday at noon , a federal judge in Eugene plans to release an opinion that could overturn the state ban and make same sex marriages legal once again in Oregon . "
+an opinion,make.02,marriages legal,,Affirmative,"Monday at noon , a federal judge in Eugene plans to release an opinion that could overturn the state ban and make same sex marriages legal once again in Oregon . "
+The 9th Circuit Court,issue.01,a stay pending appeal,,Affirmative,The 9th Circuit Court could issue a stay pending appeal because this case has no defendants . 
+this case,have.03,no defendants,,Affirmative,The 9th Circuit Court could issue a stay pending appeal because this case has no defendants . 
+The 9th Circuit panel,agree.01,that they should have been allowed,with,Affirmative,"The 9th Circuit panel could agree with the National Organization for Marriage , that they should have been allowed to intervene as defenders because otherwise no one is defending the law , said Ryan . "
+no defendants,intervene.01,as defenders,,Affirmative,"The 9th Circuit panel could agree with the National Organization for Marriage , that they should have been allowed to intervene as defenders because otherwise no one is defending the law , said Ryan . "
+no one,defend.01,the law,,Affirmative,"The 9th Circuit panel could agree with the National Organization for Marriage , that they should have been allowed to intervene as defenders because otherwise no one is defending the law , said Ryan . "
+Ryan,say.01,panel could agree with,,Affirmative,"The 9th Circuit panel could agree with the National Organization for Marriage , that they should have been allowed to intervene as defenders because otherwise no one is defending the law , said Ryan . "
+Attorney General and,refuse.01,to defend,,Affirmative,Oregon 's Attorney General and Governor Kitzhaber have both refused to defend the state 's gay marriage ban . 
+Attorney General and,defend.01,gay marriage ban,,Affirmative,Oregon 's Attorney General and Governor Kitzhaber have both refused to defend the state 's gay marriage ban . 
+Foren,have.03,a family event,,Affirmative,"I 'm even having a family event tonight and we will be making 500 boutonnieres , said Foren . "
+Oregon 's Attorney General and Governor Kitzhaber,make.05,500 boutonnieres,,Affirmative,"I 'm even having a family event tonight and we will be making 500 boutonnieres , said Foren . "
+Foren,say.01,I 'm even having,,Affirmative,"I 'm even having a family event tonight and we will be making 500 boutonnieres , said Foren . "
+Both sides,say.01,they will try,,Affirmative,Both sides say they will try to appeal depending on which way the federal judge rules . 
+Oregon 's Attorney General and Governor Kitzhaber,try.01,to appeal depending on which way,,Affirmative,Both sides say they will try to appeal depending on which way the federal judge rules . 
+Oregon 's Attorney General and Governor Kitzhaber,way.01,judge rules,,Affirmative,Both sides say they will try to appeal depending on which way the federal judge rules . 

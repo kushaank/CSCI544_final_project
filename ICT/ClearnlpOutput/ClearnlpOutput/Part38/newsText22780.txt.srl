@@ -1,0 +1,31 @@
+1	News	news	JJ	p2=NN	2	nn	_
+2	articles	article	NNS	_	4	nsubjpass	4:A1=PRD
+3	are	be	VBP	_	4	auxpass	_
+4	gotten	get	VBN	pb=get.06	0	root	_
+5	from	from	IN	_	4	prep	4:AM-PRD
+6	feeds	feed	NNS	_	5	pobj	_
+7	from	from	IN	_	6	prep	_
+8	other	other	JJ	_	9	amod	_
+9	sites	site	NNS	_	7	pobj	_
+10	.	.	.	_	4	punct	_
+
+1	If	if	IN	_	8	mark	_
+2	the	the	DT	_	3	det	_
+3	article	article	NN	_	8	nsubjpass	8:A1=PRD
+4	is	be	VBZ	_	8	aux	_
+5	no	no	DT	p2=RB	6	neg	_
+6	longer	long	RBR	_	8	advmod	8:AM-TMP
+7	being	be	VBG	_	8	auxpass	_
+8	published	publish	VBN	pb=publish.01	14	advcl	14:AM-ADV
+9	in	in	IN	_	8	prep	8:AM-LOC
+10	the	the	DT	_	11	det	_
+11	feed	feed	NN	_	9	pobj	_
+12	,	,	,	_	14	punct	_
+13	it	it	PRP	_	14	nsubj	14:A1=PPT
+14	is	be	VBZ	pb=be.01	0	root	_
+15	no	no	RB	p2=DT	16	neg	_
+16	longer	long	RBR	p2=RB	14	advmod	14:AM-NEG
+17	accessible	accessible	JJ	_	14	acomp	14:A2=PRD
+18	here	here	RB	_	14	advmod	14:AM-LOC
+19	.	.	.	_	14	punct	_
+

@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Canadian company,ask.02,to sell it,the Michigan DNR,Affirmative,"A Canadian company has asked the Michigan DNR to sell it more than 10,000 acres of state forestland in Mackinac County . "
+the DNR,sell.01,"10,000 acres of",it,Affirmative,"A Canadian company has asked the Michigan DNR to sell it more than 10,000 acres of state forestland in Mackinac County . "
+Incorporated,want.01,to develop,,Affirmative," Graymont , Incorporated wants to develop a limestone mine on the land in northern Mackinac County near Rexton . "
+Incorporated,develop.02,a limestone mine on,,Affirmative," Graymont , Incorporated wants to develop a limestone mine on the land in northern Mackinac County near Rexton . "
+A Canadian company,explore.01,the area for limestone,,Affirmative,The company first approached the DNR about a sale two years ago and explored the area for limestone in 2012 and 2013 . 
+ The DNR,review.01,application,,Affirmative, The DNR is processing and reviewing Graymont 's application . 
+"Director Keith Creagh ,",have.03,the authority,,Affirmative,"DNR staff will make a recommendation to DNR Director Keith Creagh , who has the authority to make the final decision . "

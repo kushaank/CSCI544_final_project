@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Congressman Joseph Kennedy,agree.01,to deliver,,Affirmative,"When Massachusetts Congressman Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma too . "
+Congressman Joseph Kennedy,deliver.01,a commencement address,,Affirmative,"When Massachusetts Congressman Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma too . "
+the late U.S. Sen. Edward Kennedy,realize.01,he 'd be receiving,,Affirmative,"When Massachusetts Congressman Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma too . "
+the late U.S. Sen. Edward Kennedy,receive.01,a diploma,,Affirmative,"When Massachusetts Congressman Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma too . "
+the late U.S. Sen. Edward Kennedy,skip.01,commencement,,Affirmative,"Fifty - five years ago , Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . "
+the late U.S. Sen. Edward Kennedy,help.01,run,,Affirmative,"Fifty - five years ago , Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . "
+the late U.S. Sen. Edward Kennedy,run.01,his brother,,Affirmative,"Fifty - five years ago , Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . "
+University of Virginia Law School,hold.01,onto,,Affirmative,The university had held onto the paper degree . 
+school Dean Paul Mahoney,announce.01,they had one more,,Affirmative,"After the student diplomas were handed out Sunday , law school Dean Paul Mahoney announced they had one more and handed it to Joe Kennedy , who is Robert F. Kennedy 's grandson . "
+they,have.03,one more,,Affirmative,"After the student diplomas were handed out Sunday , law school Dean Paul Mahoney announced they had one more and handed it to Joe Kennedy , who is Robert F. Kennedy 's grandson . "
+school Dean Paul Mahoney,hand.01,one more,to,Affirmative,"After the student diplomas were handed out Sunday , law school Dean Paul Mahoney announced they had one more and handed it to Joe Kennedy , who is Robert F. Kennedy 's grandson . "
+law school Dean Paul Mahoney,give.01,"the diploma his great-uncle , the late U.S. Sen. Edward Kennedy , earned from the school in 1959",to,Affirmative,"He will give the diploma to Ted Kennedy 's widow , Vicki , for the Edward M. Kennedy Institute for the United States Senate . "
+readers,find.01,comments offensive or inaccurate,,Affirmative,"- Comments are automatically checked for inappropriate language , but readers might find some comments offensive or inaccurate . "
+a comment,violate.01,our rules,,Affirmative,"If you believe a comment violates our rules , click the report violation link below it . "
+UVA,follow.02,on this,,Affirmative,a bit late but good for UVA to follow - up on this for the family . 
+Threaded comments,work.09,if you view,,Affirmative,Please note : Threaded comments work best if you view the oldest comments first . 
+you,view.02,the oldest comments,,Affirmative,Please note : Threaded comments work best if you view the oldest comments first . 

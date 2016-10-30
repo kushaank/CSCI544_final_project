@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+He,tell.01,he was leaving,police,Affirmative,He tells police he was leaving the bar with a friend shortly after 1:00 am Saturday when they both noticed he was bleeding . 
+He,leave.01,the bar with,,Affirmative,He tells police he was leaving the bar with a friend shortly after 1:00 am Saturday when they both noticed he was bleeding . 
+they both,notice.01,he was bleeding,,Affirmative,He tells police he was leaving the bar with a friend shortly after 1:00 am Saturday when they both noticed he was bleeding . 
+police he was leaving the bar with a friend shortly after 1:00 am Saturday when they both noticed he was bleeding,stop.01,the bleeding,,Affirmative,They went to Hernandez 's house but were unable to stop the bleeding . 
+police he was leaving the bar with a friend shortly after 1:00 am Saturday when they both noticed he was bleeding,say.01,Aguayofuentes has n't provided,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+Aguayofuentes,provided.01,any other details,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+Aguayofuentes,explain.01,how he might have been shot,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+We,welcome.01,reader comments on,,Affirmative,We welcome reader comments on the top stories of the day . 
+We,try.01,to publish comments,,Affirmative,"We will , however , try to publish comments that are representative of all received . "
+We,publish.01,comments,,Affirmative,"We will , however , try to publish comments that are representative of all received . "
+We,ask.02,that comments are civil and free of,,Affirmative,We ask that comments are civil and free of libellous or hateful material . 
+this,make.02,comment hard,,Affirmative,Please do not write in block capitals since this makes your comment hard to read . 

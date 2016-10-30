@@ -1,0 +1,42 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Preet Bharara ,",discuss.01,arrests,,Affirmative,"Preet Bharara , U.S. Attorney for the Southern District of New York , discusses arrests in the malware Blackshades Remote Access Tool , during a news conference in New York on Monday , May 19 , 2014 . "
+Federal prosecutors on Monday,announce.01,charges against,,Affirmative,NEW YORK - Federal prosecutors on Monday announced charges against alleged computer hackers linked to an international group called Blackshades that trafficked in malicious software enabling attackers to gain secret control of more than half a million computers worldwide . 
+attackers,gain.02,secret control of,,Affirmative,NEW YORK - Federal prosecutors on Monday announced charges against alleged computer hackers linked to an international group called Blackshades that trafficked in malicious software enabling attackers to gain secret control of more than half a million computers worldwide . 
+Five individuals,charge.01,documents released by,,Affirmative,Five individuals were accused in court charging documents released by Manhattan U.S. Attorney Preet Bharara in New York City . 
+by,release.01,documents released by,,Affirmative,Five individuals were accused in court charging documents released by Manhattan U.S. Attorney Preet Bharara in New York City . 
+the charges alleged,allege.01,that Blackshades has been in operation,,Affirmative,An affidavit by FBI Special Agent Samad Shahrani filed with the charges alleged that Blackshades has been in operation since at least 2010 and distributed malicious software to thousands of cybercriminals throughout the world . 
+affidavit,describe.01,RAT -,as,Affirmative,The alleged group 's program of choice was the Blackshades Remote Access Tool - or RAT - which Shahrani 's affidavit described as a sophisticated piece of malware that enabled cybercriminals to remotely and surreptitiously gain control of a victim 's computer . 
+a sophisticated piece of malware,enable.01,surreptitiously gain control of,cybercriminals,Affirmative,The alleged group 's program of choice was the Blackshades Remote Access Tool - or RAT - which Shahrani 's affidavit described as a sophisticated piece of malware that enabled cybercriminals to remotely and surreptitiously gain control of a victim 's computer . 
+the cybercriminals,gain.02,control of,,Affirmative,The alleged group 's program of choice was the Blackshades Remote Access Tool - or RAT - which Shahrani 's affidavit described as a sophisticated piece of malware that enabled cybercriminals to remotely and surreptitiously gain control of a victim 's computer . 
+an attacker,view.02,"documents , photographs and",,Affirmative,"After installing the RAT on an unsuspecting victim 's computer , an attacker could access and view documents , photographs and other files ... "
+Shahrani,write.01,steal,,Affirmative,"steal the passwords to the victim 's online accounts and even activate the victim 's Web camera to spy on the victim , Shahrani wrote . "
+The investigation,show.01,RAT has been purchased by,,Affirmative,"The investigation showed that the RAT has been purchased by at least several thousand users in more than 100 countries , the FBI affidavit alleged . "
+by,purchase.01,the RAT,,Affirmative,"The investigation showed that the RAT has been purchased by at least several thousand users in more than 100 countries , the FBI affidavit alleged . "
+the FBI affidavit,allege.01,investigation showed,,Affirmative,"The investigation showed that the RAT has been purchased by at least several thousand users in more than 100 countries , the FBI affidavit alleged . "
+Officials,say.01,they had recently arrested,,Affirmative,Officials said they had recently arrested more than 90 people in 19 countries suspected of using or distributing the malicious software . 
+victims,arrest.01,90 people,,Affirmative,Officials said they had recently arrested more than 90 people in 19 countries suspected of using or distributing the malicious software . 
+Ransom notes,force.01,victims,to pay hackers,Affirmative,"Ransom notes were used to force victims to pay hackers to release their computers , authorities said . "
+victims,pay.01,hackers,,Affirmative,"Ransom notes were used to force victims to pay hackers to release their computers , authorities said . "
+victims,release.01,their computers,,Affirmative,"Ransom notes were used to force victims to pay hackers to release their computers , authorities said . "
+authorities,say.01,notes were used,,Affirmative,"Ransom notes were used to force victims to pay hackers to release their computers , authorities said . "
+Bharara,describe.01,the technology,as,Affirmative,Bharara described the technology as inexpensive and simple to use but called its invasiveness breathtaking . 
+case,make.02,clear,,Affirmative,"As today 's case makes clear , we now live in a world where , for just $ 40 , a cybercriminal halfway across the globe can - with just a click of a mouse - unleash a RAT that can spread a computer plague not only on someone 's property , but also on their privacy and most personal spaces , said Bharara . "
+Officials,hold.04,a press conference,,Affirmative,Officials held a press conference Monday afternoon to explain the ongoing investigation . 
+Officials,explain.01,the ongoing investigation,,Affirmative,Officials held a press conference Monday afternoon to explain the ongoing investigation . 
+Authorities,try.01,to track down anyone,,Affirmative,"Authorities are trying to track down anyone who may have purchased the software , Bharara said . "
+Authorities,track.01,anyone,,Affirmative,"Authorities are trying to track down anyone who may have purchased the software , Bharara said . "
+anyone,purchase.01,the software,,Affirmative,"Authorities are trying to track down anyone who may have purchased the software , Bharara said . "
+Manhattan U.S. Attorney Preet Bharara in New York City,say.01,Authorities are trying,,Affirmative,"Authorities are trying to track down anyone who may have purchased the software , Bharara said . "
+He,add.01,cooperation is key to catching,,Affirmative,He added that international cooperation is key to catching the cybercriminals . 
+Bharara,say.01,You ca n't just hide in,,Affirmative,"You ca n't just hide in another country anymore , Bharara said . "
+We,get.01,many people,,Affirmative,We will get as many people as we can . 
+The charges,put.01,cybercriminals,around,Affirmative,"The charges unsealed today should put cybercriminals around the world on notice , Taddeo said . "
+Taddeo,say.01,should put cybercriminals around,,Affirmative,"The charges unsealed today should put cybercriminals around the world on notice , Taddeo said . "
+you,think.01,you can hide behind,,Affirmative,If you think you can hide behind your computer screen - think again . 
+the FBI,follow.02,the digital trail,to,Affirmative,"Just like in the physical world , the FBI will follow the digital trail to your doorstep . "
+by prosecutors as,identify.01,"• Alex Yucel , identified by prosecutors as",,Affirmative,"• Alex Yucel , identified by prosecutors as the co-creator of RAT . "
+by prosecutors,identify.01,"• Kyle Fedorek , identified by prosecutors",as,Affirmative,"• Kyle Fedorek , identified by prosecutors as a RAT purchaser who used the program to steal online account information from hundreds of victims . "
+a RAT purchaser,use.01,the program,to steal,Affirmative,"• Kyle Fedorek , identified by prosecutors as a RAT purchaser who used the program to steal online account information from hundreds of victims . "
+"• Marlen Rappa ,",buy.01,the RAT program,,Affirmative,"• Marlen Rappa , who allegedly bought the RAT program and used it to spy on dozens of victims and steal online account information . "
+by prosecutors as,identify.01,"• Michael Hogue , identified by prosecutors as",,Affirmative,"• Michael Hogue , identified by prosecutors as the co-creator of RAT . "
+Court filings,show.01,"Hogue , 23 ,",,Affirmative,"Court filings show Hogue , 23 , a student at the University of Arizona , was arrested in Arizona last June and pleaded guilty in January . "

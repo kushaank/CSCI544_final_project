@@ -1,0 +1,57 @@
+1	YEREVAN	yerevan	NNP	p2=NN	0	root	_
+2	,	,	,	_	1	punct	_
+3	May	may	NNP	_	1	npadvmod	_
+4	19	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	/	/	SYM	p2=LS	3	punct	_
+2	ARKA	arka	NNP	_	0	root	_
+3	/	/	SYM	_	2	punct	_
+4	.	.	.	_	2	punct	_
+
+1	Armenia	armenia	NNP	p2=NN	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	foreign	foreign	JJ	_	4	amod	_
+4	minister	minister	NN	_	14	nsubj	14:A0=PAG
+5	Edward	edward	NNP	_	6	nn	_
+6	Nalbandyan	nalbandyan	NNP	_	4	appos	_
+7	and	and	CC	_	4	cc	_
+8	minister	minister	NN	_	4	conj	_
+9	of	of	IN	_	8	prep	_
+10	defense	defense	NN	_	12	nn	_
+11	Seyran	seyran	NNP	p2=JJ	12	nn	_
+12	Ohanyan	ohanyan	NNP	_	9	pobj	_
+13	will	will	MD	_	14	aux	14:AM-MOD
+14	head	head	VB	pb=head.02	28	ccomp	28:A1
+15	to	to	IN	_	14	prep	14:A1=PPT
+16	Brussels	brussels	NNP	_	15	pobj	_
+17	on	on	IN	_	14	prep	14:AM-TMP
+18	May	may	NNP	_	17	pobj	_
+19	20	0	CD	_	18	num	_
+20	,	,	,	_	28	punct	_
+21	the	the	DT	_	23	det	_
+22	press	press	NN	_	23	nn	_
+23	office	office	NN	_	28	nsubj	28:A0=PAG
+24	of	of	IN	_	23	prep	_
+25	Armenian	armenian	JJ	_	27	amod	_
+26	foreign	foreign	JJ	_	27	amod	_
+27	ministry	ministry	NN	_	24	pobj	_
+28	reported	report	VBD	p2=VBN|pb=report.01	0	root	_
+29	.	.	.	_	28	punct	_
+
+1	If	if	IN	_	3	mark	_
+2	you	you	PRP	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	10	advcl	10:AM-ADV
+4	new	new	JJ	_	3	acomp	3:A2=PRD
+5	on	on	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	site	site	NN	_	5	pobj	_
+8	,	,	,	_	10	punct	_
+9	please	please	UH	_	10	intj	10:AM-DIS
+10	fill	fill	VB	pb=fill.03	0	root	_
+11	out	out	RP	_	10	prt	10:C-V
+12	the	the	DT	_	14	det	_
+13	registration	registration	NN	_	14	nn	_
+14	form	form	NN	_	10	dobj	10:A1=GOL
+15	.	.	.	_	10	punct	_
+

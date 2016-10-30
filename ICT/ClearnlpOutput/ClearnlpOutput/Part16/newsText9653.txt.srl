@@ -1,0 +1,584 @@
+1	The	the	DT	_	3	det	_
+2	Democratic	democratic	NNP	p2=JJ	3	nn	_
+3	Alliance	alliance	NNP	_	7	nn	_
+4	(	(	-LRB-	_	7	punct	_
+5	DA	da	NNP	p2=NN	7	nn	_
+6	)	)	-RRB-	_	7	punct	_
+7	performed very	performed very	NNP	p2=,	0	root	_
+8	well	well	RB	p2=UH	7	advmod	_
+9	in	in	IN	_	7	prep	_
+10	the	the	DT	_	12	det	_
+11	general	general	JJ	_	12	amod	_
+12	elections	election	NNS	_	9	pobj	_
+13	earlier	early	RBR	p2=JJR	14	advmod	_
+14	this month	this month	JJ	p2=RB	12	amod	_
+15	,	,	,	_	14	punct	_
+16	growing	grow	VBG	pb=grow.01	0	root	_
+17	its	its	PRP$	_	18	poss	_
+18	share	share	NN	_	16	dobj	16:A1=PPT
+19	of	of	IN	_	18	prep	_
+20	the	the	DT	_	24	det	_
+21	national	national	JJ	_	24	amod	_
+22	vote from	vote from	NNP	p2=IN	24	nn	_
+23	16.7	0	CD	_	24	num	_
+24	%	%	NN	_	19	pobj	_
+25	in	in	IN	_	16	prep	16:AM-TMP
+26	2009	0	CD	_	25	pobj	_
+27	to	to	IN	_	16	prep	16:A4=PRD
+28	22.2	0	CD	_	29	num	_
+29	%	%	NN	_	27	pobj	_
+30	.	.	.	_	7	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	consolidated	consolidate	VBD	pb=consolidate.01	0	root	_
+3	its	its	PRP$	_	4	poss	_
+4	position	position	NN	_	2	dobj	2:A1=PPT
+5	as	as	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	ruling party	ruling party	NN	p2=NNP	5	pobj	_
+8	in	in	IN	_	7	prep	_
+9	the	the	DT	_	11	det	_
+10	Western	western	NNP	p2=JJ	11	nn	_
+11	Cape	cape	NNP	_	8	pobj	_
+12	,	,	,	_	2	punct	_
+13	and	and	CC	_	2	cc	_
+14	looks	look	VBZ	_	15	auxpass	_
+15	set	set	VBN	p2=NN|pb=set.08	2	conj	_
+16	to	to	TO	p2=IN	17	aux	_
+17	seriously challenge	seriously challenge	VB	pb=seriously challenge.01	15	xcomp	15:A2=PRD
+18	the	the	DT	_	19	det	_
+19	ANC	anc	NNP	_	17	dobj	17:A1
+20	in	in	IN	_	17	prep	17:AM-LOC
+21	some	some	DT	_	20	pobj	_
+22	of	of	IN	_	21	prep	_
+23	the	the	DT	_	25	det	_
+24	major	major	JJ	_	25	amod	_
+25	metropoles come	metropoles come	NN	p2=NNP	22	pobj	_
+26	the	the	DT	_	29	det	_
+27	local	local	JJ	_	29	amod	_
+28	government	government	NN	_	29	nn	_
+29	elections	election	NNS	_	25	appos	_
+30	of	of	IN	_	29	prep	_
+31	2016	0	CD	_	30	pobj	_
+32	.	.	.	_	2	punct	_
+
+1	But	but	CC	_	4	cc	4:AM-DIS
+2	voters	voter	NNS	_	4	nsubj	4:A1=PPT
+3	have	have	VBP	_	4	aux	_
+4	been	be	VBN	pb=be.01	0	root	_
+5	much	much	RB	_	6	advmod	_
+6	kinder	kind	JJR	p2=RBR	4	acomp	4:A2=PRD
+7	to	to	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	party	party	NN	_	7	pobj	12:A1=PPT
+10	than it	than it	WDT	p2=NN	12	nsubj	12:R-A1
+11	has	have	VBZ	_	12	aux	_
+12	been	be	VBN	pb=be.01	9	rcmod	_
+13	to	to	IN	p2=TO	12	prep	12:A2=PRD
+14	itself	itself	PRP	_	13	pobj	_
+15	in	in	IN	_	12	prep	12:AM-TMP
+16	recent	recent	JJ	_	17	amod	_
+17	times	time	NNS	_	15	pobj	_
+18	.	.	.	_	4	punct	_
+
+1	In	in	IN	_	9	prep	9:AM-LOC
+2	the	the	DT	_	4	det	_
+3	latter	latter	JJ	_	4	amod	_
+4	part	part	NN	_	1	pobj	_
+5	of	of	IN	_	4	prep	_
+6	last	last	JJ	_	7	amod	_
+7	year	year	NN	_	5	pobj	_
+8	there	there	EX	p2=RB	9	expl	_
+9	was	be	VBD	pb=be.02	0	root	_
+10	the	the	DT	_	14	det	_
+11	embarrassing fl	embarrassing fl	JJ	p2=NNP	14	amod	_
+12	ip	ip	NN	_	14	hmod	_
+13	-	-	HYPH	p2=:	14	hyph	_
+14	flopping	flop	VBG	p2=NN	9	attr	9:A1=PPT
+15	over	over	IN	_	14	prep	_
+16	controversial	controversial	JJ	_	19	amod	_
+17	new	new	JJ	_	19	amod	_
+18	BEE	bee	NNP	p2=NN	19	nn	_
+19	legislation	legislation	NN	_	15	pobj	_
+20	.	.	.	_	9	punct	_
+
+1	 Those	 those	NNP	p2=WP$	14	nsubj	3:A0=PAG;19:A0=PAG;14:A1=PPT
+2	who	who	WP	_	3	nsubj	3:R-A0
+3	viewed	view	VBD	pb=view.02	1	rcmod	_
+4	themselves	themselves	PRP	_	3	dobj	3:A1=PPT
+5	as	as	IN	_	3	prep	3:A2=PRD
+6	the	the	DT	_	7	det	_
+7	defenders of	defenders of	NN	p2=NNP	5	pobj	_
+8	the	the	DT	_	9	det	_
+9	DA	da	NNP	p2=NN	13	poss	_
+10	's	's	POS	_	9	possessive	_
+11	classical	classical	JJ	_	13	amod	_
+12	liberal	liberal	JJ	_	13	amod	_
+13	heritage	heritage	NN	_	7	appos	_
+14	were	be	VBD	pb=be.01	0	root	_
+15	scathing	scathing	JJ	p2=VBG	17	amod	_
+16	in their	in their	JJ	p2=PRP$	17	amod	_
+17	criticism	criticism	NN	_	14	attr	14:A2=PRD
+18	,	,	,	_	14	punct	_
+19	claiming	claim	VBG	pb=claim.01	14	advcl	14:AM-ADV
+20	the	the	DT	_	21	det	_
+21	party	party	NN	_	23	nsubj	23:A0=PPT
+22	had	have	VBD	_	23	aux	_
+23	abandoned	abandon	VBN	pb=abandon.01	19	ccomp	19:A1=PPT
+24	the moral	the moral	JJ	p2=DT	26	amod	_
+25	high	high	JJ	_	26	amod	_
+26	ground	ground	NN	_	23	dobj	23:A1=DIR
+27	in	in	IN	_	23	prep	23:AM-LOC
+28	an	an	DT	_	30	det	_
+29	a	a	DT	p2=FW	30	det	_
+30	empt	empt	NN	_	27	pobj	_
+31	to	to	TO	_	32	aux	_
+32	win	win	VB	pb=win.01	30	infmod	_
+33	the	the	DT	_	35	det	_
+34	hearts	heart	NNS	_	35	nn	_
+35	and minds	and minds	NNS	p2=CC	32	dobj	32:A1=PPT
+36	of	of	IN	_	35	prep	_
+37	young	young	JJ	_	39	amod	_
+38	black	black	JJ	_	39	amod	_
+39	voters	voter	NNS	_	36	pobj	_
+40	.	.	.	_	14	punct	_
+
+1	The	the	DT	_	2	det	_
+2	ink	ink	NN	_	5	nsubj	5:A1=PPT
+3	had	have	VBD	_	5	aux	_
+4	barely	barely	RB	_	5	advmod	5:AM-MNR
+5	dried	dry	VBN	pb=dry.02	16	ccomp	_
+6	on	on	IN	_	5	prep	5:AM-MNR
+7	their	their	PRP$	_	9	poss	_
+8	le	le	FW	p2=NN	9	nn	_
+9	tters	tters	NNS	p2=FW	6	pobj	_
+10	of	of	IN	_	9	prep	_
+11	reproof before	reproof before	JJ	p2=JJR	13	amod	_
+12	DA	da	NN	_	13	nn	_
+13	leader	leader	NN	_	15	nn	_
+14	Helen	helen	NNP	_	15	nn	_
+15	Zille	zille	NNP	_	10	pobj	_
+16	stepped	step	VBD	pb=step.01	0	root	_
+17	in	in	RB	p2=IN	16	advmod	16:C-V
+18	,	,	,	_	16	punct	_
+19	insisting	insist	VBG	pb=insist.01	16	advcl	_
+20	that the	that the	DT	p2=IN	21	det	_
+21	party	party	NN	_	25	nsubj	25:A0=PAG
+22	never	never	RB	_	25	neg	25:AM-NEG
+23	should	should	MD	_	25	aux	25:AM-MOD
+24	have	have	VB	_	25	aux	_
+25	voted	vote	VBN	pb=vote.01	19	ccomp	19:A1=PPT
+26	for	for	IN	_	25	prep	25:A1=PPT
+27	the	the	DT	_	35	det	_
+28	Bill	bill	NNP	_	31	hmod	_
+29	-	-	HYPH	p2=,	31	hyph	_
+30	a	a	DT	p2=NNP	31	det	_
+31	number of	number of	NN	p2=JJ	35	nn	_
+32	"	"	``	p2=''	35	punct	_
+33	li	li	FW	p2=NN	35	nn	_
+34	ttle	ttle	FW	p2=JJ	35	nn	_
+35	mistakes	mistake	NNS	p2=FW	26	pobj	_
+36	"	"	''	p2=``	25	punct	_
+37	had	have	VBD	_	38	aux	_
+38	led	lead	VBN	pb=lead.03	0	root	_
+39	to	to	IN	_	38	prep	38:A2=PRD
+40	the	the	DT	_	41	det	_
+41	disaster	disaster	NN	_	39	pobj	_
+42	.	.	.	_	38	punct	_
+
+1	 This	 this	NNP	p2=NNS	2	nsubj	2:A0=PAG
+2	prompted	prompt	VBD	pb=prompt.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	fresh	fresh	JJ	_	5	amod	_
+5	series	series	NN	_	2	dobj	2:A1=PPT
+6	of	of	IN	_	5	prep	_
+7	condemnations	condemnation	NNS	_	6	pobj	_
+8	from various	from various	JJ	p2=POS	9	amod	_
+9	quarters	quarter	NNS	_	7	appos	_
+10	,	,	,	_	2	punct	_
+11	with	with	IN	_	2	prep	2:AM-ADV
+12	the	the	DT	_	13	det	_
+13	ANC	anc	NNP	_	14	nsubj	14:A0=PAG
+14	claiming	claim	VBG	pb=claim.01	11	pcomp	_
+15	that	that	IN	_	20	complm	_
+16	the	the	DT	_	17	det	_
+17	DA had	da had	NNP	p2=NNPS	20	nsubj	20:A0
+18	at	at	IN	p2=RB	19	advmod	_
+19	least	least	JJS	p2=RBS	20	advmod	20:AM-ADV
+20	revealed	reveal	VBD	p2=VBN|pb=reveal.01	14	ccomp	14:A1=PPT
+21	its	its	PRP$	_	24	poss	_
+22	true	true	JJ	_	24	amod	_
+23	anti-BEE	anti-bee	JJ	_	24	amod	_
+24	face	face	NN	_	20	dobj	20:A1=PPT
+25	to	to	IN	_	24	prep	_
+26	the	the	DT	_	27	det	_
+27	world	world	NN	_	25	pobj	_
+28	.	.	.	_	2	punct	_
+
+1	Another	another	DT	_	2	det	_
+2	series	series	NN	_	10	nsubj	_
+3	of	of	IN	_	2	prep	_
+4	"	"	``	_	7	punct	_
+5	li	li	FW	p2=NN	7	nn	_
+6	ttle	ttle	FW	p2=JJ	7	nn	_
+7	mistakes	mistake	NNS	p2=FW	3	pobj	_
+8	"	"	''	p2=``	7	punct	_
+9	then	then	RB	_	10	advmod	10:AM-TMP
+10	resulted	result	VBD	pb=result.01	37	ccomp	_
+11	in one	in one	NNP	p2=NN	10	dobj	10:A1=PPT
+12	of	of	IN	_	11	prep	_
+13	the	the	DT	_	15	det	_
+14	shortest	short	JJS	_	15	amod	_
+15	marriages	marriage	NNS	_	12	pobj	_
+16	in	in	IN	_	15	prep	_
+17	the	the	DT	_	18	det	_
+18	history	history	NN	_	16	pobj	_
+19	of	of	IN	_	18	prep	_
+20	politics	politics	NNS	_	19	pobj	_
+21	,	,	,	_	37	punct	_
+22	 as	 as	NNP	p2=,	23	nn	_
+23	Zille	zille	NNP	_	32	poss	_
+24	's	's	POS	p2=VBZ	23	possessive	_
+25	on	on	RB	p2=IN	27	hmod	_
+26	-	-	HYPH	_	27	hyph	_
+27	again	again	RB	_	37	advmod	37:AM-TMP
+28	,	,	,	_	37	punct	_
+29	off	off	RB	_	31	hmod	_
+30	-	-	HYPH	_	31	hyph	_
+31	again	again	RB	_	32	amod	_
+32	courtship	courtship	NN	_	37	nsubj	37:A0
+33	of	of	IN	_	32	prep	_
+34	Agang	agang	NNP	_	36	nn	_
+35	leader Mamphela	leader mamphela	NNP	_	36	nn	_
+36	Ramphele	ramphele	NNP	_	33	pobj	_
+37	saw	see	VBD	pb=see.01	0	root	_
+38	the	the	DT	_	39	det	_
+39	latter	latter	JJ	_	40	nsubj	40:A1=PPT
+40	being	be	VBG	p2=NN|pb=be.01	37	ccomp	37:A1
+41	announced as	announced as	VBZ	p2=NNP	47	nn	_
+42	the	the	DT	_	43	det	_
+43	DA	da	NN	p2=NNP	47	poss	_
+44	's	's	POS	_	43	possessive	_
+45	"	"	``	_	47	punct	_
+46	presidential	presidential	JJ	_	47	amod	_
+47	candidate	candidate	NN	_	37	ccomp	_
+48	"	"	''	_	37	punct	_
+49	.	.	.	_	37	punct	_
+
+1	The	the	DT	_	3	det	_
+2	same	same	JJ	_	3	amod	_
+3	week	week	NN	_	10	npadvmod	10:AM-TMP;23:AM-TMP
+4	the	the	DT	_	5	det	_
+5	announcement	announcement	NN	_	7	nsubjpass	7:AM-PRR
+6	was	be	VBD	_	7	auxpass	_
+7	made	make	VBN	pb=make.LV	3	rcmod	_
+8	,	,	,	_	10	punct	_
+9	 Ramphele	 ramphele	NNP	p2=VB	10	nsubj	10:A0=PAG;23:A0=PPT
+10	reneged	renege	VBD	p2=VB|pb=renege.01	0	root	_
+11	on	on	IN	p2=RP	10	prep	10:A1=PPT
+12	an	an	DT	_	13	det	_
+13	agreement	agreement	NN	_	11	pobj	17:A1=PPT
+14	that	that	WDT	_	17	nsubjpass	17:R-A1
+15	would	would	MD	_	17	aux	17:AM-MOD
+16	see Agang	see agang	VB	p2=NNP	17	auxpass	_
+17	absorbed	absorb	VBN	p2=VBD|pb=absorb.01	13	rcmod	_
+18	into	into	IN	_	17	prep	17:A2=GOL
+19	the	the	DT	_	20	det	_
+20	DA	da	NN	p2=NNP	18	pobj	_
+21	,	,	,	_	10	punct	_
+22	and	and	CC	_	10	cc	_
+23	went	go	VBD	pb=go.02	10	conj	_
+24	on	on	RP	p2=RB	23	prt	23:C-V
+25	to	to	TO	_	26	aux	_
+26	lead	lead	VB	pb=lead.01	23	xcomp	_
+27	her own	her own	JJ	p2=RB	28	amod	_
+28	party	party	NN	_	26	dobj	26:A1=PPT
+29	to	to	IN	_	26	prep	26:A4=GOL
+30	a	a	DT	_	33	det	_
+31	truly	truly	RB	_	32	advmod	_
+32	dismal	dismal	JJ	_	33	amod	_
+33	showing	showing	NN	p2=VBG	29	pobj	_
+34	at	at	IN	_	33	prep	_
+35	the	the	DT	_	36	det	_
+36	polls	poll	NNS	_	34	pobj	_
+37	.	.	.	_	10	punct	_
+
+1	Then	then	RB	_	14	advmod	14:AM-TMP
+2	,	,	,	_	4	punct	_
+3	just	just	RB	_	4	advmod	_
+4	more	more	JJR	_	16	advmod	_
+5	than	than	IN	_	4	prep	_
+6	a	a	DT	_	7	det	_
+7	week	week	NN	_	8	npadvmod	_
+8	ago	ago	RB	_	5	pcomp	_
+9	,	,	,	_	14	punct	_
+10	former	former	JJ	_	13	amod	_
+11	Parliamentary leader	parliamentary leader	NNP	p2=NN	13	nn	_
+12	Lindiwe	lindiwe	NNP	_	13	nn	_
+13	Mazibuko	mazibuko	NNP	_	14	nsubj	14:A0=PAG
+14	announced	announce	VBD	p2=VBN|pb=announce.01	0	root	_
+15	-	-	HYPH	p2=:	16	hyph	_
+16	first	#ord#	JJ	p2=RB	18	amod	_
+17	to a	to a	NN	p2=''	18	nn	_
+18	newspaper	newspaper	NN	_	14	dobj	14:A1=PPT
+19	,	,	,	_	14	punct	_
+20	then	then	RB	_	14	advmod	_
+21	to	to	IN	p2=TO	14	prep	_
+22	Zille	zille	NNP	p2=NN	21	pobj	_
+23	-	-	:	p2=HYPH	14	punct	_
+24	that	that	IN	_	28	mark	_
+25	she	she	PRP	_	28	nsubj	36:A0=PAG;28:A1=PPT
+26	would	would	MD	_	28	aux	28:AM-MOD
+27	not	not	RB	_	28	neg	28:AM-NEG
+28	be	be	VB	pb=be.01	14	ccomp	_
+29	returning to	returning to	IN	p2=VBG	28	prep	28:A2=PRD
+30	the	the	DT	_	31	det	_
+31	legislature	legislature	NN	_	29	pobj	_
+32	,	,	,	_	28	punct	_
+33	and	and	CC	_	28	cc	_
+34	was	be	VBD	_	36	aux	_
+35	instead	instead	RB	_	36	advmod	36:AM-ADV
+36	heading	head	VBG	pb=head.02	28	conj	_
+37	to the	to the	NNP	p2=IN	38	nn	_
+38	US	us	NNP	_	36	dobj	40:A0=PAG;36:A1=PPT
+39	to	to	TO	_	40	aux	_
+40	further	further	VB	p2=RB|pb=further.01	36	advcl	36:AM-PRP
+41	her	her	PRP$	p2=PRP	42	poss	_
+42	education	education	NN	_	40	dobj	40:A1=PPT
+43	.	.	.	_	14	punct	_
+
+1	 Rumours	 rumours	NNS	p2=POS	8	nsubj	8:A1=PPT
+2	and	and	CC	_	1	cc	_
+3	speculation	speculation	NN	_	1	conj	_
+4	of	of	IN	_	3	prep	_
+5	power	power	NN	_	6	nn	_
+6	struggles	struggles	NNS	p2=VBZ	4	pobj	7:A0
+7	and infighting	and infighting	VBG	p2=NNP|pb=and infighting.01	6	partmod	_
+8	surfaced	surface	VBD	p2=VBN|pb=surface.01	0	root	_
+9	immediately	immediately	RB	_	8	advmod	8:AM-TMP
+10	,	,	,	_	8	punct	_
+11	but	but	CC	_	8	cc	_
+12	surely	surely	RB	_	19	advmod	19:AM-ADV
+13	even	even	RB	_	14	advmod	_
+14	the most	the most	RB	p2=JJS	15	advmod	_
+15	optimistic	optimistic	JJ	_	16	amod	_
+16	gossipmongers	gossipmonger	NNS	_	19	nsubj	19:A0=PAG
+17	would	would	MD	_	19	aux	19:AM-MOD
+18	n't	not	RB	_	19	neg	19:AM-NEG
+19	have	have	VB	pb=have.03	8	conj	_
+20	imaged what	imaged what	NNP	p2=VBN	21	nsubj	21:A1
+21	happened	happened	VBD	p2=VBN|pb=happen.01	19	ccomp	19:A1=PPT
+22	next	next	RB	p2=JJ	21	advmod	21:AM-LOC
+23	.	.	.	_	19	punct	_
+
+1	Yesterday	yesterday	NN	_	6	npadvmod	6:AM-TMP
+2	,	,	,	_	6	punct	_
+3	the	the	DT	_	5	det	_
+4	Sunday	sunday	NNP	_	5	nn	_
+5	Times	times	NNP	_	6	nsubj	6:A0=PAG
+6	reported	report	VBD	pb=report.01	0	root	_
+7	that	that	IN	p2=DT	8	nsubj	8:R-A0
+8	Zille launched	zille launched	VBD	p2=NNP|pb=zille launched.01	6	ccomp	6:A1
+9	an	an	DT	_	12	det	_
+10	extraordinary	extraordinary	JJ	_	12	amod	_
+11	a	a	DT	p2=NN	12	det	_
+12	ttack	ttack	NN	_	8	dobj	8:A1
+13	on	on	IN	_	12	prep	_
+14	Mazibuko	mazibuko	NNP	_	19	nn	_
+15	during a	during a	NNP	p2=POS	16	nn	_
+16	DA	da	NNP	p2=NN	19	nn	_
+17	federal	federal	JJ	_	19	amod	_
+18	executive	executive	JJ	p2=NN	19	amod	_
+19	meeting	meeting	NN	_	13	pobj	_
+20	last	last	JJ	_	21	amod	_
+21	Friday	friday	NNP	_	12	npadvmod	_
+22	,	,	,	_	8	punct	_
+23	reportedly saying	reportedly saying	VBG	pb=reportedly saying.01	8	advcl	_
+24	that	that	IN	_	28	complm	_
+25	she	she	PRP	_	28	nsubj	28:A0=PAG;34:A0=PAG
+26	had	have	VBD	_	28	aux	_
+27	"	"	``	_	28	punct	_
+28	made	make	VBN	p2=FW|pb=make.01	23	ccomp	23:A1
+29	"	"	''	p2=``	28	punct	_
+30	Mazibuko	mazibuko	NNP	p2=JJ	28	dobj	28:A1=PRD
+31	and	and	CC	_	28	cc	_
+32	also	also	RB	_	34	advmod	34:AM-DIS
+33	"	"	``	p2=''	34	punct	_
+34	saved	save	VBD	pb=save.02	28	conj	_
+35	"	"	''	_	34	punct	_
+36	 her	 her	,	p2=NN	34	punct	_
+37	on	on	IN	_	34	prep	34:AM-TMP
+38	several	several	JJ	_	39	amod	_
+39	occasions	occasion	NNS	_	37	pobj	_
+40	.	.	.	_	6	punct	_
+
+1	Zille	zille	NNP	_	2	nsubj	2:A0=PAG
+2	denied	deny	VBD	pb=deny.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	claims	claim	NNS	_	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	 Critics	 critics	NNS	p2=NNPS	22	nsubj	3:A0=PAG;22:A0=PAG
+2	who	who	WP	_	3	nsubj	3:R-A0
+3	claim	claim	VBP	pb=claim.01	1	rcmod	_
+4	that	that	IN	p2=DT	11	complm	_
+5	young	young	JJ	_	7	amod	_
+6	black	black	JJ	_	7	amod	_
+7	leaders	leader	NNS	_	11	nsubj	11:A0=PAG;16:A0=PAG
+8	like	like	IN	p2=UH	7	prep	_
+9	Mazibuko were	mazibuko were	NNP	_	8	pobj	_
+10	only	only	RB	_	11	advmod	11:AM-ADV
+11	elevated	elevate	VBD	p2=JJ|pb=elevate.01	3	ccomp	3:A1=PPT
+12	to	to	IN	_	11	prep	11:A2=GOL
+13	their	their	PRP$	_	14	poss	_
+14	positions	position	NNS	_	12	pobj	_
+15	to	to	TO	_	16	aux	_
+16	make	make	VB	pb=make.02	11	advcl	11:AM-PRP
+17	the party	the party	PRP	p2=NN	18	nsubj	_
+18	appear	appear	VB	p2=VBP|pb=appear.02	16	ccomp	16:A1=PRD
+19	more	more	RBR	_	20	advmod	_
+20	black	black	JJ	_	18	oprd	18:A1=PPT
+21	now	now	RB	_	18	advmod	18:AM-TMP
+22	feel	feel	VBP	pb=feel.02	0	root	_
+23	that	that	IN	_	25	complm	_
+24	they	they	PRP	_	25	nsubj	25:A0=PAG
+25	have	have	VBP	pb=have.03	22	ccomp	22:A1=PPT
+26	confirmation	confirmation	NN	_	25	dobj	25:A1=PPT
+27	of	of	IN	_	26	prep	_
+28	their	their	PRP$	_	29	poss	_
+29	claims	claim	NNS	_	27	pobj	_
+30	-	-	:	p2=,	29	punct	_
+31	from	from	IN	_	29	prep	_
+32	the	the	DT	_	33	det	_
+33	mouth	mouth	NN	_	31	pobj	_
+34	of	of	IN	_	33	prep	_
+35	the	the	DT	_	36	det	_
+36	DA leader	da leader	NNP	p2=NN	34	pobj	_
+37	herself	herself	PRP	_	36	appos	_
+38	.	.	.	_	22	punct	_
+
+1	Earlier	early	RBR	p2=JJR	3	advmod	_
+2	last	last	JJ	_	3	amod	_
+3	week	week	NN	_	5	npadvmod	5:AM-TMP
+4	Zille	zille	NNP	_	5	nsubj	5:A0=PAG
+5	claimed	claim	VBD	pb=claim.01	0	root	_
+6	Mazibuko	mazibuko	NNP	_	7	nn	_
+7	would have	would have	NNP	p2=NNPS	8	nsubj	8:A0=PAG
+8	lost	lose	VBD	pb=lose.02	5	ccomp	5:A1=PPT
+9	a	a	DT	_	17	det	_
+10	much	much	RB	_	12	hmod	_
+11	-	-	HYPH	_	12	hyph	_
+12	talked	talk	VBN	_	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	about	about	RP	p2=RB	17	amod	_
+15	face	face	NN	_	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	off	off	NN	p2=RP	8	dobj	8:A1=PPT
+18	,	,	,	_	17	punct	_
+19	reportedly	reportedly	RB	_	21	advmod	_
+20	with Mmusi	with mmusi	NNP	p2=IN	21	nn	_
+21	Maimane	maimane	NNP	_	17	appos	_
+22	,	,	,	_	17	punct	_
+23	to	to	TO	_	25	aux	_
+24	be	be	VB	_	25	auxpass	_
+25	re-elected	re-elect	VBN	pb=re-elect.01	17	infmod	_
+26	DA	da	NN	p2=NNP	27	nn	_
+27	parliamentary leader	parliamentary leader	NN	p2=NNP	25	oprd	25:A2
+28	.	.	.	_	5	punct	_
+
+1	She	she	PRP	_	2	nsubj	2:A0
+2	said	say	VBD	pb=say.01	0	root	_
+3	she	she	PRP	_	4	nsubj	4:A0=PAG
+4	offered	offer	VBD	pb=offer.01	2	ccomp	2:A1=PPT
+5	Mazibuko	mazibuko	NNP	_	4	iobj	4:A3=GOL
+6	the	the	DT	_	7	det	_
+7	position	position	NN	_	4	dobj	4:A1=PPT
+8	of	of	IN	_	7	prep	_
+9	Gauteng premier	gauteng premier	JJR	p2=NNP	10	amod	_
+10	candidate	candidate	NN	_	8	pobj	14:A1=PPT
+11	,	,	,	_	10	punct	_
+12	which	which	WDT	_	14	nsubj	14:R-A1
+13	eventually	eventually	RB	_	14	advmod	14:AM-TMP
+14	went	go	VBD	pb=go.10	10	rcmod	_
+15	to Maimane	to maimane	NNP	p2=NN	14	npadvmod	14:AM-TMP
+16	,	,	,	_	4	punct	_
+17	but	but	CC	_	4	cc	_
+18	that	that	IN	p2=DT	20	mark	_
+19	Mazibuko	mazibuko	NNP	_	20	nsubj	_
+20	declined	decline	VBD	pb=decline.01	4	conj	_
+21	the	the	DT	_	22	det	_
+22	offer	offer	NN	_	20	dobj	20:A1=PPT
+23	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	3	nsubj	3:A0=PAG
+2	all	all	DT	_	1	appos	_
+3	raises	raise	VBZ	pb=raise.01	0	root	_
+4	more	more	JJR	_	5	amod	_
+5	questions	question	NNS	_	3	dobj	3:A1=PPT
+6	than	than	IN	_	8	mark	_
+7	it	it	PRP	_	8	nsubj	8:A0=PAG
+8	answers	answer	VBZ	p2=NNS|pb=answer.01	3	advcl	_
+9	.	.	.	_	3	punct	_
+
+1	Just	just	RB	_	2	advmod	_
+2	as	as	IN	_	12	prep	12:AM-ADV
+3	those	those	DT	_	2	pobj	6:A0=PAG
+4	who	who	WP	_	6	nsubj	6:R-A0
+5	reflexively	reflexively	RB	_	6	advmod	6:AM-MNR
+6	vote	vote	VBP	p2=VB|pb=vote.01	3	rcmod	_
+7	for	for	IN	_	6	prep	6:A1=PPT
+8	the	the	DT	_	9	det	_
+9	ruling	ruling	NN	p2=VBG	7	pobj	_
+10	party should	party should	MD	p2=NNP	23	aux	_
+11	be	be	VB	_	12	aux	_
+12	demanding	demand	VBG	pb=demand.01	0	root	_
+13	more	more	JJR	p2=RBR	12	dobj	12:A1=PPT
+14	for	for	IN	_	12	prep	12:AM-PNC
+15	their	their	PRP$	_	17	poss	_
+16	loyal	loyal	JJ	_	17	amod	_
+17	support	support	NN	_	14	pobj	_
+18	,	,	,	_	23	punct	_
+19	 so	 so	NNP	p2=WP	17	appos	_
+20	should	should	MD	_	23	aux	23:AM-MOD
+21	those	those	DT	_	3	conj	23:A0
+22	who	who	WP	_	23	nsubj	23:R-A0
+23	support	support	VB	p2=VBP|pb=support.01	21	rcmod	_
+24	the	the	DT	_	25	det	_
+25	official	official	JJ	p2=NN	23	dobj	23:A1
+26	opposition demand	opposition demand	CC	p2=,	25	cc	_
+27	more	more	JJR	p2=RBR	25	conj	_
+28	from	from	IN	_	27	prep	_
+29	its	its	PRP$	_	30	poss	_
+30	leadership	leadership	NN	_	28	pobj	_
+31	.	.	.	_	19	punct	_
+
+1	If	if	IN	_	2	mark	_
+2	not	not	RB	_	5	advcl	5:AM-ADV
+3	,	,	,	_	5	punct	_
+4	everyone	everyone	NN	_	5	nsubj	5:A0=PAG
+5	loses	lose	VBZ	pb=lose.03	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Despite	despite	IN	_	6	prep	6:AM-ADV
+2	these	these	DT	_	3	det	_
+3	issues	issue	NNS	_	1	pobj	_
+4	she	she	PRP	_	6	nsubj	6:A1=PPT
+5	still	still	RB	_	6	advmod	6:AM-TMP
+6	is	be	VBZ	pb=be.01	0	root	_
+7	by	by	IN	_	8	advmod	_
+8	far	far	RB	_	6	advmod	6:A2=PRD
+9	the	the	DT	_	12	det	_
+10	best	good	JJS	_	12	amod	_
+11	party	party	NN	_	12	nn	_
+12	leader	leader	NN	_	6	attr	_
+13	,	,	,	_	12	punct	_
+14	streets	street	NNS	p2=VBZ	12	appos	_
+15	ahead	ahead	RB	_	14	advmod	_
+16	of	of	IN	_	15	prep	_
+17	Zuma	zuma	NNP	p2=NN	16	pobj	_
+18	in	in	IN	_	14	prep	_
+19	the	the	DT	_	21	det	_
+20	brains	brain	NNS	_	21	nn	_
+21	department	department	NN	_	18	pobj	_
+22	.	.	.	_	6	punct	_
+

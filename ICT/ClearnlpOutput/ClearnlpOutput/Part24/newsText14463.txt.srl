@@ -1,0 +1,46 @@
+1	(	(	-LRB-	_	13	punct	_
+2	Erlanger	erlanger	NNP	p2=JJR	13	dep	_
+3	,	,	,	_	2	punct	_
+4	KY	ky	NNP	_	2	npadvmod	_
+5	)	)	-RRB-	_	13	punct	_
+6	-	-	:	p2=,	13	punct	_
+7	The	the	DT	_	8	det	_
+8	body	body	NN	_	13	nsubjpass	13:A1=PPT
+9	of	of	IN	_	8	prep	_
+10	a	a	DT	_	11	det	_
+11	woman	woman	NN	_	9	pobj	_
+12	was	be	VBD	_	13	auxpass	_
+13	found	find	VBN	pb=find.01	0	root	_
+14	on	on	IN	_	13	prep	13:AM-LOC
+15	the	the	DT	_	16	det	_
+16	side	side	NN	_	14	pobj	_
+17	of	of	IN	_	16	prep	_
+18	the	the	DT	_	19	det	_
+19	road	road	NN	_	17	pobj	_
+20	Saturday	saturday	NNP	_	13	npadvmod	13:AM-TMP
+21	,	,	,	_	13	punct	_
+22	in	in	IN	_	13	prep	13:AM-LOC
+23	Erlanger	erlanger	NNP	_	22	pobj	_
+24	,	,	,	_	23	punct	_
+25	Kentucky	kentucky	NNP	_	23	appos	_
+26	.	.	.	_	13	punct	_
+
+1	 	 	,	p2=NFP	15	punct	_
+2	And	and	CC	_	15	cc	15:AM-DIS
+3	the	the	DT	_	4	det	_
+4	man	man	NN	_	15	nsubj	8:A0=PAG;15:A0=PAG;5:A1=PPT
+5	believed	believe	VBN	p2=VBD|pb=believe.01	4	partmod	_
+6	to	to	TO	_	8	aux	_
+7	be	be	VB	_	8	aux	_
+8	driving	drive	VBG	pb=drive.02	5	xcomp	_
+9	the	the	DT	_	10	det	_
+10	car	car	NN	_	8	dobj	12:A0=PAG;8:A1=PPT
+11	that	that	WDT	_	12	nsubj	12:R-A0
+12	struck	strike	VBD	pb=strike.01	10	rcmod	_
+13	her	her	PRP	_	12	dobj	12:A1=PPT
+14	,	,	,	_	4	punct	_
+15	surrendered	surrender	VBD	pb=surrender.01	0	root	_
+16	to	to	IN	p2=TO	15	prep	15:A2=GOL
+17	police	police	NNS	p2=NN	16	pobj	_
+18	.	.	.	_	15	punct	_
+

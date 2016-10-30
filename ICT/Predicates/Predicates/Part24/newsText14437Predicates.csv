@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+one neighbor,accuse.01,the other,of growing pot at,Affirmative, We 're told one neighbor accused the other of growing pot at a house on Tackett Creek Road . 
+Deputies,say.01,neighbor let,,Affirmative,Deputies said the accused neighbor let them search his home . 
+the accused neighbor,let.01,them search,,Affirmative,Deputies said the accused neighbor let them search his home . 
+Deputies,search.01,his home,,Affirmative,Deputies said the accused neighbor let them search his home . 
+Deputies,say.01,they found,,Affirmative,They say they found a large bag containing smaller baggies full of pot . 
+Deputies,find.01,a large bag containing,,Affirmative,They say they found a large bag containing smaller baggies full of pot . 
+a large bag containing,contain.01,smaller baggies full of pot,,Affirmative,They say they found a large bag containing smaller baggies full of pot . 
+Josh Singletary,say.01,it was his and,,Affirmative,Josh Singletary reportedly said it was his and is now facing drug trafficking charges . 
+a large bag containing smaller baggies full of pot,face.01,trafficking charges,,Affirmative,Josh Singletary reportedly said it was his and is now facing drug trafficking charges . 

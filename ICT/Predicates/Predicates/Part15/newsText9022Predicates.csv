@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+  |, 0.01,premium articles left,,Affirmative,Login   /   Register   |  3 premium articles left before you must register . 
+Court jury today,find.01,Holmes guilty of murder,,Affirmative,"A New London Superior Court jury today found Daquan Q Holmes guilty of murder and attempted murder in the May 21 , 2011 shooting death of Johnny Amy , a man the prosecution said was not the intended target . "
+Court jury today,attempt.01,murder,,Affirmative,"A New London Superior Court jury today found Daquan Q Holmes guilty of murder and attempted murder in the May 21 , 2011 shooting death of Johnny Amy , a man the prosecution said was not the intended target . "
+the prosecution,say.01,a man,,Affirmative,"A New London Superior Court jury today found Daquan Q Holmes guilty of murder and attempted murder in the May 21 , 2011 shooting death of Johnny Amy , a man the prosecution said was not the intended target . "
+The jury of 12,announce.01,the verdict,,Affirmative,The jury of 12 deliberated all day Thursday and 45 minutes today before announcing the verdict . 
+"Holmes , 27 ,",face.01,80 years in prison,,Affirmative,"Holmes , 27 , faces up to 80 years in prison when Judge Barbara Bailey Jongbloed sentences him on July 14 . "
+Judge Barbara Bailey Jongbloed,sentence.01,Barbara Bailey Jongbloed,,Affirmative,"Holmes , 27 , faces up to 80 years in prison when Judge Barbara Bailey Jongbloed sentences him on July 14 . "
+"Holmes , of Queens , N.Y.",serve.01,time,,Affirmative,He was serving time for an armed robbery when Norwich police brought him to Connecticut last year to face murder charges . 
+Norwich police,bring.01,Norwich police,to Connecticut,Affirmative,He was serving time for an armed robbery when Norwich police brought him to Connecticut last year to face murder charges . 
+Norwich police,face.01,murder charges,,Affirmative,He was serving time for an armed robbery when Norwich police brought him to Connecticut last year to face murder charges . 
+"Holmes , of Queens , N.Y.",reject.01,an offer from,,Affirmative,"In taking the case to trial , he rejected an offer from the state to plead guilty in exchange for a 37 - year prison sentence . "
+"Holmes , of Queens , N.Y.",hear.01,the verdict,,Affirmative,"Hearing the verdict , he turned toward female family members in the gallery who burst into tears . "
+"Amy ,",work.01,his shift at Foxwoods,,Affirmative,"According to testimony , Amy , a father of a young boy , had worked his shift at Foxwoods , then spent some time at a downtown Norwich apartment with a friend , Joseph Cadet , before they left to walk home . "
+"Amy ,",spend.02,some time,,Affirmative,"According to testimony , Amy , a father of a young boy , had worked his shift at Foxwoods , then spent some time at a downtown Norwich apartment with a friend , Joseph Cadet , before they left to walk home . "
+"Trig Long , out",have.03,an argument with,,Affirmative,"Around the same time , Holmes and William Trig Long , out that night with two women , had an argument with Cornelius Wingate outside of Chacers Bar on Franklin Street . "
+Cornelius Wingate,testify.01,that he was,,Affirmative,Wingate testified that he was too drunk to remember the encounter but that he was stabbed during the incident . 
+Cornelius Wingate,remember.01,the encounter,,Affirmative,Wingate testified that he was too drunk to remember the encounter but that he was stabbed during the incident . 
+Maria Fluker and,serve.01,as,,Affirmative,"Maria Fluker and Roberta Karr , who were with Holmes and Long that night had served as key witnesses at the trial . "
+Long 's,retrieve.01,pistol from,,Affirmative,"They said after the beef at Chacers , Long retrieved a Ruger .22 pistol from his East Main Street apartment . "
+Maria Fluker,say.01,Long handed,,Affirmative,"Fluker drove to the area of Oak and Franklin streets , where Fluker said Long handed the gun to Holmes . "
+Long 's,hand.01,the gun,to Holmes,Affirmative,"Fluker drove to the area of Oak and Franklin streets , where Fluker said Long handed the gun to Holmes . "
+"Amy , a father of a young boy",say.01,jumped out of,,Affirmative,"When they came upon Amy and Cadet walking down the street , she said Long and Holmes jumped out of the car and she heard gunfire . "
+"Amy , a father of a young boy",hear.01,gunfire,,Affirmative,"When they came upon Amy and Cadet walking down the street , she said Long and Holmes jumped out of the car and she heard gunfire . "
+"Amy , a father of a young boy",say.01,Long threw,,Affirmative,"She said Long threw the pistol out the car window as they fled the scene , and police recovered it in the grass on the northwest corner of Roath and Mullen streets . "
+Long 's,throw.01,a Ruger .22 pistol from his East Main Street apartment,out,Affirmative,"She said Long threw the pistol out the car window as they fled the scene , and police recovered it in the grass on the northwest corner of Roath and Mullen streets . "
+"Maria Fluker and Roberta Karr , who were with Holmes and Long that night",flee.01,the scene,,Affirmative,"She said Long threw the pistol out the car window as they fled the scene , and police recovered it in the grass on the northwest corner of Roath and Mullen streets . "
+police,recover.02,a Ruger .22 pistol from his East Main Street apartment,,Affirmative,"She said Long threw the pistol out the car window as they fled the scene , and police recovered it in the grass on the northwest corner of Roath and Mullen streets . "
+Norwich police,recover.02,a bullet of,,Affirmative,The police recovered a bullet of the same caliber at Long 's apartment . 
+The jury of 12,watch.01,footage captured by,,Affirmative,"During the trial , the jury had watched footage captured by a surveillance camera at a nearby laundromat that shows Amy behind Cadet on Franklin Street before collapsing suddenly in the middle of the street . "
+by,capture.01,footage captured by,,Affirmative,"During the trial , the jury had watched footage captured by a surveillance camera at a nearby laundromat that shows Amy behind Cadet on Franklin Street before collapsing suddenly in the middle of the street . "
+a nearby laundromat,show.01,Amy,,Affirmative,"During the trial , the jury had watched footage captured by a surveillance camera at a nearby laundromat that shows Amy behind Cadet on Franklin Street before collapsing suddenly in the middle of the street . "
+Cadet,testify.01,that he told,,Affirmative,Cadet testified that he told the men who pulled up to them that night that they had the wrong person . 
+Cadet on Franklin Street,tell.01,that they had,the men,Affirmative,Cadet testified that he told the men who pulled up to them that night that they had the wrong person . 
+the men who pulled up to them,have.03,the wrong person,,Affirmative,Cadet testified that he told the men who pulled up to them that night that they had the wrong person . 
+Prosecutor Stephen M. Carney,say.01,were wearing,,Affirmative,Prosecutor Stephen M. Carney said both Wingate and Amy were wearing red shirts that night . 
+both Wingate and Amy,wear.01,red shirts,,Affirmative,Prosecutor Stephen M. Carney said both Wingate and Amy were wearing red shirts that night . 
+Prosecutor Stephen M. Carney,say.01,he was impressed with,,Affirmative,"After the verdict , Carney said he was impressed with how hard the jury had worked . "
+the panel,watch.01,hour video of,,Affirmative,"During deliberations , the panel watched a three - hour video of a police interrogation of Holmes even though the videotape did not contain a confession . "
+the videotape,contain.01,a confession,,Affirmative,"During deliberations , the panel watched a three - hour video of a police interrogation of Holmes even though the videotape did not contain a confession . "
+both Wingate and Amy,understand.01,all the evidence,,Affirmative,"They were very conscientious in making sure they understood all the evidence , Carney said . "
+Prosecutor Stephen M. Carney,say.01,They were,,Affirmative,"They were very conscientious in making sure they understood all the evidence , Carney said . "
+your employer,want.01,to see,,Affirmative,Clean up your Facebook page ; your employer does n't want to see your keg - stand prowess . 
+your employer,see.01,stand prowess,,Affirmative,Clean up your Facebook page ; your employer does n't want to see your keg - stand prowess . 

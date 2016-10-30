@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+3 D,print.01,printed titanium implant and bone,,Affirmative,Hip surgery conducted with a 3 D printed titanium implant and bone stem cell graft has been conducted in Southampton . 
+the implant,provide.01,a new socket for,,Affirmative,"According to Southampton University , the implant will provide a new socket for the ball of the femur bone to enter . "
+Doctors,insert.01,a graft containing,,Affirmative,Doctors have also inserted a graft containing bone stem cells behind the implant and between the pelvis . 
+a graft containing,contain.01,bone stem cells behind,,Affirmative,Doctors have also inserted a graft containing bone stem cells behind the implant and between the pelvis . 
+own bone marrow cells added to,provide.01,a source of,,Affirmative,"The graft is said to acts as a filler for the loss of bone , with the patient 's own bone marrow cells added to the graft to provide a source of bone stem cells to encourage bone regeneration behind and around the implant . "
+a translational research programme,drive.02,bone formation,,Affirmative,"Over the past decade Dunlop and Prof Richard Oreffo , at Southampton University , have developed a translational research programme to drive bone formation using patient skeletal stem cells in orthopaedics . "
+of,make.07,The graft used in,,Affirmative,The graft used in the operation is made up of a bone scaffold that allows blood to flow through it . 
+a bone scaffold,allow.01,blood to flow through it,,Affirmative,The graft used in the operation is made up of a bone scaffold that allows blood to flow through it . 
+Stem cells from,grow.01,"new bone ,",,Affirmative,"Stem cells from the bone marrow will attach to the material and grow new bone , which will support the 3 D printed hip implant . "
+"new bone ,",support.01,printed hip implant,,Affirmative,"Stem cells from the bone marrow will attach to the material and grow new bone , which will support the 3 D printed hip implant . "
+D,print.01,printed hip implant,,Affirmative,"Stem cells from the bone marrow will attach to the material and grow new bone , which will support the 3 D printed hip implant . "
+Prof Richard Oreffo,say.01,scans of,,Affirmative,"In a statement , Prof Oreffo said : ' The 3 D printing of the implant in titanium , from CT scans of the patient and stem cell graft is cutting edge and offers the possibility of improved outcomes for patients . "
+The 3 D printing of,scan.01,of,,Affirmative,"In a statement , Prof Oreffo said : ' The 3 D printing of the implant in titanium , from CT scans of the patient and stem cell graft is cutting edge and offers the possibility of improved outcomes for patients . "
+cell graft,cut.02,edge,,Affirmative,"In a statement , Prof Oreffo said : ' The 3 D printing of the implant in titanium , from CT scans of the patient and stem cell graft is cutting edge and offers the possibility of improved outcomes for patients . "
+cell graft,offer.01,the possibility of,,Affirmative,"In a statement , Prof Oreffo said : ' The 3 D printing of the implant in titanium , from CT scans of the patient and stem cell graft is cutting edge and offers the possibility of improved outcomes for patients . "

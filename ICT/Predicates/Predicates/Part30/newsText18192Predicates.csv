@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Alex Neil,face.01,demands,,Affirmative,Alex Neil was facing demands last night that he make an urgent statement to parliament over his role in a health shake - up in his own constituency . 
+Mr Neil,reverse.01,the decision taken by,,Affirmative,"Mr Neil not only reversed the decision taken by his predecessor , Nicola Sturgeon , but over-ruled the local health board . "
+by,take.01,the decision taken by,,Affirmative,"Mr Neil not only reversed the decision taken by his predecessor , Nicola Sturgeon , but over-ruled the local health board . "
+Mr Neil,over-ruled.01,the local health board,,Affirmative,"Mr Neil not only reversed the decision taken by his predecessor , Nicola Sturgeon , but over-ruled the local health board . "
+by,use.01,"the two wards ,",,Affirmative,"It also became clear over the weekend that the two wards , which were used by mental health patients , contained asbestos . "
+"the two wards ,",contain.01,asbestos,,Affirmative,"It also became clear over the weekend that the two wards , which were used by mental health patients , contained asbestos . "

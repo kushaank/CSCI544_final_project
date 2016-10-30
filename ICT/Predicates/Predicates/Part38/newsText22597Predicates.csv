@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+York woman convicted of assaulting,assault.01,a police officer,,Affirmative,A New York woman convicted of assaulting a police officer during a 2012 Occupy Wall Street protest has been sentenced to 90 days in jail . 
+a judge,announce.01,the sentence,,Affirmative,The court room was packed with supporters on Monday as a judge announced the sentence . 
+Cecily McMillan,apologise.01,for injuring,,Affirmative,"In court , she apologised for injuring the officer but maintained she was innocent . "
+Cecily McMillan,injure.01,a police officer,,Affirmative,"In court , she apologised for injuring the officer but maintained she was innocent . "
+Cecily McMillan,maintain.01,she was innocent,,Affirmative,"In court , she apologised for injuring the officer but maintained she was innocent . "
+Cecily McMillan,say.01,that I am innocent of,,Affirmative,"I can say with certainly that I am innocent of the crime I was convicted of , she said on Monday . "
+Cecily McMillan,say.01,I can say with certainly,,Affirmative,"I can say with certainly that I am innocent of the crime I was convicted of , she said on Monday . "
+Cecily McMillan,confess.01,to,,Affirmative,I can not confess to a crime I did not commit ... 
+Cecily McMillan,commit.01,a crime,,Affirmative,I can not confess to a crime I did not commit ... 
+McMillan,elbow.01,Officer Grantley Bovell,,Affirmative,McMillan was charged with deliberately elbowing Officer Grantley Bovell in the eye during a police action on 17 March 2012 . 
+A jury,reject.01,her defence,,Affirmative,A jury rejected her defence that she instinctively struck out at someone she believed had groped her breast . 
+she,grope.01,her breast,,Affirmative,A jury rejected her defence that she instinctively struck out at someone she believed had groped her breast . 
+nine of,send.01,a letter,to,Affirmative,"But nine of the 12 jurors sent a letter to the judge after the conviction asking him not to sentence her to jail or prison and to consider probation instead , US media reported . "
+the conviction asking him,ask.02,not to sentence her to jail or prison,him,Affirmative,"But nine of the 12 jurors sent a letter to the judge after the conviction asking him not to sentence her to jail or prison and to consider probation instead , US media reported . "
+him,sentence.01,her,to jail or prison,Affirmative,"But nine of the 12 jurors sent a letter to the judge after the conviction asking him not to sentence her to jail or prison and to consider probation instead , US media reported . "
+him,consider.02,probation,,Affirmative,"But nine of the 12 jurors sent a letter to the judge after the conviction asking him not to sentence her to jail or prison and to consider probation instead , US media reported . "
+US media,report.01,sent,,Affirmative,"But nine of the 12 jurors sent a letter to the judge after the conviction asking him not to sentence her to jail or prison and to consider probation instead , US media reported . "
+Judge Ronald Zweibel,agree.01,to probation,,Affirmative,Judge Ronald Zweibel did not agree to probation . 
+A civil society,allow.01,assault to be committed under,,Affirmative,A civil society must not allow an assault to be committed under the guise of civil disobedience ... 
+Ms McMillan,take.01,responsibility for,,Affirmative,"Ms McMillan must take responsibility for her conduct , he said in court on Monday , but added a lengthy sentence would not serve the interests of justice in this case . "
+he,say.01,McMillan must take responsibility for,,Affirmative,"Ms McMillan must take responsibility for her conduct , he said in court on Monday , but added a lengthy sentence would not serve the interests of justice in this case . "
+he,add.01,sentence would not serve,,Affirmative,"Ms McMillan must take responsibility for her conduct , he said in court on Monday , but added a lengthy sentence would not serve the interests of justice in this case . "
+by,dismiss.01,78 % of,,Affirmative,"More than 78 % of 2,600 cases stemming out of the Occupy protests against economic inequality and the concentration of corporate power were dismissed by Manhattan prosecutors on the condition the defendants stay out of trouble for six months , the Associated Press reported . "
+the Associated Press,report.01,were dismissed by,,Affirmative,"More than 78 % of 2,600 cases stemming out of the Occupy protests against economic inequality and the concentration of corporate power were dismissed by Manhattan prosecutors on the condition the defendants stay out of trouble for six months , the Associated Press reported . "

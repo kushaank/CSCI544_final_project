@@ -1,0 +1,10 @@
+
+Over the last few hours we have been hearing a lot of people comment through the likes of Facebook that they are having problems in getting online to a number of major and smaller sites around the globe, bur particularly in the EU and US. To save you the torment of trying to diagnose what the problem is, we have got word that there is a major issue currently being looked into on the Transatlantic Internet Pipeline that joins Europe to the US between Amsterdam and New York. According to Digital Ocean, the AMS1 and AMS2 datacentres on Amsterdam are currently experiencing a major outage, with the result being widespread connection issues across the EU.
+
+At this time we’re experience a network outage in our AMS1 and AMS2 datacenters. With secondary impact affecting customers in Europe. As a result, you may experience latency, connectivity issues, or slow pings. Preliminary investigation indicates that Telias Transatlantic cable are down. We are working to resolve the issue and apologize for any interruption this causes for you.
+
+Whilst engineers attempt to resolve this server outage, they are attempting to redirect traffic around the AMS servers in order to restore connections across the globe.
+
+As we mentioned previously, we have routed around the affected network provider. Unfortunately, since this is a widespread problem affecting a significant portion of all Internet traffic between North America and Europe, you may continue to see degraded performance.
+
+How long this outage is going to last for is an unknown entity at the moment, naturally this does mean for some of our EU readers that eTeknix may be unreachable and we are aware of the problems. As we can see from the image above though, there are a number of alternative routes that engineers can redirect traffic to in order to maintain a good level of service, but this does take some time to do. As soon as I hear any updates regarding the link I’ll be sure to update this post below.

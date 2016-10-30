@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+No,look.01,at,,Affirmative,Let 's look at the latest data from the U.S. Bureau of Labor Statistics . 
+BLS,derive.01,its monthly releases of,The household survey,Affirmative,The household survey from which BLS derives its monthly releases of state and local unemployment rates has a fairly small sample size . 
+The household survey,have.03,small sample size,,Affirmative,The household survey from which BLS derives its monthly releases of state and local unemployment rates has a fairly small sample size . 
+BLS,report.01,"the standard unemployment rate , called U-3",,Affirmative,"While BLS reports the standard unemployment rate , called U-3 , on a monthly basis , it does not feel comfortable delving more deeply into the survey for monthly data explaining what is happening to those no longer considered in the labor force . "
+the `` standard '' unemployment rate,feel.01,comfortable delving,,Affirmative,"While BLS reports the standard unemployment rate , called U-3 , on a monthly basis , it does not feel comfortable delving more deeply into the survey for monthly data explaining what is happening to those no longer considered in the labor force . "
+monthly data explaining,explain.01,what is happening to those,,Affirmative,"While BLS reports the standard unemployment rate , called U-3 , on a monthly basis , it does not feel comfortable delving more deeply into the survey for monthly data explaining what is happening to those no longer considered in the labor force . "
+BLS,use.01,12 months of,to construct,Affirmative,"Instead , BLS uses 12 months of survey data to construct six different unemployment measures with varying breadths . "
+workers,lack.01,jobs,,Affirmative,The familiar U-3 rate consists of workers who lack jobs and are actively looking for work . 
+workers,look.01,for work,,Affirmative,The familiar U-3 rate consists of workers who lack jobs and are actively looking for work . 
+North Carolina 's,have.03,largest drop in,,Affirmative,"In fact , North Carolina had the second - largest drop in U-3 unemployment in the nation . "
+U-3,tell.01,the whole story,,Affirmative,"Now , U-3 does n't tell the whole story . "
+a worker,stop.01,looking for,,Affirmative,"If a worker gets discouraged and stops looking for a job , he 's no longer in U-3 . "
+a worker,look.01,for,,Affirmative,"If a worker gets discouraged and stops looking for a job , he 's no longer in U-3 . "
+a worker,stop.01,looking,,Affirmative,"If he stops looking for a job to move to another place , move home to take care of elderly parents , or go back to school , he 's no longer in U-3 . "
+a worker,look.01,job to move to,,Affirmative,"If he stops looking for a job to move to another place , move home to take care of elderly parents , or go back to school , he 's no longer in U-3 . "
+a worker,take.01,time job making,,Affirmative,"And if he takes a part - time job making 50 percent of what he used to make , but would still like a full - time job , he 's no longer in U-3 . "
+a worker,like.01,time job,,Affirmative,"And if he takes a part - time job making 50 percent of what he used to make , but would still like a full - time job , he 's no longer in U-3 . "
+I,describe.01,the three broader measures of,,Affirmative,I just described the three broader measures of labor utilization . 
+U-5,take.07,attached workers,,Affirmative,U-5 takes in all other marginally attached workers . 
+U-6,take.07,the involuntary part - timers,,Affirmative,U-6 takes in the involuntary part - timers . 
+you,subtract.01,U-3,from U-5,Affirmative,"If you subtract U-3 from U-5 , you get the share of each state 's labor force that consists of discouraged and other marginally attached workers . "
+you,get.01,the share of,,Affirmative,"If you subtract U-3 from U-5 , you get the share of each state 's labor force that consists of discouraged and other marginally attached workers . "
+you,persist.01,in believing,,Affirmative,"So if you persist in believing North Carolina 's tumbling unemployment rate is simply a quirk caused by discouraged workers dropping out of the labor force , you are no longer describing reality . "
+by,cause.01,a quirk caused by,,Affirmative,"So if you persist in believing North Carolina 's tumbling unemployment rate is simply a quirk caused by discouraged workers dropping out of the labor force , you are no longer describing reality . "
+you,describe.01,reality,,Affirmative,"So if you persist in believing North Carolina 's tumbling unemployment rate is simply a quirk caused by discouraged workers dropping out of the labor force , you are no longer describing reality . "

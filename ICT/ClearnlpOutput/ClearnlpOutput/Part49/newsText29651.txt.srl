@@ -1,0 +1,56 @@
+1	May	may	NNP	p2=MD	4	nn	_
+2	19	0	CD	_	1	num	_
+3	(	(	-LRB-	_	4	punct	_
+4	Reuters	reuters	NNP	_	0	root	_
+5	)	)	-RRB-	_	4	punct	_
+6	-	-	:	p2=,	9	punct	_
+7	The	the	DT	_	8	det	_
+8	following	follow	VBG	p2=JJ	9	nsubj	9:A1=PPT
+9	are	be	VBP	pb=be.01	0	root	_
+10	the	the	DT	_	12	det	_
+11	top	top	JJ	_	12	amod	_
+12	stories	story	NNS	_	9	attr	9:A2=PRD
+13	in	in	IN	_	12	prep	_
+14	the	the	DT	_	17	det	_
+15	Wall	wall	NNP	_	16	nn	_
+16	Street	street	NNP	_	17	nn	_
+17	Journal	journal	NNP	_	13	pobj	_
+18	.	.	.	_	9	punct	_
+
+1	Reuters	reuters	NNP	p2=NNS	4	nsubj	4:A0;10:A0=PAG
+2	has	have	VBZ	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	verified	verify	VBN	pb=verify.01	0	root	_
+5	these	these	DT	_	6	det	_
+6	stories	story	NNS	_	4	dobj	4:A1=PPT
+7	and	and	CC	_	4	cc	_
+8	does	do	VBZ	_	10	aux	_
+9	not	not	RB	_	10	neg	10:AM-NEG
+10	vouch	vouch	VB	p2=RB|pb=vouch.01	4	conj	_
+11	for	for	IN	_	10	prep	10:A1=PPT
+12	their	their	PRP$	_	13	poss	_
+13	accuracy	accuracy	NN	_	11	pobj	_
+14	.	.	.	_	4	punct	_
+
+1	This	this	DT	_	2	det	_
+2	discussion	discussion	NN	_	5	nsubjpass	5:A1=PPT
+3	is	be	VBZ	_	5	auxpass	_
+4	now	now	RB	_	5	advmod	5:AM-TMP
+5	closed	close	VBN	p2=JJ|pb=close.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	welcome	welcome	VBP	pb=welcome.01	0	root	_
+3	comments	comment	NNS	_	2	dobj	2:A1=PPT
+4	on	on	IN	_	3	prep	_
+5	our	our	PRP$	_	6	poss	_
+6	articles	article	NNS	_	4	pobj	_
+7	for	for	IN	_	6	prep	_
+8	a	a	DT	_	10	det	_
+9	limited	limited	JJ	_	10	amod	_
+10	period	period	NN	_	7	pobj	_
+11	after	after	IN	_	10	prep	_
+12	their	their	PRP$	_	13	poss	_
+13	publication	publication	NN	_	11	pobj	_
+14	.	.	.	_	2	punct	_
+

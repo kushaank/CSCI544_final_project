@@ -1,0 +1,11 @@
+1	©	©	IN	p2=NNP	9	prep	9:AM-TMP
+2	1999-2014	0	CD	_	1	pobj	_
+3	Hollywood.com	#url#	ADD	_	9	dep	_
+4	,	,	,	_	9	punct	_
+5	LLC	llc	NNP	_	7	hmod	_
+6	-	-	HYPH	p2=,	7	hyph	_
+7	All	all	NNP	p2=DT	8	nn	_
+8	rights	right	NNS	p2=RB	9	nsubj	9:A1=PPT
+9	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+10	.	.	.	_	9	punct	_
+

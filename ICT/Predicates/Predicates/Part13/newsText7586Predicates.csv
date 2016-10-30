@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Andrei,study.01,finance,,Affirmative,"Andrei studied finance at the Bucharest Academy of Economic Studies and worked for almost ten years for Ziarul Financiar , the main financial newspaper in Romania . "
+Andrei,join.01,Insider.com team,,Affirmative,He joined the Romania - Insider.com team in May 2014 as a senior editor and partner . 
+Andrei,like.02,to live in,,Affirmative,"He would like to live in the countryside one day , groom a vineyard and write his own literature . "
+Andrei,groom.01,a vineyard,,Affirmative,"He would like to live in the countryside one day , groom a vineyard and write his own literature . "
+Andrei,write.01,his own literature,,Affirmative,"He would like to live in the countryside one day , groom a vineyard and write his own literature . "
+Supervision Authority ( ASF ),decide.01,to open,,Affirmative,"Email him for interviews , conferences and story pitches at andrei@romania-insider.com. The Romanian Financial Supervision Authority ( ASF ) decided at the end of last week ( May 16 ) to open the financial recovery procedure for Romanian insurance company Carpatica Asig , according to an announcement from the financial regulator . "
+Supervision Authority ( ASF ),open.01,recovery procedure for,,Affirmative,"Email him for interviews , conferences and story pitches at andrei@romania-insider.com. The Romanian Financial Supervision Authority ( ASF ) decided at the end of last week ( May 16 ) to open the financial recovery procedure for Romanian insurance company Carpatica Asig , according to an announcement from the financial regulator . "
+an insurance company,have.03,financial problems,,Affirmative,This procedure is usually decided when an insurance company has financial problems which may later affect the clients which hold insurance policies . 
+financial problems,affect.01,the clients,,Affirmative,This procedure is usually decided when an insurance company has financial problems which may later affect the clients which hold insurance policies . 
+the clients,hold.01,insurance policies,,Affirmative,This procedure is usually decided when an insurance company has financial problems which may later affect the clients which hold insurance policies . 
+Asig management,need.01,to come up with,,Affirmative,Carpatica Asig management needs to come up with a financial recovery plan in 20 days after it received the decision of the ASF . 
+it,receive.01,the decision of,,Affirmative,Carpatica Asig management needs to come up with a financial recovery plan in 20 days after it received the decision of the ASF . 
+The company,sign.02,new policies,,Affirmative,"The company can also sign new policies , according to ASF . "
+it,have.03,market share,,Affirmative,"Most of the company 's business came from the auto vehicle mandatory insurance ( RCA ) segment , where it had an 11 percent market share in 2012 . "
+The company,have.03,losses of EUR,,Affirmative,The company had losses of EUR 1.6 million in 2012 . 
+"businessman Ilie Carabulea ,",own.01,the Carpatica financial group,,Affirmative,"Carpatica Asig came into public attention in January 2014 when a member of the ASF board , Marian Mirzac , and Romanian businessman Ilie Carabulea , who owns the Carpatica financial group ( Banca Carpatica , Carpatica Asig and Carpatica Invest brokerage firm ) were arrested in a corruption case . "
+a report following,follow.01,a probe conducted by ASF,,Affirmative,"According to the prosecutors from the National Anticorruption Department ( DNA ) C arabulea allegedly bribed Mirzac , who had previously been CEO of Carpatica Asig , to ignore the conclusions of a report following a probe conducted by ASF at Carpatica Asig . "
+by ASF,conduct.01,a probe conducted by ASF,,Affirmative,"According to the prosecutors from the National Anticorruption Department ( DNA ) C arabulea allegedly bribed Mirzac , who had previously been CEO of Carpatica Asig , to ignore the conclusions of a report following a probe conducted by ASF at Carpatica Asig . "
+The report,show.01,financial deficiencies,,Affirmative,The report showed financial deficiencies at the insurer which would have required the company to raise its share capital . 
+the insurer,require.01,the company,,Affirmative,The report showed financial deficiencies at the insurer which would have required the company to raise its share capital . 
+the company,raise.01,its share capital,,Affirmative,The report showed financial deficiencies at the insurer which would have required the company to raise its share capital . 
+by,put.01,"Astra Asigurari ,",under,Affirmative,"At the beginning of this year , Astra Asigurari , Romania 's largest insurance company in the last two years , was put under special administration by the ASF , due to financial issues . "
+ASF,decide.01,to suspend,,Affirmative,"ASF decided to suspend the shareholders and the management of Astra , in order to help the firm recover financially , with KPMG taking over as special administrator . "
+ASF,suspend.01,the shareholders and,,Affirmative,"ASF decided to suspend the shareholders and the management of Astra , in order to help the firm recover financially , with KPMG taking over as special administrator . "
+KPMG,take.12,as,,Affirmative,"ASF decided to suspend the shareholders and the management of Astra , in order to help the firm recover financially , with KPMG taking over as special administrator . "
+shareholders,approve.01,share capital increase,,Affirmative,"Recently , Astra 's shareholders approved a EUR 109 million share capital increase as part of the recovery plan . "
+by,control.01,Astra Asigurari,,Affirmative,Astra is controlled by Romanian businessman Dan Adamescu . 
+a scandal regarding,regard.01,false insurance policies,,Affirmative,"Another large insurance company , Omniasig , which is part of Austrian group Vienna Insurance , is now involved in a scandal regarding false insurance policies . "
+the company,have.03,a solid financial situation,,Affirmative,"However , the new ASF president Misu Negritoiu , said last week that all the policies Omniasig signed are valid and that the company has a solid financial situation . "
+We,send.01,your first batch of news,to,Affirmative,We 'll send your first batch of news for the day directly to your inbox . 
+you,need.01,to discover Romania at,,Affirmative,"Go mobile with our partner City Compass ' mobile app exclusively in English - places , events - everything you need to discover Romania at your fingertips . "
+you,discover.01,Romania 's,,Affirmative,"Go mobile with our partner City Compass ' mobile app exclusively in English - places , events - everything you need to discover Romania at your fingertips . "

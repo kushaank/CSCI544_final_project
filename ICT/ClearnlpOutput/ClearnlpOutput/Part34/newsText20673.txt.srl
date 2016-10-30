@@ -1,0 +1,35 @@
+1	Mali	mali	NNP	p2=FW	4	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	Defence	defence	NNP	_	4	nn	_
+4	Ministry	ministry	NNP	_	5	nsubj	5:A0
+5	says	say	VBZ	pb=say.01	0	root	_
+6	Mali	mali	NNP	p2=JJ	7	nn	_
+7	soldiers	soldier	NNS	_	9	nsubj	9:A0=PAG
+8	have	have	VBP	_	9	aux	_
+9	regained	regain	VBN	pb=regain.01	5	ccomp	5:A1=PPT
+10	control	control	NN	_	9	dobj	9:A1=PPT
+11	of	of	IN	_	10	prep	_
+12	administrative	administrative	JJ	_	13	amod	_
+13	buildings	building	NNS	_	11	pobj	_
+14	except	except	IN	_	10	prep	_
+15	the	the	DT	_	16	det	_
+16	governor	governor	NN	_	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	office	office	NN	_	14	pobj	_
+19	in	in	IN	_	18	prep	_
+20	Kidal	kidal	NNP	_	19	pobj	_
+21	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	fate	fate	NN	_	10	nsubj	10:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	hostages	hostage	NNS	_	3	pobj	6:A1=PPT
+5	being	be	VBG	_	6	auxpass	_
+6	held	hold	VBN	pb=hold.04	4	partmod	_
+7	by	by	IN	_	6	agent	6:A0=PAG
+8	the	the	DT	_	9	det	_
+9	rebels	rebel	NNS	_	7	pobj	_
+10	remains	remain	VBZ	pb=remain.01	0	root	_
+11	unclear	unclear	JJ	_	10	acomp	10:A3=PRD
+12	.	.	.	_	10	punct	_
+

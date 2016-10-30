@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+I,read.01,your article on,,Affirmative,"Q : Greg , I read your article on LaSalle automobiles in our local paper yesterday and was appreciative of it . "
+I,graduate.01,from,,Affirmative,"I worked for an Oldsmobile dealer in the early 1950 s and graduated from General Motors Institute in Flint , Mich . "
+I,have.03,a Bachelor of,,Affirmative,"I had a Bachelor of Science Mechanical Engineering degree from Syracuse University , but liked working with autos . "
+I,like.01,working with autos,,Affirmative,"I had a Bachelor of Science Mechanical Engineering degree from Syracuse University , but liked working with autos . "
+I,join.01,General Electric,,Affirmative,I later joined General Electric to finish out a 35 - year career with them . 
+I,finish.01,year career with them,,Affirmative,I later joined General Electric to finish out a 35 - year career with them . 
+I,remember.01,LaSalle being traded in as,,Affirmative,"While at the Oldsmobile dealer , I remember one LaSalle being traded in as a used car . "
+I,didn�t.01,get to work on it,,Affirmative,"I didn�t get to work on it or even drive it , but I admired it . "
+I,drive.01,Oldsmobile,,Affirmative,"I didn�t get to work on it or even drive it , but I admired it . "
+I,admire.01,Oldsmobile,,Affirmative,"I didn�t get to work on it or even drive it , but I admired it . "
+I,have.03,a suggestion for,,Affirmative,I have a suggestion for another article for you . 
+I,assume.02,that you are aware of,,Affirmative,"I assume that you are aware of Henry Leland , as he designed and built the first Cadillacs . "
+Henry Leland,build.01,the first Cadillacs,,Affirmative,"I assume that you are aware of Henry Leland , as he designed and built the first Cadillacs . "
+General Motors in 1909,pick.01,the make up,,Affirmative,"General Motors then picked the make up , probably by Billy Durant , and is still producing them . "
+General Motors in 1909,produce.01,the,,Affirmative,"General Motors then picked the make up , probably by Billy Durant , and is still producing them . "
+Henry Leland,leave.01,General Motors in 1909,,Affirmative,Henry Leland left GM and designed a new car and manufactured it for a few years . 
+Henry Leland,design.01,the Lincoln,,Affirmative,Henry Leland left GM and designed a new car and manufactured it for a few years . 
+Henry Leland,manufacture.01,General Motors in 1909,,Affirmative,Henry Leland left GM and designed a new car and manufactured it for a few years . 
+His company,go.02,bust,,Affirmative,His company went bust again and Ford Motor Co. picked it up and it was put under the direction of Edsel Ford . 
+Ford Motor Co.,pick.04,Ford Motor Co.,,Affirmative,His company went bust again and Ford Motor Co. picked it up and it was put under the direction of Edsel Ford . 
+the same man,design.01,competing cars,,Affirmative,It is amazing that the same man designed both luxury competing cars . 
+I,doubt.01,people know,,Affirmative,I doubt if very many people know this including the respective make dealers . 
+many people,know.01,this including,,Affirmative,I doubt if very many people know this including the respective make dealers . 
+I,enjoy.01,studying,,Affirmative,I enjoy studying the history of the automobile and the timely developments . 
+I,study.01,the history of,,Affirmative,I enjoy studying the history of the automobile and the timely developments . 
+I�ve,hear.01,of Leland,,Affirmative,"Yes , I�ve heard of Leland , as he was one of the original and best designers and engineers of his era . "
+by,purchase.01,original Cadillac brand,,Affirmative,Leyland�s original Cadillac brand was indeed purchased by General Motors in 1909 for a reported $ 5.5 million . 
+boss Alfred P. Sloan,oversee.01,the purchase,,Affirmative,"However , it was GM boss Alfred P. Sloan who oversaw the purchase . "
+William Billy Durant,have.03,much,,Affirmative,"As for William �Billy� Durant , he indeed did have much to do with Leland�s future . "
+Cadillac,produce.01,war engines,,Affirmative,"Following a disagreement between Leland and Durant over Cadillac not producing war engines for WWI as requested by the government , Leland actually lost his position . "
+Henry Leland,lose.03,his position,,Affirmative,"Following a disagreement between Leland and Durant over Cadillac not producing war engines for WWI as requested by the government , Leland actually lost his position . "
+Henry Leland,quit.01,his job,,Affirmative,"Being that Durant was against any type of war and a strict pacifist , Leland quit his job at GM to pursue building those aircraft engines . "
+Henry Leland,pursue.01,building,,Affirmative,"Being that Durant was against any type of war and a strict pacifist , Leland quit his job at GM to pursue building those aircraft engines . "
+Henry Leland,build.01,those aircraft engines,,Affirmative,"Being that Durant was against any type of war and a strict pacifist , Leland quit his job at GM to pursue building those aircraft engines . "
+Henry Leland,form.01,his new company with,,Affirmative,Leland quickly formed his new company with his son Wilfred in 1917 . 
+General Motors in 1909,refuse.01,to build,,Affirmative,"After acquiring a $ 10 million loan to build the engines , Leland and Lincoln�s original cash flow came from assembling the V - 12 Liberty aircraft engines GM refused to build and used Henry Ford�s engine cylinders to do so . "
+General Motors in 1909,use.01,Ford�s engine cylinders,to do so,Affirmative,"After acquiring a $ 10 million loan to build the engines , Leland and Lincoln�s original cash flow came from assembling the V - 12 Liberty aircraft engines GM refused to build and used Henry Ford�s engine cylinders to do so . "
+Henry Leland,re-tooled.01,engine factory,,Affirmative,"Following the war , Leland re-tooled his aircraft engine factory to manufacture the luxury car we know today , the Lincoln in late 1919 and early 1920 . "
+engine factory,manufacture.01,the luxury car,,Affirmative,"Following the war , Leland re-tooled his aircraft engine factory to manufacture the luxury car we know today , the Lincoln in late 1919 and early 1920 . "
+Edsel Ford,purchase.01,insolvent Lincoln Motor Company,,Affirmative,"After running into money woes , Ford purchased the now insolvent Lincoln Motor Company in 1922 . "
+Ford�s Ernest Liebold,ask.02,for,,Affirmative,"Page 2 of 2 - On June 10 , 1922 , Ford�s Ernest Liebold arrived at Lincoln to ask for the resignation of Leland�s son , Wilfred . "
+Ernest Liebold arrived at Lincoln to ask for the resignation of Leland,have.03,the backing of,,Affirmative,"When it became clear that Liebold had the backing of Henry Ford , Henry Leland resigned as well . "
+Edsel Ford,take.12,the marquee,,Affirmative,"In 1923 , Edsel Ford took over the marquee . "
+you,guide.01,us,,Affirmative,"Today , the Lincoln is still one of the world�s most respected luxury brands , and I�m glad you guided us down memory lane . "
+by,design.01,day Chrysler PT Cruiser and,,Affirmative,"In ending , the modern - day Chrysler PT Cruiser and Chevy HHR ( High Heritage Roof ) were designed by the same artist . "

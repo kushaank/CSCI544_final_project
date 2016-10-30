@@ -1,0 +1,92 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Kremlin,announce.01,Putin has ordered,,Affirmative,"The Kremlin announced that Russian President Putin has ordered the 40,000 troops massed on the Ukrainian border to retreat to their home bases . "
+President Putin,order.01,"the 40,000 troops massed on",,Affirmative,"The Kremlin announced that Russian President Putin has ordered the 40,000 troops massed on the Ukrainian border to retreat to their home bases . "
+Secretary General,say.01,he sees,,Affirmative,"However , the NATO secretary general says he sees no sign of movement . "
+Secretary General,see.01,no sign of movement,,Affirmative,"However , the NATO secretary general says he sees no sign of movement . "
+correspondent Margaret Warner,join.01,Gwen Ifill,,Affirmative,"Reporting from Donetsk , chief foreign correspondent Margaret Warner joins Gwen Ifill to discuss the building tensions in Eastern Ukraine and upcoming national elections . "
+correspondent Margaret Warner,discuss.01,the building tensions in,,Affirmative,"Reporting from Donetsk , chief foreign correspondent Margaret Warner joins Gwen Ifill to discuss the building tensions in Eastern Ukraine and upcoming national elections . "
+by tanks and,back.01,"40,000 Russian troops , backed by tanks and",,Affirmative,"MARGARET WARNER : For months , 40,000 Russian troops , backed by tanks and heavy armored vehicles , have been patrolling near the border with Ukraine . "
+The Kremlin,say.01,Putin has ordered them back to,,Affirmative,But the Kremlin said today that President Vladimir Putin has ordered them back to their home bases . 
+President Vladimir Putin,order.01,"40,000 Russian troops",back to,Affirmative,But the Kremlin said today that President Vladimir Putin has ordered them back to their home bases . 
+General Anders Fogh Rasmussen,say.01,he sees,,Affirmative,"So far , though , NATO Secretary - General Anders Fogh Rasmussen says he sees no sign of movement . "
+NATO Secretary-General Anders Fogh Rasmussen,see.01,no sign of movement,,Affirmative,"So far , though , NATO Secretary - General Anders Fogh Rasmussen says he sees no sign of movement . "
+I,think.01,it 's,,Affirmative,"ANDERS FOGH RASMUSSEN , Secretary General , NATO : I think it 's the third Putin statement on withdrawal of Russian troops , but so far we have n't seen any withdrawal at all . "
+we,see.01,any withdrawal,,Affirmative,"ANDERS FOGH RASMUSSEN , Secretary General , NATO : I think it 's the third Putin statement on withdrawal of Russian troops , but so far we have n't seen any withdrawal at all . "
+I,regret.01,would be,,Affirmative,"I strongly regret that , because a withdrawal of Russian troops would be a first important contribution to de-escalating the crisis . "
+I,trust.02,President Vladimir Putin,,Affirmative,MAN ( through interpreter ) : I do n't trust Putin . 
+No one,trust.01,MAN -LRB- through interpreter -RRB- : I do n't trust Putin .,,Affirmative,"No one trusts him , because he lies . "
+MAN -LRB- through interpreter -RRB- : I do n't trust Putin .,say.01,the same thing,,Affirmative,"He once said the same thing , but he did n't take away their forces . "
+MAN -LRB- through interpreter -RRB- : I do n't trust Putin .,take.01,their forces,,Affirmative,"He once said the same thing , but he did n't take away their forces . "
+Uriy Pasechnikov,say.01,are,,Affirmative,MARGARET WARNER : But Uriy Pasechnikov said the troops he worries about are the Ukrainian forces who have come into this restive Eastern region . 
+Uriy Pasechnikov,worry.02,about,,Affirmative,MARGARET WARNER : But Uriy Pasechnikov said the troops he worries about are the Ukrainian forces who have come into this restive Eastern region . 
+we,trace.02,"what is happening in Slavyansk , Kramatorsk , Mariupol , and Odessa",,Affirmative,"URIY PASECHNIKOV ( through interpreter ) : Troops from Kiev , we see and can trace what is happening in Slavyansk , Kramatorsk , Mariupol , and Odessa . "
+we,see.01,we,,Affirmative,We perfectly see that . 
+we,see.01,President Vladimir Putin,,Affirmative,And we do not see Putin . 
+by,occupy.01,the regional government building,,Affirmative,"MARGARET WARNER : Just up the street , outside the regional government building now occupied by pro-Russian separatists , we met young Yevgeniy . "
+we,meet.01,young Yevgeniy,,Affirmative,"MARGARET WARNER : Just up the street , outside the regional government building now occupied by pro-Russian separatists , we met young Yevgeniy . "
+The former Ukrainian soldier,give.01,his last name,us,Affirmative,The former Ukrainian soldier would n't give us his last name or let his face be fully shown . 
+The former Ukrainian soldier,let.01,face be fully shown,,Affirmative,The former Ukrainian soldier would n't give us his last name or let his face be fully shown . 
+The former Ukrainian soldier,tell.01,he joined,us,Affirmative,But he told us he joined the barricades because he believes Donetsk would have a brighter economic future if joined with Russia . 
+The former Ukrainian soldier,join.01,the barricades,,Affirmative,But he told us he joined the barricades because he believes Donetsk would have a brighter economic future if joined with Russia . 
+The former Ukrainian soldier,believe.01,Donetsk would have,,Affirmative,But he told us he joined the barricades because he believes Donetsk would have a brighter economic future if joined with Russia . 
+Donetsk,have.03,a brighter economic future,,Affirmative,But he told us he joined the barricades because he believes Donetsk would have a brighter economic future if joined with Russia . 
+the Russians,help.01,we,,Affirmative,MAN ( through interpreter ) : We are waiting for the Russians to help us . 
+we,change.01,our situation,,Affirmative,MAN ( through interpreter ) : No. We are so pressured by economic instability that we are determined to change our situation . 
+armed masked men in,stop.01,two vehicles,,Affirmative,"Just 100 yards from the front of the occupied government building , heavily - armed masked men in unmarked uniforms stopped two vehicles and hauled out several young men in desert fatigues , searched them and took them away . "
+armed masked men in,haul.01,several young men,,Affirmative,"Just 100 yards from the front of the occupied government building , heavily - armed masked men in unmarked uniforms stopped two vehicles and hauled out several young men in desert fatigues , searched them and took them away . "
+armed masked men in,search.01,them,,Affirmative,"Just 100 yards from the front of the occupied government building , heavily - armed masked men in unmarked uniforms stopped two vehicles and hauled out several young men in desert fatigues , searched them and took them away . "
+armed masked men in,take.01,them,,Affirmative,"Just 100 yards from the front of the occupied government building , heavily - armed masked men in unmarked uniforms stopped two vehicles and hauled out several young men in desert fatigues , searched them and took them away . "
+an operation apprehending,apprehend.01,Ukrainian nationalists,from,Affirmative,"It was unclear whether this was a training exercise or , as some bystanders speculated , it was an operation apprehending Ukrainian nationalists from the west . "
+The local security authorities,perform.01,normal police duties,,Affirmative,"The local security authorities are still performing normal police duties , but seem overwhelmed in the face of the separatists ' challenge . "
+"General Konstantin Nikolaevich , commander of",admit.01,as much,,Affirmative,"This morning , General Konstantin Nikolaevich , commander of all police in the Donetsk region , admitted as much . "
+He,concede.01,what he called,,Affirmative,"He conceded what he called terrorist separatist elements had taken control of two smaller cities , Slavyansk and Kramatorsk , north of Donetsk . "
+they,control.01,the situation,,Affirmative,"KONSTANTIN NIKOLAEVICH , Chief of Police , Donetsk Region ( through interpreter ) : Yes , they are wholly controlling the situation there . "
+They,take.12,the police departments in Slavyansk and Kramatorsk,,Affirmative,They took over the police departments in Slavyansk and Kramatorsk and at the moment are present there . 
+I,think.01,it 's,,Affirmative,"KONSTANTIN NIKOLAEVICH ( through interpreter ) : I think it 's a military responsibility now , and not the police . "
+Functions of,secure.01,the public order and,,Affirmative,Functions of the police are securing the public order and crime investigation . 
+by,solve.01,This,,Affirmative,This should be solved by the anti-terrorist center . 
+We,ask.01,least reclaim,,Affirmative,MARGARET WARNER : We asked why his own men ca n't at least reclaim the occupied Donetsk regional government building nearby . 
+his own men,reclaim.01,the occupied Donetsk regional government building nearby,,Affirmative,MARGARET WARNER : We asked why his own men ca n't at least reclaim the occupied Donetsk regional government building nearby . 
+We,lack.01,the interior military forces,,Affirmative,We lack the interior military forces to prevent the destructive elements from retaking it . 
+the interior military forces,prevent.01,the destructive elements,from retaking it,Affirmative,We lack the interior military forces to prevent the destructive elements from retaking it . 
+the destructive elements,retake.01,the occupied Donetsk regional government building,,Affirmative,We lack the interior military forces to prevent the destructive elements from retaking it . 
+I,control.01,the overall situation,,Affirmative,"KONSTANTIN NIKOLAEVICH ( through interpreter ) : I can control the overall situation , but not to free the administration buildings . "
+I,free.01,the administration buildings,,Affirmative,"KONSTANTIN NIKOLAEVICH ( through interpreter ) : I can control the overall situation , but not to free the administration buildings . "
+We,have.03,enough weapons,,Affirmative,"We have enough weapons , but for 23 years , we did n't have to use building - clearing skills . "
+we,use.01,clearing skills,,Affirmative,"We have enough weapons , but for 23 years , we did n't have to use building - clearing skills . "
+the challenge facing,face.01,local forces,,Affirmative,"MARGARET WARNER : Later , at an afternoon police shift change , the challenge facing Nikolaevich 's local forces was apparent . "
+Only two,carry.01,any true weapons,,Affirmative,Only two carried any true weapons at all . 
+by separatists,seize.01,the railway station,,Affirmative,"Today , for instance , at one point , we were told that the railway station had been seized by separatists . "
+that,show.01,much move at will,,Affirmative,So that showed the separatists can pretty much move at will . 
+we,interview.01,this wealthy oligarch governor,,Affirmative,"Number two , when we got to that occupied government building , that 's just where we had interviewed this wealthy oligarch governor who had just appointed by Kiev . "
+by Kiev,appoint.01,this wealthy oligarch governor,,Affirmative,"Number two , when we got to that occupied government building , that 's just where we had interviewed this wealthy oligarch governor who had just appointed by Kiev . "
+He,boast.01,of,,Affirmative,He boasted of how they had taken back the building . 
+they,take.01,the building,,Affirmative,He boasted of how they had taken back the building . 
+by,fill.01,it,,Affirmative,Now it 's completely filled by Russian occupiers or local Russian sympathizing occupiers . 
+one of,declare.02,"it was shutting down , after having",,Affirmative,"Number three and - was , ominously , one of the last remaining electoral commission offices preparing for the Sunday election declared today it was shutting down , after having guys come in , threaten them , steal their computers , and have a near - having had a nearby office shutdown . "
+none of this,feel.01,little menacing,,Affirmative,"So none of this is great , and feels a little menacing when it comes to next Sunday 's election . "
+they,try.01,to do,,Affirmative,"MARGARET WARNER : Well , what they tried to do , Gwen , was to go ahead and conduct an election normally here , as Ukraine has done every four years or so . "
+guys with guns and speaking in true Russian accents,know.01,how to do it,,Affirmative,So they know how to do it . 
+guys with guns and speaking in true Russian accents,do.02,it,,Affirmative,So they know how to do it . 
+I,think.01,look dimmer by,,Affirmative,"But the chances , I think , look dimmer by the day . "
+the chances,look.01,dimmer,,Affirmative,"But the chances , I think , look dimmer by the day . "
+You,have.03,the blunt comments from,,Affirmative,"You not only have the blunt comments from the electoral commission head today , but one of the people most intimately involved with this European - led negotiation that 's going on told me by phone today he 'd been here in Donetsk yesterday , and he had been told and had seen that one of the offices where they 're going to actually count votes , all the computers have been smashed . "
+one of,tell.01,he 'd been here in Donetsk,me,Affirmative,"You not only have the blunt comments from the electoral commission head today , but one of the people most intimately involved with this European - led negotiation that 's going on told me by phone today he 'd been here in Donetsk yesterday , and he had been told and had seen that one of the offices where they 're going to actually count votes , all the computers have been smashed . "
+they,count.01,votes,,Affirmative,"You not only have the blunt comments from the electoral commission head today , but one of the people most intimately involved with this European - led negotiation that 's going on told me by phone today he 'd been here in Donetsk yesterday , and he had been told and had seen that one of the offices where they 're going to actually count votes , all the computers have been smashed . "
+European-led,say.01,"vote , he said",,Affirmative,"So he said even if people do vote , he said their votes really wo n't be able to be counted . "
+European-led,say.01,votes really wo n't be able,,Affirmative,"So he said even if people do vote , he said their votes really wo n't be able to be counted . "
+the pro-Russian people,say.01,"oh , they voted in",,Affirmative,"So , for instance , people in the occupied government building , the pro-Russian people , said , oh , they voted in last Sunday 's referendum , the one that was eight days ago for independence . "
+They,show.01,Sunday,,Affirmative,They were n't going to show up Sunday . 
+all the people,say.01,they wanted,,Affirmative,Then all the people we talked to who said they wanted to vote for a united Ukraine did n't participate last Sunday . 
+they,want.01,to vote for,,Affirmative,Then all the people we talked to who said they wanted to vote for a united Ukraine did n't participate last Sunday . 
+they,vote.01,for,,Affirmative,Then all the people we talked to who said they wanted to vote for a united Ukraine did n't participate last Sunday . 
+I,think.01,you read,,Affirmative,"So one man in the park said to us , you know , you in the West , I think you read this press and you think everyone here is pro-Russian , where , actually , a lot of us want to be part of a united Ukraine . "
+you,read.01,this press,,Affirmative,"So one man in the park said to us , you know , you in the West , I think you read this press and you think everyone here is pro-Russian , where , actually , a lot of us want to be part of a united Ukraine . "
+you,think.01,"is pro-Russian ,",,Affirmative,"So one man in the park said to us , you know , you in the West , I think you read this press and you think everyone here is pro-Russian , where , actually , a lot of us want to be part of a united Ukraine . "
+a lot of us,want.01,to be part of,,Affirmative,"So one man in the park said to us , you know , you in the West , I think you read this press and you think everyone here is pro-Russian , where , actually , a lot of us want to be part of a united Ukraine . "
+a Pew research poll,find.01,are of,,Affirmative,And a Pew research poll found that 70 percent of the people here are of that mind . 
+this government,hope.01,vote will restore,,Affirmative,And that 's not great for this government that is hoping that this vote will restore a sense of legitimacy and unity to the country . 
+this vote,restore.01,a sense of legitimacy and unity to,,Affirmative,And that 's not great for this government that is hoping that this vote will restore a sense of legitimacy and unity to the country . 
+the government in Kiev,hope.01,to find,,Affirmative,"And , again , that is all a very disheartening , discouraging sign for the U.S. , the Europeans and the government in Kiev that hopes to find some resolution to this conflict . "
+the government in Kiev,find.01,some resolution to,,Affirmative,"And , again , that is all a very disheartening , discouraging sign for the U.S. , the Europeans and the government in Kiev that hopes to find some resolution to this conflict . "
+we,look.03,to,,Affirmative,"GWEN IFILL : Well , Margaret , we 're looking forward to your reports all week . "

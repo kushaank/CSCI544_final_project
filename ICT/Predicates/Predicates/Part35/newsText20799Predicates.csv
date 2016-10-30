@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Doctors,face.01,large amounts of stress,,Affirmative,Doctors face large amounts of stress on a daily basis . 
+Paperwork alone,take.01,a third of,,Affirmative,"Paperwork alone , takes a third of their time , which is also why they have appealed for exercising the agreed strategy , or else more and more young doctors could decide to look for jobs abroad , the Slovenian doctors claim . "
+they,appeal.02,for exercising,,Affirmative,"Paperwork alone , takes a third of their time , which is also why they have appealed for exercising the agreed strategy , or else more and more young doctors could decide to look for jobs abroad , the Slovenian doctors claim . "
+they,exercise.01,the agreed strategy,,Affirmative,"Paperwork alone , takes a third of their time , which is also why they have appealed for exercising the agreed strategy , or else more and more young doctors could decide to look for jobs abroad , the Slovenian doctors claim . "
+young doctors,decide.01,to look for jobs abroad,,Affirmative,"Paperwork alone , takes a third of their time , which is also why they have appealed for exercising the agreed strategy , or else more and more young doctors could decide to look for jobs abroad , the Slovenian doctors claim . "
+young doctors,look.01,for jobs abroad,,Affirmative,"Paperwork alone , takes a third of their time , which is also why they have appealed for exercising the agreed strategy , or else more and more young doctors could decide to look for jobs abroad , the Slovenian doctors claim . "
+some doctors,address.02,their patients,,Affirmative,"Today , some doctors are addressing their patients by wearing T - shirts with a print saying ' Family doctors take care of you ' . "
+some doctors,wear.01,T - shirts with,,Affirmative,"Today , some doctors are addressing their patients by wearing T - shirts with a print saying ' Family doctors take care of you ' . "
+a print saying,say.01,doctors take care of you,,Affirmative,"Today , some doctors are addressing their patients by wearing T - shirts with a print saying ' Family doctors take care of you ' . "
+Family doctors,take.LV,care,of you,Affirmative,"Today , some doctors are addressing their patients by wearing T - shirts with a print saying ' Family doctors take care of you ' . "
+Switzerland,amend.01,the constitution,to support,Affirmative,"Just yesterday , Switzerland amended the constitution to support more family doctors in rural areas . "
+Switzerland,support.01,more family doctors in,,Affirmative,"Just yesterday , Switzerland amended the constitution to support more family doctors in rural areas . "
+communities across Slovenia,set.03,bike paths in,,Affirmative,"In an attempt to attract tourists , communities across Slovenia have been rushing to set up bike paths in recent years . "

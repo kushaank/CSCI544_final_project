@@ -1,0 +1,848 @@
+1	The	the	DT	_	2	det	_
+2	picture	picture	NN	_	3	nsubj	3:A0=CAU
+3	shows	show	VBZ	pb=show.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	force	force	NN	_	3	dobj	3:A1=PPT
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	impact	impact	NN	_	6	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	2	det	_
+2	girl	girl	NN	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	shoes	shoe	NNS	_	6	nsubj	6:A1
+5	are	be	VBP	_	6	aux	_
+6	lying	lie	VBG	pb=lie.01	0	root	_
+7	in	in	IN	_	6	prep	6:A2=LOC
+8	the	the	DT	_	9	det	_
+9	road	road	NN	_	7	pobj	_
+10	and	and	CC	_	6	cc	_
+11	her	her	PRP$	p2=PRP	12	poss	_
+12	backpack	backpack	NN	_	14	nsubjpass	14:A1=PPT
+13	was	be	VBD	_	14	auxpass	_
+14	thrown	throw	VBN	pb=throw.01	6	conj	_
+15	to	to	IN	_	14	prep	14:A2=GOL
+16	the	the	DT	_	17	det	_
+17	top	top	NN	_	15	pobj	_
+18	of	of	IN	_	17	prep	_
+19	the	the	DT	_	21	det	_
+20	school	school	NN	_	21	nn	_
+21	bus	bus	NN	_	18	pobj	_
+22	.	.	.	_	14	punct	_
+
+1	The	the	DT	_	2	det	_
+2	bill	bill	NN	_	4	nsubj	4:A0=PAG
+3	would	would	MD	_	4	aux	4:AM-MOD;10:AM-MOD
+4	place	place	VB	pb=place.01	0	root	_
+5	cameras	camera	NNS	_	4	dobj	4:A1=PPT
+6	next	next	RB	p2=JJ	4	advmod	_
+7	to	to	IN	_	6	prep	_
+8	school	school	NN	_	9	nn	_
+9	bus	bus	NN	p2=NNS	7	pobj	_
+10	stop	stop	VB	p2=NN|pb=stop.01	4	dep	_
+11	arms	arm	NNS	_	10	dobj	10:A1=PPT
+12	to	to	TO	_	13	aux	_
+13	take	take	VB	pb=take.01	10	advcl	10:AM-PRP
+14	pictures	picture	NNS	_	13	dobj	13:A1=PPT
+15	of	of	IN	_	14	prep	_
+16	anyone	anyone	NN	_	15	pobj	18:A0=PAG
+17	who	who	WP	_	18	nsubj	18:R-A0
+18	drives	drive	VBZ	pb=drive.01	16	rcmod	_
+19	around	around	IN	p2=RP	18	prep	18:AM-LOC
+20	a	a	DT	_	23	det	_
+21	stopped	stop	VBN	p2=JJ|pb=stop.01	23	amod	_
+22	school	school	NN	_	23	nn	_
+23	bus	bus	NN	_	19	pobj	21:A1=PPT
+24	.	.	.	_	4	punct	_
+
+1	 	 	NFP	p2=IN	5	punct	_
+2	Those	those	DT	_	3	det	_
+3	pictures	picture	NNS	_	5	nsubj	5:A1=PPT
+4	would	would	MD	_	5	aux	5:AM-MOD
+5	go	go	VB	pb=go.10	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	law	law	NN	_	8	nn	_
+8	enforcement	enforcement	NN	_	6	pobj	_
+9	.	.	.	_	5	punct	_
+
+1	Currently	currently	RB	p2=NNP	9	advmod	9:AM-TMP
+2	,	,	,	_	9	punct	_
+3	South	south	NNP	_	4	nn	_
+4	Carolina	carolina	NNP	_	6	nn	_
+5	law	law	NN	_	6	nn	_
+6	enforcement	enforcement	NN	_	9	nsubj	9:A0
+7	typically	typically	RB	_	9	advmod	9:AM-ADV
+8	must	must	MD	_	9	aux	9:AM-MOD
+9	see	see	VB	pb=see.01	0	root	_
+10	the	the	DT	_	11	det	_
+11	violation	violation	NN	_	9	dobj	9:A1
+12	in	in	IN	_	11	prep	_
+13	person	person	NN	_	12	pobj	_
+14	to	to	TO	_	15	aux	_
+15	ticket	ticket	VB	pb=ticket.01	13	infmod	_
+16	the	the	DT	_	17	det	_
+17	driver	driver	NN	_	15	dobj	15:A1=GOL
+18	.	.	.	_	9	punct	_
+
+1	The	the	DT	_	2	det	_
+2	bill	bill	NN	_	4	nsubj	4:A1=PPT
+3	will	will	MD	_	4	aux	4:AM-MOD
+4	go	go	VB	pb=go.01	0	root	_
+5	before	before	IN	_	4	prep	4:A4=GOL
+6	the	the	DT	_	10	det	_
+7	full	full	JJ	_	10	amod	_
+8	Senate	senate	NNP	_	10	nn	_
+9	Transportation	transportation	NNP	_	10	nn	_
+10	Committee	committee	NNP	_	5	pobj	_
+11	on	on	IN	_	4	prep	4:AM-TMP
+12	Wednesday	wednesday	NNP	_	11	pobj	_
+13	.	.	.	_	4	punct	_
+
+1	"	"	``	_	7	punct	_
+2	Unfortunately	unfortunately	RB	_	7	advmod	7:AM-ADV
+3	,	,	,	_	7	punct	_
+4	many	many	JJ	_	5	amod	_
+5	times	time	NNS	_	7	npadvmod	_
+6	it	it	PRP	_	7	nsubj	_
+7	takes	take	VBZ	pb=take.10	22	ccomp	22:A1=PPT
+8	an	an	DT	_	10	det	_
+9	unfortunate	unfortunate	JJ	_	10	amod	_
+10	situation	situation	NN	_	7	dobj	7:A1
+11	to	to	TO	_	12	aux	_
+12	help	help	VB	pb=help.01	7	advcl	7:A0
+13	galvanize	galvanize	VB	pb=galvanize.01	12	xcomp	12:A1=PPT
+14	the	the	DT	_	15	det	_
+15	support	support	NN	_	13	dobj	13:A1=PPT;18:A1=PPT
+16	that	that	WDT	p2=IN	18	dobj	18:R-A1
+17	we	we	PRP	_	18	nsubj	18:A0=PAG
+18	need	need	VBP	pb=need.01	15	rcmod	_
+19	,	,	,	_	22	punct	_
+20	"	"	''	_	22	punct	_
+21	Alexander	alexander	NNP	_	22	nsubj	22:A0
+22	said	say	VBD	pb=say.01	0	root	_
+23	.	.	.	_	22	punct	_
+
+1	WYFF	wyff	NNP	p2=IN	2	nn	_
+2	News	news	NNP	_	4	nn	_
+3	4	0	CD	_	2	num	_
+4	Investigates	investigates	NNP	p2=NNPS	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	learned	learn	VBN	pb=learn.01	0	root	_
+7	the	the	DT	_	8	det	_
+8	girl	girl	NN	_	19	nsubj	11:A1=PPT;19:A1=PPT
+9	,	,	,	_	8	punct	_
+10	who	who	WP	_	11	nsubj	11:R-A1
+11	is	be	VBZ	pb=be.01	8	rcmod	_
+12	a	a	DT	_	13	det	_
+13	freshman	freshman	NN	_	11	attr	11:A2=PRD
+14	at	at	IN	_	13	prep	_
+15	Gaffney	gaffney	NNP	_	17	nn	_
+16	High	high	NNP	_	17	nn	_
+17	School	school	NNP	_	14	pobj	_
+18	,	,	,	_	19	punct	_
+19	is	be	VBZ	pb=be.01	6	ccomp	6:A1=PPT
+20	still	still	RB	_	19	advmod	19:AM-TMP
+21	in	in	IN	_	19	prep	19:A2=PRD
+22	the	the	DT	_	23	det	_
+23	hospital	hospital	NN	_	21	pobj	_
+24	.	.	.	_	6	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	2014	0	CD	_	1	num	_
+3	by 	by 	NN	p2=NNP	5	nn	_
+4	WYFF	wyff	NNP	p2=IN	5	nn	_
+5	All	all	NNP	p2=DT	6	nn	_
+6	rights	right	NNS	p2=RB	7	nsubj	7:A1=PPT
+7	reserved	reserve	VBN	p2=VBD|pb=reserve.01	1	ccomp	_
+8	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+
+1	A	a	DT	_	2	det	_
+2	PICTURE	picture	NN	p2=NNP	0	root	_
+3	...	..	.	p2=:	2	punct	_
+
+1	SHOWING	show	VBG	p2=NNP|pb=show.01	0	root	_
+2	A	a	DT	p2=NNP	6	det	_
+3	TRAGIC	tragic	NNP	p2=NN	4	nn	_
+4	SCHOOL	school	NNP	_	6	nn	_
+5	BUS	bus	NNP	_	6	nn	_
+6	ACCIDENT	accident	NNP	_	1	dobj	1:A1=PPT
+7	...	..	.	_	1	punct	_
+
+1	IS	be	VBZ	pb=be.01	0	root	_
+2	FUELING	fueling	NNP	p2=VBG	1	nsubj	1:A1=PPT
+3	A	a	DT	p2=NNP	4	det	_
+4	CHANGE	change	NN	p2=NNP	1	attr	1:A2=PRD
+5	IN	in	IN	_	4	prep	_
+6	THE	the	DT	_	7	det	_
+7	LAW	law	NN	_	5	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	SOUTH	south	RB	p2=NNP	3	amod	_
+2	CAROLINA	carolina	NNP	_	3	nn	_
+3	LAWMAKERS	lawmaker	NNS	p2=NNP	0	root	_
+4	...	..	.	_	3	punct	_
+
+1	MAY	may	MD	p2=NNP	2	aux	2:AM-MOD
+2	VOTE	vote	VB	p2=NNP|pb=vote.01	0	root	_
+3	TO	to	TO	p2=NNP	4	aux	_
+4	PUT	put	VB	p2=NNP|pb=put.01	2	xcomp	2:A1=PPT
+5	CAMERAS	cameras	NNP	p2=NNS	6	nn	_
+6	NEXT	next	NNP	p2=RB	4	dobj	4:A1=PPT
+7	TO	to	IN	p2=NNP	4	prep	4:A2=GOL
+8	SCHOOL	school	NNP	_	11	nn	_
+9	BUS	bus	NNP	_	11	nn	_
+10	STOP	stop	NNP	_	11	nn	_
+11	ARMS	arms	NNP	p2=NNPS	7	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	WHEN	when	WRB	_	11	advmod	_
+2	WYFF	wyff	NNP	p2=DT	3	nn	_
+3	NEWS	news	NNP	p2=NN	9	nn	_
+4	4	0	CD	_	3	num	_
+5	INVESTIGATES	investigates	NNP	p2=NNPS	6	nn	6:A0
+6	BROUGHT	brought	VBD	p2=VBD|pb=brought.01	0	root	_
+7	YOU	you	PRP	p2=NNP	9	nsubj	_
+8	THE	the	DT	p2=NNP	9	det	_
+9	STORY	story	NNP	p2=NN	6	appos	6:A1
+10	LAST	last	NNP	p2=RB	11	nn	_
+11	MONTH	month	NNP	_	9	npadvmod	_
+12	...	..	.	_	3	punct	_
+
+1	THE	the	DT	_	2	det	_
+2	BILL	bill	NNP	p2=NN	0	root	_
+3	...	..	.	p2=NFP	2	punct	_
+
+1	APPEARED	appear	VBD	p2=VBN|pb=appear.02	0	root	_
+2	TO	to	NNP	p2=TO	5	nn	_
+3	HAVE	have	NNP	p2=VB	5	nn	_
+4	LITTLE	little	NNP	p2=RB	5	nn	_
+5	CHANCE	chance	NNP	_	1	nsubj	1:A1=PPT
+6	OF	of	IN	p2=NNP	5	prep	_
+7	PASSING	passing	NNP	_	6	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	GABRIELLE	gabrielle	NNP	p2=NN	2	nn	_
+2	KOMOROWSKI	komorowski	NNP	_	3	nsubj	3:A1=PPT
+3	IS	be	VBZ	pb=be.01	0	root	_
+4	HERE	here	RB	_	3	advmod	3:A2=PRD
+5	NOW	now	RB	_	3	advmod	3:AM-TMP
+6	...	..	.	p2=NFP	3	punct	_
+
+1	WITH	with	IN	_	0	root	_
+2	THAT	that	DT	p2=NNP	3	det	_
+3	PICTURE	picture	NN	p2=NNP	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	GABBY	gabby	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	THIS	this	DT	p2=NNP	2	nsubj	2:A1=PPT
+2	WAS	be	VBD	p2=NNP|pb=be.01	0	root	_
+3	TAKEN	taken	NNP	p2=VBN	12	nn	_
+4	MOMENTS	moments	NNP	p2=NNPS	12	nn	_
+5	AFTER	after	NNP	_	6	nn	_
+6	TROOPERS	troopers	NNP	p2=NNPS	8	nn	_
+7	SAY	say	NNP	_	8	nn	_
+8	A	a	NNP	p2=DT	12	nn	_
+9	15	0	CD	_	10	num	_
+10	YEAR	year	NNP	p2=NN	12	nn	_
+11	OLD	old	NNP	_	12	nn	_
+12	GIRL	girl	NNP	_	2	attr	2:A2=PRD
+13	...	..	.	_	2	punct	_
+
+1	WAS	be	VBD	p2=NNP|pb=be.01	0	root	_
+2	HIT	hit	NNP	p2=VBN	1	nsubj	1:A1=PPT
+3	BY	by	RB	p2=NNP	1	advmod	1:AM-ADV
+4	A	a	DT	p2=NNP	5	det	_
+5	CAR	car	NN	p2=NNP	1	attr	7:A0;1:A2=PRD
+6	THAT	that	WDT	p2=NNP	7	nsubj	7:R-A0
+7	PASSED	passed	VBD	pb=passed.01	5	rcmod	_
+8	A	a	DT	p2=NNP	11	det	_
+9	STOPPED	stopped	NNP	p2=VBD	10	nn	_
+10	SCHOOL	school	NNP	p2=NN	11	nn	_
+11	BUS	bus	NNP	_	7	dobj	7:A1
+12	IN	in	IN	p2=NNP	7	prep	7:AM-LOC
+13	CHEROKEE	cherokee	NNP	_	14	nn	_
+14	COUNTY	county	NNP	_	12	pobj	_
+15	LAST	last	NNP	_	16	nn	_
+16	WEEK	week	NNP	_	7	npadvmod	7:AM-TMP
+17	.	.	.	_	1	punct	_
+
+1	YOU	you	PRP	_	3	nsubj	3:A0
+2	CAN	can	MD	p2=NNP	3	aux	3:AM-MOD
+3	SEE	see	VB	p2=NNP|pb=see.01	0	root	_
+4	...	..	.	p2=NFP	3	punct	_
+
+1	THE	the	DT	_	2	det	_
+2	GIRL	girl	NNP	p2=NN	4	poss	_
+3	'S	's	POS	p2=VBZ	2	possessive	_
+4	SHOES	shoe	NNS	p2=NNPS	0	root	_
+5	IN	in	IN	_	4	prep	_
+6	THE	the	DT	_	7	det	_
+7	ROAD	road	NN	p2=NNP	5	pobj	_
+8	...	..	.	p2=:	4	punct	_
+
+1	...	..	.	p2=NFP	0	root	_
+
+1	AND	and	CC	_	3	cc	_
+2	HER	her	NNP	p2=PRP	3	nn	_
+3	BACKPACK	backpack	NNP	_	0	root	_
+4	...	..	.	p2=NFP	3	punct	_
+
+1	ENDED	ended	VBN	p2=VBD|pb=end.03	0	root	_
+2	UP	up	RP	p2=NNP	1	prt	1:C-V
+3	ON	on	NNP	p2=IN	4	nn	_
+4	TOP	top	NNP	p2=NN	1	npadvmod	1:A1
+5	OF	of	IN	_	4	prep	_
+6	THE	the	DT	p2=NNP	8	det	_
+7	SCHOOL	school	NNP	p2=NN	8	nn	_
+8	BUS	bus	NNP	_	5	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	BECAUSE	because	VB	p2=VB|pb=because.01	0	root	_
+2	OF	of	IN	p2=NNP	1	pcomp	_
+3	WHAT	what	NNP	p2=WP	4	nn	_
+4	HAPPENED	happened	NNP	p2=VBD	1	pobj	1:A1
+5	HERE	here	RB	p2=NNP	4	advmod	1:AM-LOC
+6	...	..	.	p2=NFP	4	punct	_
+
+1	LAWMAKERS	lawmaker	NNS	_	5	nsubj	5:A0
+2	IN	in	IN	p2=NNP	1	prep	_
+3	COLUMBIA	columbia	NNP	_	2	pobj	_
+4	ARE	be	VBP	p2=NNP	5	aux	_
+5	TAKING	take	VBG	p2=NNP|pb=take.01	0	root	_
+6	UP	up	RP	p2=NNP	5	prt	5:C-V
+7	THIS	this	NNP	p2=DT	8	nn	_
+8	BILL	bill	NNP	_	5	dobj	5:A1=PPT
+9	...	..	.	p2=:	5	punct	_
+
+1	ONCE	once	RB	_	0	root	_
+2	AGAIN	again	NNP	p2=RB	1	npadvmod	_
+3	.	.	.	_	1	punct	_
+
+1	A	a	DT	_	2	det	_
+2	GIRL	girl	NNP	p2=NN	4	poss	_
+3	'S	's	POS	p2=VBZ	2	possessive	_
+4	SHOES	shoe	NNS	p2=NNP	0	root	_
+5	...	..	.	p2=:	4	punct	_
+
+1	SCATTERED	scatter	VBN	p2=VBD|pb=scatter.01	0	root	_
+2	IN	in	IN	_	1	prep	1:A2=GOL
+3	THE	the	DT	_	4	det	_
+4	STREET	street	NNP	p2=NN	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	...	..	.	p2=NFP	0	root	_
+
+1	INCHES	inch	VBZ	p2=VBZ|pb=inch.01	0	root	_
+2	FROM	from	IN	_	1	prep	1:AM-DIR
+3	A	a	DT	p2=NNP	5	det	_
+4	SCHOOL	school	NNP	p2=NN	5	nn	_
+5	BUS	bus	NNP	_	2	pobj	_
+6	...	..	.	_	1	punct	_
+
+1	YOU	you	PRP	_	3	nsubj	3:A0
+2	CAN	can	MD	p2=NNP	3	aux	3:AM-MOD
+3	SEE	see	VB	pb=see.01	0	root	_
+4	IN	in	IN	p2=NNP	3	prep	3:AM-LOC
+5	THIS	this	NNP	p2=DT	6	nn	_
+6	PICTURE	picture	NNP	p2=NN	4	pobj	_
+7	...	..	.	p2=NFP	3	punct	_
+
+1	THE	the	DT	_	2	det	_
+2	BUS	bus	NNP	p2=NNS	3	nsubj	3:A1=PPT
+3	WAS	be	VBD	p2=NNP|pb=be.01	0	root	_
+4	STOPPED	stopped	NNP	p2=VBN	3	attr	3:A2=PRD
+5	...	..	.	_	3	punct	_
+
+1	WITH	with	IN	_	5	prep	_
+2	THE	the	DT	_	4	det	_
+3	STOP	stop	NNP	p2=NN	4	nn	_
+4	ARM	arm	NNP	p2=NN	1	pobj	_
+5	OUT	out	RB	p2=NNP	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	TROOPERS	trooper	NNS	p2=NNP	2	nsubj	_
+2	SAY	say	NNP	_	0	root	_
+3	...	..	.	p2=:	2	punct	_
+
+1	A	a	DT	_	5	det	_
+2	15	0	CD	p2=LS	3	num	_
+3	YEAR	year	NNP	p2=NN	5	nn	_
+4	OLD	old	NNP	_	5	nn	_
+5	GIRL	girl	NNP	p2=NN	0	root	8:A0;12:A0=PAG
+6	WHO	who	WP	p2=NNP	8	nsubj	8:R-A0
+7	WAS	be	VBD	p2=NNP	8	aux	_
+8	CROSSING	crossing	VBG	pb=crossing.01	5	rcmod	_
+9	THE	the	DT	p2=NNP	10	det	_
+10	STREET	street	NNP	_	8	dobj	8:A1
+11	TO	to	TO	p2=NNP	12	aux	_
+12	GET	get	VB	p2=NNP|pb=get.01	8	advcl	_
+13	ON	on	NNP	_	12	dobj	12:A1=PPT
+14	THE	the	DT	p2=NNP	15	det	_
+15	BUS	bus	NNP	_	13	appos	_
+16	...	..	.	_	12	punct	_
+
+1	WAS	be	VBD	p2=NNP|pb=be.01	0	root	_
+2	HIT	hit	NNP	p2=VBN	3	nn	_
+3	BY	by	NNP	p2=RB	4	nn	_
+4	A	a	NNP	p2=DT	7	nn	_
+5	CAR	car	NNP	p2=NN	7	nn	_
+6	SO	so	NNP	p2=RB	7	nn	_
+7	HARD	hard	NNP	_	1	nsubj	1:A1=PPT
+8	....	..	.	_	1	punct	_
+
+1	HER	her	NNP	p2=PRP	3	nn	_
+2	BACKPACK	backpack	NNP	_	3	nn	3:A0
+3	LANDED	landed	VBD	p2=VBD|pb=landed.01	0	root	_
+4	...	..	.	_	3	punct	_
+
+1	ON	on	NNP	p2=IN	2	nn	_
+2	TOP	top	NN	p2=NNP	0	root	_
+3	OF	of	IN	_	2	prep	_
+4	THE	the	DT	p2=NNP	5	det	_
+5	BUS	bus	NNP	p2=NN	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	TROOPERS	trooper	NNS	p2=NNP	2	nsubj	2:A0
+2	SAY	say	VBP	pb=say.01	0	root	_
+3	THE	the	DT	p2=NNP	7	det	_
+4	CAR	car	NNP	p2=NN	7	nn	_
+5	THAT	that	NNP	p2=WDT	6	nsubj	_
+6	HIT	hit	NNP	_	7	nn	_
+7	HER	her	NNP	_	2	dobj	2:A1=PPT
+8	...	..	.	_	2	punct	_
+
+1	JUST	just	RB	p2=NNP	4	advmod	4:AM-ADV
+2	DID	do	VBD	p2=NNP	4	aux	_
+3	NOT	not	RB	_	4	neg	4:AM-NEG
+4	STOP	stop	VB	pb=stop.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	54.57	0	CD	p2=LS	0	root	_
+2	i	I	PRP	_	4	nsubj	4:A0=PAG
+3	truly	truly	RB	_	4	advmod	4:AM-ADV
+4	believe	believe	VBP	p2=VBD|pb=believe.01	0	root	_
+5	it	it	PRP	_	6	nsubj	6:A1=PPT
+6	's	be	VBZ	pb=be.01	4	ccomp	4:A1=PPT
+7	because	because	IN	_	9	mark	_
+8	drivers	driver	NNS	_	9	nsubj	9:A0=PAG
+9	know	know	VBP	pb=know.01	6	advcl	6:A2=PRD
+10	they	they	PRP	_	13	nsubj	15:A1=PPT;16:A1=GOL
+11	're	be	VBP	_	13	aux	_
+12	not	not	RB	_	13	neg	13:AM-NEG
+13	going	go	VBG	pb=go.04	9	ccomp	9:A1=PPT
+14	to	to	TO	_	16	aux	_
+15	get	get	VB	pb=get.03	16	auxpass	_
+16	ticketed	ticket	VBN	pb=ticket.01	13	xcomp	15:A2=GOL
+17	for	for	IN	_	16	prep	16:A2=PPT
+18	it	it	PRP	_	17	pobj	_
+19	55.02	0	CD	_	20	num	_
+20	AFTER	after	NNP	p2=IN	16	npadvmod	16:AM-TMP
+21	HE	he	PRP	p2=NNP	22	nsubj	22:A0
+22	LEARNED	learned	VBD	pb=learned.01	6	advcl	_
+23	ABOUT	about	NNP	p2=VBD	22	dobj	22:A1
+24	THE	the	DT	p2=NNP	28	det	_
+25	ACCIDENT	accident	NNP	p2=NN	28	nn	_
+26	IN	in	NNP	p2=IN	28	nn	_
+27	CHEROKEE	cherokee	NNP	_	28	nn	_
+28	COUNTY	county	NNP	_	23	appos	_
+29	....	..	.	_	4	punct	_
+
+1	JOE	joe	NNP	p2=NN	9	nn	_
+2	KEMPF	kempf	NNP	_	9	nn	_
+3	WROTE	wrote	NNP	p2=VBD	4	nn	_
+4	THIS	this	NNP	p2=DT	5	nn	_
+5	LETTER	letter	NNP	_	9	nn	_
+6	TO	to	NNP	p2=IN	9	nn	_
+7	SOUTH	south	NNP	_	8	nn	_
+8	CAROLINA	carolina	NNP	_	9	nn	_
+9	LAWMAKERS	lawmaker	NNS	p2=NNP	0	root	_
+10	...	..	.	p2=:	9	punct	_
+
+1	...	..	.	p2=NFP	0	root	_
+
+1	ASKING	ask	VBG	pb=ask.02	0	root	_
+2	THEM	them	PRP	_	1	dobj	4:A0;1:A2=GOL
+3	TO	to	TO	p2=NNP	4	aux	_
+4	SUPPORT	support	VB	p2=NNP|pb=support.01	1	xcomp	1:A1=PPT
+5	THE	the	DT	_	6	det	_
+6	BILL	bill	NNP	p2=NN	4	dobj	4:A1
+7	....	..	.	p2=NFP	1	punct	_
+
+1	THAT	that	DT	p2=WDT	3	nsubj	3:A0=PAG
+2	WOULD	would	MD	p2=NNP	3	aux	3:AM-MOD
+3	PLACE	place	VB	p2=NNP|pb=place.01	0	root	_
+4	CAMERAS	cameras	NNP	p2=NNS	5	nn	_
+5	NEXT	next	NNP	p2=RB	3	dobj	3:A1=PPT
+6	TO	to	IN	p2=NNP	3	prep	3:A2=GOL
+7	SCHOOL	school	NNP	_	10	nn	_
+8	BUS	bus	NNP	_	10	nn	_
+9	STOP	stop	NNP	_	10	nn	_
+10	ARMS	arms	NNP	p2=NNPS	6	pobj	_
+11	....	..	.	_	3	punct	_
+
+1	TO	to	TO	p2=IN	2	aux	_
+2	TAKE	take	VB	pb=take.01	7	advcl	_
+3	PICTURES	pictures	NNP	p2=NNPS	2	dobj	2:A1=PPT
+4	OF	of	IN	p2=NNP	3	prep	_
+5	PEOPLE	people	NNP	_	4	pobj	_
+6	WHO	who	WP	p2=NNP	7	nsubj	7:R-A0
+7	DRIVE	drive	VBP	pb=drive.01	0	root	_
+8	AROUND	around	NNP	p2=VBD	9	nn	_
+9	A	a	NNP	p2=DT	12	nn	_
+10	STOPPED	stopped	NNP	p2=VBD	11	nn	_
+11	SCHOOL	school	NNP	_	12	nn	_
+12	BUS	bus	NNP	_	7	dobj	7:A1=PPT
+13	.	.	.	_	7	punct	_
+
+1	THOSE	those	DT	_	2	det	_
+2	PICTURES	picture	NNS	p2=NNP	0	root	_
+3	...	..	.	p2=NFP	2	punct	_
+
+1	WOULD	would	MD	_	2	aux	2:AM-MOD
+2	GO	go	VB	p2=NNP|pb=go.10	0	root	_
+3	TO	to	IN	p2=NNP	2	prep	2:A2=GOL
+4	LAW	law	NN	p2=NNP	5	nn	_
+5	ENFORCEMENT	enforcement	NN	p2=NNP	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	RIGHT	right	RB	_	2	advmod	_
+2	NOW	now	RB	_	0	root	_
+3	...	..	.	p2=NFP	2	punct	_
+
+1	LAW	law	NN	_	2	nn	_
+2	ENFORCEMENT	enforcement	NNP	p2=NN	5	nsubj	5:A0
+3	MUST	must	MD	p2=NNP	5	aux	5:AM-MOD
+4	TYPICALLY	typically	RB	p2=NNP	5	advmod	5:AM-TMP
+5	SEE	see	VB	pb=see.01	0	root	_
+6	THE	the	DT	p2=NNP	7	det	_
+7	VIOLATION	violation	NN	p2=NNP	5	dobj	5:A1
+8	IN	in	IN	_	7	prep	_
+9	PERSON	person	NN	p2=NNP	8	pobj	_
+10	...	..	.	_	5	punct	_
+
+1	TO	to	TO	p2=IN	2	aux	_
+2	TICKET	ticket	VB	pb=ticket.01	0	root	_
+3	THE	the	DT	p2=NNP	4	det	_
+4	DRIVER	driver	NNP	p2=NN	2	dobj	2:A1=GOL
+5	.	.	.	_	2	punct	_
+
+1	the	the	DT	_	2	det	_
+2	law	law	NN	_	8	nsubj	8:A1=PPT
+3	as	as	IN	_	6	mark	_
+4	it	it	PRP	_	6	nsubj	6:A1=PPT
+5	currently	currently	RB	_	6	advmod	6:AM-TMP
+6	stands	stand	VBZ	pb=stand.04	8	advcl	8:AM-ADV
+7	,	,	,	_	8	punct	_
+8	is	be	VBZ	pb=be.01	0	root	_
+9	unenforceable	unenforceable	JJ	_	16	amod	_
+10	JOE	joe	NNP	_	16	poss	_
+11	'S	's	POS	p2=NNP	10	possessive	_
+12	12	0	CD	_	13	num	_
+13	YEAR	year	NNP	p2=NN	14	nn	_
+14	OLD	old	NNP	_	16	nn	_
+15	SON	son	NNP	_	16	nn	_
+16	ADAM	adam	NNP	_	8	attr	8:A2=PRD
+17	...	..	.	_	8	punct	_
+
+1	WAS	be	VBD	pb=be.01	0	root	_
+2	KILLED	killed	NNP	p2=VBN	1	nsubj	1:A1=PPT
+3	ALMOST	almost	RB	p2=NNP	4	advmod	_
+4	TWO	#crd#	CD	p2=NNP	5	num	_
+5	YEARS	year	NNS	p2=NNP	6	npadvmod	_
+6	AGO	ago	NNP	p2=RB	1	nsubj	1:A2=PRD
+7	...	..	.	p2=NFP	1	punct	_
+
+1	BY	by	RB	p2=IN	10	prep	_
+2	A	a	DT	p2=NNP	3	det	_
+3	CAR	car	NN	p2=NNP	1	pobj	_
+4	THAT	that	WDT	p2=NNP	10	det	_
+5	DROVE	drove	NNP	p2=VBD	7	nn	_
+6	AROUND	around	NNP	p2=VBD	7	nn	_
+7	A	a	NNP	p2=DT	0	root	_
+8	STOPPED	stopped	NNP	p2=VBD	9	nn	_
+9	SCHOOL	school	NNP	_	10	nn	_
+10	BUS	bus	NNP	_	7	appos	_
+11	.	.	.	_	7	punct	_
+
+1	55.48	0	CD	p2=LS	11	npadvmod	11:AM-DIS
+2	i	I	PRP	_	4	nsubj	4:A0
+3	've	have	VBP	_	4	aux	_
+4	taken	take	VBN	pb=take.01	1	rcmod	_
+5	it	it	PRP	_	4	dobj	4:A1=PPT
+6	upon	upon	IN	_	4	prep	4:AM-GOL
+7	myself	myself	PRP	_	6	pobj	_
+8	,	,	,	_	11	punct	_
+9	i	I	PRP	_	11	nsubj	11:A0=PAG
+10	truly	truly	RB	_	11	advmod	11:AM-ADV
+11	believe	believe	VBP	pb=believe.01	0	root	_
+12	that	that	IN	p2=DT	14	complm	_
+13	adam	adam	NN	p2=NNP	14	nsubj	14:A0=PAG
+14	wants	want	VBZ	pb=want.01	11	ccomp	11:A1=PPT
+15	me	me	PRP	_	17	nsubj	17:A0=PAG
+16	to	to	TO	_	17	aux	_
+17	fight	fight	VB	pb=fight.01	14	ccomp	14:A1=PPT
+18	for	for	IN	_	17	prep	17:A2=CAU
+19	this	this	DT	_	18	pobj	_
+20	.	.	.	_	11	punct	_
+
+1	to	to	TO	_	2	aux	_
+2	help	help	VB	pb=help.01	0	root	_
+3	protect	protect	VB	pb=protect.01	2	xcomp	2:A1=PPT
+4	his	his	PRP$	_	5	poss	_
+5	friends	friend	NNS	_	3	dobj	3:A1=PPT
+6	,	,	,	_	5	punct	_
+7	his	his	PRP$	_	8	poss	_
+8	peers	peer	NNS	_	5	appos	_
+9	55	0	CD	p2=NFP	8	appos	_
+10	THE	the	DT	p2=NNP	11	det	_
+11	BILL	bill	NNP	p2=NN	8	appos	_
+12	...	..	.	_	8	punct	_
+
+1	GOES	go	VBZ	pb=go.01	0	root	_
+2	BEFORE	before	NNP	p2=IN	1	nsubj	1:A1=PPT
+3	THE	the	DT	p2=NNP	7	det	_
+4	FULL	full	NNP	p2=JJ	7	amod	_
+5	SENATE	senate	NNP	_	7	nn	_
+6	TRANSPORTATION	transportation	NNP	_	7	nn	_
+7	COMMITTEE	committee	NNP	_	2	appos	_
+8	...	..	.	_	1	punct	_
+
+1	ON	on	NNP	p2=IN	2	nn	_
+2	WEDNESDAY	wednesday	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	01.07	0	CD	p2=LS	11	nsubj	11:A1=PPT
+2	what	what	WP	_	7	dobj	7:R-A1
+3	we	we	PRP	_	5	nsubj	5:A0=PAG;7:A0=PAG
+4	're	be	VBP	_	5	aux	_
+5	trying	try	VBG	pb=try.01	1	rcmod	_
+6	to	to	TO	_	7	aux	_
+7	do	do	VB	pb=do.02	5	xcomp	5:A1=PPT
+8	with	with	IN	_	7	prep	7:A2=GOL
+9	the	the	DT	_	10	det	_
+10	cameras	camera	NNS	p2=NN	8	pobj	_
+11	is	be	VBZ	pb=be.01	0	root	_
+12	be	be	VB	pb=be.01	11	xcomp	11:A2=PRD
+13	the	the	DT	_	14	det	_
+14	eyes	eye	NNS	_	12	attr	12:A2=PRD
+15	of	of	IN	_	14	prep	_
+16	law	law	NN	_	17	nn	_
+17	enforcement	enforcement	NN	_	15	pobj	_
+18	when	when	WRB	_	20	advmod	20:R-AM-TMP
+19	they	they	PRP	_	20	nsubj	20:A1=PPT
+20	're	be	VBP	pb=be.01	12	advcl	12:AM-TMP
+21	not	not	RB	_	20	neg	20:AM-NEG
+22	present	present	JJ	_	20	acomp	20:A2=PRD
+23	14	0	CD	_	27	num	_
+24	STATE	state	NN	p2=NNP	27	nn	_
+25	SENATOR	senator	NNP	p2=NN	27	nn	_
+26	THOMAS	thomas	NNP	_	27	nn	_
+27	ALEXANDER	alexander	NNP	_	10	appos	_
+28	OF	of	IN	p2=NNP	27	prep	_
+29	OCONEE	oconee	NNP	_	30	nn	_
+30	COUNTY	county	NNP	p2=NN	28	pobj	_
+31	...	..	.	p2=NFP	11	punct	_
+
+1	WHO	who	WP	_	2	nsubj	2:R-A0
+2	INTRODUCED	introduce	VBD	p2=NNP|pb=introduce.01	0	root	_
+3	THE	the	DT	_	4	det	_
+4	BILL	bill	NNP	p2=NN	2	dobj	2:A1=PPT
+5	...	..	.	_	2	punct	_
+
+1	USED	use	VBN	p2=VBD|pb=use.01	0	root	_
+2	THIS	this	NNP	p2=DT	3	nn	_
+3	PICTURE	picture	NNP	p2=NN	1	dobj	1:A1=PPT
+4	OF	of	IN	_	3	prep	_
+5	THE	the	DT	p2=NNP	7	det	_
+6	ACCIDENT	accident	NNP	p2=NN	7	nn	_
+7	SCENE	scene	NNP	p2=NN	4	pobj	_
+8	...	..	.	p2=NFP	1	punct	_
+
+1	TO	to	IN	p2=TO	0	root	_
+2	ASK	ask	NNP	_	3	nn	_
+3	FELLOW	fellow	NNP	_	4	nn	_
+4	LAWMAKERS	lawmaker	NNS	p2=NNP	1	pobj	_
+5	...	..	.	p2=:	1	punct	_
+
+1	TO	to	IN	p2=TO	0	root	_
+2	RECONSIDER	reconsider	NNP	p2=JJR	3	nn	_
+3	IT	it	NNP	p2=NN	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	00.33	0	CD	p2=LS	7	dep	_
+2	unfortunately	unfortunately	RB	_	7	advmod	7:AM-ADV
+3	,	,	,	_	7	punct	_
+4	many	many	JJ	_	5	amod	_
+5	times	time	NNS	_	7	npadvmod	_
+6	it	it	PRP	_	7	nsubj	_
+7	takes	take	VBZ	pb=take.10	0	root	_
+8	an	an	DT	_	10	det	_
+9	unfortunate	unfortunate	JJ	_	10	amod	_
+10	situation	situation	NN	_	7	dobj	7:A1
+11	to	to	TO	_	12	aux	_
+12	help	help	VB	pb=help.01	7	xcomp	7:A0
+13	galvanize	galvanize	VB	pb=galvanize.01	12	xcomp	12:A1=PPT
+14	the	the	DT	_	15	det	_
+15	support	support	NN	_	13	dobj	13:A1=PPT;18:A1=PPT
+16	that	that	WDT	p2=IN	18	dobj	18:R-A1
+17	we	we	PRP	_	18	nsubj	18:A0=PAG
+18	need	need	VBP	pb=need.01	15	rcmod	_
+19	42	0	CD	_	18	dobj	_
+20	BUT	but	CC	p2=NNP	19	cc	_
+21	TIME	time	NNP	p2=NN	19	conj	_
+22	...	..	.	_	7	punct	_
+
+1	IS	be	VBZ	pb=be.01	0	root	_
+2	NOT	not	RB	p2=NNP	1	neg	1:AM-NEG
+3	ON	on	NNP	_	1	nsubj	1:A1=PPT
+4	HIS	his	PRP$	p2=NNP	5	poss	_
+5	SIDE	side	NNP	_	3	pobj	_
+6	....	..	.	p2=NFP	1	punct	_
+
+1	THE	the	DT	_	3	det	_
+2	LEGISLATIVE	legislative	NNP	p2=JJ	3	nn	_
+3	SESSION	session	NNP	p2=NN	4	nsubj	4:A1=PPT
+4	IS	be	VBZ	p2=NNP|pb=be.01	0	root	_
+5	OVER	over	NNP	p2=RB	4	attr	4:A2=PRD
+6	...	..	.	p2=NFP	4	punct	_
+
+1	ON	on	NNP	p2=NN	3	nn	_
+2	JUNE	june	NNP	_	3	nn	_
+3	5TH	5th	NNP	p2=NN	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	WE	we	NNP	p2=PRP	3	nsubj	3:A0=PAG
+2	'LL	will	MD	p2=NNP	3	aux	3:AM-MOD
+3	LET	let	VB	p2=NNP|pb=let.01	0	root	_
+4	YOU	you	PRP	_	5	nsubj	5:A0=PAG
+5	KNOW	know	VB	p2=NNP|pb=know.01	3	ccomp	3:A1=PPT
+6	WHAT	what	WDT	p2=WP	7	det	_
+7	HAPPENS	happens	NNP	p2=VBZ	5	dobj	5:A1=PPT
+8	TO	to	IN	p2=NNP	7	prep	_
+9	THIS	this	NNP	p2=DT	8	pobj	_
+10	BILL	bill	NNP	_	11	nn	_
+11	ON	on	NNP	_	12	nn	_
+12	WEDNESDAY	wednesday	NNP	_	8	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	WE	we	NNP	p2=PRP	2	nn	_
+2	'RE	're	NNP	p2=VBP	3	nsubj	3:A0
+3	TOLD	told	VBD	pb=told.01	0	root	_
+4	THE	the	DT	p2=NNP	5	det	_
+5	GIRL	girl	NNP	p2=NN	3	dobj	3:A1
+6	...	..	.	p2=NFP	3	punct	_
+
+1	WHO	who	WP	_	2	nsubj	2:R-A1
+2	IS	be	VBZ	pb=be.01	0	root	_
+3	A	a	DT	p2=NNP	8	det	_
+4	FRESHMAN	freshman	NNP	p2=NN	5	nn	_
+5	AT	at	NNP	_	8	nn	_
+6	GAFFNEY	gaffney	NNP	_	8	nn	_
+7	HIGH	high	NNP	_	8	nn	_
+8	SCHOOL	school	NNP	_	2	attr	2:A2=PRD
+9	...	..	.	_	2	punct	_
+
+1	IS	be	VBZ	pb=be.01	0	root	_
+2	STILL	still	NNP	p2=RB	1	nsubj	1:A1=PPT
+3	IN	in	IN	p2=NNP	1	prep	1:A2=PRD
+4	THE	the	DT	p2=NNP	5	det	_
+5	HOSPITAL	hospital	NN	p2=NNP	3	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	TROOPERS	trooper	NNS	p2=NNP	2	nsubj	_
+2	SAY	say	NNP	_	0	root	_
+3	...	..	.	p2=:	2	punct	_
+
+1	THE	the	DT	_	2	det	_
+2	WOMAN	woman	NN	p2=NNP	0	root	3:A1=PPT
+3	ACCUSED	accuse	VBN	p2=NNP|pb=accuse.01	2	partmod	_
+4	OF	of	IN	_	3	prep	3:A2=PRD
+5	HITTING	hit	VBG	p2=NNP|pb=hit.01	4	pcomp	_
+6	THE	the	DT	p2=NNP	7	det	_
+7	GIRL	girl	NNP	p2=NN	5	dobj	5:A1=GOL
+8	...	..	.	_	2	punct	_
+
+1	IS	be	VBZ	pb=be.01	0	root	_
+2	CHARGED	charged	NNP	p2=VBN	1	nsubj	11:A0=PAG;1:A1=PPT
+3	WITH	with	IN	p2=NNP	2	prep	_
+4	PASSING	passing	NNP	p2=VBG	5	nn	_
+5	A	a	NNP	p2=DT	8	nn	_
+6	STOPPED	stopped	NNP	p2=VBD	7	nn	_
+7	SCHOOL	school	NNP	_	8	nn	_
+8	BUS	bus	NNP	_	3	pobj	_
+9	,	,	,	_	1	punct	_
+10	AND	and	CC	p2=NNP	1	cc	_
+11	VIOLATING	violate	VBG	p2=NNP|pb=violate.01	1	conj	_
+12	A	a	DT	p2=NN	13	det	_
+13	BEGINNER	beginner	NNP	p2=NN	15	poss	_
+14	'S	's	POS	p2=NNPS	13	possessive	_
+15	PERMIT	permit	NNP	p2=NN	11	dobj	11:A1=PPT
+16	.	.	.	_	1	punct	_
+
+1	SHE	she	NNP	p2=PRP	2	nsubj	2:A1=PPT
+2	IS	be	VBZ	p2=NNP|pb=be.01	0	root	_
+3	NOW	now	RB	p2=NNP	2	advmod	2:AM-TMP
+4	ON	on	NNP	_	6	nn	_
+5	HOUSE	house	NNP	_	6	nn	_
+6	ARREST	arrest	NNP	_	2	attr	2:A2=PRD
+7	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	views	view	NNS	_	4	nsubj	3:A1=PPT;4:A1=PPT
+3	expressed	express	VBN	p2=VBD|pb=express.01	2	partmod	_
+4	are	be	VBP	pb=be.01	0	root	_
+5	not	not	RB	_	4	neg	4:AM-NEG
+6	those	those	DT	_	4	attr	4:A2=PRD
+7	of	of	IN	_	6	prep	_
+8	this	this	DT	_	9	det	_
+9	site	site	NN	_	7	pobj	_
+10	,	,	,	_	4	punct	_
+11	this	this	DT	_	12	det	_
+12	station	station	NN	_	6	appos	_
+13	or	or	CC	_	12	cc	_
+14	its	its	PRP$	_	16	poss	_
+15	affiliated	affiliated	JJ	p2=VBN	16	amod	_
+16	companies	company	NNS	_	12	conj	_
+17	.	.	.	_	4	punct	_
+
+1	By	by	IN	_	6	prep	6:AM-MNR
+2	posting	post	VBG	pb=post.01	1	pcomp	_
+3	your	your	PRP$	_	4	poss	_
+4	comments	comment	NNS	_	2	dobj	2:A1=PPT
+5	you	you	PRP	_	6	nsubj	6:A0=PAG;8:A0=PAG
+6	agree	agree	VBP	pb=agree.01	0	root	_
+7	to	to	TO	_	8	aux	_
+8	accept	accept	VB	pb=accept.01	6	xcomp	6:A1=PPT
+9	our	our	PRP$	_	10	poss	_
+10	terms	term	NNS	_	8	dobj	8:A1=PPT
+11	of	of	IN	_	10	prep	_
+12	use	use	NN	_	11	pobj	_
+13	.	.	.	_	6	punct	_
+
+1	"	"	``	_	3	punct	_
+2	Breaking	break	VBG	pb=break.01	3	amod	_
+3	Bad	bad	JJ	p2=NNP	5	nsubj	2:A1=PPT;5:A1=PPT
+4	"	"	''	_	3	punct	_
+5	is	be	VBZ	pb=be.01	0	root	_
+6	in	in	IN	p2=RB	5	prep	5:A2=PRD
+7	blue	blue	JJ	p2=NN	8	amod	_
+8	heaven	heaven	NNP	p2=NN	6	pobj	_
+9	.	.	.	_	5	punct	_
+

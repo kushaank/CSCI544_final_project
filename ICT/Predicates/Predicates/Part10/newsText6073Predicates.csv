@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+with,face.01,The Supreme Court,,Affirmative,Kenya ; The Supreme Court is faced with yet another task of deciding whether Evans Kidero should retain his seat as the governor of Nairobi or whether the county should go back to the ballot . 
+Evans Kidero,retain.01,his seat as,,Affirmative,Kenya ; The Supreme Court is faced with yet another task of deciding whether Evans Kidero should retain his seat as the governor of Nairobi or whether the county should go back to the ballot . 
+Dr Kidero,file.01,a petition,at,Affirmative,"Dr Kidero has filed a petition at the highest court , challenging the nullification of his election by the Court of Appeal last week . "
+Dr Kidero,challenge.01,the nullification of,,Affirmative,"Dr Kidero has filed a petition at the highest court , challenging the nullification of his election by the Court of Appeal last week . "
+A petition challenging,challenge.01,his election,,Affirmative,"A petition challenging his election was filed at the High Court last year by his close challenger Ferdinand Waititu , a former deputy mayor and a prominent politician in Nairobi . "
+by,file.01,A petition challenging,at,Affirmative,"A petition challenging his election was filed at the High Court last year by his close challenger Ferdinand Waititu , a former deputy mayor and a prominent politician in Nairobi . "
+by,dismiss.01,A petition challenging his election,,Affirmative,It was dismissed by the High Court but Waititu successfully appealed . 
+Ferdinand Waititu,file.01,Appeal,,Affirmative,"KideroÃ¢Â€Â™s case at the Supreme Court could turn on one argument , that Waititu filed his appeal out of time hence it should not have been entertained by the Court of Appeal in the first place . "
+by,entertain.01,$ A TM s case at the Supreme Court,,Affirmative,"KideroÃ¢Â€Â™s case at the Supreme Court could turn on one argument , that Waititu filed his appeal out of time hence it should not have been entertained by the Court of Appeal in the first place . "
+( a ) of,require.01,be filed at,,Affirmative,Section 85 ( a ) of the Elections Act requires that an appeal on any election matter be filed at the Court of Appeal within 30 days after the judgment of the High Court . 
+the High Court,deliver.01,the judgment of the High Court,,Affirmative,"In this case , the High Court delivered its judgment on September 10 , 2013 . "
+Ferdinand Waititu,file.01,a Notice of Appeal,,Affirmative,"On September 9 , Waititu filed a Notice of Appeal . "
+Ferdinand Waititu,obtain.01,Court proceedings,,Affirmative,"However , he could not obtain the typed High Court proceedings which he must include in the record of appeal . "
+Ferdinand Waititu,include.01,Court proceedings,in,Affirmative,"However , he could not obtain the typed High Court proceedings which he must include in the record of appeal . "
+October 31,indicate.01,Court took,,Affirmative,It indicated that the High Court took 49 days to prepare the proceedings . 
+the High Court,take.10,49 days,,Affirmative,It indicated that the High Court took 49 days to prepare the proceedings . 
+the High Court,prepare.02,the typed High Court proceedings which he must include in the record of appeal,,Affirmative,It indicated that the High Court took 49 days to prepare the proceedings . 
+Ferdinand Waititu,file.01,Appeal,,Affirmative,Waititu filed his appeal on November 22 . 
+"judges Mohamed Warsame ,",ask.02,to address them on,the lawyers,Affirmative,"During the hearing in February this year the three Court of Appeal judges Mohamed Warsame , GBM Kariuki and Patrick Kiage asked the lawyers to address them on the question of time . "
+the lawyers,address.02,the lawyers,,Affirmative,"During the hearing in February this year the three Court of Appeal judges Mohamed Warsame , GBM Kariuki and Patrick Kiage asked the lawyers to address them on the question of time . "
+counsel Paul Muite,argue.01,appeal was filed within,,Affirmative,"WaitituÃ¢Â€Â™s counsel Paul Muite argued that the appeal was filed within the time provided under Rule 82 of the Court of Appeal Rules , 2010 . "
+counsel Paul Muite,submit.01,", he could not be punished for delay caused by",,Affirmative,"He submitted that since Waititu had a certificate of delay , he could not be punished for delay caused by the High Court in the supply and preparation of proceedings . "
+Ferdinand Waititu,have.03,a certificate of delay,,Affirmative,"He submitted that since Waititu had a certificate of delay , he could not be punished for delay caused by the High Court in the supply and preparation of proceedings . "
+by,cause.01,delay caused by,,Affirmative,"He submitted that since Waititu had a certificate of delay , he could not be punished for delay caused by the High Court in the supply and preparation of proceedings . "
+counsel Paul Muite,submit.01,be excluded in computing,,Affirmative,Mr Muite submitted that the 49 days taken for the preparation and supply of the proceedings be excluded in computing the period for filing . 
+counsel Paul Muite,argue.01,would violate,,Affirmative,"Muite argued that a strict construction of Section 85 ( a ) of the Elections Act would violate his clientÃ¢Â€Â™s right to access justice , under Article 48 of the Constitution . "
+a strict construction of,violate.01,his clientÃ¢Â€Â™s,,Affirmative,"Muite argued that a strict construction of Section 85 ( a ) of the Elections Act would violate his clientÃ¢Â€Â™s right to access justice , under Article 48 of the Constitution . "
+Commission ( IEBC ),address.02,the issue,,Affirmative,The Independent Electoral and Boundaries Commission ( IEBC ) did not address the issue but left it to the court to decide . 
+Commission ( IEBC ),leave.01,Independent,to,Affirmative,The Independent Electoral and Boundaries Commission ( IEBC ) did not address the issue but left it to the court to decide . 

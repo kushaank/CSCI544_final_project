@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Any student,request.01,some sort of,,Affirmative,"Any student can request some sort of individual accommodation , but to say we need some kind of one - size - fits - all approach is totally wrong . "
+Any student,say.01,we need,,Affirmative,"Any student can request some sort of individual accommodation , but to say we need some kind of one - size - fits - all approach is totally wrong . "
+we,need.01,some kind of,,Affirmative,"Any student can request some sort of individual accommodation , but to say we need some kind of one - size - fits - all approach is totally wrong . "
+students,deal.01,with something,,Affirmative,The presumption there is that students should not be forced to deal with something that makes them uncomfortable is absurd or even dangerous . 
+something,make.02,them uncomfortable,,Affirmative,The presumption there is that students should not be forced to deal with something that makes them uncomfortable is absurd or even dangerous . 
+I,object.01,to,,Affirmative,I quite object to the argument of ' Kids today need to toughen up . 
+Kids today,need.01,to toughen up,,Affirmative,I quite object to the argument of ' Kids today need to toughen up . 
+I,miss.02,the reality,,Affirmative,' That absolutely misses the reality that we 're dealing with . 
+that students should not be forced to deal with something that makes them uncomfortable,deal.01,the reality,,Affirmative,' That absolutely misses the reality that we 're dealing with . 
+that students should not be forced to deal with something that makes them uncomfortable,have.03,students coming to us,,Affirmative,"We have students coming to us with serious issues , and we need to deal with that respectfully and seriously . "
+that students should not be forced to deal with something that makes them uncomfortable,need.01,to deal with that,,Affirmative,"We have students coming to us with serious issues , and we need to deal with that respectfully and seriously . "
+that students should not be forced to deal with something that makes them uncomfortable,deal.01,with that,,Affirmative,"We have students coming to us with serious issues , and we need to deal with that respectfully and seriously . "
+The story,cite.01,The Merchant of Venice,,Affirmative,"The story cites Shakespeare 's The Merchant of Venice , which contains anti-Semitism , and Virginia Woolf 's Mrs. Dalloway , which discusses suicide , as examples of works that could require these warnings . "
+The Merchant of Venice,contain.01,anti-Semitism,,Affirmative,"The story cites Shakespeare 's The Merchant of Venice , which contains anti-Semitism , and Virginia Woolf 's Mrs. Dalloway , which discusses suicide , as examples of works that could require these warnings . "
+"Mrs. Dalloway ,",discuss.01,suicide,,Affirmative,"The story cites Shakespeare 's The Merchant of Venice , which contains anti-Semitism , and Virginia Woolf 's Mrs. Dalloway , which discusses suicide , as examples of works that could require these warnings . "
+works,require.01,these warnings,,Affirmative,"The story cites Shakespeare 's The Merchant of Venice , which contains anti-Semitism , and Virginia Woolf 's Mrs. Dalloway , which discusses suicide , as examples of works that could require these warnings . "
+Hundreds of students,sign.01,a petition,,Affirmative,"Hundreds of students signed a petition to have the statue removed citing its ability to trigger memories or fear of sexual assault , but the president decided to keep it . "
+a statue of a man sleepwalking in his underwear,cite.01,its ability,,Affirmative,"Hundreds of students signed a petition to have the statue removed citing its ability to trigger memories or fear of sexual assault , but the president decided to keep it . "
+the president,decide.01,to keep it,,Affirmative,"Hundreds of students signed a petition to have the statue removed citing its ability to trigger memories or fear of sexual assault , but the president decided to keep it . "
+the president,keep.01,a petition to have the statue,,Affirmative,"Hundreds of students signed a petition to have the statue removed citing its ability to trigger memories or fear of sexual assault , but the president decided to keep it . "

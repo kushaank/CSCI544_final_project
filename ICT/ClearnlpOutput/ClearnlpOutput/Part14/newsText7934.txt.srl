@@ -1,0 +1,25 @@
+1	According	accord	VBG	_	22	prep	22:AM-ADV
+2	to	to	IN	_	1	prep	_
+3	the	the	DT	_	4	det	_
+4	leader	leader	NN	_	2	pobj	_
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	15	det	_
+7	self	self	NN	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	proclaimed	proclaim	VBN	_	15	amod	_
+10	Donetsk	donetsk	NNP	_	11	nn	_
+11	People	people	NNPS	p2=NNP	13	poss	_
+12	's	's	POS	_	11	possessive	_
+13	Republic	republic	NNP	_	15	nn	_
+14	Pavlo	pavlo	NNP	_	15	nn	_
+15	Gubaryov	gubaryov	NNP	_	5	pobj	_
+16	,	,	,	_	22	punct	_
+17	elections	election	NNS	_	22	nsubj	22:A1=PPT
+18	of	of	IN	_	17	prep	_
+19	a	a	DT	_	21	det	_
+20	new	new	JJ	_	21	amod	_
+21	President	president	NNP	_	18	pobj	_
+22	is	be	VBZ	pb=be.01	0	root	_
+23	illegal	illegal	JJ	_	22	acomp	22:A2=PRD
+24	.	.	.	_	22	punct	_
+

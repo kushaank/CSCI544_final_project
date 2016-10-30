@@ -1,0 +1,18 @@
+
+A number of technology companies, including  Meetup ,  Basecamp , Vimeo, Bit.ly and others, have undergone website-crashing DDoS attacks (distributed denial-of-service) in recent months, but  SAY Media -owned blogging platform Typepad , apparently, has the dubious honor of being taken down for an extended outage more than once in just a few weeks. The company has confirmed to us this morning that it is again undergoing another DDoS attack, which has taken its service offline.
+
+However, until all the facts are in and TypePad can provide more info about the nature of this attack, which right now it’s unable to do, it’s unclear at this time that this morning’s network outage is definitely a DDoS attack — the same as before. Because it’s still early in the investigation, it’s possible the company is presuming a DDoS attack, where only a network outage was at fault.
+
+In April, we reported that Typepad was undergoing an extended DDoS attack, which, at the time, had been underway off and on for nearly five days. The company explained that the attack was similar in style to that which had taken down Basecamp, and confirmed that it was working with technology providers, including CloudFlare and Fastly to help mitigate the attack and bring its service back online.
+
+Though TypePad never shared extensive technical details about the DDoS attack, the typical scenario — and one that Basecamp had faced, as well — involves an initial demand for some sort of “ransom” once the site and its related services have been knocked offline. The amount first requested is usually small, but once attackers know they have a willing victim, they’ll often increase the amount.
+
+SAY Media said it had also received a “ransom” note, and was cooperating with the FBI on an investigation.
+
+The www.saymedia.com website address came up, however, though a bit slowly. (SAY Media operates a number of brands, including ReadWrite, xoJane, Fashionista, Cupcakes and Cashmere, and others.) The site loads but a “fatal error” message appears at the bottom of the page.
+
+Thanks to newer, more powerful types of DDoS attacks that have emerged as of late, attacks that once would have been thought to be record-breaking in size are now becoming routine. For instance, Meetup’s attack was 8 Gigabits in size, and it’s not uncommon for NTP-based DDoS attacks (which exploit an older protocol called Network Time Protocol) to be 10 Gigabits in size.
+
+However, one side effect of these attacks is that when a company later experiences a network outage, they sometimes immediately presume that they’re being attacked again. It can be difficult to tell the difference, especially in the early hours of these sorts of situations. We’ll be looking for TypePad to provide its customers with a longer post-mortem following this morning’s outage.
+
+Given multiple attacks over the course of several weeks, the company has a responsibility to let their customers know whether or not they’re being targeted by criminals, or if unrelated network outages came into play this morning instead.

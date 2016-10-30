@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Jail overcrowding,allow.01,for,,Affirmative,Jail overcrowding allowed for an early release for Glendale councilman who embezzled . 
+"John Drayman ,",file.01,false tax returns,,Affirmative,"John Drayman , who was sentenced in April to one year in jail for embezzlement , perjury and filing false tax returns , spent just eight days behind bars before he was transferred to his Montrose condominium to serve the rest of his time . "
+"John Drayman ,",spend.01,eight days,behind bars,Affirmative,"John Drayman , who was sentenced in April to one year in jail for embezzlement , perjury and filing false tax returns , spent just eight days behind bars before he was transferred to his Montrose condominium to serve the rest of his time . "
+the Glendale News Press,report.01,", was shortened",,Affirmative,"His sentence , which was cut in half the same week he was taken into custody , was shortened even further , to six weeks , when he was placed on home confinement due to jail overcrowding , the Glendale News Press reported . "
+prosecutors,say.01,he stole,,Affirmative,"Although Drayman 's plea deal did n't include an admission of exactly how much he embezzled , prosecutors have said he stole at least $ 304,000 between 2004 and 2011 from the Montrose Shopping Park Assn . "
+"John Drayman , who was sentenced in April to one year in jail for embezzlement , perjury and filing false tax returns",steal.01,"least $ 304,000",from,Affirmative,"Although Drayman 's plea deal did n't include an admission of exactly how much he embezzled , prosecutors have said he stole at least $ 304,000 between 2004 and 2011 from the Montrose Shopping Park Assn . "
+Drayman,take.01,the money,,Affirmative,"Drayman took the money as he collected vendor payments at the Sunday farmers market organized by the group , authorities have said . "
+he,collect.01,vendor payments,,Affirmative,"Drayman took the money as he collected vendor payments at the Sunday farmers market organized by the group , authorities have said . "
+by,organize.01,the Sunday farmers market organized by,,Affirmative,"Drayman took the money as he collected vendor payments at the Sunday farmers market organized by the group , authorities have said . "
+authorities,say.01,Drayman took,,Affirmative,"Drayman took the money as he collected vendor payments at the Sunday farmers market organized by the group , authorities have said . "
+"The convict ,",help.01,start,,Affirmative,"The convict , who helped start the market , was the sole collector of vendor fees and , at one point , did n't turn over proceeds for nearly a year . "
+he,plead.02,guilty,to,Affirmative,"While Drayman was indicted on 28 counts last year , he pleaded guilty in March to only three . "
+He,serve.01,five years of probation,,Affirmative,"He is required to serve five years of probation and make restitution payments of about $ 305,000 to the shopping park association and $ 14,000 to the California Franchise Tax Board . "
+Drayman,serve.01,as,,Affirmative,Drayman served as Glendale 's mayor in 2008 and 2009 . 

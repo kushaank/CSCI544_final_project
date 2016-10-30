@@ -1,0 +1,35 @@
+1	Nikolai	nikolai	NNP	_	2	nn	_
+2	Chirpanliev	chirpanliev	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	File	file	JJ	p2=NNP	2	nn	_
+2	photo	photo	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Meanwhile	meanwhile	RB	_	7	advmod	7:AM-TMP
+2	,	,	,	_	7	punct	_
+3	the	the	DT	_	6	det	_
+4	law	law	NN	_	5	nn	_
+5	enforcement	enforcement	NN	_	6	nn	_
+6	agencies	agency	NNS	_	7	nsubj	7:A0=PAG
+7	reported	report	VBD	pb=report.01	0	root	_
+8	,	,	,	_	7	punct	_
+9	that	that	IN	_	16	complm	_
+10	over	over	IN	_	16	prep	16:AM-TMP
+11	the	the	DT	_	12	det	_
+12	weekend	weekend	NN	_	10	pobj	_
+13	the	the	DT	_	15	det	_
+14	border	border	NN	_	15	nn	_
+15	police	police	NN	p2=NNS	16	nsubj	16:A0=PAG
+16	apprehended	apprehend	VBD	p2=VBN|pb=apprehend.01	7	ccomp	7:A1
+17	88	0	CD	_	18	num	_
+18	trespassers	trespasser	NNS	_	16	dobj	16:A1=PPT
+19	of	of	IN	_	18	prep	_
+20	the	the	DT	_	21	det	_
+21	border	border	NN	_	19	pobj	_
+22	between	between	IN	_	21	prep	_
+23	Bulgaria	bulgaria	NNP	_	22	pobj	_
+24	and	and	CC	_	23	cc	_
+25	Turkey	turkey	NNP	_	23	conj	_
+26	.	.	.	_	7	punct	_
+

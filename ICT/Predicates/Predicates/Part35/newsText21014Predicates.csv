@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,say.01,Mustang was headed east on,,Affirmative,"Police said a Mustang was headed east on 82nd St. , just a few blocks from I - 27 , at 11 a.m. when the accident happened . "
+Police,say.01,crash was caused by,,Affirmative,"They say the crash was caused by an argument that started between the driver , Tamara Johnson , 31 , and her passenger , Anthony Dwayne Johnson , 38 , while they were driving . "
+by,cause.01,the crash,,Affirmative,"They say the crash was caused by an argument that started between the driver , Tamara Johnson , 31 , and her passenger , Anthony Dwayne Johnson , 38 , while they were driving . "
+Police,say.01,"Anthony hit Tamara , causing",,Affirmative,"Police said Anthony hit Tamara , causing her to swerve into oncoming traffic before smashing into the home . "
+"Anthony Dwayne Johnson , 38 ,",hit.01,Tamara Johnson,,Affirmative,"Police said Anthony hit Tamara , causing her to swerve into oncoming traffic before smashing into the home . "
+"Anthony Dwayne Johnson , 38 ,",cause.01,her to swerve into,,Affirmative,"Police said Anthony hit Tamara , causing her to swerve into oncoming traffic before smashing into the home . "
+Tamara Johnson,swerve.01,into,,Affirmative,"Police said Anthony hit Tamara , causing her to swerve into oncoming traffic before smashing into the home . "
+Accident investigators,look.01,into,,Affirmative,Accident investigators are still looking into the incident . 
+All content,copyright.01,Worldnow and KCBD,,Affirmative,All content © Copyright 2000 - 2014 Worldnow and KCBD . 

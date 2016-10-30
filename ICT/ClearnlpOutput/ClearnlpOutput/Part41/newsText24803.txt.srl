@@ -1,0 +1,30 @@
+1	In	in	IN	_	10	prep	10:AM-LOC
+2	the	the	DT	_	4	det	_
+3	automotive	automotive	JJ	_	4	amod	_
+4	section	section	NN	_	1	pobj	_
+5	,	,	,	_	10	punct	_
+6	the	the	DT	_	9	det	_
+7	South	south	JJ	p2=NNP	8	amod	_
+8	Korean	korean	JJ	p2=NNP	9	amod	_
+9	carmaker	carmaker	NN	p2=NNP	10	nsubj	10:A0=PAG
+10	shared	share	VBD	pb=share.01	0	root	_
+11	the	the	DT	_	13	det	_
+12	top	top	JJ	p2=NN	13	amod	_
+13	spot	spot	NN	_	10	dobj	10:A1=PPT
+14	with	with	IN	_	10	prep	10:A2=COM
+15	Ford	ford	NNP	_	14	pobj	_
+16	.	.	.	_	10	punct	_
+
+1	The	the	DT	_	3	det	_
+2	second	#ord#	JJ	_	3	amod	_
+3	spot	spot	NN	_	5	nsubjpass	5:A1=PPT
+4	was	be	VBD	_	5	auxpass	_
+5	shared	share	VBN	pb=share.01	0	root	_
+6	among	among	IN	_	5	prep	5:A2=COM
+7	Benz	benz	NNP	_	6	pobj	_
+8	,	,	,	_	7	punct	_
+9	Lexus	lexus	NNP	_	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	Jeep	jeep	NNP	_	9	conj	_
+12	.	.	.	_	5	punct	_
+

@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"The convicted rogue trader ,",begin.01,year jail sentence,,Affirmative,"The convicted rogue trader , Jerome Kerviel , has begun a three year jail sentence in France after being arrested late on Sunday . "
+Jerome Kerviel,spend.02,years,fighting charges stemming from,Affirmative,He has spent years fighting charges stemming from massive market bets that nearly forced the closure of French bank Societe Generale in 2008 . 
+Jerome Kerviel,fight.01,charges stemming from,,Affirmative,He has spent years fighting charges stemming from massive market bets that nearly forced the closure of French bank Societe Generale in 2008 . 
+massive market bets,force.01,the closure of,,Affirmative,He has spent years fighting charges stemming from massive market bets that nearly forced the closure of French bank Societe Generale in 2008 . 
+Jerome Kerviel,cross.02,the border in France,,Affirmative,His detention comes after he crossed the border in France from Italy . 
+by,require.01,to report to,Kerviel,Affirmative,"Kerviel had been required by French judges to report to a French police station by midnight to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+Jerome Kerviel,serve.01,"his sentence ,",,Affirmative,"Kerviel had been required by French judges to report to a French police station by midnight to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+by,confirm.01,"his sentence ,",,Affirmative,"Kerviel had been required by French judges to report to a French police station by midnight to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+"Kerviel , 37 ,",deny.01,masking,,Affirmative,"Kerviel , 37 , has never denied masking his 50 - billion euro positions and maintains his bosses knew what he was doing . "
+"Kerviel , 37 ,",mask.01,billion euro positions,,Affirmative,"Kerviel , 37 , has never denied masking his 50 - billion euro positions and maintains his bosses knew what he was doing . "
+"Kerviel , 37 ,",maintain.01,bosses knew,,Affirmative,"Kerviel , 37 , has never denied masking his 50 - billion euro positions and maintains his bosses knew what he was doing . "
+his bosses,know.01,what he was doing,,Affirmative,"Kerviel , 37 , has never denied masking his 50 - billion euro positions and maintains his bosses knew what he was doing . "
+a poor individual struggling against,struggle.01,against,,Affirmative,It has become a high - profile case in France where he has been depicted as a poor individual struggling against a massive corporation . 
+Jerome Kerviel,appeal.02,to,to give immunity to,Affirmative,"Over the weekend , Kerviel appealed to the French President to give immunity to unnamed witnesses he said would be willing to testify in his favour against Societe Generale . "
+Jerome Kerviel,say.01,would be willing,,Affirmative,"Over the weekend , Kerviel appealed to the French President to give immunity to unnamed witnesses he said would be willing to testify in his favour against Societe Generale . "

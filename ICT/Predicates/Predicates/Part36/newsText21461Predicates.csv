@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Vishal targeted,target.01,a locked house in,,Affirmative,"According to the police , accused Vishal targeted a locked house in Karn colony of Barwala on Saturday , but he could not find anything . "
+the police,find.01,anything,,Affirmative,"According to the police , accused Vishal targeted a locked house in Karn colony of Barwala on Saturday , but he could not find anything . "
+The house,belong.01,to,,Affirmative,The house belonged to Ramesh Verma . 
+Ramesh Verma,choose.01,the house of,,Affirmative,"Then , he chose the house of a tenant , Ranjit Singh . "
+Ramesh Verma,see.01,people coming,,Affirmative,"As he saw people coming , he climbed over the top of the roof from where he fell down . "
+Ramesh Verma,suffer.01,fractures,,Affirmative,He suffered fractures in both l e gs . 
+Residents,catch.01,Ramesh Verma,,Affirmative,Residents then caught him and handed him over to the police . 
+Residents,hand.02,Ramesh Verma,to,Affirmative,Residents then caught him and handed him over to the police . 
+the police,admit.01,the police,to,Affirmative,"The police admitted him to General Hospital , Sector 6 , Panchkula . "
+the police,claim.01,that they had also recovered,,Affirmative,The police claimed that they had also recovered a medicine from him which was used to make people unconscious before committing theft . 
+a medicine,make.02,people unconscious before committing theft,,Affirmative,The police claimed that they had also recovered a medicine from him which was used to make people unconscious before committing theft . 
+people coming,commit.02,theft,,Affirmative,The police claimed that they had also recovered a medicine from him which was used to make people unconscious before committing theft . 
+Vishal,tell.01,his name,as Rajat,Affirmative,"Earlier , Vishal was telling his name as Rajat , but later he revealed his true identity and said he was a resident of Batour village of Barwala . "
+Vishal,reveal.01,his true identity,,Affirmative,"Earlier , Vishal was telling his name as Rajat , but later he revealed his true identity and said he was a resident of Batour village of Barwala . "
+Vishal,say.01,he was,,Affirmative,"Earlier , Vishal was telling his name as Rajat , but later he revealed his true identity and said he was a resident of Batour village of Barwala . "
+police Jagtaar Singh,say.01,police had arrested,,Affirmative,"While informing further , assistant commissioner o f police Jagtaar Singh said the police had arrested two more people - Ajay , a resident of Ashiana flats in Sector 26 , Panchkula , and Rajbir , a resident of SAS Nagar - for theft of shuttering plates . "
+the police,arrest.01,"people - Ajay ,",,Affirmative,"While informing further , assistant commissioner o f police Jagtaar Singh said the police had arrested two more people - Ajay , a resident of Ashiana flats in Sector 26 , Panchkula , and Rajbir , a resident of SAS Nagar - for theft of shuttering plates . "
+police Jagtaar Singh,add.01,plates had also been recovered from them,,Affirmative,He added that some plates had also been recovered from them . 

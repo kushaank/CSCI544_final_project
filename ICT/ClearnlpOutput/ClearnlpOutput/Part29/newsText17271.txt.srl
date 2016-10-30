@@ -1,0 +1,29 @@
+1	The	the	DT	_	2	det	_
+2	article	article	NN	_	7	nsubjpass	3:A1=PPT;7:A1=PPT
+3	requested	request	VBD	p2=VBN|pb=request.01	2	partmod	_
+4	can	can	MD	_	7	aux	7:AM-MOD
+5	not	not	RB	_	7	neg	7:AM-NEG
+6	be	be	VB	_	7	auxpass	_
+7	found	find	VBN	pb=find.01	0	root	_
+8	!	!	.	_	7	punct	_
+
+1	Please	please	UH	p2=VB	2	intj	2:AM-DIS;6:AM-DIS
+2	refresh	refresh	VB	p2=UH|pb=refresh.01	0	root	_
+3	your	your	PRP$	_	4	poss	_
+4	browser	browser	NN	_	2	dobj	2:A1=PPT
+5	or	or	CC	_	2	cc	_
+6	go	go	VB	pb=go.02	2	conj	_
+7	back	back	RB	_	6	advmod	6:AM-DIR
+8	.	.	.	_	2	punct	_
+
+1	(	(	-LRB-	_	2	punct	_
+2	OR	or	NNP	p2=UH	8	dep	_
+3	,	,	,	_	2	punct	_
+4	20140518	0	CD	_	2	appos	_
+5	,	,	,	_	4	punct	_
+6	NEWS04,140519436	news04,140519436	NNP	p2=CD	0	root	_
+7	,	,	,	_	6	punct	_
+8	AR	ar	NNP	_	6	appos	_
+9	)	)	-RRB-	_	0	root	_
+10	.	.	.	_	2	punct	_
+

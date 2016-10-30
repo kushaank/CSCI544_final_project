@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Health officials,report.01,what appears,,Affirmative,"Health officials report what appears to be the first time that a mysterious Middle East virus has spread from one person to another in the U.S. An Illinois man probably picked up an infection from an Indiana man who earlier this month became the first U.S. case of Middle East respiratory syndrome , or MERS . "
+The Illinois man,need.01,medical treatment,,Affirmative,"The Illinois man , however , never needed medical treatment and is reported to be feeling well , officials at the Centers for Disease Control and Prevention say . "
+The Illinois man,feel.01,well,,Affirmative,"The Illinois man , however , never needed medical treatment and is reported to be feeling well , officials at the Centers for Disease Control and Prevention say . "
+officials at,say.01,"man , however , never needed",,Affirmative,"The Illinois man , however , never needed medical treatment and is reported to be feeling well , officials at the Centers for Disease Control and Prevention say . "
+Health officials,say.01,they think,,Affirmative,Health officials say they think the virus spread during a 40 - minute business meeting that involved no more contact than a handshake . 
+they,think.01,the virus spread during,,Affirmative,Health officials say they think the virus spread during a 40 - minute business meeting that involved no more contact than a handshake . 
+We,think.01,this changes,,Affirmative,"We do n't think this changes the risk to the general public , which remains low , says David Swerdlow of the CDC . "
+this,change.01,the risk to,,Affirmative,"We do n't think this changes the risk to the general public , which remains low , says David Swerdlow of the CDC . "
+David Swerdlow of,say.01,We do n't think,,Affirmative,"We do n't think this changes the risk to the general public , which remains low , says David Swerdlow of the CDC . "
+he,say.01,report also is not considered evidence,,Affirmative,"The new report also is not considered evidence that the virus is spreading more easily among people than previously thought , he says . "
+health officials,believe.01,it only spreads from person,,Affirmative,"The virus is not considered to be highly contagious , and health officials believe it only spreads from person to person with close contact . "
+care workers caring for,care.01,for,,Affirmative,Many of those who have gotten sick in the Middle East have been family members or health care workers caring for a MERS patient . 
+The CDC,say.01,tests completed,,Affirmative,The CDC says tests completed Friday provided evidence that the Illinois man had an infection at some point . 
+tests,provided.01,evidence,,Affirmative,The CDC says tests completed Friday provided evidence that the Illinois man had an infection at some point . 
+the Illinois man,have.03,an infection,,Affirmative,The CDC says tests completed Friday provided evidence that the Illinois man had an infection at some point . 
+old man from,visit.01,Florida,,Affirmative,A second U.S. illness was confirmed last week in a 44 - year - old man from Saudi Arabia who was visiting Florida . 
+officials,know.01,how it is spreading to humans,,Affirmative,"The MERS virus has been found in camels , but officials do n't know how it is spreading to humans . "
+600 people,have.03,the respiratory illness,,Affirmative,"Overall , about 600 people have had the respiratory illness , and about 175 people have died . "
+All,have.03,ties to,,Affirmative,All had ties to the Middle East region or to people who traveled there . 
+people,travel.01,there,,Affirmative,All had ties to the Middle East region or to people who traveled there . 
+MERS,belong.01,to,,Affirmative,"MERS belongs to the coronavirus family that includes the common cold and SARS , or severe acute respiratory syndrome , which caused some 800 deaths globally in 2003 . "
+"severe acute respiratory syndrome ,",cause.01,800 deaths globally in 2003,,Affirmative,"MERS belongs to the coronavirus family that includes the common cold and SARS , or severe acute respiratory syndrome , which caused some 800 deaths globally in 2003 . "
+tools,help.01,you conduct,,Affirmative,"Find tools that will help you conduct better , more cost - efficient and effective scientific research . "
+you,conduct.01,scientific research,,Affirmative,"Find tools that will help you conduct better , more cost - efficient and effective scientific research . "
+You,login.01,with,,Affirmative,You may login with either your assigned username or your e-mail address . 

@@ -1,0 +1,67 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+firm,look.04,to test,,Affirmative,"BROADVIEW HEIGHTS , Ohio - A Canton oil - and - gas - drilling firm is looking to test the city 's ban on new wells . "
+firm,test.01,ban on,,Affirmative,"BROADVIEW HEIGHTS , Ohio - A Canton oil - and - gas - drilling firm is looking to test the city 's ban on new wells . "
+The company,apply.01,for,,Affirmative,The company has applied for a drilling permit from the Ohio Department of Natural Resources . 
+"Frank Gonzalez , secretary and treasurer of GonzOil",say.01,firm has signed,,Affirmative,"Frank Gonzalez , secretary and treasurer of GonzOil , said the firm has signed land leases with about 15 homeowners on Wallings , Joyce and Creekside . "
+the firm,sign.02,land leases,with,Affirmative,"Frank Gonzalez , secretary and treasurer of GonzOil , said the firm has signed land leases with about 15 homeowners on Wallings , Joyce and Creekside . "
+"Rick Reeve ,",say.01,leases were signed over,,Affirmative,"Rick Reeve , GonzOil 's geology manager , said the leases were signed over the past 12 months . "
+"Councilman Brian Wolf ,",contain.01,the proposed drilling site,,Affirmative,"Councilman Brian Wolf , whose Ward 2 contains the proposed drilling site , said the city will oppose GonzOil 's plan . "
+"Councilman Brian Wolf ,",say.01,city will oppose,,Affirmative,"Councilman Brian Wolf , whose Ward 2 contains the proposed drilling site , said the city will oppose GonzOil 's plan . "
+the city,oppose.01,plan,,Affirmative,"Councilman Brian Wolf , whose Ward 2 contains the proposed drilling site , said the city will oppose GonzOil 's plan . "
+He,say.01,charter prohibits,,Affirmative,He said the city charter prohibits new wells and that it is his sworn duty to uphold the charter . 
+the city charter,prohibit.01,new wells,,Affirmative,He said the city charter prohibits new wells and that it is his sworn duty to uphold the charter . 
+We,do.02,our best,,Affirmative,"We will do our best to keep this from happening , Wolf said in a Thursday email to Creekside residents . "
+We,keep.04,this,from happening,Affirmative,"We will do our best to keep this from happening , Wolf said in a Thursday email to Creekside residents . "
+Wolf,say.01,We will do,to,Affirmative,"We will do our best to keep this from happening , Wolf said in a Thursday email to Creekside residents . "
+He,say.01,oppose,,Affirmative,He said Creekside residents to whom he has spoken oppose the well . 
+Creekside residents,oppose.01,the well,,Affirmative,He said Creekside residents to whom he has spoken oppose the well . 
+Reeve,say.01,city can not stop GonzOil from drilling,,Affirmative,Reeve said the city can not stop GonzOil from drilling . 
+the city,stop.03,GonzOil,from drilling,Affirmative,Reeve said the city can not stop GonzOil from drilling . 
+He,say.01,company plans,,Affirmative,He said the company plans to start work in August or early September . 
+the company,plan.01,to start work in August or,,Affirmative,He said the company plans to start work in August or early September . 
+the company,start.01,work,,Affirmative,He said the company plans to start work in August or early September . 
+We,abide.01,by,,Affirmative,"We 're abiding by state law , Reeve said . "
+Reeve,say.01,We 're abiding by,,Affirmative,"We 're abiding by state law , Reeve said . "
+the state,issue.01,a permit,,Affirmative,"If the state issues a permit , we 'll probably drill the well . "
+we,drill.01,the well,,Affirmative,"If the state issues a permit , we 'll probably drill the well . "
+Reeve,say.01,GonzOil would build,,Affirmative,"Reeve said GonzOil would build a directional well , meaning that it would drill down about 1,000 feet , then turn about 350 feet southeast to the target area . "
+GonzOil,build.01,a directional well,,Affirmative,"Reeve said GonzOil would build a directional well , meaning that it would drill down about 1,000 feet , then turn about 350 feet southeast to the target area . "
+GonzOil,mean.01,that it would drill down,,Affirmative,"Reeve said GonzOil would build a directional well , meaning that it would drill down about 1,000 feet , then turn about 350 feet southeast to the target area . "
+it,drill.01,"1,000 feet",,Affirmative,"Reeve said GonzOil would build a directional well , meaning that it would drill down about 1,000 feet , then turn about 350 feet southeast to the target area . "
+Rick Reeve,say.01,drilling will not pass through shale,,Affirmative,"Reeve said the directional drilling will not pass through shale on its way to the target area , unlike horizontal drilling , which does pass through shale horizontally underground . "
+Reeve,say.01,drilling would involve fracturing of,,Affirmative,"Reeve said the drilling would involve fracturing of underground rock , like all previous wells in Broadview Heights . "
+Some,question.01,amendment would withstand,,Affirmative,Some questioned whether the charter amendment would withstand a court challenge . 
+the charter amendment,withstand.01,a court challenge,,Affirmative,Some questioned whether the charter amendment would withstand a court challenge . 
+the state of Ohio,take.12,regulations from,,Affirmative,"That 's because in 2004 , the state of Ohio took over gas - and - oil - well regulations from local communities . "
+no one,test.01,the charter amendment in court,,Affirmative,"So far , no one has directly tested the charter amendment in court , but drilling companies , City Hall and residents have fought on other legal battlefields . "
+"drilling companies ,",fight.01,on,,Affirmative,"So far , no one has directly tested the charter amendment in court , but drilling companies , City Hall and residents have fought on other legal battlefields . "
+voters,pass.01,"the charter amendment ,",,Affirmative,"For example , after voters passed the charter amendment , Bass Energy Inc . "
+"two Countryside residents , Paul and",sue.01,Bass,to stop,Affirmative,"A year ago , two Countryside residents , Paul and Agina Kempen , sued Bass to stop the drilling . "
+"two Countryside residents , Paul and",stop.01,the drilling,,Affirmative,"A year ago , two Countryside residents , Paul and Agina Kempen , sued Bass to stop the drilling . "
+the city,order.01,Bass,not to drill,Affirmative,"In a separate action , the city , citing the charter amendment , ordered Bass not to drill . "
+the Ohio Department of,side.01,against,,Affirmative,"In June 2013 , the Ohio Department of Natural Resources sided against the city and issued a drilling permit to Bass Energy . "
+the Ohio Department of,issue.01,a drilling permit,to,Affirmative,"In June 2013 , the Ohio Department of Natural Resources sided against the city and issued a drilling permit to Bass Energy . "
+"Bill Hlavin , president of",say.01,company has,,Affirmative,"However , Bill Hlavin , president of Bass Energy , has said that his company has no plans to start drilling until the Kempen lawsuit is resolved . "
+his company,have.03,no plans,,Affirmative,"However , Bill Hlavin , president of Bass Energy , has said that his company has no plans to start drilling until the Kempen lawsuit is resolved . "
+his company,start.01,drilling,,Affirmative,"However , Bill Hlavin , president of Bass Energy , has said that his company has no plans to start drilling until the Kempen lawsuit is resolved . "
+He,keep.02,his eye,on,Affirmative,He is also keeping his eye on a court case involving Munroe Falls . 
+Heights council,file.01,court brief,in support of,Affirmative,"In September , Broadview Heights council filed a friend - of - the - court brief in support of Munroe Falls ' fight for home rule and local control of oil and gas wells . "
+"Other cities , including",file.01,briefs backing,,Affirmative,"Other cities , including North Royalton , also filed briefs backing Munroe Falls . "
+briefs backing,back.01,Munroe Falls,,Affirmative,"Other cities , including North Royalton , also filed briefs backing Munroe Falls . "
+Reeve of GonzOil,say.01,he hopes,,Affirmative,"When asked about the Munroe Falls case , Reeve of GonzOil said he hopes it is settled soon . "
+he,hope.01,it is settled soon,,Affirmative,"When asked about the Munroe Falls case , Reeve of GonzOil said he hopes it is settled soon . "
+He,say.01,GonzOil might wait for,,Affirmative,He said GonzOil might wait for the Supreme Court ruling before drilling its new well in Broadview Heights . 
+GonzOil,drill.01,its new well,,Affirmative,He said GonzOil might wait for the Supreme Court ruling before drilling its new well in Broadview Heights . 
+Reeve,say.01,", GonzOil would likely drill in",,Affirmative,"However , Reeve said that even if the Supreme Court ruled in favor of Munroe Falls , which has detailed drilling regulations , GonzOil would likely drill in Broadview Heights . "
+the Supreme Court,rule.01,in favor of,,Affirmative,"However , Reeve said that even if the Supreme Court ruled in favor of Munroe Falls , which has detailed drilling regulations , GonzOil would likely drill in Broadview Heights . "
+"Munroe Falls ,",have.03,detailed drilling regulations,,Affirmative,"However , Reeve said that even if the Supreme Court ruled in favor of Munroe Falls , which has detailed drilling regulations , GonzOil would likely drill in Broadview Heights . "
+Broadview Heights ( other than,have.03,any legal ordinances regulating wells,,Affirmative,"Broadview Heights ( other than the charter amendment ) does not have any legal ordinances regulating wells , Reeve said . "
+any legal ordinances regulating wells,regulate.01,wells,,Affirmative,"Broadview Heights ( other than the charter amendment ) does not have any legal ordinances regulating wells , Reeve said . "
+Reeve,say.01,does not have,,Affirmative,"Broadview Heights ( other than the charter amendment ) does not have any legal ordinances regulating wells , Reeve said . "
+we,receive.01,a state permit,,Affirmative,So we 'd be within our rights to drill if we received a state permit . 
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+by,power.01,cleveland.com,,Affirmative,cleveland.com is powered by Plain Dealer Publishing Co. and Northeast Ohio Media Group . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

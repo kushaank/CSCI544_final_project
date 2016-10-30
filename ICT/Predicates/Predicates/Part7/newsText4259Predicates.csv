@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ROCK -,collect.01,"$ 110,036.74 for county and",,Affirmative,"LITTLE ROCK - The recent auction of tax - delinquent properties in Jefferson County collected $ 110,036.74 for county and state government , Commissioner of State Lands John Thurston announced . "
+John Thurston,announce.01,collected,,Affirmative,"LITTLE ROCK - The recent auction of tax - delinquent properties in Jefferson County collected $ 110,036.74 for county and state government , Commissioner of State Lands John Thurston announced . "
+office,conduct.01,the auction of,,Affirmative,The Land Commissioner 's office conducted the auction of delinquent properties recently at the Arts & Science Center in Pine Bluff . 
+the auction of delinquent properties,draw.01,45 bidders,,Affirmative,The auction drew 45 bidders and sold 56 parcels of land . 
+the auction of delinquent properties,sell.01,56 parcels of land,,Affirmative,The auction drew 45 bidders and sold 56 parcels of land . 
+office,conduct.01,delinquent land sale per county,,Affirmative,The Land Commissioner 's office conducts one tax - delinquent land sale per county each year to dispose of land on which the taxes have been past due over two years . 
+A small percentage of,make.14,The Land Commissioner 's office,,Affirmative,"A small percentage of certified parcels make it to public auction because a majority of the properties certified to our office are redeemed , which means that the back taxes are paid by the original owner , according to Commissioner John Thurston . "
+by,pay.01,the back taxes,,Affirmative,"A small percentage of certified parcels make it to public auction because a majority of the properties certified to our office are redeemed , which means that the back taxes are paid by the original owner , according to Commissioner John Thurston . "
+Registered bidders,purchase.01,land,,Affirmative,Registered bidders may purchase land at the auctions . 
+the commissioner,issue.01,a limited warranty deed to,,Affirmative,"Upon sale of tax - delinquent property , the commissioner issues a limited warranty deed to the highest bidder . "
+office,return.02,"delinquent tax and interest collected ,",,Affirmative,"Thurston 's office returns delinquent tax and interest collected , whether through redemption or sale , to the county taxing unit just as if the money had been originally collected there . "
+State Lands John Thurston,say.01,", we returned",,Affirmative,"In 2013 , we returned over $ 21 million to school districts and county governments , Thurston said . "
+Jefferson County,receive.01,"$ 653,956.13",,Affirmative,"Of that , Jefferson County received $ 653,956.13 . "
+This process,ensure.01,stable revenues for,,Affirmative,"This process ensures stable revenues for local public schools , Thurston added . "
+State Lands John Thurston,add.01,process ensures,,Affirmative,"This process ensures stable revenues for local public schools , Thurston added . "

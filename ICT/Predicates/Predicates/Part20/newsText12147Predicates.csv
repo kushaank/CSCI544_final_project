@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+trader Jerome Kerviel,say.01,he would stay in Italy,,Affirmative,Convicted rogue trader Jerome Kerviel yesterday said he would stay in Italy rather than report to a French police station as required to start serving a three - year jail sentence . 
+a French police station,serve.01,year jail sentence,,Affirmative,Convicted rogue trader Jerome Kerviel yesterday said he would stay in Italy rather than report to a French police station as required to start serving a three - year jail sentence . 
+"Kerviel , 37 ,",say.01,he was appealing to,,Affirmative,"Kerviel , 37 , said he was appealing to French president François Hollande to intervene in his case . "
+"Kerviel , 37",appeal.02,to,to intervene in,Affirmative,"Kerviel , 37 , said he was appealing to French president François Hollande to intervene in his case . "
+"Kerviel , 37",intervene.01,in,,Affirmative,"Kerviel , 37 , said he was appealing to French president François Hollande to intervene in his case . "
+"Kerviel , 37",spend.02,three years,fighting charges stemming from,Affirmative,He has spent over three years fighting charges stemming from massive market bets that almost brought French bank Societe Generale to the brink of collapse in 2008 . 
+"Kerviel , 37",fight.01,charges stemming from,,Affirmative,He has spent over three years fighting charges stemming from massive market bets that almost brought French bank Societe Generale to the brink of collapse in 2008 . 
+massive market bets,bring.01,bank Societe Generale,to,Affirmative,He has spent over three years fighting charges stemming from massive market bets that almost brought French bank Societe Generale to the brink of collapse in 2008 . 
+"Kerviel , 37",embark.01,on,,Affirmative,"He embarked on a march on foot from Rome to Paris earlier this year , meeting the Pope and portraying his case as one individual 's struggle against high finance . "
+"Kerviel , 37",meet.03,the Pope,,Affirmative,"He embarked on a march on foot from Rome to Paris earlier this year , meeting the Pope and portraying his case as one individual 's struggle against high finance . "
+"Kerviel , 37",portray.01,his case,as,Affirmative,"He embarked on a march on foot from Rome to Paris earlier this year , meeting the Pope and portraying his case as one individual 's struggle against high finance . "
+French judges,require.01,to report to,him,Affirmative,"French judges required him to report to a French police station by yesterday evening to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+"Kerviel , 37",start.01,serving,,Affirmative,"French judges required him to report to a French police station by yesterday evening to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+"Kerviel , 37",serve.01,"his sentence ,",,Affirmative,"French judges required him to report to a French police station by yesterday evening to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+by,confirm.01,"his sentence ,",,Affirmative,"French judges required him to report to a French police station by yesterday evening to start serving his sentence , which was confirmed by France 's highest appeals court in March . "
+"Kerviel , 37",tell.01,I am staying here for now,reporters,Affirmative,"I am staying here for now , waiting for the president to respond , Kerviel told reporters in the town of Ventimiglia . "
+"Kerviel , 37",say.01,he was not guilty and,,Affirmative,He said he was not guilty and his criminal conviction was unfair . 
+news app for smartphones,let.01,"access breaking news , sport , business , entertainment and weather",,Affirmative,"Irish Examiner live news app for smartphones let s you quickly access breaking news , sport , business , entertainment and weather . "
+s,break.01,"news , sport , business , entertainment and weather",,Affirmative,"Irish Examiner live news app for smartphones let s you quickly access breaking news , sport , business , entertainment and weather . "

@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mali,send.02,"1,500 troops",to retake,Affirmative,"Mali has sent 1,500 troops to retake the rebel stronghold of Kidal after Tuareg separatists staged a siege in local government offices , sparking a gun battle in which dozens of people were killed . "
+Mali,retake.01,the rebel stronghold of Kidal,,Affirmative,"Mali has sent 1,500 troops to retake the rebel stronghold of Kidal after Tuareg separatists staged a siege in local government offices , sparking a gun battle in which dozens of people were killed . "
+Tuareg separatists,stage.01,a siege,,Affirmative,"Mali has sent 1,500 troops to retake the rebel stronghold of Kidal after Tuareg separatists staged a siege in local government offices , sparking a gun battle in which dozens of people were killed . "
+Mali,spark.01,a gun battle,,Affirmative,"Mali has sent 1,500 troops to retake the rebel stronghold of Kidal after Tuareg separatists staged a siege in local government offices , sparking a gun battle in which dozens of people were killed . "
+`` Fifteen hundred Malian soldiers arrived in Kidal in the last 24 hours .,continue.01,to come,,Affirmative,"They are continuing to come , a foreign military source told AFP . "
+a foreign military source,tell.01,They are continuing,AFP,Affirmative,"They are continuing to come , a foreign military source told AFP . "

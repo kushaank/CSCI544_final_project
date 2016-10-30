@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+finance company,plan.01,to hire,,Affirmative,"And the consumer finance company plans to hire an additional 250 workers during the next 18 months , according to filings with the City of Dallas . "
+finance company,hire.01,an additional 250 workers,,Affirmative,"And the consumer finance company plans to hire an additional 250 workers during the next 18 months , according to filings with the City of Dallas . "
+Santander,relocate.01,its operations,from,Affirmative,Santander is relocating its operations from a building on Stemmons Freeway near Love Field to downtown 's Thanksgiving Tower . 
+"Santander , which is based in Spain",lease.02,"350,000 square-feet of",,Affirmative,"Santander is leasing 350,000 square-feet of in the Elm Street office tower , which is undergoing a $ 100 million renovation , according to filings with the city 's economic development committee . "
+development officials,propose.01,giving Santander,,Affirmative,Dallas economic development officials have proposed giving Santander a $ 1 million economic development grant to help pay for the downtown move . 
+development officials,give.01,development grant,Santander,Affirmative,Dallas economic development officials have proposed giving Santander a $ 1 million economic development grant to help pay for the downtown move . 
+The company,consider.01,consolidating,,Affirmative,"The company considered consolidating its operations in Irving before picking the downtown skyscraper , according to the city filings . "
+The company,consolidate.01,its operations in Irving,,Affirmative,"The company considered consolidating its operations in Irving before picking the downtown skyscraper , according to the city filings . "
+The company,pick.01,the downtown skyscraper,,Affirmative,"The company considered consolidating its operations in Irving before picking the downtown skyscraper , according to the city filings . "
+by,purchase.01,Thanksgiving Tower,,Affirmative,"Last July , Thanksgiving Tower was purchased by Woods Capital of Dallas in building in partnership with Third Point Opportunities Master Fund of New York . "
+"Santander , which is based in Spain",operate.01,finance business,,Affirmative,Santander operates an auto and consumer finance business . 
+Drive Financial before Santander,acquire.01,it,,Affirmative," The Dallas - based firm was known as Drive Financial before Santander , which is based in Spain , acquired it . "

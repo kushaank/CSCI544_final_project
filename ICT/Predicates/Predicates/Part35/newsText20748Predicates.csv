@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The accused woman,deny.01,the charges,,Affirmative,The accused woman denies the charges . 
+feeder Doris Parks,create.01,acre wildlife reserve,,Affirmative,"Accused bear feeder Doris Parks created a nine acre wildlife reserve by buying undeveloped land across the street from her house in Ilwaco , Wash . "
+feeder Doris Parks,buy.01,undeveloped land,from,Affirmative,"Accused bear feeder Doris Parks created a nine acre wildlife reserve by buying undeveloped land across the street from her house in Ilwaco , Wash . "
+retiree Doris Parks,say.01,she 's unafraid of,,Affirmative,"retiree Doris Parks says she 's unafraid of the black bears that routinely visit her house , not even when they tromp right across her balcony like they own the place . "
+the black bears,visit.01,"her house ,",,Affirmative,"retiree Doris Parks says she 's unafraid of the black bears that routinely visit her house , not even when they tromp right across her balcony like they own the place . "
+they,own.01,the place,,Affirmative,"retiree Doris Parks says she 's unafraid of the black bears that routinely visit her house , not even when they tromp right across her balcony like they own the place . "
+Parks,say.01,They 're,,Affirmative,"They 're gentle giants , Parks said . "
+State wildlife officers,investigate.01,the Swiss immigrant after getting complaints,,Affirmative,State wildlife officers investigated the Swiss immigrant after getting complaints she was attracting bears who behaved aggressively . 
+State wildlife officers,get.01,complaints,,Affirmative,State wildlife officers investigated the Swiss immigrant after getting complaints she was attracting bears who behaved aggressively . 
+she,attract.01,bears,,Affirmative,State wildlife officers investigated the Swiss immigrant after getting complaints she was attracting bears who behaved aggressively . 
+bears,behave.01,aggressively,,Affirmative,State wildlife officers investigated the Swiss immigrant after getting complaints she was attracting bears who behaved aggressively . 
+Accused bear feeder Doris Parks,put.01,food,for animals,Affirmative,"Parks puts out food for animals , but denies intentionally feeding the bears . "
+Accused bear feeder Doris Parks,deny.01,intentionally feeding,,Affirmative,"Parks puts out food for animals , but denies intentionally feeding the bears . "
+Parks,say.01,I feed,,Affirmative,"I feed stray cats , Parks said . "
+I,have.03,four seagulls,,Affirmative,I have four seagulls . 
+The Washington Department of Fish,maintain.01,state can prove otherwise,,Affirmative,The Washington Department of Fish and Wildlife police maintains the state can prove otherwise . 
+she,attract.01,animals,,Affirmative,"She 's had enough warnings that she 's attracting animals , whether her intent is to feed cats or whatnot , she 's still on the hook , Deputy Chief Mike Cenci said . "
+Chief Mike Cenci,say.01,", she 's still on",,Affirmative,"She 's had enough warnings that she 's attracting animals , whether her intent is to feed cats or whatnot , she 's still on the hook , Deputy Chief Mike Cenci said . "
+wildlife agents,remove.01,seven black bears,from,Affirmative,"Since last fall , wildlife agents have removed seven black bears from the neighborhood and euthanized five of them . "
+wildlife agents,euthanize.01,five of them,,Affirmative,"Since last fall , wildlife agents have removed seven black bears from the neighborhood and euthanized five of them . "
+the state,murder.01,the bears,,Affirmative,"From Doris Parks ' viewpoint , the state murdered the bears . "

@@ -1,0 +1,7 @@
+1	WardsAuto	wardsauto	NNP	p2=VB	2	nn	_
+2	Vehicle	vehicle	NNP	_	5	nn	_
+3	&	&	CC	_	2	cc	_
+4	Powertrain	powertrain	NNP	_	2	conj	_
+5	Forecasts	forecast	NNS	p2=NNPS	0	root	_
+6	.	.	.	_	5	punct	_
+

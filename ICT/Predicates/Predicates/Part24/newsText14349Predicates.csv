@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Authorities,say.01,she repeatedly punched,,Affirmative,"GULFPORT , Mississippi -- A 26 - year - old Gulfport mother has been arrested after authorities say she repeatedly punched a Head Start teacher 's assistant and pulled her hair . "
+Authorities,punch.01,assistant,,Affirmative,"GULFPORT , Mississippi -- A 26 - year - old Gulfport mother has been arrested after authorities say she repeatedly punched a Head Start teacher 's assistant and pulled her hair . "
+Authorities,pull.01,her hair,,Affirmative,"GULFPORT , Mississippi -- A 26 - year - old Gulfport mother has been arrested after authorities say she repeatedly punched a Head Start teacher 's assistant and pulled her hair . "
+Authorities,respond.01,to,,Affirmative,"Authorities responded to the incident at Isaiah Fredricks Head Start , 3410 Jackson St. , after the assault was reported . "
+The patrol division,learn.01,that Dawson had arrived at,,Affirmative,The patrol division learned that Dawson had arrived at the school belligerent and irate after the teacher 's assistant refused to release Dawson 's child to an unfamiliar individual at a bus stop . 
+assistant,refuse.01,to release,,Affirmative,The patrol division learned that Dawson had arrived at the school belligerent and irate after the teacher 's assistant refused to release Dawson 's child to an unfamiliar individual at a bus stop . 
+assistant,release.01,child,to,Affirmative,The patrol division learned that Dawson had arrived at the school belligerent and irate after the teacher 's assistant refused to release Dawson 's child to an unfamiliar individual at a bus stop . 
+Dawson 's,punch.01,the victim,,Affirmative,"During a conversation near the bus , Dawson punched the victim multiple times and pulled her hair before removing the child from the bus and fleeing the scene . "
+Dawson 's,pull.01,her hair,,Affirmative,"During a conversation near the bus , Dawson punched the victim multiple times and pulled her hair before removing the child from the bus and fleeing the scene . "

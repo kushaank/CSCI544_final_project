@@ -1,0 +1,43 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An Anchorage man,turn.06,himself,to authorities,Affirmative,An Anchorage man who turned himself in to authorities Sunday afternoon is accused of killing an elderly farmer with a machete . 
+Thomas Cottam Jr.,tell.01,that he was hitchhiking,police,Affirmative,"According to charging documents , Cottam told police that he was hitchhiking six days ago when he was picked up by Garcia . "
+by Garcia,pick.04,he,,Affirmative,"According to charging documents , Cottam told police that he was hitchhiking six days ago when he was picked up by Garcia . "
+81-year-old Steven Garcia,offer.01,a job on,,Affirmative,"Garcia offered Cottam a job on his small berry operation , Garcia 's Alaska Farm , located off the Old Glenn Highway near the Knik River Bridge . "
+Thomas Cottam Jr.,contact.01,Garcia,,Affirmative,"After a few days , Cottam contacted Garcia and arranged to live and work with him at the farm where Garcia grew strawberries and raspberries . "
+Thomas Cottam Jr.,arrange.01,to live and work with him,,Affirmative,"After a few days , Cottam contacted Garcia and arranged to live and work with him at the farm where Garcia grew strawberries and raspberries . "
+Garcia,grow.03,strawberries and raspberries,,Affirmative,"After a few days , Cottam contacted Garcia and arranged to live and work with him at the farm where Garcia grew strawberries and raspberries . "
+Thomas Cottam Jr.,tell.01,he came into,investigators,Affirmative,"After staying at the farm for a few days , Cottam told investigators he came into Garcia 's house Sunday and attacked him with a machete . "
+Thomas Cottam Jr.,attack.01,him,,Affirmative,"After staying at the farm for a few days , Cottam told investigators he came into Garcia 's house Sunday and attacked him with a machete . "
+Cottam,tell.01,blacked out  and,investigators he,Affirmative,"Cottam told investigators he blacked out  and when he came to , Garcia was on the ground dead and Cottam was holding the weapon . "
+Cottam,hold.01,the weapon,,Affirmative,"Cottam told investigators he blacked out  and when he came to , Garcia was on the ground dead and Cottam was holding the weapon . "
+A police search,find.01,Garcia appeared,,Affirmative,A police search found Garcia appeared to have several five - inch cuts and stab wounds to multiple parts of his body . 
+Garcia,have.03,inch cuts and stab wounds to,,Affirmative,A police search found Garcia appeared to have several five - inch cuts and stab wounds to multiple parts of his body . 
+Thomas Cottam Jr.,leave.01,the residence,,Affirmative,"Following the attack , Cottam left the residence with Garcia 's truck and dog and drove to Anchorage where he contacted one his friends , charging documents say . "
+Thomas Cottam Jr.,contact.01,one his friends,,Affirmative,"Following the attack , Cottam left the residence with Garcia 's truck and dog and drove to Anchorage where he contacted one his friends , charging documents say . "
+Thomas Cottam Jr.,charge.06,documents say,,Affirmative,"Following the attack , Cottam left the residence with Garcia 's truck and dog and drove to Anchorage where he contacted one his friends , charging documents say . "
+investigators,interview.01,the friend,,Affirmative,"When investigators interviewed the friend , they learned that Cottam told him he had cut Garcia 's throat and stabbed him multiple times before blacking out . "
+they,learn.01,that Cottam told him he,,Affirmative,"When investigators interviewed the friend , they learned that Cottam told him he had cut Garcia 's throat and stabbed him multiple times before blacking out . "
+Thomas Cottam Jr.,tell.01,had cut,him he,Affirmative,"When investigators interviewed the friend , they learned that Cottam told him he had cut Garcia 's throat and stabbed him multiple times before blacking out . "
+him he,cut.02,throat,,Affirmative,"When investigators interviewed the friend , they learned that Cottam told him he had cut Garcia 's throat and stabbed him multiple times before blacking out . "
+they,stab.01,him,,Affirmative,"When investigators interviewed the friend , they learned that Cottam told him he had cut Garcia 's throat and stabbed him multiple times before blacking out . "
+he,plan.01,to flee to Kodiak,,Affirmative,"Cottam told the friend he was planning to flee to Kodiak , though the friend insisted Cottam go to the police . "
+he,flee.01,to Kodiak,,Affirmative,"Cottam told the friend he was planning to flee to Kodiak , though the friend insisted Cottam go to the police . "
+the friend,insist.01,Cottam go to,,Affirmative,"Cottam told the friend he was planning to flee to Kodiak , though the friend insisted Cottam go to the police . "
+He,turn.06,himself,,Affirmative,He turned himself in at the Anchorage Jail at about 5 p.m. Sunday . 
+Investigators,find.01,Cottam did not have,,Affirmative,Investigators found Cottam did not have any obvious signs of blood on him and only a few scratches . 
+Thomas Cottam Jr.,have.03,any obvious signs of blood,,Affirmative,Investigators found Cottam did not have any obvious signs of blood on him and only a few scratches . 
+Thomas Cottam Jr.,tell.01,scratches were,police,Affirmative,Cottam told police the scratches were a result of working in Garcia 's fields . 
+Court records,show.01,Cottam was charged in 2012,,Affirmative,Court records show Cottam was charged in 2012 with one count of disorderly conduct for failure to disperse . 
+He,have.03,a warrant out for,,Affirmative,He had a warrant out for his arrest after failing to appear in court on the charges . 
+Garcia,was registered.01,as,,Affirmative,"Garcia was registered as an Alaska Grown farmer since 2002 , according to the Alaska Division of Agriculture . "
+"Ted Pyrah , owner of",say.01,often assisted,,Affirmative,"Ted Pyrah , owner of Pyrah 's Pioneer Peak Farm , said he and his church group often assisted the elderly Garcia at his farm . "
+he and,assist.01,the elderly Garcia,at,Affirmative,"Ted Pyrah , owner of Pyrah 's Pioneer Peak Farm , said he and his church group often assisted the elderly Garcia at his farm . "
+he,say.01,Garcia was in,,Affirmative,"Garcia was in ill health , he said , and that his small house was a bit of a junker at the base of Pioneer Peak . "
+81-year-old Steven Garcia,have.03,plans,,Affirmative,"Garcia had plans to build an amphitheater near his home , Pyrah said , but that nothing had been done beyond some basic land clearing . "
+81-year-old Steven Garcia,build.01,an amphitheater near,,Affirmative,"Garcia had plans to build an amphitheater near his home , Pyrah said , but that nothing had been done beyond some basic land clearing . "
+Ted Pyrah,say.01,Garcia had plans,,Affirmative,"Garcia had plans to build an amphitheater near his home , Pyrah said , but that nothing had been done beyond some basic land clearing . "
+Pyrah,say.01,less defending himself,,Affirmative,"Pyrah said Garcia had a hard time taking care of himself , much less defending himself . "
+Garcia had a,take.LV,of himself,,Affirmative,"Pyrah said Garcia had a hard time taking care of himself , much less defending himself . "
+Garcia had a,defend.01,himself,,Affirmative,"Pyrah said Garcia had a hard time taking care of himself , much less defending himself . "
+He,say.01,Garcia did n't appear,,Affirmative,He said Garcia did n't appear to have any family living nearby . 
+Garcia,have.03,any family living nearby,,Affirmative,He said Garcia did n't appear to have any family living nearby . 

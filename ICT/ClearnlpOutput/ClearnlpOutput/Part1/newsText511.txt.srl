@@ -1,0 +1,20 @@
+1	All	all	DT	_	2	det	_
+2	content	content	NN	p2=JJ	4	nsubj	4:A1=PPT
+3	©	©	TO	p2=POS	4	aux	_
+4	Copyright	copyright	VB	p2=NNP|pb=copyright.01	0	root	_
+5	2000	0	CD	_	7	hmod	_
+6	-	-	SYM	p2=HYPH	7	hyph	_
+7	2014	0	CD	_	4	npadvmod	_
+8	WorldNow	worldnow	NNP	p2=NNPS	5	appos	_
+9	and	and	CC	_	8	cc	_
+10	Quincy	quincy	NNP	_	13	nn	_
+11	Herald	herald	NNP	_	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	Whig	whig	NNP	p2=NNPS	8	conj	_
+14	.	.	.	_	4	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

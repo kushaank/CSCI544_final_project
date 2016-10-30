@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The State,elect.01,women MPs,,Affirmative,The State had elected four women MPs in the 2004 Lok Sabha elections . 
+four women MPs,elect.01,all the four women,,Affirmative,"However , this is the first time that all the four women MPs elected belonged to the same party - the All India Anna Dravida Munnetra Kazhagam . "
+all the four women,belong.01,to,,Affirmative,"However , this is the first time that all the four women MPs elected belonged to the same party - the All India Anna Dravida Munnetra Kazhagam . "
+parties,nominate.01,women candidates,in,Affirmative,"National and regional parties nominated 13 women candidates in the 2014 elections - the AIADMK 4 , the Congress 3 , the DMK and the CPI ( M ) two each , and the CPI and the PMK one each . "
+by,lose.03,other parties lost by,,Affirmative,"Not only all the other women candidates from other parties lost by huge margins , many of them forfeited their deposits . "
+many of them,forfeit.01,their deposits,,Affirmative,"Not only all the other women candidates from other parties lost by huge margins , many of them forfeited their deposits . "
+Tamil Nadu,have.03,nil women representation,,Affirmative,"In the three other Lok Sabha tenures in the past : 1967-71 , 1980-84 and 1996-98 Tamil Nadu had nil women representation . "

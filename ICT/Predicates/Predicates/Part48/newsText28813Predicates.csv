@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old woman,plead.02,guilty to sending letters to,,Affirmative,"A 47 - year - old woman pleaded guilty to sending letters to Senators Marco Rubio and Bill Nelson in June of 2011 , threatening their lives . "
+old woman,send.01,letters,to,Affirmative,"A 47 - year - old woman pleaded guilty to sending letters to Senators Marco Rubio and Bill Nelson in June of 2011 , threatening their lives . "
+old woman,plead.02,guilty to sending letters to,,Affirmative,"-- A 47 - year - old woman pleaded guilty to sending letters to Senators Marco Rubio and Bill Nelson in June of 2011 , threatening their lives . "
+old woman,send.01,letters,to,Affirmative,"-- A 47 - year - old woman pleaded guilty to sending letters to Senators Marco Rubio and Bill Nelson in June of 2011 , threatening their lives . "
+"Kathryn Cohen Allen , of Jasper",face.01,a maximum penalty of,,Affirmative,"Kathryn Cohen Allen , of Jasper , faces a maximum penalty of ten years in federal prison and a fine of $ 500,000 . "
+Allen,mail.01,threatening letters containing,,Affirmative,"Allen allegedly mailed threatening letters containing a white powdery substance to the offices of United States Senators Marco Rubio and Bill Nelson , according to court documents . "
+letters containing,contain.01,powdery substance,,Affirmative,"Allen allegedly mailed threatening letters containing a white powdery substance to the offices of United States Senators Marco Rubio and Bill Nelson , according to court documents . "
+Testing of,reveal.01,it was not hazardous,,Affirmative,Testing of the substance revealed it was not hazardous . 
+Kathryn Cohen Allen,admit.01,was in,,Affirmative,Allen allegedly admitted that sending the letters in attempt to frame a neighbor she believed was in an interracial relationship . 
+she,believe.01,a neighbor,,Affirmative,Allen allegedly admitted that sending the letters in attempt to frame a neighbor she believed was in an interracial relationship . 

@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The California Highway Patrol,say.01,motorcyclists were driving east at,,Affirmative,The California Highway Patrol said two motorcyclists were driving east at a high rate of speed at about 3:10 p.m. on Fair Oaks Boulevard near Miles Lane when a car pulled out of a driveway into their paths . 
+two motorcyclists,drive.02,east,at,Affirmative,The California Highway Patrol said two motorcyclists were driving east at a high rate of speed at about 3:10 p.m. on Fair Oaks Boulevard near Miles Lane when a car pulled out of a driveway into their paths . 
+Both motorcycles,lock.01,their wheels,,Affirmative,Both motorcycles locked their wheels and went into a skid . 
+One of,strike.01,side door of,,Affirmative,"One of the motorcyclists struck the driver 's side door of the car and was killed immediately , CHP said . "
+CHP,say.01,struck,,Affirmative,"One of the motorcyclists struck the driver 's side door of the car and was killed immediately , CHP said . "
+The other motorcyclist,receive.01,major injuries,,Affirmative,"The other motorcyclist skidded to the ground , received major injuries and was taken to the hospital . "

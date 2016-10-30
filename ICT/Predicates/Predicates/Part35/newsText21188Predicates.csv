@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The European Union,say.01,it is deeply concerned by developments in Libya,,Affirmative,The European Union said Monday it is deeply concerned by developments in Libya after armed groups attacked parliament in Tripoli and an air base in the east . 
+by developments in Libya,concern.01,The European Union,,Affirmative,The European Union said Monday it is deeply concerned by developments in Libya after armed groups attacked parliament in Tripoli and an air base in the east . 
+armed groups,attack.01,parliament,,Affirmative,The European Union said Monday it is deeply concerned by developments in Libya after armed groups attacked parliament in Tripoli and an air base in the east . 
+The attacks,leave.01,80 people,dead,Affirmative,The attacks left nearly 80 people dead and more than 140 injured . 
+Witnesses,say.01,belonged to,,Affirmative,"Witnesses said the attackers in Tripoli belonged to the Zintan brigades , who are known for their opposition to Islamists groups and have attacked parliament before . "
+the attackers in Tripoli,belong.01,to,,Affirmative,"Witnesses said the attackers in Tripoli belonged to the Zintan brigades , who are known for their opposition to Islamists groups and have attacked parliament before . "
+"the Zintan brigades ,",attack.01,parliament,,Affirmative,"Witnesses said the attackers in Tripoli belonged to the Zintan brigades , who are known for their opposition to Islamists groups and have attacked parliament before . "
+about,concern.01,the EU,,Affirmative,A spokesman for foreign affairs head Catherine Ashton said the EU was concerned about the continuing deterioration . 
+the EU,renew.01,its commitment,,Affirmative,The EU renews its commitment to support the Libyan people ... 
+calls on,build.02,consensus,,Affirmative,"and calls on all parties to build consensus so as to ensure a transition to a stable democracy , spokesman Michael Mann said . "
+spokesman Michael Mann,say.01,to build consensus,,Affirmative,"and calls on all parties to build consensus so as to ensure a transition to a stable democracy , spokesman Michael Mann said . "
+successive Libyan governments,struggle.02,to impose order,,Affirmative,"Since the toppling of dictator Moamer Kadhafi in 2011 , successive Libyan governments have struggled to impose order as heavily armed former rebels have carved out their own fiefdoms . "
+successive Libyan governments,impose.01,order,,Affirmative,"Since the toppling of dictator Moamer Kadhafi in 2011 , successive Libyan governments have struggled to impose order as heavily armed former rebels have carved out their own fiefdoms . "
+armed former rebels,carve.03,their own fiefdoms,,Affirmative,"Since the toppling of dictator Moamer Kadhafi in 2011 , successive Libyan governments have struggled to impose order as heavily armed former rebels have carved out their own fiefdoms . "
+by,worry.01,"EU member states ,",,Affirmative,"EU member states , especially former colonial power Italy and its southern neighbours , are also worried by a sharp increase in the influx of refugees from Libya this year , in part due to the deteriorating security situation in the country . "

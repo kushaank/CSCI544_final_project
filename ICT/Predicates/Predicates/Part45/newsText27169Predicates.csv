@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Cube exhibit ,",show.01,the cube from concept to,visitors,Affirmative,"As WCBS 880's Marla Diamond reported , to mark the anniversary of the invention of the iconic 1980 s toy , Liberty Science Center in Jersey City has opened a Beyond Rubik 's Cube exhibit , which shows visitors the cube from concept to worldwide phenomenon . "
+a robot,solve.01,Cube,,Affirmative,The exhibit includes a robot that solves the Rubik 's Cube in one minute - and does a victory dance afterward . 
+a robot,do.02,a victory dance afterward,,Affirmative,The exhibit includes a robot that solves the Rubik 's Cube in one minute - and does a victory dance afterward . 
+"a Solve Bar ,",photograph.01,the cubes of players,,Affirmative,"It also includes a Solve Bar , which photographs the cubes of players and then shows them how to solve them . "
+"a Solve Bar ,",show.01,how to solve them,them,Affirmative,"It also includes a Solve Bar , which photographs the cubes of players and then shows them how to solve them . "
+"Matthew Gold ,",say.01,he was never able,,Affirmative,"Matthew Gold , a child of the '80 s , said he was never able to solve the Rubik 's Cube . "
+Matthew Gold,solve.01,Cube,,Affirmative,"Matthew Gold , a child of the '80 s , said he was never able to solve the Rubik 's Cube . "

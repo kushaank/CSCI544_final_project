@@ -1,0 +1,49 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the gunmen,go.02,on,,Affirmative,"Durban - Terrified residents of a Durban informal settlement ducked for cover on Sunday as gunmen went on a shooting spree , killing two people . "
+the gunmen,kill.01,two people,,Affirmative,"Durban - Terrified residents of a Durban informal settlement ducked for cover on Sunday as gunmen went on a shooting spree , killing two people . "
+One of,followed.02,the gunmen,,Affirmative,"One of the victims , Mzokhona Dlawu , 32 , had followed the gunmen and bravely managed to disarm the one who had shot 19 - year - old Sandile Dladla moments before at the Palmiet informal settlement in Clare Estate . "
+the one,shoot.03,Dladla moments,,Affirmative,"One of the victims , Mzokhona Dlawu , 32 , had followed the gunmen and bravely managed to disarm the one who had shot 19 - year - old Sandile Dladla moments before at the Palmiet informal settlement in Clare Estate . "
+"Dlawu ,",intend.01,to hand,,Affirmative,"Dlawu , who had intended to hand the gun to police , then joined other residents at the roadside to wait for an ambulance , his sister-in-law , Nozuko Mantshule , said . "
+"Dlawu ,",hand.01,the gun,to police,Affirmative,"Dlawu , who had intended to hand the gun to police , then joined other residents at the roadside to wait for an ambulance , his sister-in-law , Nozuko Mantshule , said . "
+"Dlawu ,",join.01,other residents,,Affirmative,"Dlawu , who had intended to hand the gun to police , then joined other residents at the roadside to wait for an ambulance , his sister-in-law , Nozuko Mantshule , said . "
+"his sister-in-law ,",say.01,", then joined",,Affirmative,"Dlawu , who had intended to hand the gun to police , then joined other residents at the roadside to wait for an ambulance , his sister-in-law , Nozuko Mantshule , said . "
+the gunmen,go.05,looking for,,Affirmative,"Two others were wounded in the shooting , which took place in three areas of the settlement as the gunmen reportedly went looking for targeted people . "
+the gunmen,look.01,for,,Affirmative,"Two others were wounded in the shooting , which took place in three areas of the settlement as the gunmen reportedly went looking for targeted people . "
+One of,tell.01,the Daily News,had followed him in,Affirmative,"One of the survivors , Boy - boy Sphengane , told the Daily News that two of the gunmen had followed him in the settlement as he was heading to a tavern . "
+Mzokhona Dlawu,head.02,to,,Affirmative,"One of the survivors , Boy - boy Sphengane , told the Daily News that two of the gunmen had followed him in the settlement as he was heading to a tavern . "
+Mzokhona Dlawu,hear.01,a gun cock,,Affirmative,I heard a gun cock and shots go off . 
+Mzokhona Dlawu,think.01,I would be safe,,Affirmative,I ran inside the tavern where I thought I would be safe . 
+Mzokhona Dlawu,say.01,I was explaining to patrons,,Affirmative,"I was explaining to patrons what transpired when more shots rang out , he said . "
+Sphengane,say.01,he managed,,Affirmative,Sphengane said he managed to dodge the fire but one of his friends standing next to him was shot in the foot . 
+Sphengane,manage.02,to dodge,,Affirmative,Sphengane said he managed to dodge the fire but one of his friends standing next to him was shot in the foot . 
+Sphengane,dodge.01,the fire,,Affirmative,Sphengane said he managed to dodge the fire but one of his friends standing next to him was shot in the foot . 
+"The tavern owner ,",request.01,anonymity,,Affirmative,"The tavern owner , who requested anonymity as she feared for her life , said she heard gunshots and ran inside her room and shut the door . "
+"The tavern owner ,",say.01,she heard gunshots and ran inside,,Affirmative,"The tavern owner , who requested anonymity as she feared for her life , said she heard gunshots and ran inside her room and shut the door . "
+she,hear.01,gunshots,,Affirmative,"The tavern owner , who requested anonymity as she feared for her life , said she heard gunshots and ran inside her room and shut the door . "
+she,shut.01,the door,,Affirmative,"The tavern owner , who requested anonymity as she feared for her life , said she heard gunshots and ran inside her room and shut the door . "
+A bullet,strike.01,a cupboard in,,Affirmative,A bullet ripped through the door and struck a cupboard in her room . 
+Sphengane,say.01,gunmen ran up,,Affirmative,"Sphengane said the gunmen ran up a footpath where they shot Dladla , who had been standing outside a tuck shop . "
+the gunmen,run.01,a footpath,,Affirmative,"Sphengane said the gunmen ran up a footpath where they shot Dladla , who had been standing outside a tuck shop . "
+the gunmen,shoot.02,"Dladla ,",,Affirmative,"Sphengane said the gunmen ran up a footpath where they shot Dladla , who had been standing outside a tuck shop . "
+"Mthokozisi Mbhele ,",say.01,they saw,,Affirmative,"Mthokozisi Mbhele , who was with Dladla , said they saw the men running up the pathway but did not think anything of it . "
+the gunmen,see.01,men running up,,Affirmative,"Mthokozisi Mbhele , who was with Dladla , said they saw the men running up the pathway but did not think anything of it . "
+the men,run.02,the pathway,,Affirmative,"Mthokozisi Mbhele , who was with Dladla , said they saw the men running up the pathway but did not think anything of it . "
+the gunmen,think.01,anything of it,,Affirmative,"Mthokozisi Mbhele , who was with Dladla , said they saw the men running up the pathway but did not think anything of it . "
+by residents,carry.01,Sandile Dladla,,Affirmative,Dladla was carried to the roadside by residents to wait for an ambulance . 
+"father ,",say.01,there was,,Affirmative,"Dladla 's father , Dumisani Dladla , said that when he got to the roadside there was no one there . "
+Sandile Dladla,see.01,"three wounded people , including that of",,Affirmative,"I saw three wounded people , including that of my son . "
+the road holding,hold.04,a gun,,Affirmative,A man was standing in the centre of the road holding a gun in his hand . 
+A man,pick.04,my son,,Affirmative,I picked up my son and put him in a car . 
+A man,put.01,my son,in,Affirmative,I picked up my son and put him in a car . 
+A man,care.01,whether he was going,,Affirmative,"I did n't care whether he was going to shoot me as well , but that was my son and I had to take him to the hospital , said the devastated father . "
+my son,shoot.03,A man,,Affirmative,"I did n't care whether he was going to shoot me as well , but that was my son and I had to take him to the hospital , said the devastated father . "
+A man,take.01,my son,to,Affirmative,"I did n't care whether he was going to shoot me as well , but that was my son and I had to take him to the hospital , said the devastated father . "
+the devastated father,say.01,I did n't care,,Affirmative,"I did n't care whether he was going to shoot me as well , but that was my son and I had to take him to the hospital , said the devastated father . "
+Shocked residents,discuss.01,the shootings,,Affirmative,Shocked residents gathered for a meeting later to discuss the shootings . 
+Shocked residents,hear.01,had handed,,Affirmative,They heard that the father of the man who shot Dlawu had handed his son over to the police . 
+the man,shoot.02,Mzokhona Dlawu,,Affirmative,They heard that the father of the man who shot Dlawu had handed his son over to the police . 
+the father of,hand.02,my son,to,Affirmative,They heard that the father of the man who shot Dlawu had handed his son over to the police . 
+"Sydenham police spokes - man ,",say.01,cases of murder,,Affirmative,"Sydenham police spokes - man , Captain Myhen Lazarus , said cases of murder and attempted murder had been opened for investigation . "
+you,haven.01,' t,,Affirmative,"Login and register , if you haven ' t already . "
+in,contain.01,works contained in,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "
+The copyright in,belong.01,to,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "

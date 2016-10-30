@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A simple dose consumed,relieve.01,the knee pain,,Affirmative,A simple dose consumed to relieve knee pain apparently caused the death of a 57 - year - old woman in Thane a fortnight ago . 
+A simple dose consumed,cause.01,the death of,,Affirmative,A simple dose consumed to relieve knee pain apparently caused the death of a 57 - year - old woman in Thane a fortnight ago . 
+by,manufacture.01,"based drug , manufactured by",,Affirmative,"Pratibha Shimpi was prescribed Zyloric , an allopurinol - based drug , manufactured by GlaxoSmithKline ( GSK ) Pharmaceuticals for the knee pain that was the result of gout . "
+Pratibha Shimpi,take.01,two tablets,,Affirmative,"She had been taking two tablets daily for about 15 days , when she developed an adverse drug reaction ( ADR ) . "
+by,cause.01,a condition caused by,,Affirmative,"Gout is a condition caused by increased uric acid in blood , crystals of which get deposited in body joints causing aches . "
+Pratibha Shimpi,have.03,grade fever,,Affirmative,Initially she had high grade fever and eventually her skin started shedding . 
+Pratibha Shimpi,shed.01,her skin,,Affirmative,Initially she had high grade fever and eventually her skin started shedding . 
+We,admit.01,Pratibha Shimpi,to,Affirmative,"We admitted her to Jupiter hospital in Thane , where she battled for her life for 11 days before she died , said Ashok , Pratibha 's husband . "
+"Ashok ,",say.01,We admitted her to,,Affirmative,"We admitted her to Jupiter hospital in Thane , where she battled for her life for 11 days before she died , said Ashok , Pratibha 's husband . "
+blisters,expose.01,the inner skin,,Affirmative,Eventually the top layer of the skin begins to peel off and blisters break out exposing the inner skin which is tender and vulnerable to infection . 
+doctors,say.01,She contracted,,Affirmative,"She contracted secondary infection and died of multi-organ failure , doctors said . "
+a 57-year-old woman,suffer.01,grade fever,,Affirmative,But two days before her death she suffered high grade fever . 
+"Dr Mahesh Lombar ,",say.01,output reduced drastically and,,Affirmative,"Her urine output reduced drastically and blood pressure dropped , said Dr Mahesh Lombar , consulting physician , Jupiter hospital . "
+by,prescribe.02,The medicine for,,Affirmative,"The medicine for the knee pain was prescribed by Dr Preeti Dave , an ayurveda specialist . "
+Zyloric,cause.01,side-effects like TENS,,Affirmative,"In medical literature , Zyloric is known to cause side-effects like TENS . "
+an ayurvedic doctor,prescribe.01,the allopathic drug,,Affirmative,We are flummoxed at how an ayurvedic doctor prescribed the allopathic drug . 
+Ashok,know.01,where she got,,Affirmative,"I did not know where she got the medicine from until she was hospitalised , Ashok said . "
+Zyloric,get.01,The medicine for the knee pain,from,Affirmative,"I did not know where she got the medicine from until she was hospitalised , Ashok said . "
+Ashok,say.01,I did not know,,Affirmative,"I did not know where she got the medicine from until she was hospitalised , Ashok said . "
+The family,spend.02,about Rs5,"to treat Pratibha ,",Affirmative,"The family spent about Rs5 lakh to treat Pratibha , who was in intensive care for some time . "
+The family,treat.03,"Pratibha ,",,Affirmative,"The family spent about Rs5 lakh to treat Pratibha , who was in intensive care for some time . "
+Ashok,say.01,She was also put on dialysis,,Affirmative,"She was also put on dialysis after her kidneys failed , the husband said . "
+90 medical colleges across,record.01,incidence of mild,,Affirmative,"According to the Drug Controller General of India ( DCGI ) , 90 medical colleges across the country , including KEM , Nair , Sion and JJ hospitals in Mumbai , have recorded incidence of mild to severe ADR . "
+"Dr Mahesh Lombar , consulting physician , Jupiter hospital",say.01,We have not notified DCGI about,,Affirmative,"Dr Lombar of Jupiter said , We have not notified DCGI about the ADR case yet . "
+private doctors,notify.01,DCGI,about,Affirmative,"Dr Lombar of Jupiter said , We have not notified DCGI about the ADR case yet . "
+"Dr Mahesh Lombar , consulting physician , Jupiter hospital",ask.02,to notify,Jupiter hospital,Affirmative,"However , I will ask Jupiter hospital to notify the regulatory authorities . "
+Jupiter hospital,notify.01,the regulatory authorities,,Affirmative,"However , I will ask Jupiter hospital to notify the regulatory authorities . "
+GSK Pharmaceuticals,respond.01,to,,Affirmative,GSK Pharmaceuticals did not respond to a query whether it had given adequate warning on the Zyloric packs . 
+a query,give.01,adequate warning on,,Affirmative,GSK Pharmaceuticals did not respond to a query whether it had given adequate warning on the Zyloric packs . 

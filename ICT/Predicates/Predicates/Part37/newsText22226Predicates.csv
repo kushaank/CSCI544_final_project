@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Fletcher Giddings,say.01,he wanted,,Affirmative,Fletcher Giddings said he wanted to enter a dog in the Wellington Show pet parade . 
+Fletcher Giddings,want.01,to enter,,Affirmative,Fletcher Giddings said he wanted to enter a dog in the Wellington Show pet parade . 
+Fletcher Giddings,enter.01,a dog in,,Affirmative,Fletcher Giddings said he wanted to enter a dog in the Wellington Show pet parade . 
+nobody,know.01,who owns it,,Affirmative,"It was n't his dog , actually nobody knows who owns it . "
+by,drop.05,a stray dropped by,,Affirmative,"But when Hobo , a stray dropped by the show , Fletcher entered him and won the best in show . "
+Fletcher Giddings,enter.01,"Hobo , a stray",,Affirmative,"But when Hobo , a stray dropped by the show , Fletcher entered him and won the best in show . "
+Fletcher Giddings,win.01,the best,,Affirmative,"But when Hobo , a stray dropped by the show , Fletcher entered him and won the best in show . "
+The judges,say.01,he was,,Affirmative,The judges said he was a friendly dog and well behaved . 
+Hobo and Fletcher,accept.01,their award,,Affirmative,The crowd clapped when Hobo and Fletcher accepted their award . 
+' Hobo ',win.01,an award,,Affirmative,Its not known if ' Hobo ' has ever won an award but the judges were n't concerned at all . 
+a miniature horse making up,make.07,the field,,Affirmative,"The pet parade was popular with Labradors , sausage dogs and a miniature horse making up the field . "
+by,unclaimed.01,"Hobo , a stray",,Affirmative,Hobo is still unclaimed by his true owners . 

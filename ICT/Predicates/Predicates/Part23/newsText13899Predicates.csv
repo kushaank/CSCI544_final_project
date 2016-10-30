@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,face.01,exactly the situation faced by,,Affirmative,That 's exactly the situation faced by about 20 U.S. Steel Corp . 
+employees,receive.01,an email,from,Affirmative,employees who received an email in early 2010 from the then - CEO John Surma . 
+employees,allow.01,hackers to install malware,,Affirmative,"At least one , and possibly several , U.S. Steel ( NYSE : X ) employees fell for the trap , allowing the hackers to install malware that helped them gain access to the steelmaker 's system . "
+the hackers,install.01,malware,,Affirmative,"At least one , and possibly several , U.S. Steel ( NYSE : X ) employees fell for the trap , allowing the hackers to install malware that helped them gain access to the steelmaker 's system . "
+malware,help.01,them gain access to,,Affirmative,"At least one , and possibly several , U.S. Steel ( NYSE : X ) employees fell for the trap , allowing the hackers to install malware that helped them gain access to the steelmaker 's system . "
+them,gain.02,access to,,Affirmative,"At least one , and possibly several , U.S. Steel ( NYSE : X ) employees fell for the trap , allowing the hackers to install malware that helped them gain access to the steelmaker 's system . "
+possibly several,select.01,the organizations,,Affirmative,"They 're selecting the organizations they 're going after with specific information , said Amy Baker , a vice president at Pittsburgh - based security firm Wombat Security . "
+"Amy Baker ,",say.01,They 're selecting,,Affirmative,"They 're selecting the organizations they 're going after with specific information , said Amy Baker , a vice president at Pittsburgh - based security firm Wombat Security . "
+They,craft.01,emails,,Affirmative,They 're crafting emails specifically for a particular person or individuals wtihin an organization . 
+A hacker or,need.01,a bit of information,,Affirmative,"A hacker or social engineer only needs a bit of information , mostly available publicly , to get enough to craft a credible - looking email . "
+media postings,identify.01,users of,,Affirmative,That 's not only the name and perhaps email from a high - placed executive like a CEO or CFO but also social media postings that identify users of various social networks as employees of a company . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

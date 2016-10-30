@@ -1,0 +1,97 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"driver Mohammed Ashraf , 53 ,",admit.01,luring,,Affirmative,"Evil taxi driver Mohammed Ashraf , 53 , admitted luring the girl to a flat when she was just 14 and raping her . "
+"driver Mohammed Ashraf , 53 ,",lure.01,the girl,to,Affirmative,"Evil taxi driver Mohammed Ashraf , 53 , admitted luring the girl to a flat when she was just 14 and raping her . "
+the girl,rape.01,the girl,,Affirmative,"Evil taxi driver Mohammed Ashraf , 53 , admitted luring the girl to a flat when she was just 14 and raping her . "
+his victim 's,say.01,ordeal is still going on and,,Affirmative,He is now awaiting sentence but the victim says her ordeal is still going on and is made worse by a cruel whispering campaign in her community . 
+by,make.02,worse,,Affirmative,He is now awaiting sentence but the victim says her ordeal is still going on and is made worse by a cruel whispering campaign in her community . 
+his victim 's,believe.01,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",,Affirmative,"She believes Ashraf , from Edinburgh , who also harassed her older sister , was banking on her keeping quiet because she was afraid of bringing dishonour to her family . "
+"Edinburgh ,",harass.01,her older sister,,Affirmative,"She believes Ashraf , from Edinburgh , who also harassed her older sister , was banking on her keeping quiet because she was afraid of bringing dishonour to her family . "
+"The girl ,",refuse.01,to be intimidated,,Affirmative,"The girl , now 15 , who can not be named for legal reasons , refused to be intimidated . "
+"The girl , now 15",say.01,is keeping,,Affirmative,"But she says such fear of dishonour is keeping similar sex attacks hidden in Scotland 's Asian communities , the Daily Record reports . "
+such fear of dishonour,keep.02,similar sex attacks hidden in,,Affirmative,"But she says such fear of dishonour is keeping similar sex attacks hidden in Scotland 's Asian communities , the Daily Record reports . "
+the Daily Record,report.01,But she says,,Affirmative,"But she says such fear of dishonour is keeping similar sex attacks hidden in Scotland 's Asian communities , the Daily Record reports . "
+the people,blame.01,"The girl , now 15",for,Affirmative,"And last night , she hit out at the people who blamed her for Ashraf 's crime . "
+"The girl , now 15 , who can not be named for legal reasons",say.01,They do n't want,,Affirmative,She said : They do n't want to believe a man would do this . 
+the people who blamed her for Ashraf 's crime,want.01,to believe,,Affirmative,She said : They do n't want to believe a man would do this . 
+the people who blamed her for Ashraf 's crime,believe.01,man would do this,,Affirmative,She said : They do n't want to believe a man would do this . 
+a man,do.02,my fault,,Affirmative,She said : They do n't want to believe a man would do this . 
+anyone,think.01,that this was,,Affirmative,It is disgusting that anyone can think that this was my fault . 
+my fault,hurt.01,"The girl , now 15 , who can not be named for legal reasons",,Affirmative,That hurts me so much . 
+a man,think.01,that I would keep quiet,,Affirmative,He thought that I would keep quiet because it would dishonour my family . 
+"The girl , now 15 , who can not be named for legal reasons",keep.02,quiet,,Affirmative,He thought that I would keep quiet because it would dishonour my family . 
+my fault,dishonour.01,her family,,Affirmative,He thought that I would keep quiet because it would dishonour my family . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",take.01,the girl shopping,,Affirmative,"Ashraf is due to be sentenced next month at the High Court in Edinburgh for the rape , which happened when he took the girl shopping just before Christmas last year . "
+her family,want.01,to go,,Affirmative,She had n't wanted to go but her mother insisted she did as Ashraf was a respected family friend . 
+her mother,insist.01,she did,,Affirmative,She had n't wanted to go but her mother insisted she did as Ashraf was a respected family friend . 
+"Arrogant Ashraf ,",have.03,"a restaurant , shop and flats in Edinburgh",,Affirmative,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems , was a manipulative bully with a history of preying on women . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",feel.01,invincible,,Affirmative,But he felt invincible because no one had complained . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",dupe.01,built teenager,into joining him in,Affirmative,"He duped the slightly built teenager into joining him in a relative 's empty Edinburgh flat , claiming he needed to use the toilet . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",join.04,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",,Affirmative,"He duped the slightly built teenager into joining him in a relative 's empty Edinburgh flat , claiming he needed to use the toilet . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",claim.01,he needed,,Affirmative,"He duped the slightly built teenager into joining him in a relative 's empty Edinburgh flat , claiming he needed to use the toilet . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",need.01,to use,,Affirmative,"He duped the slightly built teenager into joining him in a relative 's empty Edinburgh flat , claiming he needed to use the toilet . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",use.01,the toilet,,Affirmative,"He duped the slightly built teenager into joining him in a relative 's empty Edinburgh flat , claiming he needed to use the toilet . "
+a relative 's,try.01,to fight him off,,Affirmative,"Although she tried desperately to fight him off , he was too strong . "
+a relative 's,fight.01,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",,Affirmative,"Although she tried desperately to fight him off , he was too strong . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",tell.01,quicker she enjoyed,her,Affirmative,"He callously told her that the quicker she enjoyed what he was doing , the quicker he would let her go . "
+a relative 's,enjoy.01,what he was doing,,Affirmative,"He callously told her that the quicker she enjoyed what he was doing , the quicker he would let her go . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",let.01,her go,,Affirmative,"He callously told her that the quicker she enjoyed what he was doing , the quicker he would let her go . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",taunt.01,a relative 's,,Affirmative,And he taunted her that no one would believe her if she told them about the attack because he was a respected man . 
+no one,believe.01,a relative 's,,Affirmative,And he taunted her that no one would believe her if she told them about the attack because he was a respected man . 
+no one,tell.01,about,them,Affirmative,And he taunted her that no one would believe her if she told them about the attack because he was a respected man . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",know.01,girl would suffer,,Affirmative,Ashraf knew that the girl would suffer the shame of no longer being considered pure . 
+"The girl , now 15",suffer.01,the shame of,,Affirmative,Ashraf knew that the girl would suffer the shame of no longer being considered pure . 
+his victim 's,tell.01,Ashraf had previously tried,"old sister ,",Affirmative,"But the victim bravely told her 19 - year - old sister , who Ashraf had previously tried to blackmail into going with him to the same flat . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",try.01,to blackmail into going with him,,Affirmative,"But the victim bravely told her 19 - year - old sister , who Ashraf had previously tried to blackmail into going with him to the same flat . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",blackmail.01,into going with him,,Affirmative,"But the victim bravely told her 19 - year - old sister , who Ashraf had previously tried to blackmail into going with him to the same flat . "
+his victim 's,call.01,the police,,Affirmative,She then called the police . 
+the police,know.01,that this would happen,,Affirmative,The sister said last night : I knew that this would happen but I did n't think it would happen to my sister . 
+the police,think.01,it would happen to,,Affirmative,The sister said last night : I knew that this would happen but I did n't think it would happen to my sister . 
+the police,think.01,it would happen to me,,Affirmative,I thought it would happen to me . 
+his victim 's,say.01,she will never recover from,,Affirmative,The victim says she will never recover from the horror of that day . 
+her 19-year-old sister,miss.02,her classes,,Affirmative,She was so devastated that she could n't return to school for more than a month and her sister also missed her classes . 
+his victim 's,say.01,counselling had helped and,,Affirmative,She said not even counselling had helped and she hoped that Ashraf would rot in jail . 
+his victim 's,hope.01,that Ashraf would rot in jail,,Affirmative,She said not even counselling had helped and she hoped that Ashraf would rot in jail . 
+his victim 's,say.01,I looked up to him,,Affirmative,"She said : I looked up to him like a father figure but if I ca n't trust a father figure , then I ca n't trust anyone . "
+his victim 's,look.01,to him,,Affirmative,"She said : I looked up to him like a father figure but if I ca n't trust a father figure , then I ca n't trust anyone . "
+his victim 's,trust.02,a father figure,,Affirmative,"She said : I looked up to him like a father figure but if I ca n't trust a father figure , then I ca n't trust anyone . "
+his victim 's,trust.02,anyone,,Affirmative,"She said : I looked up to him like a father figure but if I ca n't trust a father figure , then I ca n't trust anyone . "
+"Ashraf ,",exploit.01,the fact,,Affirmative,"Ashraf , who exploited the fact that the sisters ' mother was a single parent , had harassed the older girl by claiming he had proof she had been flirting with boys . "
+"Ashraf ,",harass.01,the older girl,,Affirmative,"Ashraf , who exploited the fact that the sisters ' mother was a single parent , had harassed the older girl by claiming he had proof she had been flirting with boys . "
+"Ashraf ,",claim.01,he had proof,,Affirmative,"Ashraf , who exploited the fact that the sisters ' mother was a single parent , had harassed the older girl by claiming he had proof she had been flirting with boys . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",have.03,proof,,Affirmative,"Ashraf , who exploited the fact that the sisters ' mother was a single parent , had harassed the older girl by claiming he had proof she had been flirting with boys . "
+the sisters ' mother,flirt.01,with boys,,Affirmative,"Ashraf , who exploited the fact that the sisters ' mother was a single parent , had harassed the older girl by claiming he had proof she had been flirting with boys . "
+the sisters ' mother,say.01,: I knew,,Affirmative,She said last night : I knew that what he was saying was n't true so I ignored him but he got more and more aggressive . 
+the sisters ' mother,know.01,saying was n't true,,Affirmative,She said last night : I knew that what he was saying was n't true so I ignored him but he got more and more aggressive . 
+the sisters ' mother,ignore.01,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",,Affirmative,She said last night : I knew that what he was saying was n't true so I ignored him but he got more and more aggressive . 
+the older girl,keep.01,the messages,,Affirmative,"She kept the messages but also her silence , fearing that she would n't be believed . "
+the older girl,fear.01,that she would n't be believed,,Affirmative,"She kept the messages but also her silence , fearing that she would n't be believed . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",strike.01,two female relatives,,Affirmative,"In the past , Ashraf had struck two female relatives but they were too scared to go to the police . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",threaten.01,to burn down,,Affirmative,Ashraf once threatened to burn down his victim 's family 's house if the girls disobeyed him and visited a relative he disapproved of . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",burn.01,house,,Affirmative,Ashraf once threatened to burn down his victim 's family 's house if the girls disobeyed him and visited a relative he disapproved of . 
+the girls,disobey.01,"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",,Affirmative,Ashraf once threatened to burn down his victim 's family 's house if the girls disobeyed him and visited a relative he disapproved of . 
+the girls,visit.01,a relative 's,,Affirmative,Ashraf once threatened to burn down his victim 's family 's house if the girls disobeyed him and visited a relative he disapproved of . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",disapprove.01,a relative 's,,Affirmative,Ashraf once threatened to burn down his victim 's family 's house if the girls disobeyed him and visited a relative he disapproved of . 
+her 19-year-old sister,say.01,family were scared of him,,Affirmative,The sister said : My family were scared of him . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",choose.01,the day of,,Affirmative,"Ashraf had chosen the day of the rape carefully , knowing that his victim 's sister was busy with a driving lesson . "
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",know.01,sister was busy with,,Affirmative,"Ashraf had chosen the day of the rape carefully , knowing that his victim 's sister was busy with a driving lesson . "
+his victim 's sister,know.01,something was,,Affirmative,But she knew something was seriously wrong when she returned home and saw the distraught girl . 
+his victim 's sister,see.01,the distraught girl,,Affirmative,But she knew something was seriously wrong when she returned home and saw the distraught girl . 
+his victim 's sister,phone.01,the police,straight away,Affirmative,"She phoned the police straight away but her mother was initially hesitant to report the rape , knowing that it would become public . "
+her mother,report.01,"the rape , which happened when he took the girl shopping just before Christmas last year",,Affirmative,"She phoned the police straight away but her mother was initially hesitant to report the rape , knowing that it would become public . "
+his victim 's sister,know.01,that it would become public,,Affirmative,"She phoned the police straight away but her mother was initially hesitant to report the rape , knowing that it would become public . "
+her 19-year-old sister,say.01,issue is,,Affirmative,The sister said : The key issue is people talking about you and giving your family a bad name . 
+people,talk.01,about you,,Affirmative,The sister said : The key issue is people talking about you and giving your family a bad name . 
+people,give.01,a bad name,your family,Affirmative,The sister said : The key issue is people talking about you and giving your family a bad name . 
+a lot of people,blame.01,the victim,,Affirmative,There is still a culture in the Asian community where a lot of people will blame the victim rather than the perpetrator . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",use.01,honour,to do,Affirmative,Mohammed was using honour to do what he wanted . 
+"Arrogant Ashraf , who had a restaurant , shop and flats in Edinburgh before running into financial problems",do.02,what he wanted,,Affirmative,Mohammed was using honour to do what he wanted . 
+people talking about you and giving your family a bad name,need.01,to move on as,,Affirmative,We need to move on as a community and stop shoving this kind of terrible thing under the carpet . 
+people talking about you and giving your family a bad name,stop.01,shoving,,Affirmative,We need to move on as a community and stop shoving this kind of terrible thing under the carpet . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+people talking about you and giving your family a bad name,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+people talking about you and giving your family a bad name,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+people talking about you and giving your family a bad name,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+people talking about you and giving your family a bad name,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+people talking about you and giving your family a bad name,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+people talking about you and giving your family a bad name,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 

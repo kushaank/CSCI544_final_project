@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Asia One,report.01,has been sentenced to,,Affirmative,"Lam Tat Fei , a boatman for bunker supplier Sea Hub Energy has been sentenced to six weeks in prison and given a $ 200 fine for taking part in a bunker buyback scam , news site Asia One reports . "
+Lam Tat Fei,conspire.01,with colleague,,Affirmative,"Last year , Lam conspired with colleague Jason Choo Soon Beng to pay bribes in exchange for a false declaration that the vessel received a delivery of 2,662 tonnes of marine fuel when the delivery was actually 120 tonnes short . "
+Beng,pay.01,bribes,,Affirmative,"Last year , Lam conspired with colleague Jason Choo Soon Beng to pay bribes in exchange for a false declaration that the vessel received a delivery of 2,662 tonnes of marine fuel when the delivery was actually 120 tonnes short . "
+the vessel,receive.01,a delivery of,,Affirmative,"Last year , Lam conspired with colleague Jason Choo Soon Beng to pay bribes in exchange for a false declaration that the vessel received a delivery of 2,662 tonnes of marine fuel when the delivery was actually 120 tonnes short . "
+Lam Tat Fei,receive.01,$ 200,,Affirmative,Lam received $ 200 for helping with the fraud . 
+the other defendants,plead.02,guilty to,,Affirmative,"While the other defendants pleaded guilty to various charges , Lam denied three counts of corruption , but a district court convicted him on Wednesday . "
+Lam Tat Fei,deny.01,three counts of corruption,,Affirmative,"While the other defendants pleaded guilty to various charges , Lam denied three counts of corruption , but a district court convicted him on Wednesday . "
+a district court,convict.01,colleague Jason Choo,on Wednesday,Affirmative,"While the other defendants pleaded guilty to various charges , Lam denied three counts of corruption , but a district court convicted him on Wednesday . "

@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Republic,elect.01,its head,,Affirmative,The self - proclaimed Lugansk People 's Republic ( LNR ) elected its head and passed its own constitution on Sunday . 
+Republic,pass.01,its own constitution,,Affirmative,The self - proclaimed Lugansk People 's Republic ( LNR ) elected its head and passed its own constitution on Sunday . 
+the region,hold.04,a referendum,,Affirmative,This comes after the region held a referendum on May 11 and proclaimed itself independent from Kiev . 
+the region,proclaim.01,itself independent from Kiev,,Affirmative,This comes after the region held a referendum on May 11 and proclaimed itself independent from Kiev . 
+LNRâ€™s state council â€,act.01,as,,Affirmative,LNRâ€™s state council â€ which acts as a temporary legislative body â€ has chosen Valery Bolotov as the head of the republic . 
+LNRâ€™s state council â€,choose.01,Valery Bolotov,,Affirmative,LNRâ€™s state council â€ which acts as a temporary legislative body â€ has chosen Valery Bolotov as the head of the republic . 
+Valery Bolotov as the head of the republic,have.03,two university degrees,,Affirmative,He has two university degrees . 
+Valery Bolotov as the head of the republic,work.06,his way,,Affirmative,He also worked his way up from a manager to the director at a meat factory . 
+Valery Bolotov as the head of the republic,serve.01,as,,Affirmative,"Before being elected as the head of the self - proclaimed republic , he was serving as the â€œpeopleâ€™s governorâ€� of Lugansk region . "
+Deputies of,adopt.01,a temporary constitution of,,Affirmative,Deputies of the council who where elected earlier on Sunday on also adopted a temporary constitution of the Lugansk Peopleâ€™s Republic . 
+elected prime minister,identify.01,will be,,Affirmative,The newly elected prime minister already identified what his first steps in the office will be . 
+$ `` which acts as a temporary legislative body a $ ``,form.01,a new government,,Affirmative,â€œAs the prime minister I will form a new government . 
+$ `` which acts as a temporary legislative body a $ ``,announce.01,the specific candidates,,Affirmative,I will announce the specific candidates later . 
+Itar - Tass,quote.01,Vasily Nikitin,as saying,Affirmative,"The members of the new cabinet will be determined in the second part of the day [ tomorrow ] , â€� Itar - Tass quoted Nikitin as saying . "
+regions,hold.04,referendums,,Affirmative,"Last weekend , Ukraineâ€™s Donetsk and Lugansk regions held referendums in which the majority of voters supported self - rule . "
+the majority of voters,support.01,self - rule,,Affirmative,"Last weekend , Ukraineâ€™s Donetsk and Lugansk regions held referendums in which the majority of voters supported self - rule . "
+96.2 percent of voters,support.01,the regionâ€™s self - rule,,Affirmative,"In Lugansk region 96.2 percent of voters supported the regionâ€™s self - rule , according to final figures announced by the local election commission . "
+by,announce.01,final figures announced by,,Affirmative,"In Lugansk region 96.2 percent of voters supported the regionâ€™s self - rule , according to final figures announced by the local election commission . "
+90 percent of voters in,endorse.01,political independence,,Affirmative,Almost 90 percent of voters in Donetsk region have endorsed political independence from Kiev . 

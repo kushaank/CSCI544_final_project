@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the National Democratic Alliance,need.01,support of,,Affirmative,"New Delhi : The massive victory in the Lok Sabha elections notwithstanding , the National Democratic Alliance will need support of opposition parties to get bills passed in the Rajya Sabha , as the alliance is woefully short of the majority in the upper house . "
+the National Democratic Alliance,get.01,bills passed in,,Affirmative,"New Delhi : The massive victory in the Lok Sabha elections notwithstanding , the National Democratic Alliance will need support of opposition parties to get bills passed in the Rajya Sabha , as the alliance is woefully short of the majority in the upper house . "
+by,lead.02,"The NDA , led by",,Affirmative,"The NDA , led by the Bharatiya Janata Party , has only 62 seats in the 240 - member upper house . "
+"The NDA , led by",have.03,62 seats in,,Affirmative,"The NDA , led by the Bharatiya Janata Party , has only 62 seats in the 240 - member upper house . "
+led United Progress Alliance,have.03,79 members in,,Affirmative,"The Congress - led United Progress Alliance has 79 members in Rajya Sabha , while the Left , Samajwadi Party and Janata Dal ( United ) have another 29 . "
+"the Left ,",have.03,another 29,,Affirmative,"The Congress - led United Progress Alliance has 79 members in Rajya Sabha , while the Left , Samajwadi Party and Janata Dal ( United ) have another 29 . "
+The Bahujan Samaj Party with,make.07,the rest of,,Affirmative,The Bahujan Samaj Party with 14 members and the Trinamool Congress with 12 make up the rest of the Rajya Sabha . 
+This,mean.01,NDA will need,,Affirmative,This means the NDA will need the support of opposition parties for smooth passage of bills . 
+the National Democratic Alliance,need.01,the support of,,Affirmative,This means the NDA will need the support of opposition parties for smooth passage of bills . 
+by,pass.01,a bill passed by,,Affirmative,"According to the Constitution , if a bill passed by the Lok Sabha is rejected by the Rajya Sabha , the President can call a joint sitting of the two Houses to resolve the deadlock . "
+by,reject.01,a bill passed by,,Affirmative,"According to the Constitution , if a bill passed by the Lok Sabha is rejected by the Rajya Sabha , the President can call a joint sitting of the two Houses to resolve the deadlock . "
+the President,call.02,a joint sitting of,,Affirmative,"According to the Constitution , if a bill passed by the Lok Sabha is rejected by the Rajya Sabha , the President can call a joint sitting of the two Houses to resolve the deadlock . "
+the President,resolve.01,the deadlock,,Affirmative,"According to the Constitution , if a bill passed by the Lok Sabha is rejected by the Rajya Sabha , the President can call a joint sitting of the two Houses to resolve the deadlock . "
+The NDA with,have.03,a majority in,,Affirmative,The NDA with 336 members in the 543 - member Lok Sabha has a majority in the joint house . 
+The government,have.03,a problem in passing,,Affirmative,The government will not have a problem in passing money bills or the Budget as the upper house does not have the power to make amendments in such bills passed by the Lok Sabha . 
+The government,have.03,the power,,Affirmative,The government will not have a problem in passing money bills or the Budget as the upper house does not have the power to make amendments in such bills passed by the Lok Sabha . 
+by,pass.01,such bills passed by,,Affirmative,The government will not have a problem in passing money bills or the Budget as the upper house does not have the power to make amendments in such bills passed by the Lok Sabha . 
+The government,recommend.01,to Lok,,Affirmative,"At best , it can only recommend to Lok Sabha amendments to money bill , which the lower house can accept or reject . "
+The government,lok.01,Sabha amendments to,,Affirmative,"At best , it can only recommend to Lok Sabha amendments to money bill , which the lower house can accept or reject . "
+the lower house,accept.01,"money bill ,",,Affirmative,"At best , it can only recommend to Lok Sabha amendments to money bill , which the lower house can accept or reject . "

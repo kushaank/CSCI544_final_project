@@ -1,0 +1,23 @@
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	pb=read.01	9	advcl	9:AM-PRP
+3	the	the	DT	_	4	det	_
+4	article	article	NN	_	2	dobj	2:A1=PPT;5:A1=PPT
+5	titled	title	VBN	p2=VBD|pb=title.01	4	partmod	_
+6	,	,	,	_	9	punct	_
+7	"	"	''	p2=``	9	punct	_
+8	ANC	anc	NNP	_	9	nsubj	9:A0=PAG
+9	lost	lose	VBD	pb=lose.02	0	root	_
+10	support	support	NN	_	9	dobj	9:A1=PPT
+11	due	due	IN	p2=JJ	9	prep	9:AM-CAU
+12	to	to	IN	_	11	pcomp	_
+13	e	e	NN	p2=LS	15	hmod	_
+14	-	-	HYPH	_	15	hyph	_
+15	tolls	toll	NNS	_	11	pobj	_
+16	:	:	:	_	15	punct	_
+17	OUTA	outa	NNP	p2=NN	15	appos	_
+18	,	,	,	_	9	punct	_
+19	"	"	``	p2=''	9	punct	_
+20	click	click	VB	p2=VBP|pb=click.01	9	advcl	_
+21	here	here	RB	_	20	advmod	20:AM-LOC
+22	.	.	.	_	9	punct	_
+

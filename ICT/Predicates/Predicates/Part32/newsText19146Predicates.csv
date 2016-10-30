@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+alliance,win.01,parliamentary poll,,Affirmative,"BAGHDAD - Iraqi Prime Minister Nouri al - Maliki 's alliance won last month 's parliamentary poll but fell short of securing a majority , Iraq 's election commission announced Monday . "
+election commission,announce.01,alliance won,,Affirmative,"BAGHDAD - Iraqi Prime Minister Nouri al - Maliki 's alliance won last month 's parliamentary poll but fell short of securing a majority , Iraq 's election commission announced Monday . "
+alliance,win.01,93 seats of,,Affirmative,"Al - Maliki 's State of Law alliance won 93 seats of the 328 - member parliament , the commission announced at a press conference . "
+Iraq 's election commission,announce.01,alliance won,,Affirmative,"Al - Maliki 's State of Law alliance won 93 seats of the 328 - member parliament , the commission announced at a press conference . "
+by,lead.02,Muwatin bloc led by,,Affirmative,"Shiite leader Muqtada al - Sadr 's Al - Ahrar coalition trailed second with 31 seats , followed by the Al - Muwatin bloc led by Shiite leader Ammar al - Hakim , which clinched 29 seats . "
+"leader Ammar al - Hakim ,",clinch.01,29 seats,,Affirmative,"Shiite leader Muqtada al - Sadr 's Al - Ahrar coalition trailed second with 31 seats , followed by the Al - Muwatin bloc led by Shiite leader Ammar al - Hakim , which clinched 29 seats . "
+A total of,contest.01,the elections,,Affirmative,A total of 9200 parliamentary candidates contested the elections . 
+Al - Maliki,need.01,support,,Affirmative,Al - Maliki needs support from 165 lawmakers to lead the next government . 
+Al - Maliki,lead.02,the next government,,Affirmative,Al - Maliki needs support from 165 lawmakers to lead the next government . 
+Law alliance,win.01,89 parliamentary seats,,Affirmative,"In the last election , his alliance won 89 parliamentary seats , forcing him to align with other parliamentary blocs in order to form a government . "
+Law alliance,force.01,Iraqi Prime Minister Nouri al-Maliki 's,to align with,Affirmative,"In the last election , his alliance won 89 parliamentary seats , forcing him to align with other parliamentary blocs in order to form a government . "

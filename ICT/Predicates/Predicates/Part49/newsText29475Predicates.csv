@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"James Everett Dutschke , from Mississippi",get.01,25 years,,Affirmative,"James Dutschke gets 25 years after pleading guilty to posting the poison - laced letters to the president , a senator and a judge . "
+"James Everett Dutschke , from Mississippi",plead.02,guilty to posting,,Affirmative,"James Dutschke gets 25 years after pleading guilty to posting the poison - laced letters to the president , a senator and a judge . "
+A man,admit.01,sending,,Affirmative,A man who admitted sending poison - laced letters to President Barack Obama and other officials has been jailed 25 years . 
+A man,send.01,laced letters,to,Affirmative,A man who admitted sending poison - laced letters to President Barack Obama and other officials has been jailed 25 years . 
+"James Everett Dutschke , from Mississippi",plead.02,guilty to posting,,Affirmative,"James Everett Dutschke , from Mississippi , pleaded guilty to posting the letters containing ricin to Mr Obama , Senator Roger Wicker and a judge in the city . "
+"James Everett Dutschke , from Mississippi",post.01,the letters containing ricin to,,Affirmative,"James Everett Dutschke , from Mississippi , pleaded guilty to posting the letters containing ricin to Mr Obama , Senator Roger Wicker and a judge in the city . "
+the letters containing ricin to,contain.01,ricin to,,Affirmative,"James Everett Dutschke , from Mississippi , pleaded guilty to posting the letters containing ricin to Mr Obama , Senator Roger Wicker and a judge in the city . "
+arts instructor,deny.01,the charges,,Affirmative,"The 42 - year - old martial arts instructor initially denied the charges , and tried to frame former friend and Elvis impersonator , Paul Kevin Curtis , according to prosecutors . "
+arts instructor,try.01,to frame,,Affirmative,"The 42 - year - old martial arts instructor initially denied the charges , and tried to frame former friend and Elvis impersonator , Paul Kevin Curtis , according to prosecutors . "
+arts instructor,frame.01,former friend and,,Affirmative,"The 42 - year - old martial arts instructor initially denied the charges , and tried to frame former friend and Elvis impersonator , Paul Kevin Curtis , according to prosecutors . "
+"James Everett Dutschke , from Mississippi",indicate.01,he wanted,,Affirmative,Dutschke 's sentencing was delayed last week after he indicated he wanted to withdraw his plea agreement . 
+"James Everett Dutschke , from Mississippi",want.01,to withdraw,,Affirmative,Dutschke 's sentencing was delayed last week after he indicated he wanted to withdraw his plea agreement . 
+"James Everett Dutschke , from Mississippi",withdraw.01,his plea agreement,,Affirmative,Dutschke 's sentencing was delayed last week after he indicated he wanted to withdraw his plea agreement . 
+"James Everett Dutschke , from Mississippi",claim.01,prosecutors lied about some of,,Affirmative,He claimed federal prosecutors lied about some of the allegations in their indictment . 
+"James Everett Dutschke , from Mississippi",say.01,he was guilty,,Affirmative,"He said he was guilty only of using castor beans to make a harmless fertiliser , and that he did not make a poison which prosecutors claimed was found on one of his dust masks . "
+"James Everett Dutschke , from Mississippi",use.01,castor beans,to make,Affirmative,"He said he was guilty only of using castor beans to make a harmless fertiliser , and that he did not make a poison which prosecutors claimed was found on one of his dust masks . "
+"James Everett Dutschke , from Mississippi",make.05,a poison,,Affirmative,"He said he was guilty only of using castor beans to make a harmless fertiliser , and that he did not make a poison which prosecutors claimed was found on one of his dust masks . "
+prosecutors,claim.01,a poison,,Affirmative,"He said he was guilty only of using castor beans to make a harmless fertiliser , and that he did not make a poison which prosecutors claimed was found on one of his dust masks . "
+a weaponised form,enter.01,the body,,Affirmative,"Ricin is derived from castor beans , and in a weaponised form - meaning it can easily enter the body - it can cause respiratory failure , among other symptoms . "
+a weaponised form,cause.01,respiratory failure,,Affirmative,"Ricin is derived from castor beans , and in a weaponised form - meaning it can easily enter the body - it can cause respiratory failure , among other symptoms . "
+Withdrawing,open.01,the door to Dutschke facing,,Affirmative,Withdrawing his guilty plea would have opened the door to Dutschke facing a possible life sentence . 
+the door to Dutschke facing,face.01,a possible life sentence,,Affirmative,Withdrawing his guilty plea would have opened the door to Dutschke facing a possible life sentence . 
+investigators,find.01,evidence of ricin,,Affirmative,He was at his home in Tupelo when investigators found evidence of ricin at his martial arts studio in April 2013 . 
+the only one,receive.01,a letter,,Affirmative,"The judge was the only one to receive a letter , though she was not harmed . "

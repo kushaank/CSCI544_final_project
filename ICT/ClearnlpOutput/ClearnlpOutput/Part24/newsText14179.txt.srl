@@ -1,0 +1,37 @@
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	on	on	IN	_	1	prep	1:AM-TMP
+3	May	may	NNP	_	2	pobj	_
+4	19	0	CD	_	3	num	_
+5	,	,	,	_	3	punct	_
+6	2014	0	CD	_	3	num	_
+7	at	at	IN	p2=CC	1	prep	1:AM-TMP
+8	9:15	0	CD	_	9	num	_
+9	a.m.	a.m.	NN	p2=RB	7	pobj	_
+10	COMMERCIAL	commercial	JJ	p2=NNP	11	amod	_
+11	SPACE	space	NN	p2=NNP	9	appos	_
+12	available	available	JJ	_	11	amod	_
+13	in	in	IN	_	12	prep	_
+14	new	new	JJ	_	15	amod	_
+15	building	building	NN	_	13	pobj	_
+16	with	with	IN	_	12	prep	_
+17	nice	nice	JJ	_	19	amod	_
+18	convenient	convenient	JJ	_	19	amod	_
+19	location	location	NN	_	16	pobj	_
+20	!	!	.	_	1	punct	_
+
+1	Commercial	commercial	NNP	p2=JJ	2	nn	_
+2	Park	park	NNP	_	3	nsubj	_
+3	off	off	RP	p2=IN	0	root	_
+4	Hwy	hwy	NNP	_	5	nn	_
+5	C.	c.	NNP	_	3	pobj	_
+6	,	,	,	_	5	punct	_
+7	Somerset	somerset	NNP	p2=NN	5	npadvmod	_
+8	,	,	,	_	7	punct	_
+9	WI	wi	NNP	_	7	appos	_
+10	.	.	.	_	7	punct	_
+
+1	126	0	CD	_	4	num	_
+2	S.	s.	NNP	p2=NN	4	nn	_
+3	Chestnut	chestnut	NNP	_	4	nn	_
+4	St.	st.	NNP	_	0	root	_
+

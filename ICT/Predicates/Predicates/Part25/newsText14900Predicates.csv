@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police official,initiate.01,a traffic stop on,,Affirmative,"From Virginia State Police : At approximately 3 p.m. Sunday ( May 18 ) , a Pearisburg Police official initiated a traffic stop on a vehicle in the Town of Pearisburg . "
+the suspect driver,exit.01,a vehicle in the Town of Pearisburg,,Affirmative,"During the course of the traffic stop , the suspect driver exited his vehicle and pointed a firearm at the officer . "
+the suspect driver,point.01,a firearm,at,Affirmative,"During the course of the traffic stop , the suspect driver exited his vehicle and pointed a firearm at the officer . "
+the state police,complete.01,its investigation,,Affirmative,"  Once the state police has completed its investigation , a report will be turned over to the Commonwealth 's Attorney for review and final adjudication . "

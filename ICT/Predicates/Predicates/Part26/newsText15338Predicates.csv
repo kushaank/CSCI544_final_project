@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+from,leak.01,New information leaked from,,Affirmative,New information leaked from Edward Snowden says the NSA used a legal wiretap to jumpstart a wiretapping effort in the Bahamas . 
+New information leaked from,say.01,NSA used,,Affirmative,New information leaked from Edward Snowden says the NSA used a legal wiretap to jumpstart a wiretapping effort in the Bahamas . 
+"the NSA , which could record `` over 00 million call events per day '' , and store them up",use.01,a legal wiretap,to jumpstart,Affirmative,New information leaked from Edward Snowden says the NSA used a legal wiretap to jumpstart a wiretapping effort in the Bahamas . 
+"the NSA , which could record `` over 00 million call events per day '' , and store them up",jumpstart.01,a wiretapping effort in,,Affirmative,New information leaked from Edward Snowden says the NSA used a legal wiretap to jumpstart a wiretapping effort in the Bahamas . 
+by,tap.03,A DEA tap,,Affirmative,"A DEA tap was surreptitiously tapped by the NSA , which could record over 00 million call events per day , and store them up to one month . "
+"the NSA ,",record.01,million call events per day,,Affirmative,"A DEA tap was surreptitiously tapped by the NSA , which could record over 00 million call events per day , and store them up to one month . "
+A DEA tap,store.01,them,to,Affirmative,"A DEA tap was surreptitiously tapped by the NSA , which could record over 00 million call events per day , and store them up to one month . "
+"the NSA , which could record `` over 00 million call events per day '' , and store them up",say.01,they could store,,Affirmative,"Given the right circumstances , the NSA says they could store 5 billion SOMALGET intercepted call instances for a month . "
+them,store.01,call instances,,Affirmative,"Given the right circumstances , the NSA says they could store 5 billion SOMALGET intercepted call instances for a month . "
+"the NSA 's MYSTIC tapping service , which was implemented with the help of telecom companies and other governments",collect.01,metadata,,Affirmative,"MYSTIC also collects metadata , contrasting the specified data collected with SOMALGET . "
+"the NSA 's MYSTIC tapping service , which was implemented with the help of telecom companies and other governments",contrast.01,the specified data collected with SOMALGET,,Affirmative,"MYSTIC also collects metadata , contrasting the specified data collected with SOMALGET . "
+"the NSA , which could record `` over 00 million call events per day '' , and store them up",say.01,is false,,Affirmative,"In response to the report , the NSA said the implication that NSA 's foreign intelligence collection is arbitrary and unconstrained is false . "
+They,address.02,any specific program,,Affirmative,"They did not specifically acknowledge or address any specific program , though . "

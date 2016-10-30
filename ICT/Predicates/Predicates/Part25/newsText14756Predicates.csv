@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,lead.02,A group of villagers,,Affirmative,"A group of villagers , led by their sarpanch , allegedly attacked a liquor vend here today , alleging that it was situated near a school and temple in violation of rules , police said . "
+A group of villagers,attack.01,a liquor vend,,Affirmative,"A group of villagers , led by their sarpanch , allegedly attacked a liquor vend here today , alleging that it was situated near a school and temple in violation of rules , police said . "
+A group of villagers,allege.01,that it was situated near,,Affirmative,"A group of villagers , led by their sarpanch , allegedly attacked a liquor vend here today , alleging that it was situated near a school and temple in violation of rules , police said . "
+police,say.01,", allegedly attacked",,Affirmative,"A group of villagers , led by their sarpanch , allegedly attacked a liquor vend here today , alleging that it was situated near a school and temple in violation of rules , police said . "
+by sarpanch,lead.02,Anandpur village led by sarpanch,,Affirmative,The residents of Anandpur village led by sarpanch ( village head ) Kulveer were protesting against the opening of the vend . 
+The residents of,protest.01,against,,Affirmative,The residents of Anandpur village led by sarpanch ( village head ) Kulveer were protesting against the opening of the vend . 
+The residents of Anandpur village led by sarpanch,break.01,the lock of,,Affirmative,"They allegedly broke open the lock of the shop and smashed bottles kept inside , they said . "
+The residents of Anandpur village led by sarpanch,smash.01,bottles kept inside,,Affirmative,"They allegedly broke open the lock of the shop and smashed bottles kept inside , they said . "
+The residents of Anandpur village led by sarpanch,say.01,They allegedly broke open,,Affirmative,"They allegedly broke open the lock of the shop and smashed bottles kept inside , they said . "
+by,lodge.03,a complaint lodged by,,Affirmative,"20 villagers , including the sarpanch , have been booked under various sections of the IPC on a complaint lodged by a vend employee . "
+police,say.01,villager has been arrested till now,,Affirmative,"No villager has been arrested till now , police said . "

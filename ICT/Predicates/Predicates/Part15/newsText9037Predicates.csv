@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a hysterical woman,call.02,911,11 p.m.,Affirmative,"Albert Gibbons , 48 , was arrested early Monday morning after a hysterical woman ran to a neighbor 's house and called 911 about 11 p.m. Sunday to report she had been beaten . "
+by,track.02,Albert Gibbons,,Affirmative,"Gibbons was tracked down by Maricopa County sheriff 's deputies after he fled the scene , according to an MCSO news release . "
+he,flee.01,the scene,,Affirmative,"Gibbons was tracked down by Maricopa County sheriff 's deputies after he fled the scene , according to an MCSO news release . "
+The woman,tell.01,she suffered,deputies,Affirmative,"The woman was examined at a hospital and later told deputies she suffered a pattern of beatings , sexual assaults and torture that began when Gibbons accused her of stealing money from him , according to the release . "
+she,suffer.01,"a pattern of beatings ,",,Affirmative,"The woman was examined at a hospital and later told deputies she suffered a pattern of beatings , sexual assaults and torture that began when Gibbons accused her of stealing money from him , according to the release . "
+Gibbons,accuse.01,her,of stealing money from him,Affirmative,"The woman was examined at a hospital and later told deputies she suffered a pattern of beatings , sexual assaults and torture that began when Gibbons accused her of stealing money from him , according to the release . "
+her,steal.01,money,from him,Affirmative,"The woman was examined at a hospital and later told deputies she suffered a pattern of beatings , sexual assaults and torture that began when Gibbons accused her of stealing money from him , according to the release . "
+She,say.01,beatings became,,Affirmative,"She said the beatings became more violent and at times happened in public before escalating to sexual assaults , according to the release . "
+You,leave.01,relevant comments,,Affirmative,"You are encouraged to leave relevant comments but engaging in personal attacks , threats , online bullying or commercial spam will not be allowed . "

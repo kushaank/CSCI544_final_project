@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,kick.01,his estranged wife,,Affirmative,A man who kicked his estranged wife then allegedly threatened to used a knife on her because she told him she no longer had feelings for him was sentenced to 10 days ' imprisonment . 
+A man,threaten.01,to used,,Affirmative,A man who kicked his estranged wife then allegedly threatened to used a knife on her because she told him she no longer had feelings for him was sentenced to 10 days ' imprisonment . 
+A man,use.01,a knife,,Affirmative,A man who kicked his estranged wife then allegedly threatened to used a knife on her because she told him she no longer had feelings for him was sentenced to 10 days ' imprisonment . 
+his estranged wife,tell.01,longer had feelings for him,him,Affirmative,A man who kicked his estranged wife then allegedly threatened to used a knife on her because she told him she no longer had feelings for him was sentenced to 10 days ' imprisonment . 
+his estranged wife,have.03,feelings for him,,Affirmative,A man who kicked his estranged wife then allegedly threatened to used a knife on her because she told him she no longer had feelings for him was sentenced to 10 days ' imprisonment . 
+Andrew Walker,plead.02,guilty to assaulting,,Affirmative,"On Friday , when the matter was called up in the Corporate Area Resident Magistrate 's Court , Andrew Walker pleaded guilty to assaulting his wife . "
+Andrew Walker,assault.01,his estranged wife,,Affirmative,"On Friday , when the matter was called up in the Corporate Area Resident Magistrate 's Court , Andrew Walker pleaded guilty to assaulting his wife . "
+the Corporate Area Resident Magistrate 's,deny.01,pulling,,Affirmative,"However , he denied pulling a knife and threatening to use it on her . "
+the Corporate Area Resident Magistrate 's,pull.01,a knife,,Affirmative,"However , he denied pulling a knife and threatening to use it on her . "
+the Corporate Area Resident Magistrate 's,threaten.01,to use it on her,,Affirmative,"However , he denied pulling a knife and threatening to use it on her . "
+the Corporate Area Resident Magistrate 's Court,withdraw.01,the assault,at,Affirmative,The court later withdrew the assault at common - law charge . 
+the complainant,tell.01,was gone and,Walker,Affirmative,"Allegations are that the complainant told Walker that her feelings for him was gone and he kicked her on her foot , causing pain . "
+Andrew Walker,kick.01,the complainant,,Affirmative,"Allegations are that the complainant told Walker that her feelings for him was gone and he kicked her on her foot , causing pain . "
+Andrew Walker,cause.01,pain,,Affirmative,"Allegations are that the complainant told Walker that her feelings for him was gone and he kicked her on her foot , causing pain . "
+Andrew Walker,throw.01,her house key during,,Affirmative,Reports are that he also threw away her house key during the argument . 
+Resident Magistrate Opal Smith,sentence.01,Andrew Walker,to,Affirmative,Resident Magistrate Opal Smith subsequently sentenced Walker to 10 days . 

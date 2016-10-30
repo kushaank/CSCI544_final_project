@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Baltazar Sauceda,say.01,he plans,,Affirmative,Baltazar Sauceda says he plans to appeal Occupational Safety and Health Administration citations because several of the violations and fines appear redundant . 
+Baltazar Sauceda,plan.01,to appeal,,Affirmative,Baltazar Sauceda says he plans to appeal Occupational Safety and Health Administration citations because several of the violations and fines appear redundant . 
+Baltazar Sauceda,appeal.01,citations,,Affirmative,Baltazar Sauceda says he plans to appeal Occupational Safety and Health Administration citations because several of the violations and fines appear redundant . 
+Baltazar Sauceda,say.01,company works,,Affirmative,Sauceda says his company works to ensure that employees are safe on the job . 
+his company,work.01,to ensure,,Affirmative,Sauceda says his company works to ensure that employees are safe on the job . 
+his company,ensure.01,that employees are safe on,,Affirmative,Sauceda says his company works to ensure that employees are safe on the job . 
+Monday,have.03,"locations in Lincoln , Norfolk and Columbus , Nebraska , and in",,Affirmative,"Based in Omaha , it also has locations in Lincoln , Norfolk and Columbus , Nebraska , and in Des Moines and Sioux City , Iowa . "
+Occupational Safety and Health Administration,say.01,it fined,,Affirmative,"OSHA said Monday it fined the company $ 40,921 for exposing workers to dangerous silica dust levels and other hazards . "
+it,fine.01,"$ 40,921",,Affirmative,"OSHA said Monday it fined the company $ 40,921 for exposing workers to dangerous silica dust levels and other hazards . "
+The inspection,disclose.01,"15 violations , 13 of them",,Affirmative,"The inspection disclosed 15 violations , 13 of them serious , OSHA said . "
+Occupational Safety and Health Administration,say.01,inspection disclosed,,Affirmative,"The inspection disclosed 15 violations , 13 of them serious , OSHA said . "
+an employer,know.01,a hazard,,Affirmative,An OSHA violation is serious if death or serious physical harm could result from a hazard an employer knew or should have known exists . 
+an employer,know.01,exists,,Affirmative,An OSHA violation is serious if death or serious physical harm could result from a hazard an employer knew or should have known exists . 
+Silica exposure,cause.01,"silicosis ,",,Affirmative,"Silica exposure can cause silicosis , an irreversible lung disease , and other health hazards . "
+OSHA,begin.01,the inspection Nov,,Affirmative,OSHA began the inspection Nov . 
+an employer,know.01,a hazard,,Affirmative,An OSHA violation is serious if death or serious physical harm could result from a hazard an employer knew or should have known exists . 
+an employer,know.01,exists,,Affirmative,An OSHA violation is serious if death or serious physical harm could result from a hazard an employer knew or should have known exists . 

@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police officers,arrest.01,two Bulgarian men,for,Affirmative,"CAMP OLIVAS , Pampanga , Philippines    - Police officers arrested two Bulgarian men for allegedly putting a skimming device in an automated teller machine ( ATM ) at a mall in Mexico , Pampanga . "
+two Bulgarian men,put.01,a skimming device,in,Affirmative,"CAMP OLIVAS , Pampanga , Philippines    - Police officers arrested two Bulgarian men for allegedly putting a skimming device in an automated teller machine ( ATM ) at a mall in Mexico , Pampanga . "
+the ATM,have.03,two pin pads,,Affirmative,"Mladenov Emil Stoyanov , 22 , and Karnev Lyuven Georgeiv , 28 , were arrested after a bank client reported to the mall security guards that the ATM has two pin pads with a card skimmer , said Chief Superintendent Raul Petrasanta , Police Regional Office 3 director . "
+"Chief Superintendent Raul Petrasanta ,",say.01,were arrested,,Affirmative,"Mladenov Emil Stoyanov , 22 , and Karnev Lyuven Georgeiv , 28 , were arrested after a bank client reported to the mall security guards that the ATM has two pin pads with a card skimmer , said Chief Superintendent Raul Petrasanta , Police Regional Office 3 director . "
+Raul Petrasanta,say.01,suspects were seen loitering and watching,,Affirmative,"Petrasanta said before the arrest , the suspects were seen loitering and watching the ATM booth . "
+the suspects ',watch.01,the ATM booth,,Affirmative,"Petrasanta said before the arrest , the suspects were seen loitering and watching the ATM booth . "
+by,hold.01,The two,,Affirmative,The two were held by mall security guards until police officers arrived . 
+Investigators,find.01,three data cables,,Affirmative,"Investigators reportedly found in the suspects ' possession three data cables that matched the ATM card skimmer , a screwdriver and a laptop computer with decoding software . "

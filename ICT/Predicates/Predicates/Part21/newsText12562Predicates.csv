@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,construct.01,the 14 constructed in 1883,,Affirmative,  It is one of three remaining cars of the 14 constructed in 1883 by the Harlan and Hollingsworth Company of Delaware . 
+The company,ship.01,the car kit around,,Affirmative,The company shipped the car kit around Cape Horn and had it assembled in Portland . 
+The company,have.03,it assembled in Portland,,Affirmative,The company shipped the car kit around Cape Horn and had it assembled in Portland . 
+powered engines,pull.01,it,on,Affirmative,Steam - powered engines pulled it on the Oregon and California Railroad between the Siskiyou Mountains and Portland from 1889 to 1925 . 
+Pacific Railroad,use.01,the car,,Affirmative,"For the next decade , the Southern Pacific Railroad used the car in Glendale , Ore . "
+George Matthew of Glendale,buy.01,the car,,Affirmative,George Matthew of Glendale bought the car in 1935 and rented it for housing until 1982 . 
+George Matthew of Glendale,rent.01,it,for housing,Affirmative,George Matthew of Glendale bought the car in 1935 and rented it for housing until 1982 . 
+heirs,donate.01,the car,to,Affirmative,"It was used intermittently for maintenance or housing until Matthew 's heirs donated the car in 1997 to Glendale 's Community Action Response Team , which donated it to the Douglas County Museum in 2012 . "
+"Action Response Team ,",donate.01,it,to,Affirmative,"It was used intermittently for maintenance or housing until Matthew 's heirs donated the car in 1997 to Glendale 's Community Action Response Team , which donated it to the Douglas County Museum in 2012 . "
+volunteer Gary Pischke,say.01,loaned,,Affirmative,Restoration volunteer Gary Pischke said he welcomes contributions : Swanson Group of Glendale loaned steel beams ; Bennett Truck Transport hauled the rail car from Glendale to Roseburg ; Lone Rock Timber Company donated the use of a crane . 
+he,welcome.01,contributions,,Affirmative,Restoration volunteer Gary Pischke said he welcomes contributions : Swanson Group of Glendale loaned steel beams ; Bennett Truck Transport hauled the rail car from Glendale to Roseburg ; Lone Rock Timber Company donated the use of a crane . 
+Swanson Group of Glendale,loan.01,steel beams,,Affirmative,Restoration volunteer Gary Pischke said he welcomes contributions : Swanson Group of Glendale loaned steel beams ; Bennett Truck Transport hauled the rail car from Glendale to Roseburg ; Lone Rock Timber Company donated the use of a crane . 
+Bennett Truck Transport,haul.01,the rail car,to Roseburg,Affirmative,Restoration volunteer Gary Pischke said he welcomes contributions : Swanson Group of Glendale loaned steel beams ; Bennett Truck Transport hauled the rail car from Glendale to Roseburg ; Lone Rock Timber Company donated the use of a crane . 
+Timber Company,donate.01,the use of,,Affirmative,Restoration volunteer Gary Pischke said he welcomes contributions : Swanson Group of Glendale loaned steel beams ; Bennett Truck Transport hauled the rail car from Glendale to Roseburg ; Lone Rock Timber Company donated the use of a crane . 

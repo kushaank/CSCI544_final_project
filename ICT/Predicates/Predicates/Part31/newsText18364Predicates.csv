@@ -1,0 +1,138 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Twitter troll,bombard.01,a Labour MP,,Affirmative,"Man ' tweeted abuse to female MP ' A Twitter troll bombarded a Labour MP with a series of abusive messages after she supported a successful campaign to feature Jane Austen on the £10 note , a court heard today . "
+she,support.01,a successful campaign,,Affirmative,"Man ' tweeted abuse to female MP ' A Twitter troll bombarded a Labour MP with a series of abusive messages after she supported a successful campaign to feature Jane Austen on the £10 note , a court heard today . "
+a successful campaign,feature.01,Jane Austen,on,Affirmative,"Man ' tweeted abuse to female MP ' A Twitter troll bombarded a Labour MP with a series of abusive messages after she supported a successful campaign to feature Jane Austen on the £10 note , a court heard today . "
+"Peter Nunn , 33 ,",retweeted.01,menacing messages threatening,,Affirmative,"Peter Nunn , 33 , retweeted menacing messages threatening to rape Walthamstow MP Stella Creasy and branding her a witch , it is alleged . "
+menacing messages threatening,threaten.01,to rape,,Affirmative,"Peter Nunn , 33 , retweeted menacing messages threatening to rape Walthamstow MP Stella Creasy and branding her a witch , it is alleged . "
+Peter Nunn,launch.01,his campaign of hatred,,Affirmative,"He launched his campaign of hatred after the Labour politician backed a high - profile bid launched by feminist Caroline Criado - Perez to keep a woman on a British ban note , Westminster Magistrates ' Court heard . "
+the Labour politician,back.01,profile bid launched by,,Affirmative,"He launched his campaign of hatred after the Labour politician backed a high - profile bid launched by feminist Caroline Criado - Perez to keep a woman on a British ban note , Westminster Magistrates ' Court heard . "
+by,launch.01,profile bid launched by,,Affirmative,"He launched his campaign of hatred after the Labour politician backed a high - profile bid launched by feminist Caroline Criado - Perez to keep a woman on a British ban note , Westminster Magistrates ' Court heard . "
+Alison Morgan,tell.01,that Nunn embarked on,the court,Affirmative,"Alison Morgan , prosecuting , told the court that Nunn embarked on a campaign of hatred in various different forms towards both women last summer when the campaign was at the centre of press reports . "
+Peter Nunn,embark.01,on,,Affirmative,"Alison Morgan , prosecuting , told the court that Nunn embarked on a campaign of hatred in various different forms towards both women last summer when the campaign was at the centre of press reports . "
+Peter Nunn,begin.01,leaving,,Affirmative,"He began leaving offensive posts on July 29 - five days after the Bank of England revealed Austen would be the new face of the £10 note , it is claimed . "
+Peter Nunn,leave.02,offensive posts,,Affirmative,"He began leaving offensive posts on July 29 - five days after the Bank of England revealed Austen would be the new face of the £10 note , it is claimed . "
+the Bank of England,reveal.01,", it is claimed",,Affirmative,"He began leaving offensive posts on July 29 - five days after the Bank of England revealed Austen would be the new face of the £10 note , it is claimed . "
+Peter Nunn,retweeted.01,a threatening message sent to,,Affirmative,"He allegedly retweeted a threatening message sent to Ms Creasy which read : You better watch your back , I 'm going to rape your arse at 8 pm and put the video all over . "
+"Alison Morgan , prosecuting",watch.01,your back,,Affirmative,"He allegedly retweeted a threatening message sent to Ms Creasy which read : You better watch your back , I 'm going to rape your arse at 8 pm and put the video all over . "
+Peter Nunn,rape.01,your arse,,Affirmative,"He allegedly retweeted a threatening message sent to Ms Creasy which read : You better watch your back , I 'm going to rape your arse at 8 pm and put the video all over . "
+Peter Nunn,put.01,the video,all over,Affirmative,"He allegedly retweeted a threatening message sent to Ms Creasy which read : You better watch your back , I 'm going to rape your arse at 8 pm and put the video all over . "
+"Ms Morgan , prosecuting",say.01,It is not alleged,,Affirmative,"Ms Morgan said : It is not alleged that he created the text and the threat , but for whatever reason he chose to retweet it and it is a message that is menacing in character . "
+Peter Nunn,create.01,the text and,,Affirmative,"Ms Morgan said : It is not alleged that he created the text and the threat , but for whatever reason he chose to retweet it and it is a message that is menacing in character . "
+Peter Nunn,choose.01,to retweet it,,Affirmative,"Ms Morgan said : It is not alleged that he created the text and the threat , but for whatever reason he chose to retweet it and it is a message that is menacing in character . "
+Peter Nunn,retweet.01,whatever reason,,Affirmative,"Ms Morgan said : It is not alleged that he created the text and the threat , but for whatever reason he chose to retweet it and it is a message that is menacing in character . "
+Peter Nunn,send.01,a barrage of,to,Affirmative,"Over the next day he sent a barrage of other offensive messages to the London MP using the twitter account @ protectys , it is claimed . "
+Peter Nunn,post.01,best way,,Affirmative,"In his next message he posted best way to rape a witch , try and drown her first then just when she 's gagging for air that 's when you enter . "
+Peter Nunn,post.01,", what is",,Affirmative,"Later that evening he allegedly posted : If you ca n't threaten to rape a celebrity , what is the point in having them ? "
+you,threaten.01,to rape,,Affirmative,"Later that evening he allegedly posted : If you ca n't threaten to rape a celebrity , what is the point in having them ? "
+you,rape.01,a celebrity,,Affirmative,"Later that evening he allegedly posted : If you ca n't threaten to rape a celebrity , what is the point in having them ? "
+Peter Nunn,leave.01,another tweet branding,,Affirmative,"At 10 pm that night , half an hour before Ms Criado - Perez and Ms Creasy were due to appear on the BBC show Newsnight to talk about the twitter abuse they had endured , Nunn left another tweet branding the MP an evil witch . "
+another tweet branding,brand.01,an evil witch,the MP,Affirmative,"At 10 pm that night , half an hour before Ms Criado - Perez and Ms Creasy were due to appear on the BBC show Newsnight to talk about the twitter abuse they had endured , Nunn left another tweet branding the MP an evil witch . "
+feminist Caroline Criado-Perez,post.01,a message,,Affirmative,"Just minutes later he posted a message to the @ eatcreasynow account writing : Go get her , eat the meat ! "
+"Ms Morgan , prosecuting",tell.01,"Hi , it took twitter",the court :,Affirmative,"Ms Morgan told the court : Two minutes before @ eatcreasynow sent a message to Stella Creasy saying ' Hi , it took twitter 30 minutes to ban me before . "
+Stella Creasy saying ',say.01,"Hi , it took twitter",,Affirmative,"Ms Morgan told the court : Two minutes before @ eatcreasynow sent a message to Stella Creasy saying ' Hi , it took twitter 30 minutes to ban me before . "
+to ban me before,take.10,30 minutes,,Affirmative,"Ms Morgan told the court : Two minutes before @ eatcreasynow sent a message to Stella Creasy saying ' Hi , it took twitter 30 minutes to ban me before . "
+an `` evil witch '',tell.01,that I 'll rape you tomorrow at,you,Affirmative,' I 'm here again to tell you that I 'll rape you tomorrow at 6 pm ' . 
+an `` evil witch '',rape.01,you,,Affirmative,' I 'm here again to tell you that I 'll rape you tomorrow at 6 pm ' . 
+The defendant,respond.01,to,get,Affirmative,The defendant responded in a message to the world - Go get her eat the meat . 
+an `` evil witch '',eat.01,the meat,,Affirmative,The defendant responded in a message to the world - Go get her eat the meat . 
+The defendant,leave.02,another offensive post,,Affirmative,"Later that night he left another offensive post , writing : What 's the odds of Criado and Creasy snuggling and cuddling under a duvet checking their tweets and cackling like witches ( rape me says Caroline ) . "
+The defendant,write.01,What 's,,Affirmative,"Later that night he left another offensive post , writing : What 's the odds of Criado and Creasy snuggling and cuddling under a duvet checking their tweets and cackling like witches ( rape me says Caroline ) . "
+a duvet checking,check.01,their tweets,,Affirmative,"Later that night he left another offensive post , writing : What 's the odds of Criado and Creasy snuggling and cuddling under a duvet checking their tweets and cackling like witches ( rape me says Caroline ) . "
+The defendant,continue.01,the twitter abuse they had endured,,Affirmative,"The next day he continued his abuse , leaving posts under a new twitter account @ stabproovest . "
+The defendant,leave.01,offensive posts,under,Affirmative,"The next day he continued his abuse , leaving posts under a new twitter account @ stabproovest . "
+The defendant,retweeted.01,a message,to,Affirmative,He retweeted a message to Ms Creasy from someone else saying : I heard in the news that you are soon going to be raped . 
+a message,say.01,I heard in,,Affirmative,He retweeted a message to Ms Creasy from someone else saying : I heard in the news that you are soon going to be raped . 
+by,do.02,this,,Affirmative,Will this be done by a massive black guy ? 
+the court that Nunn `` embarked on a campaign of hatred,hear.01,", also left",,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive blog posts in which he branded the campaigners witches and mocked them . "
+"Nunn ,",leave.01,offensive blog posts,,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive blog posts in which he branded the campaigners witches and mocked them . "
+Peter Nunn,brand.01,witches,the campaigners,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive blog posts in which he branded the campaigners witches and mocked them . "
+Peter Nunn,mock.01,the campaigners witches,,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive blog posts in which he branded the campaigners witches and mocked them . "
+"Ms Morgan , prosecuting",tell.01,", they show",the court,Affirmative,"Ms Morgan , prosecuting , told the court that while the blog entries do not form part of the criminal charge , they show the hatred he had for the women . "
+the blog entries,form.01,part of,,Affirmative,"Ms Morgan , prosecuting , told the court that while the blog entries do not form part of the criminal charge , they show the hatred he had for the women . "
+the campaigners witches,show.01,the hatred,,Affirmative,"Ms Morgan , prosecuting , told the court that while the blog entries do not form part of the criminal charge , they show the hatred he had for the women . "
+Peter Nunn,have.03,the hatred,,Affirmative,"Ms Morgan , prosecuting , told the court that while the blog entries do not form part of the criminal charge , they show the hatred he had for the women . "
+"Ms Morgan , prosecuting",say.01,They demonstrate,,Affirmative,She said : They demonstrate the state of mind of the defendant at the time at which he was sending the reported tweets . 
+the campaigners witches,demonstrate.01,the state of mind of,,Affirmative,She said : They demonstrate the state of mind of the defendant at the time at which he was sending the reported tweets . 
+The defendant,send.01,the reported tweets,,Affirmative,She said : They demonstrate the state of mind of the defendant at the time at which he was sending the reported tweets . 
+The defendant,form.01,a hatred towards,,Affirmative,"If it were to be submitted that these were jokes or unintended , the background is that he appears to have formed a hatred towards the women expressing themselves on Twitter . "
+the women expressing themselves on Twitter,express.01,both women '',on Twitter,Affirmative,"If it were to be submitted that these were jokes or unintended , the background is that he appears to have formed a hatred towards the women expressing themselves on Twitter . "
+the court that Nunn `` embarked on a campaign of hatred,hear.01,", received",,Affirmative,"The court heard that Ms Criado - Perez , who spearheaded the campaign , received a barrage of abuse on Twitter . "
+"Ms Criado - Perez ,",spearhead.01,a campaign of hatred,,Affirmative,"The court heard that Ms Criado - Perez , who spearheaded the campaign , received a barrage of abuse on Twitter . "
+"Ms Criado - Perez ,",receive.01,a barrage of abuse on Twitter,,Affirmative,"The court heard that Ms Criado - Perez , who spearheaded the campaign , received a barrage of abuse on Twitter . "
+"Ms Morgan , prosecuting",say.01,It is right,,Affirmative,"Ms Morgan said : It is right to say that beyond the confines of this particular case , Ms Criado - Perez received a significant number of offensive tweets to her Twitter account from many different users , but including the accounts attributed to this defendant . "
+Ms Criado - Perez,receive.01,a significant number of,from,Affirmative,"Ms Morgan said : It is right to say that beyond the confines of this particular case , Ms Criado - Perez received a significant number of offensive tweets to her Twitter account from many different users , but including the accounts attributed to this defendant . "
+Ms Creasy and,report.01,the twitter abuse they had endured,,Affirmative,"Nunn was arrested at his home Emersons Green , Bristol , on August 7 after Ms Creasy and Ms Criado - Perez reported his abuse . "
+Peter Nunn,deny.01,using Twitter,,Affirmative,"When he was questioned by police , he denied using Twitter to advocate violence or rape . "
+Peter Nunn,use.01,Twitter it,to advocate violence or rape,Affirmative,"When he was questioned by police , he denied using Twitter to advocate violence or rape . "
+Peter Nunn,advocate.01,violence or rape,,Affirmative,"When he was questioned by police , he denied using Twitter to advocate violence or rape . "
+dubbed blogger and journalist,admit.01,he had retweeted messages,,Affirmative,"The self - dubbed blogger and journalist admitted he had retweeted messages that were violent , but said he did to further debate . "
+The self-dubbed blogger,retweeted.01,messages,,Affirmative,"The self - dubbed blogger and journalist admitted he had retweeted messages that were violent , but said he did to further debate . "
+dubbed blogger and journalist,say.01,he did to,,Affirmative,"The self - dubbed blogger and journalist admitted he had retweeted messages that were violent , but said he did to further debate . "
+"Nunn ,",wear.01,"a smart grey suit ,",,Affirmative,"Nunn , who wore a smart grey suit , white shirt and pink and purple patterned tie , denies sending a message that was grossly offensive or of an indecent , obscene or menacing character by a public electronic network between July 28 and August 5 last year . "
+"Nunn ,",deny.01,sending,,Affirmative,"Nunn , who wore a smart grey suit , white shirt and pink and purple patterned tie , denies sending a message that was grossly offensive or of an indecent , obscene or menacing character by a public electronic network between July 28 and August 5 last year . "
+"Nunn ,",send.01,a message,,Affirmative,"Nunn , who wore a smart grey suit , white shirt and pink and purple patterned tie , denies sending a message that was grossly offensive or of an indecent , obscene or menacing character by a public electronic network between July 28 and August 5 last year . "
+Peter Nunn,accuse.01,Ms Criado - Perez,in,Affirmative,Nunn accused Ms Criado - Perez in a series of manic video blogs of lying about rape threats in a hoax to clamp down on internet freedom . 
+Peter Nunn,launch.01,a tirade,,Affirmative,"In the first video , posted on his Twitter account , he launched a tirade against feminists who he said were using the micro-blogging site to further their own agenda . "
+Peter Nunn,say.01,feminists,,Affirmative,"In the first video , posted on his Twitter account , he launched a tirade against feminists who he said were using the micro-blogging site to further their own agenda . "
+feminists,use.01,the micro-blogging site,to further,Affirmative,"In the first video , posted on his Twitter account , he launched a tirade against feminists who he said were using the micro-blogging site to further their own agenda . "
+Peter Nunn,say.01,", there is something",,Affirmative,"In the clip , which is shot in the dark with eerie purple lighting , he said : In this campaign , although technically it is a good campaign , she is exaggerating the amount of tweets and comments , there is something not quite right going on . "
+Ms Criado-Perez in a series of manic video blogs of lying about rape threats in a `` hoax '' to clamp down on internet freedom,exaggerate.01,the amount of tweets and comments,,Affirmative,"In the clip , which is shot in the dark with eerie purple lighting , he said : In this campaign , although technically it is a good campaign , she is exaggerating the amount of tweets and comments , there is something not quite right going on . "
+feminists who he said,use.01,it ( Twitter ),to push,Affirmative,"Feminists are using it ( Twitter ) to push their own agenda , I think it might be a hoax . "
+feminists who he said,push.01,their own agenda,,Affirmative,"Feminists are using it ( Twitter ) to push their own agenda , I think it might be a hoax . "
+Peter Nunn,think.01,it might be,,Affirmative,"Feminists are using it ( Twitter ) to push their own agenda , I think it might be a hoax . "
+Peter Nunn,think.01,they are witches,,Affirmative,"He goes on : I think they are witches , they are going to cast some spell over the freedom of the internet . "
+witches and covens,cast.01,some spell,over,Affirmative,"He goes on : I think they are witches , they are going to cast some spell over the freedom of the internet . "
+witches and covens,work.01,to restrict freedom,,Affirmative,"They are probably working with the Government , the Government wants to restrict freedom . "
+the Government,want.01,to restrict freedom,,Affirmative,"They are probably working with the Government , the Government wants to restrict freedom . "
+the Government,restrict.01,freedom,,Affirmative,"They are probably working with the Government , the Government wants to restrict freedom . "
+witches and covens,want.01,to say to Twitter ',,Affirmative,"They just want to say to Twitter ' Get him , get him ' . "
+Peter Nunn,rail.01,against moves,,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Peter Nunn,arrest.01,Twitter trolls,for posting abuse against,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Peter Nunn,say.01,", they deserve help",,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Even the tweeters,do.02,these things,,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Twitter trolls,mess.02,these people,,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Twitter trolls,deserve.01,jail,,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Twitter trolls,deserve.01,help,,Affirmative,"He railed against moves to arrest Twitter trolls for posting abuse against the campaigners , and said : Even the tweeters who did these things , these people they have messed up , they do n't deserve jail , they deserve help . "
+Peter Nunn,post.01,manic videos,,Affirmative,Nunn posted six increasingly manic videos online in which he criticised campaigners and hit out at Twitter bosses for shutting down his accounts . 
+Peter Nunn,criticise.01,the campaigners,,Affirmative,Nunn posted six increasingly manic videos online in which he criticised campaigners and hit out at Twitter bosses for shutting down his accounts . 
+feminist Caroline Criado-Perez,run.02,the coven,,Affirmative,"He said : Caroline Criado - Perez , f ****** Spanish , she 's running this coven . "
+feminist Caroline Criado-Perez,decide.01,to basically try and f,,Affirmative,Its bizarre she has decided to basically try and f *** up Twitter . 
+feminist Caroline Criado-Perez,get.01,a few followers,,Affirmative,"She has gone on there , got a few followers , and thought ' I 'm the daddy ' . "
+feminist Caroline Criado-Perez,think.01,I 'm,,Affirmative,"She has gone on there , got a few followers , and thought ' I 'm the daddy ' . "
+feminist Caroline Criado-Perez,think.01,"Yes , Twitter it 's mine",,Affirmative,"She thought ' Yes , Twitter it 's mine ' . "
+feminist Caroline Criado-Perez,stir.04,both women '',,Affirmative,"He goes on : She stirs up these women into a frenzy of hate , that is the only way I can describe it . "
+f ***,describe.01,Twitter it,,Affirmative,"He goes on : She stirs up these women into a frenzy of hate , that is the only way I can describe it . "
+feminist Caroline Criado-Perez,accuse.01,her,of diverting,Affirmative,"He also laid into Ms Creasy 's attitude to abuse on Twitter , accusing her of diverting precious police resources away from catching real rapists by making police complaints . "
+her,divert.01,precious police resources,,Affirmative,"He also laid into Ms Creasy 's attitude to abuse on Twitter , accusing her of diverting precious police resources away from catching real rapists by making police complaints . "
+her,catch.03,real rapists,by making,Affirmative,"He also laid into Ms Creasy 's attitude to abuse on Twitter , accusing her of diverting precious police resources away from catching real rapists by making police complaints . "
+her,make.01,police complaints,,Affirmative,"He also laid into Ms Creasy 's attitude to abuse on Twitter , accusing her of diverting precious police resources away from catching real rapists by making police complaints . "
+feminist Caroline Criado-Perez,speak.01,in,,Affirmative,"Speaking in his West Country drawl , he said : An MP gets a few jokey messages saying ' I 'm going to rape you ' . "
+feminist Caroline Criado-Perez,say.01,MP gets,,Affirmative,"Speaking in his West Country drawl , he said : An MP gets a few jokey messages saying ' I 'm going to rape you ' . "
+An MP,get.01,few jokey messages saying ',,Affirmative,"Speaking in his West Country drawl , he said : An MP gets a few jokey messages saying ' I 'm going to rape you ' . "
+few jokey messages saying ',say.01,I 'm going,,Affirmative,"Speaking in his West Country drawl , he said : An MP gets a few jokey messages saying ' I 'm going to rape you ' . "
+feminist Caroline Criado-Perez,rape.01,you,,Affirmative,"Speaking in his West Country drawl , he said : An MP gets a few jokey messages saying ' I 'm going to rape you ' . "
+They,threaten.01,to kill you,,Affirmative,"They can threaten to kill you , I 've heard that before . "
+They,kill.01,you,,Affirmative,"They can threaten to kill you , I 've heard that before . "
+feminist Caroline Criado-Perez,get.06,to deal with it,,Affirmative,You have got to deal with it . 
+feminist Caroline Criado-Perez,deal.01,with it,,Affirmative,You have got to deal with it . 
+feminist Caroline Criado-Perez,go.05,crying to,,Affirmative,"You ca n't go crying to the police all the time , they have got enough work to do . "
+They,get.02,enough work,,Affirmative,"You ca n't go crying to the police all the time , they have got enough work to do . "
+They,look.01,for murderers and,,Affirmative,"They are looking for murderers and proper rapists , you are diverting their time and resources into fighting this problem . "
+feminist Caroline Criado-Perez,divert.01,their time and resources,into fighting,Affirmative,"They are looking for murderers and proper rapists , you are diverting their time and resources into fighting this problem . "
+feminist Caroline Criado-Perez,brand.01,a corrupt witch,,Affirmative,"In another clip he brands Ms Criado - Perez a corrupt witch , adding : Call her a feminist Nazi , call her what you want . "
+feminist Caroline Criado-Perez,add.01,Call her,,Affirmative,"In another clip he brands Ms Criado - Perez a corrupt witch , adding : Call her a feminist Nazi , call her what you want . "
+feminist Caroline Criado-Perez,get.02,me banned,,Affirmative,"She has got me banned two or three times now , I 'm not impressed . "
+feminist Caroline Criado-Perez,think.01,accounts should be banned for,,Affirmative,She thinks Twitter accounts should be banned for simply disagreeing with her . 
+feminist Caroline Criado-Perez,say.01,women should have brushed off,,Affirmative,He said the women should have brushed off their abuse . 
+both women '',brush.01,the twitter abuse they had endured,,Affirmative,He said the women should have brushed off their abuse . 
+feminist Caroline Criado-Perez,play.02,the Wizard of,,Affirmative,"In another video , he plays the Wizard of Oz song Ding Dong The Witch Is Dead over a shot of his Twitter feed . "
+Peter Nunn,deny.01,sending,,Affirmative,"Throughout the clips , which were posted between July 28 and August 5 last year , Nunn denies sending abusive messages himself and insists I 've not been doing anything wrong . "
+Peter Nunn,send.01,abusive messages,,Affirmative,"Throughout the clips , which were posted between July 28 and August 5 last year , Nunn denies sending abusive messages himself and insists I 've not been doing anything wrong . "
+Peter Nunn,insist.01,I 've not been doing anything wrong,,Affirmative,"Throughout the clips , which were posted between July 28 and August 5 last year , Nunn denies sending abusive messages himself and insists I 've not been doing anything wrong . "
+Peter Nunn,do.02,anything wrong,,Affirmative,"Throughout the clips , which were posted between July 28 and August 5 last year , Nunn denies sending abusive messages himself and insists I 've not been doing anything wrong . "
+brushed off,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+you,enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+brushed off,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+brushed off,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+you,agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+brushed off,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

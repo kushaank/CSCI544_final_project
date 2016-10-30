@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The BBC,report.01,often employ children under,,Affirmative,"The BBC has reported that North Carolina families who farm tobacco often employ children under the age of 16 , many from South America , to farm their tobacco fields . "
+Carolina families,farm.01,tobacco,,Affirmative,"The BBC has reported that North Carolina families who farm tobacco often employ children under the age of 16 , many from South America , to farm their tobacco fields . "
+Carolina families,employ.01,children under,to farm,Affirmative,"The BBC has reported that North Carolina families who farm tobacco often employ children under the age of 16 , many from South America , to farm their tobacco fields . "
+many from,farm.01,their tobacco fields,,Affirmative,"The BBC has reported that North Carolina families who farm tobacco often employ children under the age of 16 , many from South America , to farm their tobacco fields . "
+Rights Watch,call.03,for reform of,,Affirmative,"Human Rights Watch has called for reform of the practice , saying children , some as young as 12 , have been put to work in the fields , starting between 4 to 5 am , working near heavy machinery and dangerous tools . "
+Rights Watch,say.01,"children , some as young as 12",,Affirmative,"Human Rights Watch has called for reform of the practice , saying children , some as young as 12 , have been put to work in the fields , starting between 4 to 5 am , working near heavy machinery and dangerous tools . "
+The group,say.01,is dusted with,,Affirmative,"The group has said that tobacco , grown across the vast coastal plains of North Carolina , is dusted with dangerous chemicals , which is now creating health problems . "
+"dangerous chemicals ,",create.01,health problems,,Affirmative,"The group has said that tobacco , grown across the vast coastal plains of North Carolina , is dusted with dangerous chemicals , which is now creating health problems . "
+by,speak.01,"Children , spoken to by",to,Affirmative,"Children , spoken to by the BBC , said they had fashioned trash bags , with holes for their arms and head , to keep chemicals off their clothing . "
+"Children , spoken to by",say.01,they had,,Affirmative,"Children , spoken to by the BBC , said they had fashioned trash bags , with holes for their arms and head , to keep chemicals off their clothing . "
+"children , some as young as 12",have.03,fashioned trash bags,,Affirmative,"Children , spoken to by the BBC , said they had fashioned trash bags , with holes for their arms and head , to keep chemicals off their clothing . "
+"Children , spoken to by",keep.02,dangerous chemicals,off,Affirmative,"Children , spoken to by the BBC , said they had fashioned trash bags , with holes for their arms and head , to keep chemicals off their clothing . "
+Some,complain.01,", they had felt",,Affirmative,"Some complained that after a day 's work , they had felt their faces burning . "
+Some,feel.03,faces burning,,Affirmative,"Some complained that after a day 's work , they had felt their faces burning . "
+Many children,suffer.01,acute nicotine poisoning,,Affirmative,Many children were reported as suffering acute nicotine poisoning . 
+Many children,work.01,72 hours,,Affirmative,They work up to 72 hours a week earning US$ 500 - $ 600 per week . 
+a week earning,earn.01,US$ 500 - $ 600 per week,,Affirmative,They work up to 72 hours a week earning US$ 500 - $ 600 per week . 
+a wolf,think.01,he can pull,,Affirmative,"When it comes to Iran 's nuclear weapons program , the only difference between them is this : Ahmadinejad was a wolf in wolf 's clothing , Rouhani is a wolf in sheep 's clothing , a wolf who thinks he can pull the wool over the eyes of the international community . "
+Ahmadinejad,pull.01,the wool,over,Affirmative,"When it comes to Iran 's nuclear weapons program , the only difference between them is this : Ahmadinejad was a wolf in wolf 's clothing , Rouhani is a wolf in sheep 's clothing , a wolf who thinks he can pull the wool over the eyes of the international community . "
+The chief lobbyist for,speak.01,about talks,,Affirmative,The chief lobbyist for the National Retail Federation was speaking about talks to end the U.S. government shutdown . 

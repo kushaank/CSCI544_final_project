@@ -1,0 +1,22 @@
+1	This	this	DT	_	2	det	_
+2	story	story	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	no	no	RB	p2=DT	5	neg	_
+5	longer	long	RBR	p2=RB	3	advmod	3:AM-NEG
+6	available	available	JJ	_	3	acomp	3:A2=PRD
+7	online	online	RB	p2=NN	3	advmod	3:AM-LOC
+8	.	.	.	_	3	punct	_
+
+1	Archived	archived	JJ	p2=VBN	2	amod	_
+2	articles	article	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	available	available	JJ	_	3	acomp	3:A2=PRD
+5	for	for	IN	_	4	prep	_
+6	a	a	DT	_	7	det	_
+7	fee	fee	NN	_	5	pobj	_
+8	through	through	IN	_	3	prep	3:AM-MNR
+9	our	our	PRP$	_	11	poss	_
+10	Newslink	newslink	NNP	p2=NN	11	nn	_
+11	service	service	NN	_	8	pobj	_
+12	.	.	.	_	3	punct	_
+

@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+John Adam Greene,turn.06,John Adam Greene,,Affirmative,John Adam Greene turned himself in on Monday and was arrested by Hamilton Police . 
+by,arrest.01,John Adam Greene,,Affirmative,John Adam Greene turned himself in on Monday and was arrested by Hamilton Police . 
+John Adam Greene,face.01,"several charges including abduction ,",,Affirmative,"Greene is facing several charges including abduction , aggravated sexual assault , sexual interference and threatening death . "
+Hamilton Police,say.01,Greene was considered,,Affirmative,Police said Greene was considered to be dangerous and warned he may be armed . 
+John Adam Greene,warn.01,he may be armed,,Affirmative,Police said Greene was considered to be dangerous and warned he may be armed . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,a confirmation email,to,Affirmative,We have sent a confirmation email to { * emailAddressData * } . 
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_firstName * } { * socialRegistration_lastName * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_firstName * } { * socialRegistration_lastName * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_firstName * } { * socialRegistration_lastName * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,confirm.01,that you accept,,Affirmative,"By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,recognize.01,that password reset code,,Affirmative,We did n't recognize that password reset code . 
+We,verify.01,that email address,,Affirmative,Sorry we could not verify that email address . 
+We,send.01,another email,you,Affirmative,Enter your email below and we 'll send you another email . 

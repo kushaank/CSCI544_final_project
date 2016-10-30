@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ONE of,punch.01,a cameraman,,Affirmative,ONE of the people accused of taking part in the $ 2.5 million theft of parts from Holden has punched a cameraman in the face outside court and been arrested . 
+"Jason James Gangell , 40 , of Pata",attack.01,cameraman,,Affirmative,"Jason James Gangell , 40 , of Pata , south of Loxton , attacked Channel 7 cameraman Andrew Foote without provocation outside the District Court this morning . "
+"Gangell ,",plead.02,not guilty to,,Affirmative,"Gangell , who has pleaded not guilty to 161 counts of money laundering and one count of theft , was in court to accompany his co-accused , Michelle Carol Rose . "
+"Gangell ,",accompany.01,"his co-accused , Michelle Carol Rose",,Affirmative,"Gangell , who has pleaded not guilty to 161 counts of money laundering and one count of theft , was in court to accompany his co-accused , Michelle Carol Rose . "
+"Rose , 37 , of Pata",plead.02,guilty to,,Affirmative,"Rose , 37 , of Pata , this morning pleaded guilty to nine counts of money laundering and was remanded on continuing bail to face court again next month . "
+the duo,leave.01,court,,Affirmative,"As the duo left court , Mr Foote and several other media cameraman filmed them making their way north along Victoria Square . "
+Mr Foote and,film.01,them making,,Affirmative,"As the duo left court , Mr Foote and several other media cameraman filmed them making their way north along Victoria Square . "
+Mr Foote and several other media cameraman,make.02,their way north along,,Affirmative,"As the duo left court , Mr Foote and several other media cameraman filmed them making their way north along Victoria Square . "
+Jason James Gangell,grab.01,camera,,Affirmative,"Just before the entrance to the Central Market , Gangell grabbed Mr Foote 's camera with his left hand and threw a haymaker - style punch with his right . "
+Jason James Gangell,throw.01,style punch,with,Affirmative,"Just before the entrance to the Central Market , Gangell grabbed Mr Foote 's camera with his left hand and threw a haymaker - style punch with his right . "
+"Rose , 37 , of Pata",continue.01,walking,,Affirmative,Rose continued walking as Gangell was stopped by cameramen and journalists - Channel 7 reporter Graham Hunter restrained Gangell while police were called . 
+by cameramen and journalists,stop.01,Jason James Gangell,,Affirmative,Rose continued walking as Gangell was stopped by cameramen and journalists - Channel 7 reporter Graham Hunter restrained Gangell while police were called . 
+reporter Graham Hunter,restrain.01,Jason James Gangell,,Affirmative,Rose continued walking as Gangell was stopped by cameramen and journalists - Channel 7 reporter Graham Hunter restrained Gangell while police were called . 
+Jason James Gangell,raise.01,his fist toward,,Affirmative,"Gangell also raised his fist toward Mr Hunter , and twice tried to strike him with his elbows . "
+Jason James Gangell,try.01,to strike him with,,Affirmative,"Gangell also raised his fist toward Mr Hunter , and twice tried to strike him with his elbows . "
+officers,take.01,Jason James Gangell,into custody inside,Affirmative,Courts sheriff 's officers took Gangell into custody inside the District Court until SA Police officers arrived . 
+an assault,cause.01,harm,,Affirmative,"Gangell was arrested and taken , by cage car , to the Adelaide Police Station where he was charged with one count of committing an assault that caused harm . "
+Jason James Gangell,face.01,court,,Affirmative,He will face court on that charge at a later date . 

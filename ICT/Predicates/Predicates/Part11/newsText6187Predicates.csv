@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+JUDGE Alexander Acosta,junk.01,bid,,Affirmative,JUDGE Alexander Acosta junked the Cebu City Government 's bid to dismiss outright the civil petition filed by at least nine Barangay Parian residents seeking to stop the demolition of their houses . 
+by,file.01,the civil petition filed by,,Affirmative,JUDGE Alexander Acosta junked the Cebu City Government 's bid to dismiss outright the civil petition filed by at least nine Barangay Parian residents seeking to stop the demolition of their houses . 
+Parian residents seeking,seek.01,to stop,,Affirmative,JUDGE Alexander Acosta junked the Cebu City Government 's bid to dismiss outright the civil petition filed by at least nine Barangay Parian residents seeking to stop the demolition of their houses . 
+Parian residents seeking,stop.01,the demolition of,,Affirmative,JUDGE Alexander Acosta junked the Cebu City Government 's bid to dismiss outright the civil petition filed by at least nine Barangay Parian residents seeking to stop the demolition of their houses . 
+"Acosta ,",deny.01,motion,,Affirmative,"Acosta , the Regional Trial Court Branch 9 presiding judge , denied the City 's motion to dismiss the petition , saying the demolition notice is for the construction of a women 's center . "
+"Acosta ,",say.01,notice is for,,Affirmative,"Acosta , the Regional Trial Court Branch 9 presiding judge , denied the City 's motion to dismiss the petition , saying the demolition notice is for the construction of a women 's center . "
+"Acosta , the Regional Trial Court Branch 9 presiding judge",grant.01,motion for production and inspection of,,Affirmative,"Likewise , Acosta granted the residents ' motion for production and inspection of the documentary evidence . "
+at least nine Barangay Parian residents seeking to stop the demolition of their houses,file.01,outright the civil petition filed by at least nine Barangay Parian residents seeking to stop the demolition of their houses,before,Affirmative,"In February , the residents filed the petition before the Regional Trial Court against Mayor Michael Rama and Raquel Bohol Arce , chief of City Hall 's Prevention , Restoration , Order , Beautification and Enhancement team . "
+the petitioners,ask.02,to issue,the court,Affirmative,", the petitioners asked the court to issue a temporary restraining order and preliminary injunction . "
+the court,issue.01,a temporary restraining order and,,Affirmative,", the petitioners asked the court to issue a temporary restraining order and preliminary injunction . "
+The residents,say.01,Osmeña also declared,,Affirmative,"The residents said that in 2006 , former mayor Tomas Osmeña also declared that the City owned the property where their houses stand . "
+mayor Tomas Osmeña,declare.02,City owned,,Affirmative,"The residents said that in 2006 , former mayor Tomas Osmeña also declared that the City owned the property where their houses stand . "
+the City,own.01,the property,,Affirmative,"The residents said that in 2006 , former mayor Tomas Osmeña also declared that the City owned the property where their houses stand . "
+He,threaten.01,to evict,,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+He,evict.01,the residents,,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+He,demolish.01,their houses,,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+they,apprise.01,him,about,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+Court decision,state.01,property is owned by,,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+by,own.01,the property,,Affirmative,He threatened to evict the residents and demolish their houses until they apprised him about the Supreme Court decision that stated the property is owned by the Catholic Church . 
+by,own.01,"the Parian Fire Station ,",,Affirmative,"The petitioners ' houses sit on a portion of Lot 378 , which is adjacent to the Parian Fire Station , whose land is owned by the Archdiocese of Cebu . "
+Roquita Sison,admit.01,house stands on,,Affirmative,The petitioners admitted their house stands on church property . 
+The petitioners,claim.01,signed,,Affirmative,The petitioners claimed that they and the Catholic Church signed a memorandum of agreement ( MOA ) regarding their stay on the property . 
+they and,sign.01,a memorandum of agreement,,Affirmative,The petitioners claimed that they and the Catholic Church signed a memorandum of agreement ( MOA ) regarding their stay on the property . 
+They,say.01,Rama insisted,,Affirmative,"They said Rama insisted that the land is ours , and reiterated his order for them to leave the property , or face demolition after Christmas . "
+Michael Rama,insist.01,land is ours,,Affirmative,"They said Rama insisted that the land is ours , and reiterated his order for them to leave the property , or face demolition after Christmas . "
+Michael Rama,reiterate.01,his order,,Affirmative,"They said Rama insisted that the land is ours , and reiterated his order for them to leave the property , or face demolition after Christmas . "
+them,leave.01,the property,,Affirmative,"They said Rama insisted that the land is ours , and reiterated his order for them to leave the property , or face demolition after Christmas . "
+them,face.01,demolition,,Affirmative,"They said Rama insisted that the land is ours , and reiterated his order for them to leave the property , or face demolition after Christmas . "
+Rama and Arce,ask.02,to dismiss outright,Judge Acosta,Affirmative,"But Rama and Arce , through City Legal Office Jerone Castillo , asked Judge Acosta to dismiss outright the petition for lack of merit . "
+Judge Acosta,dismiss.01,the petition for lack of merit,,Affirmative,"But Rama and Arce , through City Legal Office Jerone Castillo , asked Judge Acosta to dismiss outright the petition for lack of merit . "
+Jerone Castillo,say.01,is owned by,,Affirmative,Castillo said that Lot 378 in Barangay Parian is owned by the City Government . 
+by,own.01,Lot 378 in,,Affirmative,Castillo said that Lot 378 in Barangay Parian is owned by the City Government . 
+"the petitioners ,",own.01,the property,,Affirmative,"Thus , the petitioners , who do not own the property , have no right to be protected by an injunctive writ , Castillo said . "
+"the petitioners ,",have.03,no right,,Affirmative,"Thus , the petitioners , who do not own the property , have no right to be protected by an injunctive writ , Castillo said . "
+by,protect.01,no right,,Affirmative,"Thus , the petitioners , who do not own the property , have no right to be protected by an injunctive writ , Castillo said . "
+Castillo,say.01,have,,Affirmative,"Thus , the petitioners , who do not own the property , have no right to be protected by an injunctive writ , Castillo said . "
+The City of Cebu,have.03,the legal right,,Affirmative,"The City of Cebu has the legal right to clear the area so it could build a women 's center , which would serve public interest , the City 's pleading read . "
+it,build.01,"center ,",,Affirmative,"The City of Cebu has the legal right to clear the area so it could build a women 's center , which would serve public interest , the City 's pleading read . "
+Castillo,say.01,complaint ought,,Affirmative,"Castillo said the complaint ought to be dismissed since Miraciel Quintanilla , one of the petitioners , committed forum - shopping when he filed a similar petition in other court . "
+he,file.01,a similar petition,in,Affirmative,"Castillo said the complaint ought to be dismissed since Miraciel Quintanilla , one of the petitioners , committed forum - shopping when he filed a similar petition in other court . "
+"Another petitioner ,",file.01,the complaint,,Affirmative,"Another petitioner , Roquita Sison , filed the complaint without citing a cause of action , the city legal lawyer said . "
+the city legal lawyer,say.01,filed,,Affirmative,"Another petitioner , Roquita Sison , filed the complaint without citing a cause of action , the city legal lawyer said . "
+Sun.Star website,welcome.01,friendly debate,,Affirmative,"DISCLAIMER : Sun.Star website welcomes friendly debate , but comments posted on this site do not necessary reflect the views of the Sun.Star management and its affiliates . "
+comments posted on,do.02,necessary reflect,,Affirmative,"DISCLAIMER : Sun.Star website welcomes friendly debate , but comments posted on this site do not necessary reflect the views of the Sun.Star management and its affiliates . "
+Sun.Star,reserve.01,the right,,Affirmative,"Sun.Star reserves the right to delete , reproduce or modify comments posted here without notice . "

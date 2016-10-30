@@ -1,0 +1,243 @@
+1	The	the	DT	_	3	det	_
+2	US	us	NNP	_	3	nn	_
+3	government	government	NN	_	4	nsubj	4:A0;11:A0=PAG
+4	has 	has 	VBD	p2=NNP|pb=has .01	0	root	_
+5	indicted five	indicted five	JJ	p2=RB	9	amod	_
+6	Chinese	chinese	JJ	_	8	amod	_
+7	military	military	JJ	p2=NN	8	amod	_
+8	officials	official	NNS	_	9	nn	_
+9	for hacking Western companies	for hacking western companies	NNS	_	4	dobj	4:A1
+10	and	and	CC	_	4	cc	_
+11	stealing	steal	VBG	pb=steal.01	4	conj	_
+12	their	their	PRP$	_	14	poss	_
+13	trade	trade	NN	_	14	nn	_
+14	secrets	secret	NNS	_	11	dobj	_
+15	-	-	,	p2=:	11	punct	_
+16	"	"	``	p2=''	11	punct	_
+17	the	the	DT	_	18	det	_
+18	fruits	fruit	NNS	_	11	dobj	11:A1=PPT
+19	of	of	IN	_	18	prep	_
+20	our	our	PRP$	_	21	poss	_
+21	labor	labor	NN	_	19	pobj	_
+22	,	,	,	_	18	punct	_
+23	"	"	``	p2=''	18	punct	_
+24	in	in	IN	_	11	prep	_
+25	the	the	DT	_	31	det	_
+26	words of	words of	JJ	p2=NN	27	amod	_
+27	assistant	assistant	NN	p2=JJ	31	nn	_
+28	US	us	NNP	_	29	nn	_
+29	attorney	attorney	NN	_	31	nn	_
+30	John	john	NNP	_	31	nn	_
+31	Carlin	carlin	NNP	_	24	pobj	_
+32	.	.	.	_	4	punct	_
+
+1	The	the	DT	_	2	det	_
+2	lawsuit	lawsuit	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	unprecedented	unprecedented	JJ	_	3	acomp	3:A2=PRD
+5	 	 	,	p2=NN	3	punct	_
+6	(	(	-LRB-	_	3	punct	_
+7	pdf	pdf	NN	p2=IN	3	dep	_
+8	)	)	-RRB-	_	3	punct	_
+9	-	-	:	p2=,	3	punct	_
+10	the	the	DT	_	11	det	_
+11	first	#ord#	JJ	_	3	attr	13:A1=PPT
+12	ever	ever	RB	_	13	advmod	13:AM-TMP
+13	brought	bring	VBN	p2=VBD|pb=bring.01	11	partmod	_
+14	against	against	IN	_	13	prep	13:A2=GOL
+15	individual	individual	JJ	_	16	amod	_
+16	members	member	NNS	_	14	pobj	_
+17	of	of	IN	_	16	prep	_
+18	a	a	DT	_	19	det	_
+19	government	government	NN	_	17	pobj	_
+20	for	for	IN	_	19	prep	_
+21	economic	economic	JJ	_	22	amod	_
+22	espionage	espionage	NN	_	20	pobj	_
+23	via	via	IN	p2=FW	22	prep	_
+24	hacking	hacking	NN	p2=VBG	23	pobj	_
+25	.	.	.	_	3	punct	_
+
+1	And	and	CC	_	7	cc	7:AM-DIS
+2	,	,	,	_	7	punct	_
+3	legally	legally	RB	_	4	advmod	4:AM-MNR
+4	speaking	speak	VBG	p2=JJ|pb=speak.01	7	advcl	7:AM-ADV
+5	,	,	,	_	7	punct	_
+6	it	it	PRP	_	7	nsubj	7:A1=PPT
+7	's	be	VBZ	pb=be.01	0	root	_
+8	pretty	pretty	RB	_	9	advmod	_
+9	pointless	pointless	JJ	_	7	acomp	7:A2=PRD
+10	.	.	.	_	7	punct	_
+
+1	Duncan	duncan	NNP	p2=JJ	2	nn	_
+2	Hollis	hollis	NNP	p2=NNPS	17	nsubj	17:A0
+3	,	,	,	_	2	punct	_
+4	professor	professor	NN	_	2	appos	_
+5	and	and	CC	_	4	cc	_
+6	associate	associate	JJ	p2=NN	7	amod	_
+7	dean	dean	NN	_	4	conj	_
+8	at	at	IN	_	7	prep	_
+9	Temple	temple	NNP	_	10	nn	_
+10	University	university	NNP	_	13	poss	_
+11	's	's	POS	_	10	possessive	_
+12	Beasley	beasley	NNP	_	13	nn	_
+13	School	school	NNP	_	8	pobj	_
+14	of	of	IN	_	13	prep	_
+15	Law	law	NNP	_	14	pobj	_
+16	,	,	,	_	17	punct	_
+17	says	say	VBZ	pb=say.01	0	root	_
+18	the	the	DT	_	19	det	_
+19	move	move	NN	_	20	nsubj	20:A0=PAG
+20	highlights	highlight	VBZ	pb=highlight.01	17	ccomp	17:A1=PPT
+21	the question	the question	RB	p2=,	20	advmod	20:AM-ADV
+22	of	of	IN	_	21	prep	_
+23	whether	whether	IN	_	25	mark	_
+24	some	some	DT	_	25	det	_
+25	types	type	NNS	_	37	nsubj	_
+26	of	of	IN	_	25	prep	_
+27	cyberspying	cyberspying	VBG	p2=NN|pb=cyberspying.01	28	amod	_
+28	are worse	are worse	NN	p2=NNP	26	pobj	27:A1
+29	than	than	IN	_	25	prep	_
+30	others	other	NNS	_	29	pobj	_
+31	-	-	:	p2=,	30	punct	_
+32	a	a	DT	_	34	det	_
+33	touchy	touchy	JJ	_	34	amod	_
+34	debate for	debate for	NN	p2=NNP	30	appos	_
+35	Washington in	washington in	NNP	p2=IN	34	appos	_
+36	the	the	DT	_	37	det	_
+37	wake	wake	NN	p2=VBP	22	pobj	_
+38	of Edward	of edward	NNP	p2=IN	42	nn	_
+39	Snowden's revelations about rampant	snowden's revelations about rampant	NNP	_	42	nn	_
+40	US	us	NNP	_	41	nn	_
+41	government	government	NN	_	42	nn	_
+42	spying	spying	NN	p2=VBG	34	appos	_
+43	.	.	.	_	17	punct	_
+
+1	Those	those	DT	_	3	det	_
+2	alleged	alleged	JJ	p2=VBN	3	amod	_
+3	consequences	consequence	NNS	_	4	nsubj	4:A2=GOL
+4	include	include	VBP	pb=include.01	0	root	_
+5	a litany of	a litany of	IN	p2=JJ	7	complm	_
+6	offenses	offense	NNS	_	7	nsubj	7:A0
+7	ranging from	ranging from	VBP	p2=IN|pb=ranging from.01	4	ccomp	4:A1=PPT
+8	"	"	``	_	7	punct	_
+9	economic	economic	JJ	_	10	amod	_
+10	espionage	espionage	NN	_	7	dobj	7:A1
+11	"	"	''	_	7	punct	_
+12	and	and	CC	_	7	cc	_
+13	to	to	TO	p2=IN	7	conj	_
+14	"	"	``	p2=''	16	punct	_
+15	aggravated	aggravate	VBN	p2=VB|pb=aggravate.01	16	amod	_
+16	identity theft	identity theft	NN	p2=''	13	pobj	15:A1=PPT
+17	.	.	.	_	4	punct	_
+18	"	"	''	_	4	punct	_
+
+1	Take	take	VB	pb=take.01	0	root	_
+2	,	,	,	_	1	punct	_
+3	for	for	IN	_	1	prep	1:AM-DIS
+4	example	example	NN	_	3	pobj	_
+5	,	,	,	_	1	punct	_
+6	the	the	DT	_	7	det	_
+7	accusations	accusation	NNS	_	1	dobj	1:A1=PPT
+8	against Wen	against wen	NNP	p2=IN	9	nn	_
+9	Xinyu	xinyu	NNP	_	7	appos	_
+10	,	,	,	_	9	punct	_
+11	 	 	NNP	p2=''	12	nn	_
+12	a.k	a.k	NNP	p2=NN	9	appos	_
+13	.	.	.	_	1	punct	_
+
+1	a	a	DT	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	 	 	:	p2=NN	3	punct	_
+2	"	"	``	_	3	punct	_
+3	WinXYHappy	winxyhappy	NNP	p2=JJ	0	root	7:A1=PPT
+4	,	,	,	_	3	punct	_
+5	"	"	''	p2=``	3	punct	_
+6	who	who	WP	_	7	nsubj	7:R-A1;8:R-A1
+7	stands	stand	VBZ	pb=stand.01	3	rcmod	_
+8	accused	accuse	VBN	pb=accuse.01	7	advcl	7:A2=LOC
+9	of	of	IN	_	8	prep	8:A2=PRD
+10	stealing a	stealing a	NNP	p2=``	12	nn	_
+11	solar	solar	JJ	_	12	amod	_
+12	company	company	NN	_	16	poss	_
+13	's	's	POS	_	12	possessive	_
+14	internal	internal	JJ	_	16	amod	_
+15	financial	financial	JJ	_	16	amod	_
+16	data	datum	NNS	p2=NN	9	pobj	_
+17	 and pilfering of	 and pilfering of	IN	p2=,	16	prep	_
+18	network	network	NN	_	19	nn	_
+19	credentials	credential	NNS	_	17	pobj	_
+20	for	for	IN	_	19	prep	_
+21	nearly 	nearly 	:	p2=VBG	3	punct	_
+22	every	every	DT	_	23	det	_
+23	employee	employee	NN	_	7	dobj	_
+24	at	at	IN	_	23	prep	_
+25	Allegheny	allegheny	NNP	_	27	nn	_
+26	Technologies	technologies	NNP	p2=NNPS	27	nn	_
+27	Inc	inc	NNP	_	24	pobj	_
+28	.	.	.	_	3	punct	_
+
+1	,	,	,	_	4	punct	_
+2	a	a	DT	_	4	det	_
+3	US	us	NNP	_	4	nn	_
+4	company	company	NN	_	0	root	5:A1=PPT
+5	involved	involve	VBN	pb=involve.01	4	partmod	_
+6	in	in	IN	_	5	prep	5:A2=PPT
+7	a	a	DT	_	10	det	_
+8	2012	0	CD	_	10	num	_
+9	trade	trade	NN	_	10	nn	_
+10	dispute	dispute	NN	_	6	pobj	_
+11	with	with	IN	_	10	prep	_
+12	a	a	DT	_	14	det	_
+13	Chinese	chinese	JJ	_	14	amod	_
+14	company	company	NN	_	11	pobj	_
+15	.	.	.	_	4	punct	_
+
+1	Though	though	IN	_	14	mark	_
+2	these	these	DT	_	4	det	_
+3	alleged	allege	VBN	p2=JJ|pb=allege.01	4	amod	_
+4	attacks	attack	NNS	_	14	nsubj	3:A1=PPT;14:A1=PPT
+5	may	may	MD	_	14	aux	14:AM-MOD
+6	,	,	,	_	14	punct	_
+7	as	as	IN	_	11	mark	_
+8	US	us	NNP	_	9	nn	_
+9	government	government	NN	_	10	nn	_
+10	officials	official	NNS	_	11	nsubj	11:A0=CAU
+11	implied	imply	VBN	p2=VBD|pb=imply.01	14	advcl	_
+12	,	,	,	_	14	punct	_
+13	have	have	VBP	p2=VB	14	aux	_
+14	cost	cost	VBN	p2=NN|pb=cost.01	30	advcl	30:AM-ADV
+15	American	american	JJ	p2=NNP	16	amod	_
+16	jobs	job	NNS	_	14	dobj	14:A2=VSP
+17	,	,	,	_	30	punct	_
+18	the	the	DT	_	19	det	_
+19	push	push	NN	p2=NNS	30	nsubj	30:A1=PPT
+20	to	to	TO	_	21	aux	_
+21	define	define	VB	pb=define.01	19	infmod	_
+22	the	the	DT	_	24	det	_
+23	relative	relative	JJ	_	24	amod	_
+24	degrees	degree	NNS	_	21	dobj	21:A1=PPT
+25	of	of	IN	_	24	prep	_
+26	cyberspying	cyberspying	VBG	p2=NN|pb=cyberspying.01	27	amod	_
+27	nefariousness	nefariousness	NN	_	25	pobj	26:A1
+28	might	might	MD	_	30	aux	30:AM-MOD
+29	not	not	RB	_	30	neg	30:AM-NEG
+30	be	be	VB	pb=be.01	36	ccomp	36:A1=PPT
+31	all	all	DT	p2=RB	30	attr	30:A2=PRD
+32	that	that	WDT	_	33	nsubj	_
+33	persuasive	persuasive	JJ	p2=VBP	31	rcmod	_
+34	abroad	abroad	RB	_	33	advmod	_
+35	,	,	,	_	36	punct	_
+36	says	say	VBZ	pb=say.01	0	root	_
+37	Adam Segal	adam segal	NNP	_	36	nsubj	36:A0
+38	,	,	,	_	37	punct	_
+39	a	a	DT	_	41	det	_
+40	senior	senior	JJ	_	41	amod	_
+41	fellow	fellow	NN	_	37	appos	_
+42	at	at	IN	_	41	prep	_
+43	Council	council	NNP	_	42	pobj	_
+44	on	on	IN	_	43	prep	_
+45	Foreign	foreign	NNP	_	46	nn	_
+46	Relations	relation	NNPS	p2=NNP	44	pobj	_
+47	.	.	.	_	36	punct	_
+

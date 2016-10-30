@@ -1,0 +1,18 @@
+1	Social	social	JJ	p2=NNP	3	amod	_
+2	media	medium	NNS	p2=NN	3	nn	_
+3	critic	critic	NN	_	8	npadvmod	8:AM-TMP
+4	,	,	,	_	8	punct	_
+5	Japhet	japhet	NNP	_	6	nn	_
+6	Omojuwa	omojuwa	NNP	_	8	nsubj	8:A0=PAG
+7	has	have	VBZ	_	8	aux	_
+8	denied	deny	VBN	pb=deny.01	0	root	_
+9	allegations	allegation	NNS	_	8	dobj	8:A1=PPT
+10	that	that	IN	_	13	complm	_
+11	he	he	PRP	_	13	nsubjpass	13:A1=PPT
+12	was	be	VBD	_	13	auxpass	_
+13	arrested	arrest	VBN	pb=arrest.01	9	ccomp	_
+14	in	in	IN	_	13	prep	13:AM-LOC
+15	Berlin	berlin	NNP	_	16	nn	_
+16	Germany	germany	NNP	_	14	pobj	_
+17	.	.	.	_	8	punct	_
+

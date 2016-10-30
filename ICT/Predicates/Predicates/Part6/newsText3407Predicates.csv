@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"by police in Manoa , Hawaii ,",arrest.01,Jill Hansen,,Affirmative,"Hansen was arrested by police in Manoa , Hawaii , late Wednesday evening after she allegedly fled the scene on foot , leaving her car in the parking lot where the assault took place , Hawaii News Now reported . "
+Jill Hansen,flee.01,the scene,,Affirmative,"Hansen was arrested by police in Manoa , Hawaii , late Wednesday evening after she allegedly fled the scene on foot , leaving her car in the parking lot where the assault took place , Hawaii News Now reported . "
+Jill Hansen,leave.01,her car,,Affirmative,"Hansen was arrested by police in Manoa , Hawaii , late Wednesday evening after she allegedly fled the scene on foot , leaving her car in the parking lot where the assault took place , Hawaii News Now reported . "
+Hawaii News,report.01,"Hansen was arrested by police in Manoa , Hawaii ,",,Affirmative,"Hansen was arrested by police in Manoa , Hawaii , late Wednesday evening after she allegedly fled the scene on foot , leaving her car in the parking lot where the assault took place , Hawaii News Now reported . "
+Conklin,tell.01,that she could n't remember,reporters,Affirmative,Conklin told reporters that she could n't remember what happened to her after she parked her car . 
+Jill Hansen,remember.01,what happened to her,,Affirmative,Conklin told reporters that she could n't remember what happened to her after she parked her car . 
+Jill Hansen,park.01,her car,,Affirmative,Conklin told reporters that she could n't remember what happened to her after she parked her car . 
+Conklin,tell.01,ABC News,from,Affirmative,"I parked in my normal parking place , and I got out and all of a sudden I woke up in an ambulance , Conklin told ABC News from her Honolulu hospital bed . "
+Jill Hansen,put.01,her car,in reverse,Affirmative,"After the initial assault , Hansen apparently put the car in reverse and attempted to allegedly hit Conklin again when a bystander jumped in and using a crowbar broke her back window . "
+Jill Hansen,attempt.01,to allegedly hit Conklin again,,Affirmative,"After the initial assault , Hansen apparently put the car in reverse and attempted to allegedly hit Conklin again when a bystander jumped in and using a crowbar broke her back window . "
+Jill Hansen,hit.01,Conklin,,Affirmative,"After the initial assault , Hansen apparently put the car in reverse and attempted to allegedly hit Conklin again when a bystander jumped in and using a crowbar broke her back window . "
+a bystander,use.01,a crowbar,,Affirmative,"After the initial assault , Hansen apparently put the car in reverse and attempted to allegedly hit Conklin again when a bystander jumped in and using a crowbar broke her back window . "
+a 30-year-old professional surfer,abandon.01,her car,,Affirmative,"The surfer subsequently abandoned her car in the parking lot , ABC News reported . "
+ABC News from her Honolulu hospital bed,report.01,surfer subsequently abandoned,,Affirmative,"The surfer subsequently abandoned her car in the parking lot , ABC News reported . "
+a 30-year-old professional surfer,see.01,Jill Hansen,,Affirmative,He saw her in her car getting ready to hit me again . 
+a 30-year-old professional surfer,save.02,my life,,Affirmative,"He totally saved my life , Conklin added . "
+Conklin,add.01,He totally saved,,Affirmative,"He totally saved my life , Conklin added . "
+"police in Manoa , Hawaii , late Wednesday",find.01,old laying on,,Affirmative,"When police arrived at the scene , they found the 73 - year - old laying on the ground bleeding from multiple cuts and bruises on her body , Hawaii News Now noted . "
+authorities,write.01,that Hansen intentionally struck Conklin with,,Affirmative,"In the police report , authorities wrote that Hansen intentionally struck Conklin with her vehicle . "
+Jill Hansen,strike.01,Conklin,with,Affirmative,"In the police report , authorities wrote that Hansen intentionally struck Conklin with her vehicle . "
+motivation for,have.06,yet,to be determined by police,Affirmative,"Hansen 's motivation for allegedly striking Conkling has yet to be determined by police , however Conklin believes the surfer was jealous of her car and wanted it for herself . "
+by police,determine.01,motivation for,,Affirmative,"Hansen 's motivation for allegedly striking Conkling has yet to be determined by police , however Conklin believes the surfer was jealous of her car and wanted it for herself . "
+Conklin,believe.01,surfer was jealous of,,Affirmative,"Hansen 's motivation for allegedly striking Conkling has yet to be determined by police , however Conklin believes the surfer was jealous of her car and wanted it for herself . "
+a 30-year-old professional surfer,want.01,jealous of her car,,Affirmative,"Hansen 's motivation for allegedly striking Conkling has yet to be determined by police , however Conklin believes the surfer was jealous of her car and wanted it for herself . "
+Jill Hansen,see.01,her car,,Affirmative,She saw my car . 
+Jill Hansen,want.01,the car,,Affirmative,It was the car she wanted . 
+Jill Hansen,kill.01,Conklin,,Affirmative,"She followed me , she was going to kill me and get the car , Conklin told ABC News . "
+Jill Hansen,get.01,her car,,Affirmative,"She followed me , she was going to kill me and get the car , Conklin told ABC News . "
+Conklin,tell.01,ABC News from her Honolulu hospital bed,,Affirmative,"She followed me , she was going to kill me and get the car , Conklin told ABC News . "
+"old surfer ,",have.03,her own line of wetsuits,,Affirmative,"Just hours before her arrest the 30 - year - old surfer , who is also a model and has her own line of wetsuits , was celebrating her new found success in her career , posting photos of her house and car on Facebook while writing , I am becoming a professional ! "
+"old surfer ,",celebrate.02,her new found success in,,Affirmative,"Just hours before her arrest the 30 - year - old surfer , who is also a model and has her own line of wetsuits , was celebrating her new found success in her career , posting photos of her house and car on Facebook while writing , I am becoming a professional ! "
+Jill Hansen,work.01,to get to today,,Affirmative,I have worked SOOOO hard to get to today . 

@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Gardaí in Dublin,arrest.01,a man,in connection with,Affirmative,"Gardaí in Dublin have arrested a man in connection with a carjacking in Terenure , Dublin on Friday . "
+a man,demand.01,money,,Affirmative,A woman and her two children were stopped at traffic in their Grey BMW Estate when a man got into the back of the car and demanded money . 
+  The woman,beep.01,the horn,,Affirmative,"  The woman beeped the horn to bring her predicament to the attention of other drivers but the man , who was sitting beside the woman 's children , claimed to be carrying a weapon and she evenutally followed his instructions . "
+  The woman,bring.01,her predicament,to,Affirmative,"  The woman beeped the horn to bring her predicament to the attention of other drivers but the man , who was sitting beside the woman 's children , claimed to be carrying a weapon and she evenutally followed his instructions . "
+"the man ,",claim.01,to be carrying,,Affirmative,"  The woman beeped the horn to bring her predicament to the attention of other drivers but the man , who was sitting beside the woman 's children , claimed to be carrying a weapon and she evenutally followed his instructions . "
+"the man ,",carry.01,a weapon,,Affirmative,"  The woman beeped the horn to bring her predicament to the attention of other drivers but the man , who was sitting beside the woman 's children , claimed to be carrying a weapon and she evenutally followed his instructions . "
+the woman 's,followed.02,his instructions,,Affirmative,"  The woman beeped the horn to bring her predicament to the attention of other drivers but the man , who was sitting beside the woman 's children , claimed to be carrying a weapon and she evenutally followed his instructions . "
+a man,tell.01,to drive to,her,Affirmative,He told her to drive to her house and retrieve bank cards . 
+the woman 's,drive.01,to,,Affirmative,He told her to drive to her house and retrieve bank cards . 
+the woman 's,retrieve.01,bank cards,,Affirmative,He told her to drive to her house and retrieve bank cards . 
+ He,demand.01,she drive to,,Affirmative, He then demanded she drive to an ATM at the AIB Bank in Rathgar to withdraw money . 
+the woman 's,drive.01,to,,Affirmative, He then demanded she drive to an ATM at the AIB Bank in Rathgar to withdraw money . 
+the woman 's,withdraw.01,money,,Affirmative, He then demanded she drive to an ATM at the AIB Bank in Rathgar to withdraw money . 
+the woman 's,drive.01,the car,,Affirmative,"She was then forced to drive the car to Portobello , where he climbed out of the car . "

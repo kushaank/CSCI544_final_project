@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sierra LaMar,catch.01,her morning bus ride to school,,Affirmative,"On March 16 , 2012 , Sierra LaMar never caught her morning bus ride to school . "
+Prosecutors,seek.01,the death penalty,,Affirmative,"Prosecutors are seeking the death penalty against a man charged with kidnapping and killing a 15 - year - old Northern California girl whose body has not been found , the District Attorney 's Office said on Monday . "
+a man charged with kidnapping and killing,kill.01,California girl,,Affirmative,"Prosecutors are seeking the death penalty against a man charged with kidnapping and killing a 15 - year - old Northern California girl whose body has not been found , the District Attorney 's Office said on Monday . "
+Office,say.01,Prosecutors are seeking,,Affirmative,"Prosecutors are seeking the death penalty against a man charged with kidnapping and killing a 15 - year - old Northern California girl whose body has not been found , the District Attorney 's Office said on Monday . "
+Attorney Jeff Rosen,say.01,he made,,Affirmative,Santa Clara County District Attorney Jeff Rosen said he made the decision to seek capital punishment against Antolin Garcia - Torres in the 2012 disappearance of Sierra LaMar after a comprehensive review by a committee of senior prosecutors . 
+Santa Clara County District Attorney Jeff Rosen,seek.01,capital punishment against,,Affirmative,Santa Clara County District Attorney Jeff Rosen said he made the decision to seek capital punishment against Antolin Garcia - Torres in the 2012 disappearance of Sierra LaMar after a comprehensive review by a committee of senior prosecutors . 
+Santa Clara County District Attorney Jeff Rosen,conclude.01,defendant should face,,Affirmative,"I have concluded that this defendant should face the ultimate penalty , Rosen said . "
+this defendant,face.01,the ultimate penalty,,Affirmative,"I have concluded that this defendant should face the ultimate penalty , Rosen said . "
+Santa Clara County District Attorney Jeff Rosen,say.01,I have concluded,,Affirmative,"I have concluded that this defendant should face the ultimate penalty , Rosen said . "
+Santa Clara County District Attorney Jeff Rosen,say.01,he would not be making,,Affirmative,He said he would not be making any additional comments to ensure that Garcia - Torres receives a fair trial . 
+Santa Clara County District Attorney Jeff Rosen,ensure.01,Torres receives,,Affirmative,He said he would not be making any additional comments to ensure that Garcia - Torres receives a fair trial . 
+Garcia - Torres,receive.01,a fair trial,,Affirmative,He said he would not be making any additional comments to ensure that Garcia - Torres receives a fair trial . 
+Garcia - Torres,plead.02,not guilty to,,Affirmative,Garcia - Torres has pleaded not guilty to murder and kidnapping charges in the Sierra case . 
+"Sierra , who remains missing",attempt.01,to kidnap,,Affirmative,He is also accused of attempting to kidnap three women during carjackings in 2009 . 
+"Sierra , who remains missing",kidnap.01,three women,,Affirmative,He is also accused of attempting to kidnap three women during carjackings in 2009 . 
+by,see.01,"Sierra ,",,Affirmative,"Sierra , who remains missing , was last seen by her family leaving her Morgan Hill home for school in March 2012 . "
+"Sierra ,",leave.01,Hill home,for school,Affirmative,"Sierra , who remains missing , was last seen by her family leaving her Morgan Hill home for school in March 2012 . "
+authorities,say.01,they found,,Affirmative,Garcia - Torres was arrested two months later after authorities say they found Sierra 's DNA in his car and his DNA in her handbag . 
+authorities,find.01,DNA,,Affirmative,Garcia - Torres was arrested two months later after authorities say they found Sierra 's DNA in his car and his DNA in her handbag . 
+Investigators,seize.01,Volkswagen Jetta,from,Affirmative,"Investigators seized Garcia - Torres ' Volkswagen Jetta on April 7 from a trailer he shared with his mother , girlfriend and young daughter . "
+"Sierra , who remains missing",share.01,a trailer,with,Affirmative,"Investigators seized Garcia - Torres ' Volkswagen Jetta on April 7 from a trailer he shared with his mother , girlfriend and young daughter . "
+officials,say.01,did not know,,Affirmative,Sheriff 's officials have said Sierra and Garcia - Torres did not know each other . 
+Sierra and,know.01,each other,,Affirmative,Sheriff 's officials have said Sierra and Garcia - Torres did not know each other . 
+Gov. Jerry Brown,welcome.01,the Mexican president,to California,Affirmative,Gov. Jerry Brown has welcomed the Mexican president to California by reminding him of the cultural and historical ties shared by the two places . 
+the Mexican president,remind.01,of,him,Affirmative,Gov. Jerry Brown has welcomed the Mexican president to California by reminding him of the cultural and historical ties shared by the two places . 
+by,share.01,ties shared by,,Affirmative,Gov. Jerry Brown has welcomed the Mexican president to California by reminding him of the cultural and historical ties shared by the two places . 

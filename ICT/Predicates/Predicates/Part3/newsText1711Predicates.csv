@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+school student,get.01,Joe Biden,,Affirmative,"A Connecticut high school student did n't get Joe Biden as a prom date , but did receive a note and a vice presidential corsage . "
+school student,receive.01,a note and,,Affirmative,"A Connecticut high school student did n't get Joe Biden as a prom date , but did receive a note and a vice presidential corsage . "
+my schedule,permit.01,to be in Connecticut,me,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , Biden said in the note to Newington High School student Talia Maselli , reports The Hartford Courant . "
+Joe Biden,say.01,"I am flattered , but",to,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , Biden said in the note to Newington High School student Talia Maselli , reports The Hartford Courant . "
+The Hartford Courant,report.01,", Biden said in",,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , Biden said in the note to Newington High School student Talia Maselli , reports The Hartford Courant . "
+Joe Biden,hope.01,you will accept this corsage and enjoy,,Affirmative,"But I hope you will accept this corsage and enjoy your prom as much as I did mine , Biden added . "
+you,accept.01,this,,Affirmative,"But I hope you will accept this corsage and enjoy your prom as much as I did mine , Biden added . "
+you,enjoy.01,your prom,,Affirmative,"But I hope you will accept this corsage and enjoy your prom as much as I did mine , Biden added . "
+Joe Biden,do.02,mine,,Affirmative,"But I hope you will accept this corsage and enjoy your prom as much as I did mine , Biden added . "
+Joe Biden,add.01,But I hope,,Affirmative,"But I hope you will accept this corsage and enjoy your prom as much as I did mine , Biden added . "
+Talia Maselli,tell.01,that she sent,the Courant,Affirmative,Maselli told the Courant that she sent a prom invitation to the vice president seven months ago for a very simple reason . 
+Talia Maselli,send.01,a prom invitation,to,Affirmative,Maselli told the Courant that she sent a prom invitation to the vice president seven months ago for a very simple reason . 
+Joe Biden,make.02,me laugh,,Affirmative,"Joe Biden makes me laugh , she said . "
+Talia Maselli,say.01,Biden makes,,Affirmative,"Joe Biden makes me laugh , she said . "
+Joe Biden,crack.02,Talia Maselli,,Affirmative,He just cracks me up . 
+Maselli 's,write.01,I am inviting you,,Affirmative,"In her note , Maselli wrote : I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it . "
+Maselli 's,invite.01,you,so far,Affirmative,"In her note , Maselli wrote : I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it . "
+old girls,send.01,you prom invitations,,Affirmative,"In her note , Maselli wrote : I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it . "
+you,prom.01,invitations,,Affirmative,"In her note , Maselli wrote : I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it . "
+Maselli 's,beat.01,many 17-year-old girls,to it,Affirmative,"In her note , Maselli wrote : I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it . "
+Maselli 's,tolerate.01,school dance,,Affirmative,I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+by,escort.01,Maselli 's,,Affirmative,I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+Maselli 's,receive.01,a note and a vice presidential corsage,"from Biden ,",Affirmative,"Last week , on the eve of the prom , Maselli received the note and corsage from Biden , who also invited Maselli to the White House . "
+"Biden ,",invite.01,Maselli 's,to,Affirmative,"Last week , on the eve of the prom , Maselli received the note and corsage from Biden , who also invited Maselli to the White House . "
+someone,play.01,an elaborate practical joke,,Affirmative,Maselli 's first thought was that someone was playing an elaborate practical joke on her . 
+Talia Maselli,call.02,her mother,,Affirmative,She even called her mother to ask if she was in on it . 
+Talia Maselli,ask.01,if she was in on it,,Affirmative,She even called her mother to ask if she was in on it . 
+Talia Maselli,have.03,no idea,,Affirmative,"' She had no idea what I was talking about , ' Maselli said . "
+her mother to ask if she was in on it,talk.01,no idea,,Affirmative,"' She had no idea what I was talking about , ' Maselli said . "
+Maselli 's,say.01,She had,,Affirmative,"' She had no idea what I was talking about , ' Maselli said . "
+her mother to ask if she was in on it,call.02,a number for,,Affirmative,Then she called a number for Biden 's assistant that was on a separate card . 
+Biden 's assistant,recognize.01,name,,Affirmative,"The assistant immediately recognized Maselli 's name , and Maselli realized the corsage and the note were real . "
+Talia Maselli,realize.01,a vice presidential corsage,,Affirmative,"The assistant immediately recognized Maselli 's name , and Maselli realized the corsage and the note were real . "
+Maselli 's,say.01,"yes , I would have gone",,Affirmative,"' But , ' she said , ' If he had said yes , I would have gone . "

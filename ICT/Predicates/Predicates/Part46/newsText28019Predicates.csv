@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Joe Delgado,graduate.01,from Clark,,Affirmative,"Joe Delgado graduated from Clark , his parents graduated from Clark and his wife is a coach and teacher at Clark . "
+his parents,graduate.01,from Clark,,Affirmative,"Joe Delgado graduated from Clark , his parents graduated from Clark and his wife is a coach and teacher at Clark . "
+Someone cooking on,cause.01,a fire,,Affirmative,"FORD HEIGHTS | Someone cooking on a wood - burning stove may have caused a fire Sunday morning that destroyed an abandoned home at 1528 Congress Lane , authorities said . "
+Sunday morning,destroy.01,an abandoned home,,Affirmative,"FORD HEIGHTS | Someone cooking on a wood - burning stove may have caused a fire Sunday morning that destroyed an abandoned home at 1528 Congress Lane , authorities said . "
+authorities,say.01,may have caused,,Affirmative,"FORD HEIGHTS | Someone cooking on a wood - burning stove may have caused a fire Sunday morning that destroyed an abandoned home at 1528 Congress Lane , authorities said . "
+Firefighters,respond.01,8:40 a.m.,,Affirmative,"Firefighters responded about 8:40 a.m. to the bi-level home in Ford Heights , an official said . "
+an official,say.01,Firefighters responded,,Affirmative,"Firefighters responded about 8:40 a.m. to the bi-level home in Ford Heights , an official said . "
+"the home ,",have.03,no electricity,,Affirmative,"No one was found inside the home , which had no electricity . "
+fire marshal,determine.01,fire was accidental,,Affirmative,"The Illinois state fire marshal has determined the fire was accidental , the official said . "
+an official,say.01,marshal has determined,,Affirmative,"The Illinois state fire marshal has determined the fire was accidental , the official said . "

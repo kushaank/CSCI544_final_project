@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+MONTREAL -- Authorities in,take.01,part,in,Affirmative,"MONTREAL -- Authorities in 16 countries , including Canada , took part in a global crackdown on a sophisticated malware that let s cybercriminals take over a computer and hijack its webcam . "
+a sophisticated malware,let.01,cybercriminals take over,,Affirmative,"MONTREAL -- Authorities in 16 countries , including Canada , took part in a global crackdown on a sophisticated malware that let s cybercriminals take over a computer and hijack its webcam . "
+cybercriminals,take.12,a computer 's,,Affirmative,"MONTREAL -- Authorities in 16 countries , including Canada , took part in a global crackdown on a sophisticated malware that let s cybercriminals take over a computer and hijack its webcam . "
+cybercriminals,hijack.01,its webcam,,Affirmative,"MONTREAL -- Authorities in 16 countries , including Canada , took part in a global crackdown on a sophisticated malware that let s cybercriminals take over a computer and hijack its webcam . "
+Police,say.01,they had arrested people suspected of using or distributing,,Affirmative,Police said they had arrested people suspected of using or distributing the malicious software called BlackShades . 
+Police,arrest.01,people suspected of using or distributing,,Affirmative,Police said they had arrested people suspected of using or distributing the malicious software called BlackShades . 
+people suspected of using or distributing,distribute.01,the malicious software called BlackShades,,Affirmative,Police said they had arrested people suspected of using or distributing the malicious software called BlackShades . 
+"Philippe Gravel ,",say.01,he expected,,Affirmative,"Philippe Gravel , an investigator with the RCMP 's Integrated Technological Crime Unit in Quebec , said he expected charges will be laid in Canada as well . "
+Philippe Gravel,expect.01,charges will be laid in Canada,,Affirmative,"Philippe Gravel , an investigator with the RCMP 's Integrated Technological Crime Unit in Quebec , said he expected charges will be laid in Canada as well . "
+Philippe Gravel,say.01,police raided homes on May 13 and 14 in Montreal,,Affirmative,"Gravel says police raided homes on May 13 and 14 in Montreal , Quebec City and elsewhere in the province after obtaining search warrants . "
+police,raid.01,homes,,Affirmative,"Gravel says police raided homes on May 13 and 14 in Montreal , Quebec City and elsewhere in the province after obtaining search warrants . "
+We,search.01,the houses,,Affirmative,"We 've searched the houses , we 've seized computers and we 're still analyzing the data , Gravel said . "
+We,seize.01,computers,,Affirmative,"We 've searched the houses , we 've seized computers and we 're still analyzing the data , Gravel said . "
+We,analyze.01,the data,,Affirmative,"We 've searched the houses , we 've seized computers and we 're still analyzing the data , Gravel said . "
+Philippe Gravel,say.01,", we 've seized computers and",,Affirmative,"We 've searched the houses , we 've seized computers and we 're still analyzing the data , Gravel said . "
+Philippe Gravel,say.01,he could n't comment on,,Affirmative,Gravel said he could n't comment on whether there would be further raids in Canada . 
+Philippe Gravel,comment.01,on,,Affirmative,Gravel said he could n't comment on whether there would be further raids in Canada . 
+Minister Steven Blaney,issue.01,a statement praising,,Affirmative,Public Safety Minister Steven Blaney issued a statement praising the operation for preventing further harm from the proliferation of such cybercrime networks . 
+a statement praising,praise.01,the operation,for preventing,Affirmative,Public Safety Minister Steven Blaney issued a statement praising the operation for preventing further harm from the proliferation of such cybercrime networks . 
+The FBI,say.01,Tool has been sold since,,Affirmative,The FBI said the BlackShades Remote Access Tool has been sold since at least 2010 to several thousand users . 
+The agency,say.01,is now co-operating with,,Affirmative,The agency said one of the program 's co-creators is now co-operating with the government and had provided extensive information . 
+one of,co-operate.01,with,,Affirmative,The agency said one of the program 's co-creators is now co-operating with the government and had provided extensive information . 
+The agency,provided.01,extensive information,,Affirmative,The agency said one of the program 's co-creators is now co-operating with the government and had provided extensive information . 
+a sophisticated malware that lets cybercriminals take over a computer and hijack its webcam,let.01,hackers steal,,Affirmative,"The malware let s hackers steal personal information , intercept keystrokes and hijack webcams to make secret recordings of users . "
+hackers,steal.01,personal information,,Affirmative,"The malware let s hackers steal personal information , intercept keystrokes and hijack webcams to make secret recordings of users . "
+hackers,intercept.01,keystrokes,,Affirmative,"The malware let s hackers steal personal information , intercept keystrokes and hijack webcams to make secret recordings of users . "
+hackers,hijack.01,webcams,,Affirmative,"The malware let s hackers steal personal information , intercept keystrokes and hijack webcams to make secret recordings of users . "
+BlackShades,lock.01,data files,,Affirmative,"BlackShades also can be used to encrypt and lock a computer 's data files , blocking the rightful owners from regaining access unless they pay a ransom . "
+the rightful owners,regain.01,access,,Affirmative,"BlackShades also can be used to encrypt and lock a computer 's data files , blocking the rightful owners from regaining access unless they pay a ransom . "
+the rightful owners,pay.01,a ransom,,Affirmative,"BlackShades also can be used to encrypt and lock a computer 's data files , blocking the rightful owners from regaining access unless they pay a ransom . "
+Security experts,link.01,the program,,Affirmative,Security experts have linked the program to attacks on Syrian dissidents in 2012 and attempts to steal data from more than a dozen French organizations last year . 
+Security experts,attempt.01,to steal data from,,Affirmative,Security experts have linked the program to attacks on Syrian dissidents in 2012 and attempts to steal data from more than a dozen French organizations last year . 
+The low cost of,make.02,it increasingly popular across,,Affirmative,"The low cost of the hacking tool has made it increasingly popular across the hacker underground , where variants have been circulating online for years . "
+firm Symantec,say.01,"was going up , with licenses for",,Affirmative,"Last year , security firm Symantec said that use of BlackShades was going up , with licenses for the program going for $ 40 to $ 100 . "
+French officials,say.01,raids occurred,,Affirmative,French officials said raids occurred last week after the FBI arrested two BlackShades developers and distributed a list of customers who had purchased the malware . 
+The FBI,arrest.01,two BlackShades developers,,Affirmative,French officials said raids occurred last week after the FBI arrested two BlackShades developers and distributed a list of customers who had purchased the malware . 
+The FBI,distribute.01,a list of customers,,Affirmative,French officials said raids occurred last week after the FBI arrested two BlackShades developers and distributed a list of customers who had purchased the malware . 
+customers,purchase.01,a sophisticated malware that lets cybercriminals take over a computer and hijack its webcam,,Affirmative,French officials said raids occurred last week after the FBI arrested two BlackShades developers and distributed a list of customers who had purchased the malware . 
+Chile,raid.01,359 properties,,Affirmative,"Law enforcement co-ordination agencies Europol and Eurojust , based in The Hague , Netherlands , said Monday that police in 13 European countries -- Austria , Belgium , Britain , Croatia , Denmark , Estonia , Finland , France , Germany , Italy , Moldova , the Netherlands and Switzerland -- as well as in Canada , the United States , and Chile raided 359 properties and seized cash , firearms , drugs and more than 1,000 data storage devices . "
+Chile,seize.01,"cash , firearms , drugs and",,Affirmative,"Law enforcement co-ordination agencies Europol and Eurojust , based in The Hague , Netherlands , said Monday that police in 13 European countries -- Austria , Belgium , Britain , Croatia , Denmark , Estonia , Finland , France , Germany , Italy , Moldova , the Netherlands and Switzerland -- as well as in Canada , the United States , and Chile raided 359 properties and seized cash , firearms , drugs and more than 1,000 data storage devices . "
+The two European agencies,decline.02,to provide,,Affirmative,"The two European agencies declined to provide country - by - country breakdowns of arrests , details of items seized or the specific days when last week 's raids occurred . "
+The two European agencies,provide.01,"country breakdowns of arrests , details of items seized or",,Affirmative,"The two European agencies declined to provide country - by - country breakdowns of arrests , details of items seized or the specific days when last week 's raids occurred . "
+the RCMP 's,advise.01,Canadians,to make sure,Affirmative,"In a statement , the RCMP advised Canadians to make sure an anti-virus software is in place and not to open email from an unknown source . "
+Canadians,make.02,sure,,Affirmative,"In a statement , the RCMP advised Canadians to make sure an anti-virus software is in place and not to open email from an unknown source . "
+you,see.01,the characters,,Affirmative,Type in the characters you see in the picture below . 
+you,have.03,trouble reading,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+you,read.01,the characters in,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+Bell Media,reserve.01,the right,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+Bell Media,comment.01,availability,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+We,publish.01,comments,,Affirmative,"We will not publish comments that are profane , libelous , racist , or engage in personal attacks . "
+comments,seek.01,to spread information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+comments,spread.03,information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+you,use.01,an alias,,Affirmative,"If you 're using an alias , make sure it 's unique . "
+We,publish.01,comments,,Affirmative,We will not publish comments that link to outside websites . 
+comments,link.01,to,,Affirmative,We will not publish comments that link to outside websites . 
+you,follow.02,these guidelines,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+you,contribute.01,your thoughts,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+You,help.01,to make,,Affirmative,"You are contributing to debate and discussion , and helping to make this website a more open place . "

@@ -1,0 +1,45 @@
+1	Its	its	PRP$	_	2	poss	_
+2	great	great	JJ	p2=NN	8	nsubj	8:A1=PPT
+3	to	to	TO	_	4	aux	_
+4	see	see	VB	pb=see.01	2	infmod	_
+5	Bohol	bohol	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	bouncing	bounce	VBG	pb=bounce.01	4	ccomp	4:A1
+7	back.I	back.i	NNP	p2=NNS	6	dobj	6:A1=PPT
+8	am	be	VBP	pb=be.01	0	root	_
+9	sure	sure	JJ	p2=RB	8	acomp	8:A2=PRD
+10	there	there	EX	_	12	expl	_
+11	will	will	MD	_	12	aux	12:AM-MOD
+12	be	be	VB	pb=be.02	9	ccomp	_
+13	great	great	JJ	_	14	amod	_
+14	times	time	NNS	_	12	attr	12:A1=PPT
+15	ahead	ahead	RB	_	12	advmod	_
+16	from	from	IN	_	15	prep	_
+17	a	a	DT	_	16	pobj	_
+18	soon	soon	RB	p2=NN	20	advmod	20:AM-TMP
+19	to	to	TO	_	20	aux	_
+20	be	be	VB	pb=be.01	9	advcl	_
+21	permanent	permanent	JJ	_	22	amod	_
+22	resident	resident	NN	_	20	attr	20:A2=PRD
+23	in	in	IN	_	22	prep	_
+24	Bohol	bohol	NNP	p2=NN	23	pobj	_
+25	.	.	.	_	8	punct	_
+
+1	9	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Best	well	RBS	p2=JJS	2	advmod	2:AM-MNR
+2	viewed	view	VBN	pb=view.02	0	root	_
+3	with	with	IN	_	2	prep	2:A2=PRD
+4	Internet	internet	NN	p2=NNP	5	nn	_
+5	Explorer	explorer	NNP	p2=NN	3	pobj	_
+6	6	0	CD	_	5	num	_
+7	or	or	CC	_	5	cc	_
+8	above	above	RB	p2=IN	5	conj	_
+9	at	at	IN	_	2	prep	2:AM-LOC
+10	1024x768	0x0	CD	p2=JJ	11	num	_
+11	resolution	resolution	NN	_	9	pobj	_
+12	.	.	.	_	2	punct	_
+

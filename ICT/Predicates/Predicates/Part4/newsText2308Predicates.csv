@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An amateur pilot from Tayside,begin.01,his attempt,,Affirmative,An amateur pilot from Tayside has begun his attempt to fly around the world in 80 days . 
+"Dave McElroy , 66 ,",take.01,from,,Affirmative,"Dave McElroy , 66 , took off from Perth Airport for the 42,000 nautical mile flight , and hopes to make 52 stops in 25 countries along the way . "
+"Dave McElroy , 66 ,",hope.01,to make,,Affirmative,"Dave McElroy , 66 , took off from Perth Airport for the 42,000 nautical mile flight , and hopes to make 52 stops in 25 countries along the way . "
+The retiree,hope.01,"to raise around £150,000 for",,Affirmative,"The retiree also hopes to raise around £150,000 for Scotland 's Charity Air Ambulance , which operates from Perth . "
+The retiree,raise.01,"£150,000",,Affirmative,"The retiree also hopes to raise around £150,000 for Scotland 's Charity Air Ambulance , which operates from Perth . "
+"Mr McElroy ,",spend.01,272 hours,,Affirmative,"Mr McElroy , who will spend at least 272 hours in the air , said the flight might be a bit hairy . "
+"Mr McElroy ,",say.01,flight might be,,Affirmative,"Mr McElroy , who will spend at least 272 hours in the air , said the flight might be a bit hairy . "
+Dave McElroy,add.01,was,,Affirmative,"But he added that attempting the flight in the small Piper Comanche aircraft was a privilege , especially since this is only the second time such a flight has ever been tried from Scotland . "
+Dave McElroy,attempt.01,the flight in,,Affirmative,"But he added that attempting the flight in the small Piper Comanche aircraft was a privilege , especially since this is only the second time such a flight has ever been tried from Scotland . "
+Dave McElroy,end.01,his journey across,,Affirmative,He will end his journey across the Azores and Portugal before eventually touching back down in Perth by 6 August if all goes to plan . 
+Mr McElroy and,cover.02,the costs of,,Affirmative,Mr McElroy and his partner Chris Elgar have covered the costs of the trip so that all money raised will go straight to the charity . 
+Dave McElroy,say.01,I know,,Affirmative,"Before take - off , he said : I know it will be demanding , exhausting and perhaps at times even a bit hairy , but there is only a tiny percentage of the world 's population that will ever get the chance to see what I 'm going to see . "
+Dave McElroy,know.01,"it will be demanding , exhausting and",,Affirmative,"Before take - off , he said : I know it will be demanding , exhausting and perhaps at times even a bit hairy , but there is only a tiny percentage of the world 's population that will ever get the chance to see what I 'm going to see . "
+only a tiny percentage of,get.01,the chance,,Affirmative,"Before take - off , he said : I know it will be demanding , exhausting and perhaps at times even a bit hairy , but there is only a tiny percentage of the world 's population that will ever get the chance to see what I 'm going to see . "
+"Mr McElroy , who will spend at least 272 hours in the air",make.LV,the trip,,Affirmative,Mr McElroy is making the trip to mark the first year of operation for the Scotland Charity Air Ambulance . 
+the trip to mark the first year of operation for the Scotland Charity Air Ambulance,respond.01,to,,Affirmative,"It has so far responded to nearly 300 emergency calls , including road accidents , sporting incidents , equestrian accidents and heart attacks . "

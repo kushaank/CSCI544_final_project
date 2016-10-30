@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+resident Ellen Freddi,lose.02,control of,,Affirmative,"Jefferson resident Ellen Freddi lost control of her Ford Focus , hit the guardrail and crossed the center line where the car struck a Honda Accord nearly head on Sunday . "
+resident Ellen Freddi,hit.02,the guardrail,,Affirmative,"Jefferson resident Ellen Freddi lost control of her Ford Focus , hit the guardrail and crossed the center line where the car struck a Honda Accord nearly head on Sunday . "
+resident Ellen Freddi,cross.02,the center line,,Affirmative,"Jefferson resident Ellen Freddi lost control of her Ford Focus , hit the guardrail and crossed the center line where the car struck a Honda Accord nearly head on Sunday . "
+the car,strike.01,a Honda Accord,,Affirmative,"Jefferson resident Ellen Freddi lost control of her Ford Focus , hit the guardrail and crossed the center line where the car struck a Honda Accord nearly head on Sunday . "
+"Joshua Shepherd , 33 ,",drive.01,a Honda Accord,,Affirmative,"Joshua Shepherd , 33 , was driving a Honda Accord when a Ford Focus crossed the center line and struck the car nearly head on , according to Oregon State Police . "
+a Ford Focus,cross.02,the center line,,Affirmative,"Joshua Shepherd , 33 , was driving a Honda Accord when a Ford Focus crossed the center line and struck the car nearly head on , according to Oregon State Police . "
+a Ford Focus,strike.01,the car,,Affirmative,"Joshua Shepherd , 33 , was driving a Honda Accord when a Ford Focus crossed the center line and struck the car nearly head on , according to Oregon State Police . "
+RAV 4 sport utility vehicle,strike.01,the Honda,,Affirmative,A Toyota RAV 4 sport utility vehicle then struck the Honda on the driver 's side . 
+Passenger Hammons - Williams,use.01,safety restraints,,Affirmative,"Passenger Hammons - Williams was not using safety restraints and was ejected from the car , according to state police . "
+All others,use.01,safety restraints,,Affirmative,"All others appeared to be using safety restraints , according to police . "
+"OSP troopers from Bend , Madras and",respond.01,to,,Affirmative,"OSP troopers from Bend , Madras and La Pine responded to the scene assisted by Sisters - Camp Sherman Fire District , ODOT and medics from a National Guard unit traveling through the area . "
+by,assist.01,the scene assisted by,,Affirmative,"OSP troopers from Bend , Madras and La Pine responded to the scene assisted by Sisters - Camp Sherman Fire District , ODOT and medics from a National Guard unit traveling through the area . "
+Guard unit traveling through,travel.01,through,,Affirmative,"OSP troopers from Bend , Madras and La Pine responded to the scene assisted by Sisters - Camp Sherman Fire District , ODOT and medics from a National Guard unit traveling through the area . "

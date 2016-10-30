@@ -1,0 +1,65 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Voters across,score.01,significant victories,,Affirmative,Voters across the country scored significant victories in the past few weeks . 
+A federal judge,strike.01,voter ID law,,Affirmative,"A federal judge struck down Wisconsin 's voter ID law , saying it violated the Voting Rights Act . "
+A federal judge,say.01,it violated,,Affirmative,"A federal judge struck down Wisconsin 's voter ID law , saying it violated the Voting Rights Act . "
+Wisconsin 's voter ID law,violate.01,Rights Act,,Affirmative,"A federal judge struck down Wisconsin 's voter ID law , saying it violated the Voting Rights Act . "
+the governor,decide.01,not to appeal,,Affirmative,A Pennsylvania ID law is dead after the governor decided not to appeal a decision ruling it unconstitutional . 
+the governor,appeal.01,a decision ruling it unconstitutional,,Affirmative,A Pennsylvania ID law is dead after the governor decided not to appeal a decision ruling it unconstitutional . 
+a decision ruling it unconstitutional,rule.03,A Pennsylvania ID law,,Affirmative,A Pennsylvania ID law is dead after the governor decided not to appeal a decision ruling it unconstitutional . 
+two states,pass.01,laws expanding,,Affirmative,And two states passed laws expanding voter registration access . 
+laws expanding,expand.01,registration access,,Affirmative,And two states passed laws expanding voter registration access . 
+President Obama,have.03,the authority,,Affirmative,"President Obama has the authority to act , and he must . "
+long lines,mar.01,the 2012 election,,Affirmative,"After long lines marred the 2012 election , the president formed a bipartisan commission to identify best practices and new ideas to improve the voting experience . "
+the president 's,form.01,a bipartisan commission,,Affirmative,"After long lines marred the 2012 election , the president formed a bipartisan commission to identify best practices and new ideas to improve the voting experience . "
+"final report , issued in January",contain.01,potent recommendations for reform,,Affirmative,"The commission 's final report , issued in January , contained potent recommendations for reform on the state and local level . "
+the president 's,tell.01,is threatened today in,a group of activists,Affirmative,"The right to vote is threatened today in a way that it has not been since the Voting Rights Act became law nearly five decades ago , the president told a group of activists in April . "
+the president 's,assure.01,the audience,,Affirmative,"These efforts to restrict the right to vote will not go unchallenged , he assured the audience . "
+the president 's,assert.03,his leadership,,Affirmative,"But if the president 's words are to be more than mere flourishes , he must assert his leadership through executive action . "
+The Brennan Center for Justice,release.01,a proposal outlining,,Affirmative,The Brennan Center for Justice recently released a proposal outlining several concrete steps Obama can take to improve elections in America . 
+a proposal outlining,outline.01,several concrete steps,,Affirmative,The Brennan Center for Justice recently released a proposal outlining several concrete steps Obama can take to improve elections in America . 
+President Obama,take.01,several concrete steps,,Affirmative,The Brennan Center for Justice recently released a proposal outlining several concrete steps Obama can take to improve elections in America . 
+President Obama,improve.01,elections in America,,Affirmative,The Brennan Center for Justice recently released a proposal outlining several concrete steps Obama can take to improve elections in America . 
+The integrity of,depend.01,in,,Affirmative,"The integrity of our democracy depends in large part on voter participation , but at least 50 million eligible Americans are not registered to vote . "
+Congress,pass.01,the National Voter Registration Act ( NVRA ),,Affirmative,"In 1993 , Congress passed the National Voter Registration Act ( NVRA ) to simplify the process by requiring certain government agencies to provide registration services . "
+certain government agencies,provide.01,registration services,,Affirmative,"In 1993 , Congress passed the National Voter Registration Act ( NVRA ) to simplify the process by requiring certain government agencies to provide registration services . "
+A Pennsylvania ID law,boost.01,registration,,Affirmative,"The law immediately boosted registration , with more than 30 million people signing up using the new methods in the first year alone . "
+million people,use.01,the new methods in,,Affirmative,"The law immediately boosted registration , with more than 30 million people signing up using the new methods in the first year alone . "
+A Pennsylvania ID law,permit.01,to offer,federal agencies,Affirmative,The law also permits federal agencies to offer registration services . 
+federal agencies,offer.01,registration services,,Affirmative,The law also permits federal agencies to offer registration services . 
+President Obama,direct.01,federal agencies,to provide,Affirmative,"If Obama directed federal agencies to provide registration services , the millions of Americans who interact with these agencies would have more opportunities to sign up . "
+federal agencies,provide.01,"registration services ,",,Affirmative,"If Obama directed federal agencies to provide registration services , the millions of Americans who interact with these agencies would have more opportunities to sign up . "
+Americans,interact.01,with,,Affirmative,"If Obama directed federal agencies to provide registration services , the millions of Americans who interact with these agencies would have more opportunities to sign up . "
+Services,expand.01,registration opportunities,,Affirmative,"The United States Citizenship and Immigration Services could expand registration opportunities to the 700,000 new Americans who naturalize each year , for example . "
+from,benefit.01,million veterans,,Affirmative,More than 21 million veterans could benefit from registration opportunities through the Department of Veterans Affairs . 
+the president 's,direct.01,federal agencies,to develop plans,Affirmative,The president can also direct agencies to develop plans to further promote voter participation and help states improve their election systems . 
+federal agencies,develop.02,plans,,Affirmative,The president can also direct agencies to develop plans to further promote voter participation and help states improve their election systems . 
+the president 's,help.01,states improve,,Affirmative,The president can also direct agencies to develop plans to further promote voter participation and help states improve their election systems . 
+two states,improve.01,their election systems,,Affirmative,The president can also direct agencies to develop plans to further promote voter participation and help states improve their election systems . 
+The Education Department,provide.01,voter education and,to,Affirmative,"The Education Department , for example , could provide voter education and registration services to 15 million public high school students . "
+Young people,have.03,the lowest registration and,,Affirmative,Young people have the lowest registration and turnout rates . 
+This plan,help.01,boost,,Affirmative,This plan would help boost their participation . 
+This plan,boost.01,voter participation,,Affirmative,This plan would help boost their participation . 
+the president 's,undertake.01,Another strategy,,Affirmative,"Another strategy the president should undertake is to enlist the private sector to help ensure free , fair , and accessible elections . "
+President Obama,convene.01,leaders of,,Affirmative,"But Obama could go further by convening leaders of the bar , business , clergy , education , and technology to create a forum for analyzing and addressing persistent problems threatening the right to vote . "
+Such a diverse community,bring.01,different kinds of expertise,,Affirmative,Such a diverse community would bring together different kinds of expertise to improve wide-ranging issues from polling place management to voting machine technologies . 
+Such a diverse community,improve.01,wide-ranging issues,,Affirmative,Such a diverse community would bring together different kinds of expertise to improve wide-ranging issues from polling place management to voting machine technologies . 
+place management,vote.01,machine technologies,,Affirmative,Such a diverse community would bring together different kinds of expertise to improve wide-ranging issues from polling place management to voting machine technologies . 
+President John F. Kennedy,summon.01,"leaders of the bar , business , clergy , education , and technology",,Affirmative,"In 1963 , President John F. Kennedy summoned leaders and asked them to help protect civil rights . "
+President John F. Kennedy,ask.02,to help protect,them,Affirmative,"In 1963 , President John F. Kennedy summoned leaders and asked them to help protect civil rights . "
+"leaders of the bar , business , clergy , education , and technology",help.01,protect,,Affirmative,"In 1963 , President John F. Kennedy summoned leaders and asked them to help protect civil rights . "
+"leaders of the bar , business , clergy , education , and technology",protect.01,civil rights,,Affirmative,"In 1963 , President John F. Kennedy summoned leaders and asked them to help protect civil rights . "
+the Supreme Court,gut.01,one of,,Affirmative,"Fifty years later , after the Supreme Court gutted one of that era 's core voting protections , it is time for another summit . "
+such a conference,underscore.01,is,,Affirmative,"Importantly , such a conference would underscore that the right to vote is a civic obligation that cuts across demographics , disciplines , and party lines . "
+President Obama,have.03,the legal authority,,Affirmative,"There is no panacea to solving today 's voting challenges , but Obama has the legal authority to make significant headway . "
+no panacea to solving today 's voting challenges,require.01,engagement from,,Affirmative,"If meaningful reform is to occur , it will require engagement from various sectors of society and government . "
+by,direct.01,An effort directed by,,Affirmative,"An effort directed by the president , including not only state and local jurisdictions , but also federal agencies and the private sector , can bring about the comprehensive changes necessary to repair our nation 's broken election system . "
+federal agencies and,bring.05,the comprehensive changes necessary,,Affirmative,"An effort directed by the president , including not only state and local jurisdictions , but also federal agencies and the private sector , can bring about the comprehensive changes necessary to repair our nation 's broken election system . "
+The integrity of,deserve.01,such a shared national commitment,,Affirmative,The integrity of our democracy requires and deserves such a shared national commitment . 
+vacation,end.01,The president,returns to Washington,Affirmative,Obama 's vacation ends The president returns to Washington after a vacation plagued by criticism . 
+by criticism,plague.01,a vacation plagued by criticism,,Affirmative,Obama 's vacation ends The president returns to Washington after a vacation plagued by criticism . 
+Some lawmakers,worry.01,program has created,,Affirmative,Some lawmakers worry a visa program has created a major security weakness . 
+a visa program,create.01,a major security weakness,,Affirmative,Some lawmakers worry a visa program has created a major security weakness . 
+House Republicans,hire.01,legal,,Affirmative,House Republicans hire legal ... 
+A contract with,set.02,a cap of,,Affirmative,"A contract with Baker Hostetler sets a cap of $ 350,000 for legal costs . "
+Sharpton,blast.05,police,,Affirmative,Sharpton blasts police at Brown ... 
+Rev. Al Sharpton,say.01,it was time,,Affirmative,Rev. Al Sharpton said it was time to deal with policing . 

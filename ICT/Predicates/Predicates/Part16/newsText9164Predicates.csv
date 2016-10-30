@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Abu Hamza,face.01,life imprisonment,,Affirmative,Abu Hamza could face life imprisonment after being found guilty of all charges in his New York trial . 
+A jury of,find.01,"the cleric , 56 , guilty on",,Affirmative,"A jury of eight men and four women found the cleric , 56 , guilty on all 11 counts he faced , handing Manhattan U.S. Attorney Preet Bharara his second high - profile terrorism conviction in three months . "
+the cleric,face.01,all 11 counts,,Affirmative,"A jury of eight men and four women found the cleric , 56 , guilty on all 11 counts he faced , handing Manhattan U.S. Attorney Preet Bharara his second high - profile terrorism conviction in three months . "
+"the cleric , 56 , guilty on",hand.01,Attorney Preet Bharara,,Affirmative,"A jury of eight men and four women found the cleric , 56 , guilty on all 11 counts he faced , handing Manhattan U.S. Attorney Preet Bharara his second high - profile terrorism conviction in three months . "

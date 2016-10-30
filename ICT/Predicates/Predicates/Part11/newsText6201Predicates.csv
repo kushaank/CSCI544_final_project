@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+lawyers representing lawyers accused of setting up,represent.01,lawyers accused of setting up,,Affirmative,It involves lawyers representing lawyers accused of setting up other lawyers . 
+lawyers accused of setting up,set.03,other lawyers,,Affirmative,It involves lawyers representing lawyers accused of setting up other lawyers . 
+the agency,govern.01,lawyers,,Affirmative,"And now , after more than a year of investigation , it involves the agency that governs lawyers . "
+the Bar,find.01,probable cause,,Affirmative,"Last week , the Bar found probable cause that Robert Adams , Stephen Diaco and Adam Filthaut of Tampa 's Adams & Diaco law firm had violated its rules . "
+"Robert Adams ,",violate.01,its rules,,Affirmative,"Last week , the Bar found probable cause that Robert Adams , Stephen Diaco and Adam Filthaut of Tampa 's Adams & Diaco law firm had violated its rules . "
+C. Philip Campbell,represent.01,Todd Schnitt,,Affirmative,C. Philip Campbell represents Schnitt . 
+Adams & Diaco,represent.01,the Love Sponge Clem,,Affirmative,Adams & Diaco represents Clem . 
+A young paralegal from,take.01,the stool,next to him,Affirmative,A young paralegal from the Adams & Diaco firm takes the stool next to him . 
+lawyers,say.01,they were only trying,,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+the Adams & Diaco lawyers,try.01,to help get,,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+the Adams & Diaco lawyers,help.01,get,,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+the Adams & Diaco lawyers,get.01,a drunken driver off,,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+a prosecutor assigned to,use.01,buzzwords,such as undercover and collaboration,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+a prosecutor assigned to,drop.05,the DUI charge,,Affirmative,"Though the Adams & Diaco lawyers say they were only trying to help get a drunken driver off the streets , a prosecutor assigned to the case uses buzzwords such as undercover and collaboration and drops the DUI charge . "
+New Port Richey attorney David Ristoff,think.01,of anything close,,Affirmative,"I ca n't think of anything close , said New Port Richey attorney David Ristoff . "
+attorney David Ristoff,say.01,I ca n't think of anything close,,Affirmative,"I ca n't think of anything close , said New Port Richey attorney David Ristoff . "
+lawyers,face.01,charges of misconduct,,Affirmative,"All three Adams & Diaco lawyers face charges of misconduct , unfairness to opposing counsel and disrupting court . "
+lawyers,oppose.01,counsel,,Affirmative,"All three Adams & Diaco lawyers face charges of misconduct , unfairness to opposing counsel and disrupting court . "
+lawyers,disrupt.01,court,,Affirmative,"All three Adams & Diaco lawyers face charges of misconduct , unfairness to opposing counsel and disrupting court . "
+Most,lose.02,their licenses,,Affirmative,"Most who were disbarred lost their licenses because they were repeat offenders , or because they committed felonies or serious misdemeanors . "
+repeat offenders,repeat.01,offenders,,Affirmative,"Most who were disbarred lost their licenses because they were repeat offenders , or because they committed felonies or serious misdemeanors . "
+repeat offenders,commit.02,felonies or,,Affirmative,"Most who were disbarred lost their licenses because they were repeat offenders , or because they committed felonies or serious misdemeanors . "
+Others,lose.03,their license for charging,,Affirmative,"Others lost their license for charging excessive fees , commingling client funds , practicing with a suspended license or drug abuse . "
+the charges facing,face.01,lawyers,,Affirmative,Nothing like the charges facing the Adams & Diaco lawyers . 
+"Scott Tozian ,",represented.01,C. Philip Campbell,,Affirmative,"Scott Tozian , who represented Campbell before the Bar on the DUI matter , believes the sentence could be harsh to very harsh . "
+"Scott Tozian ,",believe.01,sentence could be harsh to,,Affirmative,"Scott Tozian , who represented Campbell before the Bar on the DUI matter , believes the sentence could be harsh to very harsh . "
+Scott Tozian,say.01,will be crucial,,Affirmative,"Two factors , he said , will be crucial when deciding the verdict : The nature of the violations and the attitude of the Florida Supreme Court . "
+Two factors,decide.01,the verdict :,,Affirmative,"Two factors , he said , will be crucial when deciding the verdict : The nature of the violations and the attitude of the Florida Supreme Court . "
+Any action,disrupt.01,a major concern,,Affirmative,"Any action that disrupts a trial is a major concern , Tozian said , so disrupting the tribunal is potentially a serious violation if it 's found to have occurred . "
+Scott Tozian,say.01,is,,Affirmative,"Any action that disrupts a trial is a major concern , Tozian said , so disrupting the tribunal is potentially a serious violation if it 's found to have occurred . "
+Scott Tozian,say.01,court has come down hard on lawyers,,Affirmative,"In recent years , Tozian said , the court has come down hard on lawyers . "
+the Florida Supreme Court,write.01,that it has moved toward,,Affirmative,"During a 2003 case where a lawyer lied about acting against two client 's interests , the Supreme Court wrote that it has moved toward stronger sanctions for attorney misconduct . "
+a lawyer,disclose.01,financial biases,,Affirmative,That decision was referenced again in 2009 when a lawyer failed to disclose financial biases that affected his client . 
+financial biases,affect.01,two client 's,,Affirmative,That decision was referenced again in 2009 when a lawyer failed to disclose financial biases that affected his client . 
+"Greg Kehoe ,",represent.01,Adams & Diaco,,Affirmative,"Greg Kehoe , who represents Adams & Diaco , remains confident about his clients ' outcome . "
+Greg Kehoe,say.01,they will be exonerated,,Affirmative,"Once all the evidence is reviewed , he said , they will be exonerated . "

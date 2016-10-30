@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Talia Maselli,invite.01,President Joe Biden,to,Affirmative,"Last fall , Talia Maselli wrote to invite Vice President Joe Biden to her high school prom in Newington , Conn . "
+Vice President Joe Biden to her high school prom,make.02,Last fall,,Affirmative,"Biden could n't make it , but sent a handwritten card and a corsage he picked out - baby 's breath , white roses and red , white and blue ribbons . "
+Vice President Joe Biden to her high school prom,send.02,a handwritten card and,,Affirmative,"Biden could n't make it , but sent a handwritten card and a corsage he picked out - baby 's breath , white roses and red , white and blue ribbons . "
+Vice President Joe Biden to her high school prom,pick.04,"breath ,",,Affirmative,"Biden could n't make it , but sent a handwritten card and a corsage he picked out - baby 's breath , white roses and red , white and blue ribbons . "
+The family,think.01,it was,,Affirmative,The family thought it was a prank . 
+we,call.01,the number,,Affirmative,"But then we called the number that came with it , and it was his personal secretary , said Maselli , 18 . "
+"Maselli , 18",say.01,But then we called,,Affirmative,"But then we called the number that came with it , and it was his personal secretary , said Maselli , 18 . "
+"Maselli , 18",say.01,invitation began as,,Affirmative,Maselli said the invitation began as a joke with her friends . 
+her,say.01,she thought,,Affirmative,She said she thought Biden was funny and would be fun to hang out with . 
+her,think.01,Biden was funny and,,Affirmative,She said she thought Biden was funny and would be fun to hang out with . 
+her,tolerate.01,school dance,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in all of America - Joe Biden , she wrote . "
+by,escort.01,her,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in all of America - Joe Biden , she wrote . "
+her,write.01,I could only tolerate,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in all of America - Joe Biden , she wrote . "
+her,fear.01,", I may have",,Affirmative,"I fear if you turn me down , I may have to invite Speaker John Boehner , and we ca n't have that now can we . "
+you,turn.05,her,,Affirmative,"I fear if you turn me down , I may have to invite Speaker John Boehner , and we ca n't have that now can we . "
+her,invite.01,Speaker John Boehner,,Affirmative,"I fear if you turn me down , I may have to invite Speaker John Boehner , and we ca n't have that now can we . "
+we,have.03,you,,Affirmative,"I fear if you turn me down , I may have to invite Speaker John Boehner , and we ca n't have that now can we . "
+office,arrange.01,for Maselli to meet him at,,Affirmative,Biden 's office is arranging for Maselli to meet him at the White House in July . 
+"Maselli , 18",meet.03,Vice President Joe Biden to her high school prom,,Affirmative,Biden 's office is arranging for Maselli to meet him at the White House in July . 
+Police,say.01,woman trying,,Affirmative,Police say a woman trying to keep her family from learning she had dropped out of college called in bomb threats to a commencement ceremony at Quinnipiac University in Connecticut . 
+a woman,try.01,to keep,,Affirmative,Police say a woman trying to keep her family from learning she had dropped out of college called in bomb threats to a commencement ceremony at Quinnipiac University in Connecticut . 
+a woman,keep.04,The family,from learning,Affirmative,Police say a woman trying to keep her family from learning she had dropped out of college called in bomb threats to a commencement ceremony at Quinnipiac University in Connecticut . 
+a woman,learn.01,she had dropped out of college called in,,Affirmative,Police say a woman trying to keep her family from learning she had dropped out of college called in bomb threats to a commencement ceremony at Quinnipiac University in Connecticut . 
+Hamden police,say.01,mother was paying thousands of dollars,,Affirmative,"Hamden police said Shea 's mother was paying thousands of dollars she thought was for her daughter 's education , but Shea left college this year because of financial issues , including an unpaid tuition balance . "
+Shea,leave.02,college,,Affirmative,"Hamden police said Shea 's mother was paying thousands of dollars she thought was for her daughter 's education , but Shea left college this year because of financial issues , including an unpaid tuition balance . "
+police Capt. Ronald Smith,say.01,She was living,,Affirmative,"She was living off - campus , police Capt. Ronald Smith said . "

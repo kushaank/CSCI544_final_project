@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,vote.01,on comments,,Affirmative,You must be registered to comment and vote on comments . 
+professor Peter Erlinder,add.02,another controversy,to,Affirmative,Law professor Peter Erlinder can add another controversy to his résumé . 
+You,recall.02,he created headlines,,Affirmative,You may recall he created headlines when he was imprisoned in Rwanda in 2010 and it took an international campaign to free him . 
+Law professor Peter Erlinder,create.01,headlines,,Affirmative,You may recall he created headlines when he was imprisoned in Rwanda in 2010 and it took an international campaign to free him . 
+Rwanda,take.01,an international campaign,,Affirmative,You may recall he created headlines when he was imprisoned in Rwanda in 2010 and it took an international campaign to free him . 
+Law professor Peter Erlinder,sue.01,Paul school,,Affirmative,"A tenured professor at William Mitchell College of Law since 1986 , Erlinder sued the St. Paul school in February . "
+A tenured professor at William Mitchell College of Law,claim.01,he had been unjustly barred from campus,,Affirmative,He claimed he had been unjustly barred from campus for behavior triggered by post-traumatic stress syndrome that he developed after the Rwanda experience . 
+by,trigger.01,behavior triggered by,,Affirmative,He claimed he had been unjustly barred from campus for behavior triggered by post-traumatic stress syndrome that he developed after the Rwanda experience . 
+William Mitchell College of Law,deny.01,his allegations,,Affirmative,The college vigorously denied his allegations . 
+"Judge Donovan Frank , appointed",avoid.01,an appearance of,,Affirmative,"To avoid an appearance of a conflict of interest , federal Judge Donovan Frank , appointed to hear the case , recused himself in April , noting he was an adjunct professor at William Mitchell . "
+"Judge Donovan Frank , appointed",hear.01,the case,,Affirmative,"To avoid an appearance of a conflict of interest , federal Judge Donovan Frank , appointed to hear the case , recused himself in April , noting he was an adjunct professor at William Mitchell . "
+"Judge Donovan Frank , appointed",recuse.01,Donovan Frank,,Affirmative,"To avoid an appearance of a conflict of interest , federal Judge Donovan Frank , appointed to hear the case , recused himself in April , noting he was an adjunct professor at William Mitchell . "
+"Judge Donovan Frank , appointed",note.01,he was,,Affirmative,"To avoid an appearance of a conflict of interest , federal Judge Donovan Frank , appointed to hear the case , recused himself in April , noting he was an adjunct professor at William Mitchell . "
+Judge Michael Davis,disqualify.01,21 federal judges and magistrates,from presiding over,Affirmative,"Within hours , Minnesota 's Chief U.S. District Judge Michael Davis disqualified the state 's 21 federal judges and magistrates from presiding over the case . "
+Court sources,say.01,he wanted,,Affirmative,Court sources said he wanted to avoid any appearance of a conflict of interest . 
+Minnesota 's Chief U.S. District Judge Michael Davis,want.01,to avoid,,Affirmative,Court sources said he wanted to avoid any appearance of a conflict of interest . 
+Minnesota 's Chief U.S. District Judge Michael Davis,avoid.01,any appearance of,,Affirmative,Court sources said he wanted to avoid any appearance of a conflict of interest . 
+Many of,have.03,ties to,,Affirmative,"Many of the judges have ties to William Mitchell , and Erlinder is well known to the judiciary , having championed a variety of social justice causes before the court . "
+Minnesota 's Chief U.S. District Judge Michael Davis,recuse.01,the entire federal bench,,Affirmative,"Davis has recused the entire federal bench on several other occasions , court sources say . "
+Court sources,say.01,Davis has recused,,Affirmative,"Davis has recused the entire federal bench on several other occasions , court sources say . "
+Minnesota 's Chief U.S. District Judge Michael Davis,do.02,the entire federal bench,,Affirmative,"He did it in 2012 , when attorney Jill Clark sued Hennepin District Court and others , including Davis . "
+attorney Jill Clark,sue.01,"Hennepin District Court and others , including Davis",,Affirmative,"He did it in 2012 , when attorney Jill Clark sued Hennepin District Court and others , including Davis . "
+"attorney ,",file.01,a new suit,,Affirmative,"Just over a week ago , Erlinder 's attorney , Peter Nickitas , filed a new suit on his behalf , similar to the first one , but adding new claims . "
+"attorney ,",add.02,the new claims,,Affirmative,"Just over a week ago , Erlinder 's attorney , Peter Nickitas , filed a new suit on his behalf , similar to the first one , but adding new claims . "
+a lawyer,amend.01,an existing suit,,Affirmative,"Normally a lawyer would amend an existing suit , but with no judge appointed , Nickitas said he worried that the deadline would expire for approving the new claims . "
+Peter Nickitas,say.01,he worried,,Affirmative,"Normally a lawyer would amend an existing suit , but with no judge appointed , Nickitas said he worried that the deadline would expire for approving the new claims . "
+no judge appointed,worry.01,deadline would expire for approving,,Affirmative,"Normally a lawyer would amend an existing suit , but with no judge appointed , Nickitas said he worried that the deadline would expire for approving the new claims . "
+Minnesota 's Chief U.S. District Judge Michael Davis,disqualify.01,every federal judge,from hearing,Affirmative,"Last Monday , for the second time in a month , he disqualified every federal judge in Minnesota from hearing the Erlinder case . "
+Minnesota 's Chief U.S. District Judge Michael Davis,hear.01,the Erlinder case,,Affirmative,"Last Monday , for the second time in a month , he disqualified every federal judge in Minnesota from hearing the Erlinder case . "

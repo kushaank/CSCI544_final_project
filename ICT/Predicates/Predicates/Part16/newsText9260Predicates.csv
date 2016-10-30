@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+D.C. police on Monday,arrest.01,a second suspect in,,Affirmative,D.C. police on Monday arrested a second suspect in the May 6 beating death of a 60 - year - old man who authorities said was robbed along a strip of restaurants and taverns on Capitol Hill 's Barracks Row . 
+authorities,say.01,old man,,Affirmative,D.C. police on Monday arrested a second suspect in the May 6 beating death of a 60 - year - old man who authorities said was robbed along a strip of restaurants and taverns on Capitol Hill 's Barracks Row . 
+D.C. police on Monday,say.01,Patrick was arrested,,Affirmative,Police said Patrick was arrested about 7:15 a.m. by members of the Capital Area Regional Fugitive Task Force . 
+by members of,arrest.01,Earl Patrick,,Affirmative,Police said Patrick was arrested about 7:15 a.m. by members of the Capital Area Regional Fugitive Task Force . 
+D.C. police on Monday,say.01,was attacked,,Affirmative,"Patrick , along with Zerrick Brown , 42 , of Northwest , are each charged in the slaying of Carlton Coltrane , of Southeast , who police said was attacked about 12:50 a.m. at a 7 - Eleven store in the 400 block of Eighth Street SE , about two blocks from the Eastern Market Metro station . "
+Carlton Coltrane,buy.01,groceries,,Affirmative,"According to a charging document filed last week in D.C. Superior Court , Coltrane was inside the convenience store buying groceries when a man standing next to him at the cashier grabbed him and dragged him out of the store . "
+a man standing next to him,grab.01,Carlton Coltrane,,Affirmative,"According to a charging document filed last week in D.C. Superior Court , Coltrane was inside the convenience store buying groceries when a man standing next to him at the cashier grabbed him and dragged him out of the store . "
+a man standing next to him,drag.01,Carlton Coltrane,out of,Affirmative,"According to a charging document filed last week in D.C. Superior Court , Coltrane was inside the convenience store buying groceries when a man standing next to him at the cashier grabbed him and dragged him out of the store . "
+a charging document filed last week in D.C. Superior Court,say.01,man joined,,Affirmative,"The document says another man joined the attack and one of them punched Coltrane in the head , causing him to fall to the ground . "
+another man,join.01,the attack,,Affirmative,"The document says another man joined the attack and one of them punched Coltrane in the head , causing him to fall to the ground . "
+one of them,punch.01,Coltrane,,Affirmative,"The document says another man joined the attack and one of them punched Coltrane in the head , causing him to fall to the ground . "
+one of them,cause.01,him to fall to,,Affirmative,"The document says another man joined the attack and one of them punched Coltrane in the head , causing him to fall to the ground . "
+court documents,say.01,he left,,Affirmative,"Coltrane was taken to United Medical Center in Southeast , but court documents say he left before he was treated . "
+relatives,notice.01,his injuries,,Affirmative,"At home , relatives noticed his injuries and called an ambulance . "
+D.C. police on Monday,say.01,he was taken to,,Affirmative,"Police said he was taken to George Washington University Hospital , where he was treated and released . "
+police,say.01,victim continued,,Affirmative,"Later that night , police said the victim continued to have problems and called 911 . "
+the victim,have.03,problems,,Affirmative,"Later that night , police said the victim continued to have problems and called 911 . "
+the victim,call.02,911,,Affirmative,"Later that night , police said the victim continued to have problems and called 911 . "
+D.C. police on Monday,say.01,Coltrane died May 9,,Affirmative,"Police said Coltrane died May 9 , and his death has been ruled a homicide . "
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

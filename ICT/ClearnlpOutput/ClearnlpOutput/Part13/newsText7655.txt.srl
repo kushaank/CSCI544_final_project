@@ -1,0 +1,3924 @@
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yekaterina	yekaterina	NNP	p2=NN	2	nn	_
+2	Gerashchenko	gerashchenko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	State	state	NN	p2=NNP	7	nn	_
+7	returns	return	NNS	p2=VBZ	4	dobj	4:A1=PPT
+8	to ceremony	to ceremony	''	p2=NN	4	punct	_
+9	"	"	''	p2=``	4	punct	_
+10	says	say	VBZ	pb=say.01	4	ccomp	_
+11	that	that	IN	p2=WDT	16	complm	_
+12	the Construction	the construction	NNP	p2=NN	13	nn	_
+13	Ministry	ministry	NNP	_	16	nsubjpass	_
+14	has	have	VBZ	_	16	aux	_
+15	been	be	VBN	_	16	auxpass	_
+16	made	make	VBN	pb=make.02	10	ccomp	10:A1=PPT
+17	responsible	responsible	JJ	_	20	amod	_
+18	for the	for the	JJ	p2=HYPH	19	amod	_
+19	funeral	funeral	NN	_	20	nn	_
+20	market	market	NN	_	16	dobj	16:A1=PRD
+21	;	;	:	p2=,	20	punct	_
+22	pp	pp	NN	p2=IN	16	npadvmod	_
+23	1	0	CD	_	22	num	_
+24	,	,	,	_	22	punct	_
+25	12	0	CD	_	22	appos	_
+26	(	(	-LRB-	_	28	punct	_
+27	510	0	CD	_	28	num	_
+28	words	word	NNS	_	22	appos	_
+29	)	)	-RRB-	_	28	punct	_
+30	.	.	.	_	4	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Svetlana	svetlana	NNP	p2=JJ	2	nn	_
+2	Dementyeva	dementyeva	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Reorganization	reorganization	NN	p2=NNP	10	nsubj	10:A0
+7	vs.	vs.	IN	p2=HYPH	6	prep	_
+8	sanctions	sanction	NNS	_	7	pobj	_
+9	"	"	''	_	10	punct	_
+10	says	say	VBZ	pb=say.01	4	ccomp	4:A1=PPT
+11	that	that	IN	p2=DT	26	complm	_
+12	SMP	smp	NNP	_	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	Bank	bank	NNP	_	26	nsubj	16:A0=PAG;26:A0=PAG
+15	,	,	,	_	14	punct	_
+16	owned	own	VBN	p2=VBD|pb=own.01	14	partmod	_
+17	by the	by the	IN	p2=NNP	16	prep	16:AM-MNR
+18	Rotenberg	rotenberg	NNP	p2=NNPS	19	nn	_
+19	brothers	brother	NNS	p2=VBZ	17	pobj	_
+20	close	close	JJ	p2=VBP	19	amod	_
+21	to the	to the	DT	p2=IN	23	det	_
+22	Russian	russian	JJ	_	23	amod	_
+23	president	president	NN	_	14	appos	_
+24	,	,	,	_	14	punct	_
+25	will	will	MD	_	26	aux	26:AM-MOD
+26	allocate	allocate	VB	pb=allocate.01	10	ccomp	10:A1=PPT
+27	117	0	CD	_	28	number	_
+28	billion	#crd#	CD	_	29	num	_
+29	rubles	ruble	NNS	_	26	dobj	26:A1=PPT;42:A1=PPT
+30	(	(	-LRB-	_	29	punct	_
+31	$	$	$	_	33	quantmod	_
+32	3.35	0	CD	_	33	number	_
+33	billion	#crd#	CD	_	29	appos	_
+34	)	)	-RRB-	_	29	punct	_
+35	to reorganize	to reorganize	NNP	p2=VB	37	nn	_
+36	Mosoblbank	mosoblbank	NNP	_	37	nn	_
+37	and two	and two	NNP	p2=IN	29	appos	_
+38	its	its	PRP$	_	39	poss	_
+39	subsidiaries	subsidiary	NNS	_	29	appos	_
+40	that	that	WDT	p2=RB	42	nsubj	42:R-A1
+41	have	have	VBP	_	42	aux	_
+42	gone	go	VBN	pb=go.08	29	rcmod	_
+43	bankrupt	bankrupt	JJ	_	42	acomp	42:A2=PRD
+44	.	.	.	_	4	punct	_
+
+1	The move	the move	EX	p2=DT	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	help	help	VB	pb=help.01	0	root	_
+4	SMP	smp	NNP	p2=VB	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	Bank	bank	NNP	_	7	nsubj	7:A0=PAG
+7	survive	survive	VBP	p2=VB|pb=survive.01	3	ccomp	3:A1=PPT
+8	the U.S	the u.s	NNS	p2=RB	7	dobj	7:A1=PPT
+9	.	.	.	_	3	punct	_
+
+1	sanctions	sanction	NNS	_	0	root	_
+2	;	;	:	_	1	punct	_
+3	pp	pp	NN	p2=VBP	1	appos	_
+4	1	0	CD	_	3	num	_
+5	,	,	,	_	3	punct	_
+6	10	0	CD	_	3	appos	_
+7	(	(	-LRB-	_	9	punct	_
+8	1,138	0	CD	_	9	num	_
+9	words	word	NNS	_	3	appos	_
+10	)	)	-RRB-	_	9	punct	_
+11	.	.	.	_	1	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Renata	renata	NNP	p2=NNS	2	nn	_
+2	Yambayeva	yambayeva	NNP	_	0	root	_
+3	et	et	NN	p2=NNP	4	nn	_
+4	al	al	NN	p2=NNP	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	interview	interview	NN	p2=VB	21	dep	_
+2	with	with	IN	_	1	prep	_
+3	Moscow	moscow	NNP	_	4	nn	_
+4	Mayor	mayor	NNP	_	6	nn	_
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Sobyanin	sobyanin	NNP	_	2	pobj	_
+7	,	,	,	_	8	punct	_
+8	headlined	headline	VBD	pb=headline.01	1	partmod	_
+9	"	"	``	p2=''	8	punct	_
+10	'	'	``	p2=POS	13	punct	_
+11	We	we	PRP	_	13	nsubj	13:A0=PAG
+12	are	be	VBP	_	13	aux	_
+13	doing	do	VBG	pb=do.02	8	ccomp	8:A1=PPT
+14	our	our	PRP$	_	15	poss	_
+15	best	good	JJS	p2=RBS	13	dobj	13:A1=PPT
+16	not	not	RB	_	17	neg	_
+17	to attract	to attract	VB	p2=JJ	18	nn	_
+18	funds	fund	NNS	_	19	nsubj	_
+19	for which	for which	JJ	p2=VBP	28	nsubj	_
+20	there	there	EX	_	21	expl	_
+21	is	be	VBZ	pb=be.02	0	root	_
+22	no	no	DT	_	23	det	_
+23	need	need	NN	p2=``	21	attr	21:A1=PPT
+24	now	now	RB	_	23	advmod	_
+25	,	,	,	_	21	punct	_
+26	'	'	''	_	21	punct	_
+27	"	"	``	p2=''	28	punct	_
+28	speaking	speak	VBG	pb=speak.01	21	xcomp	_
+29	about	about	IN	p2=RB	28	prep	28:A1=PPT
+30	the Moscow	the moscow	JJ	p2=CD	32	amod	_
+31	city	city	NN	_	32	nn	_
+32	authorities	authority	NNS	_	39	poss	_
+33	'	'	POS	_	32	possessive	_
+34	short	short	JJ	p2=RB	36	hmod	_
+35	-	-	HYPH	_	36	hyph	_
+36	and long	and long	JJ	p2=NNP	38	hmod	_
+37	-	-	HYPH	_	38	hyph	_
+38	term	term	NN	_	39	nn	_
+39	plans	plan	NNS	_	29	pobj	_
+40	;	;	:	p2=,	39	punct	_
+41	pp	pp	NN	p2=IN	39	appos	_
+42	1	0	CD	_	41	num	_
+43	,	,	,	_	41	punct	_
+44	4	0	CD	_	41	appos	_
+45	(	(	-LRB-	_	47	punct	_
+46	2,842	0	CD	_	47	num	_
+47	words	word	NNS	_	41	appos	_
+48	)	)	-RRB-	_	47	punct	_
+49	.	.	.	_	21	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Ivan	ivan	NNP	p2=JJ	2	nn	_
+2	Safronov	safronov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Russia	russia	NNP	_	7	nsubj	7:A0=PAG
+7	encourages	encourage	VBZ	pb=encourage.02	4	ccomp	4:A1=PPT
+8	China	china	NNP	_	7	dobj	7:A1=PPT
+9	"	"	''	p2=NNP	7	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=DT	16	complm	_
+12	military	military	JJ	p2=NN	14	amod	_
+13	and technical	and technical	JJ	p2=NNP	14	amod	_
+14	cooperation	cooperation	NN	_	16	nsubj	16:A0=PPT
+15	will	will	MD	_	16	aux	16:AM-MOD
+16	top	top	VB	p2=RB|pb=top.02	10	ccomp	10:A1=PPT
+17	the agenda	the agenda	NNP	p2=RB	20	nn	_
+18	of President	of president	NNP	p2=POS	20	nn	_
+19	Vladimir	vladimir	NNP	_	20	nn	_
+20	Putin	putin	NNP	_	23	poss	_
+21	's	's	POS	_	20	possessive	_
+22	upcoming	upcoming	JJ	_	23	amod	_
+23	visit	visit	NN	p2=VB	16	dobj	16:A1=PPT;27:A1=PPT
+24	to China	to china	NNP	p2=NN	23	appos	_
+25	,	,	,	_	23	punct	_
+26	which	which	WDT	_	27	nsubj	27:R-A1
+27	begins	begin	VBZ	pb=begin.01	23	rcmod	_
+28	on May	on may	NNP	p2=IN	31	nn	_
+29	20	0	CD	_	28	num	_
+30	;	;	:	_	17	punct	_
+31	pp	pp	NN	p2=VBP	23	appos	_
+32	1	0	CD	_	31	num	_
+33	,	,	,	_	31	punct	_
+34	8	0	CD	_	31	appos	_
+35	(	(	-LRB-	_	37	punct	_
+36	665	0	CD	_	37	num	_
+37	words	word	NNS	_	31	appos	_
+38	)	)	-RRB-	_	37	punct	_
+39	.	.	.	_	10	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Natalya	natalya	NNP	p2=FW	5	nn	_
+2	Korchenkova	korchenkova	NNP	_	4	nn	_
+3	and Ivan	and ivan	NNP	_	4	nn	_
+4	Kuznetsov	kuznetsov	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=VBN|pb=headline.01	15	ccomp	_
+7	"	"	``	_	6	punct	_
+8	Foreign	foreign	JJ	_	9	amod	_
+9	accounts	account	NNS	_	10	nn	_
+10	ban	ban	NN	p2=VBP	11	nn	_
+11	to be	to be	NN	p2=NNP	12	nsubj	12:A0=PAG
+12	made	make	VBD	p2=VBN|pb=make.02	6	ccomp	_
+13	detailed	detailed	JJ	p2=VBN	15	nsubj	_
+14	"	"	''	_	15	punct	_
+15	says	say	VBZ	pb=say.01	0	root	_
+16	that	that	IN	_	23	complm	_
+17	Federation	federation	NNP	_	21	nn	_
+18	Council	council	NNP	_	19	nn	_
+19	Senator	senator	NNP	_	21	nn	_
+20	Andrei	andrei	NNP	_	21	nn	_
+21	Klishas	klishas	NNP	p2=NNPS	23	nsubj	23:A0=PAG;24:A0=PAG
+22	has	have	VBZ	_	23	aux	_
+23	suggested	suggest	VBN	pb=suggest.01	15	ccomp	15:A1=PPT
+24	specifying	specify	VBG	pb=specify.01	23	xcomp	23:A1=PPT
+25	the notion	the notion	NN	p2=RP	29	nn	_
+26	"	"	``	p2=''	29	punct	_
+27	foreign	foreign	JJ	_	29	amod	_
+28	financial	financial	JJ	_	29	amod	_
+29	instruments	instrument	NNS	_	24	dobj	24:A1=PPT
+30	"	"	''	_	29	punct	_
+31	that	that	IN	p2=WDT	40	dobj	_
+32	Russian	russian	JJ	_	33	amod	_
+33	officials	official	NNS	_	12	dobj	_
+34	,	,	,	_	33	punct	_
+35	lawmakers	lawmaker	NNS	_	36	nn	_
+36	and election	and election	NN	p2=VBP	37	nn	_
+37	nominees	nominee	NNS	_	39	nsubjpass	40:A0;39:A2=GOL
+38	are	be	VBP	_	39	auxpass	_
+39	banned	ban	VBN	pb=ban.01	29	rcmod	_
+40	from having	from having	VBG	p2=NNP|pb=from having.01	39	xcomp	39:A1=PPT
+41	;	;	:	_	40	punct	_
+42	p	p	IN	p2=RB	46	prep	_
+43	2	0	CD	_	46	num	_
+44	(	(	-LRB-	_	46	punct	_
+45	606	0	CD	_	46	num	_
+46	words	word	NNS	_	33	appos	_
+47	)	)	-RRB-	_	46	punct	_
+48	.	.	.	_	15	punct	_
+
+1	6	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Sergei	sergei	NNP	p2=CD	2	nn	_
+2	Goryashko	goryashko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG;12:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Mikhail	mikhail	NNP	_	7	nn	_
+7	Barshchevsky	barshchevsky	NNP	_	8	nsubj	8:A0
+8	displays	display	VBZ	pb=display.01	4	ccomp	4:A1=PPT
+9	his	his	PRP$	_	10	poss	_
+10	opulence	opulence	NN	_	8	dobj	8:A1=PPT
+11	"	"	''	p2=``	8	punct	_
+12	looks	look	VBZ	p2=NNS|pb=look.02	4	conj	_
+13	at the	at the	SYM	p2=NNP	14	punct	_
+14	2013	0	CD	_	16	num	_
+15	income	income	NN	_	16	nn	_
+16	declarations	declaration	NNS	_	12	dobj	17:A0=PAG;12:A1=PPT
+17	submitted	submit	VBN	p2=VBD|pb=submit.01	16	partmod	_
+18	by the	by the	DT	p2=JJ	20	det	_
+19	government	government	NN	_	20	nn	_
+20	staff	staff	NN	_	17	dobj	17:A1=PPT
+21	.	.	.	_	12	punct	_
+
+1	Government	government	NN	p2=NNP	2	nn	_
+2	envoy	envoy	NN	_	4	nn	_
+3	to supreme	to supreme	NNP	p2=VBD	4	nn	_
+4	courts	court	NNS	p2=VBZ	12	nsubj	12:A1
+5	Mikhail	mikhail	NNP	_	6	nn	_
+6	Barshchevsky	barshchevsky	NNP	_	8	nsubj	8:A0=PAG
+7	has	have	VBZ	_	8	aux	_
+8	turned	turn	VBN	pb=turn.02	4	rcmod	_
+9	to be	to be	NNP	p2=RP	10	nn	_
+10	the richest	the richest	JJS	p2=NNP	8	oprd	8:A2=PRD
+11	,	,	,	_	12	punct	_
+12	followed	followed	VBD	p2=VBN|pb=follow.01	0	root	_
+13	by government	by government	NN	p2=NNP	14	nn	_
+14	envoy	envoy	NN	_	16	nn	_
+15	to the	to the	NNP	p2=NN	16	nn	_
+16	Federation	federation	NNP	_	19	nn	_
+17	Council	council	NNP	_	19	nn	_
+18	Vladimir	vladimir	NNP	_	19	nn	_
+19	Yatskin	yatskin	NNP	_	12	dobj	12:A2
+20	;	;	:	_	12	punct	_
+21	p	p	CD	p2=VBD	22	number	_
+22	2	0	CD	_	25	num	_
+23	(	(	-LRB-	_	25	punct	_
+24	761	0	CD	_	25	num	_
+25	words	word	NNS	_	8	dobj	8:A1=PPT
+26	)	)	-RRB-	_	25	punct	_
+27	.	.	.	_	12	punct	_
+
+1	7	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Sofia	sofia	NNP	p2=NN	2	nn	_
+2	Samokhina	samokhina	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	p2=''	4	punct	_
+6	Andrei	andrei	NNP	p2=FW	7	nn	_
+7	Lugovoi	lugovoi	NNP	p2=FW	8	nn	_
+8	misunderstood	misunderstood	NN	p2=VBD	11	nsubj	11:A0
+9	twice	twice	RB	p2=NN	11	advmod	_
+10	"	"	''	p2=``	11	punct	_
+11	says	say	VBZ	pb=say.01	4	ccomp	_
+12	that	that	IN	p2=DT	19	complm	_
+13	the president	the president	NNP	p2=EX	17	poss	_
+14	's	's	POS	_	13	possessive	_
+15	human	human	JJ	p2=NN	16	amod	_
+16	rights	right	NNS	_	17	nn	_
+17	council	council	NN	_	19	nsubj	19:A0=PAG
+18	has	have	VBZ	_	19	aux	_
+19	condemned	condemn	VBN	pb=condemn.01	11	ccomp	11:A1=PPT
+20	State	state	NNP	p2=NN	21	nn	_
+21	Duma	duma	NNP	_	22	nn	_
+22	lawmaker	lawmaker	NN	_	24	nn	_
+23	Andrei	andrei	NNP	_	24	nn	_
+24	Lugovoi	lugovoi	NNP	_	28	poss	_
+25	's	's	POS	_	24	possessive	_
+26	recent	recent	JJ	_	28	amod	_
+27	legislative	legislative	JJ	_	28	amod	_
+28	initiatives	initiative	NNS	_	19	dobj	29:A0=PPT;19:A1=PPT
+29	concerning	concern	VBG	pb=concern.02	28	partmod	_
+30	the performance	the performance	NN	p2=RB	29	dobj	29:A1=PPT
+31	of nongovernmental	of nongovernmental	JJ	p2=NN	32	amod	_
+32	organizations	organization	NNS	_	33	nn	_
+33	and prosecution	and prosecution	NN	p2=NNP	29	dobj	34:A0
+34	for concealing	for concealing	VBG	pb=for concealing.01	33	partmod	_
+35	foreign	foreign	JJ	_	36	amod	_
+36	citizenship	citizenship	NN	_	34	dobj	34:A1
+37	;	;	:	p2=,	42	punct	_
+38	p	p	RB	p2=VBG	42	advmod	_
+39	3	0	CD	_	42	num	_
+40	(	(	-LRB-	_	42	punct	_
+41	591	0	CD	_	42	num	_
+42	words	word	NNS	_	0	root	_
+43	)	)	-RRB-	_	42	punct	_
+44	.	.	.	_	4	punct	_
+
+1	8	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=JJ	2	nn	_
+2	Shapovalov	shapovalov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=NNP|pb=headline.01	14	ccomp	_
+5	"	"	``	_	10	punct	_
+6	Customs	customs	NNP	_	7	nn	_
+7	Union	union	NNP	_	10	nsubj	10:A0=PAG
+8	does	do	VBZ	_	10	aux	_
+9	not	not	RB	_	10	neg	10:AM-NEG
+10	grow	grow	VB	pb=grow.01	4	ccomp	4:A1=PPT
+11	together	together	RB	_	10	advmod	10:A2=EXT
+12	by trade	by trade	NN	p2=NNP	10	dobj	10:A1=PPT
+13	"	"	''	_	10	punct	_
+14	says	say	VBZ	pb=say.01	0	root	_
+15	that	that	DT	p2=IN	16	det	_
+16	trade	trade	NN	_	23	nsubj	23:A0
+17	among	among	IN	_	16	prep	_
+18	the Customs	the customs	NNP	p2=PRP$	19	nn	_
+19	Union	union	NNP	_	21	nn	_
+20	member	member	NN	_	21	nn	_
+21	states	state	NNS	_	17	pobj	_
+22	has	have	VBZ	_	23	aux	_
+23	reduced	reduce	VBN	pb=reduce.01	14	ccomp	14:A1=PPT
+24	almost	almost	RB	_	25	advmod	25:AM-ADV
+25	by 13	by 0	VBN	p2=CD|pb=by 0.01	26	amod	_
+26	percent	percent	NN	_	23	dobj	23:A1=PPT;25:A1
+27	over	over	IN	p2=RB	23	prep	23:AM-TMP
+28	a year	a year	NNP	p2=NN	27	pobj	_
+29	.	.	.	_	14	punct	_
+
+1	However	however	RB	_	6	advmod	6:AM-DIS
+2	,	,	,	_	6	punct	_
+3	the Eurasian	the eurasian	NNP	p2=IN	5	nn	_
+4	Economic	economic	NNP	_	5	nn	_
+5	Commission	commission	NNP	_	6	nsubj	6:A0;15:A0
+6	expects	expect	VBZ	pb=expect.01	0	root	_
+7	the situation	the situation	NNP	p2=NN	8	nn	_
+8	to change	to change	NNP	p2=NN	13	poss	_
+9	for the	for the	POS	p2=VB	8	possessive	_
+10	better	well	RBR	p2=JJR	13	advmod	_
+11	by the	by the	DT	p2=JJ	13	det	_
+12	end	end	NN	p2=VB	13	nn	_
+13	of 2014	of 0	NN	p2=CD	6	dobj	6:A1=PPT
+14	;	;	:	_	13	punct	_
+15	p	p	VBG	p2=NN|pb=p.01	6	advcl	_
+16	6	0	CD	_	19	num	_
+17	(	(	-LRB-	_	19	punct	_
+18	541	0	CD	_	19	num	_
+19	words	word	NNS	_	15	dobj	15:A1
+20	)	)	-RRB-	_	19	punct	_
+21	.	.	.	_	6	punct	_
+
+1	9	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Tatyana	tatyana	NNP	p2=NN	2	nn	_
+2	Yedovina	yedovina	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Hieroglyph	hieroglyph	NNP	p2=VB	7	nn	_
+7	of friendship	of friendship	NN	p2=NNP	4	dobj	4:A1=PPT
+8	"	"	''	_	4	punct	_
+9	previews	preview	VBZ	p2=NNS|pb=preview.01	0	root	_
+10	Putin	putin	NNP	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	visit	visit	NN	_	13	nn	_
+13	to China	to china	NNP	p2=NN	9	nsubj	9:A0=PAG;16:A1=PPT
+14	,	,	,	_	13	punct	_
+15	which	which	WDT	_	16	nsubj	16:R-A1
+16	begins	begin	VBZ	pb=begin.01	13	rcmod	_
+17	on May	on may	NNP	p2=IN	16	npadvmod	16:AM-TMP
+18	20	0	CD	_	17	num	_
+19	;	;	:	_	24	punct	_
+20	p	p	DT	p2=RB	21	quantmod	_
+21	6	0	CD	_	24	num	_
+22	(	(	-LRB-	_	24	punct	_
+23	560	0	CD	_	24	num	_
+24	words	word	NNS	_	17	appos	_
+25	)	)	-RRB-	_	24	punct	_
+26	.	.	.	_	9	punct	_
+
+1	10	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yury	yury	NN	p2=NNP	3	nn	_
+2	Barsukov	barsukov	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	p2=''	4	punct	_
+6	Gazprom	gazprom	NNP	p2=IN	7	nsubj	7:A0=PPT
+7	looks	look	VBZ	p2=NNS|pb=look.01	12	ccomp	_
+8	for gas	for gas	NNS	p2=NNP	10	poss	_
+9	in depths	in depths	POS	p2=NNS	8	possessive	_
+10	of Tanzania	of tanzania	NNP	p2=NNS	12	nsubj	12:A0=PAG
+11	"	"	``	p2=''	12	punct	_
+12	looks	look	VBZ	p2=NNS|pb=look.02	4	ccomp	4:A1=PPT
+13	at the	at the	DT	p2=VBN	16	det	_
+14	Russian	russian	JJ	_	16	amod	_
+15	gas	gas	NN	_	16	nn	_
+16	giant	giant	NN	_	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	plans	plan	NNS	_	12	dobj	12:A1=PPT
+19	for natural	for natural	JJ	p2=POS	22	amod	_
+20	resources	resource	NNS	_	21	nn	_
+21	development	development	NN	_	22	nn	_
+22	in Africa	in africa	NNP	p2=NN	12	dobj	_
+23	;	;	:	p2=,	22	punct	_
+24	p	p	CD	p2=VBG	25	number	_
+25	11	0	CD	_	28	num	_
+26	(	(	-LRB-	_	28	punct	_
+27	555	0	CD	_	28	num	_
+28	words	word	NNS	_	19	dobj	_
+29	)	)	-RRB-	_	28	punct	_
+30	.	.	.	_	4	punct	_
+
+1	11	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Vadim	vadim	NNP	p2=JJ	2	nn	_
+2	Nikiforov	nikiforov	NNP	_	4	nn	_
+3	brief	brief	JJ	p2=NN	4	amod	_
+4	report	report	NN	_	11	nsubj	11:A0
+5	"	"	''	p2=``	4	punct	_
+6	Crimean	crimean	NNP	p2=NN	7	nn	_
+7	Tatars	tatars	NNP	p2=NNPS	8	nsubj	8:A0=PAG
+8	moved	move	VBD	pb=move.01	4	rcmod	_
+9	to outskirts	to outskirts	NNS	p2=NNP	8	dobj	8:A1=PPT
+10	"	"	''	p2=``	8	punct	_
+11	says	say	VBZ	pb=say.01	0	root	_
+12	that	that	IN	p2=DT	24	complm	_
+13	a rally	a rally	RB	p2=NNP	24	advmod	24:AM-TMP
+14	by Crimean	by crimean	NNP	p2=JJ	16	nn	_
+15	Tatars	tatar	NNPS	p2=NNP	16	nn	_
+16	to mark	to mark	NNP	p2=POS	20	nn	_
+17	the 70th	the 0th	DT	p2=CD	18	det	_
+18	anniversary	anniversary	NN	p2=JJ	19	nn	_
+19	of the	of the	NN	p2=IN	20	nn	_
+20	deportation	deportation	NN	_	22	nn	_
+21	of Crimean	of crimean	NNP	p2=''	22	nn	_
+22	Tatars	tatars	NNP	p2=NNPS	24	nsubjpass	24:A1=PPT
+23	was	be	VBD	_	24	auxpass	_
+24	held	hold	VBN	pb=hold.04	11	ccomp	11:A1=PPT
+25	on the	on the	IN	p2=JJ	24	prep	24:AM-LOC
+26	outskirts	outskirt	NNS	_	25	pobj	_
+27	of Simferopol	of simferopol	IN	p2=NNP	26	prep	_
+28	on May	on may	NNP	p2=IN	27	pobj	_
+29	18	0	CD	_	28	num	_
+30	;	;	:	_	35	punct	_
+31	p	p	DT	p2=RB	32	quantmod	_
+32	3	0	CD	_	35	num	_
+33	(	(	-LRB-	_	35	punct	_
+34	150	0	CD	_	35	num	_
+35	words	word	NNS	_	20	appos	_
+36	)	)	-RRB-	_	35	punct	_
+37	.	.	.	_	11	punct	_
+
+1	12	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Ilya	ilya	NNP	p2=``	2	nn	_
+2	Barabanov	barabanov	NNP	_	3	nn	_
+3	report	report	NN	p2=VBP	14	nsubj	14:A0
+4	"	"	''	p2=``	3	punct	_
+5	'	'	POS	p2=``	3	punct	_
+6	Donetsk	donetsk	NNP	p2=FW	7	nn	_
+7	people	people	NNS	_	9	poss	_
+8	's	's	POS	_	7	possessive	_
+9	republic	republic	NN	_	11	nsubj	11:A0=PAG
+10	'	'	``	p2=POS	11	punct	_
+11	lacks	lack	VBZ	pb=lack.01	3	ccomp	_
+12	men	man	NNS	_	11	dobj	11:A1=PPT
+13	"	"	''	_	11	punct	_
+14	says	say	VBZ	pb=say.01	0	root	_
+15	that	that	IN	p2=DT	31	complm	_
+16	Igor	igor	NNP	_	17	nn	_
+17	Strelkov	strelkov	NNP	_	31	nsubj	31:A0=PAG
+18	,	,	,	_	17	punct	_
+19	defense	defense	NN	_	20	nn	_
+20	minister	minister	NN	_	21	nn	_
+21	of the	of the	NN	p2=HYPH	28	nn	_
+22	self	self	NN	_	24	hmod	_
+23	-	-	HYPH	_	24	hyph	_
+24	proclaimed	proclaim	VBN	_	28	amod	_
+25	Donetsk	donetsk	NNP	_	26	nn	_
+26	people	people	NNS	_	28	poss	_
+27	's	's	POS	_	26	possessive	_
+28	republic	republic	NN	_	17	appos	_
+29	,	,	,	_	17	punct	_
+30	has	have	VBZ	_	31	aux	_
+31	complained	complain	VBN	pb=complain.01	14	ccomp	14:A1=PPT
+32	about	about	IN	p2=RB	31	prep	31:A1=PPT
+33	a lack	a lack	JJ	p2=NN	34	amod	_
+34	of people	of people	NNS	p2=JJ	32	pobj	_
+35	ready	ready	JJ	_	37	amod	_
+36	to support	to support	NNP	p2=VBP	37	nn	_
+37	people	people	NNS	_	39	poss	_
+38	's	's	POS	_	37	possessive	_
+39	militia	militia	NN	_	34	appos	_
+40	;	;	:	_	45	punct	_
+41	p	p	CD	p2=VBG	42	number	_
+42	8	0	CD	_	45	num	_
+43	(	(	-LRB-	_	45	punct	_
+44	500	0	CD	_	45	num	_
+45	words	word	NNS	_	17	appos	_
+46	)	)	-RRB-	_	45	punct	_
+47	.	.	.	_	14	punct	_
+
+1	13	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yanina	yanina	NNP	p2=``	2	nn	_
+2	Sokolovskaya	sokolovskaya	NNP	_	3	nn	_
+3	report	report	NN	_	0	root	_
+4	"	"	''	p2=``	3	punct	_
+5	Federalization	federalization	NNP	p2=NN	6	nsubj	6:A2=PPT
+6	replaced	replace	VBD	p2=VBN|pb=replace.01	0	root	_
+7	by 	by 	NNP	p2=RBS	10	poss	_
+8	'	'	POS	p2=``	7	possessive	_
+9	economic	economic	JJ	_	10	amod	_
+10	experiment	experiment	NN	_	6	dobj	6:A1=PPT
+11	'	'	''	p2=POS	10	punct	_
+12	"	"	``	p2=''	13	punct	_
+13	looks	look	VBZ	p2=NNS|pb=look.02	6	ccomp	_
+14	at a	at a	NNP	p2=''	13	nsubj	13:A1=PPT
+15	'	'	``	p2=POS	19	punct	_
+16	conciliatory	conciliatory	JJ	_	19	amod	_
+17	'	'	''	_	19	punct	_
+18	round	round	NN	p2=JJ	19	nn	_
+19	table	table	NN	p2=JJ	14	appos	20:A0
+20	meeting	meeting	VBG	pb=meet.02	19	partmod	_
+21	in Kharkiv	in kharkiv	NNP	p2=''	20	dobj	20:A1
+22	.	.	.	_	6	punct	_
+
+1	The event	the event	NNP	p2=PRP	4	nsubj	4:A0=PAG
+2	has	have	VBZ	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	yielded	yield	VBN	pb=yield.01	23	ccomp	23:A1=PPT
+5	results	result	NNS	_	4	dobj	4:A1=PPT
+6	as	as	IN	p2=RB	8	mark	_
+7	the representatives	the representatives	NNS	p2=PRP	8	nsubj	8:A0
+8	of the	of the	VBP	p2=IN|pb=of the.01	4	advcl	4:AM-TMP
+9	Kiev	kiev	NNP	_	11	nn	_
+10	elite	elite	JJ	p2=NN	11	nn	_
+11	and Ukraine	and ukraine	NNP	p2=NN	15	poss	_
+12	's	's	POS	_	11	possessive	_
+13	central	central	JJ	_	15	amod	_
+14	and western	and western	JJ	p2=NN	15	amod	_
+15	regions	region	NNS	_	16	nsubj	16:A1=PPT
+16	were	be	VBD	pb=be.01	8	ccomp	8:A1
+17	the main	the main	JJ	p2=VBN	18	amod	_
+18	participants	participant	NNS	_	20	poss	_
+19	in the	in the	POS	p2=IN	18	possessive	_
+20	meeting	meeting	NN	_	16	attr	16:A2=PRD
+21	,	,	,	_	23	punct	_
+22	article	article	NN	_	23	nsubj	23:A0
+23	says	say	VBZ	pb=say.01	0	root	_
+24	;	;	:	p2=,	23	punct	_
+25	p	p	JJR	p2=FW	26	amod	_
+26	8	0	CD	_	29	num	_
+27	(	(	-LRB-	_	29	punct	_
+28	600	0	CD	_	29	num	_
+29	words	word	NNS	_	22	appos	_
+30	)	)	-RRB-	_	29	punct	_
+31	.	.	.	_	23	punct	_
+
+1	14	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yanina	yanina	NNP	p2=``	2	nn	_
+2	Sokolovskaya	sokolovskaya	NNP	_	3	nn	_
+3	report	report	NN	_	10	nsubj	10:A0
+4	"	"	''	p2=``	3	punct	_
+5	Donbass	donbass	NNP	p2=NN	6	nsubj	_
+6	unfolds	unfold	VBZ	pb=unfold.02	10	ccomp	_
+7	roads	road	NNS	_	8	nn	_
+8	and taxes	and taxes	NNP	p2=NNS	6	dobj	6:A1=PPT
+9	"	"	''	p2=``	6	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=DT	20	complm	_
+12	the self	the self	PRP	p2=NN	14	hmod	_
+13	-	-	HYPH	p2=,	14	hyph	_
+14	proclaimed	proclaim	VBN	p2=VBD	18	amod	_
+15	Donetsk	donetsk	NNP	_	18	nn	_
+16	people	people	NNS	_	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	republic	republic	NN	_	20	nsubj	20:A0=PAG
+19	has	have	VBZ	_	20	aux	_
+20	begun	begin	VBN	pb=begin.01	10	ccomp	10:A1=PPT
+21	to control	to control	JJ	p2=HYPH	23	amod	_
+22	local	local	JJ	_	23	amod	_
+23	business	business	NN	_	20	dobj	20:A1=PPT
+24	;	;	:	_	29	punct	_
+25	p	p	RB	p2=CC	29	advmod	_
+26	9	0	CD	_	29	num	_
+27	(	(	-LRB-	_	29	punct	_
+28	600	0	CD	_	29	num	_
+29	words	word	NNS	_	0	root	_
+30	)	)	-RRB-	_	29	punct	_
+31	.	.	.	_	10	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Vladimir	vladimir	NNP	p2=NN	2	nn	_
+2	Mukhin	mukhin	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Moscow	moscow	NNP	_	7	nn	_
+7	and Beijing	and beijing	NNP	_	8	nsubj	8:A0=PAG
+8	find	find	VBP	p2=VB|pb=find.01	4	ccomp	4:A1=PPT
+9	'	'	``	p2=NNP	10	punct	_
+10	Cooperation	cooperation	NNP	p2=NN	8	dobj	8:A1=PPT
+11	'	'	''	_	10	punct	_
+12	"	"	''	_	10	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	_	18	complm	_
+15	Russian	russian	JJ	_	16	amod	_
+16	warships	warship	NNS	_	18	nsubj	18:A1=PPT
+17	have	have	VBP	_	18	aux	_
+18	arrived	arrive	VBN	pb=arrive.01	13	ccomp	13:A1=PPT
+19	in Shanghai	in shanghai	NNP	p2=CD	20	nn	_
+20	for a	for a	NNP	p2=POS	26	nn	_
+21	joint	joint	JJ	p2=VBP	26	amod	_
+22	Russian	russian	JJ	p2=NNP	24	hmod	_
+23	-	-	HYPH	_	24	hyph	_
+24	Chinese	chinese	JJ	p2=NNPS	26	amod	_
+25	naval	naval	JJ	_	26	amod	_
+26	drill	drill	NN	_	30	nn	_
+27	in the	in the	NNP	p2=IN	30	nn	_
+28	East	east	NNP	_	30	nn	_
+29	China	china	NNP	_	30	nn	_
+30	Sea	sea	NNP	_	31	nsubj	31:A0=PAG
+31	set	set	VBD	p2=NN|pb=set.02	18	ccomp	_
+32	for May	for may	NNP	p2=RP	31	npadvmod	31:AM-TMP
+33	20-25	0	CD	_	32	num	_
+34	.	.	.	_	13	punct	_
+
+1	Putin	putin	NNP	_	17	npadvmod	17:AM-TMP
+2	,	,	,	_	1	punct	_
+3	who	who	WP	_	4	nsubj	4:R-A2
+4	comes	come	VBZ	pb=come.01	1	rcmod	_
+5	to China	to china	NNP	p2=``	7	poss	_
+6	for a	for a	POS	p2=NNP	5	possessive	_
+7	visit	visit	NN	p2=VB	4	dobj	4:A1=PPT
+8	on May	on may	NNP	p2=IN	7	npadvmod	_
+9	20	0	CD	_	8	num	_
+10	,	,	,	_	7	punct	_
+11	together	together	RB	_	12	advmod	_
+12	with	with	IN	_	7	prep	_
+13	his	his	PRP$	_	15	poss	_
+14	Chinese	chinese	JJ	_	15	amod	_
+15	counterpart	counterpart	NN	_	12	pobj	_
+16	will	will	MD	_	17	aux	17:AM-MOD
+17	open	open	VB	p2=JJ|pb=open.01	0	root	_
+18	the drill	the drill	RB	p2=DT	17	advmod	17:AM-MNR
+19	;	;	:	_	17	punct	_
+20	pp	pp	NN	p2=VB	17	conj	_
+21	1-2	0	CD	_	20	num	_
+22	(	(	-LRB-	_	24	punct	_
+23	584	0	CD	_	24	num	_
+24	words	word	NNS	_	20	appos	_
+25	)	)	-RRB-	_	24	punct	_
+26	.	.	.	_	17	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Velimir	velimir	NN	p2=NNP	3	nn	_
+2	Razuvayev	razuvayev	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Crimean	crimean	NNP	p2=VB	7	nn	_
+7	Tatar	tatar	NNP	_	8	nn	_
+8	coin	coin	NN	_	4	dobj	4:A1=PPT
+9	"	"	''	_	4	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=WDT	15	complm	_
+12	Crimean	crimean	NNP	_	13	nn	_
+13	Tatars	tatar	NNPS	p2=NNP	15	nsubj	15:A0=PAG
+14	have	have	VBP	_	15	aux	_
+15	staged	stage	VBN	p2=VBD|pb=stage.01	10	ccomp	10:A1=PPT
+16	a rally	a rally	RB	p2=NNP	17	advmod	_
+17	outside	outside	RB	p2=IN	15	advmod	_
+18	Simferopol	simferopol	NNP	p2=JJ	19	nn	_
+19	to commemorate	to commemorate	NNP	p2=NN	26	poss	_
+20	the victims	the victims	POS	p2=VBZ	19	possessive	_
+21	of the	of the	JJ	p2=NN	26	amod	_
+22	genocide	genocide	NN	_	23	nn	_
+23	of the	of the	NN	p2=IN	26	nn	_
+24	Crimean	crimean	NNP	p2=MD	25	nn	_
+25	Tatars	tatars	NNP	p2=NNPS	26	nn	_
+26	in 1944	in 0	NN	p2=CD	15	dobj	15:A1
+27	despite	despite	IN	_	26	prep	_
+28	a ban	a ban	NNP	p2=JJ	29	nsubj	29:A0
+29	to hold	to hold	VBD	p2=NNP|pb=to hold.01	15	advcl	_
+30	mass	mass	NN	p2=JJ	31	nn	_
+31	events	event	NNS	_	29	dobj	29:A1
+32	until	until	IN	_	29	prep	29:AM-TMP
+33	June	june	NNP	_	32	pobj	_
+34	6	0	CD	_	33	num	_
+35	;	;	:	_	42	punct	_
+36	pp	pp	IN	p2=JJ	42	prep	_
+37	1	0	CD	_	36	pobj	_
+38	,	,	,	_	42	punct	_
+39	3	0	CD	_	42	num	_
+40	(	(	-LRB-	_	42	punct	_
+41	570	0	CD	_	42	num	_
+42	words	word	NNS	_	33	appos	_
+43	)	)	-RRB-	_	42	punct	_
+44	.	.	.	_	10	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Mikhail	mikhail	NNP	p2=NN	2	nn	_
+2	Sergeyev	sergeyev	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	State	state	NN	p2=JJ	7	nn	_
+7	programs	program	NNS	_	8	nsubj	8:A0
+8	to be	to be	VBP	p2=''|pb=to be.01	4	ccomp	4:A1=PPT
+9	first	#ord#	JJ	p2=RB	11	amod	_
+10	to face	to face	NN	p2=IN	11	nn	_
+11	cuts	cut	NNS	_	8	dobj	8:A1
+12	"	"	''	_	8	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	p2=DT	17	complm	_
+15	the government	the government	NN	p2=NNP	17	nsubj	17:A0=PAG
+16	will	will	MD	_	17	aux	17:AM-MOD
+17	cut	cut	VB	pb=cut.03	13	ccomp	13:A1=PPT
+18	the financing	the financing	VBG	p2=JJ	17	dobj	17:A1=PPT
+19	of most	of most	IN	p2=RP	18	prep	_
+20	state	state	NN	_	21	nn	_
+21	programs	program	NNS	_	19	pobj	_
+22	due	due	JJ	p2=IN	21	amod	_
+23	to a	to a	IN	p2=NN	22	prep	_
+24	looming	loom	VBG	pb=loom.01	23	pcomp	_
+25	economic	economic	JJ	_	26	amod	_
+26	crisis	crisis	NN	_	24	dobj	24:A1=PAG
+27	;	;	:	p2=,	26	punct	_
+28	pp	pp	NN	p2=IN	22	npadvmod	_
+29	1	0	CD	_	28	num	_
+30	,	,	,	_	28	punct	_
+31	4	0	CD	_	28	appos	_
+32	(	(	-LRB-	_	34	punct	_
+33	808	0	CD	_	34	num	_
+34	words	word	NNS	_	28	appos	_
+35	)	)	-RRB-	_	34	punct	_
+36	.	.	.	_	13	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=DT	2	nn	_
+2	Gorbachev	gorbachev	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Eighty	#crd#	CD	_	7	num	_
+7	percent	percent	NN	_	8	nn	_
+8	of citizens	of citizens	NNS	p2=''	10	nsubj	10:A0=PAG
+9	still	still	RB	_	10	advmod	10:AM-TMP
+10	want	want	VBP	pb=want.01	4	ccomp	_
+11	to elect	to elect	JJ	p2=NN	12	amod	_
+12	mayors	mayor	NNS	_	10	dobj	10:A1=PPT
+13	"	"	''	_	10	punct	_
+14	says	say	VBZ	pb=say.01	0	root	_
+15	that	that	IN	p2=DT	26	complm	_
+16	a public	a public	JJ	p2=VBG	18	amod	_
+17	opinion	opinion	NN	_	18	nn	_
+18	poll	poll	NN	_	26	nsubj	26:A0=CAU;19:A1=PPT
+19	conducted	conduct	VBN	p2=VBD|pb=conduct.01	18	partmod	_
+20	by the	by the	IN	p2=DT	19	prep	19:AM-LOC
+21	independent	independent	JJ	_	22	amod	_
+22	pollster	pollster	NN	_	24	nn	_
+23	Levada	levada	NNP	_	24	nn	_
+24	Centre	centre	NNP	_	20	pobj	_
+25	has	have	VBZ	_	26	aux	_
+26	shown	show	VBN	pb=show.01	14	ccomp	14:A1=PPT
+27	that	that	IN	p2=DT	32	complm	_
+28	almost	almost	RB	_	29	advmod	_
+29	80	0	CD	_	30	num	_
+30	percent	percent	NN	_	31	nn	_
+31	of Russians	of russians	NNS	p2=SYM	32	nsubj	32:A0=PAG
+32	advocate	advocate	VBP	p2=VB|pb=advocate.01	26	ccomp	26:A1=PPT
+33	direct	direct	JJ	_	35	amod	_
+34	mayoral	mayoral	JJ	_	35	amod	_
+35	elections	election	NNS	_	37	poss	_
+36	in large	in large	POS	p2=IN	35	possessive	_
+37	cities	city	NNS	_	32	dobj	32:A1=PPT
+38	.	.	.	_	14	punct	_
+
+1	However	however	RB	_	7	advmod	7:AM-DIS
+2	,	,	,	_	7	punct	_
+3	this	this	DT	_	7	nsubjpass	_
+4	will	will	MD	_	7	aux	7:AM-MOD
+5	hardly	hardly	RB	_	7	advmod	7:AM-ADV
+6	be	be	VB	_	7	auxpass	_
+7	taken	take	VBN	pb=take.01	0	root	_
+8	into account	into account	NNP	p2=JJ	9	nn	_
+9	by the	by the	NNP	p2=IN	11	nn	_
+10	State	state	NNP	_	11	nn	_
+11	Duma	duma	NNP	_	7	dobj	7:A1=PPT
+12	when	when	WRB	_	13	advmod	13:R-AM-TMP
+13	considering	consider	VBG	pb=consider.02	7	advcl	7:AM-TMP
+14	the second	the second	RB	p2=IN	15	advmod	15:AM-MNR
+15	reading	read	VBG	pb=read.01	13	ccomp	13:A1=PPT
+16	of the	of the	IN	p2=DT	15	prep	15:A1=PPT
+17	local	local	JJ	_	19	amod	_
+18	government	government	NN	_	19	nn	_
+19	reform	reform	NN	_	16	pobj	22:A0=PAG
+20	that	that	WDT	_	22	nsubj	22:R-A0
+21	will	will	MD	_	22	aux	22:AM-MOD
+22	abolish	abolish	VB	pb=abolish.01	19	rcmod	_
+23	direct	direct	JJ	_	25	amod	_
+24	mayoral	mayoral	JJ	_	25	amod	_
+25	elections	election	NNS	_	26	nsubj	26:A0
+26	in large	in large	VBP	p2=IN|pb=in large.01	13	ccomp	_
+27	cities	city	NNS	_	26	dobj	26:A1;30:A1=PPT
+28	that	that	WDT	_	30	nsubjpass	30:R-A1
+29	are	be	VBP	_	30	auxpass	_
+30	divided	divide	VBN	pb=divide.02	27	rcmod	_
+31	into districts	into districts	NNS	p2=NNPS	30	oprd	_
+32	;	;	:	_	31	punct	_
+33	pp	pp	NN	p2=IN	31	appos	_
+34	1	0	CD	_	33	num	_
+35	,	,	,	_	33	punct	_
+36	4	0	CD	_	33	appos	_
+37	(	(	-LRB-	_	39	punct	_
+38	687	0	CD	_	39	num	_
+39	words	word	NNS	_	33	appos	_
+40	)	)	-RRB-	_	39	punct	_
+41	.	.	.	_	7	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Vladimir	vladimir	NNP	p2=NN	2	nn	_
+2	Skosyrev	skosyrev	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Gandhi	gandhi	NNP	p2=JJ	7	nn	_
+7	dynasty	dynasty	NN	_	8	nsubj	8:A0
+8	leaves	leave	VBZ	p2=NNS|pb=leave.01	11	ccomp	_
+9	scene	scene	NN	_	8	dobj	8:A1=DIR
+10	"	"	''	_	8	punct	_
+11	says	say	VBZ	pb=say.01	4	ccomp	4:A1=PPT
+12	that	that	IN	p2=WDT	17	complm	_
+13	the opposition	the opposition	NNP	p2=NN	16	nn	_
+14	Bharatya	bharatya	NNP	_	16	nn	_
+15	Janata	janata	NNP	_	16	nn	_
+16	Party	party	NNP	_	17	nsubj	17:A0=PAG
+17	led	lead	VBD	p2=VBN|pb=lead.02	11	ccomp	11:A1=PPT
+18	by Narendra	by narendra	NNP	_	19	nn	_
+19	Modi	modi	NNP	_	21	nsubj	21:A0=PAG
+20	has	have	VBZ	_	21	aux	_
+21	won	win	VBN	pb=win.01	17	ccomp	17:A1=PPT
+22	India	india	NNP	_	25	poss	_
+23	's	's	POS	_	22	possessive	_
+24	parliamentary	parliamentary	JJ	_	25	amod	_
+25	election	election	NN	_	21	dobj	21:A1=PPT
+26	.	.	.	_	4	punct	_
+
+1	The article	the article	NN	p2=NNP	3	nsubj	3:A0=PAG
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	features	feature	VBZ	pb=feature.01	0	root	_
+4	a Russian	a russian	JJ	p2=NNP	5	amod	_
+5	expert	expert	NN	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	comment	comment	NN	_	3	dobj	3:A1=PPT
+8	on the	on the	IN	p2=NN	7	prep	_
+9	issue	issue	NN	_	8	pobj	_
+10	;	;	:	_	7	punct	_
+11	pp	pp	NN	p2=CC	3	npadvmod	_
+12	1	0	CD	_	11	num	_
+13	,	,	,	_	11	punct	_
+14	6	0	CD	_	11	appos	_
+15	(	(	-LRB-	_	17	punct	_
+16	599	0	CD	_	17	num	_
+17	words	word	NNS	_	11	appos	_
+18	)	)	-RRB-	_	17	punct	_
+19	.	.	.	_	3	punct	_
+
+1	6	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Tatyana	tatyana	NNP	p2=NN	2	nn	_
+2	Ivzhenko	ivzhenko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Donetsk	donetsk	NNP	_	7	nn	_
+7	Republic	republic	NNP	_	9	nsubj	9:A0=PAG
+8	persistently	persistently	RB	p2=NNP	9	advmod	9:AM-MNR
+9	seeks	seek	VBZ	pb=seek.01	4	ccomp	4:A1=PPT
+10	merger	merger	NN	_	9	dobj	9:A1=PPT
+11	with	with	IN	_	10	prep	_
+12	Russia	russia	NNP	p2=NN	11	pobj	_
+13	"	"	''	_	9	punct	_
+14	says	say	VBZ	pb=say.01	0	root	_
+15	that	that	IN	p2=DT	23	complm	_
+16	the self	the self	PRP	p2=NN	18	hmod	_
+17	-	-	HYPH	p2=,	18	hyph	_
+18	proclaimed	proclaim	VBN	p2=VBD	22	amod	_
+19	Donetsk	donetsk	NNP	_	22	nn	_
+20	people	people	NNS	_	22	poss	_
+21	's	's	POS	_	20	possessive	_
+22	republic	republic	NN	_	23	nsubj	23:A0=PAG
+23	intends	intend	VBZ	pb=intend.01	14	ccomp	14:A1=PPT
+24	to remove	to remove	JJ	p2=VB	25	amod	_
+25	borders	border	NNS	_	23	dobj	23:A1=PPT
+26	with	with	IN	_	25	prep	_
+27	Russia	russia	NNP	_	26	pobj	_
+28	today	today	NN	_	23	npadvmod	23:AM-TMP
+29	and once	and once	NNP	p2=NN	31	nsubj	31:A0=PAG
+30	again	again	RB	_	31	advmod	31:AM-TMP
+31	ask	ask	VBP	p2=VB|pb=ask.02	23	advcl	_
+32	Russia	russia	NNP	_	31	dobj	33:A0;31:A2=GOL
+33	to annex	to annex	VB	pb=to annex.01	31	xcomp	31:A1=PPT
+34	it	it	PRP	_	33	dobj	33:A1
+35	.	.	.	_	14	punct	_
+
+1	The Ukrainian	the ukrainian	JJ	p2=DT	2	amod	_
+2	authorities	authority	NNS	_	4	nsubj	4:A0=PAG
+3	are	be	VBP	_	4	aux	_
+4	doing	do	VBG	pb=do.02	0	root	_
+5	their	their	PRP$	_	7	poss	_
+6	best	good	JJS	p2=RBS	7	amod	_
+7	to prevent	to prevent	NN	p2=NNP	4	dobj	4:A1=PPT
+8	this	this	DT	_	4	dobj	_
+9	;	;	:	_	8	punct	_
+10	pp	pp	NN	p2=IN	4	npadvmod	_
+11	1	0	CD	_	10	num	_
+12	,	,	,	_	10	punct	_
+13	6	0	CD	_	10	appos	_
+14	(	(	-LRB-	_	16	punct	_
+15	1,366	0	CD	_	16	num	_
+16	words	word	NNS	_	10	appos	_
+17	)	)	-RRB-	_	16	punct	_
+18	.	.	.	_	4	punct	_
+
+1	7	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Oksana	oksana	NNP	p2=UH	2	nn	_
+2	Skripnikova	skripnikova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	p2=''	4	punct	_
+6	'	'	``	p2=POS	4	punct	_
+7	Polite	polite	NNP	p2=JJ	8	nn	_
+8	conservatism	conservatism	NN	p2=''	10	nn	_
+9	'	'	''	_	10	punct	_
+10	to be	to be	NN	p2=NNP	11	nsubj	11:A0=PAG
+11	introduced	introduce	VBD	p2=VBN|pb=introduce.02	4	ccomp	4:A1=PPT
+12	by advanced	by advanced	VBN	p2=``|pb=by advanced.01	13	amod	_
+13	methods	method	NNS	_	11	dobj	11:A1=PPT;12:A1
+14	"	"	''	_	11	punct	_
+15	says	say	VBZ	pb=say.01	0	root	_
+16	that	that	IN	p2=DT	25	complm	_
+17	the ideology	the ideology	NNP	p2=NN	18	nn	_
+18	of conservatism	of conservatism	NNP	p2=NN	25	nsubjpass	25:A1=PPT
+19	,	,	,	_	18	punct	_
+20	its	its	PRP$	_	21	poss	_
+21	history	history	NN	_	18	appos	_
+22	and future	and future	NNP	p2=NN	23	nn	_
+23	in Russia	in russia	NNP	_	21	appos	_
+24	is	be	VBZ	_	25	auxpass	_
+25	planned	plan	VBN	p2=VBD|pb=plan.01	15	ccomp	15:A1=PPT
+26	to be	to be	NNP	p2=RB	29	nsubj	29:A0=PAG
+27	more	more	RBR	_	29	advmod	29:AM-EXT
+28	actively	actively	RB	_	29	advmod	29:AM-MNR
+29	studied	study	VBN	p2=VBD|pb=study.01	25	conj	_
+30	;	;	:	_	29	punct	_
+31	p	p	IN	p2=VBG	35	prep	_
+32	2	0	CD	_	35	num	_
+33	(	(	-LRB-	_	35	punct	_
+34	533	0	CD	_	35	num	_
+35	words	word	NNS	_	18	appos	_
+36	)	)	-RRB-	_	35	punct	_
+37	.	.	.	_	15	punct	_
+
+1	8	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Leonid	leonid	NNP	p2=JJ	2	nn	_
+2	Kostin	kostin	NNP	_	3	nn	_
+3	report	report	NN	p2=VBP	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Why	why	WRB	_	9	advmod	9:R-AM-CAU
+7	municipal	municipal	JJ	_	8	amod	_
+8	reform	reform	NN	_	9	nsubj	9:A1=PPT
+9	is	be	VBZ	pb=be.01	12	ccomp	_
+10	necessary	necessary	JJ	_	9	acomp	9:A2=PRD
+11	"	"	''	p2=``	12	punct	_
+12	stands	stand	VBZ	pb=stand.01	4	ccomp	4:A1=PPT
+13	up	up	RP	p2=RB	12	prt	12:C-V
+14	for the	for the	NN	p2=IN	12	nsubj	12:A1=PPT
+15	pending	pending	VBG	p2=IN	12	advcl	12:AM-PRD
+16	local	local	JJ	_	18	amod	_
+17	government	government	NN	_	18	nn	_
+18	reform	reform	NN	_	15	dobj	_
+19	;	;	:	p2=,	24	punct	_
+20	p	p	NN	p2=RB	9	attr	_
+21	2	0	CD	_	20	num	_
+22	(	(	-LRB-	_	24	punct	_
+23	623	0	CD	_	24	num	_
+24	words	word	NNS	_	20	appos	_
+25	)	)	-RRB-	_	24	punct	_
+26	.	.	.	_	4	punct	_
+
+1	9	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Daria	daria	NNP	p2=FW	2	nn	_
+2	Garmonenko	garmonenko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	11	ccomp	_
+5	"	"	``	_	4	punct	_
+6	New	new	NNP	p2=JJ	7	nsubj	7:A0=PAG
+7	turn	turn	VB	p2=NN|pb=turn.01	4	ccomp	4:A1=PPT
+8	in Bolotnaya	in bolotnaya	NNP	_	9	nn	_
+9	justice	justice	NN	_	7	dobj	7:A1=PPT
+10	"	"	''	p2=``	4	punct	_
+11	gives	give	VBZ	pb=give.01	0	root	_
+12	an update	an update	NNP	p2=RB	13	nn	_
+13	on the	on the	NNP	p2=NN	14	nn	_
+14	trial	trial	NN	_	18	nn	_
+15	of Left	of left	NNP	p2=IN	16	nn	_
+16	Front	front	NNP	p2=JJ	18	nn	_
+17	opposition	opposition	NN	_	18	nn	_
+18	activists	activist	NNS	p2=VBZ	11	iobj	11:A2=GOL
+19	Sergei	sergei	NNP	p2=VBP	22	nn	_
+20	Udaltsov	udaltsov	NNP	_	22	nn	_
+21	and Leonid	and leonid	NNP	_	22	nn	_
+22	Razvozzhayev	razvozzhayev	NNP	_	11	nsubj	11:A0=PAG;24:A1=PPT
+23	,	,	,	_	22	punct	_
+24	charged	charge	VBN	pb=charge.05	22	partmod	_
+25	with	with	IN	_	24	prep	24:A2=PRD
+26	having	have	VBG	_	27	aux	_
+27	organized	organize	VBN	pb=organize.01	25	pcomp	_
+28	mass	mass	NN	p2=JJ	29	nn	_
+29	riots	riot	NNS	_	27	dobj	27:A1=PPT
+30	in May	in may	NNP	p2=VBP	35	nn	_
+31	2012	0	CD	_	35	num	_
+32	on Moscow	on moscow	NNP	p2=WRB	35	poss	_
+33	's	's	POS	p2=VBZ	32	possessive	_
+34	Bolotnaya	bolotnaya	NNP	_	35	nn	_
+35	Ploshchad	ploshchad	NNP	p2=NNPS	29	appos	_
+36	;	;	:	_	35	punct	_
+37	p	p	CD	p2=VBD	41	num	_
+38	3	0	CD	_	37	num	_
+39	(	(	-LRB-	_	41	punct	_
+40	764	0	CD	_	41	num	_
+41	words	word	NNS	_	11	dobj	_
+42	)	)	-RRB-	_	41	punct	_
+43	.	.	.	_	11	punct	_
+
+1	10	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yekaterina	yekaterina	NNP	p2=NN	2	nn	_
+2	Trifonova	trifonova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Unauthorized	unauthorized	JJ	_	8	amod	_
+7	virtual	virtual	JJ	_	8	amod	_
+8	rally	rally	NN	_	4	dobj	4:A1=PPT
+9	"	"	''	_	4	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=WDT	17	complm	_
+12	a rally	a rally	RB	p2=NNP	17	nsubjpass	_
+13	against	against	IN	_	12	prep	_
+14	the Russian	the russian	JJ	p2=DT	15	amod	_
+15	leadership	leadership	NN	_	13	pobj	_
+16	was	be	VBD	_	17	auxpass	_
+17	expected	expect	VBN	pb=expect.01	10	ccomp	10:A1=PPT
+18	to be	to be	NNP	p2=RB	19	nsubj	19:A0=PAG
+19	held	hold	VBN	p2=VBD|pb=hold.01	17	ccomp	17:A1=PPT
+20	on May	on may	NNP	p2=IN	27	nn	_
+21	18	0	CD	_	27	num	_
+22	in central	in central	NNP	p2=JJ	24	nn	_
+23	Moscow	moscow	NNP	_	24	nn	_
+24	and other	and other	NNP	p2=CC	27	nn	_
+25	large	large	JJ	p2=VBD	27	amod	_
+26	Russian	russian	JJ	_	27	amod	_
+27	cities	city	NNS	_	19	dobj	19:A1=PPT
+28	,	,	,	_	10	punct	_
+29	but	but	CC	_	19	cc	_
+30	it	it	PRP	_	33	nsubj	_
+31	did	do	VBD	_	33	aux	_
+32	not	not	RB	_	33	neg	33:AM-NEG
+33	take	take	VB	pb=take.14	19	conj	_
+34	place	place	NN	_	33	dobj	33:A2
+35	.	.	.	_	33	punct	_
+
+1	Volunteers	volunteer	NNS	_	3	nsubjpass	_
+2	were	be	VBD	_	3	auxpass	_
+3	invited	invite	VBN	pb=invite.01	0	root	_
+4	to the	to the	DT	p2=JJ	5	det	_
+5	rally	rally	NN	_	3	dobj	3:A1
+6	through	through	IN	_	3	prep	3:AM-MNR
+7	the internet	the internet	NN	p2=NNP	6	pobj	_
+8	;	;	:	_	3	punct	_
+9	p	p	IN	p2=NN	13	prep	_
+10	3	0	CD	_	13	num	_
+11	(	(	-LRB-	_	13	punct	_
+12	716	0	CD	_	13	num	_
+13	words	word	NNS	_	1	appos	_
+14	)	)	-RRB-	_	13	punct	_
+15	.	.	.	_	3	punct	_
+
+1	11	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Leonid	leonid	NNP	p2=JJ	2	nn	_
+2	Radzikhovsky	radzikhovsky	NNP	p2=JJ	3	nn	_
+3	article	article	NN	_	10	nsubj	10:A0=PAG;4:A1=PRD
+4	published	publish	VBN	p2=VBD|pb=publish.01	3	partmod	_
+5	in the	in the	NNP	p2=RB	9	nn	_
+6	regular	regular	JJ	_	9	amod	_
+7	Carte	carte	NNP	p2=NN	8	nn	_
+8	Blanche	blanche	NNP	p2=NN	9	nn	_
+9	column	column	NN	_	4	npadvmod	4:AM-TMP
+10	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+11	"	"	``	_	10	punct	_
+12	If	if	IN	_	14	mark	_
+13	not	not	RB	_	14	neg	14:AM-NEG
+14	to catch	to catch	VB	p2=''|pb=to catch.01	21	advcl	21:AM-ADV
+15	up	up	RP	_	14	prt	14:C-V
+16	with	with	IN	_	14	prep	14:A1
+17	,	,	,	_	21	punct	_
+18	then	then	RB	_	19	advmod	_
+19	to warm	to warm	NN	p2=VB	21	nsubj	21:A0
+20	"	"	''	_	21	punct	_
+21	says	say	VBZ	pb=say.01	10	ccomp	_
+22	that	that	IN	p2=WDT	25	complm	_
+23	the West	the west	NNP	p2=PRP	25	nsubj	25:A0=PAG;26:A0=PAG
+24	has	have	VBZ	_	25	aux	_
+25	preferred	prefer	VBN	p2=JJ|pb=prefer.01	21	ccomp	21:A1=PPT
+26	imposing	impose	VBG	pb=impose.01	25	xcomp	25:A1=PPT
+27	sanctions	sanction	NNS	_	26	dobj	26:A1=PPT
+28	on Russian	on russian	IN	p2=JJ	26	prep	26:A2=GOL
+29	officials	official	NNS	_	28	pobj	_
+30	and businessmen	and businessmen	NNP	p2=VBP	26	npadvmod	_
+31	than	than	IN	_	30	prep	_
+32	on the	on the	PRP$	p2=CD	34	poss	_
+33	Russian	russian	JJ	_	34	amod	_
+34	economy	economy	NN	_	31	pobj	_
+35	or	or	CC	_	34	cc	_
+36	certain	certain	JJ	_	38	amod	_
+37	Russian	russian	JJ	_	38	amod	_
+38	companies	company	NNS	_	34	conj	_
+39	because	because	IN	_	42	mark	_
+40	the sanctions	the sanctions	NNS	_	42	nsubj	42:A0
+41	may	may	MD	_	42	aux	42:AM-MOD
+42	backlash	backlash	VB	p2=NN|pb=backlash.01	26	advcl	_
+43	the Western	the western	JJ	p2=DT	44	amod	_
+44	economy	economy	NN	_	42	dobj	42:A1
+45	;	;	:	p2=,	42	punct	_
+46	p	p	NN	p2=RB	30	conj	_
+47	3	0	CD	_	46	num	_
+48	(	(	-LRB-	_	46	punct	_
+49	972	0	CD	_	50	num	_
+50	words	word	NNS	_	46	appos	_
+51	)	)	-RRB-	_	46	punct	_
+52	.	.	.	_	10	punct	_
+
+1	12	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Madina	madina	NNP	p2=MD	4	nn	_
+2	Shavlokhova	shavlokhova	NNP	_	4	nn	_
+3	and Ivan	and ivan	NNP	_	4	nn	_
+4	Shvarts	shvarts	NNP	p2=NNPS	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=NN|pb=headline.01	0	root	_
+7	"	"	``	_	6	punct	_
+8	Ukrainian	ukrainian	JJ	_	10	amod	_
+9	transit	transit	NN	_	10	nn	_
+10	to be	to be	NN	p2=''	6	dobj	6:A1=PPT;11:A1=PPT
+11	discussed	discuss	VBN	p2=VBD|pb=discuss.01	10	partmod	_
+12	without	without	IN	_	11	prep	11:AM-MNR
+13	Ukrainians	ukrainian	NNPS	p2=NNP	12	pobj	_
+14	"	"	''	p2=WP	6	punct	_
+15	says	say	VBZ	pb=say.01	0	root	_
+16	that	that	IN	p2=DT	21	complm	_
+17	the West	the west	PRP	p2=NNP	21	nsubj	21:A0=PPT
+18	has	have	VBZ	_	21	aux	_
+19	more	more	JJR	p2=RBR	20	advmod	_
+20	promptly	promptly	RB	_	21	advmod	21:AM-MNR
+21	reacted	react	VBD	p2=VBN|pb=react.01	15	ccomp	15:A1=PPT
+22	to Putin	to putin	NNP	_	25	poss	_
+23	's	's	POS	_	22	possessive	_
+24	second	#ord#	JJ	_	25	amod	_
+25	letter	letter	NN	_	21	dobj	21:A1=PAG
+26	to EU	to eu	NNP	p2=WDT	27	nn	_
+27	leaders	leader	NNS	_	25	appos	_
+28	on Russian	on russian	IN	p2=JJ	27	prep	_
+29	gas	gas	NN	_	30	nn	_
+30	supplies	supply	NNS	_	28	pobj	_
+31	.	.	.	_	15	punct	_
+
+1	EU	eu	NNP	_	3	nn	_
+2	Energy	energy	NNP	_	3	nn	_
+3	Commissioner	commissioner	NNP	_	5	nn	_
+4	Günther	günther	NNP	_	5	nn	_
+5	Oettinger	oettinger	NNP	_	7	nsubj	7:A0=PAG
+6	will	will	MD	_	7	aux	7:AM-MOD
+7	meet	meet	VB	pb=meet.03	18	ccomp	_
+8	today	today	NN	_	7	npadvmod	7:AM-TMP
+9	the Russian	the russian	JJ	p2=IN	11	amod	_
+10	energy	energy	NN	_	11	nn	_
+11	minister	minister	NN	_	7	dobj	7:A1=COM
+12	;	;	:	p2=,	18	punct	_
+13	the Ukrainian	the ukrainian	JJ	p2=PRP$	15	amod	_
+14	energy	energy	NN	_	15	nn	_
+15	minister	minister	NN	_	18	nsubjpass	_
+16	will	will	MD	_	18	aux	18:AM-MOD
+17	be	be	VB	_	18	auxpass	_
+18	invited	invite	VBN	pb=invite.01	0	root	_
+19	for talks	for talks	NNS	p2=RB	18	dobj	18:A1
+20	within	within	IN	_	19	prep	_
+21	a week	a week	NNP	p2=NN	20	pobj	_
+22	only	only	RB	_	21	advmod	_
+23	;	;	:	p2=,	28	punct	_
+24	p	p	CD	p2=NN	25	number	_
+25	4	0	CD	_	28	num	_
+26	(	(	-LRB-	_	28	punct	_
+27	784	0	CD	_	28	num	_
+28	words	word	NNS	_	19	appos	_
+29	)	)	-RRB-	_	28	punct	_
+30	.	.	.	_	18	punct	_
+
+1	13	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Viktor	viktor	NN	p2=NNP	3	nn	_
+2	Myasnikov	myasnikov	NNP	p2=PRP$	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG;12:A0
+4	headlined	headline	VBD	p2=NN|pb=headline.01	17	ccomp	_
+5	"	"	``	_	4	punct	_
+6	Disaster	disaster	NN	p2=NNP	7	nsubj	7:A1=PPT
+7	happens	happen	VBZ	pb=happen.01	4	ccomp	4:A1=PPT
+8	not	not	RB	_	7	neg	7:AM-NEG
+9	to Proton	to proton	NNP	p2=VBN	7	attr	7:A2=GOL
+10	,	,	,	_	4	punct	_
+11	but	but	CC	_	4	cc	_
+12	to entire	to entire	VBD	p2=VB|pb=to entire.01	4	conj	_
+13	Russian	russian	JJ	_	15	amod	_
+14	space	space	NN	_	15	nn	_
+15	sector	sector	NN	_	12	dobj	12:A1
+16	"	"	''	_	12	punct	_
+17	says	say	VBZ	pb=say.01	0	root	_
+18	that	that	IN	p2=DT	26	complm	_
+19	yet	yet	RB	_	26	advmod	_
+20	another	another	DT	_	22	det	_
+21	failed	fail	VBN	p2=VBD|pb=fail.01	22	amod	_
+22	launch	launch	NN	p2=VBP	26	dep	21:A1=PAG
+23	of a	of a	HYPH	p2=NNP	22	punct	_
+24	Proton	proton	NNP	p2=NN	25	nn	_
+25	rocket	rocket	NN	_	26	nsubj	26:A1=PPT
+26	is	be	VBZ	pb=be.01	17	ccomp	17:A1=PPT
+27	evidence	evidence	NN	_	26	attr	26:A2=PRD
+28	of a	of a	IN	p2=JJ	27	prep	_
+29	deep	deep	JJ	_	30	amod	_
+30	crisis	crisis	NN	_	28	pobj	_
+31	in the	in the	IN	p2=,	30	prep	_
+32	Russian	russian	JJ	_	34	amod	_
+33	space	space	NN	_	34	nn	_
+34	sector	sector	NN	_	31	pobj	_
+35	;	;	:	_	40	punct	_
+36	p	p	RB	p2=VBG	40	advmod	_
+37	4	0	CD	_	40	num	_
+38	(	(	-LRB-	_	40	punct	_
+39	912	0	CD	_	40	num	_
+40	words	word	NNS	_	34	appos	_
+41	)	)	-RRB-	_	40	punct	_
+42	.	.	.	_	17	punct	_
+
+1	14	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Svetlana	svetlana	NNP	p2=``	2	nn	_
+2	Gamova	gamova	NNP	_	3	nn	_
+3	report	report	NN	_	15	nsubj	15:A0
+4	"	"	''	p2=``	3	punct	_
+5	While	while	IN	_	7	mark	_
+6	Donbass	donbass	NNP	p2=JJ	7	nsubj	7:A0=PAG
+7	wages	wage	VBZ	pb=wage.01	12	advcl	12:AM-ADV
+8	war	war	NN	p2=VBP	7	dobj	7:A1=PPT
+9	,	,	,	_	12	punct	_
+10	Dnestr	dnestr	NNP	p2=IN	11	nn	_
+11	region	region	NN	_	12	nsubj	12:A0=PAG
+12	digs	dig	VBZ	p2=NNS|pb=dig.01	3	ccomp	_
+13	trenches	trench	NNS	_	12	dobj	12:A1=PPT
+14	"	"	''	_	3	punct	_
+15	says	say	VBZ	pb=say.01	0	root	_
+16	that	that	IN	p2=DT	19	complm	_
+17	Moldova	moldova	NNP	_	19	nsubj	19:A0=PAG
+18	is	be	VBZ	_	19	aux	_
+19	redeploying	redeploy	VBG	pb=redeploy.01	15	ccomp	15:A1=PPT
+20	military	military	JJ	_	21	amod	_
+21	hardware	hardware	NN	_	24	nn	_
+22	to the	to the	NNP	p2=VB	24	nn	_
+23	Dnestr	dnestr	NNP	_	24	nn	_
+24	river	river	NN	_	19	dobj	25:A0=PPT;19:A1=PPT
+25	fearing	fear	VBG	pb=fear.01	24	partmod	_
+26	Russian	russian	JJ	_	28	amod	_
+27	military	military	JJ	_	28	amod	_
+28	threat	threat	NN	_	25	dobj	25:A1=PAG
+29	;	;	:	_	34	punct	_
+30	pp	pp	NN	p2=RB	25	npadvmod	_
+31	9-10	0	CD	_	30	num	_
+32	(	(	-LRB-	_	34	punct	_
+33	1,200	0	CD	_	34	num	_
+34	words	word	NNS	_	30	appos	_
+35	)	)	-RRB-	_	34	punct	_
+36	.	.	.	_	15	punct	_
+
+1	15	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Igor	igor	NNP	_	2	nn	_
+2	Ivanov	ivanov	NNP	_	3	nsubj	3:A0=PAG
+3	report	report	VBP	pb=report.01	11	ccomp	_
+4	"	"	''	p2=``	3	punct	_
+5	Ukrainian	ukrainian	JJ	_	6	amod	_
+6	crisis	crisis	NN	_	7	nn	_
+7	in system	in system	NN	p2=IN	9	nn	_
+8	of international	of international	JJ	p2=NNP	9	amod	_
+9	relations	relation	NNS	_	3	dobj	3:A1
+10	"	"	''	p2=``	3	punct	_
+11	looks	look	VBZ	p2=NNS|pb=look.02	0	root	_
+12	at the	at the	DT	p2=JJ	13	det	_
+13	situation	situation	NN	_	11	nsubj	11:A0=PAG
+14	in Ukraine	in ukraine	PRP	p2=NNP	15	nsubj	15:A0
+15	and says	and says	VBZ	p2=NNPS|pb=and says.01	13	rcmod	_
+16	that	that	IN	p2=DT	26	complm	_
+17	the 	the 	PRP$	p2=RB	19	poss	_
+18	"	"	``	_	19	punct	_
+19	abyss	abyss	NN	p2=JJ	26	nsubj	26:A1=PPT
+20	of distrust	of distrust	''	p2=RB	19	punct	_
+21	between	between	IN	_	19	prep	_
+22	Russia	russia	NNP	_	24	nn	_
+23	and the	and the	NNP	p2=CC	24	nn	_
+24	West	west	NNP	_	21	pobj	_
+25	is	be	VBZ	_	26	aux	_
+26	deepening	deepen	VBG	pb=deepen.01	15	ccomp	15:A1
+27	"	"	''	p2=``	26	punct	_
+28	;	;	:	p2=,	33	punct	_
+29	pp	pp	RB	p2=VB	33	advmod	_
+30	9-10	0	CD	_	33	num	_
+31	(	(	-LRB-	_	33	punct	_
+32	1,100	0	CD	_	33	num	_
+33	words	word	NNS	_	24	appos	_
+34	)	)	-RRB-	_	33	punct	_
+35	.	.	.	_	11	punct	_
+
+1	16	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=``	2	nn	_
+2	Fenenko	fenenko	NNP	_	3	nsubj	3:A0=PAG
+3	report	report	VBP	pb=report.01	14	ccomp	14:A0=PAG
+4	"	"	''	p2=``	3	punct	_
+5	'	'	``	p2=POS	3	punct	_
+6	Between	between	IN	_	10	hmod	_
+7	-	-	HYPH	_	10	hyph	_
+8	the	the	DT	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	seas	sea	NNS	p2=NN	12	poss	_
+11	'	'	POS	p2=''	10	possessive	_
+12	geopolitics	geopolitics	NNS	_	3	dobj	3:A1
+13	"	"	''	p2=``	3	punct	_
+14	looks	look	VBZ	pb=look.02	0	root	_
+15	at the	at the	DT	p2=JJ	17	det	_
+16	Ukrainian	ukrainian	JJ	_	17	amod	_
+17	crisis	crisis	NN	_	18	nsubj	18:A0
+18	and says	and says	VBZ	p2=NNP|pb=and says.01	14	advcl	14:A1=PPT
+19	that	that	IN	_	24	complm	_
+20	"	"	``	_	24	punct	_
+21	Kiev	kiev	NNP	_	23	poss	_
+22	's	's	POS	_	21	possessive	_
+23	behavior	behavior	NN	_	24	nsubj	24:A0=PAG
+24	worsens	worsen	VBZ	p2=NNS|pb=worsen.01	18	ccomp	18:A1
+25	the situation	the situation	NN	p2=NNP	24	dobj	24:A1=PPT
+26	in the	in the	IN	p2=VB	25	prep	_
+27	Baltic	baltic	NNP	p2=JJ	29	hmod	_
+28	-	-	HYPH	_	29	hyph	_
+29	Black	black	NNP	_	30	nn	_
+30	Sea	sea	NNP	_	31	nn	_
+31	region	region	NN	_	26	pobj	_
+32	"	"	''	_	24	punct	_
+33	;	;	:	p2=,	34	punct	_
+34	p	p	VBG	p2=RB|pb=p.01	24	advcl	_
+35	10	0	CD	_	38	num	_
+36	(	(	-LRB-	_	38	punct	_
+37	1,100	0	CD	_	38	num	_
+38	words	word	NNS	_	34	dobj	34:A1
+39	)	)	-RRB-	_	38	punct	_
+40	.	.	.	_	14	punct	_
+
+1	17	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Sergei	sergei	NNP	p2=``	2	nn	_
+2	Zhiltsov	zhiltsov	NNP	_	3	nn	_
+3	report	report	NN	p2=VBP	9	nsubj	9:A0
+4	"	"	''	p2=``	3	punct	_
+5	Ukraine	ukraine	NNP	p2=PRP	6	nn	_
+6	on verge	on verge	NNP	p2=POS	7	nn	_
+7	of disintegration	of disintegration	NN	p2=NNP	3	appos	_
+8	"	"	''	_	3	punct	_
+9	says	say	VBZ	pb=say.01	0	root	_
+10	that	that	IN	p2=WDT	15	complm	_
+11	the issue	the issue	NNP	p2=EX	13	nn	_
+12	of federalization	of federalization	NNP	p2=NN	13	nn	_
+13	of Ukraine	of ukraine	NNP	p2=,	15	nsubj	15:A0=PAG
+14	is	be	VBZ	_	15	aux	_
+15	losing	lose	VBG	pb=lose.02	9	ccomp	9:A1=PPT
+16	its	its	PRP$	_	17	poss	_
+17	relevance	relevance	NN	_	15	dobj	15:A1=PPT
+18	;	;	:	p2=,	23	punct	_
+19	p	p	NN	p2=CC	15	npadvmod	_
+20	11	0	CD	_	19	num	_
+21	(	(	-LRB-	_	23	punct	_
+22	1,000	0	CD	_	23	num	_
+23	words	word	NNS	_	19	appos	_
+24	)	)	-RRB-	_	23	punct	_
+25	.	.	.	_	9	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Darya	darya	NNP	p2=FW	5	nn	_
+2	Borisyak	borisyak	NNP	_	4	nn	_
+3	and Tatyana	and tatyana	NNP	_	4	nn	_
+4	Voronova	voronova	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+7	"	"	``	_	6	punct	_
+8	Sanctions	sanction	NNPS	p2=NNS	10	nsubj	_
+9	not	not	RB	_	8	neg	_
+10	to impede	to impede	''	p2=JJ	14	punct	_
+11	reorganization	reorganization	NN	_	12	nn	_
+12	of Mosoblbank	of mosoblbank	NNP	p2=NN	14	nsubj	14:A0
+13	"	"	''	p2=``	12	punct	_
+14	says	say	VBZ	pb=say.01	6	ccomp	_
+15	that	that	IN	p2=DT	30	complm	_
+16	SMP	smp	NNP	_	18	hmod	_
+17	-	-	HYPH	_	18	hyph	_
+18	Bank	bank	NNP	_	30	nsubj	20:A0=PAG;30:A0=PAG;31:A0
+19	,	,	,	_	18	punct	_
+20	owned	own	VBN	p2=VBD|pb=own.01	18	partmod	_
+21	by the	by the	IN	p2=NNP	20	prep	20:AM-MNR
+22	Rotenberg	rotenberg	NNP	p2=NNPS	23	nn	_
+23	brothers	brother	NNS	p2=VBZ	21	pobj	_
+24	close	close	JJ	p2=VBP	23	amod	_
+25	to the	to the	DT	p2=IN	27	det	_
+26	Russian	russian	JJ	_	27	amod	_
+27	president	president	NN	_	18	appos	_
+28	,	,	,	_	18	punct	_
+29	is	be	VBZ	_	30	aux	_
+30	bidding	bid	VBG	pb=bid.01	14	ccomp	14:A1=PPT
+31	for reorganizing	for reorganizing	VBG	p2=JJ|pb=for reorganizing.01	30	xcomp	30:A1=PPT
+32	Mosoblbank	mosoblbank	NNP	_	31	dobj	31:A1;35:A1=PPT
+33	that	that	WDT	p2=DT	35	nsubj	35:R-A1
+34	has	have	VBZ	_	35	aux	_
+35	gone	go	VBN	pb=go.08	32	rcmod	_
+36	bankrupt	bankrupt	JJ	p2=RB	35	acomp	35:A2=PRD
+37	;	;	:	_	6	punct	_
+38	pp	pp	IN	p2=NN	44	prep	_
+39	1	0	CD	_	38	pobj	_
+40	,	,	,	_	39	punct	_
+41	14	0	CD	_	39	conj	_
+42	(	(	-LRB-	_	44	punct	_
+43	750	0	CD	_	44	num	_
+44	words	word	NNS	_	12	appos	_
+45	)	)	-RRB-	_	44	punct	_
+46	.	.	.	_	6	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Pavel	pavel	NNP	p2=VB	2	nn	_
+2	Aptekar	aptekar	NNP	_	0	root	_
+3	et	et	NN	p2=NNP	4	nn	_
+4	al	al	NN	p2=NNP	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	article	article	NN	_	2	nsubj	2:A0=PAG;7:A0=PAG
+2	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+3	"	"	``	_	2	punct	_
+4	Logic	logic	NNP	p2=JJ	5	nn	_
+5	of separation	of separation	NNP	p2=NN	2	dobj	2:A1=PPT
+6	"	"	''	_	2	punct	_
+7	looks	look	VBZ	pb=look.02	2	dep	_
+8	at the	at the	DT	p2=IN	9	det	_
+9	drawbacks	drawback	NNS	_	7	dobj	7:A1=PPT
+10	of the	of the	IN	p2=,	9	prep	_
+11	Russian	russian	JJ	_	12	amod	_
+12	authorities	authority	NNS	_	14	poss	_
+13	'	'	POS	_	12	possessive	_
+14	policy	policy	NN	_	10	pobj	_
+15	towards	towards	IN	_	14	prep	_
+16	national	national	JJ	_	17	amod	_
+17	minorities	minority	NNS	_	15	pobj	_
+18	;	;	:	_	9	punct	_
+19	pp	pp	NN	p2=VBP	7	attr	_
+20	1	0	CD	_	19	num	_
+21	,	,	,	_	19	punct	_
+22	6	0	CD	_	19	appos	_
+23	(	(	-LRB-	_	25	punct	_
+24	450	0	CD	_	25	num	_
+25	words	word	NNS	_	19	appos	_
+26	)	)	-RRB-	_	25	punct	_
+27	.	.	.	_	2	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yelizaveta	yelizaveta	NNP	p2=CC	2	nn	_
+2	Sergina	sergina	NNP	_	0	root	_
+3	et	et	NN	p2=NNP	4	nn	_
+4	al	al	NN	p2=NNP	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	article	article	NN	_	2	nsubj	2:A0=PAG
+2	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+3	"	"	``	_	2	punct	_
+4	Prime	prime	JJ	p2=NNP	5	amod	_
+5	minister	minister	NN	_	2	dobj	2:A1=PPT
+6	from 	from 	''	p2=IN	2	punct	_
+7	'	'	``	_	2	punct	_
+8	Marshal	marshal	NNP	_	11	nsubj	11:A0
+9	'	'	''	_	11	punct	_
+10	"	"	''	_	11	punct	_
+11	says	say	VBZ	pb=say.01	2	ccomp	_
+12	that	that	IN	p2=DT	26	complm	_
+13	Russian	russian	JJ	_	15	amod	_
+14	spin	spin	NN	_	15	nn	_
+15	doctor	doctor	NN	_	17	nn	_
+16	Alexander	alexander	NNP	_	17	nn	_
+17	Borodai	borodai	NNP	_	26	nsubjpass	26:A1=PPT
+18	,	,	,	_	17	punct	_
+19	former	former	JJ	_	20	amod	_
+20	consultant	consultant	NN	_	22	nn	_
+21	to Marshal	to marshal	NNP	p2=NN	22	nn	_
+22	Kapital	kapital	NNP	_	17	appos	_
+23	,	,	,	_	17	punct	_
+24	has	have	VBZ	_	26	aux	_
+25	been	be	VBN	_	26	auxpass	_
+26	elected	elect	VBN	pb=elect.01	11	ccomp	11:A1=PPT
+27	the prime	the prime	JJ	p2=DT	28	amod	_
+28	minister	minister	NN	_	29	nn	_
+29	of the	of the	NN	p2=IN	36	nn	_
+30	self	self	NN	_	32	hmod	_
+31	-	-	HYPH	_	32	hyph	_
+32	proclaimed	proclaim	VBN	_	36	amod	_
+33	Donetsk	donetsk	NNP	_	34	nn	_
+34	people	people	NNS	_	36	poss	_
+35	's	's	POS	_	34	possessive	_
+36	republic	republic	NN	_	26	dobj	26:A2=PRD
+37	;	;	:	_	11	punct	_
+38	p	p	CD	p2=VBG	39	number	_
+39	3	0	CD	_	42	num	_
+40	(	(	-LRB-	_	42	punct	_
+41	500	0	CD	_	42	num	_
+42	words	word	NNS	_	17	appos	_
+43	)	)	-RRB-	_	42	punct	_
+44	.	.	.	_	2	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Polina	polina	NNP	p2=NN	2	nn	_
+2	Khimshiashvili	khimshiashvili	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	China	china	NNP	_	10	nsubj	10:A0=PPT
+7	after	after	IN	_	6	prep	_
+8	Crimea	crimea	NNP	p2=NNPS	7	pobj	_
+9	"	"	''	p2=``	10	punct	_
+10	focuses	focus	VBZ	pb=focus.01	4	ccomp	4:A1=PPT
+11	on Putin	on putin	NNP	_	14	poss	_
+12	's	's	POS	_	11	possessive	_
+13	upcoming	upcoming	JJ	_	14	amod	_
+14	visit	visit	NN	_	10	dobj	10:A1=PPT
+15	to China	to china	NNP	p2=NN	16	nn	_
+16	on May	on may	NNP	p2=IN	14	appos	_
+17	20-21	0	CD	_	16	num	_
+18	;	;	:	_	23	punct	_
+19	p	p	DT	p2=RB	20	quantmod	_
+20	3	0	CD	_	23	num	_
+21	(	(	-LRB-	_	23	punct	_
+22	400	0	CD	_	23	num	_
+23	words	word	NNS	_	3	appos	_
+24	)	)	-RRB-	_	23	punct	_
+25	.	.	.	_	4	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Maria	maria	NNP	p2=FW	2	nn	_
+2	Snegovaya	snegovaya	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	11	ccomp	_
+5	"	"	``	_	4	punct	_
+6	Creation	creation	NN	p2=NNP	4	dobj	4:A1=PPT
+7	of new	of new	IN	p2=JJ	6	prep	_
+8	political	political	JJ	_	9	amod	_
+9	reality	reality	NN	_	7	pobj	_
+10	"	"	''	p2=``	11	punct	_
+11	describes	describe	VBZ	pb=describe.01	0	root	_
+12	the current	the current	JJ	p2=VBN	14	amod	_
+13	political	political	JJ	_	14	amod	_
+14	regime	regime	NN	_	15	nn	_
+15	in Russia	in russia	NNP	p2=NN	11	dobj	11:A1=PPT
+16	,	,	,	_	11	punct	_
+17	noting	note	VBG	pb=note.01	11	advcl	11:AM-ADV
+18	that	that	IN	_	21	complm	_
+19	it	it	PRP	_	21	nsubj	21:A0=PAG
+20	has	have	VBZ	_	21	aux	_
+21	adopted	adopt	VBN	pb=adopt.01	17	ccomp	17:A1=PPT
+22	certain	certain	JJ	_	23	amod	_
+23	practices	practice	NNS	_	21	dobj	21:A1=PPT
+24	of the	of the	IN	p2=NNP	23	prep	_
+25	Soviet	soviet	NNP	_	26	nn	_
+26	Union	union	NNP	_	24	pobj	_
+27	;	;	:	_	21	punct	_
+28	pp	pp	NN	p2=RB	3	appos	_
+29	6-7	0	CD	_	28	num	_
+30	(	(	-LRB-	_	32	punct	_
+31	1,300	0	CD	_	32	num	_
+32	words	word	NNS	_	28	appos	_
+33	)	)	-RRB-	_	32	punct	_
+34	.	.	.	_	11	punct	_
+
+1	6	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Maxim	maxim	NNP	p2=JJ	2	nn	_
+2	Buyev	buyev	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Can	can	MD	_	10	aux	10:AM-MOD;13:AM-MOD
+7	media	medium	NNS	_	8	nn	_
+8	outlets	outlet	NNS	_	10	nsubjpass	_
+9	be	be	VB	_	10	auxpass	_
+10	made	make	VBN	pb=make.02	4	ccomp	4:A1=PPT
+11	less	less	RBR	p2=RBS	12	advmod	_
+12	politically	politically	RB	_	13	advmod	13:AM-MNR
+13	committed	commit	VBN	p2=JJ|pb=commit.01	10	oprd	_
+14	?	?	.	_	4	punct	_
+15	"	"	''	_	4	punct	_
+
+1	looks	look	VBZ	p2=NNS|pb=look.02	0	root	_
+2	at ways	at ways	NNS	p2=NNPS	0	root	1:A1=PPT
+3	to make	to make	JJ	p2=POS	5	amod	_
+4	media	medium	NNS	p2=NN	5	nn	_
+5	outlets	outlet	NNS	p2=VBZ	2	appos	_
+6	unbiased	unbiased	JJ	_	5	amod	_
+7	;	;	:	_	12	punct	_
+8	p	p	RB	p2=IN	12	advmod	_
+9	7	0	CD	_	12	num	_
+10	(	(	-LRB-	_	12	punct	_
+11	450	0	CD	_	12	num	_
+12	words	word	NNS	_	0	root	_
+13	)	)	-RRB-	_	12	punct	_
+14	.	.	.	_	1	punct	_
+
+1	7	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Polina	polina	NNP	p2=NN	2	nn	_
+2	Khimshiashvili	khimshiashvili	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=NN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	'	'	``	p2=''	4	punct	_
+7	I	I	PRP	_	8	nsubj	8:A0=PAG
+8	consider	consider	VBP	pb=consider.01	4	ccomp	4:A1=PPT
+9	myself	myself	PRP	_	11	nsubj	_
+10	to be	to be	NNP	p2=RB	11	nn	_
+11	romantic	romantic	JJ	_	8	ccomp	8:A1
+12	,	,	,	_	8	punct	_
+13	though	though	IN	_	17	mark	_
+14	I	I	PRP	_	17	nsubj	17:A0=PAG
+15	do	do	VBP	_	17	aux	_
+16	not	not	RB	_	17	neg	17:AM-NEG
+17	make	make	VB	pb=make.01	8	advcl	_
+18	impression	impression	NN	_	17	dobj	17:A1=PRD
+19	like	like	IN	_	18	prep	_
+20	this	this	DT	_	19	pobj	_
+21	'	'	''	p2=``	23	punct	_
+22	"	"	``	p2=''	23	punct	_
+23	looks	look	VBZ	p2=NNS	26	nn	_
+24	at Ukrainian	at ukrainian	JJ	p2=IN	26	amod	_
+25	presidential	presidential	JJ	_	26	amod	_
+26	candidate	candidate	NN	_	3	appos	_
+27	,	,	,	_	26	punct	_
+28	businessman	businessman	NN	_	30	nn	_
+29	Petro	petro	NNP	_	30	nn	_
+30	Poroshenko	poroshenko	NNP	_	23	dobj	_
+31	,	,	,	_	30	punct	_
+32	and his	and his	NNP	p2=DT	34	nn	_
+33	election	election	NN	_	34	nn	_
+34	manifesto	manifesto	NN	_	30	appos	_
+35	;	;	:	_	30	punct	_
+36	pp	pp	NN	p2=RB	30	appos	_
+37	8-9	0	CD	_	36	num	_
+38	(	(	-LRB-	_	40	punct	_
+39	22,400	0	CD	_	40	num	_
+40	words	word	NNS	_	36	appos	_
+41	)	)	-RRB-	_	40	punct	_
+42	.	.	.	_	4	punct	_
+
+1	8	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yelena	yelena	NNP	p2=CC	2	nn	_
+2	Khodyakova	khodyakova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Russia	russia	NNP	_	10	nn	_
+7	ready	ready	JJ	_	8	amod	_
+8	to make	to make	NN	p2=JJ	10	nn	_
+9	discount	discount	NN	_	10	nn	_
+10	for Ukraine	for ukraine	NN	p2=NNP	12	nsubj	12:A0
+11	"	"	''	_	12	punct	_
+12	says	say	VBZ	pb=say.01	4	ccomp	_
+13	that	that	IN	_	15	complm	_
+14	Russia	russia	NNP	_	15	nsubj	32:A0;15:A1=PPT
+15	is	be	VBZ	pb=be.01	12	ccomp	12:A1=PPT
+16	ready	ready	JJ	_	15	acomp	15:A2=PRD
+17	to give	to give	NNP	p2=JJ	18	nn	_
+18	a discount	a discount	NNP	p2=NN	20	poss	_
+19	on gas	on gas	POS	p2=NNP	18	possessive	_
+20	supplies	supply	NNS	_	21	nn	_
+21	to Ukraine	to ukraine	NNP	p2=PRP	15	npadvmod	_
+22	if	if	IN	_	24	mark	_
+23	the latter	the latter	JJR	p2=NNP	24	nsubj	24:A0=PAG
+24	pays	pay	VBZ	pb=pay.02	15	advcl	15:AM-ADV
+25	off	off	RP	p2=IN	24	prt	24:C-V
+26	at least	at least	JJS	p2=VBN	30	amod	_
+27	part	part	NN	_	28	nn	_
+28	of its	of its	NNS	p2=HYPH	30	nn	_
+29	gas	gas	NN	p2=VBP	30	nn	_
+30	debt	debt	NN	_	24	dobj	24:A1=PPT
+31	;	;	:	_	21	punct	_
+32	p	p	VBG	p2=NN|pb=p.01	15	advcl	_
+33	11	0	CD	_	36	num	_
+34	(	(	-LRB-	_	36	punct	_
+35	750	0	CD	_	36	num	_
+36	words	word	NNS	_	32	dobj	32:A1
+37	)	)	-RRB-	_	32	punct	_
+38	.	.	.	_	4	punct	_
+
+1	9	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Irina	irina	NNP	p2=JJ	2	nn	_
+2	Mokrousova	mokrousova	NNP	_	5	nn	_
+3	report	report	NN	p2=VBP	5	nn	_
+4	in the	in the	NN	p2=VBD	5	nn	_
+5	column	column	NN	_	10	nsubj	10:A0=PAG
+6	"	"	``	p2=''	8	punct	_
+7	Person	person	NNP	p2=NN	8	nn	_
+8	of week	of week	NNP	p2=''	5	appos	_
+9	"	"	''	_	8	punct	_
+10	looks	look	VBZ	pb=look.02	0	root	_
+11	at Gazprom	at gazprom	NNP	p2=IN	14	nn	_
+12	CEO	ceo	NNP	p2=NN	14	nn	_
+13	Alexei	alexei	NNP	_	14	nn	_
+14	Miller	miller	NNP	_	10	dobj	10:A1=PPT
+15	;	;	:	_	14	punct	_
+16	p	p	CD	p2=VBD	20	num	_
+17	7	0	CD	_	16	num	_
+18	(	(	-LRB-	_	20	punct	_
+19	400	0	CD	_	20	num	_
+20	words	word	NNS	_	10	dep	_
+21	)	)	-RRB-	_	20	punct	_
+22	.	.	.	_	10	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Arseny	arseny	NN	p2=NNP	3	nn	_
+2	Pogosyan	pogosyan	JJ	p2=NNP	3	amod	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Foreign	foreign	NNP	p2=JJ	7	nn	_
+7	NGOs	ngo	NNPS	_	8	nsubj	8:A0=PAG;9:A0
+8	suspected	suspect	VBD	p2=VBN|pb=suspect.01	4	ccomp	4:A1=PPT
+9	of transiting	of transiting	VBG	pb=of transiting.01	8	xcomp	8:A1=PPT
+10	our	our	PRP$	_	12	poss	_
+11	orphans	orphan	NNS	_	12	nn	_
+12	to U.S	to u.s	NNS	p2=ADD	9	dobj	9:A1
+13	.	.	.	_	4	punct	_
+14	"	"	''	_	4	punct	_
+
+1	says	say	VBZ	pb=say.01	0	root	_
+2	that	that	IN	p2=DT	7	complm	_
+3	the number	the number	NNP	p2=EX	6	poss	_
+4	of foreign	of foreign	POS	p2=JJ	3	possessive	_
+5	nongovernmental	nongovernmental	JJ	_	6	amod	_
+6	organizations	organization	NNS	_	7	nsubj	7:A0=PAG;16:A0=PAG
+7	dealing	deal	VBG	pb=deal.01	1	ccomp	1:A1=PPT
+8	with	with	IN	_	7	prep	7:A1=PPT
+9	the adoption	the adoption	NN	p2=NNP	10	npadvmod	_
+10	of Russian	of russian	JJ	p2=IN	11	amod	_
+11	orphans	orphan	NNS	_	13	poss	_
+12	by foreign	by foreign	POS	p2=IN	11	possessive	_
+13	families	family	NNS	_	8	pobj	_
+14	has	have	VBZ	_	16	aux	_
+15	sharply	sharply	RB	_	16	advmod	16:A2=EXT
+16	increased	increase	VBN	pb=increase.01	7	conj	_
+17	since	since	IN	_	16	prep	16:AM-TMP
+18	the beginning	the beginning	VBG	p2=NNP|pb=the beginning.01	17	pcomp	_
+19	of the	of the	JJ	p2=DT	20	amod	_
+20	year	year	NN	_	18	dobj	18:A1
+21	.	.	.	_	1	punct	_
+
+1	Russian	russian	JJ	_	2	amod	_
+2	lawmakers	lawmaker	NNS	_	3	nsubj	3:A0
+3	think	think	VBP	p2=VB|pb=think.01	0	root	_
+4	that	that	IN	_	7	complm	_
+5	they	they	PRP	_	7	nsubjpass	7:A0=PAG
+6	are	be	VBP	_	7	auxpass	_
+7	engaged	engage	VBN	p2=JJ|pb=engage.01	3	ccomp	3:A1=PPT
+8	in transit	in transit	JJ	p2=IN	10	amod	_
+9	of Russian	of russian	JJ	p2=IN	10	amod	_
+10	orphans	orphan	NNS	_	7	dobj	7:A1=PPT
+11	to the	to the	IN	p2=VBD	10	prep	_
+12	U.S.	u.s.	NNP	_	11	pobj	_
+13	;	;	:	_	12	punct	_
+14	pp	pp	NN	p2=VBP	7	npadvmod	_
+15	1	0	CD	_	14	num	_
+16	,	,	,	_	14	punct	_
+17	3	0	CD	_	14	appos	_
+18	(	(	-LRB-	_	20	punct	_
+19	1,024	0	CD	_	20	num	_
+20	words	word	NNS	_	14	appos	_
+21	)	)	-RRB-	_	20	punct	_
+22	.	.	.	_	3	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Irina	irina	NNP	p2=NN	2	nn	_
+2	Nenasheva	nenasheva	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=NN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Ukrainian	ukrainian	JJ	_	8	amod	_
+7	security	security	NN	_	8	nn	_
+8	agencies	agency	NNS	_	9	nsubj	9:A0=PAG
+9	detain	detain	VBP	p2=VB|pb=detain.01	4	ccomp	4:A1=PPT
+10	LifeNews	lifenews	NNP	p2=JJR	11	nn	_
+11	journalists	journalist	NNS	_	9	dobj	9:A1=PPT
+12	"	"	''	p2=``	9	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	_	29	complm	_
+15	two	#crd#	CD	_	16	num	_
+16	journalists	journalist	NNS	_	29	nsubjpass	29:A1=PPT
+17	from Russia	from russia	NNP	p2=:	26	poss	_
+18	's	's	POS	_	17	possessive	_
+19	privately	privately	RB	_	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	owned	own	VBN	p2=JJ	26	amod	_
+22	rolling	rolling	NN	p2=VBG	23	nn	_
+23	news	news	NN	_	26	nn	_
+24	LifeNews	lifenews	NNP	p2=IN	26	nn	_
+25	television	television	NN	_	26	nn	_
+26	channel	channel	NN	p2=NNS	16	appos	_
+27	have	have	VBP	_	29	aux	_
+28	been	be	VBN	_	29	auxpass	_
+29	detained	detain	VBN	pb=detain.01	13	ccomp	13:A1=PPT
+30	near	near	IN	p2=RB	29	prep	29:AM-LOC
+31	the Ukrainian	the ukrainian	JJ	p2=DT	33	amod	_
+32	city	city	NN	_	33	nn	_
+33	Kramatorsk	kramatorsk	NN	p2=NNP	30	pobj	_
+34	;	;	:	_	41	punct	_
+35	pp	pp	NN	p2=IN	29	npadvmod	_
+36	1	0	CD	_	35	num	_
+37	,	,	,	_	35	punct	_
+38	8	0	CD	_	35	appos	_
+39	(	(	-LRB-	_	41	punct	_
+40	508	0	CD	_	41	num	_
+41	words	word	NNS	_	35	appos	_
+42	)	)	-RRB-	_	41	punct	_
+43	.	.	.	_	13	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Lyudmila	lyudmila	NNP	p2=NN	2	nn	_
+2	Podobedova	podobedova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Russia	russia	NNP	p2=FW	8	nn	_
+7	to deliver	to deliver	''	p2=NNP	8	punct	_
+8	gas	gas	NN	p2=VBD	11	nn	_
+9	to China	to china	NNP	_	11	nn	_
+10	at European	at european	NNP	p2=JJ	11	nn	_
+11	price	price	NN	_	4	dobj	4:A1=PPT
+12	"	"	''	_	4	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	_	29	complm	_
+15	during	during	IN	_	29	prep	29:AM-TMP
+16	Putin	putin	NNP	_	19	poss	_
+17	's	's	POS	_	16	possessive	_
+18	upcoming	upcoming	JJ	_	19	amod	_
+19	visit	visit	NN	p2=VB	15	pobj	_
+20	to China	to china	NNP	p2=NN	19	appos	_
+21	,	,	,	_	29	punct	_
+22	a long	a long	JJ	p2=NNP	24	hmod	_
+23	-	-	HYPH	_	24	hyph	_
+24	term	term	NN	_	26	nn	_
+25	gas	gas	NN	_	26	nn	_
+26	contract	contract	NN	_	29	nsubjpass	29:A1=GOL
+27	may	may	MD	_	29	aux	29:AM-MOD
+28	be	be	VB	_	29	auxpass	_
+29	signed	sign	VBN	pb=sign.01	13	ccomp	13:A1=PPT
+30	.	.	.	_	13	punct	_
+
+1	The gas	the gas	PRP$	p2=DT	3	poss	_
+2	price	price	NN	_	3	nn	_
+3	for China	for china	NNP	p2=NN	5	nsubj	5:A1=PPT
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	be	be	VB	pb=be.01	0	root	_
+6	approximately	approximately	RB	_	17	advmod	_
+7	at the	at the	NNP	p2=VB	8	nn	_
+8	EU	eu	NNP	_	5	attr	5:A2=PRD
+9	's	's	POS	p2=VBZ	8	possessive	_
+10	average	average	JJ	p2=NN	8	amod	_
+11	despite	despite	IN	p2=JJ	8	prep	_
+12	discount	discount	NN	_	13	nn	_
+13	forecasts	forecast	NNS	_	11	pobj	_
+14	,	,	,	_	17	punct	_
+15	a source	a source	NNP	p2=IN	16	nn	_
+16	in Gazprom	in gazprom	NNP	_	17	nsubj	17:A0
+17	said	say	VBD	pb=say.01	5	advcl	_
+18	;	;	:	_	17	punct	_
+19	pp	pp	NN	p2=IN	17	conj	_
+20	1	0	CD	_	19	num	_
+21	,	,	,	_	19	punct	_
+22	5	0	CD	_	19	appos	_
+23	(	(	-LRB-	_	25	punct	_
+24	1,065	0	CD	_	25	num	_
+25	words	word	NNS	_	19	appos	_
+26	)	)	-RRB-	_	25	punct	_
+27	.	.	.	_	5	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yegor	yegor	CC	p2=NNP	6	cc	6:AM-DIS
+2	Sozayev	sozayev	NNP	p2=RB	4	hmod	_
+3	-	-	HYPH	p2=:	4	hyph	_
+4	Guryev	guryev	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=VBN|pb=headline.01	15	ccomp	_
+7	"	"	``	_	6	punct	_
+8	President	president	NNP	_	9	nsubj	9:A0=PPT;10:A0=PAG
+9	opposes	oppose	VBZ	p2=NNS|pb=oppose.01	6	ccomp	6:A1=PPT
+10	involving	involve	VBG	pb=involve.01	9	xcomp	9:A1=PPT
+11	Crimean	crimean	NNP	p2=VB	13	nn	_
+12	Tatars	tatars	NNP	p2=NNPS	13	nn	_
+13	in conflicts	in conflicts	NNPS	p2=NNS	10	dobj	10:A1=PPT
+14	"	"	''	p2=``	13	punct	_
+15	gives	give	VBZ	pb=give.01	0	root	_
+16	an account	an account	NNP	p2=CC	17	nn	_
+17	of Putin	of putin	NNP	_	19	poss	_
+18	's	's	POS	_	17	possessive	_
+19	meeting	meeting	NN	_	15	dobj	15:A1=PPT
+20	with	with	IN	_	19	prep	_
+21	Crimean	crimean	NNP	p2=JJ	23	nn	_
+22	lawmakers	lawmaker	NNS	_	23	nn	_
+23	and members	and members	NNS	p2=POS	20	pobj	_
+24	of the	of the	VBP	p2=''	25	nn	_
+25	Crimean	crimean	NNP	p2=$	27	nn	_
+26	Tatar	tatar	NNP	_	27	nn	_
+27	Mejlis	mejlis	NNP	p2=NNPS	15	nsubj	15:A0=PAG
+28	(	(	-LRB-	_	27	punct	_
+29	parliament	parliament	NN	_	27	appos	_
+30	)	)	-RRB-	_	27	punct	_
+31	;	;	:	_	27	punct	_
+32	p	p	NN	p2=VBG	27	appos	_
+33	2	0	CD	_	32	num	_
+34	(	(	-LRB-	_	36	punct	_
+35	500	0	CD	_	36	num	_
+36	words	word	NNS	_	32	appos	_
+37	)	)	-RRB-	_	36	punct	_
+38	.	.	.	_	15	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Tatyana	tatyana	NNP	p2=NN	2	nn	_
+2	Shirmanova	shirmanova	NNP	_	0	root	_
+3	et	et	NN	p2=NNP	4	nn	_
+4	al	al	NN	p2=NNP	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	article	article	NN	_	2	nsubj	2:A0=PAG
+2	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+3	"	"	``	_	2	punct	_
+4	They	they	PRP	_	5	nsubj	5:A0=PAG;6:A0=PAG
+5	suggest	suggest	VBP	pb=suggest.01	2	ccomp	2:A1=PPT
+6	curbing	curb	VBG	pb=curb.01	5	xcomp	5:A1=PPT
+7	governors	governor	NNS	_	9	poss	_
+8	'	'	POS	_	7	possessive	_
+9	powers	power	NNS	_	6	dobj	6:A1=PPT
+10	to appoint	to appoint	VBP	p2=NN|pb=to appoint.01	5	ccomp	_
+11	mayors	mayor	NNS	_	10	dobj	10:A1
+12	"	"	''	p2=``	5	punct	_
+13	looks	look	VBZ	p2=NNS|pb=look.02	5	ccomp	_
+14	at amendments	at amendments	NNS	_	13	dobj	13:A1=PPT
+15	to the	to the	IN	p2=,	14	prep	_
+16	pending	pending	VBG	_	19	amod	_
+17	local	local	JJ	_	19	amod	_
+18	government	government	NN	_	19	nn	_
+19	reform	reform	NN	_	15	pobj	22:A0
+20	that	that	WDT	_	22	nsubj	22:R-A0
+21	will	will	MD	_	22	aux	22:AM-MOD
+22	abolish	abolish	VB	pb=abolish.01	19	rcmod	_
+23	direct	direct	JJ	_	25	amod	_
+24	mayoral	mayoral	JJ	_	25	amod	_
+25	elections	election	NNS	_	26	nsubj	26:A0
+26	in large	in large	VBP	p2=IN|pb=in large.01	14	rcmod	_
+27	cities	city	NNS	_	26	dobj	26:A1;30:A1=PPT
+28	that	that	WDT	_	30	nsubjpass	30:R-A1
+29	are	be	VBP	_	30	auxpass	_
+30	divided	divide	VBN	pb=divide.02	27	rcmod	_
+31	into districts	into districts	NNS	p2=NNPS	30	oprd	_
+32	,	,	,	_	31	punct	_
+33	drafted	draft	VBN	p2=VBD|pb=draft.01	36	amod	_
+34	by State	by state	NNP	p2=NN	35	nn	_
+35	Duma	duma	NNP	_	36	nn	_
+36	lawmaker	lawmaker	NN	_	38	nn	33:A1=PPT
+37	Dmitry	dmitry	NNP	_	38	nn	_
+38	Savelyev	savelyev	NNP	_	22	dobj	22:A1=PPT
+39	;	;	:	_	31	punct	_
+40	p	p	CD	p2=VBD	41	number	_
+41	2	0	CD	_	44	num	_
+42	(	(	-LRB-	_	44	punct	_
+43	699	0	CD	_	44	num	_
+44	words	word	NNS	_	1	appos	_
+45	)	)	-RRB-	_	44	punct	_
+46	.	.	.	_	2	punct	_
+
+1	6	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Natalya	natalya	NNP	p2=NN	2	nn	_
+2	Bashlykova	bashlykova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Patriots	patriot	NNPS	p2=NNS	8	nn	_
+7	of Russia	of russia	NNP	p2=IN	8	nn	_
+8	to refresh	to refresh	NNP	p2=NN	9	nn	_
+9	policy	policy	NN	_	4	dobj	4:A1=PPT
+10	"	"	''	_	4	punct	_
+11	says	say	VBZ	pb=say.01	0	root	_
+12	that	that	IN	p2=DT	23	complm	_
+13	at the	at the	NNP	p2=DT	17	nn	_
+14	May	may	NNP	_	17	nn	_
+15	20	0	CD	_	14	num	_
+16	party	party	NN	_	17	nn	_
+17	congress	congress	NN	_	4	dobj	_
+18	,	,	,	_	23	punct	_
+19	the Patriots	the patriots	NNS	p2=PRP$	23	nsubj	23:A0
+20	of Russia	of russia	IN	p2=POS	19	prep	_
+21	party	party	NN	_	22	nn	_
+22	plans	plan	NNS	p2=VBZ	20	pobj	_
+23	to announce	to announce	VBP	p2=POS|pb=to announce.01	11	ccomp	11:A1=PPT
+24	a new	a new	JJ	p2=IN	26	amod	_
+25	party	party	NN	_	26	nn	_
+26	program	program	NN	_	23	dobj	23:A1
+27	;	;	:	_	4	punct	_
+28	p	p	NN	p2=CD	3	appos	_
+29	2	0	CD	_	28	num	_
+30	(	(	-LRB-	_	32	punct	_
+31	726	0	CD	_	32	num	_
+32	words	word	NNS	_	28	appos	_
+33	)	)	-RRB-	_	32	punct	_
+34	.	.	.	_	11	punct	_
+
+1	7	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Politician	politician	NNP	p2=JJ	3	nn	_
+2	Boris	boris	NNP	_	3	nn	_
+3	Titov	titov	NNP	_	4	nn	_
+4	article	article	NN	_	5	nsubj	5:A0=PAG
+5	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+6	"	"	``	_	5	punct	_
+7	Road	road	NNP	p2=JJ	8	nn	_
+8	to China	to china	NNP	_	5	dobj	5:A1=PPT
+9	"	"	''	_	5	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=DT	17	complm	_
+12	Putin	putin	NNP	_	15	poss	_
+13	's	's	POS	_	12	possessive	_
+14	upcoming	upcoming	JJ	_	15	amod	_
+15	visit	visit	NN	_	17	nsubj	17:A1=PPT
+16	to China	to china	NNP	p2=NN	15	appos	_
+17	is	be	VBZ	pb=be.01	10	ccomp	10:A1=PPT
+18	a milestone	a milestone	JJ	p2=VBN	19	amod	_
+19	event	event	NN	_	23	nn	_
+20	in Russian	in russian	JJ	p2=''	22	hmod	_
+21	-	-	HYPH	_	22	hyph	_
+22	Chinese	chinese	JJ	_	23	amod	_
+23	relations	relation	NNS	_	17	attr	17:A2=PRD
+24	;	;	:	p2=,	23	punct	_
+25	p	p	NN	p2=DT	4	appos	_
+26	3	0	CD	_	25	num	_
+27	(	(	-LRB-	_	29	punct	_
+28	879	0	CD	_	29	num	_
+29	words	word	NNS	_	25	appos	_
+30	)	)	-RRB-	_	29	punct	_
+31	.	.	.	_	10	punct	_
+
+1	8	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Ivan	ivan	NNP	p2=JJ	2	nn	_
+2	Cheberko	cheberko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Losses	loss	NNS	_	8	nsubj	8:A0=PAG;7:A1
+7	from failed	from failed	VBN	p2=VBD|pb=from failed.01	6	partmod	_
+8	launch	launch	VBP	p2=NN|pb=launch.01	4	ccomp	4:A1=PPT
+9	of Ekspress	of ekspress	NNP	p2=NN	11	hmod	_
+10	-	-	HYPH	p2=:	11	hyph	_
+11	AM4R	am4r	NNP	_	8	dobj	8:A1=PPT
+12	[	[	-LRB-	_	13	punct	_
+13	satellite	satellite	NN	_	11	appos	_
+14	]	]	-RRB-	_	13	punct	_
+15	to reach	to reach	$	p2=VB	17	quantmod	_
+16	19	0	CD	_	17	number	_
+17	billion	#crd#	CD	_	18	num	_
+18	rubles	ruble	NNS	_	11	appos	_
+19	(	(	-LRB-	_	18	punct	_
+20	$	$	$	_	22	quantmod	_
+21	545	0	CD	_	22	number	_
+22	million	#crd#	CD	_	18	appos	_
+23	)	)	-RRB-	_	18	punct	_
+24	within	within	IN	_	8	prep	8:AM-TMP
+25	three	#crd#	CD	_	26	num	_
+26	years	year	NNS	_	24	pobj	_
+27	"	"	''	_	8	punct	_
+28	says	say	VBZ	pb=say.01	0	root	_
+29	that	that	IN	p2=DT	33	complm	_
+30	the losses	the losses	NNS	p2=NNP	33	nsubj	33:A0=PAG
+31	from the	from the	,	p2=NNP	33	punct	_
+32	failed	fail	VBD	p2=VBN	33	aux	_
+33	launch	launch	VB	pb=launch.01	28	ccomp	28:A1=PPT
+34	of a	of a	NNP	p2=HYPH	35	nn	_
+35	Proton	proton	NNP	_	36	nn	_
+36	rocket	rocket	NN	_	33	dobj	33:A1=PPT
+37	,	,	,	_	33	punct	_
+38	that	that	WDT	p2=DT	41	nsubj	41:R-A0
+39	should	should	MD	_	41	aux	41:AM-MOD
+40	have	have	VB	_	41	aux	_
+41	put	put	VBN	pb=put.01	33	ccomp	_
+42	into orbit	into orbit	RP	p2=VB	41	prt	41:C-V
+43	a broadcast	a broadcast	VBN	p2=IN|pb=a broadcast.01	44	amod	_
+44	satellite	satellite	NN	_	41	dobj	41:A1=PPT;43:A1
+45	,	,	,	_	47	punct	_
+46	have	have	VBP	p2=VB	47	aux	_
+47	amounted	amount	VBN	p2=VBD|pb=amount.01	41	dep	_
+48	to 10.64	to 0	CD	p2=VBN	49	number	_
+49	billion	#crd#	CD	_	50	num	_
+50	rubles	ruble	NNS	_	47	dobj	47:A1=PPT
+51	(	(	-LRB-	_	50	punct	_
+52	$	$	$	_	54	quantmod	_
+53	306	0	CD	_	54	number	_
+54	million	#crd#	CD	_	50	appos	_
+55	)	)	-RRB-	_	50	punct	_
+56	;	;	:	_	50	punct	_
+57	p	p	NN	p2=DT	50	appos	_
+58	7	0	CD	_	57	num	_
+59	(	(	-LRB-	_	61	punct	_
+60	537	0	CD	_	61	num	_
+61	words	word	NNS	_	57	appos	_
+62	)	)	-RRB-	_	61	punct	_
+63	.	.	.	_	28	punct	_
+
+1	9	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Konstantin	konstantin	NNP	p2=JJ	2	nn	_
+2	Volkov	volkov	NNP	_	3	nn	_
+3	interview	interview	NN	p2=VB	13	nn	_
+4	with	with	IN	_	3	prep	_
+5	the head	the head	NNP	p2=RB	8	nn	_
+6	of the	of the	NNP	p2=POS	8	nn	_
+7	Federation	federation	NNP	_	8	nn	_
+8	Council	council	NNP	_	9	nn	_
+9	committee	committee	NN	p2=NNP	11	nn	_
+10	on international	on international	NNP	p2=JJ	11	nn	_
+11	affairs	affair	NNS	p2=VBZ	4	pobj	_
+12	Mikhail	mikhail	NNP	_	13	nn	_
+13	Margelov	margelov	NNP	_	15	nsubj	15:A0=PAG;29:A0=PAG
+14	,	,	,	_	15	punct	_
+15	headlined	headline	VBD	p2=NNP|pb=headline.01	0	root	_
+16	"	"	``	p2=''	15	punct	_
+17	'	'	``	p2=POS	15	punct	_
+18	It	it	PRP	_	19	nsubj	_
+19	is	be	VBZ	pb=be.01	15	ccomp	15:A1=PPT
+20	important	important	JJ	_	19	acomp	19:A2=PRD
+21	that	that	IN	_	23	complm	_
+22	compatriots	compatriot	NNS	_	23	nsubj	23:A1=PPT
+23	are	be	VBP	pb=be.01	19	ccomp	19:A1=PPT
+24	in orbit	in orbit	``	p2=VBN	26	punct	_
+25	of Russian	of russian	JJ	p2=``	26	amod	_
+26	world	world	NN	_	23	attr	23:A2=PRD
+27	'	'	''	p2=POS	26	punct	_
+28	"	"	``	p2=''	29	punct	_
+29	speaking	speak	VBG	pb=speak.01	13	partmod	_
+30	about	about	IN	p2=RB	29	prep	29:A1=PPT
+31	measures	measure	NNS	_	30	pobj	33:A1=PPT
+32	being	be	VBG	_	33	auxpass	_
+33	taken	take	VBN	pb=take.01	31	partmod	_
+34	by Russia	by russia	NNP	p2=,	33	dobj	_
+35	to increase	to increase	IN	p2=VB	33	prep	33:AM-MNR
+36	its	its	PRP$	_	37	poss	_
+37	influence	influence	NN	_	35	pobj	_
+38	abroad	abroad	RB	_	37	advmod	_
+39	;	;	:	p2=,	43	punct	_
+40	8	0	CD	_	43	num	_
+41	(	(	-LRB-	_	43	punct	_
+42	494	0	CD	_	43	num	_
+43	words	word	NNS	_	37	appos	_
+44	)	)	-RRB-	_	43	punct	_
+45	.	.	.	_	15	punct	_
+
+1	10	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Konstantin	konstantin	NNP	p2=NN	2	nn	_
+2	Volkov	volkov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG;30:A1=PPT
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Aid	aid	JJ	p2=VB	8	amod	_
+7	collection	collection	NN	_	8	nn	_
+8	points	point	NNS	p2=VBZ	9	nsubj	9:A0
+9	for Donetsk	for donetsk	VBP	p2=NNP|pb=for donetsk.01	4	ccomp	4:A1=PPT
+10	to rise	to rise	NNP	p2=NN	11	nn	_
+11	in number	in number	NNP	_	9	dobj	9:A1
+12	"	"	''	_	9	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	p2=DT	16	complm	_
+15	the number	the number	NNP	p2=PRP	16	nsubj	16:A0
+16	of points	of points	VBZ	p2=POS|pb=of points.01	13	ccomp	13:A1=PPT
+17	to collect	to collect	JJ	p2=IN	19	amod	_
+18	humanitarian	humanitarian	JJ	_	19	amod	_
+19	aid	aid	NN	_	16	dobj	16:A1
+20	for the	for the	IN	p2=NN	19	prep	_
+21	self	self	NN	_	23	hmod	_
+22	-	-	HYPH	_	23	hyph	_
+23	proclaimed	proclaim	VBN	_	27	amod	_
+24	Donetsk	donetsk	NNP	_	27	nn	_
+25	people	people	NNS	_	27	poss	_
+26	's	's	POS	_	25	possessive	_
+27	republic	republic	NN	_	20	pobj	_
+28	will	will	MD	_	30	aux	30:AM-MOD
+29	be	be	VB	_	30	auxpass	_
+30	increased	increase	VBN	pb=increase.01	4	conj	_
+31	in Russia	in russia	NNP	p2=NN	30	npadvmod	30:A2=EXT
+32	;	;	:	_	30	punct	_
+33	p	p	VBG	p2=CD|pb=p.01	16	advcl	_
+34	8	0	CD	_	37	num	_
+35	(	(	-LRB-	_	37	punct	_
+36	494	0	CD	_	37	num	_
+37	words	word	NNS	_	33	dobj	33:A1
+38	)	)	-RRB-	_	33	punct	_
+39	.	.	.	_	13	punct	_
+
+1	11	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Maxim	maxim	NNP	p2=JJ	2	nn	_
+2	Sokolov	sokolov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG;14:A0
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Who	who	WP	p2=NNP	8	nsubj	8:R-A1
+7	will	will	MD	_	8	aux	8:AM-MOD
+8	be	be	VB	pb=be.01	4	ccomp	4:A1=PPT
+9	responsible	responsible	JJ	_	8	acomp	8:A2=PRD
+10	for Russia	for russia	NNP	p2=NN	8	npadvmod	_
+11	before	before	IN	_	10	prep	_
+12	God	god	NNP	_	11	pobj	_
+13	"	"	''	p2=``	4	punct	_
+14	explains	explain	VBZ	pb=explain.01	4	dep	_
+15	why	why	WRB	_	22	advmod	22:R-AM-CAU
+16	people	people	NNS	_	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	support	support	NN	p2=VBP	19	nn	_
+19	for Putin	for putin	NNP	p2=NN	22	nsubj	22:A0=PAG
+20	has	have	VBZ	_	22	aux	_
+21	considerably	considerably	RB	_	22	advmod	22:AM-MNR
+22	strengthened	strengthen	VBN	pb=strengthen.01	14	ccomp	14:A1=PPT
+23	this	this	DT	_	24	det	_
+24	spring	spring	NN	_	22	dobj	22:A1=PPT
+25	;	;	:	_	18	punct	_
+26	p	p	NN	p2=RB	18	appos	_
+27	9	0	CD	_	26	num	_
+28	(	(	-LRB-	_	30	punct	_
+29	630	0	CD	_	30	num	_
+30	words	word	NNS	_	26	appos	_
+31	)	)	-RRB-	_	30	punct	_
+32	.	.	.	_	4	punct	_
+
+1	12	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Konstantin	konstantin	NNP	p2=NN	2	nn	_
+2	Volkov	volkov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=NN|pb=headline.01	12	ccomp	_
+5	"	"	``	_	4	punct	_
+6	Kharkiv	kharkiv	NNP	p2=FW	7	nsubj	7:A0=PAG
+7	gets	get	VBZ	pb=get.01	4	ccomp	_
+8	ready	ready	JJ	_	7	acomp	7:A2=DIR
+9	for referendum	for referendum	NNP	p2=NN	10	nn	_
+10	and boycott	and boycott	NNP	p2=CC	12	nsubj	12:A0=PAG
+11	"	"	''	p2=``	12	punct	_
+12	looks	look	VBZ	pb=look.02	0	root	_
+13	at the	at the	DT	p2=NNP	14	det	_
+14	situation	situation	NN	_	12	attr	12:A1=PPT
+15	in Ukraine	in ukraine	PRP	p2=NNP	16	nsubj	16:A1=PPT
+16	's	be	VBZ	p2=POS|pb=be.01	14	rcmod	_
+17	southeast	southeast	JJ	p2=RB	18	amod	_
+18	and says	and says	NNS	p2=NNPS	16	attr	20:A0;16:A2=PRD
+19	that	that	WDT	p2=IN	20	nsubj	20:R-A0
+20	a referendum	a referendum	VBP	p2=NNP|pb=a referendum.01	18	rcmod	_
+21	on self	on self	IN	p2=CD	23	hmod	_
+22	-	-	HYPH	_	23	hyph	_
+23	determination	determination	NN	_	25	nsubjpass	25:A1=PPT
+24	is	be	VBZ	_	25	auxpass	_
+25	expected	expect	VBN	pb=expect.01	20	ccomp	20:A1
+26	to be	to be	NNP	p2=RB	27	nsubj	27:A0=PAG
+27	held	hold	VBN	p2=VBD|pb=hold.01	25	ccomp	_
+28	in Kharkiv	in kharkiv	NNP	p2=NN	27	dobj	27:A1=PPT
+29	;	;	:	_	27	punct	_
+30	p	p	CD	p2=CC	31	number	_
+31	8	0	CD	_	34	num	_
+32	(	(	-LRB-	_	34	punct	_
+33	300	0	CD	_	34	num	_
+34	words	word	NNS	_	7	dobj	_
+35	)	)	-RRB-	_	34	punct	_
+36	.	.	.	_	12	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Vasily	vasily	RB	p2=NNP	4	advmod	4:AM-ADV
+2	Mironov	mironov	NNP	p2=PRP$	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Gas	gas	NNP	p2=NNS	8	nsubj	_
+7	more	more	RBR	_	8	advmod	_
+8	expensive	expensive	JJ	_	4	ccomp	_
+9	than	than	IN	_	8	prep	_
+10	politics	politics	NNS	_	9	pobj	_
+11	"	"	''	p2=``	4	punct	_
+12	looks	look	VBZ	p2=NNS	4	dobj	4:A1=PPT
+13	ahead	ahead	RB	p2=RP	14	advmod	_
+14	at Russian	at russian	JJ	p2=NNP	16	amod	_
+15	Energy	energy	NNP	p2=NN	16	nn	_
+16	Minister	minister	NNP	_	18	nn	_
+17	Alexander	alexander	NNP	_	18	nn	_
+18	Novak	novak	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	gas	gas	NN	_	21	nn	_
+21	talks	talk	NNS	_	28	nsubj	28:A1=PPT
+22	with	with	IN	_	21	prep	_
+23	EU	eu	NNP	_	25	nn	_
+24	Energy	energy	NNP	_	25	nn	_
+25	Commissioner	commissioner	NNP	_	27	nn	_
+26	Günther	günther	NNP	_	27	nn	_
+27	Oettinger	oettinger	NNP	_	22	pobj	_
+28	set	set	VBD	p2=NN|pb=set.02	12	ccomp	_
+29	for May	for may	NNP	p2=IN	32	nn	_
+30	19	0	CD	_	29	num	_
+31	;	;	:	_	29	punct	_
+32	pp	pp	NN	p2=VBP	28	npadvmod	_
+33	1	0	CD	_	32	num	_
+34	,	,	,	_	32	punct	_
+35	5	0	CD	_	32	appos	_
+36	(	(	-LRB-	_	38	punct	_
+37	690	0	CD	_	38	num	_
+38	words	word	NNS	_	32	appos	_
+39	)	)	-RRB-	_	38	punct	_
+40	.	.	.	_	4	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Tatyana	tatyana	NNP	p2=NN	2	nn	_
+2	Zamakhina	zamakhina	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Forty	#crd#	CD	p2=NNP	8	hmod	_
+7	-	-	HYPH	_	8	hyph	_
+8	three	#crd#	CD	_	9	num	_
+9	bags	bag	NNS	_	11	poss	_
+10	for tea	for tea	POS	p2=HYPH	9	possessive	_
+11	ceremony	ceremony	NN	_	4	dobj	4:A1=PPT
+12	"	"	''	_	4	punct	_
+13	says	say	VBZ	pb=say.01	0	root	_
+14	that	that	IN	_	21	complm	_
+15	some	some	DT	_	17	det	_
+16	43	0	CD	_	17	num	_
+17	agreements	agreement	NNS	_	21	nsubjpass	21:A1=PPT
+18	on bilateral	on bilateral	JJ	p2=POS	19	amod	_
+19	cooperation	cooperation	NN	_	21	npadvmod	21:AM-ADV
+20	are	be	VBP	_	21	auxpass	_
+21	planned	plan	VBN	pb=plan.01	13	ccomp	13:A1=PPT
+22	to be	to be	NNP	p2=RB	23	nsubj	23:A0=PAG
+23	signed	sign	VBN	p2=VBD|pb=sign.02	21	dep	_
+24	in the	in the	NN	p2=NNP	25	nn	_
+25	course	course	NN	_	29	nn	_
+26	of Putin	of putin	NNP	p2=NN	28	poss	_
+27	's	's	POS	_	26	possessive	_
+28	visit	visit	NN	p2=VB	29	nn	_
+29	to China	to china	NNP	p2=NN	23	dobj	32:A0=PAG;23:A1=PPT
+30	,	,	,	_	29	punct	_
+31	which	which	WDT	_	32	nsubj	32:R-A2
+32	begins	begin	VBZ	pb=begin.01	29	rcmod	_
+33	on May	on may	NNP	p2=IN	32	dobj	32:A1=PPT
+34	20	0	CD	_	33	num	_
+35	;	;	:	_	40	punct	_
+36	p	p	DT	p2=RB	37	quantmod	_
+37	2	0	CD	_	40	num	_
+38	(	(	-LRB-	_	40	punct	_
+39	601	0	CD	_	40	num	_
+40	words	word	NNS	_	33	appos	_
+41	)	)	-RRB-	_	40	punct	_
+42	.	.	.	_	13	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Vyacheslav	vyacheslav	NNP	p2=JJ	2	nn	_
+2	Prokofyev	prokofyev	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Mistral	mistral	NNP	p2=JJ	9	nsubj	9:A0=PAG
+7	does	do	VBZ	_	9	aux	_
+8	not	not	RB	_	9	neg	9:AM-NEG
+9	change	change	VB	pb=change.01	12	ccomp	12:A1-DSP
+10	route	route	NN	_	9	dobj	9:A1=PPT
+11	"	"	''	_	9	punct	_
+12	says	say	VBZ	pb=say.01	4	ccomp	_
+13	that	that	IN	p2=DT	14	det	_
+14	the U.S	the u.s	NNP	p2=ADD	12	nsubj	12:A0
+15	.	.	.	_	4	punct	_
+
+1	is	be	VBZ	_	2	aux	_
+2	exerting	exert	VBG	pb=exert.01	7	advcl	_
+3	pressure	pressure	NN	_	5	nn	_
+4	on France	on france	NN	p2=NNP	5	nn	_
+5	to compel	to compel	NN	p2=''	2	dobj	2:A1=PPT
+6	it	it	PRP	_	7	nsubj	7:A0
+7	to give	to give	VBD	p2=VBP|pb=to give.01	0	root	_
+8	up	up	RP	p2=IN	7	prt	7:C-V
+9	the sale	the sale	NNP	p2=RB	12	nn	_
+10	of Mistral	of mistral	JJ	p2=NNP	12	amod	_
+11	helicopter	helicopter	NN	_	12	nn	_
+12	carriers	carrier	NNS	_	7	dobj	7:A1
+13	to Russia	to russia	NNP	p2=''	12	appos	_
+14	.	.	.	_	7	punct	_
+
+1	However	however	RB	_	6	advmod	6:AM-DIS
+2	,	,	,	_	6	punct	_
+3	Paris	paris	NNP	_	6	nsubj	6:A0=PAG
+4	does	do	VBZ	_	6	aux	_
+5	not	not	RB	_	6	neg	6:AM-NEG
+6	want	want	VB	pb=want.01	0	root	_
+7	to do	to do	NNP	p2=IN	6	dobj	6:A1=PPT
+8	this	this	DT	_	7	dobj	_
+9	;	;	:	_	14	punct	_
+10	p	p	DT	p2=VBD	14	det	_
+11	7	0	CD	_	14	num	_
+12	(	(	-LRB-	_	14	punct	_
+13	611	0	CD	_	14	num	_
+14	words	word	NNS	_	0	root	_
+15	)	)	-RRB-	_	14	punct	_
+16	.	.	.	_	6	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Susanna	susanna	NNP	p2=JJ	2	nn	_
+2	Alperina	alperina	NNP	_	3	nn	_
+3	interview	interview	NN	p2=VB	23	nsubj	21:A1=PPT;23:A1=PPT
+4	with	with	IN	_	3	prep	_
+5	the general	the general	DT	p2=JJ	6	det	_
+6	director	director	NN	_	4	pobj	_
+7	of the	of the	IN	p2=HYPH	6	prep	_
+8	state	state	NN	_	10	hmod	10:A0=PAG
+9	-	-	HYPH	_	10	hyph	_
+10	funded	fund	VBN	pb=fund.01	13	amod	_
+11	Russian	russian	NNP	p2=JJ	13	nn	_
+12	Public	public	NNP	_	13	nn	_
+13	Television	television	NNP	p2=NN	7	pobj	10:A1=PPT
+14	,	,	,	_	13	punct	_
+15	or	or	CC	_	13	cc	_
+16	OTR	otr	NNP	_	13	conj	_
+17	,	,	,	_	16	punct	_
+18	Anatoly	anatoly	NNP	_	19	nn	_
+19	Lysenko	lysenko	NNP	_	6	appos	_
+20	,	,	,	_	3	punct	_
+21	headlined	headline	VBD	p2=NNP|pb=headline.01	3	partmod	_
+22	"	"	``	p2=''	21	punct	_
+23	Was	be	VBD	pb=be.01	0	root	_
+24	it	it	PRP	_	25	nsubj	25:A0
+25	stormy	stormy	VB	p2=JJ|pb=stormy.01	23	ccomp	23:A2=PRD
+26	on TV	on tv	NNP	p2=RB	25	dobj	25:A1
+27	?	?	.	_	23	punct	_
+28	"	"	''	_	23	punct	_
+
+1	,	,	,	_	3	punct	_
+2	who	who	WP	_	3	nsubj	3:R-A0
+3	sums	sum	VBZ	pb=sum.01	0	root	_
+4	up	up	RP	p2=RB	3	prt	3:C-V
+5	the results	the results	RB	p2=PRP$	13	advmod	_
+6	of the	of the	DT	p2=RB	13	det	_
+7	one	#crd#	CD	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	year	year	NN	_	13	nn	_
+10	performance	performance	NN	_	13	nn	_
+11	of the	of the	HYPH	p2=IN	12	hyph	_
+12	television	television	NN	_	13	nn	_
+13	channel	channel	NN	_	3	dobj	3:A1=PPT
+14	;	;	:	_	13	punct	_
+15	p	p	NN	p2=VBG	13	appos	_
+16	10	0	CD	_	15	num	_
+17	(	(	-LRB-	_	19	punct	_
+18	2,292	0	CD	_	19	num	_
+19	words	word	NNS	_	15	appos	_
+20	)	)	-RRB-	_	19	punct	_
+21	.	.	.	_	3	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yelena	yelena	NNP	p2=CC	5	nn	_
+2	Gamayun	gamayun	NNP	_	4	nn	_
+3	and Tatyana	and tatyana	NNP	_	4	nn	_
+4	Melikyan	melikyan	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=NN|pb=headline.01	0	root	_
+7	"	"	``	_	6	punct	_
+8	Is	be	VBZ	pb=be.01	6	ccomp	6:A1=PPT
+9	Borodai	borodai	NNP	p2=FW	10	nn	_
+10	protege	protege	NN	_	11	nn	_
+11	of oligarchs	of oligarchs	NNS	p2=POS	8	nsubj	8:A1=PPT
+12	or	or	CC	_	11	cc	_
+13	revolutionary	revolutionary	JJ	p2=VB	14	amod	_
+14	romantic	romantic	JJ	p2=NN	8	acomp	8:A2=PRD
+15	?	?	.	_	6	punct	_
+16	"	"	''	_	6	punct	_
+
+1	says	say	VBZ	pb=say.01	0	root	_
+2	that	that	IN	p2=DT	11	complm	_
+3	the self	the self	PRP	p2=RB	5	hmod	_
+4	-	-	HYPH	p2=,	5	hyph	_
+5	proclaimed	proclaim	VBN	p2=VBD	9	amod	_
+6	Donetsk	donetsk	NNP	_	9	nn	_
+7	people	people	NNS	_	9	poss	_
+8	's	's	POS	_	7	possessive	_
+9	republic	republic	NN	_	11	nsubj	11:A0=PAG
+10	has	have	VBZ	_	11	aux	_
+11	got	get	VBN	p2=VBD|pb=get.02	1	ccomp	1:A1=PPT
+12	the prime	the prime	DT	p2=NN	13	det	_
+13	minister	minister	NN	_	11	dobj	11:A1=PPT
+14	,	,	,	_	11	punct	_
+15	the head	the head	RB	p2=VBD	16	advmod	_
+16	of the	of the	JJ	p2=VB	17	amod	_
+17	parliament	parliament	NN	_	19	nn	_
+18	and two	and two	NNP	p2=XX	19	nn	_
+19	ministers	minister	NNS	_	11	dobj	_
+20	.	.	.	_	1	punct	_
+
+1	Surprisingly	surprisingly	RB	_	9	advmod	9:AM-DIS
+2	,	,	,	_	9	punct	_
+3	Russian	russian	JJ	_	5	amod	_
+4	political	political	JJ	_	5	amod	_
+5	analyst	analyst	NN	_	7	nn	_
+6	Alexander	alexander	NNP	_	7	nn	_
+7	Borodai	borodai	NNP	_	9	nsubj	9:A1=PPT
+8	has	have	VBZ	_	9	aux	_
+9	become	become	VBN	pb=become.01	0	root	_
+10	the republic	the republic	NNP	p2=NN	13	poss	_
+11	's	's	POS	_	10	possessive	_
+12	prime	prime	JJ	_	13	amod	_
+13	minister	minister	NN	_	9	attr	9:A2=PRD
+14	;	;	:	_	13	punct	_
+15	p	p	NN	p2=VBG	13	appos	_
+16	2	0	CD	_	15	num	_
+17	(	(	-LRB-	_	19	punct	_
+18	1,019	0	CD	_	19	num	_
+19	words	word	NNS	_	15	appos	_
+20	)	)	-RRB-	_	19	punct	_
+21	.	.	.	_	9	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=JJ	2	nn	_
+2	Lokhvitsky	lokhvitsky	NNP	p2=JJ	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	17	ccomp	_
+5	"	"	``	_	10	punct	_
+6	Deportation	deportation	NN	p2=NNP	7	nn	_
+7	victims	victim	NNS	_	10	nn	_
+8	memorial	memorial	JJ	_	9	amod	_
+9	day	day	NN	_	10	nn	_
+10	in Crimea	in crimea	NN	p2=''	4	dobj	4:A1=PPT
+11	:	:	:	_	10	punct	_
+12	Without	without	IN	_	4	prep	4:AM-MNR
+13	fighting	fight	VBG	p2=NN|pb=fight.01	12	pcomp	_
+14	and political	and political	JJ	p2=NNP	15	amod	_
+15	slogans	slogan	NNS	_	13	dobj	13:A1=COM
+16	"	"	''	_	17	punct	_
+17	says	say	VBZ	pb=say.01	0	root	_
+18	that	that	IN	p2=WDT	22	complm	_
+19	Crimean	crimean	NNP	_	20	nn	_
+20	Tatars	tatars	NNP	p2=NNPS	22	nsubj	22:A0=PAG
+21	have	have	VBP	_	22	aux	_
+22	commemorated	commemorate	VBN	pb=commemorate.01	17	ccomp	17:A1=PPT
+23	the victims	the victims	NNS	p2=NNPS	22	dobj	24:A0;22:A1=PPT
+24	of the	of the	VBN	p2=VBP|pb=of the.01	23	partmod	_
+25	Crimean	crimean	NNP	p2=MD	26	nn	_
+26	Tatar	tatar	NNP	_	27	nn	_
+27	people	people	NNS	_	29	poss	_
+28	's	's	POS	_	27	possessive	_
+29	deportation	deportation	NN	_	24	dobj	24:A1
+30	without	without	IN	_	24	prep	24:AM-MNR
+31	both	both	DT	p2=CC	34	det	_
+32	Russian	russian	JJ	p2=NNP	34	amod	_
+33	and Ukrainian	and ukrainian	JJ	p2=NNP	34	amod	_
+34	flags	flag	NNS	_	30	pobj	_
+35	outside	outside	IN	p2=RB	34	prep	_
+36	Simferopol	simferopol	NNP	p2=NN	35	pobj	_
+37	;	;	:	_	42	punct	_
+38	p	p	CD	p2=RB	39	number	_
+39	2	0	CD	_	42	num	_
+40	(	(	-LRB-	_	42	punct	_
+41	431	0	CD	_	42	num	_
+42	words	word	NNS	_	23	appos	_
+43	)	)	-RRB-	_	42	punct	_
+44	.	.	.	_	17	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Oleg	oleg	NNP	p2=JJ	2	nn	_
+2	Poptsov	poptsov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Patriotic	patriotic	NNP	p2=JJ	8	nsubj	8:A0=PAG
+7	outburst	outburst	RB	p2=VBD	8	advmod	8:AM-MNR
+8	blows	blow	VBZ	pb=blow.06	4	ccomp	4:A1=PPT
+9	up	up	RP	p2=RB	8	prt	8:C-V
+10	country	country	NN	_	8	dobj	8:A1=PPT
+11	"	"	''	p2=,	8	punct	_
+12	says	say	VBZ	pb=say.01	0	root	_
+13	that	that	IN	p2=DT	24	complm	_
+14	the Ukrainian	the ukrainian	JJ	p2=DT	15	amod	_
+15	crisis	crisis	NN	_	20	nn	_
+16	and the	and the	NNP	p2=DT	19	nn	_
+17	Russia	russia	NNP	_	19	hmod	_
+18	-	-	HYPH	p2=SYM	19	hyph	_
+19	West	west	NNP	_	20	nn	_
+20	standoff	standoff	NN	_	24	nsubj	24:A1=PPT
+21	over	over	IN	_	20	prep	_
+22	Ukraine	ukraine	NNP	p2=PRP	21	pobj	_
+23	have	have	VBP	_	24	aux	_
+24	become	become	VBN	pb=become.01	12	ccomp	12:A1=PPT
+25	a test	a test	JJS	p2=``	26	amod	_
+26	of Russians	of russians	NNS	p2=NNPS	28	poss	_
+27	'	'	POS	p2=''	26	possessive	_
+28	patriotism	patriotism	NN	_	24	attr	30:A1=PPT;24:A2=PRD
+29	which	which	WDT	_	30	nsubj	30:R-A1
+30	grew	grow	VBD	pb=grow.02	28	rcmod	_
+31	strong	strong	JJ	p2=RB	30	acomp	30:A2=PRD
+32	following	follow	VBG	p2=IN	30	prep	30:AM-TMP
+33	Russia	russia	NNP	_	35	poss	_
+34	's	's	POS	_	33	possessive	_
+35	victory	victory	NN	_	32	pobj	_
+36	in the	in the	NNP	p2=IN	39	nn	_
+37	Winter	winter	NNP	_	38	nn	_
+38	Olympics	olympics	NNPS	p2=NNP	39	nn	_
+39	in Sochi	in sochi	NNP	p2=POS	35	appos	_
+40	;	;	:	p2=,	45	punct	_
+41	p	p	DT	p2=CD	42	quantmod	_
+42	3	0	CD	_	45	num	_
+43	(	(	-LRB-	_	45	punct	_
+44	1,256	0	CD	_	45	num	_
+45	words	word	NNS	_	35	appos	_
+46	)	)	-RRB-	_	45	punct	_
+47	.	.	.	_	12	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Marina	marina	NNP	_	2	nn	_
+2	Perevozkina	perevozkina	NNP	_	3	nn	_
+3	interview	interview	NN	p2=VB	0	root	_
+4	with	with	IN	_	3	prep	_
+5	Oleg	oleg	NNP	_	6	nn	_
+6	Muzyka	muzyka	NNP	_	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	an eyewitness	an eyewitness	NN	p2=NNP	9	nn	_
+9	of the	of the	NNP	p2=NN	13	nn	_
+10	May	may	NNP	_	12	nn	_
+11	2	0	CD	_	10	num	_
+12	massacre	massacre	NN	_	13	nn	_
+13	in Odessa	in odessa	NNP	p2=NNS	6	appos	_
+14	,	,	,	_	6	punct	_
+15	headlined	headline	VBD	p2=NNP|pb=headline.01	3	partmod	_
+16	"	"	``	p2=''	15	punct	_
+17	'	'	``	p2=''	15	punct	_
+18	You	you	PRP	_	24	nsubj	26:A0;24:A1
+19	together	together	RB	_	20	advmod	_
+20	with	with	IN	_	24	prep	_
+21	all	all	DT	p2=PDT	22	det	_
+22	the rest	the rest	JJS	p2=NNP	20	pobj	_
+23	will	will	MD	p2=NN	24	aux	24:AM-MOD
+24	lie	lie	VB	pb=lie.01	15	ccomp	15:A1=PPT
+25	down	down	RB	p2=RP	24	advmod	24:C-V
+26	on the	on the	VB	p2=IN|pb=on the.01	24	advcl	24:AM-ADV
+27	third	#ord#	JJ	_	28	amod	_
+28	floor	floor	NN	_	26	dobj	26:A1
+29	,	,	,	_	31	punct	_
+30	'	'	''	_	31	punct	_
+31	said	say	VBD	pb=say.01	0	root	_
+32	Ukraine	ukraine	NNP	_	36	poss	_
+33	's	's	POS	_	32	possessive	_
+34	Security	security	NNP	_	35	nn	_
+35	Service	service	NNP	_	36	nn	_
+36	officer	officer	NN	_	31	nsubj	31:A0;39:A0=PAG
+37	"	"	''	_	31	punct	_
+38	,	,	,	_	31	punct	_
+39	speaking	speak	VBG	pb=speak.01	31	advcl	31:AM-ADV
+40	about	about	IN	p2=RB	39	prep	39:A1=PPT
+41	the May	the may	PRP$	p2=RB	48	poss	_
+42	2	0	CD	_	43	num	_
+43	fire	fire	NN	_	48	nn	_
+44	at Odessa	at odessa	NNP	p2=NN	48	poss	_
+45	's	's	POS	_	44	possessive	_
+46	trade	trade	NN	_	48	nn	_
+47	union	union	NN	_	48	nn	_
+48	building	building	NN	_	40	pobj	_
+49	;	;	:	_	54	punct	_
+50	p	p	RB	p2=VBG	54	advmod	_
+51	6	0	CD	_	54	num	_
+52	(	(	-LRB-	_	54	punct	_
+53	2,741	0	CD	_	54	num	_
+54	words	word	NNS	_	0	root	_
+55	)	)	-RRB-	_	54	punct	_
+56	.	.	.	_	31	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Natalya	natalya	NNP	p2=NN	2	nn	_
+2	Zotova	zotova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Biryulevo	biryulevo	NNP	p2=VB	8	nn	_
+7	[	[	-LRB-	p2=''	8	punct	_
+8	district	district	NN	_	4	dobj	_
+9	]	]	-RRB-	_	4	punct	_
+10	moves	move	NNS	p2=VBZ	4	dobj	4:A1=PPT
+11	outside	outside	IN	p2=RB	10	prep	_
+12	MKAD	mkad	NNP	_	11	pobj	_
+13	[	[	-LRB-	_	12	punct	_
+14	Moscow	moscow	NNP	_	16	nn	_
+15	Ring	ring	NNP	_	16	nn	_
+16	Road	road	NNP	_	12	appos	_
+17	]	]	-RRB-	_	12	punct	_
+18	"	"	''	p2=``	4	punct	_
+19	says	say	VBZ	pb=say.01	0	root	_
+20	that	that	IN	p2=DT	19	nsubj	19:A0
+21	the killing	the killing	VBG	p2=NNP|pb=the killing.01	4	xcomp	_
+22	of a	of a	NNP	p2=RP	24	nn	_
+23	Muscovite	muscovite	NNP	_	24	nn	_
+24	by a	by a	NNP	p2=,	26	nn	_
+25	native	native	JJ	p2=NN	26	amod	_
+26	of Uzbekistan	of uzbekistan	NNP	p2=NN	28	nsubj	28:A0=PAG
+27	has	have	VBZ	_	28	aux	_
+28	triggered	trigger	VBN	pb=trigger.01	21	ccomp	21:A1
+29	mass	mass	NN	p2=JJ	30	nn	_
+30	riots	riot	NNS	_	31	nsubj	31:A0
+31	in the	in the	VBP	p2=IN|pb=in the.01	28	ccomp	28:A1=PPT
+32	town	town	NN	_	31	dobj	31:A1
+33	of Pushkino	of pushkino	IN	p2=CD	31	prep	31:AM-LOC
+34	in Moscow	in moscow	NNP	p2=JJ	35	nn	_
+35	region	region	NN	_	33	pobj	_
+36	;	;	:	_	32	punct	_
+37	p	p	NN	p2=DT	28	npadvmod	_
+38	8	0	CD	_	37	num	_
+39	(	(	-LRB-	_	41	punct	_
+40	789	0	CD	_	41	num	_
+41	words	word	NNS	_	37	appos	_
+42	)	)	-RRB-	_	41	punct	_
+43	.	.	.	_	19	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Olga	olga	NNP	p2=NN	2	nn	_
+2	Prosvirova	prosvirova	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Enforcement	enforcement	NNP	p2=NN	7	nn	_
+7	agents	agent	NNS	_	4	dobj	4:A1=PPT
+8	"	"	''	_	4	punct	_
+9	criticizes	criticize	VBZ	pb=criticize.01	0	root	_
+10	State	state	NNP	p2=NN	11	nn	_
+11	Duma	duma	NNP	_	12	nn	_
+12	member	member	NN	_	14	nn	_
+13	Andrei	andrei	NNP	_	14	nn	_
+14	Lugovoi	lugovoi	NNP	_	16	poss	_
+15	's	's	POS	_	14	possessive	_
+16	initiative	initiative	NN	_	9	dobj	9:A1=PPT
+17	to forcibly	to forcibly	RB	p2=NNP	18	advmod	18:AM-MNR
+18	include	include	VBP	pb=include.01	0	root	_
+19	any	any	DT	_	20	det	_
+20	NGOs	ngo	NNPS	p2=NNS	18	dobj	18:A1=PPT;23:A1=PPT
+21	that	that	WDT	_	23	nsubjpass	23:R-A1
+22	are	be	VBP	_	23	auxpass	_
+23	financed	finance	VBN	pb=finance.01	20	rcmod	_
+24	from abroad	from abroad	JJ	p2=IN	25	amod	_
+25	and are	and are	NNP	p2=NN	23	npadvmod	23:AM-TMP
+26	engaged	engage	VBN	p2=VBD|pb=engage.01	28	amod	_
+27	in political	in political	JJ	p2=IN	28	amod	_
+28	activities	activity	NNS	_	32	poss	26:A1=PPT
+29	in a	in a	POS	p2=,	28	possessive	_
+30	list	list	NN	_	32	nn	_
+31	of foreign	of foreign	JJ	p2=IN	32	amod	_
+32	agents	agent	NNS	_	18	dobj	_
+33	;	;	:	_	32	punct	_
+34	p	p	DT	p2=VBG	38	det	_
+35	6	0	CD	_	38	num	_
+36	(	(	-LRB-	_	38	punct	_
+37	601	0	CD	_	38	num	_
+38	words	word	NNS	_	7	appos	_
+39	)	)	-RRB-	_	38	punct	_
+40	.	.	.	_	18	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Pavel	pavel	NNP	p2=JJ	2	nn	_
+2	Kanygin	kanygin	NNP	_	3	nn	_
+3	interview	interview	NN	p2=VB	22	nsubj	22:A0=PAG
+4	with	with	IN	_	3	prep	_
+5	Hanna	hanna	NNP	_	6	nn	_
+6	Herman	herman	NNP	_	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	former	former	JJ	_	10	amod	_
+9	deputy	deputy	NN	p2=JJ	10	nn	_
+10	head	head	NN	_	6	appos	_
+11	of Ukrainian	of ukrainian	JJ	p2=NNP	12	amod	_
+12	President	president	NNP	_	14	nn	_
+13	Viktor	viktor	NNP	_	14	nn	_
+14	Yanukovych	yanukovych	NNP	_	16	poss	_
+15	's	's	POS	_	14	possessive	_
+16	administration	administration	NN	_	17	nn	_
+17	and Yanukovych	and yanukovych	NNP	_	20	poss	_
+18	's	's	POS	p2=VBZ	17	possessive	_
+19	former	former	JJ	_	20	amod	_
+20	spokesperson	spokesperson	NN	_	6	appos	_
+21	,	,	,	_	6	punct	_
+22	headlined	headline	VBD	p2=JJ|pb=headline.01	0	root	_
+23	"	"	``	p2=''	22	punct	_
+24	'	'	``	p2=POS	22	punct	_
+25	I	I	PRP	_	26	nsubj	26:A0=PAG;27:A0
+26	wanted	want	VBD	pb=want.01	22	ccomp	22:A1=PPT
+27	to get	to get	VBN	p2=TO|pb=to get.01	26	xcomp	26:A1=PPT
+28	Yanukovych	yanukovych	NNP	p2=PRP	27	dobj	27:A1
+29	out	out	RP	p2=IN	28	prt	_
+30	of this	of this	``	p2=IN	31	punct	_
+31	prison	prison	NN	_	49	nn	_
+32	'	'	''	p2=POS	31	punct	_
+33	"	"	''	_	31	punct	_
+34	,	,	,	_	35	punct	_
+35	speaking	speak	VBG	pb=speak.01	3	partmod	_
+36	about	about	IN	p2=RB	35	prep	35:A1=PPT
+37	the situation	the situation	NN	p2=NNP	36	pobj	_
+38	in Ukraine	in ukraine	CD	p2=NNP	37	num	_
+39	and the	and the	DT	p2=CC	42	det	_
+40	forthcoming	forthcoming	JJ	_	42	amod	_
+41	presidential	presidential	JJ	_	42	amod	_
+42	election	election	NN	_	35	dobj	_
+43	there	there	RB	_	42	advmod	_
+44	,	,	,	_	42	punct	_
+45	among	among	IN	_	43	prep	_
+46	other	other	JJ	_	47	amod	_
+47	things	thing	NNS	_	45	pobj	_
+48	;	;	:	_	22	punct	_
+49	pp	pp	NN	p2=RB	42	appos	_
+50	2-3	0	CD	_	49	num	_
+51	(	(	-LRB-	_	53	punct	_
+52	2,775	0	CD	_	53	num	_
+53	words	word	NNS	_	49	appos	_
+54	)	)	-RRB-	_	53	punct	_
+55	.	.	.	_	22	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Pavel	pavel	VBP	p2=NN|pb=pavel.01	0	root	_
+2	Felgengauer	felgengauer	NNP	p2=JJR	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG;28:A0
+4	headlined	headline	VBN	p2=VBD|pb=headline.01	1	ccomp	1:A1
+5	"	"	``	_	9	punct	_
+6	Arms	arms	NNP	p2=NNS	7	nn	_
+7	manager	manager	NN	_	9	nn	_
+8	"	"	''	_	9	punct	_
+9	comments	comment	NNS	p2=VBZ	4	dobj	11:A0=PPT;4:A1=PPT
+10	on former	on former	SYM	p2=WDT	11	punct	_
+11	head	head	VBP	pb=head.01	9	rcmod	_
+12	of the	of the	NNP	p2=IN	14	nn	_
+13	Administrative	administrative	NNP	_	14	nn	_
+14	Department	department	NNP	_	20	nn	_
+15	of the	of the	NNP	p2=POS	16	nn	_
+16	President	president	NNP	_	18	nn	_
+17	Vladimir	vladimir	NNP	_	18	nn	_
+18	Kozhin	kozhin	NNP	_	20	poss	_
+19	's	's	POS	_	18	possessive	_
+20	appointment	appointment	NN	_	11	dobj	11:A1=PPT
+21	as	as	IN	_	20	prep	_
+22	an aide	an aide	NNP	p2=JJ	26	nn	_
+23	for military	for military	JJ	p2=NNP	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	technical	technical	JJ	_	26	amod	_
+26	cooperation	cooperation	NN	_	21	pobj	_
+27	;	;	:	_	26	punct	_
+28	p	p	VBG	p2=NN|pb=p.01	3	partmod	_
+29	7	0	CD	_	32	num	_
+30	(	(	-LRB-	_	32	punct	_
+31	692	0	CD	_	32	num	_
+32	words	word	NNS	_	28	dobj	28:A1
+33	)	)	-RRB-	_	28	punct	_
+34	.	.	.	_	4	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=JJ	2	nn	_
+2	Tarasov	tarasov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	p2=''	4	punct	_
+6	Switch	switch	NNP	p2=VB	8	nn	_
+7	on cable	on cable	NNP	p2=JJ	8	nn	_
+8	and brain	and brain	NNP	p2=''	4	dobj	4:A1=PPT
+9	"	"	''	p2=``	4	punct	_
+10	comments	comment	NNS	p2=VBZ	11	nsubj	11:A0
+11	on the	on the	VBP	p2=POS|pb=on the.01	4	ccomp	_
+12	situation	situation	NN	_	11	dobj	11:A1
+13	with	with	IN	_	12	prep	_
+14	the TV2	the tv0	DT	p2=CD	16	det	_
+15	television	television	NN	_	16	nn	_
+16	company	company	NN	_	13	pobj	21:A0=PAG
+17	in Tomsk	in tomsk	NNP	p2=NN	16	appos	_
+18	,	,	,	_	16	punct	_
+19	which	which	WDT	_	21	nsubj	21:R-A0
+20	may	may	MD	_	21	aux	21:AM-MOD
+21	lose	lose	VB	pb=lose.02	16	rcmod	_
+22	its	its	PRP$	_	24	poss	_
+23	broadcast	broadcast	NN	p2=JJ	24	nn	_
+24	license	license	NN	_	21	dobj	21:A1=PPT
+25	;	;	:	_	30	punct	_
+26	p	p	RB	p2=NN	30	advmod	_
+27	5	0	CD	_	30	num	_
+28	(	(	-LRB-	_	30	punct	_
+29	600	0	CD	_	30	num	_
+30	words	word	NNS	_	24	appos	_
+31	)	)	-RRB-	_	30	punct	_
+32	.	.	.	_	4	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Margarita	margarita	NNP	p2=FW	2	nn	_
+2	Alekhina	alekhina	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	9	ccomp	_
+5	"	"	``	_	4	punct	_
+6	Collective	collective	JJ	p2=NNP	7	amod	_
+7	responsibility	responsibility	NN	_	4	dobj	4:A1=PPT
+8	"	"	''	_	4	punct	_
+9	says	say	VBZ	pb=say.01	0	root	_
+10	that	that	IN	p2=WDT	21	complm	_
+11	the recent	the recent	NNP	p2=PRP	12	nsubj	12:A0=PAG
+12	killing	kill	VBG	pb=kill.01	21	csubj	21:A0=PAG
+13	of a	of a	NNP	p2=RP	19	nn	_
+14	Muscovite	muscovite	NNP	_	16	nn	_
+15	by an	by an	NNP	p2=MD	16	nn	_
+16	Uzbek	uzbek	NNP	_	19	nn	_
+17	national	national	JJ	_	19	amod	_
+18	in Moscow	in moscow	NNP	p2=NN	19	nn	_
+19	region	region	NN	_	12	dobj	12:A1=PPT
+20	will	will	MD	_	21	aux	21:AM-MOD
+21	trigger	trigger	VB	pb=trigger.01	9	ccomp	9:A1=PPT
+22	a new	a new	JJ	p2=XX	24	amod	_
+23	wave	wave	NN	p2=VB	24	nn	_
+24	of raids	of raids	NNS	p2=IN	21	dobj	25:A0=PAG;21:A1=PPT
+25	targeting	target	VBG	pb=target.01	24	partmod	_
+26	migrants	migrant	NNS	_	25	dobj	25:A1=PPT
+27	;	;	:	p2=,	24	punct	_
+28	pp	pp	NN	p2=IN	21	npadvmod	_
+29	1	0	CD	_	28	num	_
+30	,	,	,	_	28	punct	_
+31	5	0	CD	_	28	appos	_
+32	(	(	-LRB-	_	34	punct	_
+33	569	0	CD	_	34	num	_
+34	words	word	NNS	_	28	appos	_
+35	)	)	-RRB-	_	34	punct	_
+36	.	.	.	_	9	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Denis	denis	NNP	p2=FW	2	nn	_
+2	Konstantinov	konstantinov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	11	ccomp	_
+5	"	"	``	p2=''	4	punct	_
+6	Commemoration	commemoration	NN	_	7	nsubj	7:A0=PAG
+7	accompanied	accompany	VBN	p2=VBD|pb=accompany.01	9	amod	_
+8	by roar	by roar	NNP	p2=NN	9	nn	_
+9	of helicopters	of helicopters	NNS	p2=NNPS	4	dobj	4:A1=PPT;7:A1=PPT
+10	"	"	''	p2=``	4	punct	_
+11	looks	look	VBZ	pb=look.02	0	root	_
+12	at how	at how	NNP	p2=WRB	14	nn	_
+13	Crimean	crimean	NNP	_	14	nn	_
+14	Tatars	tatar	NNPS	p2=NNP	16	nsubj	16:A0=PAG
+15	have	have	VBP	_	16	aux	_
+16	commemorated	commemorate	VBN	pb=commemorate.01	11	advcl	11:A1=PPT
+17	the 70th	the 0th	DT	p2=JJ	22	det	_
+18	anniversary	anniversary	NN	p2=JJ	19	nn	_
+19	of the	of the	NN	p2=IN	20	nn	_
+20	deportation	deportation	NN	_	22	nn	_
+21	of Crimean	of crimean	NNP	p2=IN	22	nn	_
+22	Tatars	tatars	NNP	p2=NNPS	16	dobj	16:A1=PPT
+23	;	;	:	_	28	punct	_
+24	p	p	CD	p2=VBD	25	number	_
+25	2	0	CD	_	28	num	_
+26	(	(	-LRB-	_	28	punct	_
+27	611	0	CD	_	28	num	_
+28	words	word	NNS	_	16	conj	_
+29	)	)	-RRB-	_	28	punct	_
+30	.	.	.	_	11	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Yekaterina	yekaterina	NNP	p2=NN	2	nn	_
+2	Dyatlovskaya	dyatlovskaya	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	12	ccomp	12:A1=PPT
+5	"	"	``	_	4	punct	_
+6	'	'	``	p2=POS	4	punct	_
+7	Extremely	extremely	RB	_	8	advmod	_
+8	tough	tough	JJ	_	9	amod	_
+9	measure	measure	NN	_	4	dobj	4:A1=PPT
+10	'	'	''	p2=POS	12	punct	_
+11	"	"	''	_	12	punct	_
+12	says	say	VBZ	pb=say.01	0	root	_
+13	that	that	IN	p2=DT	20	complm	_
+14	the president	the president	NNP	p2=EX	18	poss	_
+15	's	's	POS	_	14	possessive	_
+16	human	human	JJ	p2=NN	17	amod	_
+17	rights	right	NNS	_	18	nn	_
+18	council	council	NN	_	20	nsubj	20:A0=PAG
+19	has	have	VBZ	_	20	aux	_
+20	called	call	VBN	pb=call.01	12	ccomp	_
+21	for rejecting	for rejecting	VBG	p2=RP|pb=for rejecting.01	22	amod	_
+22	a bill	a bill	NN	p2=IN	20	dobj	20:A1=PPT;21:A1
+23	introducing	introduce	VBG	pb=introduce.02	22	partmod	_
+24	criminal	criminal	JJ	_	25	amod	_
+25	punishment	punishment	NN	_	23	dobj	26:A0;23:A1=PPT
+26	for concealing	for concealing	VBG	pb=for concealing.01	25	partmod	_
+27	dual	dual	JJ	_	28	amod	_
+28	citizenship	citizenship	NN	_	26	dobj	26:A1
+29	;	;	:	p2=,	34	punct	_
+30	p	p	RB	p2=VBG	34	advmod	_
+31	2	0	CD	_	34	num	_
+32	(	(	-LRB-	_	34	punct	_
+33	458	0	CD	_	34	num	_
+34	words	word	NNS	_	0	root	_
+35	)	)	-RRB-	_	34	punct	_
+36	.	.	.	_	12	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Elya	elya	NNP	p2=FW	2	nn	_
+2	Grigoriyeva	grigoriyeva	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Pipe	pipe	NNP	p2=NN	7	nn	7:A0=PAG
+7	calling	call	VBG	p2=NN|pb=call.01	4	ccomp	4:A1=PPT
+8	"	"	''	_	4	punct	_
+9	says	say	VBZ	pb=say.01	0	root	_
+10	that	that	IN	_	13	complm	_
+11	Russia	russia	NNP	_	13	nsubj	13:A0=PAG
+12	has	have	VBZ	_	13	aux	_
+13	confirmed	confirm	VBN	pb=confirm.01	9	ccomp	9:A1=PPT
+14	its	its	PRP$	_	15	poss	_
+15	willingness	willingness	NN	_	13	dobj	13:A1=PPT
+16	to cut	to cut	NNP	p2=VBN	19	nn	_
+17	the gas	the gas	NNP	p2=POS	19	nn	_
+18	price	price	NN	_	19	nn	_
+19	for Ukraine	for ukraine	NNP	p2=NN	15	appos	_
+20	,	,	,	_	13	punct	_
+21	but	but	CC	_	13	cc	_
+22	on certain	on certain	JJ	p2=IN	23	amod	_
+23	conditions	condition	NNS	_	13	dobj	_
+24	.	.	.	_	9	punct	_
+
+1	The article	the article	NN	p2=NNP	3	nsubj	3:A0=PAG
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	features	feature	VBZ	pb=feature.01	0	root	_
+4	Russian	russian	JJ	_	5	amod	_
+5	experts	expert	NNS	_	7	poss	_
+6	'	'	POS	_	5	possessive	_
+7	comments	comment	NNS	_	3	dobj	3:A1=PPT
+8	on the	on the	IN	p2=CD	7	prep	_
+9	issue	issue	NN	_	8	pobj	_
+10	;	;	:	_	15	punct	_
+11	p	p	RB	p2=VBG	12	advmod	_
+12	3	0	CD	_	15	num	_
+13	(	(	-LRB-	_	15	punct	_
+14	723	0	CD	_	15	num	_
+15	words	word	NNS	_	1	appos	_
+16	)	)	-RRB-	_	15	punct	_
+17	.	.	.	_	3	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Sergei	sergei	NNP	p2=CD	2	nn	_
+2	Putilov	putilov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Burnt	burn	VBN	p2=NNP|pb=burn.01	7	amod	_
+7	billions	#crd#	NNS	_	4	dobj	4:A1=PPT;6:A1=PPT
+8	"	"	''	_	4	punct	_
+9	says	say	VBZ	pb=say.01	0	root	_
+10	that	that	IN	p2=DT	20	complm	_
+11	the recent	the recent	NNP	p2=EX	12	nsubj	12:A1=PAG
+12	failed	fail	VBD	pb=fail.01	13	amod	_
+13	launch	launch	NN	p2=VB	18	nn	_
+14	of a	of a	NNP	p2=IN	18	nn	_
+15	Proton	proton	NNP	_	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	M	m	NNP	_	18	nn	_
+18	rocket	rocket	NN	_	20	nsubj	20:A0=CAU
+19	has	have	VBZ	_	20	aux	_
+20	shown	show	VBN	pb=show.01	9	ccomp	9:A1=PPT
+21	that	that	IN	p2=DT	28	complm	_
+22	reforms	reform	NNS	_	28	nsubj	28:A1=PPT
+23	in the	in the	IN	p2=POS	22	prep	_
+24	Russian	russian	JJ	_	26	amod	_
+25	space	space	NN	_	26	nn	_
+26	sector	sector	NN	_	23	pobj	_
+27	have	have	VBP	p2=VB	28	aux	_
+28	been	be	VBN	pb=be.01	20	ccomp	20:A1=PPT
+29	ineffective	ineffective	JJ	p2=RB	28	acomp	28:A2=PRD
+30	;	;	:	_	35	punct	_
+31	p	p	RB	p2=NN	35	advmod	_
+32	3	0	CD	_	35	num	_
+33	(	(	-LRB-	_	35	punct	_
+34	699	0	CD	_	35	num	_
+35	words	word	NNS	_	28	attr	_
+36	)	)	-RRB-	_	35	punct	_
+37	.	.	.	_	9	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexander	alexander	NNP	_	2	nn	_
+2	Artemyev	artemyev	NNP	_	4	nn	_
+3	et	et	NN	p2=VBD	4	nn	_
+4	al	al	NN	p2=NNP	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	article	article	NN	_	2	nsubj	2:A0=PAG
+2	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+3	"	"	``	_	2	punct	_
+4	Authorities	authority	NNS	p2=NNPS	6	nsubjpass	_
+5	get	get	VBP	p2=VB|pb=get.03	6	auxpass	_
+6	lost	lose	VBN	p2=JJ|pb=lose.02	2	ccomp	2:A1=PPT;5:A2=GOL
+7	in three	in three	NNP	p2=CD	8	nn	_
+8	tweets	tweet	NNS	p2=PRP$	6	dobj	6:A1=PPT
+9	"	"	''	_	6	punct	_
+10	says	say	VBZ	pb=say.01	0	root	_
+11	that	that	IN	p2=DT	16	complm	_
+12	the Russian	the russian	JJ	p2=EX	14	amod	_
+13	political	political	JJ	_	14	amod	_
+14	elite	elite	NN	p2=NNS	16	nsubj	16:A0
+15	has	have	VBZ	_	16	aux	_
+16	split	split	VBN	pb=split.01	10	ccomp	10:A1=PPT
+17	over	over	IN	p2=RP	16	prep	16:AM-MNR
+18	the censorship	the censorship	NN	p2=DT	17	pobj	_
+19	in the	in the	IN	p2=NN	16	prep	16:AM-MNR
+20	internet	internet	NN	_	19	pobj	_
+21	;	;	:	_	10	punct	_
+22	pp	pp	NN	p2=RB	1	appos	_
+23	1-2	0	CD	_	22	num	_
+24	(	(	-LRB-	_	26	punct	_
+25	850	0	CD	_	26	num	_
+26	words	word	NNS	_	22	appos	_
+27	)	)	-RRB-	_	26	punct	_
+28	.	.	.	_	10	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Stanislav	stanislav	NN	p2=JJ	3	nn	_
+2	Stanskikh	stanskikh	NNP	p2=NN	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	State	state	NNP	p2=NN	7	nn	_
+7	Duma	duma	NNP	_	8	nsubj	8:A0=PAG
+8	deprives	deprive	VBZ	pb=deprive.01	4	ccomp	4:A1=PPT
+9	Federation	federation	NNP	_	10	nn	_
+10	Council	council	NNP	_	13	nn	_
+11	of power	of power	NNP	p2=NN	13	nn	_
+12	for benefit	for benefit	NNP	p2=POS	13	nn	_
+13	of president	of president	NNP	p2=NN	8	dobj	8:A2=DIR
+14	"	"	''	_	8	punct	_
+15	says	say	VBZ	pb=say.01	0	root	_
+16	that	that	IN	p2=DT	20	complm	_
+17	the State	the state	NNP	p2=NN	18	nn	_
+18	Duma	duma	NNP	_	20	nsubj	20:A0=PAG
+19	has	have	VBZ	_	20	aux	_
+20	passed	pass	VBN	pb=pass.01	15	ccomp	15:A1=PPT
+21	amendments	amendment	NNS	_	24	poss	_
+22	to the	to the	POS	p2=IN	21	possessive	_
+23	Russian	russian	NNP	p2=JJ	24	nn	_
+24	Constitution	constitution	NNP	_	20	dobj	27:A0=PAG;20:A1=PPT
+25	,	,	,	_	24	punct	_
+26	which	which	WDT	_	27	nsubj	27:R-A0
+27	enables	enable	VBZ	pb=enable.01	24	rcmod	_
+28	the president	the president	JJ	p2=NNP	29	amod	_
+29	to appoint	to appoint	NN	p2=``	30	nn	_
+30	and remove	and remove	NNP	p2=CC	27	dobj	27:A2
+31	from office	from office	IN	p2=NNP	27	prep	27:A1=PPT
+32	10	0	CD	_	33	num	_
+33	percent	percent	NN	_	37	nn	_
+34	of the	of the	NNP	p2=IN	35	nn	_
+35	Federation	federation	NNP	_	36	nn	_
+36	Council	council	NNP	_	37	nn	_
+37	staff	staff	NN	_	31	pobj	39:A0
+38	;	;	:	_	37	punct	_
+39	p	p	VBG	p2=IN|pb=p.01	37	partmod	_
+40	4	0	CD	_	43	num	_
+41	(	(	-LRB-	_	43	punct	_
+42	800	0	CD	_	43	num	_
+43	words	word	NNS	_	39	dobj	39:A1
+44	)	)	-RRB-	_	39	punct	_
+45	.	.	.	_	15	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Mikhail	mikhail	NNP	_	2	nn	_
+2	Rubin	rubin	NNP	_	4	nn	_
+3	and Farida	and farida	NNP	_	4	nn	_
+4	Rustamova	rustamova	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+7	"	"	``	_	6	punct	_
+8	Nashi	nashi	NNP	p2=FW	17	nsubj	17:A0
+9	[	[	-LRB-	p2=''	10	punct	_
+10	movement	movement	NN	_	8	appos	_
+11	]	]	-RRB-	_	10	punct	_
+12	with	with	IN	_	8	prep	_
+13	Yakemenko	yakemenko	NNP	_	12	pobj	_
+14	once	once	RB	_	15	advmod	_
+15	again	again	RB	_	17	advmod	17:AM-TMP
+16	"	"	''	_	17	punct	_
+17	says	say	VBZ	pb=say.01	6	ccomp	_
+18	that	that	IN	p2=DT	30	complm	_
+19	the informal	the informal	JJ	p2=DT	23	amod	_
+20	leader	leader	NN	_	23	nn	_
+21	of the	of the	NN	p2=FW	22	nn	_
+22	pro-Kremlin	pro-kremlin	NN	p2=JJ	23	nn	_
+23	organization	organization	NN	_	24	nn	_
+24	Nashi	nashi	NNP	_	30	nsubj	30:A0=PAG
+25	,	,	,	_	24	punct	_
+26	Vasily	vasily	NNP	_	27	nn	_
+27	Yakemenko	yakemenko	NNP	_	24	appos	_
+28	,	,	,	_	30	punct	_
+29	has	have	VBZ	_	30	aux	_
+30	met	meet	VBN	pb=meet.01	17	ccomp	17:A1=PPT
+31	heads	head	NNS	_	33	poss	_
+32	of the	of the	POS	p2=IN	31	possessive	_
+33	movement	movement	NN	_	30	dobj	30:A1=PPT
+34	to discuss	to discuss	IN	p2=VBZ	30	prep	30:AM-TMP
+35	its	its	PRP$	_	36	poss	_
+36	future	future	NN	p2=JJ	34	pobj	_
+37	;	;	:	_	42	punct	_
+38	p	p	NN	p2=RB	30	npadvmod	_
+39	3	0	CD	_	38	num	_
+40	(	(	-LRB-	_	38	punct	_
+41	800	0	CD	_	42	num	_
+42	words	word	NNS	_	38	appos	_
+43	)	)	-RRB-	_	38	punct	_
+44	.	.	.	_	6	punct	_
+
+1	4	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Timofei	timofei	NNP	p2=NNS	2	nn	_
+2	Dzyadko	dzyadko	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Shanghai	shanghai	NNP	p2=JJ	7	nn	_
+7	tariff	tariff	NN	_	9	nsubj	9:A0
+8	"	"	''	_	9	punct	_
+9	says	say	VBZ	pb=say.01	4	ccomp	4:A1=PPT
+10	that	that	IN	p2=DT	18	complm	_
+11	a Russian	a russian	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	Chinese	chinese	JJ	_	15	amod	_
+14	gas	gas	NN	_	15	nn	_
+15	contract	contract	NN	_	18	nsubjpass	18:A1=PPT
+16	may	may	MD	_	18	aux	18:AM-MOD
+17	be	be	VB	_	18	auxpass	_
+18	signed	sign	VBN	pb=sign.02	9	ccomp	9:A1=PPT
+19	during	during	IN	_	18	prep	18:AM-TMP
+20	Putin	putin	NNP	_	22	poss	_
+21	's	's	POS	_	20	possessive	_
+22	visit	visit	NN	_	19	pobj	_
+23	to China	to china	NNP	p2=IN	24	nn	_
+24	on May	on may	NNP	p2=IN	22	appos	_
+25	20-21	0	CD	_	24	num	_
+26	;	;	:	_	31	punct	_
+27	p	p	DT	p2=RB	28	quantmod	_
+28	5	0	CD	_	31	num	_
+29	(	(	-LRB-	_	31	punct	_
+30	600	0	CD	_	31	num	_
+31	words	word	NNS	_	24	appos	_
+32	)	)	-RRB-	_	31	punct	_
+33	.	.	.	_	4	punct	_
+
+1	5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexander	alexander	NNP	_	4	nn	_
+2	Ratnikov	ratnikov	NNP	_	4	nn	_
+3	and Timofei	and timofei	NNP	_	4	nn	_
+4	Dzyadko	dzyadko	NNP	_	5	nn	_
+5	article	article	NN	_	6	nsubj	6:A0=PAG
+6	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+7	"	"	``	_	6	punct	_
+8	Delay	delay	NNP	p2=VB	12	nsubj	12:A0
+9	with	with	IN	_	8	prep	_
+10	Yamal	yamal	NNP	_	9	pobj	_
+11	"	"	''	_	8	punct	_
+12	says	say	VBZ	pb=say.01	6	ccomp	_
+13	that	that	IN	p2=DT	19	complm	_
+14	the launch	the launch	NNP	p2=EX	15	nn	_
+15	of Novatek	of novatek	NNP	_	18	poss	_
+16	's	's	POS	_	15	possessive	_
+17	Yamal	yamal	NNP	_	18	nn	_
+18	LNG	lng	NNP	_	19	nsubj	19:A0=PAG
+19	scheduled	schedule	VBD	p2=VBN|pb=schedule.01	12	ccomp	12:A1=PPT
+20	for 2017	for 2017	NNP	p2=NN	23	nsubjpass	23:A1=PPT
+21	may	may	MD	_	23	aux	23:AM-MOD
+22	be	be	VB	_	23	auxpass	_
+23	delayed	delay	VBN	pb=delay.01	19	ccomp	19:A1=PRD
+24	,	,	,	_	12	punct	_
+25	because	because	IN	_	30	mark	_
+26	some	some	DT	_	28	det	_
+27	Western	western	JJ	_	28	amod	_
+28	banks	bank	NNS	_	30	nsubj	30:A0=PAG
+29	have	have	VBP	_	30	aux	_
+30	refused	refuse	VBN	p2=VBD|pb=refuse.01	12	advcl	_
+31	to finance	to finance	NN	p2=NNP	32	nn	_
+32	the project	the project	NN	p2=RB	30	dobj	30:A1=PPT
+33	;	;	:	_	30	punct	_
+34	pp	pp	NN	p2=IN	30	npadvmod	_
+35	1	0	CD	_	34	num	_
+36	,	,	,	_	34	punct	_
+37	5	0	CD	_	34	appos	_
+38	(	(	-LRB-	_	40	punct	_
+39	450	0	CD	_	40	num	_
+40	words	word	NNS	_	34	appos	_
+41	)	)	-RRB-	_	40	punct	_
+42	.	.	.	_	6	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Petr	petr	NNP	p2=NN	2	nn	_
+2	Stepanov	stepanov	NNP	_	3	nn	_
+3	article	article	NN	_	4	nsubj	4:A0=PAG
+4	headlined	headline	VBD	p2=VBN|pb=headline.01	0	root	_
+5	"	"	``	_	4	punct	_
+6	Legion	legion	NNP	_	7	nn	_
+7	of jackals	of jackals	NNP	p2=NNS	4	dobj	4:A1=PPT
+8	"	"	''	_	4	punct	_
+9	says	say	VBZ	pb=say.01	0	root	_
+10	that	that	IN	p2=DT	21	complm	_
+11	the Ukrainian	the ukrainian	NNP	p2=JJ	17	nn	_
+12	far	far	RB	_	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	right	right	JJ	p2=RB	17	amod	_
+15	radical	radical	JJ	_	17	amod	_
+16	nationalist	nationalist	JJ	p2=NN	17	amod	_
+17	group	group	NN	_	19	nn	_
+18	Right	right	NNP	p2=UH	19	nn	_
+19	Sector	sector	NNP	_	21	nsubj	21:A0=PAG
+20	is	be	VBZ	_	21	aux	_
+21	recruiting	recruit	VBG	p2=NN|pb=recruit.01	9	ccomp	9:A1=PPT
+22	mercenaries	mercenary	NNS	_	24	poss	_
+23	for guerrilla	for guerrilla	POS	p2=IN	22	possessive	_
+24	wars	war	NNS	_	21	dobj	21:A1=PPT
+25	in Crimea	in crimea	IN	p2=NNP	21	prep	21:A3=DIR
+26	and Donetsk	and donetsk	NNP	p2=DT	27	nn	_
+27	region	region	NN	_	25	pobj	_
+28	;	;	:	_	33	punct	_
+29	p	p	NN	p2=DT	21	npadvmod	_
+30	2	0	CD	_	29	num	_
+31	(	(	-LRB-	_	33	punct	_
+32	300	0	CD	_	33	num	_
+33	words	word	NNS	_	29	appos	_
+34	)	)	-RRB-	_	33	punct	_
+35	.	.	.	_	9	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Maria	maria	NNP	_	2	nn	_
+2	Grishina	grishina	NNP	_	3	nn	_
+3	article	article	NN	_	11	nsubj	11:A0=PAG;4:A1=PPT
+4	titled	title	VBN	p2=VBD|pb=title.01	3	partmod	_
+5	"	"	``	_	10	punct	_
+6	Donetsk	donetsk	NNP	p2=VB	10	nn	_
+7	self	self	NN	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	defense	defense	NN	p2=JJ	10	nn	_
+10	forces	force	NNS	_	4	oprd	4:A2
+11	seize	seize	VBP	pb=seize.01	16	ccomp	16:A1
+12	National	national	NNP	p2=JJ	14	nn	_
+13	Guard	guard	NNP	_	14	nn	_
+14	HQ	hq	NNP	_	11	dobj	11:A1=PPT
+15	"	"	''	p2=``	14	punct	_
+16	reports	report	VBZ	p2=NNS|pb=report.01	0	root	_
+17	on the	on the	DT	p2=NN	20	det	_
+18	situation	situation	NN	_	20	nn	_
+19	in Donetsk	in donetsk	NNP	p2=NN	20	nn	_
+20	region	region	NN	_	16	nsubj	16:A0=PAG;25:AM-LOC
+21	,	,	,	_	20	punct	_
+22	where	where	WRB	_	25	advmod	25:R-AM-LOC
+23	separatists	separatist	NNS	_	25	nsubj	25:A0=PAG
+24	have	have	VBP	_	25	aux	_
+25	seized	seize	VBN	pb=seize.01	20	rcmod	_
+26	the regional	the regional	JJ	p2=DT	27	amod	_
+27	command	command	NN	_	28	nn	_
+28	headquarters	headquarters	NN	p2=NNS	25	dobj	25:A1=PPT
+29	of the	of the	IN	p2=NN	28	prep	_
+30	Ukrainian	ukrainian	JJ	p2=NNP	32	amod	_
+31	National	national	NNP	p2=JJ	32	nn	_
+32	Guard	guard	NNP	_	29	pobj	_
+33	;	;	:	_	38	punct	_
+34	p	p	CD	p2=VBG	35	number	_
+35	4	0	CD	_	38	num	_
+36	(	(	-LRB-	_	38	punct	_
+37	400	0	CD	_	38	num	_
+38	words	word	NNS	_	3	appos	_
+39	)	)	-RRB-	_	38	punct	_
+40	.	.	.	_	16	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Alexei	alexei	NNP	p2=JJ	2	nn	_
+2	Pankin	pankin	NNP	_	3	nn	_
+3	interview	interview	NN	p2=VB	0	root	17:A0=PAG
+4	with	with	IN	_	3	prep	_
+5	Pavel	pavel	NNP	_	6	nn	_
+6	Zarifullin	zarifullin	NNP	_	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	director	director	NN	_	15	nn	_
+9	of the	of the	NNP	p2=IN	15	nn	_
+10	Moscow	moscow	NNP	_	12	hmod	_
+11	-	-	HYPH	p2=.	12	hyph	_
+12	based	base	VBN	_	15	amod	_
+13	Lev	lev	NNP	_	15	nn	_
+14	Gumilev	gumilev	NNP	_	15	nn	_
+15	Centre	centre	NNP	_	6	conj	_
+16	,	,	,	_	3	punct	_
+17	commenting	comment	VBG	pb=comment.01	3	partmod	_
+18	on the	on the	IN	p2=JJ	17	prep	17:A1=PPT
+19	situation	situation	NN	_	18	pobj	_
+20	with	with	IN	_	19	prep	_
+21	Crimean	crimean	NNP	_	22	nn	_
+22	Tatars	tatars	NNP	p2=NNPS	23	nn	_
+23	on the	on the	NNP	p2=POS	24	nn	_
+24	Crimean	crimean	NNP	_	25	nn	_
+25	peninsula	peninsula	NN	_	20	pobj	_
+26	,	,	,	_	25	punct	_
+27	p	p	NN	p2=VBD	25	appos	_
+28	6	0	CD	_	27	num	_
+29	(	(	-LRB-	_	27	punct	_
+30	800	0	CD	_	31	num	_
+31	words	word	NNS	_	27	appos	_
+32	)	)	-RRB-	_	27	punct	_
+33	.	.	.	_	3	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

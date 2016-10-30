@@ -1,0 +1,27 @@
+1	The	the	DT	_	2	det	_
+2	content	content	NN	_	8	nsubj	5:A1=PPT;8:A1=PPT
+3	you	you	PRP	_	5	nsubj	5:A0=PAG
+4	are	be	VBP	_	5	aux	_
+5	attempting	attempt	VBG	pb=attempt.01	2	rcmod	_
+6	to	to	IN	p2=TO	5	prep	_
+7	access	access	NN	_	6	pobj	_
+8	is	be	VBZ	pb=be.01	0	root	_
+9	no	no	DT	p2=RB	10	neg	_
+10	longer	long	RBR	p2=RB	8	advmod	8:AM-NEG
+11	available	available	JJ	_	8	acomp	8:A2=PRD
+12	.	.	.	_	8	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	use	use	VB	pb=use.01	0	root	_
+3	the	the	DT	_	5	det	_
+4	site	site	NN	_	5	nn	_
+5	navigation	navigation	NN	_	2	dobj	2:A1=PPT
+6	or	or	CC	_	5	cc	_
+7	search	search	NN	p2=VB	5	conj	_
+8	to	to	TO	_	9	aux	_
+9	find	find	VB	pb=find.01	2	xcomp	2:A2=PRP
+10	other	other	JJ	_	12	amod	_
+11	great	great	JJ	_	12	amod	_
+12	content	content	NN	_	9	dobj	9:A1=PPT
+13	.	.	.	_	2	punct	_
+

@@ -1,0 +1,28 @@
+1	Local	local	JJ	_	2	amod	_
+2	banks	bank	NNS	_	4	nsubj	7:A0=PAG;13:A0=PAG;4:A1=PPT
+3	had	have	VBD	_	4	aux	_
+4	been	be	VBN	pb=be.01	0	root	_
+5	reluctant	reluctant	JJ	_	4	acomp	4:A2=PRD
+6	to	to	TO	_	7	aux	_
+7	provide	provide	VB	pb=provide.01	5	xcomp	_
+8	financing	financing	NN	_	7	dobj	7:A1=PPT
+9	for	for	IN	_	7	prep	7:A2=GOL
+10	highway	highway	NN	_	11	nn	_
+11	concessions	concession	NNS	_	9	pobj	_
+12	,	,	,	_	4	punct	_
+13	raising	raise	VBG	pb=raise.01	4	advcl	4:AM-ADV
+14	concerns	concern	NNS	_	13	dobj	13:A1=PPT
+15	about	about	IN	_	14	prep	_
+16	project	project	NN	_	17	nn	_
+17	liquidity	liquidity	NN	_	15	pobj	_
+18	and	and	CC	_	17	cc	_
+19	profitability	profitability	NN	_	17	conj	_
+20	.	.	.	_	4	punct	_
+
+1	Copyright	copyright	NN	p2=VB	0	root	_
+2	1996-2014	0	CD	_	1	num	_
+3	All	all	DT	p2=NNP	4	det	_
+4	rights	right	NNS	_	1	appos	5:A1=PPT
+5	reserved	reserve	VBN	p2=VBD|pb=reserve.01	4	partmod	_
+6	.	.	.	_	1	punct	_
+

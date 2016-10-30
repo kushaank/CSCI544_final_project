@@ -1,0 +1,22 @@
+
+(Phys.org) —The amount of time it takes to mathematically simulate the path of ash from a volcano eruption or a satellite collision can take hours, even days. However a new method, the Conjugate Unscented Transform (CUT), has shortened the process to minutes.
+
+The approach was created by Nagavenkat Adurthi, a University at Buffalo mechanical engineering doctoral candidate, while completing a homework assignment. Finding taught methods inaccurate or time-consuming, Adurthi designed his own.
+
+"I thought: Why do we have to put points on these axes? Why don't we put them somewhere else? So, I introduced new axes," says Adurthi. "I reduced the number of evaluations required to get the same amount of accuracy. Once I got fewer points than the regular methods, I found out CUT's real potential."
+
+Because conditions that lead to natural disasters are often unknown, researchers run multiple simulations using different variables, or points, to more accurately predict events. The uncertainty is overcome by taking an average.
+
+Under the direction of Puneet Singla, associate professor of mechanical and aerospace engineering, Adurthi tested the new approach against existing methods.
+
+The Monte Carlo method, often used to predict space collisions, requires at least two to three million random points, which take more than a week to simulate. CUT reduced the number of needed points to 745, requiring fewer than 10 minutes.
+
+Adurthi's approach also lowered the required trials of the volcano ash propagation model from 6500 simulations over several weeks to 161 simulations over one week.
+
+CUT, detailed in Adurthi's master's thesis, "The Conjugate Unscented Transform:  A Method to Evaluate Multidimensional Expectation Integrals," was awarded the Outstanding Master's Thesis Award for 2014 by the Northeastern Association of Graduate Schools.
+
+Adurthi also won two best session presentation awards for CUT during the 2013 American Control Conference, has six peer-reviewed conference publications and plans to submit two journal manuscripts on the method.
+
+"Nagavenkat is one of those rare researchers who, with great ease, can tackle and solve with little supervision complex, interdisciplinary problems and produce publications of the highest quality," says Singla. "It is important to mention that the computation of probabilistic hazard map for volcano ash advection would not have been computationally tractable without making use of his work."
+
+CUT can also be applied to sensors, GPS tracking, and tsunami simulation. Adurthi plans to propose the method to NASA scientists as well.

@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( Reuters ) -,say.01,he was terrified at,,Affirmative,"CANNES , France , May 19 ( Reuters ) - British director Mike Leigh says he was terrified at the prospect of capturing the scope and subtlety of a Turner painting in a film . "
+survey of critics published on Monday,tip.03,Mr Turner,,Affirmative,"Screen International 's survey of critics published on Monday tipped Mr Turner for the prize , just ahead of Turkish director Nuri Bilge Ceylan 's Winter Sleep . "
+Mike Leigh,say.01,It 's,,Affirmative,"It 's a tough subject for a film , Leigh said in an interview with Reuters TV . "
+Mike Leigh,mean.01,", to make",,Affirmative,"I mean , to make a film about what to some people is an obscure 19th century painter , to make such a film without compromise . "
+Mike Leigh,make.02,a film about,,Affirmative,"I mean , to make a film about what to some people is an obscure 19th century painter , to make such a film without compromise . "
+critics published on Monday,hollywood-ize.01,an independent picture,,Affirmative,I mean we have n't had to Hollywood-ize it in any way and it is an independent picture . 
+"`` Mr Turner '' for the prize , just ahead of Turkish director Nuri Bilge Ceylan 's `` Winter Sleep",earn.01,"great reviews from critics ,",,Affirmative,"Mr Turner has earned great reviews from critics , who have praised its Dickensian feel , its ability to wordlessly express domestic turmoil , and its underlying themes of class consciousness and the nature of art . "
+"critics ,",praise.01,"its Dickensian feel ,",,Affirmative,"Mr Turner has earned great reviews from critics , who have praised its Dickensian feel , its ability to wordlessly express domestic turmoil , and its underlying themes of class consciousness and the nature of art . "
+Reviewers,laud.01,a masterful performance from,,Affirmative,Reviewers have also lauded a masterful performance from Timothy Spall as the cantankerous and grunting J.M.W. Turner . 
+Mike Leigh,cast.01,character actors,,Affirmative,Leigh typically casts character actors little recognised outside Britain and he said opting for more Hollywood actors in his cast would be a complete disaster . 
+little,recognize.01,character actors,,Affirmative,Leigh typically casts character actors little recognised outside Britain and he said opting for more Hollywood actors in his cast would be a complete disaster . 
+Mike Leigh,say.01,would be,,Affirmative,Leigh typically casts character actors little recognised outside Britain and he said opting for more Hollywood actors in his cast would be a complete disaster . 
+some people,say.01,", we 'll give you",,Affirmative,"People have said , ' Well , if you have a Hollywood star , an A - list star , we 'll give you as much money as you like , ' he said . "
+Mike Leigh,have.03,"a Hollywood star ,",,Affirmative,"People have said , ' Well , if you have a Hollywood star , an A - list star , we 'll give you as much money as you like , ' he said . "
+character actors,give.01,much money,you,Affirmative,"People have said , ' Well , if you have a Hollywood star , an A - list star , we 'll give you as much money as you like , ' he said . "
+he,say.01,"People have said , '",,Affirmative,"People have said , ' Well , if you have a Hollywood star , an A - list star , we 'll give you as much money as you like , ' he said . "
+he,want.01,Spall to play Turner,,Affirmative,"But , I want my Timothy Spall to play Turner , and not a bunch of other people who would be profoundly unqualified . "
+my Timothy Spall,play.01,"`` Mr Turner '' for the prize , just ahead of Turkish director Nuri Bilge Ceylan 's `` Winter Sleep",,Affirmative,"But , I want my Timothy Spall to play Turner , and not a bunch of other people who would be profoundly unqualified . "
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

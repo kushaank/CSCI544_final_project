@@ -1,0 +1,75 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Officer Raymond Castro and,ignore.01,plea for,,Affirmative,"Correction Officer Raymond Castro and Capt. Terrence Pendergrass ignored Jason Echevarria 's plea for medical attention after he ate a ' soap ball ' of cleaning powder , according to prisoner Allen Turner . "
+Raymond Castro,eat.01,a ' soap ball ' of cleaning powder,,Affirmative,"Correction Officer Raymond Castro and Capt. Terrence Pendergrass ignored Jason Echevarria 's plea for medical attention after he ate a ' soap ball ' of cleaning powder , according to prisoner Allen Turner . "
+"York Daily News Jason Echevarria , 25 ,",swallow.01,ball ' detergent,,Affirmative,"Howard Simmons / New York Daily News Jason Echevarria , 25 , died after swallowing a ' soap ball ' detergent in August 2012 . "
+An inmate,swallow.01,a soap ball of detergent,,Affirmative,"An inmate who died at Rikers Island after swallowing a soap ball of detergent spit blood on his jail cell window in a desperate plea for help , claims a man who says he was in the next cell . "
+An inmate,spit.01,blood,on,Affirmative,"An inmate who died at Rikers Island after swallowing a soap ball of detergent spit blood on his jail cell window in a desperate plea for help , claims a man who says he was in the next cell . "
+An inmate,claim.01,a man,,Affirmative,"An inmate who died at Rikers Island after swallowing a soap ball of detergent spit blood on his jail cell window in a desperate plea for help , claims a man who says he was in the next cell . "
+a man,say.01,he was in,,Affirmative,"An inmate who died at Rikers Island after swallowing a soap ball of detergent spit blood on his jail cell window in a desperate plea for help , claims a man who says he was in the next cell . "
+correction officers,ignore.01,"Jason Echevarria , 25",,Affirmative,"But correction officers ignored Jason Echevarria , 25 , Allen Turner says in a written account of the incident he shared with the Daily News . "
+prisoner Allen Turner,say.01,officers ignored,,Affirmative,"But correction officers ignored Jason Echevarria , 25 , Allen Turner says in a written account of the incident he shared with the Daily News . "
+"Howard Simmons/New York Daily News Jason Echevarria , 25",share.01,the incident,with,Affirmative,"But correction officers ignored Jason Echevarria , 25 , Allen Turner says in a written account of the incident he shared with the Daily News . "
+Correction Officer Raymond Castro,violate.01,civil rights,,Affirmative,He was charged in Manhattan Federal Court with violating Echevarria 's civil rights by denying him medial treatment . 
+Correction Officer Raymond Castro,deny.01,medial treatment,him,Affirmative,He was charged in Manhattan Federal Court with violating Echevarria 's civil rights by denying him medial treatment . 
+family,sue.01,both Castro and Pendergrass,,Affirmative,Echevarria 's family is suing both Castro and Pendergrass . 
+A lawyer for Pendergrass,return.02,a request for comment,,Affirmative,A lawyer for Pendergrass did n't return a request for comment . 
+both Castro and Pendergrass,believe.01,will demonstrate,,Affirmative,"Rather than relying on the completely unsubstantiated claims made by a convicted felon , we believe the facts of this case will demonstrate Officer Castro 's innocence , said his lawyer , Liam Castro . "
+the facts of,demonstrate.01,innocence,,Affirmative,"Rather than relying on the completely unsubstantiated claims made by a convicted felon , we believe the facts of this case will demonstrate Officer Castro 's innocence , said his lawyer , Liam Castro . "
+"his lawyer ,",say.01,", we believe",,Affirmative,"Rather than relying on the completely unsubstantiated claims made by a convicted felon , we believe the facts of this case will demonstrate Officer Castro 's innocence , said his lawyer , Liam Castro . "
+prisoner Allen Turner,say.01,inmate was on,,Affirmative,"The inmate was on suicide watch , says Turner . "
+An inmate who died at Rikers Island after swallowing a `` soap ball '' of detergent spit blood on his jail cell window in a desperate plea for help,start.01,to flood,,Affirmative,"He started to flood his cell out by placing objects in the toilet and flushing them , Turner says . "
+An inmate who died at Rikers Island after swallowing a `` soap ball '' of detergent spit blood on his jail cell window in a desperate plea for help,flood.01,his cell,by placing objects in,Affirmative,"He started to flood his cell out by placing objects in the toilet and flushing them , Turner says . "
+An inmate who died at Rikers Island after swallowing a `` soap ball '' of detergent spit blood on his jail cell window in a desperate plea for help,flush.01,both Castro and Pendergrass,,Affirmative,"He started to flood his cell out by placing objects in the toilet and flushing them , Turner says . "
+prisoner Allen Turner,say.01,He started,,Affirmative,"He started to flood his cell out by placing objects in the toilet and flushing them , Turner says . "
+both Castro and Pendergrass,haul.01,"Howard Simmons/New York Daily News Jason Echevarria , 25",to,Affirmative,"Castro and Pendergrass hauled Echevarria to an isolation cell , according to Turner 's account . "
+Jay,tell.01,that he had ate some of,me,Affirmative,"Jay was back in his cell and told me that he had ate some of the soap ball in front of Capt. Pendergrass that was left in all the cells that suffered from the flood , Turner says . "
+prisoner Allen Turner,eat.01,some of,,Affirmative,"Jay was back in his cell and told me that he had ate some of the soap ball in front of Capt. Pendergrass that was left in all the cells that suffered from the flood , Turner says . "
+all the cells,suffer.01,from,,Affirmative,"Jay was back in his cell and told me that he had ate some of the soap ball in front of Capt. Pendergrass that was left in all the cells that suffered from the flood , Turner says . "
+prisoner Allen Turner,say.01,Jay was back in,,Affirmative,"Jay was back in his cell and told me that he had ate some of the soap ball in front of Capt. Pendergrass that was left in all the cells that suffered from the flood , Turner says . "
+prisoner Allen Turner,say.01,he changed,,Affirmative,Turner says he changed his mind about the situation after Echevarria became distressed . 
+he,change.01,his mind,,Affirmative,Turner says he changed his mind about the situation after Echevarria became distressed . 
+Turner and,make.01,noise,,Affirmative,"Turner and other inmates made noise until Pendergrass showed up at the cell , Turner says . "
+prisoner Allen Turner,say.01,made noise,,Affirmative,"Turner and other inmates made noise until Pendergrass showed up at the cell , Turner says . "
+He,look.01,into it,,Affirmative,"He arrived there fast and went to Jay 's cell and looked into it , says Turner . "
+Turner,say.01,He arrived there fast and went to,,Affirmative,"He arrived there fast and went to Jay 's cell and looked into it , says Turner . "
+Time,run.02,for Echevarria,,Affirmative,Time was running out for Echevarria as the cleaning powder burned his throat and insides . 
+the cleaning powder,burn.01,his throat and insides,,Affirmative,Time was running out for Echevarria as the cleaning powder burned his throat and insides . 
+Andrew Savulich /,accuse.01,Echevarria,of,Affirmative,Andrew Savulich / New York Daily News Capt. Terrence Pendergrass allegedly accused Echevarria of ' faking it ' as his condtion deteriorated . 
+Echevarria,fake.01,it,,Affirmative,Andrew Savulich / New York Daily News Capt. Terrence Pendergrass allegedly accused Echevarria of ' faking it ' as his condtion deteriorated . 
+He,violate.01,civil rights,,Affirmative,He has been charged with violating the 25 - year - old 's civil rights by denying him medial treatment . 
+He,deny.01,medial treatment,him,Affirmative,He has been charged with violating the 25 - year - old 's civil rights by denying him medial treatment . 
+Jay,continue.01,to start banging on,,Affirmative,"Jay continued to start banging on the door , Turner says . "
+Jay,start.01,banging on,,Affirmative,"Jay continued to start banging on the door , Turner says . "
+Jay,bang.02,on,,Affirmative,"Jay continued to start banging on the door , Turner says . "
+prisoner Allen Turner,say.01,Jay continued,,Affirmative,"Jay continued to start banging on the door , Turner says . "
+Echevarria,bloody.01,his cell window,,Affirmative,"In the end , Echevarria bloodied his cell window , Turner says . "
+Turner,say.01,", Echevarria bloodied",,Affirmative,"In the end , Echevarria bloodied his cell window , Turner says . "
+I,hear.01,him say,,Affirmative,"I did hear him say that he was bleeding so I told him to spit it on the window maybe then that will get someone 's attention , according to Turner . "
+him,say.01,that he was bleeding,,Affirmative,"I did hear him say that he was bleeding so I told him to spit it on the window maybe then that will get someone 's attention , according to Turner . "
+I,tell.01,to spit it on,him,Affirmative,"I did hear him say that he was bleeding so I told him to spit it on the window maybe then that will get someone 's attention , according to Turner . "
+him,spit.01,it,on,Affirmative,"I did hear him say that he was bleeding so I told him to spit it on the window maybe then that will get someone 's attention , according to Turner . "
+that,get.01,attention,,Affirmative,"I did hear him say that he was bleeding so I told him to spit it on the window maybe then that will get someone 's attention , according to Turner . "
+Turner,say.01,he sought help from,,Affirmative,Turner says he sought help from a pharmacy technician who was making her rounds . 
+prisoner Allen Turner,seek.01,help from,,Affirmative,Turner says he sought help from a pharmacy technician who was making her rounds . 
+a pharmacy technician,make.01,her rounds,,Affirmative,Turner says he sought help from a pharmacy technician who was making her rounds . 
+I,see.01,her looked in,,Affirmative,"I see her looked in his cell and tells C.O. Castro that Jay was on the floor and he may need medical attention because there was blood on the window , he says . "
+prisoner Allen Turner,need.01,medical attention,,Affirmative,"I see her looked in his cell and tells C.O. Castro that Jay was on the floor and he may need medical attention because there was blood on the window , he says . "
+prisoner Allen Turner,say.01,I see,,Affirmative,"I see her looked in his cell and tells C.O. Castro that Jay was on the floor and he may need medical attention because there was blood on the window , he says . "
+prisoner Allen Turner,say.01,he asked Castro,,Affirmative,Turner says he asked Castro one more time to help Echevarria . 
+he,ask.02,one more time,Castro,Affirmative,Turner says he asked Castro one more time to help Echevarria . 
+Castro,help.01,Echevarria,,Affirmative,Turner says he asked Castro one more time to help Echevarria . 
+Turner,have.03,his own medical problems,,Affirmative,Turner was having his own medical problems . 
+I,start.01,to get dizzy and,,Affirmative,"I started to get dizzy and ( laid ) down , he recalls . "
+I,get.01,dizzy and,,Affirmative,"I started to get dizzy and ( laid ) down , he recalls . "
+he,recall.02,I started,,Affirmative,"I started to get dizzy and ( laid ) down , he recalls . "
+"Bronx prosecutors ,",decide.01,not to pursue,,Affirmative,"Turner and other inmates spoke to Bronx prosecutors , who ultimately decided not to pursue criminal charges in the death , according to a source briefed on the investigation . "
+"Bronx prosecutors ,",pursue.01,criminal charges,,Affirmative,"Turner and other inmates spoke to Bronx prosecutors , who ultimately decided not to pursue criminal charges in the death , according to a source briefed on the investigation . "
+Castro,sue.01,the city,for,Affirmative,"Castro is suing the city for wrongful termination , claiming Pendergrass kept him from seeking attention for Echevarria . "
+Castro,claim.01,Pendergrass kept him from seeking attention for Echevarria,,Affirmative,"Castro is suing the city for wrongful termination , claiming Pendergrass kept him from seeking attention for Echevarria . "
+Pendergrass,keep.04,him,from seeking attention for Echevarria,Affirmative,"Castro is suing the city for wrongful termination , claiming Pendergrass kept him from seeking attention for Echevarria . "
+Pendergrass,seek.01,attention for Echevarria,,Affirmative,"Castro is suing the city for wrongful termination , claiming Pendergrass kept him from seeking attention for Echevarria . "
+The source,say.01,Department never warned,,Affirmative,The source says the Correction Department never warned its employees the soap balls were toxic . 
+the Correction Department,warn.01,balls were toxic,its employees,Affirmative,The source says the Correction Department never warned its employees the soap balls were toxic . 
+The federal complaint against Pendergrass,mention.01,two officers,,Affirmative,The federal complaint against Pendergrass mostly mirrors Turner 's story but mentions two officers in addition to Pendergrass . 
+The complaint,say.01,Pendergrass later ignored,,Affirmative,"The complaint says Pendergrass later ignored a different officer , who had learned from the pharmacy technician that Echevarria might die without medical help . "
+Pendergrass,ignore.01,"a different officer ,",,Affirmative,"The complaint says Pendergrass later ignored a different officer , who had learned from the pharmacy technician that Echevarria might die without medical help . "

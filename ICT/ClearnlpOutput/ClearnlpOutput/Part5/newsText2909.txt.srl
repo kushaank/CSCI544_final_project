@@ -1,0 +1,77 @@
+1	Crow	crow	NNP	p2=VB	3	nn	_
+2	Wing	wing	NNP	_	3	nn	_
+3	County	county	NNP	_	4	nsubj	4:A0=PAG
+4	needs	need	VBZ	pb=need.01	0	root	_
+5	a	a	DT	_	8	det	_
+6	new	new	JJ	_	8	amod	_
+7	airport	airport	NN	_	8	nn	_
+8	runway	runway	NN	_	4	dobj	4:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	a	a	DT	_	12	det	_
+11	new	new	JJ	_	12	amod	_
+12	landfill	landfill	NN	_	8	conj	_
+13	.	.	.	_	4	punct	_
+
+1	Anything	anything	NN	_	5	nsubj	5:A1=PPT
+2	less	less	RBR	p2=JJR	1	amod	_
+3	wo	wo	MD	_	5	aux	5:AM-MOD
+4	n't	not	RB	_	5	neg	5:AM-NEG
+5	fly	fly	VB	pb=fly.01	0	root	_
+6	with	with	IN	_	5	prep	5:AM-MNR
+7	the	the	DT	_	10	det	_
+8	Federal	federal	NNP	_	10	nn	_
+9	Aviation	aviation	NNP	_	10	nn	_
+10	Administration	administration	NNP	_	6	pobj	_
+11	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	landfill	landfill	NN	_	15	nsubj	5:A1=PPT;15:A1=PPT
+3	,	,	,	_	2	punct	_
+4	which	which	WDT	_	5	nsubj	5:R-A1
+5	is	be	VBZ	pb=be.01	2	rcmod	_
+6	3.2	0	CD	_	7	num	_
+7	miles	mile	NNS	_	8	npadvmod	_
+8	from	from	IN	_	5	prep	5:A2=PRD
+9	the	the	DT	_	10	det	_
+10	end	end	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	runway	runway	NN	_	11	pobj	_
+14	,	,	,	_	15	punct	_
+15	was	be	VBD	pb=be.01	0	root	_
+16	OK	ok	JJ	p2=UH	15	acomp	15:A2=PRD
+17	when	when	WRB	_	21	advmod	21:R-AM-TMP
+18	the	the	DT	_	19	det	_
+19	landfill	landfill	NN	_	21	nsubjpass	21:A1=PPT
+20	was	be	VBD	_	21	auxpass	_
+21	planned	plan	VBN	pb=plan.01	15	advcl	15:AM-TMP
+22	.	.	.	_	15	punct	_
+
+1	Then	then	RB	_	4	advmod	4:AM-TMP
+2	the	the	DT	_	3	det	_
+3	FAA	faa	NNP	p2=NN	4	nsubj	4:A0=PAG
+4	changed	change	VBD	pb=change.01	0	root	_
+5	its	its	PRP$	_	6	poss	_
+6	rules	rule	NNS	_	4	dobj	4:A1=PPT
+7	.	.	.	_	4	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

@@ -1,0 +1,121 @@
+1	THE	the	DT	_	6	det	_
+2	HAGUE	hague	NNP	p2=NN	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	 The	 the	NNP	p2=POS	6	nn	_
+5	defense	defense	NN	_	6	nn	_
+6	case	case	NN	_	0	root	_
+7	of a	of a	IN	p2=,	6	prep	_
+8	former	former	JJ	_	12	amod	_
+9	Bosnian	bosnian	JJ	p2=NNP	12	amod	_
+10	Serb	serb	JJ	p2=NN	11	amod	_
+11	army	army	NN	_	12	nn	_
+12	chief	chief	NN	p2=JJ	7	pobj	_
+13	,	,	,	_	12	punct	_
+14	 Ratko	 ratko	NNP	p2=,	15	nn	_
+15	Mladic	mladic	NNP	_	12	appos	_
+16	,	,	,	_	12	punct	_
+17	on	on	IN	_	12	prep	_
+18	charges	charge	NNS	_	17	pobj	_
+19	of	of	IN	_	18	prep	_
+20	crimes	crime	NNS	_	19	pobj	_
+21	against	against	IN	_	20	prep	_
+22	humanity has	humanity has	NNS	p2=NNP	21	pobj	23:A1=PPT
+23	begun	begin	VBN	pb=begin.01	22	partmod	_
+24	on	on	IN	_	23	prep	23:AM-TMP
+25	Monday	monday	NNP	_	24	pobj	_
+26	in	in	IN	_	23	prep	23:AM-LOC
+27	The	the	DT	_	28	det	_
+28	Hague	hague	NNP	_	26	pobj	_
+29	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	case	case	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	expected	expect	VBN	pb=expect.01	0	root	_
+5	to last	to last	JJS	p2=NNP	7	amod	_
+6	207	0	CD	_	7	num	_
+7	hours	hour	NNS	_	12	nsubj	12:A0=PAG
+8	as	as	IN	p2=RB	7	prep	_
+9	approximately 330	approximately 0	NN	p2=CD	10	nn	_
+10	witnesses	witness	NNS	_	8	pobj	_
+11	will	will	MD	_	12	aux	12:AM-MOD
+12	testify	testify	VB	pb=testify.01	4	ccomp	4:C-A1
+13	.	.	.	_	4	punct	_
+
+1	Defense	defense	NN	p2=NNP	2	nn	_
+2	lawyers	lawyer	NNS	_	6	nsubj	6:A0;12:A0=PAG
+3	will	will	MD	_	6	aux	6:AM-MOD;12:AM-MOD
+4	also	also	RB	_	6	advmod	6:AM-ADV
+5	most	most	RBS	p2=VB	6	advmod	6:AM-MNR
+6	likely deny	likely deny	VB	p2=JJ|pb=likely deny.01	0	root	_
+7	all	all	DT	_	8	det	_
+8	allegations	allegation	NNS	_	6	dobj	9:A0=PPT;6:A1
+9	concerning	concern	VBG	pb=concern.02	8	partmod	_
+10	Mladic	mladic	NNP	p2=JJ	9	dobj	9:A1=PPT
+11	and	and	CC	_	6	cc	_
+12	insist	insist	VBP	p2=VB|pb=insist.01	6	conj	_
+13	on his	on his	IN	p2=PRP$	12	prep	12:A1=PPT
+14	health	health	NN	_	15	nn	_
+15	problems	problem	NNS	_	13	pobj	_
+16	for	for	IN	_	15	prep	_
+17	refusing	refuse	VBG	pb=refuse.01	16	pcomp	_
+18	to	to	TO	_	19	aux	_
+19	testify	testify	VB	pb=testify.01	17	xcomp	17:A1=PPT
+20	before	before	IN	_	19	prep	19:AM-LOC
+21	The	the	DT	_	23	det	_
+22	Hague	hague	NNP	_	23	nn	_
+23	tribunal	tribunal	NN	_	20	pobj	_
+24	.	.	.	_	6	punct	_
+
+1	Mladic	mladic	NNP	p2=JJ	0	root	4:A1=PPT
+2	,	,	,	_	1	punct	_
+3	also	also	RB	_	4	advmod	4:AM-DIS
+4	known	know	VBN	pb=know.01	1	partmod	_
+5	as	as	IN	_	4	prep	4:A2=PRD
+6	"	"	``	_	7	punct	_
+7	Butcher	butcher	NNP	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	Bosnia	bosnia	NNP	_	8	pobj	_
+10	"	"	''	_	7	punct	_
+11	,	,	,	_	7	punct	_
+12	 refused	 refused	VBN	p2=VBD|pb= refused.01	7	partmod	_
+13	on	on	IN	_	12	prep	12:AM-TMP
+14	April	april	NNP	_	13	pobj	_
+15	28	0	CD	_	14	num	_
+16	to	to	TO	_	17	aux	_
+17	testify	testify	VB	pb=testify.01	12	xcomp	12:A2
+18	on	on	IN	_	17	prep	17:AM-MNR
+19	behalf	behalf	NN	_	18	pobj	_
+20	of	of	IN	_	19	prep	_
+21	ex-Serbian	ex-serbian	JJ	p2=NNP	23	amod	_
+22	leader Radovan	leader radovan	NNP	p2=NN	23	nn	_
+23	Karadzic	karadzic	NNP	_	20	pobj	_
+24	at	at	IN	_	17	prep	17:AM-LOC
+25	his	his	PRP$	_	28	poss	_
+26	war	war	NN	_	27	nn	_
+27	crimes	crime	NNS	_	28	nn	_
+28	trial	trial	NN	p2=VBP	24	pobj	_
+29	in	in	IN	_	28	prep	_
+30	The	the	DT	_	31	det	_
+31	Hague	hague	NNP	_	29	pobj	_
+32	.	.	.	_	1	punct	_
+
+1	He	he	PRP	_	3	nsubj	3:A1=PPT
+2	had	have	VBD	_	3	aux	_
+3	been	be	VBN	pb=be.01	0	root	_
+4	on	on	IN	_	3	prep	3:A2=PRD
+5	the	the	DT	_	6	det	_
+6	run	run	NN	_	4	pobj	_
+7	for	for	IN	_	3	prep	3:AM-TMP
+8	16	0	CD	_	9	num	_
+9	years	year	NNS	_	7	pobj	_
+10	before	before	IN	_	3	prep	3:AM-TMP
+11	being	be	VBG	_	12	auxpass	_
+12	arrested	arrest	VBN	pb=arrest.01	10	pcomp	_
+13	in	in	IN	_	12	prep	12:AM-LOC
+14	northern	northern	JJ	_	15	amod	_
+15	Serbia	serbia	NNP	_	13	pobj	_
+16	in	in	IN	_	12	prep	12:AM-TMP
+17	2011	0	CD	_	16	pobj	_
+18	.	.	.	_	3	punct	_
+

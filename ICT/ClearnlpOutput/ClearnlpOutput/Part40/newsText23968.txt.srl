@@ -1,0 +1,432 @@
+1	May	may	NNP	_	10	npadvmod	10:AM-TMP
+2	19	0	CD	_	1	num	_
+3	,	,	,	_	1	punct	_
+4	2014	0	CD	_	1	num	_
+5	,	,	,	_	10	punct	_
+6	11:37	0	CD	_	8	num	_
+7	a.m.	a.m.	NN	_	8	nn	_
+8	POLICE	police	NNS	p2=NNP	10	nsubjpass	10:A2=GOL
+9	were	be	VBD	_	10	auxpass	_
+10	warned	warn	VBN	pb=warn.01	0	root	_
+11	bomber	bomber	NN	p2=IN	13	nn	_
+12	Glenn	glenn	NNP	_	13	nn	_
+13	Sanders	sanders	NNP	_	17	nsubj	17:A0=PAG
+14	might	might	MD	_	17	aux	17:AM-MOD
+15	have	have	VB	_	17	aux	_
+16	been	be	VBN	_	17	aux	_
+17	visiting	visit	VBG	pb=visit.01	10	ccomp	10:A1=PPT
+18	a	a	DT	_	20	det	_
+19	Ballarat	ballarat	NNP	p2=NN	20	nn	_
+20	hospital	hospital	NN	_	17	dobj	21:A0=PAG;17:A1=COM
+21	wearing	wear	VBG	pb=wear.01	20	partmod	_
+22	a	a	DT	_	23	det	_
+23	vest	vest	NN	_	21	dobj	21:A1=PPT;24:A1=GOL
+24	filled	fill	VBN	pb=fill.01	23	partmod	_
+25	with	with	IN	_	24	prep	24:A2=PPT
+26	explosives	explosive	NNS	_	25	pobj	_
+27	weeks	week	NNS	_	30	npadvmod	_
+28	before	before	IN	_	30	mark	_
+29	he	he	PRP	_	30	nsubj	30:A0=PAG
+30	blew	blow	VBD	pb=blow.06	17	advcl	_
+31	himself	himself	PRP	_	30	dobj	30:A1=PPT
+32	up	up	RP	_	30	prt	30:C-V
+33	.	.	.	_	10	punct	_
+
+1	St	st	NNP	_	2	nn	_
+2	John	john	NNP	_	5	nn	_
+3	of	of	IN	_	2	prep	_
+4	God	god	NNP	_	3	pobj	_
+5	Hospital	hospital	NNP	_	0	root	_
+6	in	in	IN	_	5	prep	_
+7	Ballarat	ballarat	NNP	_	6	pobj	_
+8	.	.	.	_	5	punct	_
+
+1	File	file	JJ	p2=NNP	2	amod	_
+2	image	image	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	POLICE	police	NNS	p2=NNP	3	nsubjpass	3:A2=GOL
+2	were	be	VBD	_	3	auxpass	_
+3	warned	warn	VBN	pb=warn.01	0	root	_
+4	bomber Glenn	bomber glenn	NNP	p2=IN	5	nn	_
+5	Sanders	sanders	NNP	_	8	nsubj	8:A0=PAG
+6	might	might	MD	_	8	aux	8:AM-MOD
+7	have been	have been	VB	p2=NNP	8	aux	_
+8	visiting	visit	VBG	pb=visit.01	3	ccomp	3:A1=PPT
+9	a	a	DT	_	10	det	_
+10	Ballarat	ballarat	NNP	p2=NN	8	dobj	11:A0;8:A1=COM
+11	hospital wearing	hospital wearing	VBG	p2=NNP|pb=hospital wearing.01	10	partmod	_
+12	a	a	DT	_	13	det	_
+13	vest	vest	NN	_	11	dobj	11:A1;14:A1=GOL
+14	filled	fill	VBN	pb=fill.01	13	partmod	_
+15	with explosives	with explosives	IN	p2=VBZ	14	agent	14:A0=PAG
+16	weeks	week	NNS	_	15	pobj	_
+17	before	before	IN	_	19	mark	_
+18	he	he	PRP	_	19	nsubj	19:A0
+19	blew himself	blew himself	VBD	p2=VBZ|pb=blew himself.01	11	advcl	11:AM-TMP
+20	up	up	RP	_	19	prt	19:C-V
+21	at	at	IN	_	19	prep	19:AM-LOC
+22	his	his	PRP$	_	23	poss	_
+23	Derrinallum farm	derrinallum farm	NNP	p2=NN	21	pobj	_
+24	.	.	.	_	3	punct	_
+
+1	Derrinallum	derrinallum	NNP	p2=NN	2	nsubj	2:A0
+2	plumber	plumber	VBP	p2=NNP|pb=plumber.01	0	root	_
+3	Gary Poole	gary poole	NNP	_	2	dobj	2:A1
+4	on	on	IN	_	6	prep	_
+5	Sunday	sunday	NNP	_	4	pobj	_
+6	said	say	VBD	pb=say.01	2	advcl	_
+7	he	he	PRP	_	10	nsubj	10:A1=PPT
+8	told police	told police	NNP	p2=VBD	9	nn	_
+9	Sanders	sanders	NNP	_	7	appos	_
+10	was	be	VBD	pb=be.01	6	ccomp	6:A1=PPT
+11	wearing into	wearing into	NNP	p2=IN	10	attr	10:A2=PRD
+12	the	the	DT	_	13	det	_
+13	hospital	hospital	NN	_	10	npadvmod	17:A2
+14	a	a	DT	_	15	det	_
+15	device that	device that	NN	p2=NNP	17	nsubj	17:A0
+16	potentially	potentially	RB	_	17	advmod	17:AM-ADV
+17	contained explosives	contained explosives	VBZ	p2=NNPS|pb=contained explosives.01	13	rcmod	_
+18	.	.	.	_	2	punct	_
+
+1	"	"	``	_	3	punct	_
+2	It	it	PRP	_	3	nsubj	3:A1=PPT
+3	was	be	VBD	pb=be.01	0	root	_
+4	n't	not	RB	_	3	neg	3:AM-NEG
+5	just	just	RB	_	10	advmod	_
+6	a	a	DT	_	10	det	_
+7	one	#crd#	CD	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	off	off	RP	p2=NN	10	amod	_
+10	time that	time that	NN	p2=WP	3	attr	3:A2=PRD
+11	he	he	PRP	_	12	nsubj	12:A0=PAG
+12	wore	wear	VBD	pb=wear.01	3	ccomp	_
+13	the	the	DT	_	14	det	_
+14	vest	vest	NN	_	12	dobj	12:A1=PPT
+15	to	to	IN	p2=TO	12	prep	_
+16	hospital	hospital	NN	_	15	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	 He	 he	NNP	p2=UH	2	nsubj	2:A0=PAG
+2	did	do	VBD	pb=do.02	0	root	_
+3	it	it	PRP	_	2	dobj	2:A1=PPT
+4	all	all	PDT	_	6	predet	_
+5	the	the	DT	_	6	det	_
+6	time	time	NN	_	2	npadvmod	2:AM-TMP
+7	,	,	,	_	2	punct	_
+8	"	"	''	p2=``	2	punct	_
+9	Mr	mr	NNP	_	10	nn	_
+10	Poole	poole	NNP	_	1	appos	_
+11	,	,	,	_	10	punct	_
+12	 a	 a	NNP	p2=IN	16	nn	_
+13	life	life	NN	_	15	hmod	_
+14	-	-	HYPH	_	15	hyph	_
+15	long	long	JJ	_	16	amod	_
+16	friend	friend	NN	_	10	appos	_
+17	of	of	IN	_	16	prep	_
+18	Sanders	sanders	NNP	p2=NNS	17	pobj	_
+19	,	,	,	_	18	punct	_
+20	 said	 said	NNP	p2=VBD	18	appos	_
+21	.	.	.	_	16	punct	_
+
+1	"	"	``	_	4	punct	_
+2	I	I	PRP	_	4	nsubjpass	4:A1=PPT
+3	was	be	VBD	_	4	auxpass	_
+4	contacted	contact	VBN	pb=contact.01	0	root	_
+5	by	by	IN	_	4	agent	4:A0=PAG
+6	Ballarat police	ballarat police	NNP	p2=SYM	5	pobj	_
+7	several	several	JJ	_	8	amod	_
+8	weeks	week	NNS	_	9	npadvmod	_
+9	before	before	IN	p2=RB	6	prep	_
+10	the incident	the incident	NNP	p2=PRP	9	pobj	_
+11	with	with	IN	_	10	prep	_
+12	Glenn	glenn	NNP	_	11	pobj	_
+13	.	.	.	_	4	punct	_
+14	"	"	''	_	4	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A0=PAG
+2	raised	raise	VBD	pb=raise.01	0	root	_
+3	questions	question	NNS	_	2	dobj	2:A1=PPT
+4	with me	with me	IN	p2=VB	2	advmod	2:AM-TMP
+5	about	about	IN	p2=RB	2	prep	_
+6	a	a	DT	_	7	det	_
+7	vest	vest	NN	_	5	pobj	10:A1=PPT
+8	he	he	PRP	_	10	nsubj	10:A0=PAG
+9	was	be	VBD	_	10	aux	_
+10	wearing	wear	VBG	pb=wear.01	7	rcmod	_
+11	.	.	.	_	2	punct	_
+
+1	 I	 i	NNP	p2=NNS	2	nsubj	2:A0=PAG
+2	confirmed	confirm	VBD	pb=confirm.01	0	root	_
+3	that	that	IN	_	5	complm	_
+4	he	he	PRP	_	5	nsubj	5:A0=PAG
+5	had	have	VBD	pb=have.03	2	ccomp	2:A1=PPT
+6	a	a	DT	_	7	det	_
+7	vest and	vest and	NNP	p2=NN	5	dobj	5:A1=PPT
+8	I	I	PRP	_	9	nsubj	9:A0=PAG
+9	believe	believe	VBP	p2=VB|pb=believe.01	5	ccomp	_
+10	it	it	PRP	_	11	nsubj	11:A0
+11	contained explosives	contained explosives	VBZ	p2=NNPS|pb=contained explosives.01	9	ccomp	9:A1=PPT
+12	.	.	.	_	2	punct	_
+
+1	"	"	``	_	3	punct	_
+2	I	I	PRP	_	3	nsubj	3:A0=PAG
+3	told	tell	VBD	pb=tell.01	0	root	_
+4	them	them	PRP	_	3	dobj	3:A2=GOL
+5	I	I	PRP	_	6	nsubj	6:A0
+6	couldn't guarantee	couldn't guarantee	VBP	p2=VBD|pb=couldn't guarantee.01	3	ccomp	3:A1=PPT
+7	whether	whether	IN	_	15	complm	_
+8	they were	they were	EX	p2=RB	24	advmod	_
+9	real	real	JJ	_	8	amod	_
+10	or	or	CC	_	9	cc	_
+11	fake	fake	JJ	_	9	conj	_
+12	,	,	,	_	6	punct	_
+13	but	but	CC	_	6	cc	_
+14	I	I	PRP	_	15	nsubj	15:A0
+15	have seen	have seen	VBP	p2=VBZ|pb=have seen.01	6	conj	_
+16	enough	enough	JJ	_	17	amod	_
+17	explosives	explosive	NNS	_	15	dobj	15:A1
+18	and detonators	and detonators	NNS	_	24	nsubj	24:A1=PPT
+19	in	in	IN	_	18	prep	_
+20	my	my	PRP$	_	21	poss	_
+21	time	time	NN	_	19	pobj	_
+22	to	to	IN	p2=TO	21	prep	_
+23	believe they	believe they	NNP	p2=NN	22	pobj	_
+24	were	be	VBD	pb=be.01	15	advcl	_
+25	real	real	JJ	p2=RB	24	acomp	24:A2=PRD
+26	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	3	nsubjpass	_
+2	is	be	VBZ	_	3	auxpass	_
+3	believed	believe	VBN	pb=believe.01	0	root	_
+4	Sanders	sanders	NNP	p2=NNS	5	nn	_
+5	visited St	visited st	NNP	p2=IN	6	nn	_
+6	John	john	NNP	_	3	oprd	3:A1=PPT
+7	of	of	IN	_	6	prep	_
+8	God	god	NNP	_	9	nn	_
+9	Hospital	hospital	NNP	_	7	pobj	_
+10	.	.	.	_	3	punct	_
+
+1	The hospital	the hospital	NNP	p2=DT	5	poss	_
+2	's	's	POS	_	1	possessive	_
+3	chief	chief	JJ	_	5	amod	_
+4	executive	executive	JJ	_	5	amod	_
+5	officer	officer	NN	_	10	nsubj	10:A0
+6	,	,	,	_	5	punct	_
+7	 Michael	 michael	NNP	_	8	nn	_
+8	Krieg	krieg	NNP	_	5	appos	_
+9	,	,	,	_	5	punct	_
+10	said	say	VBD	pb=say.01	0	root	_
+11	he	he	PRP	_	13	nsubj	13:A0
+12	did	do	VBD	_	13	aux	_
+13	not know	not know	VB	p2=NNP|pb=not know.01	10	ccomp	10:A1=PPT
+14	whether	whether	IN	_	16	complm	_
+15	that	that	DT	_	16	nsubj	16:A1=PPT
+16	was	be	VBD	pb=be.01	13	ccomp	13:A1
+17	the	the	DT	_	18	det	_
+18	case	case	NN	_	16	attr	16:A2=PRD
+19	.	.	.	_	10	punct	_
+
+1	Mr	mr	NNP	_	2	nn	_
+2	Krieg	krieg	NNP	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	he	he	PRP	_	6	nsubj	6:A0
+5	would	would	MD	_	6	aux	6:AM-MOD
+6	not comment	not comment	VB	pb=not comment.01	3	ccomp	3:A1=PPT
+7	on	on	IN	_	6	prep	6:A1
+8	anything	anything	NN	_	7	pobj	_
+9	to	to	TO	p2=IN	10	aux	_
+10	do with	do with	VB	p2=IN|pb=do with.01	8	infmod	_
+11	police	police	NN	p2=NNS	12	nn	_
+12	operations	operation	NNS	_	10	dobj	10:A1
+13	.	.	.	_	3	punct	_
+
+1	 Victoria	 victoria	NNP	p2=NN	4	nn	_
+2	Police	police	NNP	p2=NNS	4	nn	_
+3	spokesperson Leonie	spokesperson leonie	NNP	_	4	nn	_
+4	Johnson	johnson	NNP	_	6	nsubj	6:A0
+5	would	would	MD	_	6	aux	6:AM-MOD
+6	not confirm	not confirm	VB	pb=not confirm.01	0	root	_
+7	details	detail	NNS	_	6	dobj	6:A1
+8	of	of	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	case while	case while	NN	p2=NNP	8	pobj	_
+11	the	the	DT	_	12	det	_
+12	matter	matter	NN	_	13	nsubj	13:A1=PPT
+13	was	be	VBD	pb=be.01	10	rcmod	_
+14	before	before	IN	p2=RB	13	prep	13:A2=PRD
+15	the coroner	the coroner	NNP	p2=PRP	14	pobj	_
+16	.	.	.	_	6	punct	_
+17	"	"	''	_	6	punct	_
+
+1	I	I	PRP	_	2	nsubj	2:A0=PAG
+2	warned	warn	VBD	pb=warn.01	0	root	_
+3	them	them	PRP	_	2	dobj	2:A2=GOL
+4	that	that	IN	p2=WDT	8	complm	_
+5	I	I	PRP	_	8	nsubj	8:A0=PAG;10:A0=PAG
+6	did	do	VBD	_	8	aux	_
+7	n't	not	RB	_	8	neg	8:AM-NEG
+8	want	want	VB	pb=want.01	2	ccomp	2:A1=PPT
+9	to	to	TO	_	10	aux	_
+10	read	read	VB	pb=read.01	8	xcomp	8:A1=PPT
+11	in	in	IN	_	10	prep	10:A1=PPT
+12	the	the	DT	_	13	det	_
+13	newspaper	newspaper	NN	_	11	pobj	_
+14	about	about	IN	p2=RB	10	prep	10:A3=PPT
+15	an	an	DT	_	16	det	_
+16	explosion	explosion	NN	_	17	nsubj	17:A1=PPT
+17	going	go	VBG	pb=go.01	14	pcomp	_
+18	off	off	RP	p2=RB	17	prt	17:C-V
+19	in	in	IN	_	17	prep	17:AM-LOC
+20	the	the	DT	_	21	det	_
+21	hospital	hospital	NN	_	19	pobj	_
+22	.	.	.	_	2	punct	_
+
+1	"	"	''	p2=``	4	punct	_
+2	-	-	:	p2=HYPH	4	punct	_
+3	Gary	gary	NNP	_	4	nn	_
+4	Poole	poole	NNP	_	0	root	_
+5	,	,	,	_	4	punct	_
+6	friend	friend	NN	_	4	appos	_
+7	of	of	IN	_	6	prep	_
+8	Derrinallum	derrinallum	NNP	p2=JJ	9	nn	_
+9	bomber	bomber	NN	p2=NNP	11	nn	_
+10	Glenn	glenn	NNP	_	11	nn	_
+11	Sanders	sanders	NNP	_	7	pobj	_
+12	.	.	.	_	4	punct	_
+13	"	"	''	_	4	punct	_
+
+1	The	the	DT	_	2	det	_
+2	deceased	deceased	JJ	p2=VBN	11	poss	_
+3	's	's	POS	p2=VBZ	2	possessive	_
+4	movements leading	movements leading	VBG	p2=NN|pb=movements leading.01	0	root	_
+5	up	up	RP	p2=IN	4	prt	4:C-V
+6	to	to	IN	_	4	prep	4:A1
+7	the	the	DT	_	8	det	_
+8	explosion	explosion	NN	_	11	poss	_
+9	will all	will all	POS	p2=NNP	8	possessive	_
+10	form	form	NN	p2=JJ	11	amod	_
+11	part	part	NN	_	6	pobj	_
+12	of	of	IN	_	11	prep	_
+13	the	the	DT	_	14	det	_
+14	investigation	investigation	NN	_	12	pobj	_
+15	,	,	,	_	18	punct	_
+16	"	"	''	p2=``	18	punct	_
+17	 she	 she	PRP	p2=DT	18	nsubj	18:A0
+18	said	say	VBD	pb=say.01	0	root	_
+19	.	.	.	_	18	punct	_
+
+1	Police	police	NNS	p2=NNP	2	nsubj	2:A1=PPT
+2	stepped	step	VBD	pb=step.01	0	root	_
+3	in	in	RP	p2=RB	2	advmod	2:C-V
+4	to	to	IN	p2=TO	2	prep	2:A2=GOL
+5	arrest Sanders	arrest sanders	NNS	p2=NNPS	4	pobj	_
+6	after	after	IN	_	2	prep	2:AM-TMP
+7	Mr	mr	NNP	_	9	nn	_
+8	Poole	poole	NNP	_	9	nn	_
+9	lodged an	lodged an	NNP	p2=POS	11	nn	_
+10	official	official	NN	p2=JJ	11	amod	_
+11	complaint	complaint	NN	_	6	pobj	_
+12	about	about	IN	_	11	prep	_
+13	him on	him on	NNP	_	14	nn	_
+14	April	april	NNP	_	12	pobj	_
+15	10	0	CD	_	14	num	_
+16	.	.	.	_	2	punct	_
+
+1	Sanders	sander	NNS	p2=NNP	3	nsubj	3:A0=PAG
+2	had	have	VBD	_	3	aux	_
+3	asked	ask	VBN	pb=ask.02	0	root	_
+4	Mr	mr	NNP	_	5	nn	_
+5	Poole to	poole to	NNP	p2=TO	6	nn	_
+6	help	help	NN	p2=VBP	3	dobj	3:A2=GOL
+7	repair	repair	VB	p2=VBP|pb=repair.01	3	ccomp	3:A1=PPT
+8	a	a	DT	_	9	det	_
+9	car	car	NN	_	7	dobj	7:A1=PPT
+10	in	in	IN	_	9	prep	_
+11	the mechanic	the mechanic	NNP	p2=NN	13	poss	_
+12	's	's	POS	_	11	possessive	_
+13	pit	pit	NN	_	10	pobj	_
+14	of	of	IN	_	13	prep	_
+15	his	his	PRP$	_	16	poss	_
+16	garage	garage	NN	_	14	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	But when	but when	VB	p2=NNP|pb=but when.01	12	advcl	12:AM-TMP
+2	the	the	DT	_	4	det	_
+3	tradesman	tradesman	NN	p2=JJ	4	nn	_
+4	stepped down	stepped down	NN	p2=VBN	1	dobj	1:A1
+5	into	into	IN	_	1	prep	1:A2
+6	the	the	DT	_	7	det	_
+7	space	space	NN	_	5	pobj	_
+8	,	,	,	_	12	punct	_
+9	Sanders blocked	sanders blocked	VBD	p2=NNP	12	aux	_
+10	the	the	DT	_	11	det	_
+11	entrance	entrance	NN	_	12	nsubj	12:A0
+12	and threatened	and threatened	VBD	p2=IN|pb=and threatened.01	0	root	_
+13	him	him	PRP	_	12	dobj	12:A1
+14	.	.	.	_	12	punct	_
+
+1	Mr	mr	NNP	_	2	nn	_
+2	Poole	poole	NNP	_	3	nsubj	3:A0=PAG;7:A0=PAG
+3	managed	manage	VBD	pb=manage.02	0	root	_
+4	to	to	TO	p2=IN	7	aux	_
+5	escape and	escape and	VB	_	7	auxpass	_
+6	then	then	RB	_	7	advmod	7:AM-TMP
+7	spent	spend	VBN	p2=VBD|pb=spend.02	3	xcomp	3:A1=PPT
+8	several	several	JJ	_	9	amod	_
+9	hours talking	hours talking	NN	p2=VBG	7	dobj	7:A1=VSP
+10	to	to	IN	_	7	prep	7:A2=GOL
+11	Sanders	sanders	NNP	p2=NNS	10	pobj	_
+12	.	.	.	_	3	punct	_
+13	"	"	''	_	3	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	that	that	IN	p2=DT	4	advmod	_
+4	paranoid	paranoid	JJ	p2=NN	2	acomp	2:A2=PRD
+5	.	.	.	_	2	punct	_
+
+1	He was	he was	NNS	p2=NNP	2	nsubj	2:A0=PAG
+2	talking	talk	VBG	pb=talk.01	0	root	_
+3	about	about	IN	_	2	prep	2:A1=PPT
+4	unmanned drones	unmanned drones	NNS	p2=NNP	3	pobj	_
+5	and	and	CC	_	4	cc	_
+6	the	the	DT	_	7	det	_
+7	CIA	cia	NNP	_	4	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	10	det	_
+10	FBI watching	fbi watching	NNP	_	7	conj	_
+11	him	him	PRP	_	10	appos	_
+12	,	,	,	_	2	punct	_
+13	"	"	''	p2=``	2	punct	_
+14	Mr	mr	NNP	_	15	nn	_
+15	Poole said	poole said	NNP	_	10	appos	_
+16	.	.	.	_	2	punct	_
+17	"	"	''	_	2	punct	_
+
+1	None	none	NN	_	4	nsubj	4:A0=PAG
+2	of	of	IN	_	1	prep	_
+3	it	it	PRP	_	2	pobj	_
+4	made	make	VBD	pb=make.01	0	root	_
+5	sense	sense	NN	p2=JJ	4	dobj	4:A1=PRD
+6	.	.	.	_	4	punct	_
+
+1	I spent	i spent	VB	p2=VBD|pb=i spent.01	0	root	_
+2	a	a	DT	_	3	det	_
+3	lot	lot	NN	_	1	dobj	1:A1
+4	of	of	IN	_	3	prep	_
+5	time	time	NN	_	4	pobj	_
+6	talking	talk	VBG	pb=talk.01	1	xcomp	1:A2
+7	to him	to him	NNP	p2=NN	6	dobj	6:A1=PPT
+8	,	,	,	_	1	punct	_
+9	but	but	CC	_	1	cc	_
+10	it	it	PRP	_	11	nsubj	_
+11	seemed	seem	VBD	pb=seem.01	1	conj	_
+12	as	as	IN	_	15	mark	_
+13	if	if	IN	_	15	mark	_
+14	he	he	PRP	_	15	nsubj	15:A0
+15	had gone	had gone	VBZ	p2=NNP|pb=had gone.01	11	advcl	11:A1=PPT
+16	too	too	RB	_	17	advmod	_
+17	far	far	RB	_	15	advmod	15:A2
+18	.	.	.	_	11	punct	_
+

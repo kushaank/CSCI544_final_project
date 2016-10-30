@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+NATO,see.01,no sign of,,Affirmative,"NATO sees no sign of Russian troops returning to bases after drills near the Ukraine border , a NATO military officer said on Monday , contradicting a report from a Russian news agency . "
+a NATO military officer,say.01,NATO sees,,Affirmative,"NATO sees no sign of Russian troops returning to bases after drills near the Ukraine border , a NATO military officer said on Monday , contradicting a report from a Russian news agency . "
+a NATO military officer,contradict.01,a report from,,Affirmative,"NATO sees no sign of Russian troops returning to bases after drills near the Ukraine border , a NATO military officer said on Monday , contradicting a report from a Russian news agency . "
+"Russian troops returning to bases after drills near the Ukraine border , a NATO military officer said on Monday , contradicting a report from a Russian news agency",see.01,any movement,,Affirmative,"We have n't seen any movement to validate ( the report ) , the officer , speaking on condition of anonymity , said . "
+"the officer , speaking on condition of anonymity",say.01,We have n't seen,,Affirmative,"We have n't seen any movement to validate ( the report ) , the officer , speaking on condition of anonymity , said . "
+Interfax,report.01,Putin had ordered,,Affirmative,Interfax reported earlier that President Vladimir Putin had ordered military forces that took part in drills in three regions bordering Ukraine to return to the places where they are permanently deployed . 
+President Vladimir Putin,order.01,military forces,,Affirmative,Interfax reported earlier that President Vladimir Putin had ordered military forces that took part in drills in three regions bordering Ukraine to return to the places where they are permanently deployed . 
+military forces,take.01,part,in drills,Affirmative,Interfax reported earlier that President Vladimir Putin had ordered military forces that took part in drills in three regions bordering Ukraine to return to the places where they are permanently deployed . 
+by,approve.01,Your comment,,Affirmative,Your comment must be approved by a moderator before being published on JPost.com . 
+Disqus users,post.01,comments,,Affirmative,Disqus users can post comments automatically . 
+comments,adhere.02,to,,Affirmative,Comments must adhere to our Talkback policy . 
+you,believe.01,comment has breached,,Affirmative,"If you believe that a comment has breached the Talkback policy , please press the flag icon to bring it to the attention of our moderation team . "
+a comment,breach.01,our Talkback policy,,Affirmative,"If you believe that a comment has breached the Talkback policy , please press the flag icon to bring it to the attention of our moderation team . "

@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old man,tell.01,that he did n't realize,police,Affirmative,A 22 - year - old man has told police that he did n't realize he 'd been shot at a bar until he left with a friend this weekend . 
+A 22-year-old man,realize.01,he 'd been shot at,,Affirmative,A 22 - year - old man has told police that he did n't realize he 'd been shot at a bar until he left with a friend this weekend . 
+A 22-year-old man,leave.01,with,,Affirmative,A 22 - year - old man has told police that he did n't realize he 'd been shot at a bar until he left with a friend this weekend . 
+Hector Aguayofuentes,tell.01,that he was leaving,police,Affirmative,"Mr Aguayofuentes told police that he was leaving the bar with a friend Samuel Hernandez , 27 , shortly after 1 am when they both noticed he was bleeding . "
+Hector Aguayofuentes,leave.01,a bar,with,Affirmative,"Mr Aguayofuentes told police that he was leaving the bar with a friend Samuel Hernandez , 27 , shortly after 1 am when they both noticed he was bleeding . "
+they both,notice.01,he was bleeding,,Affirmative,"Mr Aguayofuentes told police that he was leaving the bar with a friend Samuel Hernandez , 27 , shortly after 1 am when they both noticed he was bleeding . "
+police,stop.01,the bleeding,,Affirmative,They went to Hernandez 's house but were unable to stop the bleeding . 
+police,say.01,Aguayofuentes has n't provided,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+Hector Aguayofuentes,provided.01,any other details,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+Hector Aguayofuentes,explain.01,how he might have been shot,,Affirmative,Police say Aguayofuentes has n't provided any other details or explained how he might have been shot . 
+D'Noche Cafe,have.03,license suspended and,,Affirmative,"D'Noche Cafe had its liquor license suspended and was fined $ 4,000 after a fight led to shooting outside the bar in February , according to the Providence Journal . "
+The bar owners,hire.01,a police detail,,Affirmative,The bar owners were ordered to hire a police detail . 
+D'Noche Cafe,have.03,license suspended,,Affirmative,D'Noche Cafe also had its license suspended last years following a double shooting after a fight in the bar . 
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

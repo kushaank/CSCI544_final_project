@@ -1,0 +1,13 @@
+1	,	,	,	_	2	punct	_
+2	is	be	VBZ	pb=be.01	0	root	_
+3	available	available	JJ	_	2	acomp	2:A2=PRD
+4	ONLY	only	RB	_	5	advmod	_
+5	to	to	IN	_	3	prep	_
+6	subscribers	subscriber	NNS	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	TREND	trend	NNP	p2=NN	11	nn	_
+9	International	international	NNP	_	11	nn	_
+10	News	news	NNP	_	11	nn	_
+11	Agency	agency	NNP	_	7	pobj	_
+12	.	.	.	_	2	punct	_
+

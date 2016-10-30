@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"% AZN ,",reject.01,a final offer made by,,Affirmative,"MADRID ( MarketWatch ) -- AstraZeneca PLC AZN , +1.15 % AZN , +0.15 % on Monday rejected a final offer made by Pfizer Inc . "
+by,make.01,a final offer made by,,Affirmative,"MADRID ( MarketWatch ) -- AstraZeneca PLC AZN , +1.15 % AZN , +0.15 % on Monday rejected a final offer made by Pfizer Inc . "
+by Pfizer,make.LV,A new offer,,Affirmative,"A new offer was made by Pfizer on Sunday , which valued AstraZeneca shares at £55 ( $ 92.48 ) each . "
+Ian Read,say.01,that there was nothing more,,Affirmative,Chairman and Chief Executive Ian Read said in an interview on Sunday with The Wall Street Journal that there was nothing more the company could do with regards to an offer . 
+the company 's,do.02,nothing more,,Affirmative,Chairman and Chief Executive Ian Read said in an interview on Sunday with The Wall Street Journal that there was nothing more the company could do with regards to an offer . 
+Chairman and Chief Executive Ian Read,do.02,nothing more,,Affirmative,"There is nothing more we are prepared to do , he said . "
+Chairman,say.01,There is nothing more,,Affirmative,"There is nothing more we are prepared to do , he said . "
+British takeover rules,stipulate.01,that Pfizer ca n't alter,,Affirmative,British takeover rules stipulate that Pfizer ca n't alter the total price of any deal from what was offered Sunday . 
+Friday Pfizer,alter.01,the total price of,,Affirmative,British takeover rules stipulate that Pfizer ca n't alter the total price of any deal from what was offered Sunday . 
+A dialogue,offer.01,a deal worth £53.50,,Affirmative,"A dialogue began Thursday between Pfizer and AstraZeneca executives and on Friday Pfizer offered its rival a deal worth £53.50 , with that offer discussed over the next two days , the WSJ reported . "
+the WSJ,report.01,dialogue began Thursday between,,Affirmative,"A dialogue began Thursday between Pfizer and AstraZeneca executives and on Friday Pfizer offered its rival a deal worth £53.50 , with that offer discussed over the next two days , the WSJ reported . "
+Chairman Leif Johansson,refer.01,to,,Affirmative,"In a statement on Monday , AstraZeneca Chairman Leif Johansson referred to those discussions , saying that the company 's board would only recommend an offer that was more than 10 % higher than what was contained in the latest proposal . "
+Chairman Leif Johansson,say.01,board would only recommend,,Affirmative,"In a statement on Monday , AstraZeneca Chairman Leif Johansson referred to those discussions , saying that the company 's board would only recommend an offer that was more than 10 % higher than what was contained in the latest proposal . "
+board,recommend.01,an offer,,Affirmative,"In a statement on Monday , AstraZeneca Chairman Leif Johansson referred to those discussions , saying that the company 's board would only recommend an offer that was more than 10 % higher than what was contained in the latest proposal . "
+a minor improvement,continue.01,to fall short of,,Affirmative,"The Final Proposal is a minor improvement which continues to fall short of the Board 's view of value and has been rejected , he said . "
+AstraZeneca Chairman Leif Johansson,say.01,Proposal is,,Affirmative,"The Final Proposal is a minor improvement which continues to fall short of the Board 's view of value and has been rejected , he said . "
+by,provided.01,Intraday Data,,Affirmative,Intraday Data provided by SIX Financial Information and subject to terms of use . 
+by,provided.01,day data provided by,,Affirmative,Historical and current end - of - day data provided by SIX Financial Information . 
+by NASDAQ,provided.01,time last sale data provided by NASDAQ,,Affirmative,Real time last sale data provided by NASDAQ . 
+More information on NASDAQ,trade.01,symbols and,,Affirmative,More information on NASDAQ traded symbols and their current financial status . 
+Intraday Data,delay.01,15 minutes for Nasdaq,,Affirmative,"Intraday data delayed 15 minutes for Nasdaq , and 20 minutes for other exchanges . "
+by,provided.01,SEHK intraday data,,Affirmative,SEHK intraday data is provided by SIX Financial Information and is at least 60 - minutes delayed . 

@@ -1,0 +1,4 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The company,set.03,"ShopCluesUniversity ,",,Affirmative,"The company has set up ShopCluesUniversity , an online initiative , to educate merchants . "
+The company,educate.01,merchants,,Affirmative,"The company has set up ShopCluesUniversity , an online initiative , to educate merchants . "
+merchants,share.01,their best practices,,Affirmative,"This includes sending newsletters to merchants on new trends in the e - commerce space , hosting webinars and organising summits where big and small merchants share their best practices . "

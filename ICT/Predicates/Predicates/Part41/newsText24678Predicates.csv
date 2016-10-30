@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Borg,tell.01,Shareholders should be careful about,reporters,Affirmative,"Shareholders should be careful about Pfizer 's bid , Borg told reporters . "
+they ( Pfizer ),start.01,to divide up,,Affirmative,"If they ( Pfizer ) start to divide up the company and put it together with different parts of Pfizer , there is a danger that the process will be complicated . "
+they ( Pfizer ),divide.02,the company 's,,Affirmative,"If they ( Pfizer ) start to divide up the company and put it together with different parts of Pfizer , there is a danger that the process will be complicated . "
+they ( Pfizer ),put.01,Pfizer 's,together,Affirmative,"If they ( Pfizer ) start to divide up the company and put it together with different parts of Pfizer , there is a danger that the process will be complicated . "
+Borg,say.01,shareholders should ask themselves,,Affirmative,Borg also said Pfizer 's shareholders should ask themselves whether they should support the company 's management in its aggressive pursuit of AstraZeneca . 
+shareholders,ask.01,whether they should support,themselves,Affirmative,Borg also said Pfizer 's shareholders should ask themselves whether they should support the company 's management in its aggressive pursuit of AstraZeneca . 
+Pfizer 's shareholders,support.01,management,,Affirmative,Borg also said Pfizer 's shareholders should ask themselves whether they should support the company 's management in its aggressive pursuit of AstraZeneca . 
+Shareholders,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

@@ -1,0 +1,20 @@
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

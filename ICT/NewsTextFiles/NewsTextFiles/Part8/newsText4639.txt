@@ -1,0 +1,10 @@
+
+Are you a Windows user who recently received an email about an "important company update" for your computer? Whatever you do, don't install that update; it's really a Trojan that, once installed, appears to sneakily download more malware onto your computer.
+
+Once the gadget is installed, a program within it called "main.exe" connects to the Internet and downloads another file with an ".enc" ending. It's not clear what this file is, but Jonathan French of Gulf Breeze, Fla.-based email and Web security firm AppRiver, who discovered the malware this morning (May 16), observed that this process is similar to the way the prolific Gameover malware, a variant on the eternally adaptable Zeus banking Trojan, often infects computers.
+
+French said on the AppRiver blog that the company has already blocked more than 70,000 of these infected emails. According to the malware tracking website VirusTotal, the antivirus program MalwareBytes was the first to be able to flag the ".gadget" file as malicious.
+
+"From time to time, people claim that the days of malware being spammed out en-masse are over, but clearly that’s not the case," wrote security expert Graham Cluley of this infection attempt on his own blog .
+
+Running MalwareBytes, which is free, will get this malicious .gadget file off your computer. But you can easily prevent it from getting on your computer in the first place by not installing it from the spoofed email message in the first place.

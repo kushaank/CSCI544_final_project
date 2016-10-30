@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,rape.01,A 10-year-old girl,,Affirmative,"May 19 , 2014 : A 10 - year - old girl claims she was raped by an eight - year - old boy while his sister held her down inside a school bathroom in the US . "
+his sister,hold.01,his sister,,Affirmative,"May 19 , 2014 : A 10 - year - old girl claims she was raped by an eight - year - old boy while his sister held her down inside a school bathroom in the US . "
+old girl,tell.01,that she was raped by,US authorities,Affirmative,A 10 - year - old girl has told US authorities that she was raped by an eight - year - old boy while his sister held her down . 
+by,rape.01,A 10-year-old girl,,Affirmative,A 10 - year - old girl has told US authorities that she was raped by an eight - year - old boy while his sister held her down . 
+his sister,hold.01,his sister,,Affirmative,A 10 - year - old girl has told US authorities that she was raped by an eight - year - old boy while his sister held her down . 
+mother,tell.01,daughter came running out of,police,Affirmative,"The girl 's mother told police her daughter came running out of the school in tears , crying : Mama , they touched me down there . "
+her daughter,cry.02,"Mama , they touched me",,Affirmative,"The girl 's mother told police her daughter came running out of the school in tears , crying : Mama , they touched me down there . "
+"police her daughter came running out of the school in tears , crying : `` Mama",touch.01,The girl 's mother,,Affirmative,"The girl 's mother told police her daughter came running out of the school in tears , crying : Mama , they touched me down there . "
+The alleged victim,say.01,she was in,,Affirmative,The alleged victim said she was in the bathroom when the siblings concerned her . 
+the siblings,concern.02,The alleged victim,,Affirmative,The alleged victim said she was in the bathroom when the siblings concerned her . 
+The little boy,pull.01,his pants,down,Affirmative,The little boy allegedly pulled down his pants and then took off the girls clothes while his sister held her down . 
+The little boy,take.07,the girls clothes,,Affirmative,The little boy allegedly pulled down his pants and then took off the girls clothes while his sister held her down . 
+his sister,hold.01,his sister,,Affirmative,The little boy allegedly pulled down his pants and then took off the girls clothes while his sister held her down . 
+A rape exam carried out on,confirm.01,wounds were consistent with,,Affirmative,A rape exam carried out on the girl at a local hospital confirmed her wounds were consistent with sexual assault . 
+The girl 's mother,blame.01,the kids,,Affirmative,"I 'm not blaming the kids , I blame the teachers that are supposed to protect our kids when they 're at school , the mother told local TV station KFOR . "
+The girl 's mother,blame.01,the teachers,,Affirmative,"I 'm not blaming the kids , I blame the teachers that are supposed to protect our kids when they 're at school , the mother told local TV station KFOR . "
+the teachers,protect.01,the kids,,Affirmative,"I 'm not blaming the kids , I blame the teachers that are supposed to protect our kids when they 're at school , the mother told local TV station KFOR . "
+The girl 's mother,tell.01,", I blame",local TV station,Affirmative,"I 'm not blaming the kids , I blame the teachers that are supposed to protect our kids when they 're at school , the mother told local TV station KFOR . "
+City School District,say.01,they notified,,Affirmative,The Oklahoma City School District says they notified the Police Department immediately after hearing about the alleged sexual assault . 
+the kids,notify.01,the Police Department,,Affirmative,The Oklahoma City School District says they notified the Police Department immediately after hearing about the alleged sexual assault . 
+the kids,hear.01,about,,Affirmative,The Oklahoma City School District says they notified the Police Department immediately after hearing about the alleged sexual assault . 

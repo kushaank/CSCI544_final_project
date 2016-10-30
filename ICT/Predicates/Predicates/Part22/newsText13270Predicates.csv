@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A US grand jury,charge.05,five Chinese military hackers,with,Affirmative,A US grand jury has charged five Chinese military hackers with cyber espionage against US corporations in a landmark set of indictments . 
+A US grand jury,mark.01,the first time,,Affirmative,It marks the first time the US has brought hacking charges against another state actor . 
+the US,bring.01,hacking charges against,,Affirmative,It marks the first time the US has brought hacking charges against another state actor . 
+announcement,allege.01,Chinese conspired,,Affirmative,The widely expected but unprecedented announcement alleges that the Chinese conspired to hack into American entities in a bid to steal information that may prove useful to business competitors in China . 
+the Chinese,conspire.01,to hack into,,Affirmative,The widely expected but unprecedented announcement alleges that the Chinese conspired to hack into American entities in a bid to steal information that may prove useful to business competitors in China . 
+the Chinese,hack.01,into,,Affirmative,The widely expected but unprecedented announcement alleges that the Chinese conspired to hack into American entities in a bid to steal information that may prove useful to business competitors in China . 
+the Chinese,steal.01,information,,Affirmative,The widely expected but unprecedented announcement alleges that the Chinese conspired to hack into American entities in a bid to steal information that may prove useful to business competitors in China . 
+the US,claim.01,hackers spied on,,Affirmative,"The US claims that the Chinese hackers spied on six American targets in nuclear power , metals and solar product industries . "
+five Chinese military hackers with cyber espionage,spy.01,on,,Affirmative,"The US claims that the Chinese hackers spied on six American targets in nuclear power , metals and solar product industries . "
+US officials,say.01,were victims of,,Affirmative,"Six American companies , including United States Steel Corp , Alcoa Inc and Allegheny Technologies Inc , and one labor union were victims of Chinese hacking attacks , US officials said . "
+General Eric Holder and,detail.01,the indictments,,Affirmative,Attorney General Eric Holder and other federal law enforcement officials are expected to announce and detail the indictments later today . 
+Holder,say.01,US will not tolerate,,Affirmative,Holder said in a statement that the US will not tolerate foreign government efforts to sabotage American companies . 
+the US,tolerate.01,government efforts,,Affirmative,Holder said in a statement that the US will not tolerate foreign government efforts to sabotage American companies . 
+the Chinese,say.01,it faces,,Affirmative,China has said it faces similar attacks . 
+the Chinese,face.01,similar attacks,,Affirmative,China has said it faces similar attacks . 

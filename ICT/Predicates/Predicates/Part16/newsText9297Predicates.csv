@@ -1,0 +1,42 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Norfolk man,wish.01,he could trade places with,,Affirmative,A Norfolk man was sentenced to five years in prison Monday for his role in a fatal pileup on U.S. 460 last fall - right after saying he wished he could trade places with the man who died . 
+A Norfolk man,trade.01,places,,Affirmative,A Norfolk man was sentenced to five years in prison Monday for his role in a fatal pileup on U.S. 460 last fall - right after saying he wished he could trade places with the man who died . 
+"Ronald Frank Quesenberry III , 25 ,",enter.01,Alford pleas,,Affirmative,"Ronald Frank Quesenberry III , 25 , entered Alford pleas in February to charges of involuntary manslaughter and reckless driving resulting in death - both felonies . "
+Ronald Frank Quesenberry III,enter.01,the plea,,Affirmative,"He also entered the plea on two misdemeanors : driving on a suspended license and without an ignition interlock , a device that measures a driver 's blood alcohol content . "
+Ronald Frank Quesenberry III,drive.01,on,,Affirmative,"He also entered the plea on two misdemeanors : driving on a suspended license and without an ignition interlock , a device that measures a driver 's blood alcohol content . "
+An Alford plea,mean.01,Quesenberry did not admit guilt but acknowledged,,Affirmative,An Alford plea means Quesenberry did not admit guilt but acknowledged that there was enough evidence to convict him . 
+Ronald Frank Quesenberry III,admit.01,guilt,,Affirmative,An Alford plea means Quesenberry did not admit guilt but acknowledged that there was enough evidence to convict him . 
+Ronald Frank Quesenberry III,acknowledge.01,that there was,,Affirmative,An Alford plea means Quesenberry did not admit guilt but acknowledged that there was enough evidence to convict him . 
+enough evidence,convict.01,Ronald Frank Quesenberry III,,Affirmative,An Alford plea means Quesenberry did not admit guilt but acknowledged that there was enough evidence to convict him . 
+Alford,face.01,a homicide charge,,Affirmative,"He originally faced a homicide charge , but that was dropped . "
+Prosecutor George Bruch,say.01,that witnesses were prepared,,Affirmative,Prosecutor George Bruch said that witnesses were prepared to testify that they were driving between 60 and 65 mph when they saw Quesenberry weaving in and out of traffic without signaling . 
+witnesses,testify.01,that they were driving between 60 and,,Affirmative,Prosecutor George Bruch said that witnesses were prepared to testify that they were driving between 60 and 65 mph when they saw Quesenberry weaving in and out of traffic without signaling . 
+they,see.01,Quesenberry weaving in and out of traffic,,Affirmative,Prosecutor George Bruch said that witnesses were prepared to testify that they were driving between 60 and 65 mph when they saw Quesenberry weaving in and out of traffic without signaling . 
+Ronald Frank Quesenberry III,weave.01,in and out of traffic,,Affirmative,Prosecutor George Bruch said that witnesses were prepared to testify that they were driving between 60 and 65 mph when they saw Quesenberry weaving in and out of traffic without signaling . 
+They,report.01,seeing,,Affirmative,They also reported seeing Quesenberry drive into oncoming traffic and hit the front wheel of Rush 's tractor - trailer . 
+They,see.01,Quesenberry drive into,,Affirmative,They also reported seeing Quesenberry drive into oncoming traffic and hit the front wheel of Rush 's tractor - trailer . 
+They,hit.01,the front wheel of,,Affirmative,They also reported seeing Quesenberry drive into oncoming traffic and hit the front wheel of Rush 's tractor - trailer . 
+"Rush ,",wear.01,his seat belt,,Affirmative,"The semi flipped , and Rush , who was not wearing his seat belt , was ejected , according to a state medical examiner 's report filed in court that cited police and observations at the scene . "
+report filed in court,cite.01,police and observations at,,Affirmative,"The semi flipped , and Rush , who was not wearing his seat belt , was ejected , according to a state medical examiner 's report filed in court that cited police and observations at the scene . "
+Quesenberry,ask.02,for forgiveness,,Affirmative,"handed down his sentence , Quesenberry turned to Rush 's family and asked for forgiveness . "
+I,take.01,his place,,Affirmative,"If I could , I would take his place , he said . "
+he,say.01,"could , I would take",,Affirmative,"If I could , I would take his place , he said . "
+Family,remember.01,Rush,as,Affirmative,"Family remembered Rush as a loving fiance , father and grandfather . "
+A few,look.01,at Quesenberry,,Affirmative,A few looked at Quesenberry through tears as they spoke in court . 
+member Danielle Reardon,say.01,that Rush would give anyone,,Affirmative,Family member Danielle Reardon said that Rush would give anyone the shirt off his back . 
+Rush,give.01,the shirt off,anyone,Affirmative,Family member Danielle Reardon said that Rush would give anyone the shirt off his back . 
+old child,ask.01,when Rush is coming home,,Affirmative,Her 2 - year - old child still asks when Rush is coming home . 
+Reardon,say.01,He was,,Affirmative,"He was the most fun-loving , spirited person , Reardon said . "
+Members of,say.01,he did not intend,,Affirmative,Members of Quesenberry 's family said he did not intend to cause anyone harm . 
+he,intend.01,to cause,,Affirmative,Members of Quesenberry 's family said he did not intend to cause anyone harm . 
+he,cause.01,anyone harm,,Affirmative,Members of Quesenberry 's family said he did not intend to cause anyone harm . 
+"His fiancee ,",give.01,birth,,Affirmative,"His fiancee , Melanie Brown , gave birth a few months later . "
+his family,say.01,Quesenberry was on,,Affirmative,"Quesenberry was on his way to work to provide for both , his family said . "
+no words,describe.01,it,,Affirmative,"The remorse we have - no words can describe it , Brown said . "
+Brown,say.01,words can describe it,,Affirmative,"The remorse we have - no words can describe it , Brown said . "
+The judge,note.01,the intensity of,,Affirmative,The judge noted the intensity of the crash in handing down a stiffer punishment of 12 years with seven suspended . 
+Delk,say.01,guidelines were not,,Affirmative,"The guidelines were not out there at the scene of the accident , Delk said . "
+they,post.01,opinions,here,Affirmative,COMMENTS ADVISORY : Users are solely responsible for opinions they post here ; comments do not reflect the views of The Virginian - Pilot or its websites . 
+Users,follow.02,upon rules,,Affirmative,"Users must follow agreed - upon rules : Be civil , be clean , be on topic ; do n't attack private individuals , other users or classes of people . "
+readers,find.01,comments offensive or inaccurate,,Affirmative,"- Comments are automatically checked for inappropriate language , but readers might find some comments offensive or inaccurate . "
+a comment,violate.01,our rules,,Affirmative,"If you believe a comment violates our rules , click the report violation link below it . "

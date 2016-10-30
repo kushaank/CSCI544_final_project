@@ -1,0 +1,98 @@
+
+The US Department of Justice and the FBI indict five members of the Chinese military for allegedly hacking and stealing trade secrets of major American steel, solar energy, and other manufacturing companies, including Alcoa, Westinghouse Electric, and US Steel.
+
+The Obama administration made history today with the country's first-ever criminal charges filed for cyber espionage. The US Department of Justice indicted five members of China's People's Liberation Army (PLA) with hacking into US businesses to steal trade secrets.
+
+The five defendants named in an indictment unsealed today -- Wang Dong, Sun Kailiang, Wen Xinyu, Huang Zhenyu, and Gu Chunhui -- are part of Unit 61398 of the Third Department of China's PLA in Shanghai, a group also known as APT1, which was first exposed publicly in an eye-opening report early last year by the security firm Mandiant, now part of FireEye.
+
+China PLA officer Sun Kailiang.
+
+Westinghouse Electric, Alcoa, Allegheny Technologies Incorporated, US Steel, the United Steelworkers Union, and SolarWorld all are named as victims in the May 1 indictment. A grand jury in Pittsburgh handed down indictments for 31 criminal counts, including identity theft, economic espionage, theft of trade secrets, and various hacking charges.
+
+China's widespread and aggressive cyber espionage operations against US government, military, and corporate interests has been a poorly kept secret and, to date, a frustrating game of cat and mouse with victim organizations and security firms calling out specific indicators of compromise, or earmarks of their activities, that help victims block or keep an eye out for signs of the attackers.
+
+It's also been a political battle of wills between the United States and China. The US has upped its warnings about hacking activities, but China has vehemently denied conducting cyber espionage and demanded proof. Chinese officials today dismissed the report as " absurd " and said the Chinese military does not engage in cyber espionage.
+
+But the big news is that today's indictments signal a shift in US strategy. "These represent the first ever charges against known state actors for infiltrating US commercial targets by cyber means," Attorney General Eric Holder said in a press briefing today. "This is a case alleging economic espionage by members of the Chinese military. The range of trade secrets and other sensitive business information stolen in this case is significant and demands an aggressive response."
+
+Richard Bejtlich, chief security strategist for FireEye, says the actual Shanghai building Mandiant tied to the PLA unit more than a year ago in its report was also pinpointed by the DOJ in its indictment. But Bejtlich and other experts say it's very unlikely the men named in the indictment will face prosecution.
+
+"No one expects any of these gentlemen to serve any time or leave the country," said Bejtlich, a nonresident senior fellow at the Brookings Institution. "But at the same time, this sets a template. There are hundreds of thousands of other victims out there, and parts of DOJ now know how to put a case together."
+
+FBI officials made it clear that today's action is only the beginning. "This indictment clears the way for additional charges to be made. This is the new normal," Robert Anderson, executive assistant director of the FBI, said in the briefing. This is "what you're going to see on a recurring basis, not just every six months or every year. If you're going to attack Americans for criminal or national security purposes, we're going to hold you accountable no matter what country you live in."
+
+Anderson called the losses to the US companies "significant," though he would not assign a value to them.
+
+"The indictment alleges that these PLA officers maintained unauthorized access to victim computers to steal information from those entities that would be useful to their competitors in China, including state-owned enterprises," Holder said. "In some cases, they stole trade secrets that would have been particularly beneficial to Chinese companies at the time they were stolen. In others, they stole sensitive, internal communications that would provide a competitor, or adversary in litigation, with insight into the strategy and vulnerabilities of the American entity."
+
+Take Alcoa. In February 2008, the steel manufacturer announced a partnership with the Aluminum Corporation of China (Chinalco) to purchase 12% of the mining company Rio Tinto PLC. According to the indictment, three weeks after Alcoa announced the deal with the Chinese nationally owned Chinalco (which the indictment did not name but is on public record as the firm involved in the deal), one of the defendants sent a spear phishing email to Alcoa that led to the theft of thousands of email messages and attachments from Alcoa's systems, including internal correspondence about the Rio Tinto deal.
+
+One of the defendants is charged with stealing proprietary technical and design specifications for pipes, pipe supports, and pipe routing in nuclear power plants from Westinghouse. The information was allegedly stolen in 2010, when Westinghouse was building four power plants in China and negotiating terms of a construction contract with a Chinese-owned company.
+
+"Westinghouse was in negotiations over a nuclear [facility] construction. They [the attackers] stole design from the plans," said John Carlin, assistant attorney general for national security.
+
+Wen and at least one other (unidentified) attacker allegedly pilfered proprietary pricing, manufacturing metrics, production line information, and attorney-client communications about trade litigation from SolarWorld, which, along with other renewable energy firms, had waged complaints about China's trade "dumping" of competitive products below fair market value.
+
+Not surprisingly, the new aggressive strategy against China also opens the administration to criticism of US policies in the wake of revelations about the vast spying operations by the National Security Agency (NSA). US officials and experts say the US hacking is limited to intelligence gathering for national security purposes and does not cross the line into theft of commercial trade secrets. "As President Obama has said on numerous occasions, we do not collect intelligence to provide a competitive advantage to US companies or US commercial sectors," Holder said today in the news briefing.
+
+Unit 61398, where the defendants allegedly operate, is known for long-term infiltration of its targets, coming and going over months or years to steal proprietary information such as blueprints, manufacturing processes, test results, business plans, pricing information, partnership information, and emails and contacts from high-level company officials.
+
+"There was an unspoken rule we don't talk about China. But now we are all talking about China, and here are the guys behind" some attacks, says George Kurtz, CEO at CrowdStrike, which focuses on getting to the bad guys behind advanced attacks. "This is a watershed moment for this activity to be called out... something the security industry has known for a long time. The fact that the government is moving to the next level in the escalation process is a big deal."
+
+Kurtz would not comment on whether CrowdStrike assisted the DOJ in the investigation, but he says there's value in humanizing the threat. "It's not a faceless crime. Here they are. This does help people conceptualize the human element."
+
+Naming names signals a maturation in the process of thwarting cyber espionage, he says. "It will open the floodgates for other companies" to go public in their victimization and investigations. "My hope is that they can be more open without [worry about] blaming the victim."
+
+Any blowback from the NSA revelations is irrelevant, according to Kurtz. "The NSA isn't actively giving IP from Airbus to Boeing. That [type of thing] just doesn't take place. China owns half of its companies. There's financial incentive" for cyber espionage.
+
+At an ACT-IAC forum this morning, former NSA Director Gen. Keith Alexander said theft by the Chinese and others of intellectual property hurts the US competitively. There needs to be better understanding of the impact of that, as well as a "more defensible architecture," he told an audience of government and industry executives.
+
+David Hickton, US Attorney for the Western District of Pennsylvania, says the attacks resulted in some job losses. During the press briefing, he cited a Texas plant purchased by US Steel. "When these intrusions hit and the market was flooded [with pipe products] well below cost from China, these plants were padlocked, and people lost their jobs."
+
+The indictment alleges that Wang, Sun, Wen, and other individuals (both known and unknown to the grand jury) hacked or attempted to hack into the companies named in the case. Huang and Gu handled the domain accounts for the operations, the indictment says. A Chinese company allegedly hired one of the hackers to build a database of stolen intellectual property from the steel industry.
+
+Jon Heimerl, senior security strategist at Solutionary, says the indictment likely won't make a big dent in cyber espionage -- and it could result in more attacks on the US.
+
+"Ultimately, today's events will not likely have a measureable impact on global espionage. Private and government-backed espionage will continue, regardless of how this particular case progresses," Heimerl says. "If anything, it is conceivable that this could increase espionage against the United States, as the charges do more to raise the US position than they do the hacker position."
+
+Holder said that, even if China does not cooperate in the case, the US has other options. "We hope they cooperate with us. If not, we will use all of the means to ultimately have these people appear in federal court here in Pittsburgh. There are a range of tools we can use to do this."
+
+The full indictment is available here for download.
+
+-- Wyatt Kash contributed to this article.
+
+Re: 'Yes, but we do it for freedom...'
+
+I have a hard time believing the NSA is a tyrannical agency. An agency that oversteps at times? Yes. Are there some bad individuals in the agency? Likely. But it should come as no surprise after the "We failed to connect the dots" for 9/11 conclusion would not ultimately swing the pendulum to the extreme in its mission to help prevent another terrorist attack.
+
+= "NSA's purpose is national defense."
+
+their purported purpose... is looking for "terrorists" .   do you believe that?   or are they really looking for *dissidents* -- just like every ordinary tyrant.
+
+Re: 'Yes, but we do it for freedom...'
+
+As I declared this morning to the Reuters I'm not surprised at the latest turn of events, this is just the "tip of the iceberg".
+
+"I believe there's an ongoing battle in the cyberspace. These countries are investing large amounts in cyber units that are able to create specific malware and have the ability to get into foreign networks and computers to steal trade secrets and intellectual properties," he said.
+
+Anyway cyber espionage is common practice, I believe that first of all we must be concerned of militarization of Internet, other bad actors could benefit of this situation like cyber criminals and cyber terrorists.
+
+Re: 'Yes, but we do it for freedom...'
+
+'Yes, but we do it for freedom...'
+
+This case is not exactly going to be "the shot heard 'round the world," whatever the its merits. Most of our allies suspect we have conducted business spying on them. They won't believe for a second that we haven't already done to the Chinese what we accuse them of doing to us. The former director of the CIA explained, "Yes, but we did it for freedom...." In the court of public opinion, that's a conflicted argument.
+
+The FortiManager protocol service in Fortinet FortiOS before 4.3.16 and 5.0.0 before 5.0.8 on FortiGate devices allows remote attackers to cause a denial of service and possibly execute arbitrary code via a crafted request.
+
+PIL/IcnsImagePlugin.py in Python Imaging Library (PIL) and Pillow before 2.3.2 and 2.5.x before 2.5.2 allows remote attackers to cause a denial of service via a crafted block size.
+
+The MySQL token driver in OpenStack Identity (Keystone) 2014.1.x before 2014.1.2.1 and Juno before Juno-3 stores timestamps with the incorrect precision, which causes the expiration comparison for tokens to fail and allows remote authenticated users to retain access via an expired token.
+
+The V3 API in OpenStack Identity (Keystone) 2014.1.x before 2014.1.2.1 and Juno before Juno-3 updates the issued_at value for UUID v2 tokens, which allows remote authenticated users to bypass the token expiration and retain access via a verification (1) GET or (2) HEAD request to v3/auth/tokens/.
+
+OpenStack Identity (Keystone) 2014.1.x before 2014.1.2.1 and Juno before Juno-3 does not properly revoke tokens when a domain is invalidated, which allows remote authenticated users to retain access via a domain-scoped token for that domain.
+
+UPCOMING!
+
+If you found this interesting or useful, please use the links to the services below to share it with other readers.  You will need a free account with each service to share an item via that service.

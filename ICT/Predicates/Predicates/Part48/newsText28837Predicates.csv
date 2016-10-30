@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+voters,select.01,Democratic candidates,,Affirmative,"Polling places open at 7 a.m. and close at 8 p.m. In between , voters will select Democratic candidates to oppose Republican Gov. Tom Corbett and his running mate , Lt. Gov. Jim Cawley , in November�s general election . "
+Democratic candidates,oppose.01,Gov. Tom Corbett and,,Affirmative,"Polling places open at 7 a.m. and close at 8 p.m. In between , voters will select Democratic candidates to oppose Republican Gov. Tom Corbett and his running mate , Lt. Gov. Jim Cawley , in November�s general election . "
+County voters,determine.01,the Democratic candidate for,,Affirmative,"Delaware County voters also will determine the Democratic candidate for the 164th Legislative District , the county�s lone contested primary involving a General Assembly seat . "
+the county�s,contest.01,primary,,Affirmative,"Delaware County voters also will determine the Democratic candidate for the 164th Legislative District , the county�s lone contested primary involving a General Assembly seat . "
+"Rep. Allyson Schwartz ,",seek.01,the party�s nomination,,Affirmative,"U.S. Rep. Allyson Schwartz , state Treasurer Rob McCord and former Department of Environmental Protection secretary Katie McGinty also seek the party�s nomination . "
+Corbett,face.01,a primary challenger in,,Affirmative,"Corbett initially faced a primary challenger in Bob Guzzardi , an Ardmore businessman , but Guzzardi was removed from the ballot . "
+The state Supreme Court,rule.01,disqualified him,,Affirmative,The state Supreme Court ruled that Guzzardi�s failure to file his statement of financial interests on time disqualified him . 
+Guzzardi�s failure,disqualify.01,him,,Affirmative,The state Supreme Court ruled that Guzzardi�s failure to file his statement of financial interests on time disqualified him . 
+"state Rep. Margo Davidson , of",face.01,of,,Affirmative,"In the 164th Legislative District , state Rep. Margo Davidson , of Upper Darby , faces of a pair of challengers in attorney Billy Smith , of Lansdowne , and Delaware County Community College adjunct professor Dafan Zhang , of East Lansdowne . "
+The winner,face.01,"Republican Saud Siddiqui , of",,Affirmative,"The winner will face Republican Saud Siddiqui , of Upper Darby , in the fall . "
+"David Landau , chairman of",say.01,he was hopeful,,Affirmative,"David Landau , chairman of the county Democrats , said he was hopeful turnout would be about 30 percent . "
+"Andy Reilly , chairman of",predicate.01,it would be closer to,,Affirmative,"Andy Reilly , chairman of the county Republicans , predicated it would be closer to 20 percent . "
+voters,experience.01,any issues,,Affirmative,"If voters experience any issues at the polls related to their registration , they should call the Delaware County Office of Voter Registration at 610-891-4659 . "
+they,call.02,County Office of,,Affirmative,"If voters experience any issues at the polls related to their registration , they should call the Delaware County Office of Voter Registration at 610-891-4659 . "
+voters,call.01,the county Election Bureau,,Affirmative,"If there are problems with machines or legal issues , voters may call the county Election Bureau at 610-891-4673 . "

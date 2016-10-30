@@ -1,0 +1,125 @@
+1	Amsterdam	amsterdam	NNP	_	2	nsubj	2:A0=PAG;4:A0
+2	hosted	host	VBD	p2=VBN|pb=host.01	0	root	_
+3	today	today	NN	_	2	npadvmod	2:AM-TMP
+4	a working	a working	VBG	p2=IN|pb=a working.01	2	advcl	2:A1=GOL
+5	meeting	meeting	NN	_	4	dobj	4:A1
+6	between	between	IN	_	5	prep	_
+7	Alexey	alexey	NNP	_	8	nn	_
+8	Miller	miller	NNP	_	6	pobj	_
+9	,	,	,	_	8	punct	_
+10	Chairman	chairman	NNP	_	14	nn	_
+11	of the	of the	NNP	p2=IN	14	nn	_
+12	Gazprom	gazprom	NNP	_	14	nn	_
+13	Management	management	NNP	_	14	nn	_
+14	Committee	committee	NNP	_	8	conj	_
+15	and	and	CC	_	14	cc	_
+16	Andrey	andrey	NNP	_	17	nn	_
+17	Kobolev	kobolev	NNP	_	14	conj	_
+18	,	,	,	_	17	punct	_
+19	CEO	ceo	NNP	p2=NN	21	nn	_
+20	of Naftogaz	of naftogaz	NNP	p2=IN	21	nn	_
+21	of Ukraine	of ukraine	NNP	p2=RB	17	appos	_
+22	.	.	.	_	2	punct	_
+
+1	It was	it was	NNP	p2=NNS	2	nsubj	2:A0=PAG
+2	urged	urge	VBD	pb=urge.01	0	root	_
+3	at the	at the	DT	p2=JJ	4	det	_
+4	meeting	meeting	NN	_	2	dobj	2:A1=PPT
+5	that	that	IN	_	10	complm	_
+6	the	the	DT	_	8	det	_
+7	Ukrainian	ukrainian	JJ	_	8	amod	_
+8	party	party	NN	_	10	nsubj	10:A0=PAG
+9	should	should	MD	_	10	aux	10:AM-MOD
+10	settle	settle	VB	pb=settle.02	2	ccomp	2:A2=PPT
+11	the	the	DT	_	12	det	_
+12	debt	debt	NN	_	10	dobj	10:A1=GOL
+13	for	for	IN	_	12	prep	_
+14	Russian	russian	JJ	_	15	amod	_
+15	gas	gas	NN	_	13	pobj	_
+16	supplied	supply	VBD	p2=VBN|pb=supply.01	15	partmod	_
+17	in 2013 and	in 0 and	CD	p2=JJ	18	number	_
+18	2014	0	CD	_	16	dobj	16:A1=PPT
+19	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	3	det	_
+2	total	total	JJ	_	3	amod	_
+3	debt	debt	NN	_	5	nsubj	_
+4	has	have	VBZ	_	5	aux	_
+5	amounted	amount	VBN	pb=amount.01	0	root	_
+6	to USD 3.508	to usd 0	CD	p2=NNP	7	number	_
+7	billion	#crd#	CD	_	5	dobj	5:A1=PPT
+8	,	,	,	_	5	punct	_
+9	including	include	VBG	_	5	prep	_
+10	March	march	NNP	_	14	nn	_
+11	and	and	CC	_	10	cc	_
+12	April	april	NNP	_	10	conj	_
+13	unpaid	unpaid	JJ	_	14	amod	_
+14	deliveries	delivery	NNS	_	9	pobj	_
+15	.	.	.	_	5	punct	_
+
+1	As a result	as a result	NNP	p2=VB	5	npadvmod	5:AM-DIS
+2	,	,	,	_	5	punct	_
+3	Gazprom	gazprom	NNP	_	5	nsubjpass	5:A1=PPT
+4	was	be	VBD	_	5	auxpass	_
+5	forced	force	VBN	pb=force.01	0	root	_
+6	to switch	to switch	NNP	p2=IN	8	nn	_
+7	Ukraine	ukraine	NNP	_	8	nn	_
+8	to gas	to gas	NNP	p2=POS	9	nn	_
+9	prepayment	prepayment	NN	_	5	dobj	5:A2=PRD
+10	,	,	,	_	5	punct	_
+11	in line	in line	RB	p2=,	12	advmod	_
+12	with	with	IN	_	5	prep	_
+13	the	the	DT	_	17	det	_
+14	existing	exist	VBG	pb=exist.01	17	amod	_
+15	gas	gas	NN	_	16	nn	_
+16	supply	supply	NN	_	17	nn	_
+17	contract	contract	NN	_	12	pobj	14:A1=PAG
+18	.	.	.	_	5	punct	_
+
+1	Gazprom	gazprom	NNP	p2=NN	3	nsubj	3:A0
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	be delivering	be delivering	VB	p2=VBG|pb=be delivering.01	0	root	_
+4	strictly	strictly	RB	_	5	advmod	_
+5	prepaid	prepaid	JJ	p2=VBN	6	amod	_
+6	amounts	amount	NNS	_	8	poss	_
+7	of gas	of gas	POS	p2=IN	6	possessive	_
+8	to Ukraine	to ukraine	NN	p2=NNP	3	dobj	3:A1
+9	,	,	,	_	3	punct	_
+10	starting	start	VBG	pb=start.01	3	advcl	3:AM-ADV
+11	from	from	IN	_	10	prep	10:AM-TMP
+12	June	june	NNP	_	11	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	Today	today	NN	_	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	edition	edition	NN	_	5	nsubjpass	5:A1=PPT
+4	is	be	VBZ	_	5	auxpass	_
+5	brought	bring	VBN	pb=bring.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	you	you	PRP	_	6	pobj	_
+8	by	by	IN	_	5	agent	5:A0=PAG
+9	EIN	ein	NNP	_	10	nn	_
+10	Presswire	presswire	NNP	_	8	pobj	_
+11	-	-	,	p2=:	10	punct	_
+12	a	a	DT	_	13	det	_
+13	service	service	NN	_	10	appos	14:A1=PPT
+14	dedicated	dedicate	VBN	pb=dedicate.01	13	partmod	_
+15	to	to	IN	_	14	prep	14:A2=GOL
+16	helping	help	VBG	pb=help.01	15	pcomp	_
+17	you	you	PRP	_	18	nsubj	18:A0=PAG
+18	get	get	VB	p2=VBP|pb=get.01	16	ccomp	16:A1=PPT
+19	your	your	PRP$	_	20	poss	_
+20	messages	message	NNS	_	21	nsubj	21:A1=PRD;23:A1=PPT
+21	published	publish	VBN	pb=publish.01	18	ccomp	18:A1=PPT
+22	and	and	CC	_	21	cc	_
+23	read	read	VBN	p2=VB|pb=read.01	21	conj	_
+24	online	online	RB	p2=JJ	23	advmod	23:AM-LOC
+25	.	.	.	_	5	punct	_
+
+1	Give	give	VB	pb=give.01	0	root	_
+2	EIN	ein	NNP	_	3	nn	_
+3	Presswire	presswire	NNP	p2=VB	1	iobj	1:A2=GOL
+4	a	a	DT	_	5	det	_
+5	try	try	NN	_	1	dobj	1:A1=PPT
+6	.	.	.	_	1	punct	_
+

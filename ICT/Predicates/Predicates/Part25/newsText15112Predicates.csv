@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old woman,kill.01,her husband,,Affirmative,A 68 - year - old woman has killed her husband and critically injured her daughter and son-in-law after accidentally plowing her SUV through her house and crashing it into a lake - all while her 3 - year - old grandson sat on her lap . 
+old woman,injure.01,her daughter and son-in-law,,Affirmative,A 68 - year - old woman has killed her husband and critically injured her daughter and son-in-law after accidentally plowing her SUV through her house and crashing it into a lake - all while her 3 - year - old grandson sat on her lap . 
+old woman,plow.01,her SUV,through,Affirmative,A 68 - year - old woman has killed her husband and critically injured her daughter and son-in-law after accidentally plowing her SUV through her house and crashing it into a lake - all while her 3 - year - old grandson sat on her lap . 
+Police,arrest.01,Carol Fedigan,,Affirmative,"Police arrested Carol Fedigan after the tragic accident Saturday night at Sammamish Lake , Washington , outside Seattle when they came to suspect she was driving under the influence . "
+Police,suspect.01,she was driving under,,Affirmative,"Police arrested Carol Fedigan after the tragic accident Saturday night at Sammamish Lake , Washington , outside Seattle when they came to suspect she was driving under the influence . "
+by,run.01,Her daughter Megan Berry and son-in-law Sean Berry,,Affirmative,They were were run over by the speeding car and are currently in critical condition at Harborview Medical Center . 
+Police,draw.02,blood,from her,Affirmative,"Police drew blood from her and are awaiting the results of a toxicology test , which could take several weeks to come back . "
+"a toxicology test ,",take.02,several weeks,,Affirmative,"Police drew blood from her and are awaiting the results of a toxicology test , which could take several weeks to come back . "
+Authorities,examine.01,the car,,Affirmative,Authorities will also examine the car to determine whether there was a mechanical malfunction that caused the acceleration . 
+Authorities,determine.01,whether there was,,Affirmative,Authorities will also examine the car to determine whether there was a mechanical malfunction that caused the acceleration . 
+a mechanical malfunction,cause.01,the acceleration,,Affirmative,Authorities will also examine the car to determine whether there was a mechanical malfunction that caused the acceleration . 
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

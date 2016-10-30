@@ -1,0 +1,77 @@
+1	Future	future	NNP	p2=NN	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	AOP	aop	NNP	_	2	attr	2:A2=PRD
+4	and	and	CC	_	3	cc	_
+5	PPA	ppa	NNP	_	8	nn	_
+6	Consumer	consumer	NNP	_	7	nn	_
+7	Digital	digital	NNP	_	8	nn	_
+8	Publisher	publisher	NNP	p2=NN	3	conj	_
+9	of	of	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	Year	year	NNP	_	9	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	©	©	NNP	p2=``	2	nn	_
+2	Future	future	NNP	_	4	nn	_
+3	Publishing	publishing	NNP	_	4	nn	_
+4	Limited	limited	NNP	_	0	root	_
+5	,	,	,	_	4	punct	_
+6	Beauford	beauford	NNP	_	7	nn	_
+7	Court	court	NNP	_	4	conj	_
+8	,	,	,	_	7	punct	_
+9	30	0	CD	_	11	num	_
+10	Monmouth	monmouth	NNP	_	11	nn	_
+11	Street	street	NNP	_	7	conj	_
+12	,	,	,	_	11	punct	_
+13	Bath	bath	NNP	_	15	nn	_
+14	BA1	ba1	NNP	p2=NN	15	nn	_
+15	2BW	2bw	NNP	p2=XX	11	conj	_
+16	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	England	england	NNP	_	0	root	_
+2	and	and	CC	_	1	cc	_
+3	Wales	wales	NNP	_	1	conj	_
+4	company	company	NN	_	6	nn	_
+5	registration	registration	NN	_	6	nn	_
+6	number	number	NN	_	0	root	_
+7	2008885	0	CD	_	6	num	_
+8	.	.	.	_	6	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	use	use	VBP	pb=use.01	0	root	_
+3	cookies	cookie	NNS	_	2	dobj	2:A1=PPT
+4	on	on	IN	_	2	prep	2:AM-LOC
+5	this	this	DT	_	6	det	_
+6	website	website	NN	_	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	By	by	IN	_	7	prep	7:AM-MNR
+2	using	use	VBG	pb=use.01	1	pcomp	_
+3	this	this	DT	_	4	det	_
+4	site	site	NN	_	2	dobj	2:A1=PPT
+5	,	,	,	_	7	punct	_
+6	you	you	PRP	_	7	nsubj	7:A0=PAG
+7	agree	agree	VBP	pb=agree.01	0	root	_
+8	that	that	IN	_	11	complm	_
+9	we	we	PRP	_	11	nsubj	11:A0=PAG;13:A0=PAG
+10	may	may	MD	_	11	aux	11:AM-MOD;13:AM-MOD
+11	store	store	VB	pb=store.01	7	ccomp	7:A1=PPT
+12	and	and	CC	_	11	cc	_
+13	access	access	VB	pb=access.01	11	conj	_
+14	cookies	cookie	NNS	_	13	dobj	13:A1=PPT
+15	on	on	IN	_	13	prep	_
+16	your	your	PRP$	_	17	poss	_
+17	device	device	NN	_	15	pobj	_
+18	.	.	.	_	7	punct	_
+
+1	Find	find	VB	pb=find.03	0	root	_
+2	out	out	RP	p2=RB	1	prt	1:C-V
+3	more	more	JJR	p2=RBR	4	advmod	_
+4	here	here	RB	_	1	advmod	1:AM-LOC
+5	.	.	.	_	1	punct	_
+

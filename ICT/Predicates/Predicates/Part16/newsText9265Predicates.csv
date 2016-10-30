@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Office,release.01,reports,,Affirmative,"( May 19 , 2014 ) - The St. Mary 's County Sheriff 's Office released the following incident and arrest reports . "
+he,observe.01,a second story window,,Affirmative,"5/15/2014 DEPUTY ASSAULTED : On May 15 , Deputy Shane Cameron was working at an event on the campus of St. Mary 's College when he observed a male subject exit a second story window and climb onto the roof . "
+Deputy Cameron no one was to be on the roof,order.01,him,down,Affirmative,"As Deputy Cameron approached the subject to order him down , the subject began to yell profanity at other subjects inside the building . "
+SUBJECT,yell.01,profanity,,Affirmative,"As Deputy Cameron approached the subject to order him down , the subject began to yell profanity at other subjects inside the building . "
+People inside,begin.01,to tell,,Affirmative,People inside the building and Deputy Cameron began to tell the subject to come back inside . 
+People inside,tell.01,to come back inside,the subject,Affirmative,People inside the building and Deputy Cameron began to tell the subject to come back inside . 
+Deputy Cameron no one was to be on the roof,hear.01,yelling,,Affirmative,"A few minutes later , Deputy Cameron heard yelling and was advised there was about to be a fight . "
+Deputy Cameron no one was to be on the roof,find.01,SUBJECT,,Affirmative,Deputy Cameron found the subject who had been on the roof and a female arguing . 
+Deputy Cameron no one was to be on the roof,attempt.01,to separate,,Affirmative,"As Deputy Cameron attempted to separate the two , the subject , identified as Ryan Michael Dempsey , 23 , of Laurel , pictured above , grabbed Deputy Cameron and shoved him in the chest . "
+Deputy Cameron no one was to be on the roof,separate.01,"the two ,",,Affirmative,"As Deputy Cameron attempted to separate the two , the subject , identified as Ryan Michael Dempsey , 23 , of Laurel , pictured above , grabbed Deputy Cameron and shoved him in the chest . "
+"the subject , identified as",grab.01,Deputy Cameron no one was to be on the roof,,Affirmative,"As Deputy Cameron attempted to separate the two , the subject , identified as Ryan Michael Dempsey , 23 , of Laurel , pictured above , grabbed Deputy Cameron and shoved him in the chest . "
+"the subject , identified as",shove.01,him,in,Affirmative,"As Deputy Cameron attempted to separate the two , the subject , identified as Ryan Michael Dempsey , 23 , of Laurel , pictured above , grabbed Deputy Cameron and shoved him in the chest . "
+Deputy Cameron,advise.01,Ryan Michael Dempsey,he was under arrest,Affirmative,Deputy Cameron advised Dempsey he was under arrest and to place his hands behind his back . 
+Deputy Cameron,place.01,his hands,behind,Affirmative,Deputy Cameron advised Dempsey he was under arrest and to place his hands behind his back . 
+Ryan Michael Dempsey,continue.01,to resist,,Affirmative,Dempsey actively refused and continued to resist Deputy Cameron 's efforts to take him into custody . 
+Ryan Michael Dempsey,resist.01,efforts,,Affirmative,Dempsey actively refused and continued to resist Deputy Cameron 's efforts to take him into custody . 
+actions,cause.01,"large disturbance ,",,Affirmative,"Dempsey 's actions caused a rather large disturbance , which was eventually quelled by campus security . "
+by,quell.01,"large disturbance ,",,Affirmative,"Dempsey 's actions caused a rather large disturbance , which was eventually quelled by campus security . "
+Corporal Reppel,respond.01,to,,Affirmative,"5/16/2014 DOMESTIC ASSAULT : On May 14 , Corporal Reppel responded to a residence on Horsehead Road in Great Mills for a reported domestic assault . "
+The victim,allege.01,"suspect Nathan Tyrone Butler , 30 , of",,Affirmative,"The victim alleged suspect Nathan Tyrone Butler , 30 , of Lexington Park , pictured above , grabbed the victim by the throat and slammed the victim 's head against a door , while at another residence in Erickson Court in Lexington Park the evening prior . "
+The victim,slam.01,head,,Affirmative,"The victim alleged suspect Nathan Tyrone Butler , 30 , of Lexington Park , pictured above , grabbed the victim by the throat and slammed the victim 's head against a door , while at another residence in Erickson Court in Lexington Park the evening prior . "
+Corporal Reppel,observe.01,fresh evidence of injury on,,Affirmative,Corporal Reppel observed fresh evidence of injury on the victim . 
+He,locate.01,Nathan Tyrone Butler,,Affirmative,He located Butler at the Erickson Court address and placed him under arrest . 
+He,place.01,him,under arrest,Affirmative,He located Butler at the Erickson Court address and placed him under arrest . 
+by,flag.01,Deputy Phelan,,Affirmative,"5/17/2014 INJURED SUBJECT : At 2:29 PM , Deputy Phelan was flagged down in the area of Chopticon High School by a parent . "
+"her daughter , age 13",ride.01,terrain vehicle,,Affirmative,"The parent informed Deputy Phelan her daughter , age 13 , was involved in an accident while riding an all - terrain vehicle on their property . "
+Deputy Wesner,respond.01,to,,Affirmative,"5/17/2014 MOTOR VEHICLE ACCIDENT : At 11:30 AM , Deputy Wesner responded to the 44000 block of Medley 's Neck Road for an accident involving a motorcycle . "
+the driver of,travel.01,on,,Affirmative,"The investigation revealed , the driver of the motorcycle , male , age 30 , was traveling on Medley 's Neck Road when a vehicle backed out of a private driveway into the roadway . "
+The driver of,swerve.01,to miss,,Affirmative,The driver of the motorcycle swerved to miss the vehicle but lost control and struck a ditch . 
+The driver of,miss.02,the vehicle,,Affirmative,The driver of the motorcycle swerved to miss the vehicle but lost control and struck a ditch . 
+The driver of,lose.02,control,,Affirmative,The driver of the motorcycle swerved to miss the vehicle but lost control and struck a ditch . 
+The driver of,strike.01,a ditch,,Affirmative,The driver of the motorcycle swerved to miss the vehicle but lost control and struck a ditch . 
+Deputy Vezossi,respond.01,to,,Affirmative,"5/17/2014 MOTOR VEHICLE ACCIDENT : At 6:10 PM , Deputy Vezossi responded to the 22000 block of Bayside Road for a motor vehicle accident . "
+The investigation,reveal.01,"the driver , male , age 52",,Affirmative,"The investigation revealed the driver , male , age 52 , failed to negotiate a turn and struck a telephone pole . "
+by ambulance,transport.01,"A second male passenger , age 20",to,Affirmative,"A second male passenger , age 20 , was transported by ambulance to MedStar St. Mary 's Hospital . "

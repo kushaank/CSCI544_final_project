@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Crime police,bust.01,member credit card cloning gang on Monday,,Affirmative,HYDERABAD : The Cyber Crime police busted a three - member credit card cloning gang on Monday . 
+member credit card cloning gang on Monday,clone.01,gang,,Affirmative,HYDERABAD : The Cyber Crime police busted a three - member credit card cloning gang on Monday . 
+Crime team,arrest.01,"Michael Dominic ,",,Affirmative,"The Hyderabad Cyber Crime team arrested Michael Dominic , a tailor from Austin Town , Anglo Indian Quarters in Shanthi Nagar , Bangalore , Shree Kumar Narayan Nair , a businessman from Mumbai , and Chowrappa Bala Raju , a legal adviser from Chamarajpet in Bangalore . "
+Anglo Indian,quarter.01,a tailor from,,Affirmative,"The Hyderabad Cyber Crime team arrested Michael Dominic , a tailor from Austin Town , Anglo Indian Quarters in Shanthi Nagar , Bangalore , Shree Kumar Narayan Nair , a businessman from Mumbai , and Chowrappa Bala Raju , a legal adviser from Chamarajpet in Bangalore . "
+"Michael Dominic , a tailor from Austin Town",write.03,"Bala Raju , Gopi from Chennai and Kevin Vino from London",,Affirmative,"After collecting the details from the trio , Michael used to write them on to empty magnetic strip cards and distribute them to his two other associates . "
+"Michael Dominic , a tailor from Austin Town",distribute.01,"Bala Raju , Gopi from Chennai and Kevin Vino from London",to,Affirmative,"After collecting the details from the trio , Michael used to write them on to empty magnetic strip cards and distribute them to his two other associates . "
+The accused,swipe.01,the cloned cards,,Affirmative,"The accused would then swipe the cloned cards in electronic data capture ( EDC ) machines at business establishments of merchants known to them by paying some commission , the DCP said . "
+the DCP,say.01,accused would then swipe,,Affirmative,"The accused would then swipe the cloned cards in electronic data capture ( EDC ) machines at business establishments of merchants known to them by paying some commission , the DCP said . "
+CCS police,nab.01,the trio in Koti,,Affirmative,CCS police nabbed the trio in Koti while they were trying to use the cards on Monday . 
+The accused,try.01,to use,,Affirmative,CCS police nabbed the trio in Koti while they were trying to use the cards on Monday . 
+The accused,use.01,the cards,,Affirmative,CCS police nabbed the trio in Koti while they were trying to use the cards on Monday . 
+Cops,seize.01,"a laptop ,",from them,Affirmative,"Cops seized a laptop , an encoder machine and 16 cloned credit cards from them . "

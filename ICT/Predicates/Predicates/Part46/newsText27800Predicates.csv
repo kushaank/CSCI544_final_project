@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+State police,investigate.01,a fatal accident in Milford,,Affirmative,MILFORD - State police are investigating a fatal accident in Milford that occurred over the weekend . 
+The crash on,leave.02,Jersey man,dead,Affirmative,The crash on Moses Wheeler Bridge left a New Jersey man dead and sent four people to the hospital . 
+The crash on,send.02,four people,to,Affirmative,The crash on Moses Wheeler Bridge left a New Jersey man dead and sent four people to the hospital . 
+State police,say.01,stopped,,Affirmative,"Police say Emmanuel Felix , 28 , stopped his SUV in the far - right southbound lane of the bridge and was trying to fix his flat tire . "
+"Emmanuel Felix , 28 ,",stop.01,his SUV,,Affirmative,"Police say Emmanuel Felix , 28 , stopped his SUV in the far - right southbound lane of the bridge and was trying to fix his flat tire . "
+"Emmanuel Felix , 28 ,",try.01,to fix,,Affirmative,"Police say Emmanuel Felix , 28 , stopped his SUV in the far - right southbound lane of the bridge and was trying to fix his flat tire . "
+"Emmanuel Felix , 28 ,",fix.02,his flat tire,,Affirmative,"Police say Emmanuel Felix , 28 , stopped his SUV in the far - right southbound lane of the bridge and was trying to fix his flat tire . "
+by,strike.01,Emmanuel Felix,,Affirmative,"He was then struck by a car , thrown over the bridge , and fell more than 100 feet into the Housatonic River . "
+Officials,say.01,", he had",,Affirmative,"Officials say when crews pulled Felix out of 1 foot of water , he had no pulse and severe injuries . "
+crews,pull.01,Emmanuel Felix,out of,Affirmative,"Officials say when crews pulled Felix out of 1 foot of water , he had no pulse and severe injuries . "
+Emmanuel Felix,have.03,no pulse and,,Affirmative,"Officials say when crews pulled Felix out of 1 foot of water , he had no pulse and severe injuries . "
+State police,say.01,is,,Affirmative,"Police say that the driver who struck Felix is Natalie Rojas , 19 , of Bridgeport . "
+the driver,strike.01,Emmanuel Felix,,Affirmative,"Police say that the driver who struck Felix is Natalie Rojas , 19 , of Bridgeport . "

@@ -1,0 +1,41 @@
+1	Login	login	NN	p2=RB	0	root	_
+2	or	or	CC	_	1	cc	_
+3	Signup	signup	NNP	p2=VB	1	conj	_
+4	now	now	RB	_	6	advmod	6:AM-TMP
+5	to	to	TO	p2=IN	6	aux	_
+6	share	share	VB	pb=share.01	1	conj	_
+7	stories	story	NNS	_	6	dobj	6:A1=PPT
+8	and	and	CC	_	6	cc	_
+9	leave	leave	VB	pb=leave.01	6	conj	_
+10	comments	comment	NNS	_	9	dobj	9:A1=DIR
+11	.	.	.	_	1	punct	_
+
+1	Login	login	NN	p2=RB	0	root	_
+2	or	or	CC	_	1	cc	_
+3	Signup	signup	NNP	p2=VB	1	conj	_
+4	now	now	RB	_	6	advmod	6:AM-TMP
+5	to	to	TO	p2=IN	6	aux	_
+6	share	share	VB	pb=share.01	1	conj	_
+7	stories	story	NNS	_	6	dobj	6:A1=PPT
+8	and	and	CC	_	6	cc	_
+9	leave	leave	VB	pb=leave.01	6	conj	_
+10	comments	comment	NNS	_	9	dobj	9:A1=DIR
+11	.	.	.	_	1	punct	_
+
+1	Take	take	VB	pb=take.LV	0	root	_
+2	a	a	DT	_	3	det	_
+3	look	look	NN	_	1	dobj	1:AM-PRR
+4	at	at	IN	_	3	prep	_
+5	some	some	DT	_	4	pobj	_
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	9	det	_
+8	other	other	JJ	_	9	amod	_
+9	content	content	NN	_	6	pobj	_
+10	by	by	IN	_	1	prep	1:AM-MNR
+11	going	go	VBG	pb=go.02	10	pcomp	_
+12	to	to	IN	_	11	prep	11:A4=GOL
+13	our	our	PRP$	_	15	poss	_
+14	home	home	NN	_	15	nn	_
+15	page	page	NN	_	12	pobj	_
+16	.	.	.	_	1	punct	_
+

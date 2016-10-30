@@ -1,0 +1,11 @@
+1	Link	link	NNP	p2=NN	5	nsubjpass	6:A0=PAG;5:A1=PPT
+2	for	for	IN	_	1	prep	_
+3	ABC.AZ	abc.az	NNP	_	2	pobj	_
+4	is	be	VBZ	_	5	auxpass	_
+5	obliged	oblige	VBN	pb=oblige.02	0	root	_
+6	using	use	VBG	pb=use.01	5	xcomp	5:A2=PRD
+7	the	the	DT	_	9	det	_
+8	websites	website	NNS	_	9	nn	_
+9	material	material	NN	p2=JJ	6	dobj	6:A1=PPT
+10	.	.	.	_	5	punct	_
+

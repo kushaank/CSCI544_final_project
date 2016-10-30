@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Protection Agency,announce.01,it was fining,,Affirmative,"The Environmental Protection Agency last week announced that it was fining publicly traded Clean Harbors LLC of Norwell , Massachusetts , $ 581,236 for several violations discovered at a facility in El Dorado . "
+The Environmental Protection Agency,fine.01,Harbors LLC of Norwell,,Affirmative,"The Environmental Protection Agency last week announced that it was fining publicly traded Clean Harbors LLC of Norwell , Massachusetts , $ 581,236 for several violations discovered at a facility in El Dorado . "
+a facility in El Dorado,treat.05,"waste ,",,Affirmative,"The facility treats waste , both hazardous and nonhazardous , by way of high - temperature incineration . "
+Clean Harbors,sell.01,that waste,,Affirmative,"Clean Harbors is no longer selling that waste and it is now being properly disposed of , the EPA said . "
+the EPA,say.01,longer selling,,Affirmative,"Clean Harbors is no longer selling that waste and it is now being properly disposed of , the EPA said . "
+"750,000 overhaul of some of",rout.01,emissions,to,Affirmative,"In order to comply with emission standards , Clean Harbors also committed to a $ 750,000 overhaul of some of its facility , routing emissions from hazardous waste storage tanks to a secondary combustion chamber . "
+the EPA,discover.01,violations,,Affirmative,The EPA discovered the company 's violations as part of multiple Resource Conversation & Recovery Act inspections carried out in 2009 and 2011 . 
+A spokesman for,respond.01,to requests for comment by,,Affirmative,A spokesman for Clean Harbors did not respond to requests for comment by press time . 

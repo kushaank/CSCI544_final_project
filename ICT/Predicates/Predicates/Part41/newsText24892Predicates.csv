@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Lincoln Airport,announce.01,will begin Sept,,Affirmative,The Lincoln Airport announced Monday that a new flight to Atlanta on Delta Air Lines will begin Sept . 
+The daily flight,leave.01,Lincoln,,Affirmative,The daily flight will leave Lincoln at 7 a.m. and arrive at Atlanta 's Hartsfield - Jackson International Airport at 10:47 a.m. Eastern time . 
+Director John Wood,say.01,he 's been told,,Affirmative,"Lincoln Airport Executive Director John Wood said he 's been told the flight will be on the Canadair CRJ700 , a larger regional aircraft that will have at least 65 seats , which means it will have a small section of first - class seating in addition to economy class . "
+a larger regional aircraft,have.03,65 seats,,Affirmative,"Lincoln Airport Executive Director John Wood said he 's been told the flight will be on the Canadair CRJ700 , a larger regional aircraft that will have at least 65 seats , which means it will have a small section of first - class seating in addition to economy class . "
+a larger regional aircraft,mean.01,it will have,,Affirmative,"Lincoln Airport Executive Director John Wood said he 's been told the flight will be on the Canadair CRJ700 , a larger regional aircraft that will have at least 65 seats , which means it will have a small section of first - class seating in addition to economy class . "
+it,have.03,a small section of,,Affirmative,"Lincoln Airport Executive Director John Wood said he 's been told the flight will be on the Canadair CRJ700 , a larger regional aircraft that will have at least 65 seats , which means it will have a small section of first - class seating in addition to economy class . "
+Wood,say.01,schedule will make,,Affirmative,Wood said in a news release that the schedule will make the flight convenient for business travelers . 
+the schedule,make.02,flight convenient for,,Affirmative,Wood said in a news release that the schedule will make the flight convenient for business travelers . 
+Lincoln,have.03,service to Atlanta,,Affirmative,"Lincoln had service to Atlanta on Delta in the summer of 2009 , but the afternoon departure time made it inconvenient for both business and leisure travelers , and Delta pulled the flight after a little more than two months . "
+the afternoon departure time,make.02,it inconvenient for,,Affirmative,"Lincoln had service to Atlanta on Delta in the summer of 2009 , but the afternoon departure time made it inconvenient for both business and leisure travelers , and Delta pulled the flight after a little more than two months . "
+Delta,pull.01,the flight,,Affirmative,"Lincoln had service to Atlanta on Delta in the summer of 2009 , but the afternoon departure time made it inconvenient for both business and leisure travelers , and Delta pulled the flight after a little more than two months . "
+by,secure.01,the service,,Affirmative,"This time , the service is secured by a $ 750,000 federal grant that serves as a revenue guarantee . "
+"750,000 federal grant",serve.01,as,,Affirmative,"This time , the service is secured by a $ 750,000 federal grant that serves as a revenue guarantee . "
+Delta,keep.02,the service,in place,Affirmative,"To be able to tap the grant , Delta must keep the service in place for one year . "
+Wood,say.01,he 's hoping,,Affirmative,Wood said he 's hoping the flight will be successful enough that the grant money wo n't be necessary . 
+he,hope.01,flight will be successful enough,,Affirmative,Wood said he 's hoping the flight will be successful enough that the grant money wo n't be necessary . 
+A check of fares for,show.01,a person leaving on Sept,,Affirmative,A check of fares for the flight on Delta 's website showed a person leaving on Sept . 
+15,pay.01,$ 413.50,,Affirmative,15 would pay $ 413.50 for an economy fare . 
+8 and returning,pay.01,more,,Affirmative,"8 and returning the same day will pay more than twice that , however -- $ 973.50 . "
+Lincoln,have.03,"service going east , north and west",,Affirmative,"Lincoln has had consistent service going east , north and west for decades , but southern service has been intermittent . "
+Delta,provided.01,lived Memphis service,,Affirmative,"In addition to the Atlanta service in the summer of 2009 , Delta provided short - lived Memphis service in the summer of 2011 , and its predecessor , Northwest Airlines , had Lincoln - Memphis flights for about nine months in 2005 . "
+"its predecessor ,",have.03,Memphis flights for,,Affirmative,"In addition to the Atlanta service in the summer of 2009 , Delta provided short - lived Memphis service in the summer of 2011 , and its predecessor , Northwest Airlines , had Lincoln - Memphis flights for about nine months in 2005 . "
+Wood,say.01,will be,,Affirmative,Wood said flights to Atlanta will be a good option because of its convenient connections to the Southeast and East Coast as well as its numerous international connections . 
+Wood,say.01,It 's,,Affirmative,"It 's a great hub , Wood said . "
+President Wendy Birdsall,say.01,schedule be,,Affirmative,"Lincoln Chamber of Commerce President Wendy Birdsall said not only will the schedule be a benefit to travelers , especially business travelers , but the flight itself will make it much easier to get to destinations in the South and Southeast . "
+the flight itself,make.02,it much easier,,Affirmative,"Lincoln Chamber of Commerce President Wendy Birdsall said not only will the schedule be a benefit to travelers , especially business travelers , but the flight itself will make it much easier to get to destinations in the South and Southeast . "
+This,help.01,us a great deal,,Affirmative,"This really helps us a great deal , she said . "
+she,say.01,This really helps,,Affirmative,"This really helps us a great deal , she said . "
+Both Wood and Birdsall,stress.01,the need,,Affirmative,Both Wood and Birdsall stressed the need for Lincoln travelers to use the service to make sure it is successful and stays in place . 
+Lincoln travelers,use.01,the service,to make sure,Affirmative,Both Wood and Birdsall stressed the need for Lincoln travelers to use the service to make sure it is successful and stays in place . 
+I,stress.01,enough,,Affirmative,"I ca n't stress enough that people need to use it , Birdsall said . "
+people,need.01,to use it,,Affirmative,"I ca n't stress enough that people need to use it , Birdsall said . "
+people,use.01,it,,Affirmative,"I ca n't stress enough that people need to use it , Birdsall said . "
+Birdsall,say.01,I ca n't stress enough,,Affirmative,"I ca n't stress enough that people need to use it , Birdsall said . "

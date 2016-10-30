@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+person jury,reach.01,a guilty verdict on Monday,,Affirmative,"NEW YORK , May 19 ( KUNA ) -- A 12 - person jury reached a guilty verdict on Monday against Abu Hamza Al - Masri who has been on trial for 11 terrorism - related charges . "
+Abu Hamza Al-Masri who has been on trial for 11 terrorism-related charges,face.01,life,,Affirmative,He could face life in prison . 
+The Egyptian - born,lead.02,a London mosque attended by,,Affirmative,"The Egyptian - born led a London mosque attended by convicted 9/11 plotter Zacarias Moussaoui and shoe bomber Richard Reid , before he was extradited to the US . "
+by,attend.01,a London mosque attended by,,Affirmative,"The Egyptian - born led a London mosque attended by convicted 9/11 plotter Zacarias Moussaoui and shoe bomber Richard Reid , before he was extradited to the US . "
+"The cleric ,",deny.01,all charges,,Affirmative,"The cleric , 56 , born Mustafa Kamel Mustafa , denied all charges . "
+General Eric Holder,praise.01,verdict,,Affirmative,"US Attorney General Eric Holder praised today 's verdict which came less than a week of President Barack Obama 's dedication of the National September 11 Memorial Museum to the nearly 3,000 people who lost their lives on that day . "
+"3,000 people",lose.02,their lives,,Affirmative,"US Attorney General Eric Holder praised today 's verdict which came less than a week of President Barack Obama 's dedication of the National September 11 Memorial Museum to the nearly 3,000 people who lost their lives on that day . "

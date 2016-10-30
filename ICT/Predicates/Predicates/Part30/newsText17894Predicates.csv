@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Taiwan Stock Exchange,state.01,has been completed as of May 15 2014,,Affirmative,The Taiwan Stock Exchange stated that reporting of Q1 2014 financial statements by domestic listed companies ( not including financial holding companies ) has been completed as of May 15 2014 . 
+domestic listed companies (,include.01,holding companies,,Affirmative,The Taiwan Stock Exchange stated that reporting of Q1 2014 financial statements by domestic listed companies ( not including financial holding companies ) has been completed as of May 15 2014 . 
+the profit results of 459,outperform.01,the same period,,Affirmative,"Of the 794 listed domestic companies ( not including financial holding companies ) , the profit results of 459 outperformed the same period last year . "
+monitoring index,show.01,a stable growth,,Affirmative,"Benefiting from the recovery of national economies in Europe and the U.S. driving the growth of Taiwan 's economy , the domestic economic monitoring index showed a stable growth green light for two consecutive months . "
+This,promote.02,a continued rally in,,Affirmative,This promoted a continued rally in the operating performance of domestic listed companies . 
+127,post.01,EPS,,Affirmative,"In Q1 2014 , 628 listed companies were profitable and , of these , 127 posted EPS in excess of NT $ 1 . "
+The Taiwan Stock Exchange,state.01,can be attributed to,,Affirmative,"The Taiwan Stock Exchange stated , a large portion of the Q1 growth trend can be attributed to the semiconductor industry benefiting from increased DRAM , smartphone , and wafer applications demand . "

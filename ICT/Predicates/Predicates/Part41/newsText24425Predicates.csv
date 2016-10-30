@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,attack.01,they,,Affirmative,"In the first major ceasefire violation since the 2014 Lok Sabha results were announced , one army soldier was killed while two others injured when they were attacked by guerrilla gunmen at the Jammu border . "
+a landmine,trigger.01,an explosion injuring both of them,,Affirmative,"On Sunday , two soldiers in Akhnoor area of Jammu district had stepped on a landmine that triggered an explosion injuring both of them . "
+an explosion injuring both of them,injure.01,both of them,,Affirmative,"On Sunday , two soldiers in Akhnoor area of Jammu district had stepped on a landmine that triggered an explosion injuring both of them . "
+The patrol injured on Monday,evacuate.01,soldiers injured,,Affirmative,"The patrol injured on Monday had gone to evacuate the soldiers injured the previous day , and were attacked by gunmen from the other side . "
+two soldiers in Akhnoor area of Jammu district,injure.01,the previous day,,Affirmative,"The patrol injured on Monday had gone to evacuate the soldiers injured the previous day , and were attacked by gunmen from the other side . "
+by gunmen from,attack.01,The patrol injured on Monday,,Affirmative,"The patrol injured on Monday had gone to evacuate the soldiers injured the previous day , and were attacked by gunmen from the other side . "
+The army,foil.01,another infiltration bid by militants,from across,Affirmative,The army had foiled another infiltration bid by militants from across the LOC on Sunday in Jammu and Kashmir 's Poonch district . 

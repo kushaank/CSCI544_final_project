@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+DART bus,kill.01,needs student on,,Affirmative,"BIRMINGHAM , Alabama - The 51 - year - old driver of a MAX DART bus that killed a special needs student on Birmingham 's Southside in March will not face any criminal charges in the crash . "
+"BIRMINGHAM , Alabama -",face.01,any criminal charges,,Affirmative,"BIRMINGHAM , Alabama - The 51 - year - old driver of a MAX DART bus that killed a special needs student on Birmingham 's Southside in March will not face any criminal charges in the crash . "
+You,determine.01,that this was,,Affirmative,"We have determined that this was a tragic accident , and there is no criminal intent involved in the case that would warrant a criminal charge , '' Jefferson County District Attorney Brandon Falls told AL.com . "
+the case,warrant.01,a criminal charge,,Affirmative,"We have determined that this was a tragic accident , and there is no criminal intent involved in the case that would warrant a criminal charge , '' Jefferson County District Attorney Brandon Falls told AL.com . "
+Attorney Brandon Falls,tell.01,We have determined,AL.com,Affirmative,"We have determined that this was a tragic accident , and there is no criminal intent involved in the case that would warrant a criminal charge , '' Jefferson County District Attorney Brandon Falls told AL.com . "
+A student at Horizons School,finish.01,a cooking class,,Affirmative,"A student at Horizons School , she had just finished a cooking class where she had helped to make soup . "
+A student at Horizons School,help.01,to make soup,,Affirmative,"A student at Horizons School , she had just finished a cooking class where she had helped to make soup . "
+A student at Horizons School,make.01,soup,,Affirmative,"A student at Horizons School , she had just finished a cooking class where she had helped to make soup . "
+Birmingham police,say.01,", was at fault",,Affirmative,"Birmingham police said the driver , Alex James Mixon , was at fault because he failed to yield the right of way to the Bahri , who was in the crosswalk . "
+Alex James Mixon,yield.03,the right of way,,Affirmative,"Birmingham police said the driver , Alex James Mixon , was at fault because he failed to yield the right of way to the Bahri , who was in the crosswalk . "
+Alex James Mixon,travel.01,eastbound,,Affirmative,The driver was traveling eastbound on 14th Avenue when he turned left onto 20th Street . 
+Birmingham police,say.01,he was n't under,,Affirmative,"Police said he was n't under the influence of alcohol or drugs , and was not using his cell phone at the time of the crash . "
+Alex James Mixon,use.01,his cell phone,,Affirmative,"Police said he was n't under the influence of alcohol or drugs , and was not using his cell phone at the time of the crash . "
+by,employ.01,Alex James Mixon,,Affirmative,The driver is still employed by the transit system . 
+MAX officials,release.01,this statement :,,Affirmative,MAX officials released this statement : We will continue our prayers for the Bahri family in regards to their loss of Pouneh . 
+MAX officials,continue.01,our prayers,,Affirmative,MAX officials released this statement : We will continue our prayers for the Bahri family in regards to their loss of Pouneh . 
+MAX,continue.01,with,,Affirmative,MAX will continue with the goal of providing safe and reliable transportation to the Birmingham - Jefferson County community . 
+the Bahri family,suffer.01,from,,Affirmative,"She suffered from a rate condition known as Rasmussen 's Encephalitis , which is a progressive neurological disorder that results in sever seizures , loss of motor skills and speech , paralysis , inflammation of the brain and mental deterioration . "
+the school for special needs,teach.01,independent living,,Affirmative,The school teaches independent living . 
+the Bahri family,graduate.01,from,,Affirmative,"She would have graduated from Horizons School on Friday , May 16 . "
+her parents and brother,hold.04,a memorial near,,Affirmative,"Instead , her parents and brother held a memorial near where she was killed . "
+her parents,release.01,balloons and,,Affirmative,They released balloons and 25 white doves in her memory . 
+"attorney ,",decline.02,to comment Monday on,,Affirmative,"The family 's attorney , Mike Kendrick , declined to comment Monday on the ruling by Falls . "
+"attorney ,",comment.01,on,,Affirmative,"The family 's attorney , Mike Kendrick , declined to comment Monday on the ruling by Falls . "
+parents,indicate.01,they will file,,Affirmative,"Bahri 's parents have indicated they will file a civil lawsuit in the case , but have n't done so yet . "
+Bahri 's parents,file.01,a civil lawsuit,,Affirmative,"Bahri 's parents have indicated they will file a civil lawsuit in the case , but have n't done so yet . "
+parents,do.02,so,,Affirmative,"Bahri 's parents have indicated they will file a civil lawsuit in the case , but have n't done so yet . "
+the Bahri family,ask.02,to order,a court,Affirmative,"In March , the family asked a court to order the driver and the Birmingham Jefferson County Transit Authority to turn over certain documents . "
+a court,order.01,the driver and,to turn over,Affirmative,"In March , the family asked a court to order the driver and the Birmingham Jefferson County Transit Authority to turn over certain documents . "
+the driver and,turn.12,certain documents,,Affirmative,"In March , the family asked a court to order the driver and the Birmingham Jefferson County Transit Authority to turn over certain documents . "
+the Bahri family,request.01,certain questions,to answers,Affirmative,The family also requested Mixon to answers certain questions in a video-taped deposition . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

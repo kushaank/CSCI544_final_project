@@ -1,0 +1,109 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( AP ) -,strike.01,approved ban on,,Affirmative,"( AP ) - A federal judge on Monday struck down Oregon 's voter - approved ban on gay marriage , saying it is unconstitutional . "
+( AP ) -,say.01,it is unconstitutional,,Affirmative,"( AP ) - A federal judge on Monday struck down Oregon 's voter - approved ban on gay marriage , saying it is unconstitutional . "
+Judge Michael McShane,say.01,ban unconstitutionally discriminates against,,Affirmative,U.S. District Judge Michael McShane said the ban unconstitutionally discriminates against same - sex couples and ordered the state not to enforce it . 
+the ban,discriminate.02,against,,Affirmative,U.S. District Judge Michael McShane said the ban unconstitutionally discriminates against same - sex couples and ordered the state not to enforce it . 
+the ban,order.01,the state,not to enforce it,Affirmative,U.S. District Judge Michael McShane said the ban unconstitutionally discriminates against same - sex couples and ordered the state not to enforce it . 
+the state,enforce.01,it,,Affirmative,U.S. District Judge Michael McShane said the ban unconstitutionally discriminates against same - sex couples and ordered the state not to enforce it . 
+State officials,refuse.01,to defend,,Affirmative,State officials earlier refused to defend the constitutional ban in court . 
+State officials,defend.01,the constitutional ban in court,,Affirmative,State officials earlier refused to defend the constitutional ban in court . 
+McShane,join.01,judges,,Affirmative,"McShane joined judges in seven other states who have struck down gay marriage bans , though appeals are underway . "
+seven other states,strike.08,gay marriage bans,,Affirmative,"McShane joined judges in seven other states who have struck down gay marriage bans , though appeals are underway . "
+Oregon state officials,say.01,they 'd be prepared,,Affirmative,"Oregon state officials have said they 'd be prepared to carry out same - sex marriages almost immediately , and couples lined up outside the county clerk 's office in Portland in anticipation of the McShane 's decision . "
+they,carry.03,sex marriages,,Affirmative,"Oregon state officials have said they 'd be prepared to carry out same - sex marriages almost immediately , and couples lined up outside the county clerk 's office in Portland in anticipation of the McShane 's decision . "
+they,celebrate.02,their anniversary,,Affirmative,"Engbloom proposed in April , when they celebrated their anniversary by climbing Smith Rock in Central Oregon . "
+they,climb.01,Smith Rock in,,Affirmative,"Engbloom proposed in April , when they celebrated their anniversary by climbing Smith Rock in Central Oregon . "
+We,know.01,we wanted,,Affirmative,"We always knew we wanted to spend our whole life together , Brown said . "
+we,want.01,to spend,,Affirmative,"We always knew we wanted to spend our whole life together , Brown said . "
+we,spend.02,our whole life,,Affirmative,"We always knew we wanted to spend our whole life together , Brown said . "
+Brown,say.01,We always knew,,Affirmative,"We always knew we wanted to spend our whole life together , Brown said . "
+couples,bring.01,the Oregon cases,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+couples,argue.01,laws unconstitutionally discriminate against them,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+marriage laws,discriminate.02,against them,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+marriage laws,exclude.01,them,from,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+General Ellen Rosenblum,refuse.01,to defend,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+General Ellen Rosenblum,defend.01,Oregon 's voter-approved ban,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+General Ellen Rosenblum,say.01,there are,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+no legal arguments,support.01,it,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+She,side.01,with,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+She,ask.02,to overturn,the judge,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+the judge,overturn.01,the ban,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+She,say.01,she wo n't appeal,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+The judge,deny.01,a request by,,Affirmative,The judge denied a request by the National Organization for Marriage to defend the law on behalf of its Oregon members . 
+A panel of,refuse.01,request for,,Affirmative,"A panel of the 9th U.S. Circuit Court of Appeals on Monday refused the group 's request for an emergency stay of that decision , allowing same - sex marriages to proceed . "
+A panel of,allow.01,marriages to proceed,,Affirmative,"A panel of the 9th U.S. Circuit Court of Appeals on Monday refused the group 's request for an emergency stay of that decision , allowing same - sex marriages to proceed . "
+Gay rights groups,say.01,they 've collected,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+Gay rights groups,collect.01,enough signatures,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+Gay rights groups,force.02,a statewide vote on,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+they,say.01,they would discard,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favor by May 23 . 
+they,discard.01,the signatures,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favor by May 23 . 
+they,drop.01,their campaign,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favor by May 23 . 
+The U.S. Supreme Court,strike.08,the 1996 Defense of,,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defense of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+"Marriage Act ,",bar.01,the federal government,from recognizing,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defense of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+the federal government,recognize.01,sex marriage,,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defense of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+It,determine.01,the law,,Affirmative,It determined the law improperly deprived gay couples of due process . 
+"judges in Idaho , Oklahoma , Virginia , Michigan , Texas , Utah and Arkansas",find.01,sex marriage bans,,Affirmative,"In addition to Oregon , federal or state judges in Idaho , Oklahoma , Virginia , Michigan , Texas , Utah and Arkansas recently have found state same - sex marriage bans to be unconstitutional . "
+Judges,order.01,"Kentucky , Ohio and Tennessee",to recognize,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "
+"Kentucky , Ohio and Tennessee",recognize.01,sex marriages from,,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "
+Critics,note.02,states still do not allow,,Affirmative,"Critics note most states still do not allow gay marriage and that in most of those that do , it was the work of courts or legislatures , not the will of the people . "
+most states,allow.01,gay marriage,,Affirmative,"Critics note most states still do not allow gay marriage and that in most of those that do , it was the work of courts or legislatures , not the will of the people . "
+Oregon law,prohibit.01,sex marriage,,Affirmative,"Oregon law has long prohibited same - sex marriage , and voters added the ban to the state constitution in 2004 . "
+voters,add.02,the ban,to,Affirmative,"Oregon law has long prohibited same - sex marriage , and voters added the ban to the state constitution in 2004 . "
+by,approve.01,"The decision , approved by",,Affirmative,"The decision , approved by 57 percent of voters , came months after Multnomah County briefly issued marriage licenses to same - sex couples . "
+Multnomah County,issue.01,marriage licenses,to,Affirmative,"The decision , approved by 57 percent of voters , came months after Multnomah County briefly issued marriage licenses to same - sex couples . "
+by,overturn.01,it,,Affirmative,it will get overturned by some liberal sniffing judge . 
+I,have.03,a question,,Affirmative,"Seriously , I have a question ... "
+I,pronounce.01,husband and husband Â or,you,Affirmative,I now pronounce you husband and husband Â or ... 
+Most on,care.01,if gays can marry,,Affirmative,"Most on the sidelines could not care less if gays can marry , but it would be appropriate , if the law stipulated , that the marriage between SAME sexes is regarded as not conducive for the procreation of the species however we all will tolerate it . "
+we all,tolerate.01,it,,Affirmative,"Most on the sidelines could not care less if gays can marry , but it would be appropriate , if the law stipulated , that the marriage between SAME sexes is regarded as not conducive for the procreation of the species however we all will tolerate it . "
+the gays,want.01,to marry,,Affirmative,So the gays want to marry each other despite the will of a majority of normal Americans ? 
+Â Some freak from seattle,demand.01,to marry,,Affirmative,Â Some freak from seattle will demand to marry a rent a goat . 
+One individual,cause.01,this train wreck,,Affirmative,Look at how One individual can cause this train wreck . 
+You,view.02,this,as,Affirmative,"@ AS400GURU You view this as being ostracised , that you are somehow being ignored where some other group within society is being viewed as a special class and you are wrong . "
+We all,belong.01,to,,Affirmative,We all belong to a protected class in some way or another . 
+everyone,provide.01,special rights and privileges,to some,Affirmative,This is about ensuring that everyone is treated fairly and equally and not about providing special rights and privileges to some while denying it from others . 
+one,swear.01,an oath,to,Affirmative,A marriage ceremony is not something that one must swear an oath to a god and their spouse in order for it to be recognised . 
+One,choose.01,t have,,Affirmative,"One can choose t have a religious or a non religious ceremony , however both are considered to be a valid marriage . "
+t,have.03,a religious or,,Affirmative,"One can choose t have a religious or a non religious ceremony , however both are considered to be a valid marriage . "
+I,respect.01,the decision of,,Affirmative,@ Mickey602 Â  Â That 's precisely the reason I respect the decision of Oregon 's Attorney General to NOT fight this case . 
+Â She,know.01,it would be pouring money down,,Affirmative,"Â She knew it would be pouring money down a rat hole , knew Oregon would n't prevail . "
+it,pour.01,money,,Affirmative,"Â She knew it would be pouring money down a rat hole , knew Oregon would n't prevail . "
+It,vote.01,people should not be permitted,,Affirmative,@ JJ It was once voted that black people should not be permitted to vote . 
+people,vote.01,in something,,Affirmative,@ JJ Â Only if people vote in something that 's unconstitutional and someone decides to challenge it in a court of law . 
+someone,decide.01,to challenge it in,,Affirmative,@ JJ Â Only if people vote in something that 's unconstitutional and someone decides to challenge it in a court of law . 
+someone,challenge.01,The original pledge,,Affirmative,@ JJ Â Only if people vote in something that 's unconstitutional and someone decides to challenge it in a court of law . 
+by,write.01,"The original pledge , written by",,Affirmative,"The original pledge , written by a Baptist minister reads : Â  I pledge allegiance to my Flag and to* the Republic for which it stands , one nation , indivisible , with liberty and justice for all When I attended a BEAUTIFUL ceremony last August the judge said And now by the power vested in me by the State of Washington , I pronounce you Spouses for Life . "
+I,attend.01,a BEAUTIFUL ceremony,,Affirmative,"The original pledge , written by a Baptist minister reads : Â  I pledge allegiance to my Flag and to* the Republic for which it stands , one nation , indivisible , with liberty and justice for all When I attended a BEAUTIFUL ceremony last August the judge said And now by the power vested in me by the State of Washington , I pronounce you Spouses for Life . "
+by,vest.01,the power vested in me,in me,Affirmative,"The original pledge , written by a Baptist minister reads : Â  I pledge allegiance to my Flag and to* the Republic for which it stands , one nation , indivisible , with liberty and justice for all When I attended a BEAUTIFUL ceremony last August the judge said And now by the power vested in me by the State of Washington , I pronounce you Spouses for Life . "
+I,pronounce.01,you Spouses for Life,,Affirmative,"The original pledge , written by a Baptist minister reads : Â  I pledge allegiance to my Flag and to* the Republic for which it stands , one nation , indivisible , with liberty and justice for all When I attended a BEAUTIFUL ceremony last August the judge said And now by the power vested in me by the State of Washington , I pronounce you Spouses for Life . "
+I,see.01,it,,Affirmative,@ TreeTopFlyer - I saw it in Hawaii last Thursday . 
+I,believe.01,we already tolerate,,Affirmative,"Since I believe we already tolerate straight marriages where no children will be produced , I fail to understand why weÂ would n't be tolerating Â the same circumstance with gay marriages . "
+we,tolerate.01,straight marriages,,Affirmative,"Since I believe we already tolerate straight marriages where no children will be produced , I fail to understand why weÂ would n't be tolerating Â the same circumstance with gay marriages . "
+I,understand.01,why weÂ would n't be tolerating,,Affirmative,"Since I believe we already tolerate straight marriages where no children will be produced , I fail to understand why weÂ would n't be tolerating Â the same circumstance with gay marriages . "
+they,love.01,each other,,Affirmative,"Â Straight people often do n't marry for the procreation of the species -- they 're goofballs , they marry because they love each other . "
+torkzilla Â Hate,break.01,it,,Affirmative,"@ torkzilla Â Hate to break it to you , but the majority of Americans are in favor of gay marriage . "
+ruling,get.01,the train,,Affirmative,Â One individual 's ruling got the train back on the track . 
+You,kiss.01,the Bride,,Affirmative,Â  You may kiss the Bride ? 
+This,creep.01,me,,Affirmative,Â  This just creeps me out . 
+BigBubba Nicely,state.01,what if someone loved,,Affirmative,@ SunDowner @ BigBubba Nicely stated however what if someone loved .... 
+They,say.01,You may now kiss,,Affirmative,They can just say You may now kiss . 
+the guy,have.03,multiple wives,,Affirmative,True polygamy does n't work because by definition the guy would have multiple wives and the wives would have multiple husbands and / or wivesÂ who in turn have multiple wives and / or husbandsÂ and so on and so forth . 
+the wives,have.03,multiple husbands,,Affirmative,True polygamy does n't work because by definition the guy would have multiple wives and the wives would have multiple husbands and / or wivesÂ who in turn have multiple wives and / or husbandsÂ and so on and so forth . 
+the wives,have.03,multiple wives and / or husbandsÂ and,,Affirmative,True polygamy does n't work because by definition the guy would have multiple wives and the wives would have multiple husbands and / or wivesÂ who in turn have multiple wives and / or husbandsÂ and so on and so forth . 
+I,think.01,Â that it takes,,Affirmative,"I do not think Â that it takes multiple women to equal 1 man , I 'm of the opinion that one from one gender equals one from the other . "
+you,divide.02,household responsibilities,,Affirmative,@ SunDowner @ BigBubba There are many benefits when you divide household responsibilities . 
+One,tutor.01,the kids,,Affirmative,"Â  One can be the nanny , tutor the kids , Â another a cook , some earn an income , etc . "
+some,earn.01,"an income , etc",,Affirmative,"Â  One can be the nanny , tutor the kids , Â another a cook , some earn an income , etc . "
+you,afford.01,to live in,,Affirmative,Â  Of course you can then afford to live in a larger home . 
+BigBubba Â  Â I,comprehend.01,any sane man choosing,,Affirmative,@ BigBubba Â  Â I ca n't comprehend any sane man choosing to deal with 5-8 wives .... 
+any sane man choosing,deal.01,with,,Affirmative,@ BigBubba Â  Â I ca n't comprehend any sane man choosing to deal with 5-8 wives .... 
+even I as,know.01,it would be,,Affirmative,"even I as a woman know it would be pure hell , it 's something I honestly ca n't wrap my head around . "
+I,wrap.01,my head,something,Affirmative,"even I as a woman know it would be pure hell , it 's something I honestly ca n't wrap my head around . "
+I,have.03,no qualms,,Affirmative,Â But I have no qualms at all if consenting adults make that choice . 
+BigBubba I and,enjoy.01,a polygamous communal lifestyle,,Affirmative,@ SunDowner @ BigBubba I and many others would enjoy a polygamous communal lifestyle . 
+I,guess.01,chemical ' enhancement / abuse ',,Affirmative,@ torkzilla I 'm guessing chemical ' enhancement / abuse ' as I 'd like to think that there 's some outside reason for being that incredibly ignorant . 
+I,like.02,to think,,Affirmative,@ torkzilla I 'm guessing chemical ' enhancement / abuse ' as I 'd like to think that there 's some outside reason for being that incredibly ignorant . 
+I,think.01,that there 's,,Affirmative,@ torkzilla I 'm guessing chemical ' enhancement / abuse ' as I 'd like to think that there 's some outside reason for being that incredibly ignorant . 
+this angler,take.01,any fish home,,Affirmative,"I 'm not sure if this angler took any fish home , but he sure landed a prize catch with this sunset at Golden Gardens Beach . "
+he,land.01,a prize catch with,,Affirmative,"I 'm not sure if this angler took any fish home , but he sure landed a prize catch with this sunset at Golden Gardens Beach . "
+Copyright,©.01,"2014 Sinclair Interactive Media , LLC ;",,Affirmative,"Seattle , Copyright © 2014 Sinclair Interactive Media , LLC ; a member of Sinclair Broadcast Group , Inc . "

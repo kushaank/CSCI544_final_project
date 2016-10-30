@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+- Cardinal Ruben Salazar of Bogota,offer.01,his prayers and condolences,,Affirmative,"- Cardinal Ruben Salazar of Bogota , president of the Bishops ' Conference of Colombia , offered his prayers and condolences for the families of 32 children who died in a bus that caught fire . "
+a bus,catch.01,fire,,Affirmative,"- Cardinal Ruben Salazar of Bogota , president of the Bishops ' Conference of Colombia , offered his prayers and condolences for the families of 32 children who died in a bus that caught fire . "
+the parents,mourn.01,the tragic deaths of,,Affirmative,"The Church in Colombia is praying for the parents who are mourning the tragic deaths of their children , Cardinal Salazar said via Twitter . "
+"Cardinal Ruben Salazar of Bogota , president of the Bishops ' Conference of Colombia",say.01,is praying for,,Affirmative,"The Church in Colombia is praying for the parents who are mourning the tragic deaths of their children , Cardinal Salazar said via Twitter . "
+the bus,carry.01,the 32 children,,Affirmative,"According to Colombian media , the 32 children were returning from a Pentecostal revival meeting on May 18 , when the bus that was carrying them burst into flames near the town of Fundacion in northern Colombia . "
+Authorities,work.01,to determine,,Affirmative,Authorities are working to determine the cause of the fire . 
+Authorities,determine.01,the cause of,,Affirmative,Authorities are working to determine the cause of the fire . 
+The mayor of Fundacion,tell.01,that it could take coroners,Caracol Radio,Affirmative,"The mayor of Fundacion , Luz Stella Duran , told Caracol Radio on May 19 that it could take coroners up to four days to identify the remains of each of the children . "
+to identify,take.10,coroners,,Affirmative,"The mayor of Fundacion , Luz Stella Duran , told Caracol Radio on May 19 that it could take coroners up to four days to identify the remains of each of the children . "
+Fundacion,identify.01,the remains of each of,,Affirmative,"The mayor of Fundacion , Luz Stella Duran , told Caracol Radio on May 19 that it could take coroners up to four days to identify the remains of each of the children . "
+Luz Stella Duran,say.01,have been taken to Barranquilla,,Affirmative,She said the bodies of the children have been taken to Barranquilla to be identified and that the mayor 's office is providing transportation to the city for their families . 
+office,provide.01,transportation,to,Affirmative,She said the bodies of the children have been taken to Barranquilla to be identified and that the mayor 's office is providing transportation to the city for their families . 

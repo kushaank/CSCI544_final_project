@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+resident Georgie Smith,receive.01,a letter from,,Affirmative,"Jacksonville resident Georgie Smith received a letter from the Veterans Affairs office last week offering her condolences on the death of her husband , Vietnam veteran Steve Smith . "
+a letter from,offer.01,her condolences,,Affirmative,"Jacksonville resident Georgie Smith received a letter from the Veterans Affairs office last week offering her condolences on the death of her husband , Vietnam veteran Steve Smith . "
+they,pronounce.01,you dead,,Affirmative,How in the heck could they pronounce you dead when you are still alive ? 
+Vietnam veteran Steve Smith,want.01,to know,,Affirmative,Steve Smith wants to know . 
+VA office,handle.01,benefits,,Affirmative,The VA office has been under fire lately for problems with its hospital and the way it handles benefits . 
+the Smiths ',get.01,a firsthand glimpse of,,Affirmative,The Smiths got a firsthand glimpse of those issues when Georgie received a letter extending her sympathy on the death of her husband . 
+resident Georgie Smith,receive.01,a letter extending,,Affirmative,The Smiths got a firsthand glimpse of those issues when Georgie received a letter extending her sympathy on the death of her husband . 
+a letter extending,extend.01,her sympathy,on,Affirmative,The Smiths got a firsthand glimpse of those issues when Georgie received a letter extending her sympathy on the death of her husband . 
+a letter,contain.01,a check and,,Affirmative,The letter contained a check and an explanation that the monthly benefit checks the Smiths rely on would stop . 
+the Smiths ',rely.01,on,,Affirmative,The letter contained a check and an explanation that the monthly benefit checks the Smiths rely on would stop . 
+the Smiths ',help.01,you,,Affirmative,VA : How can I help you ? 
+Vietnam veteran Steve Smith,declare.02,me dead,,Affirmative,"Smith : Evidently you all declared me dead , because I got this letter . "
+Vietnam veteran Steve Smith,get.01,a letter,,Affirmative,"Smith : Evidently you all declared me dead , because I got this letter . "
+Vietnam veteran Steve Smith,collect.01,benefits check,,Affirmative,Smith collects a benefits check each month for problems he encountered from serving in Vietnam . 
+a benefits,check.01,each month,for problems,Affirmative,Smith collects a benefits check each month for problems he encountered from serving in Vietnam . 
+Vietnam veteran Steve Smith,encounter.01,problems,,Affirmative,Smith collects a benefits check each month for problems he encountered from serving in Vietnam . 
+Channel 4,check.01,with,,Affirmative,Channel 4 has been checking with the VA and officials said they are researching the death mix - up and trying to make sure the Smiths ' checks will keep coming . 
+officials,research.01,the death mix - up,,Affirmative,Channel 4 has been checking with the VA and officials said they are researching the death mix - up and trying to make sure the Smiths ' checks will keep coming . 
+officials,try.01,to make sure,,Affirmative,Channel 4 has been checking with the VA and officials said they are researching the death mix - up and trying to make sure the Smiths ' checks will keep coming . 
+checks,keep.02,coming,,Affirmative,Channel 4 has been checking with the VA and officials said they are researching the death mix - up and trying to make sure the Smiths ' checks will keep coming . 
+Vietnam veteran Steve Smith,say.01,staff did,,Affirmative,"Smith said after he called , the VA office staff did some more checking . "
+the VA office staff,do.02,some more checking,,Affirmative,"Smith said after he called , the VA office staff did some more checking . "
+officials,look.01,at,,Affirmative,They looked at his records and asked him more questions . 
+officials,ask.01,more questions,him,Affirmative,They looked at his records and asked him more questions . 
+VA officials,tell.01,they are also trying,Channel 4,Affirmative,VA officials told Channel 4 they are also trying to find out why the agency thought Smith was dead in the first place . 
+VA officials,try.01,to find out,,Affirmative,VA officials told Channel 4 they are also trying to find out why the agency thought Smith was dead in the first place . 
+VA officials,find.03,agency thought,,Affirmative,VA officials told Channel 4 they are also trying to find out why the agency thought Smith was dead in the first place . 
+the agency,think.01,Smith was dead in,,Affirmative,VA officials told Channel 4 they are also trying to find out why the agency thought Smith was dead in the first place . 
+Vietnam veteran Steve Smith,say.01,they gave him,,Affirmative,"Smith said they gave him an answer , but it 's not one he 's really happy with . "
+VA officials,give.01,an answer,him,Affirmative,"Smith said they gave him an answer , but it 's not one he 's really happy with . "
+you,acknowledge.01,that you have read,,Affirmative,"By clicking on Post , you acknowledge that you have read the Terms of Service and your comment is in compliance with such terms . "
+you,read.01,the Terms of Service,,Affirmative,"By clicking on Post , you acknowledge that you have read the Terms of Service and your comment is in compliance with such terms . "
+you,see.01,option appear on,,Affirmative,"Readers , please help keep this discussion respectful and on topic by flagging comments that are offensive or inappropriate ( hover over the commenter 's name and you 'll see the flag option appear on right side of that line ) . "
+by,offend.01,you,,Affirmative,"If you 're easily offended by strong opinions , you might skip reading comments entirely . "
+you,skip.01,reading comments entirely,,Affirmative,"If you 're easily offended by strong opinions , you might skip reading comments entirely . "
+you,read.01,comments,,Affirmative,"If you 're easily offended by strong opinions , you might skip reading comments entirely . "
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

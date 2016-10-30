@@ -1,0 +1,45 @@
+1	Tonga	tonga	NNP	_	5	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Deputy	deputy	NNP	_	5	nn	_
+4	Prime	prime	NNP	_	5	nn	_
+5	Minister	minister	NNP	_	7	nn	_
+6	Samiu	samiu	NNP	_	7	nn	_
+7	Vaipulu	vaipulu	NNP	_	9	nsubj	9:A0=PAG
+8	has	have	VBZ	_	9	aux	_
+9	announced	announce	VBN	pb=announce.01	0	root	_
+10	that	that	IN	p2=DT	14	complm	_
+11	Polynesian	polynesian	NNP	_	12	nn	_
+12	Airlines	airline	NNPS	p2=NNP	14	nsubj	14:A0=PAG;15:A0=PAG
+13	will	will	MD	_	14	aux	14:AM-MOD
+14	begin	begin	VB	pb=begin.01	9	ccomp	9:A1=PPT
+15	servicing	service	VBG	pb=service.01	14	xcomp	14:A1=PPT
+16	direct	direct	JJ	_	17	amod	_
+17	flights	flight	NNS	_	15	dobj	15:A1=PPT
+18	to	to	IN	p2=TO	17	prep	_
+19	Vava'u	vava'u	NNP	_	18	pobj	_
+20	from	from	IN	_	17	prep	_
+21	Apia	apia	NNP	_	20	pobj	_
+22	,	,	,	_	21	punct	_
+23	Samoa	samoa	NNP	_	21	conj	_
+24	in	in	IN	_	23	prep	_
+25	August	august	NNP	_	24	pobj	_
+26	,	,	,	_	9	punct	_
+27	following	follow	VBG	_	17	prep	_
+28	a	a	DT	_	31	det	_
+29	one	#crd#	CD	_	30	num	_
+30	month	month	NN	_	31	nn	_
+31	delay	delay	NN	_	27	dobj	_
+32	in	in	IN	_	31	prep	_
+33	introducing	introduce	VBG	pb=introduce.02	32	pcomp	_
+34	the	the	DT	_	35	det	_
+35	new service	new service	NN	p2=NNP	33	dobj	33:A1=PPT
+36	.	.	.	_	9	punct	_
+
+1	Please	please	UH	p2=VB	2	intj	2:AM-DIS
+2	subscribe	subscribe	VB	p2=VBP|pb=subscribe.01	0	root	_
+3	to	to	IN	p2=TO	2	prep	2:A1=PPT
+4	access	access	NN	_	5	nn	_
+5	premium	premium	NN	_	6	nn	_
+6	content	content	NN	_	3	pobj	_
+7	.	.	.	_	2	punct	_
+

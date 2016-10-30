@@ -1,0 +1,83 @@
+1	Keep	keep	VB	pb=keep.04	0	root	_
+2	up	up	RP	p2=RB	6	hmod	_
+3	-	-	HYPH	_	6	hyph	_
+4	to	to	IN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	date	date	NN	_	1	dobj	1:A1=PPT
+7	with	with	IN	_	1	prep	1:A2=PPT
+8	FREE	free	JJ	p2=NNP	9	amod	_
+9	eAlerts	ealerts	NNS	_	7	pobj	_
+10	on	on	IN	_	9	prep	_
+11	Washington	washington	NNP	_	12	nn	_
+12	events	event	NNS	_	10	pobj	_
+13	and	and	CC	_	12	cc	_
+14	political	political	JJ	_	15	amod	_
+15	coverage	coverage	NN	_	12	conj	_
+16	.	.	.	_	1	punct	_
+
+1	Learn	learn	VB	p2=VBP|pb=learn.01	0	root	_
+2	more	more	JJR	p2=RBR	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	Access	access	JJ	p2=NNP	2	amod	_
+2	events	event	NNS	_	23	nsubj	_
+3	throughout	throughout	IN	_	2	prep	_
+4	the	the	DT	_	6	det	_
+5	Washington	washington	NNP	_	6	nn	_
+6	region	region	NN	_	3	pobj	_
+7	with	with	IN	_	2	prep	_
+8	FNS	fns	NNP	p2=NNPS	9	nn	_
+9	Daybook	daybook	NNP	_	7	pobj	_
+10	and	and	CC	_	9	cc	_
+11	learn	learn	VB	p2=VBP|pb=learn.01	0	root	_
+12	what	what	WP	_	14	nsubjpass	14:R-A1
+13	was	be	VBD	_	14	auxpass	_
+14	said	say	VBN	pb=say.01	11	ccomp	11:A1=PPT
+15	at	at	IN	_	14	prep	14:AM-LOC
+16	many	many	JJ	_	15	pobj	_
+17	of	of	IN	_	16	prep	_
+18	those	those	DT	_	19	det	_
+19	events	event	NNS	_	17	pobj	_
+20	with	with	IN	_	19	prep	_
+21	FNS	fns	NNP	p2=NNS	23	nn	_
+22	Transcripts	transcripts	NNP	p2=NNPS	23	nn	_
+23	Database	database	NNP	p2=NNPS	20	pobj	_
+24	.	.	.	_	11	punct	_
+
+1	Subscription	subscription	NN	p2=NNP	0	root	2:A1=PPT
+2	required	require	VBN	p2=VBD|pb=require.01	1	partmod	_
+3	.	.	.	_	1	punct	_
+
+1	Learn	learn	VB	p2=VBP|pb=learn.01	0	root	_
+2	more	more	JJR	p2=RBR	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	events	event	NNS	_	0	root	3:A1=PPT
+3	found	find	VBN	pb=find.01	2	partmod	_
+4	in	in	IN	_	3	prep	3:AM-LOC
+5	the	the	DT	_	6	det	_
+6	Calendar	calendar	NN	p2=NNP	4	pobj	_
+7	with	with	IN	_	6	prep	_
+8	the	the	DT	_	10	det	_
+9	ID	id	NNP	_	10	nn	_
+10	NE20140519GE023	ne20140519ge023	NNP	p2=NN	7	pobj	_
+11	.	.	.	_	2	punct	_
+
+1	FNS	fns	NNS	p2=DT	2	nn	_
+2	coverage	coverage	NN	p2=VBP	9	nsubj	9:A0=PAG
+3	,	,	,	_	2	punct	_
+4	Washington	washington	NNP	_	5	nn	_
+5	events	event	NNS	_	2	conj	_
+6	and	and	CC	_	5	cc	_
+7	critical	critical	JJ	_	8	amod	_
+8	information	information	NN	_	5	conj	_
+9	emailed	email	VBD	p2=VBN|pb=email.01	0	root	_
+10	to	to	IN	_	9	prep	9:A2=GOL
+11	you	you	PRP	_	10	pobj	_
+12	.	.	.	_	9	punct	_
+
+1	Learn	learn	VB	p2=VBP|pb=learn.01	0	root	_
+2	more	more	JJR	p2=RBR	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+

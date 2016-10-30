@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+"ALBANY , N.Y.",plan.01,to ask,,Affirmative,"ALBANY , N.Y. ( AP ) -- The former leader of New York 's Senate , acquitted of federal fraud charges last week , plans to ask the state to pay his legal bills . "
+"ALBANY , N.Y.",ask.02,to pay,the state,Affirmative,"ALBANY , N.Y. ( AP ) -- The former leader of New York 's Senate , acquitted of federal fraud charges last week , plans to ask the state to pay his legal bills . "
+the state,pay.01,his legal bills,,Affirmative,"ALBANY , N.Y. ( AP ) -- The former leader of New York 's Senate , acquitted of federal fraud charges last week , plans to ask the state to pay his legal bills . "
+Sen. Joe Bruno,say.01,cost him,,Affirmative,Retired Sen. Joe Bruno says two trials and appeals cost him more than $ 4 million . 
+Retired Sen. Joe Bruno says two trials and appeals,take.01,bribes,to,Affirmative,He had been charged with taking bribes to direct state grants to a businessman . 
+State law,authorize.01,reimbursement of,,Affirmative,State law authorizes reimbursement of reasonable attorneys ' fees for officials accused of criminal wrongdoing while acting within the scope of their duties . 
+old Bruno,tell.01,prosecutors cost him,station WGDJ - AM,Affirmative,The 85 - year - old Bruno tells Albany radio station WGDJ - AM that overly zealous federal prosecutors cost him six years of his life and they probably spent $ 25 million to $ 30 million . 
+a businessman,testify.01,he hired Bruno as,,Affirmative,The businessman testified he hired Bruno as a consultant and that the payments were n't bribes . 
+a businessman,hire.01,Sen. Joe Bruno,as,Affirmative,The businessman testified he hired Bruno as a consultant and that the payments were n't bribes . 
+"Bruno ,",lead.02,the Senate majority,,Affirmative,"Bruno , a Rensselaer County Republican , led the Senate majority for 14 years before stepping down in 2008 . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

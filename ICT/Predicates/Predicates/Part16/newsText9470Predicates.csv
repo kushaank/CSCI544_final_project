@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Its spacious cabins,provide.01,everything,,Affirmative,"Its spacious cabins provide everything its first - class passengers could want , from separate shower to LCD TV . "
+class passengers,want.01,everything,,Affirmative,"Its spacious cabins provide everything its first - class passengers could want , from separate shower to LCD TV . "
+this hotel - on - wheels,offer.01,distance rail journey across,,Affirmative,"Since 2007 , this hotel - on - wheels has offered a long - distance rail journey across the Siberian region with stops in Yekaterinburg , Novosibirsk , Ulan - Ude and other cities . "
+Each stop,offer.01,"the travellers walking tours , cooking classes and hiking",,Affirmative,"Each stop offers the travellers walking tours , cooking classes and hiking . "
+"the travellers walking tours , cooking classes and hiking",walk.01,tours,,Affirmative,"Each stop offers the travellers walking tours , cooking classes and hiking . "
+"the travellers walking tours , cooking classes and hiking",cook.01,classes,,Affirmative,"Each stop offers the travellers walking tours , cooking classes and hiking . "
+the travellers,have.03,a great trip enjoying,,Affirmative,We had a great trip enjoying Russian nature and culture . 
+a great trip enjoying,enjoy.01,Russian nature and culture,,Affirmative,We had a great trip enjoying Russian nature and culture . 
+Siberian,visit.01,Russia,,Affirmative,"I visited Russia for the first time 15 years ago but only stayed in Moscow , an American tourist told Xinhua . "
+Siberian,see.01,the whole country,,Affirmative,Now I 've seen the whole country almost in detail . 
+the travellers,bring.01,warm memories of Russia,,Affirmative,We will bring back very warm memories of Russia after this adventure . 

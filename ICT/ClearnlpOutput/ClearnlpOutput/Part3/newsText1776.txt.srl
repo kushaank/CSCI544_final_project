@@ -1,0 +1,28 @@
+1	Kellar	kellar	NNP	_	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	death	death	NN	_	4	nsubj	4:A0
+4	took	take	VBD	pb=take.01	0	root	_
+5	the	the	DT	_	7	det	_
+6	murder	murder	NN	_	7	nn	_
+7	toll	toll	NN	_	4	dobj	4:A1=PPT
+8	for	for	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	year	year	NN	_	8	pobj	_
+11	to	to	IN	_	10	prep	_
+12	date	date	NN	_	11	pobj	_
+13	to	to	IN	_	4	prep	4:AM-GOL
+14	173	0	CD	_	13	pobj	_
+15	.	.	.	_	4	punct	_
+
+1	On	on	IN	_	9	prep	9:AM-TMP
+2	May	may	NNP	_	1	pobj	_
+3	19	0	CD	_	2	num	_
+4	last	last	JJ	_	5	amod	_
+5	year	year	NN	_	2	npadvmod	_
+6	,	,	,	_	9	punct	_
+7	the	the	DT	_	8	det	_
+8	figure	figure	NN	_	9	nsubj	9:A1=PPT
+9	was	be	VBD	pb=be.01	0	root	_
+10	145	0	CD	_	9	attr	9:A2=PRD
+11	.	.	.	_	9	punct	_
+

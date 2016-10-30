@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Brantford police,praise.01,a citizen,for helping recover,Affirmative,Brantford police are praising a citizen for helping recover a sport vehicle through twitter . 
+police who attended to investigate,say.01,read about,,Affirmative,"At about 11:30 a.m. Friday , police reported to the community through local media releases and twitter that a GMC Jimmy was stolen between midnight and 7:30 a.m. Shortly after noon , police say a watchful resident who follows the city police twitter feed read about the theft . "
+a watchful resident,follow.02,twitter feed,,Affirmative,"At about 11:30 a.m. Friday , police reported to the community through local media releases and twitter that a GMC Jimmy was stolen between midnight and 7:30 a.m. Shortly after noon , police say a watchful resident who follows the city police twitter feed read about the theft . "
+"The resident ,",recall.02,seeing,,Affirmative,"The resident , who is not identified , recalled seeing a similar type vehicle parked near his residence the previous evening . "
+"The resident ,",see.01,a similar type vehicle parked near,,Affirmative,"The resident , who is not identified , recalled seeing a similar type vehicle parked near his residence the previous evening . "
+a watchful resident who follows the city police twitter feed read about the theft,alert.01,police,,Affirmative,He immediately alerted police who attended to investigate . 
+by,observe.02,The vehicle observed by,,Affirmative,The vehicle observed by the citizen proved to be the stolen Jimmy . 
+police,praise.01,a citizen,for,Affirmative,"In a prepared statement , police praised the citizen for his co-operation . "
+a citizen,assist.01,the owners,in recovering,Affirmative,"The citizen was instrumental with assisting the owners in recovering their stolen property , the statement said . "
+a prepared statement,say.01,citizen was instrumental with assisting,,Affirmative,"The citizen was instrumental with assisting the owners in recovering their stolen property , the statement said . "
+you,have.03,an account on,,Affirmative,"If you already have an account on this newspaper , you can login to the newspaper to add your comments . "
+you,add.02,your comments,,Affirmative,"If you already have an account on this newspaper , you can login to the newspaper to add your comments . "
+you,accept.01,our terms and conditions and,,Affirmative,"By adding a comment on the site , you accept our terms and conditions and our netiquette rules . "
+you,see.01,something,,Affirmative,"Share your story , photo or video about something you 've seen . "

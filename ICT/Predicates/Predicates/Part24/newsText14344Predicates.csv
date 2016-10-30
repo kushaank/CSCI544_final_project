@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,murder.01,a woman,,Affirmative,"A man has been arrested on suspicion of murdering a woman who was found at a house in Barrow , Cumbria , on Sunday . "
+A spokeswoman for,say.01,Service notified,,Affirmative,"A spokeswoman for Cumbria Constabulary said : At 9.42 am today the North West Ambulance Service notified the police of a sudden death of a woman , in her 20 s , who had been found in a property on Napier Street , Barrow . "
+West Ambulance Service,notify.01,the police of,in,Affirmative,"A spokeswoman for Cumbria Constabulary said : At 9.42 am today the North West Ambulance Service notified the police of a sudden death of a woman , in her 20 s , who had been found in a property on Napier Street , Barrow . "
+the police of a sudden death of a woman,arrest.01,"a man ,",,Affirmative,"Police have arrested a man , aged 68 , on suspicion of murder and he is assisting detectives with their inquiries . "
+A man,assist.01,detectives,with,Affirmative,"Police have arrested a man , aged 68 , on suspicion of murder and he is assisting detectives with their inquiries . "
+Our editors,pick.01,delivered to,,Affirmative,Our editors ' picks for the day 's top news and commentary delivered to your inbox each morning . 

@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a Windows user,receive.01,an email about,,Affirmative,Are you a Windows user who recently received an email about an important company update for your computer ? 
+a Trojan,download.01,more malware,onto,Affirmative,"Whatever you do , do n't install that update ; it 's really a Trojan that , once installed , appears to sneakily download more malware onto your computer . "
+a program within it,download.01,another file,with,Affirmative,"Once the gadget is installed , a program within it called main.exe connects to the Internet and downloads another file with an . "
+May 16,observe.02,process is similar to,,Affirmative,"- based email and Web security firm AppRiver , who discovered the malware this morning ( May 16 ) , observed that this process is similar to the way the prolific Gameover malware , a variant on the eternally adaptable Zeus banking Trojan , often infects computers . "
+"the prolific Gameover malware ,",infect.01,computers,,Affirmative,"- based email and Web security firm AppRiver , who discovered the malware this morning ( May 16 ) , observed that this process is similar to the way the prolific Gameover malware , a variant on the eternally adaptable Zeus banking Trojan , often infects computers . "
+French,say.01,company has already blocked,,Affirmative,"French said on the AppRiver blog that the company has already blocked more than 70,000 of these infected emails . "
+the company,block.01,"more than 70,000 of",,Affirmative,"French said on the AppRiver blog that the company has already blocked more than 70,000 of these infected emails . "
+people,claim.01,being spammed out,,Affirmative,"From time to time , people claim that the days of malware being spammed out en - masse are over , but clearly that 's not the case , wrote security expert Graham Cluley of this infection attempt on his own blog . "
+expert Graham Cluley of,write.01,clearly that 's not,,Affirmative,"From time to time , people claim that the days of malware being spammed out en - masse are over , but clearly that 's not the case , wrote security expert Graham Cluley of this infection attempt on his own blog . "
+you,prevent.01,it,from getting on,Affirmative,But you can easily prevent it from getting on your computer in the first place by not installing it from the spoofed email message in the first place . 
+it,instal.01,it,from,Affirmative,But you can easily prevent it from getting on your computer in the first place by not installing it from the spoofed email message in the first place . 

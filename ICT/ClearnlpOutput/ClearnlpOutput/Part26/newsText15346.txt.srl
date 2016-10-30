@@ -1,0 +1,72 @@
+1	Investigators	investigator	NNS	_	2	nsubj	2:A0
+2	think	think	VBP	pb=think.01	0	root	_
+3	kids	kid	NNS	_	5	nsubj	5:A0=PAG
+4	likely	likely	RB	p2=JJ	5	advmod	5:AM-ADV
+5	set	set	VBP	p2=VBD|pb=set.01	2	ccomp	2:A1=PPT
+6	the	the	DT	_	7	det	_
+7	fires	fire	NNS	_	5	dobj	5:A1=PPT
+8	around	around	IN	p2=RB	7	prep	_
+9	1:30	0	CD	_	8	pobj	_
+10	Sunday	sunday	NNP	_	11	nn	_
+11	morning	morning	NN	_	5	npadvmod	5:AM-TMP
+12	outside	outside	IN	p2=RB	5	prep	5:AM-LOC
+13	three	#crd#	CD	_	14	num	_
+14	homes	home	NNS	_	12	pobj	_
+15	in	in	IN	_	14	prep	_
+16	the	the	DT	_	20	det	_
+17	600	0	CD	_	20	num	_
+18	and	and	CC	_	17	cc	_
+19	700	0	CD	_	17	conj	_
+20	blocks	block	NNS	_	15	pobj	_
+21	of	of	IN	_	20	prep	_
+22	East	east	NNP	p2=JJ	24	nn	_
+23	Adair	adair	NNP	_	24	nn	_
+24	Street	street	NNP	_	21	pobj	_
+25	.	.	.	_	2	punct	_
+
+1	Tooley	tooley	NNP	_	2	nsubj	2:A0=PAG
+2	wants	want	VBZ	pb=want.01	0	root	_
+3	people	people	NNS	_	5	nsubj	5:A0=PAG
+4	to	to	TO	_	5	aux	_
+5	remember	remember	VB	pb=remember.01	2	ccomp	2:A1=PPT
+6	that	that	IN	_	8	complm	_
+7	this	this	DT	_	8	nsubj	8:A1=PPT;12:A1=PPT
+8	is	be	VBZ	pb=be.01	5	ccomp	5:A1=PPT
+9	a	a	DT	_	10	det	_
+10	crime	crime	NN	_	8	attr	8:A2=PRD
+11	and	and	CC	_	8	cc	_
+12	is	be	VBZ	pb=be.01	8	conj	_
+13	punishable	punishable	JJ	_	12	acomp	12:A2=PRD
+14	by	by	IN	_	13	prep	_
+15	jail	jail	NN	_	16	nn	_
+16	time	time	NN	_	14	pobj	_
+17	.	.	.	_	2	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	2014	0	CD	_	1	npadvmod	_
+3	WALB	walb	NNP	p2=NN	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	 	 	,	p2=NFP	4	punct	_
+2	All	all	DT	_	3	det	_
+3	rights	right	NNS	_	4	nsubj	4:A0=PAG
+4	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	All	all	DT	_	2	det	_
+2	content	content	NN	p2=JJ	4	nsubj	4:A0=PAG
+3	©	©	TO	p2=POS	4	aux	_
+4	Copyright	copyright	VB	p2=NNP|pb=copyright.01	0	root	_
+5	2000	0	CD	_	7	hmod	_
+6	-	-	SYM	p2=HYPH	7	hyph	_
+7	2014	0	CD	_	4	npadvmod	_
+8	Worldnow	worldnow	NNP	p2=NN	4	dobj	4:A1=PPT
+9	and	and	CC	_	8	cc	_
+10	WALB	walb	NNP	_	8	conj	_
+11	.	.	.	_	4	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

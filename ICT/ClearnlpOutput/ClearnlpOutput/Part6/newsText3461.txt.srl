@@ -1,0 +1,75 @@
+1	Police	police	NNS	_	3	nsubj	3:A0
+2	are	be	VBP	_	3	aux	_
+3	investigating	investigate	VBG	pb=investigate.01	0	root	_
+4	after	after	IN	_	8	mark	_
+5	a	a	DT	_	6	det	_
+6	woman	woman	NN	_	8	nsubjpass	8:A1=PPT
+7	was	be	VBD	_	8	auxpass	_
+8	found	find	VBN	pb=find.01	3	advcl	3:AM-TMP
+9	dead	dead	JJ	_	8	oprd	8:AM-PRD
+10	in	in	IN	_	8	prep	8:AM-LOC
+11	an	an	DT	_	12	det	_
+12	apartment	apartment	NN	_	10	pobj	_
+13	Sunday	sunday	NNP	_	14	nn	_
+14	night	night	NN	_	8	npadvmod	8:AM-TMP
+15	.	.	.	_	3	punct	_
+
+1	Police	police	NNS	_	3	nsubjpass	3:A1=GOL
+2	were	be	VBD	_	3	auxpass	_
+3	notified	notify	VBN	pb=notify.01	0	root	_
+4	at	at	IN	_	3	prep	3:AM-TMP
+5	around	around	RB	p2=IN	6	advmod	_
+6	10:30	0	CD	_	7	num	_
+7	p.m.	p.m.	NN	p2=:	4	pobj	_
+8	Sunday	sunday	NNP	_	3	npadvmod	3:AM-TMP
+9	after	after	IN	_	17	mark	_
+10	the	the	DT	_	11	det	_
+11	woman	woman	NN	_	17	nsubjpass	17:A1=PPT
+12	in	in	IN	_	11	prep	_
+13	her	her	PRP$	_	15	poss	_
+14	30	0	CD	_	15	num	_
+15	s	s	NN	p2=NNS	12	pobj	_
+16	was	be	VBD	_	17	auxpass	_
+17	found	find	VBN	pb=find.01	3	advcl	3:AM-TMP
+18	at	at	IN	_	17	prep	17:AM-LOC
+19	a	a	DT	_	20	det	_
+20	residence	residence	NN	_	18	pobj	_
+21	on Isabella	on isabella	NNP	p2=IN	22	nn	_
+22	Street	street	NNP	_	20	appos	_
+23	near	near	IN	p2=RB	22	prep	_
+24	Bloor	bloor	NNP	_	27	nn	_
+25	and	and	CC	_	24	cc	_
+26	Jarvis	jarvis	NNP	_	24	conj	_
+27	streets	street	NNS	_	23	pobj	_
+28	,	,	,	_	3	punct	_
+29	according	accord	VBG	_	3	prep	3:AM-ADV
+30	to	to	IN	_	29	prep	_
+31	emergency	emergency	NN	_	32	nn	_
+32	services	service	NNS	_	30	pobj	_
+33	.	.	.	_	3	punct	_
+
+1	Det	det	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Joyce	joyce	NNP	_	2	nn	_
+2	Schertzer said	schertzer said	NNP	p2=VBD	3	nn	_
+3	police	police	NNS	_	6	nsubj	6:A0=PAG;8:A0=PAG
+4	are	be	VBP	_	6	aux	_
+5	still	still	RB	_	6	advmod	6:AM-TMP
+6	trying	try	VBG	pb=try.01	0	root	_
+7	to	to	TO	_	8	aux	_
+8	determine	determine	VB	pb=determine.01	6	xcomp	6:A1=PPT
+9	the	the	DT	_	10	det	_
+10	identify	identify	NN	_	8	dobj	8:A1=PPT
+11	of	of	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	victim	victim	NN	_	11	pobj	_
+14	as	as	RB	_	16	advmod	_
+15	well	well	RB	_	16	advmod	_
+16	as	as	IN	_	10	cc	_
+17	the	the	DT	_	18	det	_
+18	cause	cause	NN	_	10	conj	_
+19	of	of	IN	_	18	prep	_
+20	death	death	NN	_	19	pobj	_
+21	.	.	.	_	6	punct	_
+

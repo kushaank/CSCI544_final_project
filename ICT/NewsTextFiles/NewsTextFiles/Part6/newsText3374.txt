@@ -1,0 +1,24 @@
+
+Met Police joins 'war for talent'
+
+Acting on a tip-off from the FBI, Europol, Eurojust , the UK's National Crime Agency (NCA) and other agencies raided more than 300 properties, arrested 97 hackers from 16 countries, and seized cash, firearms, drugs and more than 1,000 data storage devices in the process.
+
+The NCA has since confirmed that 17 of these alleged hackers came from the UK, while other arrests took place in Austria, Belgium, Canada, Chile, Croatia, Denmark, Estonia, Finland, Italy, Moldova, Netherlands and Switzerland. CNN reports that the co-creator of Blackshades was arrested in Moldova.
+
+Blackshades is a “remote administration tool” (RAT) which, although legal and available to buy at around £100 on the darknet, can be used as malware to remotely view a user's webcam, log their keystrokes (and as a result, steal their passwords), and further infect their machine with other malware. Hackers can even hold the infected machine to ransom.
+
+The RAT – which was allegedly used by hackers against Syrian political activists two years ago -  is able to hide from anti-virus solutions by using custom “Crypters” to obfuscate the implant binary code and is said to have affected some 700,000 victims worldwide – including Miss Teen USA star Cassidy Wolf.
+
+The manhunt for the people behind Blackshades has been on-going for some time. Back in June 2012, an FBI sting operation resulted in the arrest of more than 20 people associated with the programme, including Michael Hogue, also known as ‘xVisceral', who is alleged to be the software's lead coder.
+
+Adrian Culley, a former Met Police Computer Crime Unit detective and now independent security consultant, told us that he was encouraged by the work carried out by the law enforcement agencies.
+
+"This significant multi-jurisdictional operation shows that international law enforcement will act in a co-ordinated, concerted manner to arrest and prosecute cyber criminals," said Culley.
+
+“Blackshades has been circulating for years now. We saw the Blackshades RAT being distributed heavily via the Neutrino exploit kit in 2013.  It is a Remote Access Trojan that gives the attacker a great deal of control over the victim's machine. Once infected the attacker will gather credentials from email and web services, FTP clients and IM apps. Blackshades will then exfiltrate this data to one of many command and control servers. Blackshades has also been known to contain web cam control capabilities as well as ransomware. In addition, Blackshades behaves like a ‘worm' in that it contains self-propagation mechanisms to facilitate its spreading to other machines.
+
+This haul is likely to come as welcome news in the fight against cyber-crime. Various law enforcement agencies have complained at the difficulty in bringing cyber-criminals to justice, considering they use darkweb tools and various proxies to disguise their identity, and spread their activity out to various jurisdictions.
+
+As enterprises look to take advantage of the cloud, they need to understand the importance of safeguarding their confidential and sensitive data in cloud environments. With the appropriate security safeguards, such as fine-grained access policies, a move to the cloud is as, or more, secure than an on-premise data storage.
+
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.

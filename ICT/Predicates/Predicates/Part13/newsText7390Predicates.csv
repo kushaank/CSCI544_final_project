@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Town police,say.01,", killed Nadia and",,Affirmative,"The Shahzad Town police have said that the accused , person who is the maternal uncle of the girl , killed Nadia and her father-in-law and escaped from the scene . "
+person,kill.01,Nadia and,,Affirmative,"The Shahzad Town police have said that the accused , person who is the maternal uncle of the girl , killed Nadia and her father-in-law and escaped from the scene . "
+person,escape.01,from,,Affirmative,"The Shahzad Town police have said that the accused , person who is the maternal uncle of the girl , killed Nadia and her father-in-law and escaped from the scene . "
+The Shahzad Town police,register.02,a case against,,Affirmative,The police have registered a case against the accused and have started the investigation . 
+The Shahzad Town police,start.01,the investigation,,Affirmative,The police have registered a case against the accused and have started the investigation . 
+by,kill.01,She and,,Affirmative,She and her father-in-law were killed by her uncle with the help of his companions . 
+"the accused , person who is the maternal uncle of the girl",flee.01,from,,Affirmative,"After shooting both of them , the accused fled from the scene . "
+Wasim,file.01,an FIR,,Affirmative,"Wasim has filed an FIR against the accused uncle for murdering his wife and father , the police said . "
+Wasim,murder.01,his wife and father,,Affirmative,"Wasim has filed an FIR against the accused uncle for murdering his wife and father , the police said . "
+The Shahzad Town police,say.01,Wasim has filed,,Affirmative,"Wasim has filed an FIR against the accused uncle for murdering his wife and father , the police said . "

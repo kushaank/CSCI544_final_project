@@ -1,0 +1,134 @@
+
+But Q1 2014 (Jan. to Mar.) came and went and Broadwell still was a no-show in terms of shipments to OEMs.  In an April 2014 earnings call, CEO Brian Krzanich insisted that the wait was almost over, saying that the chips would ship sometime in H2 2014.  Most hoped this might mean Q3 2014, in time for the August-September back to school shopping season.
+
+I can guarantee for holiday, and not at the last second of holiday.  Back to school - that's a tight one. Back to school you have to really have it on-shelf in July, August. That's going to be tough.
+
+If the Nov.-Dec. shipping window (perhaps with a September soft launch at the Intel Developer Forum) proves accurate, Intel will have lost nearly a full year in terms of slippage over the past four launch cycles, starting with Sandy Bridge.
+
+Broadwell should be available in time for the holidays.
+
+One of Intel's most dangerous rivals is the Taiwan Semiconductor Manufacturing Comp. , Ltd. ( TPE:2330 ) (TSMC).  TSMC is expecting to tape out 16 nm FinFET transistor-based chips late this year, possibly in Q4 2014.  If all goes well, this 16 nm product could launch as early as the 2015 back-to-school shopping season.  If it can pull that off, it may have closed the gap with Intel to about a year, versus the gap of over two years process-wise that existed back in 2011 .
+
+Another key rival is Samsung Electronics Comp., Ltd. ( KRX:005930 ) ( KRX:005935 ).  Having taped out 14 nm transistors in Dec. 2012 in a test run, Samsung has been working to mature the technology at its fabs .  Samsung has teamed up with former Advanced Micro Devices, Inc. (AMD) spinoff, Global Foundries to push the technology into production.  According to a report in The EE Times, production is expected to begin in late H2 2014, and product may be available late in the holiday season.
+
+Samsung and GlobalFoundries hope to ship 14 nm FinFET product by the end of 2014, as well.
+
+IBS is expecting foundry-fabless companies also will experience delays on FinFETs similar to Intel.  Also, Intel has experience of FinFETs at 22 nm, and foundry-fabless companies do not have same expertise.
+
+I'm so disappointed with this delay.  This means that the retina Macbook air is going to be delayed as well and so will the next-gen Macbook Pros.
+
+I was really hoping to get 15 hours of battery life with the retina Air this Summer.
+
+Apple can create their own processors. In fact, it is expected that their >A7 processor is now comparable to a desktop one. They should make use that instead.
+
+Because I doubt it's going to be taking it to a high-end hex/octo-core anytime soon.
+
+Sorry but the A7, while good for a mobile chip, doesn't even compare to AMD processors much less Intel.  A7 might give Atom a run for it's money, but even that's debatable.  There are benchmarks that show A7 beating Baytrail, but that could be more about the software as its the A7 running iOS vs Baytrail running full Windows 8.1.
+
+You just answered and justified why A7 is clearly the better approach.  How could new cpu do us any good when the software is not even optimized properly for these new gen CPU.
+
+With each iOS update and even Mac OS updates, Apple make API changes to make the Apps take advantage of the new features of he processor design.
+
+How long did it took the market to move to X64 while Apple has this done in under one year.  iOS apps can take advantage of 64bit process right away.
+
+You're comparing a <10w chip to a 83w?  What happens today if you simply slap a good PC type fan/heatsink on and crank it up as far as you can go?  At 3.5-4ghz these A57's that are coming would be very competitive.  This is where Denver etc are headed at some point.  They probably can't do that without a new rev but you should get the point (likely need to lengthen pipeline to hit PC speeds, but this is where they're driving to).  They already got 21% of all notebooks with a chromebook.  A57's will climb further up the chain and encroach on low-end PC's also.  Next stop after that is putting an NV discrete card in that same box with a 200-500w PSU.
+
+If you paid any attention, you'd know intel's last tick (Ivy Bridge) did very little for power consumption. 3D transistors were supposed to be all the rage, but weren't. Westmere before that was also meh. The last impressive tick was Penryn; that brought us about 1GHz more within the same power envelope. So I don't know why you'd have high hopes for this tick either.
+
+Plus, the biggest battery hog is still the display, in typical usage. CPUs will eat 25-40W, but only if you run them at 100%. Nobody does that for extended periods, but we all need the screen to look at.
+
+IB was a very solid product for mobile. HD4000 was much better than SB graphics and there were a lot more lower-power variants available. The battery life and sleep capabilities also were noticeably better vs. SB. On the desktop side, yeah...not a lot of difference.
+
+That's cherry-picking. Mobile SB and IB have the same TDP (yes, I know a beefier GPU is included): 35-55W. And the original question was about mobile. But even on the desktop, low-power chips have remained in the 35-45W range, which would suggest the improvement was more geared towards full-load, rather than idle state.
+
+So yes, it did something for power consumption (I never said it did nothing), but it wasn't the massive improvement we were waiting for (quite possibly due to many sensationalist news, like this one over here).
+
+Take a longer view of the technology road ahead.  Broadwell is  nothing more than a die-shrink of Haswell, with a focus on power efficiency, not performance.  These changes might allow for Apple to create a fanless MacBook Air with Retina display, but it's not going to be faster than the current generation, after factoring in all the extra pixels.
+
+Skylake is where the big improvements will be. There won't be a big improvement in power consumption or performance with Broadwell. On-board GPU performance is where you will see the biggest boost. Don't expect a massive 12-to-15 hour increase in battery life since this is just a die-shrink from Haswell.
+
+The question is not whether intel can uphold some imaginary schedule. The question is will Broadwell bring any improvements in, I don't know, CPU? Because CPU performance has pretty much flatlined since Sandy Bridge (no signifacnt IPC improvemnt, no higher clocks). It's all been about the integrated GPU which I have no use for. If you can find any info about that, then write an article about Broadwell.
+
+CPU performance has "flatlined" because people in general don't need more performance.  Intel investigated if additional performance improvements would sell, and they decided it wouldn't.
+
+No, cpu performance has flatline because of the laws of physics.
+
+Current applications don't need more performance. But more powerful CPUs will allow for smarter apps.
+
+Intel simply chooses not to improve, because, frankly, why should they? They've been more or less standing still for years and AMD still can't catch up. So, they're just milking what they have.
+
+Now don't get me wrong, the advances in manufacturing process are both astonishing and critical to them maintaining their lead. It's just that CPU performance is what I need and I'm disappointing to see them focusing elsewhere with each generation.
+
+Intel still has a sizable lead over its competitors in design as well.  The latest offerings from AMD are not exactly mind blowing and definitely do not compete in the high end desktop and server space.  Especially in if you consider performance per watt.  So while their competition might be getting closer on the process front, there is still a lot of catching up to do in other areas if they want to beat Intel.
+
+AMD are years behind Intel in the high-end, my couple-year old Core i7 3930K is still faster than any AMD processor in almost every single use-case.
+
+Now according to Intel's figures, desktop's and by extension high-end enthusiast markets have grown by roughly 7%, hence their reasoning of accelerating Haswell-E's launch, I'm personally hoping for massive gains (Mostly due to the extra 2 cores), Ivy-Bridge-E was incredibly laughable, if you owned Sandy, no point jumping on Ivy unless you have cash to burn.
+
+AMD doesn't look like it's doing anything in the high-end (I.E. AM3+) until 2015 at the earliest, which is a really big shame, we need a competitive AMD to keep Intel humble and competitive so we all benefit.
+
+I have been an avid AMD fan since the 386 days but the i5 and i7 cpu's are just too good.  All AMD can do now is increase the freq which just increases the voltage/heat.  Cost wise, a $200 i5 blows a $200 AMD away.  I used to get excited about new CPU lines from AMD but at the end of the day and looking over the benchmarks, they consistently fail to deliver anything truly remarkable.  I'm all about competition but I can no longer limit the performance of my rig over brand loyalty.
+
+The latest rumors out previously were for late Q4 '14 or Q1 '15.
+
+If anything the released has been moved forward not back.
+
+This seems like a straw man suggesting there is a fresh delay because Broadwell won't get released by a time nobody has said it will be released by anymore.
+
+Unfortunately, there was no mention of "Broadwell-K" in the most recent tech news flutter over the eventual Broadwell release dates. Broadwell-K is interesting because it will be the first Intel desktop processor with Iris Pro. Broadwell-K has been on the roadmap for a late 2014 introduction which would be close on the heels of Haswell Devil's Canyon. If the bulk of Broadwell SKU slip then the general assumption would normally be that the 'K' and 'E' variants will also. With Ivy Bridge, the 'E' processors were delayed so long that the X79 platform went stale waiting for it.
+
+I must disagree with the basic premise of the article, that defects in the 14 nm process are the basic reason that Broadwell's launch has been repeatedly delayed.
+
+I totally agree that there were defects in the 14 nm shrink that led to unacceptably high reject rates. That is always the case and always gets corrected fairly quickly. Look at any Intel Developer Forum slide of comparative chip defect rates across generations.
+
+The real reason for the Broadwell delay is high inventories of Haswell and Ivy Bridge devices in the channel. In weekly electronics/office advertising fliers, you'll still see third-generation Core (aka Ivy Bridge) laptops for sale. Poor demand over the past three years has caused a necessary slowdown in the tick-tock cadence.
+
+Intel does not want to economically cripple the low-profit PC industry (e.g., Lenovo, HP, Dell, Acer, Samsung) by cramming new products down the channel's throat every twelve months. That's killing the golden goose, permanently. The launch schedule has to slip.
+
+So, rather than point the spotlight at poor demand, Intel mumbles about 14 nm chip defects.
+
+You can track the sense-of-the-market on Intel's quarterly earnings calls by looking for a discussion of inventories. If inventories are "higher than desired", that's code words for "the chips aren't selling as fast as we make them."
+
+My gut says the holiday 2014 Broadwell chips will feature Ultrabook low-voltage versions, and that the bulk of the Broadwell hard launch will spread out over the first two quarters of 2015 -- a year from now. As further evidence that 2015 is Broadwell's year, note the lack of facts, leaks or discussion about Sky Lake, the 14 nm new micro-architecture.
+
+There's some good news in the delay. Since Intel is continuously pushing to improve the silicon fabrication process, the more time that passes, the better quality of the median chip. Haswell Refresh comes from the mature 22 nm process, for example, at almost no new costs to Intel. Thus, Broadwell chips arriving in Q1 2015 are going to be better on average than if Broadwell launched in January 2014.
+
+Any word on anyone adopting complimentary lateral bipolar devices?  The switch solves all major problems with CMOS, which are inadequate channel doping (there is no longer a source-body or body-drain PN-junction boundary at 14nm and under at ideal doping levels), minimum thin oxide thickness (we've been at since 32nm.  This is why Intel's 22nm and 32nm chips ran at the same voltages), and poor current drive for ever increasing wire resistance (process shrink drops wire thickness).
+
+Lateral bipolars push 4 times the current at the same size as a FET to combat rising interconnect resistance, maintain switching times, while having zero leakage (SOI prevents base leakage, exponential turn-on prevents off-state leakage), and lack a thin-film oxide so they will have higher yield.  Yes they draw base current, but beta for a lateral bipolar is over 100. As for base current being multiplied so that current draw is too high, good.  That means you can decrease wire thickness and increase dopant levels allowing the device to be shrunk down for future process nodes, something that CMOS currently cannot do.
+
+And that's on Silicon.  Since this would drop the thin oxide there is no reason to use Silicon, thus allowing Germanium to be used instead to cut the voltage by 40%.
+
+They do require a boxed transistor (SOI) though, but dropping the thin oxide for a backside oxide should be a roughly even tradeoff.
+
+Saying things like 'the back to school season' or 'spring' might make a lot of sense for your North American readers or even your fellow northern hemisphere countries, though having hemisphere based seasons is bloody confusing for the rest of the world.
+
+This website is based in the USA. If you can't remember that, maybe you should read websites based wherever you live. This is consistent with other websites all over the world.
+
+Most websites are based in the USA, or at-least hosted there.
+
+I think the point he is attempting to make is for the articles to be written in such a way that it's mindful of the world-wide audience that can access this site, that doesn't mean it needs to alienate the Americans or other nationalities that may frequent here.
+
+Case in point, Steam has seasonal sales, yet is pretty much a US based company also with a world-wide audience, not that much different to Anandtech/Dailytech, yet during it's sales it showcases "Summer and Winter". etc'.
+
+Another point is using things like imperial measurements, when the majority of the planet uses metric, both could be used.
+
+Yeah and I hope people don't stop saying Christmas instead of holiday season. It's "holiday" because of our Lord and Brian looks like Michael Scott. If only he'd do a big guffaw they could be the same person.
+
+even as an american living in the US, I completely agree.. i wish journalists would use actual dates, or months... no one really knows what 2014Q4 means precisely... and it's not worth the education.. just give us the month or date range.
+
+"no one really knows what 2014Q4 means precisely"
+
+I'm surprised there are people who don't know what Q4 2014 means.
+
+I really hope he meant he was looking for a more precise target than a 3 month range... Because anyone with a 3rd grade education (even in America) knows what 2014Q4 means. Or perhaps he is confusing fiscal quarter with calendar quarter... In which case, it's calendar - product releases are always real calendar dates. Financial announcements may be in fiscal quarters.
+
+He did give you the month and/or date range.  Q4 is a date range of October to December of 2014.  Regardless of what part of the world you live in.
+
+It's the back to school season in the USA market, the one that matters to Intel's sales.  Second and Third world countries are largely irrelevant to Intel's income statement.
+
+Second and Third world countries are largely irrelevant to Intel's income statement.
+
+Damn! LOL!
+
+90% of the worlds population lives in the Northern Hemisphere.  Sounds like you're a little too sensitive.

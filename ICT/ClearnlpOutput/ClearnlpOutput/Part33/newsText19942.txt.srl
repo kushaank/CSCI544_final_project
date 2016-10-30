@@ -1,0 +1,16 @@
+1	We	we	PRP	_	2	nsubj	2:A0
+2	support	support	VBP	pb=support.01	0	root	_
+3	Geo	geo	NNP	_	2	dobj	2:A1
+4	...	..	.	p2=NFP	2	punct	_
+
+1	Inshallah	inshallah	NNP	p2=NFP	4	npadvmod	4:AM-DIS
+2	it	it	PRP	_	4	nsubj	4:A0=PPT
+3	will	will	MD	_	4	aux	4:AM-MOD
+4	emerge	emerge	VB	pb=emerge.01	0	root	_
+5	victorious	victorious	JJ	_	4	advmod	4:AM-MNR
+6	in	in	IN	_	4	prep	4:AM-TMP
+7	these	these	DT	_	9	det	_
+8	testing	testing	NN	p2=VBG	9	nn	_
+9	times	time	NNS	_	6	pobj	_
+10	!	!	.	_	4	punct	_
+

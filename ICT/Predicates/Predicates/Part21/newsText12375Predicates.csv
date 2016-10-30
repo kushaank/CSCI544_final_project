@@ -1,0 +1,61 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+he,write.01,an article entitled,,Affirmative,"Given that experience , in The Toast , he has written an article entitled I Made the Mistake of Starting a Small Press and So Can You , talking about everything he 's learned so far . "
+my experience,make.02,the Mistake,,Affirmative,"Given that experience , in The Toast , he has written an article entitled I Made the Mistake of Starting a Small Press and So Can You , talking about everything he 's learned so far . "
+my experience,start.01,a Small Press,,Affirmative,"Given that experience , in The Toast , he has written an article entitled I Made the Mistake of Starting a Small Press and So Can You , talking about everything he 's learned so far . "
+he,learn.01,everything,,Affirmative,"Given that experience , in The Toast , he has written an article entitled I Made the Mistake of Starting a Small Press and So Can You , talking about everything he 's learned so far . "
+"Hate writers ,",hate.01,books,,Affirmative,"Hate writers , hate books , hate publishing . "
+you,see.01,awful covers on,,Affirmative,"Get made when you see awful covers on great books , get frustrated when great presses have incomprehensible websites , cringe when a book is blurbed to be a ' tour-de-force , ' or another famous author makes an awkward stab at social media . "
+great presses,have.03,incomprehensible websites,,Affirmative,"Get made when you see awful covers on great books , get frustrated when great presses have incomprehensible websites , cringe when a book is blurbed to be a ' tour-de-force , ' or another famous author makes an awkward stab at social media . "
+any writer,brag.01,about,,Affirmative,Unfollow any writer who brags about their manuscript or penchant for whiskey . 
+the publisher,do.02,a good job selling it,,Affirmative,"The best book in the world has probably failed because the publisher did n't do a good job selling it , and now him and the author are both dead and forgotten . "
+you,put.01,a book,,Affirmative,"When you put out a book you 're not just competing with every other book , but also every other way people can spend their time and money , from watching porn to eating a breakfast burrito . "
+you,compete.01,with,,Affirmative,"When you put out a book you 're not just competing with every other book , but also every other way people can spend their time and money , from watching porn to eating a breakfast burrito . "
+people,spend.02,their time and money,,Affirmative,"When you put out a book you 're not just competing with every other book , but also every other way people can spend their time and money , from watching porn to eating a breakfast burrito . "
+people,watch.01,porn,,Affirmative,"When you put out a book you 're not just competing with every other book , but also every other way people can spend their time and money , from watching porn to eating a breakfast burrito . "
+You,make.02,book look better than,,Affirmative,"You have to make your book look better than a breakfast burrito , which lacks both a sleek homepage and a well designed logo . "
+a book,look.02,better than,,Affirmative,"You have to make your book look better than a breakfast burrito , which lacks both a sleek homepage and a well designed logo . "
+"a breakfast burrito ,",lack.01,both a sleek homepage and,,Affirmative,"You have to make your book look better than a breakfast burrito , which lacks both a sleek homepage and a well designed logo . "
+The big five publishers,know.01,how to sell books,,Affirmative,The big five publishers do n't know how to sell books . 
+press releases on,call.01,company letterhead,"a thrilling page - turner ,",Affirmative,"I interned at ( what is now ) the largest publisher in the world , and the formula was to skim the editor 's notes ( which were a brief plot summary , three line biography , etc. ) , and , print press releases on company letterhead , calling it a thrilling page - turner , a dazzling tear - jerker . "
+a Small Press,release.01,to,,Affirmative,"Mail those press releases out with the book to a 300 - entry list that 's not even up to date with current press contacts , and ask me to mail them out . "
+So Can You,mail.01,The big five publishers,,Affirmative,"Mail those press releases out with the book to a 300 - entry list that 's not even up to date with current press contacts , and ask me to mail them out . "
+a few best - sellers,float.01,the rest,,Affirmative,"The model is a few best - sellers float the rest , and there 's a machine in place to make a few bucks on everything else . "
+You,have.03,the advantage,,Affirmative,You have the advantage . 
+you,do.02,whatever you want,,Affirmative,"As a person in your bedroom with a Gmail account and a $ 300 box of books , you can do whatever you want . "
+You,have.03,mouths depending on,,Affirmative,You do n't have mouths depending on book sales for food . 
+mouths depending on,depend.01,on,,Affirmative,You do n't have mouths depending on book sales for food . 
+You,have.03,a boss,,Affirmative,"You do n't have a boss to answer to , or employees to pay . "
+a boss,answer.01,to,,Affirmative,"You do n't have a boss to answer to , or employees to pay . "
+You,worry.02,about,,Affirmative,You do n't have to worry about what the New York Times things about your book because the New York Times does n't care . 
+Nothing,make.02,me want,,Affirmative,Nothing makes me want to buy a book less than an author on Facebook saying ' Have you read my book yet ? 
+So Can You,want.01,to buy,,Affirmative,Nothing makes me want to buy a book less than an author on Facebook saying ' Have you read my book yet ? 
+So Can You,buy.01,a book less than,,Affirmative,Nothing makes me want to buy a book less than an author on Facebook saying ' Have you read my book yet ? 
+you,read.01,a book,,Affirmative,Nothing makes me want to buy a book less than an author on Facebook saying ' Have you read my book yet ? 
+So Can You,want.01,to buy,,Affirmative,"' What does make me want to buy their book , though , is a funny or compelling Twitter feed , an interesting photographer Tumblr , a great ask.fm account . "
+So Can You,buy.01,a book,,Affirmative,"' What does make me want to buy their book , though , is a funny or compelling Twitter feed , an interesting photographer Tumblr , a great ask.fm account . "
+We,have.03,all these opportunities,,Affirmative,"We have all these opportunities to make selling more interesting than a commercial , to subvert the daily tedium of social media , to publicly slander your author instead of saying she 's the most honest writer alive . "
+Bowker,hate.01,you,,Affirmative,Bowker hates you . 
+you,see.01,those numerical barcodes,,Affirmative,"Bowker is the distributor for ISBNs , those numerical barcodes you see on the backs of books . "
+Large presses,buy.01,thousand ISBNs,from Bowker,Affirmative,Large presses can buy a thousand ISBNs from Bowker for a dollar a piece . 
+short,live.01,Small presses,,Affirmative,"Small presses are often short lived , and never put out many books , so that kind of bulk does n't make sense for you . "
+Small presses,put.01,many books,,Affirmative,"Small presses are often short lived , and never put out many books , so that kind of bulk does n't make sense for you . "
+that kind of bulk,make.01,sense,,Affirmative,"Small presses are often short lived , and never put out many books , so that kind of bulk does n't make sense for you . "
+by itself,purchase.01,"A single ISBN , purchased by itself",,Affirmative,"A single ISBN , purchased by itself , is $ 125 with an extra $ 30 for the barcode image . "
+you,plan.01,on publishing,,Affirmative,"However , a pack of ten is $ 250 , so if you plan on publishing any amount of books greater than one , ten is your most cost effective option . "
+you,publish.01,any amount of books greater than one,,Affirmative,"However , a pack of ten is $ 250 , so if you plan on publishing any amount of books greater than one , ten is your most cost effective option . "
+You,make.01,the most profit from,,Affirmative,"You make the most profit from direct sales anyway , and neither you nor your readers need an ISBN on your book . "
+neither you nor,need.01,an ISBN on,,Affirmative,"You make the most profit from direct sales anyway , and neither you nor your readers need an ISBN on your book . "
+you,make.05,enough profit,,Affirmative,So sell direct until you make enough profit to swallow the $ 250 and get your book the fascist serial code it deserves . 
+you,get.01,a book,,Affirmative,So sell direct until you make enough profit to swallow the $ 250 and get your book the fascist serial code it deserves . 
+a book,deserve.01,the fascist serial code,,Affirmative,So sell direct until you make enough profit to swallow the $ 250 and get your book the fascist serial code it deserves . 
+Small press distribution,hate.01,you,,Affirmative,Small press distribution hates you . 
+this organization,take.01,about,,Affirmative,"Touted as the charitable non-profit connecting readers and bookstores with small presses for [ too many years ] this organization will , yes , take just about any publisher on and distribute your books should an independent bookstore order some . "
+this organization,distribute.01,many books,,Affirmative,"Touted as the charitable non-profit connecting readers and bookstores with small presses for [ too many years ] this organization will , yes , take just about any publisher on and distribute your books should an independent bookstore order some . "
+terms,ensure.01,line is covered,,Affirmative,"However SPD 's terms ensure that their bottom line is covered no matter what , giving themselves very little incentive to actually sell your books ... "
+They,take.01,your $ 185 in,,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+They,list.01,your book,,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+They,order.01,a couple of copies,,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+you,pay.01,shipping,copies,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+a couple of copies,send.01,late check of,you,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+a couple of copies,bill.02,you,,Affirmative,"They will gladly take your $ 185 in upstart fees , list your book online , order a couple of copies for which you pay shipping , send you a notoriously late check of half the profits if any books sell , and bill you if they don't . "
+me,take.01,them,,Affirmative,"In fact , help me take them down . "

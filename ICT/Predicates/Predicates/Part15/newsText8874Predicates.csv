@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A federal judge,strike.01,gay marriage ban,,Affirmative,"A federal judge struck down Oregon 's gay marriage ban as unconstitutional on Monday , allowing state officials to start marrying couples immediately . "
+A federal judge,allow.01,officials to start marrying couples immediately,,Affirmative,"A federal judge struck down Oregon 's gay marriage ban as unconstitutional on Monday , allowing state officials to start marrying couples immediately . "
+state officials,start.01,marrying couples immediately,,Affirmative,"A federal judge struck down Oregon 's gay marriage ban as unconstitutional on Monday , allowing state officials to start marrying couples immediately . "
+Judge Michael McShane,order.01,Oregon,not to enforce,Affirmative,"District Judge Michael McShane ordered Oregon not to enforce the ban as it , he wrote , violates the Fourteenth Amendment . "
+Oregon,enforce.01,the ban as it,,Affirmative,"District Judge Michael McShane ordered Oregon not to enforce the ban as it , he wrote , violates the Fourteenth Amendment . "
+he,write.01,McShane ordered Oregon,,Affirmative,"District Judge Michael McShane ordered Oregon not to enforce the ban as it , he wrote , violates the Fourteenth Amendment . "
+by,challenge.01,The state ban,,Affirmative,The state ban was challenged by four gay and lesbian couples in the state . 
+free pedicabs,ride.01,to mark,,Affirmative,And free pedicabs ride to mark this momentous day . 
+free pedicabs,mark.01,this momentous day,,Affirmative,And free pedicabs ride to mark this momentous day . 

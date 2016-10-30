@@ -1,0 +1,74 @@
+1	Corporate	corporate	JJ	_	2	amod	_
+2	news	news	NN	_	0	root	3:A1=PPT
+3	transmitted	transmit	VBN	pb=transmit.01	2	partmod	_
+4	by	by	IN	_	3	agent	3:A0=PAG
+5	euro	euro	NN	p2=FW	6	nn	_
+6	adhoc	adhoc	NN	p2=NNS	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	4	det	_
+2	issuer	issuer	NN	_	4	nn	_
+3	/	/	SYM	p2=,	4	punct	_
+4	originator	originator	NN	_	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	0	root	_
+6	solely	solely	RB	_	7	advmod	_
+7	responsible	responsible	JJ	_	5	acomp	5:A2=PRD
+8	for	for	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	content	content	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	this	this	DT	_	13	det	_
+13	announcement	announcement	NN	_	11	pobj	_
+14	.	.	.	_	5	punct	_
+
+1	million	#crd#	CD	_	0	root	_
+2	(	(	-LRB-	_	1	punct	_
+3	previous	previous	JJ	_	4	amod	_
+4	year	year	NN	_	0	root	_
+5	:	:	:	_	4	punct	_
+6	EUR	eur	NNP	p2=CD	4	appos	_
+7	15.1	0	CD	_	8	number	_
+8	million	#crd#	CD	_	11	num	_
+9	,	,	,	_	8	punct	_
+10	+26	+0	CD	p2=VBG	11	num	_
+11	%	%	NN	_	6	appos	_
+12	)	)	-RRB-	_	11	punct	_
+13	.	.	.	_	1	punct	_
+
+1	assets	asset	NNS	_	4	nsubj	4:A1=PPT
+2	under	under	IN	_	1	prep	_
+3	management	management	NN	_	2	pobj	_
+4	amounted	amount	VBD	pb=amount.01	0	root	_
+5	to	to	IN	p2=TO	4	prep	4:A2=PRD
+6	EUR	eur	NNP	p2=$	8	quantmod	_
+7	5.05	0	CD	_	8	number	_
+8	billion	#crd#	CD	_	5	pobj	_
+9	.	.	.	_	4	punct	_
+
+1	realize	realize	VBP	p2=VB|pb=realize.02	0	root	_
+2	top	top	JJ	p2=NN	3	amod	_
+3	results	result	NNS	_	1	dobj	1:A1=PPT
+4	for	for	IN	_	3	prep	_
+5	our	our	PRP$	_	6	poss	_
+6	investors	investor	NNS	_	4	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	"	"	``	p2=''	2	punct	_
+2	www.c-quadrat.at.	#url#	ADD	_	0	root	_
+3	(	(	-LRB-	_	2	punct	_
+4	C	c	NN	p2=NNP	2	appos	_
+5	)	)	-RRB-	_	2	punct	_
+6	Copyright	copyright	NN	p2=NNP	13	nn	_
+7	APA	apa	NNP	p2=NN	9	hmod	_
+8	-	-	HYPH	p2=:	9	hyph	_
+9	OTS	ots	NNP	_	13	nn	_
+10	Originaltext	originaltext	NNP	_	12	hmod	_
+11	-	-	HYPH	_	12	hyph	_
+12	Service	service	NNP	_	13	nn	_
+13	GmbH	gmbh	NNP	_	2	appos	_
+14	and	and	CC	_	13	cc	_
+15	the	the	DT	_	17	det	_
+16	respective	respective	JJ	_	17	amod	_
+17	issuer	issuer	NN	_	13	conj	_
+18	.	.	.	_	2	punct	_
+

@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Office,release.01,Fatality Investigation Report,,Affirmative,"The Texas State Fire Marshal 's Office released the Firefighter Fatality Investigation Report today , giving more answers into why two Bryan firefighters were killed in a fire back in February of 2013 . "
+Office,give.01,more answers,into,Affirmative,"The Texas State Fire Marshal 's Office released the Firefighter Fatality Investigation Report today , giving more answers into why two Bryan firefighters were killed in a fire back in February of 2013 . "
+The teams,take.01,an available Thermal Imaging Camera,into,Affirmative,"The teams did not take an available Thermal Imaging Camera into the Knights of Columbus Hall , even though one was available . "
+The teams,take.02,tools,,Affirmative,They also did not take tools in to attempt to pull the ceiling to inspect the concealed space . 
+The teams,attempt.01,to pull,,Affirmative,They also did not take tools in to attempt to pull the ceiling to inspect the concealed space . 
+The teams,pull.06,the ceiling,,Affirmative,They also did not take tools in to attempt to pull the ceiling to inspect the concealed space . 
+The teams,inspect.01,the concealed space,,Affirmative,They also did not take tools in to attempt to pull the ceiling to inspect the concealed space . 
+the Firefighter Fatality Investigation Report,state.01,details were not consistently communicated to,,Affirmative,"The report also states that situation details were not consistently communicated to the Command so that fire location , spread , control progress , and other vital information could be monitored and factored into the decision - making process . "
+"The size , location , and intensity of",support.01,the decision,,Affirmative,"The size , location , and intensity of the fire may have supported the decision to actual enter the building to put out the fire , according to the report . "
+One key finding,make.02,difference for,,Affirmative,"One key finding could have made a life or death difference for Lt. Eric Wallace , who was one of two firefighters killed in the fire . "
+Lt. Eric Wallace,indicate.01,that he was low on air,,Affirmative,"While Lt. Wallace indicated that he was low on air , and could not get out , he did not use the term Mayday . "
+Lt. Eric Wallace,use.01,the term Mayday,,Affirmative,"While Lt. Wallace indicated that he was low on air , and could not get out , he did not use the term Mayday . "
+The ISO,serve.01,as,,Affirmative,The ISO may also serve as a medical officer . 
+Having,limit.01,his ability,,Affirmative,"Having the ISO at a fixed location limited his ability to monitor fire conditions on all sides of the structure , according to the report . "

@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+charging documents,accuse.01,five individuals,"of ,",Affirmative,"And charging documents will accuse them of , among other things , stealing information related to a nuclear power plant and information from a company that made solar panels . "
+five individuals,steal.01,information related to,,Affirmative,"And charging documents will accuse them of , among other things , stealing information related to a nuclear power plant and information from a company that made solar panels . "
+a company,make.01,solar panels,,Affirmative,"And charging documents will accuse them of , among other things , stealing information related to a nuclear power plant and information from a company that made solar panels . "
+by Politico,report.01,candidate Monica Wehby -,,Affirmative,"The late - breaking revelation that GOP Senate candidate Monica Wehby - first reported by Politico late last week - was accused of stalking by an ex-boyfriend undercuts a powerful biographical story around the first - time candidate , a renowned pediatric surgeon . "
+breaking revelation,undercut.01,a powerful biographical story around,,Affirmative,"The late - breaking revelation that GOP Senate candidate Monica Wehby - first reported by Politico late last week - was accused of stalking by an ex-boyfriend undercuts a powerful biographical story around the first - time candidate , a renowned pediatric surgeon . "
+the news,help.01,define,,Affirmative,"Instead , the news is likely to help define Dr. Wehby for the general election - undercutting what would always have been a longshot campaign against a Democratic Senate incumbent . "
+the news,define.01,Dr. Wehby,for,Affirmative,"Instead , the news is likely to help define Dr. Wehby for the general election - undercutting what would always have been a longshot campaign against a Democratic Senate incumbent . "
+the news,undercut.01,Republican attempts,,Affirmative,"More broadly , it undercuts Republican attempts to further expand the Senate field - and serves as a reminder , again , that candidates matter . "
+Republicans,look.01,for,,Affirmative,These are n't the kinds of surprises Republicans were looking for this year . 
+Jill Abramson,speak.01,this AM,,Affirmative,@ TheFix : So @ ktumulty is at the Wake Forest commencement where Jill Abramson will speak this AM . 

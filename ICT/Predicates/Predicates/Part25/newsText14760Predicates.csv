@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Serbian authorities,order.01,the urgent evacuation of,,Affirmative,"Serbian authorities have ordered the urgent evacuation of 12 villages and towns along the raging Sava River , including one where soldiers , police and volunteers have been working around the clock to protect the country 's main power plant . "
+"soldiers , police and volunteers",work.01,to protect,,Affirmative,"Serbian authorities have ordered the urgent evacuation of 12 villages and towns along the raging Sava River , including one where soldiers , police and volunteers have been working around the clock to protect the country 's main power plant . "
+"soldiers , police and volunteers",protect.01,main power plant,,Affirmative,"Serbian authorities have ordered the urgent evacuation of 12 villages and towns along the raging Sava River , including one where soldiers , police and volunteers have been working around the clock to protect the country 's main power plant . "
+by,cause.01,flooding caused by,,Affirmative,At least 35 people have died in five days of flooding caused by unprecedented torrential rain . 
+thousands,flee.01,their homes,,Affirmative,"Entire towns and villages are underwater , thousands of hills have crumpled into landslides and tens of thousands have been forced to flee their homes . "
+"Predrag Maric ,",say.01,is critical,,Affirmative,"The situation in Obrenovac is critical , said Predrag Maric , a Serbian emergency official . "
+The Sava flood wave,reach.02,Obrenovac and Belgrade,,Affirmative,The Sava flood wave is expected to reach Obrenovac and Belgrade later today and peak by Wednesday . 
+by water,submerge.01,many homes,,Affirmative,"Some 7,800 people have already been evacuated from the town , where many homes are completely submerged by water . "
+Minister Zlatko Lagumdzija,call.01,the flood damage,immense,Affirmative,"In Bosnia , Foreign Minister Zlatko Lagumdzija called the flood damage immense and compared it to the carnage during the country 's 1992-95 war that killed at least 100,000 people and left millions homeless . "
+Minister Zlatko Lagumdzija,compare.01,Bosnia,to,Affirmative,"In Bosnia , Foreign Minister Zlatko Lagumdzija called the flood damage immense and compared it to the carnage during the country 's 1992-95 war that killed at least 100,000 people and left millions homeless . "
+1992-95 war,kill.01,"100,000 people",,Affirmative,"In Bosnia , Foreign Minister Zlatko Lagumdzija called the flood damage immense and compared it to the carnage during the country 's 1992-95 war that killed at least 100,000 people and left millions homeless . "
+1992-95 war,leave.01,millions,homeless,Affirmative,"In Bosnia , Foreign Minister Zlatko Lagumdzija called the flood damage immense and compared it to the carnage during the country 's 1992-95 war that killed at least 100,000 people and left millions homeless . "
+Foreign Minister Zlatko Lagumdzija,say.01,flooding had destroyed,,Affirmative,"He said the flooding had destroyed about 100,000 houses and 230 schools and hospitals and left a million people without drinking water . "
+the flooding,destroy.01,"100,000 houses and",,Affirmative,"He said the flooding had destroyed about 100,000 houses and 230 schools and hospitals and left a million people without drinking water . "
+the flooding,leave.02,million people,,Affirmative,"He said the flooding had destroyed about 100,000 houses and 230 schools and hospitals and left a million people without drinking water . "
+Foreign Minister Zlatko Lagumdzija,say.01,is,,Affirmative,"The only difference from the war is that less people have died , he said . "
+no war in,accomplish.01,something,,Affirmative,this is something that no war in the history of this country ever accomplished . 
+The emergency commander in,say.01,decaying remains of,,Affirmative,"The emergency commander in the town , Fahrudin Solak , said the decaying remains of drowned farm animals now represent a major health risk . "
+drowned farm animals,represent.01,a major health risk,,Affirmative,"The emergency commander in the town , Fahrudin Solak , said the decaying remains of drowned farm animals now represent a major health risk . "
+We,send.01,mobile incinerators,,Affirmative,"We are sending out mobile incinerators and we have asked for international assistance , to send us more incinerators to prevent diseases , he said . "
+we,ask.02,for,,Affirmative,"We are sending out mobile incinerators and we have asked for international assistance , to send us more incinerators to prevent diseases , he said . "
+more incinerators,prevent.01,diseases,,Affirmative,"We are sending out mobile incinerators and we have asked for international assistance , to send us more incinerators to prevent diseases , he said . "
+he,say.01,We are sending out,,Affirmative,"We are sending out mobile incinerators and we have asked for international assistance , to send us more incinerators to prevent diseases , he said . "
+Floods,trigger.01,"3,000 landslides",,Affirmative,"Floods have also triggered more than 3,000 landslides across the Balkans . "
+the landslides,carry.01,land mines left over from,,Affirmative,"Aside from sweeping away home and barns , the landslides have carried land mines left over from the region 's war , along with their warning signs , to entirely new , often unknown , locations . "
+Landslides and,devastate.01,fertile land,,Affirmative,"Landslides and land mines devastated very fertile land , Mr Lagumdzija said . "
+Mr Lagumdzija,say.01,devastated,,Affirmative,"Landslides and land mines devastated very fertile land , Mr Lagumdzija said . "

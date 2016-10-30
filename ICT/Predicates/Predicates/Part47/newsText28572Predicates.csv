@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A state panel,kill.01,a bid,,Affirmative,"( AP ) - A state panel has effectively killed a bid to name a Lake Tahoe cove for Mark Twain , citing opposition from a tribe that says he held racist views on Native Americans . "
+A state panel,cite.01,opposition from,,Affirmative,"( AP ) - A state panel has effectively killed a bid to name a Lake Tahoe cove for Mark Twain , citing opposition from a tribe that says he held racist views on Native Americans . "
+a tribe,say.01,he held,,Affirmative,"( AP ) - A state panel has effectively killed a bid to name a Lake Tahoe cove for Mark Twain , citing opposition from a tribe that says he held racist views on Native Americans . "
+he,hold.04,racist views on,,Affirmative,"( AP ) - A state panel has effectively killed a bid to name a Lake Tahoe cove for Mark Twain , citing opposition from a tribe that says he held racist views on Native Americans . "
+The Nevada State Board on,vote.01,to indefinitely table,,Affirmative,"The Nevada State Board on Geographic Names this week voted to indefinitely table the request after hearing opposition from the Washoe Tribe of Nevada and California , whose ancestral homeland includes Lake Tahoe . "
+The Nevada State Board on,table.01,the request,,Affirmative,"The Nevada State Board on Geographic Names this week voted to indefinitely table the request after hearing opposition from the Washoe Tribe of Nevada and California , whose ancestral homeland includes Lake Tahoe . "
+Supporters,seek.01,to name,,Affirmative,"Supporters had sought to name a scenic cove on the lake 's northeast shore for Samuel Clemens , Twain 's real name . "
+Supporters,name.01,a scenic cove on,,Affirmative,"Supporters had sought to name a scenic cove on the lake 's northeast shore for Samuel Clemens , Twain 's real name . "
+"Darrel Cruz , head of",say.01,Twain was undeserving of,,Affirmative,"But Darrel Cruz , head of the tribe 's cultural resource department , said Twain was undeserving of the honor because of derogatory comments about the Washoe and other tribes in his writings . "
+Twain,undeserving.01,of,,Affirmative,"But Darrel Cruz , head of the tribe 's cultural resource department , said Twain was undeserving of the honor because of derogatory comments about the Washoe and other tribes in his writings . "
+he,cite.01,opposition to,Among,Affirmative,"Among other things , he cited Twain 's opposition to the naming of the lake as Tahoe , which is derived from the Washoe word da ow for lake . "
+Cruz,object.01,to,,Affirmative,Cruz also objected to a Twain quote about Lake Tahoe : People say that Tahoe means ' Silver Lake ' - ' Limpid Water ' - ' Falling Leaf . 
+People,say.01,that Tahoe means,,Affirmative,Cruz also objected to a Twain quote about Lake Tahoe : People say that Tahoe means ' Silver Lake ' - ' Limpid Water ' - ' Falling Leaf . 
+Tahoe,mean.01,' Silver Lake ',,Affirmative,Cruz also objected to a Twain quote about Lake Tahoe : People say that Tahoe means ' Silver Lake ' - ' Limpid Water ' - ' Falling Leaf . 
+It,mean.01,"grasshopper soup ,",,Affirmative,"It means grasshopper soup , the favorite dish of the digger tribe - and of the Pi - utes as well . "
+Cruz,say.01,Washoes dislike,,Affirmative,"Cruz said Washoes dislike being referred to as the digger tribe , a derogatory term applied to some tribes in the West who dug roots for food . "
+Washoes,dislike.01,being referred to as,,Affirmative,"Cruz said Washoes dislike being referred to as the digger tribe , a derogatory term applied to some tribes in the West who dug roots for food . "
+some tribes in,dig.01,roots,,Affirmative,"Cruz said Washoes dislike being referred to as the digger tribe , a derogatory term applied to some tribes in the West who dug roots for food . "
+Other tribes,eat.01,grasshoppers,,Affirmative,Other tribes ate grasshoppers . 
+Samuel Clemens,have.03,racist views on,,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature , Cruz wrote in a letter to the board . "
+Samuel Clemens,capture.01,those views in,,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature , Cruz wrote in a letter to the board . "
+Cruz,write.01,Clemens had,to,Affirmative,"Samuel Clemens had racist views on the native people of this country and has captured those views in his literature , Cruz wrote in a letter to the board . "
+we,support.01,the notion of giving,,Affirmative,"Therefore , we can not support the notion of giving a place name in Lake Tahoe to Samuel Clemens . "
+"James Hulse ,",say.01,it 's irrelevant,,Affirmative,"But James Hulse , history professor emeritus at the University of Nevada , Reno , said it 's irrelevant whether Twain 's writings were insulting to Native Americans . "
+1861-1862,praise.01,beauty,,Affirmative,"The cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 , and he became one of America 's most beloved authors after assuming his pen name as a Nevada newspaper reporter around the same time , Hulse said . "
+1861-1862,visit.01,the lake,,Affirmative,"The cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 , and he became one of America 's most beloved authors after assuming his pen name as a Nevada newspaper reporter around the same time , Hulse said . "
+1861-1862,assume.01,his pen name,as,Affirmative,"The cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 , and he became one of America 's most beloved authors after assuming his pen name as a Nevada newspaper reporter around the same time , Hulse said . "
+Hulse,say.01,cove should be named for Twain,,Affirmative,"The cove should be named for Twain because he praised Tahoe 's beauty while visiting the lake in 1861-1862 , and he became one of America 's most beloved authors after assuming his pen name as a Nevada newspaper reporter around the same time , Hulse said . "
+He,overcome.01,his prejudices,,Affirmative,He learned and overcame his prejudices far better than most of his contemporaries and successors . 
+"Thomas Quirk ,",say.01,author eventually overcame,,Affirmative,"Thomas Quirk , an English professor emeritus at the University of Missouri and leading Twain scholar , said the author eventually overcame his racism against blacks . "
+the author,overcome.01,his racism against blacks,,Affirmative,"Thomas Quirk , an English professor emeritus at the University of Missouri and leading Twain scholar , said the author eventually overcame his racism against blacks . "
+Thomas Quirk,say.01,he has found,,Affirmative,But Quirk said he has found no evidence that he significantly changed his views on American Indians . 
+Thomas Quirk,find.01,no evidence,,Affirmative,But Quirk said he has found no evidence that he significantly changed his views on American Indians . 
+Thomas Quirk,change.01,his views on,,Affirmative,But Quirk said he has found no evidence that he significantly changed his views on American Indians . 
+Twain,embrace.01,the idea of idolizing,,Affirmative,"Twain did not embrace the idea of idolizing what he called the noble red man , Quirk said , and poked fun at writer James Fenimore Cooper for doing so . "
+Quirk,say.01,Twain did not embrace,,Affirmative,"Twain did not embrace the idea of idolizing what he called the noble red man , Quirk said , and poked fun at writer James Fenimore Cooper for doing so . "
+Twain,poke.01,fun,,Affirmative,"Twain did not embrace the idea of idolizing what he called the noble red man , Quirk said , and poked fun at writer James Fenimore Cooper for doing so . "
+he,say.01,", he was ahead of",,Affirmative,"When it comes to African Americans , he was ahead of his time substantially , he said . "
+he,sing.01,a different tune,,Affirmative,"If he were alive today , he would sing a different tune . "
+"member Robert Stewart ,",initiate.01,the plan,,Affirmative,"Board member Robert Stewart , who initiated the plan to name the cove for Clemens , said it 's unlikely it would resurface . "
+"member Robert Stewart ,",say.01,it 's unlikely,,Affirmative,"Board member Robert Stewart , who initiated the plan to name the cove for Clemens , said it 's unlikely it would resurface . "
+He,say.01,he dropped,,Affirmative,"He said he dropped his support of it , even though he learned about a later letter Twain wrote objecting to the treatment of tribes in Arizona and New Mexico . "
+he,drop.01,his support of it,,Affirmative,"He said he dropped his support of it , even though he learned about a later letter Twain wrote objecting to the treatment of tribes in Arizona and New Mexico . "
+he,learn.01,about,,Affirmative,"He said he dropped his support of it , even though he learned about a later letter Twain wrote objecting to the treatment of tribes in Arizona and New Mexico . "
+he,object.01,to,,Affirmative,"He said he dropped his support of it , even though he learned about a later letter Twain wrote objecting to the treatment of tribes in Arizona and New Mexico . "
+Robert Stewart,have.03,a great deal of respect for,,Affirmative,I have a great deal of respect for the Washoe Tribe . 
+their cultural committee,name.01,the cove for,,Affirmative,"And if their cultural committee is unhappy with naming the cove for Mark Twain , I 'm not going to fight them , Stewart said . "
+I,fight.01,them,,Affirmative,"And if their cultural committee is unhappy with naming the cove for Mark Twain , I 'm not going to fight them , Stewart said . "
+Stewart,say.01,", I 'm not going",,Affirmative,"And if their cultural committee is unhappy with naming the cove for Mark Twain , I 'm not going to fight them , Stewart said . "
+We,need.01,to show sensitivity to,,Affirmative,We need to show sensitivity to the tribe . 
+We,show.01,sensitivity to,,Affirmative,We need to show sensitivity to the tribe . 
+Stewart,say.01,he still believes,,Affirmative,Stewart said he still believes the cove near Incline Village is where Twain camped and accidentally started a wildfire while preparing to cook dinner in September 1861 . 
+he,believe.01,is,,Affirmative,Stewart said he still believes the cove near Incline Village is where Twain camped and accidentally started a wildfire while preparing to cook dinner in September 1861 . 
+"David Antonucci ,",maintain.01,Twain camped on,,Affirmative,"But David Antonucci , a civil engineer from Homewood , California , maintains Twain camped on the California side of the lake . "
+the U.S. Board on,reject.01,the request,,Affirmative,"In 2011 , the U.S. Board on Geographic Names rejected the request after the U.S. Forest Service said Twain 's influence on the Sierra Nevada lake was minimal and other historical figures were more deserving of the honor . "
+the U.S. Forest Service,say.01,was minimal and,,Affirmative,"In 2011 , the U.S. Board on Geographic Names rejected the request after the U.S. Forest Service said Twain 's influence on the Sierra Nevada lake was minimal and other historical figures were more deserving of the honor . "
+Supporters,seek.01,to honor him,,Affirmative,"Supporters sought to honor him because there is no geographic feature in the state named for Twain , whose book Roughing It put Nevada on the map . "
+Supporters,honor.01,him,,Affirmative,"Supporters sought to honor him because there is no geographic feature in the state named for Twain , whose book Roughing It put Nevada on the map . "

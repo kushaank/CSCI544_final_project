@@ -1,0 +1,98 @@
+1	(	(	-LRB-	_	2	punct	_
+2	Cushing	cushing	NNP	p2=NN	0	root	_
+3	,	,	,	_	2	punct	_
+4	Okla	okla	NNP	_	2	npadvmod	_
+5	.	.	.	_	2	punct	_
+6	)	)	-RRB-	_	2	punct	_
+
+1	 	 	NNP	p2=NFP	4	nn	_
+2	Hillcrest	hillcrest	NNP	_	4	nn	_
+3	Hospital	hospital	NNP	_	4	nn	_
+4	Cushing	cushing	NNP	_	6	nsubj	6:A0=PAG
+5	will	will	MD	_	6	aux	6:AM-MOD
+6	host	host	VB	pb=host.01	0	root	_
+7	their	their	PRP$	_	13	poss	_
+8	monthly	monthly	JJ	_	13	amod	_
+9	Lunch	lunch	NNP	p2=NN	13	nn	_
+10	&	&	CC	_	9	cc	_
+11	Learn	learn	NNP	p2=VB	9	conj	_
+12	Seminar	seminar	NNP	_	13	nn	_
+13	Thursday	thursday	NNP	_	6	dobj	6:A1=GOL
+14	,	,	,	_	13	punct	_
+15	May	may	NNP	_	13	appos	_
+16	22	0	CD	_	15	num	_
+17	,	,	,	_	15	punct	_
+18	2014	0	CD	_	15	num	_
+19	in	in	IN	_	15	prep	_
+20	the	the	DT	_	23	det	_
+21	Auxiliary	auxiliary	NNP	_	23	nn	_
+22	Education	education	NNP	_	23	nn	_
+23	Room	room	NNP	_	19	pobj	_
+24	of	of	IN	_	23	prep	_
+25	HHC	hhc	NNP	_	24	pobj	_
+26	.	.	.	_	6	punct	_
+
+1	 	 	``	p2=:	7	punct	_
+2	This	this	DT	_	3	det	_
+3	month	month	NN	_	6	poss	_
+4	's	's	POS	p2=VBZ	3	possessive	_
+5	featured	feature	VBN	p2=JJ|pb=feature.01	6	amod	_
+6	presenter	presenter	NN	_	7	nsubj	5:A1=PPT;7:A1=PPT
+7	is	be	VBZ	pb=be.01	0	root	_
+8	HHC	hhc	NNP	p2=VBN	9	nn	_
+9	Psychiatrist	psychiatrist	NN	p2=NNP	11	nn	_
+10	Jeffery	jeffery	NNP	_	11	nn	_
+11	McIlroy	mcilroy	NNP	_	7	attr	7:A2=PRD
+12	,	,	,	_	11	punct	_
+13	MD	md	NNP	_	11	appos	_
+14	.	.	.	_	7	punct	_
+
+1	Learn	learn	VB	p2=VBP|pb=learn.01	0	root	_
+2	about	about	IN	p2=RB	1	prep	1:A1=PPT
+3	Dementia	dementia	NNP	_	2	pobj	_
+4	and	and	CC	_	1	cc	_
+5	how	how	WRB	_	7	advmod	7:R-AM-MNR
+6	it	it	PRP	_	7	nsubj	7:A1=PPT
+7	relates	relate	VBZ	pb=relate.01	1	advcl	_
+8	to	to	IN	_	7	prep	7:A2=PPT
+9	Alzheimer	alzheimer	NNP	_	11	poss	_
+10	's	's	POS	_	9	possessive	_
+11	Disease	disease	NNP	_	8	pobj	_
+12	and	and	CC	_	11	cc	_
+13	memory	memory	NN	_	14	nn	_
+14	loss	loss	NN	_	11	conj	_
+15	.	.	.	_	1	punct	_
+
+1	A	a	DT	_	4	det	_
+2	free	free	JJ	_	4	amod	_
+3	sandwich	sandwich	NN	_	4	nn	_
+4	bar	bar	NN	_	7	nsubjpass	7:A1
+5	will	will	MD	_	7	aux	7:AM-MOD
+6	be	be	VB	_	7	auxpass	_
+7	provided	provided	VBN	pb=provide.01	0	root	_
+8	by	by	IN	_	7	agent	7:A0
+9	Hillcrest	hillcrest	NNP	_	11	nn	_
+10	Hospital	hospital	NNP	_	11	nn	_
+11	Cushing	cushing	NNP	_	8	pobj	_
+12	.	.	.	_	7	punct	_
+
+1	 	 	``	p2=,	12	punct	_
+2	There	there	EX	_	3	expl	_
+3	is	be	VBZ	pb=be.02	12	ccomp	_
+4	no	no	DT	_	5	det	_
+5	charge	charge	NN	_	3	attr	3:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	attend	attend	VB	pb=attend.01	5	infmod	_
+8	,	,	,	_	7	punct	_
+9	seating	seating	NN	_	12	nsubj	12:A1=PPT
+10	,	,	,	_	12	punct	_
+11	however	however	RB	_	12	advmod	12:AM-DIS
+12	is	be	VBZ	pb=be.01	0	root	_
+13	limited	limited	JJ	p2=VBN	12	acomp	12:A2=PRD
+14	.	.	.	_	12	punct	_
+
+1	Pressure	pressure	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	29.99	0	CD	_	1	appos	_
+4	"	"	''	p2=NN	1	punct	_
+

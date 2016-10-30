@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Narendra Modi,urge.01,the BJP leader,to reassure,Affirmative,"New Delhi :  Days before Narendra Modi is sworn - in as India 's 15th prime minister , an open letter to him , published in The Hindu today , urges the BJP leader to reassure the minorities ... "
+the BJP leader,reassure.01,"the minorities , Mr. Modi",,Affirmative,"New Delhi :  Days before Narendra Modi is sworn - in as India 's 15th prime minister , an open letter to him , published in The Hindu today , urges the BJP leader to reassure the minorities ... "
+by,write.01,The letter,,Affirmative,"The letter is written by Gopalkrishna Gandhi , a former senior diplomat , who has also served in the past as West Bengal Governor . "
+"a former senior diplomat ,",serve.01,as,,Affirmative,"The letter is written by Gopalkrishna Gandhi , a former senior diplomat , who has also served in the past as West Bengal Governor . "
+"Mr Gandhi , 69 ,",stress.01,thing it is,,Affirmative,"But Mr Gandhi , 69 , also stresses , What a wonderful thing it is , I said to myself , that one who has made and served chai for a living should be able to head the government of India . "
+I,say.01,should be able,to myself,Affirmative,"But Mr Gandhi , 69 , also stresses , What a wonderful thing it is , I said to myself , that one who has made and served chai for a living should be able to head the government of India . "
+one,head.01,the government of India,,Affirmative,"But Mr Gandhi , 69 , also stresses , What a wonderful thing it is , I said to myself , that one who has made and served chai for a living should be able to head the government of India . "
+Mr Modi,lead.02,the BJP,,Affirmative,"On Friday , Mr Modi led the BJP to a record national victory . "
+a party,get.02,a parliamentary majority,,Affirmative,"For the first time in 30 years , a party has got a parliamentary majority . "
+The BJP,win.01,282 parliamentary seats,,Affirmative,The BJP won 282 parliamentary seats ; 272 are needed to form the government . 
+the BJP,have.03,336 seats,,Affirmative,"With its allies , it has 336 seats . "
+Mr Gandhi,caution.01,BJP has won,,Affirmative,"Mr Gandhi cautions , The BJP has won the seats it has because you captured the imagination of 31 per cent of our people ( your vote share ) as the nation 's best guardian ... "
+The BJP,win.01,the seats,,Affirmative,"Mr Gandhi cautions , The BJP has won the seats it has because you captured the imagination of 31 per cent of our people ( your vote share ) as the nation 's best guardian ... "
+it,have.03,the seats,,Affirmative,"Mr Gandhi cautions , The BJP has won the seats it has because you captured the imagination of 31 per cent of our people ( your vote share ) as the nation 's best guardian ... "
+you,capture.01,the imagination of,,Affirmative,"Mr Gandhi cautions , The BJP has won the seats it has because you captured the imagination of 31 per cent of our people ( your vote share ) as the nation 's best guardian ... "
+69 per cent of,see.01,you,as,Affirmative,it has also to be noted that 69 per cent of the voters did not see you as their rakhvala ... 

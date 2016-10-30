@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Thieves,target.01,patrol cars,,Affirmative,Thieves target patrol cars in N. Harris Co. Authorities are still looking for more people they believe are responsible for stealing gear from two law enforcement vehicles . 
+Deputies,catch.01,one man,,Affirmative,Deputies caught one man who broke into their patrol cars and are looking for others over the weekend . 
+one man,break.02,into,,Affirmative,Deputies caught one man who broke into their patrol cars and are looking for others over the weekend . 
+one man,look.01,for others,,Affirmative,Deputies caught one man who broke into their patrol cars and are looking for others over the weekend . 
+Thieves,break.01,into,,Affirmative,Thieves broke into two patrol cars belonging to the Precinct 4 constable 's office on Sky Court near North Bend Drive in north Harris County . 
+two patrol cars belonging to,belong.01,to,,Affirmative,Thieves broke into two patrol cars belonging to the Precinct 4 constable 's office on Sky Court near North Bend Drive in north Harris County . 
+Authorities,say.01,they stole weapons and,,Affirmative,Authorities say they stole weapons and other tactical gear . 
+they,steal.01,weapons,,Affirmative,Authorities say they stole weapons and other tactical gear . 
+Deputy constables,manage.02,to catch up to,,Affirmative,Deputy constables managed to catch up to one suspect and recover some of the stolen items . 
+Deputy constables,recover.02,some of,,Affirmative,Deputy constables managed to catch up to one suspect and recover some of the stolen items . 
+This young man,have.03,monitoring bracelet on,,Affirmative,"This young man had a leg monitoring bracelet on his ankle at that time , which clearly says that he is under some kind of supervision , said Lt. Stan Jolly with the Harris County Precinct 4 Constable 's Office . "
+Lt. Stan Jolly with,say.01,man had,,Affirmative,"This young man had a leg monitoring bracelet on his ankle at that time , which clearly says that he is under some kind of supervision , said Lt. Stan Jolly with the Harris County Precinct 4 Constable 's Office . "
+Investigators,say.01,there may be,,Affirmative,Investigators say there may be three other people involved with the burglaries . 

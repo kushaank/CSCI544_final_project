@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Witness program,offer.01,"1,500 reward for information leading to",,Affirmative,"The Tehama County Secret Witness program is offering a $ 1,500 reward for information leading to the arrest and conviction of a man believed to have shot two men , killing one , while they were hiking near Red Bluff . "
+a man believed,shoot.02,"two men ,",,Affirmative,"The Tehama County Secret Witness program is offering a $ 1,500 reward for information leading to the arrest and conviction of a man believed to have shot two men , killing one , while they were hiking near Red Bluff . "
+"two men ,",kill.01,one,,Affirmative,"The Tehama County Secret Witness program is offering a $ 1,500 reward for information leading to the arrest and conviction of a man believed to have shot two men , killing one , while they were hiking near Red Bluff . "
+the suspect,pull.01,a gun,,Affirmative,"Sometime between 11:30 a.m. and noon the suspect approached the men and pulled a gun , demanding money and personal effects from the victims . "
+the attacker,shoot.02,the victims,,Affirmative,"After robbing them , the attacker shot the victims and left them in the area , about 100 yards from the trail head . "
+the attacker,leave.01,Sometime between 11:30 a.m. and noon the suspect,,Affirmative,"After robbing them , the attacker shot the victims and left them in the area , about 100 yards from the trail head . "
+A hiker,find.01,the victims,,Affirmative,"A hiker found the victims about three hours later and contacted law enforcement , according to the news release . "
+A hiker,contact.01,law enforcement,,Affirmative,"A hiker found the victims about three hours later and contacted law enforcement , according to the news release . "
+deputies,interview.01,Tehama County Sheriff 's,,Affirmative,"Tehama County Sheriff 's deputies have interviewed him , Lt. Yvette Borden said . "
+Lt. Yvette Borden,say.01,deputies have interviewed him,,Affirmative,"Tehama County Sheriff 's deputies have interviewed him , Lt. Yvette Borden said . "
+Lt. Yvette Borden,say.01,area is,,Affirmative,"The area is a popular hiking trail , about 5 miles north on Highway 36 East away from Highway 99 East in Red Bluff , and there were likely several other people on the trail at the time of the attack , Borden said . "
+Detectives,seek.01,any information,,Affirmative,"Detectives are seeking any information that may help them in the investigation , Borden said . "
+any information,help.01,Detectives,,Affirmative,"Detectives are seeking any information that may help them in the investigation , Borden said . "
+Lt. Yvette Borden,say.01,Detectives are seeking,,Affirmative,"Detectives are seeking any information that may help them in the investigation , Borden said . "
+Office,urge.01,anyone,with,Affirmative,The Sheriff 's Office urges anyone with additional information or who spotted something suspicious to contact Detective Jeff Garrett at 529-7920 ext . 
+Secret Witness,offer.01,"1,500 reward for",,Affirmative,"Secret Witness is offering a $ 1,500 reward for the arrest , prosecution and conviction of the shooter . "

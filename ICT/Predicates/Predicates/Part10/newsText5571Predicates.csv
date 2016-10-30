@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"DIXON • David Schreiner , CEO and president of",predict.01,States is headed toward,,Affirmative,"DIXON • David Schreiner , CEO and president of KSB Hospital , predicts that the United States is headed toward a single - payer health care system , which is what Canada and much of Europe have . "
+David Schreiner,say.01,that I like,,Affirmative,"I 'm not saying that I like that model , he said , but added that it 's been successful in other countries . "
+David Schreiner,like.01,that model,,Affirmative,"I 'm not saying that I like that model , he said , but added that it 's been successful in other countries . "
+David Schreiner,say.01,I 'm not saying,,Affirmative,"I 'm not saying that I like that model , he said , but added that it 's been successful in other countries . "
+David Schreiner,add.01,that it 's been successful in,,Affirmative,"I 'm not saying that I like that model , he said , but added that it 's been successful in other countries . "
+David Schreiner,say.01,It would work for KSB,,Affirmative,"It would work for KSB , Schreiner said , if it covered the costs of providing care , which Medicare and Medicaid do not . "
+,cover.03,"the costs of providing care ,",,Affirmative,"It would work for KSB , Schreiner said , if it covered the costs of providing care , which Medicare and Medicaid do not . "
+insured patients,subsidize.01,just about everyone else at KSB,,Affirmative,"As with CGH Medical Center and other hospitals , privately insured patients subsidize just about everyone else at KSB , including Medicare and Medicaid recipients . "
+KSB,have.03,an edge over CGH,,Affirmative,"KSB does have an edge over CGH in one regard , though . "
+an edge over CGH,get.01,higher reimbursement levels,,Affirmative,"It gets higher reimbursement levels , because it is considered part of the metropolitan Chicago wage classification index . "
+KSB Hospital,have.03,"1,000 employees to",,Affirmative,"KSB has about 1,000 employees to CGH 's 1,400 and 80 beds to CGH 's 99 . "
+to figure out,take.10,a lot of people,,Affirmative,It takes a lot of people to figure out who pays what . 
+CGH,estimate.01,workers are on staff,,Affirmative,CGH estimates that 125 workers are on staff because the health care billing system is so complex . 
+KSB Hospital,put.01,its number,at 72,Affirmative,"KSB puts its number at 72 , which is the total of employees in the patient financial services and health information management services departments . "
+David Schreiner,say.01,does n't even include those,,Affirmative,"That number , Schreiner said , does n't even include those who work for insurance companies . "
+the insurance companies,pay.01,providers,,Affirmative,One of the hospital 's biggest frustrations is the lag time between when services are provided and when insurance companies pay providers . 
+Insured people,pay.01,their premiums,,Affirmative,"Insured people pay their premiums , Schreiner said , yet insurance companies take months to pay for services provided to those they cover . "
+David Schreiner,say.01,people pay,,Affirmative,"Insured people pay their premiums , Schreiner said , yet insurance companies take months to pay for services provided to those they cover . "
+the insurance companies,take.01,months,,Affirmative,"Insured people pay their premiums , Schreiner said , yet insurance companies take months to pay for services provided to those they cover . "
+people,cover.01,those who work for insurance companies,,Affirmative,"Insured people pay their premiums , Schreiner said , yet insurance companies take months to pay for services provided to those they cover . "
+the insurance companies,process.01,claims,,Affirmative,Why do n't we incentivize the insurance companies to process claims as quickly as possible ? 
+Every hospital,have.03,what is known as,,Affirmative,"Every hospital has what is known as a chargemaster , the complete list of prices for billable items and services . "
+Medicaid and Medicare,pay.01,even less than,,Affirmative,Medicaid and Medicare pay even less than private insurance companies - at reimbursement levels determined by the government . 
+by,determine.01,reimbursement levels determined by,,Affirmative,Medicaid and Medicare pay even less than private insurance companies - at reimbursement levels determined by the government . 
+David Schreiner,decline.02,to say,,Affirmative,"Schreiner declined to say how he believed the Affordable Care Act , or Obamacare , would affect the hospital financially . "
+David Schreiner,say.01,how he believed,,Affirmative,"Schreiner declined to say how he believed the Affordable Care Act , or Obamacare , would affect the hospital financially . "
+David Schreiner,believe.01,"the Affordable Care Act , or Obamacare",,Affirmative,"Schreiner declined to say how he believed the Affordable Care Act , or Obamacare , would affect the hospital financially . "
+David Schreiner,say.01,It 's,,Affirmative,"It 's too early , he said . "
+David Schreiner,fear.01,- might stop providing insurance,,Affirmative,"But he feared that businesses with fewer than 50 employees - who will have no requirement under Obamacare to insure their employees - might stop providing insurance and , instead , give workers checks to buy insurance on the Affordable Care Act 's marketplaces . "
+50 employees -,have.03,no requirement under Obamacare,,Affirmative,"But he feared that businesses with fewer than 50 employees - who will have no requirement under Obamacare to insure their employees - might stop providing insurance and , instead , give workers checks to buy insurance on the Affordable Care Act 's marketplaces . "
+businesses with,stop.01,providing insurance,,Affirmative,"But he feared that businesses with fewer than 50 employees - who will have no requirement under Obamacare to insure their employees - might stop providing insurance and , instead , give workers checks to buy insurance on the Affordable Care Act 's marketplaces . "
+businesses with,provide.01,insurance,,Affirmative,"But he feared that businesses with fewer than 50 employees - who will have no requirement under Obamacare to insure their employees - might stop providing insurance and , instead , give workers checks to buy insurance on the Affordable Care Act 's marketplaces . "
+125 workers,buy.01,insurance,,Affirmative,"But he feared that businesses with fewer than 50 employees - who will have no requirement under Obamacare to insure their employees - might stop providing insurance and , instead , give workers checks to buy insurance on the Affordable Care Act 's marketplaces . "
+David Schreiner,say.01,might take,,Affirmative,"Some people , he said , might take their checks , spend the money on other things and pay Obamacare 's relatively small fines for not getting insurance . "
+Some people,take.01,their checks,,Affirmative,"Some people , he said , might take their checks , spend the money on other things and pay Obamacare 's relatively small fines for not getting insurance . "
+Some people,spend.02,on,,Affirmative,"Some people , he said , might take their checks , spend the money on other things and pay Obamacare 's relatively small fines for not getting insurance . "
+Some people,pay.01,small fines,,Affirmative,"Some people , he said , might take their checks , spend the money on other things and pay Obamacare 's relatively small fines for not getting insurance . "
+KSB,reinvest.01,any net income,,Affirmative,KSB reinvests any net income back into the hospital . 
+KSB officials,say.01,hospital takes,,Affirmative,"As a nonprofit , KSB officials say , the hospital takes its mission seriously . "
+KSB Hospital,take.01,its mission,,Affirmative,"As a nonprofit , KSB officials say , the hospital takes its mission seriously . "
+he,say.01,is,,Affirmative,"The goal , he said , is to provide services to the community . "
+Both CGH and KSB,acknowledge.01,chains have approached them about buying,,Affirmative,Both CGH and KSB acknowledge that hospital chains have approached them about buying their facilities . 
+Neither,show.01,interest,,Affirmative,Neither has shown interest . 
+Our board,want.01,hospital to remain independent,,Affirmative,"Our board has made the decision that it wants the hospital to remain independent , Schreiner said . "
+David Schreiner,say.01,board has made,,Affirmative,"Our board has made the decision that it wants the hospital to remain independent , Schreiner said . "
+Even the two area hospitals,discuss.01,merging,,Affirmative,Even the two area hospitals have discussed merging . 

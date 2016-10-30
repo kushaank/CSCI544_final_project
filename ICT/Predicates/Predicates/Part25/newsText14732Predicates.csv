@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two alert employees of,ward.01,a bid,,Affirmative,Two alert employees of a jewellery shop not only warded off a bid to snatch a bag containing just over Rs . 
+Two alert employees of a jewellery shop,help.01,police apprehend one of,,Affirmative,50 lakh in cash that they were carrying but also helped the police apprehend one of the culprits . 
+the police,apprehend.01,one of,,Affirmative,50 lakh in cash that they were carrying but also helped the police apprehend one of the culprits . 
+Two armed culprits,try.01,to snatch,,Affirmative,"Two armed culprits tried to snatch the bag from the two employees , who were on a scooter . "
+Two armed culprits,snatch.01,a bag containing just over Rs,from,Affirmative,"Two armed culprits tried to snatch the bag from the two employees , who were on a scooter . "
+by,raise.02,An alarm raised by,,Affirmative,An alarm raised by the latter resulted in one of the culprits being held . 
+"Krishnamurthy ,",ride.01,a scooter,,Affirmative,"Krishnamurthy , who was riding the scooter , told The Hindu that a motorbike overtook him on Cubbon Road and obstructed his path at the junction of Main Guard Cross Road . "
+"Krishnamurthy ,",tell.01,motorbike overtook him on,The Hindu,Affirmative,"Krishnamurthy , who was riding the scooter , told The Hindu that a motorbike overtook him on Cubbon Road and obstructed his path at the junction of Main Guard Cross Road . "
+a motorbike,overtake.01,C. Krishnamurthy,,Affirmative,"Krishnamurthy , who was riding the scooter , told The Hindu that a motorbike overtook him on Cubbon Road and obstructed his path at the junction of Main Guard Cross Road . "
+a motorbike,obstruct.01,his path,,Affirmative,"Krishnamurthy , who was riding the scooter , told The Hindu that a motorbike overtook him on Cubbon Road and obstructed his path at the junction of Main Guard Cross Road . "
+The pillion rider of,throw.01,chilli powder,on me,Affirmative,The pillion rider of the motorbike got off the vehicle and threw chilli powder on me . 
+a motorbike,cause.01,any discomfort,,Affirmative,But it did not cause me any discomfort as I was wearing a helmet . 
+C. Krishnamurthy,wear.01,a helmet,,Affirmative,But it did not cause me any discomfort as I was wearing a helmet . 
+The pillion rider of the motorbike,point.01,a knife,at me,Affirmative,"He pointed a knife at me and punched me on the face , and tried to snatch the cash bag . "
+The pillion rider of the motorbike,punch.01,C. Krishnamurthy,,Affirmative,"He pointed a knife at me and punched me on the face , and tried to snatch the cash bag . "
+The pillion rider of the motorbike,try.01,to snatch,,Affirmative,"He pointed a knife at me and punched me on the face , and tried to snatch the cash bag . "
+C. Krishnamurthy,hold.01,onto it,,Affirmative,"But I held onto it tight and , in turn , kicked him in the abdomen which put him on the back foot , he said . "
+C. Krishnamurthy,kick.01,The pillion rider of the motorbike,,Affirmative,"But I held onto it tight and , in turn , kicked him in the abdomen which put him on the back foot , he said . "
+the abdomen,put.01,The pillion rider of the motorbike,on,Affirmative,"But I held onto it tight and , in turn , kicked him in the abdomen which put him on the back foot , he said . "
+C. Krishnamurthy,say.01,But I held onto it,,Affirmative,"But I held onto it tight and , in turn , kicked him in the abdomen which put him on the back foot , he said . "
+"Rakesh ,",ride.01,pillion,,Affirmative,"Rakesh , who was riding pillion , was also attacked and kicked by the assailant . "
+by,kick.01,"Rakesh ,",,Affirmative,"Rakesh , who was riding pillion , was also attacked and kicked by the assailant . "
+Mr. Munichennappa,think.01,it was,,Affirmative,I first thought it was a case of road rage . 
+to realise,take.10,some minutes,us,Affirmative,"It took us some minutes to realise that it was a robbery bid , Mr. Munichennappa said . "
+some minutes,realise.01,that it was,,Affirmative,"It took us some minutes to realise that it was a robbery bid , Mr. Munichennappa said . "
+Mr. Munichennappa,say.01,It took us,,Affirmative,"It took us some minutes to realise that it was a robbery bid , Mr. Munichennappa said . "
+the pillion rider,attack.01,the scooterist,,Affirmative,"While the motorbike rider fled , the pillion rider who attacked the scooterist ran across the road towards Shivajinagar . "
+the pillion rider,run.02,across,,Affirmative,"While the motorbike rider fled , the pillion rider who attacked the scooterist ran across the road towards Shivajinagar . "
+Mr. Munichennappa and,give.01,a chase,,Affirmative,Mr. Munichennappa and a constable Dhanraj gave a chase and apprehended him with the help of people who had gathered there . 
+Mr. Munichennappa and,apprehend.01,Mr. Munichennappa,,Affirmative,Mr. Munichennappa and a constable Dhanraj gave a chase and apprehended him with the help of people who had gathered there . 
+the police,say.01,priority was,,Affirmative,The police said that their priority was to arrest Naresh 's accomplice now . 
+their priority,arrest.01,accomplice,,Affirmative,The police said that their priority was to arrest Naresh 's accomplice now . 

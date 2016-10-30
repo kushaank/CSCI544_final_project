@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+it,simulate.01,the path of ash,,Affirmative,"( Phys.org ) - The amount of time it takes to mathematically simulate the path of ash from a volcano eruption or a satellite collision can take hours , even days . "
+"However a new method ,",shorten.01,the process,to minutes,Affirmative,"However a new method , the Conjugate Unscented Transform ( CUT ) , has shortened the process to minutes . "
+by,create.01,The approach,,Affirmative,"The approach was created by Nagavenkat Adurthi , a University at Buffalo mechanical engineering doctoral candidate , while completing a homework assignment . "
+Nagavenkat Adurthi,find.01,methods inaccurate or,,Affirmative,"Finding taught methods inaccurate or time - consuming , Adurthi designed his own . "
+Nagavenkat Adurthi,design.01,his own,,Affirmative,"Finding taught methods inaccurate or time - consuming , Adurthi designed his own . "
+Nagavenkat Adurthi,think.01,Why do we have,,Affirmative,I thought : Why do we have to put points on these axes ? 
+we,put.01,points,on,Affirmative,I thought : Why do we have to put points on these axes ? 
+we,put.01,them,somewhere else,Affirmative,Why do n't we put them somewhere else ? 
+Nagavenkat Adurthi,introduce.02,new axes,,Affirmative,"So , I introduced new axes , says Adurthi . "
+Nagavenkat Adurthi,say.01,"So , I introduced",,Affirmative,"So , I introduced new axes , says Adurthi . "
+Nagavenkat Adurthi,reduce.01,the number of evaluations required,,Affirmative,I reduced the number of evaluations required to get the same amount of accuracy . 
+Nagavenkat Adurthi,get.01,fewer points than,,Affirmative,"Once I got fewer points than the regular methods , I found out CUT 's real potential . "
+Nagavenkat Adurthi,find.03,real potential,,Affirmative,"Once I got fewer points than the regular methods , I found out CUT 's real potential . "
+researchers,run.01,multiple simulations using,,Affirmative,"Because conditions that lead to natural disasters are often unknown , researchers run multiple simulations using different variables , or points , to more accurately predict events . "
+multiple simulations using,use.01,"different variables , or points",,Affirmative,"Because conditions that lead to natural disasters are often unknown , researchers run multiple simulations using different variables , or points , to more accurately predict events . "
+researchers,predict.01,events,,Affirmative,"Because conditions that lead to natural disasters are often unknown , researchers run multiple simulations using different variables , or points , to more accurately predict events . "
+The uncertainty,take.01,an average,,Affirmative,The uncertainty is overcome by taking an average . 
+Adurthi,test.01,the new approach against,,Affirmative,"Under the direction of Puneet Singla , associate professor of mechanical and aerospace engineering , Adurthi tested the new approach against existing methods . "
+Carlo method,predict.01,space collisions,,Affirmative,"The Monte Carlo method , often used to predict space collisions , requires at least two to three million random points , which take more than a week to simulate . "
+"million random points ,",take.10,more than,,Affirmative,"The Monte Carlo method , often used to predict space collisions , requires at least two to three million random points , which take more than a week to simulate . "
+CUT,reduce.01,the number of,,Affirmative,"CUT reduced the number of needed points to 745 , requiring fewer than 10 minutes . "
+CUT,require.01,10 minutes,,Affirmative,"CUT reduced the number of needed points to 745 , requiring fewer than 10 minutes . "
+approach,lower.01,the required trials of,,Affirmative,Adurthi 's approach also lowered the required trials of the volcano ash propagation model from 6500 simulations over several weeks to 161 simulations over one week . 
+by,award.01,Thesis Award,"CUT , detailed in",Affirmative,"CUT , detailed in Adurthi 's master 's thesis , The Conjugate Unscented Transform : A Method to Evaluate Multidimensional Expectation Integrals , was awarded the Outstanding Master 's Thesis Award for 2014 by the Northeastern Association of Graduate Schools . "
+Nagavenkat Adurthi,win.01,presentation awards for CUT,,Affirmative,"Adurthi also won two best session presentation awards for CUT during the 2013 American Control Conference , has six peer - reviewed conference publications and plans to submit two journal manuscripts on the method . "
+Puneet Singla,say.01,Nagavenkat is one of,,Affirmative,"Nagavenkat is one of those rare researchers who , with great ease , can tackle and solve with little supervision complex , interdisciplinary problems and produce publications of the highest quality , says Singla . "
+Nagavenkat Adurthi,plan.01,to propose,,Affirmative,Adurthi plans to propose the method to NASA scientists as well . 
+Nagavenkat Adurthi,propose.01,A Method to Evaluate Multidimensional Expectation Integrals,,Affirmative,Adurthi plans to propose the method to NASA scientists as well . 

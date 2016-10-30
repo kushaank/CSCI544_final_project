@@ -1,0 +1,66 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Osmany Corteguera,know.01,any English,,Affirmative,"He did n't know any English , his family was so poor they had never owned a car and he did n't even know what a university was . "
+they,own.01,a car,,Affirmative,"He did n't know any English , his family was so poor they had never owned a car and he did n't even know what a university was . "
+Osmany Corteguera,know.01,university was,,Affirmative,"He did n't know any English , his family was so poor they had never owned a car and he did n't even know what a university was . "
+the boy,head.02,to one of,,Affirmative,"Just five years later , the boy who ended up settling with his family in the working - class city of Hialeah , Florida , an immigrant stronghold near Miami , is heading to one of the most elite colleges in the country - with an academic record and SAT score that blows away just about any prep school student and those who spent thousands of dollars to boost college their entrance exam scores . "
+the boy,score.01,that blows away,,Affirmative,"Just five years later , the boy who ended up settling with his family in the working - class city of Hialeah , Florida , an immigrant stronghold near Miami , is heading to one of the most elite colleges in the country - with an academic record and SAT score that blows away just about any prep school student and those who spent thousands of dollars to boost college their entrance exam scores . "
+those,boost.01,exam scores,,Affirmative,"Just five years later , the boy who ended up settling with his family in the working - class city of Hialeah , Florida , an immigrant stronghold near Miami , is heading to one of the most elite colleges in the country - with an academic record and SAT score that blows away just about any prep school student and those who spent thousands of dollars to boost college their entrance exam scores . "
+you,look.01,at brainwashes,,Affirmative,"But living without it , looking at only what the government wants you to look at brainwashes you and makes you less educated . "
+the government,make.02,you less educated,,Affirmative,"But living without it , looking at only what the government wants you to look at brainwashes you and makes you less educated . "
+"Corteguera ,",graduate.01,from,,Affirmative,"Corteguera , now 17 , is graduating from Hialeah High with a 6.47 weighted grade point average and a near perfect score on the Stanford Achievement Test : a 2230 out of 2400 . "
+"The Cuban genius ,",want.01,to study,,Affirmative,"The Cuban genius , who wants to study computer science , ended up choosing the Massachusetts Institute of Technology , and won a full scholarship that will pay his full ride at the university . "
+"The Cuban genius ,",study.01,computer science,,Affirmative,"The Cuban genius , who wants to study computer science , ended up choosing the Massachusetts Institute of Technology , and won a full scholarship that will pay his full ride at the university . "
+"The Cuban genius ,",choose.01,the Massachusetts Institute of Technology,,Affirmative,"The Cuban genius , who wants to study computer science , ended up choosing the Massachusetts Institute of Technology , and won a full scholarship that will pay his full ride at the university . "
+"The Cuban genius ,",win.01,a full scholarship,,Affirmative,"The Cuban genius , who wants to study computer science , ended up choosing the Massachusetts Institute of Technology , and won a full scholarship that will pay his full ride at the university . "
+a full scholarship,pay.01,his full ride at,,Affirmative,"The Cuban genius , who wants to study computer science , ended up choosing the Massachusetts Institute of Technology , and won a full scholarship that will pay his full ride at the university . "
+The Cuban genius,tell.01,", he wants",News Latino,Affirmative,"He told Fox News Latino that because he never had Internet access when he lived in Cuba , he wants to work on making the Internet widely available in countries with repressive regimes . "
+The Cuban genius,have.03,Internet access,,Affirmative,"He told Fox News Latino that because he never had Internet access when he lived in Cuba , he wants to work on making the Internet widely available in countries with repressive regimes . "
+The Cuban genius,want.01,to work on making,,Affirmative,"He told Fox News Latino that because he never had Internet access when he lived in Cuba , he wants to work on making the Internet widely available in countries with repressive regimes . "
+The Cuban genius,work.01,on making,,Affirmative,"He told Fox News Latino that because he never had Internet access when he lived in Cuba , he wants to work on making the Internet widely available in countries with repressive regimes . "
+The Cuban genius,make.02,Internet widely available in countries with,,Affirmative,"He told Fox News Latino that because he never had Internet access when he lived in Cuba , he wants to work on making the Internet widely available in countries with repressive regimes . "
+The Cuban genius,think.01,I would use,,Affirmative,"I think I would use computer science to help open up the Internet in Cuba , China , North Korea , and Russia , he told FNL . "
+The Cuban genius,use.01,computer science,to help open up,Affirmative,"I think I would use computer science to help open up the Internet in Cuba , China , North Korea , and Russia , he told FNL . "
+The Cuban genius,open.03,the Internet,,Affirmative,"I think I would use computer science to help open up the Internet in Cuba , China , North Korea , and Russia , he told FNL . "
+you,look.01,at brainwashes,,Affirmative,"But living without it , looking at only what the government wants you to look at brainwashes you and makes you less educated . "
+the government,make.02,you less educated,,Affirmative,"But living without it , looking at only what the government wants you to look at brainwashes you and makes you less educated . "
+"Corteguera , now 17",say.01,he owes,,Affirmative,Corteguera says he owes his success to his parents and two elementary school teachers in Cuba . 
+"Corteguera , now 17",owe.01,his success,to,Affirmative,Corteguera says he owes his success to his parents and two elementary school teachers in Cuba . 
+"Corteguera , now 17",say.01,system is becoming,,Affirmative,"But the education system is becoming so bad in Cuba , he said , that high school students are being placed in elementary schools as teachers . "
+uncle,manage.02,to get,,Affirmative,Cortaguera 's uncle navigated the sea of Cuban bureaucracy and managed to get the boy and his parents to Hialeah . 
+Cubans,set.02,foot,on,Affirmative,Cubans who set foot on American soil are automatically given the opportunity to qualify for legal permanent resident status . 
+"Corteguera , now 17",spend.02,his time,playing marbles and flying kites,Affirmative,"Before arriving here , Corteguera spent his time playing marbles and flying kites . "
+"Corteguera , now 17",play.01,marbles,,Affirmative,"Before arriving here , Corteguera spent his time playing marbles and flying kites . "
+"Corteguera , now 17",fly.01,kites,,Affirmative,"Before arriving here , Corteguera spent his time playing marbles and flying kites . "
+"Corteguera , now 17",learn.01,how to play,,Affirmative,"Once in the U.S. , he learned how to play computer games , like the fantasy game Runescape , in an effort to fit in . "
+"Corteguera , now 17",play.01,computer games,,Affirmative,"Once in the U.S. , he learned how to play computer games , like the fantasy game Runescape , in an effort to fit in . "
+"Alina Grandal , one of",say.01,she believes,,Affirmative,"Alina Grandal , one of Corteguera 's college advisors at Hialeah High School , said she believes what Corteguera has accomplished is nothing short of amazing . "
+Alina Grandal,believe.01,accomplished is nothing short of amazing,,Affirmative,"Alina Grandal , one of Corteguera 's college advisors at Hialeah High School , said she believes what Corteguera has accomplished is nothing short of amazing . "
+a lot of people,think.01,it 's not,,Affirmative,"There 's a lot of people that may think it 's not a big deal , but I myself know how difficult it is , Grandal said . "
+I myself,know.01,difficult it is,,Affirmative,"There 's a lot of people that may think it 's not a big deal , but I myself know how difficult it is , Grandal said . "
+Alina Grandal,say.01,There 's,,Affirmative,"There 's a lot of people that may think it 's not a big deal , but I myself know how difficult it is , Grandal said . "
+Alina Grandal,know.01,hard it is,,Affirmative,"I know how hard it is to adapt , you 're kind of like an outcast . "
+"Corteguera , now 17",receive.01,one B,,Affirmative,"Corteguera only received one B since middle school , but he said that low grade , in physical education , was n't entirely his fault . "
+"Corteguera , now 17",say.01,", was n't entirely",,Affirmative,"Corteguera only received one B since middle school , but he said that low grade , in physical education , was n't entirely his fault . "
+you,have.03,a group activity,,Affirmative,"We had a group activity and someone dropped the ball , he said . "
+someone,drop.01,the ball,,Affirmative,"We had a group activity and someone dropped the ball , he said . "
+"Corteguera , now 17",say.01,We had,,Affirmative,"We had a group activity and someone dropped the ball , he said . "
+"Corteguera , now 17",begin.01,his journey to college,,Affirmative,Corteguera now begins his journey to college . 
+"Corteguera , now 17",say.01,he had,,Affirmative,He said he had a tough time deciding which college he would attend but ended up heeding his instincts . 
+"Corteguera , now 17",have.03,a tough time deciding,,Affirmative,He said he had a tough time deciding which college he would attend but ended up heeding his instincts . 
+"Corteguera , now 17",decide.01,college he would attend,,Affirmative,He said he had a tough time deciding which college he would attend but ended up heeding his instincts . 
+"Corteguera , now 17",heed.01,his instincts,,Affirmative,He said he had a tough time deciding which college he would attend but ended up heeding his instincts . 
+"Corteguera , now 17",have.03,a gut feeling for MIT,,Affirmative,"I had a gut feeling for MIT , Corteguera said . "
+"Corteguera , now 17",say.01,I had,,Affirmative,"I had a gut feeling for MIT , Corteguera said . "
+"Corteguera , now 17",like.01,the people there and,,Affirmative,I liked the people there and the culture . 
+the people,have.03,the best computer science in,,Affirmative,They had the best computer science in the country . 
+"Corteguera , now 17",have.03,a foolproof recipe for success,,Affirmative,Corteguera does n't have a foolproof recipe for success . 
+"Corteguera , now 17",say.01,there is,,Affirmative,"And , while he is driven and focused and obviously a genius , he said there is one thing that his helped him get high scores and do well in school . "
+"Corteguera , now 17",help.01,him get,,Affirmative,"And , while he is driven and focused and obviously a genius , he said there is one thing that his helped him get high scores and do well in school . "
+"Corteguera , now 17",get.01,high scores,,Affirmative,"And , while he is driven and focused and obviously a genius , he said there is one thing that his helped him get high scores and do well in school . "
+"Corteguera , now 17",do.02,one thing,,Affirmative,"And , while he is driven and focused and obviously a genius , he said there is one thing that his helped him get high scores and do well in school . "
+the people,overlook.01,a good night sleep,,Affirmative,"People always overlook a good night sleep , he explained . "
+"Corteguera , now 17",explain.01,People always overlook,,Affirmative,"People always overlook a good night sleep , he explained . "
+You,need.01,to be rested,,Affirmative,You need to be rested . 
+a good night sleep,feel.02,comes and gives you answers,,Affirmative,When you 're rested it feels like the hand of the God comes and gives you answers whenever you do n't know anything . 
+the hand of,give.01,answers,you,Affirmative,When you 're rested it feels like the hand of the God comes and gives you answers whenever you do n't know anything . 
+You,know.01,anything,,Affirmative,When you 're rested it feels like the hand of the God comes and gives you answers whenever you do n't know anything . 

@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sgt. Chad Brown,say.01,student will remain in,,Affirmative,"The student will remain in the Clark County Juvenile Detention Center on a felony charge of possession of a firearm on school grounds , Clark County sheriff 's Sgt. Chad Brown said . "
+"Louis Kramer ,",say.01,student was honest with administrators,,Affirmative,"Louis Kramer , Northeastern Local Schools superintendent , said the student was honest with administrators at the school , located on Middle Urbana Road , and told them he inadvertently brought the weapon to the school . "
+"Louis Kramer ,",tell.01,he inadvertently brought,them,Affirmative,"Louis Kramer , Northeastern Local Schools superintendent , said the student was honest with administrators at the school , located on Middle Urbana Road , and told them he inadvertently brought the weapon to the school . "
+the student who brought the weapon onto school property into custody at the school,bring.01,the weapon,to,Affirmative,"Louis Kramer , Northeastern Local Schools superintendent , said the student was honest with administrators at the school , located on Middle Urbana Road , and told them he inadvertently brought the weapon to the school . "
+Louis Kramer,say.01,situation was resolved,,Affirmative,"When the report was made to building administrators , the situation was resolved very quickly , Kramer said . "
+the principal,call.01,office,,Affirmative,"According to Sgt. Brown , the principal called the sheriff 's office at about 1:56 p.m. after receiving word about the weapon from another student . "
+The preliminary investigation,suggest.01,student told,,Affirmative,"The preliminary investigation suggests the student told that second student about the gun -- which was not loaded -- and that student told the principal , Brown said . "
+Clark County sheriff 's Sgt. Chad Brown,say.01,investigation suggests,,Affirmative,"The preliminary investigation suggests the student told that second student about the gun -- which was not loaded -- and that student told the principal , Brown said . "
+the principal,search.01,the car of a Kenton Ridge High School student on Monday afternoon,,Affirmative,"The principal searched the car and found the gun and a box of ammo containing 50 rounds , Brown said . "
+the principal,find.01,the gun and,,Affirmative,"The principal searched the car and found the gun and a box of ammo containing 50 rounds , Brown said . "
+ammo containing,contain.01,50 rounds,,Affirmative,"The principal searched the car and found the gun and a box of ammo containing 50 rounds , Brown said . "
+Clark County sheriff 's Sgt. Chad Brown,say.01,principal searched,,Affirmative,"The principal searched the car and found the gun and a box of ammo containing 50 rounds , Brown said . "
+the principal,have.03,the authority,,Affirmative,"The car was parked on school property and the principal does have the authority to search personal property , Brown said . "
+Clark County sheriff 's Sgt. Chad Brown,say.01,car was parked on,,Affirmative,"The car was parked on school property and the principal does have the authority to search personal property , Brown said . "
+Louis Kramer,say.01,student gave,,Affirmative,Kramer said the student gave school administrators permission to search his vehicle . 
+the student who brought the weapon onto school property into custody at the school,give.01,permission,school administrators,Affirmative,Kramer said the student gave school administrators permission to search his vehicle . 
+school administrators,search.01,his vehicle,,Affirmative,Kramer said the student gave school administrators permission to search his vehicle . 
+deputies,take.01,the student,,Affirmative,Sheriff 's deputies were called and took the student who brought the weapon onto school property into custody at the school . 
+the student,bring.01,the weapon,into custody,Affirmative,Sheriff 's deputies were called and took the student who brought the weapon onto school property into custody at the school . 
+Sheriff 's deputies,believe.01,was in danger,,Affirmative,"We do not believe anyone at the school was in danger at any time , Brown said . "
+Clark County sheriff 's Sgt. Chad Brown,say.01,We do not believe,,Affirmative,"We do not believe anyone at the school was in danger at any time , Brown said . "
+"by Kramer ,",reiterate.01,That conclusion,,Affirmative,"That conclusion was reiterated by Kramer , who noted that ironically , the district is conducting safety drills at its schools this week . "
+"Kramer ,",note.01,district is conducting,,Affirmative,"That conclusion was reiterated by Kramer , who noted that ironically , the district is conducting safety drills at its schools this week . "
+the district,conduct.01,safety drills,,Affirmative,"That conclusion was reiterated by Kramer , who noted that ironically , the district is conducting safety drills at its schools this week . "
+Louis Kramer,say.01,student still can be suspended and,,Affirmative,"Kramer said that while he can not speak specifically about a possible punishment for the student because the case is still under investigation , a student still can be suspended and then be recommended for expulsion for a situation like the one the student is accused of committing . "
+Louis Kramer,speak.01,about,,Affirmative,"Kramer said that while he can not speak specifically about a possible punishment for the student because the case is still under investigation , a student still can be suspended and then be recommended for expulsion for a situation like the one the student is accused of committing . "
+officials,say.01,they did not believe,,Affirmative,The name of the student will no longer be used because of his age and because the district supeintendent and sheriff 's officials said they did not believe the incident posed a threat to students . 
+the district supeintendent and sheriff 's officials,believe.01,incident posed,,Affirmative,The name of the student will no longer be used because of his age and because the district supeintendent and sheriff 's officials said they did not believe the incident posed a threat to students . 
+the incident,pose.02,a threat to students,,Affirmative,The name of the student will no longer be used because of his age and because the district supeintendent and sheriff 's officials said they did not believe the incident posed a threat to students . 
+We,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+We,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+We,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

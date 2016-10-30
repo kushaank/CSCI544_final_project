@@ -1,0 +1,93 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+York racing officials,decide.01,to allow,,Affirmative,"Could be , now that New York racing officials have decided to allow the 3 - year - old to wear a breathing strip during the June 7 Belmont Stakes , where he will run for one of the rarest achievements in big - money sports -- the Triple Crown . "
+York racing officials,allow.01,old to wear,,Affirmative,"Could be , now that New York racing officials have decided to allow the 3 - year - old to wear a breathing strip during the June 7 Belmont Stakes , where he will run for one of the rarest achievements in big - money sports -- the Triple Crown . "
+year - old,wear.01,a breathing strip,,Affirmative,"Could be , now that New York racing officials have decided to allow the 3 - year - old to wear a breathing strip during the June 7 Belmont Stakes , where he will run for one of the rarest achievements in big - money sports -- the Triple Crown . "
+the 3-year-old,run.02,for one of,,Affirmative,"Could be , now that New York racing officials have decided to allow the 3 - year - old to wear a breathing strip during the June 7 Belmont Stakes , where he will run for one of the rarest achievements in big - money sports -- the Triple Crown . "
+Racetrack stewards representing,represent.01,"State Gaming Commission ,",,Affirmative,"Racetrack stewards representing the New York State Gaming Commission , the New York Racing Association and the Jockeys Club agreed Monday to end a Belmont policy prohibiting use of the strips . "
+Racetrack stewards representing,agree.01,to end,,Affirmative,"Racetrack stewards representing the New York State Gaming Commission , the New York Racing Association and the Jockeys Club agreed Monday to end a Belmont policy prohibiting use of the strips . "
+a Belmont policy prohibiting use of,prohibit.01,use of,,Affirmative,"Racetrack stewards representing the New York State Gaming Commission , the New York Racing Association and the Jockeys Club agreed Monday to end a Belmont policy prohibiting use of the strips . "
+trainer,say.01,owners might not allow,,Affirmative,"The colt 's trainer had said his owners might not allow him to race without a strip , which the manufacturer says allows horses to breathe more freely and reduces the risk of bleeding in the lungs during heavy exertion . "
+his owners,allow.01,him to race without,,Affirmative,"The colt 's trainer had said his owners might not allow him to race without a strip , which the manufacturer says allows horses to breathe more freely and reduces the risk of bleeding in the lungs during heavy exertion . "
+"the manufacturer , Flair",say.01,allows,,Affirmative,"The colt 's trainer had said his owners might not allow him to race without a strip , which the manufacturer says allows horses to breathe more freely and reduces the risk of bleeding in the lungs during heavy exertion . "
+The ' fastest two minutes in,wear.01,"The strips , introduced in 1999",,Affirmative,"The ' fastest two minutes in sports ' California Chrome has worn the strips during his last six wins , including first - place finishes at the Kentucky Derby and Preakness Stakes , the other two legs of the Triple Crown . "
+Flair,say.01,Palmer told,,Affirmative,"While the manufacturer , Flair , says horses who wear the strips use five to eight percent less energy at high speed and during recovery , New York State Gaming Commission Equine Medical Director Scott E. Palmer told the racetrack stewards that there 's no evidence they confer a competitive advantage . "
+horses,wear.01,"The strips , introduced in 1999",,Affirmative,"While the manufacturer , Flair , says horses who wear the strips use five to eight percent less energy at high speed and during recovery , New York State Gaming Commission Equine Medical Director Scott E. Palmer told the racetrack stewards that there 's no evidence they confer a competitive advantage . "
+horses,use.01,less energy,,Affirmative,"While the manufacturer , Flair , says horses who wear the strips use five to eight percent less energy at high speed and during recovery , New York State Gaming Commission Equine Medical Director Scott E. Palmer told the racetrack stewards that there 's no evidence they confer a competitive advantage . "
+Director Scott E. Palmer,tell.01,that there 's,the racetrack stewards,Affirmative,"While the manufacturer , Flair , says horses who wear the strips use five to eight percent less energy at high speed and during recovery , New York State Gaming Commission Equine Medical Director Scott E. Palmer told the racetrack stewards that there 's no evidence they confer a competitive advantage . "
+the racetrack stewards,confer.02,a competitive advantage,,Affirmative,"While the manufacturer , Flair , says horses who wear the strips use five to eight percent less energy at high speed and during recovery , New York State Gaming Commission Equine Medical Director Scott E. Palmer told the racetrack stewards that there 's no evidence they confer a competitive advantage . "
+Equine nasal strips,enhance.01,equine performance,,Affirmative,"Equine nasal strips do not enhance equine performance nor do they pose a risk to equine health or safety and as such do not need to be regulated , the organizations quoted Palmer as saying in the letter . "
+the racetrack stewards,pose.02,a risk,to,Affirmative,"Equine nasal strips do not enhance equine performance nor do they pose a risk to equine health or safety and as such do not need to be regulated , the organizations quoted Palmer as saying in the letter . "
+such,need.01,to be regulated,,Affirmative,"Equine nasal strips do not enhance equine performance nor do they pose a risk to equine health or safety and as such do not need to be regulated , the organizations quoted Palmer as saying in the letter . "
+the organizations,quote.01,New York State Gaming Commission Equine Medical Director Scott E. Palmer,as saying in,Affirmative,"Equine nasal strips do not enhance equine performance nor do they pose a risk to equine health or safety and as such do not need to be regulated , the organizations quoted Palmer as saying in the letter . "
+the horse 's co-owner,expect.01,it to take,,Affirmative,"Hours earlier , the horse 's co-owner told CNN 's New Day that he had expected it to take another day or two for the issue to be resolved . "
+Hours,take.01,another day or two,,Affirmative,"Hours earlier , the horse 's co-owner told CNN 's New Day that he had expected it to take another day or two for the issue to be resolved . "
+the racetrack stewards,want.01,to run,,Affirmative,"We want to run ; we really do , Steve Coburn said . "
+Steve Coburn,say.01,we really do,,Affirmative,"We want to run ; we really do , Steve Coburn said . "
+Steve Coburn,think.01,want,,Affirmative,I think the people of New York want us to bring this horse here . 
+the people of,want.01,us to bring,,Affirmative,I think the people of New York want us to bring this horse here . 
+the racetrack stewards,bring.01,the horse 's,,Affirmative,I think the people of New York want us to bring this horse here . 
+the people of New York,want.01,to see,,Affirmative,They want to see him run . 
+the people of New York,see.01,him run,,Affirmative,They want to see him run . 
+sports ' California Chrome,travel.01,"from Baltimore , Maryland",,Affirmative,"California Chrome will travel from Baltimore , Maryland , to Elmont , New York , on Tuesday . "
+by people with,wear.01,ones,,Affirmative,The strips in question are similar to ones sometimes worn by people with nasal congestion or breathing problems . 
+"The strips , introduced in 1999",keep.04,airway,from becoming smaller during,Affirmative,"According to the manufacturer , the strips keep a horse 's airway from becoming smaller during strenuous activity . "
+"the manufacturer , Flair",help.01,provide,,Affirmative,"That helps provide more air to the lungs and reduce the chance of bleeding , which Flair said is common in hard - working horses . "
+"the manufacturer , Flair",reduce.01,"the chance of bleeding ,",,Affirmative,"That helps provide more air to the lungs and reduce the chance of bleeding , which Flair said is common in hard - working horses . "
+Flair,say.01,is common in,,Affirmative,"That helps provide more air to the lungs and reduce the chance of bleeding , which Flair said is common in hard - working horses . "
+a spokeswoman for Flair,write.01,strips are based on,,Affirmative,"In an e-mail , a spokeswoman for Flair wrote : The strips are based on the same principles as the human Breathe Right strip . "
+horses who wear the strips `` use five to eight percent less energy at high speed and during recovery,make.02,more important,,Affirmative,"However , horses only breathe through their noses , making it even more important to support the tissue that collapses inward during deep breathing . "
+Nan Rawlins,say.01,found,,Affirmative,"Nan Rawlins said that a survey of the top 55 trainers by the company found that its strips were worn in nearly 10,000 races in 2013 , but a precise number worn in all races was not available . "
+a survey of,find.01,strips were worn in,,Affirmative,"Nan Rawlins said that a survey of the top 55 trainers by the company found that its strips were worn in nearly 10,000 races in 2013 , but a precise number worn in all races was not available . "
+Nan Rawlins,write.01,are popular in,,Affirmative,"The strips , introduced in 1999 , are popular in other types of events like barrel racing , eventing and quarter horses , Rawlins wrote . "
+the 11 horses,manage.01,the feat,,Affirmative,Here 's a look back at the 11 horses who 've managed the feat . 
+Gallant Fox,capture.01,the Triple Crown,,Affirmative,"More than a decade later , Gallant Fox captured the Triple Crown in 1930 . "
+Omaha --,win.01,the Triple Crown,,Affirmative,Omaha -- the son of Gallant Fox -- won the Triple Crown in 1935 . 
+jockey Pat Beasley,ride.01,the horse,,Affirmative,"Here , jockey Pat Beasley rides the horse in 1936 . "
+War Admiral,take.01,the Triple Crown,,Affirmative,War Admiral took the Triple Crown in 1937 . 
+War Admiral,win.01,21 of,,Affirmative,He won 21 of his 26 career starts . 
+Whirlaway,win.01,the Triple Crown,,Affirmative,Whirlaway ( here with horse Robert Morris ) won the Triple Crown in 1941 and was named Horse of the Year . 
+"Count Fleet ,",win.01,the Triple Crown,,Affirmative,"Count Fleet , who won the Triple Crown in 1943 , is adorned with a garland of flowers after winning the Preakness Stakes in 1943 . "
+"Count Fleet ,",win.01,the Kentucky Derby and Preakness Stakes,,Affirmative,"Count Fleet , who won the Triple Crown in 1943 , is adorned with a garland of flowers after winning the Preakness Stakes in 1943 . "
+Assault,win.01,the Triple Crown,,Affirmative,Assault won the Triple Crown in 1946 . 
+He,win.01,the following year,the Triple Crown,Affirmative,He would win the Triple Crown the following year . 
+Secretariat,leave.01,"Secretariat , left , heads to victory with",,Affirmative,"Secretariat , left , heads to victory with jockey Ron Turcotte at the Kentucky Derby in 1973 . "
+by many,consider.02,to be,,Affirmative,"Considered by many to be the greatest racehorse of all time , Secretariat still holds the record for the fastest times in all three Triple Crown races . "
+Secretariat,hold.01,the record for,,Affirmative,"Considered by many to be the greatest racehorse of all time , Secretariat still holds the record for the fastest times in all three Triple Crown races . "
+many,win.01,the Belmont Stakes,,Affirmative,He won the Belmont Stakes by an astounding 31 lengths . 
+Jockey Jean Cruguet,guide.01,Seattle Slew,to,Affirmative,Jockey Jean Cruguet guides Seattle Slew to the Triple Crown at the Belmont Stakes in 1977 . 
+I,have.03,Another faced,,Affirmative,"In 2012 , I 'll Have Another faced a similar dilemma after winning the Kentucky Derby and Preakness , but the issue was never resolved after the horse suffered a career - ending leg injury and was unable to run the race . "
+Another,face.01,a similar dilemma,,Affirmative,"In 2012 , I 'll Have Another faced a similar dilemma after winning the Kentucky Derby and Preakness , but the issue was never resolved after the horse suffered a career - ending leg injury and was unable to run the race . "
+the horse 's,suffer.01,ending leg injury,,Affirmative,"In 2012 , I 'll Have Another faced a similar dilemma after winning the Kentucky Derby and Preakness , but the issue was never resolved after the horse suffered a career - ending leg injury and was unable to run the race . "
+sports ' California Chrome,win.01,the Belmont Stakes,,Affirmative,"If California Chrome wins the Belmont Stakes , he would be the first horse since Affirmed in 1978 to achieve the ultimate feat in thoroughbred racing . "
+Another faced a similar dilemma after winning the Kentucky Derby and Preakness,achieve.01,the ultimate feat,,Affirmative,"If California Chrome wins the Belmont Stakes , he would be the first horse since Affirmed in 1978 to achieve the ultimate feat in thoroughbred racing . "
+The colt 's,win.01,the 139th running of,,Affirmative,The colt won the 139th running of the Preakness Stakes in Baltimore on Saturday with a burst at the homestretch . 
+jockey Victor Espinoza,tell.01,It is,NBC Sports,Affirmative,"It is an awesome feeling to be able to have a horse like California Chrome , jockey Victor Espinoza told NBC Sports after the race . "
+I,ride.01,him,,Affirmative,I got more tired mentally than physically riding him . 
+Sherman,describe.01,sports ' California Chrome,,Affirmative,"Sherman described California Chrome in no uncertain terms : Pure and simple , he 's a rock star . "
+by Coburn and Martin,purchase.01,"the Chase , purchased by Coburn and Martin",,Affirmative,"California Chrome was born to a mare named Love the Chase , purchased by Coburn and Martin for $ 8,000 with a view to breeding . "
+the novice pair,undertake.01,the first breeding,,Affirmative,"She was bred to the stallion Lucky Pulpit for a reduced fee of $ 2,000 , the first breeding the novice pair had ever undertaken . "
+Their offspring,earn.01,more than $ 2.3 million in,,Affirmative,"Their offspring had earned Coburn and Perry more than $ 2.3 million in prize money before the Preakness , also chalking up wins at the Santa Anita Derby , San Felipe Stakes and California Cup Derby . "
+Steve Coburn,tell.01,that he saw,Chris Cuomo,Affirmative,Coburn told CNN 's Chris Cuomo that he saw the horse in a dream three weeks before he was born and knew he would do big things . 
+he,see.01,the horse,,Affirmative,Coburn told CNN 's Chris Cuomo that he saw the horse in a dream three weeks before he was born and knew he would do big things . 
+he,know.01,he would do,,Affirmative,Coburn told CNN 's Chris Cuomo that he saw the horse in a dream three weeks before he was born and knew he would do big things . 
+he,do.02,big things,,Affirmative,Coburn told CNN 's Chris Cuomo that he saw the horse in a dream three weeks before he was born and knew he would do big things . 
+Coburn,say.01,He 's proven us,,Affirmative,"He 's proven us right so far , Coburn said Monday . "
+CNN 's Chris Cuomo,say.01,it 's not,,Affirmative,"In an earlier interview , he even said it 's not a stretch to compare his horse to Seabiscuit , the undersized horse who never competed in a Triple Crown race but still outran Triple Crown winner War Admiral in a 1938 showdown , becoming a Depression-era symbol of hope and determination in the process . "
+the little guy kicking,kick.01,the big guy,,Affirmative,"He became the people 's horse in the Depression because he was the little guy kicking the big guy , Coburn said . "
+Coburn,say.01,He became,,Affirmative,"He became the people 's horse in the Depression because he was the little guy kicking the big guy , Coburn said . "
+We,do.02,that,,Affirmative,We 're doing that in the same kind of way . 
+No one,give.01,any credence,it,Affirmative,"No one ever gave it any credence , and we should n't be where we are now . "
+thousand tents and hundreds of horses,converge.01,on,,Affirmative,"Each August , over a thousand tents and hundreds of horses converge on Little Big Horn River in Montana for the Crow Fair and Rodeo . "
+he,visit.01,the Glorious Goodwood festival,,Affirmative,Hollywood star Tom Cruise was a big hit when he visited the Glorious Goodwood festival . 
+he,give.01,acting,,Affirmative,"Now in his 50 s , one of the world 's most successful jockeys explains why he gave up acting to return to the sport that nearly crippled him . "
+he,act.02,to return to,,Affirmative,"Now in his 50 s , one of the world 's most successful jockeys explains why he gave up acting to return to the sport that nearly crippled him . "
+the sport,cripple.01,him,,Affirmative,"Now in his 50 s , one of the world 's most successful jockeys explains why he gave up acting to return to the sport that nearly crippled him . "
+More people,win.01,the fabled Triple Crown of,,Affirmative,More people have walked on the moon than have won the fabled Triple Crown of U.S. horse racing . 
+California Chrome,seek.01,to square,,Affirmative,California Chrome is seeking to square that score . 
+California Chrome,square.01,that score,,Affirmative,California Chrome is seeking to square that score . 
+A long history of controversy,make.02,enfant terrible of,,Affirmative,"A long history of controversy made him the enfant terrible of horse racing , but veteran jockey Kieren Fallon is looking for redemption . "
+jockey Kieren Fallon,look.01,for redemption,,Affirmative,"A long history of controversy made him the enfant terrible of horse racing , but veteran jockey Kieren Fallon is looking for redemption . "
+you,make.01,millions,,Affirmative,Buy for the right price and you could make millions . 
+you,make.01,expensive mistakes,,Affirmative,Get it wrong and it could be one of the most expensive mistakes you ever make . 
+"Mine That Bird ,",have.03,his incredible story told on,,Affirmative,"Mine That Bird , the 2009 winner of the Kentucky Derby , is having his incredible story told on the silver screen . "
+jockey Sam Waley - Cohen,resurrect.01,relationship with,,Affirmative,Amateur jockey Sam Waley - Cohen is perhaps best known for helping to resurrect Prince William 's relationship with Kate Middleton . 

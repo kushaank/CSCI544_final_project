@@ -1,0 +1,6 @@
+1	save	save	VB	p2=VBP|pb=save.01	0	root	_
+2	on	on	IN	p2=RP	1	prep	1:A1=PPT
+3	SMS	sms	NN	p2=NNP	4	nn	_
+4	fees	fee	NNS	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+

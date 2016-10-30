@@ -1,0 +1,22 @@
+1	In	in	IN	_	9	prep	9:AM-LOC
+2	a	a	DT	_	3	det	_
+3	statement	statement	NN	_	1	pobj	_
+4	,	,	,	_	9	punct	_
+5	Al	al	NNP	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	Jarallah	jarallah	NNP	_	9	nsubj	9:A0=PAG
+8	categorically	categorically	RB	_	9	advmod	9:AM-MNR
+9	denied	deny	VBD	pb=deny.01	0	root	_
+10	reported	report	VBN	p2=VBD|pb=report.01	11	amod	_
+11	names	name	NNS	_	9	dobj	9:A1=PPT;10:A1
+12	of	of	IN	_	11	prep	_
+13	ambassadors	ambassador	NNS	_	12	pobj	_
+14	and	and	CC	_	13	cc	_
+15	diplomatic	diplomatic	JJ	_	16	amod	_
+16	missions	mission	NNS	_	13	conj	_
+17	they	they	PRP	_	19	nsubjpass	19:A1=PPT
+18	were	be	VBD	_	19	auxpass	_
+19	transferred	transfer	VBN	pb=transfer.01	9	ccomp	_
+20	to	to	IN	_	19	prep	19:A2=GOL
+21	.	.	.	_	9	punct	_
+

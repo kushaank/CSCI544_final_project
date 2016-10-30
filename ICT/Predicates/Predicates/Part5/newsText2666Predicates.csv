@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,have.03,a subscription,,Affirmative,Please login if you have a subscription . 
+you,request.01,a trial,,Affirmative,"Alternatively , you can request a trial , or contact your IFR account manager for more information . "
+you,contact.01,your IFR account manager,,Affirmative,"Alternatively , you can request a trial , or contact your IFR account manager for more information . "
+you,have.03,a subscription to IFRe,,Affirmative,"If you have a subscription to IFRe , please enter your login details . "
+you,forget.01,your login,,Affirmative,"If you have forgotten your login , you can request a reminder using the link below . "
+you,request.01,a reminder using,,Affirmative,"If you have forgotten your login , you can request a reminder using the link below . "
+a reminder using,use.01,the link below,,Affirmative,"If you have forgotten your login , you can request a reminder using the link below . "

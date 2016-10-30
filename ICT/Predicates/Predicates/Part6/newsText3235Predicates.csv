@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. Department of Justice,evoke.01,criminal charges against,,Affirmative,The U.S. Department of Justice evoked criminal charges against Chinese officials after finding that they have hacked the system and stole U.S. secrets . 
+The U.S. Department of Justice,find.01,that they have hacked,,Affirmative,The U.S. Department of Justice evoked criminal charges against Chinese officials after finding that they have hacked the system and stole U.S. secrets . 
+Chinese officials,hack.01,the system,,Affirmative,The U.S. Department of Justice evoked criminal charges against Chinese officials after finding that they have hacked the system and stole U.S. secrets . 
+Chinese officials,steal.01,U.S. secrets,,Affirmative,The U.S. Department of Justice evoked criminal charges against Chinese officials after finding that they have hacked the system and stole U.S. secrets . 
+The cyber criminals,steal.01,U.S. business plans and,,Affirmative,The cyber criminals who were part of the Chinese government reportedly hacked in the computer systems of U.S. companies and stole U.S. business plans and other critical information . 
+USA Today,note.01,", this is",,Affirmative,"According to officials , this is the first time a situation such as this has occurred with state actors , USA Today noted . "
+The U.S.,consider.02,China to be one of,,Affirmative,The U.S. considers China to be one of the groups most likely to hack into U.S. systems such as the NSA and Cyber Command . 
+The Chinese military,steal.01,information and property,,Affirmative,The Chinese military has previously been accused of stealing information and property . 
+Obama,state.01,concern is about theft of secrets,to,Affirmative,Obama stated to the Xi that the U.S. concern is about theft of secrets and not security . 
+Secretary Chuck Hagel,announce.01,Pentagon will be greatly increasing,,Affirmative,"In March , defense Secretary Chuck Hagel announced that the Pentagon will be greatly increasing the size of its cybersecurity staff to protect the U.S. from future cyber - attacks that may harm national security , according to Fox News . "
+the Pentagon,increase.01,the size of,,Affirmative,"In March , defense Secretary Chuck Hagel announced that the Pentagon will be greatly increasing the size of its cybersecurity staff to protect the U.S. from future cyber - attacks that may harm national security , according to Fox News . "
+the Pentagon,protect.01,The U.S.,from,Affirmative,"In March , defense Secretary Chuck Hagel announced that the Pentagon will be greatly increasing the size of its cybersecurity staff to protect the U.S. from future cyber - attacks that may harm national security , according to Fox News . "
+future cyber - attacks,harm.01,national security,,Affirmative,"In March , defense Secretary Chuck Hagel announced that the Pentagon will be greatly increasing the size of its cybersecurity staff to protect the U.S. from future cyber - attacks that may harm national security , according to Fox News . "
+General Eric Holder,plan.01,to announce,,Affirmative,U.S. Attorney General Eric Holder plans to announce the names of those who committed cyber - espionage today . 
+General Eric Holder,announce.01,the names of those,,Affirmative,U.S. Attorney General Eric Holder plans to announce the names of those who committed cyber - espionage today . 
+those,commit.02,cyber - espionage,,Affirmative,U.S. Attorney General Eric Holder plans to announce the names of those who committed cyber - espionage today . 

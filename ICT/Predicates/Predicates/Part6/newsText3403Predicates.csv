@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A twitter troll,bombard.01,a Labour MP,,Affirmative,"A twitter troll bombarded a Labour MP with abusive messages after she supported a successful campaign to feature Jane Austen on £10 notes , a court heard yesterday . "
+she,support.01,a successful campaign,,Affirmative,"A twitter troll bombarded a Labour MP with abusive messages after she supported a successful campaign to feature Jane Austen on £10 notes , a court heard yesterday . "
+a successful campaign,feature.01,Jane Austen,on,Affirmative,"A twitter troll bombarded a Labour MP with abusive messages after she supported a successful campaign to feature Jane Austen on £10 notes , a court heard yesterday . "
+the ' menacing ' messages threatening,threaten.01,to rape,,Affirmative,"Peter Nunn , 33 , is said to have passed on the ' menacing ' messages threatening to rape Stella Creasy and calling her an ' evil witch ' . "
+the ' menacing ' messages threatening,call.01,"Miss Creasy , MP for Walthamstow",an ' evil witch ',Affirmative,"Peter Nunn , 33 , is said to have passed on the ' menacing ' messages threatening to rape Stella Creasy and calling her an ' evil witch ' . "
+"Miss Creasy , MP for Walthamstow",back.01,media  campaign,,Affirmative,"Miss Creasy , MP for Walthamstow , was deluged with offensive messages after she backed a high - profile social media  campaign to ensure a female face would remain on banknotes . "
+media  campaign,ensure.01,face would remain on banknotes,,Affirmative,"Miss Creasy , MP for Walthamstow , was deluged with offensive messages after she backed a high - profile social media  campaign to ensure a female face would remain on banknotes . "
+a court,hear.01,retweeted and composed messages in,,Affirmative,The court heard Nunn both retweeted and composed messages in which  campaigners were threatened . 
+Nunn both,compose.01,messages,in,Affirmative,The court heard Nunn both retweeted and composed messages in which  campaigners were threatened . 
+Feminist Caroline Criado - Perez,launch.01,the Austen campaign,,Affirmative,Feminist Caroline Criado - Perez launched the Austen campaign in July after the Bank of England replaced social activist Elizabeth Fry with Sir Winston Churchill on £5 notes . 
+the Bank of England,replace.01,social activist,,Affirmative,Feminist Caroline Criado - Perez launched the Austen campaign in July after the Bank of England replaced social activist Elizabeth Fry with Sir Winston Churchill on £5 notes . 
+the Bank of England replaced social activist Elizabeth Fry with Sir Winston Churchill on # 5 notes,announce.01,author would replace,,Affirmative,The Bank then announced the Pride And Prejudice author would replace Charles Darwin on the £10 note . 
+author,replace.01,Charles Darwin,,Affirmative,The Bank then announced the Pride And Prejudice author would replace Charles Darwin on the £10 note . 
+"Alison Morgan ,",tell.01,embarked on,Court Nunn ',Affirmative,"Alison Morgan , prosecuting , told Westminster Magistrates ' Court Nunn ' embarked on a campaign of hatred in various different forms towards both women ' . "
+Peter Nunn,send.01,other offensive messages,to,Affirmative,"Nunn , it is said , then sent other offensive messages to the MP . "
+a court,hear.01,", also left",,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive posts in which he called the campaigners witches . "
+"Nunn ,",leave.01,offensive posts,,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive posts in which he called the campaigners witches . "
+Peter Nunn,call.01,the campaigners witches,,Affirmative,"The court heard that Nunn , a self - styled blogger from Bristol , also left offensive posts in which he called the campaigners witches . "
+Alison Morgan,tell.01,", they show",the court,Affirmative,"Miss Morgan told the court that while the entries do not form part of the criminal charge , they show the ' hatred ' he had for the women . "
+the entries,form.01,part of,,Affirmative,"Miss Morgan told the court that while the entries do not form part of the criminal charge , they show the ' hatred ' he had for the women . "
+the campaigners witches,show.01,the ' hatred ',,Affirmative,"Miss Morgan told the court that while the entries do not form part of the criminal charge , they show the ' hatred ' he had for the women . "
+Peter Nunn,have.03,the ' hatred ',,Affirmative,"Miss Morgan told the court that while the entries do not form part of the criminal charge , they show the ' hatred ' he had for the women . "
+Peter Nunn,admit.01,he had retweeted  messages,,Affirmative,"When Nunn was arrested he admitted he had retweeted  messages that were violent , but said he did so ' to further debate ' . "
+Peter Nunn,retweeted .01,messages,,Affirmative,"When Nunn was arrested he admitted he had retweeted  messages that were violent , but said he did so ' to further debate ' . "
+Peter Nunn,say.01,he did so ',,Affirmative,"When Nunn was arrested he admitted he had retweeted  messages that were violent , but said he did so ' to further debate ' . "
+Peter Nunn,do.02,so,,Affirmative,"When Nunn was arrested he admitted he had retweeted  messages that were violent , but said he did so ' to further debate ' . "
+Peter Nunn,further.01,debate,,Affirmative,"When Nunn was arrested he admitted he had retweeted  messages that were violent , but said he did so ' to further debate ' . "
+Peter Nunn,deny.01,sending,,Affirmative,"He denies sending a message that was grossly offensive or of an indecent , obscene or menacing character by a public electronic network . "
+Peter Nunn,send.01,a message,,Affirmative,"He denies sending a message that was grossly offensive or of an indecent , obscene or menacing character by a public electronic network . "
+the criminal charge,carry.01,a maximum sentence of,,Affirmative,The charge carries a maximum sentence of six months in prison . 
+we,accept.01,comments on,,Affirmative,Sorry we are not currently accepting comments on this article . 

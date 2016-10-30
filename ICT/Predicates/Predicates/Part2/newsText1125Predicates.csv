@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+' High elf ',attack.01,car,,Affirmative,' High elf ' attacks woman 's car with sword while battling ' the evil Morgoth ' Oregon man Konrad Bass was on LSD during the bizarre sword attack in Portland . 
+by,attack.01,car,,Affirmative,", May 19 ( UPI ) -- An Oregon woman 's car was attacked last week by a 30 - year - old man who told police that he was battling the evil Morgoth . "
+old man,tell.01,that he was battling,police,Affirmative,", May 19 ( UPI ) -- An Oregon woman 's car was attacked last week by a 30 - year - old man who told police that he was battling the evil Morgoth . "
+he,battle.01,the evil Morgoth,,Affirmative,", May 19 ( UPI ) -- An Oregon woman 's car was attacked last week by a 30 - year - old man who told police that he was battling the evil Morgoth . "
+by,create.01,an evil character created by,,Affirmative,Morgoth is an evil character created by J.R.R. Tolkien who is featured in the Lord of the Rings books . 
+he,use.01,a sword,to attack,Affirmative,Konrad Bass was allegedly high on LSD when he used a sword to attack a woman 's car and puncture it . 
+he,attack.01,car,,Affirmative,Konrad Bass was allegedly high on LSD when he used a sword to attack a woman 's car and puncture it . 
+he,puncture.01,it,,Affirmative,Konrad Bass was allegedly high on LSD when he used a sword to attack a woman 's car and puncture it . 
+Oregon man Konrad Bass,wear.01,chain-mail,,Affirmative,"Bass was wearing chain-mail with a helmet and carrying a shield during the attack , but the woman was apparently unable to recognize his costume and told a 911 dispatcher that a pirate was attacking her car . "
+Oregon man Konrad Bass,carry.01,a shield,,Affirmative,"Bass was wearing chain-mail with a helmet and carrying a shield during the attack , but the woman was apparently unable to recognize his costume and told a 911 dispatcher that a pirate was attacking her car . "
+the woman,recognize.01,his costume,,Affirmative,"Bass was wearing chain-mail with a helmet and carrying a shield during the attack , but the woman was apparently unable to recognize his costume and told a 911 dispatcher that a pirate was attacking her car . "
+a pirate,attack.01,her car,,Affirmative,"Bass was wearing chain-mail with a helmet and carrying a shield during the attack , but the woman was apparently unable to recognize his costume and told a 911 dispatcher that a pirate was attacking her car . "
+Bass,tell.01,he was,police,Affirmative,"Bass told police he was a high - elf engaged in the battle with the evil Morgoth , not a pirate , according to KATU . "
+He,have.03,a staff on him,,Affirmative,He also had a staff on him at the time of the attack . 
+Paramedics,bring.01,Bass,to,Affirmative,"Paramedics brought Bass to the hospital after the incident and he now faces charges of disorderly conduct , criminal mischief and menacing , KPTV reported . "
+he,face.01,charges of,,Affirmative,"Paramedics brought Bass to the hospital after the incident and he now faces charges of disorderly conduct , criminal mischief and menacing , KPTV reported . "
+KPTV,report.01,Paramedics brought Bass to,,Affirmative,"Paramedics brought Bass to the hospital after the incident and he now faces charges of disorderly conduct , criminal mischief and menacing , KPTV reported . "
+distribution partners,provide.01,our content,"to thousands of businesses ,",Affirmative,"In addition , UPI 's distribution partners provide our content to thousands of businesses , policy groups and academic institutions worldwide . "
+decision - makers,depend.01,on,,Affirmative,Our audience consists of millions of decision - makers who depend on UPI 's insightful and analytical stories to make better business or policy decisions . 
+our company,strive.01,to continue,,Affirmative,"In the year of our 107th anniversary , our company strives to continue being a leading and trusted source for news , analysis and insight for readers around the world . "
+We,thank.01,you,for visiting us,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+you,visit.01,us,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+we,hope.01,that we will be,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 

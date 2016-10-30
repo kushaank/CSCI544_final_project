@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"rare digestive disorder ,",allow.01,her to eat,,Affirmative,"Marci Flory and Kao Her struggle with 13 - month - old Maehlee Her 's rare digestive disorder , which wo n't allow her to eat any food except an expensive special medical food and squash . "
+your friend 's,eat.01,any food,,Affirmative,"Marci Flory and Kao Her struggle with 13 - month - old Maehlee Her 's rare digestive disorder , which wo n't allow her to eat any food except an expensive special medical food and squash . "
+The family of,try.01,to find something,,Affirmative,"- The family of a northeast Kansas baby with a rare digestive disorder is trying to find something she can eat besides a bland - tasting medical food that 's mixed with water , but so far the only thing she can tolerate is squash . "
+The family of,find.01,something,,Affirmative,"- The family of a northeast Kansas baby with a rare digestive disorder is trying to find something she can eat besides a bland - tasting medical food that 's mixed with water , but so far the only thing she can tolerate is squash . "
+she,eat.01,something,,Affirmative,"- The family of a northeast Kansas baby with a rare digestive disorder is trying to find something she can eat besides a bland - tasting medical food that 's mixed with water , but so far the only thing she can tolerate is squash . "
+she,tolerate.01,the only thing,,Affirmative,"- The family of a northeast Kansas baby with a rare digestive disorder is trying to find something she can eat besides a bland - tasting medical food that 's mixed with water , but so far the only thing she can tolerate is squash . "
+Maehlee Her,eat.01,Anything else,,Affirmative,"Anything else Maehlee Her eats makes her sick , the result of white blood cells in her esophagus mistaking food for a foreign invader and trying to fight it off , said her mother , Marci Flory . "
+Anything else,make.02,her sick,,Affirmative,"Anything else Maehlee Her eats makes her sick , the result of white blood cells in her esophagus mistaking food for a foreign invader and trying to fight it off , said her mother , Marci Flory . "
+the result of,say.01,"her mother ,",,Affirmative,"Anything else Maehlee Her eats makes her sick , the result of white blood cells in her esophagus mistaking food for a foreign invader and trying to fight it off , said her mother , Marci Flory . "
+A doctor,suggest.01,baby had,,Affirmative,"A doctor suggested the baby had colic or acid reflux , but it was n't colic and three prescriptions for acid reflux did n't help . "
+the baby,have.03,reflux,,Affirmative,"A doctor suggested the baby had colic or acid reflux , but it was n't colic and three prescriptions for acid reflux did n't help . "
+Flory,take.01,the girl,,Affirmative,"Flory took the girl to Children 's Mercy Hospital in Kansas City , Missouri , where doctors found white patches in her throat and a biopsy showed high levels of white blood cells . "
+doctors,find.01,white patches,,Affirmative,"Flory took the girl to Children 's Mercy Hospital in Kansas City , Missouri , where doctors found white patches in her throat and a biopsy showed high levels of white blood cells . "
+a biopsy,show.01,high levels of,,Affirmative,"Flory took the girl to Children 's Mercy Hospital in Kansas City , Missouri , where doctors found white patches in her throat and a biopsy showed high levels of white blood cells . "
+Doctors,say.01,Maehlee had,,Affirmative,"Doctors said Maehlee had eosinophilic esophagitis , a digestive disorder . "
+Maehlee,have.03,"eosinophilic esophagitis ,",,Affirmative,"Doctors said Maehlee had eosinophilic esophagitis , a digestive disorder . "
+They,tell.01,to take her off,Flory and,Affirmative,"They told Flory and Kao Her , Maehlee 's father , to take her off all food and put her on Elecare , an amino acid - based medical food . "
+Flory and,take.07,13-month-old Maehlee,,Affirmative,"They told Flory and Kao Her , Maehlee 's father , to take her off all food and put her on Elecare , an amino acid - based medical food . "
+Maehlee,consume.01,the Elecare,,Affirmative,At first Maehlee had to consume the Elecare through a feeding tube that ran through her nose and into her stomach . 
+13-month-old Maehlee,start.01,drinking,,Affirmative,Eventually she started drinking the medical food - which Flory said has a nasty flavor - from a bottle . 
+13-month-old Maehlee,drink.01,the medical food -,,Affirmative,Eventually she started drinking the medical food - which Flory said has a nasty flavor - from a bottle . 
+Flory,say.01,has,,Affirmative,Eventually she started drinking the medical food - which Flory said has a nasty flavor - from a bottle . 
+13-month-old Maehlee,try.01,one food,,Affirmative,Maehlee now is undergoing a series of food trials in which she tries one food at a time to see if it spurs the disorder . 
+it,spur.01,the disorder,,Affirmative,Maehlee now is undergoing a series of food trials in which she tries one food at a time to see if it spurs the disorder . 
+13-month-old Maehlee,eat.01,"white potatoes , apples and bananas",,Affirmative,"In the first trial , she ate white potatoes , apples and bananas , and her parents are awaiting results of her latest endoscopy exam . "
+she,eat.01,enough foods,,Affirmative,"The goal is to be able to find enough foods that she can safely eat and not have to have the medical food , Flory said . "
+she,have.03,the medical food,,Affirmative,"The goal is to be able to find enough foods that she can safely eat and not have to have the medical food , Flory said . "
+Flory,say.01,goal is,,Affirmative,"The goal is to be able to find enough foods that she can safely eat and not have to have the medical food , Flory said . "
+it,cover.01,cost for,,Affirmative,"While the Eudora family 's insurance has paid for Maehlee 's doctor 's appointments , a hospital admission and endoscopy exams , it does n't cover the $ 600 to $ 900 a month cost for medical food . "
+parents,hide.01,their own eating,from,Affirmative,"Meanwhile , the girl 's parents hide their own eating from their daughter because she wants to have what they 're eating . "
+she,want.01,to have,,Affirmative,"Meanwhile , the girl 's parents hide their own eating from their daughter because she wants to have what they 're eating . "
+she,have.03,what they 're eating,,Affirmative,"Meanwhile , the girl 's parents hide their own eating from their daughter because she wants to have what they 're eating . "

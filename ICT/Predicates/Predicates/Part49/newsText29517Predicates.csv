@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Joe Biden,turn.05,prom invitation,,Affirmative,Vice President Joe Biden turned down a Connecticut teenager 's prom invitation - but instead sent her a corsage and invited her to the White House . 
+President Joe Biden,send.01,a corsage,her,Affirmative,Vice President Joe Biden turned down a Connecticut teenager 's prom invitation - but instead sent her a corsage and invited her to the White House . 
+President Joe Biden,invite.01,her,to,Affirmative,Vice President Joe Biden turned down a Connecticut teenager 's prom invitation - but instead sent her a corsage and invited her to the White House . 
+"Talia Maselli , 18 ,",write.01,a letter,to Biden,Affirmative,"Talia Maselli , 18 , wrote a letter to Biden seven months ago inviting him to be her date and edge out any competition , according to The Hartford Courant . "
+"Talia Maselli , 18 ,",invite.01,Talia Maselli,to be,Affirmative,"Talia Maselli , 18 , wrote a letter to Biden seven months ago inviting him to be her date and edge out any competition , according to The Hartford Courant . "
+Talia Maselli,edge.02,any competition,,Affirmative,"Talia Maselli , 18 , wrote a letter to Biden seven months ago inviting him to be her date and edge out any competition , according to The Hartford Courant . "
+I,invite.01,you,so far,Affirmative,"' I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , ' she wrote . "
+old girls,send.01,you prom invitations,,Affirmative,"' I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , ' she wrote . "
+you,prom.01,invitations,,Affirmative,"' I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , ' she wrote . "
+I,beat.01,many 17-year-old girls,to it,Affirmative,"' I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , ' she wrote . "
+"Talia Maselli , 18",write.01,' I am inviting you,,Affirmative,"' I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , ' she wrote . "
+I,tolerate.01,school dance,,Affirmative,' I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+by,escort.01,I,,Affirmative,' I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+Vice President Joe Biden,have.03,a handpicked corsage and,,Affirmative,' Biden was unable to attend - but he had a handpicked corsage and handwritten note sent to her home the day before the big dance . 
+Vice President Joe Biden,pick.01,"the corsage flowers ,",,Affirmative,"Biden personally picked the corsage flowers , which included baby 's breath , white roses , along with red , white and blue ribbons . "
+Talia Maselli,meet.03,Biden,,Affirmative,"Maselli did not go to the prom , but is expected to meet Biden at the White House in July . "
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

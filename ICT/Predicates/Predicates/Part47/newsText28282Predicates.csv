@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. government,slap.01,GM,,Affirmative,The U.S. government slapped GM with a $ 35 million fine Friday for failing to report the deadly defect sooner . 
+The U.S. government,report.01,the deadly defect,,Affirmative,The U.S. government slapped GM with a $ 35 million fine Friday for failing to report the deadly defect sooner . 
+The U.S. government,release.01,a 2008 GM training document,,Affirmative,The government also released a 2008 GM training document that warns employees to not use language that could hurt the company . 
+a 2008 GM training document,warn.01,to not use language,employees,Affirmative,The government also released a 2008 GM training document that warns employees to not use language that could hurt the company . 
+employees,use.01,language,,Affirmative,The government also released a 2008 GM training document that warns employees to not use language that could hurt the company . 
+language,hurt.01,the company,,Affirmative,The government also released a 2008 GM training document that warns employees to not use language that could hurt the company . 
+safety advocates,say.01,it 's common,,Affirmative,But safety advocates say it 's common for automakers to avoid words that might legally trigger a recall . 
+automakers,avoid.01,words,,Affirmative,But safety advocates say it 's common for automakers to avoid words that might legally trigger a recall . 
+words,trigger.01,a recall,,Affirmative,But safety advocates say it 's common for automakers to avoid words that might legally trigger a recall . 

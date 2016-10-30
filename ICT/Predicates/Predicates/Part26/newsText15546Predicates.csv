@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Lance Armstrong 's,miss.02,a testicle,,Affirmative,LANCE Armstrong is missing a testicle . 
+We,know.01,that,,Affirmative,We know that . 
+Lance Armstrong 's,know.01,a testicle,,Affirmative,He knows it too . 
+Lance Armstrong 's,play.01,the popular party game Cards,,Affirmative,"Armstrong was playing the popular party game Cards Against Humanity when he picked up a card which read , Lance Armstrong 's missing testicle . "
+Lance Armstrong 's,pick.04,a card,,Affirmative,"Armstrong was playing the popular party game Cards Against Humanity when he picked up a card which read , Lance Armstrong 's missing testicle . "
+a card,read.01,missing testicle,,Affirmative,"Armstrong was playing the popular party game Cards Against Humanity when he picked up a card which read , Lance Armstrong 's missing testicle . "
+Cards Against Humanity,require.01,to match,players,Affirmative,Cards Against Humanity requires players to match inappropriate questions with even less appropriate answers . 
+players,match.01,inappropriate questions,,Affirmative,Cards Against Humanity requires players to match inappropriate questions with even less appropriate answers . 
+We,know.01,question was,,Affirmative,We do n't know what the question was . 
+Lance Armstrong 's,tackle.01,clumsy moment,with,Affirmative,"Armstrong tackled the potentially clumsy moment with a dose of good , ballsy humour . "
+Lance Armstrong 's,follow.02,"a new , lighter philosophy",,Affirmative,"He seems to be following a new , lighter philosophy these days , encapsulated by the Hunter S Thompson quote he 's embedded in his Twitter profile . "
+by,encapsulate.01,Lance Armstrong 's,,Affirmative,"He seems to be following a new , lighter philosophy these days , encapsulated by the Hunter S Thompson quote he 's embedded in his Twitter profile . "
+"a new , lighter philosophy",stop.01,taking it seriously,,Affirmative,"Life has become immeasurably better since I have been forced to stop taking it seriously , it reads . "
+"a new , lighter philosophy",take.01,"a new , lighter philosophy",,Affirmative,"Life has become immeasurably better since I have been forced to stop taking it seriously , it reads . "
+I,laugh.01,my ass,,Affirmative,@ Q102Philly @ CAH I actually laughed my ass off . 
+Lance Armstrong 's,stop.01,taking life,,Affirmative,"Of course , Armstrong was forced to stop taking life so seriously when he was stripped of his seven Tour de France victories for doping . "
+Lance Armstrong 's,take.01,life,,Affirmative,"Of course , Armstrong was forced to stop taking life so seriously when he was stripped of his seven Tour de France victories for doping . "
+Lance Armstrong 's,have.03,some fun,,Affirmative,"In the meantime , he may as well have some fun . "

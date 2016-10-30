@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ISLAMABAD :,decide.01,to take action against voters,,Affirmative,ISLAMABAD : Election Commission of Pakistan ( ECP ) has decided to take action against voters who cast more than one vote in general elections . 
+voters,cast.01,one vote,,Affirmative,ISLAMABAD : Election Commission of Pakistan ( ECP ) has decided to take action against voters who cast more than one vote in general elections . 
+The ECP,direct.01,the authorities concerned,,Affirmative,The ECP has directed the authorities concerned to send record of all constituencies for this purpose . 
+to send record of,concern.02,the authorities concerned,,Affirmative,The ECP has directed the authorities concerned to send record of all constituencies for this purpose . 
+the authorities concerned,send.01,record of,,Affirmative,The ECP has directed the authorities concerned to send record of all constituencies for this purpose . 
+The ECP,direct.01,Election Tribunals,to send,Affirmative,"It has also directed Election Tribunals to send election symbols , finger prints and other details in this regard . "
+Election Tribunals,send.01,"election symbols ,",,Affirmative,"It has also directed Election Tribunals to send election symbols , finger prints and other details in this regard . "

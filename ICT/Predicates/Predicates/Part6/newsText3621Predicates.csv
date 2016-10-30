@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County police,identify.01,two men,,Affirmative,Cobb County police today identified two men who were killed in a shootout Sunday evening that left two other people hospitalized . 
+two men,leave.01,two other people,hospitalized,Affirmative,Cobb County police today identified two men who were killed in a shootout Sunday evening that left two other people hospitalized . 
+Authorities,confirm.01,died in,,Affirmative,"Authorities confirmed that David Blount , 20 , of Smyrna , and Ryan Christopher Bobbitt , 24 , of Marietta , died in the shooting in the 2100 block of Cardell Road in Austell shortly after 6 p.m. I heard one shot out here , neighbors down the street said there was about six or eight shots , witness Julia Biddy told Channel 2 Action News . "
+Authorities,hear.01,one shot,,Affirmative,"Authorities confirmed that David Blount , 20 , of Smyrna , and Ryan Christopher Bobbitt , 24 , of Marietta , died in the shooting in the 2100 block of Cardell Road in Austell shortly after 6 p.m. I heard one shot out here , neighbors down the street said there was about six or eight shots , witness Julia Biddy told Channel 2 Action News . "
+neighbors down,say.01,there was,,Affirmative,"Authorities confirmed that David Blount , 20 , of Smyrna , and Ryan Christopher Bobbitt , 24 , of Marietta , died in the shooting in the 2100 block of Cardell Road in Austell shortly after 6 p.m. I heard one shot out here , neighbors down the street said there was about six or eight shots , witness Julia Biddy told Channel 2 Action News . "
+witness Julia Biddy,tell.01,Action News,,Affirmative,"Authorities confirmed that David Blount , 20 , of Smyrna , and Ryan Christopher Bobbitt , 24 , of Marietta , died in the shooting in the 2100 block of Cardell Road in Austell shortly after 6 p.m. I heard one shot out here , neighbors down the street said there was about six or eight shots , witness Julia Biddy told Channel 2 Action News . "
+witness Julia Biddy,tell.01,that she went to,Channel 2,Affirmative,Biddy told Channel 2 that she went to the aid of one wounded man . 
+witness Julia Biddy,say.01,He was in,,Affirmative,"He was in pretty bad shape , Biddy said . "
+witness Julia Biddy,say.01,she was putting pressure on,,Affirmative,She said she was putting pressure on the bleeding man 's wound when a man drove up in a gray Hyundai asking about a black bag at the scene . 
+witness Julia Biddy,put.01,pressure,on,Affirmative,She said she was putting pressure on the bleeding man 's wound when a man drove up in a gray Hyundai asking about a black bag at the scene . 
+witness Julia Biddy,ask.01,about,,Affirmative,She said she was putting pressure on the bleeding man 's wound when a man drove up in a gray Hyundai asking about a black bag at the scene . 
+witness Julia Biddy,say.01,loaded,,Affirmative,She said the man in the Hyundai loaded the bleeding man - and the black bag - into the car and left the scene . 
+the man in,load.01,the bleeding man,,Affirmative,She said the man in the Hyundai loaded the bleeding man - and the black bag - into the car and left the scene . 
+the black bag - into,leave.01,the scene,,Affirmative,She said the man in the Hyundai loaded the bleeding man - and the black bag - into the car and left the scene . 
+Cobb police spokesman Mike Bowman,say.01,unit was brought in after,,Affirmative,Bowman said a K - 9 unit was brought in after the shooting . 
+anyone with information on,contact.01,Cobb police,,Affirmative,"The investigation is continuing , and anyone with information on the case should contact Cobb police at 770-499-3945 . "
+local groups,need.01,volunteers in,,Affirmative,"Learn how to volunteer in Atlanta and north Georgia , browse volunteer events and search local groups who need volunteers in the arts , community , food programs , housing , animal rescue and more . "
+We,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+We,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+We,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

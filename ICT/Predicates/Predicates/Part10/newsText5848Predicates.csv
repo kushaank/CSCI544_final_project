@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Both flights,leave.01,Venice,,Affirmative,"Both flights were bound to Philadelphia , having left Venice . "
+an Airbus A330-200,carry.01,238 passengers and,,Affirmative,"Today , the US Airways flight 715 , an Airbus A330-200 which was carrying 238 passengers and 12 crew members , was travelling from Venice to Philadelphia when the issue arose . "
+an Airbus A330-200,travel.01,from Venice,,Affirmative,"Today , the US Airways flight 715 , an Airbus A330-200 which was carrying 238 passengers and 12 crew members , was travelling from Venice to Philadelphia when the issue arose . "
+three flight attendants reporting,report.01,medical issues,,Affirmative,The plane had to be diverted to Dublin due to three flight attendants reporting medical issues . 
+the same airline along the same route,say.01,professionals are evaluating,,Affirmative,The airline said that medical professionals are evaluating the flight attendants and it is re-accommodating its customers on other flights to Philadelphia . 
+medical professionals,evaluate.01,three flight attendants reporting medical issues,,Affirmative,The airline said that medical professionals are evaluating the flight attendants and it is re-accommodating its customers on other flights to Philadelphia . 
+the same airline along the same route,re-accommodating.01,its customers,,Affirmative,The airline said that medical professionals are evaluating the flight attendants and it is re-accommodating its customers on other flights to Philadelphia . 
+TheJournal.ie,use.01,cookies,to improve,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+TheJournal.ie,improve.01,your experience,,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+TheJournal.ie,provide.01,services and advertising,,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+by,provided.01,News images provided by,,Affirmative,News images provided by Press Association and Photocall Ireland unless otherwise stated . 
+by,provided.01,Irish sport images provided by,,Affirmative,Irish sport images provided by Inpho Photography unless otherwise stated . 
+by,provided.01,Wire service provided by,,Affirmative,Wire service provided by Associated Press . 
+"user created content , posts , comments , submissions or preferences",create.01,"content , posts , comments , submissions or preferences",,Affirmative,"Journal Media does not control and is not responsible for user created content , posts , comments , submissions or preferences . "

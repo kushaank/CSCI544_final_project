@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+THE family of,defend.01,his reputation,,Affirmative,"THE family of the missing Malaysia Airlines flight MH370 pilot has come out to defend his reputation saying he was not suicidal and was doing household chores on the day of the flight , ABC news reported today . "
+THE family of,say.01,he was,,Affirmative,"THE family of the missing Malaysia Airlines flight MH370 pilot has come out to defend his reputation saying he was not suicidal and was doing household chores on the day of the flight , ABC news reported today . "
+flight MH370 pilot,do.02,household chores,,Affirmative,"THE family of the missing Malaysia Airlines flight MH370 pilot has come out to defend his reputation saying he was not suicidal and was doing household chores on the day of the flight , ABC news reported today . "
+ABC news,report.01,has come out,,Affirmative,"THE family of the missing Malaysia Airlines flight MH370 pilot has come out to defend his reputation saying he was not suicidal and was doing household chores on the day of the flight , ABC news reported today . "
+"Asuad Khan ,",say.01,"old was sane ,",,Affirmative,"Asuad Khan , the brother-in-law of pilot Zaharie Ahmad Shah , said the 53 - year - old was sane , a happy family man and a devout Muslim . "
+Mr Khan,refute.01,multiple allegations against,,Affirmative,Mr Khan has refuted multiple allegations against Captain Shah regarding his personal life and his professional activities . 
+Mr Khan,deny.01,captain could have been suicidal,,Affirmative,"He also denies that the captain could have been suicidal , claiming the authorities could be using Captain Shah as a scapegoat . "
+Mr Khan,claim.01,authorities could be using,,Affirmative,"He also denies that the captain could have been suicidal , claiming the authorities could be using Captain Shah as a scapegoat . "
+the authorities,use.01,Captain Shah,as,Affirmative,"He also denies that the captain could have been suicidal , claiming the authorities could be using Captain Shah as a scapegoat . "
+the authorities,blame.01,Mr Khan,,Affirmative,"Put it this way , this is a promise - if they blame him I 'll fight . "
+the captain,keep.02,quiet,,Affirmative,"I just wo n't sit down , keep quiet , he said . "
+the captain,say.01,"I just wo n't sit down , keep quiet",,Affirmative,"I just wo n't sit down , keep quiet , he said . "
+you,say.01,that he wanted,,Affirmative,"Because if you say that he wanted to [ commit ] suicide in the Indian Ocean , I say prove it . "
+Mr Khan,want.01,to [ commit ] suicide in,,Affirmative,"Because if you say that he wanted to [ commit ] suicide in the Indian Ocean , I say prove it . "
+Mr Khan,commit.02,suicide in,,Affirmative,"Because if you say that he wanted to [ commit ] suicide in the Indian Ocean , I say prove it . "
+the captain,say.01,prove it,,Affirmative,"Because if you say that he wanted to [ commit ] suicide in the Indian Ocean , I say prove it . "
+you,want.01,to [ commit ] suicide,,Affirmative,If he wanted to [ commit ] suicide he would n't - he would want to kill 238 people with him ? 
+you,commit.02,suicide,,Affirmative,If he wanted to [ commit ] suicide he would n't - he would want to kill 238 people with him ? 
+you,want.01,to kill,,Affirmative,If he wanted to [ commit ] suicide he would n't - he would want to kill 238 people with him ? 
+you,kill.01,238 people,with him,Affirmative,If he wanted to [ commit ] suicide he would n't - he would want to kill 238 people with him ? 
+We,enjoy.01,his personal life,,Affirmative,We enjoy our life to the fullest because life only happens once . 
+Mr Khan,say.01,- has been questioned,,Affirmative,"Mr Khan said his sister Faizah - who has not spoken publically - has been questioned three or four times by police since the plane 's disappearance , as have her three children . "
+by police,question.01,his sister Faizah -,,Affirmative,"Mr Khan said his sister Faizah - who has not spoken publically - has been questioned three or four times by police since the plane 's disappearance , as have her three children . "
+[ The police ],ask.02,normal questions,,Affirmative,"[ The police ] asked normal questions , Mr Khan said . "
+Mr Khan,say.01,asked,,Affirmative,"[ The police ] asked normal questions , Mr Khan said . "
+a sane man,have.03,problems with anything,,Affirmative,Or is he having problems with anything or if they have any [ marriage ] problems . 
+-RSB-,have.03,any [ marriage ] problems,,Affirmative,Or is he having problems with anything or if they have any [ marriage ] problems . 
+Mr Khan,think.01,he was,,Affirmative,I do n't think he was a crazy man . 
+Mr Khan,say.01,he understood,,Affirmative,Mr Khan said he understood that Zaharie had been at home in Kuala Lumpur on the day of the flight . 
+Mr Khan,understand.01,that Zaharie had been at home,,Affirmative,Mr Khan said he understood that Zaharie had been at home in Kuala Lumpur on the day of the flight . 
+by,operate.01,"The Boeing 737-400 , operated by",,Affirmative,"The Boeing 737-400 , operated by PT Adam Skyconnection Airlines , lost contact with air traffic control on Jan 1 st , 2007 . "
+"The Boeing 737-400 , operated by",lose.04,contact with,,Affirmative,"The Boeing 737-400 , operated by PT Adam Skyconnection Airlines , lost contact with air traffic control on Jan 1 st , 2007 . "

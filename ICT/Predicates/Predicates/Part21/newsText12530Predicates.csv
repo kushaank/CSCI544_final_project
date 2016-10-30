@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+AT&T and DirecTV,announce.01,a deal,,Affirmative,AT&T and DirecTV announced a deal on Sunday by which AT&T would buy the satellite TV provider in a deal that calls for DirecTV shareholders to receive $ 28.50 in cash and $ 66.50 in AT&T stock a share . 
+AT&T,buy.01,TV provider,,Affirmative,AT&T and DirecTV announced a deal on Sunday by which AT&T would buy the satellite TV provider in a deal that calls for DirecTV shareholders to receive $ 28.50 in cash and $ 66.50 in AT&T stock a share . 
+a deal,call.03,shareholders to receive,,Affirmative,AT&T and DirecTV announced a deal on Sunday by which AT&T would buy the satellite TV provider in a deal that calls for DirecTV shareholders to receive $ 28.50 in cash and $ 66.50 in AT&T stock a share . 
+DirecTV shareholders,receive.01,$ 28.50 in cash,,Affirmative,AT&T and DirecTV announced a deal on Sunday by which AT&T would buy the satellite TV provider in a deal that calls for DirecTV shareholders to receive $ 28.50 in cash and $ 66.50 in AT&T stock a share . 
+a deal,give.01,television subscribers,AT&T,Affirmative,The deal would give AT&T about 26 million pay television subscribers â€ close to what Comcast would have if it completes a $ 45 billion purchase of Time Warner Cable . 
+a deal,complete.01,billion purchase of,,Affirmative,The deal would give AT&T about 26 million pay television subscribers â€ close to what Comcast would have if it completes a $ 45 billion purchase of Time Warner Cable . 
+a deal,put.01,renewed pressure on,,Affirmative,The deal may put renewed pressure on Overland Park - based Sprint Corp . 
+The companies,say.01,that they would cooperate on,,Affirmative,"The companies said in December that they would cooperate on a pilot program to offer fixed wireless broadband service in Corpus Christi , Texas . "
+they,cooperate.01,on,,Affirmative,"The companies said in December that they would cooperate on a pilot program to offer fixed wireless broadband service in Corpus Christi , Texas . "
+a pilot program,offer.01,fixed wireless broadband service in,,Affirmative,"The companies said in December that they would cooperate on a pilot program to offer fixed wireless broadband service in Corpus Christi , Texas . "
+The AT&T deal,cut.02,regulatory resistance,,Affirmative,The AT&T deal also may cut regulatory resistance to a Sprint purchase of T - Mobile US Inc . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,need.01,to start,,Affirmative,Connecting you with the news you need to start your day . 
+you,start.01,your day,,Affirmative,Connecting you with the news you need to start your day . 

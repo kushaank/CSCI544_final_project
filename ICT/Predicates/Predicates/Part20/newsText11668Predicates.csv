@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Board,supply.01,water,,Affirmative,BANGALORE : The Bangalore Water Supply and Sewerage Board ( BWSSB ) will supply water through tankers to households facing water shortage . 
+households facing,face.01,water shortage,,Affirmative,BANGALORE : The Bangalore Water Supply and Sewerage Board ( BWSSB ) will supply water through tankers to households facing water shortage . 
+The Bangalore Water Supply and Sewerage Board -LRB- BWSSB -RRB-,acquire.01,30 water tankers,,Affirmative,"According to a press release , the service will be started on a trial basis from May 26 for a month to make use of 30 water tankers that the board has acquired recently . "
+customers,call.02,BWSSB sub-division office,,Affirmative,"To avail the service , customers have to call BWSSB sub-division office in their area . "
+customers,give.01,their address and,,Affirmative,They have to give their address and RR Number . 
+the water tanker,reach.01,their house and money,,Affirmative,"Within hours , the water tanker will reach their house and money has to be paid to the driver , a BWSSB official said . "
+a BWSSB official,say.01,tanker will reach,,Affirmative,"Within hours , the water tanker will reach their house and money has to be paid to the driver , a BWSSB official said . "

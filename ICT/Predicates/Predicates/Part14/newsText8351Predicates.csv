@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+He,attend.01,Texas A&M,,Affirmative,"He attended Texas A&M where he earned a degree in Range Science and met the love of his life , a woman from Oklahoma who lured him north of the Red River . "
+He,earn.01,a degree in,,Affirmative,"He attended Texas A&M where he earned a degree in Range Science and met the love of his life , a woman from Oklahoma who lured him north of the Red River . "
+He,meet.01,the love of,,Affirmative,"He attended Texas A&M where he earned a degree in Range Science and met the love of his life , a woman from Oklahoma who lured him north of the Red River . "
+a woman from Oklahoma,lure.01,He,,Affirmative,"He attended Texas A&M where he earned a degree in Range Science and met the love of his life , a woman from Oklahoma who lured him north of the Red River . "
+  Ruth and Chuck,have.03,"three children ,",,Affirmative,"  Ruth and Chuck now have three children , all Oklahoma State University Cowboys . "
+Chuck Coffey 's,teach.01,agriculture,,Affirmative,"Coffey was a college professor in his early days , teaching agriculture at Murray State College , even chairing the department until he joined the Noble Foundation as a pasture and range consultant in 1993 . "
+Chuck Coffey 's,join.01,the Noble Foundation,,Affirmative,"Coffey was a college professor in his early days , teaching agriculture at Murray State College , even chairing the department until he joined the Noble Foundation as a pasture and range consultant in 1993 . "
+Chuck Coffey 's,leave.01,the Noble Foundation,,Affirmative,He left the Foundation a few years ago . 
+Chuck Coffey 's,put.01,more time,on,Affirmative,"Maybe , but he 's still putting in more time ' on the job ' than I am on mine . "
+by disaster,temper.01,the joys of working from horseback,,Affirmative,  But the joys of working from horseback can be quickly tempered by disaster . 
+riding accident,leave.01,Chuck Coffey 's,almost paralyzed,Affirmative,A serious horseback - riding accident almost left him almost paralyzed . 
+its ownself,strike.01,its ownself,,Affirmative,Life its ownself had struck him down . 
+Life its ownself,take.10,a month,,Affirmative,"  It took a month in ICU , two months in a wheel chair , several surgeries and months of rehabilitation but he 's fully recovered and on horseback again . "
+by,nominate.01,Chuck Coffey 's,for,Affirmative,"  He was nominated for the position by the Oklahoma Cattlemen 's Association , an organization that he joined 28 years ago when he first moved to that state . "
+Chuck Coffey 's,join.01,Oklahoma Cattlemen 's Association,,Affirmative,"  He was nominated for the position by the Oklahoma Cattlemen 's Association , an organization that he joined 28 years ago when he first moved to that state . "
+a student of Chuck Coffey 's,see.01,how things worked,,Affirmative,  I was n't sure what I would see or how things worked . 
+They,pull.01,it all,together,Affirmative,  They pulled it all together for me and now I understand what we 're supposed to do . 
+a student of Chuck Coffey 's,understand.01,we 're supposed,,Affirmative,  They pulled it all together for me and now I understand what we 're supposed to do . 
+a great family,make.02,students feel welcome,,Affirmative,"He always made us students feel welcome to attend church with him and his family , which I am still greatful for to this day . "
+us students,feel.01,welcome,,Affirmative,"He always made us students feel welcome to attend church with him and his family , which I am still greatful for to this day . "
+us students,attend.01,church,,Affirmative,"He always made us students feel welcome to attend church with him and his family , which I am still greatful for to this day . "
+a student of Chuck Coffey 's,hear.01,he is doing well,,Affirmative,Thanks for the article and I 'm glad to hear he is doing well . 
+a student of Chuck Coffey 's,hope.01,that students leave here with,,Affirmative,"I am the Rodeo Coach here at Garden City Community College in Garden City , Kansas and I can only hope that students leave here with the same fond memories that I possess of Murray State College and Tishomingo , Ok . "
+us students,leave.01,with,,Affirmative,"I am the Rodeo Coach here at Garden City Community College in Garden City , Kansas and I can only hope that students leave here with the same fond memories that I possess of Murray State College and Tishomingo , Ok . "
+a student of Chuck Coffey 's,possess.01,the same fond memories,,Affirmative,"I am the Rodeo Coach here at Garden City Community College in Garden City , Kansas and I can only hope that students leave here with the same fond memories that I possess of Murray State College and Tishomingo , Ok . "

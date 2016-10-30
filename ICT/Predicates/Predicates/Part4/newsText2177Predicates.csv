@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Prosecutors,refuse.01,to accept,,Affirmative,Prosecutors have refused to accept an offer to plead guilty to manslaughter from a man accused of pushing New Zealander Andy Marshall to his death from a Perth nightclub window and will continue with a murder prosecution . 
+Prosecutors,accept.01,an offer,,Affirmative,Prosecutors have refused to accept an offer to plead guilty to manslaughter from a man accused of pushing New Zealander Andy Marshall to his death from a Perth nightclub window and will continue with a murder prosecution . 
+a man accused of pushing,push.01,Zealander Andy Marshall,to,Affirmative,Prosecutors have refused to accept an offer to plead guilty to manslaughter from a man accused of pushing New Zealander Andy Marshall to his death from a Perth nightclub window and will continue with a murder prosecution . 
+Stefan Pahia Schmidt,win.01,an appeal,,Affirmative,Schmidt had been convicted of murder after a jury trial and sentenced to 14 years in prison but won an appeal last year . 
+Stefan Pahia Schmidt,say.01,he would plead guilty to manslaughter,,Affirmative,"At the beginning of the hearing , Schmidt said he would plead guilty to manslaughter but denied murdering Mr Marshall , the West Australian reported . "
+Stefan Pahia Schmidt,plead.02,guilty to manslaughter,,Affirmative,"At the beginning of the hearing , Schmidt said he would plead guilty to manslaughter but denied murdering Mr Marshall , the West Australian reported . "
+Stefan Pahia Schmidt,deny.01,murdering,,Affirmative,"At the beginning of the hearing , Schmidt said he would plead guilty to manslaughter but denied murdering Mr Marshall , the West Australian reported . "
+Stefan Pahia Schmidt,murder.01,New Zealander Andy Marshall to his death,,Affirmative,"At the beginning of the hearing , Schmidt said he would plead guilty to manslaughter but denied murdering Mr Marshall , the West Australian reported . "
+the West Australian,report.01,", Schmidt said",,Affirmative,"At the beginning of the hearing , Schmidt said he would plead guilty to manslaughter but denied murdering Mr Marshall , the West Australian reported . "
+Prosecutor Bruno Fiannaca,say.01,they would not accept,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+they,accept.01,that plea,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+Prosecutor Bruno Fiannaca,continue.01,with,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+Mr Fiannaca,tell.01,had pushed,the court,Affirmative,"Mr Fiannaca told the court that Schmidt , in a fit of rage had pushed Mr Marshall , 29 , so hard he crashed through the window and fell five metres . "
+Stefan Pahia Schmidt,push.01,New Zealander Andy Marshall to his death,,Affirmative,"Mr Fiannaca told the court that Schmidt , in a fit of rage had pushed Mr Marshall , 29 , so hard he crashed through the window and fell five metres . "
+Mr Fiannaca,suffer.01,injuries,,Affirmative,He suffered fatal head and chest injuries . 
+Stefan Pahia Schmidt,glance.01,towards,,Affirmative,Schmidt could be seen walking out of the hotel and glancing towards where Mr Marshall lay before disappearing . 
+Mr Fiannaca,say.01,would show,,Affirmative,"Mr Fiannaca said text messages sent by Schmidt to a friend and his girlfriend would show he was not shocked by the incident , the West Australian reported . "
+by Schmidt,send.01,text messages sent by Schmidt,to,Affirmative,"Mr Fiannaca said text messages sent by Schmidt to a friend and his girlfriend would show he was not shocked by the incident , the West Australian reported . "
+text messages sent by Schmidt,show.01,he was not shocked by,,Affirmative,"Mr Fiannaca said text messages sent by Schmidt to a friend and his girlfriend would show he was not shocked by the incident , the West Australian reported . "
+by,shock.01,Stefan Pahia Schmidt,,Affirmative,"Mr Fiannaca said text messages sent by Schmidt to a friend and his girlfriend would show he was not shocked by the incident , the West Australian reported . "
+the West Australian,report.01,Fiannaca said,,Affirmative,"Mr Fiannaca said text messages sent by Schmidt to a friend and his girlfriend would show he was not shocked by the incident , the West Australian reported . "
+the Appeal Court,rule.01,there had been,,Affirmative,Schmidt 's retrial was ordered after the Appeal Court ruled there had been a miscarriage of justice because the trial judge did not adequately direct the jury on an essential element of the case against Schmidt . 
+the trial judge,direct.01,the jury,on,Affirmative,Schmidt 's retrial was ordered after the Appeal Court ruled there had been a miscarriage of justice because the trial judge did not adequately direct the jury on an essential element of the case against Schmidt . 
+New Zealander Andy Marshall to his death,tell.01,they were unsure,APNZ,Affirmative,"Mr Marshall 's parents Alan and Wendy , from Hawkes Bay , are expected to be at Schmidt 's retrial , telling APNZ last month they were unsure what to expect this time around . "
+a parent in life and death,try.01,to keep,,Affirmative,You try to keep your mind open and deal with it one day at a time . 
+a parent in life and death,keep.02,your mind,,Affirmative,You try to keep your mind open and deal with it one day at a time . 
+a parent in life and death,deal.01,with it,,Affirmative,You try to keep your mind open and deal with it one day at a time . 
+a parent in life and death,stop.01,being,,Affirmative,You never stop being a parent . 
+New Zealander Andy Marshall to his death,say.01,You 're always,,Affirmative,"You 're always a parent in life and death , Mr Marshall said . "
+New Zealander Andy Marshall to his death,stop.01,feeling or loving,,Affirmative,You do n't stop feeling or loving your own children and I guess that 's the price you pay in some ways for that relationship and that depth of love . 
+a parent in life and death,guess.01,that 's,,Affirmative,You do n't stop feeling or loving your own children and I guess that 's the price you pay in some ways for that relationship and that depth of love . 
+New Zealander Andy Marshall to his death,pay.01,the price,,Affirmative,You do n't stop feeling or loving your own children and I guess that 's the price you pay in some ways for that relationship and that depth of love . 
+a parent,expect.01,more focus,,Affirmative,"He expected more focus this time on his son 's injuries and pathology evidence , as was alluded to in the Appeal Court ruling . "

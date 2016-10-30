@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a catastrophe,leave.01,301 coal miners,dead,Affirmative,"Following a catastrophe that left 301 coal miners dead , Turkish officials arrested four people , including three company executives , on Friday and detained 25 others . "
+Turkish officials,arrest.01,"four people , including",,Affirmative,"Following a catastrophe that left 301 coal miners dead , Turkish officials arrested four people , including three company executives , on Friday and detained 25 others . "
+Turkish officials,detain.01,25 others,,Affirmative,"Following a catastrophe that left 301 coal miners dead , Turkish officials arrested four people , including three company executives , on Friday and detained 25 others . "
+investigators,find.01,evidence suggesting,,Affirmative,The executives were brought up on charges of negligence after investigators found evidence suggesting that the company ignored warnings about safety . 
+evidence suggesting,suggest.01,company ignored warnings about safety,,Affirmative,The executives were brought up on charges of negligence after investigators found evidence suggesting that the company ignored warnings about safety . 
+the company,ignore.01,warnings about safety,,Affirmative,The executives were brought up on charges of negligence after investigators found evidence suggesting that the company ignored warnings about safety . 
+The disaster,catalyze.01,protests against,,Affirmative,"The disaster has catalyzed protests against Turkey 's government , which were already in a state of agitation over corruption allegations against Prime Minister Recep Tayyip Erdogan . "

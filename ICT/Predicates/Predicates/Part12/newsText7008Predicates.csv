@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+LLP,investigate.01,"Molina Healthcare , Inc",,Affirmative,"NEW YORK , May 19 , 2014 / PRNewswire / --  Levi & Korsinsky , LLP is investigating Molina Healthcare , Inc . "
+26 attorneys,have.03,extensive expertise,,Affirmative,"Levi & Korsinsky is a national firm with offices in New York , New Jersey , Connecticut and Washington D.C. The firm 's 26 attorneys have extensive expertise in prosecuting securities litigation involving financial fraud , representing investors throughout the nation in securities and shareholder lawsuits . "
+"financial fraud , representing investors throughout",represent.01,investors,,Affirmative,"Levi & Korsinsky is a national firm with offices in New York , New Jersey , Connecticut and Washington D.C. The firm 's 26 attorneys have extensive expertise in prosecuting securities litigation involving financial fraud , representing investors throughout the nation in securities and shareholder lawsuits . "
+Prior results,guarantee.01,similar outcomes,,Affirmative,Prior results do not guarantee similar outcomes . 
+by,provided.01,Intraday Data,,Affirmative,Intraday Data provided by SIX Financial Information and subject to terms of use . 
+by,provided.01,day data provided by,,Affirmative,Historical and current end - of - day data provided by SIX Financial Information . 
+by NASDAQ,provided.01,time last sale data provided by NASDAQ,,Affirmative,Real time last sale data provided by NASDAQ . 
+More information on NASDAQ,trade.01,symbols and,,Affirmative,More information on NASDAQ traded symbols and their current financial status . 
+Intraday data,delay.01,15 minutes for Nasdaq,,Affirmative,"Intraday data delayed 15 minutes for Nasdaq , and 20 minutes for other exchanges . "
+by,provided.01,SEHK intraday data,,Affirmative,SEHK intraday data is provided by SIX Financial Information and is at least 60 - minutes delayed . 

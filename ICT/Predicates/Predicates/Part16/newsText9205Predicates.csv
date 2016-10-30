@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+I,think.01,that God uses,,Affirmative,I do not think that God uses divine power to eliminate or prevent evil . 
+God,use.01,divine power,,Affirmative,I do not think that God uses divine power to eliminate or prevent evil . 
+God,prevent.01,evil,,Affirmative,I do not think that God uses divine power to eliminate or prevent evil . 
+I,believe.01,God uses,,Affirmative,"Rather , I believe God uses this power to strengthen us from within to resist whatever works against goodness , compassion , justice , and peace . "
+God,use.01,this power,to strengthen us from within,Affirmative,"Rather , I believe God uses this power to strengthen us from within to resist whatever works against goodness , compassion , justice , and peace . "
+God,strengthen.01,us,,Affirmative,"Rather , I believe God uses this power to strengthen us from within to resist whatever works against goodness , compassion , justice , and peace . "
+God,resist.01,"whatever works against goodness , compassion , justice , and peace",,Affirmative,"Rather , I believe God uses this power to strengthen us from within to resist whatever works against goodness , compassion , justice , and peace . "
+You,read.01,10 free articles,,Affirmative,You can now read 10 free articles . 
+you,subscribe.01,to BostonGlobe.com,,Affirmative,"Read the stories that matter to you as much as you want , whenever you want when you subscribe to BostonGlobe.com . "
+you,enter.01,The login information,,Affirmative,The login information you entered does not match an account in our records . 
+you,have.03,a subscription,,Affirmative,"If you do n't have a subscription , you can view our digital offers here . "
+you,view.02,our digital offers,,Affirmative,"If you do n't have a subscription , you can view our digital offers here . "
+We,send.01,an e-mail with,you,Affirmative,We 'll send you an e-mail with a link to reset your password . 

@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+North Korea,issue.01,rare apology,,Affirmative,North Korea issue rare apology after building collapses killing ' hundreds ' NORTH Korean officials have issued a rare apology after a building collapsed and hundreds of people are feared dead . 
+North Korea,build.01,collapses killing,,Affirmative,North Korea issue rare apology after building collapses killing ' hundreds ' NORTH Korean officials have issued a rare apology after a building collapsed and hundreds of people are feared dead . 
+collapses killing,kill.01,' hundreds ',,Affirmative,North Korea issue rare apology after building collapses killing ' hundreds ' NORTH Korean officials have issued a rare apology after a building collapsed and hundreds of people are feared dead . 
+Korean officials,issue.01,a rare apology,,Affirmative,North Korea issue rare apology after building collapses killing ' hundreds ' NORTH Korean officials have issued a rare apology after a building collapsed and hundreds of people are feared dead . 
+by,report.01,The accident in Pyongyang,,Affirmative,The accident in Pyongyang was reported by the official Korean Central News Agency ( KCNA ) who did not release the death toll but said the incident was serious and had distressed leader Kim Jong - un . 
+The accident in Pyongyang,say.01,incident was serious and had,,Affirmative,The accident in Pyongyang was reported by the official Korean Central News Agency ( KCNA ) who did not release the death toll but said the incident was serious and had distressed leader Kim Jong - un . 
+the incident,have.03,leader Kim Jong - un,,Affirmative,The accident in Pyongyang was reported by the official Korean Central News Agency ( KCNA ) who did not release the death toll but said the incident was serious and had distressed leader Kim Jong - un . 
+The apartment block,house.01,92 families,,Affirmative,The apartment block was thought to have housed 92 families and a report said the construction was not done properly and officials supervised and controlled it in an irresponsible manner . 
+a report,say.01,construction was not done properly and,,Affirmative,The apartment block was thought to have housed 92 families and a report said the construction was not done properly and officials supervised and controlled it in an irresponsible manner . 
+hundreds ' NORTH Korean officials,control.01,the construction,,Affirmative,The apartment block was thought to have housed 92 families and a report said the construction was not done properly and officials supervised and controlled it in an irresponsible manner . 
+Korean family,have.03,four members,,Affirmative,"A typical North Korean family has four members , meaning the casualties could be well into the hundreds . "
+Korean family,mean.01,casualties could be well into,,Affirmative,"A typical North Korean family has four members , meaning the casualties could be well into the hundreds . "
+One official,say.01,Kim sat up,,Affirmative,"One official is reported as saying Mr Kim sat up all night , feeling painful after being told about the accident . "
+Hundereds of people,express.01,their grief and anger,,Affirmative,Hundereds of people took to the streets in Pyongyang to express their grief and anger . 
+Pak Chol,say.01,This happened,,Affirmative,Pak Chol said : This happened because they broke the rules and methods of construction . 
+This,break.01,the rules and methods of construction,,Affirmative,Pak Chol said : This happened because they broke the rules and methods of construction . 
+"Another resident ,",say.01,is now sharing,,Affirmative,"Another resident , Hong Nam Hyok , said : Everyone in Pyongyang is now sharing the sorrow of the victims and the bereaved families . "
+Everyone in Pyongyang,share.01,the sorrow of,,Affirmative,"Another resident , Hong Nam Hyok , said : Everyone in Pyongyang is now sharing the sorrow of the victims and the bereaved families . "
+to report it,take.10,five days,,Affirmative,The accident happened last Tuesday but KCNA took five days to report it and did not give details of what had happened . 
+KCNA,report.01,KCNA,,Affirmative,The accident happened last Tuesday but KCNA took five days to report it and did not give details of what had happened . 
+KCNA,give.01,details of,,Affirmative,The accident happened last Tuesday but KCNA took five days to report it and did not give details of what had happened . 
+by officials,issue.01,The apology issued by officials,,Affirmative,The apology issued by officials is extremely rare in a state which rarely offers self - critique . 
+a state,offer.01,self - critique,,Affirmative,The apology issued by officials is extremely rare in a state which rarely offers self - critique . 

@@ -1,0 +1,30 @@
+1	Sorry	sorry	UH	_	3	intj	3:AM-DIS
+2	this	this	DT	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	premium	premium	NN	p2=JJ	5	nn	_
+5	content	content	NN	_	3	attr	3:A2=PRD
+6	.	.	.	_	3	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	p2=VBD|pb=read.01	12	advcl	12:AM-PRP
+3	news	news	NN	_	4	nn	_
+4	articles	article	NNS	_	2	dobj	2:A1=PPT
+5	more	more	JJR	_	12	advmod	12:AM-ADV
+6	than	than	IN	_	5	prep	_
+7	1	0	CD	_	9	hmod	_
+8	-	-	HYPH	p2=:	9	hyph	_
+9	month	month	NN	_	10	npadvmod	_
+10	old	old	JJ	_	6	pobj	_
+11	you	you	PRP	_	12	nsubj	12:A0=PAG
+12	need	need	VBP	pb=need.01	0	root	_
+13	a	a	DT	_	14	det	_
+14	subscription	subscription	NN	_	12	dobj	12:A1=PPT
+15	.	.	.	_	12	punct	_
+
+1	To	to	TO	p2=IN	2	aux	_
+2	subscribe	subscribe	VB	pb=subscribe.02	4	advcl	4:AM-PRP
+3	,	,	,	_	4	punct	_
+4	click	click	VB	pb=click.01	0	root	_
+5	HERE	here	RB	p2=NNP	4	advmod	4:AM-LOC
+6	.	.	.	_	4	punct	_
+

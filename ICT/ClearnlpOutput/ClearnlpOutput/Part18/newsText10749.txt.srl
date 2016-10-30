@@ -1,0 +1,25 @@
+1	Baku	baku	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Rashad	rashad	NNP	p2=VBD	4	nn	_
+2	Suleymanov	suleymanov	NNP	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	APA	apa	NNP	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Azerbaijan	azerbaijan	NNP	_	3	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	Ministry	ministry	NNP	_	8	nsubj	8:A0=PAG
+4	of	of	IN	_	3	prep	_
+5	Emergency	emergency	NNP	_	6	nn	_
+6	Situations	situation	NNS	p2=NNPS	4	pobj	_
+7	has	have	VBZ	_	8	aux	_
+8	sent	send	VBN	pb=send.01	0	root	_
+9	aid	aid	NN	_	8	dobj	8:A1=PPT
+10	to	to	IN	_	8	prep	8:A2=GOL
+11	Serbia	serbia	NNP	_	10	pobj	14:AM-LOC
+12	where	where	WRB	_	14	advmod	14:R-AM-LOC
+13	floods	flood	NNS	_	14	nsubj	14:A1=PPT
+14	occurred	occur	VBD	pb=occur.01	11	rcmod	_
+15	.	.	.	_	8	punct	_
+

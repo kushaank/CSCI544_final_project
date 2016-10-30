@@ -1,0 +1,17 @@
+1	Police	police	NNS	_	2	nsubj	2:A0
+2	say	say	VBP	pb=say.01	0	root	_
+3	suspect	suspect	NN	p2=VB	6	poss	_
+4	's	's	POS	p2=VBZ	3	possessive	_
+5	sting	sting	VBG	p2=JJ|pb=sting.01	6	amod	_
+6	operation	operation	NN	_	7	nsubj	7:A0=CAU;5:A1=PPT
+7	caused	cause	VBD	pb=cause.01	2	ccomp	2:A1=PPT
+8	the	the	DT	_	9	det	_
+9	US	us	NNP	_	10	nsubj	10:A0
+10	embassy	embassy	VB	p2=NN|pb=embassy.01	7	ccomp	7:A1=PPT
+11	a	a	DT	_	12	det	_
+12	loss	loss	NN	_	10	dobj	10:A1
+13	of	of	IN	_	12	prep	_
+14	NIS	nis	NNP	_	13	pobj	_
+15	130,000	0	CD	_	14	num	_
+16	.	.	.	_	2	punct	_
+

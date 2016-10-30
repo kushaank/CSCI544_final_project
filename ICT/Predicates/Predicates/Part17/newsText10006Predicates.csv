@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+group Netcare Ltd,report.01,percent rise in,,Affirmative,"May 19 ( Reuters ) - South Africa 's No.3 private hospital group Netcare Ltd reported a 20 percent rise in first - half profit on Monday , thanks to a weaker rand currency and strong local demand . "
+"Netcare ,",run.09,one of,,Affirmative,"Netcare , which also runs one of Britain 's largest private hospital networks , said adjusted headline earnings per share totalled 76 cents in the six months to end - March , compared with 63.5 cents a year earlier . "
+"Netcare ,",say.01,totalled,,Affirmative,"Netcare , which also runs one of Britain 's largest private hospital networks , said adjusted headline earnings per share totalled 76 cents in the six months to end - March , compared with 63.5 cents a year earlier . "
+"Headline EPS ,",strip.01,non-trading items,,Affirmative,"Headline EPS , South Africa 's most widely watched profit gauge , strips out certain one - off and non-trading items . "
+Netcare Ltd,say.01,sales rose,,Affirmative,"Netcare said sales rose 17.3 percent to 15.4 billion rand ( $ 1.5 billion ) with currency conversion accounting for 11.2 percent , or 1.4 billion rand , to the increase . "
+currency conversion accounting for,account.01,for,,Affirmative,"Netcare said sales rose 17.3 percent to 15.4 billion rand ( $ 1.5 billion ) with currency conversion accounting for 11.2 percent , or 1.4 billion rand , to the increase . "
+Netcare Ltd,say.01,is expected,,Affirmative,"The demand for private healthcare within South Africa is expected to remain strong , Netcare said . "
+Netcare Ltd,lift.01,year dividend,,Affirmative,Netcare lifted its half - year dividend by 18.5 percent to 32 cents per share . 
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

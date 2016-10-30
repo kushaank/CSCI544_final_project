@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Knowing,save.02,your life,,Affirmative,Knowing an Earthquake is about to happen seconds ahead of time can save your life . 
+County judge,see.01,the YouTube video,,Affirmative,( WIAT ) - Twenty - year - old Mose Leonard is behind bars on unrelated charges after a Jefferson County judge saw the YouTube video Leonard posted about killing cops . 
+Mose Leonard,post.01,the YouTube video,,Affirmative,( WIAT ) - Twenty - year - old Mose Leonard is behind bars on unrelated charges after a Jefferson County judge saw the YouTube video Leonard posted about killing cops . 
+Mose Leonard,kill.01,cops,,Affirmative,( WIAT ) - Twenty - year - old Mose Leonard is behind bars on unrelated charges after a Jefferson County judge saw the YouTube video Leonard posted about killing cops . 
+Mose Leonard,post.01,the video,,Affirmative,"Leonard was in court May 15th , the day after he posted the video , for five charges of unlawful breaking and entering into a vehicle . "
+Judge Katrina Ross,grant.01,offender status,Leonard,Affirmative,"Judge Katrina Ross granted Leonard youthful offender status , but after she saw the controversial YouTube video he posted , she decided not to give him credit for time served . "
+she,see.01,the controversial YouTube video,,Affirmative,"Judge Katrina Ross granted Leonard youthful offender status , but after she saw the controversial YouTube video he posted , she decided not to give him credit for time served . "
+he,post.01,the controversial YouTube video,,Affirmative,"Judge Katrina Ross granted Leonard youthful offender status , but after she saw the controversial YouTube video he posted , she decided not to give him credit for time served . "
+she,decide.01,not to give him credit for time served,,Affirmative,"Judge Katrina Ross granted Leonard youthful offender status , but after she saw the controversial YouTube video he posted , she decided not to give him credit for time served . "
+she,give.01,credit for time served,him,Affirmative,"Judge Katrina Ross granted Leonard youthful offender status , but after she saw the controversial YouTube video he posted , she decided not to give him credit for time served . "
+The video references,leave.01,police bleeding,,Affirmative,The video references leaving   police bleeding and encourages other acts of violence against law enforcement . 
+The video references,encourage.02,other acts of violence against,,Affirmative,The video references leaving   police bleeding and encourages other acts of violence against law enforcement . 
+Ross,say.01,she had previously warned Leonard about posting,,Affirmative,Ross said she had previously warned Leonard about posting crazy things on social media . 
+she,warn.01,about posting,Leonard,Affirmative,Ross said she had previously warned Leonard about posting crazy things on social media . 
+she,post.01,crazy things,on,Affirmative,Ross said she had previously warned Leonard about posting crazy things on social media . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

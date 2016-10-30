@@ -1,0 +1,20 @@
+1	You	you	PRP	_	4	nsubj	4:A0=PAG;5:A0=PAG
+2	do	do	VBP	_	4	aux	_
+3	n't	not	RB	_	4	neg	4:AM-NEG
+4	stop	stop	VB	pb=stop.01	0	root	_
+5	laughing	laugh	VBG	pb=laugh.01	4	xcomp	4:A1=PPT
+6	because	because	IN	_	8	mark	_
+7	you	you	PRP	_	8	nsubj	8:A1=PPT
+8	grow	grow	VBP	p2=VB|pb=grow.02	4	advcl	4:AM-CAU
+9	older	old	JJR	_	8	acomp	8:A2=PRD
+10	.	.	.	_	4	punct	_
+
+1	You	you	PRP	_	2	nsubj	2:A1=PPT
+2	grow	grow	VBP	p2=VB|pb=grow.02	0	root	_
+3	older	old	JJR	_	2	acomp	2:A2=PRD
+4	because	because	IN	_	6	mark	_
+5	you	you	PRP	_	6	nsubj	6:A0=PAG;7:A0=PAG
+6	stop	stop	VBP	pb=stop.01	2	advcl	2:AM-CAU
+7	laughing	laugh	VBG	pb=laugh.01	6	xcomp	6:A1=PPT
+8	.	.	.	_	2	punct	_
+

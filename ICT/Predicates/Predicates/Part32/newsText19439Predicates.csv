@@ -1,0 +1,42 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Service officials,say.01,was,,Affirmative,National Weather Service officials said a tornado that killed 15 people as it ripped through Little Rock 's suburbs in late April was just shy of being rated Arkansas ' first top - of - the - scale storm in 85 years . 
+a tornado,kill.01,15 people,,Affirmative,National Weather Service officials said a tornado that killed 15 people as it ripped through Little Rock 's suburbs in late April was just shy of being rated Arkansas ' first top - of - the - scale storm in 85 years . 
+A survey team,say.01,storm was rated,,Affirmative,"A survey team said based on damage assessments the Arkansas storm was rated a high - end EF4 , with winds near the top of the 166-200 mph range . "
+flying debris,cause.01,a lot of damage,,Affirmative,"Part of the trouble rating the storm was that flying debris caused a lot of damage , too , officials said . "
+National Weather Service officials,say.01,was,,Affirmative,"Part of the trouble rating the storm was that flying debris caused a lot of damage , too , officials said . "
+by,spawn.01,A tornado spawned by,,Affirmative,"A tornado spawned by the same storm system killed one person in Quapaw , Okla . "
+A tornado spawned by,kill.01,one person,,Affirmative,"A tornado spawned by the same storm system killed one person in Quapaw , Okla . "
+The tornado packing,pack.01,maximum wind speeds of,,Affirmative,The tornado packing maximum wind speeds of 115 to 130 mph traveled more than 11 miles and crossed the Kansas border to Baxter Springs before it ended at 5:42 p.m. The tornado had a maximum width of 325 yards . 
+The tornado packing,travel.01,11 miles,,Affirmative,The tornado packing maximum wind speeds of 115 to 130 mph traveled more than 11 miles and crossed the Kansas border to Baxter Springs before it ended at 5:42 p.m. The tornado had a maximum width of 325 yards . 
+The tornado packing,cross.02,the Kansas border,,Affirmative,The tornado packing maximum wind speeds of 115 to 130 mph traveled more than 11 miles and crossed the Kansas border to Baxter Springs before it ended at 5:42 p.m. The tornado had a maximum width of 325 yards . 
+A tornado spawned by the same storm system,have.03,a maximum width of,,Affirmative,The tornado packing maximum wind speeds of 115 to 130 mph traveled more than 11 miles and crossed the Kansas border to Baxter Springs before it ended at 5:42 p.m. The tornado had a maximum width of 325 yards . 
+he and,pull.01,into,over,Affirmative,A man was killed in Quapaw when he and his wife pulled over into a parking lot and concrete wall fell on the car . 
+36 other people,sustain.02,injuries in Quapaw and,,Affirmative,At least 36 other people sustained injuries in Quapaw and Baxter Springs . 
+Ferndale,skip.01,to,,Affirmative,It then skipped to Pleasant Plains . 
+National Weather Service,say.01,tornadoes covered,,Affirmative,The weather service said five separate tornadoes covered a distance of 80 miles . 
+five separate tornadoes,cover.01,a distance of,,Affirmative,The weather service said five separate tornadoes covered a distance of 80 miles . 
+The nation,have.03,an EF5 storm,,Affirmative,"The nation has n't had an EF5 storm since last May , when Moore , Okla . "
+a twister,kill.01,24,,Affirmative,", was hit by a twister that killed 24 and destroyed 1,000 homes . "
+a twister,destroy.01,"1,000 homes",,Affirmative,", was hit by a twister that killed 24 and destroyed 1,000 homes . "
+Cove area overlooking,overlook.02,Lake Conway,,Affirmative,"It was difficult to find one Mayflower resident along the Pine Tree Cove area overlooking Lake Conway whose home or property had not sustained major damage - 100 - year - old oak trees smashed through their homes , roofs sheared off , decades - old brick homes smashed to bits . "
+Lake Conway,sustain.01,old oak trees,,Affirmative,"It was difficult to find one Mayflower resident along the Pine Tree Cove area overlooking Lake Conway whose home or property had not sustained major damage - 100 - year - old oak trees smashed through their homes , roofs sheared off , decades - old brick homes smashed to bits . "
+roofs,shear.01,homes smashed to bits,,Affirmative,"It was difficult to find one Mayflower resident along the Pine Tree Cove area overlooking Lake Conway whose home or property had not sustained major damage - 100 - year - old oak trees smashed through their homes , roofs sheared off , decades - old brick homes smashed to bits . "
+a storm rated at F5,travel.01,from south of Batesville,,Affirmative,"On April 10 , 1929 , a storm rated at F5 on a previously used scale traveled from south of Batesville to Sneed , north of Newport , and killed 23 . "
+a storm rated at F5,kill.01,23,,Affirmative,"On April 10 , 1929 , a storm rated at F5 on a previously used scale traveled from south of Batesville to Sneed , north of Newport , and killed 23 . "
+Forecasters,use.01,"Fujita scale ,",,Affirmative,"Forecasters now use the Enhanced Fujita scale , which evaluates damage across 28 parameters and , from that data , let s forecasters arrive at approximate wind speeds . "
+"Fujita scale ,",evaluate.01,damage across,,Affirmative,"Forecasters now use the Enhanced Fujita scale , which evaluates damage across 28 parameters and , from that data , let s forecasters arrive at approximate wind speeds . "
+several states,hold.04,primaries,,Affirmative,"The Super Tuesday twister , so named because it hit when several states held primaries early in the 2008 political campaign , killed 13 people in a path from Atkins to near the Missouri border , a distance of 120 miles . "
+"Tuesday twister ,",kill.01,13 people,,Affirmative,"The Super Tuesday twister , so named because it hit when several states held primaries early in the 2008 political campaign , killed 13 people in a path from Atkins to near the Missouri border , a distance of 120 miles . "
+you,lose.03,15 folks,,Affirmative,"When you lose 15 folks in one tornado , that 's an awfully big toll in Arkansas , Robinson said . "
+Robinson,say.01,", that 's",,Affirmative,"When you lose 15 folks in one tornado , that 's an awfully big toll in Arkansas , Robinson said . "
+Gov. Mary Fallin,tour.01,ravaged Quapaw,,Affirmative,"In Oklahoma , Gov. Mary Fallin toured tornado - ravaged Quapaw on April 28 , telling residents the state has issued an emergency declaration to kick - start cleanup and rebuilding efforts . "
+Gov. Mary Fallin,tell.01,state has issued,residents,Affirmative,"In Oklahoma , Gov. Mary Fallin toured tornado - ravaged Quapaw on April 28 , telling residents the state has issued an emergency declaration to kick - start cleanup and rebuilding efforts . "
+the state,issue.01,an emergency declaration,,Affirmative,"In Oklahoma , Gov. Mary Fallin toured tornado - ravaged Quapaw on April 28 , telling residents the state has issued an emergency declaration to kick - start cleanup and rebuilding efforts . "
+Chief Gary Graham,say.01,structures sustained,,Affirmative,Quapaw Police Chief Gary Graham said about 60 structures sustained some damage . 
+60 structures,sustain.02,some damage,,Affirmative,Quapaw Police Chief Gary Graham said about 60 structures sustained some damage . 
+Authorities,say.01,the tornado,,Affirmative,"Authorities said the tornado that hit Quapaw , a town of about 900 residents , was a bit of a strange anomaly with the governor noting that tornado warnings had been not been issued at the time . "
+the tornado,hit.01,"Quapaw ,",,Affirmative,"Authorities said the tornado that hit Quapaw , a town of about 900 residents , was a bit of a strange anomaly with the governor noting that tornado warnings had been not been issued at the time . "
+a bit of,note.01,warnings had been not been issued at,,Affirmative,"Authorities said the tornado that hit Quapaw , a town of about 900 residents , was a bit of a strange anomaly with the governor noting that tornado warnings had been not been issued at the time . "
+the twister,strike.01,"Baxter Springs ,",,Affirmative,"After hitting Quapaw , the twister continued north into Kansas and struck Baxter Springs , about 5 miles away . "
+manager Jason Allison,say.01,were destroyed,,Affirmative,", emergency manager Jason Allison said 60 to 70 homes and 20 to 25 businesses were destroyed . "
+the twister,hit.01,the town,,Affirmative,", said tornado sirens did n't sound in Baxter Springs until right before the twister hit the town because it formed so quickly . "

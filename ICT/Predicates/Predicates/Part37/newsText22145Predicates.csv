@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+He,say.01,"shows ,",,Affirmative,"He said of the nixed shows , I was really hoping that I 'd be feeling better today . "
+He,hope.01,that I 'd be feeling better today,,Affirmative,"He said of the nixed shows , I was really hoping that I 'd be feeling better today . "
+He,feel.01,better,,Affirmative,"He said of the nixed shows , I was really hoping that I 'd be feeling better today . "
+Paul McCartney,cancel.01,his second concert in Tokyo,,Affirmative,"Paul McCartney canceled his second concert in Tokyo on Sunday , as well as the makeup performance for the one nixed a day earlier , and apologized to his fans for still being sick with a virus . "
+Paul McCartney,apologize.01,for,to,Affirmative,"Paul McCartney canceled his second concert in Tokyo on Sunday , as well as the makeup performance for the one nixed a day earlier , and apologized to his fans for still being sick with a virus . "
+The former Beatle,want.01,to perform Sunday against,,Affirmative,"The former Beatle said on his Out There Japan Tour 2014 site that he wanted to perform Sunday against doctors ' orders , but that his team would n't allow it . "
+The former Beatle,perform.01,Tour 2014 site,against,Affirmative,"The former Beatle said on his Out There Japan Tour 2014 site that he wanted to perform Sunday against doctors ' orders , but that his team would n't allow it . "
+his team,allow.01,his team,,Affirmative,"The former Beatle said on his Out There Japan Tour 2014 site that he wanted to perform Sunday against doctors ' orders , but that his team would n't allow it . "
+The former Beatle,say.01,condition has not improved overnight,,Affirmative,"Unfortunately my condition has not improved overnight , he said . "
+The former Beatle,hope.01,that I 'd be feeling better today,,Affirmative,I was really hoping that I 'd be feeling better today . 
+The former Beatle,feel.01,better,,Affirmative,I was really hoping that I 'd be feeling better today . 
+"McCartney , 71 ,",cancel.01,"his second concert in Tokyo on Sunday , as well as the makeup performance for the one",,Affirmative,"McCartney , 71 , got sick Friday and canceled his concert at the National Stadium in Tokyo at the last minute Saturday . "
+"McCartney , 71",do.02,an additional concert,,Affirmative,But he had promised to be well enough to perform Sunday and do an additional concert Monday . 
+The tour site,say.01,McCartney instructed,,Affirmative,The tour site said McCartney instructed his team to look into rescheduling options . 
+"McCartney , 71",instruct.01,his team,to look into,Affirmative,The tour site said McCartney instructed his team to look into rescheduling options . 
+his team,look.01,into,,Affirmative,The tour site said McCartney instructed his team to look into rescheduling options . 
+Ticket holders,hold.06,to them,,Affirmative,"Ticket holders were advised to hold on to them , but where and when the concerts would be held was unclear . "
+Organizers,say.01,performance was still on for Wednesday,,Affirmative,"Organizers said McCartney 's scheduled performance was still on for Wednesday at Nippon Budokan hall in Tokyo , the same venue where the Beatles took the stage during their visit to Japan in 1966 . "
+the Beatles,take.01,the stage,,Affirmative,"Organizers said McCartney 's scheduled performance was still on for Wednesday at Nippon Budokan hall in Tokyo , the same venue where the Beatles took the stage during their visit to Japan in 1966 . "
+"McCartney , 71",say.01,he was moved by,,Affirmative,McCartney said he was moved by the messages of concern and support he was receiving from his Japanese fans . 
+by,move.01,"McCartney , 71",,Affirmative,McCartney said he was moved by the messages of concern and support he was receiving from his Japanese fans . 
+"McCartney , 71",receive.01,the messages of concern and support,from,Affirmative,McCartney said he was moved by the messages of concern and support he was receiving from his Japanese fans . 
+"McCartney , 71",say.01,I 'm,,Affirmative,"I 'm so very touched , he said . "

@@ -1,0 +1,96 @@
+1	,	,	,	_	2	punct	_
+2	is	be	VBZ	pb=be.01	0	root	_
+3	available	available	JJ	_	2	acomp	2:A2=PRD
+4	ONLY	only	RB	_	5	advmod	_
+5	to	to	IN	_	3	prep	_
+6	subscribers	subscriber	NNS	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	TREND	trend	NNP	p2=NN	11	nn	_
+9	International	international	NNP	_	11	nn	_
+10	News	news	NNP	_	11	nn	_
+11	Agency	agency	NNP	_	7	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0=PAG
+2	can	can	MD	_	3	aux	3:AM-MOD
+3	read	read	VB	pb=read.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	article	article	NN	_	3	dobj	3:A1=PPT
+6	by	by	IN	_	3	prep	3:AM-MNR
+7	sending	send	VBG	pb=send.01	6	pcomp	_
+8	an	an	DT	_	9	det	_
+9	SMS	sms	NN	p2=NNP	7	dobj	7:A1=PPT
+10	from	from	IN	_	7	prep	7:AM-DIR
+11	your	your	PRP$	_	13	poss	_
+12	mobile	mobile	JJ	_	13	amod	_
+13	phone	phone	NN	_	10	pobj	_
+14	.	.	.	_	3	punct	_
+
+1	SMS	sms	NN	p2=NNS	2	nn	2:A1=PPT
+2	costs	cost	VBZ	p2=VBZ|pb=cost.01	0	root	_
+3	-	-	:	p2=HYPH	2	punct	_
+4	.	.	.	_	2	punct	_
+
+1	Attention	attention	NN	_	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	Pay	pay	VB	pb=pay.01	0	root	_
+2	attention	attention	NN	_	1	dobj	1:A1=VSP
+3	to	to	IN	_	1	prep	1:A2=GOL
+4	the	the	DT	_	5	det	_
+5	format	format	NN	_	3	pobj	_
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	message	message	NN	_	6	pobj	_
+9	and	and	CC	_	5	cc	_
+10	the	the	DT	_	11	det	_
+11	space	space	NN	_	5	conj	_
+12	between	between	IN	_	11	prep	_
+13	words	word	NNS	_	12	pobj	_
+14	.	.	.	_	1	punct	_
+
+1	All	all	PDT	_	3	predet	_
+2	the	the	DT	_	3	det	_
+3	letters	letter	NNS	_	4	nsubj	4:A1=PPT
+4	are	be	VBP	pb=be.01	0	root	_
+5	in	in	IN	_	4	prep	4:A2=PRD
+6	latin	latin	JJ	p2=NN	5	pobj	_
+7	.	.	.	_	4	punct	_
+
+1	In	in	IN	_	10	prep	10:AM-ADV
+2	case	case	NN	_	1	pobj	_
+3	of	of	IN	_	2	prep	_
+4	error	error	NN	_	3	pobj	_
+5	,	,	,	_	10	punct	_
+6	the	the	DT	_	7	det	_
+7	service	service	NN	_	10	nsubjpass	13:A1=VSP
+8	is	be	VBZ	_	10	auxpass	_
+9	still	still	RB	_	10	advmod	10:AM-TMP
+10	considered	consider	VBN	pb=consider.01	0	root	_
+11	to	to	TO	_	13	aux	_
+12	be	be	VB	_	13	auxpass	_
+13	paid	pay	VBN	pb=pay.01	10	xcomp	10:C-A1
+14	.	.	.	_	10	punct	_
+
+1	A	a	DT	p2=NN	2	det	_
+2	password	password	NN	p2=NNP	4	nsubj	4:A1=PPT
+3	will	will	MD	_	4	aux	4:AM-MOD
+4	come	come	VB	pb=come.01	0	root	_
+5	in	in	IN	p2=RP	4	prep	4:AM-MNR
+6	reply	reply	NN	p2=JJ	7	nn	_
+7	SMS	sms	NN	p2=NNS	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Error	error	NN	p2=CC	0	root	2:A1=PPT
+2	connecting	connect	VBG	pb=connect.01	1	partmod	_
+3	to	to	IN	_	2	prep	_
+4	server	server	NN	_	3	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Please	please	UH	p2=VB	2	intj	2:AM-DIS
+2	update	update	VB	pb=update.01	0	root	_
+3	your	your	PRP$	_	5	poss	_
+4	tariff	tariff	NN	_	5	nn	_
+5	plan	plan	NN	p2=VB	2	dobj	2:A1=PPT
+6	!	!	.	_	2	punct	_
+

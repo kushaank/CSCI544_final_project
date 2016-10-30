@@ -1,0 +1,27 @@
+1	Cross	cross	NNP	p2=JJ	2	nn	_
+2	Rhythms	rhythms	NNP	p2=NNPS	4	nsubj	4:A0=PAG
+3	is	be	VBZ	_	4	aux	_
+4	impacting	impact	VBG	pb=impact.01	0	root	_
+5	youth	youth	NN	_	4	dobj	4:A1=PPT
+6	and	and	CC	_	4	cc	_
+7	the	the	DT	_	9	det	_
+8	wider	wide	JJR	_	9	amod	_
+9	community	community	NN	_	4	conj	_
+10	for	for	IN	_	9	prep	_
+11	good	good	JJ	p2=NN	10	amod	_
+12	through	through	IN	_	9	prep	_
+13	FM	fm	NNP	p2=NN	14	nn	_
+14	radio	radio	NN	_	12	pobj	_
+15	,	,	,	_	14	punct	_
+16	training	training	NN	_	14	conj	_
+17	,	,	,	_	16	punct	_
+18	contemporary	contemporary	JJ	_	20	amod	_
+19	Christian	christian	JJ	p2=NNP	20	amod	_
+20	music	music	NN	_	16	conj	_
+21	and	and	CC	_	20	cc	_
+22	a	a	DT	_	25	det	_
+23	globally	globally	RB	_	24	advmod	_
+24	influential	influential	JJ	_	25	amod	_
+25	website	website	NN	_	20	conj	_
+26	.	.	.	_	4	punct	_
+

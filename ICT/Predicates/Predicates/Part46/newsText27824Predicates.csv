@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+We,notice.01,that you found,,Affirmative,We noticed that you found this article on Facebook . 
+you,find.01,this article on Facebook,,Affirmative,We noticed that you found this article on Facebook . 
+Board report,classify.01,incident between,,Affirmative,The National Transportation Safety Board report classified the April 24 incident between a United flight coming from San Francisco and an ExpressJet flight bound for Memphis as a near midair collision . 
+by,separate.01,They,,Affirmative,They were separated by about 400 feet vertically . 
+a United flight coming from San Francisco,carry.01,155 passengers and,,Affirmative,The United flight was carrying 155 passengers and six crew members . 
+an ExpressJet flight,carry.01,47 passengers and,,Affirmative,The ExpressJet flight was carrying 47 passengers and three crew members . 
+an ExpressJet flight,start.01,its takeoff roll,,Affirmative,"By the time the ExpressJet flight started its takeoff roll , the United flight was about one mile away . "
+by,order.01,a United flight coming from San Francisco,to abort,Affirmative,"As the two planes approached each other , the United flight was ordered by the tower to abort its landing and go back up . "
+a United flight coming from San Francisco,abort.01,"another plane landing on intersecting runways at Newark Liberty Airport nearly collided last month , according to a preliminary federal report",,Affirmative,"As the two planes approached each other , the United flight was ordered by the tower to abort its landing and go back up . "

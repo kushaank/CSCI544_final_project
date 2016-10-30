@@ -1,0 +1,321 @@
+1	Welcome	welcome	VBP	p2=VBP|pb=welcome.01	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	Today	today	NN	_	13	npadvmod	13:AM-TMP
+2	on Investor	on investor	NNP	p2=NN	3	nn	_
+3	Beat	beat	NNP	p2=NN	13	nsubj	13:A0=PAG
+4	,	,	,	_	3	punct	_
+5	Chris	chris	NNP	_	6	nn	_
+6	Hill	hill	NNP	_	3	conj	_
+7	and	and	CC	_	6	cc	_
+8	Motley	motley	NNP	_	9	nn	_
+9	Fool	fool	NNP	_	10	nn	_
+10	analyst	analyst	NN	_	12	nn	_
+11	Taylor	taylor	NNP	_	12	nn	_
+12	Muckerman	muckerman	NNP	_	6	conj	_
+13	discuss	discuss	VBP	p2=VBZ|pb=discuss.01	0	root	_
+14	why	why	WRB	_	18	advmod	18:R-AM-CAU
+15	they	they	PRP	_	18	nsubj	18:A0
+16	'll	will	MD	_	18	aux	18:AM-MOD
+17	be	be	VB	_	18	aux	_
+18	watching	watch	VBG	pb=watch.01	13	ccomp	13:A1=PPT
+19	two	#crd#	CD	_	21	num	_
+20	Canadian	canadian	JJ	_	21	amod	_
+21	banks	bank	NNS	_	18	dobj	18:A1
+22	this	this	DT	_	23	det	_
+23	week	week	NN	_	18	npadvmod	18:AM-TMP
+24	.	.	.	_	13	punct	_
+
+1	Today	today	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	Victoria	victoria	NNP	_	4	nn	_
+4	Day	day	NNP	_	2	attr	2:A2=PRD
+5	in	in	IN	_	4	prep	_
+6	Canada	canada	NNP	_	5	pobj	_
+7	,	,	,	_	2	punct	_
+8	informally	informally	RB	_	9	advmod	9:AM-MNR
+9	marking	mark	VBG	pb=mark.01	2	advcl	2:AM-ADV
+10	the	the	DT	_	11	det	_
+11	beginning	beginning	NN	_	9	dobj	9:A1=PPT
+12	of	of	IN	_	11	prep	_
+13	the	the	DT	_	14	det	_
+14	summer	summer	NN	_	12	pobj	_
+15	.	.	.	_	2	punct	_
+
+1	While	while	IN	_	7	mark	_
+2	the	the	DT	_	5	det	_
+3	Toronto	toronto	NNP	_	5	nn	_
+4	Stock	stock	NNP	_	5	nn	_
+5	Exchange	exchange	NNP	_	7	nsubjpass	_
+6	was	be	VBD	_	7	auxpass	_
+7	closed	close	VBN	p2=JJ	11	advcl	11:AM-ADV
+8	today	today	NN	_	7	npadvmod	_
+9	,	,	,	_	11	punct	_
+10	Taylor	taylor	NNP	_	11	nsubj	11:A1=PPT
+11	is	be	VBZ	pb=be.01	0	root	_
+12	excited	excited	JJ	p2=VBN	11	acomp	11:A2=PRD
+13	about	about	IN	_	12	prep	_
+14	the	the	DT	_	17	det	_
+15	coming	come	VBG	p2=JJ|pb=come.01	17	amod	_
+16	earnings	earnings	NNS	_	17	nn	_
+17	reports	report	NNS	p2=VBZ	13	pobj	15:A1=PPT
+18	Thursday	thursday	NNP	_	17	npadvmod	_
+19	of	of	IN	_	17	prep	_
+20	Canada	canada	NNP	_	23	poss	_
+21	's	's	POS	_	20	possessive	_
+22	largest	large	JJS	_	23	amod	_
+23	banks	bank	NNS	_	19	pobj	_
+24	,	,	,	_	17	punct	_
+25	 Toronto-Dominion	 toronto-dominion	NN	p2=JJ	26	nn	_
+26	Bank 	bank 	NNP	p2=NN	23	appos	_
+27	(	(	-LRB-	_	26	punct	_
+28	NYSE	nyse	NNP	p2=NN	26	appos	_
+29	:	:	:	_	26	punct	_
+30	TD	td	NNP	p2=NN	32	nn	_
+31	 	 	NNP	p2=POS	32	nn	_
+32	 	 	NNP	p2=''	26	appos	_
+33	)	)	-RRB-	_	26	punct	_
+34	and	and	CC	_	26	cc	_
+35	the Royal	the royal	NNP	p2=DT	36	nn	_
+36	Bank	bank	NNP	_	26	conj	_
+37	of	of	IN	_	36	prep	_
+38	Canada	canada	NNP	_	37	pobj	_
+39	(	(	-LRB-	_	36	punct	_
+40	NYSE	nyse	NNP	p2=NN	36	appos	_
+41	:	:	:	_	36	punct	_
+42	RY	ry	NNP	p2=NN	44	nn	_
+43	 	 	NNP	p2=POS	44	nn	_
+44	 	 	NNP	p2=''	36	appos	_
+45	)	)	-RRB-	_	36	punct	_
+46	.	.	.	_	11	punct	_
+
+1	Taylor	taylor	NNP	p2=NN	2	nsubj	2:A0
+2	sees	see	VBZ	pb=see.01	0	root	_
+3	these	these	DT	_	5	det	_
+4	two	#crd#	CD	_	5	num	_
+5	banks	bank	NNS	_	2	dobj	2:A1
+6	as	as	IN	p2=RB	2	prep	2:A2=PRD
+7	gauges	gauge	NNS	_	6	pobj	_
+8	for	for	IN	_	7	prep	_
+9	the	the	DT	_	12	det	_
+10	Canadian	canadian	JJ	_	12	amod	_
+11	lending	lending	NN	p2=VBG	12	nn	_
+12	market	market	NN	_	8	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	Report	report	VB	p2=NNP|pb=report.01	0	root	_
+2	this	this	DT	_	4	det	_
+3	Comment	comment	NN	_	4	nn	_
+4	icon	icon	NN	_	1	dobj	1:A1;5:A1=PPT
+5	found	find	VBN	p2=VBD|pb=find.01	4	partmod	_
+6	on	on	IN	_	5	prep	5:AM-LOC
+7	every	every	DT	_	8	det	_
+8	comment	comment	NN	_	6	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	Be	be	VB	pb=be.01	0	root	_
+2	the	the	DT	_	4	det	_
+3	first	#ord#	JJ	_	4	amod	_
+4	one	#crd#	CD	p2=NN	1	attr	6:A0=PAG;1:A2=PRD
+5	to	to	TO	_	6	aux	_
+6	comment	comment	VB	pb=comment.01	4	infmod	_
+7	on	on	IN	_	6	prep	6:A1=PPT
+8	this	this	DT	_	9	det	_
+9	article	article	NN	_	7	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	Your	your	PRP$	_	3	poss	_
+2	Fool	fool	NN	p2=NNP	3	nn	_
+3	username	username	NN	p2=VBD	6	nsubjpass	6:A1=PPT
+4	will	will	MD	_	6	aux	6:AM-MOD
+5	be	be	VB	_	6	auxpass	_
+6	displayed	display	VBN	pb=display.01	0	root	_
+7	with	with	IN	_	6	prep	6:A2=LOC
+8	your	your	PRP$	_	9	poss	_
+9	comment	comment	NN	_	7	pobj	_
+10	.	.	.	_	6	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	be	be	VB	pb=be.01	0	root	_
+3	respectful	respectful	JJ	_	2	acomp	2:A2=PRD
+4	with	with	IN	_	3	prep	_
+5	your	your	PRP$	_	6	poss	_
+6	comments	comment	NNS	_	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	Review	review	VB	p2=NNP|pb=review.01	0	root	_
+2	our	our	PRP$	_	3	poss	_
+3	Fool	fool	NNP	p2=NN	5	poss	_
+4	's	's	POS	_	3	possessive	_
+5	Rules	rule	NNS	p2=NNPS	1	dobj	1:A1=PPT
+6	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	2	det	_
+2	secret	secret	NN	p2=JJ	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	out	out	RB	p2=RP	3	advmod	3:A2=PRD
+5	...	..	.	_	3	punct	_
+
+1	experts	expert	NNS	_	3	nsubj	3:A0=CAU
+2	are	be	VBP	_	3	aux	_
+3	predicting	predict	VBG	pb=predict.01	0	root	_
+4	458	0	CD	_	5	number	_
+5	million	#crd#	CD	_	13	nsubjpass	13:A1=PPT
+6	of	of	IN	_	5	prep	_
+7	these	these	DT	_	8	det	_
+8	types	type	NNS	_	6	pobj	_
+9	of	of	IN	_	8	prep	_
+10	devices	device	NNS	_	9	pobj	_
+11	will	will	MD	_	13	aux	13:AM-MOD
+12	be	be	VB	_	13	auxpass	_
+13	sold	sell	VBN	pb=sell.01	3	ccomp	3:A1=PPT
+14	per	per	IN	_	13	prep	13:AM-TMP
+15	year	year	NN	_	14	pobj	_
+16	.	.	.	_	3	punct	_
+
+1	1	0	CD	p2=LS	5	num	_
+2	hyper	hyper	NN	p2=JJR	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	growth	growth	NN	_	5	nn	_
+5	company	company	NN	_	6	nsubj	8:A0=PAG;6:A1=PPT
+6	stands	stand	VBZ	pb=stand.01	0	root	_
+7	to	to	TO	_	8	aux	_
+8	rake	rake	VB	pb=rake.01	6	xcomp	6:A2=LOC
+9	in	in	RP	_	8	prt	8:C-V
+10	maximum	maximum	JJ	p2=NN	11	amod	_
+11	profit	profit	NN	p2=VB	8	dobj	8:A1=PPT
+12	-	-	:	_	6	punct	_
+13	and	and	CC	_	6	cc	_
+14	it	it	PRP	_	15	nsubj	15:A1=PPT
+15	's	be	VBZ	pb=be.01	6	conj	_
+16	NOT	not	RB	_	15	neg	15:AM-NEG
+17	Apple	apple	NNP	p2=JJ	15	attr	15:A2=PRD
+18	.	.	.	_	15	punct	_
+
+1	Show	show	VB	p2=NNP|pb=show.01	0	root	_
+2	me	me	PRP	_	1	iobj	1:A2=GOL
+3	Apple	apple	NNP	_	7	poss	_
+4	's	's	POS	_	3	possessive	_
+5	new	new	JJ	_	7	amod	_
+6	smart	smart	JJ	_	7	amod	_
+7	gizmo	gizmo	NN	p2=XX	1	dobj	1:A1=PPT
+8	!	!	.	_	1	punct	_
+
+1	Use	use	VB	pb=use.01	0	root	_
+2	this	this	DT	_	3	det	_
+3	area	area	NN	_	1	dobj	1:A1=PPT
+4	to	to	TO	_	5	aux	_
+5	report	report	VB	pb=report.01	1	xcomp	1:A2=PRP
+6	a	a	DT	_	7	det	_
+7	comment	comment	NN	_	5	dobj	5:A1;11:A1=PPT
+8	that	that	WDT	p2=IN	11	nsubj	11:R-A1
+9	you	you	PRP	_	10	nsubj	10:A0=PAG
+10	believe	believe	VBP	pb=believe.01	7	rcmod	_
+11	is	be	VBZ	pb=be.01	10	ccomp	10:A1=PPT
+12	in	in	IN	_	11	prep	11:A2=PRD
+13	violation	violation	NN	_	12	pobj	_
+14	of	of	IN	_	13	prep	_
+15	the	the	DT	_	17	det	_
+16	community	community	NN	_	17	nn	_
+17	guidelines	guideline	NNS	_	14	pobj	_
+18	.	.	.	_	1	punct	_
+
+1	Our	our	PRP$	_	2	poss	_
+2	team	team	NN	_	4	nsubj	4:A0=PAG;8:A0
+3	will	will	MD	_	4	aux	4:AM-MOD;8:AM-MOD
+4	review	review	VB	pb=review.01	0	root	_
+5	the	the	DT	_	6	det	_
+6	entry	entry	NN	_	4	dobj	4:A1=PPT
+7	and	and	CC	_	4	cc	_
+8	take	take	VB	pb=take.01	4	conj	_
+9	any	any	DT	_	11	det	_
+10	appropriate	appropriate	JJ	_	11	amod	_
+11	action	action	NN	_	8	dobj	8:AM-PRR
+12	.	.	.	_	4	punct	_
+
+1	Terms	term	NNS	_	7	nsubj	_
+2	of	of	IN	_	1	prep	_
+3	Use	use	NNP	p2=VB	10	poss	_
+4	©	©	POS	p2=HYPH	3	possessive	_
+5	1995	0	CD	_	0	root	_
+6	-	-	SYM	_	7	punct	_
+7	2014	0	CD	_	5	prep	_
+8	The	the	DT	p2=NNP	10	det	_
+9	Motley	motley	NNP	_	10	nn	_
+10	Fool	fool	NNP	p2=NN	2	pobj	_
+11	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	BATS	bat	NNS	p2=VBZ	2	nn	_
+2	data	datum	NNS	p2=NN	0	root	3:A1
+3	provided	provided	VBN	p2=VBD|pb=provide.01	2	partmod	_
+4	in	in	IN	_	3	prep	3:AM-TMP
+5	real	real	JJ	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	time	time	NN	_	4	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	NYSE	nyse	NNP	p2=NN	6	nn	_
+2	,	,	,	_	1	punct	_
+3	NASDAQ	nasdaq	NNP	_	1	conj	_
+4	and	and	CC	_	3	cc	_
+5	NYSEMKT	nysemkt	NNP	_	3	conj	_
+6	data	datum	NNS	_	7	nsubj	7:A1=PPT
+7	delayed	delay	VBD	pb=delay.01	0	root	_
+8	15	0	CD	_	9	num	_
+9	minutes	minute	NNS	_	7	npadvmod	7:AM-TMP
+10	.	.	.	_	7	punct	_
+
+1	Real	real	JJ	p2=NNP	3	hmod	_
+2	-	-	HYPH	p2=:	3	hyph	_
+3	Time	time	NN	p2=NNP	4	nn	_
+4	prices	price	NNS	_	0	root	5:A1
+5	provided	provided	VBN	pb=provide.01	4	partmod	_
+6	by	by	IN	_	5	agent	5:A0
+7	BATS	bat	NNS	p2=NNP	6	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	Market	market	NN	p2=NNP	2	nn	_
+2	data	datum	NNS	p2=NN	0	root	3:A1
+3	provided	provided	VBN	pb=provide.01	2	partmod	_
+4	by	by	IN	_	3	agent	3:A0
+5	Interactive	interactive	NNP	_	6	nn	_
+6	Data	data	NNP	_	4	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	Company	company	JJ	p2=NN	3	amod	_
+2	fundamental	fundamental	JJ	_	3	amod	_
+3	data	datum	NNS	p2=NN	0	root	4:A1
+4	provided	provided	VBN	pb=provide.01	3	partmod	_
+5	by	by	IN	_	4	agent	4:A0
+6	Morningstar	morningstar	NNP	p2=NN	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	Earnings	earnings	NNS	_	2	nn	_
+2	Estimates	estimate	NNS	p2=NNPS	9	nsubj	_
+3	,	,	,	_	2	punct	_
+4	Analyst	analyst	NNP	p2=NN	5	nn	_
+5	Ratings	rating	NNS	p2=NNP	2	conj	_
+6	and	and	CC	_	5	cc	_
+7	Key	key	NNP	p2=NNPS	8	nn	_
+8	Statistics	statistic	NNPS	p2=NNS	0	root	9:A1
+9	provided	provided	VBN	p2=VBD|pb=provide.01	8	partmod	_
+10	by	by	IN	_	9	agent	9:A0
+11	Zacks	zacks	NNP	p2=NNS	10	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	SEC	sec	NNP	_	2	nn	_
+2	Filings	filings	NNP	p2=NNPS	5	nn	_
+3	and	and	CC	_	2	cc	_
+4	Insider	insider	NNP	_	2	conj	_
+5	Transactions	transaction	NNS	p2=NNPS	0	root	6:A1
+6	provided	provided	VBN	pb=provide.01	5	partmod	_
+7	by	by	IN	_	6	agent	6:A0
+8	Edgar	edgar	NNP	_	9	nn	_
+9	Online	online	NNP	_	7	pobj	_
+10	.	.	.	_	5	punct	_
+

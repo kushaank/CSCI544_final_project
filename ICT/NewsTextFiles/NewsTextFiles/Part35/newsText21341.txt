@@ -1,0 +1,4 @@
+
+Invalid SQL: "SELECT L.Name, L.Info, L.Subtitle, L.Article, A.Gal_id FROM WPF_EOL_Articles A, WPF_EOL_Articles_langvers L WHERE A.Ars_id = L.Ars_id AND L.Lan_id =  AND L.Ars_id = 336439"
+
+Vielen Dank!

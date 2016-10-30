@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A REDCAR student,win.01,a competition run by IKEA,,Affirmative,A REDCAR student has won a competition run by IKEA after working with the retailer on a design project . 
+by IKEA,run.01,a competition run by IKEA,,Affirmative,A REDCAR student has won a competition run by IKEA after working with the retailer on a design project . 
+"Sam Rimington , 16 , from Redcar",work.01,project,,Affirmative,"Sam Rimington , 16 , from Redcar , worked with the Swedish company 's Gateshead store on a three - month live project , along with fellow design technology students at Prior Pursglove College , in Guisborough . "
+fellow design technology students at Prior Pursglove College,design.01,a suitable product,,Affirmative,The students had to design a suitable product that would prevent groceries from spoiling before they are eaten . 
+a suitable product,prevent.01,groceries,from spoiling,Affirmative,The students had to design a suitable product that would prevent groceries from spoiling before they are eaten . 
+Top designers from IKEA,choose.01,Sam Rimington,,Affirmative,"Top designers from IKEA chose him as the winner with the best idea and his product , which is a flatpack plywood and aluminium fruit holder which stops the fruit from being in contact , will now be displayed on the IKEA website . "
+fruit holder,stop.03,the fruit,from being in contact,Affirmative,"Top designers from IKEA chose him as the winner with the best idea and his product , which is a flatpack plywood and aluminium fruit holder which stops the fruit from being in contact , will now be displayed on the IKEA website . "
+Sam Rimington,win.01,£100 worth of vouchers for,,Affirmative,He has also won £100 worth of vouchers for the store . 
+fellow design technology students at Prior Pursglove College,visit.01,IKEA,,Affirmative,The students visited IKEA at the beginning of the project to learn about their ethos and design trends within the store as well as the company . 
+fellow design technology students at Prior Pursglove College,learn.01,about,,Affirmative,The students visited IKEA at the beginning of the project to learn about their ethos and design trends within the store as well as the company . 
+by,set.01,a design project,,Affirmative,"The project was set by Jill Cordes , interior designer at IKEA Gateshead , and will form part of the students ' assessed portfolio of work for their final mark . "
+a design project,form.02,part of,,Affirmative,"The project was set by Jill Cordes , interior designer at IKEA Gateshead , and will form part of the students ' assessed portfolio of work for their final mark . "
+"Sam ,",study.01,"computing , maths and physics ,",,Affirmative,"Sam , who is also studying computing , maths and physics , designed a fruit holder made from plywood and aluminium which will stop the fruit from contacting each other . "
+"Sam ,",design.01,a fruit holder made from plywood and aluminium,,Affirmative,"Sam , who is also studying computing , maths and physics , designed a fruit holder made from plywood and aluminium which will stop the fruit from contacting each other . "
+a `` flatpack '' plywood and aluminium fruit holder which stops the fruit from being in contact,stop.03,the fruit,from contacting,Affirmative,"Sam , who is also studying computing , maths and physics , designed a fruit holder made from plywood and aluminium which will stop the fruit from contacting each other . "
+We,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+you,enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+We,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+We,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+you,agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+We,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

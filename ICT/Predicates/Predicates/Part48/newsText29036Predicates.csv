@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Police,arrest.01,"the client ,",for receiving,Affirmative,"The Police have also arrested the client , Ms Mary Arthur for receiving fake ID card . "
+The Police,receive.01,fake ID card,,Affirmative,"The Police have also arrested the client , Ms Mary Arthur for receiving fake ID card . "
+"District Police Command ,",make.02,this known to,,Affirmative,"Chief Inspector S.K. Danso , statton officer of the Agona Swedru District Police Command , who made this known to the Press at Agona Swedru , said one Isaac Arthur , boyfriend of Mary Arthur , currently on the run , has been declared wanted . "
+"Chief Inspector S.K. Danso ,",say.01,", has been declared wanted",,Affirmative,"Chief Inspector S.K. Danso , statton officer of the Agona Swedru District Police Command , who made this known to the Press at Agona Swedru , said one Isaac Arthur , boyfriend of Mary Arthur , currently on the run , has been declared wanted . "
+Ms Silverson,issue.01,ID card,to,Affirmative,"According to Chief Inspector Danso some time in April this year , Ms Silverson registered and issued a Biometric ID card to Ms Arthur , but failed to let the computer capture her finger prints . "
+the computer,capture.01,her finger prints,,Affirmative,"According to Chief Inspector Danso some time in April this year , Ms Silverson registered and issued a Biometric ID card to Ms Arthur , but failed to let the computer capture her finger prints . "
+Chief Inspector Danso some time in April this year,say.01,Arthur approached,,Affirmative,"Chief Inspector Danso said on May 13 , Ms Arthur approached the Information Technology Manager of the Scheme , Mr Edward Nyakoh , with another name Nina Arthur for a new card . "
+Chief Inspector Danso some time in April this year,say.01,Nyakoh detected,,Affirmative,"Chief Inspector Danso said in the process of issuing the card , Mr Nyakoh detected that Ms Arthur has been registered with a different name . "
+Mr Edward Nyakoh,detect.01,Arthur has been registered with,,Affirmative,"Chief Inspector Danso said in the process of issuing the card , Mr Nyakoh detected that Ms Arthur has been registered with a different name . "
+Chief Inspector Danso some time in April this year,say.01,Manager reported,,Affirmative,Chief Inspector Danso said the Manager reported Ms Arthur to the Swedru Police who arrested her and Ms Silverson . 
+"the Information Technology Manager of the Scheme , Mr Edward Nyakoh",report.01,Ms Arthur,to,Affirmative,Chief Inspector Danso said the Manager reported Ms Arthur to the Swedru Police who arrested her and Ms Silverson . 
+the Swedru Police,arrest.01,the Swedru Police,,Affirmative,Chief Inspector Danso said the Manager reported Ms Arthur to the Swedru Police who arrested her and Ms Silverson . 
+Ms Mary Arthur for receiving fake ID card,want.01,to use,,Affirmative,"According to Chief Inspector Danso , Ms Arthur wanted to use the new card to withdraw money from Western Union . "
+Ms Mary Arthur for receiving fake ID card,use.01,a new card,to withdraw money from,Affirmative,"According to Chief Inspector Danso , Ms Arthur wanted to use the new card to withdraw money from Western Union . "
+Chief Inspector Danso some time in April this year,state.01,investigations revealed,,Affirmative,Chief Inspector Danso stated that police investigations revealed that Ms Arthur was sent by her boy friend . 
+police investigations,reveal.01,Arthur was sent by,,Affirmative,Chief Inspector Danso stated that police investigations revealed that Ms Arthur was sent by her boy friend . 
+by,send.01,Ms Mary Arthur for receiving fake ID card,,Affirmative,Chief Inspector Danso stated that police investigations revealed that Ms Arthur was sent by her boy friend . 

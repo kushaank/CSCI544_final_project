@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+army,declare.02,martial law,,Affirmative,Thailand 's army has declared martial law in an announcement on military TV . 
+an announcement on military TV,say.01,law had been invoked,,Affirmative,"The announcement said martial law had been invoked to restore peace and order for people from all sides , stressing that the move was not a coup . "
+The public,need.01,to panic,,Affirmative,"The public do not need to panic but can still live their lives as normal , it added . "
+The public,live.01,their lives,,Affirmative,"The public do not need to panic but can still live their lives as normal , it added . "
+an announcement on military TV,add.01,public do not need,,Affirmative,"The public do not need to panic but can still live their lives as normal , it added . "
+Months of,leave.01,28 people,dead,Affirmative,"Months of anti-government protests in Thailand have left 28 people dead and hundreds wounded , and the country 's political crisis intensified earlier this month when prime minister Yingluck Shinawatra was thrown out of office . "
+correspondent Samantha Hawley,say.01,military is moving,,Affirmative,The ABC 's South East Asia correspondent Samantha Hawley says the Thai military is moving to take control of key areas of the capital Bangkok . 
+the Thai military,take.01,control of,,Affirmative,The ABC 's South East Asia correspondent Samantha Hawley says the Thai military is moving to take control of key areas of the capital Bangkok . 
+powerful military,attempt.01,18 coups,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+recent years,seek.01,to ease fears,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+recent years,ease.02,fears,,Affirmative,"Thailand 's powerful military has launched or attempted 18 coups in 81 years of fragile democracy , but in recent years it had sought to ease fears that yet another coup was imminent . "
+Ms Yingluck 's older brother Thaksin Shinawatra,want.01,to warn,,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+Ms Yingluck 's older brother Thaksin Shinawatra,warn.01,to stop now,"every group ,",Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+especially those using violence and,use.01,violence and,against,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+Ms Yingluck 's older brother Thaksin Shinawatra,say.01,I want,,Affirmative,"I want to warn every group , especially those using violence and war weapons against innocent civilians , to stop now , he said . "
+Election Commission,call.03,for,,Affirmative,Last week Thailand 's Election Commission called for national polls planned for July to be postponed because of the political unrest escalating in the kingdom . 
+by,oust.01,minister Ms Yingluck,for abuse of power,Affirmative,Former prime minister Ms Yingluck was ousted by a Thai court for abuse of power earlier this month after six months of protests against her government . 
+that,do.02,little,,Affirmative,A caretaker government was installed but that did little to curb the protests . 
+by,rive.01,Thailand 's,,Affirmative,"Thailand has been riven by political divisions since 2006 , when Ms Yingluck 's older brother Thaksin Shinawatra was ousted in a military coup after frictions with the country 's royalist establishment . "
+aligned parties,win.01,every election,,Affirmative,"Thaksin-led or aligned parties have won every election since 2001 , but four prime ministers have been removed by coups or court rulings . "
+by coups or,remove.01,four prime ministers,,Affirmative,"Thaksin-led or aligned parties have won every election since 2001 , but four prime ministers have been removed by coups or court rulings . "
+Khmerization,decide.01,to moderate,,Affirmative,"Dear Readers , Due to an increase in offensive and profane comments , Khmerization has decided to moderate all comments . "
+Khmerization,moderate.01,all comments,,Affirmative,"Dear Readers , Due to an increase in offensive and profane comments , Khmerization has decided to moderate all comments . "
+Comments containing,contain.01,"offensive language , profanities and",,Affirmative,"Comments containing offensive language , profanities and racist connotations will not be published . "

@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,"the message the city of Pikeville , Tennessee , is sending its residents with a new law banning saggy pants",,Affirmative,You can change the location at any time . 
+the message,send.01,its residents,,Affirmative,"That 's the message the city of Pikeville , Tennessee , is sending its residents with a new law banning saggy pants . "
+a new law banning,ban.01,saggy pants,,Affirmative,"That 's the message the city of Pikeville , Tennessee , is sending its residents with a new law banning saggy pants . "
+The newspaper,report.01,Council unanimously approved,,Affirmative,The newspaper reports the Pikeville City Council unanimously approved the ordinance during its first reading last week . 
+the Pikeville City Council,approve.01,the ordinance,,Affirmative,The newspaper reports the Pikeville City Council unanimously approved the ordinance during its first reading last week . 
+a few months,pass.02,two more readings,,Affirmative,The law is expected to take effect in a few months if it passes two more readings . 
+officials,say.01,-- it 's,,Affirmative,"According to the Daily Mail , officials say the fashion measure is n't just about public indecency -- it 's a health issue . "
+evidence,indicate.01,is injurious to,,Affirmative,"There is evidence that indicates that wearing sagging pants is injurious to the health of the wearer as it causes improper gait , the ordinance states . "
+the health of the wearer,cause.01,"improper gait ,",,Affirmative,"There is evidence that indicates that wearing sagging pants is injurious to the health of the wearer as it causes improper gait , the ordinance states . "
+"evidence that indicates that wearing sagging pants is injurious to the health of the wearer as it causes improper gait , '' the ordinance states",elaborate.01,on evidence or,,Affirmative,It did not elaborate on evidence or specific negative effects . 
+a Louisiana town,ban.01,hanging pants,,Affirmative,"In 2007 , a Louisiana town banned low - hanging pants that exposed underwear . "
+hanging pants,expose.01,underwear,,Affirmative,"In 2007 , a Louisiana town banned low - hanging pants that exposed underwear . "
+An Ohio man,violate.01,room dress code,,Affirmative,An Ohio man got sentenced to 3 days in jail for violating a judge 's court room dress code in 2012 . 
+franchise owner,ban.01,sagging,,Affirmative,A Dallas - area McDonald 's franchise owner banned sagging at his 25 restaurants last year . 
+State Senator Eric Adams,make.LV,headlines,,Affirmative,New York State Senator Eric Adams made headlines in 2010 when he put up billboards campaigning to Stop the Sag and improve the image of baggy - pants wearers . 
+New York State Senator Eric Adams,put.01,billboards campaigning,,Affirmative,New York State Senator Eric Adams made headlines in 2010 when he put up billboards campaigning to Stop the Sag and improve the image of baggy - pants wearers . 
+billboards campaigning,stop.01,the Sag,,Affirmative,New York State Senator Eric Adams made headlines in 2010 when he put up billboards campaigning to Stop the Sag and improve the image of baggy - pants wearers . 
+a judge 's,rule.01,choice was foolish --,,Affirmative,"A New York City man was ticketed that year for wearing saggy pants , but a judge ruled his wardrobe choice was foolish -- not illegal . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

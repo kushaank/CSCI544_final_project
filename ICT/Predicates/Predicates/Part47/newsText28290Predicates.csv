@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Columbus International,appoint.01,BNY Mellon,"as trustee , paying",Affirmative,"Columbus International has appointed BNY Mellon as trustee , paying agent , registrar and transfer agent for its $ 1.25 billion corporate bond issuance . "
+Columbus International,pay.01,agent,,Affirmative,"Columbus International has appointed BNY Mellon as trustee , paying agent , registrar and transfer agent for its $ 1.25 billion corporate bond issuance . "
+The firms,have.03,a relationship,,Affirmative,"The firms already have a relationship , as Richard Hugh , vice president of corporate development at Columbus International commented . "
+"agent , registrar and transfer agent",choose.01,to work with,,Affirmative,"We chose to work with BNY Mellon on this transaction because of the longstanding relationship we have with them and their history of supporting our company , said Hugh . "
+"agent , registrar and transfer agent",work.01,on,,Affirmative,"We chose to work with BNY Mellon on this transaction because of the longstanding relationship we have with them and their history of supporting our company , said Hugh . "
+"agent , registrar and transfer agent",have.03,the longstanding relationship,,Affirmative,"We chose to work with BNY Mellon on this transaction because of the longstanding relationship we have with them and their history of supporting our company , said Hugh . "
+Richard Hugh,say.01,We chose,,Affirmative,"We chose to work with BNY Mellon on this transaction because of the longstanding relationship we have with them and their history of supporting our company , said Hugh . "
+Being appointed to,illustrate.01,trust in,,Affirmative,"Being appointed to such a high - profile transaction illustrates the market 's trust in our global capabilities and expertise , added Chaliha . "
+Chaliha,add.01,illustrates,,Affirmative,"Being appointed to such a high - profile transaction illustrates the market 's trust in our global capabilities and expertise , added Chaliha . "
+BNY Mellon on this transaction,pay.01,agent,,Affirmative,"As of 31 March , BNY Mellon was the trustee and / or paying agent for more than 65,000 debt - related issues globally . "

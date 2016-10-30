@@ -1,0 +1,55 @@
+1	Yusuf	yusuf	NNP	p2=IN	2	nn	_
+2	Yerkel	yerkel	NNP	_	4	nsubj	4:A0=PPT
+3	was	be	VBD	_	4	aux	_
+4	touring	tour	VBG	pb=tour.01	0	root	_
+5	Soma	soma	NNP	p2=NN	7	nn	_
+6	with Prime	with prime	NNP	p2=IN	7	nn	_
+7	Minister	minister	NNP	_	10	nn	_
+8	Recep	recep	NNP	_	10	nn	_
+9	Tayyip	tayyip	NNP	_	10	nn	_
+10	Erdoğan	erdoğan	NNP	_	4	dobj	4:A1=LOC
+11	when	when	WRB	_	13	advmod	13:R-AM-TMP
+12	he	he	PRP	_	13	nsubj	13:A0
+13	hurt	hurt	VBD	pb=hurt.01	4	advcl	4:AM-TMP
+14	his	his	PRP$	_	15	poss	_
+15	leg	leg	NN	_	13	dobj	13:A1=PPT
+16	.	.	.	_	4	punct	_
+
+1	Medics	medic	NNS	p2=NNPS	2	nsubj	2:A0
+2	urge Mr	urge mr	VBP	pb=urge mr.01	0	root	_
+3	Yerkel	yerkel	NNP	_	2	dobj	2:A1
+4	to	to	IN	p2=TO	2	prep	2:A2
+5	use his	use his	NNP	p2=PRP$	6	nn	_
+6	head	head	NN	p2=NNP	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	literally	literally	RB	_	12	advmod	_
+9	,	,	,	_	2	punct	_
+10	the	the	DT	_	12	det	_
+11	next	next	JJ	_	12	amod	_
+12	time	time	NN	_	2	npadvmod	2:AM-TMP
+13	,	,	,	_	12	punct	_
+14	or	or	CC	_	12	cc	_
+15	else	else	RB	_	14	advmod	_
+16	run	run	VB	p2=VBP|pb=run.01	12	conj	_
+17	the	the	DT	_	19	det	_
+18	considerably	considerably	RB	p2=JJ	19	amod	_
+19	risk	risk	NN	_	16	dobj	16:A1=PPT
+20	of	of	IN	_	19	prep	_
+21	further	far	RB	p2=JJ	22	advmod	22:AM-EXT
+22	inflaming	inflame	VBG	pb=inflame.01	20	pcomp	_
+23	the	the	DT	_	24	det	_
+24	damage	damage	NN	_	22	dobj	22:A1=PPT
+25	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	coward	coward	NN	p2=NNS	3	nsubj	3:A0=PAG;7:A0=PAG
+3	needed	need	VBD	pb=need.01	0	root	_
+4	two	#crd#	CD	_	5	num	_
+5	soldiers	soldier	NNS	_	3	dobj	3:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	hold	hold	VB	pb=hold.04	3	advcl	3:AM-PRP
+8	the	the	DT	_	9	det	_
+9	man	man	NN	_	7	dobj	7:A1=PPT
+10	down	down	RP	p2=RB	7	prt	7:C-V
+11	.	.	.	_	3	punct	_
+

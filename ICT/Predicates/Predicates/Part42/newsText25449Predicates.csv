@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A jury of,find.02,him guilty on,,Affirmative,A jury of eight men and four women found him guilty on all 11 charges . 
+Prosecutors,say.01,assisted,,Affirmative,"Prosecutors said Hamza , 56 , assisted the kidnappers of 16 tourists in Yemen in 1998 and attempted to build a terrorist training camp in Oregon . "
+"Hamza , 56 ,",assist.01,the kidnappers of,,Affirmative,"Prosecutors said Hamza , 56 , assisted the kidnappers of 16 tourists in Yemen in 1998 and attempted to build a terrorist training camp in Oregon . "
+"Hamza , 56 ,",attempt.01,to build,,Affirmative,"Prosecutors said Hamza , 56 , assisted the kidnappers of 16 tourists in Yemen in 1998 and attempted to build a terrorist training camp in Oregon . "
+"Hamza ,",deny.01,supporting terrorism,,Affirmative,"Hamza , who denied supporting terrorism , could face life in prison . "
+"Hamza ,",support.01,terrorism,,Affirmative,"Hamza , who denied supporting terrorism , could face life in prison . "
+"Hamza ,",face.01,life,,Affirmative,"Hamza , who denied supporting terrorism , could face life in prison . "
+"Hamza , who denied supporting terrorism",incite.01,violence,,Affirmative,"Hamza was convicted in Britain of inciting violence and spent eight years in prison before being extradited in 2012 to the United States , where he was indicted in 2004 under his birth name of Mustafa Kamel Mustafa . "
+"Hamza , who denied supporting terrorism",spend.02,eight years,in prison,Affirmative,"Hamza was convicted in Britain of inciting violence and spent eight years in prison before being extradited in 2012 to the United States , where he was indicted in 2004 under his birth name of Mustafa Kamel Mustafa . "

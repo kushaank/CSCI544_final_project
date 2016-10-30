@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A cult follower,set.03,a webcam,,Affirmative,A cult follower sets up a webcam on Monday to monitor police movements at the entrance of a compound owned by the sect led by ferry owner Yoo Byung - eon . 
+A cult follower,monitor.01,police movements at,,Affirmative,A cult follower sets up a webcam on Monday to monitor police movements at the entrance of a compound owned by the sect led by ferry owner Yoo Byung - eon . 
+by,own.01,a compound owned by,,Affirmative,A cult follower sets up a webcam on Monday to monitor police movements at the entrance of a compound owned by the sect led by ferry owner Yoo Byung - eon . 
+by,lead.02,the sect led by,,Affirmative,A cult follower sets up a webcam on Monday to monitor police movements at the entrance of a compound owned by the sect led by ferry owner Yoo Byung - eon . 
+A judge,decide.01,whether to issue,,Affirmative,"A judge will decide on Tuesday afternoon whether to issue an arrest warrant for Yoo Byung - eon , the de facto owner of ferry operator Chonghaejin Marine , after he failed to respond to a summons by prosecutors . "
+A judge,issue.01,an arrest warrant for,,Affirmative,"A judge will decide on Tuesday afternoon whether to issue an arrest warrant for Yoo Byung - eon , the de facto owner of ferry operator Chonghaejin Marine , after he failed to respond to a summons by prosecutors . "
+ferry owner Yoo Byung-eon,respond.01,to,,Affirmative,"A judge will decide on Tuesday afternoon whether to issue an arrest warrant for Yoo Byung - eon , the de facto owner of ferry operator Chonghaejin Marine , after he failed to respond to a summons by prosecutors . "
+Police,raid.01,a compound owned by,,Affirmative,Police are on standby to raid a compound owned by a cult led by Yoo south of Seoul if the warrant is approved . 
+by,own.01,a compound owned by,,Affirmative,Police are on standby to raid a compound owned by a cult led by Yoo south of Seoul if the warrant is approved . 
+by Yoo south of Seoul,lead.02,a cult led by Yoo south of Seoul,,Affirmative,Police are on standby to raid a compound owned by a cult led by Yoo south of Seoul if the warrant is approved . 
+Cult followers,form.01,a human barricade,,Affirmative,Cult followers have formed a human barricade around the compound where he is believed to be hiding . 
+Kim Choon - sub of,say.01,officers were merely inspecting,,Affirmative,Kim Choon - sub of Gyeonggi police said officers were merely inspecting the facility while a police helicopter hovered overhead . 
+officers,inspect.01,the facility,,Affirmative,Kim Choon - sub of Gyeonggi police said officers were merely inspecting the facility while a police helicopter hovered overhead . 
+Cult followers,continue.01,to blockade,,Affirmative,Cult followers continued to blockade the entrance after police left . 
+Cult followers,blockade.01,the entrance,,Affirmative,Cult followers continued to blockade the entrance after police left . 
+20 investigators,raid.01,summer home,,Affirmative,"On Monday evening , some 20 investigators raided Yoo 's summer home a short distance away after being tipped off that he was hiding there but found it empty . "

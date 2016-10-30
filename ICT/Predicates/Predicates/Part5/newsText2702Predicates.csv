@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Karibu katika,hii.01,Globu,ya jamii,Affirmative,' Karibu katika hii Globu ya jamii . 
+Una karibishwa kutoa maoni yako,yoyote.01,taifa letu,,Affirmative,Una karibishwa kutoa maoni yako yoyote yatakayo jenga taifa letu . 
+kila mmoja,wetu.01,zisizochafua hali ya hewa,,Affirmative,Nawasihi kila mmoja wetu ajiheshimu kwa kutumia lugha zisizochafua hali ya hewa . 
+lugha zisizochafua,hali.01,Una karibishwa kutoa maoni yako yoyote yatakayo jenga taifa letu .,,Affirmative,Nawasihi kila mmoja wetu ajiheshimu kwa kutumia lugha zisizochafua hali ya hewa . 
+Yaliyomo,humu.01,kwa vyovyote vile,,Affirmative,"Yaliyomo humu hayahusiani kwa vyovyote vile na hariri za magazeti ya Daily News , HabariLeo na Sunday News . "
+hayahusiani kwa,vyovyote.01,vile,,Affirmative,"Yaliyomo humu hayahusiani kwa vyovyote vile na hariri za magazeti ya Daily News , HabariLeo na Sunday News . "
+maoni,isipokuwa.01,pale itavyoelezwa vinginevyo,,Affirmative,"Maoni yanayotolewa na wasomaji si ya GLOBU YA JAMII , ni ya mtoa maoni isipokuwa pale itavyoelezwa vinginevyo . "
+pamoja,pamoja.01,baada,na Viongozi,Affirmative,Rais Dkt.Jakaya Mrisho Kikwete akiwa katika picha ya pamoja na Viongozi wa Chama Cha Madaktari Wanawake Tanzania ( MEWATA ) baada ya kukutana na kufanya nao mazungumzo ikulu jijini Dar es Salaam leo ( picha na Freddy Maro ) . 
+Madaktari Wanawake Tanzania,baada.01,ya kukutana na,,Affirmative,Rais Dkt.Jakaya Mrisho Kikwete akiwa katika picha ya pamoja na Viongozi wa Chama Cha Madaktari Wanawake Tanzania ( MEWATA ) baada ya kukutana na kufanya nao mazungumzo ikulu jijini Dar es Salaam leo ( picha na Freddy Maro ) . 
+kufanya nao mazungumzo,ikulu.01,Salaam leo (,,Affirmative,Rais Dkt.Jakaya Mrisho Kikwete akiwa katika picha ya pamoja na Viongozi wa Chama Cha Madaktari Wanawake Tanzania ( MEWATA ) baada ya kukutana na kufanya nao mazungumzo ikulu jijini Dar es Salaam leo ( picha na Freddy Maro ) . 

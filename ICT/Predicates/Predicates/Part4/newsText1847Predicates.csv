@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the police,seize.01,100 kilograms of ice worth Bt100 million,,Affirmative,"Police seized 100 kilograms of ice worth Bt100 million in Chiang Rai 's Chiang Saen district early yesterday morning , while three other drug busts in Mae Sai , Phan and Muang districts yielded a total of 4.2 kilograms of heroin and 162,000 yaba pills . "
+three other drug busts in,yield.03,a total of,,Affirmative,"Police seized 100 kilograms of ice worth Bt100 million in Chiang Rai 's Chiang Saen district early yesterday morning , while three other drug busts in Mae Sai , Phan and Muang districts yielded a total of 4.2 kilograms of heroin and 162,000 yaba pills . "
+police,chase.01,up trucks,,Affirmative,"In Chiang Saen , police chased two pick - up trucks that tried to flee from a checkpoint at 1 am and managed to stop one by shooting one of its tyres . "
+up trucks,try.01,to flee from,,Affirmative,"In Chiang Saen , police chased two pick - up trucks that tried to flee from a checkpoint at 1 am and managed to stop one by shooting one of its tyres . "
+up trucks,flee.01,from,,Affirmative,"In Chiang Saen , police chased two pick - up trucks that tried to flee from a checkpoint at 1 am and managed to stop one by shooting one of its tyres . "
+up trucks,manage.02,to stop one by shooting one of,,Affirmative,"In Chiang Saen , police chased two pick - up trucks that tried to flee from a checkpoint at 1 am and managed to stop one by shooting one of its tyres . "
+up trucks,stop.01,one,,Affirmative,"In Chiang Saen , police chased two pick - up trucks that tried to flee from a checkpoint at 1 am and managed to stop one by shooting one of its tyres . "
+the two suspects on board,manage.02,to flee,,Affirmative,"However , the two suspects on board managed to flee , leaving behind four sacks filled with 100 kg of crystal meth or ice . "
+the two suspects on board,leave.01,four sacks filled with,behind,Affirmative,"However , the two suspects on board managed to flee , leaving behind four sacks filled with 100 kg of crystal meth or ice . "
+the police,stop.01,the other truck,,Affirmative,Police later stopped the other truck and arrested the two people onboard . 
+the police,arrest.01,the two people,,Affirmative,Police later stopped the other truck and arrested the two people onboard . 
+General Phanudet Boonruang,say.01,it is suspected,,Affirmative,Commander of Narcotics Suppression Division 3 Pol Maj - General Phanudet Boonruang said it is suspected that the ice was smuggled by a Hmong drug gang from a neighbouring country . 
+by,smuggle.01,the ice,,Affirmative,Commander of Narcotics Suppression Division 3 Pol Maj - General Phanudet Boonruang said it is suspected that the ice was smuggled by a Hmong drug gang from a neighbouring country . 
+the police,announce.01,three drug busts in,,Affirmative,"Separately , the police announced three drug busts in Chiang Rai that yielded 4.2 kg of heroin and 162,000 yaba pills . "
+three drug busts in,yield.01,4.2 kg of heroin and,,Affirmative,"Separately , the police announced three drug busts in Chiang Rai that yielded 4.2 kg of heroin and 162,000 yaba pills . "
+a man from Myanmar,deliver.01,the first case,,Affirmative,"In the first case , a man from Myanmar was arrested along with 4.2 kg of heroin while delivering it in front of a local school in tambon Mae Sai . "
+three men,have.03,"102,000 yaba pills and",,Affirmative,"In the second case , three men were arrested in Muang district for having 102,000 yaba pills and three guns and ammunition in their possession . "
+old man,try.01,to smuggle,,Affirmative,"In the third case , a 20 - year - old man was arrested in Phan district for trying to smuggle 60,000 yaba pills on a bus to Nakhon Sawan . "
+old man,smuggle.01,"60,000 yaba pills",to,Affirmative,"In the third case , a 20 - year - old man was arrested in Phan district for trying to smuggle 60,000 yaba pills on a bus to Nakhon Sawan . "
+drivers and executives,participate.01,in,,Affirmative,GrabTaxi 's drivers and executives participate in the Ice Bucket .. 

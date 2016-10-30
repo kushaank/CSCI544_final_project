@@ -1,0 +1,117 @@
+1	Donate	donate	VB	p2=NNP|pb=donate.01	0	root	_
+2	to	to	IN	p2=TO	1	prep	1:A2=GOL
+3	TOL	tol	NNP	_	2	pobj	_
+4	!	!	.	_	1	punct	_
+
+1	Plus	plus	CC	_	3	cc	_
+2	,	,	,	_	3	punct	_
+3	protests	protest	NNS	p2=VBZ	13	nsubj	13:A0=PAG
+4	as	as	IN	_	3	prep	_
+5	another	another	DT	_	7	det	_
+6	Russian	russian	JJ	_	7	amod	_
+7	rocket	rocket	NN	_	8	nsubj	_
+8	fails	fail	VBZ	_	4	pobj	_
+9	over	over	IN	p2=RP	8	prep	_
+10	Kazakhstan	kazakhstan	NNP	_	9	pobj	_
+11	and	and	CC	_	10	cc	_
+12	analysts	analyst	NNS	_	10	conj	_
+13	assess	assess	VBP	pb=assess.01	0	root	_
+14	the	the	DT	_	16	det	_
+15	peacemaking	peacemaking	NN	p2=VBG	16	nn	_
+16	qualities	quality	NNS	_	13	dobj	13:A1=PPT
+17	of	of	IN	_	16	prep	_
+18	Ukrainian	ukrainian	JJ	_	20	amod	_
+19	presidential	presidential	JJ	_	20	amod	_
+20	frontrunner	frontrunner	NN	p2=JJ	17	pobj	_
+21	Poroshenko	poroshenko	NNP	p2=NN	13	npadvmod	13:AM-DIS
+22	.	.	.	_	13	punct	_
+
+1	WHO	who	WP	p2=NNP	3	nsubj	3:R-A0
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	calculates	calculate	VBZ	pb=calculate.01	0	root	_
+4	an	an	DT	_	7	det	_
+5	overall	overall	JJ	_	7	amod	_
+6	"	"	``	p2=''	7	punct	_
+7	patterns	pattern	NNS	_	3	dobj	3:A1=PPT
+8	of	of	IN	_	7	prep	_
+9	drinking	drink	VBG	p2=NN|pb=drink.01	8	pcomp	_
+10	"	"	``	p2=''	11	punct	_
+11	score	score	NN	p2=VB	9	dobj	9:A1=PPT;14:A1=PPT
+12	,	,	,	_	11	punct	_
+13	which	which	WDT	_	14	nsubj	14:R-A0
+14	correlates	correlate	VBZ	p2=VBP|pb=correlate.01	11	rcmod	_
+15	with	with	IN	_	14	prep	_
+16	health	health	NN	_	15	pobj	_
+17	and	and	CC	_	16	cc	_
+18	social	social	JJ	_	19	amod	_
+19	problems	problem	NNS	_	16	conj	20:A1=PPT
+20	associated	associate	VBN	pb=associate.01	19	partmod	_
+21	with	with	IN	_	20	prep	20:A2=PPT
+22	drinking	drinking	NN	p2=VBG	21	pobj	_
+23	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	nsubj	4:A1=PPT
+2	and	and	CC	_	1	cc	_
+3	Ukraine	ukraine	NNP	_	1	conj	_
+4	were	be	VBD	pb=be.01	0	root	_
+5	the	the	DT	_	7	det	_
+6	only	only	JJ	_	7	amod	_
+7	countries	country	NNS	_	4	attr	8:A1=PPT;4:A2=PRD
+8	ranked	rank	VBD	p2=VBN|pb=rank.01	7	partmod	_
+9	at	at	IN	_	8	prep	8:A2=PRD
+10	5	0	CD	_	9	pobj	_
+11	on	on	IN	_	8	prep	8:AM-LOC
+12	the	the	DT	_	19	det	_
+13	1	0	CD	_	17	hmod	_
+14	-	-	HYPH	_	17	hyph	_
+15	to	to	IN	_	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	5	0	CD	_	19	nn	_
+18	risk	risk	NN	_	19	nn	_
+19	scale	scale	NN	_	11	pobj	_
+20	.	.	.	_	4	punct	_
+
+1	Belarus	belarus	NNP	p2=NNS	7	nsubj	7:A0=PAG
+2	,	,	,	_	1	punct	_
+3	Kazakhstan	kazakhstan	NNP	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	and	and	CC	_	3	cc	_
+6	Moldova	moldova	NNP	_	3	conj	_
+7	scored	score	VBD	pb=score.01	0	root	_
+8	4	0	CD	_	7	dobj	7:A1=PPT
+9	,	,	,	_	7	punct	_
+10	along	along	IN	_	7	prep	7:AM-ADV
+11	with	with	IN	_	10	prep	_
+12	a	a	DT	_	14	det	_
+13	few	few	JJ	_	14	amod	_
+14	countries	country	NNS	_	11	pobj	_
+15	in	in	IN	_	14	prep	_
+16	southern	southern	JJ	_	17	amod	_
+17	Africa	africa	NNP	_	15	pobj	_
+18	.	.	.	_	7	punct	_
+
+1	Ky	ky	NNP	_	2	nsubj	2:A0
+2	Krauthamer is	krauthamer is	VBZ	pb=krauthamer is.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	senior	senior	JJ	_	5	amod	_
+5	editor	editor	NN	_	2	dobj	2:A1
+6	at	at	IN	_	5	prep	_
+7	TOL	tol	NNP	_	6	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Ioana	ioana	NNP	p2=TO	2	nn	2:A0
+2	Caloianu is	caloianu is	VBZ	p2=VBZ|pb=caloianu is.01	0	root	_
+3	a	a	DT	_	6	det	_
+4	TOL	tol	NNP	_	6	nn	_
+5	editorial	editorial	NN	p2=JJ	6	amod	_
+6	assistant	assistant	NN	_	2	appos	2:A1
+7	.	.	.	_	2	punct	_
+
+1	 Barbara	 barbara	NNP	p2=FW	3	nn	_
+2	Frye is	frye is	NNP	p2=NNPS	3	nn	_
+3	TOL	tol	NNP	_	6	poss	_
+4	's	's	POS	_	3	possessive	_
+5	managing	manage	VBG	p2=NN|pb=manage.01	6	amod	_
+6	editor	editor	NN	_	0	root	5:A0=PAG
+7	.	.	.	_	6	punct	_
+

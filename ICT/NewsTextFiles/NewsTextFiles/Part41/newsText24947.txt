@@ -1,0 +1,78 @@
+
+Today’s Google Doodle marks the 40th anniversary of the Rubik’s Cube: the toy and/or puzzle that has rapidly infuriated and then eternally haunted almost every person to have walked this fair Earth since the 1970s. While Google was obviously going for warm fuzzy nostalgia, I thought it was rather cruel to remind tens of millions of people of their intellectual inferiority with a playable Rubik’s Cube Doodle. As one of the few people who can actually solve a Rubik’s Cube, I feel like it’s my duty to give you some tips on how to finally solve the three-dimensional puzzle that has probably tormented you since childhood. Read on, for how to solve Google’s Rubik’s Cube Doodle.
+
+From the outset, the Rubik’s Cube just looks down right intimidating. It looks like there are six different sides, composed of 54 colored tiles that can be moved and rotated in an almost infinite number of ways. In reality, a Rubik’s Cube is actually much simpler. There are eight corner pieces, which can only be moved from corner to corner. There are 12 edge pieces, which can only be moved from edge to edge. And there are six central pieces that can be rotated in-place, but never moved.
+
+This means that each face always has a predesignated color, and that the white side is always next to the orange side (for example). It also means each of the six faces can have a fixed designation (up, down, front, back, left, right). If the orange center piece is facing upwards, then the opposing red center piece is facing downwards — likewise, if the front face is white, then the back is yellow. It’s useful to try and keep each face/color combination in your head.
+
+To solve the first Rubik’s Cube face, pick one color to be “up” or “top.” In the video above (which I highly recommend watching), orange is the top color. For the first face, most moves will only require one or two turns, to “flip” the colors of an edge or corner piece. As you can see in the video above, this normally involves twisting the side away from the top, making another perpendicular twist to flip the piece, and then twisting the side back towards the top.
+
+At this point, I should tell you that there are lots of different ways of solving a Rubik’s Cube. I suggest you try following the video above for your first attempt — but you may have to do a lot of pausing, while you try to assimilate all of the data. Once he starts making more complex moves, you will definitely want to pause a lot, or else you’ll get lost very quickly. Another alternative is to follow a written guide, with diagrams. RuWix has a good guide , along with lots of other useful tools. HowToCube has  another good guide , complete with easy-to-follow animations. If you get really stuck, you can use the online Rubik’s Cube solver , where you can input your cube’s colors, and then it generates a list of moves to solve it.
+
+Eventually, if you want to proceed beyond the upper face and a few second-level pieces, you’re going to have to start thinking algorithmically – fixed sets of moves that move pieces from one side to the other, without disrupting the pieces that are already in the right place. This is where solving a Rubik’s Cube actually gets hard, and where you’ll definitely want to read a guide or watch a video. I suggest you stick with one guide for at least 30 minutes before giving up and moving to another — mixing and matching guides will likely result in lots of frustration.
+
+Most guides use the Singmaster notation for describing moves (LU’RU, etc.) but I recommend using Wolstenhome’s notation instead. Wolstenhome’s notation results in moves that sound more like words, which are generally much easier to remember.
+
+In general, once you’ve worked out all of the moves (and as complex as they sound, there are really only a handful of moves that you need to memorize) the solving itself is fairly easy. Most Rubik’s Cubes can be solved in around 100 moves — so, with a little practice, solving a cube in under a few minutes is actually quite feasible. Eventually, you might even solve it in around five seconds, like this guy (but I doubt it).
+
+This being ExtremeTech, I would be remiss if I didn’t show you a few extreme, technological ways of solving a Rubik’s Cube. To begin with, here’s one of the first at-home robotic Rubik’s Cube solvers — made using Lego Mindstorms no less.
+
+And then, to show you just how far Mindstorms have come in the six years since, here’s Cubestormer 3, which can solve a cube in around three seconds.
+
+The main advantage that robots have is that they can seamlessly move multiple pieces at the same time. Human speedcubers can also manipulate multiple pieces at once, but not quite at the same scale as a robot. Robots are also perfectly suited because the fastest speedcubing algorithms only require one “look” — as in, by memorizing where all the pieces are in an unsolved cube, an exact set of moves can be generated that will solve the cube in one go.
+
+And finally, even though it isn’t technological at all (but it is extreme), here’s a lunatic solving an 11x11x11 Rubik’s Cube. No I won’t teach you how to solve larger Rubik’s Cubes. Life is too short.
+
+I have better strategy: Remove the stickers and then reapply them in matching colours.
+
+Ah, that might look good on your big, executive desk — but deep down you’ll know that you’re a FRAUD!
+
+You say fraud I say thinking outside the cube’s constraints.
+
+I remember that StarTrek episode. There is a place for dispensing with constraints and a time for revering them. Once you have learned to solve the cube honestly, as I did as a teen when it was first introduced, you will realize that it is actually much easier to solve the cube honestly, than by any other means. (Once I learned to solve it by my own wits, I actually wrote a computer program to solve it. It only took 4 printed pages of BASIC code.) By the way, removing the color stickers is messy and ruins the cube. The better cheat is actually to disassemble and then reassemble cube – no one will ever be able to detect that cheat.
+
+I also modified a cube (actually 2 of them) to be a perpetual calendar.
+
+I do that too but with the cubes that have the colours painted in them.
+
+You could always just take it apart and put them back in the correct order. then you don’t mess up the stickers.
+
+That method is even more of a pain than simply solving it.
+
+using paint is much easier the stickers are glued strongly.
+
+Nope, a spudger is perfect. You can pluck out the tiles and then reassemble it.
+
+That robot is insane!  It looked like it paused for a moment too, so it’s probably possible to get even faster.
+
+I miss the Rubik’s Magic, I haven’t seen those around for years.  I also had the Rubik’s Clock, though I wouldn’t rate that as highly as the Cube.
+
+Oh man, Rubik’s Magic! That was one of my favourite childhood toys :) I broke quite a few of them, according to my mum.
+
+Yeah me too, I preferred it to the cube.  The last one I had got confiscated by a supply teacher, and when I went to get it back she’d left.  Guess I shouldn’t have taken it to school.
+
+I think they were quite easy to break, as they had plastic strings that came loose.  Some of my friends were doing speed runs on them, so they did take some abuse.
+
+I don’t need to know how to solve the thing, I need to know how to get the side I want to rotate instead of the whole thing or a different side.
+
+If you just click one of the squares, and then drag left/right or up/down, that layer should slide.
+
+If you click/drag outside in the white area, the whole thing should rotate.
+
+Clicking in the white area makes the whole thing rotate but then randomly so does clicking and dragging on a square, and right/left up/down seems random when it does happen.  Not just the direction of rotation but the layer that rotates.  I can click on the middle row and drag down and the left layer rotates instead, then when I try to put it back the whole thing rotates.
+
+It’s tricky to know which face you can turn by clicking where, but it’s possible to get a hang of it. The whole tapping outside to rotate is horrible, and for some reason tapping anywhere on the middle slice rotates it, which is infuriating.
+
+Seriously though there are so many more important things to learn than this. It’s like playing chess. Or any game. Real life is so much more fun.
+
+I believe you do learn real life lessons from Rubik’s Cube. You learn that persistence and honesty are rewarded. You feel a huge since of accomplishment when you succeed. This is not accomplished by chance. You must learn sequences of repeatable steps that will accomplish desired goals. When you solve the cube without help or cheating, as I did as a teen when the cube first hit the market, you know you’ve got the chops for much greater goals, like engineering great products that will be an enduring benefit to the world. I guess it’s an introvert thing. For introverts the real fun happens inside you mind. It’s the journey that matters, not the path or the destination. Honesty is it’s own reward.
+
+The google cube always gets scrambled exactly the same every time. The optimal solution is 16 half turn moves (19 quarter turn moves, it’s very hard to turn a face twice in one move). I was able to perform it in 11 seconds.
+
+Congratulations.
+
+I think you missed an ‘every’ in there.
+
+Fuck Rubik and fuck his cube too. If turning a cube around in your hands is your idea of entertainment, then you need to get out more.
+
+Subscribe Today to get the latest ExtremeTech news delivered right to your inbox.

@@ -1,0 +1,49 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Republicans,say.01,there are,,Affirmative,"It 's common for Republicans to say there are unanswered questions about the September 11 , 2012 terrorist attack on the U.S. diplomatic compound in Benghazi , Libya . "
+it,say.01,that questions have been answered,,Affirmative,"In some cases , though , it might be more accurate to say that questions have been answered , but Republicans do n't believe the answers . "
+Republicans,believe.01,the answers,,Affirmative,"In some cases , though , it might be more accurate to say that questions have been answered , but Republicans do n't believe the answers . "
+You,enter.01,a valid email address in,,Affirmative,You must enter a valid email address in the field above ! 
+You,receive.01,your first newsletter,,Affirmative,You should receive your first newsletter very soon . 
+U.S. security officers,hold.04,an emergency meeting,,Affirmative,"U.S. security officers had held an emergency meeting the day before , August 15 , noting that violence in the area was on the rise and concluding that the American contingent could not defend the post in the event of a coordinated attack , due to limited manpower , security measures , weapons capabilities , host nation support , and the overall size of the compound . "
+U.S. security officers,note.01,was on,,Affirmative,"U.S. security officers had held an emergency meeting the day before , August 15 , noting that violence in the area was on the rise and concluding that the American contingent could not defend the post in the event of a coordinated attack , due to limited manpower , security measures , weapons capabilities , host nation support , and the overall size of the compound . "
+the American contingent,defend.01,the post,,Affirmative,"U.S. security officers had held an emergency meeting the day before , August 15 , noting that violence in the area was on the rise and concluding that the American contingent could not defend the post in the event of a coordinated attack , due to limited manpower , security measures , weapons capabilities , host nation support , and the overall size of the compound . "
+Washington,do.02,nothing,,Affirmative,Washington did nothing . 
+Committee report released in January,find.01,no evidence,,Affirmative,"A Senate Intelligence Committee report released in January found no evidence that significant actions were taken by the State Department between August 15 , 2012 , and September 11 , 2012 , to increase security at the mission facility . "
+by,take.01,significant actions,,Affirmative,"A Senate Intelligence Committee report released in January found no evidence that significant actions were taken by the State Department between August 15 , 2012 , and September 11 , 2012 , to increase security at the mission facility . "
+"September 11 , 2012 ,",increase.01,security,,Affirmative,"A Senate Intelligence Committee report released in January found no evidence that significant actions were taken by the State Department between August 15 , 2012 , and September 11 , 2012 , to increase security at the mission facility . "
+Republicans,see.01,A Senate Intelligence Committee report released in January,,Affirmative,"As Republicans see it , the Secretary of State was in charge . "
+by,conduct.01,internal investigation,,Affirmative,The State Department 's internal investigation was conducted by an Accountability Review Board whose members were appointed by Clinton . 
+by Clinton,appoint.01,an Accountability Review Board,,Affirmative,The State Department 's internal investigation was conducted by an Accountability Review Board whose members were appointed by Clinton . 
+They,build.01,a firewall,,Affirmative,They seemed determined to build a firewall around the Secretary of State . 
+released report,mention.01,cable,,Affirmative,The panel 's publicly - released report did not even mention the August 16 cable . 
+The panel 's publicly-released report,lay.01,the blame for,,Affirmative,It laid the blame for security lapses at the middle levels of the State Department bureaucracy . 
+Board investigators,interview.01,State Hillary Clinton 's,,Affirmative,Accountability Review Board investigators did not even interview Secretary Clinton . 
+some lawmakers on,get.01,the chance,,Affirmative,But some lawmakers on Capitol Hill got the chance . 
+State Hillary Clinton 's,testify.01,that she did not see,,Affirmative,"In an appearance before the House Foreign Affairs Committee in January 2013 , Clinton testified under oath that she did not see the cable . "
+State Hillary Clinton 's,see.01,"an August 16 , 2012 cable , sent from Ambassador Chris Stevens to Clinton 's office just 26 days before the attack , raising red flag after red flag about the dangerous lack of security in Benghazi",,Affirmative,"In an appearance before the House Foreign Affairs Committee in January 2013 , Clinton testified under oath that she did not see the cable . "
+State Hillary Clinton 's,say.01,cable did not come to,,Affirmative,"That cable did not come to my attention , Clinton said . "
+State Hillary Clinton 's,make.02,it very clear,,Affirmative,"I have made it very clear that the security cables did not come to my attention or above the assistant - secretary level , where the Accountability Review Board placed responsibility . "
+Review Board,place.01,responsibility,,Affirmative,"I have made it very clear that the security cables did not come to my attention or above the assistant - secretary level , where the Accountability Review Board placed responsibility . "
+State Hillary Clinton 's,know.01,about,,Affirmative,What struck some Republicans as odd -- and still does -- is that Clinton nonetheless knew about the conditions that prompted the Aug . 
+the conditions,prompt.02,the Aug,,Affirmative,What struck some Republicans as odd -- and still does -- is that Clinton nonetheless knew about the conditions that prompted the Aug . 
+she,testify.01,I was aware of,,Affirmative,"I was aware of certain incidents at our facility and the attack on the British diplomat , she testified . "
+Clinton,testify.01,she was engaged in,,Affirmative,"Clinton also testified she was engaged in what she called the issues related to the deteriorating threat environment , particularly in Libya . "
+Many Republicans,understand.01,how Clinton could be involved in,,Affirmative,"Many Republicans still do not understand how Clinton could be involved in security matters , down to a pretty detailed level , and then claim it was all handled by mid-level officials . "
+Many Republicans,claim.01,it was all handled by,,Affirmative,"Many Republicans still do not understand how Clinton could be involved in security matters , down to a pretty detailed level , and then claim it was all handled by mid-level officials . "
+by,handle.01,an appearance before the Senate Armed Services Committee,,Affirmative,"Many Republicans still do not understand how Clinton could be involved in security matters , down to a pretty detailed level , and then claim it was all handled by mid-level officials . "
+level administration officials,see.01,the Aug,,Affirmative,But what really made Republicans suspicious was the fact that other high - level administration officials had seen the Aug . 
+Secretary Leon Panetta and,testify.01,they knew about it,,Affirmative,"In an appearance before the Senate Armed Services Committee , both former Defense Secretary Leon Panetta and Joint Chiefs of Staff Chairman Gen. Martin Dempsey testified they knew about it . "
+they,know.01,about it,,Affirmative,"In an appearance before the Senate Armed Services Committee , both former Defense Secretary Leon Panetta and Joint Chiefs of Staff Chairman Gen. Martin Dempsey testified they knew about it . "
+Ambassador Stevens -- of,say.01,consulate could not withstand,,Affirmative,"You were aware that Ambassador Stevens -- of his cable that said that the consulate could not withstand a coordinated attack , is that right ? "
+the consulate,withstand.01,a coordinated attack,,Affirmative,"You were aware that Ambassador Stevens -- of his cable that said that the consulate could not withstand a coordinated attack , is that right ? "
+Panetta,say.01,Correct,,Affirmative,"Correct , said Panetta . "
+Ayotte,say.01,"General , you had said",,Affirmative,"Turning to Dempsey , Ayotte said , General , you had said that you previously were aware of that ? "
+you,say.01,that you previously were aware of that,,Affirmative,"Turning to Dempsey , Ayotte said , General , you had said that you previously were aware of that ? "
+Dempsey,answer.01,"Yes , I was aware of",,Affirmative,"Yes , I was aware of the communication back to the State Department , Dempsey answered . "
+Clinton,argue.01,that she was simply,,Affirmative,Clinton has argued that she was simply too busy to see the August cable . 
+she,see.01,the August cable,,Affirmative,Clinton has argued that she was simply too busy to see the August cable . 
+she,tell.01,come to,the House committee,Affirmative,"One - point - 43 million cables a year come to the State Department , she told the House committee . "
+the Secretary of State,say.01,she was not,,Affirmative,"And those two officials were aware of the dire warning that came from Benghazi on August 16 , while the Secretary of State -- the official actually in charge of the compound -- says she was not . "
+Clinton,say.01,she had,,Affirmative,"In her House testimony , Clinton said she had great confidence in the work of the Accountability Review Board . "
+she,have.03,great confidence in,,Affirmative,"In her House testimony , Clinton said she had great confidence in the work of the Accountability Review Board . "
+Republicans,share.01,that confidence,,Affirmative,Republicans do n't share that confidence . 

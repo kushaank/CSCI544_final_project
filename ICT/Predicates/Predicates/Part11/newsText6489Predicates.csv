@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Cañon City Council,approve.01,an application for,,Affirmative,The Cañon City Council approved an application for a Special Events Liquor Permit for the event during its regular meeting Monday . 
+"Dan Brown ,",say.01,are considering attending and covering,,Affirmative,"Dan Brown , board president of the FCF , said representatives from the Food Channel are considering attending and covering the event for a new show . "
+representatives from,consider.02,attending and covering,,Affirmative,"Dan Brown , board president of the FCF , said representatives from the Food Channel are considering attending and covering the event for a new show . "
+representatives from,cover.03,the event for,,Affirmative,"Dan Brown , board president of the FCF , said representatives from the Food Channel are considering attending and covering the event for a new show . "
+The committee,expect.01,to have,,Affirmative,"The committee expects to have 38 competitors this year , compared to the usual 30-36 . "
+The committee,have.03,38 competitors,,Affirmative,"The committee expects to have 38 competitors this year , compared to the usual 30-36 . "
+38 competitors this year,have.03,Trigg coming,,Affirmative,"We have johnny Trigg coming who is a two - time world champion , Brown said . "
+Dan Brown,say.01,We have,,Affirmative,"We have johnny Trigg coming who is a two - time world champion , Brown said . "
+johnny Trigg coming who is a two-time world champion,have.03,quite a following,,Affirmative,"He has quite a following , so other competitive teams will follow him in . "
+other competitive teams,follow.02,johnny Trigg coming who is a two-time world champion,,Affirmative,"He has quite a following , so other competitive teams will follow him in . "
+Dan Brown,say.01,event typically costs,,Affirmative,"Brown said the event typically costs about $ 45,000 to put on , mostly for rentals , but by moving from its previous location near the Abbey to Veterans Park , the committee will save at least $ 6,000 upfront . "
+The committee,save.01,"least $ 6,000 upfront",,Affirmative,"Brown said the event typically costs about $ 45,000 to put on , mostly for rentals , but by moving from its previous location near the Abbey to Veterans Park , the committee will save at least $ 6,000 upfront . "
+the FCF,raise.02,"about $ 180,000",,Affirmative,"Since 1999 , and known formerly as the Belvedere Community Foundation , FCF has raised about $ 180,000 and given it back to local community nonprofit groups . "
+the FCF,give.01,1999,to,Affirmative,"Since 1999 , and known formerly as the Belvedere Community Foundation , FCF has raised about $ 180,000 and given it back to local community nonprofit groups . "
+the FCF,award.01,"$ 19,967",to,Affirmative,"In 2013 , the FCF awarded $ 19,967 to 18 local organizations , including Penrose Senior Center , VFW - Penrose , Cañon City Pregnancy Center , Cañon City High School Senior Fun Fest , Colorado Mounted Rangers and Fremont County Search & Rescue . "
+the FCF,take.01,part,,Affirmative,The FCF also will take part in hosting the Royal Gorge Whitewater Festival June 20 - 21 and the John Wells Memorial Bike and Poker Run on Sept . 

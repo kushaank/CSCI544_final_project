@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Feature Channels,help.01,feature,,Affirmative,Feature Channels help feature writers generate story ideas . 
+Feature Channels,feature.01,writers generate,,Affirmative,Feature Channels help feature writers generate story ideas . 
+writers,generate.01,story ideas,,Affirmative,Feature Channels help feature writers generate story ideas . 
+New research,suggest.01,- could survive on Mars,,Affirmative,- New research suggests that methanogens - among the simplest and oldest organisms on Earth - could survive on Mars . 
+microorganisms in,use.01,hydrogen,as,Affirmative,"Methanogens , microorganisms in the domain Archaea , use hydrogen as their energy source and carbon dioxide as their carbon source , to metabolize and produce methane , also known as natural gas . "
+microorganisms in,produce.01,methane,,Affirmative,"Methanogens , microorganisms in the domain Archaea , use hydrogen as their energy source and carbon dioxide as their carbon source , to metabolize and produce methane , also known as natural gas . "
+feature writers,require.01,require oxygen,,Affirmative,"Methanogens are anaerobic , so they they do n't require require oxygen . "
+feature writers,require.01,oxygen,,Affirmative,"Methanogens are anaerobic , so they they do n't require require oxygen . "
+They,require.01,organic nutrients,,Affirmative,"They do n't require organic nutrients and are non-photosynthetic , indicating they could exist in sub-surface environments and therefore are ideal candidates for life on Mars . "
+"Rebecca Mickol ,",subject.01,two species of methanogens to,,Affirmative,"Rebecca Mickol , a doctoral student in space and planetary sciences at the University of Arkansas , subjected two species of methanogens to Martian conditions : Methanothermobacter wolfeii and Methanobacterium formicicum . "
+Both species,survive.01,thaw cycles,,Affirmative,Both species survived the Martian freeze - thaw cycles that Mickol replicated in her experiments . 
+Mickol,replicate.01,thaw cycles,,Affirmative,Both species survived the Martian freeze - thaw cycles that Mickol replicated in her experiments . 
+Mickol,conduct.01,the study with,,Affirmative,"Mickol conducted the study with Timothy Kral , professor of biological sciences in the Arkansas Center for Space and Planetary Sciences and lead scientist on the project . "
+She,present.01,her work,,Affirmative,"She is presenting her work at the 2014 General Meeting of the American Society for Microbiology , being held May 17-20 in Boston . "
+Kral,study.01,methanogens,,Affirmative,"Since the 1990 s , Kral has been studying methanogens and examining their ability to survive on Mars . "
+Kral,examine.01,their ability,,Affirmative,"Since the 1990 s , Kral has been studying methanogens and examining their ability to survive on Mars . "
+scientists,discover.01,methane,,Affirmative,"In 2004 , scientists discovered methane in the Martian atmosphere , and immediately the question of the source became an important one . "
+The NASA Exobiology Program,fund.01,her research,,Affirmative,The NASA Exobiology Program funded her research . 
+The Carnegie Foundation for,categorize.01,the University of Arkansas,in,Affirmative,"The Carnegie Foundation for the Advancement of Teaching categorizes the University of Arkansas in its highest research classification , a level that only 2 percent of American colleges and universities share . "
+2 percent of,share.01,a level,,Affirmative,"The Carnegie Foundation for the Advancement of Teaching categorizes the University of Arkansas in its highest research classification , a level that only 2 percent of American colleges and universities share . "
+in,contain.01,Methanogens contained in,,Affirmative,"Methanogens contained in these test tubes , which also contained growth nutrients , sand and water , survived when subjected to Martian freeze - thaw cycles at the University of Arkansas . "
+"these test tubes ,",contain.01,"growth nutrients , sand and water",,Affirmative,"Methanogens contained in these test tubes , which also contained growth nutrients , sand and water , survived when subjected to Martian freeze - thaw cycles at the University of Arkansas . "
+Methanogens contained in,survive.01,thaw cycles,,Affirmative,"Methanogens contained in these test tubes , which also contained growth nutrients , sand and water , survived when subjected to Martian freeze - thaw cycles at the University of Arkansas . "

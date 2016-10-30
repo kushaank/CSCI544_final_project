@@ -1,0 +1,22 @@
+
+More than 90 people were arrested after law enforcement agencies in 19 countries carried out raids to break up a cyber-criminal ring that was distributing the Blackshades remote access tool.
+
+Law enforcement agents in 19 countries raided hundreds of residences and arrested more than 90 people in a broad crackdown on the creators and users of a remote access tool known as Blackshades, according to coordinated announcements by both the U.S. Department of Justice and the European Union's Europol.
+
+While remote access tools can be used legally—for example, by system administrators to remotely manage corporate computers—Blackshades was created to surreptitiously access victims' computers and allow the stealthy control of the systems, according to statements by the law enforcement agencies. Once installed, the remote access tool (RAT) allows its operator to record keystrokes, steal passwords and activate the victim's Webcam, all without the knowledge of the victim.
+
+The Blackshades RAT is not infectious but is installed on victims' computers through other means, such as popular exploit kits. While Blackshades could be used for legitimate purposes, prosecutors maintain that it was intended to be—and is exclusively—used for crime. Security firms define the program as malware.
+
+"The RAT is inexpensive and simple to use, but its capabilities are sophisticated and its invasiveness breathtaking," Manhattan U.S. Attorney Preet Bharara said in a statement on May 19 , announcing the U.S. law enforcement actions. "As today's case makes clear, we now live in a world where, for just $40, a cyber-criminal halfway across the globe can—with just a click of a mouse—unleash a RAT that can spread a computer plague not only on someone's property, but also on their privacy and most personal spaces."
+
+Two men allegedly created and sold Blackshades. The FBI arrested the first, Michael Hogue, in June 2012. Hogue pled guilty in January 2013 and is currently awaiting sentencing, according to recently unsealed documents. Alex Yucel of Sweden, the alleged owner and operator of the organization that maintained and sold Blackshades, was arrested in Moldova and is awaiting extradition, according to the U.S. Department of Justice.
+
+While the arrest of the suspected creators of the software were the highlight of the announcement, law enforcement also arrested dozens of people who allegedly bought the tool and may have used it for criminal purposes. The FBI estimates that several thousand people used Blackshades to attack more than 500,000 computers worldwide and allegedly earned Hogue and Yucel $350,000 in sales between September 2010 and April 2014.
+
+"The money is the weak point in these criminal operations," Chester Wisniewski, senior security advisor at antivirus firm Sophos, told eWEEK. "You have to be able to contact them to buy this stuff and you have to be able to pay them."
+
+The crackdown shows that international efforts to coordinate law enforcement actions against cyber-criminals are working well, according to E.U. officials.
+
+"This case is yet another example of the critical need for coordinated law enforcement operations against the growing number of cyber-criminals operating on an EU and global level," Troels Oerting, head of the European Cybercrime Centre (EC3) at Europol, said in a statement . "The work is far from over, but our cooperation to work together across borders has increased and we are dealing with cases on an ongoing basis."
+
+The malicious use of RATs has fueled a number of scams, from account fraud to extortion. In a recent case in the Netherlands, an 18-year-old man allegedly used Blackshades to control the Webcams of more than 2,000 computers to take pictures of women and girls, according to the E.U. statement.

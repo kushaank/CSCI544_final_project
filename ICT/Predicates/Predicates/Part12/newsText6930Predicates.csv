@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old woman,think.01,she was going,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+Rolf Harris,pin.01,An 18-year-old woman,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+Rolf Harris,grope.01,An 18-year-old woman,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+"the woman ,",give.01,evidence,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+"the woman ,",say.01,she met,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+"the woman , who can not be named for legal reasons",meet.02,the entertainer,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+Her boyfriend,hurt.01,his foot,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+"swimming , and Harris ,",help.01,them find,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+them,find.01,a doctor,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+"the woman , who can not be named for legal reasons",thank.01,the artist,,Affirmative,"The woman then went back to thank the artist , and he took her into a side room , offering to show the aspiring art student some of his work . "
+the artist,take.01,"the woman , who can not be named for legal reasons",into,Affirmative,"The woman then went back to thank the artist , and he took her into a side room , offering to show the aspiring art student some of his work . "
+the artist,pin.01,"the woman , who can not be named for legal reasons",,Affirmative,It is claimed he pinned her against a wall and gave her a slobbery kiss before touching her intimately . 
+the artist,give.01,a slobbery kiss,her,Affirmative,It is claimed he pinned her against a wall and gave her a slobbery kiss before touching her intimately . 
+"the woman , who can not be named for legal reasons",tell.01,she was,the jury,Affirmative,"She told the jury at first she was a bit flattered , and that after the alleged assault Harris just stopped whatever he was doing and just cuddled me . "
+"Harris , now 84",stop.01,whatever he was doing,,Affirmative,"She told the jury at first she was a bit flattered , and that after the alleged assault Harris just stopped whatever he was doing and just cuddled me . "
+"the woman , who can not be named for legal reasons",say.01,she had,,Affirmative,"Afterwards the pair went back to the bar , where the woman said she had her photograph taken with Harris . "
+"the woman , who can not be named for legal reasons",have.03,photograph taken with Harris,,Affirmative,"Afterwards the pair went back to the bar , where the woman said she had her photograph taken with Harris . "
+"the woman , who can not be named for legal reasons",say.01,entertainer squeezed,,Affirmative,"She said the entertainer squeezed her arm really tight as the picture was taken , as if it was an apology , the woman said . "
+the entertainer,squeeze.01,her arm,,Affirmative,"She said the entertainer squeezed her arm really tight as the picture was taken , as if it was an apology , the woman said . "
+"the woman , who can not be named for legal reasons",say.01,She said,,Affirmative,"She said the entertainer squeezed her arm really tight as the picture was taken , as if it was an apology , the woman said . "
+"Harris , now 84",deny.01,12 counts of,,Affirmative,Harris denies 12 counts of indecent assault on four alleged victims between 1968 and 1986 . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+by,administer.01,voluntary Code of Practice,,Affirmative,"WalesOnline.co.uk conforms to the newspaper industry 's voluntary Code of Practice , administered by the Press Complaints Commission . "
+you,feel.02,we have made,,Affirmative,"If you feel we have made an error in a report , or have fallen below our usual high standards , please write in the first instance to : Ceri Gould , Online Editor , WalesOnline.co.uk , Media Wales , Six Park Street , Cardiff CF10 1XR . "
+we,make.02,an error,,Affirmative,"If you feel we have made an error in a report , or have fallen below our usual high standards , please write in the first instance to : Ceri Gould , Online Editor , WalesOnline.co.uk , Media Wales , Six Park Street , Cardiff CF10 1XR . "
+WalesOnline,offer.01,unique access to,,Affirmative,"WalesOnline is part of Media Wales , publisher of the Western Mail , South Wales Echo , Wales on Sunday and the seven Celtic weekly titles , offering you unique access to our audience across Wales online and in print . "
+She,start.01,her career on,,Affirmative,She started her career on the Glamorgan Gazette . 

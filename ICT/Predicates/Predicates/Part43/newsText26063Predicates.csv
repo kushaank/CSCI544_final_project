@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Swiss court,order.01,a Russian billionaire,,Affirmative,A Swiss court has ordered a Russian billionaire to pay more than 4 billion Swiss francs to his ex-wife to settle their divorce after a six - year legal fight . 
+a Russian billionaire,pay.01,billion Swiss francs,to,Affirmative,A Swiss court has ordered a Russian billionaire to pay more than 4 billion Swiss francs to his ex-wife to settle their divorce after a six - year legal fight . 
+Forbes,estimate.01,worth,at,Affirmative,Forbes estimates Dmitry Rybolovlev 's worth at $ 8.8 billion . 
+A Swiss court,order.01,a Russian billionaire,,Affirmative,GENEVA - A Swiss court has ordered a Russian billionaire to pay more than 4 billion Swiss francs to his ex-wife to settle their divorce after a six - year legal fight . 
+a Russian billionaire,pay.01,billion Swiss francs,to,Affirmative,GENEVA - A Swiss court has ordered a Russian billionaire to pay more than 4 billion Swiss francs to his ex-wife to settle their divorce after a six - year legal fight . 
+judgment,say.01,must pay,,Affirmative,"The Geneva divorce court 's judgment says Dmitry Rybolovlev of Monaco must pay 4,020,555,987.80 Swiss francs ( $ 4,509,375,184.80 ) to ex-wife Elena Rybolovleva of Geneva . "
+Dmitry Rybolovlev of Monaco,pay.01,"4,020,555,987.80 Swiss francs (",to,Affirmative,"The Geneva divorce court 's judgment says Dmitry Rybolovlev of Monaco must pay 4,020,555,987.80 Swiss francs ( $ 4,509,375,184.80 ) to ex-wife Elena Rybolovleva of Geneva . "
+her lawyer,call.01,a statement,expensive divorce in history,Affirmative,In a statement Monday her lawyer Marc Bonnant called it the most expensive divorce in history - an unheard - of amount for Switzerland and for Russian oligarchs - but noted the judgment could be appealed . 
+her lawyer,note.01,judgment could be appealed,,Affirmative,In a statement Monday her lawyer Marc Bonnant called it the most expensive divorce in history - an unheard - of amount for Switzerland and for Russian oligarchs - but noted the judgment could be appealed . 
+wife,demand.01,$ 6 billion,from,Affirmative,"Rybolovlev 's wife had demanded $ 6 billion from the man known as the fertilizer king , whose fortune from potash mining made him the world 's 79th richest person . "
+"the fertilizer king ,",make.02,79th richest person,,Affirmative,"Rybolovlev 's wife had demanded $ 6 billion from the man known as the fertilizer king , whose fortune from potash mining made him the world 's 79th richest person . "
+Forbes,estimate.01,Dmitry Rybolovlev 's worth at $ 8.8 billion,at,Affirmative,Forbes estimates his worth at $ 8.8 billion . 

@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,shoot.02,A bandit shot dead by,,Affirmative,A bandit shot dead by a security guard outside a Gold Coast tavern was carrying a fake gun . 
+A bandit shot dead by,carry.01,a fake gun,,Affirmative,A bandit shot dead by a security guard outside a Gold Coast tavern was carrying a fake gun . 
+Police,confirm.01,was,,Affirmative,Police have confirmed the 9 mm pistol the 46 - year - old robber was carrying was a replica . 
+old robber,carry.01,mm pistol,,Affirmative,Police have confirmed the 9 mm pistol the 46 - year - old robber was carrying was a replica . 
+Officers,confirm.01,were known to,,Affirmative,Officers ca n't confirm if the guard and the dead man were known to each other . 
+The Courier Mail,report.01,the guard and,,Affirmative,The Courier Mail reports the guard and the man had previously worked for the same security firm . 
+The Courier Mail,say.01,bandit may have used inside knowledge of,,Affirmative,It says the bandit may have used inside knowledge of the security company 's operations to plan the robbery . 
+the bandit,plan.01,the robbery,,Affirmative,It says the bandit may have used inside knowledge of the security company 's operations to plan the robbery . 
+Police,say.01,guard was delivering cash to,,Affirmative,"Police have said the guard was delivering cash to the Highland Park Tavern on Monday morning when he was tackled by the man , who was wearing a motorcycle helmet to hide his identity . "
+a security guard outside a Gold Coast tavern,deliver.01,cash,to,Affirmative,"Police have said the guard was delivering cash to the Highland Park Tavern on Monday morning when he was tackled by the man , who was wearing a motorcycle helmet to hide his identity . "
+by,tackle.01,a security guard outside a Gold Coast tavern,,Affirmative,"Police have said the guard was delivering cash to the Highland Park Tavern on Monday morning when he was tackled by the man , who was wearing a motorcycle helmet to hide his identity . "
+"the man ,",wear.01,a motorcycle helmet,,Affirmative,"Police have said the guard was delivering cash to the Highland Park Tavern on Monday morning when he was tackled by the man , who was wearing a motorcycle helmet to hide his identity . "
+Officers,say.01,guard appeared,,Affirmative,Officers say the guard appeared to have acted instinctively when he fired several shots . 
+a security guard outside a Gold Coast tavern,fire.01,several shots,,Affirmative,Officers say the guard appeared to have acted instinctively when he fired several shots . 
+the 46-year-old robber,suffer.01,a number of,,Affirmative,The robber suffered a number of gunshot wounds and was dead by the time officers arrived . 
+Police,interview.01,a security guard outside a Gold Coast tavern,,Affirmative,"Police have interviewed the guard , but no charges have been laid . "
+Police,say.01,they had formally identified,,Affirmative,Police later said they had formally identified the dead man . 
+Police,identify.01,"a 46-year-old Coomera man , whose name would not be released at the request of his family",,Affirmative,Police later said they had formally identified the dead man . 
+Police,say.01,he was,,Affirmative,"They said he was a 46 - year - old Coomera man , whose name would not be released at the request of his family . "
+his family,ask.02,for privacy,,Affirmative,The family has asked for privacy . 
+a security guard outside a Gold Coast tavern,say.01,he wo n't be speaking to,,Affirmative,The security guard has also said he wo n't be speaking to the media . 

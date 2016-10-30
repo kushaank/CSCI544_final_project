@@ -1,0 +1,72 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+People,run.02,for office,,Affirmative,People who run for office have to withstand negative political attacks . 
+People,withstand.01,negative political attacks,,Affirmative,People who run for office have to withstand negative political attacks . 
+The Iowa Supreme Court,confirm.01,already knew,,Affirmative,The Iowa Supreme Court last week confirmed what most of us already knew : People who run for office have to put on their big - boy pants and withstand negative political attacks without help from the courts . 
+People,run.02,for office,,Affirmative,The Iowa Supreme Court last week confirmed what most of us already knew : People who run for office have to put on their big - boy pants and withstand negative political attacks without help from the courts . 
+People,put.01,boy pants,,Affirmative,The Iowa Supreme Court last week confirmed what most of us already knew : People who run for office have to put on their big - boy pants and withstand negative political attacks without help from the courts . 
+People,withstand.01,negative political attacks,,Affirmative,The Iowa Supreme Court last week confirmed what most of us already knew : People who run for office have to put on their big - boy pants and withstand negative political attacks without help from the courts . 
+ruling,offer.01,some rare insight into,,Affirmative,"The court 's ruling , however , offers some rare insight into the decisions the candidates and those associated with their campaigns made , leading up to the airing of a misleading attack ad . "
+"State Sen. Rick Bertrand ,",win.01,"231,000 jury award",,Affirmative,"State Sen. Rick Bertrand , a Republican , had won a $ 231,000 jury award after successfully suing his Democratic opponent , Rick Mullin , and the Iowa Democratic Party for defamation over a political ad run in 2010 . "
+"State Sen. Rick Bertrand ,",sue.01,"his Democratic opponent ,",for defamation over,Affirmative,"State Sen. Rick Bertrand , a Republican , had won a $ 231,000 jury award after successfully suing his Democratic opponent , Rick Mullin , and the Iowa Democratic Party for defamation over a political ad run in 2010 . "
+"Bertrand ,",win.01,the election,,Affirmative,"Bertrand , who won the election that year , claimed the ad was untrue and damaged his reputation . "
+"Bertrand ,",claim.01,ad was untrue and damaged,,Affirmative,"Bertrand , who won the election that year , claimed the ad was untrue and damaged his reputation . "
+"a classic `` guilt by association '' attack on Bertrand , a Sioux City businessman who had worked as a sales agent for a Japanese pharmaceutical company",damage.01,his reputation,,Affirmative,"Bertrand , who won the election that year , claimed the ad was untrue and damaged his reputation . "
+City businessman,work.01,as,,Affirmative,"The ad was a classic guilt by association attack on Bertrand , a Sioux City businessman who had worked as a sales agent for a Japanese pharmaceutical company . "
+"a classic `` guilt by association '' attack on Bertrand , a Sioux City businessman who had worked as a sales agent for a Japanese pharmaceutical company",state.01,that Bertrand had been involved in,,Affirmative,"The ad implied , but did not state , that Bertrand had been involved in the company 's controversial marketing of a sleeping pill to children . "
+Rick Bertrand,say.01,he had worked for,,Affirmative,"Bertrand said he had worked for another division of the company that sold a diabetes drug , and that he never marketed or sold the sleep aid . "
+a Japanese pharmaceutical company,sell.01,a diabetes drug,,Affirmative,"Bertrand said he had worked for another division of the company that sold a diabetes drug , and that he never marketed or sold the sleep aid . "
+Rick Bertrand,sell.01,the sleep aid,,Affirmative,"Bertrand said he had worked for another division of the company that sold a diabetes drug , and that he never marketed or sold the sleep aid . "
+The Iowa Supreme Court,rule.01,on appeal,,Affirmative,The Iowa Supreme Court ruled on appeal that Bertrand failed to prove that Mullin and the Democrats acted with actual malice in airing the ad . 
+Rick Bertrand,prove.01,acted with,,Affirmative,The Iowa Supreme Court ruled on appeal that Bertrand failed to prove that Mullin and the Democrats acted with actual malice in airing the ad . 
+Mullin and,act.02,with,,Affirmative,The Iowa Supreme Court ruled on appeal that Bertrand failed to prove that Mullin and the Democrats acted with actual malice in airing the ad . 
+such,meet.02,a higher legal standard,,Affirmative,"As a candidate for office , Bertrand was a public figure and as such must meet a higher legal standard to win a defamation claim . "
+such,win.01,a defamation claim,,Affirmative,"As a candidate for office , Bertrand was a public figure and as such must meet a higher legal standard to win a defamation claim . "
+Mullin and the party,disregard.01,the truth,,Affirmative,Mullin and the party were off the hook since there was no proof they knew or recklessly disregarded the truth that Bertrand had nothing to do with marketing the sleeping pill to kids . 
+Rick Bertrand,have.03,nothing,,Affirmative,Mullin and the party were off the hook since there was no proof they knew or recklessly disregarded the truth that Bertrand had nothing to do with marketing the sleeping pill to kids . 
+Rick Bertrand,say.01,he hoped,,Affirmative,Bertrand said earlier this year he hoped the Supreme Court would seize the opportunity to clean up politics by ending the anything goes attitude toward attack ads . 
+Rick Bertrand,hope.01,Court would seize,,Affirmative,Bertrand said earlier this year he hoped the Supreme Court would seize the opportunity to clean up politics by ending the anything goes attitude toward attack ads . 
+The Iowa Supreme Court,seize.01,the opportunity,,Affirmative,Bertrand said earlier this year he hoped the Supreme Court would seize the opportunity to clean up politics by ending the anything goes attitude toward attack ads . 
+The Iowa Supreme Court,referee.01,these disputes,,Affirmative,"The court is not ready to referee these disputes , however . "
+The opinion by,describe.01,a number of decisions,,Affirmative,The opinion by Chief Justice Mark Cady describes a number of decisions that led up to the airing of the ad and in particular shows the influence of campaign staff over the candidate . 
+decisions,show.01,the influence of,,Affirmative,The opinion by Chief Justice Mark Cady describes a number of decisions that led up to the airing of the ad and in particular shows the influence of campaign staff over the candidate . 
+Rick Bertrand,air.01,an attack ad,,Affirmative,• Retaliation : Bertrand had aired an attack ad in October 2010 that compared Mullin 's positions on issues to those he had taken as a county party chairman . 
+October 2010,compare.01,positions on issues to those,,Affirmative,• Retaliation : Bertrand had aired an attack ad in October 2010 that compared Mullin 's positions on issues to those he had taken as a county party chairman . 
+Rick Mullin,take.01,those associated with their campaigns made,as,Affirmative,• Retaliation : Bertrand had aired an attack ad in October 2010 that compared Mullin 's positions on issues to those he had taken as a county party chairman . 
+The advertisement,make.02,Mullin angry,,Affirmative,The advertisement made Mullin angry and offended him . 
+The advertisement,offend.01,Rick Mullin,,Affirmative,The advertisement made Mullin angry and offended him . 
+his internal polling,reveal.01,advertisement was causing,,Affirmative,"Additionally , his internal polling revealed the advertisement was causing him to lose support . "
+The advertisement,cause.01,him to lose support,,Affirmative,"Additionally , his internal polling revealed the advertisement was causing him to lose support . "
+Rick Mullin,lose.02,support,,Affirmative,"Additionally , his internal polling revealed the advertisement was causing him to lose support . "
+His campaign manager,tell.01,Bertrand hit you hard,him,Affirmative,His campaign manager told him : ' Bertrand hit you hard . 
+Rick Bertrand,hit.01,you,,Affirmative,His campaign manager told him : ' Bertrand hit you hard . 
+Rick Mullin,find.02,it too harsh and inconsistent with,,Affirmative,He found it too harsh and inconsistent with the positive tenor of his campaign . 
+Rick Mullin,tell.01,Ca n't we find,state party staff,Affirmative,Mullin told state party staff : Ca n't we find a way to be derisive / dismissive of Bertrand 's negative attack and then pivot to our positive message ? 
+we,find.01,a way,,Affirmative,Mullin told state party staff : Ca n't we find a way to be derisive / dismissive of Bertrand 's negative attack and then pivot to our positive message ? 
+Rick Mullin,like.01,the positioning of me,,Affirmative,"I really do n't like the positioning of me in this , and it buys into Bertrand 's frame . "
+the positioning of me,buy.01,into,,Affirmative,"I really do n't like the positioning of me in this , and it buys into Bertrand 's frame . "
+the positioning of me,keep.02,positive,,Affirmative,Let 's bust out of his frame and keep positive . 
+Rick Bertrand,market.01,sleeping pills,,Affirmative,What Mullin did n't do is inquire whether Bertrand actually sold or marketed sleeping pills . 
+Rick Mullin,buy.01,into,,Affirmative,• Ad airs anyway : Mullin apparently bought into the argument that the attack was warranted and necessary . 
+Rick Mullin,refer.01,to,,Affirmative,He referred to a rewrite of the script as less vile . 
+Rick Mullin,approve.01,a script,,Affirmative,"Eventually , he approved a script and the ad first aired on Oct . "
+"a classic `` guilt by association '' attack on Bertrand , a Sioux City businessman who had worked as a sales agent for a Japanese pharmaceutical company",file.01,a defamation claim,,Affirmative,"• Aftermath : When Bertrand complained publicly at a candidate forum the ad was false , and then filed a defamation claim , his objections were dismissed as a political tactic . "
+Mullin,stop.01,running,,Affirmative,"Mullin did n't stop running the ad , which the Supreme Court seemed to find understandable . "
+Mullin,run.01,"the ad ,",,Affirmative,"Mullin did n't stop running the ad , which the Supreme Court seemed to find understandable . "
+the Supreme Court,find.01,understandable,,Affirmative,"Mullin did n't stop running the ad , which the Supreme Court seemed to find understandable . "
+A candidate,avoid.01,the truth,,Affirmative,"A candidate does not purposely avoid the truth if the truth is buried in political grandstanding and rhetoric , Cady 's opinion states . "
+a candidate allowing,allow.01,to goad him into retaliation,,Affirmative,"What I see here is a candidate allowing his campaign and party staff to goad him into retaliation , setting aside his better instincts for a positive campaign and lowering his standards about acceptable messaging . "
+his campaign and,goad.01,him,into retaliation,Affirmative,"What I see here is a candidate allowing his campaign and party staff to goad him into retaliation , setting aside his better instincts for a positive campaign and lowering his standards about acceptable messaging . "
+his campaign and,lower.01,his standards about,,Affirmative,"What I see here is a candidate allowing his campaign and party staff to goad him into retaliation , setting aside his better instincts for a positive campaign and lowering his standards about acceptable messaging . "
+"The victim , Bertrand",draw.01,fire,,Affirmative,"The victim , Bertrand , drew fire by launching an attack first . "
+he,respond.01,to it,,Affirmative,"Then , he responded to it in such a typically political manner as to make even a chief justice shrug . "
+that,leave.01,us,,Affirmative,"So , where does that leave us ? "
+Candidates,launch.01,attacks,,Affirmative,Candidates who launch attacks have little room to complain when the response is an even more vicious attack . 
+Candidates,have.03,little room,,Affirmative,Candidates who launch attacks have little room to complain when the response is an even more vicious attack . 
+Candidates,want.01,to run,,Affirmative,Candidates who want to run a positive campaign ca n't allow campaign or party staff to overrule their good judgment . 
+Candidates,run.01,a positive campaign,,Affirmative,Candidates who want to run a positive campaign ca n't allow campaign or party staff to overrule their good judgment . 
+Candidates,allow.01,to overrule,,Affirmative,Candidates who want to run a positive campaign ca n't allow campaign or party staff to overrule their good judgment . 
+campaign or,overrule.01,their good judgment,,Affirmative,Candidates who want to run a positive campaign ca n't allow campaign or party staff to overrule their good judgment . 
+We,assume.01,that,,Affirmative,"We ca n't assume that just because an ad is on television with the candidate 's approval , that he or she has bothered to ask whether it is true . "
+he or she,bother.02,to ask,,Affirmative,"We ca n't assume that just because an ad is on television with the candidate 's approval , that he or she has bothered to ask whether it is true . "
+he or she,ask.01,whether it is true,,Affirmative,"We ca n't assume that just because an ad is on television with the candidate 's approval , that he or she has bothered to ask whether it is true . "
+The only court,rule.03,on,,Affirmative,The only court that is going to rule on campaign ads is still the court of public opinion . 

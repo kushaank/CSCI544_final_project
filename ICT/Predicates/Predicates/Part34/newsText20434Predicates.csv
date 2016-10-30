@@ -1,0 +1,101 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the 11 horses,manage.01,the feat,,Affirmative,Here 's a look back at the 11 horses who 've managed the feat . 
+Gallant Fox,capture.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,"More than a decade later , Gallant Fox captured the Triple Crown in 1930 . "
+Omaha --,win.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,Omaha -- the son of Gallant Fox -- won the Triple Crown in 1935 . 
+jockey Pat Beasley,ride.01,the horse,,Affirmative,"Here , jockey Pat Beasley rides the horse in 1936 . "
+War Admiral,take.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,War Admiral took the Triple Crown in 1937 . 
+War Admiral,win.01,21 of,,Affirmative,He won 21 of his 26 career starts . 
+Whirlaway,win.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,Whirlaway ( here with horse Robert Morris ) won the Triple Crown in 1941 and was named Horse of the Year . 
+"Count Fleet ,",win.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,"Count Fleet , who won the Triple Crown in 1943 , is adorned with a garland of flowers after winning the Preakness Stakes in 1943 . "
+"Count Fleet ,",win.01,the Preakness Stakes,,Affirmative,"Count Fleet , who won the Triple Crown in 1943 , is adorned with a garland of flowers after winning the Preakness Stakes in 1943 . "
+Assault,win.01,"the Triple Crown of Thoroughbred Racing , as it would come to be known , by winning the Kentucky Derby , Preakness Stakes and Belmont Stakes in 1919",,Affirmative,Assault won the Triple Crown in 1946 . 
+He,win.01,the following year,the Triple Crown,Affirmative,He would win the Triple Crown the following year . 
+Secretariat,leave.01,"Secretariat , left , heads to victory with",,Affirmative,"Secretariat , left , heads to victory with jockey Ron Turcotte at the Kentucky Derby in 1973 . "
+by many,consider.02,to be,,Affirmative,"Considered by many to be the greatest racehorse of all time , Secretariat still holds the record for the fastest times in all three Triple Crown races . "
+Secretariat,hold.01,the record for,,Affirmative,"Considered by many to be the greatest racehorse of all time , Secretariat still holds the record for the fastest times in all three Triple Crown races . "
+many,win.01,the Belmont Stakes,,Affirmative,He won the Belmont Stakes by an astounding 31 lengths . 
+Jockey Jean Cruguet,guide.01,Seattle Slew,to,Affirmative,Jockey Jean Cruguet guides Seattle Slew to the Triple Crown at the Belmont Stakes in 1977 . 
+California Chrome CAN,wear.01,a nasal strip,,Affirmative,"California Chrome CAN wear a nasal strip on June 7 in the Belmont Stakes , the third leg of horse racing 's Triple Crown , track officials confirmed on Monday , so we can all breathe a little easier about him now . "
+"California Chrome , ridden by Victor Espinoza",win.01,the Kentucky Derby,,Affirmative,"Chrome ca n't win the Kentucky Derby because : 1 ) he is the odds - on favorite to win , and the derby 's favorite never wins , and 2 ) he is a California - bred , and a California horse never wins the derby . "
+a California horse,win.01,the Kentucky Derby,,Affirmative,"Chrome ca n't win the Kentucky Derby because : 1 ) he is the odds - on favorite to win , and the derby 's favorite never wins , and 2 ) he is a California - bred , and a California horse never wins the derby . "
+Steve Cauthen,lose.02,"California Chrome , ridden by Victor Espinoza",,Affirmative,He was going to lose it by a nose . 
+"California Chrome , ridden by Victor Espinoza",wear.01,a nasal strip,,Affirmative,"California Chrome wears a nasal strip , not unlike human beings who want to keep dust and dirt and true grit and other stuff that 's hazardous to your health out of their sinus passages . "
+human beings,want.01,to keep dust and dirt and,,Affirmative,"California Chrome wears a nasal strip , not unlike human beings who want to keep dust and dirt and true grit and other stuff that 's hazardous to your health out of their sinus passages . "
+human beings,keep.02,dust and dirt and,,Affirmative,"California Chrome wears a nasal strip , not unlike human beings who want to keep dust and dirt and true grit and other stuff that 's hazardous to your health out of their sinus passages . "
+Steve Cauthen,win.01,six races in,,Affirmative,He has won six races in a row with a nasal strip across his handsome proboscis . 
+six,give.01,a little breathing room,this California smog - breather,Affirmative,It obviously gave this California smog - breather a little breathing room . 
+Chrome,wear.01,a nasal strip,,Affirmative,"a possibility suddenly existed that Chrome would n't be permitted to wear a nasal strip for the Belmont race , which at a mile and a half is the longest of the Triple Crown events and which is run on Long Island in New York , which has been known to have a speck of dust or two . "
+Long Island in,have.03,a speck of dust or two,,Affirmative,"a possibility suddenly existed that Chrome would n't be permitted to wear a nasal strip for the Belmont race , which at a mile and a half is the longest of the Triple Crown events and which is run on Long Island in New York , which has been known to have a speck of dust or two . "
+I,have.03,Another had,,Affirmative,"The last time this nasal - strip business came up , a horse named I 'll Have Another had just won the Kentucky Derby and Preakness to become the four - legged darling of 2012 . "
+a horse named,win.01,the Kentucky Derby and Preakness,,Affirmative,"The last time this nasal - strip business came up , a horse named I 'll Have Another had just won the Kentucky Derby and Preakness to become the four - legged darling of 2012 . "
+"The last time this nasal-strip business came up , a horse named I 'll Have Another",win.01,the Belmont,,Affirmative,"If it could win the Belmont next , it could become the 12th horse in the history of thoroughbred hoofbeats to win that Triple Crown . "
+by,ride.01,"California Chrome , ridden by",,Affirmative,"California Chrome , ridden by Victor Espinoza , crosses the finish line to win the Preakness Stakes at Pimlico Race Course Saturday . "
+"California Chrome , ridden by",cross.02,the finish line,,Affirmative,"California Chrome , ridden by Victor Espinoza , crosses the finish line to win the Preakness Stakes at Pimlico Race Course Saturday . "
+"California Chrome , ridden by",win.01,the Preakness Stakes at,,Affirmative,"California Chrome , ridden by Victor Espinoza , crosses the finish line to win the Preakness Stakes at Pimlico Race Course Saturday . "
+racing officials,notify.01,I 'll Have,,Affirmative,"Back in 2012 , Belmont 's racing officials had notified I 'll Have Another 's handlers that a nasal strip would be prohibited . "
+I,have.03,handlers,,Affirmative,"Back in 2012 , Belmont 's racing officials had notified I 'll Have Another 's handlers that a nasal strip would be prohibited . "
+decision makers,have.03,the final say,,Affirmative,"It is up to each organization 's discretion whether to permit such a thing , so Belmont 's decision makers , along with those from the New York Racing Association , had the final say . "
+I,have.03,Another was withdrawn on,,Affirmative,"It became moot when I 'll Have Another was withdrawn on the eve of the Belmont , unable to go for another due to a sore tendon . "
+the nose thing,rear.01,its ugly head,,Affirmative,"This weekend , the nose thing reared its ugly head again . "
+"trainer ,",point.02,that there was,,Affirmative,"Chrome 's trainer , 77 - year - old Art Sherman , pointed out Sunday that there was a distinct possibility the horse 's owners might yank their fast horse right out of the race . "
+owners,yank.01,their fast horse,right out of,Affirmative,"Chrome 's trainer , 77 - year - old Art Sherman , pointed out Sunday that there was a distinct possibility the horse 's owners might yank their fast horse right out of the race . "
+his partner Martin,say.01,strip had been,,Affirmative,"He said a nasal strip had been the idea of Perry Martin , the horse 's co-owner , who has been thoroughly pleased with the thoroughbred 's success since strapping it onto his schnoz . "
+they,say.01,", Sherman suggested",,Affirmative,"He might not run if they say you ca n't run with a nasal strip , Sherman suggested . "
+He,attend.01,running of,,Affirmative,He did n't even attend Saturday 's running of the Preakness . 
+"other owner ,",indicate.01,Martin was still doing,,Affirmative,"The horse 's other owner , Steve Coburn , a walrus - mustached Wilford Brimley lookalike in a cowboy hat , indicated his partner Martin was still doing a burn over what he deemed to be inhospitable treatment at Churchill Downs during the Kentucky Derby . "
+partner Martin,do.02,a burn over,,Affirmative,"The horse 's other owner , Steve Coburn , a walrus - mustached Wilford Brimley lookalike in a cowboy hat , indicated his partner Martin was still doing a burn over what he deemed to be inhospitable treatment at Churchill Downs during the Kentucky Derby . "
+he,deem.01,to be,,Affirmative,"The horse 's other owner , Steve Coburn , a walrus - mustached Wilford Brimley lookalike in a cowboy hat , indicated his partner Martin was still doing a burn over what he deemed to be inhospitable treatment at Churchill Downs during the Kentucky Derby . "
+the downside of,rear.01,its ugly head,,Affirmative,"It was n't long after California Chrome 's impressive victory ( by a length and a half ) in Maryland that the downside of the Louisville experience , two weeks before , reared its ugly head . "
+we,win.01,( the Kentucky Derby ),,Affirmative,"Even though we won ( the Kentucky Derby ) , it was a bad day for my partner and his family , Coburn blurted out on Martin 's behalf . "
+"Ron Turcotte ,",complain.01,about,,Affirmative,"By coincidence , Ron Turcotte , the jockey of the great Secretariat during the 1970 s , also is in a wheelchair and complained about Churchill Downs ' indifference to his situation . "
+Turcotte,imply.01,that he would never go to,,Affirmative,Turcotte implied that he would never go to a Kentucky Derby again . 
+Sherman,say.01,wear them,,Affirmative,"Sherman said of nasal strips , A lot of horses all over California wear them all the time ... "
+A lot of horses,wear.01,them,,Affirmative,"Sherman said of nasal strips , A lot of horses all over California wear them all the time ... "
+you,use.01,them,,Affirmative,Maryland let s you use them . 
+trotters and pacers pulling sulkies,pull.01,sulkies,,Affirmative,"Furthermore , harness - race horses -- trotters and pacers pulling sulkies -- apparently do have permission in New York to wear nasal strips as well . "
+race horses -- trotters and pacers pulling sulkies,have.03,permission in,,Affirmative,"Furthermore , harness - race horses -- trotters and pacers pulling sulkies -- apparently do have permission in New York to wear nasal strips as well . "
+they,say.01,OK,,Affirmative,"Nope , they say OK . "
+"the 123,469 spectators at Pimlico",see.01,running of,,Affirmative,"I was n't among the 123,469 spectators at Pimlico who saw Saturday 's running of the Preakness . "
+they,enter.01,the track,,Affirmative,"I did , 3,000 miles away , go to Santa Anita , basically the home track of California Chrome , to watch the race alongside thousands of his fans , many of whom wore a free purple or green California Chrome cap they were given as they entered the track . "
+I,see.01,no human,,Affirmative,"It was a sunny , smog - free day under a beautiful blue sky , so I saw no human in a face mask . "
+he,get.01,to wear,,Affirmative,"If the West Coast 's favorite horse did n't get to run in New York because of what he did n't get to wear , a lot of these people would have had a new reason to hold their noses . "
+a lot of,have.03,a new reason,,Affirmative,"If the West Coast 's favorite horse did n't get to run in New York because of what he did n't get to wear , a lot of these people would have had a new reason to hold their noses . "
+They,have.03,"all been saying ,",,Affirmative,"They 'd have all been saying , This stinks . "
+all,say.01,This stinks,,Affirmative,"They 'd have all been saying , This stinks . "
+Julian Zelizer,say.01,it 's not crazy,,Affirmative,Julian Zelizer says it 's not crazy to think Mitt Romney would be able to end up at the top of the GOP ticket in 2016 . 
+Roxanne Jones and,cheer.02,from,,Affirmative,Roxanne Jones and her girlfriends would cheer from the sidelines for the boys playing Little League . 
+the boys playing,play.01,Little League,,Affirmative,Roxanne Jones and her girlfriends would cheer from the sidelines for the boys playing Little League . 
+they,want.01,to play,,Affirmative,But they really wanted to play . 
+Mo'ne Davis,show.01,the world,,Affirmative,Now Mo'ne Davis shows the world that girls really can throw . 
+Peter Bergen and,say.01,It apparently has worked for France,,Affirmative,"It apparently has worked for France , say Peter Bergen and Emily Schneider , but carries uncomfortable risks . "
+Peter Bergen and,carry.01,uncomfortable risks,,Affirmative,"It apparently has worked for France , say Peter Bergen and Emily Schneider , but carries uncomfortable risks . "
+nations,face.01,grim options,,Affirmative,"When it comes to kidnappings , nations face grim options . "
+John Bare,say.01,Challenge signals,,Affirmative,John Bare says the Ice Bucket Challenge signals a new kind of activism and peer - to - peer fund - raising . 
+Bucket Challenge,signal.01,a new kind of,,Affirmative,John Bare says the Ice Bucket Challenge signals a new kind of activism and peer - to - peer fund - raising . 
+James Dawes,say.01,calling,,Affirmative,James Dawes says calling ISIS evil over and over again could very well make it harder to stop them . 
+James Dawes,call.01,ISIS evil,,Affirmative,James Dawes says calling ISIS evil over and over again could very well make it harder to stop them . 
+critics,question.01,impartiality,,Affirmative,"As the inquiry into the shooting of Michael Brown continues , critics question the prosecutor 's impartiality . "
+Newt Gingrich,say.01,it 's troubling,,Affirmative,Newt Gingrich says it 's troubling that a vicious group like ISIS can recruit so many young men from Britain . 
+a vicious group like ISIS,recruit.01,many young men,,Affirmative,Newt Gingrich says it 's troubling that a vicious group like ISIS can recruit so many young men from Britain . 
+David Weinberger,say.01,have been vested with,,Affirmative,"David Weinberger says Twitter and other social networks have been vested with a responsibility , and a trust , they did not ask for . "
+they,ask.02,for,,Affirmative,"David Weinberger says Twitter and other social networks have been vested with a responsibility , and a trust , they did not ask for . "
+John Inazu,say.01,is meant,,Affirmative,John Inazu says the slogan We are Ferguson is meant to express empathy and solidarity . 
+the slogan,express.01,empathy and solidarity,,Affirmative,John Inazu says the slogan We are Ferguson is meant to express empathy and solidarity . 
+we all,make.01,them,,Affirmative,But we all made them . 
+Gen. Mark Hertling,say.01,he learned,,Affirmative,Retired Lt. Gen. Mark Hertling says he learned that the territory ISIS wants to control is amazingly complex . 
+he,learn.01,is,,Affirmative,Retired Lt. Gen. Mark Hertling says he learned that the territory ISIS wants to control is amazingly complex . 
+ISIS,want.01,to control,,Affirmative,Retired Lt. Gen. Mark Hertling says he learned that the territory ISIS wants to control is amazingly complex . 
+ISIS,control.01,the territory,,Affirmative,Retired Lt. Gen. Mark Hertling says he learned that the territory ISIS wants to control is amazingly complex . 
+Cerue Garlo,say.01,Liberia is desperate for help amid,,Affirmative,Cerue Garlo says Liberia is desperate for help amid a Ebola outbreak that has touched every aspect of life . 
+a Ebola outbreak,touch.01,every aspect of life,,Affirmative,Cerue Garlo says Liberia is desperate for help amid a Ebola outbreak that has touched every aspect of life . 
+Eric Liu,say.01,"may win now , but",,Affirmative,"Eric Liu says Republicans who want to restrict voting may win now , but the party will suffer in the long term . "
+Republicans,want.01,to restrict voting,,Affirmative,"Eric Liu says Republicans who want to restrict voting may win now , but the party will suffer in the long term . "
+Republicans,restrict.01,voting,,Affirmative,"Eric Liu says Republicans who want to restrict voting may win now , but the party will suffer in the long term . "
+researchers,agree.01,Wealth decreases,,Affirmative,"Jay Parini : Jesus , Pope and now researchers agree : Wealth decreases our ability to sympathize with the poor . "
+Wealth,decrease.01,our ability,,Affirmative,"Jay Parini : Jesus , Pope and now researchers agree : Wealth decreases our ability to sympathize with the poor . "
+Judy Melinek,offer.01,perspective on,,Affirmative,Judy Melinek offers a medical examiner 's perspective on what happens when police kill people like Michael Brown . 
+police,kill.01,people like,,Affirmative,Judy Melinek offers a medical examiner 's perspective on what happens when police kill people like Michael Brown . 
+Kara Dansky,write.01,Now it 's,,Affirmative,"Now it 's armored personnel carriers and flash - bang grenades , writes Kara Dansky . "
+Ruben Navarrette,note.01,students will outnumber,,Affirmative,"Ruben Navarrette notes that this fall , minority students will outnumber white students at America 's public schools . "
+Humans,extinction.01,four marine mammal species in,,Affirmative,Humans have driven to extinction four marine mammal species in modern times . 
+you,read.01,this,,Affirmative,"As you read this , we are on the brink of losing the fifth , write three experts . "

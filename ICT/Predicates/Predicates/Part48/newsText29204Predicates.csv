@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A senior House Democrat and,say.01,he does not support,,Affirmative,A senior House Democrat and civil rights leader said Monday he does not support Michael Boggs ' nomination to a U.S. district court in Georgia . 
+a fellow African American Democrat,support.01,nomination to,,Affirmative,A senior House Democrat and civil rights leader said Monday he does not support Michael Boggs ' nomination to a U.S. district court in Georgia . 
+Rep. John Lewis -LRB- D-Ga . -RRB-,lobby.01,for Boggs,,Affirmative,", dispelled reports that he was lobbying for Boggs , saying that President Barack Obama 's nominee stands in direct opposition to Lewis 's civil rights work . "
+Michael Boggs ' nomination,encounter.01,significant trouble,,Affirmative,"The Boggs nomination is encountering significant trouble after several Senate Democrats , including Majority Leader Harry Reid , have openly questioned whether they could support him . "
+A senior House Democrat and civil rights leader,support.01,a fellow African American Democrat,,Affirmative,"The Boggs nomination is encountering significant trouble after several Senate Democrats , including Majority Leader Harry Reid , have openly questioned whether they could support him . "
+Michael Boggs ',gain.02,a conservative voting record on,,Affirmative,"They 're upset about Boggs ' tenure in the Georgia legislature , where he gained a conservative voting record on gay rights , abortion and support of the Confederate flag . "
+a House member,weigh.03,on,,Affirmative,It 's unusual for a House member to weigh in so publicly on a judicial nomination . 
+so publicly on a judicial nomination,seek.01,his counsel,,Affirmative,said they would seek his counsel before deciding how to proceed . 
+so publicly on a judicial nomination,decide.01,how to proceed,,Affirmative,said they would seek his counsel before deciding how to proceed . 
+"Lewis , a civil rights icon from Georgia",apporved.01,of,,Affirmative,indicated on CNN 's State of the Union on Sunday that Lewis apporved of Boggs ' nomination . 
+CNN 's `` State of the Union '',prompt.01,a furious reaction from,,Affirmative,"That prompted a furious reaction from Rep. David Scott , a fellow African American Democrat from Georgia , who took to Twitter on Monday to say that his colleague would be a turncoat if he supported Boggs . "
+a `` turncoat '' if he supported Boggs,support.01,Michael Boggs ',,Affirmative,"That prompted a furious reaction from Rep. David Scott , a fellow African American Democrat from Georgia , who took to Twitter on Monday to say that his colleague would be a turncoat if he supported Boggs . "
+"Lewis , a civil rights icon from Georgia",say.01,he was not advocating for Boggs,,Affirmative,Lewis said on Monday he was not advocating for Boggs in conversations with senators . 
+"Lewis , a civil rights icon from Georgia",advocate.01,for Boggs,,Affirmative,Lewis said on Monday he was not advocating for Boggs in conversations with senators . 
+"The Congressional Black Caucus ,",express.01,support,,Affirmative,"The Congressional Black Caucus , where Lewis is a prominent leader , expressed support last week for Reid 's comments opposing the nomination . "
+comments opposing,oppose.01,Michael Boggs ' nomination,,Affirmative,"The Congressional Black Caucus , where Lewis is a prominent leader , expressed support last week for Reid 's comments opposing the nomination . "

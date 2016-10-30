@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+lawyer,enter.01,guilty plea,,Affirmative,Whitaker 's lawyer enters a not guilty plea . 
+"his lawyer ,",enter.01,for Whitaker,,Affirmative,"There , his lawyer , Joshuah Peter , entered for Whitaker a not guilty plea on all 20 of his felony counts for shooting at a motor vehicle and armed criminal action . "
+spokesman Mike Mansur,tell.01,that Whitaker could face life in prison,NBC News,Affirmative,Jackson County Prosecutor 's office spokesman Mike Mansur told NBC News that Whitaker could face life in prison if convicted . 
+"Mohammed Whitaker , the 27-year-old Grandview resident arrested last month for allegedly shooting randomly at cars on metro highways",face.01,life,,Affirmative,Jackson County Prosecutor 's office spokesman Mike Mansur told NBC News that Whitaker could face life in prison if convicted . 
+express,write.01,written permission of,,Affirmative,"No part of this service may be reproduced in any form without the express written permission of Kansas City Pitch LLC , except that an individual may download and / or forward articles via email to a reasonable number of recipients for personal , non-commercial purposes . "
+an individual,download.01,articles via email,,Affirmative,"No part of this service may be reproduced in any form without the express written permission of Kansas City Pitch LLC , except that an individual may download and / or forward articles via email to a reasonable number of recipients for personal , non-commercial purposes . "
+All contents,©.01,"2012 SouthComm , Inc",,Affirmative,"All contents © 2012 SouthComm , Inc . "
+express,write.01,"written permission of SouthComm , Inc",,Affirmative,"No part of this service may be reproduced in any form without the express written permission of SouthComm , Inc . "
+an individual,download.01,articles,,Affirmative,"except that an individual may download and / or forward articles via email to a reasonable number of recipients for personal , non-commercial purposes . "

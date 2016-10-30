@@ -1,0 +1,67 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Colombian authorities,arrest.01,the unlicensed driver,,Affirmative,"Colombian authorities have arrested the unlicensed driver who fled his overcrowded bus after it burst into flames , burning to death 33 young children , according to an official . "
+the unlicensed driver,flee.01,his overcrowded bus,,Affirmative,"Colombian authorities have arrested the unlicensed driver who fled his overcrowded bus after it burst into flames , burning to death 33 young children , according to an official . "
+An evangelical church leader,charter.01,his overcrowded bus,,Affirmative,"An evangelical church leader who had chartered the bus was also arrested , prosecutor Luis Gonzalez told a press conference on Monday . "
+prosecutor Luis Gonzalez,tell.01,was also arrested,a press conference on Monday,Affirmative,"An evangelical church leader who had chartered the bus was also arrested , prosecutor Luis Gonzalez told a press conference on Monday . "
+An evangelical church leader who had chartered the bus,say.01,pair will be charged with,,Affirmative,"The pair will be charged with aggravated manslaughter , he said , as Colombians expressed horror over Sunday 's tragedy in the northern town of Fundacion that involved children aged three to 12 . "
+Colombians,express.01,horror,,Affirmative,"The pair will be charged with aggravated manslaughter , he said , as Colombians expressed horror over Sunday 's tragedy in the northern town of Fundacion that involved children aged three to 12 . "
+"The driver ,",lose.03,two of,,Affirmative,"The driver , who lost two of his own children in the fire , turned himself over to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+"The driver ,",turn.12,"The driver , who lost two of his own children in the fire",to police,Affirmative,"The driver , who lost two of his own children in the fire , turned himself over to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+families,seek.01,to hunt him down following,,Affirmative,"The driver , who lost two of his own children in the fire , turned himself over to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+families,hunt.01,"The driver , who lost two of his own children in the fire",,Affirmative,"The driver , who lost two of his own children in the fire , turned himself over to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+a witness,refuel.01,his overcrowded bus,,Affirmative,"The driver , who lost two of his own children in the fire , turned himself over to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+A spark,cause.01,the fire,,Affirmative,"A spark caused the fire , the prosecutor said . "
+The prosecutor 's,say.01,spark caused,,Affirmative,"A spark caused the fire , the prosecutor said . "
+an evangelical church member,charter.01,his overcrowded bus,,Affirmative,"The 56 - year - old driver , Jaime Gutierrez , was later taken into formal custody , as was Manuel Ibarra , an evangelical church member who chartered the bus . "
+Mayor Luz Stella Duran,say.01,"20 were hospitalized , most of them",,Affirmative,"Fundacion Mayor Luz Stella Duran said another 20 were hospitalized , most of them with second - or third - degree burns . "
+Residents of,race.01,to join firefighters,,Affirmative,"Residents of the town had raced to join firefighters to extinguish the raging blaze , but it was too late . "
+Residents of,join.01,firefighters,,Affirmative,"Residents of the town had raced to join firefighters to extinguish the raging blaze , but it was too late . "
+Residents of,extinguish.01,the raging blaze,,Affirmative,"Residents of the town had raced to join firefighters to extinguish the raging blaze , but it was too late . "
+Residents of the town,want.01,to get out,,Affirmative,"We wanted to get out a young girl who was holding out her arms by a window , but her skin was peeling off , witness Jose Guette , 48 , told AFP . "
+Residents of the town,get.01,a young girl,out,Affirmative,"We wanted to get out a young girl who was holding out her arms by a window , but her skin was peeling off , witness Jose Guette , 48 , told AFP . "
+a young girl,hold.03,her arms,,Affirmative,"We wanted to get out a young girl who was holding out her arms by a window , but her skin was peeling off , witness Jose Guette , 48 , told AFP . "
+Residents of the town,do.02,anything,,Affirmative,We could n't do anything but hold our heads and watch the children burn . 
+Residents of the town,hold.01,our heads,,Affirmative,We could n't do anything but hold our heads and watch the children burn . 
+Residents of the town,watch.01,children burn,,Affirmative,We could n't do anything but hold our heads and watch the children burn . 
+The mayor,declare.02,three days of mourning and,,Affirmative,The mayor has declared three days of mourning and banned alcohol consumption . 
+"President Juan Manuel Santos ,",say.01,investigation was under way,,Affirmative,"President Juan Manuel Santos , who rushed to the scene , said an investigation was under way , while many denounced the accident as an example of Colombia 's poor enforcement of road safety . "
+many,denounce.01,the driver 's irresponsibility,as,Affirmative,"President Juan Manuel Santos , who rushed to the scene , said an investigation was under way , while many denounced the accident as an example of Colombia 's poor enforcement of road safety . "
+many,forget.01,mourning for the death of these children in this tragedy,,Affirmative,"We will never forget them , the president said . "
+the president,say.01,We will never forget them,,Affirmative,"We will never forget them , the president said . "
+Crews,pull.01,small charred bodies,from,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified -- a task which could take days . 
+Crews,take.01,Crews,to,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified -- a task which could take days . 
+a task,take.01,three days of mourning,,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified -- a task which could take days . 
+"The driver , who lost two of his own children in the fire",give.08,"The driver , who lost two of his own children in the fire",to police,Affirmative,The driver gave himself up to police after townspeople hurled rocks at his home . 
+townspeople,hurl.01,rocks,at,Affirmative,The driver gave himself up to police after townspeople hurled rocks at his home . 
+office,say.01,driver had,,Affirmative,The prosecutor 's office said the driver had no license . 
+"The driver , who lost two of his own children in the fire",have.03,no license,,Affirmative,The prosecutor 's office said the driver had no license . 
+Minister Cecilia Alvarez,say.01,vehicle had lacked,,Affirmative,Transport Minister Cecilia Alvarez said the vehicle had lacked the authorization to provide services since 2012 . 
+the vehicle,lack.01,the authorization,,Affirmative,Transport Minister Cecilia Alvarez said the vehicle had lacked the authorization to provide services since 2012 . 
+an illegal vehicle,lack.01,transport insurance,,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+Transport Minister Cecilia Alvarez,tell.01,It is,RCN radio,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+Transport Minister Cecilia Alvarez,add.01,investigations are leaning toward,,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+"The driver , who lost two of his own children in the fire",use.01,contraband gasoline,to refuel,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+"The driver , who lost two of his own children in the fire",refuel.01,his overcrowded bus,,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+the minister,say.01,driver apparently used,,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+old girl,lose.03,my two brothers,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+old girl,tell.01,driver left,local media,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+"The driver , who lost two of his own children in the fire",leave.01,the bus,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+"The driver , who lost two of his own children in the fire",refuel.01,the bus,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+"The driver , who lost two of his own children in the fire",get.01,water,,Affirmative,It was then that the driver went to get water and then he left . 
+"The driver , who lost two of his own children in the fire",break.01,a window,,Affirmative,I broke a window and got my little sister out but I could n't save my two brothers . 
+"The driver , who lost two of his own children in the fire",get.01,my little sister,,Affirmative,I broke a window and got my little sister out but I could n't save my two brothers . 
+"The driver , who lost two of his own children in the fire",save.01,my two brothers,,Affirmative,I broke a window and got my little sister out but I could n't save my two brothers . 
+Juan Manuel Santos,seek.01,a second term,,Affirmative,"The tragedy became a political issue ahead of Sunday 's presidential election , in which Santos is seeking a second term . "
+candidate Clara Rojas,say.01,accident shows,,Affirmative,Leftist candidate Clara Rojas said the accident shows the country 's backwardness . 
+the driver 's irresponsibility,show.01,backwardness,,Affirmative,Leftist candidate Clara Rojas said the accident shows the country 's backwardness . 
+Leftist candidate Clara Rojas,say.01,It is also,,Affirmative,"It is also the lack of rigor and presence of the authorities , she said . "
+Colombians,vent.01,their fury,,Affirmative,"Colombians vented their fury on Twitter , one user with the handle @ manialolita calling it another tragedy foretold while @ ALCISERRATO said the state does not fulfill its duty . "
+manialolita calling it,call.01,their fury,another tragedy foretold,Affirmative,"Colombians vented their fury on Twitter , one user with the handle @ manialolita calling it another tragedy foretold while @ ALCISERRATO said the state does not fulfill its duty . "
+the state,fulfill.01,its duty,,Affirmative,"Colombians vented their fury on Twitter , one user with the handle @ manialolita calling it another tragedy foretold while @ ALCISERRATO said the state does not fulfill its duty . "
+Juan Manuel Santos,say.01,he had ordered,,Affirmative,Santos said he had ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating . 
+Juan Manuel Santos,order.01,national authorities,to intervene,Affirmative,Santos said he had ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating . 
+national authorities,intervene.01,in,,Affirmative,Santos said he had ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating . 
+national authorities,ensure.01,vehicles are not circulating,,Affirmative,Santos said he had ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating . 
+Juan Manuel Santos,say.01,government would do everything,,Affirmative,He said the government would do everything we can to ensure such regrettable accidents do not happen again . 
+the government,do.02,everything,,Affirmative,He said the government would do everything we can to ensure such regrettable accidents do not happen again . 
+the government,ensure.01,accidents do not happen again,,Affirmative,He said the government would do everything we can to ensure such regrettable accidents do not happen again . 

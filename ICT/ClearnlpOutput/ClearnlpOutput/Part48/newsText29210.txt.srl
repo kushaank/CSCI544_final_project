@@ -1,0 +1,35 @@
+1	SUNBURY	sunbury	NNP	p2=NN	0	root	_
+2	,	,	,	_	1	punct	_
+3	Pa	pa	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	7	punct	_
+2	 A	 a	NNP	p2=``	5	nn	_
+3	northeastern	northeastern	JJ	p2=NN	5	amod	_
+4	Pennsylvania	pennsylvania	NNP	_	5	nn	_
+5	judge	judge	NN	p2=NNP	7	nsubj	7:A0=PAG
+6	has	have	VBZ	_	7	aux	_
+7	ruled	rule	VBN	pb=rule.01	0	root	_
+8	a	a	DT	_	9	det	_
+9	woman	woman	NN	_	25	nsubj	16:A0=PAG;22:A0=PAG;25:A0=PAG;10:A1=PPT
+10	charged	charge	VBN	pb=charge.05	9	partmod	_
+11	with	with	IN	_	10	prep	10:A2=PRD
+12	her	her	PRP$	_	14	poss	_
+13	newlywed	newlywed	NN	p2=JJ	14	amod	_
+14	husband	husband	NN	_	11	pobj	_
+15	with	with	IN	_	10	prep	10:AM-MNR
+16	luring	lure	VBG	pb=lure.01	15	pcomp	_
+17	a	a	DT	_	18	det	_
+18	man	man	NN	_	16	dobj	16:A1=PPT
+19	through	through	IN	p2=RP	16	prep	16:AM-DIR
+20	Craigslist	craigslist	NNP	p2=NN	19	pobj	_
+21	and	and	CC	_	16	cc	_
+22	killing	kill	VBG	pb=kill.01	16	conj	_
+23	him	him	PRP	_	22	dobj	22:A1=PPT
+24	can	can	MD	_	25	aux	25:AM-MOD
+25	face	face	VB	pb=face.01	7	ccomp	7:A1=PPT
+26	the	the	DT	_	28	det	_
+27	death	death	NN	_	28	nn	_
+28	penalty	penalty	NN	_	25	dobj	25:A1
+29	.	.	.	_	7	punct	_
+

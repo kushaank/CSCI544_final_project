@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+District Attorney Thompson,announce.01,that he vacated,,Affirmative,Mr. Thompson announced May 6 that he vacated the convictions of Darryl Austin and Alveana Jenette for the Sept . 
+District Attorney Thompson,vacate.01,the convictions of,,Affirmative,Mr. Thompson announced May 6 that he vacated the convictions of Darryl Austin and Alveana Jenette for the Sept . 
+Attorney Thompson,vacate.01,the conviction of,,Affirmative,"District Attorney Thompson also vacated the conviction of Robert Hill for the shooting death of Donald Manboardes on June 10 , 1987 . "
+Separate judges,sentence.01,all three men,to,Affirmative,"Separate judges sentenced all three men to 18 years to life behind bars , but Mr. Austin , who had served 14 years , died in prison . "
+"Mr. Austin ,",serve.01,14 years,,Affirmative,"Separate judges sentenced all three men to 18 years to life behind bars , but Mr. Austin , who had served 14 years , died in prison . "
+Mr. Jenette,serve.01,20 years,,Affirmative,"Mr. Jenette was paroled in 2007 , after serving 20 years . "
+Mr. Hill,serve.01,27 years,,Affirmative,Mr. Hill had served 27 years before Brooklyn Supreme Court Judge Neil Firetog dismissed his sentence . 
+Judge Neil Firetog,dismiss.01,his sentence,,Affirmative,Mr. Hill had served 27 years before Brooklyn Supreme Court Judge Neil Firetog dismissed his sentence . 
+Judge Firetog,dismiss.01,sentences,,Affirmative,Judge Firetog also dismissed the Jenette and Austin sentences . 
+he,suffer.01,from,,Affirmative,The 53 - year - old Hill walks with a cane because he suffers from multiple sclerosis . 
+The false convictions,have.03,three things in common,,Affirmative,"The false convictions have three things in common - the same witnesses testified at all three trials and all of the cases were handled by Louis Scarcella , a retired New York City police detective , whose work now has been discredited . "
+the same witnesses,testify.01,three trials and,,Affirmative,"The false convictions have three things in common - the same witnesses testified at all three trials and all of the cases were handled by Louis Scarcella , a retired New York City police detective , whose work now has been discredited . "
+by,handle.01,all of,,Affirmative,"The false convictions have three things in common - the same witnesses testified at all three trials and all of the cases were handled by Louis Scarcella , a retired New York City police detective , whose work now has been discredited . "
+Mr. Scarcella,deny.01,any wrongdoing,,Affirmative,Mr. Scarcella has denied any wrongdoing . 
+a drug addict,get.01,her facts,,Affirmative,"Teresa Gomez , the trial witness in all three murders , was a drug addict who regularly got her facts wrong . "
+testimony from,undermine.01,the integrity of,,Affirmative,"Based on a comprehensive review of these cases , it is clear that testimony from the same problematic witness undermined the integrity of these convictions , and resulted in an unfair trial for each of these defendants . "
+We,dismiss.01,the charges in,,Affirmative,"We therefore have moved to vacate these convictions and dismiss the charges in the interest of justice , said Mr. Thompson , whose official title is Kings County District Attorney . "
+"Mr. Thompson ,",say.01,We therefore have moved to,,Affirmative,"We therefore have moved to vacate these convictions and dismiss the charges in the interest of justice , said Mr. Thompson , whose official title is Kings County District Attorney . "
+by,head.01,"Review Unit , headed by",,Affirmative,"The Kings County District Attorney 's Conviction Review Unit , headed by Harvard law professor Ronald S. Sullivan Jr . "
+The unit,investigate.01,"90 cases , including",,Affirmative,"The unit is investigating approximately 90 cases , including 50 to 57 cases investigated by Mr. Scarcella , according to some news reports . "
+by,investigate.01,57 cases investigated by,,Affirmative,"The unit is investigating approximately 90 cases , including 50 to 57 cases investigated by Mr. Scarcella , according to some news reports . "
+review unit,drop.01,murder charges,,Affirmative,"In April , the conviction review unit dropped murder charges against Jonathan Fleming who served 25 years for a crime he did not commit . "
+Jonathan Fleming,serve.01,25 years,,Affirmative,"In April , the conviction review unit dropped murder charges against Jonathan Fleming who served 25 years for a crime he did not commit . "
+he,commit.01,a crime,,Affirmative,"In April , the conviction review unit dropped murder charges against Jonathan Fleming who served 25 years for a crime he did not commit . "

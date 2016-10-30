@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"CONCEPCION , Tarlac --",apprehend.01,an elusive suspected drug pusher,,Affirmative,"CONCEPCION , Tarlac -- The Intelligence Unit of the Concepcion Police Station recently apprehended an elusive suspected drug pusher in a buy bust operation . "
+"Chief Inspector Rey Apolonio ,",identify.01,the suspect,as,Affirmative,"Chief Inspector Rey Apolonio , Concepcion police officer-in-charge , identified the suspect as Christian Marcelo , alias Muslim , 34 , and a resident of Sto . "
+Rey Apolonio,say.01,", was in",,Affirmative,"Apolonio said that Marcelo , who is in the target list of the Tarlac police , was in Barangay Sta . "
+a police asset,act.01,as,,Affirmative,"Rita , this town to deliver illegal drugs to a buyer when arrested by the operatives after a police asset who acted as a poseur - buyer was able to purchase 0.246 grams of shabu from the suspect for P500 . "
+"Rita ,",purchase.01,0.246 grams of shabu,from,Affirmative,"Rita , this town to deliver illegal drugs to a buyer when arrested by the operatives after a police asset who acted as a poseur - buyer was able to purchase 0.246 grams of shabu from the suspect for P500 . "
+Rey Apolonio,say.01,that Marcelo was surprised,,Affirmative,"During the buy bust operation , Apolonio said that Marcelo was surprised when operatives jumped on him as he was not able to leave the area . "
+"Marcelo , who is in the target list of the Tarlac police",leave.01,the area,,Affirmative,"During the buy bust operation , Apolonio said that Marcelo was surprised when operatives jumped on him as he was not able to leave the area . "
+Rey Apolonio,resist.01,arrest,,Affirmative,He did not resist arrest when the operatives read his rights . 
+the operatives,read.01,his rights,,Affirmative,He did not resist arrest when the operatives read his rights . 
+alias,ng.01,suspek,,Affirmative,Siguro kaya ang gamit na alias ng suspek ay Muslim pero Christian ang tunay na pangalan ay para iligaw ang mga operatiba . 
+pero Christian,ang.01,tunay,,Affirmative,Siguro kaya ang gamit na alias ng suspek ay Muslim pero Christian ang tunay na pangalan ay para iligaw ang mga operatiba . 
+Rey Apolonio,say.01,ng mga,,Affirmative,"Matagal na naming gustong mahuli itong si Muslim para hindi na madami pang madamay sa ginagawa niyang paninira ng kinabukasan ng mga kabataan , Apolonio said . "
+Mayor Andy Lacson,congratulate.01,the Concepcion police for,,Affirmative,Mayor Andy Lacson congratulated the Concepcion police for the arrest of Marcelo as the local chief executive has a clear and strong campaign against illegal drugs in his town . 
+the local chief executive,have.03,campaign against,,Affirmative,Mayor Andy Lacson congratulated the Concepcion police for the arrest of Marcelo as the local chief executive has a clear and strong campaign against illegal drugs in his town . 
+Sun.Star website,welcome.01,friendly debate,,Affirmative,"DISCLAIMER : Sun.Star website welcomes friendly debate , but comments posted on this site do not necessary reflect the views of the Sun.Star management and its affiliates . "
+comments posted on,do.02,necessary reflect,,Affirmative,"DISCLAIMER : Sun.Star website welcomes friendly debate , but comments posted on this site do not necessary reflect the views of the Sun.Star management and its affiliates . "
+Sun.Star,reserve.01,the right,,Affirmative,"Sun.Star reserves the right to delete , reproduce or modify comments posted here without notice . "

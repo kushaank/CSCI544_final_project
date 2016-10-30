@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The University of,seek.01,to sell,,Affirmative,"The University of South Carolina is seeking to sell a former rice plantation , including a house built in 1825 and the surrounding woodland and wetlands that the university has owned for three decades . "
+The University of,sell.01,"a former rice plantation , including",,Affirmative,"The University of South Carolina is seeking to sell a former rice plantation , including a house built in 1825 and the surrounding woodland and wetlands that the university has owned for three decades . "
+The University of South Carolina,own.01,a house built in 1825,,Affirmative,"The University of South Carolina is seeking to sell a former rice plantation , including a house built in 1825 and the surrounding woodland and wetlands that the university has owned for three decades . "
+The University of South Carolina,post.01,a notice,,Affirmative,"The university has posted a notice that it is accepting sealed bids for the sale of The Wedge , a historic plantation , comprising about 1,500 acres on the South Santee River in Charleston and Georgetown Counties . "
+The University of South Carolina,accept.01,sealed bids for,,Affirmative,"The university has posted a notice that it is accepting sealed bids for the sale of The Wedge , a historic plantation , comprising about 1,500 acres on the South Santee River in Charleston and Georgetown Counties . "
+by USC,purchase.01,a historic plantation,,Affirmative,"The plantation was purchased by USC during the administration of former President James Holderman , and served for a few years as the home of a biological research institute . "
+a historic plantation,serve.02,as,,Affirmative,"The plantation was purchased by USC during the administration of former President James Holderman , and served for a few years as the home of a biological research institute . "
+The Wedge,lose.02,any institutional purpose,,Affirmative,"By 1996 , there was no longer federal research support for the institute , and The Wedge lost any institutional purpose . "
+The University of South Carolina,lease.02,The University of South Carolina,to,Affirmative,The university leased it for 10 years to a private group for recreational purposes . 
+USC,seek.01,new tenants,,Affirmative,"In 2007 , when that lease expired , USC sought new tenants who could afford to keep up the 8,600-square-foot historic home . "
+new tenants,afford.01,to keep up,,Affirmative,"In 2007 , when that lease expired , USC sought new tenants who could afford to keep up the 8,600-square-foot historic home . "
+new tenants,keep.02,"the 8,600-square-foot historic home",,Affirmative,"In 2007 , when that lease expired , USC sought new tenants who could afford to keep up the 8,600-square-foot historic home . "
+The decision,ignite.01,a fight over,,Affirmative,The decision to sell could ignite a fight over the plantation 's future use . 
+conservationists,oppose.01,development of,,Affirmative,"But conservationists likely would oppose development of the unspoiled property surrounded by 100,000 acres of protected wetlands . "
+planter William Lucas,invent.01,a rice thresher,,Affirmative,"In 1825 , planter William Lucas invented a rice thresher to mechanically separate rice grain from its hulls . "
+planter William Lucas,build.01,style home near,,Affirmative,Lucas built the Greek Revival - style home near the docks where his boats sailed for Charleston . 
+"Dr. Richard B. Dominick ,",spend.02,much of,,Affirmative,"The Carolina rice culture long ago disappeared , and The Wedge was sold in 1966 to Dr. Richard B. Dominick , who had lived in New York but spent much of his youth in the S.C. Lowcountry . "
+Richard B. Dominick,study.01,moths,,Affirmative,Dominick 's studied moths and built a laboratory near the plantation house . 
+Richard B. Dominick,build.01,a laboratory,,Affirmative,Dominick 's studied moths and built a laboratory near the plantation house . 
+widow,sell.01,"the unspoiled property surrounded by 100,000 acres of protected wetlands",to,Affirmative,"Dominick 's widow sold the property to the Carolina Research and Development Foundation for less than its value because she believed in the mission proposed for it by the university , said son Oliver Dominick . "
+Dominick 's widow,believe.01,in,,Affirmative,"Dominick 's widow sold the property to the Carolina Research and Development Foundation for less than its value because she believed in the mission proposed for it by the university , said son Oliver Dominick . "
+by,propose.01,the mission proposed for it,,Affirmative,"Dominick 's widow sold the property to the Carolina Research and Development Foundation for less than its value because she believed in the mission proposed for it by the university , said son Oliver Dominick . "
+son Oliver Dominick,say.01,widow sold,,Affirmative,"Dominick 's widow sold the property to the Carolina Research and Development Foundation for less than its value because she believed in the mission proposed for it by the university , said son Oliver Dominick . "
+Several rooms,feature.01,tall fireplaces,,Affirmative,Several rooms feature tall fireplaces where servants once prepared meals . 
+servants,prepare.01,meals,,Affirmative,Several rooms feature tall fireplaces where servants once prepared meals . 
+the plantation house,have.03,"10 bedrooms ,",,Affirmative,"It has 10 bedrooms , a library , kitchen , and dining and living rooms . "

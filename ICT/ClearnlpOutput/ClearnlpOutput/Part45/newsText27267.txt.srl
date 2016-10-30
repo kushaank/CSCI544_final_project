@@ -1,0 +1,76 @@
+1	Message	message	NN	_	5	nsubj	5:A0=PAG
+2	in	in	IN	_	1	prep	_
+3	a	a	DT	_	4	det	_
+4	bottle	bottle	NN	_	2	pobj	_
+5	found	find	VBD	p2=VBN|pb=find.01	0	root	_
+6	eight	#crd#	CD	_	7	num	_
+7	years	year	NNS	_	8	npadvmod	_
+8	later	later	RB	p2=RBR	5	advmod	5:AM-TMP
+9	in	in	IN	p2=RB	8	prep	_
+10	Minn	minn	NNP	_	9	pobj	_
+11	.	.	.	_	5	punct	_
+
+1	By	by	IN	p2=NNP	29	prep	29:AM-MNR
+2	Forum	forum	NNP	_	4	nn	_
+3	News	news	NNP	_	4	nn	_
+4	Service	service	NNP	p2=NN	1	pobj	_
+5	on	on	IN	_	4	prep	_
+6	May	may	NNP	_	5	pobj	_
+7	19	0	CD	_	6	num	_
+8	,	,	,	_	6	punct	_
+9	2014	0	CD	_	6	num	_
+10	at	at	IN	p2=CC	29	prep	_
+11	7:20	0	CD	_	12	num	_
+12	a.m.	a.m.	NN	p2=RB	10	pobj	_
+13	After	after	IN	_	29	prep	29:AM-TMP
+14	plucking	pluck	VBG	pb=pluck.01	13	pcomp	_
+15	what	what	WP	_	16	nsubj	16:R-A0
+16	looked	look	VBD	pb=look.01	14	ccomp	14:A1=PPT
+17	like	like	IN	_	16	prep	16:A1=GOL
+18	a	a	DT	_	22	det	_
+19	discarded	discard	VBN	p2=JJ|pb=discard.01	22	amod	_
+20	olive	olive	NN	p2=JJ	21	nn	_
+21	oil	oil	NN	_	22	nn	_
+22	bottle	bottle	NN	p2=VBP	17	pobj	19:A1=PPT
+23	out	out	IN	_	16	prep	_
+24	of	of	IN	_	23	prep	_
+25	the	the	DT	_	26	det	_
+26	mud	mud	NN	_	24	pobj	_
+27	,	,	,	_	29	punct	_
+28	Olthoff	olthoff	NNP	_	29	nsubj	29:A0=PAG
+29	realized	realize	VBD	pb=realize.01	0	root	_
+30	that	that	IN	_	33	complm	_
+31	his	his	PRP$	_	32	poss	_
+32	find	find	NN	_	33	nsubj	33:A1=PPT
+33	was	be	VBD	pb=be.01	29	ccomp	_
+34	not	not	RB	_	33	neg	33:AM-NEG
+35	litter	litter	NN	p2=JJ	33	attr	33:A2=PRD
+36	,	,	,	_	33	punct	_
+37	but	but	CC	_	33	cc	_
+38	a	a	DT	_	39	det	_
+39	message	message	NN	_	29	dobj	29:A1=PPT
+40	in	in	IN	_	39	prep	_
+41	a	a	DT	_	42	det	_
+42	bottle	bottle	NN	_	40	pobj	_
+43	.	.	.	_	29	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

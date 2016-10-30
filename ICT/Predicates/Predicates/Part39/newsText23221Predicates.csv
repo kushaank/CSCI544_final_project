@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Civil Rights icon Rep. John Lewis,swing.02,the scythe,,Affirmative,John Lewis swings the scythe . 
+my colleague,write.01,about,,Affirmative,"Last week my colleague Jamelle Bouie wrote about the case of Michael Boggs , a judge who had targeted  abortion rights ,   voted  to keep the Confederate battle emblem on the state flag , and  defended  discrimination against same - sex couples and looked to be confirmable anyway . "
+a judge,target.01, abortion rights,,Affirmative,"Last week my colleague Jamelle Bouie wrote about the case of Michael Boggs , a judge who had targeted  abortion rights ,   voted  to keep the Confederate battle emblem on the state flag , and  defended  discrimination against same - sex couples and looked to be confirmable anyway . "
+and ,defend.01, discrimination,,Affirmative,"Last week my colleague Jamelle Bouie wrote about the case of Michael Boggs , a judge who had targeted  abortion rights ,   voted  to keep the Confederate battle emblem on the state flag , and  defended  discrimination against same - sex couples and looked to be confirmable anyway . "
+and ,look.04,to be confirmable anyway,,Affirmative,"Last week my colleague Jamelle Bouie wrote about the case of Michael Boggs , a judge who had targeted  abortion rights ,   voted  to keep the Confederate battle emblem on the state flag , and  defended  discrimination against same - sex couples and looked to be confirmable anyway . "
+Both of,back.01,his bid,,Affirmative,Both of Boggs ' Georgia senators backed his bid ; the White House backed it as a status quo peace offering . 
+the White House,back.01,the White House,,Affirmative,Both of Boggs ' Georgia senators backed his bid ; the White House backed it as a status quo peace offering . 
+Civil Rights icon Rep. John Lewis,support.01,the confirmation of,,Affirmative,"Based on the evidence revealed during this hearing , I do not support the confirmation of Michael Boggs to the federal bench , said Lewis . "
+Civil Rights icon Rep. John Lewis,say.01,", I do not support",,Affirmative,"Based on the evidence revealed during this hearing , I do not support the confirmation of Michael Boggs to the federal bench , said Lewis . "
+The testimony,suggest.01,Boggs may allow,,Affirmative,The testimony suggests Boggs may allow his personal political leanings to influence his impartiality on the bench . 
+"Michael Boggs , a judge who had",allow.01,leanings to influence,,Affirmative,The testimony suggests Boggs may allow his personal political leanings to influence his impartiality on the bench . 
+his personal political leanings,influence.01,his impartiality on,,Affirmative,The testimony suggests Boggs may allow his personal political leanings to influence his impartiality on the bench . 
+by,force.02,His hand,,Affirmative,"His hand was forced by a Democratic blunder , committed by California Sen. Dianne Feinstein . "
+by,commit.01,"a Democratic blunder , committed by",,Affirmative,"His hand was forced by a Democratic blunder , committed by California Sen. Dianne Feinstein . "
+"campaign , echoed in",get.02,Boggs condemnations,,Affirmative,"The CBC 's campaign , echoed in the liberal press , had gotten Boggs condemnations for high - ranking Democrats all the way up Harry Reid and Dick Durbin . "
+the centrist Democrat running for Senate,run.02,for Senate,,Affirmative,"Michelle Nunn , the centrist Democrat running for Senate in Georgia , even said she shared some of the concerns of the progressives . "
+"Michelle Nunn ,",say.01,she shared some of,,Affirmative,"Michelle Nunn , the centrist Democrat running for Senate in Georgia , even said she shared some of the concerns of the progressives . "
+Michelle Nunn,share.01,some of,,Affirmative,"Michelle Nunn , the centrist Democrat running for Senate in Georgia , even said she shared some of the concerns of the progressives . "
+Feinstein,insist.01,that Lewis had endorsed,,Affirmative,"On CNN 's Sunday show , Feinstein insisted that Lewis had endorsed the Boggs pick as part of a ticket of nominees . "
+Civil Rights icon Rep. John Lewis,endorse.01,the Boggs pick,,Affirmative,"On CNN 's Sunday show , Feinstein insisted that Lewis had endorsed the Boggs pick as part of a ticket of nominees . "
+CNN 's Sunday show,lead.03,"Rep. David Scott ,",,Affirmative,"That led Rep. David Scott , another Georgia Democrat from a safe seat , to say that Lewis might be a turncoat who has betrayed African Americans , women and gays . "
+"Rep. David Scott ,",say.01,that Lewis might be,,Affirmative,"That led Rep. David Scott , another Georgia Democrat from a safe seat , to say that Lewis might be a turncoat who has betrayed African Americans , women and gays . "
+a turncoat,betray.01,"African Americans , women and gays",,Affirmative,"That led Rep. David Scott , another Georgia Democrat from a safe seat , to say that Lewis might be a turncoat who has betrayed African Americans , women and gays . "
+CNN 's Sunday show,break.01,"silence ,",,Affirmative,"And that broke Lewis 's silence , which was the most Boggs foes could do in a Senate with only one black Democratic member . "
+Boggs foes,do.02,with,,Affirmative,"And that broke Lewis 's silence , which was the most Boggs foes could do in a Senate with only one black Democratic member . "
+"Sen. Cory Booker ,",say.01,nothing about Boggs,,Affirmative,"* And Sen. Cory Booker , who is hardly ever quiet , has said nothing about Boggs . "

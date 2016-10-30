@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A local student,take.01,her studies,,Affirmative,A local student will be taking her studies outside of the classroom this summer . 
+by,choose.01,17 students chosen by,,Affirmative,"Tierra Range , a senior at Centenary , is one of only 17 students chosen by the American Chemical Society International Research experience for undergraduates . "
+The organization,award.01,A local student,with,Affirmative,"The organization awarded her with a $ 14,000 scholarship to study abroad . "
+A local student,have.03,"hour layover in Tokyo ,",,Affirmative,"She had a 5 hour layover in Tokyo , Japan where she had the opportunity to meet some locals and check out a McDonald's . "
+A local student,have.03,the opportunity,,Affirmative,"She had a 5 hour layover in Tokyo , Japan where she had the opportunity to meet some locals and check out a McDonald's . "
+A local student,meet.01,some locals,,Affirmative,"She had a 5 hour layover in Tokyo , Japan where she had the opportunity to meet some locals and check out a McDonald's . "
+A local student,check.05,a McDonald's,,Affirmative,"She had a 5 hour layover in Tokyo , Japan where she had the opportunity to meet some locals and check out a McDonald's . "
+pattern change,bring.01,some rain and,us,Affirmative, A late week weather pattern change may bring us some rain and slightly cooler conditions . 
+pattern change,bring.01,some rain and,us,Affirmative, A late week weather pattern change may bring us some rain and slightly cooler conditions . 
+Clint Richardson and,plead.02,guilty to,,Affirmative,"Clint Richardson and Jason Vaughan will plead guilty to prostitution charges , trading testimony for dropped felony charges , the promise of no jail time , and the possibility of expungement . "
+"prostitution charges , trading testimony for",trade.01,testimony for,,Affirmative,"Clint Richardson and Jason Vaughan will plead guilty to prostitution charges , trading testimony for dropped felony charges , the promise of no jail time , and the possibility of expungement . "
+ADA Dale Cox,call.01,Clint Richardson and Jason Vaughan,the least culpable of,Affirmative,ADA Dale Cox calls them the least culpable of the defendants . 
+Clint Richardson and,plead.02,guilty to,,Affirmative,"Clint Richardson and Jason Vaughan will plead guilty to prostitution charges , trading testimony for dropped felony charges , the promise of no jail time , and the possibility of expungement . "
+"prostitution charges , trading testimony for",trade.01,testimony for,,Affirmative,"Clint Richardson and Jason Vaughan will plead guilty to prostitution charges , trading testimony for dropped felony charges , the promise of no jail time , and the possibility of expungement . "
+ADA Dale Cox,call.01,Clint Richardson and Jason Vaughan,the least culpable of,Affirmative,ADA Dale Cox calls them the least culpable of the defendants . 
+Department Detective Division,investigate.01,a battery,,Affirmative,The Natchitoches Police Department Detective Division is currently investigating a battery that occurred at Natchitoches Central High School in Natchitoches this afternoon . 
+Department Detective Division,investigate.01,a battery,,Affirmative,The Natchitoches Police Department Detective Division is currently investigating a battery that occurred at Natchitoches Central High School in Natchitoches this afternoon . 
+Shreveport Police,look.01,for,,Affirmative,Shreveport Police are looking for a man who allegedly barged into an east Shreveport home Friday morning in an attempted sexual assault . 
+a man,barge.01,into,,Affirmative,Shreveport Police are looking for a man who allegedly barged into an east Shreveport home Friday morning in an attempted sexual assault . 
+Shreveport Police,look.01,for,,Affirmative,Shreveport Police are looking for a man who allegedly barged into an east Shreveport home Friday morning in an attempted sexual assault . 
+a man,barge.01,into,,Affirmative,Shreveport Police are looking for a man who allegedly barged into an east Shreveport home Friday morning in an attempted sexual assault . 
+All content,copyright.01,Worldnow and KTBS,,Affirmative,All content © Copyright 2000 - 2014 Worldnow and KTBS . 

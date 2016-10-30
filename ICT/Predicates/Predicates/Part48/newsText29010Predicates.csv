@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Chef John Howie,have.03,something,,Affirmative,Chef John Howie has something to teach you . 
+Heâ€™s,win.01,"salmon cook - offs ,",,Affirmative,"Heâ€™s won the last two celebrity chef Copper River salmon cook - offs , most recently beating a pair of James Beard Award finalists for Best Chef Northwest . "
+"salmon cook - offs ,",beat.01,a pair of,,Affirmative,"Heâ€™s won the last two celebrity chef Copper River salmon cook - offs , most recently beating a pair of James Beard Award finalists for Best Chef Northwest . "
+Chef John Howie,have.03,nothing on it,,Affirmative,His winning salmon had nothing on it but black Hawaiian sea salt . 
+I,decide.01,I would keep it simple and,,Affirmative,â€œLast year I decided I would keep it simple and really show the salmon . 
+I,keep.02,$ Last year I decided I,,Affirmative,â€œLast year I decided I would keep it simple and really show the salmon . 
+I,show.01,the salmon,,Affirmative,â€œLast year I decided I would keep it simple and really show the salmon . 
+Chef John Howie,pan-seared.01,the fish,,Affirmative,"He pan-seared the fish , finished it in a small convection oven and served it with a warm English pea puree and a morel mushroom risotto cake . "
+Ethan Stowell of Staple & Fancy,cook.01,the salmon,,Affirmative,"Stowell cooked his salmon in a pan with peas , morels and ramps . "
+Jason Franey of Canlis,smoke.02,the salmon,,Affirmative,"Franey slightly smoked his salmon before grilling it , and served it with a crab dumpling . "
+Jason Franey of Canlis,grill.01,a pan,,Affirmative,"Franey slightly smoked his salmon before grilling it , and served it with a crab dumpling . "
+The judges,â€.01,kicker Steven Hauschka and ex-Mariners,,Affirmative,The judges â€ Seahawks kicker Steven Hauschka and ex-Mariners slugger Jay Buhner â€ liked Howieâ€™s preparation best . 
+The judges,slugger.01,â€ liked,,Affirmative,The judges â€ Seahawks kicker Steven Hauschka and ex-Mariners slugger Jay Buhner â€ liked Howieâ€™s preparation best . 
+Jay Buhner â€,like.01,Howieâ€™s preparation best,,Affirmative,The judges â€ Seahawks kicker Steven Hauschka and ex-Mariners slugger Jay Buhner â€ liked Howieâ€™s preparation best . 
+by,stage.01,an annual affair staged by,,Affirmative,"The chefs cook - off is an annual affair staged by Alaska Airlines , coinciding with the delivery of the first planeload of Copper River salmon from Cordova , Alaska . "
+by,carry.01,pound king carried by,,Affirmative,"At Fridayâ€™s contest , the first fish off the plane was a 48 - pound king carried by the pilots down a red carpet . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

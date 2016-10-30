@@ -1,0 +1,1079 @@
+1	Kacper	kacper	NNP	p2=RBR	6	nn	_
+2	Pempel	pempel	NNP	_	6	nn	_
+3	/	/	SYM	p2=,	6	punct	_
+4	ReutersThe	reutersthe	NNP	_	6	nn	_
+5	US	us	NNP	_	6	nn	_
+6	Army	army	NNP	_	10	poss	_
+7	's	's	POS	_	6	possessive	_
+8	173rd	173rd	NNP	_	10	nn	_
+9	Infantry	infantry	NNP	_	10	nn	_
+10	Brigade	brigade	NNP	_	11	nsubj	11:A0=PAG
+11	carrying	carry	VBG	pb=carry.03	0	root	_
+12	out	out	RP	_	11	prt	11:C-V
+13	a	a	DT	_	17	det	_
+14	NATO	nato	NNP	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	led	lead	VBN	_	17	amod	_
+17	exercise	exercise	NN	_	11	dobj	11:A1=PPT
+18	.	.	.	_	11	punct	_
+
+1	Artillery	artillery	JJ	p2=NNP	3	amod	_
+2	and tank	and tank	NNP	p2=NN	3	nn	_
+3	fire	fire	NN	_	4	nsubj	_
+4	reverberate	reverberate	VBP	p2=NN|pb=reverberate.01	0	root	_
+5	around	around	RB	p2=IN	4	advmod	4:AM-LOC
+6	a Baltic	a baltic	JJ	p2=NNP	7	amod	_
+7	airstrip	airstrip	NN	p2=NNS	4	dobj	4:A1=PPT;12:AM-LOC
+8	where	where	WRB	_	12	advmod	12:R-AM-LOC
+9	U.S.	u.s.	NNP	_	10	nn	_
+10	paratroopers	paratrooper	NNS	_	12	nsubj	12:A0=PAG
+11	are	be	VBP	_	12	aux	_
+12	fighting	fight	VBG	pb=fight.01	7	rcmod	_
+13	alongside	alongside	IN	p2=RB	12	prep	12:AM-LOC
+14	Lithuanian	lithuanian	JJ	_	15	amod	_
+15	soldiers	soldier	NNS	_	13	pobj	_
+16	.	.	.	_	4	punct	_
+
+1	The battle	the battle	EX	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	just	just	RB	_	4	advmod	_
+4	an exercise	an exercise	RB	p2=JJ	2	advmod	2:A2=PRD
+5	and it	and it	NNP	p2=CC	7	nsubj	7:A2=PPT
+6	only	only	RB	_	7	advmod	7:AM-ADV
+7	involves	involve	VBZ	pb=involve.01	2	ccomp	_
+8	150	0	CD	_	10	num	_
+9	U.S.	u.s.	NNP	_	10	nn	_
+10	soldiers 	soldiers 	NNP	p2=JJ	7	dobj	7:A1=PPT
+11	-	-	:	p2=HYPH	7	punct	_
+12	but	but	CC	_	7	cc	_
+13	the symbolism	the symbolism	NN	p2=NNP	14	nsubj	14:A1=PPT
+14	is	be	VBZ	pb=be.01	7	conj	_
+15	clear	clear	JJ	_	14	acomp	14:A2=PRD
+16	.	.	.	_	14	punct	_
+
+1	With	with	IN	_	15	prep	15:AM-MNR
+2	Eastern	eastern	JJ	p2=NNP	4	amod	_
+3	European	european	JJ	_	4	amod	_
+4	states	state	NNS	_	1	pobj	_
+5	nervous	nervous	JJ	_	4	amod	_
+6	about	about	IN	_	5	prep	_
+7	Russia	russia	NNP	_	6	pobj	_
+8	after	after	IN	_	10	mark	_
+9	it	it	PRP	_	10	nsubj	10:A0=PAG
+10	annexed	annex	VBD	pb=annex.01	15	advcl	15:AM-TMP
+11	Ukraine	ukraine	NNP	_	14	poss	_
+12	's	's	POS	_	11	possessive	_
+13	Crimea	crimea	NNP	p2=NN	14	nn	_
+14	region	region	NN	_	15	nsubj	15:A0
+15	and massed	and massed	VBD	p2=NNP|pb=and massed.01	0	root	_
+16	40,000	0	CD	_	17	num	_
+17	troops	troop	NNS	_	15	dobj	15:A1
+18	on Ukraine	on ukraine	NNP	p2=PRP	20	poss	_
+19	's	's	POS	_	18	possessive	_
+20	borders	border	NNS	_	17	appos	_
+21	,	,	,	_	15	punct	_
+22	the U.S	the u.s	RB	p2=ADD	15	advmod	_
+23	.	.	.	_	15	punct	_
+
+1	and NATO	and nato	NNP	p2=DT	2	nn	_
+2	allies	ally	NNS	_	3	nsubj	3:A0=PAG
+3	want	want	VBP	pb=want.01	0	root	_
+4	to show	to show	NNP	p2=NN	5	nn	_
+5	Moscow	moscow	NNP	_	3	dobj	_
+6	that	that	IN	p2=DT	12	complm	_
+7	former	former	JJ	_	9	amod	_
+8	Soviet	soviet	JJ	p2=NNP	9	amod	_
+9	republics	republic	NNS	_	12	nsubj	12:A1=PPT
+10	on the	on the	IN	p2=POS	9	prep	_
+11	Baltic	baltic	NNP	p2=JJ	10	pobj	_
+12	are	be	VBP	pb=be.01	3	ccomp	_
+13	under	under	IN	_	12	prep	12:A2=PRD
+14	the alliance	the alliance	NNP	p2=PRP	17	poss	_
+15	's	's	POS	_	14	possessive	_
+16	security	security	NN	_	17	nn	_
+17	umbrella	umbrella	NN	_	13	pobj	_
+18	.	.	.	_	3	punct	_
+
+1	"	"	``	_	3	punct	_
+2	We	we	PRP	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	20	ccomp	20:A1=PPT
+4	ready	ready	JJ	_	3	acomp	3:A2=PRD
+5	if	if	IN	_	8	mark	_
+6	something	something	NN	_	8	nsubjpass	8:A1
+7	were	be	VBD	_	8	auxpass	_
+8	to happen	to happen	VBN	p2=JJ|pb=to happen.01	3	advcl	3:AM-ADV
+9	,	,	,	_	3	punct	_
+10	but	but	CC	_	3	cc	_
+11	we	we	PRP	_	14	nsubj	14:A0=PPT
+12	are	be	VBP	_	14	aux	_
+13	not	not	RB	_	14	neg	14:AM-NEG
+14	looking	look	VBG	pb=look.01	3	conj	_
+15	to start	to start	RP	p2=IN	14	prt	14:C-V
+16	any	any	DT	_	17	det	_
+17	problems	problem	NNS	_	14	dobj	14:A1=GOL
+18	,	,	,	_	20	punct	_
+19	"	"	''	_	20	punct	_
+20	said	say	VBD	pb=say.01	0	root	_
+21	Sergeant	sergeant	NNP	p2=NN	23	nn	_
+22	James	james	NNP	_	23	nn	_
+23	Day	day	NNP	_	20	nsubj	20:A0
+24	,	,	,	_	23	punct	_
+25	from the	from the	NNP	p2=DT	29	nn	_
+26	U.S.	u.s.	NNP	_	29	nn	_
+27	173rd	173rd	NNP	p2=NN	29	nn	_
+28	Airborne	airborne	NNP	_	29	nn	_
+29	Brigade	brigade	NNP	_	23	appos	_
+30	,	,	,	_	23	punct	_
+31	during	during	IN	_	34	prep	34:AM-TMP
+32	war	war	NN	_	33	nn	_
+33	games	game	NNS	_	34	nsubj	34:A0
+34	on the	on the	VBP	p2=,|pb=on the.01	23	rcmod	_
+35	vast	vast	JJ	_	38	amod	_
+36	Gaiziunai	gaiziunai	NNP	p2=JJ	38	nn	_
+37	training	training	NN	_	38	nn	_
+38	ground	ground	NN	_	40	nn	_
+39	in western	in western	NNP	p2=IN	40	nn	_
+40	Lithuania	lithuania	NNP	_	34	dobj	34:A1
+41	.	.	.	_	20	punct	_
+
+1	That	that	DT	p2=IN	2	nsubj	2:A0=PAG
+2	chimes	chime	VBZ	p2=VBZ|pb=chime.01	0	root	_
+3	with	with	IN	_	2	prep	2:AM-MNR
+4	NATO	nato	NNP	_	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	current	current	JJ	_	7	amod	_
+7	posture	posture	NN	_	3	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	In an	in an	JJ	p2=IN	3	amod	_
+2	initial	initial	JJ	_	3	amod	_
+3	response	response	NN	_	4	nn	_
+4	to Russia	to russia	NNP	p2=NN	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	intervention	intervention	NN	_	7	nn	_
+7	in Ukraine	in ukraine	NNP	p2=NN	0	root	_
+8	,	,	,	_	7	punct	_
+9	the U.S	the u.s	NNP	p2=RB	7	appos	_
+10	.	.	.	_	6	punct	_
+
+1	has	have	VBZ	_	2	aux	_
+2	sent	send	VBN	pb=send.02	0	root	_
+3	600	0	CD	_	4	num	_
+4	soldiers	soldier	NNS	_	2	dobj	2:A1=PPT
+5	to the	to the	DT	p2=IN	10	det	_
+6	three	#crd#	CD	_	10	num	_
+7	Baltic	baltic	NNP	p2=JJ	10	nn	_
+8	countries 	countries 	NNP	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	Estonia	estonia	NNP	_	4	appos	_
+11	,	,	,	_	10	punct	_
+12	Latvia	latvia	NNP	_	15	nn	_
+13	and Lithuania 	and lithuania 	NNP	p2=,	15	hmod	_
+14	-	-	HYPH	_	15	hyph	_
+15	and Poland	and poland	NNP	_	17	nn	_
+16	to take	to take	NN	p2=NNP	17	nn	_
+17	part	part	NN	_	18	nsubj	18:A0
+18	in exercises	in exercises	VBZ	p2=NNP|pb=in exercises.01	10	rcmod	_
+19	to bolster	to bolster	NNP	p2=IN	20	nn	_
+20	NATO	nato	NNP	_	22	poss	_
+21	's	's	POS	_	20	possessive	_
+22	presence	presence	NN	_	18	dobj	18:A1
+23	in Eastern	in eastern	NNP	p2=IN	24	nn	_
+24	Europe	europe	NNP	_	22	appos	_
+25	.	.	.	_	2	punct	_
+
+1	But	but	CC	_	3	cc	3:AM-DIS
+2	the alliance	the alliance	EX	p2=NN	3	nsubj	3:A0=PAG
+3	has	have	VBZ	pb=have.03	0	root	_
+4	no	no	DT	_	6	det	_
+5	inclination	inclination	NN	_	6	nn	_
+6	to intervene	to intervene	NN	p2=NNP	3	dobj	3:A1=PPT
+7	militarily	militarily	RB	_	8	advmod	_
+8	in Ukraine	in ukraine	RB	p2=PRP	3	advmod	3:AM-TMP
+9	.	.	.	_	3	punct	_
+
+1	Longer	long	JJR	_	2	amod	_
+2	term	term	NN	_	22	npadvmod	_
+3	,	,	,	_	7	punct	_
+4	the crisis	the crisis	NN	p2=PRP$	7	nsubj	7:A0
+5	will	will	MD	_	7	aux	7:AM-MOD
+6	have	have	VB	_	7	aux	_
+7	a profound	a profound	VBN	p2=JJ|pb=a profound.01	0	root	_
+8	impact	impact	VB	pb=impact.01	22	ccomp	_
+9	on NATO	on nato	NNP	p2=NN	11	poss	_
+10	's	's	POS	p2=VBZ	9	possessive	_
+11	relations	relation	NNS	_	8	dobj	8:A1=PPT
+12	with	with	IN	_	11	prep	_
+13	Russia	russia	NNP	_	12	pobj	_
+14	,	,	,	_	13	punct	_
+15	its	its	PRP$	_	16	poss	_
+16	strategy	strategy	NN	_	7	dobj	7:A1;19:A1=PPT
+17	and how	and how	NNP	p2=VBP	16	appos	_
+18	it	it	PRP	_	19	nsubj	19:A0=PAG
+19	deploys	deploy	VBZ	p2=VBD|pb=deploy.01	16	rcmod	_
+20	,	,	,	_	22	punct	_
+21	trains	train	NNS	p2=VBZ	22	nsubj	22:A0
+22	and equips	and equips	VBZ	p2=CC|pb=and equips.01	0	root	_
+23	its	its	PRP$	_	24	poss	_
+24	forces	force	NNS	_	22	dobj	22:A1
+25	,	,	,	_	22	punct	_
+26	although	although	IN	_	28	mark	_
+27	Europe	europe	NNP	_	28	nsubj	28:A0=PAG
+28	has	have	VBZ	pb=have.03	22	advcl	22:AM-ADV
+29	no	no	DT	_	31	det	_
+30	wish	wish	NN	p2=JJ	31	nn	_
+31	to return	to return	NN	p2=NNP	28	dobj	28:A1=PPT
+32	to a	to a	NNP	p2=NN	37	nn	_
+33	Cold	cold	NNP	_	34	nn	_
+34	War	war	NNP	p2=JJ	36	hmod	_
+35	-	-	HYPH	_	36	hyph	_
+36	style	style	NN	_	37	nn	_
+37	confrontation	confrontation	NN	_	31	appos	_
+38	between	between	IN	_	37	prep	_
+39	huge	huge	JJ	_	40	amod	_
+40	armies	army	NNS	_	38	pobj	_
+41	.	.	.	_	22	punct	_
+
+1	The crisis	the crisis	NN	p2=DT	3	nsubj	3:A0=PAG;5:A0
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	compel	compel	VB	pb=compel.01	0	root	_
+4	the alliance	the alliance	RB	p2=NN	5	advmod	5:AM-MNR
+5	to refocus	to refocus	VB	p2=NNP|pb=to refocus.01	3	xcomp	3:A2=PRD
+6	on its	on its	NNS	p2=JJ	8	nn	_
+7	core	core	NN	p2=VB	8	nn	_
+8	mission	mission	NN	_	5	dobj	5:A1
+9	of defending	of defending	VBG	p2=IN|pb=of defending.01	8	partmod	_
+10	its	its	PRP$	_	11	poss	_
+11	members	member	NNS	_	9	dobj	9:A1
+12	after	after	IN	_	9	prep	9:AM-TMP
+13	years	year	NNS	_	12	pobj	_
+14	in which	in which	WDT	p2=VBP	19	advmod	19:R-A1
+15	its	its	PRP$	_	17	poss	_
+16	main	main	JJ	_	17	amod	_
+17	effort	effort	NN	_	19	nsubj	19:A1=PPT
+18	has	have	VBZ	_	19	aux	_
+19	been	be	VBN	pb=be.01	9	ccomp	_
+20	far	far	RB	_	21	advmod	_
+21	away	away	RB	_	19	advmod	19:A2=PRD
+22	in Afghanistan	in afghanistan	NNP	p2=JJ	19	npadvmod	19:AM-TMP
+23	.	.	.	_	3	punct	_
+
+1	The 28	the 0	CD	p2=LS	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	nation	nation	NN	_	5	nn	_
+4	military	military	JJ	_	5	amod	_
+5	alliance	alliance	NN	_	6	nsubj	6:A0=PAG
+6	accuses	accuse	VBZ	pb=accuse.01	0	root	_
+7	Russia	russia	NNP	_	8	nsubj	8:A0
+8	of tearing	of tearing	VBG	pb=of tearing.01	6	ccomp	6:A1=PPT
+9	up	up	RP	_	8	prt	8:C-V
+10	the diplomatic	the diplomatic	JJ	p2=DT	12	amod	_
+11	rule	rule	NN	_	12	nn	_
+12	book	book	NN	_	8	dobj	8:A1
+13	with	with	IN	_	12	prep	_
+14	its	its	PRP$	_	15	poss	_
+15	annexation	annexation	NN	_	13	pobj	_
+16	of Crimea	of crimea	NNP	p2=NN	15	appos	_
+17	.	.	.	_	6	punct	_
+
+1	"	"	``	p2=''	14	punct	_
+2	For	for	IN	_	14	prep	14:AM-TMP
+3	20	0	CD	_	4	num	_
+4	years	year	NNS	_	2	pobj	_
+5	,	,	,	_	14	punct	_
+6	the security	the security	NN	p2=NNP	14	nsubjpass	_
+7	of the	of the	IN	p2=NNP	6	prep	_
+8	Euro	euro	NNP	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	Atlantic	atlantic	NNP	_	11	nn	_
+11	region	region	NN	_	7	pobj	_
+12	has	have	VBZ	_	14	aux	_
+13	been	be	VBN	_	14	auxpass	_
+14	based	base	VBN	pb=base.02	0	root	_
+15	on the	on the	JJ	p2=IN	16	amod	_
+16	premise	premise	NN	_	14	dobj	14:A1=PPT
+17	that	that	IN	p2=WDT	21	complm	_
+18	we	we	PRP	_	21	nsubj	21:A0=PAG
+19	do	do	VBP	_	21	aux	_
+20	not	not	RB	_	21	neg	21:AM-NEG
+21	face	face	VB	pb=face.01	16	ccomp	_
+22	an adversary	an adversary	JJ	p2=NNP	21	dobj	21:A1
+23	to our	to our	PRP$	p2=NN	24	nn	_
+24	east	east	NN	_	21	dobj	_
+25	.	.	.	_	14	punct	_
+
+1	This	this	DT	_	2	det	_
+2	premise	premise	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	14	ccomp	14:A1=PPT
+4	now	now	RB	_	3	advmod	3:AM-TMP
+5	in doubt	in doubt	JJ	p2=NNP	3	acomp	3:A2=PRD
+6	,	,	,	_	14	punct	_
+7	"	"	''	p2=``	14	punct	_
+8	NATO	nato	NNP	_	11	nn	_
+9	Deputy	deputy	NNP	_	11	nn	_
+10	Secretary	secretary	NNP	_	11	nn	_
+11	General	general	NNP	_	13	nn	_
+12	Alexander	alexander	NNP	_	13	nn	_
+13	Vershbow	vershbow	NNP	_	14	nsubj	14:A0
+14	said	say	VBD	pb=say.01	0	root	_
+15	last	last	JJ	_	16	amod	_
+16	month	month	NN	_	14	npadvmod	14:AM-TMP
+17	.	.	.	_	14	punct	_
+
+1	The crisis	the crisis	NN	p2=RB	16	nsubj	16:A0=PPT;3:A1=PPT
+2	,	,	,	_	1	punct	_
+3	called	call	VBN	p2=VBD|pb=call.01	1	partmod	_
+4	a 	a 	IN	p2=NN	3	prep	3:A2=PRD
+5	"	"	``	_	7	punct	_
+6	game	game	NN	_	7	nn	_
+7	changer	changer	NN	p2=JJR	4	pobj	_
+8	"	"	''	_	7	punct	_
+9	by Secretary	by secretary	NNP	p2=IN	13	nn	_
+10	General	general	NNP	_	13	nn	_
+11	Anders	anders	NNP	p2=NNPS	13	nn	_
+12	Fogh	fogh	NNP	_	13	nn	_
+13	Rasmussen	rasmussen	NNP	_	7	appos	_
+14	,	,	,	_	7	punct	_
+15	will	will	MD	_	16	aux	16:AM-MOD
+16	dominate	dominate	VB	pb=dominate.01	0	root	_
+17	the alliance	the alliance	NNP	p2=NN	19	poss	_
+18	's	's	POS	_	17	possessive	_
+19	agenda	agenda	NN	_	16	dobj	16:A1=PPT
+20	as	as	IN	_	22	mark	_
+21	it	it	PRP	_	22	nsubj	22:A0=PAG
+22	prepares	prepare	VBZ	pb=prepare.01	16	advcl	16:AM-TMP
+23	for a	for a	JJ	p2=NNP	24	amod	_
+24	summit	summit	NN	_	26	nn	_
+25	in Wales	in wales	NNP	p2=NNS	26	nn	_
+26	in September	in september	NNP	_	22	dobj	30:A0=PAG;22:A1=PPT
+27	,	,	,	_	26	punct	_
+28	which	which	WDT	_	30	nsubj	30:R-A0
+29	will	will	MD	_	30	aux	30:AM-MOD
+30	mark	mark	VB	pb=mark.01	26	rcmod	_
+31	the imminent	the imminent	JJ	p2=DT	32	amod	_
+32	end	end	NN	p2=VB	30	dobj	30:A1=PPT
+33	of the	of the	IN	p2=NNP	32	prep	_
+34	NATO	nato	NNP	_	36	hmod	_
+35	-	-	HYPH	_	36	hyph	_
+36	led	lead	VBN	_	38	amod	_
+37	combat	combat	NN	_	38	nn	_
+38	mission	mission	NN	_	39	nn	_
+39	in Afghanistan	in afghanistan	NNP	p2=NN	33	pobj	_
+40	.	.	.	_	16	punct	_
+
+1	The U.S	the u.s	NNS	p2=RB	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	,	,	,	_	11	punct	_
+2	Britain	britain	NNP	_	11	nsubj	11:A0=PAG;13:A0=PAG
+3	,	,	,	_	2	punct	_
+4	Denmark	denmark	NNP	_	2	conj	_
+5	,	,	,	_	4	punct	_
+6	France	france	NNP	_	4	conj	_
+7	,	,	,	_	6	punct	_
+8	Canada	canada	NNP	_	9	nn	_
+9	and Germany	and germany	NNP	_	6	conj	_
+10	have	have	VBP	_	11	aux	_
+11	sent	send	VBN	pb=send.01	0	root	_
+12	or	or	CC	_	11	cc	_
+13	promised	promise	VBN	pb=promise.01	11	conj	_
+14	extra	extra	JJ	_	18	amod	_
+15	fighter	fighter	NN	_	16	nn	_
+16	aircraft	aircraft	NN	p2=NNS	18	nn	_
+17	to increase	to increase	NN	p2=WDT	18	nn	_
+18	patrols	patrol	NNS	_	13	dobj	19:A0;13:A1=GOL
+19	and training	and training	VBG	p2=-RRB-|pb=and training.01	18	partmod	_
+20	over	over	IN	p2=RP	19	prep	19:A2
+21	the Baltics	the baltics	NNS	p2=NNP	20	pobj	_
+22	,	,	,	_	21	punct	_
+23	Poland	poland	NNP	_	21	conj	_
+24	or	or	CC	_	23	cc	_
+25	Romania	romania	NNP	_	23	conj	_
+26	.	.	.	_	11	punct	_
+
+1	A fleet	a fleet	NNP	p2=CC	3	nn	_
+2	of nine	of nine	NN	p2=NNP	3	nn	_
+3	minehunters	minehunters	NNS	p2=VBZ	8	nsubjpass	8:A1=PPT
+4	from NATO	from nato	IN	p2=POS	3	prep	_
+5	countries	country	NNS	_	4	pobj	_
+6	has	have	VBZ	p2=VBP	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	dispatched	dispatch	VBN	pb=dispatch.01	0	root	_
+9	to the	to the	NNP	p2=IN	15	nn	_
+10	Baltic	baltic	NNP	_	11	nn	_
+11	and another	and another	NNP	p2=CC	13	nn	_
+12	task	task	NN	_	13	nn	_
+13	force	force	NN	p2=VBP	15	nn	_
+14	of five	of five	JJ	p2=CD	15	amod	_
+15	ships	ship	NNS	_	16	nsubj	16:A0
+16	to the	to the	VBP	p2=POS|pb=to the.01	8	advcl	8:AM-TMP
+17	eastern	eastern	JJ	_	18	amod	_
+18	Mediterranean	mediterranean	NNP	p2=JJ	16	dobj	16:A1
+19	.	.	.	_	8	punct	_
+
+1	In the	in the	VB	p2=JJ|pb=in the.01	7	advcl	7:AM-ADV
+2	longer	long	JJR	p2=RBR	3	amod	_
+3	term	term	NN	_	1	dobj	1:A1
+4	,	,	,	_	7	punct	_
+5	NATO	nato	NNP	_	7	nsubj	7:A0=PAG
+6	will	will	MD	_	7	aux	7:AM-MOD
+7	consider	consider	VB	pb=consider.01	28	ccomp	_
+8	permanently	permanently	RB	_	9	advmod	9:AM-MNR
+9	stationing	station	VBG	p2=JJ|pb=station.01	10	amod	_
+10	forces	force	NNS	_	12	nn	9:A0=PAG
+11	in Eastern	in eastern	NNP	p2=IN	12	nn	_
+12	Europe	europe	NNP	_	7	dobj	7:A1
+13	,	,	,	_	12	punct	_
+14	something	something	NN	_	12	appos	18:A1;19:A1
+15	it	it	PRP	_	17	nsubj	17:A0=PAG;18:A0
+16	has	have	VBZ	_	17	aux	_
+17	refrained	refrain	VBN	pb=refrain.01	14	rcmod	_
+18	from doing	from doing	VBG	p2=JJ|pb=from doing.01	17	xcomp	17:A1=PPT
+19	in the	in the	VBN	p2=PRP|pb=in the.01	14	partmod	_
+20	15	0	CD	_	21	num	_
+21	years	year	NNS	_	19	npadvmod	19:A2
+22	since	since	IN	_	19	prep	19:AM-TMP
+23	the Czech	the czech	NNP	_	24	nn	_
+24	Republic	republic	NNP	_	22	pobj	_
+25	,	,	,	_	28	punct	_
+26	Hungary	hungary	NNP	_	27	nn	_
+27	and Poland	and poland	NNP	_	28	nsubj	28:A0=PAG
+28	joined	join	VBD	pb=join.01	0	root	_
+29	the alliance	the alliance	RB	p2=NNP	28	advmod	28:AM-PRD
+30	after	after	IN	p2=RB	28	prep	28:AM-TMP
+31	the fall	the fall	NNP	p2=DT	34	nn	_
+32	of the	of the	NNP	p2=IN	34	nn	_
+33	Berlin	berlin	NNP	_	34	nn	_
+34	Wall	wall	NNP	_	30	pobj	_
+35	.	.	.	_	28	punct	_
+
+1	NATO	nato	NNP	_	5	nsubj	5:A0
+2	will	will	MD	_	5	aux	5:AM-MOD
+3	also	also	RB	_	5	advmod	5:AM-ADV
+4	have	have	VB	_	5	aux	_
+5	to think	to think	VBN	p2=NN|pb=to think.01	0	root	_
+6	about	about	IN	p2=RP	5	prep	5:A1
+7	how	how	WRB	_	9	advmod	9:R-AM-MNR
+8	it	it	PRP	_	9	nsubj	9:A0=PAG
+9	deals	deal	VBZ	pb=deal.01	6	pcomp	_
+10	with	with	IN	_	9	prep	9:A1=PPT
+11	the unorthodox	the unorthodox	NN	p2=PRP$	12	nn	_
+12	tactics	tactic	NNS	_	10	pobj	_
+13	used	use	VBN	p2=VBD|pb=use.01	12	partmod	_
+14	by Russia	by russia	NNP	p2=IN	15	nn	_
+15	in Crimea	in crimea	NNP	p2=NNS	13	dobj	13:A1=PPT
+16	,	,	,	_	12	punct	_
+17	including	include	VBG	_	12	prep	_
+18	exploiting	exploit	VBG	pb=exploit.01	17	pcomp	_
+19	political	political	JJ	_	20	amod	_
+20	divisions	division	NNS	_	18	dobj	18:A1=PPT
+21	,	,	,	_	18	punct	_
+22	using	use	VBG	pb=use.01	18	conj	_
+23	large	large	JJ	_	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	scale	scale	NN	_	27	nn	_
+26	military	military	JJ	p2=NN	27	amod	_
+27	exercises	exercise	NNS	_	22	dobj	22:A1=PPT
+28	as	as	IN	p2=RB	22	prep	22:A2=PRP
+29	cover	cover	NN	p2=VBP	30	nn	_
+30	for intervention	for intervention	NN	p2=CD	28	pobj	_
+31	,	,	,	_	22	punct	_
+32	and denying	and denying	VBG	pb=and denying.01	22	conj	_
+33	Russian	russian	JJ	_	34	amod	_
+34	troops	troop	NNS	_	32	dobj	32:A1
+35	were	be	VBD	_	36	aux	_
+36	operating	operate	VBG	pb=operate.01	18	conj	_
+37	in the	in the	JJ	p2=DT	38	amod	_
+38	peninsula	peninsula	NN	_	36	dobj	36:A1=PPT
+39	.	.	.	_	5	punct	_
+
+1	The crisis	the crisis	NNP	p2=NN	4	nsubj	4:A0=PAG
+2	has	have	VBZ	_	4	aux	_
+3	already	already	RB	_	4	advmod	4:AM-TMP
+4	affected	affect	VBN	pb=affect.01	0	root	_
+5	relations	relation	NNS	_	4	dobj	4:A1=PPT
+6	between	between	IN	_	5	prep	_
+7	NATO	nato	NNP	_	8	nn	_
+8	and Russia	and russia	NNP	_	6	pobj	12:A0=PAG
+9	,	,	,	_	8	punct	_
+10	which	which	WDT	_	12	nsubj	12:R-A0
+11	have	have	VBP	_	12	aux	_
+12	cooperated	cooperate	VBN	pb=cooperate.01	8	rcmod	_
+13	uneasily	uneasily	JJ	p2=RB	16	amod	_
+14	in recent	in recent	JJ	p2=NN	15	amod	_
+15	years	year	NNS	_	16	nn	_
+16	in areas	in areas	NNS	p2=,	12	dobj	12:A1=COM
+17	such	such	JJ	_	18	amod	_
+18	as	as	IN	_	16	prep	_
+19	combating	combat	VBG	pb=combat.01	18	pcomp	_
+20	terrorism	terrorism	NN	_	19	dobj	19:A1=COM
+21	,	,	,	_	8	punct	_
+22	piracy	piracy	NN	p2=VB	8	appos	_
+23	and Afghan	and afghan	IN	p2=NNP	22	prep	_
+24	drug	drug	NN	_	26	hmod	_
+25	-	-	HYPH	_	26	hyph	_
+26	trafficking	trafficking	NN	p2=VBG	23	pobj	_
+27	.	.	.	_	4	punct	_
+
+1	NATO	nato	NNP	_	2	nsubj	2:A0=PAG
+2	suspended	suspend	VBD	p2=VBN|pb=suspend.01	0	root	_
+3	cooperation	cooperation	NN	_	2	dobj	2:A1=PPT
+4	with	with	IN	_	3	prep	_
+5	Russia	russia	NNP	_	4	pobj	_
+6	last	last	JJ	_	7	amod	_
+7	month	month	NN	_	2	npadvmod	2:AM-TMP
+8	over	over	IN	_	2	prep	_
+9	Crimea	crimea	NNP	p2=NN	8	pobj	_
+10	.	.	.	_	2	punct	_
+
+1	The damage	the damage	NN	p2=EX	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	not	not	RB	_	2	neg	2:AM-NEG
+4	likely	likely	JJ	p2=RB	5	amod	_
+5	to be	to be	NN	p2=NNP	2	attr	6:A1=PPT;2:A2=PRD
+6	repaired	repair	VBN	p2=VBD|pb=repair.01	5	partmod	_
+7	as	as	RB	_	8	advmod	_
+8	quickly	quickly	RB	_	6	advmod	6:AM-MNR
+9	as	as	IN	_	8	prep	_
+10	after	after	IN	_	9	prep	_
+11	Russia	russia	NNP	_	14	poss	_
+12	's	's	POS	_	11	possessive	_
+13	2008	0	CD	_	14	num	_
+14	war	war	NN	_	10	pobj	_
+15	with	with	IN	_	14	prep	_
+16	Georgia	georgia	NNP	_	15	pobj	_
+17	,	,	,	_	14	punct	_
+18	when	when	WRB	_	19	advmod	19:R-AM-TMP
+19	a freeze	a freeze	VB	p2=NNP|pb=a freeze.01	27	advcl	27:AM-TMP
+20	in top	in top	NN	p2=,	22	hmod	_
+21	-	-	HYPH	_	22	hyph	_
+22	level	level	NN	_	23	nn	_
+23	contacts	contact	NNS	_	27	nsubj	27:A1=PPT
+24	between	between	IN	_	23	prep	_
+25	NATO	nato	NNP	_	26	nn	_
+26	and Russia	and russia	NNP	_	24	pobj	_
+27	lasted	last	VBD	pb=last.01	2	ccomp	_
+28	barely	barely	RB	_	29	advmod	_
+29	six	#crd#	CD	_	30	num	_
+30	months	month	NNS	_	27	npadvmod	27:A2=VSP
+31	.	.	.	_	2	punct	_
+
+1	"	"	``	_	15	punct	_
+2	As	as	IN	p2=RB	3	mark	_
+3	compared	compare	VBN	pb=compare.01	15	advcl	_
+4	,	,	,	_	3	punct	_
+5	say	say	UH	p2=VB	3	intj	3:AM-DIS
+6	,	,	,	_	3	punct	_
+7	with	with	IN	_	3	prep	3:A2=PPT
+8	the reset	the reset	CD	p2=DT	7	pobj	_
+9	after	after	IN	_	8	prep	_
+10	the Georgia	the georgia	NNP	p2=JJ	11	nn	_
+11	war	war	NN	_	9	pobj	_
+12	,	,	,	_	15	punct	_
+13	this	this	DT	_	15	nsubj	_
+14	is	be	VBZ	_	15	aux	_
+15	going	go	VBG	pb=go.01	24	ccomp	24:A1=PPT
+16	to be	to be	RB	p2=NNP	15	advmod	15:AM-MNR
+17	a much	a much	RB	p2=XX	18	advmod	_
+18	more	more	RBR	p2=JJR	19	advmod	_
+19	prolonged	prolonged	JJ	_	21	amod	_
+20	and difficult	and difficult	NN	p2=JJ	21	nn	_
+21	period	period	NN	_	15	dobj	_
+22	,	,	,	_	24	punct	_
+23	"	"	''	_	24	punct	_
+24	said	say	VBD	pb=say.01	0	root	_
+25	a senior	a senior	NNP	p2=IN	26	nn	_
+26	NATO	nato	NNP	_	27	nn	_
+27	official	official	NN	_	24	nsubj	24:A0;29:A0=PAG
+28	,	,	,	_	27	punct	_
+29	speaking	speak	VBG	pb=speak.01	27	partmod	_
+30	on condition	on condition	NN	p2=NNP	31	nn	_
+31	of anonymity	of anonymity	NN	p2=NNP	29	dobj	29:A1=PPT
+32	.	.	.	_	24	punct	_
+
+1	President	president	NNP	_	3	nn	_
+2	Vladimir	vladimir	NNP	_	3	nn	_
+3	Putin	putin	NNP	_	4	nsubj	4:A0=PAG
+4	declared	declare	VBD	pb=declare.02	0	root	_
+5	in March	in march	NNP	p2=IN	4	dobj	_
+6	he	he	PRP	_	9	nsubj	9:A0;16:A0=CAU
+7	had	have	VBD	_	9	aux	_
+8	the right	the right	RB	p2=NNP	9	advmod	9:AM-MNR
+9	to invade	to invade	VBN	p2=NNP|pb=to invade.01	4	ccomp	4:A1=PPT
+10	Ukraine	ukraine	NNP	_	11	nn	_
+11	to protect	to protect	NNP	p2=POS	13	nn	_
+12	Russian	russian	JJ	p2=NNP	13	amod	_
+13	speakers	speaker	NNS	_	9	dobj	9:A1
+14	there	there	RB	_	9	advmod	9:AM-LOC
+15	,	,	,	_	9	punct	_
+16	causing	cause	VBG	pb=cause.01	9	advcl	9:AM-ADV
+17	alarm	alarm	NN	_	19	nn	_
+18	in NATO	in nato	NNP	p2=IN	19	nn	_
+19	members	member	NNS	_	6	appos	24:A0=PAG
+20	Estonia	estonia	NNP	_	21	nn	_
+21	and Latvia	and latvia	NNP	_	19	appos	_
+22	,	,	,	_	19	punct	_
+23	which	which	WDT	_	24	nsubj	24:R-A0
+24	have	have	VBP	pb=have.03	19	rcmod	_
+25	large	large	JJ	_	28	amod	_
+26	ethnic	ethnic	JJ	_	28	amod	_
+27	Russian	russian	JJ	_	28	amod	_
+28	minorities	minority	NNS	_	24	dobj	24:A1=PPT
+29	of their	of their	PRP$	p2=CC	30	poss	_
+30	own	own	JJ	p2=VBP	24	dobj	_
+31	.	.	.	_	4	punct	_
+
+1	Officials	official	NNS	_	4	nsubj	4:A0=PAG
+2	at NATO	at nato	NNP	p2=VBP	7	nn	_
+3	are	be	VBP	_	4	aux	_
+4	asking	ask	VBG	pb=ask.01	0	root	_
+5	themselves	themselves	PRP	_	4	dobj	4:A2=GOL
+6	if	if	IN	_	10	mark	_
+7	Putin	putin	NNP	_	10	nsubj	10:A0=PAG;11:A0=PAG
+8	would	would	MD	_	10	aux	10:AM-MOD
+9	seriously	seriously	RB	_	10	advmod	10:AM-MNR
+10	consider	consider	VB	pb=consider.02	4	ccomp	4:A1=PPT
+11	challenging	challenge	VBG	pb=challenge.01	10	xcomp	10:A1=PPT
+12	a NATO	a nato	DT	p2=NNP	13	det	_
+13	member	member	NN	_	11	dobj	11:A1=PPT
+14	,	,	,	_	4	punct	_
+15	although	although	IN	_	18	mark	_
+16	if	if	IN	_	18	mark	_
+17	it	it	PRP	_	18	nsubj	18:A0=PAG
+18	tangled	tangle	VBD	pb=tangle.01	4	advcl	_
+19	with	with	IN	_	18	prep	18:A2=LOC
+20	a NATO	a nato	NNP	p2=JJ	22	nn	_
+21	member	member	NN	_	22	nn	_
+22	state	state	NN	_	19	pobj	_
+23	,	,	,	_	28	punct	_
+24	Russia	russia	NNP	_	28	nsubj	28:A0=PAG
+25	would	would	MD	_	28	aux	28:AM-MOD
+26	also	also	RB	_	28	advmod	28:AM-DIS
+27	be	be	VB	_	28	aux	_
+28	risking	risk	VBG	pb=risk.01	1	partmod	_
+29	a confrontation	a confrontation	NN	p2=NNP	28	dobj	28:A1=PPT
+30	with	with	IN	_	28	prep	_
+31	the U.S	the u.s	NNS	p2=NNP	30	pobj	_
+32	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	17	punct	_
+2	Just	just	RB	_	7	advmod	_
+3	as	as	IN	_	7	mark	_
+4	NATO	nato	NNP	_	7	nsubj	7:A0=PAG
+5	does	do	VBZ	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	want	want	VB	pb=want.01	17	advcl	_
+8	a war	a war	NNP	p2=RP	7	dobj	7:A1=PPT
+9	with	with	IN	_	8	prep	_
+10	Russia	russia	NNP	_	9	pobj	_
+11	,	,	,	_	17	punct	_
+12	so	so	RB	p2=CC	13	advmod	_
+13	too	too	RB	_	17	advmod	17:AM-DIS
+14	Russia	russia	NNP	_	17	nsubj	17:A0=PAG
+15	does	do	VBZ	_	17	aux	_
+16	not	not	RB	_	17	neg	17:AM-NEG
+17	want	want	VB	pb=want.01	31	ccomp	31:A1=PPT
+18	a war	a war	NNP	p2=NN	17	dobj	17:A1=PPT
+19	with	with	IN	_	18	prep	_
+20	NATO	nato	NNP	_	19	pobj	_
+21	,	,	,	_	17	punct	_
+22	because	because	IN	_	26	mark	_
+23	the risks	the risks	NNS	p2=NNPS	26	nsubj	26:A1=PPT
+24	on both	on both	IN	p2=POS	23	prep	_
+25	sides	side	NNS	_	24	pobj	_
+26	are	be	VBP	pb=be.01	17	advcl	17:AM-CAU
+27	global	global	JJ	_	28	amod	_
+28	and catastrophic	and catastrophic	NNP	p2=JJ	26	attr	26:A2=PRD
+29	,	,	,	_	31	punct	_
+30	"	"	''	_	31	punct	_
+31	said	say	VBD	pb=say.01	0	root	_
+32	Samuel	samuel	NNP	_	38	nn	_
+33	Charap	charap	NNP	_	38	nn	_
+34	of the	of the	NNP	p2=IN	36	nn	_
+35	International	international	NNP	_	36	nn	_
+36	Institute	institute	NNP	_	38	nn	_
+37	for Strategic	for strategic	NNP	p2=POS	38	nn	_
+38	Studies	study	NNPS	p2=NNP	39	nsubj	_
+39	think	think	VBP	p2=NN	40	nn	_
+40	tank	tank	NN	_	31	nsubj	31:A0
+41	.	.	.	_	31	punct	_
+
+1	So	so	RB	_	2	advmod	_
+2	far	far	RB	_	6	advmod	6:AM-TMP
+3	,	,	,	_	6	punct	_
+4	NATO	nato	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	reinforced	reinforce	VBN	pb=reinforce.01	0	root	_
+7	eastern	eastern	JJ	_	8	amod	_
+8	allies	ally	NNS	_	6	dobj	6:A1=PPT
+9	with	with	IN	_	8	prep	_
+10	short	short	JJ	_	12	hmod	_
+11	-	-	HYPH	_	12	hyph	_
+12	term	term	NN	_	13	nn	_
+13	deployments	deployment	NNS	_	9	pobj	16:A1=PPT
+14	that	that	WDT	_	16	nsubj	16:R-A1
+15	will	will	MD	_	16	aux	16:AM-MOD
+16	continue	continue	VB	pb=continue.01	13	rcmod	_
+17	until	until	IN	_	16	prep	16:AM-TMP
+18	at least	at least	NNP	p2=NN	19	nn	_
+19	the end	the end	NNP	p2=RB	17	pobj	_
+20	of the	of the	DT	p2=NNP	21	det	_
+21	year	year	NN	_	16	npadvmod	16:AM-TMP
+22	.	.	.	_	6	punct	_
+
+1	If	if	IN	_	2	mark	_
+2	tensions	tension	NNS	_	9	advcl	9:AM-ADV
+3	with	with	IN	_	2	prep	_
+4	Russia	russia	NNP	_	5	nn	_
+5	persist	persist	NN	p2=VB	3	pobj	_
+6	,	,	,	_	9	punct	_
+7	NATO	nato	NNP	_	9	nsubj	9:A0=PAG
+8	may	may	MD	_	9	aux	9:AM-MOD
+9	look	look	VB	pb=look.02	0	root	_
+10	at longer	at longer	JJR	p2=JJ	12	amod	_
+11	term	term	NN	_	12	nn	_
+12	ways	way	NNS	_	9	dobj	9:A1=PPT
+13	to beef	to beef	TO	p2=VBD	12	prep	_
+14	up	up	RP	p2=VB	13	prt	_
+15	its	its	PRP$	_	16	poss	_
+16	presence	presence	NN	_	13	dobj	_
+17	.	.	.	_	9	punct	_
+
+1	NATO	nato	NNP	_	5	poss	_
+2	's	's	POS	_	1	possessive	_
+3	top	top	JJ	_	5	amod	_
+4	military	military	JJ	p2=NN	5	amod	_
+5	commander	commander	NN	_	14	nsubj	14:A0
+6	,	,	,	_	5	punct	_
+7	U.S.	u.s.	NNP	_	10	nn	_
+8	Air	air	NNP	_	9	nn	_
+9	Force	force	NNP	_	10	nn	_
+10	General	general	NNP	_	12	nn	_
+11	Philip	philip	NNP	_	12	nn	_
+12	Breedlove	breedlove	NNP	_	5	appos	_
+13	,	,	,	_	5	punct	_
+14	said	say	VBD	pb=say.01	0	root	_
+15	last	last	JJ	_	16	amod	_
+16	week	week	NN	_	14	npadvmod	14:AM-TMP
+17	that	that	IN	_	21	complm	_
+18	NATO	nato	NNP	_	21	nsubj	21:A0;23:A0=PAG
+19	would	would	MD	_	21	aux	21:AM-MOD
+20	have	have	VB	_	21	aux	_
+21	to consider	to consider	VBN	p2=NNP|pb=to consider.01	14	ccomp	14:A1=PPT
+22	permanently	permanently	RB	_	23	advmod	23:AM-MNR
+23	stationing	station	VBG	p2=JJ|pb=station.01	21	advcl	21:AM-ADV
+24	troops	troop	NNS	_	25	nn	_
+25	in parts	in parts	NNS	p2=POS	27	nn	_
+26	of Eastern	of eastern	NNP	p2=IN	27	nn	_
+27	Europe	europe	NNP	_	23	dobj	23:A1=PPT
+28	.	.	.	_	14	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

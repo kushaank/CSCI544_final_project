@@ -1,0 +1,123 @@
+1	Sheryl	sheryl	NNP	_	7	nsubj	7:A0=PAG
+2	and	and	CC	_	1	cc	_
+3	Shannon	shannon	NNP	_	4	nn	_
+4	Baird	baird	NNP	_	1	conj	_
+5	had	have	VBD	_	7	aux	_
+6	n't	not	RB	_	7	neg	7:AM-NEG
+7	shared	share	VBN	pb=share.01	0	root	_
+8	a	a	DT	_	10	det	_
+9	last	last	JJ	_	10	amod	_
+10	name	name	NN	_	7	dobj	7:A1=PPT
+11	until	until	IN	_	7	prep	7:AM-TMP
+12	Monday	monday	NNP	_	11	pobj	_
+13	.	.	.	_	7	punct	_
+
+1	That	that	DT	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	when	when	WRB	_	5	advmod	5:R-AM-TMP
+4	they	they	PRP	_	5	nsubj	5:A1=PPT
+5	became	become	VBD	pb=become.01	2	advcl	2:A2=PRD
+6	Jackson	jackson	NNP	_	7	nn	_
+7	County	county	NNP	_	15	poss	_
+8	's	's	POS	_	7	possessive	_
+9	first	#ord#	JJ	p2=RB	15	amod	_
+10	legally	legally	RB	_	12	hmod	_
+11	-	-	HYPH	_	12	hyph	_
+12	wed	wed	VBN	_	15	amod	_
+13	same	same	JJ	_	15	hmod	_
+14	-	-	HYPH	_	15	hyph	_
+15	sex couple	sex couple	JJ	p2=NN	5	acomp	5:A2=PRD
+16	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	Bairds	bairds	NNP	p2=NNPS	3	nsubj	3:A0=PAG
+3	had	have	VBD	pb=have.03	0	root	_
+4	their	their	PRP$	_	5	poss	_
+5	ceremony	ceremony	NN	_	3	dobj	3:A1=PPT
+6	in	in	IN	_	5	prep	_
+7	front	front	NN	_	6	pobj	_
+8	of	of	IN	_	7	prep	_
+9	a	a	DT	_	10	det	_
+10	fountain	fountain	NN	_	8	pobj	_
+11	right	right	RB	p2=NN	12	advmod	_
+12	across	across	IN	_	7	prep	_
+13	the	the	DT	_	14	det	_
+14	street	street	NN	_	12	pobj	_
+15	from	from	IN	_	12	prep	_
+16	the	the	DT	_	17	det	_
+17	county offices	county offices	NNS	p2=NNPS	15	pobj	_
+18	.	.	.	_	3	punct	_
+
+1	Southern	southern	NNP	p2=JJ	2	nn	_
+2	Oregon	oregon	NNP	_	3	nn	_
+3	residents	resident	NNS	_	5	nsubj	5:A0=CAU
+4	are	be	VBP	_	5	aux	_
+5	showing	show	VBG	pb=show.01	0	root	_
+6	their	their	PRP$	_	7	poss	_
+7	support	support	NN	_	5	dobj	5:A1=PPT
+8	for	for	IN	_	7	prep	_
+9	same	same	JJ	_	11	hmod	_
+10	-	-	HYPH	_	11	hyph	_
+11	sex	sex	NN	_	16	nn	_
+12	marriage	marriage	NN	_	14	hmod	_
+13	-	-	HYPH	p2=,	14	hyph	_
+14	including	include	VBG	_	16	amod	_
+15	clergy	clergy	NN	_	16	nn	_
+16	members	member	NNS	_	8	pobj	19:A0=PAG
+17	who	who	WP	_	19	nsubj	19:R-A0
+18	are	be	VBP	_	19	aux	_
+19	offering	offer	VBG	pb=offer.01	16	rcmod	_
+20	to officiate	to officiate	NN	p2=NNP	19	dobj	19:A1=PPT
+21	.	.	.	_	5	punct	_
+
+1	Sheryl	sheryl	NNP	_	4	nsubj	4:A0
+2	and	and	CC	_	1	cc	_
+3	Shannon	shannon	NNP	_	1	conj	_
+4	say	say	VBP	pb=say.01	0	root	_
+5	it	it	PRP	_	6	nsubj	6:A1=PPT
+6	's	be	VBZ	pb=be.01	4	ccomp	4:A1=PPT
+7	a	a	DT	_	9	det	_
+8	special	special	JJ	_	9	amod	_
+9	thing	thing	NN	_	6	attr	6:A2=PRD
+10	to	to	TO	_	11	aux	_
+11	have	have	VB	pb=have.03	9	infmod	_
+12	their	their	PRP$	_	13	poss	_
+13	union	union	NN	_	11	dobj	11:A1=PPT;15:A1=PPT
+14	legally	legally	RB	_	15	advmod	15:AM-MNR
+15	recognized	recognize	VBN	p2=VBD|pb=recognize.01	13	partmod	_
+16	in	in	IN	_	15	prep	15:AM-LOC
+17	their	their	PRP$	_	18	poss	_
+18	home state	home state	NN	p2=NNS	16	pobj	_
+19	.	.	.	_	4	punct	_
+
+1	"	"	``	_	3	punct	_
+2	That	that	DT	_	3	nsubj	3:A1=PPT
+3	's	be	VBZ	pb=be.01	0	root	_
+4	all	all	DT	p2=RB	3	attr	3:A2=PRD
+5	we	we	PRP	_	7	nsubj	7:A0=PAG
+6	were	be	VBD	_	7	aux	_
+7	wanting	want	VBG	pb=want.01	4	rcmod	_
+8	,	,	,	_	3	punct	_
+9	"	"	``	p2=''	10	punct	_
+10	Sheryl said	sheryl said	NNP	p2=UH	7	dobj	7:A1=PPT
+11	.	.	.	_	3	punct	_
+
+1	"	"	``	p2=''	6	punct	_
+2	Nothing	nothing	NN	p2=NNP	0	root	_
+3	more	more	RBR	p2=JJR	2	amod	_
+4	,	,	,	_	2	punct	_
+5	nothing	nothing	NN	_	2	appos	_
+6	extra	extra	JJ	p2=RB	5	amod	_
+7	.	.	.	_	2	punct	_
+
+1	Just	just	RB	_	2	advmod	_
+2	equal	equal	JJ	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Go	go	VB	p2=NNP|pb=go.08	0	root	_
+2	Oregon	oregon	NNP	_	1	npadvmod	1:AM-DIS
+3	,	,	,	_	1	punct	_
+4	"	"	''	p2=``	1	punct	_
+5	Shannon added	shannon added	VBN	p2=NNP|pb=shannon added.01	1	dep	_
+6	.	.	.	_	1	punct	_
+

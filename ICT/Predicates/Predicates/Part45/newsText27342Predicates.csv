@@ -1,0 +1,69 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the FCC 's,vote.01,to move forward with considerations on,,Affirmative,"On May 15 , 2014 , the FCC voted to move forward with considerations on a proposal for new rules known as Open Internet rules -- the new name for Net Neutrality . "
+the FCC 's,move.01,with considerations on,,Affirmative,"On May 15 , 2014 , the FCC voted to move forward with considerations on a proposal for new rules known as Open Internet rules -- the new name for Net Neutrality . "
+You,get.06,to do business,,Affirmative,You still get to do business exactly the way you have been . 
+You,do.02,business,,Affirmative,You still get to do business exactly the way you have been . 
+a concerned citizen wondering,wonder.01,how you can compete and prosper in,,Affirmative,"If you are a concerned citizen wondering how you can compete and prosper in a world where ISPs charge for the fast lane , you still have time to make your case . "
+a concerned citizen wondering how you can compete and prosper in a world where ISPs charge for the `` fast lane,have.03,time,,Affirmative,"If you are a concerned citizen wondering how you can compete and prosper in a world where ISPs charge for the fast lane , you still have time to make your case . "
+I,write.01,this article,,Affirmative,"Back in 2010 , I wrote this article to help get the discussion going . "
+I,help.01,get,,Affirmative,"Back in 2010 , I wrote this article to help get the discussion going . "
+current ruling,motivate.01,parties to get into,,Affirmative,"Right now , the FCC 's current ruling should highly motivate all interested parties to get into the discussion . "
+Level 3 and Comcast,settle.02,their dispute,,Affirmative,"There 's still an ongoing battle between Level 3 and Comcast ( update : since the article was originally written , Level 3 and Comcast have settled their dispute ) . "
+Netflix,use.01,Level 3,to deliver,Affirmative,Netflix uses Level 3 to deliver its videos to customers . 
+Netflix,deliver.01,its videos,to customers,Affirmative,Netflix uses Level 3 to deliver its videos to customers . 
+Netflix,pay.01,Level 3,,Affirmative,It pays Level 3 for bandwidth . 
+a Comcast customer,pay.01,that Comcast,,Affirmative,"If you are a Comcast customer , you pay Comcast for bandwidth . "
+Level 3 and Comcast,have.03,an arrangement,,Affirmative,"Up to now , Level 3 and Comcast have had an arrangement that allowed each company to send bits bidirectionally . "
+an arrangement,allow.01,company to send bits bidirectionally,,Affirmative,"Up to now , Level 3 and Comcast have had an arrangement that allowed each company to send bits bidirectionally . "
+each company,send.01,the bits,,Affirmative,"Up to now , Level 3 and Comcast have had an arrangement that allowed each company to send bits bidirectionally . "
+Level 3,send.01,more bits,through Comcast,Affirmative,"But now that Level 3 is sending more bits through Comcast than Comcast is sending through Level 3 , Comcast wants to be paid . "
+that Comcast,want.01,to be paid,,Affirmative,"But now that Level 3 is sending more bits through Comcast than Comcast is sending through Level 3 , Comcast wants to be paid . "
+information,travel.01,around,,Affirmative,It 's a reasonable metaphor for the way information travels around the Internet . 
+Even engineers,like.01,to call bunches of bits,,Affirmative,"Even engineers like to call bunches of bits getting from place to place , traffic . "
+Even engineers,call.01,bunches of bits,,Affirmative,"Even engineers like to call bunches of bits getting from place to place , traffic . "
+you,place.01,several different ways,,Affirmative,"In the physical travel world , you can get from place to place several different ways . "
+You,ride.01,a bike,,Affirmative,"You can walk , ride a bike , take a car , take a bus , take a train or fly . "
+You,take.01,a car,,Affirmative,"You can walk , ride a bike , take a car , take a bus , take a train or fly . "
+we all,know.01,often require us,,Affirmative,"Of course , while some places are only accessible by air , we all know that remote locations very often require us to use multiple modes of transportation . "
+remote locations,require.01,to use,us,Affirmative,"Of course , while some places are only accessible by air , we all know that remote locations very often require us to use multiple modes of transportation . "
+we,use.01,multiple modes of transportation,,Affirmative,"Of course , while some places are only accessible by air , we all know that remote locations very often require us to use multiple modes of transportation . "
+transportation world,have.03,defined class structure,,Affirmative,The physical transportation world also has a fairly well - defined class structure . 
+modes of travel,meet.03,the needs of,,Affirmative,It is segmented with modes of travel that efficiently meet the needs of each constituency -- and it is economically segregated . 
+You,find.01,an Upper Eastside Socialite,,Affirmative,"You are about as likely to find an Upper Eastside Socialite in the lounge at the Port Authority bus terminal waiting for a bus to South Carolina , as you are to find a single mother of six on welfare in the Admiral 's Club at JFK Terminal 8 waiting for her first class seat to the Vineyard . "
+you,find.01,a single mother of six,,Affirmative,"You are about as likely to find an Upper Eastside Socialite in the lounge at the Port Authority bus terminal waiting for a bus to South Carolina , as you are to find a single mother of six on welfare in the Admiral 's Club at JFK Terminal 8 waiting for her first class seat to the Vineyard . "
+we,expect.01,landscape to look in,,Affirmative,"How would we expect the economic landscape to look in a world where , instead of one Information Superhighway , we 'd have web of public and privately owned Information Super Toll Roads ? "
+the economic landscape,look.01,in,,Affirmative,"How would we expect the economic landscape to look in a world where , instead of one Information Superhighway , we 'd have web of public and privately owned Information Super Toll Roads ? "
+we,have.03,web of,,Affirmative,"How would we expect the economic landscape to look in a world where , instead of one Information Superhighway , we 'd have web of public and privately owned Information Super Toll Roads ? "
+we,expect.01,people,,Affirmative,Would we expect people who could only afford Greyhound bus service to do business with companies in Europe or Asia ? 
+people,afford.01,Greyhound bus service,,Affirmative,Would we expect people who could only afford Greyhound bus service to do business with companies in Europe or Asia ? 
+people,do.02,business,,Affirmative,Would we expect people who could only afford Greyhound bus service to do business with companies in Europe or Asia ? 
+we,expect.01,people,,Affirmative,Would we expect people who could only afford Amtrak train service to compete with people who could deliver merchandise overnight via air ? 
+people,afford.01,Amtrak train service,,Affirmative,Would we expect people who could only afford Amtrak train service to compete with people who could deliver merchandise overnight via air ? 
+people,compete.01,with people,,Affirmative,Would we expect people who could only afford Amtrak train service to compete with people who could deliver merchandise overnight via air ? 
+people,deliver.01,merchandise,,Affirmative,Would we expect people who could only afford Amtrak train service to compete with people who could deliver merchandise overnight via air ? 
+organizations,own.01,Super Toll Roads,,Affirmative,Would organizations that own toll roads make it just a little too expensive to compete with them ? 
+organizations,make.02,Amtrak train service,,Affirmative,Would organizations that own toll roads make it just a little too expensive to compete with them ? 
+own airlines,charge.01,competitors,,Affirmative,Would organizations that own airlines charge competitors for extra bags and bigger seats ? 
+by,own.01,private toll roads owned by,,Affirmative,It is hard to be optimistic about a future world where there is a low - powered free and open Internet and a web of private toll roads owned by non-governmental organizations that inherently compete with their customers . 
+non-governmental organizations,compete.01,with,,Affirmative,It is hard to be optimistic about a future world where there is a low - powered free and open Internet and a web of private toll roads owned by non-governmental organizations that inherently compete with their customers . 
+The specter of,bode.01,"for innovation , entrepreneurship and",ill,Affirmative,"The specter of such a world bodes ill for innovation , entrepreneurship and , in some ways , even the doing of digital life . "
+such a world,say.01,will seriously dissuade,,Affirmative,"That said , regulating pricing for Internet Service Providers will seriously dissuade private investment in the infrastructure we need to move America into the Information Age . "
+regulating pricing for,dissuade.01,private investment in,,Affirmative,"That said , regulating pricing for Internet Service Providers will seriously dissuade private investment in the infrastructure we need to move America into the Information Age . "
+we,need.01,to move America into,,Affirmative,"That said , regulating pricing for Internet Service Providers will seriously dissuade private investment in the infrastructure we need to move America into the Information Age . "
+we,move.01,America,into,Affirmative,"That said , regulating pricing for Internet Service Providers will seriously dissuade private investment in the infrastructure we need to move America into the Information Age . "
+even the service providers,know.01,who is using,,Affirmative,"It 's huge , and so unstructured that even the service providers do n't know who is using their products or how they are using them . "
+Internet Service Providers,use.01,Internet Service Providers,,Affirmative,"It 's huge , and so unstructured that even the service providers do n't know who is using their products or how they are using them . "
+phone companies,charge.05,us,"for making calls , but receiving",Affirmative,"Back in the day , phone companies charged us for making calls , but receiving a call was free . "
+phone companies,receive.01,a call was free,,Affirmative,"Back in the day , phone companies charged us for making calls , but receiving a call was free . "
+cell phones,hit.02,the market,,Affirmative,"As soon as cell phones hit the market , we started paying for time used ( bandwidth ) both coming and going . "
+us,start.01,paying for time used,,Affirmative,"As soon as cell phones hit the market , we started paying for time used ( bandwidth ) both coming and going . "
+us,use.01,the bandwidth,,Affirmative,"Now , we pay for the bandwidth we use on one end . "
+us,govern.01,America,,Affirmative,"However , at the enterprise level , if we were to govern America for the best possible GDP ( as opposed to governing for corporate profits ) , it has the potential to be a huge problem . "
+the enterprise level,have.03,the potential,,Affirmative,"However , at the enterprise level , if we were to govern America for the best possible GDP ( as opposed to governing for corporate profits ) , it has the potential to be a huge problem . "
+I,advocate.01,any government involvement with,,Affirmative,I am NOT advocating any government involvement with the Internet . 
+I,think.01,government has proven,,Affirmative,I think government has proven that it has no business being in any business . 
+government,prove.01,that it has,,Affirmative,I think government has proven that it has no business being in any business . 
+the public Internet,have.03,no business being in,,Affirmative,I think government has proven that it has no business being in any business . 
+you,leave.01,a debate,to others,Affirmative,"However , this is not a debate you can leave to others . "
+to learn about,take.10,few minutes,,Affirmative,Take a few minutes to learn about the issue . 
+America,need.01,you,,Affirmative,America needs you ! 

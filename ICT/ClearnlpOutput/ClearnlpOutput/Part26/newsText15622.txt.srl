@@ -1,0 +1,472 @@
+1	Konstantin	konstantin	NNP	p2=VBN	5	nn	_
+2	Grishin	grishin	NNP	_	5	nn	_
+3	/	/	SYM	p2=,	5	punct	_
+4	ReutersCrimean	reuterscrimean	NNP	_	5	nn	_
+5	Tatars	tatars	NNP	p2=NNPS	0	root	_
+6	and	and	CC	_	5	cc	_
+7	local	local	JJ	_	8	amod	_
+8	residents	resident	NNS	_	5	conj	9:A0=PAG
+9	lighting	light	VBG	p2=VBP|pb=light.01	8	partmod	_
+10	candles	candle	NNS	_	9	dobj	9:A1=PPT
+11	during	during	IN	_	9	prep	9:AM-MNR
+12	a	a	DT	_	14	det	_
+13	memorial	memorial	JJ	_	14	amod	_
+14	ceremony	ceremony	NN	_	11	pobj	15:A0=PAG
+15	marking	mark	VBG	pb=mark.01	14	partmod	_
+16	the	the	DT	_	18	det	_
+17	70th	#ord#	JJ	_	18	amod	_
+18	anniversary	anniversary	NN	_	15	dobj	15:A1=PPT
+19	of	of	IN	_	18	prep	_
+20	the	the	DT	_	22	det	_
+21	Soviet	soviet	JJ	_	22	amod	_
+22	deportation	deportation	NN	_	19	pobj	_
+23	.	.	.	_	5	punct	_
+
+1	About	about	RB	_	2	advmod	_
+2	40	0	CD	_	3	num	_
+3	%	%	NN	_	7	nsubj	7:A0=PAG;9:A0
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	Tatars	tatar	NNPS	p2=NNP	4	pobj	_
+7	forced	force	VBD	pb=force.01	13	ccomp	_
+8	to	to	TO	_	9	aux	_
+9	leave	leave	VB	pb=leave.01	7	xcomp	7:A2=PRD
+10	Crimea	crimea	NNP	p2=NN	9	dobj	9:A1=DIR
+11	in	in	IN	_	9	prep	9:AM-TMP
+12	1944	0	CD	_	11	pobj	_
+13	died	die	VBD	p2=VBN|pb=die.01	0	root	_
+14	due	due	JJ	p2=IN	13	prep	13:AM-CAU
+15	to	to	IN	p2=TO	14	pcomp	_
+16	disease	disease	NN	_	14	pobj	_
+17	or	or	CC	_	16	cc	_
+18	hunger	hunger	NN	_	16	conj	_
+19	.	.	.	_	13	punct	_
+
+1	Several	several	JJ	_	2	amod	_
+2	hundred	#crd#	CD	_	3	num	_
+3	people	people	NNS	_	4	nsubj	4:A0=PPT
+4	marched	march	VBD	pb=march.01	0	root	_
+5	in Kiev	in kiev	NNP	p2=IN	8	nn	_
+6	on Sunday	on sunday	NNP	_	8	nn	_
+7	to commemorate	to commemorate	NNP	p2=POS	8	nn	_
+8	the brutal	the brutal	NNP	p2=NN	9	nn	_
+9	deportation	deportation	NN	_	4	npadvmod	4:AM-TMP
+10	70	0	CD	_	11	num	_
+11	years	year	NNS	_	12	npadvmod	_
+12	ago	ago	RB	_	9	advmod	_
+13	of Crimea	of crimea	NNP	p2=NFP	17	poss	_
+14	's	's	POS	_	13	possessive	_
+15	entire	entire	JJ	_	17	amod	_
+16	population	population	NN	_	17	nn	_
+17	of Tatars	of tatars	NNS	p2=NNP	9	appos	_
+18	.	.	.	_	4	punct	_
+
+1	Many	many	JJ	_	2	amod	_
+2	Tatars	tatar	NNPS	p2=NNP	4	nsubj	_
+3	later	later	RB	_	4	advmod	4:AM-TMP
+4	returned	return	VBD	pb=return.02	0	root	_
+5	to Crimea	to crimea	NNP	p2=NN	4	dobj	4:A1=PPT
+6	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	3	nsubj	3:A0
+2	strongly	strongly	RB	_	3	advmod	3:AM-MNR
+3	supported	support	VBD	pb=support.01	0	root	_
+4	the new	the new	JJ	p2=DT	6	amod	_
+5	Ukrainian	ukrainian	JJ	_	6	amod	_
+6	government	government	NN	_	3	dobj	3:A1
+7	and opposed	and opposed	VBD	p2=NNP|pb=and opposed.01	3	dep	_
+8	Russia	russia	NNP	_	13	poss	_
+9	's	's	POS	_	8	possessive	_
+10	annexation	annexation	NN	_	11	nn	_
+11	of the	of the	NN	p2=HYPH	13	nn	_
+12	peninsula	peninsula	NN	_	13	nn	_
+13	in March	in march	NN	p2=NNP	7	dobj	7:A1
+14	.	.	.	_	3	punct	_
+
+1	While	while	IN	_	4	mark	_
+2	the Kiev	the kiev	DT	p2=PRP$	3	det	_
+3	rally	rally	NN	_	4	nsubj	4:A1=PPT
+4	proceeded	proceed	VBD	pb=proceed.01	12	advcl	12:AM-TMP
+5	without	without	IN	_	4	prep	4:AM-MNR
+6	incident	incident	NN	_	5	pobj	_
+7	,	,	,	_	4	punct	_
+8	the new	the new	RB	p2=JJ	9	advmod	_
+9	Kremlin-backed	kremlin-backed	JJ	p2=VBD	10	amod	_
+10	leaders	leader	NNS	_	21	nsubj	12:A2=GOL
+11	of Crimea	of crimea	NNP	p2=,	12	nsubj	12:A0=PAG
+12	banned	ban	VBD	pb=ban.01	10	rcmod	_
+13	Sunday	sunday	NNP	_	16	poss	_
+14	's	's	POS	_	13	possessive	_
+15	main	main	JJ	_	16	amod	_
+16	rally	rally	NN	_	12	dobj	12:A1=PPT
+17	in the	in the	JJ	p2=NN	19	amod	_
+18	Crimean	crimean	NNP	p2=NN	19	nn	_
+19	capital	capital	NN	_	0	root	_
+20	,	,	,	_	19	punct	_
+21	Simferopol	simferopol	NNP	_	19	appos	_
+22	.	.	.	_	12	punct	_
+
+1	Some	some	DT	_	2	det	_
+2	Tatars	tatar	NNPS	p2=NNP	4	nsubj	4:A1=PPT
+3	instead	instead	RB	_	4	advmod	4:AM-ADV
+4	gathered	gather	VBD	pb=gather.01	0	root	_
+5	near	near	IN	_	4	prep	4:AM-LOC
+6	a mosque	a mosque	JJ	p2=NNP	8	amod	_
+7	on the	on the	CD	p2=JJ	8	num	_
+8	city	city	NN	_	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	outskirts	outskirt	NNS	_	5	pobj	_
+11	.	.	.	_	4	punct	_
+
+1	In May	in may	NNP	p2=$	14	npadvmod	14:AM-TMP
+2	1944	0	CD	_	1	num	_
+3	,	,	,	_	1	punct	_
+4	shortly	shortly	RB	_	8	advmod	_
+5	after	after	IN	_	8	mark	_
+6	Soviet	soviet	JJ	_	7	amod	_
+7	troops	troop	NNS	_	8	nsubj	8:A0=PAG
+8	drove	drive	VBD	pb=drive.01	14	advcl	_
+9	German	german	JJ	_	10	amod	_
+10	forces	force	NNS	_	8	dobj	8:A1=PPT
+11	from Crimea	from crimea	NNP	p2=NNS	14	npadvmod	14:AM-DIS
+12	,	,	,	_	14	punct	_
+13	Stalin	stalin	NNP	_	14	nsubj	14:A0=PAG
+14	accused	accuse	VBD	pb=accuse.01	0	root	_
+15	the Tatars	the tatars	NNS	p2=NNP	14	dobj	16:A0;19:A0;14:A1=PPT
+16	of collaborating	of collaborating	VBG	pb=of collaborating.01	15	partmod	_
+17	with	with	IN	_	16	prep	16:A1
+18	the enemy	the enemy	NNP	p2=PRP$	17	pobj	_
+19	and ordered	and ordered	VBD	p2=NNP|pb=and ordered.01	14	ccomp	14:A2=PRD
+20	their	their	PRP$	_	21	poss	_
+21	deportation	deportation	NN	_	19	dobj	19:A1
+22	.	.	.	_	14	punct	_
+
+1	About	about	RB	_	2	advmod	_
+2	250,000	0	CD	_	3	num	_
+3	Tatars	tatars	NNP	p2=NNS	5	nsubjpass	_
+4	were	be	VBD	_	5	auxpass	_
+5	shipped	ship	VBN	pb=ship.01	0	root	_
+6	in freight	in freight	JJ	p2=CD	7	amod	_
+7	trains	train	NNS	_	5	dobj	5:A1=PPT
+8	to Central	to central	NNP	p2=JJ	9	nn	_
+9	Asia	asia	NNP	_	7	appos	_
+10	,	,	,	_	9	punct	_
+11	where	where	WRB	_	16	advmod	16:R-AM-LOC
+12	more	more	JJR	_	14	amod	_
+13	than	than	IN	_	14	quantmod	_
+14	40	0	CD	_	15	num	_
+15	percent	percent	NN	_	16	nsubj	16:A1=PPT
+16	died	die	VBD	p2=VBN|pb=die.01	9	rcmod	_
+17	of hunger	of hunger	NNP	p2=JJR	18	nn	_
+18	and disease	and disease	NNP	p2=VB	16	dobj	16:AM-PRD
+19	.	.	.	_	5	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

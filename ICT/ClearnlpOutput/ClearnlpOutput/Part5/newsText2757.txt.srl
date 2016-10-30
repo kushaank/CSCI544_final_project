@@ -1,0 +1,109 @@
+1	(	(	-LRB-	_	4	punct	_
+2	'	'	``	p2=POS	4	punct	_
+3	TRE	tre	NNP	_	4	nn	_
+4	AG	ag	NNP	_	0	root	8:A0=PAG
+5	'	'	''	p2=POS	4	punct	_
+6	)	)	-RRB-	_	8	punct	_
+7	will	will	MD	_	8	aux	8:AM-MOD
+8	host	host	VB	pb=host.01	0	root	_
+9	an	an	DT	_	12	det	_
+10	Investor	investor	NN	_	12	nn	_
+11	conference	conference	NN	_	12	nn	_
+12	call	call	NN	p2=VBP	8	dobj	8:A1=GOL
+13	in	in	IN	_	12	prep	_
+14	English	english	NNP	_	13	pobj	_
+15	on	on	IN	_	12	prep	_
+16	Tuesday	tuesday	NNP	_	15	pobj	_
+17	,	,	,	_	12	punct	_
+18	20	0	CD	_	12	appos	_
+19	.	.	.	_	8	punct	_
+
+1	May	may	NNP	p2=MD	0	root	_
+2	2014	0	CD	_	1	num	_
+3	at	at	IN	_	1	prep	_
+4	2	0	CD	_	5	num	_
+5	p.m.	p.m.	NN	p2=RB	3	pobj	_
+6	(	(	-LRB-	_	5	punct	_
+7	CET	cet	NNP	p2=NN	5	appos	_
+8	)	)	-RRB-	_	5	punct	_
+9	.	.	.	_	1	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Dusseldorf	dusseldorf	NNP	p2=IN	3	nn	_
+2	Stock	stock	NNP	_	3	nn	_
+3	Exchange	exchange	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	company	company	NN	_	0	root	_
+2	of	of	IN	_	1	prep	_
+3	EQS	eqs	NNP	_	5	nn	_
+4	Group	group	NNP	_	5	nn	_
+5	AG	ag	NNP	_	2	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	2	det	_
+2	issuer	issuer	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	solely	solely	RB	_	5	advmod	_
+5	responsible	responsible	JJ	_	3	acomp	3:A2=PRD
+6	for	for	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	content	content	NN	_	6	pobj	_
+9	of	of	IN	_	8	prep	_
+10	this	this	DT	_	11	det	_
+11	announcement	announcement	NN	_	9	pobj	_
+12	.	.	.	_	3	punct	_
+
+1	DGAP	dgap	NNP	p2=NN	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Distribution	distribution	NN	p2=NNP	4	nn	_
+4	Services	service	NNPS	p2=NNS	5	nsubj	5:A2=GOL
+5	include	include	VBP	pb=include.01	0	root	_
+6	Regulatory	regulatory	NNP	_	7	nn	_
+7	Announcements	announcement	NNPS	p2=NNP	5	dobj	5:A1=PPT
+8	,	,	,	_	7	punct	_
+9	Financial	financial	NNP	p2=JJ	12	nn	_
+10	/	/	SYM	p2=,	12	punct	_
+11	Corporate	corporate	NNP	p2=JJ	12	nn	_
+12	News	news	NNP	_	7	conj	_
+13	and	and	CC	_	12	cc	_
+14	Press	press	NNP	_	15	nn	_
+15	Releases	releases	NNP	p2=NNPS	12	conj	_
+16	.	.	.	_	5	punct	_
+
+1	Zeitverzögerung	zeitverzögerung	NNP	p2=JJ	2	nn	_
+2	der	der	NN	p2=NNP	3	nn	_
+3	Kursdaten	kursdaten	NNP	p2=NNPS	0	root	_
+4	:	:	:	_	3	punct	_
+5	Deutsche	deutsche	NNP	_	8	nn	_
+6	Börsen	börsen	NNP	_	8	nn	_
+7	+15	+15	NNP	p2=POS	8	nn	_
+8	Min	min	NNP	_	3	appos	_
+9	.	.	.	_	3	punct	_
+
+1	NASDAQ	nasdaq	NNP	_	3	nn	_
+2	+15	+15	NNP	p2=CD	3	nn	_
+3	Min	min	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	NYSE	nyse	NNP	p2=NN	3	nn	_
+2	+20	+20	NNP	p2=CD	3	nn	_
+3	Min	min	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	AMEX	amex	NNP	_	3	nn	_
+2	+20	+20	NNP	p2=CD	3	nn	_
+3	Min	min	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Dow	dow	NNP	_	2	nn	_
+2	Jones	jones	NNP	_	4	nn	_
+3	+15	+15	NNP	p2=IN	4	nn	_
+4	Min	min	NNP	_	0	root	_
+5	.	.	.	_	4	punct	_
+

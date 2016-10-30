@@ -1,0 +1,37 @@
+1	At	at	IN	_	10	prep	10:AM-TMP
+2	21.39	0	CD	_	1	pobj	_
+3	on	on	IN	_	10	prep	10:AM-TMP
+4	December	december	NNP	_	3	pobj	_
+5	28	0	CD	_	4	num	_
+6	,	,	,	_	4	punct	_
+7	2011	0	CD	_	4	npadvmod	_
+8	,	,	,	_	10	punct	_
+9	disaster	disaster	NN	_	10	nsubj	10:A0=PAG
+10	struck	strike	VBD	p2=NN|pb=strike.01	0	root	_
+11	and	and	CC	_	10	cc	_
+12	in	in	IN	_	17	prep	17:AM-LOC
+13	an	an	DT	_	14	det	_
+14	instant	instant	NN	p2=JJ	12	pobj	_
+15	the	the	DT	_	16	det	_
+16	village	village	NN	_	17	nsubj	17:A0=PAG
+17	lost	lose	VBD	pb=lose.02	10	conj	_
+18	its	its	PRP$	_	19	poss	_
+19	youth	youth	NN	_	17	dobj	17:A1=PPT
+20	when	when	WRB	_	22	advmod	22:R-AM-TMP
+21	they	they	PRP	_	22	nsubj	22:A1=PPT
+22	became	become	VBD	pb=become.01	17	advcl	17:AM-TMP
+23	victim	victim	NN	_	22	attr	22:A2=PRD
+24	to	to	IN	_	23	prep	_
+25	the	the	DT	_	27	det	_
+26	Turkish	turkish	JJ	_	27	amod	_
+27	government	government	NN	_	24	pobj	_
+28	?	?	.	_	17	punct	_
+
+1	s	s	PRP	p2=NN	0	root	_
+2	?	?	.	_	1	punct	_
+
+1	war	war	VB	p2=VB|pb=war.01	0	root	_
+2	on	on	IN	_	1	prep	1:A1=COM
+3	terror	terror	NN	_	2	pobj	_
+4	?.	?.	.	p2=NN	1	punct	_
+

@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+unknown strain of bacteria,kill.01,34 people,,Affirmative,"In 1976 , a previously unknown strain of bacteria killed 34 people and sickened more than 200 after an American Legion convention in Philadelphia . "
+unknown strain of bacteria,sicken.01,more than 200 after,,Affirmative,"In 1976 , a previously unknown strain of bacteria killed 34 people and sickened more than 200 after an American Legion convention in Philadelphia . "
+researchers,learn.01,"bacteria live in water , soil and elsewhere",,Affirmative,"Since then , regular outbreaks of Legionnaires ' disease have occurred around the world , and researchers have learned that the bacteria live in water , soil and elsewhere . "
+water containing,contain.01,"The bacteria , which flourish in warm water",,Affirmative,"The greatest danger is when water containing the bacteria becomes an inhalable aerosol that can work its way deep into the lungs , causing a pneumonia that is sometimes fatal . "
+an inhalable aerosol,work.06,its way,,Affirmative,"The greatest danger is when water containing the bacteria becomes an inhalable aerosol that can work its way deep into the lungs , causing a pneumonia that is sometimes fatal . "
+The greatest danger,cause.01,"Pontiac fever ,",,Affirmative,"More often , it causes Pontiac fever , a milder , flu-like illness that runs its course . "
+flu-like illness,run.02,its course,,Affirmative,"More often , it causes Pontiac fever , a milder , flu-like illness that runs its course . "
+a researcher at,discover.01,bacteria can live in,,Affirmative,Now a researcher at Arizona State University has discovered that the bacteria can live in some brands of windshield washer fluid and flourish in the motor vehicle reservoirs that contain it . 
+reservoirs,contain.01,windshield washer fluid,,Affirmative,Now a researcher at Arizona State University has discovered that the bacteria can live in some brands of windshield washer fluid and flourish in the motor vehicle reservoirs that contain it . 
+by,inhale.01,some of,,Affirmative,"When sprayed , some of the droplets can be inhaled by vehicle occupants , especially people like bus drivers who are behind the wheel for extended periods . "
+a doctoral student,conduct.01,the research,,Affirmative,"Otto Schwake , a doctoral student who conducted the research and is presenting his findings this week at a meeting of the  American Society for Microbiology , said he believes Legionella is under - diagnosed as the cause of pneumonias in the United States . "
+a doctoral student,present.01,his findings,,Affirmative,"Otto Schwake , a doctoral student who conducted the research and is presenting his findings this week at a meeting of the  American Society for Microbiology , said he believes Legionella is under - diagnosed as the cause of pneumonias in the United States . "
+"Otto Schwake ,",say.01,he believes,,Affirmative,"Otto Schwake , a doctoral student who conducted the research and is presenting his findings this week at a meeting of the  American Society for Microbiology , said he believes Legionella is under - diagnosed as the cause of pneumonias in the United States . "
+Otto Schwake,believe.01,Legionella is,,Affirmative,"Otto Schwake , a doctoral student who conducted the research and is presenting his findings this week at a meeting of the  American Society for Microbiology , said he believes Legionella is under - diagnosed as the cause of pneumonias in the United States . "
+One study in Britain,cite.01,washer fluid,for,Affirmative,One study in Britain cited windshield washer fluid for nearly 20 percent of Legionnaires ' disease cases not associated with hospitals or outbreaks . 
+a doctor,see.01,pneumonia,,Affirmative,"When a doctor sees pneumonia , he 's not going to say ' oh you got it from your car ' . "
+a doctor,say.01,oh you got it from,,Affirmative,"When a doctor sees pneumonia , he 's not going to say ' oh you got it from your car ' . "
+you,get.01,One study in Britain,from,Affirmative,"When a doctor sees pneumonia , he 's not going to say ' oh you got it from your car ' . "
+a doctor,say.01,oh you got it from,,Affirmative,"He 's going to say ' oh you got it from a typical source ' , Schwake told me Sunday . "
+you,get.01,One study in Britain,from,Affirmative,"He 's going to say ' oh you got it from a typical source ' , Schwake told me Sunday . "
+team,test.01,five different brands of,,Affirmative,Schwake 's team tested five different brands of washer fluids . 
+"The bacteria ,",inhibit.01,their growth,,Affirmative,"The bacteria , which flourish in warm water , grew well in washer varieties without methanol , which would inhibit their growth . "
+"misters , fountains , nebulizers and",create.01,fine water droplets,,Affirmative,"Other potential sources of Legionella are misters , fountains , nebulizers and hospital equipment that create fine water droplets as their main function . "
+Otto Schwake,say.01,he believes,,Affirmative,Schwake said he believes transmission of the bacteria from soil will  become a recognized problem in the next 20 years . 
+Otto Schwake,believe.01,will  become,,Affirmative,Schwake said he believes transmission of the bacteria from soil will  become a recognized problem in the next 20 years . 
+Otto Schwake,say.01,message is,,Affirmative,"The big take - home message is that this is one example , one pathogen , with a potential new route of exposure that we 're not aware of , he said . "
+Lenny Bernstein,write.01,the,To,Affirmative,Lenny Bernstein writes the To Your Health blog . 
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

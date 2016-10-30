@@ -1,0 +1,177 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+patient Brent Redd,stab.01,Jennifer Warren,,Affirmative,"Mental health patient Brent Redd stabbed Jennifer Warren to death on May 20 , 2012 while Warren was delivering Redd 's medication . "
+Jennifer Warren,deliver.01,medication,,Affirmative,"Mental health patient Brent Redd stabbed Jennifer Warren to death on May 20 , 2012 while Warren was delivering Redd 's medication . "
+"Daniel ,",leave.01,their Job,,Affirmative,"Daniel , who left her job after the murder , said Warren 's family filed a wrongful death lawsuit against several state and local agencies . "
+"Daniel ,",say.01,family filed,,Affirmative,"Daniel , who left her job after the murder , said Warren 's family filed a wrongful death lawsuit against several state and local agencies . "
+family,file.01,a wrongful death lawsuit,,Affirmative,"Daniel , who left her job after the murder , said Warren 's family filed a wrongful death lawsuit against several state and local agencies . "
+family,sue.01,the Employer,,Affirmative,"But , under Oregon law , Warren 's family ca n't sue the employer , Columbia Community Mental Health , or the state department that contracted with them because of workers compensation . "
+"A proposed bill , introduced in",change.01,this year,,Affirmative,"A proposed bill , introduced in the Oregon House of Representatives this year , would change that . "
+"Daniel , who left her job after the murder",say.01,bill would motivate,,Affirmative,Daniel said the proposed bill would motivate the state and other employers to add safety protocols and oversight . 
+the state and,add.02,safety protocols and oversight,,Affirmative,Daniel said the proposed bill would motivate the state and other employers to add safety protocols and oversight . 
+Columbia Community Mental Health,change.01,some things,,Affirmative,Columbia Community Mental Health has changed some things since Warren 's murder . 
+Workers,carry.01,a panic alarm,,Affirmative,"Workers now carry a panic alarm , for example . "
+"Daniel , who left her job after the murder",say.01,that 's not enough,,Affirmative,Daniel said that 's not enough . 
+"Daniel , who left her job after the murder",try.01,to get,,Affirmative,"The proposed bill did n't get far with lawmakers this year , but Daniel is trying to get the word out , so there 's more progress on it next year . "
+"Daniel , who left her job after the murder",get.05,the word,out,Affirmative,"The proposed bill did n't get far with lawmakers this year , but Daniel is trying to get the word out , so there 's more progress on it next year . "
+Social workers,have.03,families slapped in,,Affirmative,"Social workers get paid diddly and then to have their families slapped in the face when they were put into an unsafe situation with the state having no liability , that is outrageous . "
+the state,have.03,no liability,,Affirmative,"Social workers get paid diddly and then to have their families slapped in the face when they were put into an unsafe situation with the state having no liability , that is outrageous . "
+companies like CCMH,do.02,it was necessary,,Affirmative,Example - If CCMH was held accountable then they would do what ever it was necessary to prevent a law suit . 
+companies like CCMH,listen.01,to,,Affirmative,Maybe they would listen to staff notes outlying a problem or make sure that the company monitoring the panic switched is reliable and that every employee while working has a functional panic switch . 
+companies like CCMH,make.02,sure,,Affirmative,Maybe they would listen to staff notes outlying a problem or make sure that the company monitoring the panic switched is reliable and that every employee while working has a functional panic switch . 
+the company monitoring,monitor.01,the panic switched,,Affirmative,Maybe they would listen to staff notes outlying a problem or make sure that the company monitoring the panic switched is reliable and that every employee while working has a functional panic switch . 
+the company monitoring,switch.01,the panic switched,,Affirmative,Maybe they would listen to staff notes outlying a problem or make sure that the company monitoring the panic switched is reliable and that every employee while working has a functional panic switch . 
+every employee,have.03,a functional panic switch,,Affirmative,Maybe they would listen to staff notes outlying a problem or make sure that the company monitoring the panic switched is reliable and that every employee while working has a functional panic switch . 
+Jennifer Warren,deliver.01,the drugs,to someone,Affirmative,- She was delivering drugs to someone who had a history of violence and he killed her . 
+someone,have.03,a history of violence,,Affirmative,- She was delivering drugs to someone who had a history of violence and he killed her . 
+someone who had a history of violence,kill.01,Jennifer Warren,,Affirmative,- She was delivering drugs to someone who had a history of violence and he killed her . 
+Brent Reed,lower.01,his medication doseage,,Affirmative,- Brent Reed had lowered his medication doseage due to a virus and thus could have been crazy because the drugs supposedly made him normal . 
+the drugs,make.02,him normal,,Affirmative,- Brent Reed had lowered his medication doseage due to a virus and thus could have been crazy because the drugs supposedly made him normal . 
+this,mean.01,death could 've been prevented,,Affirmative,"- She should 've been with someone else and not by herself in this situation , so this means her death could 've been prevented because her employer knew about Brent Reed being crazy and having a history . "
+the Employer,know.01,about,,Affirmative,"- She should 've been with someone else and not by herself in this situation , so this means her death could 've been prevented because her employer knew about Brent Reed being crazy and having a history . "
+Brent Reed,have.03,a history,,Affirmative,"- She should 've been with someone else and not by herself in this situation , so this means her death could 've been prevented because her employer knew about Brent Reed being crazy and having a history . "
+yet another law,prevent.01,Warren 's family,from suing,Affirmative,- For some reason the law prevents her family from suing the mental health system . 
+Warren 's family,sue.01,the mental health system,,Affirmative,- For some reason the law prevents her family from suing the mental health system . 
+I,think.01,the lawÂ should allow,,Affirmative,I think the lawÂ should allow her to sue if there was negligence . 
+We,need.01,to stop,,Affirmative,We need to stop this blasted band - aid garbage and get to the root of the problem . 
+We,stop.01,aid garbage,,Affirmative,We need to stop this blasted band - aid garbage and get to the root of the problem . 
+these workers,utilize.01,self defense,,Affirmative,"Â  And , until we can get to the root of the problem , these workers MUST be allowed to utilize self defense to keep themselves and others safe . "
+these workers,keep.02,themselves and others,,Affirmative,"Â  And , until we can get to the root of the problem , these workers MUST be allowed to utilize self defense to keep themselves and others safe . "
+someone,have.03,intent,,Affirmative,"Â  If someone has intent especially while being mentally compromised to harm another , there is very little that can be done to stop it . "
+This,help.01,the attorneys,,Affirmative,This will certainly help the attorneys however . 
+you,sue.01,state managers,,Affirmative,"Now if you could sue state managers PERSONALLY , then it would make a difference . "
+it,make.01,a difference,,Affirmative,"Now if you could sue state managers PERSONALLY , then it would make a difference . "
+Â  politicians,have.03,minds,,Affirmative,"Â The law should be changed , but , Â  politicians have minds that work differentlyÂ from normal people . "
+minds,work.01,differentlyÂ from,,Affirmative,"Â The law should be changed , but , Â  politicians have minds that work differentlyÂ from normal people . "
+they,do.02,something,,Affirmative,"Â  If one of their family members would have been killed , they would do something , otherwise probably not . "
+I,like.01,that she points out,,Affirmative,I like that she points out that when people think they may lose money they tend to do what they need to in order to prevent that from happening . 
+she,point.02,they tend,,Affirmative,I like that she points out that when people think they may lose money they tend to do what they need to in order to prevent that from happening . 
+people,think.01,they may lose money,,Affirmative,I like that she points out that when people think they may lose money they tend to do what they need to in order to prevent that from happening . 
+they,lose.02,money,,Affirmative,I like that she points out that when people think they may lose money they tend to do what they need to in order to prevent that from happening . 
+they,do.02,what they need to,,Affirmative,I like that she points out that when people think they may lose money they tend to do what they need to in order to prevent that from happening . 
+I,say.01,depends on,,Affirmative,As someone who has worked in this field I can say it just all depends on where you work when it comes to agencies meeting or following safety standards . 
+This,depend.01,on,,Affirmative,As someone who has worked in this field I can say it just all depends on where you work when it comes to agencies meeting or following safety standards . 
+agencies meeting or following,follow.01,safety standards,,Affirmative,As someone who has worked in this field I can say it just all depends on where you work when it comes to agencies meeting or following safety standards . 
+I,know.01,did,,Affirmative,"I know Jenifer 's Father , my Girlfriend did Jenifer 's job until a month before the murder and still works for CCMH . "
+"Father ,",do.02,job,,Affirmative,"I know Jenifer 's Father , my Girlfriend did Jenifer 's job until a month before the murder and still works for CCMH . "
+I,hope.01,they pass,,Affirmative,"I hope they pass this law , these workers need better protection and their Families deserve having them protected . "
+they,pass.01,this law,,Affirmative,"I hope they pass this law , these workers need better protection and their Families deserve having them protected . "
+these workers,need.01,better protection and,,Affirmative,"I hope they pass this law , these workers need better protection and their Families deserve having them protected . "
+their Families,have.03,them protected,,Affirmative,"I hope they pass this law , these workers need better protection and their Families deserve having them protected . "
+Nothing,prevent.01,this death,,Affirmative,Nothing would have prevented this death . 
+People,murder.01,someone,,Affirmative,People who are intent on murdering someone is not going to stop at yet another law . 
+you,read.01,the law,,Affirmative,If you read the law as proposed it is all about suing the state or local government . 
+my friend,do.02,her job,,Affirmative,Show some respect for my friend who died doing her job ! 
+you,suggest.01,Girlfriend packÂ a weapon,,Affirmative,"@ wandering So are you suggesting my Girlfriend packÂ a weapon that one of her Patients could overpower her , take it from her and kill her ? "
+one of,overpower.01,her,,Affirmative,"@ wandering So are you suggesting my Girlfriend packÂ a weapon that one of her Patients could overpower her , take it from her and kill her ? "
+one of,take.01,it,from her,Affirmative,"@ wandering So are you suggesting my Girlfriend packÂ a weapon that one of her Patients could overpower her , take it from her and kill her ? "
+one of,kill.01,her,,Affirmative,"@ wandering So are you suggesting my Girlfriend packÂ a weapon that one of her Patients could overpower her , take it from her and kill her ? "
+rules concerning that,concern.02,that,,Affirmative,There are rules concerning that and they need to be followed . 
+This,need.01,to be followed,,Affirmative,There are rules concerning that and they need to be followed . 
+Quaoptician,make.02,could have prevented,,Affirmative,@ Quaoptician Making the delivery an hour later or earlier could have prevented the tragedy . 
+the delivery,prevent.01,the tragedy,,Affirmative,@ Quaoptician Making the delivery an hour later or earlier could have prevented the tragedy . 
+CCMH,listen.01,to,,Affirmative,If CCMH has listened to the staff who deals directly with the staff daily this could have been avoided ! 
+the staff,deal.01,with,,Affirmative,If CCMH has listened to the staff who deals directly with the staff daily this could have been avoided ! 
+they,have.03,panic buttons,,Affirmative,"Big deal they have panic buttons , they do not track where the person wearing them is at . "
+they,track.01,is at,,Affirmative,"Big deal they have panic buttons , they do not track where the person wearing them is at . "
+the person wearing them,wear.01,them,,Affirmative,"Big deal they have panic buttons , they do not track where the person wearing them is at . "
+CCMH,find.01,the location of,,Affirmative,AnÂ alarm goes off the monitoring company calls CCMH to find the location of the employee then law enforcement is called . 
+they,make.02,job safer,,Affirmative,Hold businesses like CCMH accountable and they would make the job safer ! 
+it,have.03,Employer had followed,,Affirmative,@ Quaoptician Yes it could have if the Employer had followed the rules and had had two people there to deliver the meds it would not have happened . 
+the Employer,followed.02,the rules,,Affirmative,@ Quaoptician Yes it could have if the Employer had followed the rules and had had two people there to deliver the meds it would not have happened . 
+the Employer,have.03,two people there,,Affirmative,@ Quaoptician Yes it could have if the Employer had followed the rules and had had two people there to deliver the meds it would not have happened . 
+two people there,deliver.01,the meds,,Affirmative,@ Quaoptician Yes it could have if the Employer had followed the rules and had had two people there to deliver the meds it would not have happened . 
+It,make.02,it very expensive,,Affirmative,@ Philip Marlowe It will make it very expensive to not follow the rules . 
+OSHA,get.01,all the money and,,Affirmative,Why should OSHA get all the money and not the two kids that Jenifer left behind ? 
+OSHA,get.01,their money,for,Affirmative,OSHA will get their money for the safety violation but the kids get nothing but the paltry Workman 's Comp . 
+the kids,get.01,nothing but,,Affirmative,OSHA will get their money for the safety violation but the kids get nothing but the paltry Workman 's Comp . 
+These people,do.02,this work,,Affirmative,These people who do this work need the protection and the Employer needs to follow the rules or make it right . 
+These people,need.01,the protection and,,Affirmative,These people who do this work need the protection and the Employer needs to follow the rules or make it right . 
+the Employer,need.01,to follow,,Affirmative,These people who do this work need the protection and the Employer needs to follow the rules or make it right . 
+the Employer,follow.02,the rules,,Affirmative,These people who do this work need the protection and the Employer needs to follow the rules or make it right . 
+the Employer,make.02,it right,,Affirmative,These people who do this work need the protection and the Employer needs to follow the rules or make it right . 
+You,know.01,it was,,Affirmative,You do know it was a state worker who was killed right ? 
+by,protect.01,state managers,,Affirmative,"Also , state managers are not protected by a union . "
+You,want.01,to become,,Affirmative,You might want to become a little bit informed before shooting your mouth off . 
+You,shoot.02,your mouth,,Affirmative,You might want to become a little bit informed before shooting your mouth off . 
+You,require.01,all the security standards in,,Affirmative,@ Ironclad Â  You can require all the security standards in the world . 
+Â  None of which,do.02,one damn bit of good,,Affirmative,Â  None of which will do one damn bit of good if those security standards are not adhered to . 
+We,hire.01,enough people,to send one,Affirmative,We do n't hire enough people to send one every time needed . 
+enough people,send.01,one,,Affirmative,We do n't hire enough people to send one every time needed . 
+You,think.01,we have enough for,,Affirmative,You think we have enough for the buddy system ? 
+we,have.03,enough for,,Affirmative,You think we have enough for the buddy system ? 
+The mantra for,do.02,more,,Affirmative,The mantra for front line state workers is do more with less . 
+a weapon,do.02,even more,,Affirmative,Then next year it 's do even more with even less . 
+The Cops,have.03,the Man Power or time,,Affirmative,@ lee98632 The Cops do not have the Man Power or time to do that . 
+I,say.01,pack,,Affirmative,@ swede760 @ wandering Â  Did I say pack a weapon ? 
+someone,deal.01,with,,Affirmative,"Â  Also , if someone is going to deal with a known psycho , perhaps they should not be going alone . "
+you,refer.01,to,,Affirmative,And what is wrong with packing a weapon ( assuming you are referring to a gun ) ? 
+the psycho,know.01,about it,,Affirmative,"Â  If it is concealed , the psycho wo n't know about it . "
+they,have.03,a better chance at survival,,Affirmative,"Â  If a worker is being threatened , they may have a better chance at survival . "
+I,think.01,least have,,Affirmative,Â  I just think that those working with these mental whacks should at least have the option of what they feel comfortable with when it comes to protecting their lives . 
+those working with,have.03,the option of,,Affirmative,Â  I just think that those working with these mental whacks should at least have the option of what they feel comfortable with when it comes to protecting their lives . 
+they,feel.01,comfortable with,,Affirmative,Â  I just think that those working with these mental whacks should at least have the option of what they feel comfortable with when it comes to protecting their lives . 
+that,mean.01,laws actually need,,Affirmative,"Â  Of course , that also means that the laws actually need to ALLOW them to defend themselves from attacks . "
+the laws,need.01,to ALLOW,,Affirmative,"Â  Of course , that also means that the laws actually need to ALLOW them to defend themselves from attacks . "
+the laws,allow.01,them to defend themselves from attacks,,Affirmative,"Â  Of course , that also means that the laws actually need to ALLOW them to defend themselves from attacks . "
+them,defend.01,themselves,from attacks,Affirmative,"Â  Of course , that also means that the laws actually need to ALLOW them to defend themselves from attacks . "
+the patient,overpower.01,her,,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+the patient,need.01,to get,,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+the patient,get.01,a weapon,from her,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+The patient,kill.01,her,,Affirmative,Â  The patient can just kill her with impunity anyway . 
+she,have.03,no chance,,Affirmative,"Â  Without the weapon she has no chance , with it she has a chance . "
+she,have.03,a chance,,Affirmative,"Â  Without the weapon she has no chance , with it she has a chance . "
+some big psycho,take.11,2 people,,Affirmative,"Â  Sure , odds are better for the workers , but some big psycho could easily take out 2 people that have no means by which to protect themselves . "
+2 people,have.03,no means,,Affirmative,"Â  Sure , odds are better for the workers , but some big psycho could easily take out 2 people that have no means by which to protect themselves . "
+we (,need.01,to be informed about,,Affirmative,"@ swede760 Â  @ Philip Marlowe Â Thank you for that bit of info , that is the sort of detail we ( the public ) needed to be informed about what went wrong and how the proposed bill would change things . "
+the proposed bill,change.01,things,,Affirmative,"@ swede760 Â  @ Philip Marlowe Â Thank you for that bit of info , that is the sort of detail we ( the public ) needed to be informed about what went wrong and how the proposed bill would change things . "
+They,follow.02,State Rules,,Affirmative,They have to follow State Rules and they do charge OHP and Medicare but they are privately operated . 
+an emergency people,charge.01,OHP and Medicare,,Affirmative,They have to follow State Rules and they do charge OHP and Medicare but they are privately operated . 
+front line state workers,need.01,to be able,,Affirmative,After all they only need to be able to run away and call in . 
+They,know.01,who attacked them,,Affirmative,They know who attacked them and it will be a while before the client can see to flee . 
+the client,see.01,to flee,,Affirmative,They know who attacked them and it will be a while before the client can see to flee . 
+The law,grant.01,liability protections for,,Affirmative,The law should also grant some limited liability protections for a worker defending themselves while trying doing their job . 
+a worker defending themselves,defend.01,themselves,,Affirmative,The law should also grant some limited liability protections for a worker defending themselves while trying doing their job . 
+a worker defending themselves,try.01,doing,,Affirmative,The law should also grant some limited liability protections for a worker defending themselves while trying doing their job . 
+a worker defending themselves,do.02,their job,,Affirmative,The law should also grant some limited liability protections for a worker defending themselves while trying doing their job . 
+wandering Anyone,think.01,there is,,Affirmative,@ tullyB @ swede760 @ wandering Anyone who thinks there is a comparison between St. Helens Oregon and Los Angeles has to be a complete Moron ! 
+I,see.01,have,,Affirmative,@ swede760 @ tullyB @ wandering I saw on a Netflix show about the LA police have a computer program that predicts gang violence based on the information fed into it . 
+a computer program,predict.01,gang violence,,Affirmative,@ swede760 @ tullyB @ wandering I saw on a Netflix show about the LA police have a computer program that predicts gang violence based on the information fed into it . 
+Cops during,keep.02,traffic flowing,,Affirmative,Cops during the day are mainly out there to keep traffic flowing . 
+The safety in numbers,have.03,a cop with them,,Affirmative,The safety in numbers is having a cop with them . 
+the Cops,have.03,people would go with out,,Affirmative,"@ tullyB @ swede760 @ wandering So if the Cops had an emergency people would go with out the psychotropic drugs they need to stay sane , bad idea ! "
+they,need.01,to stay,,Affirmative,"@ tullyB @ swede760 @ wandering So if the Cops had an emergency people would go with out the psychotropic drugs they need to stay sane , bad idea ! "
+cops,accompany.01,the deliveries,,Affirmative,"@ swede760 @ wandering With all the data that is available , times could be set for cops to accompany the deliveries during slow times for the police . "
+I,say.01,patients have,,Affirmative,"Â  Like I said , patients have no reason to know that the workers have something which they can use to defend themselves should the need arise - you know - concealed . "
+patients,have.03,no reason,,Affirmative,"Â  Like I said , patients have no reason to know that the workers have something which they can use to defend themselves should the need arise - you know - concealed . "
+the workers,have.03,something,,Affirmative,"Â  Like I said , patients have no reason to know that the workers have something which they can use to defend themselves should the need arise - you know - concealed . "
+they,use.01,something,to defend themselves,Affirmative,"Â  Like I said , patients have no reason to know that the workers have something which they can use to defend themselves should the need arise - you know - concealed . "
+they,defend.01,themselves,,Affirmative,"Â  Like I said , patients have no reason to know that the workers have something which they can use to defend themselves should the need arise - you know - concealed . "
+Your Weapons idea,make.02,Patients more paranoid and likely,,Affirmative,Your Weapons idea would just make the Patients more paranoid and likely to act out . 
+the employer following,follow.01,the safety rules,,Affirmative,@ garys43077 @ swede760 Once again the only reasonable solution is the employer following the safety rules and keeping safety in numbers for the workers . 
+the employer following,keep.02,safety,in numbers,Affirmative,@ garys43077 @ swede760 Once again the only reasonable solution is the employer following the safety rules and keeping safety in numbers for the workers . 
+Arming them,make.02,situation worse,,Affirmative,Arming them will just make the situation worse by making the Patients more paranoid than they already are . 
+it,hurt.01,for them to have hand,,Affirmative,Maybe it would not hurt for them to have hand to hand self defense classes but weapons are not allowed on property . 
+them,have.03,hand,,Affirmative,Maybe it would not hurt for them to have hand to hand self defense classes but weapons are not allowed on property . 
+I,know.01,Father,,Affirmative,I know Jenifer 's Father and My Girlfriend works for CCMH and had done Jenifer 's job in the past . 
+My Girlfriend,do.02,job,,Affirmative,I know Jenifer 's Father and My Girlfriend works for CCMH and had done Jenifer 's job in the past . 
+the Employer,blow.01,it,,Affirmative,I am also very educated in Workplace safety and the Employer blew it . 
+They,need.01,to do more,,Affirmative,They need to do more than they have and it seems the only way to get that done is to threaten their wallets . 
+They,do.02,more,,Affirmative,They need to do more than they have and it seems the only way to get that done is to threaten their wallets . 
+A lot of joggers and walkers,carry.01,it,,Affirmative,A lot of joggers and walkers carry it for the unexpected . 
+the patient,overpower.01,her,,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+the patient,need.01,to get,,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+the patient,get.01,a weapon,from her,Affirmative,"@ swede760 Â  Here 's the problem with your logic : Â If the patient could overpower her , the patient does not need to get a weapon from her to kill her . "
+The patient,kill.01,her,,Affirmative,Â  The patient can just kill her with impunity anyway . 
+she,have.03,no chance,,Affirmative,"Â  Without the weapon she has no chance , with it she has a chance . "
+she,have.03,a chance,,Affirmative,"Â  Without the weapon she has no chance , with it she has a chance . "
+I,want.01,her to carry,,Affirmative,My Girlfriend works for CCMH and there is no way I would want her to carry any type of weapon at work . 
+her,carry.01,any type of weapon,,Affirmative,My Girlfriend works for CCMH and there is no way I would want her to carry any type of weapon at work . 
+The Patients,overpower.01,her,,Affirmative,The Patients could overpower her and use it on her and others . 
+The Patients,use.01,it,,Affirmative,The Patients could overpower her and use it on her and others . 
+The Guy,murder.01,Jenifer,,Affirmative,"The Guy who murdered Jenifer was in the process of getting ready for a surgery and they were weaning him off of his Psych meds , they should have done that in a Hospital setting not a residential one . "
+they,wean.01,him,off of,Affirmative,"The Guy who murdered Jenifer was in the process of getting ready for a surgery and they were weaning him off of his Psych meds , they should have done that in a Hospital setting not a residential one . "
+they,do.02,that,,Affirmative,"The Guy who murdered Jenifer was in the process of getting ready for a surgery and they were weaning him off of his Psych meds , they should have done that in a Hospital setting not a residential one . "
+a Hospital setting,set.02,not a residential one,,Affirmative,"The Guy who murdered Jenifer was in the process of getting ready for a surgery and they were weaning him off of his Psych meds , they should have done that in a Hospital setting not a residential one . "
+the short cops,have.03,the problem,,Affirmative,@ swede760 @ tullyB @ lee98632 My experience has been the short cops have the problem . 
+I,believe.01,there can be coordination between,,Affirmative,I believe there can be coordination between mental health and police . 
+Copyright,©.01,"2014 Sinclair Interactive Media , LLC ;",,Affirmative,"Portland , Copyright © 2014 Sinclair Interactive Media , LLC ; a member of Sinclair Broadcast Group , Inc . "

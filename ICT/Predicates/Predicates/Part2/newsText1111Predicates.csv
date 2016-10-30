@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Arthur Sulzberger , chairman of",praise.01,Jill Abramson,as,Affirmative,"Arthur Sulzberger , chairman of the New York Times Co. , praised Jill Abramson yesterday as a fighter for freedom of the press , a week after dismissing her as the newspaper 's top editor . "
+"Arthur Sulzberger , chairman of",dismiss.01,Jill Abramson,as,Affirmative,"Arthur Sulzberger , chairman of the New York Times Co. , praised Jill Abramson yesterday as a fighter for freedom of the press , a week after dismissing her as the newspaper 's top editor . "
+"Abramson , the first woman to run the Times as executive editor in its 162-year history",deliver.01,a commencement address at,,Affirmative,He was being honored at the New York event and spoke just hours after Abramson delivered a commencement address at Wake Forest University . 
+"Dean Baquet ,",say.01,he wished,,Affirmative,"Dean Baquet , the new executive editor of the Times , said he wished the dismissal of his predecessor had n't created such a firestorm . "
+Dean Baquet,wish.01,the dismissal of,,Affirmative,"Dean Baquet , the new executive editor of the Times , said he wished the dismissal of his predecessor had n't created such a firestorm . "
+Dean Baquet,praise.01,speech,,Affirmative,Baquet praised Abramson 's speech . 
+Dean Baquet,think.01,she was great,,Affirmative,"I think she was great this morning , said Baquet , who is the first African - American executive editor at the newspaper . "
+"Baquet ,",say.01,I think,,Affirmative,"I think she was great this morning , said Baquet , who is the first African - American executive editor at the newspaper . "
+"Abramson , the first woman to run the Times as executive editor in its 162-year history",tell.01,that she knows,graduates,Affirmative,"Abramson , 60 , told graduates at the Winston - Salem , North Carolina , campus yesterday that she knows the sting of losing . "
+the first woman to run the Times as executive editor in its 162-year history,know.01,the sting of losing,,Affirmative,"Abramson , 60 , told graduates at the Winston - Salem , North Carolina , campus yesterday that she knows the sting of losing . "
+the first woman to run the Times as executive editor in its 162-year history,say.01,"happens , show",,Affirmative,"When that happens , show what you are made of , she said . "
+"Graham Holdings Co. ,",sell.01,the Washington Post,to,Affirmative,"Don Graham , chairman of Graham Holdings Co. , which sold the Washington Post to Jeff Bezos last year , introduced Sulzberger at the awards dinner . "
+"Don Graham , chairman of",introduce.01,Sulzberger,,Affirmative,"Don Graham , chairman of Graham Holdings Co. , which sold the Washington Post to Jeff Bezos last year , introduced Sulzberger at the awards dinner . "
+Don Graham,credit.01,Arthur Sulzberger,with adapting,Affirmative,He credited Sulzberger with adapting the newspaper to the Internet and upholding its standards . 
+Don Graham,uphold.01,its standards,,Affirmative,He credited Sulzberger with adapting the newspaper to the Internet and upholding its standards . 
+"Bloomberg ,",send.01,offers and promotions,me,Affirmative,"Bloomberg , on behalf of itself and select partners , may send me offers and promotions . "
+you,subscribe.01,to,,Affirmative,Thank you for subscribing to our Daily Newsletter . 
+You,receive.01,a confirmation email,,Affirmative,You will receive a confirmation email shortly at . 

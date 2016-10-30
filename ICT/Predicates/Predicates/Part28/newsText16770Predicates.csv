@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Bishop,say.01,There was,,Affirmative,"There was no ammunition in the gun , Bishop said . "
+Bishop,say.01,saw,,Affirmative,Bishop said no one else at the school saw the gun before police found it . 
+no one else at,see.01,The gun,,Affirmative,Bishop said no one else at the school saw the gun before police found it . 
+police,find.01,no one,,Affirmative,Bishop said no one else at the school saw the gun before police found it . 
+Bishop,say.01,student had not threatened do anything with,,Affirmative,He also said the student had not threatened do anything with the gun . 
+the student,threaten.01,do anything with,,Affirmative,He also said the student had not threatened do anything with the gun . 
+the student,do.02,anything,with,Affirmative,He also said the student had not threatened do anything with the gun . 
+the student,tell.01,he put,police,Affirmative,"The student told police he put the gun in his backpack over the weekend and forgot it was there , Bishop said . "
+the student,put.01,The gun,in,Affirmative,"The student told police he put the gun in his backpack over the weekend and forgot it was there , Bishop said . "
+the student,forget.01,it was there,,Affirmative,"The student told police he put the gun in his backpack over the weekend and forgot it was there , Bishop said . "
+Bishop,say.01,student told police,,Affirmative,"The student told police he put the gun in his backpack over the weekend and forgot it was there , Bishop said . "
+police,work.01,on that,,Affirmative,"We are still working on that - exactly where it came from and all , Bishop said . "
+Bishop,say.01,We are still working on that,,Affirmative,"We are still working on that - exactly where it came from and all , Bishop said . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

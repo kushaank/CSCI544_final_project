@@ -1,0 +1,26 @@
+1	NATO	nato	NNP	_	4	nn	_
+2	Secretary	secretary	NNP	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	General	general	NNP	_	7	nn	_
+5	Anders	anders	NNP	p2=NNPS	7	nn	_
+6	Fogh	fogh	NNP	_	7	nn	_
+7	Rasmussen	rasmussen	NNP	_	9	nsubjpass	11:A0=PAG;9:A1=PPT
+8	is	be	VBZ	_	9	auxpass	_
+9	expected	expect	VBN	pb=expect.01	0	root	_
+10	to	to	TO	_	11	aux	_
+11	address	address	VB	pb=address.02	9	xcomp	9:C-A1
+12	the	the	DT	_	13	det	_
+13	crisis	crisis	NN	_	11	dobj	11:A1=PPT
+14	in	in	IN	_	13	prep	_
+15	Ukraine	ukraine	NNP	_	14	pobj	_
+16	at	at	IN	_	11	prep	11:AM-LOC
+17	a	a	DT	_	19	det	_
+18	press	press	NN	_	19	nn	_
+19	conference	conference	NN	_	16	pobj	_
+20	at	at	IN	_	19	prep	_
+21	NATO	nato	NNP	_	22	nn	_
+22	headquarters	headquarters	NN	_	20	pobj	_
+23	in	in	IN	_	22	prep	_
+24	Brussels	brussels	NNP	_	23	pobj	_
+25	.	.	.	_	9	punct	_
+

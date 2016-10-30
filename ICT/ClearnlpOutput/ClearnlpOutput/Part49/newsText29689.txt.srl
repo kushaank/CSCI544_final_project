@@ -1,0 +1,13 @@
+1	Metropolitan	metropolitan	NNP	p2=JJ	2	nn	_
+2	Hilarion	hilarion	NNP	_	3	nsubj	3:A0=PAG;5:A0=PAG
+3	want	want	VBP	p2=VB|pb=want.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	play	play	VB	pb=play.01	3	xcomp	3:A1=PPT
+6	a	a	DT	_	8	det	_
+7	mediating	mediating	JJ	p2=NN	8	amod	_
+8	role	role	NN	_	5	dobj	5:A1=PPT
+9	in	in	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	crisis	crisis	NN	_	9	pobj	_
+12	.	.	.	_	3	punct	_
+

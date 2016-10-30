@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A police officer working in Phuket 's provincial narcotics unit,kill.01,a karaoke hostess on,,Affirmative,PHUKET : A police officer working in Phuket 's provincial narcotics unit turned himself in on Saturday ( May 17 ) to answer charges that he shot and killed a karaoke hostess on the street on Friday ( May 16 ) . 
+Emergency workers,try.01,to save,,Affirmative,Emergency workers try to save Ms Nootsika after the shooting . 
+Emergency workers,save.02,Ms Nootsika,,Affirmative,Emergency workers try to save Ms Nootsika after the shooting . 
+Emergency workers,revive.01,Ms Nootsika,,Affirmative,They were not able to revive her . 
+"Pol Col Peerayut Karajedi ,",tell.01,The Phuket News,,Affirmative,"Pol Col Peerayut Karajedi , Deputy Commander of Phuket Police , told The Phuket News today that the officer , Pol Sen Sgt Maj Sompong Santathiwong , turned himself in on Saturday to deny that he murdered Ms Nootsika . "
+"the officer ,",turn.06,Pol Sen Sgt Maj Sompong Santathiwong,,Affirmative,"Pol Col Peerayut Karajedi , Deputy Commander of Phuket Police , told The Phuket News today that the officer , Pol Sen Sgt Maj Sompong Santathiwong , turned himself in on Saturday to deny that he murdered Ms Nootsika . "
+"the officer ,",deny.01,that he murdered,,Affirmative,"Pol Col Peerayut Karajedi , Deputy Commander of Phuket Police , told The Phuket News today that the officer , Pol Sen Sgt Maj Sompong Santathiwong , turned himself in on Saturday to deny that he murdered Ms Nootsika . "
+Pol Sen Sgt Maj Sompong Santathiwong,murder.01,Ms Nootsika,,Affirmative,"Pol Col Peerayut Karajedi , Deputy Commander of Phuket Police , told The Phuket News today that the officer , Pol Sen Sgt Maj Sompong Santathiwong , turned himself in on Saturday to deny that he murdered Ms Nootsika . "
+Emergency workers,suspect.01,that it might be him,,Affirmative,"From our initial investigation , we suspected that it might be him who fired the shot . "
+Pol Col Peerayut Karajedi,meet.01,the investigators,,Affirmative,He came to meet the investigators to declare his innocence . 
+the investigators,declare.02,his innocence,,Affirmative,He came to meet the investigators to declare his innocence . 
+Pol Col Peerayut Karajedi,deny.01,shooting her,,Affirmative,"He denied shooting her and has said he will defend himself in court , said Col Peerayut . "
+Pol Col Peerayut Karajedi,shoot.02,"Pol Col Peerayut Karajedi , Deputy Commander of Phuket Police",,Affirmative,"He denied shooting her and has said he will defend himself in court , said Col Peerayut . "
+Pol Col Peerayut Karajedi,say.01,he will defend himself in court,,Affirmative,"He denied shooting her and has said he will defend himself in court , said Col Peerayut . "
+Pol Col Peerayut Karajedi,defend.01,Pol Col Peerayut Karajedi,,Affirmative,"He denied shooting her and has said he will defend himself in court , said Col Peerayut . "
+Col Peerayut,say.01,He denied shooting her,,Affirmative,"He denied shooting her and has said he will defend himself in court , said Col Peerayut . "
+the charges,depend.01,on,,Affirmative,"The legal process is proceeding , and the charges will be depend on the evidence . "
+"Pol Lt Kraisorn Boonprasob ,",say.01,Sompong has denied shooting anything or anyone,,Affirmative,"Pol Lt Kraisorn Boonprasob , who is in charge of the investigation , said that SSM Sompong has denied shooting anything or anyone . "
+SSM Sompong,deny.01,shooting anything or anyone,,Affirmative,"Pol Lt Kraisorn Boonprasob , who is in charge of the investigation , said that SSM Sompong has denied shooting anything or anyone . "
+SSM Sompong,shoot.03,anything or anyone,,Affirmative,"Pol Lt Kraisorn Boonprasob , who is in charge of the investigation , said that SSM Sompong has denied shooting anything or anyone . "
+Kraisorn Boonprasob,add.01,had retrieved,,Affirmative,"Officers , he added , had retrieved the bullet casing from the scene and it will be sent for DNA analysis to see if SSM Sompong handled it . "
+Officers,retrieve.01,the bullet casing from,,Affirmative,"Officers , he added , had retrieved the bullet casing from the scene and it will be sent for DNA analysis to see if SSM Sompong handled it . "
+Officers,see.01,Sompong handled it,,Affirmative,"Officers , he added , had retrieved the bullet casing from the scene and it will be sent for DNA analysis to see if SSM Sompong handled it . "
+SSM Sompong,handle.01,DNA analysis,,Affirmative,"Officers , he added , had retrieved the bullet casing from the scene and it will be sent for DNA analysis to see if SSM Sompong handled it . "
+Col Peerayut,explain.01,We need,,Affirmative,"Col Peerayut explained , We need to question witnesses and look at circumstantial , physical and documentary evidence and so on . "
+Officers,need.01,to question witnesses and look at,,Affirmative,"Col Peerayut explained , We need to question witnesses and look at circumstantial , physical and documentary evidence and so on . "
+Officers,question.01,witnesses,,Affirmative,"Col Peerayut explained , We need to question witnesses and look at circumstantial , physical and documentary evidence and so on . "
+Officers,look.01,at,,Affirmative,"Col Peerayut explained , We need to question witnesses and look at circumstantial , physical and documentary evidence and so on . "
+Officers,confirm.01,that he did it or,,Affirmative,At this point we can not confirm that he did it or that he did not do it ; he can tell us anything he wants . 
+Col Peerayut,do.02,this point,,Affirmative,At this point we can not confirm that he did it or that he did not do it ; he can tell us anything he wants . 
+Col Peerayut,do.02,this point,,Affirmative,At this point we can not confirm that he did it or that he did not do it ; he can tell us anything he wants . 
+Col Peerayut,tell.01,anything,us,Affirmative,At this point we can not confirm that he did it or that he did not do it ; he can tell us anything he wants . 
+Col Peerayut,want.01,anything,,Affirmative,At this point we can not confirm that he did it or that he did not do it ; he can tell us anything he wants . 

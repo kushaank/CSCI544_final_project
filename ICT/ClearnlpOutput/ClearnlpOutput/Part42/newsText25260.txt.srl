@@ -1,0 +1,24 @@
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	pb=read.01	8	advcl	8:AM-PRP
+3	the	the	DT	_	4	det	_
+4	article	article	NN	_	2	dobj	2:A1=PPT;5:A1=PPT
+5	titled	title	VBN	p2=VBD|pb=title.01	4	partmod	_
+6	,	,	,	_	8	punct	_
+7	"	"	''	p2=``	8	punct	_
+8	Joins	join	VBZ	p2=NNPS|pb=join.01	21	ccomp	_
+9	the	the	DT	_	10	det	_
+10	world	world	NN	_	8	dobj	8:A1=PPT
+11	in	in	IN	_	8	prep	8:AM-PRP
+12	'	'	``	_	11	punct	_
+13	Bring	bring	VB	p2=VBP|pb=bring.01	11	pcomp	_
+14	Back	back	RB	p2=NNP	13	advmod	13:AM-DIR
+15	Our	our	PRP$	_	17	poss	_
+16	Girls	girls	NNP	p2=NNPS	17	nn	_
+17	Campaign	campaign	NNP	_	13	dobj	13:A1=PPT
+18	'	'	''	p2=POS	17	punct	_
+19	,	,	,	_	21	punct	_
+20	"	"	``	p2=''	21	punct	_
+21	click	click	VB	p2=NN|pb=click.01	0	root	_
+22	here	here	RB	_	21	advmod	21:AM-LOC
+23	.	.	.	_	21	punct	_
+

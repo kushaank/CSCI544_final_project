@@ -1,0 +1,96 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Governor Moonbeam -- preparing for an unprecedented fourth run at the California governor 's office 40 years after his first campaign --,study.01,Buddhism,,Affirmative,"In his wilderness years , between stints in Sacramento and presidential runs , he went to Japan to study Buddhism and to Calcutta to volunteer with Mother Teresa . "
+Governor Moonbeam -- preparing for an unprecedented fourth run at the California governor 's office 40 years after his first campaign --,instal.01,Governor Moonbeam -- preparing for an unprecedented fourth run at the California governor 's office 40 years after his first campaign --,as,Affirmative,"At the age of 57 , he installed himself as the head of a five - person commune in Oakland , where he lived with his political adviser , his radio show producer , a former addict , and a kitchen - equipment saleswoman who moved in after persuading Brown to buy a stainless - steel range . "
+Jerry Brown 's,buy.01,steel range,,Affirmative,"At the age of 57 , he installed himself as the head of a five - person commune in Oakland , where he lived with his political adviser , his radio show producer , a former addict , and a kitchen - equipment saleswoman who moved in after persuading Brown to buy a stainless - steel range . "
+his radio show producer,take.12,most of,,Affirmative,"She took over most of the cooking : We eat low fat , low calories . "
+"his political adviser , his radio show producer , a former addict , and a kitchen-equipment saleswoman",eat.01,"low fat , low calories",,Affirmative,"She took over most of the cooking : We eat low fat , low calories . "
+Jerry Brown 's,like.01,a lot of chicken and meat,,Affirmative,"Jerry does n't like a lot of chicken and meat , she said in 1995 . "
+his radio show producer,say.01,Jerry does n't like,,Affirmative,"Jerry does n't like a lot of chicken and meat , she said in 1995 . "
+Jerry Brown 's,live.01,his life,,Affirmative,"He always lived his life carefully , says former girlfriend Linda Ronstadt . "
+girlfriend Linda Ronstadt,say.01,He always lived,,Affirmative,"He always lived his life carefully , says former girlfriend Linda Ronstadt . "
+adviser Sidney Blumenthal,capture.01,eccentricities,,Affirmative,"In 1992 , longtime New Republic political correspondent and future Bill Clinton adviser Sidney Blumenthal deftly captured Brown 's eccentricities as he made his third run at the Democratic presidential nomination . "
+former girlfriend Linda Ronstadt,call.01,Brown,,Affirmative,Thank you for calling Brown for president . 
+the next available representative,dial.01,"800 number ,",,Affirmative,"I have just dialed Jerry Brown 's 800 number , the one he mentions in every debate . "
+Jerry Brown 's,mention.01,the one,,Affirmative,"I have just dialed Jerry Brown 's 800 number , the one he mentions in every debate . "
+Jerry Brown 's,announce.01,is,,Affirmative,"Money , he has announced , is the root of all evil . "
+Jerry Brown 's,accept.01,contributions of,,Affirmative,So he will accept contributions of no more than $ 100 . 
+the dispossessed,hurl.01,the dispossessed,,Affirmative,"The 800 number is the ether into which the dispossessed will hurl themselves , forging a touch - tone movement - a cross between a C - span call - in show and the Home Shopping Network . "
+the dispossessed,forge.02,tone movement -,,Affirmative,"The 800 number is the ether into which the dispossessed will hurl themselves , forging a touch - tone movement - a cross between a C - span call - in show and the Home Shopping Network . "
+one,learn.01,about,,Affirmative,But what can one learn about the issues of the campaign by pressing Brown 's ten digits ? 
+the dispossessed,answer.01,questions,,Affirmative,"We 're not allowed to answer questions , explained the representative who finally appeared on the other end of the line . "
+the representative,explain.01,We 're not allowed,,Affirmative,"We 're not allowed to answer questions , explained the representative who finally appeared on the other end of the line . "
+one,learn.01,about,,Affirmative,"But if one ca n't learn about the Brown campaign , is it possible at least to learn about the telemarketing firm that employs the disembodied voices ? "
+the telemarketing firm,employ.02,the disembodied voices,,Affirmative,"But if one ca n't learn about the Brown campaign , is it possible at least to learn about the telemarketing firm that employs the disembodied voices ? "
+the dispossessed,say.01,"that , said",,Affirmative,"We 're not allowed to say that , said the representative . "
+you,want.01,to give money,,Affirmative,If you want to give money ... 
+you,give.01,money,,Affirmative,If you want to give money ... 
+by,own.01,"Compucall ,",,Affirmative,"The company in question , as it happens , is Compucall , which is owned by the ex-husband and the brother of Brown 's campaign manager , Jody Evans , described by one Brown campaign aide as the last of the die - hard Brownies , who sees herself as his Joan of Arc . "
+by,describe.01,the brother of,as,Affirmative,"The company in question , as it happens , is Compucall , which is owned by the ex-husband and the brother of Brown 's campaign manager , Jody Evans , described by one Brown campaign aide as the last of the die - hard Brownies , who sees herself as his Joan of Arc . "
+the last of,see.01,herself,as,Affirmative,"The company in question , as it happens , is Compucall , which is owned by the ex-husband and the brother of Brown 's campaign manager , Jody Evans , described by one Brown campaign aide as the last of the die - hard Brownies , who sees herself as his Joan of Arc . "
+Evans,say.01,offered services in,,Affirmative,"Her first husband , Evans said , offered services in a way no one else could offer - a lot of phones and operators . "
+Her first husband,offer.01,services,,Affirmative,"Her first husband , Evans said , offered services in a way no one else could offer - a lot of phones and operators . "
+no one else,offer.01,a lot of phones and operators,,Affirmative,"Her first husband , Evans said , offered services in a way no one else could offer - a lot of phones and operators . "
+all the Democrats running for president,run.02,for president,,Affirmative,"Of all the Democrats running for president , none has a more distinguished political lineage , has held a more powerful office , and has been considered to have had greater potential - the subject of three biographies before he was 45 years old - than Jerry Brown . "
+none,have.03,distinguished political lineage,,Affirmative,"Of all the Democrats running for president , none has a more distinguished political lineage , has held a more powerful office , and has been considered to have had greater potential - the subject of three biographies before he was 45 years old - than Jerry Brown . "
+none,hold.04,powerful office,,Affirmative,"Of all the Democrats running for president , none has a more distinguished political lineage , has held a more powerful office , and has been considered to have had greater potential - the subject of three biographies before he was 45 years old - than Jerry Brown . "
+He,prefer.01,to explain,,Affirmative,"He preferred to explain his direction by the metaphor of the canoe , paddling right and left but always moving ahead . "
+He,explain.01,his direction,,Affirmative,"He preferred to explain his direction by the metaphor of the canoe , paddling right and left but always moving ahead . "
+his endless talk about,help.01,to frame,,Affirmative,"Yet his endless talk about the virtue of embracing an era of limits only helped to frame the Democrats ' defeat in 1980 , and his hostility to the toxicity of politics is tangential to the mood of today 's electorate , eager for a reversal from economic decline . "
+Jerry,feel.01,himself,,Affirmative,"In his father 's house , the governor 's mansion in Sacramento , Jerry felt himself a prop in a ritualistic play , and entered a seminary . "
+Jerry,enter.01,a seminary,,Affirmative,"In his father 's house , the governor 's mansion in Sacramento , Jerry felt himself a prop in a ritualistic play , and entered a seminary . "
+he,support.01,Eugene McCarthy -,,Affirmative,"In 1968 , after dropping out of Sacred Heart Novitiate , he was drawn to support Eugene McCarthy - not Robert Kennedy . "
+he,catalyze.01,an initiative,,Affirmative,"As the state 's chief clerk , he catalyzed an initiative that would strictly account for campaign contributions - a platform perfectly pitched for his anti-political run for governor in 1974 , in the aftermath of Watergate . "
+an initiative,account.01,for,,Affirmative,"As the state 's chief clerk , he catalyzed an initiative that would strictly account for campaign contributions - a platform perfectly pitched for his anti-political run for governor in 1974 , in the aftermath of Watergate . "
+His first term,have.03,its focused moments,,Affirmative,"His first term had its focused moments : a landmark farm labor law , path breaking environmental laws , and , for the first time , the appointment of minorities and women to major government posts . "
+Jerry Brown 's,refuse.01,to inhabit,,Affirmative,"Brown refused to inhabit the expensive mansion that Nancy Reagan had had built for Ronnie , preferring to sleep on a mattress on the floor of an apartment . "
+Jerry Brown 's,inhabit.01,the expensive mansion,,Affirmative,"Brown refused to inhabit the expensive mansion that Nancy Reagan had had built for Ronnie , preferring to sleep on a mattress on the floor of an apartment . "
+Nancy Reagan,build.01,the expensive mansion,,Affirmative,"Brown refused to inhabit the expensive mansion that Nancy Reagan had had built for Ronnie , preferring to sleep on a mattress on the floor of an apartment . "
+Brown,sweep.02,five primaries,in,Affirmative,"In 1976 when the unknown former Georgia Governor Jimmy Carter appeared unstoppably headed toward the Democratic nomination , Brown entered and swept five primaries in a row . "
+by,use.01,He,,Affirmative,"He was using and was used by larger forces - the regulars within the party who mistrusted the outsider , his father 's allies . "
+the regulars within,mistrust.01,"the outsider ,",,Affirmative,"He was using and was used by larger forces - the regulars within the party who mistrusted the outsider , his father 's allies . "
+Jerry Brown 's,continue.01,his ascent,,Affirmative,Brown continued his ascent with re-election in 1978 by the biggest margin in California history . 
+a state,enshrine.01,abundance,,Affirmative,His avowal of an era of limits in a state that enshrines abundance without end could be taken as an ecological affirmation . 
+he,call.01,them,,Affirmative,"But the era of limits and small is beautiful ( Brown 's buzzwords , as he called them ) were also the smart version of malaise . "
+Brown,run.02,against Carter,,Affirmative,In 1980 Brown again ran against Carter . 
+he,fit.01,himself,,Affirmative,"But he could not fit himself between the president and his main challenger , Edward Kennedy . "
+by,produce.01,minute television ad produced by,,Affirmative,"On the steps of the state capitol in Madison , Wisconsin , Brown visually melted down in a thirty - minute television ad produced by Francis Ford Coppola , titled The Shape of Things to Come . "
+The special effects,go.05,haywire,,Affirmative,"The special effects went haywire : Brown 's face turned green , the capitol dome appeared on his head , and sections of his face turned into gaping black holes . "
+Californians,blame.01,him,for,Affirmative,Californians blamed him for their unresolved problems . 
+the state 's Democratic chairman,run.02,for,,Affirmative,"In 1982 he ran for the Senate , but lost . "
+he,learn.01,Spanish,,Affirmative,"Afterward , he drifted to Mexico to learn Spanish , to Japan to study Buddhism in a monastery , and to India to work with Mother Teresa . "
+he,announce.01,that he wished,,Affirmative,"Upon his return from his spiritual sojourn , he announced that he wished to be California 's chief party apparatchik . "
+he,wish.01,to be,,Affirmative,"Upon his return from his spiritual sojourn , he announced that he wished to be California 's chief party apparatchik . "
+he,raise.01,millions,,Affirmative,"As the state 's Democratic chairman , he raised millions for an ambitious program to register new voters . "
+by,set.03,An intricate operation,,Affirmative,"An intricate operation was set up by Marshall Ganz , the former farm workers ' union field organizer , who had worked on several past Brown campaigns . "
+"union field organizer ,",work.01,on,,Affirmative,"An intricate operation was set up by Marshall Ganz , the former farm workers ' union field organizer , who had worked on several past Brown campaigns . "
+Ganz,have.03,everything primed,,Affirmative,"Yet as soon as Ganz had everything primed to go , needing only funding to make the gears turn , Brown fired him and canceled the project . "
+Brown,fire.02,him,,Affirmative,"Yet as soon as Ganz had everything primed to go , needing only funding to make the gears turn , Brown fired him and canceled the project . "
+Brown,cancel.01,the project,,Affirmative,"Yet as soon as Ganz had everything primed to go , needing only funding to make the gears turn , Brown fired him and canceled the project . "
+he,decide.01,to scuttle,,Affirmative,"Once he decided to scuttle the program , he seemed to abandon the leadership of the state party , said Ganz . "
+he,scuttle.01,the program,,Affirmative,"Once he decided to scuttle the program , he seemed to abandon the leadership of the state party , said Ganz . "
+he,abandon.01,the leadership of,,Affirmative,"Once he decided to scuttle the program , he seemed to abandon the leadership of the state party , said Ganz . "
+Ganz,say.01,", he seemed",,Affirmative,"Once he decided to scuttle the program , he seemed to abandon the leadership of the state party , said Ganz . "
+style leaders,master.01,dealing with people,,Affirmative,Old - style leaders had to master dealing with people . 
+Jerry,go.02,through that,,Affirmative,Jerry never had to go through that . 
+Jerry Brown 's,decide.01,to run for,,Affirmative,Brown decided to run for the Senate again . 
+Jerry Brown 's,run.02,for,,Affirmative,Brown decided to run for the Senate again . 
+he,raise.01,few funds,,Affirmative,"But he raised few funds and appeared a certain loser , even if he won a nomination based on name recognition . "
+he,win.01,a nomination based on,,Affirmative,"But he raised few funds and appeared a certain loser , even if he won a nomination based on name recognition . "
+by,reveal.01,another path,,Affirmative,"Suddenly , another path was revealed by Patrick Caddell , Carter 's coruscating political consultant self - exiled to L.A. Caddell wanted to lay siege to the capital , and Brown was the weapon at hand . "
+coruscating political consultant,want.01,to lay siege to,,Affirmative,"Suddenly , another path was revealed by Patrick Caddell , Carter 's coruscating political consultant self - exiled to L.A. Caddell wanted to lay siege to the capital , and Brown was the weapon at hand . "
+coruscating political consultant,lie.01,siege,to,Affirmative,"Suddenly , another path was revealed by Patrick Caddell , Carter 's coruscating political consultant self - exiled to L.A. Caddell wanted to lay siege to the capital , and Brown was the weapon at hand . "
+Brown,attract.01,"Jude Wanniski ,",,Affirmative,"Brown soon attracted Jude Wanniski , the excitable promoter of supply - side economics , disillusioned with the Bush administration . "
+Wanniski,arrange.01,a meeting between,,Affirmative,"But when Wanniski arranged a meeting between the candidate and Wall Street financiers , Brown neglected to show up . "
+Brown,neglect.01,to show up,,Affirmative,"But when Wanniski arranged a meeting between the candidate and Wall Street financiers , Brown neglected to show up . "
+by,engineer.01,Brown,,Affirmative,"Our democratic system has been the object of a hostile takeover , engineered by a confederacy of corruption , careerism , and campaign consulting , declared Brown in his announcement speech . "
+the lubricant greasing,grease.01,the deal,,Affirmative,And money has been the lubricant greasing the deal . 
+by,write.01,a manifesto-in-progress written by,,Affirmative,"Much of what he said , in fact , was plagiarized , word for word , from a manifesto-in-progress written by Richard Goodwin , the former speechwriter for Presidents Kennedy and Johnson . "
+Goodwin,separate.01,himself,from,Affirmative,But Goodwin separates himself from Brown 's flattery . 
+Goodwin,say.01,He stuck to,,Affirmative,"He stuck to one note , corruption , and did n't bring out the economic concerns , said Goodwin . "
+I,think.01,it goes back to,,Affirmative,I think it goes back to his father . 
+by,drive.02,"standing , driven mostly by",,Affirmative,"After his appearance on the first televised debate , Brown 's standing , driven mostly by name recognition , plummeted . "
+his personae,accumulate.01,the decades,,Affirmative,But over the decades his personae have not accumulated and deepened . 
+his personae,deepen.01,the decades,,Affirmative,But over the decades his personae have not accumulated and deepened . 
+Jerry Brown 's,say.01,There is,,Affirmative,"There is a sense of unreality here , says Brown , over and over , as he campaigns in a white turtleneck , like a defrocked priest . "
+his moribund condition,prove.01,his point,,Affirmative,Perhaps his moribund condition proves his point . 
+one,hear.01,a number of,,Affirmative,"By calling the Brown office in Santa Monica , one can hear a number of taped messages : This is Jerry Brown . "

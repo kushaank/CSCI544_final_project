@@ -1,0 +1,6 @@
+1	San	san	NNP	_	5	nn	_
+2	Blue	blue	NNP	_	5	nn	_
+3	Enterprises	enterprises	NNP	p2=NNPS	5	nn	_
+4	Pvt.	pvt.	NNP	p2=NNPS	5	nn	_
+5	Ltd.	ltd.	NNP	_	0	root	_
+

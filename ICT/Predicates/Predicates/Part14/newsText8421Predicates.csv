@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+the first person,request.01,police report of,,Affirmative,An employee of the Democratic Party of Oregon was the first person to request the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of stalking him after a break - up . 
+timber baron Andrew Miller,accuse.01,candidate Monica Wehby,of stalking him after,Affirmative,An employee of the Democratic Party of Oregon was the first person to request the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of stalking him after a break - up . 
+candidate Monica Wehby,stalk.02,the first person to request the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of `` stalking '' him after a break-up,,Affirmative,An employee of the Democratic Party of Oregon was the first person to request the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of stalking him after a break - up . 
+"Jon Friedman ,",list.01,Portland address,,Affirmative,"Jon Friedman , who listed a Northeast Portland address , requested the report from Portland police on April 17 , 2014 , documents obtained by The Oregonian through a public records request show . "
+"Jon Friedman ,",request.01,the report from,,Affirmative,"Jon Friedman , who listed a Northeast Portland address , requested the report from Portland police on April 17 , 2014 , documents obtained by The Oregonian through a public records request show . "
+by,obtain.01,documents obtained by,,Affirmative,"Jon Friedman , who listed a Northeast Portland address , requested the report from Portland police on April 17 , 2014 , documents obtained by The Oregonian through a public records request show . "
+Jon Friedman,return.02,a message seeking comment Monday,,Affirmative,Friedman did not immediately return a message seeking comment Monday . 
+a message seeking comment Monday,seek.01,comment,,Affirmative,Friedman did not immediately return a message seeking comment Monday . 
+Jon Friedman,work.01,as,,Affirmative,"Friedman works as a research assistant for the Democratic Party of Oregon , said Jamal Raad , party spokesman . "
+"Jamal Raad ,",say.01,Friedman works as,,Affirmative,"Friedman works as a research assistant for the Democratic Party of Oregon , said Jamal Raad , party spokesman . "
+Jamal Raad,decline.02,to comment further,,Affirmative,Raad declined to comment further . 
+Jamal Raad,work.01,as,,Affirmative,"Raad previously worked as a spokesman for Democratic Sen. Jeff Merkley , who is seeking re-election to a second term . "
+"Sen. Jeff Merkley ,",seek.01,re-election,to,Affirmative,"Raad previously worked as a spokesman for Democratic Sen. Jeff Merkley , who is seeking re-election to a second term . "
+Jeff Merkley,face.01,Wehby or,,Affirmative,"Merkley will face Wehby or state Rep. Jason Conger , R - Bend , depending on who wins the May 20 Republican primary . "
+by Politico,report.01,incident,,Affirmative,"Since the April 2013 incident was first reported by Politico at 2:40 a.m. Pacific time Friday , political observers have speculated about the source of the leak . "
+political observers,speculate.01,about,,Affirmative,"Since the April 2013 incident was first reported by Politico at 2:40 a.m. Pacific time Friday , political observers have speculated about the source of the leak . "
+Politico,submit.01,a request for,,Affirmative,"Politico did not submit a request for the report to Portland police , documents obtained by The Oregonian show . "
+by,obtain.01,documents obtained by,,Affirmative,"Politico did not submit a request for the report to Portland police , documents obtained by The Oregonian show . "
+the Democratic Party of Oregon,send.01,a press release about,,Affirmative,The Democratic Party of Oregon sent out a press release about the Politico story at 6:51 a.m. Friday . 
+Jeff Merkley,ask.01,about,,Affirmative,"Merkley , asked about the report Friday morning at a Portland news conference he called to talk about stemming suicides among military veterans , called the Wehby report a private family matter . "
+Jeff Merkley,call.07,to talk about stemming suicides among,,Affirmative,"Merkley , asked about the report Friday morning at a Portland news conference he called to talk about stemming suicides among military veterans , called the Wehby report a private family matter . "
+Jeff Merkley,talk.01,about stemming suicides among,,Affirmative,"Merkley , asked about the report Friday morning at a Portland news conference he called to talk about stemming suicides among military veterans , called the Wehby report a private family matter . "
+Jeff Merkley,call.01,the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of `` stalking '' him after a break-up,a private family matter,Affirmative,"Merkley , asked about the report Friday morning at a Portland news conference he called to talk about stemming suicides among military veterans , called the Wehby report a private family matter . "
+his campaign,release.01,the April 2013 police report of timber baron Andrew Miller accusing Republican Senate candidate Monica Wehby of `` stalking '' him after a break-up,,Affirmative,"Asked whether his campaign had found and released the police report , he said only : I had not heard about this issue until it came up in the news . "
+Jeff Merkley,say.01,I had not heard about,,Affirmative,"Asked whether his campaign had found and released the police report , he said only : I had not heard about this issue until it came up in the news . "
+his campaign,hear.01,about,,Affirmative,"Asked whether his campaign had found and released the police report , he said only : I had not heard about this issue until it came up in the news . "
+Jeff Merkley,decline.02,to comment on,,Affirmative,He declined to comment on any implications for his matchup with Wehby if she wins the GOP nomination Tuesday . 
+Jeff Merkley,comment.01,on,,Affirmative,He declined to comment on any implications for his matchup with Wehby if she wins the GOP nomination Tuesday . 
+Republican Senate candidate Monica Wehby of `` stalking '' him,win.01,the GOP nomination,,Affirmative,He declined to comment on any implications for his matchup with Wehby if she wins the GOP nomination Tuesday . 
+manager Charlie Pearce on,issue.01,a statement accusing Democrats of,,Affirmative,Wehby campaign manager Charlie Pearce on Monday evening issued a statement accusing Democrats of a war on women . 
+a statement accusing Democrats of,accuse.01,Democrats,of,Affirmative,Wehby campaign manager Charlie Pearce on Monday evening issued a statement accusing Democrats of a war on women . 
+by,release.01,Further documents released Monday by,,Affirmative,"Further documents released Monday by Portland police detailed 2007 and 2009 incidents when Wehby 's ex-husband , Jim Grant , accused her of ongoing harassment and refusing to leave until she saw their children . "
+Further documents released Monday by,detail.01,incidents,,Affirmative,"Further documents released Monday by Portland police detailed 2007 and 2009 incidents when Wehby 's ex-husband , Jim Grant , accused her of ongoing harassment and refusing to leave until she saw their children . "
+"ex-husband ,",accuse.01,Republican Senate candidate Monica Wehby of `` stalking '' him,of,Affirmative,"Further documents released Monday by Portland police detailed 2007 and 2009 incidents when Wehby 's ex-husband , Jim Grant , accused her of ongoing harassment and refusing to leave until she saw their children . "
+Republican Senate candidate Monica Wehby of `` stalking '' him,see.01,their children,,Affirmative,"Further documents released Monday by Portland police detailed 2007 and 2009 incidents when Wehby 's ex-husband , Jim Grant , accused her of ongoing harassment and refusing to leave until she saw their children . "
+"Anne Marie Gurney ,",say.01,Friedman had shown up at,,Affirmative,"Anne Marie Gurney , vice chairwoman of the Multnomah County Republican Party , said Friedman had shown up at three private gatherings often featuring Republican Senate candidates . "
+three private gatherings,feature.01,Republican Senate candidates,,Affirmative,"Anne Marie Gurney , vice chairwoman of the Multnomah County Republican Party , said Friedman had shown up at three private gatherings often featuring Republican Senate candidates . "
+Anne Marie Gurney,say.01,"First , he showed up at",,Affirmative,"First , he showed up at a meeting of the conservative Executive Club in January , she said . "
+She,snap.05,his photo,,Affirmative,"She snapped his photo , sent it out to her contacts and learned his name . "
+She,send.03,it,to,Affirmative,"She snapped his photo , sent it out to her contacts and learned his name . "
+She,learn.01,his name,,Affirmative,"She snapped his photo , sent it out to her contacts and learned his name . "
+Anne Marie Gurney,say.01,she then found,,Affirmative,"Gurney said she then found he identified himself as a Democratic Party of Oregon employee on his Facebook page , which has since been taken down . "
+she,find.01,he identified himself as,,Affirmative,"Gurney said she then found he identified himself as a Democratic Party of Oregon employee on his Facebook page , which has since been taken down . "
+he,identify.01,himself,as,Affirmative,"Gurney said she then found he identified himself as a Democratic Party of Oregon employee on his Facebook page , which has since been taken down . "
+Gurney,notice.01,him,,Affirmative,"In late March , at a meeting of the county Republican Party , Gurney noticed him again , and the group asked him to leave the members - only event . "
+the group,ask.02,to leave,him,Affirmative,"In late March , at a meeting of the county Republican Party , Gurney noticed him again , and the group asked him to leave the members - only event . "
+him,leave.01,the members -,,Affirmative,"In late March , at a meeting of the county Republican Party , Gurney noticed him again , and the group asked him to leave the members - only event . "
+He,get.01,a little testy about it,,Affirmative,"He actually got a little testy about it , she said . "
+she,say.01,He actually got,,Affirmative,"He actually got a little testy about it , she said . "
+Gurney,notice.01,Friedman,,Affirmative,"In early April , Wehby was scheduled to speak at the Executive Club , and Gurney noticed Friedman again and clued in the meeting organizers that Friedman was a Democratic operative . "
+she,say.01,He was asked,,Affirmative,"He was asked to leave again , she said . "
+He,snap.03,my picture,,Affirmative,He snapped my picture as he left . 
+"blogger Dan Sandini ,",use.01,the handle name,,Affirmative,"Conservative blogger Dan Sandini , who uses the handle name Daylight Disinfectant , wrote about Friedman 's ties to the Democratic Party of Oregon in April . "
+"blogger Dan Sandini ,",write.01,about,,Affirmative,"Conservative blogger Dan Sandini , who uses the handle name Daylight Disinfectant , wrote about Friedman 's ties to the Democratic Party of Oregon in April . "
+the people,represent.01,your interests in,,Affirmative,"Keep tabs on the people who represent your interests in Salem and Washington , D.C. © 2014 Oregon Live LLC . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

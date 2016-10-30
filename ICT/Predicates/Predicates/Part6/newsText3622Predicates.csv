@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Lexington Police,say.01,woman suffered,,Affirmative,Lexington Police said a woman suffered only minor injuries after she flipped her car . 
+a woman,suffer.01,minor injuries,,Affirmative,Lexington Police said a woman suffered only minor injuries after she flipped her car . 
+a woman,flip.01,her car,,Affirmative,Lexington Police said a woman suffered only minor injuries after she flipped her car . 
+Lexington Police,say.01,car hit,,Affirmative,"Police said the car hit a tree , then flipped over onto its roof . "
+the car,hit.01,a tree,,Affirmative,"Police said the car hit a tree , then flipped over onto its roof . "
+the car,flip.01,onto,,Affirmative,"Police said the car hit a tree , then flipped over onto its roof . "
+Officers,say.01,woman was taken to,,Affirmative,Officers said the woman was taken to UK Hospital . 

@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+He,begin.01,his day,with,Affirmative,' He would wake up at 5 am and begin his day with a walk . 
+He,use.01,cars,,Affirmative,' ' He never used the party 's cars and always was chauffeured in a private car . 
+a party general secretary,begin.01,his day,with,Affirmative,"He would wake up at 5 am and begin his day with a walk in the park , remembers Tejpal Singh , now the BJP 's district president in New Delhi 's Mayur Vihar area . "
+"Tejpal Singh ,",remember.01,He would wake up at,,Affirmative,"He would wake up at 5 am and begin his day with a walk in the park , remembers Tejpal Singh , now the BJP 's district president in New Delhi 's Mayur Vihar area . "
+a party general secretary,give.01,appointments at,,Affirmative,"Sometimes , he gave appointments at that early hour . "
+someone,meet.03,a party general secretary,,Affirmative,"Even if he had gone to bed and someone came to meet him , he would get up and receive them . "
+a party general secretary,receive.01,people,,Affirmative,"Even if he had gone to bed and someone came to meet him , he would get up and receive them . "
+"Balwant Singh ,",remember.01,He used,,Affirmative,"Balwant Singh , another member of the BJP staff at that time , remembers , He used to eat in the mess that Govindacharya ( then , a BJP secretary ) , used to run for party workers . "
+Govindacharya,use.01,the mess,to run for,Affirmative,"Balwant Singh , another member of the BJP staff at that time , remembers , He used to eat in the mess that Govindacharya ( then , a BJP secretary ) , used to run for party workers . "
+Govindacharya,run.02,for,,Affirmative,"Balwant Singh , another member of the BJP staff at that time , remembers , He used to eat in the mess that Govindacharya ( then , a BJP secretary ) , used to run for party workers . "
+"Balwant Singh , another member of the BJP staff at that time",use.01,cars,,Affirmative,"He never used the party 's cars that were available to him , recalls a driver at the BJP HQ . "
+"Balwant Singh , another member of the BJP staff at that time",use.01,"a private car ,",,Affirmative,"He always used a private car , which his friend would provide . "
+his friend,provide.01,"a private car ,",,Affirmative,"He always used a private car , which his friend would provide . "
+party workers,recall.02,Modi doing yoga regularly,,Affirmative,"Party workers recall Modi doing yoga regularly , but no one had actually seen him doing it . "
+Narendra Modi,do.02,yoga,,Affirmative,"Party workers recall Modi doing yoga regularly , but no one had actually seen him doing it . "
+no one,see.01,him doing it,,Affirmative,"Party workers recall Modi doing yoga regularly , but no one had actually seen him doing it . "
+Narendra Modi,do.02,no one,,Affirmative,"Party workers recall Modi doing yoga regularly , but no one had actually seen him doing it . "
+Others,recall.02,hard working and,,Affirmative,Others recall that he was very hard working and everyone depended on him to deliver . 
+everyone,depend.01,on him,,Affirmative,Others recall that he was very hard working and everyone depended on him to deliver . 
+Some,say.01,one questioned him,,Affirmative,"Some said even though he was found to be intrusive and interfering , no one questioned him as he was trusted by the party 's senior leaders . "
+by,trust.01,Some,,Affirmative,"Some said even though he was found to be intrusive and interfering , no one questioned him as he was trusted by the party 's senior leaders . "
+Atal Bihari Vajpayee,lead.02,the National Democratic Alliance,,Affirmative,"Modi was one of those in charge of the 1999 election campaign when Atal Bihari Vajpayee led the National Democratic Alliance to victory and the NDA , for the first time , completed a full term in office . "
+Other workers,say.01,was inevitable,,Affirmative,Other workers say his transition to Gujarat was inevitable as he always kept a close watch on Gujarat politics . 
+Narendra Modi,keep.01,a close watch on,,Affirmative,Other workers say his transition to Gujarat was inevitable as he always kept a close watch on Gujarat politics . 

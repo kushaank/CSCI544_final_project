@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The United States,indict.01,five members of,on allegations,Affirmative,The United States has indicted five members of the Chinese military on allegations they stole US secrets to help state - run companies . 
+five members of the Chinese military,steal.01,US secrets,,Affirmative,The United States has indicted five members of the Chinese military on allegations they stole US secrets to help state - run companies . 
+five members of the Chinese military,help.01,run companies,,Affirmative,The United States has indicted five members of the Chinese military on allegations they stole US secrets to help state - run companies . 
+The US Department of Justice,accuse.01,the five individuals,of engaging in,Affirmative,The US Department of Justice has accused the five individuals of engaging in economic espionage . 
+the US,accuse.01,China,of,Affirmative,It is the first time that the US has publicly accused China of cyber - spying . 
+The US Department of Justice,say.01,hackers had targeted,,Affirmative,"The Department of Justice said the hackers had targeted US companies in the nuclear power , metals and solar products industries , and is accusing them of stealing information to help Chinese competitors . "
+the hackers,target.01,US companies,,Affirmative,"The Department of Justice said the hackers had targeted US companies in the nuclear power , metals and solar products industries , and is accusing them of stealing information to help Chinese competitors . "
+the hackers,accuse.01,the hackers,of stealing information,Affirmative,"The Department of Justice said the hackers had targeted US companies in the nuclear power , metals and solar products industries , and is accusing them of stealing information to help Chinese competitors . "
+the hackers,steal.01,information,,Affirmative,"The Department of Justice said the hackers had targeted US companies in the nuclear power , metals and solar products industries , and is accusing them of stealing information to help Chinese competitors . "
+the hackers,help.01,Chinese competitors,,Affirmative,"The Department of Justice said the hackers had targeted US companies in the nuclear power , metals and solar products industries , and is accusing them of stealing information to help Chinese competitors . "
+US officials,said .01,include,,Affirmative,"US officials said  the companies targeted include Alcoa Inc , United States Steel Corp , Allegheny Technologies Inc , Westinghouse Electric Co and US subsidiaries of SolarWorld AG . "
+by,announce.01,The charges,,Affirmative,The charges were announced this morning by US Attorney General Eric Holder . 

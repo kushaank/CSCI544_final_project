@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A bus fire in Colombia,kill.01,32 people,,Affirmative,"A bus fire in Colombia killed at least 32 people on Sunday , all but one of whom were children . "
+the driver,pour.01,gasoline,,Affirmative,"The vehicle burst into flames after the driver poured gasoline into a tank , accessed through the floor of the bus , in an attempt to start the faulty engine . "
+The fire,leave.01,the bus,,Affirmative,"The fire spread almost immediately , leaving the bus and most of its passengers charred beyond recognition . "
+the bus,have.03,no emergency exits,,Affirmative,The bus reportedly had no emergency exits . 
+The crowded bus,travel.01,from,,Affirmative,The crowded bus was traveling from a church event in the town of Fundacion in northern Colombia . 
+Emergency response crews,bring.01,the bodies of many of,to,Affirmative,Emergency response crews arrived to the scene shortly after the explosion and brought the bodies of many of the victims to the nearby town of Barranquilla to be identified using dental records . 
+the driver,have.03,a license,,Affirmative,"The bus was privately owned and according to local Colombian media , the driver did not have a license . "
+The vehicle,have.03,insurance,,Affirmative,The vehicle reportedly had also not gone through the proper inspection or had insurance . 
+police,investigate.01,the cause of,,Affirmative,"There was also unverified speculation that illegal gasoline had been used , and police are investigating the cause of the accident . "
+"president ,",visit.01,Fundacion,,Affirmative,"Colombia 's president , Juan Manuel Santos , visited Fundacion on Sunday night . "
+Juan Manuel Santos,tell.01,This is,families,Affirmative,"This is a tragedy which should n't have happened , President Santos told the victims ' families . "
+Juan Manuel Santos,express.01,his condolences,,Affirmative,He also expressed his condolences on Twitter shortly after the accident . 
+Juan Manuel Santos,write.01,"Solidarity , prayer and support to",,Affirmative,"Solidarity , prayer and support to their families , Santos wrote . "

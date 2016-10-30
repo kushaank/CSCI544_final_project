@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A 17-year-old Santa Clara teen,drive.01,the dirt bike,,Affirmative,A 17 - year - old Santa Clara teen was killed after an ATV crashed into the dirt bike he was driving . 
+A 17-year-old Santa Clara teen,ride.01,the dirt bike,,Affirmative,A 17 - year - old Santa Clara teen was killed after an ATV crashed into the dirt bike he was riding . 
+"Austin Mcelyea , 17 ,",head.02,south,,Affirmative,"Austin Mcelyea , 17 , was heading south on a dirt bike on Spanish Trail Drive , east of state Route 18 , about 5:05 p.m. when the accident occurred , according to the Utah Highway Patrol . "
+"Makay Stephens , 27 , of Veyo",drive.01,an ATV,,Affirmative,"Makay Stephens , 27 , of Veyo , was driving an ATV behind the bike . "
+Mcelyea and Stephens,ride.01,with,,Affirmative,"Mcelyea and Stephens had just met and were riding with their mutual friend , according to UHP Sgt. Jake Hicks . "
+Makay Stephens,hit.01,the back tire of,,Affirmative,"Stephens did not stop and hit the back tire of the boy 's bike , the UHP reported . "
+the UHP,report.01,Stephens did not stop and hit,,Affirmative,"Stephens did not stop and hit the back tire of the boy 's bike , the UHP reported . "
+The impact,launch.01,A 17-year-old Santa Clara teen,,Affirmative,The impact launched the teen off the dirt bike and caused the ATV to roll . 
+The impact,cause.01,ATV to roll,,Affirmative,The impact launched the teen off the dirt bike and caused the ATV to roll . 
+The friend on,see.01,the crash,,Affirmative,The friend on the other ATV saw the crash and called for help . 
+The friend on,call.03,for help,,Affirmative,The friend on the other ATV saw the crash and called for help . 
+Austin Mcelyea,wear.01,a helmet,,Affirmative,"Mcelyea was wearing a helmet but died from the impact , according to the UHP . "
+Responding officers,arrest.01,Stephens,,Affirmative,"Responding officers arrested Stephens for investigation of driving under the influence of alcohol or drugs , and automobile homicide . "

@@ -1,0 +1,71 @@
+1	NISSWA	nisswa	NNP	p2=CD	3	hmod	_
+2	-	-	HYPH	p2=:	3	hyph	_
+3	MicroNet	micronet	NNP	_	4	nn	_
+4	customers	customer	NNS	_	6	nsubj	6:A0=PAG
+5	now	now	RB	_	6	advmod	6:AM-TMP
+6	have	have	VBP	pb=have.03	0	root	_
+7	the	the	DT	_	8	det	_
+8	ability	ability	NN	_	6	dobj	6:A1=PPT
+9	to	to	TO	_	10	aux	_
+10	offer	offer	VB	pb=offer.01	8	infmod	_
+11	their	their	PRP$	_	12	poss	_
+12	members	member	NNS	_	10	iobj	10:A3=GOL
+13	a	a	DT	p2=LS	17	det	_
+14	web	web	NN	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	based	base	VBN	_	17	amod	_
+17	application	application	NN	_	10	dobj	19:A0=PAG;10:A1=PPT
+18	that	that	WDT	_	19	nsubj	19:R-A0
+19	combines	combine	VBZ	pb=combine.01	17	rcmod	_
+20	Groupon	groupon	NNP	p2=VBN	22	hmod	_
+21	-	-	HYPH	_	22	hyph	_
+22	like	like	JJ	_	23	amod	_
+23	interaction	interaction	NN	_	19	dobj	19:A1=PPT
+24	with	with	IN	_	19	prep	19:A2=PPT
+25	marketplace	marketplace	NN	_	26	nn	_
+26	features	feature	NNS	p2=VBZ	24	pobj	_
+27	at	at	IN	_	26	prep	_
+28	no	no	DT	_	29	det	_
+29	cost	cost	NN	_	27	pobj	_
+30	to	to	IN	_	29	prep	_
+31	sellers	seller	NNS	_	30	pobj	_
+32	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	application	application	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	called	call	VBN	pb=call.01	0	root	_
+5	Member	member	NNP	_	6	nn	_
+6	Marketplace	marketplace	NNP	_	4	oprd	4:A2=PRD
+7	,	,	,	_	4	punct	_
+8	which	which	WDT	_	10	dobj	10:R-A1
+9	MicroNet	micronet	NNP	_	10	nsubj	10:A0=PAG
+10	purchased	purchase	VBD	pb=purchase.01	4	advcl	_
+11	from	from	IN	_	10	prep	10:A2=DIR
+12	Fabrik	fabrik	NNP	_	13	nn	_
+13	Interactive	interactive	NNP	_	11	pobj	_
+14	earlier	early	RBR	_	16	advmod	_
+15	this	this	DT	_	16	det	_
+16	month	month	NN	_	10	npadvmod	10:AM-TMP
+17	.	.	.	_	4	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

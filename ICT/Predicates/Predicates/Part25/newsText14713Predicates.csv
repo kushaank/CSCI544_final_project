@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two Brantford men,face.01,multiple charges relating to,,Affirmative,Two Brantford men are facing multiple charges relating to a violent attack early Saturday morning . 
+Police,say.01,"James Carpenter , 29 ,",,Affirmative,"Police say James Carpenter , 29 , Justin Webber , 27 , and a third man forced their way into a residence on Eagle Avenue . "
+a third man,force.01,their way,into,Affirmative,"Police say James Carpenter , 29 , Justin Webber , 27 , and a third man forced their way into a residence on Eagle Avenue . "
+Police,assault.01,the residents,,Affirmative,They assaulted the residents and killed two kittens by stomping on them . 
+Police,kill.01,two kittens,,Affirmative,They assaulted the residents and killed two kittens by stomping on them . 
+by,confront.01,Police,,Affirmative,"Police were called the residence around 2:30 a.m. On their arrival , they were confronted by an intoxicated man . "
+Police,say.01,man punched,,Affirmative,Police say the man punched a cruiser and then assaulted an officer . 
+an intoxicated man,punch.01,a cruiser,,Affirmative,Police say the man punched a cruiser and then assaulted an officer . 
+an intoxicated man,assault.01,an officer,,Affirmative,Police say the man punched a cruiser and then assaulted an officer . 
+an intoxicated man,kick.01,the rear window of,,Affirmative,"While in police custody , the man kicked out the rear window of the police cruiser and later damaged a cell at the Brantford Police Station . "
+an intoxicated man,damage.01,a cell at,,Affirmative,"While in police custody , the man kicked out the rear window of the police cruiser and later damaged a cell at the Brantford Police Station . "
+Police,look.01,for,,Affirmative,Police are still looking for the third man . 
+People,say.01,they 're disturbed by,,Affirmative,People who live in the area say they 're disturbed by the news . 
+by,disturb.01,People who live in the area,,Affirmative,People who live in the area say they 're disturbed by the news . 
+you,capture.01,the scene of breaking news,,Affirmative,"If you are on the scene of breaking news and capture it with your mobile device , share your pictures or video with MyNews . "
+you,see.01,the characters,,Affirmative,Type in the characters you see in the picture below . 
+you,have.03,trouble reading,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+you,read.01,the characters in,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+Bell Media,reserve.01,the right,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+Bell Media,comment.01,availability,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+We,publish.01,comments,,Affirmative,"We will not publish comments that are profane , libelous , racist , or engage in personal attacks . "
+comments,seek.01,to spread information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+comments,spread.03,information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+you,use.01,an alias,,Affirmative,"If you 're using an alias , make sure it 's unique . "
+We,publish.01,comments,,Affirmative,We will not publish comments that link to outside websites . 
+comments,link.01,to,,Affirmative,We will not publish comments that link to outside websites . 
+you,follow.02,these guidelines,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+you,contribute.01,your thoughts,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+You,help.01,to make,,Affirmative,"You are contributing to debate and discussion , and helping to make this website a more open place . "

@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Judge J. Ronnie Greer,find.01,David Wayne Grigsby,,Affirmative,"U.S. District Judge J. Ronnie Greer also find Grigsby $ 4,000 . "
+David Wayne Grigsby,serve.02,"the entire term , followed by",,Affirmative,"Since there is no parole in the federal system , Grigsby will serve the entire term , followed by three years of supervised probation . "
+A trial jury,find.01,was false,,Affirmative,A trial jury found that his testimony to the grand jury was false . 
+David Wayne Grigsby,tell.01,that he was unaware of,the grand jury,Affirmative,"He had told the grand jury that he was unaware of a scheme to defraud , and denied any involvement in the collection of false samples of coal that were submitted to an independent testing service to defraud Eastman Chemical , which is headquartered in Kingsport . "
+David Wayne Grigsby,deny.01,any involvement in,,Affirmative,"He had told the grand jury that he was unaware of a scheme to defraud , and denied any involvement in the collection of false samples of coal that were submitted to an independent testing service to defraud Eastman Chemical , which is headquartered in Kingsport . "
+federal authorities,play.01,audio recordings suggesting,,Affirmative,"At trial , federal authorities played audio recordings suggesting that he had instructed employees of the independent testing service to submit false samples of coal for testing . "
+audio recordings suggesting,suggest.01,that he had instructed employees of,,Affirmative,"At trial , federal authorities played audio recordings suggesting that he had instructed employees of the independent testing service to submit false samples of coal for testing . "
+employees of,submit.01,false samples of coal,,Affirmative,"At trial , federal authorities played audio recordings suggesting that he had instructed employees of the independent testing service to submit false samples of coal for testing . "
+Employees of,testify.01,that he had directed,,Affirmative,Employees of the testing service also testified that he had directed the collection of false samples of coal . 
+David Wayne Grigsby,direct.01,the collection of,,Affirmative,Employees of the testing service also testified that he had directed the collection of false samples of coal . 

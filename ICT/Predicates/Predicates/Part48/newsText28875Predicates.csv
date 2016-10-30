@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the United States,bring.01,hacking charges against,,Affirmative,"For the first time in history , the United States has brought hacking charges against a state actor . "
+the United States,hack.02,charges,,Affirmative,"For the first time in history , the United States has brought hacking charges against a state actor . "
+hacking charges,name.01,several individuals,,Affirmative,"The charges will name several individuals who are Chinese government employees , according to a U.S. official . "
+"several individuals who are Chinese government employees , according to a U.S. official",use.01,facilities,to commit,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , the official said . "
+"several individuals who are Chinese government employees , according to a U.S. official",commit.02,cyber espionage against,,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , the official said . "
+a U.S. official,say.01,They used,,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , the official said . "
+The Obama administration,consider.01,aggressive nation in obtaining,,Affirmative,The Obama administration has long considered China the most aggressive nation in obtaining industrial secrets through spying . 
+the Chinese,obtain.01,industrial secrets,,Affirmative,The Obama administration has long considered China the most aggressive nation in obtaining industrial secrets through spying . 
+the Office of,say.01,actors are,,Affirmative,"Chinese actors are the world 's most active and persistent perpetrators of economic espionage , said the Office of the National Counterintelligence Executive , a U.S. government agency , in a 2011 report . "
+the Chinese,denounce.01,hacking charges,,Affirmative,"China , however , is denouncing the charges , calling any suggestion that the Chinese were involved in those intrusions irresponsible . "
+the Chinese,call.01,any suggestion that the Chinese,irresponsible,Affirmative,"China , however , is denouncing the charges , calling any suggestion that the Chinese were involved in those intrusions irresponsible . "
+U.S. security experts,say.01,China targeted,,Affirmative,U.S. security experts said China targeted news organizations in the U.S. and overseas to try to identify the sources of news leaks within the Chinese government . 
+China,target.01,news organizations in,,Affirmative,U.S. security experts said China targeted news organizations in the U.S. and overseas to try to identify the sources of news leaks within the Chinese government . 
+China,try.01,to identify,,Affirmative,U.S. security experts said China targeted news organizations in the U.S. and overseas to try to identify the sources of news leaks within the Chinese government . 

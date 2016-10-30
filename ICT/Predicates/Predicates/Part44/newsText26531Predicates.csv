@@ -1,0 +1,102 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The army,order.01,censorship of,,Affirmative,The army orders censorship of the media and bans protest as it seeks to restore peace after months of political upheaval . 
+The army,ban.01,protest,,Affirmative,The army orders censorship of the media and bans protest as it seeks to restore peace after months of political upheaval . 
+The army orders censorship of the media and,seek.01,to restore peace after months of,,Affirmative,The army orders censorship of the media and bans protest as it seeks to restore peace after months of political upheaval . 
+The army orders censorship of the media and,restore.01,peace,,Affirmative,The army orders censorship of the media and bans protest as it seeks to restore peace after months of political upheaval . 
+machine guns,take.13,positions in,,Affirmative,Armed troops and military vehicles topped with machine guns have taken up positions in central Bangkok after the army declared martial law across Thailand . 
+"the army , who told the Thai people not to panic",declare.02,martial law,,Affirmative,Armed troops and military vehicles topped with machine guns have taken up positions in central Bangkok after the army declared martial law across Thailand . 
+"the army , who told the Thai people not to panic",commandeer.01,television stations,,Affirmative,"Soldiers have been seen in the city 's retail and hotel district , and the army commandeered television stations to broadcast their message to the nation . "
+"the army , who told the Thai people not to panic",broadcast.01,their message,to,Affirmative,"Soldiers have been seen in the city 's retail and hotel district , and the army commandeered television stations to broadcast their message to the nation . "
+Soldiers,ban.01,protest marches,,Affirmative,They also surrounded the national police headquarters in Bangkok and banned protest marches . 
+Military chiefs,deny.01,staging,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+Military chiefs,stage.01,a coup,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+Military chiefs,claim.01,army is trying,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+"the army , who told the Thai people not to panic",try.01,to restore order after,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+"the army , who told the Thai people not to panic",restore.01,order,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+political unrest,leave.01,Thailand 's,,Affirmative,Military chiefs have denied staging a coup and claim the army is trying to restore order after six months of political unrest that has left Thailand without a fully functioning government . 
+Soldiers,take.01,charge of,,Affirmative,"Soldiers are taking charge of public security to protect against any more violent street protests , said army chief General Prayuth Chan - ocha . "
+chief General Prayuth Chan - ocha,say.01,Soldiers are taking charge of,,Affirmative,"Soldiers are taking charge of public security to protect against any more violent street protests , said army chief General Prayuth Chan - ocha . "
+General Prayuth Chan-ocha,say.01,We are concerned,,Affirmative,General Prayuth said : We are concerned this violence could harm the country 's security in general . 
+violence could harm,concern.02,Hundreds of people,,Affirmative,General Prayuth said : We are concerned this violence could harm the country 's security in general . 
+this violence,harm.01,security in general,,Affirmative,General Prayuth said : We are concerned this violence could harm the country 's security in general . 
+Hundreds of people,declare.02,martial law,,Affirmative,"Then , in order to restore law and order to the country , we have declared martial law . "
+all those activist groups,stop.01,all activities,,Affirmative,I 'm asking all those activist groups to stop all activities and cooperate with us in seeking a way out of this crisis . 
+all those activist groups,cooperate.01,with us,in seeking,Affirmative,I 'm asking all those activist groups to stop all activities and cooperate with us in seeking a way out of this crisis . 
+all those activist groups,seek.01,a way out of,,Affirmative,I 'm asking all those activist groups to stop all activities and cooperate with us in seeking a way out of this crisis . 
+"the army ,",say.01,Protesters have been told,,Affirmative,"Protesters have been told to stay where they are and the country 's media will also be censored , said the army , who told the Thai people not to panic . "
+"the army ,",tell.01,not to panic,the Thai people,Affirmative,"Protesters have been told to stay where they are and the country 's media will also be censored , said the army , who told the Thai people not to panic . "
+"interim government ,",hold.04,an emergency meeting,,Affirmative,"Thailand 's interim government , which had not been informed of the military plan , is to hold an emergency meeting at a safe house to discuss the crisis . "
+Jonathan Samuels,say.01,army believes,,Affirmative,Sky 's Jonathan Samuels said : The army believes the police can no longer handle the security so now we are seeing plenty of soldiers on the streets . 
+"the army , who told the Thai people not to panic",believe.01,longer handle,,Affirmative,Sky 's Jonathan Samuels said : The army believes the police can no longer handle the security so now we are seeing plenty of soldiers on the streets . 
+the police,handle.01,the country 's security in general,,Affirmative,Sky 's Jonathan Samuels said : The army believes the police can no longer handle the security so now we are seeing plenty of soldiers on the streets . 
+Protesters,see.01,plenty of soldiers,,Affirmative,Sky 's Jonathan Samuels said : The army believes the police can no longer handle the security so now we are seeing plenty of soldiers on the streets . 
+Sky 's,say.01,it 's come in,,Affirmative,"It said it 's come in to stop any more bloodshed , but of course there are many that say it may have the opposite effect . "
+Sky 's,stop.01,any more bloodshed,,Affirmative,"It said it 's come in to stop any more bloodshed , but of course there are many that say it may have the opposite effect . "
+many,say.01,it may have,,Affirmative,"It said it 's come in to stop any more bloodshed , but of course there are many that say it may have the opposite effect . "
+Sky 's,have.03,the opposite effect,,Affirmative,"It said it 's come in to stop any more bloodshed , but of course there are many that say it may have the opposite effect . "
+anti-government protesters,try.01,to oust,,Affirmative,"Thailand has been in a state of upheaval since 2006 , but the latest unrest began in November when anti-government protesters tried to oust former prime minister Yingluck Shinawatra . "
+anti-government protesters,oust.01,minister Yingluck Shinawatra,,Affirmative,"Thailand has been in a state of upheaval since 2006 , but the latest unrest began in November when anti-government protesters tried to oust former prime minister Yingluck Shinawatra . "
+anti-government protesters,rail.01,against,,Affirmative,The protesters railed against a government amnesty bill they said was designed to help former leader Thaksin Shinawatra - Yingluck 's brother - avoid being jailed for corruption . 
+anti-government protesters,say.01,a government amnesty bill,,Affirmative,The protesters railed against a government amnesty bill they said was designed to help former leader Thaksin Shinawatra - Yingluck 's brother - avoid being jailed for corruption . 
+anti-government protesters,help.01,brother - avoid,,Affirmative,The protesters railed against a government amnesty bill they said was designed to help former leader Thaksin Shinawatra - Yingluck 's brother - avoid being jailed for corruption . 
+"TYingluck YYYYYUYYYYYYYYYYYYHowever , the move",do.02,little,,Affirmative," TYingluck YYYYYUYYYYYYYYYYYYHowever , the move has done little to dampen disquiet against the caretaker government . "
+minister Niwattumrong Boonsongpaisan,refuse.01,to step down,,Affirmative,The army 's surprise announcement comes a day after acting prime minister Niwattumrong Boonsongpaisan refused to step down . 
+Regional neighbours,express.01,concern at,,Affirmative,"Regional neighbours have already expressed concern at the army 's seizing of power , with Japan strongly urging self - restraint and calling for sincere negotiations . "
+Japan,urge.01,self - restraint,,Affirmative,"Regional neighbours have already expressed concern at the army 's seizing of power , with Japan strongly urging self - restraint and calling for sincere negotiations . "
+Japan,call.03,for,,Affirmative,"Regional neighbours have already expressed concern at the army 's seizing of power , with Japan strongly urging self - restraint and calling for sincere negotiations . "
+powerful army,declare.02,martial law,,Affirmative,"Thailand 's powerful army has declared martial law , deploying troops into the heart of Bangkok . "
+powerful army,deploy.01,troops,into,Affirmative,"Thailand 's powerful army has declared martial law , deploying troops into the heart of Bangkok . "
+A morning commuter,pass.01,a machine gun,,Affirmative,A morning commuter passes a machine gun on a military vehicle . 
+The surprise operation,place.01,the army,in charge of,Affirmative,The surprise operation places the army in charge of public security nationwide . 
+Soldiers,enter.01,multiple television stations,,Affirmative,Soldiers entered multiple television stations to broadcast the army message . 
+Soldiers,broadcast.01,the army message,,Affirmative,Soldiers entered multiple television stations to broadcast the army message . 
+Thai soldiers,man.01,a checkpoint near,,Affirmative,Thai soldiers man a checkpoint near the site where pro-government Red Shirt supporters have been gathering in the suburbs of Bangkok . 
+Thailand 's,have.03,a long history of,,Affirmative,Thailand has a long history of political unrest with the army staging at least 11 coups since the end of the absolute monarchy in 1932 . 
+the army,stage.01,11 coups,,Affirmative,Thailand has a long history of political unrest with the army staging at least 11 coups since the end of the absolute monarchy in 1932 . 
+The latest crisis,have.03,its roots in,,Affirmative,"The latest crisis has its roots in the 2006 military overthrow of prime minister Thaksin Shinawatra , who was embroiled in a telecoms corruption scandal . "
+armed forces,oust.01,Thaksin,in,Affirmative,September 2006 : Thailand 's armed forces oust Thaksin in a bloodless coup and impose martial law . 
+armed forces,impose.01,martial law,,Affirmative,September 2006 : Thailand 's armed forces oust Thaksin in a bloodless coup and impose martial law . 
+The People Power Party,make.07,of,,Affirmative,"December 2007 : The People Power Party made up of Thaksin 's allies , wins elections and forms a coalition government . "
+The People Power Party,win.01,elections,,Affirmative,"December 2007 : The People Power Party made up of Thaksin 's allies , wins elections and forms a coalition government . "
+The People Power Party,form.01,a coalition government,,Affirmative,"December 2007 : The People Power Party made up of Thaksin 's allies , wins elections and forms a coalition government . "
+State of emergency,declare.02,leave,,Affirmative,September 2008 : State of emergency declared after clashes between pro and anti-government groups leave one person dead and dozens wounded . 
+Constitutional Court,strip.01,minister Samak Sundaravej of,,Affirmative,"Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers , ruling he illegally accepted payments for hosting TV cooking shows . "
+Constitutional Court,rule.01,he illegally accepted payments for hosting,,Affirmative,"Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers , ruling he illegally accepted payments for hosting TV cooking shows . "
+Thaksin-allied prime minister Samak Sundaravej of his powers,accept.01,payments for hosting,,Affirmative,"Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers , ruling he illegally accepted payments for hosting TV cooking shows . "
+brother-in-law,take.01,his place,,Affirmative,Thaksin 's brother-in-law Somchai Wongsawat takes his place . 
+Clashes between police and demonstrators,leave.01,two people,dead,Affirmative,October 2008 : Clashes between police and demonstrators leave two people dead and nearly 500 wounded . 
+Court,sentence.01,Thaksin,to,Affirmative,Court sentences Thaksin in his absence to two years in jail for corruption after he flees the country . 
+Police,flee.01,the country 's,,Affirmative,Court sentences Thaksin in his absence to two years in jail for corruption after he flees the country . 
+Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers,dissolve.01,party,,Affirmative,"December 2008 : Constitutional Court dissolves Somchai 's party , forcing him from office . "
+Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers,force.01,Thaksin 's brother-in-law Somchai Wongsawat,from office,Affirmative,"December 2008 : Constitutional Court dissolves Somchai 's party , forcing him from office . "
+Red Shirts,storm.02,an Asian summit in,,Affirmative,"April 2009 : Red Shirts storm an Asian summit in the beach resort of Pattaya , forcing the evacuation of regional leaders . "
+Red Shirts,force.02,the evacuation of,,Affirmative,"April 2009 : Red Shirts storm an Asian summit in the beach resort of Pattaya , forcing the evacuation of regional leaders . "
+Riots and,leave.01,two people,dead,Affirmative,"Riots and a 12 - day state of emergency in Bangkok ensue , leaving two people dead . "
+Tens of thousands of,roll.01,demonstrations calling,,Affirmative,"March 2010 : Tens of thousands of Red Shirts begin rolling demonstrations calling for Abhisit 's government to step down , saying it is elitist and undemocratic . "
+demonstrations calling,call.03,government to step down,,Affirmative,"March 2010 : Tens of thousands of Red Shirts begin rolling demonstrations calling for Abhisit 's government to step down , saying it is elitist and undemocratic . "
+Tens of thousands of,say.01,it is elitist and undemocratic,,Affirmative,"March 2010 : Tens of thousands of Red Shirts begin rolling demonstrations calling for Abhisit 's government to step down , saying it is elitist and undemocratic . "
+Street clashes between,leave.01,90 people,dead,Affirmative,"April - May 2010 : Street clashes between Red Shirt protesters and armed troops leave more than 90 people dead , mostly civilians , in the country 's worst civil unrest in decades . "
+Parliament,elect.01,youngest sister,as,Affirmative,August 2011 : Parliament elects Thaksin 's youngest sister Yingluck Shinawatra as Thailand 's first female prime minister . 
+Police fire,tear.01,gas,,Affirmative,November 2012 : Police fire tear gas at demonstrators as clashes erupt at the first major street protests against Ms Yingluck 's government . 
+the first major street protests against Ms Yingluck 's government,break.01,against,,Affirmative,October 2013 : Protests break out against an amnesty bill which critics say is aimed at allowing Thaksin - who went into self - imposed exile to avoid jail for a corruption conviction - to return home and escape prison . 
+critics,say.01,is aimed at allowing,,Affirmative,October 2013 : Protests break out against an amnesty bill which critics say is aimed at allowing Thaksin - who went into self - imposed exile to avoid jail for a corruption conviction - to return home and escape prison . 
+Thaksin -,avoid.01,jail,,Affirmative,October 2013 : Protests break out against an amnesty bill which critics say is aimed at allowing Thaksin - who went into self - imposed exile to avoid jail for a corruption conviction - to return home and escape prison . 
+Opposition protesters,occupy.01,ministries demanding,,Affirmative,November 2013 : Opposition protesters occupy the finance and foreign ministries demanding Ms Yingluck resign . 
+ministries demanding,demand.01,Yingluck resign,,Affirmative,November 2013 : Opposition protesters occupy the finance and foreign ministries demanding Ms Yingluck resign . 
+Police,use.01,water cannon and,on protesters,Affirmative,December 2013 : Police use water cannon and tear gas on protesters who storm the government and police headquarters . 
+protesters,storm.02,the government and,,Affirmative,December 2013 : Police use water cannon and tear gas on protesters who storm the government and police headquarters . 
+Ms Yingluck 's,call.01,early elections,,Affirmative,Ms Yingluck calls early elections as demonstrators return to the streets . 
+Opposition,announce.01,a poll boycott,,Affirmative,Opposition announces a poll boycott . 
+Opposition demonstrators,prevent.01,"10,000 polling stations",from opening for,Affirmative,"February 2 , 2014 : Opposition demonstrators prevent 10,000 polling stations from opening for the election . "
+Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers,declare.01,elections invalid,,Affirmative,"March 21 , 2014 : Constitutional Court declares February elections invalid . "
+Government,announce.01,new elections for July 20,,Affirmative,"April 30 , 2014 : Government announces new elections for July 20 . "
+Constitutional Court strips Thaksin-allied prime minister Samak Sundaravej of his powers,remove.01,Ms Yingluck 's,,Affirmative,"May 7 , 2014 : Constitutional Court removes Ms Yingluck and several cabinet ministers from office . "
+by remainder of cabinet,appoint.01,premier Niwattumrong Boonsongpaisan appointed by remainder of cabinet,,Affirmative,New caretaker premier Niwattumrong Boonsongpaisan appointed by remainder of cabinet . 
+The Election Commission,say.01,is,,Affirmative,"May 15 , 2014 : The Election Commission says a general election scheduled for July 20 is no longer possible as polls can not be held without the support of the protesters . "
+Army,declare.02,martial law,,Affirmative,"May 20 , 2014 : Army declares martial law , stressing the move is not a coup . "
+Army,stress.01,"TYingluck YYYYYUYYYYYYYYYYYYHowever , the move",,Affirmative,"May 20 , 2014 : Army declares martial law , stressing the move is not a coup . "
+armed forces,announce.01,a military coup,,Affirmative,"May 22 , 2014 :   The country 's armed forces announce a military coup . "
+General Prayuth,lead.02,the nation,,Affirmative,"May 26 , 2014 : General Prayuth formally appointed to lead the nation . "
+by,dismiss.01,Thaksin 's youngest sister,,Affirmative,She was dismissed by a court on 7th May . 
+meetings with,stop.01,a military coup,,Affirmative,"He is pictured at meetings with the election commission in May 2014 , which failed to stop the military coup . "
+"King Bhumibol Adulyadej ,",celebrate.02,his 86th birthday,,Affirmative,"King Bhumibol Adulyadej , who celebrated his 86th birthday in December , is treated as a near - deity by many in Thailand . "

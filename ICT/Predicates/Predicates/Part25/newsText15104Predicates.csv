@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+AMHERST - Police,arrest.01,Hampshire mother,for operating under,Affirmative,AMHERST - Police arrested a New Hampshire mother Sunday afternoon for operating under the influence after they got a call from someone concerned seeing her driving a car with a child and another adult inside . 
+Police,get.01,a call from someone concerned seeing,,Affirmative,AMHERST - Police arrested a New Hampshire mother Sunday afternoon for operating under the influence after they got a call from someone concerned seeing her driving a car with a child and another adult inside . 
+someone concerned seeing,see.01,her driving,,Affirmative,AMHERST - Police arrested a New Hampshire mother Sunday afternoon for operating under the influence after they got a call from someone concerned seeing her driving a car with a child and another adult inside . 
+a New Hampshire mother,drive.01,a car,,Affirmative,AMHERST - Police arrested a New Hampshire mother Sunday afternoon for operating under the influence after they got a call from someone concerned seeing her driving a car with a child and another adult inside . 
+Police,find.01,the suspect at,,Affirmative,Police were called to Colonial Village apartments but then found the suspect at Spirit Haus . 
+Police,arrest.01,"Liberty J. Lynn , 34 , of Merrimack",on operating under,Affirmative,"Police arrested Liberty J. Lynn , 34 , of Merrimack , N.H. on operating under the influence , second offense and resisting arrest after she struggled with officers when they attempted to put her in the cruiser , police said . "
+Spirit Haus,struggle.02,with officers,,Affirmative,"Police arrested Liberty J. Lynn , 34 , of Merrimack , N.H. on operating under the influence , second offense and resisting arrest after she struggled with officers when they attempted to put her in the cruiser , police said . "
+officers,attempt.01,to put her in,,Affirmative,"Police arrested Liberty J. Lynn , 34 , of Merrimack , N.H. on operating under the influence , second offense and resisting arrest after she struggled with officers when they attempted to put her in the cruiser , police said . "
+officers,put.01,Spirit Haus,in,Affirmative,"Police arrested Liberty J. Lynn , 34 , of Merrimack , N.H. on operating under the influence , second offense and resisting arrest after she struggled with officers when they attempted to put her in the cruiser , police said . "
+police,say.01,Police arrested,,Affirmative,"Police arrested Liberty J. Lynn , 34 , of Merrimack , N.H. on operating under the influence , second offense and resisting arrest after she struggled with officers when they attempted to put her in the cruiser , police said . "
+Spirit Haus,operate.01,a moving vehicle,,Affirmative,"She was also charged with operating a moving vehicle with negligent endangerment , child endangerment while under the influence and possession of a class B drug , a pharmaceutical . "
+Spirit Haus,visit.01,friends,,Affirmative,"She had been visiting friends at Colonial Village where she once lived , police said . "
+Police,say.01,She had been visiting friends at,,Affirmative,"She had been visiting friends at Colonial Village where she once lived , police said . "
+police,say.01,child was initially released into,,Affirmative,"Lynn's eight - year - old child was initially released into the custody of a friend but the State Department of Children and Families was called in later in the day , police said . "
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+You,receive.01,occasional emails,from us,Affirmative,You will receive occasional emails from us as stories break . 

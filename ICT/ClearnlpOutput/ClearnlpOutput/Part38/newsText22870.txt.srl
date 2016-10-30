@@ -1,0 +1,420 @@
+1	Voting	voting	NN	p2=NNP	2	nsubj	2:A0=PAG;6:A1=PPT
+2	helps	help	VBZ	pb=help.01	0	root	_
+3	democracy	democracy	NN	_	2	dobj	4:A0=PAG;2:A2=GOL
+4	prevail	prevail	VB	p2=NN|pb=prevail.01	2	xcomp	2:A1=PPT
+5	and	and	CC	_	2	cc	_
+6	is	be	VBZ	pb=be.01	2	conj	_
+7	the	the	DT	_	9	det	_
+8	best	good	JJS	_	9	amod	_
+9	way	way	NN	_	6	attr	6:A2=PRD;11:AM-MNR
+10	to	to	TO	_	11	aux	_
+11	get	get	VB	pb=get.01	9	infmod	_
+12	your	your	PRP$	_	13	poss	_
+13	voice	voice	NN	_	14	nsubj	14:A1
+14	heard	hear	VBN	p2=VBD|pb=hear.01	11	ccomp	11:A1=PPT
+15	.	.	.	_	2	punct	_
+
+1	 But	 but	RP	p2=RBS	20	advmod	_
+2	just	just	RB	_	7	advmod	_
+3	as	as	IN	_	7	mark	_
+4	time	time	NN	_	7	nsubj	7:A0=PAG
+5	and	and	CC	_	4	cc	_
+6	technology	technology	NN	_	4	conj	_
+7	changes	change	VBZ	p2=NNS|pb=change.01	20	advcl	20:AM-ADV
+8	the	the	DT	_	9	det	_
+9	way	way	NN	_	7	dobj	7:A1=PPT;11:AM-MNR
+10	we	we	PRP	_	11	nsubj	11:A1=PPT
+11	approach	approach	VBP	pb=approach.01	9	rcmod	_
+12	our	our	PRP$	_	13	poss	_
+13	day	day	NN	_	11	dobj	11:A2=LOC
+14	to	to	IN	_	11	prep	_
+15	day	day	NN	_	16	nn	_
+16	routines	routine	NNS	_	14	pobj	_
+17	,	,	,	_	20	punct	_
+18	it	it	PRP	_	20	nsubj	20:A0=PAG
+19	also	also	RB	_	20	advmod	20:AM-DIS
+20	impacts	impact	VBZ	pb=impact.01	0	root	_
+21	the	the	DT	_	22	det	_
+22	way	way	NN	_	20	dobj	20:A1=PPT;24:AM-MNR
+23	we	we	PRP	_	24	nsubj	24:A0=PAG
+24	vote	vote	VBP	pb=vote.01	22	rcmod	_
+25	.	.	.	_	20	punct	_
+
+1	That	that	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	why	why	WRB	_	4	advmod	4:R-AM-CAU
+4	reviewing	review	VBG	pb=review.01	8	csubj	8:A1=PPT
+5	our	our	PRP$	_	7	poss	_
+6	election	election	NN	_	7	nn	_
+7	procedures	procedure	NNS	_	4	dobj	4:A1=PPT
+8	is	be	VBZ	pb=be.01	2	ccomp	2:A2=PRD
+9	a	a	DT	_	11	det	_
+10	constant	constant	JJ	_	11	amod	_
+11	process	process	NN	_	8	attr	8:A2=PRD
+12	.	.	.	_	2	punct	_
+
+1	 In	 in	NNP	p2=IN	5	npadvmod	5:AM-TMP
+2	2013	0	CD	_	1	num	_
+3	,	,	,	_	5	punct	_
+4	we	we	PRP	_	5	nsubj	5:A0=PAG
+5	passed	pass	VBD	pb=pass.02	0	root	_
+6	34	0	CD	_	7	num	_
+7	laws	law	NNS	_	5	dobj	8:A0=PAG;5:A1=PPT
+8	impacting	impact	VBG	pb=impact.01	7	partmod	_
+9	elections	election	NNS	_	8	dobj	8:A1=PPT
+10	.	.	.	_	5	punct	_
+
+1	 	 	SYM	p2=``	18	punct	_
+2	 	 	UH	p2=LS	18	intj	18:AM-DIS
+3	 	 	``	p2=UH	18	punct	_
+4	If	if	IN	_	8	mark	_
+5	you	you	PRP	_	8	nsubj	8:A0
+6	have	have	VBP	_	8	aux	_
+7	not	not	RB	_	8	neg	8:AM-NEG
+8	seen	see	VBN	pb=see.01	18	advcl	18:AM-ADV
+9	these	these	DT	_	10	det	_
+10	changes	change	NNS	_	8	dobj	8:A1
+11	during	during	IN	_	8	prep	8:AM-TMP
+12	the	the	DT	_	14	det	_
+13	May	may	NNP	_	14	nn	_
+14	primary	primary	NN	_	11	pobj	_
+15	,	,	,	_	18	punct	_
+16	you	you	PRP	_	18	nsubj	18:A0=PPT
+17	may	may	MD	_	18	aux	18:AM-MOD
+18	notice	notice	VB	pb=notice.01	0	root	_
+19	them	them	PRP	_	18	dobj	18:A1=PAG
+20	during	during	IN	_	18	prep	18:AM-TMP
+21	the	the	DT	_	23	det	_
+22	November	november	NNP	_	23	nn	_
+23	election	election	NN	_	20	pobj	_
+24	.	.	.	_	18	punct	_
+
+1	 	 	``	p2=NNP	5	punct	_
+2	 	 	DT	p2=CC	5	det	_
+3	 	 	HYPH	p2=CD	4	hyph	_
+4	One	#crd#	CD	p2=NNP	5	num	_
+5	law	law	NN	_	13	nsubj	13:A0=PAG;6:A1=PPT
+6	passed	pass	VBN	p2=VBD|pb=pass.01	5	partmod	_
+7	by	by	IN	_	6	agent	6:A0=PAG
+8	the	the	DT	_	11	det	_
+9	89th	#ord#	JJ	p2=NNP	11	nn	_
+10	General	general	NNP	_	11	nn	_
+11	Assembly	assembly	NNP	_	7	pobj	_
+12	directly	directly	RB	_	13	advmod	13:AM-MNR
+13	deals	deal	VBZ	pb=deal.01	0	root	_
+14	with	with	IN	_	13	prep	13:A1=PPT
+15	the	the	DT	_	16	det	_
+16	election	election	NN	_	14	pobj	_
+17	of	of	IN	_	16	prep	_
+18	our	our	PRP$	_	21	poss	_
+19	local	local	JJ	_	21	amod	_
+20	prosecuting	prosecute	VBG	p2=NN|pb=prosecute.01	21	amod	_
+21	attorneys	attorney	NNS	_	17	pobj	20:A0=PAG
+22	.	.	.	_	13	punct	_
+
+1	 Until	 until	NNP	p2=IN	5	npadvmod	5:AM-TMP
+2	now	now	RB	_	1	advmod	_
+3	,	,	,	_	5	punct	_
+4	prosecutors	prosecutor	NNS	_	5	nsubj	7:A0=PAG
+5	had	have	VBD	pb=have.02	0	root	_
+6	to	to	TO	_	7	aux	_
+7	run	run	VB	pb=run.01	5	xcomp	_
+8	on	on	IN	_	7	prep	7:A1=PPT
+9	a	a	DT	_	11	det	_
+10	party	party	NN	_	11	nn	_
+11	ticket	ticket	NN	_	8	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	 Act	 act	VB	pb= act.01	0	root	_
+2	1110	0	CD	_	3	num	_
+3	changes	change	NNS	p2=VBZ	1	dobj	1:A1
+4	that	that	IN	p2=DT	6	mark	_
+5	by	by	IN	_	1	prep	1:AM-MNR
+6	making	make	VBG	pb=make.01	5	pcomp	_
+7	the	the	DT	_	8	det	_
+8	office	office	NN	_	6	dobj	6:A1=PRD
+9	of	of	IN	_	8	prep	_
+10	prosecutor	prosecutor	NN	_	9	pobj	_
+11	a	a	DT	p2=FW	13	det	_
+12	non-partisan	non-partisan	JJ	_	13	amod	_
+13	office	office	NN	_	9	pobj	_
+14	.	.	.	_	1	punct	_
+
+1	 This	 this	NNP	p2=DT	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	how	how	WRB	_	7	advmod	7:R-AM-MNR
+4	our	our	PRP$	_	5	poss	_
+5	judges	judge	NNS	_	7	nsubjpass	7:A1=PPT
+6	are	be	VBP	_	7	auxpass	_
+7	elected	elect	VBN	pb=elect.01	2	ccomp	2:A2=PRD
+8	as	as	RB	_	9	advmod	_
+9	well	well	RB	_	7	advmod	7:AM-DIS
+10	.	.	.	_	2	punct	_
+
+1	 	 	SYM	p2=,	4	poss	_
+2	 	 	POS	p2=``	1	possessive	_
+3	 	 	JJ	p2=SYM	4	amod	_
+4	Sponsors	sponsor	NNS	_	8	nsubj	8:A0=PAG
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	bill	bill	NN	_	5	pobj	_
+8	maintained	maintain	VBD	p2=VBN|pb=maintain.01	0	root	_
+9	prosecutors	prosecutor	NNS	_	10	nsubj	13:A0=PAG;10:A1=PPT
+10	are	be	VBP	pb=be.01	8	ccomp	8:A1=PPT
+11	there	there	RB	p2=EX	10	advmod	10:A2=PRD
+12	to	to	TO	_	13	aux	_
+13	enforce	enforce	VB	pb=enforce.01	10	advcl	10:AM-PRP
+14	the	the	DT	_	15	det	_
+15	law	law	NN	_	13	dobj	13:A1=PPT
+16	and	and	CC	_	10	cc	_
+17	should	should	MD	_	20	aux	20:AM-MOD
+18	not	not	RB	_	20	neg	20:AM-NEG
+19	be	be	VB	_	20	auxpass	_
+20	required	require	VBN	pb=require.01	10	conj	_
+21	to	to	TO	_	22	aux	_
+22	side	side	VB	pb=side.01	20	xcomp	20:A1=PPT
+23	with	with	IN	_	22	prep	22:A1=PPT
+24	a	a	DT	_	26	det	_
+25	 particular	 particular	JJ	_	26	amod	_
+26	party	party	NN	_	23	pobj	_
+27	.	.	.	_	8	punct	_
+
+1	 	 	POS	p2=:	5	nn	_
+2	 	 	``	p2=NN	5	punct	_
+3	 	 	CC	p2=HYPH	5	nn	_
+4	Filing	filing	NNP	p2=VBG	5	nn	_
+5	fees	fee	NNS	p2=VBZ	17	nsubjpass	19:A0;9:A1=PPT;17:A1=PPT
+6	that	that	WDT	_	7	nsubj	9:R-A1
+7	used	use	VBD	pb=use.03	5	rcmod	_
+8	to	to	TO	_	9	aux	_
+9	go	go	VB	pb=go.02	7	xcomp	_
+10	to	to	IN	_	9	prep	9:A4=GOL
+11	the	the	DT	_	13	det	_
+12	political	political	JJ	_	13	amod	_
+13	party	party	NN	_	10	pobj	_
+14	are	be	VBP	_	17	aux	_
+15	now	now	RB	_	17	advmod	17:AM-TMP
+16	being	be	VBG	_	17	auxpass	_
+17	directed	direct	VBN	pb=direct.01	0	root	_
+18	to	to	TO	p2=IN	19	aux	_
+19	support	support	VB	pb=support.01	17	xcomp	17:A2=DIR
+20	trial	trial	NN	p2=JJ	21	nn	_
+21	court	court	NN	_	22	nn	_
+22	assistants	assistant	NNS	_	19	dobj	19:A1
+23	.	.	.	_	17	punct	_
+
+1	 	 	UH	p2=NNP	9	intj	9:AM-DIS
+2	 	 	UH	p2=VB	1	intj	_
+3	 	 	:	p2=UH	9	punct	_
+4	The	the	DT	_	7	det	_
+5	89th	#ord#	JJ	p2=NNP	7	amod	_
+6	General	general	NNP	_	7	nn	_
+7	Assembly	assembly	NNP	_	9	nsubj	9:A0=PAG
+8	also	also	RB	_	9	advmod	9:AM-DIS
+9	passed	pass	VBD	pb=pass.01	0	root	_
+10	a	a	DT	_	11	det	_
+11	law	law	NN	_	9	dobj	9:A1=PPT;12:A1=PRD
+12	designed	design	VBN	pb=design.01	11	partmod	_
+13	to	to	TO	_	14	aux	_
+14	ensure	ensure	VB	pb=ensure.01	12	xcomp	12:A3=PRP
+15	our	our	PRP$	_	17	poss	_
+16	poll	poll	NN	_	17	amod	_
+17	workers	worker	NNS	_	18	nsubj	18:A0=PAG
+18	have	have	VBP	p2=VB|pb=have.03	14	ccomp	14:A1=PPT
+19	more	more	JJR	_	20	amod	_
+20	training	training	NN	_	18	dobj	18:A1=PPT
+21	.	.	.	_	9	punct	_
+
+1	 	 	NNP	p2=``	3	nn	_
+2	 	 	NNP	p2=POS	3	nn	_
+3	 	 	NNP	p2=POS	4	nn	_
+4	Act	act	NNP	_	6	nsubj	6:A0=PAG
+5	1457	0	CD	p2=NNP	4	num	_
+6	requires	require	VBZ	pb=require.01	0	root	_
+7	all	all	DT	p2=JJ	9	det	_
+8	poll	poll	NN	p2=VB	9	amod	_
+9	workers	worker	NNS	_	11	nsubj	11:A0=PAG
+10	to	to	TO	_	11	aux	_
+11	attend	attend	VB	pb=attend.01	6	ccomp	6:A1=PPT
+12	election	election	NN	_	13	nn	_
+13	training	training	NN	_	11	dobj	11:A1=PPT
+14	by	by	IN	_	13	prep	_
+15	the	the	DT	_	17	det	_
+16	State	state	NNP	_	17	nn	_
+17	Board	board	NNP	_	14	pobj	_
+18	of	of	IN	_	17	prep	_
+19	Election	election	NNP	_	20	nn	_
+20	Commissioners	commissioner	NNPS	_	18	pobj	_
+21	at	at	IN	_	22	advmod	_
+22	least	least	JJS	_	23	advmod	_
+23	once	once	RB	_	11	advmod	_
+24	every	every	DT	_	26	det	_
+25	5	0	CD	_	26	num	_
+26	years	year	NNS	_	23	npadvmod	_
+27	.	.	.	_	6	punct	_
+
+1	 Previously	 previously	RB	p2=NNP	11	advmod	11:AM-TMP
+2	only	only	RB	_	3	advmod	_
+3	one	#crd#	CD	_	5	num	_
+4	poll	poll	NN	_	5	nn	_
+5	worker	worker	NN	_	11	nsubjpass	13:A0
+6	at	at	IN	_	5	prep	_
+7	each	each	DT	_	9	det	_
+8	polling	polling	NN	_	9	nn	_
+9	site	site	NN	_	6	pobj	_
+10	was	be	VBD	_	11	auxpass	_
+11	required	require	VBN	pb=require.01	0	root	_
+12	to	to	TO	_	13	aux	_
+13	take	take	VB	pb=take.01	11	xcomp	11:A1=PPT
+14	the	the	DT	_	15	det	_
+15	training	training	NN	_	13	dobj	13:A1=PPT
+16	.	.	.	_	11	punct	_
+
+1	 Now	 now	:	p2=VBP	6	punct	_
+2	every	every	DT	_	3	det	_
+3	worker	worker	NN	_	6	nsubjpass	6:A1=PPT
+4	will	will	MD	_	6	aux	6:AM-MOD
+5	be	be	VB	_	6	auxpass	_
+6	required	require	VBN	pb=require.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	 	 	NNP	p2=,	2	nsubj	2:A0
+2	 	 	VBD	p2=NNP|pb= .01	0	root	_
+3	 	 	RP	p2=``	2	prt	2:C-V
+4	Another	another	DT	_	5	det	_
+5	law	law	NN	_	9	nsubj	6:A1=PPT
+6	passed	pass	VBD	p2=VBN|pb=pass.01	5	partmod	_
+7	last	last	JJ	_	8	amod	_
+8	year	year	NN	_	6	npadvmod	6:AM-TMP
+9	establishes	establish	VBZ	_	2	dobj	2:A1
+10	a	a	DT	_	14	det	_
+11	voting	voting	NN	p2=VBG	12	nn	_
+12	day	day	NN	_	14	nn	_
+13	vote	vote	NN	p2=VB	14	nn	_
+14	center	center	NN	_	9	dobj	_
+15	.	.	.	_	2	punct	_
+
+1	 Act	 act	NNP	p2=$	3	nsubj	3:A0=PAG
+2	1389	0	CD	_	1	num	_
+3	allows	allow	VBZ	pb=allow.01	0	root	_
+4	counties	county	NNS	_	11	nsubj	11:A0=PAG
+5	with	with	IN	_	4	prep	_
+6	electronic	electronic	JJ	_	9	amod	_
+7	voter	voter	NN	_	8	nn	_
+8	registration	registration	NN	_	9	nn	_
+9	records	record	NNS	p2=VBZ	5	pobj	_
+10	to	to	TO	_	11	aux	_
+11	designate	designate	VB	pb=designate.01	3	ccomp	3:A1=PPT
+12	a	a	DT	_	14	det	_
+13	vote	vote	NN	_	14	nn	_
+14	center	center	NN	_	11	dobj	11:A1=PPT
+15	.	.	.	_	3	punct	_
+
+1	 These	 these	JJ	p2=DT	3	amod	_
+2	vote	vote	NN	_	3	nn	_
+3	centers	center	NNS	_	5	nsubj	5:A0=PAG
+4	would	would	MD	_	5	aux	5:AM-MOD
+5	allow	allow	VB	pb=allow.01	0	root	_
+6	anyone	anyone	NN	_	11	nsubj	11:A0=PAG
+7	from	from	IN	_	6	prep	_
+8	any	any	DT	_	9	det	_
+9	precinct	precinct	NN	p2=JJ	7	pobj	_
+10	to	to	TO	p2=IN	11	aux	_
+11	cast	cast	VB	pb=cast.01	5	ccomp	5:A1=PPT
+12	their	their	PRP$	_	13	poss	_
+13	ballot	ballot	NN	_	11	dobj	11:A1=PPT
+14	on	on	IN	_	11	prep	11:AM-TMP
+15	election	election	NN	_	16	nn	_
+16	day	day	NN	_	14	pobj	_
+17	.	.	.	_	5	punct	_
+
+1	 This	 this	NNP	p2=DT	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	very	very	RB	_	4	advmod	_
+4	similar	similar	JJ	_	2	acomp	2:A2=PRD
+5	to	to	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	way	way	NN	_	5	pobj	11:AM-MNR
+8	many	many	JJ	_	9	amod	_
+9	counties	county	NNS	_	11	nsubj	11:A0=PAG
+10	currently	currently	RB	_	11	advmod	11:AM-TMP
+11	handle	handle	VBP	pb=handle.01	7	rcmod	_
+12	early	early	JJ	p2=RB	13	amod	_
+13	voting	voting	NN	p2=VBG	11	dobj	11:A1=PPT
+14	.	.	.	_	2	punct	_
+
+1	 	 	VBN	p2=VBP|pb= .01	10	advcl	10:AM-ADV
+2	 	 	,	p2=RP	1	punct	_
+3	 	 	,	p2=WP	10	punct	_
+4	Registration	registration	NN	p2=NNP	10	nsubjpass	1:A1;10:A1=PPT
+5	for	for	IN	_	4	prep	_
+6	voting	voting	NN	p2=VBG	7	nn	_
+7	centers	center	NNS	_	5	pobj	_
+8	must	must	MD	_	10	aux	10:AM-MOD
+9	be	be	VB	_	10	auxpass	_
+10	certified	certify	VBN	pb=certify.01	0	root	_
+11	by	by	IN	_	10	agent	10:A0=PAG
+12	the	the	DT	_	13	det	_
+13	Secretary	secretary	NNP	_	11	pobj	_
+14	of	of	IN	_	13	prep	_
+15	State	state	NNP	_	14	pobj	_
+16	.	.	.	_	10	punct	_
+
+1	 So	 so	NNP	p2=RB	5	nn	_
+2	far	far	RB	_	3	advmod	_
+3	only	only	RB	_	5	advmod	_
+4	Boone	boone	NNP	_	5	nn	_
+5	County	county	NNP	_	8	nsubjpass	8:A1=PPT
+6	has	have	VBZ	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	certified	certify	VBN	pb=certify.01	0	root	_
+9	,	,	,	_	8	punct	_
+10	but	but	CC	_	8	cc	_
+11	we	we	PRP	_	13	nsubj	13:A0
+12	could	could	MD	_	13	aux	13:AM-MOD
+13	see	see	VB	pb=see.01	8	conj	_
+14	more	more	JJR	_	15	amod	_
+15	counties	county	NNS	_	16	nsubj	16:A0
+16	taking	take	VBG	pb=take.01	13	ccomp	13:A1
+17	advantage	advantage	NN	_	16	dobj	16:A1=PPT
+18	of	of	IN	_	16	prep	16:A2=DIR
+19	this	this	DT	_	20	det	_
+20	opportunity	opportunity	NN	_	18	pobj	_
+21	before	before	IN	_	16	prep	16:AM-TMP
+22	November	november	NNP	_	21	pobj	_
+23	.	.	.	_	13	punct	_
+
+1	 	 	SYM	p2=``	15	punct	_
+2	 	 	UH	p2=LS	15	intj	15:AM-DIS
+3	 	 	``	p2=UH	15	punct	_
+4	If	if	IN	_	6	mark	_
+5	you	you	PRP	_	6	nsubj	6:A0=PAG;9:A0=PAG
+6	have	have	VBP	pb=have.03	15	advcl	15:AM-ADV
+7	questions	question	NNS	_	6	dobj	6:A1=PPT
+8	about	about	IN	_	7	prep	_
+9	voting	vote	VBG	p2=NN|pb=vote.01	8	pcomp	_
+10	procedures	procedure	NNS	_	9	dobj	9:A1=PPT
+11	in	in	IN	_	9	prep	9:AM-LOC
+12	your	your	PRP$	_	13	poss	_
+13	district	district	NN	_	11	pobj	_
+14	,	,	,	_	15	punct	_
+15	contact	contact	VB	pb=contact.01	0	root	_
+16	your	your	PRP$	_	18	poss	_
+17	county	county	NN	_	18	nn	_
+18	clerk	clerk	NN	_	15	dobj	15:A1=PPT
+19	.	.	.	_	15	punct	_
+
+1	 The	 the	NNP	p2=DT	2	nn	_
+2	Secretary	secretary	NNP	_	8	nsubj	8:A0=PAG
+3	of	of	IN	_	2	prep	_
+4	State	state	NNP	_	6	poss	_
+5	's	's	POS	_	4	possessive	_
+6	office	office	NN	_	3	pobj	_
+7	also	also	RB	_	8	advmod	8:AM-DIS
+8	provides	provide	VBZ	pb=provide.01	0	root	_
+9	valuable	valuable	JJ	_	10	amod	_
+10	information	information	NN	_	8	dobj	8:A1=PPT
+11	at	at	IN	_	8	prep	8:AM-LOC
+12	sos.arkansas.gov	#url#	ADD	_	11	pobj	_
+13	.	.	.	_	8	punct	_
+

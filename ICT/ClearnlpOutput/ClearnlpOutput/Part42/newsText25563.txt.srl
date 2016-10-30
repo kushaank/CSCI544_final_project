@@ -1,0 +1,66 @@
+1	An	an	DT	_	3	det	_
+2	online	online	JJ	p2=NN	3	amod	_
+3	service	service	NN	_	5	nsubjpass	5:A1=PPT
+4	is	be	VBZ	_	5	auxpass	_
+5	needed	need	VBN	pb=need.01	0	root	_
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	5	advcl	5:AM-PRP
+8	this	this	DT	_	9	det	_
+9	article	article	NN	_	7	dobj	7:A1=PAG
+10	in	in	IN	_	7	prep	7:AM-MNR
+11	its	its	PRP$	_	12	poss	_
+12	entirety	entirety	NN	_	10	pobj	_
+13	.	.	.	_	5	punct	_
+
+1	You	you	PRP	_	2	nsubj	2:A0=PAG;7:A0=PPT
+2	need	need	VBP	pb=need.01	0	root	_
+3	an	an	DT	_	5	det	_
+4	online	online	JJ	_	5	amod	_
+5	service	service	NN	_	2	dobj	2:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	2	advcl	2:AM-PRP
+8	this	this	DT	_	9	det	_
+9	article	article	NN	_	7	dobj	7:A1=PAG
+10	in	in	IN	_	9	prep	_
+11	its	its	PRP$	_	12	poss	_
+12	entirety	entirety	NN	_	10	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	Choose	choose	VB	pb=choose.01	0	root	_
+2	an	an	DT	_	4	det	_
+3	online	online	JJ	p2=NN	4	amod	_
+4	service	service	NN	_	1	dobj	1:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	in	in	IN	_	1	prep	1:A2=GOL
+3	Opinion	opinion	NN	p2=NNP	2	pobj	_
+4	on	on	IN	_	3	prep	_
+5	Monday	monday	NNP	_	12	nn	_
+6	,	,	,	_	12	punct	_
+7	May	may	NNP	_	12	nn	_
+8	19	0	CD	_	7	num	_
+9	,	,	,	_	12	punct	_
+10	2014	0	CD	_	12	num	_
+11	12:00	0	CD	_	12	num	_
+12	am	am	NN	p2=VBP	4	pobj	_
+13	.	.	.	_	1	punct	_
+
+1	Express	express	VB	p2=NNP|pb=express.01	0	root	_
+2	your	your	PRP$	_	3	poss	_
+3	opinion	opinion	NN	_	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	Fill	fill	VB	pb=fill.03	0	root	_
+2	out	out	RP	_	1	prt	1:C-V
+3	this	this	DT	_	4	det	_
+4	form	form	NN	_	1	dobj	1:A1=GOL
+5	to	to	TO	_	6	aux	_
+6	submit	submit	VB	pb=submit.01	1	advcl	1:AM-PRP
+7	a	a	DT	_	8	det	_
+8	Letter	letter	NNP	p2=NN	6	dobj	6:A1=PPT
+9	to	to	IN	_	6	prep	6:A2=GOL
+10	the	the	DT	_	11	det	_
+11	Editor	editor	NNP	_	9	pobj	_
+12	.	.	.	_	1	punct	_
+

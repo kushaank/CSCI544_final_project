@@ -1,0 +1,40 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+U.S. Attorney General,announce.01,Suisse has agreed,,Affirmative,U.S. Attorney General announced that Credit Suisse has agreed to plead guilty to helping U.S. taxpayers evade taxes . 
+Swiss bank Credit Suisse,agree.01,to plead guilty to helping,,Affirmative,U.S. Attorney General announced that Credit Suisse has agreed to plead guilty to helping U.S. taxpayers evade taxes . 
+Swiss bank Credit Suisse,plead.02,guilty to helping,,Affirmative,U.S. Attorney General announced that Credit Suisse has agreed to plead guilty to helping U.S. taxpayers evade taxes . 
+U.S. taxpayers,evade.01,their taxes,,Affirmative,U.S. Attorney General announced that Credit Suisse has agreed to plead guilty to helping U.S. taxpayers evade taxes . 
+bank Credit Suisse,plead.02,guilty,to,Affirmative,Swiss bank Credit Suisse pleaded guilty on Monday to federal charges that it illegally allowed some U.S. clients evade their taxes . 
+Swiss bank Credit Suisse,allow.01,clients evade,,Affirmative,Swiss bank Credit Suisse pleaded guilty on Monday to federal charges that it illegally allowed some U.S. clients evade their taxes . 
+some U.S. clients,evade.01,their taxes,,Affirmative,Swiss bank Credit Suisse pleaded guilty on Monday to federal charges that it illegally allowed some U.S. clients evade their taxes . 
+The guilty plea,settle.02,running probe by,,Affirmative,The guilty plea settles a long - running probe by the Justice Department . 
+General Eric Holder,say.01,bank engaged in,,Affirmative,Attorney General Eric Holder said the bank engaged in an extensive and wide- ranging conspiracy to help U.S. taxpayers evade taxes . 
+the bank 's,help.01,taxpayers evade taxes,,Affirmative,Attorney General Eric Holder said the bank engaged in an extensive and wide- ranging conspiracy to help U.S. taxpayers evade taxes . 
+U.S. taxpayers,evade.01,their taxes,,Affirmative,Attorney General Eric Holder said the bank engaged in an extensive and wide- ranging conspiracy to help U.S. taxpayers evade taxes . 
+the Justice Department,say.01,", operated",,Affirmative,"The Justice Department said that Credit Suisse , for a period of time spanning decades and continuing through 2009 , operated an illegal cross-border banking business to help thousands of banking clients conceal their income from the IRS . "
+a period of time,span.01,decades,,Affirmative,"The Justice Department said that Credit Suisse , for a period of time spanning decades and continuing through 2009 , operated an illegal cross-border banking business to help thousands of banking clients conceal their income from the IRS . "
+Swiss bank Credit Suisse,operate.01,banking business,,Affirmative,"The Justice Department said that Credit Suisse , for a period of time spanning decades and continuing through 2009 , operated an illegal cross-border banking business to help thousands of banking clients conceal their income from the IRS . "
+Swiss bank Credit Suisse,help.01,conceal,,Affirmative,"The Justice Department said that Credit Suisse , for a period of time spanning decades and continuing through 2009 , operated an illegal cross-border banking business to help thousands of banking clients conceal their income from the IRS . "
+thousands of,conceal.01,their income,from,Affirmative,"The Justice Department said that Credit Suisse , for a period of time spanning decades and continuing through 2009 , operated an illegal cross-border banking business to help thousands of banking clients conceal their income from the IRS . "
+the bank 's,pay.01,a total of,to,Affirmative,The bank will pay a total of $ 2.6 billion to the federal government and New York financial regulators as part of the settlement . 
+Holder,say.01,Suisse has also fundamentally changed,,Affirmative,Holder said Credit Suisse has also fundamentally changed its business practices . 
+Credit Suisse,change.01,its business practices,,Affirmative,Holder said Credit Suisse has also fundamentally changed its business practices . 
+Officials,hail.02,The guilty plea,,Affirmative,Officials hailed the guilty plea a major milestone -- the first such plea by a bank in decades . 
+some U.S. clients,use.01,the bank,to hide money from,Affirmative,But missing is any agreement by Credit Suisse to provide names of the U.S. clients who allegedly used the bank to hide money from the IRS . 
+some U.S. clients,hide.01,money,from,Affirmative,But missing is any agreement by Credit Suisse to provide names of the U.S. clients who allegedly used the bank to hide money from the IRS . 
+bank UBS,settle.03,similar charges,,Affirmative,"In 2009 , Swiss bank UBS settled similar charges and paid $ 780 million , while also agreeing to provide names of thousands of customers . "
+bank UBS,pay.01,$ 780 million,,Affirmative,"In 2009 , Swiss bank UBS settled similar charges and paid $ 780 million , while also agreeing to provide names of thousands of customers . "
+U.S. banking regulators,agree.01,not to try,,Affirmative,"However , as part of the Credit Suisse guilty plea agreement , U.S. banking regulators have agreed not to try to pull the bank 's license to do business in the United States . "
+U.S. banking regulators,try.01,to pull,,Affirmative,"However , as part of the Credit Suisse guilty plea agreement , U.S. banking regulators have agreed not to try to pull the bank 's license to do business in the United States . "
+U.S. banking regulators,pull.06,license,,Affirmative,"However , as part of the Credit Suisse guilty plea agreement , U.S. banking regulators have agreed not to try to pull the bank 's license to do business in the United States . "
+Credit Suisse CEO Brady Dougan,say.01,bank deeply regret,,Affirmative,"In a statement , Credit Suisse CEO Brady Dougan said the bank deeply regret ( s ) the past misconduct that led to this settlement . "
+Suisse deal,do.02,little,,Affirmative,"The Credit Suisse deal will likely do little to quiet that criticism , as the conduct involved is not related to the financial crisis . "
+Suisse bankers,use.01,novel ways,to help,Affirmative,Credit Suisse bankers used novel ways to help clients hide money in offshore accounts . 
+Suisse bankers,help.01,clients hide money in,,Affirmative,Credit Suisse bankers used novel ways to help clients hide money in offshore accounts . 
+some U.S. clients,hide.01,money,,Affirmative,Credit Suisse bankers used novel ways to help clients hide money in offshore accounts . 
+the bank 's,open.01,a branch,,Affirmative,"The bank allegedly opened a branch at the Zurich airport , equipped with a special elevator to whisk clients to private banking suites . "
+The arrangement,allow.01,customers to do,,Affirmative,The arrangement allowed customers to do their banking quickly before hitting the Alpine ski slopes . 
+customers,do.02,their banking,,Affirmative,The arrangement allowed customers to do their banking quickly before hitting the Alpine ski slopes . 
+customers,hit.01,the Alpine ski slopes,,Affirmative,The arrangement allowed customers to do their banking quickly before hitting the Alpine ski slopes . 
+by,delay.01,"the DJIA ,",,Affirmative,"Market indexes are shown in real time , except for the DJIA , which is delayed by two minutes . "
+by,distribute.01,Jones IndexesSM,,Affirmative,"Disclaimer The Dow Jones IndexesSM are proprietary to and distributed by Dow Jones & Company , Inc . "
+by BATS,provided.01,quote data provided by BATS,,Affirmative,Most stock quote data provided by BATS . 

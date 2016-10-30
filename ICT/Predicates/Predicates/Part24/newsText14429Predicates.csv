@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sunrise police,say.01,may be driving,,Affirmative,"Police say Everett , who turned 22 Monday , may be driving a 1999 four - door silver Saturn with a Florida tag of 421MLE . "
+"Everett ,",drive.01,silver Saturn,,Affirmative,"Police say Everett , who turned 22 Monday , may be driving a 1999 four - door silver Saturn with a Florida tag of 421MLE . "
+Robert Baumann,notify.01,Sunrise police,on May 13,Affirmative,"According to authorities , Robert Baumann notified Sunrise police on May 13 that he and Everett have an ongoing child custody battle over their daughter Lilly . "
+he and Everett,have.03,custody battle over,,Affirmative,"According to authorities , Robert Baumann notified Sunrise police on May 13 that he and Everett have an ongoing child custody battle over their daughter Lilly . "
+Robert Baumann,tell.01,", he was unable",police,Affirmative,"Baumann told police that when he went to pick up Lilly in accordance with their visitation schedule , he was unable to get in touch with Everett . "
+Robert Baumann,pick.04,Lilly,,Affirmative,"Baumann told police that when he went to pick up Lilly in accordance with their visitation schedule , he was unable to get in touch with Everett . "
+Sunrise police,say.01,this may have been,,Affirmative,"Police say this may have been a planned kidnapping , in which Everett has taken measures to conceal her identity and Lilly's . "
+"Everett , who turned 22 Monday",take.01,measures,,Affirmative,"Police say this may have been a planned kidnapping , in which Everett has taken measures to conceal her identity and Lilly's . "
+"Everett , who turned 22 Monday",conceal.01,her identity and Lilly's,,Affirmative,"Police say this may have been a planned kidnapping , in which Everett has taken measures to conceal her identity and Lilly's . "
+anyone,have.03,information about,,Affirmative,Authorities ask anyone who has information about Everett or Lilly 's whereabouts to contact the Sunrise Police Department at 954-746-3600 or Broward County Crime Stoppers at 954-493-8477 . 

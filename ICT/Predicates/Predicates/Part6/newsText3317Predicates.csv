@@ -1,0 +1,43 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Tata Motors,own.01,JLR roped in,,Affirmative,Tata Motors owned JLR roped in British adventurer Bear Grylls as Brand Ambassador of Land Rover . 
+BCom student at,kill.01,SummaryA BCom student at Delhi University,,Affirmative,SummaryA BCom student at Delhi University killed herself and left a suicide note on video alleging that she was being stalked . 
+BCom student at,leave.01,a suicide note on video,alleging,Affirmative,SummaryA BCom student at Delhi University killed herself and left a suicide note on video alleging that she was being stalked . 
+a suicide note on video,allege.01,that she was being stalked,,Affirmative,SummaryA BCom student at Delhi University killed herself and left a suicide note on video alleging that she was being stalked . 
+A BCom student at,kill.01,SummaryA BCom student at Delhi University,,Affirmative,"A BCom student at Delhi University ( DU ) , who killed herself and left a suicide note on video alleging that she was being stalked , has named her stalkers in the video , police said . "
+A BCom student at,leave.02,a suicide note,on video,Affirmative,"A BCom student at Delhi University ( DU ) , who killed herself and left a suicide note on video alleging that she was being stalked , has named her stalkers in the video , police said . "
+A BCom student at,name.01,her stalkers,in,Affirmative,"A BCom student at Delhi University ( DU ) , who killed herself and left a suicide note on video alleging that she was being stalked , has named her stalkers in the video , police said . "
+police,say.01,", has named",,Affirmative,"A BCom student at Delhi University ( DU ) , who killed herself and left a suicide note on video alleging that she was being stalked , has named her stalkers in the video , police said . "
+"The girl ,",name.01,three persons in,,Affirmative,"The girl , 20 - year - old Ravina , has named three persons in her video message , who were her neighbours in East Delhis Krishna Nagar , police said . "
+police,say.01,has named,,Affirmative,"The girl , 20 - year - old Ravina , has named three persons in her video message , who were her neighbours in East Delhis Krishna Nagar , police said . "
+Police,seize.01,the video and,,Affirmative,"Police have seized the video and the cellphone containing the video , but are yet to make any arrests . "
+the cellphone containing,contain.01,the video,,Affirmative,"Police have seized the video and the cellphone containing the video , but are yet to make any arrests . "
+Police,make.02,any arrests,,Affirmative,"Police have seized the video and the cellphone containing the video , but are yet to make any arrests . "
+Police,conduct.01,investigations,,Affirmative,Police are conducting investigations . 
+DCP,want.01,to comment on,,Affirmative,"I do not want to comment on our investigation ,  DCP ( East ) Ajay Kumar said . "
+DCP,comment.01,on,,Affirmative,"I do not want to comment on our investigation ,  DCP ( East ) Ajay Kumar said . "
+DCP ( East ) Ajay Kumar,say.01,I do not want,,Affirmative,"I do not want to comment on our investigation ,  DCP ( East ) Ajay Kumar said . "
+"Ravina ,",pursue.01,BCom,,Affirmative,"Ravina , who was pursuing her BCom from the School of Open Learning at DU , reportedly committed suicide on May 13 . "
+"Ravina ,",commit.02,suicide,,Affirmative,"Ravina , who was pursuing her BCom from the School of Open Learning at DU , reportedly committed suicide on May 13 . "
+Police,say.01,", usually it was Ravina",,Affirmative,"Police said when her father Mukesh Upadhaya , a journalist who works for a Hindi daily , returned home every night , usually it was Ravina who answered the door . "
+Ravina,answer.01,the door,,Affirmative,"Police said when her father Mukesh Upadhaya , a journalist who works for a Hindi daily , returned home every night , usually it was Ravina who answered the door . "
+20-year-old Ravina,answer.01,the door,,Affirmative,"But on May 13 , when he came back past midnight , she didnt answer the door . "
+His wife,tell.01,that Ravina might not have heard,Upadhaya,Affirmative,His wife told Upadhaya that Ravina might not have heard the doorbell . 
+20-year-old Ravina,hear.01,the doorbell,,Affirmative,His wife told Upadhaya that Ravina might not have heard the doorbell . 
+Mukesh Upadhaya,find.01,body hanging from,,Affirmative,"When Upadhaya went to her room upstairs , he found her body hanging from the ceiling fan with her chunni , police said . "
+Police,say.01,", he found",,Affirmative,"When Upadhaya went to her room upstairs , he found her body hanging from the ceiling fan with her chunni , police said . "
+doctors,declare.02,her brought dead,,Affirmative,"Ravina was rushed to GTB hospital , where doctors declared her brought dead . "
+20-year-old Ravina,ask.02,to check,her parents,Affirmative,"From her room , police recovered a suicide note , in which she asked her parents to check her mobile phone . "
+her parents,check.01,her mobile phone,,Affirmative,"From her room , police recovered a suicide note , in which she asked her parents to check her mobile phone . "
+Police,say.01,Ravina recorded,,Affirmative,Police said Ravina recorded the video minutes before ending her life . 
+20-year-old Ravina,record.01,the video minutes,,Affirmative,Police said Ravina recorded the video minutes before ending her life . 
+20-year-old Ravina,end.01,her life,,Affirmative,Police said Ravina recorded the video minutes before ending her life . 
+20-year-old Ravina,file.01,an FIR,,Affirmative,"In August last year , Ravina had filed an FIR against the three persons she has accused of driving her to suicide in the video message . "
+20-year-old Ravina,accuse.01,the three persons,of driving her,Affirmative,"In August last year , Ravina had filed an FIR against the three persons she has accused of driving her to suicide in the video message . "
+20-year-old Ravina,drive.01,20-year-old Ravina,,Affirmative,"In August last year , Ravina had filed an FIR against the three persons she has accused of driving her to suicide in the video message . "
+My daughter,stop.01,stepping out of,,Affirmative,My daughter had stopped stepping out of the house because of those three men . 
+those three men,assault.01,My daughter,,Affirmative,She was worried that they would assault her . 
+My daughter,object.01,to them,,Affirmative,"Last August , when my daughter objected to them passing remarks at her , she was dragged and beaten in front of everyone . "
+Mukesh Upadhaya,say.01,They were threatening her for,,Affirmative,"They were threatening her for the past few weeks ,  Upadhaya said . "
+Mukesh Upadhaya,say.01,Ravina seemed,,Affirmative,Upadhaya said Ravina seemed to be in tears while she was recorded the video message . 
+Modi pitches for,tell.01,will shape,leaders of,Affirmative,PM Narendra Modi pitches for ' zero tolerance ' towards terror Prime Minister Narendra Modi today told leaders of five - nation grouping BRICS that the choices they make now will shape the future of the world at large . 
+the choices,shape.01,the future of,,Affirmative,PM Narendra Modi pitches for ' zero tolerance ' towards terror Prime Minister Narendra Modi today told leaders of five - nation grouping BRICS that the choices they make now will shape the future of the world at large . 

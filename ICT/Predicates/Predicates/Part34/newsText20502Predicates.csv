@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mississippi man,face.01,25 years in prison,,Affirmative,"( TRNS ) -  A Mississippi man faces 25 years in prison after he was sentenced Monday for attempting to poison the President , a senator , and a judge . "
+A Mississippi man,attempt.01,to poison,,Affirmative,"( TRNS ) -  A Mississippi man faces 25 years in prison after he was sentenced Monday for attempting to poison the President , a senator , and a judge . "
+A Mississippi man,poison.02,"the President ,",,Affirmative,"( TRNS ) -  A Mississippi man faces 25 years in prison after he was sentenced Monday for attempting to poison the President , a senator , and a judge . "
+by,sentence.01,"James Everett Dutschke , 41 , of Tupelo , Mississippi",on charges of making and possessing,Affirmative,"James Everett Dutschke , 41 , of Tupelo , Mississippi , was sentenced by U.S. District Judge Sharion Aycock on charges of making and possessing biological lectin ricin that was placed in letters mailed to President Obama , Mississippi Senator Roger Wicker , and Justice Court Judge Sadie Holland . "
+Justice Court Judge Sadie Holland,receive.01,her letter,,Affirmative,"While Judge Holland received her letter , she was not harmed . "
+by,indict.01,James Everett Dutschke,,Affirmative,"Dutschke was initially arrested in April 2013 and indicted by a federal grand jury in June , followed by a superseding indictment in November . "
+James Everett Dutschke,plead.02,guilty,,Affirmative,"Dutschke pled guilty on January 17 , 2014 in order to avoid an imminent lifelong prison sentence . "
+James Everett Dutschke,serve.01,year term of,,Affirmative,Dutschke was also sentenced to serve a 5 - year term of supervised release . 
+James Everett Dutschke,place.01,clues in,,Affirmative,Dutschke placed clues in the letters that directly linked to Curtis and led to his initial arrest by the FBI . 
+evidence,suggest.01,that Dutschke was behind,,Affirmative,"However , after questioning and further investigations , Curtis was released and evidence began to suggest that Dutschke was behind the attempted poisonings . "
+a great reporter,save.02,the time,me,Affirmative,I 'm glad the reporter saved me the time I would have had to research this ' thickened plot ' . 
+I,research.01,this ' thickened plot ',,Affirmative,I 'm glad the reporter saved me the time I would have had to research this ' thickened plot ' . 
+a great reporter,set.01,someone,,Affirmative,"So he was setting someone up , hoping to incriminate another . "
+a great reporter,hope.01,to incriminate another,,Affirmative,"So he was setting someone up , hoping to incriminate another . "
+a great reporter,incriminate.01,another,,Affirmative,"So he was setting someone up , hoping to incriminate another . "

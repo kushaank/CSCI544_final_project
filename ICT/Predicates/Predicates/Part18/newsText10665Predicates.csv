@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A US court,find.01,guilty of supporting terrorism,,Affirmative,A US court has found the radical Muslim cleric Abu Hamza al - Masri guilty of supporting terrorism . 
+"The Egyptian preacher ,",attract.01,extremists,to,Affirmative,"The Egyptian preacher , whose fiery sermons before and after September 11 attracted extremists to his London mosque , was accused of conspiring to aid organisations like Al Qaeda and helping the kidnappers of 16 tourists in Yemen in 1998 including Sydneysider Andrew Thirsk , who was killed in the attack . "
+"The Egyptian preacher ,",conspire.01,to aid organisations like,,Affirmative,"The Egyptian preacher , whose fiery sermons before and after September 11 attracted extremists to his London mosque , was accused of conspiring to aid organisations like Al Qaeda and helping the kidnappers of 16 tourists in Yemen in 1998 including Sydneysider Andrew Thirsk , who was killed in the attack . "
+"The Egyptian preacher ,",aid.01,organisations like,,Affirmative,"The Egyptian preacher , whose fiery sermons before and after September 11 attracted extremists to his London mosque , was accused of conspiring to aid organisations like Al Qaeda and helping the kidnappers of 16 tourists in Yemen in 1998 including Sydneysider Andrew Thirsk , who was killed in the attack . "
+"The Egyptian preacher ,",help.01,the kidnappers of,,Affirmative,"The Egyptian preacher , whose fiery sermons before and after September 11 attracted extremists to his London mosque , was accused of conspiring to aid organisations like Al Qaeda and helping the kidnappers of 16 tourists in Yemen in 1998 including Sydneysider Andrew Thirsk , who was killed in the attack . "
+Al - Masri,try.01,to build,,Affirmative,Al - Masri was also accused of trying to build a terrorist training camp in the US state of Oregon . 
+Al - Masri,build.01,a terrorist training camp in,,Affirmative,Al - Masri was also accused of trying to build a terrorist training camp in the US state of Oregon . 
+year - old,deny.01,the charges,,Affirmative,The 56 - year - old had denied the charges but now faces a possible life sentence . 
+year - old,face.01,a possible life sentence,,Affirmative,The 56 - year - old had denied the charges but now faces a possible life sentence . 
+you,have.03,inside knowledge of,,Affirmative,"If you have inside knowledge of a topic in the news , contact the ABC . "
+Ebola,wipe.02,a family,,Affirmative,An aid worker becomes a little girl 's sole guardian after Ebola wipes out a family in Sierra Leone . 

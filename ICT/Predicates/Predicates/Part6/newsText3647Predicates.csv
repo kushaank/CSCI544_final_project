@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by time,reduce.01,Jail time,,Affirmative,Jail time will be reduced by time already served as well as credit for time in residential treatment . 
+Pyka,plead.02,guilty to,,Affirmative,Pyka pleaded guilty to two counts of fourth - degree assault . 
+Coey,violate.01,probation,,Affirmative,"Coey violated probation , leading Judge James Duvall to revoke it and give Coey 30 days in county lockup with credit for time served . "
+Coey,lead.03,Judge James Duvall,to revoke it and give Coey,Affirmative,"Coey violated probation , leading Judge James Duvall to revoke it and give Coey 30 days in county lockup with credit for time served . "
+Judge James Duvall,revoke.01,it,,Affirmative,"Coey violated probation , leading Judge James Duvall to revoke it and give Coey 30 days in county lockup with credit for time served . "
+Judge James Duvall,give.01,30 days in county,Coey,Affirmative,"Coey violated probation , leading Judge James Duvall to revoke it and give Coey 30 days in county lockup with credit for time served . "
+"Andrew D. Miller , 24 , of Rochester",spend.01,60 days,in jail,Affirmative,"Andrew D. Miller , 24 , of Rochester , was ordered to spend 60 days in jail and two years on probation for felony second - offense possession of marijuana . "
+"Dawn H. Grable , 38 , of Cochrane",plead.02,guilty to,,Affirmative,"Dawn H. Grable , 38 , of Cochrane , pleaded guilty to domestic abuse disorderly conduct and was ordered to serve a year of probation with prohibitions on consumption or possession of alcohol . "
+"Beverly J. Smith , 29 , of Sparta",plead.02,no contest,to,Affirmative,"Beverly J. Smith , 29 , of Sparta , pleaded no contest to a felony charge of possessing narcotic drugs and given a year of probation and 15 days in jail . "
+"Beverly J. Smith , 29 , of Sparta",give.01,a year of probation,,Affirmative,"Beverly J. Smith , 29 , of Sparta , pleaded no contest to a felony charge of possessing narcotic drugs and given a year of probation and 15 days in jail . "
+"Sandra M. Moldenhauer , 37 , of Winona",have.03,hearing May 30,,Affirmative,"Sandra M. Moldenhauer , 37 , of Winona , is scheduled to have a plea and sentencing hearing May 30 on misdemeanor charges accusing her of criminal trespass to a dwelling and possession of a controlled substance . "
+misdemeanor charges accusing her of,accuse.01,her,of,Affirmative,"Sandra M. Moldenhauer , 37 , of Winona , is scheduled to have a plea and sentencing hearing May 30 on misdemeanor charges accusing her of criminal trespass to a dwelling and possession of a controlled substance . "
+"Ryan J. House , 25 , of",have.03,hearing July 23,,Affirmative,"Ryan J. House , 25 , of Eau Claire , has a plea and sentencing hearing July 23 on two charges of theft and issuing a worthless check . "
+"Ryan J. House , 25 , of",issue.01,a worthless check,,Affirmative,"Ryan J. House , 25 , of Eau Claire , has a plea and sentencing hearing July 23 on two charges of theft and issuing a worthless check . "
+a felony charge accusing him of,accuse.01,him,of,Affirmative,", has a hearing June 18 on a felony charge accusing him of second - offense possession of marijuana . "
+"Ronald P. Pichler , 51 , of Mondovi",have.03,a hearing July 9,,Affirmative,"Ronald P. Pichler , 51 , of Mondovi , has a hearing July 9 on two felony charges accusing him of forgery . "
+two felony charges accusing him of forgery,accuse.01,him,of forgery,Affirmative,"Ronald P. Pichler , 51 , of Mondovi , has a hearing July 9 on two felony charges accusing him of forgery . "
+I,agree.01,consitutes agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 
+registration on or use of,consitutes.01,agreement to,,Affirmative,I understand and agree that registration on or use of this site consitutes agreement to it 's user agreement & privacy policy . 

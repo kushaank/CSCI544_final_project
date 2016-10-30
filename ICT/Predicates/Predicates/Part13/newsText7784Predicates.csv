@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Judge Anita Sukola,note.01,trial could run anywhere from,,Affirmative,"During his pre-trial conference this morning , Judge Anita Sukola noted the trial could run anywhere from six to eight weeks with direct and cross-examinations to take at least 32 hours . "
+Her Honor,note.01,government had filed,,Affirmative,"I do note the government had filed 138 potential witnesses and defense filed 30 potential witnesses , Her Honor announced . "
+the government,file.01,138 potential witnesses and defense,,Affirmative,"I do note the government had filed 138 potential witnesses and defense filed 30 potential witnesses , Her Honor announced . "
+Her Honor,announce.01,filed,,Affirmative,"I do note the government had filed 138 potential witnesses and defense filed 30 potential witnesses , Her Honor announced . "
+AG Phillip Tydingco,say.01,he 's looking,,Affirmative,Chief Deputy AG Phillip Tydingco says he 's looking to cut their witness list significantly . 
+Chief Deputy AG Phillip Tydingco,look.04,to cut,,Affirmative,Chief Deputy AG Phillip Tydingco says he 's looking to cut their witness list significantly . 
+Chief Deputy AG Phillip Tydingco,cut.02,their witness list,,Affirmative,Chief Deputy AG Phillip Tydingco says he 's looking to cut their witness list significantly . 
+Guam Visitors Bureau,act.01,Muna notes,,Affirmative,Guam Visitors Bureau acting PIO Tony Muna notes that GVB has been in conversations with the AG 's Office to assist with the airfare and lodging of witnesses for the trial . 
+Chad DeSoto,drive.01,a car,,Affirmative,DeSoto is accused of driving a car down a sidewalk in Tumon in February 2013 . 
+Chad DeSoto,run.02,over,,Affirmative,He ran over several tourists in his path . 
+Chad DeSoto,begin.01,stabbing people,,Affirmative,He eventually got out of the car and began stabbing people . 
+Chad DeSoto,stab.01,people,,Affirmative,He eventually got out of the car and began stabbing people . 
+Chad DeSoto,plead.02,not guilty by reason of,,Affirmative,"He has pleaded not guilty by reason of mental illness , disease or defect . "

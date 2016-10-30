@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The school district,alert.01,parents of,,Affirmative,The school district electronically alerted parents of a suspicious man who visited the school and then left . 
+a suspicious man,visit.01,the school,,Affirmative,The school district electronically alerted parents of a suspicious man who visited the school and then left . 
+Witnesses,tell.01,man was arrested at,WZZM 13,Affirmative,Witnesses told WZZM 13 a man was arrested at the Dorr Township Library and taken away in handcuffs . 
+The school district,alert.01,parents of,,Affirmative,The school district electronically alerted parents of a suspicious man who visited the school and then left . 
+a suspicious man,visit.01,the school,,Affirmative,The school district electronically alerted parents of a suspicious man who visited the school and then left . 
+Witnesses,tell.01,man was arrested at,WZZM 13,Affirmative,Witnesses told WZZM 13 a man was arrested at the Dorr Township Library and taken away in handcuffs . 
+A police robot,search.01,"the school and package ,",,Affirmative,"A police robot searched the school and package , which did not contain explosives . "
+"the school and package ,",contain.01,explosives,,Affirmative,"A police robot searched the school and package , which did not contain explosives . "
+p.m. School officials,hold.04,students,,Affirmative,"The school was given the all clear just before 4 p.m. School officials held students at the fire station until the scheduled end of the school day , however parents were being allowed to take their children home early . "
+parents,take.01,their children,,Affirmative,"The school was given the all clear just before 4 p.m. School officials held students at the fire station until the scheduled end of the school day , however parents were being allowed to take their children home early . "
+WZZM 13,have.03,a crew,,Affirmative,"WZZM 13 has a crew on the scene ; we will have more information online as details are available , as well as on WZZM 13 News at 5:30 p.m. "
+we,have.03,more information,,Affirmative,"WZZM 13 has a crew on the scene ; we will have more information online as details are available , as well as on WZZM 13 News at 5:30 p.m. "

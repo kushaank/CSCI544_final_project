@@ -1,0 +1,555 @@
+1	Is	be	VBZ	_	3	aux	_
+2	China	china	NNP	_	3	attr	3:A0=PAG
+3	facing	face	VBG	pb=face.01	0	root	_
+4	a	a	DT	_	9	det	_
+5	US	us	NNP	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	style	style	NN	_	9	nn	_
+8	housing	housing	NN	_	9	nn	_
+9	crash	crash	NN	_	3	dobj	3:A1
+10	and	and	CC	_	9	cc	_
+11	banking	banking	NN	_	12	nn	_
+12	crisis	crisis	NN	_	9	conj	_
+13	?	?	.	_	3	punct	_
+
+1	Unlikely	unlikely	JJ	p2=RB	12	advcl	_
+2	,	,	,	_	12	punct	_
+3	 Zhu	 zhu	NNP	p2=''	4	nn	_
+4	Haibin	haibin	NNP	_	12	nsubj	12:A0=PAG
+5	,	,	,	_	4	punct	_
+6	an	an	DT	_	7	det	_
+7	economist	economist	NN	_	4	appos	_
+8	at	at	IN	_	7	prep	_
+9	JP	jp	NNP	_	10	nn	_
+10	Morgan	morgan	NNP	_	8	pobj	_
+11	,	,	,	_	12	punct	_
+12	told	tell	VBD	pb=tell.01	19	ccomp	_
+13	Xinhua	xinhua	NNP	_	12	dobj	12:A2=GOL
+14	on	on	IN	_	12	prep	12:AM-TMP
+15	May	may	NNP	_	14	pobj	_
+16	16	0	CD	_	15	num	_
+17	;	;	:	_	19	punct	_
+18	China	china	NNP	_	19	nsubj	23:A0;19:A1=PPT
+19	's	be	VBZ	p2=POS|pb=be.01	0	root	12:A1=PPT
+20	not	not	RB	_	19	neg	19:AM-NEG
+21	about	about	IN	p2=JJ	19	acomp	19:A2=PRD
+22	to	to	TO	p2=IN	23	aux	_
+23	have a	have a	VB	p2=SYM|pb=have a.01	21	xcomp	_
+24	wave	wave	NN	_	23	dobj	23:A1
+25	of	of	IN	_	24	prep	_
+26	mortgage	mortgage	NN	_	27	nn	_
+27	defaults	default	NNS	_	25	pobj	_
+28	.	.	.	_	19	punct	_
+
+1	And Zhu	and zhu	NNP	_	4	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	probably	probably	RB	_	4	advmod	_
+4	right	right	RB	p2=JJ	0	root	_
+5	-	-	:	p2=,	4	punct	_
+6	if	if	IN	_	10	mark	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	're	be	VBP	_	10	aux	_
+9	only	only	RB	_	10	advmod	10:AM-ADV
+10	talking	talk	VBG	pb=talk.01	4	advcl	_
+11	about	about	IN	_	10	prep	10:A1=PPT
+12	mortgage	mortgage	NN	_	13	nn	_
+13	defaults	default	NNS	_	11	pobj	_
+14	.	.	.	_	10	punct	_
+
+1	The	the	DT	_	2	det	_
+2	problem	problem	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	that Chinese	that chinese	JJ	p2=DT	5	amod	_
+5	banks	bank	NNS	_	8	nsubj	_
+6	also	also	RB	_	8	advmod	_
+7	use property	use property	NNP	p2=$	8	nn	_
+8	as collateral	as collateral	NNP	p2=VBD	3	attr	3:A2=PRD
+9	for	for	IN	_	8	prep	_
+10	a	a	DT	_	11	det	_
+11	lot	lot	NN	_	9	pobj	_
+12	of	of	IN	_	11	prep	_
+13	loans	loan	NNS	_	12	pobj	15:A1=PPT
+14	that	that	WDT	_	15	nsubj	15:R-A1
+15	are	be	VBP	pb=be.01	13	rcmod	_
+16	n't	not	RB	_	15	neg	15:AM-NEG
+17	mortgages	mortgage	NNS	_	15	attr	15:A2=PRD
+18	.	.	.	_	3	punct	_
+
+1	(	(	-LRB-	_	7	punct	_
+2	In	in	IN	_	7	prep	7:AM-LOC
+3	other	other	JJ	_	4	amod	_
+4	countries	country	NNS	_	2	pobj	_
+5	they	they	PRP	_	7	nsubj	7:A0=PAG
+6	might	might	MD	_	7	aux	7:AM-MOD
+7	ask	ask	VB	pb=ask.02	0	root	_
+8	the	the	DT	_	9	det	_
+9	borrower	borrower	NN	_	7	dobj	7:A2=GOL
+10	for	for	IN	_	7	prep	7:A1=PPT
+11	an	an	DT	_	13	det	_
+12	income	income	NN	p2=JJ	13	nn	_
+13	statement	statement	NN	_	10	pobj	_
+14	instead	instead	RB	_	7	advmod	_
+15	,	,	,	_	7	punct	_
+16	but	but	CC	_	7	cc	_
+17	these	these	DT	_	19	nsubj	_
+18	aren't too	aren't too	RB	p2=VBP	19	advmod	_
+19	reliable	reliable	JJ	_	7	conj	_
+20	in	in	IN	_	19	prep	_
+21	China	china	NNP	_	20	pobj	_
+22	.	.	.	_	7	punct	_
+23	)	)	-RRB-	_	7	punct	_
+
+1	 At	 at	IN	p2=VB	24	prep	24:AM-TMP
+2	the	the	DT	_	3	det	_
+3	end	end	NN	_	1	pobj	_
+4	of	of	IN	_	3	prep	_
+5	2013	0	CD	_	4	pobj	_
+6	,	,	,	_	24	punct	_
+7	38	0	CD	_	8	num	_
+8	%	%	NN	_	24	nsubj	24:A0=PAG
+9	of	of	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	value	value	NN	_	9	pobj	_
+12	of	of	IN	_	11	prep	_
+13	outstanding	outstanding	JJ	_	14	amod	_
+14	loans	loan	NNS	_	12	pobj	_
+15	 	 	''	p2=,	17	punct	_
+16	(	(	-LRB-	_	17	punct	_
+17	paywall	paywall	NN	p2=FW	8	appos	19:A1=PPT
+18	)	)	-RRB-	_	17	punct	_
+19	issued	issue	VBN	pb=issue.01	17	partmod	_
+20	by	by	IN	_	19	agent	19:A0=PAG
+21	big	big	JJ	_	23	amod	_
+22	commercial	commercial	JJ	_	23	amod	_
+23	banks	bank	NNS	_	20	pobj	_
+24	used	use	VBD	p2=VBN|pb=use.01	0	root	_
+25	real	real	JJ	p2=RB	26	amod	_
+26	estate as	estate as	NNS	p2=-RRB-	27	nn	_
+27	collateral	collateral	NN	p2=XX	24	dobj	24:A1=PPT
+28	,	,	,	_	24	punct	_
+29	according	accord	VBG	_	24	prep	24:AM-ADV
+30	to	to	IN	_	29	prep	_
+31	China	china	NNP	_	34	poss	_
+32	's	's	POS	_	31	possessive	_
+33	banking	banking	NN	p2=VBG	34	nn	_
+34	regulator	regulator	NN	_	30	pobj	_
+35	.	.	.	_	24	punct	_
+
+1	 That	 that	NNP	p2=DT	12	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	roughly 28.8	roughly 0	CD	p2=JJ	4	number	_
+4	trillion	#crd#	CD	_	5	num	_
+5	yuan	yuan	NN	p2=NNS	12	nn	_
+6	(	(	-LRB-	_	5	punct	_
+7	$	$	$	_	9	quantmod	_
+8	4.6	0	CD	_	9	number	_
+9	trillion	#crd#	CD	_	5	appos	_
+10	)	)	-RRB-	_	5	punct	_
+11	 in	 in	NN	p2=JJ	12	nn	_
+12	loans	loan	NNS	_	0	root	_
+13	.	.	.	_	12	punct	_
+
+1	And	and	CC	_	3	cc	3:AM-DIS
+2	it	it	PRP	_	3	nsubj	3:A1=PPT
+3	's	be	VBZ	pb=be.01	0	root	_
+4	likely much	likely much	RB	p2=XX	5	advmod	_
+5	bigger	big	JJR	_	3	acomp	3:A2=PRD
+6	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	2	det	_
+2	regulator	regulator	NN	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	data	datum	NNS	p2=NN	5	nsubj	13:A0=PAG
+5	counts	count	VBZ	p2=NNS|pb=count.04	0	root	_
+6	only	only	JJ	p2=RB	7	amod	_
+7	loans	loan	NNS	_	5	dobj	5:A1=PAG
+8	to	to	IN	_	5	prep	_
+9	developers	developer	NNS	_	8	pobj	_
+10	or	or	CC	_	9	cc	_
+11	individuals	individual	NNS	_	9	conj	_
+12	-	-	,	p2=:	5	punct	_
+13	overlooking	overlook	VBG	pb=overlook.01	5	advcl	5:AM-ADV
+14	some	some	DT	_	13	dobj	13:A1=PPT
+15	of	of	IN	_	14	prep	_
+16	the companies	the companies	NNS	p2=NNPS	15	pobj	_
+17	in	in	IN	_	16	prep	_
+18	unrelated	unrelated	JJ	_	19	amod	_
+19	sectors	sector	NNS	_	17	pobj	21:A0=PAG
+20	that	that	WDT	p2=IN	21	nsubj	21:R-A0
+21	invested	invest	VBD	pb=invest.01	19	rcmod	_
+22	in	in	IN	_	21	prep	21:A2=GOL
+23	property	property	NN	_	22	pobj	_
+24	for	for	IN	_	21	prep	21:AM-TMP
+25	profit	profit	NN	_	24	pobj	_
+26	,	,	,	_	21	punct	_
+27	as	as	RB	p2=IN	29	advmod	_
+28	well	well	RB	_	29	advmod	_
+29	as the 	as the 	IN	p2=NNP	21	cc	_
+30	untold sums	untold sums	NNS	p2=NNPS	29	pobj	_
+31	of	of	IN	_	30	prep	_
+32	shadow	shadow	NN	_	33	nn	_
+33	loans	loan	NNS	_	31	pobj	40:A1
+34	 issued	 issued	VBN	p2=VBD|pb= issued.01	33	partmod	_
+35	off	off	RP	p2=IN	34	prt	34:C-V
+36	bank	bank	NN	_	37	nn	_
+37	balance	balance	NN	_	38	nn	_
+38	sheets	sheet	NNS	_	34	dobj	34:A1
+39	and	and	CC	_	34	cc	_
+40	supported	support	VBN	pb=support.01	34	conj	_
+41	by	by	IN	_	40	agent	40:A0
+42	property	property	NN	_	43	nn	_
+43	collateral	collateral	NN	_	41	pobj	_
+44	.	.	.	_	5	punct	_
+
+1	What	what	WP	_	4	attr	4:R-A2
+2	all	all	DT	p2=PDT	3	det	_
+3	this means	this means	NNPS	p2=NNS	4	nsubj	4:A1=PPT
+4	is	be	VBZ	pb=be.01	0	root	_
+5	that	that	IN	p2=DT	18	complm	_
+6	,	,	,	_	13	punct	_
+7	if	if	IN	_	11	mark	_
+8	the	the	DT	_	10	det	_
+9	property	property	NN	_	10	nn	_
+10	market	market	NN	_	11	nsubj	11:A1=PPT;13:A1=PPT
+11	continues	continue	VBZ	pb=continue.01	4	advcl	4:AM-ADV
+12	to	to	TO	_	13	aux	_
+13	slide	slide	VB	pb=slide.01	11	xcomp	11:C-A1
+14	and	and	CC	_	11	cc	_
+15	the	the	DT	_	17	det	_
+16	slowing	slow	VBG	pb=slow.02	17	amod	_
+17	economy	economy	NN	_	18	nsubj	18:A0=PAG;16:A1=PPT
+18	makes	make	VBZ	pb=make.02	11	conj	_
+19	it	it	PRP	_	20	nsubj	_
+20	hard	hard	JJ	_	18	ccomp	18:A1=PRD
+21	for	for	IN	_	24	mark	_
+22	borrowers	borrower	NNS	_	24	nsubj	24:A0=PAG
+23	to pay	to pay	TO	p2=,	24	aux	_
+24	back	back	VB	p2=RB|pb=back.01	20	advcl	_
+25	those	those	DT	_	26	det	_
+26	debts	debt	NNS	_	24	dobj	24:A1=PPT
+27	,	,	,	_	24	punct	_
+28	banks	bank	NNS	_	24	npadvmod	_
+29	with	with	IN	_	28	prep	_
+30	defaulting	default	VBG	pb=default.01	31	amod	_
+31	borrowers	borrower	NNS	_	29	pobj	30:A1=PPT
+32	will be	will be	NNP	p2=POS	34	nn	_
+33	left with	left with	NNP	p2=,	34	nn	_
+34	collateral worth	collateral worth	NNP	p2=XX	10	appos	_
+35	only	only	RB	_	37	advmod	_
+36	a	a	DT	_	37	det	_
+37	fraction	fraction	NN	_	34	appos	_
+38	of	of	IN	_	37	prep	_
+39	what	what	WP	_	42	dobj	42:R-A1
+40	they	they	PRP	_	42	nsubjpass	42:A0=PAG
+41	're	be	VBP	_	42	auxpass	_
+42	owed	owe	VBN	pb=owe.01	38	pcomp	_
+43	.	.	.	_	18	punct	_
+
+1	And	and	CC	_	5	cc	5:AM-DIS
+2	then	then	RB	_	5	advmod	5:AM-TMP
+3	,	,	,	_	5	punct	_
+4	 as banks	 as banks	NNS	p2=NNPS	5	nsubj	5:A0=PAG
+5	try	try	VBP	p2=VB|pb=try.01	0	root	_
+6	sell off this collateral	sell off this collateral	JJ	p2=RB	7	advmod	_
+7	en	en	IN	p2=FW	5	prep	5:AM-MNR
+8	masse	masse	NN	_	7	pobj	_
+9	,	,	,	_	12	punct	_
+10	prices	price	NNS	_	12	nsubj	14:A0=CAU;12:A1
+11	will	will	MD	_	12	aux	12:AM-MOD
+12	plummet still further	plummet still further	VB	p2=RB|pb=plummet still further.01	5	conj	_
+13	,	,	,	_	12	punct	_
+14	causing	cause	VBG	pb=cause.01	12	advcl	_
+15	a	a	DT	_	17	det	_
+16	vicious	vicious	JJ	_	17	amod	_
+17	cycle	cycle	NN	_	14	dobj	14:A1=PPT
+18	.	.	.	_	5	punct	_
+
+1	But	but	CC	_	19	cc	19:AM-DIS
+2	while	while	IN	_	5	mark	_
+3	property	property	NN	_	4	nn	_
+4	collateral is	collateral is	NNS	p2=NNP	5	nsubj	5:A0
+5	a more	a more	VBP	p2=POS|pb=a more.01	19	advcl	19:AM-ADV
+6	serious	serious	JJ	_	7	amod	_
+7	threat	threat	NN	_	5	dobj	5:A1
+8	to	to	IN	p2=TO	7	prep	_
+9	China's financial	china's financial	NNP	p2=JJ	10	nn	_
+10	system than	system than	NNP	p2=IN	8	pobj	_
+11	a	a	DT	_	12	det	_
+12	wave	wave	NN	_	10	appos	_
+13	of	of	IN	_	12	prep	_
+14	mortgage	mortgage	NN	_	15	nn	_
+15	defaults	default	NNS	_	13	pobj	_
+16	,	,	,	_	19	punct	_
+17	mortgages could	mortgages could	MD	p2=RBR	19	aux	19:AM-MOD
+18	still	still	RB	_	19	advmod	19:AM-TMP
+19	hit	hit	VB	p2=VBN|pb=hit.01	0	root	_
+20	banks	bank	NNS	_	19	dobj	19:A1=GOL
+21	hard	hard	RB	p2=JJ	19	advmod	19:AM-MNR
+22	.	.	.	_	19	punct	_
+
+1	Housing	housing	NN	p2=VBG	2	nn	_
+2	prices	price	NNS	_	4	nsubj	_
+3	have	have	VBP	_	4	aux	_
+4	soared	soar	VBN	pb=soar.01	0	root	_
+5	so	so	RB	_	6	advmod	_
+6	much	much	JJ	p2=RB	4	dobj	4:A1=PPT
+7	that	that	IN	_	20	complm	_
+8	nearly	nearly	RB	_	11	advmod	_
+9	four	#crd#	CD	_	11	hmod	_
+10	-	-	HYPH	p2=:	11	hyph	_
+11	fifths	#ord#	NNS	_	20	nsubj	_
+12	of	of	IN	_	11	prep	_
+13	the	the	DT	_	15	det	_
+14	average	average	JJ	p2=NN	15	amod	_
+15	family's income	family's income	NN	p2=NNP	12	pobj	_
+16	 	 	''	p2=,	11	punct	_
+17	(	(	-LRB-	_	11	punct	_
+18	paywall	paywall	NN	p2=FW	11	appos	_
+19	)	)	-RRB-	_	11	punct	_
+20	goes	go	VBZ	pb=go.01	6	ccomp	_
+21	toward mortgage	toward mortgage	NN	p2=JJ	22	nn	_
+22	payments	payment	NNS	_	20	dobj	_
+23	,	,	,	_	20	punct	_
+24	according	accord	VBG	_	20	prep	_
+25	to Ha	to ha	NNP	p2=IN	26	nn	_
+26	Jiming	jiming	NNP	_	24	pobj	_
+27	,	,	,	_	26	punct	_
+28	Goldman	goldman	NNP	_	29	nn	_
+29	Sachs	sachs	NNP	_	31	poss	_
+30	'	'	POS	p2=``	29	possessive	_
+31	vice-chairman	vice-chairman	NN	_	26	appos	_
+32	for	for	IN	_	31	prep	_
+33	China	china	NNP	_	32	pobj	_
+34	.	.	.	_	4	punct	_
+
+1	Only	only	RB	_	2	advmod	_
+2	four	#crd#	CD	_	3	num	_
+3	years	year	NNS	_	4	npadvmod	_
+4	ago	ago	RB	_	8	advmod	8:AM-TMP
+5	,	,	,	_	8	punct	_
+6	that	that	DT	_	7	det	_
+7	share	share	NN	p2=VBP	8	nsubj	8:A1=PPT
+8	was	be	VBD	pb=be.01	0	root	_
+9	two	#crd#	CD	_	11	hmod	_
+10	-	-	HYPH	_	11	hyph	_
+11	thirds	#ord#	NNS	_	8	attr	8:A2=PRD
+12	.	.	.	_	8	punct	_
+
+1	If	if	IN	_	5	mark	_
+2	a	a	DT	_	4	det	_
+3	slowing	slow	VBG	p2=NN|pb=slow.02	4	amod	_
+4	economy	economy	NN	_	5	nsubj	5:A0=PAG;3:A1=PPT
+5	leads	lead	VBZ	pb=lead.03	17	advcl	17:AM-ADV
+6	Chinese	chinese	JJ	_	7	amod	_
+7	families	family	NNS	_	5	dobj	9:A0=PAG;5:A1=PPT
+8	to	to	TO	_	9	aux	_
+9	cut	cut	VB	pb=cut.05	5	xcomp	5:A2=PRD
+10	back	back	RB	p2=RP	9	prt	9:C-V
+11	on	on	IN	_	9	prep	9:A1=PPT
+12	spending	spending	NN	_	11	pobj	_
+13	,	,	,	_	17	punct	_
+14	their	their	PRP$	_	15	poss	_
+15	loan payments	loan payments	NNS	_	17	nsubj	17:A1
+16	will	will	MD	_	17	aux	17:AM-MOD
+17	likely slide	likely slide	VB	pb=likely slide.01	0	root	_
+18	.	.	.	_	17	punct	_
+
+1	New	new	JJ	p2=NNP	3	amod	_
+2	home	home	NN	_	3	nn	_
+3	prices	price	NNS	_	4	nsubj	4:A1=PPT
+4	fell	fall	VBD	pb=fall.01	0	root	_
+5	in	in	IN	p2=RB	4	prep	4:AM-TMP
+6	eight	#crd#	CD	_	5	pobj	_
+7	 of	 of	IN	p2=:	4	prep	4:A4=GOL
+8	the	the	DT	_	11	det	_
+9	70	0	CD	_	11	num	_
+10	 big	 big	JJ	p2=VBN	11	amod	_
+11	cities	city	NNS	_	7	pobj	12:A1=PPT
+12	tracked	track	VBN	pb=track.01	11	partmod	_
+13	by	by	IN	_	12	agent	12:A0=PAG
+14	the	the	DT	_	15	det	_
+15	government	government	NN	_	13	pobj	_
+16	,	,	,	_	4	punct	_
+17	versus	versus	IN	_	27	prep	_
+18	the	the	DT	_	20	det	_
+19	previous	previous	JJ	_	20	amod	_
+20	month	month	NN	_	17	pobj	_
+21	;	;	:	p2=,	27	punct	_
+22	 in	 in	NNP	p2=''	23	nn	_
+23	March	march	NNP	_	27	npadvmod	_
+24	,	,	,	_	27	punct	_
+25	only four	only four	NNP	p2=PRP$	27	nsubj	27:A0=PAG
+26	cities reported	cities reported	VBD	p2=NNP	27	aux	_
+27	decreasing	decrease	VBG	pb=decrease.01	4	advcl	4:AM-ADV
+28	prices	price	NNS	_	27	dobj	27:A1=PPT
+29	.	.	.	_	4	punct	_
+
+1	Only	only	RB	_	2	advmod	_
+2	28	0	CD	_	3	num	_
+3	%	%	NN	_	12	nsubj	12:A0=PAG
+4	 of	 of	IN	p2=NNP	3	prep	_
+5	China	china	NNP	_	11	poss	_
+6	's	's	POS	_	5	possessive	_
+7	110	0	CD	_	11	num	_
+8	domestically	domestically	RB	_	9	advmod	9:AM-MNR
+9	listed	list	VBN	pb=list.01	11	amod	_
+10	property	property	NN	_	11	nn	_
+11	companies	company	NNS	_	4	pobj	9:A1=PPT
+12	reported	report	VBD	p2=VBN|pb=report.01	22	ccomp	22:A1=PPT
+13	net	net	JJ	_	15	amod	_
+14	cash	cash	NN	_	15	nn	_
+15	inflows	inflow	NNS	_	12	dobj	12:A1
+16	from	from	IN	_	15	prep	_
+17	operations	operation	NNS	_	16	pobj	_
+18	in	in	IN	_	17	prep	_
+19	Q1	q1	NNP	_	18	pobj	_
+20	2014	0	CD	_	19	num	_
+21	,	,	,	_	22	punct	_
+22	says	say	VBZ	pb=say.01	0	root	_
+23	Goldman	goldman	NNP	_	26	nn	_
+24	Sachs	sachs	NNP	_	26	nn	_
+25	Gao	gao	NNP	_	26	nn	_
+26	Hua	hua	NNP	_	22	nsubj	22:A0
+27	,	,	,	_	26	punct	_
+28	a	a	DT	_	30	det	_
+29	securities	security	NNS	_	30	nn	_
+30	firm	firm	NN	_	26	appos	_
+31	.	.	.	_	22	punct	_
+
+1	A	a	DT	_	2	det	_
+2	plot	plot	NN	_	8	nsubj	10:A0=PAG;8:A1=PAG
+3	of	of	IN	_	2	prep	_
+4	residential	residential	JJ	_	5	amod	_
+5	land	land	NN	_	3	pobj	_
+6	in	in	IN	_	5	prep	_
+7	Nanjing	nanjing	NNP	_	6	pobj	_
+8	failed	fail	VBD	pb=fail.01	0	root	_
+9	to	to	TO	_	10	aux	_
+10	sell	sell	VB	pb=sell.01	8	xcomp	8:A2=PPT
+11	at	at	IN	_	10	prep	10:AM-LOC
+12	auction	auction	NN	_	13	nn	_
+13	 	 	NN	p2=''	11	pobj	_
+14	(	(	-LRB-	_	15	punct	_
+15	link	link	NN	_	10	dobj	10:A1=PPT
+16	in	in	IN	_	15	prep	_
+17	Chinese	chinese	JJ	p2=NNP	16	pobj	_
+18	)	)	-RRB-	_	15	punct	_
+19	even	even	RB	_	24	advmod	_
+20	though	though	IN	_	24	mark	_
+21	the	the	DT	_	23	det	_
+22	starting	starting	NN	p2=VBG	23	nn	_
+23	prices	price	NNS	_	24	nsubj	24:A1=PPT
+24	was	be	VBD	pb=be.01	8	advcl	_
+25	9,175	0	CD	_	26	num	_
+26	yuan	yuan	NN	p2=NNS	24	attr	24:A2=PRD
+27	/	/	SYM	p2=,	28	punct	_
+28	square	square	JJ	p2=NN	29	amod	_
+29	meter	meter	NN	_	26	appos	_
+30	.	.	.	_	8	punct	_
+
+1	A neighboring	a neighboring	VBG	p2=JJ	2	nn	_
+2	plot	plot	NN	_	3	nsubj	3:A0
+3	went for	went for	VBD	p2=IN|pb=went for.01	0	root	_
+4	12,927	0	CD	_	5	num	_
+5	yuan	yuan	NNS	p2=NN	3	dobj	3:A1
+6	/	/	SYM	p2=,	3	punct	_
+7	square	square	JJ	p2=NN	8	amod	_
+8	meter	meter	NN	_	3	npadvmod	3:A2
+9	only	only	RB	_	11	advmod	_
+10	last	last	JJ	_	11	amod	_
+11	year	year	NN	_	3	npadvmod	3:AM-TMP
+12	.	.	.	_	3	punct	_
+
+1	New	new	JJ	p2=NNP	2	amod	_
+2	stock	stock	NN	_	0	root	_
+3	of	of	IN	_	2	prep	_
+4	commercial	commercial	JJ	_	5	amod	_
+5	housing	housing	NN	_	3	pobj	_
+6	in	in	IN	_	2	prep	_
+7	35	0	CD	_	9	num	_
+8	major	major	JJ	_	9	amod	_
+9	cities	city	NNS	_	6	pobj	10:A1=PPT
+10	tracked	track	VBN	pb=track.01	9	partmod	_
+11	by	by	IN	_	10	agent	10:A0=PAG
+12	E	e	NNP	p2=NN	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	House	house	NNP	_	11	pobj	_
+15	,	,	,	_	14	punct	_
+16	a	a	DT	_	21	det	_
+17	real	real	JJ	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	estate	estate	NN	_	21	nn	_
+20	research	research	NN	_	21	nn	_
+21	company	company	NN	_	14	appos	_
+22	,	,	,	_	24	punct	_
+23	 	 	NNP	p2=,	24	nsubj	24:A0
+24	hit	hit	VBD	pb=hit.01	0	root	_
+25	a	a	DT	_	28	det	_
+26	"	"	``	_	28	punct	_
+27	record	record	NN	p2=JJ	28	amod	_
+28	high	high	NN	p2=RB	24	dobj	24:A1=GOL
+29	"	"	''	_	28	punct	_
+30	in	in	IN	_	24	prep	24:AM-TMP
+31	April	april	NNP	_	30	pobj	_
+32	 	 	''	p2=NN	24	punct	_
+33	(	(	-LRB-	_	34	punct	_
+34	link	link	NN	_	24	dobj	_
+35	in	in	IN	_	34	prep	_
+36	Chinese	chinese	JJ	p2=NNP	35	pobj	_
+37	)	)	-RRB-	_	34	punct	_
+38	of	of	IN	_	34	prep	_
+39	249	0	CD	_	40	number	_
+40	million	#crd#	CD	_	42	num	_
+41	square	square	JJ	_	42	amod	_
+42	meters	meter	NNS	_	38	pobj	_
+43	-	-	:	p2=,	42	punct	_
+44	nearly	nearly	RB	_	45	advmod	_
+45	20	0	CD	_	46	num	_
+46	%	%	NN	_	47	npadvmod	_
+47	higher	high	JJR	_	42	amod	_
+48	than	than	IN	_	47	prep	_
+49	in	in	IN	_	48	prep	_
+50	March	march	NNP	_	49	pobj	_
+51	.	.	.	_	24	punct	_
+
+1	 More	 more	NNP	p2=JJ	2	nn	_
+2	inventory	inventory	NN	_	3	nsubj	5:A0=PAG;3:A1=PPT
+3	tends	tend	VBZ	pb=tend.02	0	root	_
+4	to	to	TO	_	5	aux	_
+5	mean	mean	VB	pb=mean.01	3	xcomp	3:A2=PRD
+6	lower	low	JJR	_	7	amod	_
+7	prices	price	NNS	_	5	dobj	5:A1=PPT
+8	.	.	.	_	3	punct	_
+
+1	A	a	DT	_	2	det	_
+2	manager	manager	NN	_	12	nsubj	12:A0=PAG;21:A0=PAG
+3	at	at	IN	_	2	prep	_
+4	a	a	DT	_	9	det	_
+5	large	large	JJ	_	9	amod	_
+6	state	state	NN	_	8	hmod	_
+7	-	-	HYPH	_	8	hyph	_
+8	owned	own	VBN	_	9	amod	_
+9	bank	bank	NN	_	3	pobj	_
+10	in	in	IN	_	9	prep	_
+11	Shanghai	shanghai	NNP	_	10	pobj	_
+12	reported	report	VBD	pb=report.01	0	root	_
+13	a	a	DT	_	15	det	_
+14	recent uptick	recent uptick	NNP	p2=JJ	15	nn	_
+15	in owners	in owners	NNP	p2=NNS	12	dobj	12:A1
+16	of	of	IN	_	15	prep	_
+17	high	high	JJ	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	end	end	NN	_	20	nn	_
+20	property	property	NN	_	16	pobj	_
+21	stopping	stop	VBG	pb=stop.01	12	advcl	_
+22	their	their	PRP$	_	24	poss	_
+23	mortgage	mortgage	NN	_	24	nn	_
+24	payments	payment	NNS	_	21	dobj	21:A1=PPT
+25	 	 	,	p2=''	21	punct	_
+26	(	(	-LRB-	_	27	punct	_
+27	link	link	NN	p2=VBP	12	dobj	_
+28	in	in	IN	_	27	prep	_
+29	Chinese	chinese	NNP	p2=JJ	28	pobj	_
+30	)	)	-RRB-	_	27	punct	_
+31	.	.	.	_	12	punct	_
+

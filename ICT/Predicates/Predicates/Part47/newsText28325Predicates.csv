@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+China,deny.01,it all,,Affirmative,WASHINGTON ( AP ) - China denies it all . 
+the U.S.,say.01,military has been spying on,,Affirmative,But the U.S. says China 's military has been spying on a number of major U.S. companies . 
+military,spy.01,on,,Affirmative,But the U.S. says China 's military has been spying on a number of major U.S. companies . 
+The Justice Department,say.01,China targeted makers of,,Affirmative,"The Justice Department says China targeted makers of nuclear and solar technology , stealing confidential business information , sensitive trade secrets and internal communications for competitive advantage . "
+China,target.01,makers of,,Affirmative,"The Justice Department says China targeted makers of nuclear and solar technology , stealing confidential business information , sensitive trade secrets and internal communications for competitive advantage . "
+China,steal.01,"confidential business information ,",,Affirmative,"The Justice Department says China targeted makers of nuclear and solar technology , stealing confidential business information , sensitive trade secrets and internal communications for competitive advantage . "
+The Justice Department,say.01,indictment should be,,Affirmative,The Justice Department says the grand jury indictment should be a national wake - up call about cyber intrusions . 
+"SolarWorld , along with the United Steelworkers Union",accuse.01,China,of,Affirmative,SolarWorld has long accused China of unfair trade practices . 
+"SolarWorld , along with the United Steelworkers Union",say.01,it 's troubled by,,Affirmative,It says it 's troubled by the allegations but no customer information has been breached . 
+by,trouble.01,"SolarWorld , along with the United Steelworkers Union",,Affirmative,It says it 's troubled by the allegations but no customer information has been breached . 
+Alcoa,say.01,it believes,,Affirmative,Alcoa says it believes no sensitive data has been compromised . 
+Alcoa,believe.01,data has been compromised,,Affirmative,Alcoa says it believes no sensitive data has been compromised . 
+Foreign Ministry,say.01,accusations are fabricated,,Affirmative,China 's Foreign Ministry says the accusations are fabricated . 
+China 's Foreign Ministry,suspend.01,cooperation with,,Affirmative,It 's suspending cooperation with the U.S. in a joint cybersecurity working group and warns of further retaliation as the situation evolves . 

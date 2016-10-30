@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Police,say.01,started fighting,,Affirmative,Police say a group of people started fighting . 
+a group of people,start.01,fighting,,Affirmative,Police say a group of people started fighting . 
+someone shooting,shoot.03,a gun,,Affirmative,"It all ended with someone shooting a gun , but no one was shot . "
+crowbars,get.02,one person,,Affirmative,"We 've got one person in custody for aggravated assault for hitting another person over the head with a tire iron , said Lt. Larry Crowson with Houston Police Department . "
+Lt. Larry Crowson with,say.01,We 've got,,Affirmative,"We 've got one person in custody for aggravated assault for hitting another person over the head with a tire iron , said Lt. Larry Crowson with Houston Police Department . "
+Authorities,say.01,driver ran over,,Affirmative,Authorities say a driver ran over two other people . 
+a driver,run.02,over,,Affirmative,Authorities say a driver ran over two other people . 
+Two others,drive.02,Two others,for treatment,Affirmative,Two others drove themselves for treatment . 

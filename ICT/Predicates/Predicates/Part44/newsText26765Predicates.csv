@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Crimean canal,deliver.01,water,to,Affirmative,The North Crimean canal is the largest hydrological installation in Europe and delivers water from the Dnieper river to the Kherson region and Crimea . 
+The Ukrainian authorities,shut.05,the water deliveries to Crimea,,Affirmative,"The Ukrainian authorities shut down the water deliveries to Crimea on April 22 , which prompted Russia to ask the Organization for Security and Cooperation to demand the lifting of the water blockade . "
+"April 22 ,",prompt.02,Russia,to ask,Affirmative,"The Ukrainian authorities shut down the water deliveries to Crimea on April 22 , which prompted Russia to ask the Organization for Security and Cooperation to demand the lifting of the water blockade . "
+Russia,ask.02,to demand,the Organization for Security and Cooperation,Affirmative,"The Ukrainian authorities shut down the water deliveries to Crimea on April 22 , which prompted Russia to ask the Organization for Security and Cooperation to demand the lifting of the water blockade . "
+the Organization for Security and Cooperation,demand.01,the lifting of,,Affirmative,"The Ukrainian authorities shut down the water deliveries to Crimea on April 22 , which prompted Russia to ask the Organization for Security and Cooperation to demand the lifting of the water blockade . "
+the Crimean authorities,try.01,solving,,Affirmative,"Meanwhile , the Crimean authorities tried solving the water problem by diverting water from the Buyuk Qarasuv river . "
+the Crimean authorities,solve.01,the water problem,by diverting water from,Affirmative,"Meanwhile , the Crimean authorities tried solving the water problem by diverting water from the Buyuk Qarasuv river . "
+the Crimean authorities,divert.01,water,,Affirmative,"Meanwhile , the Crimean authorities tried solving the water problem by diverting water from the Buyuk Qarasuv river . "

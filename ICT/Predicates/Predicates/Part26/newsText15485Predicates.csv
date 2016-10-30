@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+protesters,denounce.01,U.S. involvement in,,Affirmative,"Sunday , between 1,000 and 2,000 protesters took to the streets of Port-au-Prince to denounce U.S. involvement in the internal affairs of the country and once again claim the resignation of the Head of State . "
+protesters,claim.01,the resignation of,,Affirmative,"Sunday , between 1,000 and 2,000 protesters took to the streets of Port-au-Prince to denounce U.S. involvement in the internal affairs of the country and once again claim the resignation of the Head of State . "
+"between 1,000 and 2,000 protesters",set.02,fire,to,Affirmative,"Protesters set fire to a poster representing the American flag , chanting Obama should not support this government . "
+a poster representing,represent.01,the American flag,,Affirmative,"Protesters set fire to a poster representing the American flag , chanting Obama should not support this government . "
+"between 1,000 and 2,000 protesters",chant.01,Obama should not support,,Affirmative,"Protesters set fire to a poster representing the American flag , chanting Obama should not support this government . "
+Obama,support.01,this government,,Affirmative,"Protesters set fire to a poster representing the American flag , chanting Obama should not support this government . "
+"between 1,000 and 2,000 protesters",try.01,to reach,,Affirmative,"The protesters tried in vain to reach the National Palace , where they were blocked again by the police . "
+"between 1,000 and 2,000 protesters",reach.01,"the National Palace ,",,Affirmative,"The protesters tried in vain to reach the National Palace , where they were blocked again by the police . "
+by,block.01,"between 1,000 and 2,000 protesters",,Affirmative,"The protesters tried in vain to reach the National Palace , where they were blocked again by the police . "
+This Monday 19 May,leave.01,the country,,Affirmative,"This Monday 19 May , the President Michel Martelly , left the country in the direction of Havana where he will meet with the highest Cuban authorities around the strengthening of ties of cooperation and friendship between Haiti and Cuba . "
+Michel Martelly,meet.03,with,,Affirmative,"This Monday 19 May , the President Michel Martelly , left the country in the direction of Havana where he will meet with the highest Cuban authorities around the strengthening of ties of cooperation and friendship between Haiti and Cuba . "

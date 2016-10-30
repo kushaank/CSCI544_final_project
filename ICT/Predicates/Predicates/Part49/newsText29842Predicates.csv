@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A HAWAIIAN surfer,plough.01,her car,into,Affirmative,A HAWAIIAN surfer who allegedly ploughed her car into a 73 - year - old woman in a fit of road rage has been charged with attempted murder . 
+Hawaii News,report.01,Khory saw,,Affirmative,Hawaii News Now reported that apartment employee Chris Khory saw Hansen reverse her car to hit Conklin again . 
+employee Chris Khory,see.01,Hansen reverse,,Affirmative,Hawaii News Now reported that apartment employee Chris Khory saw Hansen reverse her car to hit Conklin again . 
+Jill Anjuli Hansen,reverse.01,her car,,Affirmative,Hawaii News Now reported that apartment employee Chris Khory saw Hansen reverse her car to hit Conklin again . 
+Jill Anjuli Hansen,hit.01,"Conklin , who was rushed to a hospital in Honolulu for treatment",,Affirmative,Hawaii News Now reported that apartment employee Chris Khory saw Hansen reverse her car to hit Conklin again . 
+apartment employee Chris Khory,grab.01,a crowbar,,Affirmative,"But before she could , he grabbed a crowbar and smashed the rear windshield of Hansen 's Volkswagen Passat , causing her to jump out her car and run away . "
+apartment employee Chris Khory,smash.01,the rear windshield of,,Affirmative,"But before she could , he grabbed a crowbar and smashed the rear windshield of Hansen 's Volkswagen Passat , causing her to jump out her car and run away . "
+apartment employee Chris Khory,cause.01,her to jump out,,Affirmative,"But before she could , he grabbed a crowbar and smashed the rear windshield of Hansen 's Volkswagen Passat , causing her to jump out her car and run away . "
+"Conklin ,",suffer.01,major bruising,,Affirmative,"Conklin , who suffered major bruising , said she owed her life to the bystander who fended off her attacker . "
+"Conklin ,",say.01,she owed,,Affirmative,"Conklin , who suffered major bruising , said she owed her life to the bystander who fended off her attacker . "
+Elizabeth Conklin,owe.01,her life,to,Affirmative,"Conklin , who suffered major bruising , said she owed her life to the bystander who fended off her attacker . "
+the bystander,fend.02,her attacker,,Affirmative,"Conklin , who suffered major bruising , said she owed her life to the bystander who fended off her attacker . "
+the bystander who fended off her attacker,see.01,her,,Affirmative,He saw her in her car getting ready to hit me again . 
+the bystander who fended off her attacker,save.02,her life,,Affirmative,"He totally saved my life , Conklin told ABC News . "
+"Conklin , who was rushed to a hospital in Honolulu for treatment",tell.01,ABC News,,Affirmative,"He totally saved my life , Conklin told ABC News . "
+"Conklin ,",say.01,she believes,,Affirmative,"Conklin , who was rushed to a hospital in Honolulu for treatment , said she believes her attacker wanted to steal her car . "
+her,believe.01,attacker wanted,,Affirmative,"Conklin , who was rushed to a hospital in Honolulu for treatment , said she believes her attacker wanted to steal her car . "
+her attacker,want.01,to steal,,Affirmative,"Conklin , who was rushed to a hospital in Honolulu for treatment , said she believes her attacker wanted to steal her car . "
+her attacker,steal.01,her car,,Affirmative,"Conklin , who was rushed to a hospital in Honolulu for treatment , said she believes her attacker wanted to steal her car . "
+Police,establish.01,a motive,,Affirmative,Police have not established a motive . 
+Jill Anjuli Hansen,have.03,a history of,,Affirmative,"Hansen , meanwhile , has a history of police contact . "
+her,have.03,a pending assault case,,Affirmative,She has a pending assault case and in a separate case was ordered to undergo a mental health evaluation . 
+by,file.01,an active restraining order filed by,,Affirmative,There is also an active restraining order filed by her father . 
+her father,say.01,she used Facebook,,Affirmative,"According to the court documents , her father says she used Facebook to find someone to murder him and his family . "
+her,use.01,Facebook,to find someone,Affirmative,"According to the court documents , her father says she used Facebook to find someone to murder him and his family . "
+her,find.01,someone,,Affirmative,"According to the court documents , her father says she used Facebook to find someone to murder him and his family . "
+someone,murder.01,him and,,Affirmative,"According to the court documents , her father says she used Facebook to find someone to murder him and his family . "

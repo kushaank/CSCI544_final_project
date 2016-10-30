@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,own.01,a dog for,,Affirmative,A man has been banned from owning a dog for five years and sentenced to community work after his pet was found in an appalling state . 
+Wayne Simmonds,plead.02,guilty,to,Affirmative,Wayne Simmonds pleaded guilty in the Whanganui District Court on Friday to a charge of failing to provide his adopted greyhound with sufficient nourishment . 
+"Kiri Valerie Edwards ,",plead.02,guilty to failing,,Affirmative,"His landlord at the time , Kiri Valerie Edwards , pleaded guilty to failing to get veterinary assistance to relieve stress and pain the dog suffered . "
+"Kiri Valerie Edwards ,",get.01,suffered,,Affirmative,"His landlord at the time , Kiri Valerie Edwards , pleaded guilty to failing to get veterinary assistance to relieve stress and pain the dog suffered . "
+"Kiri Valerie Edwards ,",pain.01,a dog for five years,,Affirmative,"His landlord at the time , Kiri Valerie Edwards , pleaded guilty to failing to get veterinary assistance to relieve stress and pain the dog suffered . "
+Wayne Simmonds,take.01,ownership of,,Affirmative,Simmonds took ownership of retired greyhound Max on May 23 last year while boarding with Edwards . 
+Wayne Simmonds,suffer.01,a head injury,,Affirmative,"On July 21 he suffered a head injury and had to go to Wellington Hospital , where he had surgery on July 31 . "
+Wayne Simmonds,have.03,surgery,,Affirmative,"On July 21 he suffered a head injury and had to go to Wellington Hospital , where he had surgery on July 31 . "
+Kiri Valerie Edwards,have.03,her own two dogs,,Affirmative,Edwards was left in charge of Max and also had her own two dogs to care for . 
+"Edwards and Simmonds ,",say.01,he had given,,Affirmative,"Text messages were exchanged between Edwards and Simmonds , who said he had given his girlfriend at the time $ 70 a week for the dogs care . "
+Wayne Simmonds,give.01,his girlfriend,,Affirmative,"Text messages were exchanged between Edwards and Simmonds , who said he had given his girlfriend at the time $ 70 a week for the dogs care . "
+the money,reach.01,Kiri Valerie Edwards,,Affirmative,But the money never reached Edwards . 
+Animal officers,find.01,Max,,Affirmative,Animal officers were called to the Wanganui property on August 5 following a barking complaint and found Max in an emaciated state . 
+the five days,show.01,little sign of improvement,,Affirmative,"He was taken to the pound , fed and given supplements but after five days showed little sign of improvement , weighing just 19 kilograms . "
+little sign of improvement,weigh.01,19 kilograms,,Affirmative,"He was taken to the pound , fed and given supplements but after five days showed little sign of improvement , weighing just 19 kilograms . "
+Wayne Simmonds,take.01,ownership of retired greyhound Max on May 23,,Affirmative,The dog was 34 kg when Simmonds took ownership of him . 
+Max,gain.02,10 kg,,Affirmative,"Max was taken to Wanganui Veterinary Services where he was cared for and improved , gaining nearly 10 kg over the next two weeks . "
+lawyer Stephen Ross,say.01,Edwards did feed Max and,,Affirmative,Defence lawyer Stephen Ross said Edwards did feed Max and had asked Simmonds to do something about his dog . 
+Kiri Valerie Edwards,ask.02,to do something about,Simmonds,Affirmative,Defence lawyer Stephen Ross said Edwards did feed Max and had asked Simmonds to do something about his dog . 
+Wayne Simmonds,do.02,something about,,Affirmative,Defence lawyer Stephen Ross said Edwards did feed Max and had asked Simmonds to do something about his dog . 
+Kiri Valerie Edwards,accept.01,the dog needed,,Affirmative,"Edwards had accepted the dog needed veterinary care but assumed someone was coming to pick up the dog on Simmonds behalf , Mr Ross said . "
+Kiri Valerie Edwards,assume.02,someone was coming,,Affirmative,"Edwards had accepted the dog needed veterinary care but assumed someone was coming to pick up the dog on Simmonds behalf , Mr Ross said . "
+someone,pick.04,the dog on,,Affirmative,"Edwards had accepted the dog needed veterinary care but assumed someone was coming to pick up the dog on Simmonds behalf , Mr Ross said . "
+Mr Ross,say.01,Edwards had accepted,,Affirmative,"Edwards had accepted the dog needed veterinary care but assumed someone was coming to pick up the dog on Simmonds behalf , Mr Ross said . "
+the dog on Simmonds behalf,argue.01,", she should not have been expected",,Affirmative,"He also argued that if the pound did not take the dog to the vet in the five days it had him , she should not have been expected to see the need to . "
+the pound,take.01,the dog on Simmonds behalf,,Affirmative,"He also argued that if the pound did not take the dog to the vet in the five days it had him , she should not have been expected to see the need to . "
+the pound,have.03,the dog on Simmonds behalf,,Affirmative,"He also argued that if the pound did not take the dog to the vet in the five days it had him , she should not have been expected to see the need to . "
+Kiri Valerie Edwards,see.01,the need,,Affirmative,"He also argued that if the pound did not take the dog to the vet in the five days it had him , she should not have been expected to see the need to . "
+"Simmonds lawyer ,",say.01,he had been in hospital,,Affirmative,"Simmonds lawyer , Raukawa Simon , said he had been in hospital and unable to go home . "
+Raukawa Simon,think.01,he had taken,,Affirmative,"Because of that , Simmonds thought he had taken all reasonable steps . "
+Raukawa Simon,take.01,all reasonable steps,,Affirmative,"Because of that , Simmonds thought he had taken all reasonable steps . "
+Judge David Cameron,say.01,it was Simmonds,,Affirmative,Judge David Cameron said it was Simmonds who was principally responsible for the appalling state of the dog at the time and held some sympathy for Edwards . 
+Judge Cameron,say.01,he nevertheless had,,Affirmative,"he nevertheless had a responsibility to ensure the dog was being properly cared for and being properly fed , Judge Cameron said . "
+I,think.01,shes got,,Affirmative,I think shes got the rough end of the stick from this guy but she needs to be punished in some way . 
+shes,get.01,the rough end of,,Affirmative,I think shes got the rough end of the stick from this guy but she needs to be punished in some way . 
+she,need.01,to be punished in,,Affirmative,I think shes got the rough end of the stick from this guy but she needs to be punished in some way . 
+Simmonds,own.01,a dog for,,Affirmative,"Simmonds was disqualified from owning a dog for five years , sentenced to 100 hours community work , ordered to pay vet costs of $ 575 , $ 372 for boarding costs and $ 500 towards the prosecution . "
+Edwards,pay.01,$ 500,,Affirmative,"Edwards was fined $ 500 , ordered to pay $ 500 towards the prosecution and $ 130 in court costs . "

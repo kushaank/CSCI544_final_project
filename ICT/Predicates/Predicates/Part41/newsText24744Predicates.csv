@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+RYANAIR,warn.01,to expect,customers,Affirmative,"RYANAIR has warned customers to expect higher air fares next winter , driven by stronger demand . "
+customers,expect.01,higher air fares,,Affirmative,"RYANAIR has warned customers to expect higher air fares next winter , driven by stronger demand . "
+by,drive.02,higher air fares,,Affirmative,"RYANAIR has warned customers to expect higher air fares next winter , driven by stronger demand . "
+Shares,boost.01,value,,Affirmative,"Shares in Ryanair soared yesterday , boosting the Irish airline 's value by almost €1bn , despite the company announcing its first fall in profits for five years . "
+the company announcing,announce.01,its first fall in profits,,Affirmative,"Shares in Ryanair soared yesterday , boosting the Irish airline 's value by almost €1bn , despite the company announcing its first fall in profits for five years . "
+the company announcing its first fall in profits for five years,say.01,it forecast,,Affirmative,Bookings for this summer are up - and the company said it forecast a return to profit growth in the year ahead . 
+the company announcing its first fall in profits for five years,forecast.01,a return to,,Affirmative,Bookings for this summer are up - and the company said it forecast a return to profit growth in the year ahead . 
+RYANAIR,outline.01,its plans,,Affirmative,Ryanair outlined its plans to chase more business travellers as part of a strategy to boost passenger numbers by almost three million . 
+the Irish airline 's,aim.01,to fly,,Affirmative,"The airline aims to fly 84.6 million passengers this year , it said as it announced financial results . "
+the Irish airline 's,fly.01,million passengers,,Affirmative,"The airline aims to fly 84.6 million passengers this year , it said as it announced financial results . "
+the Irish airline 's,say.01,airline aims,,Affirmative,"The airline aims to fly 84.6 million passengers this year , it said as it announced financial results . "
+the Irish airline 's,announce.01,financial results,,Affirmative,"The airline aims to fly 84.6 million passengers this year , it said as it announced financial results . "
+investors,lap.01,the news,,Affirmative,Fare hikes are bad news for customers but investors lapped up the news . 
+Shares,see.01,the biggest gains in,,Affirmative,Shares saw the biggest gains in more than five years . 
+price rise,boost.01,the market value of Ryanair,,Affirmative,The 10.6pc share price rise boosted the market value of Ryanair by almost €1bn in just one day 's trading to €10bn . 

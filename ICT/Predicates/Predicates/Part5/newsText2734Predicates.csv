@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An explosion at,injure.01,the seven workers,,Affirmative,An explosion at Johnson Brass & Machine Foundry in Saukville injured seven workers just after 4 p.m. Monday . 
+by helicopter,fly.01,Two patients,,Affirmative,"Two patients were flown by helicopter to Columbia St. Mary 's in Milwaukee , while a third patient was transported there by ambulance . "
+by ambulance,transport.01,a third patient,there,Affirmative,"Two patients were flown by helicopter to Columbia St. Mary 's in Milwaukee , while a third patient was transported there by ambulance . "
+Seven foundry workers,pour.01,molten brass,,Affirmative,"Seven foundry workers were injured Monday afternoon in an explosion that occurred while workers were pouring molten brass into a cast at Johnson Brass & Machine Foundry , 270 N. Mill St. in Saukville . "
+An explosion at Johnson Brass & Machine Foundry in Saukville,knock.04,the seven workers,,Affirmative,"The explosion occurred shortly after 4 p.m. , knocking the seven workers from a platform , Saukville Fire Chief Gilly Schultz said . "
+Chief Gilly Schultz,say.01,explosion occurred,,Affirmative,"The explosion occurred shortly after 4 p.m. , knocking the seven workers from a platform , Saukville Fire Chief Gilly Schultz said . "
+An explosion at Johnson Brass & Machine Foundry in Saukville,start.01,a fire inside,,Affirmative,"The explosion started a fire inside the foundry , and the building was evacuated , Schultz said . "
+Saukville Fire Chief Gilly Schultz,say.01,explosion started,,Affirmative,"The explosion started a fire inside the foundry , and the building was evacuated , Schultz said . "
+by,take.01,Two of,,Affirmative,"Two of the injured were taken by Flight for Life helicopter to the burn center at Columbia St. Mary 's Hospital , one was taken by ambulance to St. Mary 's burn center and the remaining four were taken by ambulances to area hospitals for treatment . "
+by ambulance,take.01,one,,Affirmative,"Two of the injured were taken by Flight for Life helicopter to the burn center at Columbia St. Mary 's Hospital , one was taken by ambulance to St. Mary 's burn center and the remaining four were taken by ambulances to area hospitals for treatment . "
+by ambulances,take.01,the remaining four,,Affirmative,"Two of the injured were taken by Flight for Life helicopter to the burn center at Columbia St. Mary 's Hospital , one was taken by ambulance to St. Mary 's burn center and the remaining four were taken by ambulances to area hospitals for treatment . "
+Saukville Fire Chief Gilly Schultz,have.03,no information on,,Affirmative,Schultz had no information on the severity of the injuries and did not know whether the burns suffered by the workers were caused by the molten metal . 
+Saukville Fire Chief Gilly Schultz,know.01,were caused by,,Affirmative,Schultz had no information on the severity of the injuries and did not know whether the burns suffered by the workers were caused by the molten metal . 
+by,suffer.01,the burns suffered by,,Affirmative,Schultz had no information on the severity of the injuries and did not know whether the burns suffered by the workers were caused by the molten metal . 
+by,cause.01,the burns suffered by,,Affirmative,Schultz had no information on the severity of the injuries and did not know whether the burns suffered by the workers were caused by the molten metal . 
+State fire officials,investigate.01,the cause of,,Affirmative,"State fire officials will investigate the cause of the explosion , Schultz said . "
+Saukville Fire Chief Gilly Schultz,say.01,officials will investigate,,Affirmative,"State fire officials will investigate the cause of the explosion , Schultz said . "
+Saukville Fire Chief Gilly Schultz,say.01,he had not talked with,,Affirmative,Schultz said he had not talked with the owner of the company . 
+a fourth-generation family-owned foundry west of the Milwaukee River,manufacture.01,metal components,,Affirmative,"The company , in operation since 1905 , manufactures metal components , both in cast and wrought alloys , including stators , seals , valve bodies , gears , large flanged bushings , vacuum chamber liners and medical imaging mainframes , according to its website . "
+Saukville Fire Chief Gilly Schultz,say.01,brass was being poured into,,Affirmative,"The molten brass was being poured into a centrifuge spinning about 450 revolutions per minute , and the brass had been heated to a temperature of 2,100 degrees , Schultz said . "
+the injured foundry workers,try.01,to obtain,,Affirmative,", the father of one of the injured foundry workers who was at the building to try to obtain more information , said his son , Mark Jr . "
+the injured foundry workers,obtain.01,more information,,Affirmative,", the father of one of the injured foundry workers who was at the building to try to obtain more information , said his son , Mark Jr . "
+the father of one of,say.01,"his son ,",,Affirmative,", the father of one of the injured foundry workers who was at the building to try to obtain more information , said his son , Mark Jr . "
+Mark Jr.,say.01,son had been burned,,Affirmative,He said his son had been burned when molten metal splattered onto a portion of his back . 
+his father,say.01,He was being treated at,,Affirmative,"He was being treated at Aurora Medical Center in Grafton , his father said . "
+Mark Edbauer Sr.,say.01,He is in,,Affirmative,"He is in a bit of pain , his father said . "
+the father,say.01,son had worked at,,Affirmative,"The son had worked at the foundry for no more than two months , the father said . "
+his father,say.01,is,,Affirmative,"The son , 29 , is a former volunteer firefighter in Fredonia , his father said . "
+A woman,answer.01,the phone,,Affirmative,A woman who answered the phone at the company Monday evening said the firm had no comment . 
+A woman,say.01,firm had,,Affirmative,A woman who answered the phone at the company Monday evening said the firm had no comment . 
+the firm,have.03,no comment,,Affirmative,A woman who answered the phone at the company Monday evening said the firm had no comment . 
+others,have.03,metal siding,,Affirmative,"Portions of the building are made of brick , and others have metal siding . "
+I,see.01,if there was,,Affirmative,"I came running out to see if there was an accident out front , or what was going on . "
+Login or Register,manage.01,all your newsletter preferences,,Affirmative,Login or Register to manage all your newsletter preferences . 
+11:50 p.m.,browse.01,the latest JSOnline video below,,Affirmative,11:50 p.m. Browse the latest JSOnline video below and find more on our video home page . 
+11:50 p.m.,find.01,more,,Affirmative,11:50 p.m. Browse the latest JSOnline video below and find more on our video home page . 

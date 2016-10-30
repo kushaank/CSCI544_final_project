@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A bus accident on,leave.01,23 people,dead,Affirmative,"A bus accident on a federal highway in the city of Caninde , in the northeastern Brazilian state of Ceara , left 23 people dead and 18 injured , authorities said . "
+authorities,say.01,left,,Affirmative,"A bus accident on a federal highway in the city of Caninde , in the northeastern Brazilian state of Ceara , left 23 people dead and 18 injured , authorities said . "
+Princesa,do.02,Inhamuns bus company,,Affirmative,"Every one of the 41 occupants of the vehicle - 39 passengers , the driver and another employee of the Princesa do Inhamuns bus company , was hurt or killed in the crash . "
+The bus,try.01,to avoid hitting,,Affirmative,"The bus overturned as it was trying to avoid hitting a motorcycle that had quickly passed it but then suddenly applied the brakes , the driver - who was only slightly injured - told police . "
+The bus,avoid.01,hitting,,Affirmative,"The bus overturned as it was trying to avoid hitting a motorcycle that had quickly passed it but then suddenly applied the brakes , the driver - who was only slightly injured - told police . "
+The bus,hit.01,a motorcycle,,Affirmative,"The bus overturned as it was trying to avoid hitting a motorcycle that had quickly passed it but then suddenly applied the brakes , the driver - who was only slightly injured - told police . "
+a motorcycle,pass.01,The bus,,Affirmative,"The bus overturned as it was trying to avoid hitting a motorcycle that had quickly passed it but then suddenly applied the brakes , the driver - who was only slightly injured - told police . "
+The bus,make.02,its regular run between,,Affirmative,"The bus was making its regular run between the town of Boa Viagem , which it had left at 7 a.m. ( 1000 GMT ) and Fortaleza , where it had been scheduled to arrive at 11:20 a.m. ( 1420 GMT ) . "
+The bus,leave.02,"Boa Viagem ,",,Affirmative,"The bus was making its regular run between the town of Boa Viagem , which it had left at 7 a.m. ( 1000 GMT ) and Fortaleza , where it had been scheduled to arrive at 11:20 a.m. ( 1420 GMT ) . "
+authorities,identify.01,"The driver ,",,Affirmative,"The driver , whom authorities did not identify , was given a breathalyzer test , which came back negative for alcohol . "

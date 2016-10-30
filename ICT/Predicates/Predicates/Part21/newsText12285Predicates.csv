@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the company,say.01,Nolan has been named,,Affirmative,"executive Michael J. Nolan has been named executive vice president and chief development officer of Corner Bakery Café , the company said Monday . "
+Corner Bakery,promote.02,Blake Bernet,to,Affirmative,"In addition , Corner Bakery also promoted Blake Bernet to the position of chief legal officer . "
+Bernet,serve.01,as,,Affirmative,Bernet served previously as the Dallas - based chain 's senior vice president and general counsel . 
+He,serve.01,as,,Affirmative,"He served most recently as senior vice president and chief development officer , worldwide , for Bloomin ' Brands , directing the global restaurant development strategy for that company 's five brands , including Outback Steakhouse , Bonefish Grill , Carrabba 's Italian Grill , Fleming 's Prime Steakhouse and Roy 's Hawaiian Fusion . "
+He,direct.01,development strategy for,,Affirmative,"He served most recently as senior vice president and chief development officer , worldwide , for Bloomin ' Brands , directing the global restaurant development strategy for that company 's five brands , including Outback Steakhouse , Bonefish Grill , Carrabba 's Italian Grill , Fleming 's Prime Steakhouse and Roy 's Hawaiian Fusion . "
+Michael J. Nolan,spend.01,a decade,,Affirmative,"Before that , Nolan spent more than a decade at Panera Bread Co. , where he served most recently as senior vice president , chief development officer and managing director for Canada . "
+he,serve.01,as,,Affirmative,"Before that , Nolan spent more than a decade at Panera Bread Co. , where he served most recently as senior vice president , chief development officer and managing director for Canada . "
+managing director for Canada,manage.01,for Canada,,Affirmative,"Before that , Nolan spent more than a decade at Panera Bread Co. , where he served most recently as senior vice president , chief development officer and managing director for Canada . "
+Michael J. Nolan,grow.01,the concept,,Affirmative,"During his tenure with Panera , Nolan helped grow the concept from 250 units to more than 1,500 . "
+Nolan,serve.01,as,,Affirmative,"Earlier in his career , Nolan served as senior vice president for John Harvard 's Brew House , and he also served on the board for American Hospitality Concepts Inc . "
+he,serve.01,on,,Affirmative,"Earlier in his career , Nolan served as senior vice president for John Harvard 's Brew House , and he also served on the board for American Hospitality Concepts Inc . "
+Bernet,join.01,Corner Bakery,,Affirmative,Bernet joined Corner Bakery in 1996 and previously held the position of general counsel and senior vice president of development . 
+Bernet,hold.01,the position of,,Affirmative,Bernet joined Corner Bakery in 1996 and previously held the position of general counsel and senior vice president of development . 
+He,lead.02,the evolution of,,Affirmative,"He led the evolution of the building prototype and growth of the brand from 50 to 165 units , the company said . "
+the company,say.01,He led,,Affirmative,"He led the evolution of the building prototype and growth of the brand from 50 to 165 units , the company said . "
+the company,have.03,commitments for,,Affirmative,"Currently , 53 Corner Bakery units are franchised , and the company has commitments for more than 350 additional locations , with plans to move into new markets of Alabama , Minnesota , Missouri , North Carolina , Ohio and South Carolina . "

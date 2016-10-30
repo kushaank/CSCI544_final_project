@@ -1,0 +1,53 @@
+1	No	no	DT	p2=UH	3	det	_
+2	email	email	NN	_	3	nn	_
+3	address	address	NN	_	5	nsubjpass	5:A1=PPT
+4	was	be	VBD	_	5	auxpass	_
+5	supplied	supply	VBN	pb=supply.01	0	root	_
+6	by	by	IN	p2=RP	5	agent	5:A0=PAG
+7	.	.	.	_	5	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	complete	complete	VB	pb=complete.01	10	advcl	10:AM-PRP
+3	your	your	PRP$	_	4	poss	_
+4	registration	registration	NN	_	2	dobj	2:A1=PPT
+5	on	on	IN	_	4	prep	_
+6	this	this	DT	_	7	det	_
+7	site	site	NN	_	5	pobj	_
+8	,	,	,	_	10	punct	_
+9	please	please	UH	p2=VB	10	intj	10:AM-DIS
+10	supply	supply	VB	pb=supply.01	0	root	_
+11	an	an	DT	_	12	det	_
+12	address	address	NN	_	10	dobj	10:A1=PPT
+13	.	.	.	_	10	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS;4:AM-DIS
+2	confirm	confirm	VB	pb=confirm.01	0	root	_
+3	or	or	CC	_	2	cc	_
+4	modify	modify	VB	pb=modify.01	2	conj	_
+5	the	the	DT	_	7	det	_
+6	email	email	NN	_	7	nn	_
+7	address	address	NN	_	4	dobj	4:A1=PPT
+8	to	to	TO	p2=IN	12	prep	_
+9	which	which	WDT	_	8	pobj	_
+10	you	you	PRP	_	12	nsubj	12:A0=PAG
+11	will	will	MD	_	12	aux	12:AM-MOD
+12	have	have	VB	pb=have.03	4	advcl	4:AM-PRP
+13	subscription	subscription	NN	_	14	nn	_
+14	offers	offer	NNS	p2=VBZ	12	dobj	12:A1=PPT;15:A1=PPT
+15	sent	send	VBN	p2=VBD|pb=send.01	14	partmod	_
+16	.	.	.	_	2	punct	_
+
+1	For	for	IN	_	8	prep	8:AM-DIS
+2	a	a	DT	_	5	det	_
+3	more	more	RBR	_	4	advmod	_
+4	personalized	personalized	JJ	_	5	amod	_
+5	experience	experience	NN	_	1	pobj	_
+6	,	,	,	_	8	punct	_
+7	please	please	UH	p2=VB	8	intj	8:AM-DIS
+8	supply	supply	VB	pb=supply.01	0	root	_
+9	the	the	DT	_	12	det	_
+10	following	follow	VBG	p2=JJ|pb=follow.01	12	amod	_
+11	optional	optional	JJ	_	12	amod	_
+12	information	information	NN	_	8	dobj	8:A1=PPT;10:A1=PPT
+13	.	.	.	_	8	punct	_
+

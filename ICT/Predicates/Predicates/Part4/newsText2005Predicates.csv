@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Casey QC ,",say.01,this caused,,Affirmative,"Matt Casey QC , for the Cornwall Park Trust Board , said this caused a lot of angst when prices shot up but at the end of those 21 - year terms , the prices were relatively cheap . "
+this,cause.01,a lot of angst,,Affirmative,"Matt Casey QC , for the Cornwall Park Trust Board , said this caused a lot of angst when prices shot up but at the end of those 21 - year terms , the prices were relatively cheap . "
+Cornwall Park Trust Board,seek.01,"$ 348,284",,Affirmative,"The board is seeking $ 348,284 from Yong Xin Chen in unpaid leasehold fees , renovation costs and expenses after she handed back the keys to 21 Maungakiekie Ave on November 16 , 2011 . "
+she,hand.01,the keys,to,Affirmative,"The board is seeking $ 348,284 from Yong Xin Chen in unpaid leasehold fees , renovation costs and expenses after she handed back the keys to 21 Maungakiekie Ave on November 16 , 2011 . "
+she,buy.01,the house,,Affirmative,"She bought the house on leasehold land and in 2010 her rent increased from an annual $ 8300 to $ 73,750 . "
+"Yong Xin Chen in unpaid leasehold fees , renovation costs and expenses",ask.02,"land be freeholded , seeking",,Affirmative,"Chen asked that the land be freeholded , seeking to buy it and saying she could not afford the annual rent , said Mr Casey . "
+leasehold land,say.01,she could not afford,,Affirmative,"Chen asked that the land be freeholded , seeking to buy it and saying she could not afford the annual rent , said Mr Casey . "
+she,afford.01,the annual rent,,Affirmative,"Chen asked that the land be freeholded , seeking to buy it and saying she could not afford the annual rent , said Mr Casey . "
+Mr Casey,say.01,Chen asked,,Affirmative,"Chen asked that the land be freeholded , seeking to buy it and saying she could not afford the annual rent , said Mr Casey . "
+she,claim.01,she had not received,,Affirmative,"She claimed she had not received some letters , so continued to pay the old rent . "
+she,receive.01,some letters,,Affirmative,"She claimed she had not received some letters , so continued to pay the old rent . "
+Cornwall Park Trust Board,say.01,"property would be auctioned on April 1 , 2011",,Affirmative,"The board wrote to Chen and her daughter Shanshan Lin , saying the property would be auctioned on April 1 , 2011 , Mr Casey said . "
+Mr Casey,say.01,board wrote to Chen and,,Affirmative,"The board wrote to Chen and her daughter Shanshan Lin , saying the property would be auctioned on April 1 , 2011 , Mr Casey said . "
+Mr Casey,say.01,"defendant was less than forthcoming in relation to providing access for marketing , etcetera ,",,Affirmative,"The defendant was less than forthcoming in relation to providing access for marketing , etcetera , to carry out the auction but ultimately this did take place , Mr Casey said , although the place did not sell . "
+Justice Rebecca Ellis,ask.01,if bidders might have been put off by aspects of,,Affirmative,"Justice Rebecca Ellis asked if bidders might have been put off by aspects of the property , to which Mr Casey agreed , saying this would have included the condition of the house . "
+by aspects of,put.07,bidders,,Affirmative,"Justice Rebecca Ellis asked if bidders might have been put off by aspects of the property , to which Mr Casey agreed , saying this would have included the condition of the house . "
+Cornwall Park Trust Board,spend.01,fixing it,,Affirmative,"The board spent more than $ 100,000 fixing it after Chen left , deeming it not in a good state of repair . "
+Cornwall Park Trust Board,fix.02,Cornwall Park Trust Board,,Affirmative,"The board spent more than $ 100,000 fixing it after Chen left , deeming it not in a good state of repair . "
+"Yong Xin Chen in unpaid leasehold fees , renovation costs and expenses",deem.01,Cornwall Park Trust Board,,Affirmative,"The board spent more than $ 100,000 fixing it after Chen left , deeming it not in a good state of repair . "
+"Yong Xin Chen in unpaid leasehold fees , renovation costs and expenses",claim.01,she was misled by,,Affirmative,Chen claimed she was misled by the board issuing invoices at the old rent rate . 
+by,mislead.01,Justice Rebecca Ellis,,Affirmative,Chen claimed she was misled by the board issuing invoices at the old rent rate . 
+the board,issue.01,invoices,,Affirmative,Chen claimed she was misled by the board issuing invoices at the old rent rate . 
+Justice Rebecca Ellis,think.01,"rent applied ,",,Affirmative,"She therefore thought only the old rent applied , Mr Casey said . "
+Mr Casey,say.01,She therefore thought,,Affirmative,"She therefore thought only the old rent applied , Mr Casey said . "
+Justice Rebecca Ellis,claim.01,she did not understand,,Affirmative,She also claimed she did not understand the lease terms and conditions . 
+Justice Rebecca Ellis,understand.01,the lease terms and conditions,,Affirmative,She also claimed she did not understand the lease terms and conditions . 
+Mr Casey,say.01,she had understood,,Affirmative,But Mr Casey said she had understood her obligations under the lease at all material times and her claim about believing she only had to pay rent at the old rate was not credible . 
+Justice Rebecca Ellis,understand.01,her obligations,,Affirmative,But Mr Casey said she had understood her obligations under the lease at all material times and her claim about believing she only had to pay rent at the old rate was not credible . 
+Justice Rebecca Ellis,pay.01,rent,,Affirmative,But Mr Casey said she had understood her obligations under the lease at all material times and her claim about believing she only had to pay rent at the old rate was not credible . 
+The defendant,believe.01,what she claims,,Affirmative,"If the defendant did believe what she claims , her legal advisers failed her . "
+Justice Rebecca Ellis,expect.01,to continue,,Affirmative,It is quite unrealistic for her to expect to continue to occupy the property ... 
+Justice Rebecca Ellis,continue.01,to occupy,,Affirmative,It is quite unrealistic for her to expect to continue to occupy the property ... 
+Justice Rebecca Ellis,occupy.01,"the property , to which Mr Casey agreed , saying this would have included the condition of the house",,Affirmative,It is quite unrealistic for her to expect to continue to occupy the property ... 
+Justice Rebecca Ellis,pay.01,the price,,Affirmative,"Yet the price she paid in 2005 was based on three and a half years to run at a rental based on 1988 value , since when values had increased substantially , so [ she ] must have anticipated a substantial rise in 2009 . "
+Justice Rebecca Ellis,anticipate.01,a substantial rise in 2009,,Affirmative,"Yet the price she paid in 2005 was based on three and a half years to run at a rental based on 1988 value , since when values had increased substantially , so [ she ] must have anticipated a substantial rise in 2009 . "
+she,pay.01,rent,,Affirmative,"Her claim to have been misled into believing she only had to pay rent at the old rate must be assessed against the fact that she fully understood her obligations under the lease at all material times , Mr Casey said . "
+she,understand.01,her obligations,,Affirmative,"Her claim to have been misled into believing she only had to pay rent at the old rate must be assessed against the fact that she fully understood her obligations under the lease at all material times , Mr Casey said . "
+Mr Casey,say.01,claim to have been misled into believing,,Affirmative,"Her claim to have been misled into believing she only had to pay rent at the old rate must be assessed against the fact that she fully understood her obligations under the lease at all material times , Mr Casey said . "
+"property manager ,",give.01,evidence,,Affirmative,"The board 's property manager , Martina Llewellyn , also gave evidence on the poor state of the house when Chen left . "
+Chen,leave.01,the house,,Affirmative,"The board 's property manager , Martina Llewellyn , also gave evidence on the poor state of the house when Chen left . "
+Campbell gifts,park.01,land,to,Affirmative,1901 : Sir John Logan Campbell gifts park land to trust board . 
+Yong Xin Chen,buy.01,house,,Affirmative,2005 : Yong Xin Chen buys house on leasehold section . 
+Board,say.01,auction will follow,,Affirmative,"Dec 2010 , Jan 2011 : Board says auction will follow if Chen does n't renew , refuses request to freehold . "
+Board,refuse.01,request,,Affirmative,"Dec 2010 , Jan 2011 : Board says auction will follow if Chen does n't renew , refuses request to freehold . "
+Board,inform.01,of auction,,Affirmative,April 2011 : Board informs of auction . 

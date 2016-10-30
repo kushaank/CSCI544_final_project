@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the company,report.01,quarter earnings,,Affirmative,Shares of Rackspace ( NYSE : RAX ) are up 36 percent in the past five trading sessions as the company reported strong  first quarter earnings and Wall Street has been passing around rumors that the company may be acquired . 
+the company,hire.01,Morgan Stanley,to help,Affirmative,Shares shot higher last Thursday as the company disclosed in an 8 - K that it had hired Morgan Stanley to help it explore the potential sale . 
+Morgan Stanley,help.01,it explore,,Affirmative,Shares shot higher last Thursday as the company disclosed in an 8 - K that it had hired Morgan Stanley to help it explore the potential sale . 
+the company,explore.01,the potential sale,,Affirmative,Shares shot higher last Thursday as the company disclosed in an 8 - K that it had hired Morgan Stanley to help it explore the potential sale . 
+The competition Milunovich,refer.01,to include companies with,,Affirmative,"The competition Milunovich refers to include companies with data hosting businesses such as Amazon , Google , Microsoft , IBM and Hewlett - Packard . "
+data,host.01,businesses,,Affirmative,"The competition Milunovich refers to include companies with data hosting businesses such as Amazon , Google , Microsoft , IBM and Hewlett - Packard . "
+These companies all,have.03,more resources and,,Affirmative,"These companies all have significantly more resources and a wider product offering than Rackspace , enabling faster development and cross selling . "
+Companies,have.03,significantly more resources,,Affirmative,"Companies such as Dell and HP do not have the resources to buy Rackspace , which currently has a $ 5 billion market cap , according to the UBS note . "
+Companies,buy.01,"Rackspace ,",,Affirmative,"Companies such as Dell and HP do not have the resources to buy Rackspace , which currently has a $ 5 billion market cap , according to the UBS note . "
+"Rackspace ,",have.03,billion market cap,,Affirmative,"Companies such as Dell and HP do not have the resources to buy Rackspace , which currently has a $ 5 billion market cap , according to the UBS note . "
+ The note,say.01,are all,,Affirmative," The note goes on to say that Cisco , EMC and VMWare are all likely acquirers of the company . "
+UBS,have.03,a Neutral rating on Rackspace,,Affirmative,UBS currently has a Neutral rating on Rackspace with a $ 34 price target . 

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Biden,pick.04,corsage,,Affirmative,"Vice President Biden personally picked out the red , white and blue corsage he had sent to a teenage Connecticut girl who asked him to her high school prom . "
+Vice President Biden,send.01,corsage,to,Affirmative,"Vice President Biden personally picked out the red , white and blue corsage he had sent to a teenage Connecticut girl who asked him to her high school prom . "
+a teenage Connecticut girl,ask.02,to,him,Affirmative,"Vice President Biden personally picked out the red , white and blue corsage he had sent to a teenage Connecticut girl who asked him to her high school prom . "
+office,tell.01,president had picked out,the Courant,Affirmative,Biden 's office told the Courant that the vice president had picked out the patriotic floral arrangement himself . 
+the vice president,pick.04,the patriotic floral arrangement,,Affirmative,Biden 's office told the Courant that the vice president had picked out the patriotic floral arrangement himself . 
+Vice President Biden,invite.01,Maselli,to come to Washington,Affirmative,"He invited Maselli to come to Washington to meet him at the White House , a trip she is planning with her family this summer . "
+Maselli,meet.03,Maselli,,Affirmative,"He invited Maselli to come to Washington to meet him at the White House , a trip she is planning with her family this summer . "
+a teenage Connecticut girl who asked him to her high school prom,plan.01,with,,Affirmative,"He invited Maselli to come to Washington to meet him at the White House , a trip she is planning with her family this summer . "
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

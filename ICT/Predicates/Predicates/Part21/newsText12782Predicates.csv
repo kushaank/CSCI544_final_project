@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,view.02,day period,of,Affirmative,You have now viewed of your FREE premium pages this 30 - day period . 
+you,view.02,your FREE premium pages,,Affirmative,"After you have viewed FREE pages , we will ask you to purchase a subscription . "
+we,ask.02,to purchase,you,Affirmative,"After you have viewed FREE pages , we will ask you to purchase a subscription . "
+you,purchase.01,a subscription,,Affirmative,"After you have viewed FREE pages , we will ask you to purchase a subscription . "
+A resident of,report.01,tiller was stolen from,,Affirmative,A resident of Stumphole Road near Elloree reported on May 11 that a yard tiller was stolen from his shed sometime after 3 p.m. on May 8 . 
+A resident of Stumphole Road near Elloree,say.01,someone entered,,Affirmative,He said someone entered the shed and took the tiller from behind an older one . 
+someone,enter.01,his shed,,Affirmative,He said someone entered the shed and took the tiller from behind an older one . 
+someone,take.01,a yard tiller,from behind,Affirmative,He said someone entered the shed and took the tiller from behind an older one . 
+A resident of,report.01,that someone stole,,Affirmative,A resident of Cherry Street near St. Matthews reported May 13 that someone stole two batteries from vehicles he was working on at an Oriel Circle location in St. Matthews and broke out two windows in his 1995 Nissan . 
+someone,steal.01,two batteries,from vehicles,Affirmative,A resident of Cherry Street near St. Matthews reported May 13 that someone stole two batteries from vehicles he was working on at an Oriel Circle location in St. Matthews and broke out two windows in his 1995 Nissan . 
+A resident of Cherry Street near St. Matthews,work.01,on,,Affirmative,A resident of Cherry Street near St. Matthews reported May 13 that someone stole two batteries from vehicles he was working on at an Oriel Circle location in St. Matthews and broke out two windows in his 1995 Nissan . 
+someone,break.06,two windows,,Affirmative,A resident of Cherry Street near St. Matthews reported May 13 that someone stole two batteries from vehicles he was working on at an Oriel Circle location in St. Matthews and broke out two windows in his 1995 Nissan . 
+A resident of,report.01,rifle was stolen out of,,Affirmative,A resident of Family Run Lane near St. Matthews reported May 13 that a .22 Winchester rifle was stolen out of his shed . 
+A resident of Family Run Lane near St. Matthews,say.01,it was last seen,,Affirmative,He said it was last seen two weeks ago . 
+A resident of,report.01,", he discovered",,Affirmative,"A resident of Ontario Drive in West Columbia reported May 9 that when he returned to his Riverside Lane property near Swansea , he discovered two tackle boxes and two rods and reels were missing . "
+A resident of Ontario Drive in West Columbia,discover.01,two tackle boxes and,were missing,Affirmative,"A resident of Ontario Drive in West Columbia reported May 9 that when he returned to his Riverside Lane property near Swansea , he discovered two tackle boxes and two rods and reels were missing . "

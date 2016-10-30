@@ -1,0 +1,13 @@
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	No	no	DT	p2=UH	3	det	_
+2	unauthorized	unauthorized	JJ	_	3	amod	_
+3	reproduction	reproduction	NN	_	0	root	_
+4	by	by	IN	_	3	prep	_
+5	any	any	DT	_	6	det	_
+6	means	mean	NNS	_	4	pobj	_
+7	.	.	.	_	3	punct	_
+

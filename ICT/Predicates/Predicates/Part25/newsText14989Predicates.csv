@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Dothan police,arrest.01,"a Panama City , Fla",,Affirmative,"Dothan police arrested a Panama City , Fla . "
+Court records,show.01,investigators arrested,,Affirmative,"Court records show Dothan police investigators arrested Russell Logan Walker , 33 , of Panama City , Fla . "
+Dothan police investigators,arrest.01,"Russell Logan Walker , 33 , of",,Affirmative,"Court records show Dothan police investigators arrested Russell Logan Walker , 33 , of Panama City , Fla . "
+felony,traffic.01,a controlled substance,,Affirmative,", on Saturday and charged him with felony trafficking a controlled substance . "
+Records,show.01,police charged Walker with trafficking,,Affirmative,"Records show police charged Walker with trafficking more than 2 ounces of synthetic marijuana , also known as spice . "
+Walker,traffic.01,2 ounces of,,Affirmative,"Records show police charged Walker with trafficking more than 2 ounces of synthetic marijuana , also known as spice . "
+he,post.01,"30,000 bail",,Affirmative,"Walker was released from custody at the Houston County Jail after he posted $ 30,000 bail . "

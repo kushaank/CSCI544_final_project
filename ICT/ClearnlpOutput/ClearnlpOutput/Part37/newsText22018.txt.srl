@@ -1,0 +1,28 @@
+1	Hearing	hear	VBG	pb=hear.01	14	csubj	14:A0=PAG
+2	some	some	DT	_	1	dobj	1:A1
+3	of	of	IN	_	2	prep	_
+4	his	his	PRP$	_	5	poss	_
+5	reflections	reflection	NNS	_	3	pobj	_
+6	today	today	NN	_	1	npadvmod	1:AM-TMP
+7	about	about	IN	_	1	prep	_
+8	relationships	relationship	NNS	_	7	pobj	_
+9	and	and	CC	_	8	cc	_
+10	love	love	NN	_	8	conj	_
+11	and	and	CC	_	10	cc	_
+12	marriage	marriage	NN	_	10	conj	_
+13	could	could	MD	_	14	aux	14:AM-MOD
+14	make	make	VB	pb=make.05	0	root	_
+15	a	a	DT	_	17	det	_
+16	big	big	JJ	_	17	amod	_
+17	difference	difference	NN	_	14	dobj	14:A1=PPT
+18	in	in	IN	_	17	prep	_
+19	our	our	PRP$	_	22	poss	_
+20	own	own	JJ	_	22	amod	_
+21	intense	intense	JJ	_	22	amod	_
+22	relationships	relationship	NNS	_	18	pobj	_
+23	.	.	.	_	14	punct	_
+
+1	Listen	listen	VB	pb=listen.01	0	root	_
+2	Now	now	RB	_	1	advmod	1:AM-TMP
+3	!	!	.	_	1	punct	_
+

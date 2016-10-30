@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A grand jury,indict.01,the suspect,,Affirmative,AUSTIN - A grand jury has indicted the suspect in the deadly South by Southwest crash in Austin on capital murder and murder charges . 
+County grand jury,indict.01,Rashad Owens,on,Affirmative,"The Travis County grand jury indicted Rashad Owens on one capital murder count and four of murder on Monday , along with 24 aggravated assault counts . "
+Authorities,say.01,Owens accelerated through,,Affirmative,"Authorities have said Owens accelerated through the crowd March 13 , killing two people and leaving more than 20 injured . "
+Rashad Owens on one capital murder count,kill.01,two people,,Affirmative,"Authorities have said Owens accelerated through the crowd March 13 , killing two people and leaving more than 20 injured . "
+Rashad Owens on one capital murder count,leave.01,more than 20 injured,,Affirmative,"Authorities have said Owens accelerated through the crowd March 13 , killing two people and leaving more than 20 injured . "
+Police,say.01,Owens was fleeing,,Affirmative,Police say Owens was fleeing a patrolman and driving down a closed street when the crash happened . 
+Rashad Owens on one capital murder count,flee.01,a patrolman,,Affirmative,Police say Owens was fleeing a patrolman and driving down a closed street when the crash happened . 
+Rashad Owens on one capital murder count,drive.01,a closed street,,Affirmative,Police say Owens was fleeing a patrolman and driving down a closed street when the crash happened . 
+Online jail records,list.01,no attorney for Owens,,Affirmative,Online jail records list no attorney for Owens . 
+you,want.01,to comment with,,Affirmative,"If you do not want to comment with a social network , please consider writing a letter to the editor . "
+you,comment.01,with,,Affirmative,"If you do not want to comment with a social network , please consider writing a letter to the editor . "

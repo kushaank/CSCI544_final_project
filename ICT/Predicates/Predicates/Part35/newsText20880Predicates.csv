@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a new study,say.01,( HealthDay News ) --,,Affirmative,"SUNDAY , May 18 , 2014 ( HealthDay News ) -- Bloodstream infections -- also known as sepsis -- occur in about 10 percent of hospital patients in the United States but contribute to as many as half of all hospital deaths , a new study says . "
+Sepsis,affect.01,"750,000 hospitalized patients in",,Affirmative,"Sepsis is common , affecting as many as 750,000 hospitalized patients in the United States each year , according to the U.S. Centers for Disease Control and Prevention . "
+hospital patients in the United States,find.01,had sepsis,,Affirmative,"And in the new study , we were surprised to find that as many as one in two patients dying in U.S. hospitals had sepsis , study lead author Dr. Vincent Liu , of the Kaiser Permanente Northern California division of research , said in an ATS news release . "
+"author Dr. Vincent Liu , of",say.01,", we were surprised",,Affirmative,"And in the new study , we were surprised to find that as many as one in two patients dying in U.S. hospitals had sepsis , study lead author Dr. Vincent Liu , of the Kaiser Permanente Northern California division of research , said in an ATS news release . "
+team,track.01,data,from,Affirmative,Liu 's team tracked data from 6.5 million hospitalizations in 2010 . 
+hospital patients in the United States,find.01,had,,Affirmative,They found that as many as 52 percent of patients who died had a blood infection at the time . 
+52 percent of patients,have.03,a blood infection,,Affirmative,They found that as many as 52 percent of patients who died had a blood infection at the time . 
+patients,have.03,such infections,,Affirmative,The death rate was over 10 percent for patients who had such infections compared to only about 1 percent for those without them . 
+The investigators,find.01,hospitalizations comprised,,Affirmative,The investigators found that sepsis hospitalizations comprised more than one - fifth of all hospital charges . 
+The investigators,find.01,patients already had sepsis at,,Affirmative,"Teasing apart these findings in a similar regional study of sepsis [ deaths ] at Kaiser Permanente Northern California , we found that most patients already had sepsis at the time of hospital admission . "
+Vincent Liu,add.01,There was also,,Affirmative,"There was also a large number of patients with less severe sepsis , a group for whom treatment guidelines are less well - defined , Liu added . "
+these findings,suggest.01,could result in,,Affirmative,"The findings suggest that improved care for sepsis patients of all severity levels and in all hospital settings could result in many future lives saved , Liu concluded . "
+Vincent Liu,conclude.01,findings suggest,,Affirmative,"The findings suggest that improved care for sepsis patients of all severity levels and in all hospital settings could result in many future lives saved , Liu concluded . "
+The U.S. National Institute of,have.03,more about sepsis,,Affirmative,The U.S. National Institute of General Medical Sciences has more about sepsis . 
+Copyright,©.01,2014 HealthDay,,Affirmative,Copyright © 2014 HealthDay . 

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+A,shoot.03,a dog,,Affirmative,"GULFPORT , Mississippi -- A convicted felon was arrested on a weapons charge after he shot a dog in his Gulfport yard and an off - duty Jackson County Sheriff 's Deputy reported him to Gulfport police . "
+Deputy,report.01,an off-duty Jackson County Sheriff 's Deputy,to,Affirmative,"GULFPORT , Mississippi -- A convicted felon was arrested on a weapons charge after he shot a dog in his Gulfport yard and an off - duty Jackson County Sheriff 's Deputy reported him to Gulfport police . "
+police,respond.01,to,,Affirmative,"According to Gulfport Police Chief Leonard Papania , police responded to a report of shots fired in the 500 block of Harvey Avenue Friday afternoon . "
+"duty deputy ,",advise.01,Ivey had shot,,Affirmative,"Upon arrival , officers spoke with the off - duty deputy , who advised that 42 - year - old Christopher George Ivey had shot a dog and later placed a .22 caliber rifle in his residence . "
+old Christopher George Ivey,shoot.03,a dog,,Affirmative,"Upon arrival , officers spoke with the off - duty deputy , who advised that 42 - year - old Christopher George Ivey had shot a dog and later placed a .22 caliber rifle in his residence . "
+old Christopher George Ivey,place.01,caliber rifle,in,Affirmative,"Upon arrival , officers spoke with the off - duty deputy , who advised that 42 - year - old Christopher George Ivey had shot a dog and later placed a .22 caliber rifle in his residence . "
+by,arrest.01,42-year-old Christopher George Ivey,for Possession of,Affirmative,"After further investigation , it was learned Ivey was a convicted felon and he was arrested for Possession of a Weapon by a Felon . "
+by,set.01,"15,000 bond set by",,Affirmative,"Ivey is being held in the Harrison County Adult Detention Center under a $ 15,000 bond set by Justice Court Judge Louise D. Ladner . "

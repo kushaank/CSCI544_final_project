@@ -1,0 +1,22 @@
+1	The	the	DT	_	2	det	_
+2	three	#crd#	CD	_	5	nsubjpass	5:A1=PPT
+3	were	be	VBD	_	5	auxpass	_
+4	each	each	DT	_	5	dep	_
+5	sentenced	sentence	VBN	pb=sentence.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=PRD
+7	three	#crd#	CD	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	year	year	NN	_	11	nn	_
+10	jail	jail	NN	_	11	nn	_
+11	terms	term	NNS	_	6	pobj	_
+12	after	after	IN	_	5	prep	5:AM-TMP
+13	being	be	VBG	_	14	auxpass	_
+14	convicted	convict	VBN	pb=convict.01	12	pcomp	_
+15	for	for	IN	_	14	prep	14:A2=CAU
+16	bribery	bribery	NN	_	15	pobj	_
+17	in	in	IN	_	14	prep	14:AM-LOC
+18	an	an	DT	_	20	det	_
+19	infrastructure	infrastructure	NN	_	20	nn	_
+20	project	project	NN	_	17	pobj	_
+21	.	.	.	_	5	punct	_
+

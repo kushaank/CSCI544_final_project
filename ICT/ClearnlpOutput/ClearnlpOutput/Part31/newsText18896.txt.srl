@@ -1,0 +1,54 @@
+1	Work	work	NNP	p2=NN	3	nsubjpass	3:A1=PPT;5:A1=PPT
+2	is	be	VBZ	_	3	auxpass	_
+3	expected	expect	VBN	pb=expect.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	begin	begin	VB	pb=begin.01	3	xcomp	3:C-A1
+6	soon	soon	RB	_	5	advmod	5:AM-TMP
+7	on	on	IN	_	5	prep	5:AM-LOC
+8	the	the	DT	_	12	det	_
+9	new	new	JJ	_	12	amod	_
+10	Kulm	kulm	NNP	_	12	nn	_
+11	Public	public	NNP	_	12	nn	_
+12	School	school	NNP	_	7	pobj	15:A0=PAG
+13	that	that	WDT	_	15	nsubj	15:R-A0
+14	will	will	MD	_	15	aux	15:AM-MOD
+15	combine	combine	VB	pb=combine.01	12	rcmod	_
+16	both	both	CC	p2=DT	19	preconj	_
+17	the	the	DT	_	19	det	_
+18	high	high	JJ	_	19	amod	_
+19	school	school	NN	_	15	dobj	15:A1=PPT
+20	and	and	CC	_	19	cc	_
+21	elementary	elementary	JJ	_	22	amod	_
+22	school	school	NN	_	19	conj	_
+23	into	into	IN	_	15	prep	15:A2=PPT
+24	the	the	DT	_	27	det	_
+25	current	current	JJ	_	27	amod	_
+26	elementary	elementary	JJ	_	27	amod	_
+27	school	school	NN	_	23	pobj	_
+28	at	at	IN	_	15	prep	15:AM-TMP
+29	217	0	CD	_	30	num	_
+30	2nd	#ord#	NN	p2=JJ	32	nn	_
+31	Avenue	avenue	NNP	p2=NN	32	nn	_
+32	Southeast	southeast	NNP	_	28	pobj	_
+33	.	.	.	_	3	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

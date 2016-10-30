@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+2 drug peddlers,hold.01,police have arrested,,Affirmative,"2 drug peddlers held : The police have arrested two drug peddlers and seized 6,000 intoxicant tablets and illicit liquor from them . "
+The police,arrest.01,two drug peddlers,,Affirmative,"2 drug peddlers held : The police have arrested two drug peddlers and seized 6,000 intoxicant tablets and illicit liquor from them . "
+The police,seize.01,"6,000 intoxicant tablets",,Affirmative,"2 drug peddlers held : The police have arrested two drug peddlers and seized 6,000 intoxicant tablets and illicit liquor from them . "
+The police,illicit.01,liquor,from them,Affirmative,"2 drug peddlers held : The police have arrested two drug peddlers and seized 6,000 intoxicant tablets and illicit liquor from them . "
+"The SSP ,",say.01,police intercepted,,Affirmative,"The SSP , Gurmeet Singh Chauhan , said the police intercepted Kulwinder Singh alias Happy of Mandi Gobindgarh at a barricade and seized intoxicant tablets and capsules from him . "
+The police,intercept.01,alias Happy of,,Affirmative,"The SSP , Gurmeet Singh Chauhan , said the police intercepted Kulwinder Singh alias Happy of Mandi Gobindgarh at a barricade and seized intoxicant tablets and capsules from him . "
+The police,seize.01,intoxicant tablets and capsules,from him,Affirmative,"The SSP , Gurmeet Singh Chauhan , said the police intercepted Kulwinder Singh alias Happy of Mandi Gobindgarh at a barricade and seized intoxicant tablets and capsules from him . "
+Gurmeet Singh Chauhan,supply.01,drugs,to agents in,Affirmative,He used to supply drugs to agents in rural areas . 
+The police,arrest.01,Bachitar Singh of,,Affirmative,The police also arrested Bachitar Singh of Mandi Gobindgarh and seized 82 bottles of illicit liquor from him . 
+The police,seize.01,82 bottles of,from him,Affirmative,The police also arrested Bachitar Singh of Mandi Gobindgarh and seized 82 bottles of illicit liquor from him . 
+The police,arrest.01,three persons on,,Affirmative,2 held with illicit liquor : The police have arrested three persons on the charge of possessing illicit liquor and poppy husk . 
+The police,raid.01,the house of,,Affirmative,"The police raided the house of Bakhshish Singh from Bains Awan village and seized 10,500 ml of illicit liquor from him . "
+The police,seize.01,"10,500 ml of",from him,Affirmative,"The police raided the house of Bakhshish Singh from Bains Awan village and seized 10,500 ml of illicit liquor from him . "
+BBMB workshop :,organize.01,a workshop,,Affirmative,BBMB workshop : The Bhakar Beas Management Board ( BBMB ) organised a workshop on the Real Time Decision Support System ( RTDSS ) in Chandigarh on Friday . 
+The BBMB,develop.02,the system for,,Affirmative,The BBMB has developed the system for river basins of Sutlej and Beas under the World - Bank - aided hydrology project . 
+The RTDSS data,help.01,to forecast of,,Affirmative,The RTDSS data will help to forecast of water inflow at Bhakra and Pong dams and better manage river water . 

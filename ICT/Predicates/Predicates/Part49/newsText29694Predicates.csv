@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Jim Dolan,report.01,McCray talked about,,Affirmative,Jim Dolan reports Chirlane McCray talked about the challenges she faced in becoming a mother . 
+Chirlane McCray,talk.01,about,,Affirmative,Jim Dolan reports Chirlane McCray talked about the challenges she faced in becoming a mother . 
+she,face.01,the challenges,,Affirmative,Jim Dolan reports Chirlane McCray talked about the challenges she faced in becoming a mother . 
+Chirlane McCray,tell.01,she looked for reasons,York Magazine,Affirmative,Chirlane McCray tells New York Magazine she looked for reasons not to spend time with daughter Chiara when she was first born . 
+New York City 's First Lady,look.01,for reasons,,Affirmative,Chirlane McCray tells New York Magazine she looked for reasons not to spend time with daughter Chiara when she was first born . 
+New York City 's First Lady,spend.01,time,,Affirmative,Chirlane McCray tells New York Magazine she looked for reasons not to spend time with daughter Chiara when she was first born . 
+Chirlane McCray,say.01,she loves Chiara,,Affirmative,McCray says she loves Chiara but the transition to motherhood at age 40 was difficult . 
+her 19-year old daughter,love.01,Chiara when she was first born,,Affirmative,McCray says she loves Chiara but the transition to motherhood at age 40 was difficult . 
+Chirlane McCray,have.03,a life,,Affirmative,I had a life . 
+we,feel.01,guilt,,Affirmative,Will we feel guilt forevermore ? 
+Chirlane McCray,spend.02,every day,,Affirmative,But the truth is I could not spend every day with her . 
+Chirlane McCray,want.01,to do that,,Affirmative,I did n't want to do that . 
+Chirlane McCray,do.02,the truth,,Affirmative,I did n't want to do that . 
+Chirlane McCray,look.01,of,,Affirmative,"I looked of all kinds of reasons not to do it , McCray said . "
+Chirlane McCray,say.01,I looked of,,Affirmative,"I looked of all kinds of reasons not to do it , McCray said . "
+guilt forevermore,say.01,she loves,,Affirmative,"She also goes on to say she loves her daughter , loves her kids . "
+guilt forevermore,love.01,her 19-year old daughter,,Affirmative,"She also goes on to say she loves her daughter , loves her kids . "
+guilt forevermore,love.01,her kids,,Affirmative,"She also goes on to say she loves her daughter , loves her kids . "
+her daughter on YouTube,talk.01,about,,Affirmative,These comments come just months after her daughter on YouTube talked about he struggles with clinical depression and drug and alcohol abuse . 
+Chirlane McCray,struggle.02,with,,Affirmative,These comments come just months after her daughter on YouTube talked about he struggles with clinical depression and drug and alcohol abuse . 
+The mayor,support.01,an extraordinary mother,,Affirmative,The mayor was quick to support his wife . 
+de Blasio,love.01,an extraordinary mother,,Affirmative,I love my wife very deeply . 
+de Blasio,say.01,She is,,Affirmative,"She is an extraordinary mother , said de Blasio . "
+psychologist Rachel Busman,love.01,honesty,,Affirmative,Clinical psychologist Rachel Busman loves McCray 's honesty . 
+Clinical psychologist Rachel Busman,think.01,it has anything,,Affirmative,"But I do n't think it has anything to do necessarily with the child having depression later on , said Busman . "
+a parenting conversation,have.03,anything,,Affirmative,"But I do n't think it has anything to do necessarily with the child having depression later on , said Busman . "
+the child,have.03,depression,,Affirmative,"But I do n't think it has anything to do necessarily with the child having depression later on , said Busman . "
+Clinical psychologist Rachel Busman,say.01,But I do n't think,,Affirmative,"But I do n't think it has anything to do necessarily with the child having depression later on , said Busman . "
+We,want.01,to forget about dads,,Affirmative,"We do n't want to forget about dads because they 're obviously just as important she said , added that it is a parenting conversation . "
+We,forget.01,about dads,,Affirmative,"We do n't want to forget about dads because they 're obviously just as important she said , added that it is a parenting conversation . "
+Clinical psychologist Rachel Busman,add.01,that it is,,Affirmative,"We do n't want to forget about dads because they 're obviously just as important she said , added that it is a parenting conversation . "

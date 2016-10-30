@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( Reuters ) -,go.02,on strike,,Affirmative,"OSLO , May 19 ( Reuters ) - Some 1,300 cabin crew at Norwegian Air , Europe 's third - biggest budget airline , will not go on strike after a trade union and the company struck a deal , the parties said on Monday . "
+the company,strike.01,a deal,,Affirmative,"OSLO , May 19 ( Reuters ) - Some 1,300 cabin crew at Norwegian Air , Europe 's third - biggest budget airline , will not go on strike after a trade union and the company struck a deal , the parties said on Monday . "
+the parties,say.01,will not go on strike,,Affirmative,"OSLO , May 19 ( Reuters ) - Some 1,300 cabin crew at Norwegian Air , Europe 's third - biggest budget airline , will not go on strike after a trade union and the company struck a deal , the parties said on Monday . "
+the company,avoid.01,scale strike,,Affirmative,"It is clearly positive that the company has avoided a full - scale strike , said Kenneth Sivertsen , an analyst at Oslo - based brokerage Arctic Securities . "
+"Kenneth Sivertsen ,",say.01,It is clearly positive,,Affirmative,"It is clearly positive that the company has avoided a full - scale strike , said Kenneth Sivertsen , an analyst at Oslo - based brokerage Arctic Securities . "
+a full-scale strike,act.01,as,,Affirmative,The strike was acting as a dampener on bookings . 
+which unions,say.01,reduced,,Affirmative,"Besides pensions , the main contention was the airline 's decision to move its Norwegian and Danish cabin crew members into separate subsidiaries , which unions said reduced their bargaining power . "
+Norwegian Air,reach.01,an agreement,,Affirmative,"At first glance it would appear Norwegian Air had been able to reach an agreement which was not too costly for the company , Sivertsen said . "
+Kenneth Sivertsen,say.01,it would appear,,Affirmative,"At first glance it would appear Norwegian Air had been able to reach an agreement which was not too costly for the company , Sivertsen said . "
+The most important thing,look.02,Air has done that,,Affirmative,"The most important thing was to keep working conditions at a reasonable and competitive level , and it looks like Norwegian Air has done that . "
+Norwegian Air,do.02,that,,Affirmative,"The most important thing was to keep working conditions at a reasonable and competitive level , and it looks like Norwegian Air has done that . "
+Kenneth Sivertsen,say.01,So they will be able,,Affirmative,"So they will be able to grow in Europe , he said . "
+"union Parat ,",say.01,deal was reached in,,Affirmative,"Trade union Parat , which said the deal was reached in the night from Sunday to Monday , said it achieved some of its results , including collective pay agreements that are similar in both Norway and Denmark . "
+"union Parat ,",say.01,it achieved some of,,Affirmative,"Trade union Parat , which said the deal was reached in the night from Sunday to Monday , said it achieved some of its results , including collective pay agreements that are similar in both Norway and Denmark . "
+Trade union Parat,achieve.01,some of,,Affirmative,"Trade union Parat , which said the deal was reached in the night from Sunday to Monday , said it achieved some of its results , including collective pay agreements that are similar in both Norway and Denmark . "
+Trade union Parat,get.01,more say for employees on,,Affirmative,It also got more say for employees on their pensions . 
+Norwegian Air,welcome.01,an agreement which was not too costly for the company,,Affirmative,Norwegian Air welcomed the agreement . 
+employees on their pensions,reach.01,a deal,,Affirmative,"It is good we reached a deal and that we can look forward , Norwegian Air Chief Executive Bjoern Kjos said in a statement . "
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

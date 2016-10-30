@@ -1,0 +1,177 @@
+1	A	a	DT	_	2	det	_
+2	man	man	NN	_	3	nsubj	3:A0=PAG;5:A0=PAG;16:A0=PAG
+3	threatened	threaten	VBD	p2=VBN|pb=threaten.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	blow	blow	VB	pb=blow.06	3	xcomp	3:A1=PPT
+6	up	up	RP	p2=IN	5	prt	5:C-V
+7	Love	love	NNP	p2=NN	10	poss	_
+8	's	's	POS	_	7	possessive	_
+9	Truck	truck	NNP	p2=NN	10	nn	_
+10	Stop	stop	NNP	p2=VB	5	dobj	5:A1=PPT
+11	and	and	CC	_	10	cc	_
+12	travel	travel	NN	p2=VBP	14	nn	_
+13	center Sunday	center sunday	NNP	p2=''	14	nn	_
+14	evening	evening	NN	_	10	conj	_
+15	,	,	,	_	3	punct	_
+16	earning	earn	VBG	pb=earn.01	3	advcl	_
+17	him a	him a	NN	p2=PRP$	18	nn	_
+18	trip	trip	NN	_	16	dobj	16:A1=PPT
+19	to	to	IN	_	16	prep	16:A2=GOL
+20	jail	jail	NN	_	19	pobj	_
+21	.	.	.	_	3	punct	_
+
+1	At	at	IN	_	2	advmod	_
+2	around	around	RB	p2=IN	0	root	_
+3	6:50 p.m	0 p.m	LS	p2=CD	1	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	,	,	,	_	12	punct	_
+2	police went	police went	NNP	p2=JJ	9	nn	_
+3	to	to	IN	_	2	prep	_
+4	Love	love	NNP	_	3	pobj	_
+5	's	's	POS	_	4	possessive	_
+6	,	,	,	_	9	punct	_
+7	3211	0	CD	_	9	num	_
+8	S.	s.	NNP	p2=NN	9	nn	_
+9	Newberry	newberry	NNP	_	12	nsubj	12:A0=PAG
+10	,	,	,	_	9	punct	_
+11	to	to	TO	_	12	aux	_
+12	check	check	VB	pb=check.01	35	ccomp	_
+13	out	out	RP	_	12	prt	12:C-V
+14	a	a	DT	_	15	det	_
+15	report	report	NN	_	12	dobj	12:A1=LOC
+16	that	that	IN	p2=WDT	35	complm	_
+17	a	a	DT	_	18	det	_
+18	man was	man was	NNS	p2=NNP	9	appos	19:A0=PAG
+19	claiming	claim	VBG	pb=claim.01	18	partmod	_
+20	he	he	PRP	_	23	nsubj	25:A0=PAG
+21	was	be	VBD	_	23	aux	_
+22	"	"	``	_	23	punct	_
+23	going	go	VBG	pb=go.04	19	ccomp	19:A1=PPT
+24	to	to	TO	p2=IN	25	aux	_
+25	blow	blow	VB	pb=blow.06	23	xcomp	_
+26	the	the	DT	_	27	det	_
+27	place	place	NN	_	25	dobj	25:A1=PPT
+28	up	up	RP	p2=RB	25	prt	25:C-V
+29	,	,	,	_	35	punct	_
+30	"	"	``	p2=''	35	punct	_
+31	police	police	NNS	p2=NN	32	nn	_
+32	spokesman	spokesman	NN	p2=VBP	34	nn	_
+33	Rodney	rodney	NNP	_	34	nn	_
+34	Brown	brown	NNP	_	35	nsubj	35:A0
+35	said	say	VBD	pb=say.01	0	root	_
+36	.	.	.	_	35	punct	_
+
+1	Officers	officer	NNS	_	2	nsubj	2:A0=PAG;5:A0=PAG
+2	arrested	arrest	VBN	p2=VBD|pb=arrest.01	0	root	_
+3	Tzakis	tzakis	NNPS	p2=NNP	2	dobj	2:A1=PPT
+4	and	and	CC	_	2	cc	_
+5	charged	charge	VBD	p2=VBN|pb=charge.05	2	conj	_
+6	him	him	PRP	_	5	dobj	8:A0=PAG;5:A1=PPT
+7	with	with	IN	_	5	prep	5:A2=PRD
+8	making	make	VBG	pb=make.01	7	pcomp	_
+9	terroristic	terroristic	JJ	p2=NN	10	amod	_
+10	threats	threat	NNS	_	8	dobj	8:A1=PRD
+11	.	.	.	_	2	punct	_
+
+1	 Tzakis	 tzakis	NNP	p2=NNS	2	nsubj	7:A0=PAG;13:A0=PAG;2:A1=PPT
+2	climbed	climb	VBD	pb=climb.02	24	ccomp	24:A1=PPT
+3	inside	inside	IN	p2=RB	2	prep	2:AM-DIR
+4	his	his	PRP$	_	5	poss	_
+5	vehicle	vehicle	NN	_	3	pobj	_
+6	to	to	TO	_	7	aux	_
+7	get	get	VB	pb=get.01	2	advcl	2:AM-PRP
+8	his	his	PRP$	_	9	poss	_
+9	ID	id	NNP	p2=NN	7	dobj	7:A1=PPT
+10	,	,	,	_	2	punct	_
+11	but	but	CC	_	2	cc	_
+12	then	then	RB	_	13	advmod	13:AM-TMP
+13	refused	refuse	VBD	pb=refuse.01	2	conj	_
+14	to	to	TO	_	15	aux	_
+15	get	get	VB	pb=get.05	13	xcomp	13:A1=PPT
+16	out	out	RP	p2=RB	15	prt	15:A2=GOL
+17	and	and	CC	_	15	cc	_
+18	"	"	``	_	19	punct	_
+19	became	become	VBD	pb=become.01	15	conj	_
+20	non-compliant	non-compliant	JJ	_	19	acomp	19:A2=PRD
+21	,	,	,	_	24	punct	_
+22	"	"	''	_	24	punct	_
+23	Brown	brown	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	.	.	.	_	24	punct	_
+
+1	Eventually	eventually	RB	_	3	advmod	3:AM-TMP
+2	police	police	NN	p2=NNS	3	nsubj	3:A0=PAG
+3	got	get	VBD	pb=get.05	0	root	_
+4	him	him	PRP	_	3	dobj	3:A1=PPT
+5	out	out	IN	_	3	prep	3:A2=GOL
+6	of	of	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	vehicle	vehicle	NN	_	6	pobj	_
+9	,	,	,	_	3	punct	_
+10	and	and	CC	_	3	cc	_
+11	after	after	IN	_	16	prep	16:AM-TMP
+12	a	a	DT	_	14	det	_
+13	brief	brief	JJ	p2=NN	14	amod	_
+14	struggle	struggle	NN	_	11	pobj	_
+15	,	,	,	_	16	punct	_
+16	 handcuffed	 handcuffed	VBD	p2=NFP|pb= handcuffed.01	3	conj	_
+17	him	him	PRP	_	16	dobj	16:A1
+18	and	and	CC	_	17	cc	_
+19	took him	took him	NNP	p2=VB	17	conj	_
+20	to	to	IN	_	16	prep	16:A2
+21	the	the	DT	_	24	det	_
+22	Lincoln	lincoln	NNP	_	23	nn	_
+23	County	county	NNP	_	24	nn	_
+24	jail	jail	NN	_	20	pobj	_
+25	.	.	.	_	16	punct	_
+
+1	 For	 for	IN	p2=CC	8	prep	8:AM-LOC
+2	his	his	PRP$	_	3	poss	_
+3	trouble	trouble	NN	_	1	pobj	_
+4	,	,	,	_	8	punct	_
+5	he	he	PRP	_	8	nsubjpass	8:A1=PPT
+6	was	be	VBD	_	8	auxpass	_
+7	also	also	RB	_	8	advmod	8:AM-DIS
+8	charged	charge	VBN	pb=charge.05	0	root	_
+9	with	with	IN	_	8	prep	8:A2=PRD
+10	felony	felony	NN	p2=JJ	11	nn	_
+11	assault	assault	NN	_	9	pobj	_
+12	on	on	IN	_	11	prep	_
+13	a	a	DT	_	15	det	_
+14	police	police	NN	_	15	nn	_
+15	officer	officer	NN	_	12	pobj	_
+16	,	,	,	_	20	punct	_
+17	third	#ord#	JJ	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	degree	degree	NN	_	20	nn	_
+20	assault	assault	NN	_	15	conj	_
+21	and	and	CC	_	20	cc	_
+22	resisting	resist	VBG	p2=JJ|pb=resist.01	23	amod	_
+23	arrest	arrest	NN	_	20	conj	22:A1=PPT
+24	.	.	.	_	8	punct	_
+
+1	Bond	bond	NN	p2=NNP	3	nsubjpass	3:A1=PPT
+2	is	be	VBZ	_	3	auxpass	_
+3	set	set	VBN	pb=set.01	0	root	_
+4	at	at	IN	_	3	prep	3:A2=LOC
+5	$	$	$	_	6	nmod	_
+6	10,000	0	CD	_	4	pobj	_
+7	,	,	,	_	3	punct	_
+8	according	accord	VBG	_	3	prep	3:AM-ADV
+9	to	to	IN	_	8	prep	_
+10	sheriff	sheriff	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	records	record	NNS	_	9	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	©	©	IN	p2=VBD	1	prep	_
+3	2014	0	CD	_	2	pobj	_
+4	northplattebulletin.com	#url#	ADD	_	1	appos	_
+5	-	-	HYPH	p2=:	4	punct	_
+6	All	all	DT	p2=NNP	7	det	_
+7	rights	right	NNS	_	4	appos	8:A1=PPT
+8	reserved	reserve	VBN	p2=VBD|pb=reserve.01	7	partmod	_
+9	.	.	.	_	1	punct	_
+

@@ -1,0 +1,46 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+their neighbors,think.01,they 'd won,,Affirmative,"NEW PALTZ , N.Y. ( AP ) - For all the screaming and carrying on , their neighbors thought they 'd won the lottery . "
+their neighbors,win.01,the lottery,,Affirmative,"NEW PALTZ , N.Y. ( AP ) - For all the screaming and carrying on , their neighbors thought they 'd won the lottery . "
+cash,have.03,three young roommates raising,,Affirmative,"But it was a lumpy old sofa stuffed with $ 40,000 in cash that had three young roommates raising a ruckus . "
+three young roommates raising,raise.01,a ruckus,,Affirmative,"But it was a lumpy old sofa stuffed with $ 40,000 in cash that had three young roommates raising a ruckus . "
+three young roommates raising a ruckus,pull.01,envelopes and envelopes,,Affirmative,"We just pulled out envelopes and envelopes , said Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City . "
+"Cally Guasti ,",say.01,We just pulled out envelopes and envelopes,,Affirmative,"We just pulled out envelopes and envelopes , said Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City . "
+a social worker with Family of Woodstock,share.01,an apartment with,,Affirmative,"We just pulled out envelopes and envelopes , said Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City . "
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",tell.01,had bought,The Associated Press,Affirmative,Guasti told The Associated Press on Thursday that she and her friends had bought the beat - up couch and a chair for $ 55 at a Salvation Army thrift shop in March . 
+she and,buy.01,up couch,,Affirmative,Guasti told The Associated Press on Thursday that she and her friends had bought the beat - up couch and a chair for $ 55 at a Salvation Army thrift shop in March . 
+she and her friends,notice.01,cushions were,,Affirmative,They noticed the arm cushions were weirdly lumpy . 
+State University of,open.01,a zipper,,Affirmative,"Then , one night in April , one of them , State University of New York at New Paltz student Reese Werkhoven , opened a zipper on one arm and found an envelope . "
+State University of,find.01,an envelope,,Affirmative,"Then , one night in April , one of them , State University of New York at New Paltz student Reese Werkhoven , opened a zipper on one arm and found an envelope . "
+"one night in April , one of them , State University of New York at New Paltz student Reese Werkhoven",contain.01,"$ 4,000 in",,Affirmative,"It contained $ 4,000 in bubble - wrapped bills . "
+"Guasti , Werkhoven and",open.01,the other arm zipper,,Affirmative,"Guasti , Werkhoven and roommate Lara Russo opened the other arm zipper and started mining the treasure stashed inside . "
+"Guasti , Werkhoven and",start.01,mining,,Affirmative,"Guasti , Werkhoven and roommate Lara Russo opened the other arm zipper and started mining the treasure stashed inside . "
+"Guasti , Werkhoven and",mine.01,the treasure stashed inside,,Affirmative,"Guasti , Werkhoven and roommate Lara Russo opened the other arm zipper and started mining the treasure stashed inside . "
+"Guasti , Werkhoven and roommate Lara Russo",count.01,the other arm zipper,,Affirmative,"They counted it up : $ 40,800 . "
+roommate Lara Russo,say.01,"Honestly , I was",,Affirmative,"Honestly , I was a little overwhelmed , Russo said . "
+roommate Lara Russo,want.01,to put it back in,,Affirmative,I wanted to put it back in the couch and like re-find it in the morning when I can process it better . 
+roommate Lara Russo,put.01,a little,back in,Affirmative,I wanted to put it back in the couch and like re-find it in the morning when I can process it better . 
+roommate Lara Russo,process.01,a little,,Affirmative,I wanted to put it back in the couch and like re-find it in the morning when I can process it better . 
+Gausti,say.01,they spread,,Affirmative,Gausti said they spread the money on the bed and started counting . 
+re-find,spread.01,the money,,Affirmative,Gausti said they spread the money on the bed and started counting . 
+re-find,start.01,counting,,Affirmative,Gausti said they spread the money on the bed and started counting . 
+Gausti,say.01,"And we were screaming ,",,Affirmative,"And we were screaming , she said In the morning , our neighbors were like , ' We thought you won the lottery . "
+re-find,think.01,you won,,Affirmative,"And we were screaming , she said In the morning , our neighbors were like , ' We thought you won the lottery . "
+you,win.01,the lottery,,Affirmative,"And we were screaming , she said In the morning , our neighbors were like , ' We thought you won the lottery . "
+Reese Werkhoven,call.02,a woman 's,,Affirmative,Werkhoven called her the next morning . 
+a woman 's,say.01,I have,,Affirmative,"She said , ' I have a lot of money in that couch and I really need it , ' Guasti said . "
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",have.03,a lot of money,,Affirmative,"She said , ' I have a lot of money in that couch and I really need it , ' Guasti said . "
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",need.01,a lot of money in that couch,,Affirmative,"She said , ' I have a lot of money in that couch and I really need it , ' Guasti said . "
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",say.01,"She said , '",,Affirmative,"She said , ' I have a lot of money in that couch and I really need it , ' Guasti said . "
+They,give.01,the cash,her,Affirmative,She cried in gratitude when they gave her the cash she had hidden away . 
+the elderly woman,hide.01,the cash,,Affirmative,She cried in gratitude when they gave her the cash she had hidden away . 
+family,donate.01,the beat-up couch,to,Affirmative,The woman 's family had donated the couch to the Salvation Army while she was having health problems . 
+The woman 's family,have.03,health problems,,Affirmative,The woman 's family had donated the couch to the Salvation Army while she was having health problems . 
+"Werkhoven , of",say.01,It 's not,,Affirmative,"It 's not our money , said Werkhoven , of New York City . "
+They,have.03,any right to it,,Affirmative,We did n't have any right to it . 
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",say.01,cash simply was n't theirs,,Affirmative,Guasti said the cash simply was n't theirs . 
+"Cally Guasti , a social worker with Family of Woodstock who shares an apartment with two friends in New Paltz , 75 miles north of New York City",think.01,", it would have felt",,Affirmative,"I think if any of us had used it , it would have felt really wrong . "
+any of us,use.01,the cash,,Affirmative,"I think if any of us had used it , it would have felt really wrong . "
+the cash,feel.01,really wrong,,Affirmative,"I think if any of us had used it , it would have felt really wrong . "
+We,reserve.01,the right,,Affirmative,"We reserve the right to remove any comment we feel is spammy , NSFW , defamatory , rude , or reckless to the community . "
+We,feel.02,"is spammy , NSFW , defamatory , rude , or reckless to",,Affirmative,"We reserve the right to remove any comment we feel is spammy , NSFW , defamatory , rude , or reckless to the community . "
+We,expect.01,everyone to be respectful of,,Affirmative,We expect everyone to be respectful of other commenters . 

@@ -1,0 +1,193 @@
+1	rhetoric	rhetoric	NN	_	0	root	_
+2	and	and	CC	_	1	cc	_
+3	tactics	tactic	NNS	_	1	conj	_
+4	of	of	IN	_	3	prep	_
+5	repression	repression	NN	_	4	pobj	_
+6	from	from	IN	_	5	prep	_
+7	a	a	DT	_	9	det	_
+8	five-decade-old	five-decade-old	JJ	p2=CD	9	amod	_
+9	dictatorship	dictatorship	NN	_	6	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	Cuba	cuba	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Today	today	NN	_	3	npadvmod	3:AM-TMP
+2	there	there	EX	_	3	expl	_
+3	's	be	VBZ	pb=be.02	0	root	_
+4	an	an	DT	_	5	det	_
+5	alternative	alternative	NN	_	3	attr	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	me	me	PRP	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	its	its	PRP$	_	5	poss	_
+4	executive	executive	JJ	p2=NN	5	amod	_
+5	director	director	NN	_	1	conj	_
+6	.	.	.	_	1	punct	_
+
+1	$	$	$	_	2	nmod	_
+2	500,000	0	CD	_	0	root	_
+3	in	in	IN	_	2	prep	_
+4	taxpayer	taxpayer	NN	_	5	nn	_
+5	dollars	dollar	NNS	_	3	pobj	_
+6	not	not	RB	_	8	neg	_
+7	long	long	RB	_	8	advmod	_
+8	ago	ago	RB	_	2	advmod	_
+9	.	.	.	_	2	punct	_
+
+1	we	we	PRP	_	4	nsubj	4:A0=PAG
+2	can	can	MD	_	4	aux	4:AM-MOD
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	ignore	ignore	VB	pb=ignore.01	0	root	_
+5	them	them	PRP	_	4	dobj	4:A1=PPT
+6	.	.	.	_	4	punct	_
+
+1	in	in	IN	_	0	root	_
+2	place	place	NN	_	1	pobj	_
+3	.	.	.	_	1	punct	_
+
+1	fueling	fuel	VBG	pb=fuel.01	0	root	_
+2	greater	great	JJR	_	3	amod	_
+3	changes	change	NNS	_	1	dobj	1:A1=GOL
+4	than	than	IN	_	7	mark	_
+5	we	we	PRP	_	7	nsubj	7:A0
+6	had	have	VBD	_	7	aux	_
+7	seen	see	VBN	pb=see.01	3	advcl	_
+8	in	in	IN	_	7	prep	7:AM-TMP
+9	the	the	DT	_	12	det	_
+10	last	last	JJ	_	12	amod	_
+11	five	#crd#	CD	_	12	num	_
+12	decades	decade	NNS	_	8	pobj	_
+13	.	.	.	_	1	punct	_
+
+1	American	american	JJ	_	2	amod	_
+2	people	people	NNS	_	0	root	_
+3	by	by	IN	_	2	prep	_
+4	imposing	impose	VBG	pb=impose.01	3	pcomp	_
+5	a	a	DT	_	7	det	_
+6	false	false	JJ	_	7	amod	_
+7	choice	choice	NN	_	4	dobj	4:A1=PPT
+8	over	over	IN	_	7	prep	_
+9	Cuba	cuba	NNP	_	10	nn	_
+10	policy	policy	NN	_	8	pobj	_
+11	for	for	IN	_	4	prep	4:AM-TMP
+12	decades	decade	NNS	_	11	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	hear	hear	VB	pb=hear.01	8	advcl	8:A1=PPT
+3	them	them	PRP	_	4	nsubj	4:A0=PAG
+4	tell	tell	VB	pb=tell.01	2	ccomp	2:A1
+5	it	it	PRP	_	4	dobj	4:A1=PPT
+6	,	,	,	_	8	punct	_
+7	it	it	PRP	_	8	nsubj	_
+8	's	be	VBZ	pb=be.01	0	root	_
+9	all	all	DT	p2=RB	8	attr	8:A2=PRD
+10	or	or	CC	_	9	cc	_
+11	nothing	nothing	NN	_	9	conj	_
+12	,	,	,	_	11	punct	_
+13	pro-embargo	pro-embargo	JJ	p2=NNP	11	conj	_
+14	or	or	CC	_	13	cc	_
+15	pro-Castro	pro-castro	JJ	_	13	conj	_
+16	,	,	,	_	15	punct	_
+17	debate	debate	NN	p2=VB	11	conj	_
+18	,	,	,	_	8	punct	_
+19	and	and	CC	_	8	cc	_
+20	we	we	PRP	_	21	nsubj	21:A0=PAG
+21	reject	reject	VBP	pb=reject.01	8	conj	_
+22	it	it	PRP	_	21	dobj	21:A1=PPT
+23	.	.	.	_	21	punct	_
+
+1	help	help	NN	p2=VB	2	nsubj	2:A0=PAG
+2	strengthen	strengthen	VB	pb=strengthen.01	0	root	_
+3	Cuban	cuban	JJ	_	5	amod	_
+4	civil	civil	JJ	_	5	amod	_
+5	society	society	NN	_	2	dobj	2:A1=PPT
+6	.	.	.	_	2	punct	_
+
+1	travel	travel	NN	p2=VBP	2	nn	_
+2	ban	ban	NN	_	0	root	_
+3	and	and	CC	_	2	cc	_
+4	increasing	increase	VBG	p2=JJ|pb=increase.01	5	amod	_
+5	support	support	NN	_	2	conj	4:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	independent	independent	JJ	_	9	amod	_
+8	Cuban	cuban	JJ	_	9	amod	_
+9	entrepreneurs	entrepreneur	NNS	_	6	pobj	_
+10	.	.	.	_	2	punct	_
+
+1	like	like	IN	p2=UH	0	root	_
+2	the	the	DT	_	3	det	_
+3	one	#crd#	NN	p2=CD	1	pobj	5:A0=PAG
+4	that	that	WDT	_	5	nsubj	5:R-A0
+5	stained	stain	VBD	pb=stain.01	3	rcmod	_
+6	these	these	DT	_	7	det	_
+7	pages	page	NNS	_	5	dobj	5:A1=GOL
+8	.	.	.	_	1	punct	_
+
+1	fresh	fresh	JJ	_	2	amod	_
+2	ideas	idea	NNS	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	After	after	RB	_	2	advmod	_
+2	all	all	RB	_	18	advmod	18:AM-DIS
+3	,	,	,	_	18	punct	_
+4	if	if	IN	_	6	mark	_
+5	we	we	PRP	_	6	nsubj	6:A0=PAG;8:A0=PAG
+6	want	want	VBP	pb=want.01	18	advcl	18:AM-ADV
+7	to	to	TO	_	8	aux	_
+8	promote	promote	VB	pb=promote.02	6	xcomp	6:A1=PPT
+9	freedom	freedom	NN	_	8	dobj	8:A1=PPT
+10	of	of	IN	_	9	prep	_
+11	speech	speech	NN	_	10	pobj	_
+12	in	in	IN	_	11	prep	_
+13	Cuba	cuba	NNP	_	12	pobj	_
+14	,	,	,	_	18	punct	_
+15	no	no	DT	_	16	det	_
+16	one	#crd#	NN	p2=PRP	18	nsubj	18:A0=PAG
+17	should	should	MD	_	18	aux	18:AM-MOD
+18	trample	trample	VB	pb=trample.01	0	root	_
+19	on	on	IN	_	18	prep	18:A1=PPT
+20	it	it	PRP	_	19	pobj	_
+21	in	in	IN	_	18	prep	18:AM-LOC
+22	America	america	NNP	_	21	pobj	_
+23	.	.	.	_	18	punct	_
+
+1	organization	organization	NN	_	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Online	online	NNP	p2=RB	0	root	_
+2	at	at	IN	_	1	prep	_
+3	www.cubanow.us	#url#	ADD	_	2	pobj	_
+4	and	and	CC	_	3	cc	_
+5	@	@	IN	p2=,	1	prep	_
+6	Cuba_Now	cuba_now	NNP	_	5	pobj	_
+7	on	on	IN	_	6	prep	_
+8	Twitter	twitter	NNP	p2=JJR	7	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG;11:A0=PAG
+2	run	run	VBP	pb=run.01	0	root	_
+3	various	various	JJ	_	4	amod	_
+4	sites	site	NNS	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	defense	defense	NN	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	human	human	JJ	_	9	amod	_
+9	rights	right	NNS	_	7	pobj	_
+10	and	and	CC	_	2	cc	_
+11	need	need	VBP	p2=VB|pb=need.01	2	conj	_
+12	support	support	NN	_	11	dobj	11:A1=PPT
+13	to	to	TO	_	14	aux	_
+14	pay	pay	VB	pb=pay.01	12	infmod	_
+15	for	for	IN	_	14	prep	14:A3=PPT
+16	more	more	RBR	p2=JJR	17	advmod	_
+17	powerful	powerful	JJ	_	18	amod	_
+18	servers	server	NNS	_	15	pobj	_
+19	.	.	.	_	2	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+

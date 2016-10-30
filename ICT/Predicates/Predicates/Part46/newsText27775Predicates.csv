@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+DOTHAN POST -,claim.01,the life of,,Affirmative,"DOTHAN POST - A two - vehicle crash yesterday , May 19 , claimed the life of a Dothan man . "
+Adrain Carroll,drive.01,the 2005 Chevy 2500 truck,,Affirmative,"Adrain Carroll , 31 , was killed when the 2005 Chevy 2500 truck he was driving struck a 2007 Peterbilt . "
+the 2005 Chevy 2500 truck,strike.05,a 2007 Peterbilt,,Affirmative,"Adrain Carroll , 31 , was killed when the 2005 Chevy 2500 truck he was driving struck a 2007 Peterbilt . "
+Adrain Carroll,wear.01,a seat belt at,,Affirmative,Carroll was not wearing a seat belt at the time of the crash . 
+UPDATE :,release.01,the identity of,,Affirmative,UPDATE : 7:32 p.m. The Houston County Coroner has released the identity of the man killed in Monday afternoon 's accident . 
+"Adrian Carroll , 32 ,",drive.01,a Pepsi truck,,Affirmative,"Adrian Carroll , 32 , was driving a Pepsi truck on Rt . "
+his car,collide.01,with,,Affirmative,231 South when his car collided with an 18 - wheeler . 
+a Pepsi truck,run.02,into,,Affirmative,It appears a Pepsi truck ran into the back of an 18 - wheeler . 

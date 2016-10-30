@@ -1,0 +1,53 @@
+1	If	if	IN	_	3	mark	_
+2	you	you	PRP	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	8	advcl	_
+4	already	already	RB	_	3	advmod	3:AM-TMP
+5	a	a	DT	_	6	det	_
+6	subscriber	subscriber	NN	_	3	attr	3:A2=PRD
+7	,	,	,	_	8	punct	_
+8	log	log	NN	p2=VB	0	root	_
+9	in	in	IN	p2=RP	8	prep	_
+10	using	use	VBG	pb=use.01	9	pcomp	_
+11	the	the	DT	_	13	det	_
+12	login	login	JJ	p2=NN	13	amod	_
+13	tab	tab	NN	_	10	dobj	10:A1=PPT
+14	in	in	IN	_	10	prep	10:AM-LOC
+15	the	the	DT	_	16	det	_
+16	box	box	NN	_	14	pobj	_
+17	on	on	IN	_	10	prep	_
+18	your	your	PRP$	_	19	poss	_
+19	right	right	NN	p2=JJ	17	pobj	_
+20	.	.	.	_	8	punct	_
+
+1	Become	become	VB	p2=VBP|pb=become.01	0	root	_
+2	a	a	DT	_	3	det	_
+3	BusinessGreen	businessgreen	NNP	p2=NN	1	attr	1:A2=PRD
+4	Plus	plus	CC	p2=NNP	5	nn	_
+5	member	member	NN	_	1	conj	_
+6	for	for	IN	_	5	prep	_
+7	unlimited	unlimited	JJ	_	8	amod	_
+8	access	access	NN	_	6	pobj	_
+9	to	to	IN	_	8	prep	_
+10	our	our	PRP$	_	12	poss	_
+11	exclusive	exclusive	JJ	_	12	amod	_
+12	range	range	NN	_	9	pobj	_
+13	of	of	IN	_	12	prep	_
+14	in-depth	in-depth	JJ	_	15	amod	_
+15	articles	article	NNS	_	24	nn	_
+16	and	and	CC	_	15	cc	_
+17	reports	report	NNS	_	15	conj	_
+18	,	,	,	_	24	punct	_
+19	full	full	JJ	_	20	amod	_
+20	archive	archive	NN	_	24	nn	_
+21	and	and	CC	_	20	cc	_
+22	priority	priority	NN	_	20	conj	_
+23	event	event	NN	_	24	nn	_
+24	invitations	invitation	NNS	_	13	pobj	_
+25	.	.	.	_	1	punct	_
+
+1	 	 	TO	p2=``	2	aux	_
+2	Find	find	VB	pb=find.03	0	root	_
+3	out	out	RP	_	2	prt	2:C-V
+4	more	more	JJR	p2=RBR	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+

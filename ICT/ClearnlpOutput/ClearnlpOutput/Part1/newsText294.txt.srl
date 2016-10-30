@@ -1,0 +1,26 @@
+1	A	a	DT	_	3	det	_
+2	relentless	relentless	JJ	_	3	amod	_
+3	crackdown	crackdown	NN	_	0	root	_
+4	on	on	IN	_	3	prep	_
+5	Morsi	morsi	NNP	_	9	poss	_
+6	's	's	POS	_	5	possessive	_
+7	mostly	mostly	RB	_	8	advmod	_
+8	Islamist	islamist	JJ	_	9	amod	_
+9	backers	backer	NNS	_	4	pobj	_
+10	since	since	IN	_	14	mark	_
+11	his	his	PRP$	_	12	poss	_
+12	ouster	ouster	NN	_	14	nsubj	14:A0=PAG;21:A0
+13	has	have	VBZ	_	14	aux	_
+14	killed	kill	VBN	pb=kill.01	3	advcl	_
+15	more	more	JJR	_	17	amod	_
+16	than	than	IN	_	17	quantmod	_
+17	1,400	0	CD	_	18	num	_
+18	people	people	NNS	_	14	dobj	14:A1=PPT
+19	,	,	,	_	14	punct	_
+20	and	and	CC	_	14	cc	_
+21	seen	see	VBN	pb=see.01	14	conj	_
+22	15,000	0	CD	_	23	num	_
+23	others	other	NNS	_	24	nsubj	24:A1=PPT
+24	jailed	jail	VBN	pb=jail.01	21	ccomp	21:A1
+25	.	.	.	_	3	punct	_
+

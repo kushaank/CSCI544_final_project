@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+grade teacher for,try.01,to kill,,Affirmative,"A former fourth - grade teacher for Minneapolis Public Schools , accused of trying to kill his stepson with an ax , pleaded guilty Monday to second - degree assault . "
+grade teacher for,kill.01,his stepson,with,Affirmative,"A former fourth - grade teacher for Minneapolis Public Schools , accused of trying to kill his stepson with an ax , pleaded guilty Monday to second - degree assault . "
+grade teacher for,plead.02,guilty,to,Affirmative,"A former fourth - grade teacher for Minneapolis Public Schools , accused of trying to kill his stepson with an ax , pleaded guilty Monday to second - degree assault . "
+"the stepson ,",use.01,credit card,to charge,Affirmative,"James was angry that the stepson , who lived in the basement of his mother 's and stepfather 's St. Paul home , had used James ' credit card to charge $ 150 worth of Android games , according to the criminal complaint . "
+I,grab.01,an ax,,Affirmative,"Well , I grabbed an ax out of the garage , and I tried to kill my wife 's son , James told police , according to the complaint . "
+I,try.01,to kill,,Affirmative,"Well , I grabbed an ax out of the garage , and I tried to kill my wife 's son , James told police , according to the complaint . "
+I,kill.01,son,,Affirmative,"Well , I grabbed an ax out of the garage , and I tried to kill my wife 's son , James told police , according to the complaint . "
+I,swing.02,the ax,,Affirmative,"I swung the ax at him , and I wanted to kill the ( expletive ) and I missed . "
+I,want.01,to kill,,Affirmative,"I swung the ax at him , and I wanted to kill the ( expletive ) and I missed . "
+I,kill.01,the ( expletive ),,Affirmative,"I swung the ax at him , and I wanted to kill the ( expletive ) and I missed . "
+Mark Revere James,hit.01,him,,Affirmative,"After demanding that the stepson leave , James hit him in the face with the ax , the complaint said . "
+spokeswoman Larissa Mavros,say.01,James is,,Affirmative,"James is no longer employed with Minneapolis Public Schools , spokeswoman Larissa Mavros said . "

@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+nodes,witness.01,exponential growth rates in cars,,Affirmative,"Tessenderlo , Belgium - Local interconnect network ( LIN ) nodes are witnessing exponential growth rates in cars , resulting in master modules controlling multiple LIN buses . "
+master modules controlling,control.01,multiple LIN buses,,Affirmative,"Tessenderlo , Belgium - Local interconnect network ( LIN ) nodes are witnessing exponential growth rates in cars , resulting in master modules controlling multiple LIN buses . "
+Melexis Inc. .,introduce.02,a new generation of 2 and,,Affirmative,To address this growing need for multi LIN transceiver systems Melexis introduces a new generation of 2 and 4 - channel LIN transceiver IC . 
+The MLX80002/4,reduce.01,system costs of,by,Affirmative,"The MLX80002/4 can reduce system costs of the LIN physical layer by 20 % compared to multiple single transceiver ICs found in , for example , a body control module ( BCM ) . "
+The MLX80002/4,extend.01,existing product line of,,Affirmative,The MLX80002/4 extends Melexis ' existing product line of LIN transceivers and system basis chips . 
+the LIN bus itself,continue.01,its successful adoption in,,Affirmative,The LIN bus continues its successful adoption in automotive and industrial applications with the release of LIN version 2.x and the release of SAE J2602 networking specification . 
+BCMs,manage.01,different LIN bus sub-systems,,Affirmative,"As a consequence of this successful implementation of many different LIN applications , there is a need for BCMs to manage different LIN bus sub-systems at the same time . "
+The MLX80002/4,combine.01,LIN transceivers,,Affirmative,The MLX80002/4 combines two or respectively four LIN transceivers on one die and is functionally backward compatible to the current reference standard ; MLX80001 . 
+The MLX80002/4,enable.01,cost,,Affirmative,It enables the development of simpler and more cost effective multi-LIN network master modules . 
+termination resistors and,reduce.01,system costs of the LIN physical layer,further,Affirmative,Integrated 1kOhm LIN master termination resistors and decoupling diodes further reduce system costs . 
+The MLX80002/4 design,have.03,remarkable robustness,,Affirmative,The MLX80002/4 design has remarkable robustness when subjected to the injection of high frequency disturbances . 
+4-channel LIN transceiver IC,achieve.01,best ESD robustness,,Affirmative,It is fully compatible with the demands of all OEMs and achieves world 's best ESD robustness . 
+The MLX80002/4,meet.02,the automotive temperature range of,,Affirmative,"The MLX80002/4 meets the automotive temperature range of - 40°C to 125°C and has on - chip protection against over-temperature , 40V load dump and LIN short to ground . "
+The MLX80002/4,have.03,"chip protection against over-temperature ,",,Affirmative,"The MLX80002/4 meets the automotive temperature range of - 40°C to 125°C and has on - chip protection against over-temperature , 40V load dump and LIN short to ground . "
+integrated security mechanism like,increase.01,the LIN bus availability,,Affirmative,"Further integrated security mechanism like RXD timeout , TxD timeout and sleep timer increases the LIN bus availability in case of fault conditions . "
+a space saving,save.01,RoHS compliant package,,Affirmative,Qualified samples are available and come in a space saving 24 - pin QFN 4x4 RoHS compliant package . 
+"Melexis Microelectronic Integrated Systems N.V. ( Euronext Brussels:MELE ) imagines ,",deliver.01,signal integrated circuits,,Affirmative,"Melexis Microelectronic Integrated Systems N.V. ( Euronext Brussels:MELE ) imagines , creates and delivers innovative mixed signal integrated circuits . "
+Melexis ICs,drive.01,green solutions,,Affirmative,Melexis ICs are driving green solutions that enable our customers to bring more energy efficient automotive systems to market . 
+green solutions,enable.01,to bring,our customers,Affirmative,Melexis ICs are driving green solutions that enable our customers to bring more energy efficient automotive systems to market . 
+our customers,bring.01,more energy efficient automotive systems,to market,Affirmative,Melexis ICs are driving green solutions that enable our customers to bring more energy efficient automotive systems to market . 
+Melexis product portfolio,address.02,4 classes of ICs,,Affirmative,"Melexis product portfolio addresses 4 classes of ICs ; Sensor , Optoelectronic , Wireless and Actuators . "
+Optoelectronic products,encompass.01,"linear arrays ,",,Affirmative,"Optoelectronic products encompass linear arrays , single point sensors , infrared thermometers and CMOS wide dynamic range and night vision cameras . "

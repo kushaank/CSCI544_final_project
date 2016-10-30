@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A police officer,use.01,a Taser,to subdue,Affirmative,PETERBOROUGH - A police officer used a Taser to subdue an unruly man at the Big Apple convenience store on Sunday evening . 
+A police officer,subdue.01,an unruly man,,Affirmative,PETERBOROUGH - A police officer used a Taser to subdue an unruly man at the Big Apple convenience store on Sunday evening . 
+Chief Scott Guinard,say.01,went to,,Affirmative,"Police Chief Scott Guinard said officers Ashley Pepelis and Martin Kolb went to the store at about 7:50 p.m. , after getting a call about two men inside whose loud behavior and profane language had alarmed store clerks and customers . "
+officers Ashley Pepelis and,get.01,a call about,,Affirmative,"Police Chief Scott Guinard said officers Ashley Pepelis and Martin Kolb went to the store at about 7:50 p.m. , after getting a call about two men inside whose loud behavior and profane language had alarmed store clerks and customers . "
+two men inside,alarm.01,store clerks and customers,,Affirmative,"Police Chief Scott Guinard said officers Ashley Pepelis and Martin Kolb went to the store at about 7:50 p.m. , after getting a call about two men inside whose loud behavior and profane language had alarmed store clerks and customers . "
+Police Chief Scott Guinard,say.01,officers spoke to,,Affirmative,Guinard said the officers spoke to the men and asked them to calm down . 
+the officers,ask.02,to calm down,them,Affirmative,Guinard said the officers spoke to the men and asked them to calm down . 
+Police Chief Scott Guinard,say.01,Keller resisted after,,Affirmative,Guinard said Keller resisted after being told he was being placed under arrest and Pepelis used her Taser to control him . 
+Ashley Pepelis,use.01,a Taser,to control him,Affirmative,Guinard said Keller resisted after being told he was being placed under arrest and Pepelis used her Taser to control him . 
+Ashley Pepelis,control.01,Police Chief Scott Guinard,,Affirmative,Guinard said Keller resisted after being told he was being placed under arrest and Pepelis used her Taser to control him . 
+Police Chief Scott Guinard,say.01,witnessed,,Affirmative,Guinard said a number of customers and workers inside the store witnessed the arrests and the store 's security cameras also recorded the incident . 
+a number of customers and workers inside,witness.01,the arrests and,,Affirmative,Guinard said a number of customers and workers inside the store witnessed the arrests and the store 's security cameras also recorded the incident . 
+a number of customers and workers inside,record.01,the incident,,Affirmative,Guinard said a number of customers and workers inside the store witnessed the arrests and the store 's security cameras also recorded the incident . 

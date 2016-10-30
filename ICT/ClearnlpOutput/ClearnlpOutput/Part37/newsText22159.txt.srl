@@ -1,0 +1,22 @@
+1	Jurors	jurors	NNP	p2=NNS	3	nsubj	3:A0=PAG
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	found	find	VBD	pb=find.01	0	root	_
+4	that	that	IN	_	6	complm	_
+5	Apple	apple	NNP	_	6	nsubj	6:A0=PAG;11:A0
+6	violated	violate	VBD	pb=violate.01	3	ccomp	3:A1=PPT
+7	a	a	DT	_	9	det	_
+8	Samsung	samsung	NNP	_	9	nn	_
+9	patent	patent	NN	_	6	dobj	6:A1=PPT
+10	and	and	CC	_	6	cc	_
+11	said	say	VBD	pb=say.01	6	conj	_
+12	Apple	apple	NNP	_	14	nsubj	14:A0=PAG
+13	should	should	MD	_	14	aux	14:AM-MOD
+14	pay	pay	VB	pb=pay.01	11	ccomp	11:A1=PPT
+15	its	its	PRP$	_	17	poss	_
+16	rival	rival	JJ	p2=NN	17	amod	_
+17	USD	usd	NN	p2=NNP	14	dobj	14:A1=VSP
+18	158,400	0	CD	_	17	num	_
+19	in	in	IN	_	18	prep	_
+20	damages	damage	NNS	_	19	pobj	_
+21	.	.	.	_	3	punct	_
+

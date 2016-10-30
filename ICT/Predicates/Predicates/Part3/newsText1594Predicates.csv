@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Sudanese immigrant living in,try.01,to save,,Affirmative,"A Sudanese immigrant living in New Hampshire has returned to Sudan to try to save his wife , who is eight months pregnant and facing the death penalty there for marrying a Christian . "
+the Sudanese government,sentence.01,"His wife , Meriam Yehya Ibrahim Ishag",to death,Affirmative,"Daniel Wani is a Sudanese man with U.S. citizenship who has been living in Manchester , N.H. His wife , Meriam Yehya Ibrahim Ishag , became the focus of worldwide news reports last week after the Sudanese government sentenced her to death . "
+The Islamic court,consider.01,a Muslim,,Affirmative,"The Islamic court considered Ishag a Muslim and did not recognize her marriage to Wani , a Christian . "
+The Islamic court,recognize.01,her marriage,"to Wani ,",Affirmative,"The Islamic court considered Ishag a Muslim and did not recognize her marriage to Wani , a Christian . "
+The Islamic court,constitute.01,a crime of adultery,,Affirmative,That constituted a crime of adultery and she was sentenced to receive 100 lashes . 
+"His wife , Meriam Yehya Ibrahim Ishag",receive.01,100 lashes,,Affirmative,That constituted a crime of adultery and she was sentenced to receive 100 lashes . 
+The Islamic court,find.01,her guilty of apostasy,,Affirmative,The court also found her guilty of apostasy by converting to Christianity and sentencing her to be hanged . 
+"His wife , Meriam Yehya Ibrahim Ishag",give.01,birth,,Affirmative,The flogging and the death penalty were to be delayed until after she gave birth . 
+by,consider.01,Muslim,,Affirmative,"Ishag is considered Muslim by Sudan 's courts because her father was Muslim , though she raised by her Christian mother . "
+Daniel Wani,tell.01,that Daniel has returned to Sudan,affiliate WMUR,Affirmative,Gabriel told ABC News affiliate WMUR that Daniel has returned to Sudan to try and save his wife 's life . 
+Daniel Wani,save.02,life,,Affirmative,Gabriel told ABC News affiliate WMUR that Daniel has returned to Sudan to try and save his wife 's life . 
+The U.S.,condemn.01,court ruling,,Affirmative,"The U.S. condemned Sudan 's court ruling last week , with both the State Department and the White House calling on Sudan to uphold its human rights commitments . "
+both the State Department and,uphold.01,rights commitments,,Affirmative,"The U.S. condemned Sudan 's court ruling last week , with both the State Department and the White House calling on Sudan to uphold its human rights commitments . "
+"U.S. Sen. Kelly Ayotte ,",represent.01,New Hampshire,,Affirmative,"U.S. Sen. Kelly Ayotte , who represents New Hampshire , has asked Secretary of State John Kerry to grant Ishag political asylum . "
+"U.S. Sen. Kelly Ayotte ,",ask.02,to grant Ishag,John Kerry,Affirmative,"U.S. Sen. Kelly Ayotte , who represents New Hampshire , has asked Secretary of State John Kerry to grant Ishag political asylum . "
+John Kerry,grant.01,political asylum,Ishag,Affirmative,"U.S. Sen. Kelly Ayotte , who represents New Hampshire , has asked Secretary of State John Kerry to grant Ishag political asylum . "
+The Sudan Tribune,report.01,downplayed,,Affirmative,"The Sudan Tribune reported over the weekend that the country 's parliament speaker , al - Fatih Izz Al - Din , downplayed the death sentence and said it was only preliminary and could be appealed in the future . "
+"parliament speaker ,",downplay.01,the death sentence,,Affirmative,"The Sudan Tribune reported over the weekend that the country 's parliament speaker , al - Fatih Izz Al - Din , downplayed the death sentence and said it was only preliminary and could be appealed in the future . "
+"parliament speaker ,",say.01,it was,,Affirmative,"The Sudan Tribune reported over the weekend that the country 's parliament speaker , al - Fatih Izz Al - Din , downplayed the death sentence and said it was only preliminary and could be appealed in the future . "

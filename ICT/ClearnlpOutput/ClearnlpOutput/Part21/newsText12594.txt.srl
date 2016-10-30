@@ -1,0 +1,72 @@
+1	Ready	ready	JJ	_	0	root	_
+2	to	to	TO	_	3	aux	_
+3	subscribe	subscribe	VB	pb=subscribe.02	1	xcomp	_
+4	to	to	IN	_	3	prep	3:A1=PPT
+5	the	the	DT	_	8	det	_
+6	Naples	naples	NNP	_	8	nn	_
+7	Daily	daily	NNP	_	8	nn	_
+8	News	news	NNP	_	4	pobj	_
+9	?	?	.	_	1	punct	_
+
+1	Choose	choose	VB	pb=choose.01	0	root	_
+2	between	between	IN	_	1	prep	1:A2=DIR
+3	a	a	DT	_	4	det	_
+4	Premium	premium	NNP	_	2	pobj	_
+5	or	or	CC	_	4	cc	_
+6	Digital	digital	NNP	p2=JJ	7	nn	_
+7	subscription	subscription	NN	_	4	conj	_
+8	below	below	RB	p2=NN	7	advmod	_
+9	.	.	.	_	1	punct	_
+
+1	Need	need	VBN	p2=VB|pb=need.01	0	root	_
+2	Help	help	VB	p2=NNP	1	dobj	1:A1=PPT
+3	?	?	.	_	1	punct	_
+
+1	Call	call	VB	pb=call.02	0	root	_
+2	us	us	PRP	_	1	dobj	1:A1=PPT
+3	at	at	IN	_	1	prep	1:AM-TMP
+4	1-888-878-6842	0	CD	_	3	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Want	want	VBP	p2=VB|pb=want.01	0	root	_
+2	to	to	TO	_	3	aux	_
+3	participate	participate	VB	pb=participate.01	1	xcomp	1:A1=PPT
+4	in	in	IN	_	3	prep	3:A1=PPT
+5	the	the	DT	_	6	det	_
+6	conversation	conversation	NN	_	4	pobj	_
+7	?	?	.	_	1	punct	_
+
+1	Log	log	VB	p2=VBP|pb=log.01	0	root	_
+2	in	in	IN	p2=RP	1	prt	1:C-V
+3	or	or	CC	_	1	cc	_
+4	become	become	VB	pb=become.01	1	conj	_
+5	a	a	DT	_	6	det	_
+6	subscriber	subscriber	NN	_	4	attr	4:A2=PRD
+7	today	today	NN	_	4	npadvmod	4:AM-TMP
+8	.	.	.	_	1	punct	_
+
+1	Subscribers	subscriber	NNS	_	3	nsubj	3:A0=PAG;5:A0=PAG
+2	can	can	MD	_	3	aux	3:AM-MOD;5:AM-MOD
+3	read	read	VB	pb=read.01	0	root	_
+4	and	and	CC	_	3	cc	_
+5	comment	comment	VB	pb=comment.01	3	conj	_
+6	on	on	IN	_	5	prep	5:A1=PPT
+7	any	any	DT	_	8	det	_
+8	story	story	NN	_	6	pobj	_
+9	,	,	,	_	3	punct	_
+10	anytime	anytime	RB	_	3	advmod	3:AM-MNR
+11	.	.	.	_	3	punct	_
+
+1	Non-subscribers	non-subscribers	NNS	_	4	nsubj	7:A0=PPT;4:A1=PPT
+2	will	will	MD	_	4	aux	4:AM-MOD
+3	only	only	RB	_	4	advmod	4:AM-ADV
+4	be	be	VB	pb=be.01	0	root	_
+5	able	able	JJ	_	4	acomp	4:A2=PRD
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	5	xcomp	_
+8	comments	comment	NNS	_	7	dobj	7:A1=PAG
+9	on	on	IN	p2=RB	8	prep	_
+10	select	select	JJ	p2=VB	11	amod	_
+11	stories	story	NNS	_	9	pobj	_
+12	.	.	.	_	4	punct	_
+

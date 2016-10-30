@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+Mayor Bill de Blasio,have.03,a tough act,,Affirmative,Mayor Bill de Blasio will have a tough act to follow when he talks tech on Monday . 
+Mayor Bill de Blasio,talk.01,tech,,Affirmative,Mayor Bill de Blasio will have a tough act to follow when he talks tech on Monday . 
+Mayor Bill de Blasio,present.01,his plan for improving,,Affirmative,"In what 's being billed as his first major speech to the city 's tech industry , de Blasio is expected to present his plan for improving broadband Internet access for New Yorkers . "
+thriving tech scene,hope.01,Blasio will discuss,,Affirmative,"Certainly , the Big Apple 's thriving tech scene is hoping de Blasio will discuss the hot topic when he gives the keynote speech at Internet Week New York . "
+de Blasio,discuss.01,the hot topic,,Affirmative,"Certainly , the Big Apple 's thriving tech scene is hoping de Blasio will discuss the hot topic when he gives the keynote speech at Internet Week New York . "
+Mayor Bill de Blasio,give.01,the keynote speech,,Affirmative,"Certainly , the Big Apple 's thriving tech scene is hoping de Blasio will discuss the hot topic when he gives the keynote speech at Internet Week New York . "
+The tech industry,drink.01,broadband,,Affirmative,"The tech industry drinks broadband like water , said Venrock partner David Pakman , who listed broadband as the city 's top priority . "
+"partner David Pakman ,",say.01,industry drinks broadband like water,,Affirmative,"The tech industry drinks broadband like water , said Venrock partner David Pakman , who listed broadband as the city 's top priority . "
+"partner David Pakman ,",list.01,broadband,as,Affirmative,"The tech industry drinks broadband like water , said Venrock partner David Pakman , who listed broadband as the city 's top priority . "
+- Investments in,use.01,fund money,,Affirmative,"- Immigration reform to lure more computer engineers to NYC ; - Increased support for existing tech hubs , including transit improvements to places like Brooklyn 's Dumbo ; - Investments in tech startups using the city 's pension fund money . "
+The Yankees,lead.01,the Angels 6-5,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+Mariano Rivera,blow.10,the save,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+"Jeter ,",hit.02,off single,,Affirmative,"Leave it to Jeter , who hits a walk - off single in the ninth inning for a 7-6 Yankees win . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

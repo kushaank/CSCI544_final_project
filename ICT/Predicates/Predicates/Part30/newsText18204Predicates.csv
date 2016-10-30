@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+IMMIGRANTS,need.01,to learn,,Affirmative,"IMMIGRANTS who come to live in Britain need to learn to speak English and to respect our way of life , Culture Secretary Sajid Javid has said . "
+IMMIGRANTS,learn.01,to speak English and,,Affirmative,"IMMIGRANTS who come to live in Britain need to learn to speak English and to respect our way of life , Culture Secretary Sajid Javid has said . "
+IMMIGRANTS,speak.01,English,,Affirmative,"IMMIGRANTS who come to live in Britain need to learn to speak English and to respect our way of life , Culture Secretary Sajid Javid has said . "
+IMMIGRANTS,respect.01,our way of life,,Affirmative,"IMMIGRANTS who come to live in Britain need to learn to speak English and to respect our way of life , Culture Secretary Sajid Javid has said . "
+"Mr Javid ,",say.01,people were entitled,,Affirmative,"Mr Javid , the son of Pakistani immigrants and the first Asian Secretary of State , said people were entitled to expect that immigrants made a contribution to society . "
+people,expect.01,that immigrants made,,Affirmative,"Mr Javid , the son of Pakistani immigrants and the first Asian Secretary of State , said people were entitled to expect that immigrants made a contribution to society . "
+people,want.01,Britain to have,,Affirmative,"People want Britain to have more control over its borders , and I think they are right , he told The Sunday Telegraph . "
+Britain,have.03,more control over,,Affirmative,"People want Britain to have more control over its borders , and I think they are right , he told The Sunday Telegraph . "
+Culture Secretary Sajid Javid,think.01,they are right,,Affirmative,"People want Britain to have more control over its borders , and I think they are right , he told The Sunday Telegraph . "
+the language of the country,open.03,new avenues,,Affirmative,Learning the language of the country I lived in was great as it opened up new avenues and enabled me to appreciate the country and its culture much more . 
+the language of the country,enable.01,to appreciate,me,Affirmative,Learning the language of the country I lived in was great as it opened up new avenues and enabled me to appreciate the country and its culture much more . 
+I,appreciate.02,the country and,,Affirmative,Learning the language of the country I lived in was great as it opened up new avenues and enabled me to appreciate the country and its culture much more . 

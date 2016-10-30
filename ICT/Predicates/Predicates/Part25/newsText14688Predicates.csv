@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Line police,ask.02,for,,Affirmative,Center Line police are asking for the public�s help in tracking down a man who robbed a PNC Bank on Van Dyke Avenue south of 10 Mile Road on Monday afternoon . 
+a man,rob.01,a PNC Bank,,Affirmative,Center Line police are asking for the public�s help in tracking down a man who robbed a PNC Bank on Van Dyke Avenue south of 10 Mile Road on Monday afternoon . 
+A man,enter.01,the bank,,Affirmative,"A man entered the bank about 12:07 p.m. and handed a note to a teller demanding money , Lt. Tom Costello said in a news release . "
+A man,hand.01,a note,to,Affirmative,"A man entered the bank about 12:07 p.m. and handed a note to a teller demanding money , Lt. Tom Costello said in a news release . "
+teller,demand.01,demanding money,,Affirmative,"A man entered the bank about 12:07 p.m. and handed a note to a teller demanding money , Lt. Tom Costello said in a news release . "
+Lt. Tom Costello,say.01,man entered,,Affirmative,"A man entered the bank about 12:07 p.m. and handed a note to a teller demanding money , Lt. Tom Costello said in a news release . "
+a note,indicate.01,robber had,,Affirmative,"The note indicated the robber had a weapon , but a gun was not seen . "
+"a black man in his mid 30s , a little over 6 feet tall , with black hair , a mustache and goatee",have.03,a weapon,,Affirmative,"The note indicated the robber had a weapon , but a gun was not seen . "
+"a black man in his mid 30s , a little over 6 feet tall , with black hair , a mustache and goatee",run.02,on,,Affirmative,"After taking the cash , the robber was last seen running northbound on Van Dyke toward 10 Mile . "
+Center Line police,say.01,Focus may have been involved in,,Affirmative,Police said a silver Ford Focus may have been involved in the heist and was last spotted in the area of 10 Mile and Hoover roads . 
+"a black man in his mid 30s , a little over 6 feet tall , with black hair , a mustache and goatee",have.03,a large diamond stud earring in,,Affirmative,He had a large diamond stud earring in his left ear . 
+Anyone with information on,call.02,Safety Department,,Affirmative,"Anyone with information on the incident is asked to call the Center Line Public Safety Department at 586-757-2200 , or Crime Stoppers of Michigan at 1-800 - SPEAK - UP or 1-800-773-2587 . "

@@ -1,0 +1,206 @@
+1	Copyright	copyright	NN	_	6	nn	_
+2	2013	0	CD	_	6	num	_
+3	Scripps	scripps	NNP	_	6	nn	_
+4	Media	media	NNP	_	6	nn	_
+5	,	,	,	_	6	punct	_
+6	Inc	inc	NNP	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	,	,	,	_	10	punct	_
+12	or	or	CC	_	10	cc	_
+13	redistributed	redistribute	VBN	p2=JJ|pb=redistribute.01	10	conj	_
+14	.	.	.	_	6	punct	_
+
+1	SARASOTA	sarasota	NNP	_	8	nsubjpass	10:A0;8:A1=PPT
+2	,	,	,	_	1	punct	_
+3	Fla	fla	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=,	5	hyph	_
+5	A	a	NNP	p2=DT	6	nn	_
+6	woman	woman	NN	_	1	appos	_
+7	was	be	VBD	_	8	auxpass	_
+8	attacked	attack	VBN	pb=attack.01	0	root	_
+9	after	after	IN	_	8	prep	8:AM-TMP
+10	leaving	leave	VBG	pb=leave.01	9	pcomp	_
+11	work	work	NN	_	10	dobj	10:A1=DIR
+12	in	in	IN	_	10	prep	10:AM-LOC
+13	Sarasota	sarasota	NNP	_	12	pobj	_
+14	on	on	IN	_	10	prep	10:AM-TMP
+15	Saturday	saturday	NNP	_	14	pobj	_
+16	.	.	.	_	8	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1
+2	happened	happened	VBD	pb=happen.01	0	root	_
+3	on	on	IN	_	2	prep	2:AM-LOC
+4	the	the	DT	_	6	det	_
+5	300	0	CD	_	6	num	_
+6	block	block	NN	_	3	pobj	_
+7	of	of	IN	_	6	prep	_
+8	Cocoanut	cocoanut	NNP	_	9	nn	_
+9	Avenue	avenue	NNP	_	7	pobj	_
+10	in	in	IN	_	9	prep	_
+11	Sarasota	sarasota	NNP	_	10	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	 	 	,	p2=CC	15	punct	_
+2	According	accord	VBG	_	15	prep	15:AM-ADV
+3	to	to	IN	_	2	prep	_
+4	a	a	DT	_	5	det	_
+5	release	release	NN	_	3	pobj	_
+6	by	by	IN	_	5	prep	_
+7	the	the	DT	_	10	det	_
+8	Sarasota	sarasota	NNP	_	10	nn	_
+9	Police	police	NNP	p2=NNPS	10	nn	_
+10	Department	department	NNP	_	6	pobj	_
+11	,	,	,	_	15	punct	_
+12	the	the	DT	_	13	det	_
+13	woman	woman	NN	_	15	nsubj	15:A0
+14	was	be	VBD	_	15	aux	_
+15	leaving	leave	VBG	pb=leave.01	0	root	_
+16	work	work	NN	_	15	dobj	15:A1=DIR
+17	at	at	IN	_	15	prep	15:AM-TMP
+18	approximately	approximately	RB	_	19	advmod	_
+19	11:30	0	CD	_	20	num	_
+20	p.m.	p.m.	NN	_	17	pobj	_
+21	Saturday	saturday	NNP	_	15	npadvmod	15:AM-TMP
+22	.	.	.	_	15	punct	_
+
+1	The	the	DT	_	2	det	_
+2	victim	victim	NN	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	a	a	DT	_	6	det	_
+5	black	black	JJ	_	6	amod	_
+6	male	male	NN	_	7	nsubj	7:A0=PAG
+7	asked	ask	VBD	p2=VBN|pb=ask.01	3	ccomp	3:A1=PPT
+8	if	if	IN	_	11	complm	_
+9	he	he	PRP	_	11	nsubj	11:A0=PAG
+10	could	could	MD	_	11	aux	11:AM-MOD
+11	use	use	VB	pb=use.01	7	ccomp	7:A1=PPT
+12	her	her	PRP$	_	13	poss	_
+13	phone	phone	NN	_	11	dobj	11:A1=PPT
+14	.	.	.	_	3	punct	_
+
+1	 	 	``	p2=:	4	punct	_
+2	He	he	PRP	p2=NNP	4	nsubj	4:A0=PAG;7:A0=PAG
+3	then	then	RB	_	4	advmod	4:AM-TMP;7:AM-TMP
+4	grabbed	grab	VBD	pb=grab.01	0	root	_
+5	her	her	PRP	_	4	dobj	4:A1=PPT
+6	and	and	CC	_	4	cc	_
+7	threw	throw	VBD	pb=throw.01	4	conj	_
+8	her	her	PRP	_	7	dobj	7:A1=PPT
+9	to	to	IN	_	7	prep	7:A2=GOL
+10	the	the	DT	_	11	det	_
+11	ground	ground	NN	_	9	pobj	_
+12	.	.	.	_	4	punct	_
+
+1	The	the	DT	_	2	det	_
+2	victim	victim	NN	_	3	nsubj	6:A0=PAG;3:A1=PPT
+3	was	be	VBD	pb=be.01	0	root	_
+4	able	able	JJ	_	3	acomp	3:A2=PRD
+5	to	to	TO	_	6	aux	_
+6	get	get	VB	pb=get.05	4	xcomp	_
+7	away	away	RB	p2=RP	6	advmod	6:C-V
+8	.	.	.	_	3	punct	_
+
+1	 	 	NNP	p2=``	2	nn	_
+2	Citizens	citizen	NNPS	p2=NNP	3	nsubj	3:A0=PAG
+3	chased	chase	VBD	pb=chase.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	man	man	NN	_	3	dobj	3:A1=PPT
+6	,	,	,	_	3	punct	_
+7	but	but	CC	_	3	cc	_
+8	they	they	PRP	_	11	nsubj	11:A0=PAG
+9	could	could	MD	_	11	aux	11:AM-MOD
+10	not	not	RB	_	11	neg	11:AM-NEG
+11	catch	catch	VB	pb=catch.03	3	conj	_
+12	him	him	PRP	_	11	dobj	11:A1=PPT
+13	.	.	.	_	11	punct	_
+
+1	The	the	DT	_	2	det	_
+2	suspect	suspect	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	described	describe	VBN	pb=describe.01	0	root	_
+5	as	as	IN	_	4	prep	4:A2=PRD
+6	a	a	DT	_	8	det	_
+7	black	black	JJ	p2=NN	8	amod	_
+8	male	male	NN	_	5	pobj	_
+9	in	in	IN	_	8	prep	_
+10	his	his	PRP$	_	13	poss	_
+11	late	late	JJ	_	13	amod	_
+12	20	0	CD	_	13	num	_
+13	s	s	NNS	p2=NN	9	pobj	_
+14	or	or	CC	_	13	cc	_
+15	30	0	CD	_	16	num	_
+16	s	s	NNS	p2=NN	13	conj	_
+17	with	with	IN	_	16	prep	_
+18	short	short	JJ	_	20	amod	_
+19	braided	braided	JJ	p2=VBN	20	amod	_
+20	hair	hair	NN	_	17	pobj	_
+21	and	and	CC	_	20	cc	_
+22	a	a	DT	_	25	det	_
+23	little	little	JJ	_	25	amod	_
+24	facial	facial	JJ	_	25	amod	_
+25	hair	hair	NN	_	20	conj	_
+26	.	.	.	_	4	punct	_
+
+1	 	 	``	p2=IN	5	punct	_
+2	He	he	PRP	p2=NNP	5	nsubjpass	6:A0=PAG;5:A1
+3	was	be	VBD	_	5	auxpass	_
+4	last	last	RB	p2=JJ	5	advmod	5:AM-TMP
+5	seen	see	VBN	pb=see.01	0	root	_
+6	wearing	wear	VBG	pb=wear.01	5	xcomp	5:C-A1
+7	a	a	DT	_	11	det	_
+8	black	black	JJ	_	9	amod	_
+9	zippered	zippered	NN	p2=JJ	11	nn	_
+10	fleece	fleece	NN	p2=FW	11	nn	_
+11	jacket	jacket	NN	_	6	dobj	6:A1=PPT
+12	,	,	,	_	11	punct	_
+13	white	white	JJ	_	14	amod	_
+14	shirt	shirt	NN	_	11	conj	_
+15	and	and	CC	_	14	cc	_
+16	blue	blue	JJ	_	17	amod	_
+17	jeans	jeans	NNS	p2=NNPS	14	conj	_
+18	.	.	.	_	5	punct	_
+
+1	Copyright	copyright	NN	_	6	nn	_
+2	2014	0	CD	_	6	num	_
+3	Scripps	scripps	NNP	_	6	nn	_
+4	Media	media	NNP	_	6	nn	_
+5	,	,	,	_	6	punct	_
+6	Inc	inc	NNP	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	,	,	,	_	10	punct	_
+12	or	or	CC	_	10	cc	_
+13	redistributed	redistribute	VBN	p2=JJ|pb=redistribute.01	10	conj	_
+14	.	.	.	_	6	punct	_
+

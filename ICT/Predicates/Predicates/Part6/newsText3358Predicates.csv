@@ -1,0 +1,70 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"The victim , 32",tell.01,that as he was driving north on,police,Affirmative,"The victim , 32 , told police that as he was driving north on Ebenezer Road , a man in a white truck pulled up behind him , flashing his lights and blowing his horn , according to a Rock Hill police report . "
+a man in,flash.01,his lights,,Affirmative,"The victim , 32 , told police that as he was driving north on Ebenezer Road , a man in a white truck pulled up behind him , flashing his lights and blowing his horn , according to a Rock Hill police report . "
+a man in,blow.09,his horn,,Affirmative,"The victim , 32 , told police that as he was driving north on Ebenezer Road , a man in a white truck pulled up behind him , flashing his lights and blowing his horn , according to a Rock Hill police report . "
+the cars,reach.01,the stoplight,,Affirmative,"Once the cars reached the stoplight at Celanese Road , the alleged combative driver began yelling at him and they exchanged words . "
+the alleged combative driver,begin.01,yelling at him,,Affirmative,"Once the cars reached the stoplight at Celanese Road , the alleged combative driver began yelling at him and they exchanged words . "
+they,exchange.01,words,,Affirmative,"Once the cars reached the stoplight at Celanese Road , the alleged combative driver began yelling at him and they exchanged words . "
+the victim,tell.01,", then pulled",police,Affirmative,"The driver , the victim told police , then pulled a gun out of his glove box and made the statement : Is this what you want ? "
+the alleged combative driver,pull.01,a gun,out of,Affirmative,"The driver , the victim told police , then pulled a gun out of his glove box and made the statement : Is this what you want ? "
+The suspect,pull.01,his car,forward,Affirmative," The suspect pulled his car forward , allowing the victim to write down his license plate number . "
+The suspect,allow.01,victim to write down,,Affirmative," The suspect pulled his car forward , allowing the victim to write down his license plate number . "
+the victim,write.01,plate number,,Affirmative," The suspect pulled his car forward , allowing the victim to write down his license plate number . "
+"The victim , 32",give.01,Police,,Affirmative,"Police went to a home on Featherstone Court , the registered address for the car , and spoke with Brian Brown , 31 , who matched the description the victim gave police . "
+Brian Brown,tell.01,victim pulled out in front of him,police,Affirmative,Brown told police the victim pulled out in front of him and then pulled into the Ebenezer Animal Hospital . 
+Brian Brown,claim.01,pulled up to him,,Affirmative,"The victim , Brown claimed , pulled up to him at the stoplight and began an argument . "
+"The victim , 32",pull.01,to him,up,Affirmative,"The victim , Brown claimed , pulled up to him at the stoplight and began an argument . "
+"The victim , 32",begin.01,an argument,,Affirmative,"The victim , Brown claimed , pulled up to him at the stoplight and began an argument . "
+Brown,admit.01,that he had,,Affirmative,"Brown admitted that he had a .45 caliber handgun , which also matched the description the victim gave officers . "
+"The victim , 32",have.03,"caliber handgun ,",,Affirmative,"Brown admitted that he had a .45 caliber handgun , which also matched the description the victim gave officers . "
+"The victim , 32",give.01,officers,,Affirmative,"Brown admitted that he had a .45 caliber handgun , which also matched the description the victim gave officers . "
+Police,confiscate.01,"the gun ,",,Affirmative,"Police confiscated the gun , which had 10 bullets in the magazine but no ammunition in the chamber . "
+"the gun ,",have.03,10 bullets in,,Affirmative,"Police confiscated the gun , which had 10 bullets in the magazine but no ammunition in the chamber . "
+Brian Brown,tell.01,he did pull,police,Affirmative,"Brown told police he did pull the handgun out , but did not point it at the victim . "
+Brian Brown,pull.02,a .45 caliber handgun,,Affirmative,"Brown told police he did pull the handgun out , but did not point it at the victim . "
+Brian Brown,want.01,to show him,,Affirmative,He only wanted to show him that he did not want any trouble . 
+Brian Brown,show.01,that he did not want,him,Affirmative,He only wanted to show him that he did not want any trouble . 
+Brian Brown,want.01,any trouble,,Affirmative,He only wanted to show him that he did not want any trouble . 
+Police,arrest.01,Brian Brown,,Affirmative,"Police arrested Brown , charging him with pointing and presenting a firearm . "
+Police,charge.05,Police,with pointing and presenting,Affirmative,"Police arrested Brown , charging him with pointing and presenting a firearm . "
+Police,present.01,a firearm,,Affirmative,"Police arrested Brown , charging him with pointing and presenting a firearm . "
+This,affect.01,comments on,,Affirmative,This affects comments on all stories . 
+The Charlotte Observer,welcome.01,your comments on news of,,Affirmative,The Charlotte Observer welcomes your comments on news of the day . 
+The Charlotte Observer,welcome.01,your comments on news of,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+us,ask.02,that you keep,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+you,keep.02,the discourse,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+Comments,bear.01,no relation to,,Affirmative,Comments that bear no relation to the story may be deleted . 
+them,violate.01,these guidelines,,Affirmative,Report them only if they violate these guidelines . 
+a comment using,use.01,all capital letters,,Affirmative,Do not post a comment using all capital letters . 
+We,monitor.01,each and,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+We,reserve.01,the right,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+We,delete.01,comments,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+comments,violate.01,these rules,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+us of violations,help.01,Notify us of violations,,Affirmative,You can help : Notify us of violations by hitting the Report Abuse link . 
+us of violations,notify.01,us,of violations,Affirmative,You can help : Notify us of violations by hitting the Report Abuse link . 
+Users,continue.01,posting comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+Users,post.01,comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+comments,violate.01,these guidelines,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+Users,submit.01,future comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+This,gratify.01,some people,,Affirmative,This will gratify some people and astonish the rest . 
+This,astonish.01,the rest,,Affirmative,This will gratify some people and astonish the rest . 
+This,affect.01,comments on,,Affirmative,This affects comments on all stories . 
+The Charlotte Observer,welcome.01,your comments on news of,,Affirmative,The Charlotte Observer welcomes your comments on news of the day . 
+The Charlotte Observer,welcome.01,your comments on news of,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+us,ask.02,that you keep,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+you,keep.02,the discourse,,Affirmative,"The Charlotte Observer welcomes your comments on news of the day , but we ask that you keep the discourse civil . "
+Comments,bear.01,no relation to,,Affirmative,Comments that bear no relation to the story may be deleted . 
+them,violate.01,these guidelines,,Affirmative,Report them only if they violate these guidelines . 
+a comment using,use.01,all capital letters,,Affirmative,Do not post a comment using all capital letters . 
+We,monitor.01,each and,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+We,reserve.01,the right,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+We,delete.01,comments,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+comments,violate.01,these rules,,Affirmative,"We do not monitor each and every posting , but we reserve the right to block or delete comments that violate these rules . "
+us of violations,help.01,Notify us of violations,,Affirmative,You can help : Notify us of violations by hitting the Report Abuse link . 
+us of violations,notify.01,us,of violations,Affirmative,You can help : Notify us of violations by hitting the Report Abuse link . 
+Users,continue.01,posting comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+Users,post.01,comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+comments,violate.01,these guidelines,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+Users,submit.01,future comments,,Affirmative,"Users who continue posting comments that violate these guidelines may , at our discretion , be blocked from submitting future comments as well . "
+This,gratify.01,some people,,Affirmative,This will gratify some people and astonish the rest . 
+This,astonish.01,the rest,,Affirmative,This will gratify some people and astonish the rest . 

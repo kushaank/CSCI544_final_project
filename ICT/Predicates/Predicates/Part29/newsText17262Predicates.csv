@@ -1,0 +1,110 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+three minutes after,position.01,his squad car,in,Affirmative,Less than three minutes after traffic officer Darren Douglas had positioned his squad car in a parking lot along West Collins Drive - in plain view of traffic on the busy street near Natrona County High School - the Casper police veteran jetted from the lot in hot pursuit of a navy blue Chevy Malibu . 
+aged woman,inform.01,Douglas,,Affirmative,"The driver of that Malibu , a middle - aged woman who later informed Douglas she is two - and - a - half months pregnant , quickly pulled into a nearby lot , where she was told her alleged infraction : driving 32 mph in a school zone . "
+traffic officer Darren Douglas,see.01,her try,,Affirmative,"Unfortunately for the expectant mother , Douglas also saw her try to stealthily sneak her seat belt on once she had pulled into the lot . "
+the expectant mother,try.01,to stealthily sneak,,Affirmative,"Unfortunately for the expectant mother , Douglas also saw her try to stealthily sneak her seat belt on once she had pulled into the lot . "
+the expectant mother,sneak.01,her seat belt,,Affirmative,"Unfortunately for the expectant mother , Douglas also saw her try to stealthily sneak her seat belt on once she had pulled into the lot . "
+fate,have.03,Another ticket .,,Affirmative,"As fate would have it , the woman 's phone , which contained her proof of insurance , she said , was dead , adding a potential third strike to the wallet on her 3 p.m. Friday commute home from work . "
+"phone ,",contain.01,her proof of insurance,,Affirmative,"As fate would have it , the woman 's phone , which contained her proof of insurance , she said , was dead , adding a potential third strike to the wallet on her 3 p.m. Friday commute home from work . "
+a middle-aged woman who later informed Douglas she is two-and-a-half months pregnant,say.01,"was dead , adding",,Affirmative,"As fate would have it , the woman 's phone , which contained her proof of insurance , she said , was dead , adding a potential third strike to the wallet on her 3 p.m. Friday commute home from work . "
+"phone ,",add.02,a potential third strike,to,Affirmative,"As fate would have it , the woman 's phone , which contained her proof of insurance , she said , was dead , adding a potential third strike to the wallet on her 3 p.m. Friday commute home from work . "
+the Casper Police Department,issue.01,"13,609 traffic citations",,Affirmative,"In 2013 , the Casper Police Department issued 13,609 traffic citations . "
+by Douglas,give.01,"Roughly 3,200 of those",,Affirmative,"Roughly 3,200 of those were given out by Douglas alone . "
+the those,say.01,people are,,Affirmative,"Yes , but most people are pretty decent , he said . "
+the those,say.01,"Glaring , yeah , that 's",,Affirmative,"Glaring , yeah , that 's pretty common , he said . "
+Douglas and,take.01,part,,Affirmative,"Beginning today , Douglas and his two traffic counterparts , officers Chris Funch and Jeremy Eastin , as well as the rest of local law enforcement will take part in what they are calling the Click It or Ticket May Mobilization . "
+federally,fund.01,funded campaign,,Affirmative,"The program is a federally funded campaign that will add 130 hours of extra high - visibility traffic enforcement from the Casper Police Department alone , according to traffic Sgt. Pete Abrams . "
+funded campaign,add.02,130 hours of,,Affirmative,"The program is a federally funded campaign that will add 130 hours of extra high - visibility traffic enforcement from the Casper Police Department alone , according to traffic Sgt. Pete Abrams . "
+"a federally funded campaign that will add 130 hours of extra high-visibility traffic enforcement from the Casper Police Department alone , according to traffic Sgt. Pete Abrams",mean.01,"officers like Douglas ,",,Affirmative,"That means officers like Douglas , whom Abrams affectionately dubbed RoboCop and a zealot , a machine and a true believer during an interview Friday morning , will be out in full force patrolling for traffic violations until the program ends June 2 . "
+traffic Sgt. Pete Abrams,dub.01,"Douglas ,",RoboCop,Affirmative,"That means officers like Douglas , whom Abrams affectionately dubbed RoboCop and a zealot , a machine and a true believer during an interview Friday morning , will be out in full force patrolling for traffic violations until the program ends June 2 . "
+traffic Sgt. Pete Abrams,say.01,department has ramped up,,Affirmative,"Abrams said the police department has ramped up traffic enforcement in recent years , especially enforcement of seat belt usage . "
+the Casper Police Department,ramp.01,traffic enforcement,,Affirmative,"Abrams said the police department has ramped up traffic enforcement in recent years , especially enforcement of seat belt usage . "
+the Casper Police Department,issue.01,57 citations,to people,Affirmative,"In 2011 , the department issued only 57 citations to people who were not wearing their seat belts . "
+people,wear.01,their seat belts,,Affirmative,"In 2011 , the department issued only 57 citations to people who were not wearing their seat belts . "
+the Casper Police Department,issue.01,"1,139",,Affirmative,"In 2013 , the department issued 1,139 . "
+Natrona County,lag.01,far behind,,Affirmative,"Still , despite the efforts in recent years , Natrona County lags far behind the state average when it comes to seat belt usage , according to data gathered by the Department of Transportation . "
+by,gather.01,data gathered by,,Affirmative,"Still , despite the efforts in recent years , Natrona County lags far behind the state average when it comes to seat belt usage , according to data gathered by the Department of Transportation . "
+a survey,show.01,were wearing,,Affirmative,"In 2013 , a survey showed that only 64 percent of observed drivers in the county were wearing seat belts on a day last year . "
+64 percent of,wear.01,their seat belts,,Affirmative,"In 2013 , a survey showed that only 64 percent of observed drivers in the county were wearing seat belts on a day last year . "
+2013,place.01,the county,in,Affirmative,That places the county in the bottom three counties in the state . 
+by,gather.01,That data,,Affirmative,"That data is gathered by trained observers who sit at well - traveled intersections , look into cars and count whether seat belts were used . "
+trained observers,look.01,into cars,,Affirmative,"That data is gathered by trained observers who sit at well - traveled intersections , look into cars and count whether seat belts were used . "
+traffic Sgt. Pete Abrams,say.01,goal is,,Affirmative,"The goal is to increase that number to 100 percent , Abrams said . "
+the Casper Police Department,do.02,the Casper Police Department,,Affirmative,One way the department does that is by focusing on enforcing traffic violations to make people think twice before speeding or not buckling up . 
+the state,address.02,belt number,,Affirmative,"The state could also address the poor seat belt number by making it a primary violation to drive without buckling up , he said . "
+traffic Sgt. Pete Abrams,say.01,state could also address,,Affirmative,"The state could also address the poor seat belt number by making it a primary violation to drive without buckling up , he said . "
+the state,allow.01,officers to pull someone over simply for,,Affirmative,That would allow officers to pull someone over simply for not wearing a seat belt . 
+"officers like Douglas , whom Abrams affectionately dubbed `` RoboCop '' and a `` zealot , a machine and a true believer '' during an interview Friday morning",pull.01,someone,over simply,Affirmative,That would allow officers to pull someone over simply for not wearing a seat belt . 
+"officers like Douglas , whom Abrams affectionately dubbed `` RoboCop '' and a `` zealot , a machine and a true believer '' during an interview Friday morning",wear.01,a seat belt,,Affirmative,That would allow officers to pull someone over simply for not wearing a seat belt . 
+an officer,have.03,another reason,,Affirmative,"Currently , being unbuckled is a secondary violation , meaning an officer must have another reason to pull over a non-belted driver and issue a ticket for that infraction , he said . "
+an officer,issue.01,a ticket for,,Affirmative,"Currently , being unbuckled is a secondary violation , meaning an officer must have another reason to pull over a non-belted driver and issue a ticket for that infraction , he said . "
+an officer,say.01,is,,Affirmative,"Currently , being unbuckled is a secondary violation , meaning an officer must have another reason to pull over a non-belted driver and issue a ticket for that infraction , he said . "
+an officer,say.01,compared with,,Affirmative,"Still , he said , the downward trend in driving fatalities last year compared with the number in 2012 is a positive sign that extra enforcement efforts , including prioritization of seat belt use , may be making an impact . "
+ He,recall.02,his record day for issuing,,Affirmative, He recalled his record day for issuing speeding tickets in Casper : 72 in a 12 - hour shift . 
+traffic officer Darren Douglas,buy.01,a Mountain Dew,,Affirmative,He stopped patrolling only once during that shift to buy a Mountain Dew and use the bathroom . 
+traffic officer Darren Douglas,say.01,I hate not being busy,,Affirmative,"I hate not being busy , he said . "
+I,hope.01,you receive,,Affirmative,I hope you receive a bonus and promotion for your hard work . 
+you,receive.01,a bonus and promotion for,,Affirmative,I hope you receive a bonus and promotion for your hard work . 
+it or ticket,abuse.01,their power,,Affirmative,Unfortunately they abuse their power . 
+they,let.01,vehicles blow by at,,Affirmative,"They pull over the wrong vehicles , they let other vehicles blow by at 60 MPH down Second street blowing their smoke and revving their engines . "
+the gods,have.03,mercy,,Affirmative,may the gods have mercy on you . 
+I,choose.01,to put myself at,,Affirmative,"If I choose to put myself at an elevated risk , that is MY choice . "
+I,put.01,myself,at,Affirmative,"If I choose to put myself at an elevated risk , that is MY choice . "
+They,enforce.01,the law,,Affirmative,They are supposed to enforce the law . 
+they,get.01,overtime,,Affirmative,"Yes , they often get overtime pay for traffic patrol . "
+this,mean.01,job is,,Affirmative,"As noted in the article , Officer Douglas 's job is a traffic officer ; this means his sole job is to enforce traffic laws . "
+This,mean.01,saving,,Affirmative,This could mean saving someone 's child from a driver who is speeding through a school zone . 
+You,state.01,seem,,Affirmative,You state that the Police here seem to have forgotten what they are supposed to be doing ... 
+the Police here,forget.01,they are supposed,,Affirmative,You state that the Police here seem to have forgotten what they are supposed to be doing ... 
+US,believe.01,that he is fulfilling,,Affirmative,I believe that he is fulfilling his position here perfectly . 
+he,fulfil.01,his position,,Affirmative,I believe that he is fulfilling his position here perfectly . 
+a town,have.03,"enforcement team ,",,Affirmative,"I 'm proud to live in a town that has a traffic enforcement team , especially one that works as hard as they do ! "
+US,wish.01,there were,,Affirmative,I wish there were approval icons for agreement ... 
+you,ticket.01,anyone for,,Affirmative,Do you ever ticket anyone for being intexticated ? 
+I,wish.01,fines were double for using,,Affirmative,"Oh , how I wish the fines were double for using your Ipad or smartphone in a school zone . "
+I,watch.01,a mother,,Affirmative,"I watched a mother in her suburban , playing on her Ipad , ripping through a school zone going 40-45 mph . "
+you,see.01,people winging around,,Affirmative,"Everyday , you see people winging around the corners - making a right on red , never ever stopping before they go . "
+people,wing.01,around,,Affirmative,"Everyday , you see people winging around the corners - making a right on red , never ever stopping before they go . "
+She,receive.01,citation,,Affirmative,"She would had never received a citation - , that 's the law . "
+I,drive.01,three blocks,,Affirmative,"As yes , I have been guilty of driving three blocks from my home to a convenience store without my seat belt on . "
+I,know.01,I should wear it,,Affirmative,I know I should wear it - but - there is a reason why the seat belt is not cit able by itself . 
+I,wear.01,it,,Affirmative,I know I should wear it - but - there is a reason why the seat belt is not cit able by itself . 
+by itself,cit.01,the seat belt,,Affirmative,I know I should wear it - but - there is a reason why the seat belt is not cit able by itself . 
+Government,have.03,the right,,Affirmative,"Government has the right to regulate private property on the outside but , not on the inside . "
+Government,regulate.01,private property,,Affirmative,"Government has the right to regulate private property on the outside but , not on the inside . "
+State 's,make.02,their own determinations,,Affirmative,And since laws of our Constitution 's Bill of Rights do allow for State 's to make their own determinations on seat belt use . 
+Legislators - Senators,make.01,legislation,,Affirmative,Our Legislators - Senators made legislation that our Governor at one time approved of as law to govern public thoroughfares . 
+they,have.03,a the citation ability for non-use of,,Affirmative,"Therefore , still forcing our law enforcement to regualte , if there is an exterior infraction of a vehicle on these same thoroughfares , they do have a the citation ability for non-use of seat belts . "
+Officer Darren Douglas,conduct.01,his duties,,Affirmative,Officer Darren Douglas conducted his duties properly . 
+US,make.01,an account,,Affirmative,I made an account just for this article . 
+I,see.01,people driving erratically,,Affirmative,"I see people driving erratically all the time , often right next to LE . "
+Common sense,have.03,no place with,,Affirmative,Common sense has no place with the local jack booted thugs . 
+the officer,recall.02,seeing in court,,Affirmative,"I have been pulled over for someone else blowing past me , which the officer did not recall seeing in court , however with the good ol ' boys club here ... "
+you,ride.01,your brakes,,Affirmative,you better ride your brakes down that hill . 
+the gods,have.03,mercy,,Affirmative,"May the gods have mercy on you if you do not , you will get pulled over ( Even if everyone else is cruising at the same speed downhill ) . "
+you,reach.01,the change,,Affirmative,you had better be damned sure you are going 20 mph BEFORE you reach the change . 
+you,have.03,officers (,,Affirmative,"There are so many more pressing issues , but you have officers ( Such as the those mentioned in this article ) who seem to get off on giving out tickets . "
+Police here,forget.01,they are supposed,,Affirmative,Police here seem to have forgotten what they are supposed to be doing ... 
+I,have.03,my seat belt on for safety,,Affirmative,Why do I have to have my seat belt on for safety yet motorcyclist do n't have to wear a helmet even though it is safer in some minds ? 
+yet motorcyclist,wear.01,a helmet,,Affirmative,Why do I have to have my seat belt on for safety yet motorcyclist do n't have to wear a helmet even though it is safer in some minds ? 
+Cyclist,have.03,more rights,,Affirmative,Do Cyclist have more rights than I do ? 
+I,guess.01,so,,Affirmative,I guess so . 
+I,add.01,joining ABATE to,,Affirmative,I must add joining ABATE to my list of things to do . 
+I,join.01,ABATE,,Affirmative,I must add joining ABATE to my list of things to do . 
+you,give.01,your freedoms,,Affirmative,If you give your freedoms up for the sake of safety you will have and you deserve neither . 
+you,deserve.01,neither,,Affirmative,If you give your freedoms up for the sake of safety you will have and you deserve neither . 
+I,make.02,that quote up,,Affirmative,I did n't make that quote up ; Ben Franklin did . 
+We,provide.01,this community forum,,Affirmative,We provide this community forum for readers to exchange ideas and opinions on the news of the day . 
+readers,exchange.01,ideas and opinions,,Affirmative,We provide this community forum for readers to exchange ideas and opinions on the news of the day . 
+Passionate views,point.01,criticism and,,Affirmative,"Passionate views , pointed criticism and critical thinking are welcome . "
+Moderators,monitor.01,comments with,,Affirmative,Moderators will monitor comments with an eye toward maintaining a high level of civility in this forum . 
+Our comment policy,explain.01,the rules of,,Affirmative,Our comment policy explains the rules of the road for registered commenters . 
+You,call.01,someone,"an idiot ,",Affirmative,"You called someone an idiot , a racist , a dope , a moron , etc. Please , no name - calling or profanity ( or veiled profanity -- # $ % ^ & * ) . "
+like behavior intended,hijack.01,the discussion at hand,,Affirmative,"You rambled , failed to stay on topic or exhibited troll - like behavior intended to hijack the discussion at hand . "
+YOU,shout.01,YOUR COMMENT IN,,Affirmative,YOU SHOUTED YOUR COMMENT IN ALL CAPS . 
+You,have.03,issues with,,Affirmative,You have issues with a business . 
+someone,offer.01,a comment,,Affirmative,"You included an e-mail address or phone number , pretended to be someone you are n't or offered a comment that makes no sense . "
+a comment,make.01,no sense,,Affirmative,"You included an e-mail address or phone number , pretended to be someone you are n't or offered a comment that makes no sense . "
+You,accuse.01,someone of,,Affirmative,You accused someone of a crime or assigned guilt or punishment to someone suspected of a crime . 
+someone of,assign.01,guilt or punishment,to someone suspected of,Affirmative,You accused someone of a crime or assigned guilt or punishment to someone suspected of a crime . 
+you,look.01,for,,Affirmative,"Hint : Enter a keyword that you are looking for like tires , pizza or doctors or browse the full business directory . "

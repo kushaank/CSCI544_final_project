@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Nationals,summon.01,hander Blake Treinen,from,Affirmative,"The Nationals will summon right - hander Blake Treinen from Class AAA Syracuse to take Gio Gonzalez 's place in the rotation Thursday in Pittsburgh , Manager Matt Williams said . "
+The Nationals,take.01,place in,,Affirmative,"The Nationals will summon right - hander Blake Treinen from Class AAA Syracuse to take Gio Gonzalez 's place in the rotation Thursday in Pittsburgh , Manager Matt Williams said . "
+Manager Matt Williams,say.01,Nationals will summon,,Affirmative,"The Nationals will summon right - hander Blake Treinen from Class AAA Syracuse to take Gio Gonzalez 's place in the rotation Thursday in Pittsburgh , Manager Matt Williams said . "
+right-hander Blake Treinen from Class AAA Syracuse,receive.01,the nod over,,Affirmative,"Treinen received the nod over Taylor Jordan , a member of the opening day rotation currently pitching for Syracuse . "
+right-hander Blake Treinen from Class AAA Syracuse,wow.01,spring training,,Affirmative,"Treinen wowed the Nationals all spring training , and he impressed them again in that spot start May 6 against the Dodgers . "
+right-hander Blake Treinen from Class AAA Syracuse,impress.01,The Nationals,,Affirmative,"Treinen wowed the Nationals all spring training , and he impressed them again in that spot start May 6 against the Dodgers . "
+right-hander Blake Treinen from Class AAA Syracuse,bobble.01,a ball,,Affirmative,"Treinen bobbled a ball that derailed his start , but he allowed no earned runs in five innings , striking out two and walking none . "
+a ball,derail.01,that spot start,,Affirmative,"Treinen bobbled a ball that derailed his start , but he allowed no earned runs in five innings , striking out two and walking none . "
+right-hander Blake Treinen from Class AAA Syracuse,allow.01,no earned runs in,,Affirmative,"Treinen bobbled a ball that derailed his start , but he allowed no earned runs in five innings , striking out two and walking none . "
+right-hander Blake Treinen from Class AAA Syracuse,strike.07,two,,Affirmative,"Treinen bobbled a ball that derailed his start , but he allowed no earned runs in five innings , striking out two and walking none . "
+right-hander Blake Treinen from Class AAA Syracuse,walk.01,none,,Affirmative,"Treinen bobbled a ball that derailed his start , but he allowed no earned runs in five innings , striking out two and walking none . "
+right-hander Blake Treinen from Class AAA Syracuse,allow.01,one earned run,,Affirmative,"In 11 2/3 major league innings total this year , Treinen has allowed one earned run . "
+right-hander Blake Treinen from Class AAA Syracuse,throw.01,a power sinker,,Affirmative,Treinen throws a power sinker that reaches 98 miles per hour and mixes it with a wicked curveball . 
+a power sinker,reach.01,98 miles per hour,,Affirmative,Treinen throws a power sinker that reaches 98 miles per hour and mixes it with a wicked curveball . 
+a power sinker,mix.01,98,with,Affirmative,Treinen throws a power sinker that reaches 98 miles per hour and mixes it with a wicked curveball . 
+right-hander Blake Treinen from Class AAA Syracuse,have.03,a 1.96 ERA,,Affirmative,"In six starts at Class AAA this year , Treinen has a 1.96 ERA . "
+an enhanced MRI,reveal.01,no damage beyond,,Affirmative,"But an enhanced MRI revealed no damage beyond mere inflammation , so Gonzalez should not miss much more than three turns through the rotation . "
+"Gonzalez , who landed on the disabled list Sunday with left shoulder inflammation",miss.02,three turns,through,Affirmative,"But an enhanced MRI revealed no damage beyond mere inflammation , so Gonzalez should not miss much more than three turns through the rotation . "
+The Nationals,send.01,"Ryan Mattheus ,",,Affirmative,"In order to add Treinen to the roster , the Nationals will likely send down Ryan Mattheus , who joined the Nationals as an extra arm Sunday to take Gonzalez 's roster spot . "
+"Ryan Mattheus ,",join.01,The Nationals,,Affirmative,"In order to add Treinen to the roster , the Nationals will likely send down Ryan Mattheus , who joined the Nationals as an extra arm Sunday to take Gonzalez 's roster spot . "

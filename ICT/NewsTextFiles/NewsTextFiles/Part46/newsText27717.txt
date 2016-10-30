@@ -1,0 +1,46 @@
+
+A Stanford electrical engineer has invented a way to wirelessly transfer power deep inside the body, and then use this power to run tiny electronic medical devices such as pacemakers, nerve stimulators, or new sensors and gadgets yet to be developed.
+
+The discoveries reported today in the Proceedings of the National Academy of Sciences (PNAS) culminate years of efforts by Ada Poon, an assistant professor of electrical engineering, to eliminate the bulky batteries and clumsy recharging systems that prevent medical devices from being more widely used.
+
+The technology could provide a path toward a new type of medicine that allows physicians to treat diseases with electronics rather than drugs.
+
+"We need to make these devices as small as possible to more easily implant them deep in the body and create new ways to treat illness and alleviate pain," said Poon.
+
+The article describes how Poon's team built an electronic device smaller than a grain of rice that acts as a pacemaker. It can be powered or recharged wirelessly by holding a power source about the size of a credit card above the device, outside of the body.
+
+The central discovery is an engineering breakthrough that creates a new type of wireless power transfer that can safely penetrate deep inside the body, using roughly the same power as a cell phone. As Poon writes in her article, an independent laboratory that tests cell phones found that her system fell well below the exposure levels for human safety.
+
+Her lab has tested this wireless charging system in a pig and used it to power a tiny pacemaker in a rabbit. She is currently preparing the system for testing in humans. Should such tests be approved and prove successful, it would still take several years to satisfy the safety and efficacy requirements for using this wireless charging system in commercial medical devices.
+
+Poon believes this discovery will spawn a new generation of programmable microimplants – sensors to monitor vital functions deep inside the body; electrostimulators to change neural signals in the brain; drug delivery systems to apply medicines directly to affected areas.
+
+William Newsome, director of the Stanford Neurosciences Institute, said Poon's work created the potential to develop "electroceutical" treatments as alternatives to drug therapies.
+
+Newsome, who was not involved in Poon's experiments but is familiar with her work, said such treatments could be more effective than drugs for some disorders because electroceutical approaches would implant devices near specific brain circuits to directly modulate their activity. Drugs, by comparison, act globally throughout the brain.
+
+"To make electroceuticals practical, devices must be miniaturized, and ways must be found to power them wirelessly, deep in the brain, many centimeters from the surface," said Newsome, the Harman Family Provostial Professor of Neurobiology at Stanford, adding: "The Poon lab has solved a significant piece of the puzzle for safely powering implantable microdevices, paving the way for new innovation in this field."
+
+The article describes the work of an interdisciplinary research team including John Ho and Alexander Yeh, electrical engineering graduate students in Poon's lab; Yuji Tanabe, a visiting scholar, and Ramin Beygui, M.D., an Associate Professor of Cardiothoracic Surgery at the Stanford University Medical Center.
+
+The crux of the discovery involves a new way to control electromagnetic waves inside the body.
+
+Electromagnetic waves pervade the universe. We use them every day when we broadcast signals from giant radio towers; cook in microwave ovens; or use an electric toothbrush that recharges wirelessly in a special cradle next to the bathroom sink.
+
+Before Poon's discovery, there was a clear divide between the two main types of electromagnetic waves in everyday use, called far-field and near-field waves.
+
+Far-field waves, like those broadcast from radio towers, can travel over long distances. But when they encounter biological tissue, they either reflect off the body harmlessly or get absorbed by the skin as heat. Either way, far-field electromagnetic waves have been ignored as a potential wireless power source for medical devices.
+
+Near-field waves can be safely used in wireless power systems. Some current medical devices like hearing implants use near-field technology. But their limitation is implied by the name: they can only transfer power over short distances, which tends to keep such devices close to the skin and limits their usefulness deep inside the body.
+
+What Poon did was to blend the safety of near-field waves with the reach of far-field waves. She accomplished this by taking advantage of a simple fact – waves travel differently when they come into contact with different materials such as air, water or biological tissue.
+
+For instance, when you put your ear on a railroad track, you can hear the vibration of the wheels long before the train itself because sound waves travel faster and further through metal than they do through air.
+
+With this principle in mind, Poon designed a power source that generated a special type of near-field wave. When this special wave moved from air to skin, it changed its characteristics in a way that enabled it to propagate – just like the sound waves through the train track.
+
+She called this new method mid-field wireless transfer.
+
+In the PNAS experiment, Poon used her midfield transfer system to send power directly to tiny medical implants. But it is possible to build tiny batteries into microimplants, and then recharge these batteries wirelessly using the midfield system. This is not possible with today's technologies.
+
+"With this method, we can safely transmit power to tiny implants in organs like the heart or brain, well beyond the range of current near-field systems," says Ho, a graduate student in Poon's lab and co-author on the paper.

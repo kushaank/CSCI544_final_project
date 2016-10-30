@@ -1,0 +1,82 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A report released Monday from,detail.01,the timeline,,Affirmative,A report released Monday from the Texas State Fire Marshal 's Office details the timeline from a 2013 blaze in which two Bryan firefighters lost their lives and two others were critically injured . 
+two Bryan firefighters,lose.02,their lives,,Affirmative,A report released Monday from the Texas State Fire Marshal 's Office details the timeline from a 2013 blaze in which two Bryan firefighters lost their lives and two others were critically injured . 
+firefighters Ricky Mantey and,receive.01,severe burns,,Affirmative,"Eric Wallace and Greg Pickard , while firefighters Ricky Mantey and Mitch Moran received severe burns . "
+page report,describe.01,"Pickard , Mantey and Moran",as,Affirmative,"Communication problems and firefighter staffing being less than the national standard recommendations , were among the issues cited in the 45 - page report which describes Pickard , Mantey and Moran as being engulfed in fire as they tried to rescue Wallace from the single - story wood building . "
+"Pickard , Mantey and Moran",try.01,to rescue Wallace from,,Affirmative,"Communication problems and firefighter staffing being less than the national standard recommendations , were among the issues cited in the 45 - page report which describes Pickard , Mantey and Moran as being engulfed in fire as they tried to rescue Wallace from the single - story wood building . "
+"Pickard , Mantey and Moran",rescue.01,Wallace,from,Affirmative,"Communication problems and firefighter staffing being less than the national standard recommendations , were among the issues cited in the 45 - page report which describes Pickard , Mantey and Moran as being engulfed in fire as they tried to rescue Wallace from the single - story wood building . "
+extensive evaluation of,need.01,to be done,,Affirmative,"A more extensive evaluation of a fire in which no one is inside the building needs to be done when deciding whether firefighters go into a burning building and how long they stay , the report states . "
+"the 45-page report which describes Pickard , Mantey and Moran as being engulfed in fire as they tried to rescue",state.01,needs,,Affirmative,"A more extensive evaluation of a fire in which no one is inside the building needs to be done when deciding whether firefighters go into a burning building and how long they stay , the report states . "
+Crews,report.01,heavy smoke,,Affirmative,"Crews reported heavy smoke in the unoccupied structure but some did n't recognize that the fire was spreading quickly in a concealed space in the ceiling of the building that had no windows , according to the report . "
+some,recognize.01,fire was spreading quickly in,,Affirmative,"Crews reported heavy smoke in the unoccupied structure but some did n't recognize that the fire was spreading quickly in a concealed space in the ceiling of the building that had no windows , according to the report . "
+the building,have.03,no windows,,Affirmative,"Crews reported heavy smoke in the unoccupied structure but some did n't recognize that the fire was spreading quickly in a concealed space in the ceiling of the building that had no windows , according to the report . "
+dispatchers,receive.01,"the call ,",,Affirmative,"15 , 2013 when dispatchers received the call , details communication between crews at the scene . "
+L1 and FF1,continue.01,to advance into,,Affirmative,"After meeting with E2 and T1 in the bingo room , L1 and FF1 continued to advance into the room . "
+They,see.01,fire above them,,Affirmative,"They again saw fire above them , as well as fire rolling up a wall and over their heads . "
+the firefighter,attack.01,the fire,,Affirmative,"When the firefighter attacked the fire , the fire blacked out , the visibility immediately turned to zero and the conditions became extremely hot . "
+FF1,check.01,the air gauges,,Affirmative,"FF1 checked the air gauges and determined that Lt. Wallace had one - quarter tank of air remaining , with FF1 showing amber , having a little more than one quarter . "
+FF1,determine.01,Wallace had,,Affirmative,"FF1 checked the air gauges and determined that Lt. Wallace had one - quarter tank of air remaining , with FF1 showing amber , having a little more than one quarter . "
+Eric Wallace,have.03,quarter tank of,,Affirmative,"FF1 checked the air gauges and determined that Lt. Wallace had one - quarter tank of air remaining , with FF1 showing amber , having a little more than one quarter . "
+FF1,show.01,amber,,Affirmative,"FF1 checked the air gauges and determined that Lt. Wallace had one - quarter tank of air remaining , with FF1 showing amber , having a little more than one quarter . "
+Lt. Wallace,tell.01,that they needed,FF1,Affirmative,Lt. Wallace told FF1 that they needed to get out . 
+they,need.01,to get out,,Affirmative,Lt. Wallace told FF1 that they needed to get out . 
+The firefighter,begin.01,crawling down,,Affirmative,The firefighter turned on the hose line and began crawling down the line toward the door . 
+FF1,report.01,that he felt,,Affirmative,FF1 reported that he felt Lt. Wallace behind him touching his boot or leg as they crawled on the hose line . 
+he,feel.01,Lt. Wallace,behind,Affirmative,FF1 reported that he felt Lt. Wallace behind him touching his boot or leg as they crawled on the hose line . 
+him,touch.01,his boot or leg,,Affirmative,FF1 reported that he felt Lt. Wallace behind him touching his boot or leg as they crawled on the hose line . 
+they,crawl.01,on,,Affirmative,FF1 reported that he felt Lt. Wallace behind him touching his boot or leg as they crawled on the hose line . 
+Dispatch,activate.01,alert tones,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+Command,announce.01,units to evacuate,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+all units,evacuate.01,the building,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+Dispatch,misunderstand.01,the request,,Affirmative,Dispatch misunderstood the request and instead sounded the emergency tones a second time . 
+Dispatch,sound.02,the emergency tones,,Affirmative,Dispatch misunderstood the request and instead sounded the emergency tones a second time . 
+Safety,report.01,heavy flames,,Affirmative,Safety reported heavy flames through the roof toward the C side . 
+Safety,open.01,side door,,Affirmative,At about this same time Safety opened the C - side door and then the D - side door to look inside ; in both instances he saw only heavy smoke and no fire . 
+he,see.01,only heavy smoke and,,Affirmative,At about this same time Safety opened the C - side door and then the D - side door to look inside ; in both instances he saw only heavy smoke and no fire . 
+He,leave.01,both doors,open to,Affirmative,He left both doors open to aid ventilation and to provide a means of egress should it be needed . 
+He,provide.01,a means of egress,,Affirmative,He left both doors open to aid ventilation and to provide a means of egress should it be needed . 
+Dispatch,activate.01,alert tones,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+Command,announce.01,units to evacuate,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+all units,evacuate.01,the building,,Affirmative,"When hearing and confirming the distress call from L1 , Command directed Dispatch to activate the emergency evacuation alert tones and announced on the radio for all units to evacuate the building . "
+Dispatch,misunderstand.01,the request,,Affirmative,Dispatch misunderstood the request and instead sounded the emergency tones a second time . 
+Dispatch,sound.02,the emergency tones,,Affirmative,Dispatch misunderstood the request and instead sounded the emergency tones a second time . 
+Safety,report.01,heavy flames,,Affirmative,Safety reported heavy flames through the roof toward the C side . 
+Safety,open.01,side door,,Affirmative,At about this same time Safety opened the C - side door and then the D - side door to look inside ; in both instances he saw only heavy smoke and no fire . 
+he,see.01,only heavy smoke and,,Affirmative,At about this same time Safety opened the C - side door and then the D - side door to look inside ; in both instances he saw only heavy smoke and no fire . 
+He,leave.01,both doors,open to,Affirmative,He left both doors open to aid ventilation and to provide a means of egress should it be needed . 
+He,provide.01,a means of egress,,Affirmative,He left both doors open to aid ventilation and to provide a means of egress should it be needed . 
+BC1,state.01,communications disintegrated significantly,,Affirmative,"BC1 stated during interviews that at about the same time that Lt. Wallace radioed his distress call , ground radio communications disintegrated significantly . "
+Lt. Wallace,radio.01,his distress call,,Affirmative,"BC1 stated during interviews that at about the same time that Lt. Wallace radioed his distress call , ground radio communications disintegrated significantly . "
+BC1,state.01,", there was silence or sounds indicating",,Affirmative,"BC1 stated that numerous times , while attempting to transmit on his radio , there was silence or sounds indicating no transmission . "
+by dispatch,reset.01,Emergency button activation,,Affirmative,Emergency button activation was reset by dispatch several times during the incident . 
+Command,resort.01,to,,Affirmative,Command resorted to face - to - face communication until another radio channel was utilized . 
+by most of,notice.01,The situation with,,Affirmative,The situation with the radios was inconsistently reported and was not noticed by most of the personnel interviewed . 
+Command,speak.01,face - to - face,,Affirmative,Command spoke face - to - face with Lt. Pickard ( RIT ) informing them that Lt. Wallace was out of air and directed them to go get him . 
+Lt. Wallace,direct.01,them,to go get him,Affirmative,Command spoke face - to - face with Lt. Pickard ( RIT ) informing them that Lt. Wallace was out of air and directed them to go get him . 
+them,go.05,get him,,Affirmative,Command spoke face - to - face with Lt. Pickard ( RIT ) informing them that Lt. Wallace was out of air and directed them to go get him . 
+The RIT crew of three,enter.01,the structure,,Affirmative,The RIT crew of three immediately entered the structure . 
+by Command,tell.01,E2,,Affirmative,E2 was told by Command in another face - to - face conversation that Lt. Wallace was lost and to re-enter the building and get water on the fire . 
+Lt. Wallace,re-enter.01,the building,,Affirmative,E2 was told by Command in another face - to - face conversation that Lt. Wallace was lost and to re-enter the building and get water on the fire . 
+they,see.01,no fire,,Affirmative,"When E2 re-entered , they saw no fire in the bingo room so they went back to the dance hall where they again found heavy fire . "
+they,find.01,heavy fire,,Affirmative,"When E2 re-entered , they saw no fire in the bingo room so they went back to the dance hall where they again found heavy fire . "
+They,begin.01,flowing water into,,Affirmative,They began flowing water into this area . 
+L2,discover.01,the room,,Affirmative,"After a few minutes , L2 returned to the door into the bingo room and discovered the room fully involved in fire from ceiling to floor and could clearly make out the three RIT team members dragging Lt. Wallace toward the door while engulfed in the flames . "
+the three RIT team members dragging,drag.01,Lt. Wallace,toward,Affirmative,"After a few minutes , L2 returned to the door into the bingo room and discovered the room fully involved in fire from ceiling to floor and could clearly make out the three RIT team members dragging Lt. Wallace toward the door while engulfed in the flames . "
+L2,get.01,his firefighter and,,Affirmative,L2 quickly got his firefighter and the hose line from the dance hall to the bingo room doorway and began to flow water into the bingo room in an effort to cover the rescue operation . 
+T1 and E4,re-enter.01,the building,,Affirmative,"At about this same time , T1 and E4 re-entered the building . "
+Command,ask.01,for,Engine 5,Affirmative,Command asked Engine 5 ( RIT ) for a status report and requested an evacuation tone from dispatch . 
+Command,order.01,evacuation of,,Affirmative,Command ordered evacuation of the building and asked for a status report from RIT . 
+Command,ask.02,for,,Affirmative,Command ordered evacuation of the building and asked for a status report from RIT . 
+"T1 , E2 , and",remove.01,the RIT victims,to,Affirmative,"T1 , E2 , and E4 crews removed the RIT victims to the outside where they were transported to local hospitals . "
+The ISO,assume.01,the role of EMS1,,Affirmative,The ISO returned to A side and assumed the role of EMS1 as injured firefighters were exiting the building . 
+injured firefighters,exit.01,the building,,Affirmative,The ISO returned to A side and assumed the role of EMS1 as injured firefighters were exiting the building . 
+by,conduct.01,An autopsy conducted by,,Affirmative,An autopsy conducted by the Travis County Medical Examiner 's O ffice concluded that Lt. Wallace died as a result of conflagration injuries . 
+An autopsy conducted by,conclude.01,Wallace died as,,Affirmative,An autopsy conducted by the Travis County Medical Examiner 's O ffice concluded that Lt. Wallace died as a result of conflagration injuries . 
+1,keep.02,it,Clean,Affirmative,1 Keep it Clean . 
+us,know.01,of,,Affirmative,Use the ' Report ' link on each comment to let us know of abusive posts . 
+We,love.02,to hear,,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+We,hear.01,"eyewitness accounts ,",,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+I,hope.01,problems will be addressed appropriately,,Affirmative,I hope these problems will be addressed appropriately . 
+No one,suffer.01,devastating injuries,,Affirmative,No one should died or suffer devastating injuries because of inadequacies such as these . 
+The key points of,say.01,staff was available to,,Affirmative,The key points of the report say that needed staff was available to the firemen via the College Station fire department but was never requested by BFD . 
+us,know.01,what 's going on,,Affirmative,Let us know what 's going on ! 

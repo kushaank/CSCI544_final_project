@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the press release announcing,announce.01,the merger,,Affirmative,"In the press release announcing the merger , AT&T commented that it would expand its broadband offering to 15 million customers , most of which will be in rural areas . "
+AT&T,comment.02,that it would expand,,Affirmative,"In the press release announcing the merger , AT&T commented that it would expand its broadband offering to 15 million customers , most of which will be in rural areas . "
+the press release,expand.01,its broadband offering to,,Affirmative,"In the press release announcing the merger , AT&T commented that it would expand its broadband offering to 15 million customers , most of which will be in rural areas . "
+Thalhimer,comment.01,on,,Affirmative,"Thalhimer commented on the infrastructure expenditure , saying he expects AT&T to spend between $ 3 billion and $ 9 billion over four years on this infrastructure . "
+Thalhimer,say.01,he expects,,Affirmative,"Thalhimer commented on the infrastructure expenditure , saying he expects AT&T to spend between $ 3 billion and $ 9 billion over four years on this infrastructure . "
+Thalhimer,expect.01,AT&T to spend,,Affirmative,"Thalhimer commented on the infrastructure expenditure , saying he expects AT&T to spend between $ 3 billion and $ 9 billion over four years on this infrastructure . "
+the press release,indicate.01,expansion will only take place,,Affirmative,The press release indicates that this expansion will only take place if AT&T is able to acquire DirecTV . 
+AT&T,acquire.01,DirecTV,,Affirmative,The press release indicates that this expansion will only take place if AT&T is able to acquire DirecTV . 
+BB&T,have.03,a Buy rating on Dycom,,Affirmative,BB&T currently has a Buy rating on Dycom and Hold rating on MasTec . 
+BB&T,hold.01,rating on MasTec,,Affirmative,BB&T currently has a Buy rating on Dycom and Hold rating on MasTec . 

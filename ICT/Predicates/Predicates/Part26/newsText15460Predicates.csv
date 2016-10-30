@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Lafayette woman,stop.01,her boyfriend,from beating,Affirmative,The Lafayette woman who failed to stop her boyfriend from beating her 3 - year - old son for months before he died pleaded guilty Monday to cruelty in the death of Julian Madera . 
+The Lafayette woman,beat.03,old son,,Affirmative,The Lafayette woman who failed to stop her boyfriend from beating her 3 - year - old son for months before he died pleaded guilty Monday to cruelty in the death of Julian Madera . 
+The Lafayette woman,plead.02,guilty,to cruelty in,Affirmative,The Lafayette woman who failed to stop her boyfriend from beating her 3 - year - old son for months before he died pleaded guilty Monday to cruelty in the death of Julian Madera . 
+"mother ,",plead.02,guilty,,Affirmative,"Julian 's mother , Laura D. Smith , 24 , pleaded guilty before 15th District Judge Glennon Everett to one count of cruelty to a juvenile . "
+"attorney ,",say.01,Everett ordered,,Affirmative,"Smith 's attorney , Randal McCann , said Everett ordered a presentencing report and would sentence Smith later this year . "
+15th District Judge Glennon Everett,order.01,a presentencing report,,Affirmative,"Smith 's attorney , Randal McCann , said Everett ordered a presentencing report and would sentence Smith later this year . "
+15th District Judge Glennon Everett,sentence.01,Smith,,Affirmative,"Smith 's attorney , Randal McCann , said Everett ordered a presentencing report and would sentence Smith later this year . "
+the cruelty conviction,carry.01,a maximum sentence of,,Affirmative,"According to Louisiana sentencing laws , the cruelty conviction carries a maximum sentence of 40 years in prison at hard labor . "
+Broussard,carry.01,"lifeless , naked body",,Affirmative,"29 , 2012 , Broussard carried Julian 's lifeless , naked body into his grandmother 's Kaliste Saloom Road home , where he lived with Smith and others . "
+Detectives,say.01,that it appeared,,Affirmative,"Detectives said in affidavits that it appeared Julian suffered prolonged beatings : His eyes were swollen shut , one of his ears was torn and his body was covered with bruises suffered at different times . "
+Julian Madera,suffer.01,prolonged beatings,,Affirmative,"Detectives said in affidavits that it appeared Julian suffered prolonged beatings : His eyes were swollen shut , one of his ears was torn and his body was covered with bruises suffered at different times . "
+Broussard,say.01,door fell on Julian,,Affirmative,"Broussard said a door fell on Julian , a claim detectives said was implausible . "
+a claim detectives,say.01,was implausible,,Affirmative,"Broussard said a door fell on Julian , a claim detectives said was implausible . "
+Paramedics,resuscitate.01,the boy,,Affirmative,Paramedics were unable to resuscitate the boy . 
+a grand jury,charge.05,Landon Broussard,with,Affirmative,"In March 2013 , a grand jury charged Broussard with first - degree murder . "
+an examination of,provided.01,DNA link with Broussard,,Affirmative,"In June , Broussard was charged with aggravated rape after an examination of Julian 's body provided a sexual DNA link with Broussard , according to court records . "
+the grand jury,charge.05,Laura D. Smith,with,Affirmative,"On the same day Broussard was charged with murder - March 27 , 2013 - the grand jury charged Smith with criminal neglect in Julian 's death . "

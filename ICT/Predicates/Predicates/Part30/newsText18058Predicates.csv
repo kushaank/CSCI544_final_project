@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Spansion Inc.,acquire.01,businesses,from Fujitsu,Affirmative,"The move leverages the MCU and analog businesses Spansion acquired from Fujitsu last summer , combining them with the company 's own flash memory technology . "
+Spansion Inc.,combine.01,them,with,Affirmative,"The move leverages the MCU and analog businesses Spansion acquired from Fujitsu last summer , combining them with the company 's own flash memory technology . "
+Spansion,add.02,family MCUs,to,Affirmative,Spansion is adding the new Traveo family MCUs to its existing microcontroller product lines that include Fujitsu 's proprietary MCUs and ARM Cortex-R4-based MCUs . 
+"Tehrani ,",say.01,I believe,,Affirmative,"Saied Tehrani , Spansion 's senior vice president and chief technology officer , said in an interview with EE Times , I believe we 're the first company to use ARM 's Cortex-R5 in automotive MCUs . "
+I,believe.01,we 're,,Affirmative,"Saied Tehrani , Spansion 's senior vice president and chief technology officer , said in an interview with EE Times , I believe we 're the first company to use ARM 's Cortex-R5 in automotive MCUs . "
+the first company,use.01,Cortex-R5,,Affirmative,"Saied Tehrani , Spansion 's senior vice president and chief technology officer , said in an interview with EE Times , I believe we 're the first company to use ARM 's Cortex-R5 in automotive MCUs . "
+Saied Tehrani,say.01,", will be",,Affirmative,"The higher performance of the Cortex-R5 core , its speed in particular , will be a real advantage for the company 's new automotive MCUs , said Tehrani . "
+"dual core configurations ,",allow.01,step redundant core for,,Affirmative,"Further , the Cortex-R5 processor 's dual core configurations , which allow lock - step redundant core for safety critical applications , are also effective for the two cores to monitor each other , Tehrani added . "
+Tehrani,add.01,", are also effective for",,Affirmative,"Further , the Cortex-R5 processor 's dual core configurations , which allow lock - step redundant core for safety critical applications , are also effective for the two cores to monitor each other , Tehrani added . "
+Spansion Inc.,enter.01,the top 20 rankings,,Affirmative,"According to IHS , a market research company , Spansion entered the top 20 rankings for automotive MCUs in 2013 in seventh place . "
+Spansion,plan.01,to launch,,Affirmative,"Spansion , throughout this year , plans to launch different members of the Traveo family -- each dedicated to a specific segment of the automotive applications . "
+Spansion,launch.01,different members of,,Affirmative,"Spansion , throughout this year , plans to launch different members of the Traveo family -- each dedicated to a specific segment of the automotive applications . "
+Spansion,roll.02,"its first Traveo MCU , called MB9D560",,Affirmative,"Spansion today rolls out its first Traveo MCU , called MB9D560 , designed as a twin-motor controller for hybrid vehicles ( HEV ) and electrical vehicles ( EV ) . "
+by,deploy.01,It,,Affirmative,It will be first deployed in a 2015 model car by a Japanese automaker . 
+"Tehrani ,",decline.02,to name names,,Affirmative,"Tehrani , who declined to name names , said the Japanese company will launch within the next few months a car with Spansion 's twin-motor controller . "
+"Tehrani ,",name.01,names,,Affirmative,"Tehrani , who declined to name names , said the Japanese company will launch within the next few months a car with Spansion 's twin-motor controller . "
+"Tehrani ,",say.01,company will launch within,,Affirmative,"Tehrani , who declined to name names , said the Japanese company will launch within the next few months a car with Spansion 's twin-motor controller . "
+the Japanese company,launch.01,a car,,Affirmative,"Tehrani , who declined to name names , said the Japanese company will launch within the next few months a car with Spansion 's twin-motor controller . "
+You,need.01,a free account,,Affirmative,You will need a free account with each service to share an item via that service . 
+You,share.01,an item,,Affirmative,You will need a free account with each service to share an item via that service . 

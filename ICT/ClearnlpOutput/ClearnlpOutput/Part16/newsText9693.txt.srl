@@ -1,0 +1,19 @@
+1	Pajhwok	pajhwok	NNP	p2=NN	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	interested	interested	JJ	_	2	acomp	2:A2=PRD
+4	in	in	IN	_	3	prep	_
+5	your	your	PRP$	_	7	poss	_
+6	story	story	NN	_	7	nn	_
+7	suggestions	suggestion	NNS	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	tell	tell	VB	pb=tell.01	0	root	_
+3	us	us	PRP	_	2	iobj	2:A2=GOL
+4	your	your	PRP$	_	5	poss	_
+5	thoughts	thought	NNS	_	2	dobj	2:A1=PPT
+6	by	by	IN	_	2	prep	2:AM-MNR
+7	clicking	click	VBG	p2=NN|pb=click.01	6	pcomp	_
+8	here	here	RB	_	7	advmod	7:AM-LOC
+9	.	.	.	_	2	punct	_
+

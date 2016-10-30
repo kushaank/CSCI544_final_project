@@ -1,0 +1,45 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a Longview woman,choose.01,to attend,,Affirmative,Understanding why a Longview woman chose to attend an area high school posing as a 15 - year old is confusing on its own merit . 
+a Longview woman,attend.01,an area high school posing as,,Affirmative,Understanding why a Longview woman chose to attend an area high school posing as a 15 - year old is confusing on its own merit . 
+an area high school posing as,pose.01,as,,Affirmative,Understanding why a Longview woman chose to attend an area high school posing as a 15 - year old is confusing on its own merit . 
+our,report.01,Johnson claimed,,Affirmative,"However , KLTV inadvertently contributed to that confusion during our 6 pm newscast on Monday when we reported Johnson claimed to be the mother of two children . "
+the name `` Charity Johnson,claim.01,to be,,Affirmative,"However , KLTV inadvertently contributed to that confusion during our 6 pm newscast on Monday when we reported Johnson claimed to be the mother of two children . "
+KLTV,preface.01,the story,,Affirmative,"While KLTV prefaced the story by saying we had not been able to verify that claim , we can now say it is untrue . "
+KLTV,say.01,we had not been able,,Affirmative,"While KLTV prefaced the story by saying we had not been able to verify that claim , we can now say it is untrue . "
+our,verify.01,that claim,,Affirmative,"While KLTV prefaced the story by saying we had not been able to verify that claim , we can now say it is untrue . "
+our,say.01,it is untrue,,Affirmative,"While KLTV prefaced the story by saying we had not been able to verify that claim , we can now say it is untrue . "
+a KLTV reporter,research.01,Johnson chose,,Affirmative,"While researching why the 34 - year - old Johnson chose to impersonate a teenager , a KLTV reporter found documents filed with the Gregg County Courthouse under the name Charity Johnson . "
+old Johnson,choose.01,to impersonate,,Affirmative,"While researching why the 34 - year - old Johnson chose to impersonate a teenager , a KLTV reporter found documents filed with the Gregg County Courthouse under the name Charity Johnson . "
+old Johnson,impersonate.01,a teenager,,Affirmative,"While researching why the 34 - year - old Johnson chose to impersonate a teenager , a KLTV reporter found documents filed with the Gregg County Courthouse under the name Charity Johnson . "
+a KLTV reporter,find.01,documents filed with,,Affirmative,"While researching why the 34 - year - old Johnson chose to impersonate a teenager , a KLTV reporter found documents filed with the Gregg County Courthouse under the name Charity Johnson . "
+Those documents,show.01,a Charity Johnson as,,Affirmative,Those documents show a Charity Johnson as the mother of two children . 
+thorough search,reveal.01,is not,,Affirmative,A more thorough search revealed the person named in that paperwork is not the Charity Johnson who posed as a teenager . 
+the Charity Johnson,pose.02,as,,Affirmative,A more thorough search revealed the person named in that paperwork is not the Charity Johnson who posed as a teenager . 
+We,apologize.01,for,,Affirmative,We apologize for the error and the confusion . 
+the mother of two children,look.02,like,,Affirmative,"She looked like a teenager , Cooper told KLTV . "
+Cooper,tell.01,She looked like,KLTV,Affirmative,"She looked like a teenager , Cooper told KLTV . "
+Cooper,know.01,who she was,,Affirmative,That 's why I did n't know who she was when I saw her mugshot . 
+Cooper,see.01,her mugshot,,Affirmative,That 's why I did n't know who she was when I saw her mugshot . 
+the mother of two children,look.02,all crazy,,Affirmative,She was looking all crazy . 
+Cooper,say.01,Johnson talked about saving,,Affirmative,Cooper says Johnson talked about saving her money to take a trip to California . 
+the name `` Charity Johnson,talk.01,about saving,,Affirmative,Cooper says Johnson talked about saving her money to take a trip to California . 
+the name `` Charity Johnson,save.02,her money,,Affirmative,Cooper says Johnson talked about saving her money to take a trip to California . 
+the mother of two children,visit.01,"her mom , or something",,Affirmative,"She was going to visit her mom , or something , Cooper remembered . "
+Cooper,remember.01,She was going,,Affirmative,"She was going to visit her mom , or something , Cooper remembered . "
+the mother of two children,help.01,the mother of two children,,Affirmative,She was going to help her out and then come back . 
+people at,say.01,Johnson had told them both of,,Affirmative,"This weekend , however , people at the House of Hope Women 's Shelter in Longview said Johnson had told them both of her parents had died . "
+the name `` Charity Johnson,tell.01,both of,them,Affirmative,"This weekend , however , people at the House of Hope Women 's Shelter in Longview said Johnson had told them both of her parents had died . "
+Cooper,notice.01,Johnson had n't come to work,,Affirmative,"Recently , Cooper noticed Johnson had n't come to work . "
+Hope Women 's,say.01,she assumed,,Affirmative,She says she assumed Johnson had taken her trip to California . 
+Hope Women 's,assume.02,Johnson had taken,,Affirmative,She says she assumed Johnson had taken her trip to California . 
+the name `` Charity Johnson,take.01,her trip to California,,Affirmative,She says she assumed Johnson had taken her trip to California . 
+A manager,tell.01,that Johnson had been fired for missing time at work,Cooper,Affirmative,A manager told Cooper that Johnson had been fired for missing time at work . 
+the name `` Charity Johnson,miss.02,time,,Affirmative,A manager told Cooper that Johnson had been fired for missing time at work . 
+Cooper,say.01,She did n't call in and,,Affirmative,"She did n't call in and she was out for four days , said Cooper . "
+Longview police,say.01,Johnson was arrested on May 12,,Affirmative,Longview police say Johnson was arrested on May 12 at an apartment in the 400 block of S. High Street . 
+Residents,tell.01,they had reason,officers,Affirmative,Residents told officers they had reason to believe she was lying about her age and wanted assistance in making her leave . 
+Residents,have.03,reason,,Affirmative,Residents told officers they had reason to believe she was lying about her age and wanted assistance in making her leave . 
+Hope Women 's,lie.02,about,,Affirmative,Residents told officers they had reason to believe she was lying about her age and wanted assistance in making her leave . 
+Residents,want.01,assistance in making,,Affirmative,Residents told officers they had reason to believe she was lying about her age and wanted assistance in making her leave . 
+Residents,indicate.01,she was 15,,Affirmative,that indicated she was 15 . 
+Staff at,discover.01,identification was fake,,Affirmative,Staff at the school discovered her identification was fake . 

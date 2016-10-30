@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Joseph R. Biden,send.01,a corsage,to,Affirmative,"Vice President Joseph R. Biden sent a corsage Thursday to 18 - year - old Talia Maselli and invited her to the White House after she asked him to be her prom date , a Connecticut newspaper reported . "
+President Joseph R. Biden,invite.01,Talia Maselli,to,Affirmative,"Vice President Joseph R. Biden sent a corsage Thursday to 18 - year - old Talia Maselli and invited her to the White House after she asked him to be her prom date , a Connecticut newspaper reported . "
+Talia Maselli,ask.02,to be,him,Affirmative,"Vice President Joseph R. Biden sent a corsage Thursday to 18 - year - old Talia Maselli and invited her to the White House after she asked him to be her prom date , a Connecticut newspaper reported . "
+a Connecticut newspaper,report.01,Biden sent,,Affirmative,"Vice President Joseph R. Biden sent a corsage Thursday to 18 - year - old Talia Maselli and invited her to the White House after she asked him to be her prom date , a Connecticut newspaper reported . "
+The teen,send.01,a handwritten invitation,Mr. Biden,Affirmative,The teen sent Mr. Biden a handwritten invitation last year asking him to prom . 
+The teen,ask.02,to prom,him,Affirmative,The teen sent Mr. Biden a handwritten invitation last year asking him to prom . 
+Talia,tolerate.01,school dance,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in America , Talia said in her invite . "
+by,escort.01,Talia,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in America , Talia said in her invite . "
+Talia,say.01,I could only tolerate,,Affirmative,"I could only tolerate a high school dance if I was to be escorted by the most delightful man in America , Talia said in her invite . "
+A delivery man,hand.01,a wrist corsage,her,Affirmative,A delivery man reportedly showed up at her Newington home at about 10 a.m. Thursday - the eve of the prom - and handed her a wrist corsage . 
+office,say.01,he was touched by,,Affirmative,Mr. Biden 's office said he was touched by the invitation and personally picked out the corsage of baby 's breath and white roses so that the teen would feel special for her big night . 
+by,touch.01,Mr. Biden a handwritten invitation,,Affirmative,Mr. Biden 's office said he was touched by the invitation and personally picked out the corsage of baby 's breath and white roses so that the teen would feel special for her big night . 
+Mr. Biden a handwritten invitation,pick.04,the corsage of,,Affirmative,Mr. Biden 's office said he was touched by the invitation and personally picked out the corsage of baby 's breath and white roses so that the teen would feel special for her big night . 
+The teen,feel.01,special for,,Affirmative,Mr. Biden 's office said he was touched by the invitation and personally picked out the corsage of baby 's breath and white roses so that the teen would feel special for her big night . 
+The vice president,invite.01,baby 's,to visit,Affirmative,The vice president also invited her to visit the White House in July . 
+baby 's,visit.01,the White House,,Affirmative,The vice president also invited her to visit the White House in July . 
+The teen,say.01,yes,,Affirmative,"The teen unfortunately never made it to her prom , but if he had said yes , I would have gone , she told the paper . "

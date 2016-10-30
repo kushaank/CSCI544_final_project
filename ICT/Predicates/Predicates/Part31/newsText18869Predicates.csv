@@ -1,0 +1,112 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the NSA and,stockpile.01,Internet vulnerabilities,,Affirmative,"There 's a debate going on about whether the US government - specifically , the NSA and United States Cyber Command - should stockpile Internet vulnerabilities or disclose and fix them . "
+the NSA and,fix.02,them,,Affirmative,"There 's a debate going on about whether the US government - specifically , the NSA and United States Cyber Command - should stockpile Internet vulnerabilities or disclose and fix them . "
+one,illustrate.01,the difficulty of separating attack and defense,,Affirmative,"It 's a complicated problem , and one that starkly illustrates the difficulty of separating attack and defense in cyberspace . "
+a programming mistake,allow.01,an adversary access into,,Affirmative,A software vulnerability is a programming mistake that allows an adversary access into that system . 
+Someone with one of those,attack.01,their systems regularly,,Affirmative,Someone with one of those can attack systems world - wide with impunity . 
+someone,discover.01,one,,Affirmative,"When someone discovers one , he can either use it for defense or for offense . "
+Someone with one of those,use.01,one,for defense or for offense,Affirmative,"When someone discovers one , he can either use it for defense or for offense . "
+Defense,mean.01,alerting,,Affirmative,Defense means alerting the vendor and getting it patched . 
+by,discover.01,  Lots of vulnerabilities,,Affirmative,  Lots of vulnerabilities are discovered by the vendors themselves and patched without any fanfare . 
+by researchers and hackers,discover.01,Others,,Affirmative,  Others are discovered by researchers and hackers . 
+most users,protect.01,most users,,Affirmative,"  A patch does n't make the vulnerability go away , but most users protect themselves by patch their systems regularly . "
+Offense,mean.01,using,,Affirmative,Offense means using the vulnerability to attack others . 
+the vendor,know.01,vulnerability exists,,Affirmative,"  This is the quintessential zero - day , because the vendor does n't even know the vulnerability exists until it starts being used by criminals or hackers . "
+by criminals or hackers,use.01,a programming mistake that allows an adversary access into that system,,Affirmative,"  This is the quintessential zero - day , because the vendor does n't even know the vulnerability exists until it starts being used by criminals or hackers . "
+the timing,depend.01,on,,Affirmative,  Eventually the affected software 's vendor finds out - the timing depends on how extensively the vulnerability is used - and issues a patch to close the vulnerability . 
+the timing,issue.01,A patch,,Affirmative,  Eventually the affected software 's vendor finds out - the timing depends on how extensively the vulnerability is used - and issues a patch to close the vulnerability . 
+cyber unit,discover.01,the vulnerability - or,,Affirmative,If an offensive military cyber unit discovers the vulnerability - or a cyber - weapons arms manufacturer - it keeps that vulnerability secret for use to deliver a cyber - weapon . 
+an offensive military cyber unit,keep.02,that vulnerability,,Affirmative,If an offensive military cyber unit discovers the vulnerability - or a cyber - weapons arms manufacturer - it keeps that vulnerability secret for use to deliver a cyber - weapon . 
+someone else,discover.01,unused,,Affirmative,"If unused , it 'll remain secret until someone else discovers it . "
+Discoverers,sell.01,Unpublished vulnerabilities,,Affirmative,Discoverers can sell vulnerabilities . 
+Some vendors,offer.01,bounties,,Affirmative,"  Some vendors offer bounties for vulnerabilities to incent defense , but the amounts are much lower . "
+The NSA 's,play.01,either defense or offense,,Affirmative,The NSA can play either defense or offense . 
+The NSA 's,alert.01,the vendor,,Affirmative,"It can either alert the vendor and get a still - secret vulnerability fixed , or it can hold on to it and use it as to eavesdrop on foreign computer systems . "
+The NSA 's,get.01,vulnerability fixed,,Affirmative,"It can either alert the vendor and get a still - secret vulnerability fixed , or it can hold on to it and use it as to eavesdrop on foreign computer systems . "
+The NSA 's,hold.06,to it,,Affirmative,"It can either alert the vendor and get a still - secret vulnerability fixed , or it can hold on to it and use it as to eavesdrop on foreign computer systems . "
+The NSA 's,use.01,The NSA 's,as,Affirmative,"It can either alert the vendor and get a still - secret vulnerability fixed , or it can hold on to it and use it as to eavesdrop on foreign computer systems . "
+The NSA 's,choose.01,one to pursue,,Affirmative,"Both are important U.S. policy goals , but the NSA has to choose which one to pursue . "
+a programming mistake that allows an adversary access into that system,strengthen.01,the security of,,Affirmative,"By fixing the vulnerability , it strengthens the security of the Internet against all attackers : other countries , criminals , hackers . "
+it,attack.01,others,,Affirmative,"By leaving the vulnerability open , it is better able to attack others on the Internet . "
+each use,run.10,the risk of,,Affirmative,"But each use runs the risk of the target government learning of , and using for itself , the vulnerability - or of the vulnerability becoming public and criminals starting to use it . "
+"The Chinese ,",find.01,Unpublished vulnerabilities,,Affirmative,"The Chinese , the Russians , and many other countries are finding vulnerabilities as well . "
+we,leave.01,a vulnerability,unpatched,Affirmative,"If we leave a vulnerability unpatched , we run the risk of another country independently discovering it and using it in a cyber - weapon that we will be vulnerable to . "
+we,run.01,the risk of,,Affirmative,"If we leave a vulnerability unpatched , we run the risk of another country independently discovering it and using it in a cyber - weapon that we will be vulnerable to . "
+we,patch.02,all the vulnerabilities,,Affirmative,"But if we patch all the vulnerabilities we find , we wo n't have any cyber - weapons to use against other countries . "
+we,find.01,all the vulnerabilities,,Affirmative,"But if we patch all the vulnerabilities we find , we wo n't have any cyber - weapons to use against other countries . "
+we,have.03,any cyber - weapons,,Affirmative,"But if we patch all the vulnerabilities we find , we wo n't have any cyber - weapons to use against other countries . "
+Many people,weigh.03,on,,Affirmative,Many people have weighed in on this debate . 
+Review Group on Intelligence and,conclude.01,  ( recommendation 30,,Affirmative,"The president 's Review Group on Intelligence and Communications Technologies , convened post-Snowden , concluded   ( recommendation 30 ) , that vulnerabilities should only be hoarded in rare instances and for short times . "
+Cory Doctorow,call.01,Review Group on Intelligence and Communications Technologies,health problem,Affirmative,Cory Doctorow calls it a public health problem . 
+United States,say.01,similar things,,Affirmative,I have said similar things . 
+Dan Geer,recommend.01,government corner,,Affirmative,Dan Geer recommends  that the U.S. government corner the vulnerabilities market and fix them all . 
+the U.S. government,corner.01,the vulnerabilities market,,Affirmative,Dan Geer recommends  that the U.S. government corner the vulnerabilities market and fix them all . 
+the U.S. government,fix.02,them all,,Affirmative,Dan Geer recommends  that the U.S. government corner the vulnerabilities market and fix them all . 
+Both the FBI and,claim.01,that this amounts to,,Affirmative,Both the FBI and the intelligence agencies claim that this amounts to unilateral disarmament . 
+we,find.01,every vulnerability,,Affirmative,"If vulnerabilities are sparse , then it 's obvious that every vulnerability we find and fix improves security . "
+we,fix.02,every vulnerability,,Affirmative,"If vulnerabilities are sparse , then it 's obvious that every vulnerability we find and fix improves security . "
+every vulnerability,improve.01,security,,Affirmative,"If vulnerabilities are sparse , then it 's obvious that every vulnerability we find and fix improves security . "
+we,render.03,vulnerability unusable,,Affirmative,"We render a vulnerability unusable , even if the Chinese government already knows about it . "
+the Chinese government,know.01,about it,,Affirmative,"We render a vulnerability unusable , even if the Chinese government already knows about it . "
+we,make.02,it impossible,,Affirmative,We make it impossible for criminals to find and use it . 
+criminals or hackers,use.01,a vulnerability,,Affirmative,We make it impossible for criminals to find and use it . 
+we,improve.01,the general security of,,Affirmative,"We improve the general security of our software , because we can find and fix most of the vulnerabilities . "
+we,fix.02,most of,,Affirmative,"We improve the general security of our software , because we can find and fix most of the vulnerabilities . "
+United States,find.01,the ones,,Affirmative,If vulnerabilities are plentiful - and this seems to   be   true - the ones the U.S. finds and the ones the Chinese find will largely be different . 
+The Chinese,find.01,the ones,,Affirmative,If vulnerabilities are plentiful - and this seems to   be   true - the ones the U.S. finds and the ones the Chinese find will largely be different . 
+this,mean.01,wo n't make,,Affirmative,This means that patching the vulnerabilities we find wo n't make it appreciably harder for criminals to find the next one . 
+we,find.01,the vulnerabilities,,Affirmative,This means that patching the vulnerabilities we find wo n't make it appreciably harder for criminals to find the next one . 
+patching,make.02,it appreciably harder,,Affirmative,This means that patching the vulnerabilities we find wo n't make it appreciably harder for criminals to find the next one . 
+criminals or hackers,find.01,the next one,,Affirmative,This means that patching the vulnerabilities we find wo n't make it appreciably harder for criminals to find the next one . 
+we,improve.01,general software security,,Affirmative,"We do n't really improve general software security by disclosing and patching unknown vulnerabilities , because the percentage we find and fix is small compared to the total number that are out there . "
+we,find.01,the percentage,,Affirmative,"We do n't really improve general software security by disclosing and patching unknown vulnerabilities , because the percentage we find and fix is small compared to the total number that are out there . "
+we,fix.02,the percentage,,Affirmative,"We do n't really improve general software security by disclosing and patching unknown vulnerabilities , because the percentage we find and fix is small compared to the total number that are out there . "
+Tools,fix.02,entire classes of vulnerabilities,,Affirmative,"Tools that automatically find and fix entire classes of vulnerabilities , and coding practices that eliminate many easy - to - find ones , greatly improve software security . "
+practices,eliminate.01,find ones,,Affirmative,"Tools that automatically find and fix entire classes of vulnerabilities , and coding practices that eliminate many easy - to - find ones , greatly improve software security . "
+Tools,improve.01,the general security of our software,,Affirmative,"Tools that automatically find and fix entire classes of vulnerabilities , and coding practices that eliminate many easy - to - find ones , greatly improve software security . "
+person,find.01,a vulnerability,,Affirmative,"  And when person finds a vulnerability , it is likely that another person soon will , or recently has , found the same vulnerability . "
+another person,find.01,the same vulnerability,,Affirmative,"  And when person finds a vulnerability , it is likely that another person soon will , or recently has , found the same vulnerability . "
+two independent researchers,discover.01,two,,Affirmative,"  Heartbleed , for example , remained undiscovered for two years , and then two independent researchers discovered it within two days of each other . "
+"The NSA ,",try.01,to play,,Affirmative,"The NSA , and by extension U.S. Cyber Command , tries its best to play both ends  of this game . "
+"The NSA ,",play.01,both ends,,Affirmative,"The NSA , and by extension U.S. Cyber Command , tries its best to play both ends  of this game . "
+Director Michael Hayden,talk.01,"about  NOBUS , nobody but us",,Affirmative,"Former NSA Director Michael Hayden talks about  NOBUS , nobody but us . "
+The NSA 's,have.03,a classified process,,Affirmative,"The NSA has a classified process to determine what it should do about vulnerabilities , disclosing and closing most of the ones it finds , but holding back some - we do n't know how many - vulnerabilities that nobody but us could find for attack purposes . "
+The NSA 's,find.01,many easy-to-find ones,,Affirmative,"The NSA has a classified process to determine what it should do about vulnerabilities , disclosing and closing most of the ones it finds , but holding back some - we do n't know how many - vulnerabilities that nobody but us could find for attack purposes . "
+we,know.01,could find for,,Affirmative,"The NSA has a classified process to determine what it should do about vulnerabilities , disclosing and closing most of the ones it finds , but holding back some - we do n't know how many - vulnerabilities that nobody but us could find for attack purposes . "
+Many of us,know.01,how to make,,Affirmative,"  Many of us in the security field do n't know how to make NOBUS decisions , and the recent White House clarification  posed more questions  than it answered . "
+House clarification, posed.01,more questions,,Affirmative,"  Many of us in the security field do n't know how to make NOBUS decisions , and the recent White House clarification  posed more questions  than it answered . "
+we,hoard.01,the sorts of vulnerabilities,,Affirmative,"Surely there needs to be a technical review of each vulnerability , but there should also be policy reviews regarding the sorts of vulnerabilities we are hoarding . "
+we,hold.04,these vulnerabilities,,Affirmative,"Do we hold these vulnerabilities until someone else finds them , or only for a short period of time ? "
+someone else,find.01,Many of us in the security field,,Affirmative,"Do we hold these vulnerabilities until someone else finds them , or only for a short period of time ? "
+Burning four on,imply.01,that we are not hoarding,,Affirmative,"Burning four on a single military operation implies that we are not hoarding a small number , but more like 100 or more . "
+we,hoard.01,a small number,,Affirmative,"Burning four on a single military operation implies that we are not hoarding a small number , but more like 100 or more . "
+the weapon,do.02,the damage,,Affirmative,Cyber - weapons are a combination of a payload - the damage the weapon does - and a delivery mechanism : the vulnerability used to get the payload into the enemy network . 
+the vulnerability,get.01,a payload,into,Affirmative,Cyber - weapons are a combination of a payload - the damage the weapon does - and a delivery mechanism : the vulnerability used to get the payload into the enemy network . 
+The Chinese,know.01,about,,Affirmative,"Imagine that China knows about a vulnerability and is using it in a still - unfired cyber - weapon , and that the NSA learns about it through espionage . "
+The Chinese,use.01,The NSA 's,,Affirmative,"Imagine that China knows about a vulnerability and is using it in a still - unfired cyber - weapon , and that the NSA learns about it through espionage . "
+The NSA 's,learn.01,about it,,Affirmative,"Imagine that China knows about a vulnerability and is using it in a still - unfired cyber - weapon , and that the NSA learns about it through espionage . "
+The NSA 's,patch.02,a programming mistake that allows an adversary access into that system,,Affirmative,"Should the NSA disclose and patch the vulnerability , or should it use it itself for attack ? "
+The NSA 's,use.01,it itself,for attack,Affirmative,"Should the NSA disclose and patch the vulnerability , or should it use it itself for attack ? "
+The Chinese,find.01,a replacement vulnerability,,Affirmative,"If it discloses , then China could find a replacement vulnerability that the NSA wo n't know about it . "
+The NSA 's,know.01,about it,,Affirmative,"If it discloses , then China could find a replacement vulnerability that the NSA wo n't know about it . "
+The NSA 's,leave.01,United States,vulnerable to,Affirmative,"But if it does n't , it 's deliberately leaving the U.S. vulnerable to cyber - attack . "
+we,patch.01,vulnerabilities,,Affirmative,"Maybe someday we can get to the point where we can patch vulnerabilities faster than the enemy can use them in an attack , but we 're nowhere near that point today . "
+the enemy,use.01,them,,Affirmative,"Maybe someday we can get to the point where we can patch vulnerabilities faster than the enemy can use them in an attack , but we 're nowhere near that point today . "
+we,show.01,that we 're putting security ahead of surveillance,,Affirmative,"If we show that we 're putting security ahead of surveillance , we can begin to restore that trust . "
+we,put.01,security,ahead of surveillance,Affirmative,"If we show that we 're putting security ahead of surveillance , we can begin to restore that trust . "
+we,begin.01,to restore,,Affirmative,"If we show that we 're putting security ahead of surveillance , we can begin to restore that trust . "
+we,restore.01,that trust,,Affirmative,"If we show that we 're putting security ahead of surveillance , we can begin to restore that trust . "
+we,demonstrate.01,both our trustworthiness and,,Affirmative,"And by making the decision process much more public than it is today , we can demonstrate both our trustworthiness and the value of open government . "
+An unpatched vulnerability,put.01,everyone,"at risk , but",Affirmative,"An unpatched vulnerability puts everyone at risk , but not to the same degree . "
+they,see.01,vulnerabilities fixed,,Affirmative,Countries like China and Russia are less vulnerable - North Korea much less - so they have considerably less incentive to see vulnerabilities fixed . 
+The Chinese,make.02,countries much safer,,Affirmative,Fixing vulnerabilities is n't disarmament ; it 's making our own countries much safer . 
+we,regain.01,the moral authority,,Affirmative,We also regain the moral authority to negotiate any broad international reductions in cyber - weapons ; and we can decide not to use them even if others do . 
+we,decide.01,not to use them,,Affirmative,We also regain the moral authority to negotiate any broad international reductions in cyber - weapons ; and we can decide not to use them even if others do . 
+we,use.01,they,,Affirmative,We also regain the moral authority to negotiate any broad international reductions in cyber - weapons ; and we can decide not to use them even if others do . 
+we,do.02,important thing,,Affirmative,"Regardless of our policy towards hoarding vulnerabilities , the most important thing we can do is patch vulnerabilities quickly once they are disclosed . "
+by criminals,discover.01,many vulnerabilities,,Affirmative,"And that 's what companies are doing , even without any government involvement , because so many vulnerabilities are discovered by criminals . "
+we,need.01,more research,,Affirmative,"We also need more research in automatically finding and fixing vulnerabilities , and in building secure and resilient software in the first place . "
+The NSA 's,do.02,something,,Affirmative,"That alone is a good reason to continue disclosing vulnerability details , and something the NSA can do to vastly improve the security of the Internet worldwide . "
+The NSA 's,improve.01,the security of,,Affirmative,"That alone is a good reason to continue disclosing vulnerability details , and something the NSA can do to vastly improve the security of the Internet worldwide . "
+companies,make.02,the tools,,Affirmative,"  Here again , though , they would have to make the tools they have to automatically find vulnerabilities available for defense and not attack . "
+companies,find.01,vulnerabilities available for defense and,,Affirmative,"  Here again , though , they would have to make the tools they have to automatically find vulnerabilities available for defense and not attack . "

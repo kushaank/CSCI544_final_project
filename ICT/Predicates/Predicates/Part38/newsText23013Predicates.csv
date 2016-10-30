@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a minibus,hit.01,a tree,,Affirmative,"At least 10 Zimbabweans perished on Monday when a minibus hit a tree near the capital Harare , a police spokesperson said.Paul Nyathi said the deceased were travelling from Harare to Chitungwiza when the minibus veered off the road and smashed into the tree . "
+a police spokesperson,say.01,deceased were travelling from Harare,,Affirmative,"At least 10 Zimbabweans perished on Monday when a minibus hit a tree near the capital Harare , a police spokesperson said.Paul Nyathi said the deceased were travelling from Harare to Chitungwiza when the minibus veered off the road and smashed into the tree . "
+the deceased,travel.01,from Harare,,Affirmative,"At least 10 Zimbabweans perished on Monday when a minibus hit a tree near the capital Harare , a police spokesperson said.Paul Nyathi said the deceased were travelling from Harare to Chitungwiza when the minibus veered off the road and smashed into the tree . "
+a minibus,veer.01,off,,Affirmative,"At least 10 Zimbabweans perished on Monday when a minibus hit a tree near the capital Harare , a police spokesperson said.Paul Nyathi said the deceased were travelling from Harare to Chitungwiza when the minibus veered off the road and smashed into the tree . "
+Eyewitnesses,say.01,accident was caused by,,Affirmative,Eyewitnesses said the accident was caused by a tyre burst that forced the driver to lose control of the vehicle . 
+by,cause.01,the accident,,Affirmative,Eyewitnesses said the accident was caused by a tyre burst that forced the driver to lose control of the vehicle . 
+a tyre burst,force.01,the driver,to lose control of,Affirmative,Eyewitnesses said the accident was caused by a tyre burst that forced the driver to lose control of the vehicle . 
+the driver,lose.02,control of,,Affirmative,Eyewitnesses said the accident was caused by a tyre burst that forced the driver to lose control of the vehicle . 

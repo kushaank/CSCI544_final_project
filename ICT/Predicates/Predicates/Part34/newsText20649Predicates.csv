@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A federal judge,impose.01,the sentence,on,Affirmative,A federal judge imposed the sentence last week on 31 - year - old Salita St. Simon of Belle Glade . 
+St. Simon,pay.01,"more than $ 19,000 in restitution",,Affirmative,"St. Simon also was ordered to pay more than $ 19,000 in restitution and serve two years ' probation after her release . "
+Court records,show.01,Simon used,,Affirmative,"Court records show St. Simon used her access to a health department database to steal patient information , including dates of birth and Social Security numbers . "
+St. Simon,use.01,her access to,to steal,Affirmative,"Court records show St. Simon used her access to a health department database to steal patient information , including dates of birth and Social Security numbers . "
+St. Simon,steal.01,"patient information , including dates of",,Affirmative,"Court records show St. Simon used her access to a health department database to steal patient information , including dates of birth and Social Security numbers . "
+Prosecutors,say.01,Simon stole identifying information of,,Affirmative,"Prosecutors said St. Simon stole identifying information of 1,858 people , which others used to obtain fraudulent federal tax refunds . "
+31-year-old Salita St. Simon of Belle Glade,steal.01,identifying information of,,Affirmative,"Prosecutors said St. Simon stole identifying information of 1,858 people , which others used to obtain fraudulent federal tax refunds . "
+31-year-old Salita St. Simon of Belle Glade,identify.01,information of,,Affirmative,"Prosecutors said St. Simon stole identifying information of 1,858 people , which others used to obtain fraudulent federal tax refunds . "
+others,obtain.01,fraudulent federal tax refunds,,Affirmative,"Prosecutors said St. Simon stole identifying information of 1,858 people , which others used to obtain fraudulent federal tax refunds . "
+31-year-old Salita St. Simon of Belle Glade,plead.02,guilty to,,Affirmative,St. Simon previously pleaded guilty to two counts of conspiracy and one count of illegally obtaining individuals ' health information . 
+31-year-old Salita St. Simon of Belle Glade,obtain.01,health information,,Affirmative,St. Simon previously pleaded guilty to two counts of conspiracy and one count of illegally obtaining individuals ' health information . 

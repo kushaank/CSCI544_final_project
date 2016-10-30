@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A book on,suggest.01,aircraft was shot down during,,Affirmative,LONDON - A book on the missing Malaysian plane suggests that the aircraft was shot down during a military exercise . 
+The book,detail.01,"how a man , working on",,Affirmative,"The book details how a man , working on an oil rig in the Gulf of Thailand ,   claims to have seen a burning plane on the same day the Malysian Airlines flight went missing . "
+"how a man , working on",work.01,on,,Affirmative,"The book details how a man , working on an oil rig in the Gulf of Thailand ,   claims to have seen a burning plane on the same day the Malysian Airlines flight went missing . "
+an oil rig in,claim.01,to have seen,,Affirmative,"The book details how a man , working on an oil rig in the Gulf of Thailand ,   claims to have seen a burning plane on the same day the Malysian Airlines flight went missing . "
+an oil rig in,see.01,a burning plane,,Affirmative,"The book details how a man , working on an oil rig in the Gulf of Thailand ,   claims to have seen a burning plane on the same day the Malysian Airlines flight went missing . "
+Author Nigel Cawthorne,link.01,the alleged sighting,,Affirmative,Cawthorne links the alleged sighting to joint US - Thai exercises in the region at the time . 
+Author Nigel Cawthorne,claim.01,was incorrect,,Affirmative,"He claims the information released was incorrect , so that the search would be concentrated in the wrong area . "

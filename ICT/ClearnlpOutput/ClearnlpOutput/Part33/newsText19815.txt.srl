@@ -1,0 +1,139 @@
+1	Budapest	budapest	NNP	p2=JJS	2	nsubj	2:A0=PAG;4:A0
+2	hosted	host	VBD	p2=VBN|pb=host.01	0	root	_
+3	today	today	NN	_	2	npadvmod	2:AM-TMP
+4	a working	a working	VBG	p2=IN|pb=a working.01	2	advcl	2:A1=GOL
+5	meeting	meeting	NN	_	4	dobj	4:A1
+6	between	between	IN	_	5	prep	_
+7	Alexey	alexey	NNP	_	8	nn	_
+8	Miller	miller	NNP	_	6	pobj	_
+9	,	,	,	_	8	punct	_
+10	Chairman	chairman	NNP	_	14	nn	_
+11	of the	of the	NNP	p2=IN	14	nn	_
+12	Gazprom	gazprom	NNP	_	14	nn	_
+13	Management	management	NNP	_	14	nn	_
+14	Committee	committee	NNP	_	8	conj	_
+15	and	and	CC	_	14	cc	_
+16	Viktor	viktor	NNP	_	17	nn	_
+17	Orban	orban	NNP	_	14	conj	_
+18	,	,	,	_	17	punct	_
+19	Prime	prime	NNP	_	20	nn	_
+20	Minister	minister	NNP	_	23	nn	_
+21	of the	of the	NNP	p2=POS	22	nn	_
+22	Republic	republic	NNP	_	23	nn	_
+23	of Hungary	of hungary	NNP	_	17	appos	_
+24	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	parties	party	NNS	_	3	nsubj	3:A0=PAG;12:A0=PAG
+3	addressed	address	VBD	pb=address.02	0	root	_
+4	the	the	DT	_	10	det	_
+5	current	current	JJ	_	10	amod	_
+6	state	state	NN	_	10	nn	_
+7	of the	of the	NNP	p2=NFP	9	nn	_
+8	South	south	NNP	_	9	nn	_
+9	Stream	stream	NNP	_	10	nn	_
+10	project	project	NN	_	3	dobj	3:A1=PPT
+11	and	and	CC	_	3	cc	_
+12	highlighted	highlight	VBD	pb=highlight.01	3	conj	_
+13	that	that	IN	p2=DT	15	complm	_
+14	it was	it was	NNP	p2=NNS	15	nsubj	_
+15	progressing	progress	VBG	pb=progress.01	12	ccomp	12:A1=PPT
+16	on schedule	on schedule	NN	p2=RB	15	dobj	15:A1=PAG
+17	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	3	det	_
+2	gas	gas	NN	_	3	nn	_
+3	pipeline	pipeline	NN	_	13	nsubj	4:A0;5:A0=PAG;13:A0=PAG
+4	is being	is being	VBG	p2=NNP|pb=is being.01	3	partmod	_
+5	constructed	construct	VBN	p2=VBD|pb=construct.01	3	partmod	_
+6	in Bulgaria	in bulgaria	NNP	p2=NNS	5	dobj	5:A1
+7	and	and	CC	_	6	cc	_
+8	Serbia	serbia	NNP	_	6	conj	_
+9	;	;	:	_	15	punct	_
+10	the	the	DT	_	12	det	_
+11	offshore	offshore	JJ	_	12	amod	_
+12	section	section	NN	_	15	nsubj	15:A0=PAG;13:A1=PPT
+13	laying	lay	VBG	p2=NN|pb=lay.01	12	partmod	_
+14	will	will	MD	_	15	aux	15:AM-MOD
+15	start	start	VB	pb=start.01	0	root	_
+16	in autumn	in autumn	NNP	p2=RB	15	dobj	15:A1=PPT
+17	.	.	.	_	15	punct	_
+
+1	In Hungary	in hungary	NNP	p2=JJ	2	nn	_
+2	FEED	feed	NNP	p2=VBD	16	nn	16:A0
+3	is currently	is currently	RB	p2=NNP	4	advmod	_
+4	underway	underway	JJ	p2=RB	8	amod	_
+5	in addition	in addition	NN	p2=NNP	6	nn	_
+6	to the	to the	NN	p2=IN	8	nn	_
+7	spatial	spatial	JJ	p2=NN	8	amod	_
+8	planning	planning	NN	_	2	appos	_
+9	and	and	CC	_	8	cc	_
+10	environmental	environmental	JJ	_	12	amod	_
+11	impact	impact	NN	_	12	nn	_
+12	assessment	assessment	NN	_	8	conj	_
+13	(	(	-LRB-	_	14	punct	_
+14	EIA	eia	NNP	p2=NN	12	appos	_
+15	)	)	-RRB-	_	14	punct	_
+16	activities	activity	VBZ	p2=VBZ|pb=activity.01	0	root	_
+17	.	.	.	_	16	punct	_
+
+1	Considering	consider	VBG	pb=consider.02	0	root	_
+2	the	the	DT	_	3	det	_
+3	plans	plan	NNS	_	1	dobj	4:A0;1:A1=PPT;14:AM-PRR
+4	of constructing	of constructing	VBG	pb=of constructing.01	3	partmod	_
+5	a South	a south	NNP	p2=IN	6	nn	_
+6	Stream	stream	NNP	_	7	nn	_
+7	section	section	NN	_	8	nn	_
+8	in Austria	in austria	NNP	p2=NN	4	dobj	4:A1
+9	,	,	,	_	8	punct	_
+10	the	the	DT	_	12	det	_
+11	joint	joint	JJ	_	12	amod	_
+12	decision	decision	NN	_	14	nsubjpass	14:AM-PRR
+13	was	be	VBD	_	14	auxpass	_
+14	made	make	VBN	pb=make.LV	3	rcmod	_
+15	to additionally	to additionally	TO	p2=NNP	16	aux	_
+16	investigate	investigate	VB	pb=investigate.01	14	advcl	14:AM-PRP
+17	the	the	DT	_	22	det	_
+18	new	new	JJ	_	22	amod	_
+19	route	route	NN	_	22	nn	_
+20	of the	of the	SYM	p2=POS	22	punct	_
+21	Hungarian	hungarian	JJ	_	22	amod	_
+22	section	section	NN	_	16	dobj	16:A1
+23	towards	towards	IN	_	22	prep	_
+24	Austria	austria	NNP	_	23	pobj	_
+25	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	3	det	_
+2	meeting	meeting	NN	_	3	nn	_
+3	participants	participant	NNS	_	4	nsubj	4:A0=PAG
+4	expressed	express	VBD	pb=express.01	0	root	_
+5	their	their	PRP$	_	6	poss	_
+6	confidence	confidence	NN	_	4	dobj	4:A1=PPT
+7	that	that	IN	_	16	complm	_
+8	the	the	DT	_	9	det	_
+9	choice	choice	NN	_	16	nsubj	16:A0=PAG
+10	of the	of the	IN	p2=POS	9	prep	_
+11	gas	gas	NN	_	12	nn	_
+12	pipeline	pipeline	NN	_	13	nn	_
+13	route	route	NN	_	10	pobj	_
+14	would	would	MD	_	16	aux	16:AM-MOD
+15	n't	not	RB	_	16	neg	16:AM-NEG
+16	affect	affect	VB	pb=affect.01	6	ccomp	_
+17	the	the	DT	_	19	det	_
+18	project	project	NN	p2=JJ	19	nn	_
+19	schedule	schedule	NN	_	16	dobj	16:A1=PPT
+20	and	and	CC	_	19	cc	_
+21	first	#ord#	JJ	_	22	amod	_
+22	gas	gas	NN	_	19	conj	_
+23	would	would	MD	_	24	aux	24:AM-MOD
+24	be supplied	be supplied	VB	p2=VBN|pb=be supplied.01	4	ccomp	_
+25	via	via	IN	_	24	prep	24:AM-MNR
+26	the	the	DT	_	30	det	_
+27	Hungarian	hungarian	JJ	_	28	amod	_
+28	gas	gas	NN	_	29	nn	_
+29	pipeline	pipeline	NN	_	30	nn	_
+30	section	section	NN	_	25	pobj	_
+31	in early	in early	RB	p2=NNP	24	advmod	24:AM-MNR
+32	2017	0	CD	_	31	npadvmod	_
+33	.	.	.	_	4	punct	_
+

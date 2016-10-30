@@ -1,0 +1,164 @@
+1	Former	former	JJ	_	4	amod	_
+2	Illinois	illinois	NNP	_	4	nn	_
+3	Congressman	congressman	NNP	_	4	nn	_
+4	Jesse Jackson Jr	jesse jackson jr	NNP	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	will	will	MD	_	2	aux	2:AM-MOD
+2	 refinance	 refinance	VB	pb= refinance.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	house 	house 	NN	p2=JJR	5	nn	_
+5	mortgage	mortgage	NN	_	2	dobj	2:A1
+6	to	to	TO	_	7	aux	_
+7	pay	pay	VB	pb=pay.01	5	infmod	_
+8	the	the	DT	_	11	det	_
+9	remaining 	remaining 	JJ	p2=-RRB-	11	amod	_
+10	$	$	$	_	11	nmod	_
+11	550,000	0	CD	_	7	dobj	7:A1=VSP
+12	of	of	IN	_	11	prep	_
+13	his forfeiture	his forfeiture	NN	p2=PRP	12	pobj	_
+14	to	to	IN	p2=TO	13	prep	_
+15	the federal	the federal	JJ	p2=DT	16	amod	_
+16	government	government	NN	_	14	pobj	_
+17	.	.	.	_	2	punct	_
+
+1	Jackson	jackson	NNP	_	3	nsubjpass	5:A0=PAG;3:A1=PPT
+2	is	be	VBZ	_	3	auxpass	_
+3	expected	expect	VBN	pb=expect.01	0	root	_
+4	to	to	TO	_	5	aux	_
+5	make	make	VB	pb=make.02	3	xcomp	3:C-A1
+6	the	the	DT	_	9	det	_
+7	$	$	$	_	8	nmod	_
+8	550,000	0	CD	_	9	nn	_
+9	payment	payment	NN	_	5	dobj	5:AM-PRR
+10	to	to	IN	_	9	prep	_
+11	the	the	DT	_	12	det	_
+12	government	government	NN	_	10	pobj	_
+13	by	by	IN	_	5	prep	5:AM-TMP
+14	June	june	NNP	_	13	pobj	_
+15	1	0	CD	_	14	num	_
+16	through	through	IN	_	5	prep	5:AM-MNR
+17	a	a	DT	_	19	det	_
+18	wire	wire	NN	_	19	nn	_
+19	transfer	transfer	NN	_	16	pobj	_
+20	,	,	,	_	3	punct	_
+21	according	accord	VBG	_	3	prep	_
+22	to	to	IN	_	21	prep	_
+23	a	a	DT	_	26	det	_
+24	recent	recent	JJ	_	26	amod	_
+25	court	court	NN	_	26	nn	_
+26	filing	filing	NN	_	22	pobj	_
+27	.	.	.	_	3	punct	_
+
+1	Jackson	jackson	NNP	_	3	nsubjpass	9:A0=PAG;3:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	sentenced	sentence	VBN	pb=sentence.01	0	root	_
+4	to	to	IN	_	3	prep	3:A2=PRD
+5	30	0	CD	_	6	num	_
+6	months	month	NNS	_	4	pobj	_
+7	in	in	IN	p2=RB	6	prep	_
+8	prison for	prison for	NNP	p2=NN	7	pobj	_
+9	misusing	misuse	VBG	p2=NNP|pb=misuse.01	3	advcl	3:AM-ADV
+10	some	some	DT	_	12	quantmod	_
+11	$	$	$	_	12	nmod	_
+12	750,000	0	CD	_	9	dobj	9:A1=PPT
+13	in	in	IN	_	12	prep	_
+14	campaign	campaign	NN	_	15	nn	_
+15	funds	fund	NNS	_	13	pobj	_
+16	.	.	.	_	3	punct	_
+
+1	 The	 the	DT	p2=VB	3	det	_
+2	former	former	JJ	_	3	amod	_
+3	congressman was	congressman was	NNP	p2=NNS	4	nsubj	4:A0=PAG;6:A0=PAG
+4	required	require	VBN	p2=VBD|pb=require.01	0	root	_
+5	to	to	TO	_	6	aux	_
+6	pay	pay	VB	pb=pay.01	4	xcomp	4:A1=PPT
+7	a 	a 	IN	p2=CC	9	advmod	_
+8	$	$	$	_	9	nmod	_
+9	750,000	0	CD	_	10	num	_
+10	forfeiture	forfeiture	NN	_	6	dobj	6:A1=VSP
+11	to	to	IN	_	6	prep	6:A2=GOL
+12	the	the	DT	_	14	det	_
+13	federal	federal	JJ	_	14	amod	_
+14	government	government	NN	_	11	pobj	_
+15	.	.	.	_	4	punct	_
+
+1	 Last	 last	DT	p2=JJ	2	det	_
+2	year	year	NN	_	5	npadvmod	5:AM-TMP
+3	,	,	,	_	5	punct	_
+4	Jackson	jackson	NNP	_	5	nsubj	5:A0
+5	made	make	VBD	pb=make.LV	16	ccomp	_
+6	a	a	DT	_	9	det	_
+7	$	$	$	_	8	nmod	_
+8	200,000	0	CD	_	9	nn	_
+9	payment	payment	NN	_	5	dobj	5:AM-PRR
+10	toward that	toward that	WDT	p2=NNP	11	advmod	_
+11	balance via	balance via	NNP	p2=:	16	dep	_
+12	a	a	DT	_	13	det	_
+13	check	check	NN	_	11	appos	_
+14	,	,	,	_	16	punct	_
+15	records	record	NNS	_	16	nsubj	16:A0=CAU
+16	show	show	VBP	pb=show.01	0	root	_
+17	.	.	.	_	16	punct	_
+
+1	Jackson	jackson	NNP	_	2	nn	_
+2	is 	is 	NNP	p2=VBZ	4	nsubj	4:A0=PAG
+3	currently	currently	RB	_	4	advmod	4:AM-TMP
+4	serving	serve	VBG	pb=serve.01	0	root	_
+5	his	his	PRP$	_	7	poss	_
+6	prison	prison	NN	_	7	nn	_
+7	term	term	NN	_	4	dobj	4:A1=PPT
+8	 in a prison facility in	 in a prison facility in	NNP	p2=IN	9	nn	_
+9	Montgomery	montgomery	NNP	_	7	appos	_
+10	,	,	,	_	9	punct	_
+11	Alabama	alabama	NNP	_	9	appos	_
+12	.	.	.	_	4	punct	_
+
+1	Jackson	jackson	NNP	_	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	wife	wife	NN	_	35	nsubj	8:A0=PAG;10:A0=PAG;24:A0=PAG;35:A0=PAG;22:A1=PAG
+4	,	,	,	_	3	punct	_
+5	Sandi	sandi	NNP	_	3	appos	_
+6	,	,	,	_	3	punct	_
+7	who 	who 	WP	p2=WDT	8	nsubj	8:R-A0
+8	admitted	admit	VBD	pb=admit.01	3	rcmod	_
+9	to	to	IN	_	8	prep	8:A1
+10	conspiring	conspire	VBG	pb=conspire.01	9	pcomp	_
+11	 with	 with	IN	p2=PDT	10	prep	10:A1=PPT
+12	her	her	PRP$	_	13	poss	_
+13	husband	husband	NN	_	11	pobj	_
+14	on	on	IN	_	10	prep	10:AM-LOC
+15	the	the	DT	_	16	det	_
+16	spending	spending	NN	_	14	pobj	_
+17	of	of	IN	_	16	prep	_
+18	campaign	campaign	NN	_	19	nn	_
+19	funds	fund	NNS	_	17	pobj	_
+20	and	and	CC	_	8	cc	_
+21	also	also	RB	_	22	advmod	22:AM-ADV
+22	failed	fail	VBD	pb=fail.01	8	conj	_
+23	to	to	TO	_	24	aux	_
+24	report	report	VB	pb=report.01	22	xcomp	22:A2=PPT
+25	some	some	DT	_	27	det	_
+26	$	$	$	_	27	nmod	_
+27	600,000	0	CD	_	24	dobj	24:A1
+28	of	of	IN	_	27	prep	_
+29	income	income	NN	_	28	pobj	_
+30	on	on	IN	_	27	prep	_
+31	tax	tax	NN	_	32	nn	_
+32	returns	return	NNS	_	30	pobj	_
+33	,	,	,	_	3	punct	_
+34	will	will	MD	_	35	aux	35:AM-MOD
+35	head	head	VB	pb=head.02	0	root	_
+36	to	to	IN	p2=TO	35	prep	35:A1=PPT
+37	prison	prison	NN	_	36	pobj	_
+38	for	for	IN	_	35	prep	35:AM-TMP
+39	one	#crd#	CD	_	40	num	_
+40	year	year	NN	_	38	pobj	_
+41	once	once	IN	_	44	mark	_
+42	her	her	PRP$	_	43	poss	_
+43	husband	husband	NN	_	44	nsubj	44:A0=PAG
+44	completes	complete	VBZ	pb=complete.01	35	advcl	35:AM-TMP
+45	his	his	PRP$	_	46	poss	_
+46	sentence	sentence	NN	_	44	dobj	44:A1=PPT
+47	.	.	.	_	35	punct	_
+

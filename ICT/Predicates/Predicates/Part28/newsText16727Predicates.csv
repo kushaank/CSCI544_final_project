@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"The company ,",claim.01,controller - gives users,,Affirmative,"The company , Beijing - based ANTVR , claims that its product - which includes a wireless headset and a controller - gives users the opportunity to completely immerse themselves in larger - than - life versions of their favourite media . "
+its product -,give.01,the opportunity,users,Affirmative,"The company , Beijing - based ANTVR , claims that its product - which includes a wireless headset and a controller - gives users the opportunity to completely immerse themselves in larger - than - life versions of their favourite media . "
+users,immerse.01,users,in,Affirmative,"The company , Beijing - based ANTVR , claims that its product - which includes a wireless headset and a controller - gives users the opportunity to completely immerse themselves in larger - than - life versions of their favourite media . "
+the largest 4:3 standard screen in,give.01,a 100° diagonal field of view,you,Affirmative,"While wearing the headset , you 're surrounded by the largest 4:3 standard screen in the world , which gives you a 100° diagonal field of view . "
+This,give.01,like experience in,users,Affirmative,This gives users an IMAX - like experience in the comfort of their own homes . 
+Qin,say.01,he was inspired,,Affirmative,Qin says he was inspired to found a company and create the ANTVR KIT largely from a love of science fiction . 
+Qin,find.01,a company,,Affirmative,Qin says he was inspired to found a company and create the ANTVR KIT largely from a love of science fiction . 
+Qin,create.01,the ANTVR KIT,largely from,Affirmative,Qin says he was inspired to found a company and create the ANTVR KIT largely from a love of science fiction . 
+"fi stories ,",produce.01,few short movies,,Affirmative,"sci - fi stories , several of which were published in a major Chinese magazine , and even produced a few short movies , he told Tech in Asia . "
+he,tell.01,"fi stories ,",Tech,Affirmative,"sci - fi stories , several of which were published in a major Chinese magazine , and even produced a few short movies , he told Tech in Asia . "
+I,build.01,several swimming robots,,Affirmative,"I [ also ] built several swimming robots , developed some satellite software , and a made a device that can identify people in virtual reality worlds . "
+I,develop.02,some satellite software,,Affirmative,"I [ also ] built several swimming robots , developed some satellite software , and a made a device that can identify people in virtual reality worlds . "
+a,make.01,a device,,Affirmative,"I [ also ] built several swimming robots , developed some satellite software , and a made a device that can identify people in virtual reality worlds . "
+a device,identify.01,people in,,Affirmative,"I [ also ] built several swimming robots , developed some satellite software , and a made a device that can identify people in virtual reality worlds . "
+Qin,invent.01,a lot of,,Affirmative,"To this end , I invented a lot of virtual reality devices like holographic glasses and ... "
+I,create.01,KIT prototype,,Affirmative,Then I created the first ANTVR KIT prototype all by myself last year . 
+the project,raise.02,"over US$ 200,000",,Affirmative,"If the project raises over US$ 200,000 by June 23 , then it will be put into production . "
+They,have.03,yet,,Affirmative,"They have yet to show anything at all to confirm any of their silly claims , and they try to make their system sound better than anything else out there when it is likely nothing great . "
+They,show.01,anything,,Affirmative,"They have yet to show anything at all to confirm any of their silly claims , and they try to make their system sound better than anything else out there when it is likely nothing great . "
+They,confirm.01,any of,,Affirmative,"They have yet to show anything at all to confirm any of their silly claims , and they try to make their system sound better than anything else out there when it is likely nothing great . "
+they,try.01,to make,,Affirmative,"They have yet to show anything at all to confirm any of their silly claims , and they try to make their system sound better than anything else out there when it is likely nothing great . "
+they,make.02,system sound better than anything else,,Affirmative,"They have yet to show anything at all to confirm any of their silly claims , and they try to make their system sound better than anything else out there when it is likely nothing great . "
+you,find.01,the answers,,Affirmative,Just search up AntVR threads and you will find the answers . 

@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+candidate,lead.02,the European Commission,,Affirmative,"Martin Schulz , the centre-left 's candidate to lead the European Commission after EU parliamentary elections this month , has joined calls for Google 's market dominance to be subject to strict regulation . "
+"Martin Schulz ,",join.01,calls for,,Affirmative,"Martin Schulz , the centre-left 's candidate to lead the European Commission after EU parliamentary elections this month , has joined calls for Google 's market dominance to be subject to strict regulation . "
+Economy Minister,say.01,was,,Affirmative,Two days ago Germany 's Economy Minister Sigmar Gabriel said a ruling by a top European court on Tuesday that Internet firms can be made to remove irrelevant or excessive personal information from the web was a wake up call for digital safeguards . 
+Germany 's,consider.02,were abusing,,Affirmative,Germany was considering if firms such as Google were abusing their market leader position he said . 
+firms,abuse.01,leader position,,Affirmative,Germany was considering if firms such as Google were abusing their market leader position he said . 
+Germany 's Economy Minister Sigmar Gabriel,say.01,leader position,,Affirmative,Germany was considering if firms such as Google were abusing their market leader position he said . 
+Google 's,decline.02,to comment,,Affirmative,Google has declined to comment . 
+"Whoever knows everything about citizens , firms and politicians",achieve.01,a level of power,,Affirmative,"Whoever knows everything about citizens , firms and politicians achieves a level of power which does n't belong in a pluralistic democracy , Schulz , who is president of the European parliament , told Reuters in Berlin . "
+a level of power,belong.01,in,,Affirmative,"Whoever knows everything about citizens , firms and politicians achieves a level of power which does n't belong in a pluralistic democracy , Schulz , who is president of the European parliament , told Reuters in Berlin . "
+Google 's,face.01,difficulties,,Affirmative,"Besides concerns about what data it displays , the world 's top Internet search engine Google has also faced difficulties over anti-trust issues and how it shows competitors ' information . "
+a level of power which does n't belong in a pluralistic democracy,show.01,information,,Affirmative,"Besides concerns about what data it displays , the world 's top Internet search engine Google has also faced difficulties over anti-trust issues and how it shows competitors ' information . "
+Google 's,reach.01,a deal with,,Affirmative,"Google reached a deal with EU antitrust chief Joaquin Almunia in February by agreeing to display rivals ' links more prominently , hoping to end a three - year - old case that could have led to a fine of up to $ 5 billion ( 3.6 billion euros ) . "
+Google 's,display.01,links,,Affirmative,"Google reached a deal with EU antitrust chief Joaquin Almunia in February by agreeing to display rivals ' links more prominently , hoping to end a three - year - old case that could have led to a fine of up to $ 5 billion ( 3.6 billion euros ) . "
+rivals ',say.01,concessions do not go,,Affirmative,Rivals say Google 's concessions do not go far enough and will only entrench its dominance of Internet searches . 
+concessions,go.02,far enough,,Affirmative,Rivals say Google 's concessions do not go far enough and will only entrench its dominance of Internet searches . 
+concessions,entrench.01,its dominance of,,Affirmative,Rivals say Google 's concessions do not go far enough and will only entrench its dominance of Internet searches . 
+EU regulators,plan.01,to issue,,Affirmative,EU regulators plan to issue a final decision after the summer break . 
+EU regulators,issue.01,a final decision after,,Affirmative,EU regulators plan to issue a final decision after the summer break . 
+Google 's,receive.01,down requests,,Affirmative,Google recently started receiving take - down requests after an EU Court upheld the ' Right to be forgotten ' law . 
+an EU Court,uphold.01,the ' Right,,Affirmative,Google recently started receiving take - down requests after an EU Court upheld the ' Right to be forgotten ' law . 
+The company,say.01,it would take weeks,,Affirmative,The company said it would take weeks to devise a way to comply with a European Court of Justice ruling that it honour requests to be forgotten . 
+to devise,take.10,weeks,,Affirmative,The company said it would take weeks to devise a way to comply with a European Court of Justice ruling that it honour requests to be forgotten . 
+a European Court of Justice,rule.01,requests to be forgotten,,Affirmative,The company said it would take weeks to devise a way to comply with a European Court of Justice ruling that it honour requests to be forgotten . 

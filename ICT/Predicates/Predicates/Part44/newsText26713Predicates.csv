@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Gunmen,kill.01,two soldiers,,Affirmative,"Gunmen killed two soldiers in an ambush on an army patrol in southeastern Yemen on Monday , a security official said . "
+a security official,say.01,Gunmen killed,,Affirmative,"Gunmen killed two soldiers in an ambush on an army patrol in southeastern Yemen on Monday , a security official said . "
+Unknown gunmen,open.01,fire,,Affirmative,"Unknown gunmen opened fire at a military vehicle killing two soldiers , the source said . "
+a military vehicle killing,kill.01,two soldiers,,Affirmative,"Unknown gunmen opened fire at a military vehicle killing two soldiers , the source said . "
+the source,say.01,gunmen opened fire at,,Affirmative,"Unknown gunmen opened fire at a military vehicle killing two soldiers , the source said . "
+a security official,say.01,assailants fled,,Affirmative,"The assailants fled , he said . "
+"Its Yemeni franchise ,",take.01,advantage,of,Affirmative,"Its Yemeni franchise , Al - Qaida in the Arabian Peninsula , took advantage of a 2011 uprising that ousted veteran president Ali Abdullah Saleh to seize large swathes of the south and east . "
+a 2011 uprising,oust.01,veteran president,,Affirmative,"Its Yemeni franchise , Al - Qaida in the Arabian Peninsula , took advantage of a 2011 uprising that ousted veteran president Ali Abdullah Saleh to seize large swathes of the south and east . "
+The army,recapture.01,several major towns,,Affirmative,The army recaptured several major towns in 2012 but has struggled to reassert control in rural areas despite recruiting militia allies among local tribes . 
+The army,struggle.02,to reassert control in,,Affirmative,The army recaptured several major towns in 2012 but has struggled to reassert control in rural areas despite recruiting militia allies among local tribes . 

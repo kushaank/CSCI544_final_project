@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+she,say.01,was bullying,,Affirmative,"( AP ) - A mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+A mother suspected of attacking,target.01,the wrong child,,Affirmative,"( AP ) - A mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+official,say.01,may have targeted,,Affirmative,"( AP ) - A mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+Investigators,find.01,evidence linking,,Affirmative,"Investigators have not found evidence linking the boy to the bullying allegations , Sonoma County sheriff 's Lt. Steve Brown said . "
+Lt. Steve Brown,say.01,Investigators have not found evidence linking,,Affirmative,"Investigators have not found evidence linking the boy to the bullying allegations , Sonoma County sheriff 's Lt. Steve Brown said . "
+He,say.01,they are looking into,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+they,look.01,into,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+another child,harass.01,the girl,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+deputies,say.01,she came to,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+she,grab.01,the boy,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+She,ask.02,to point out,"her son ,",Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+"her son ,",attend.01,the school,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+"her son ,",point.02,who was bullying,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+office,say.01,She asked,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+she,retain.01,a lawyer,,Affirmative,"It is not clear whether she has retained a lawyer , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,It is not clear,,Affirmative,"It is not clear whether she has retained a lawyer , Brown said . "
+several students,see.01,the incident,,Affirmative,"While several students saw the incident , no adults witnessed what happened , Brown said . "
+no adults,witness.01,what happened,,Affirmative,"While several students saw the incident , no adults witnessed what happened , Brown said . "
+Brown,say.01,adults witnessed,,Affirmative,"While several students saw the incident , no adults witnessed what happened , Brown said . "
+The students,tell.01,Bratcher threatened,a deputy,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+Garcia - Bratcher,threaten.01,about bullying,the boy,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+Garcia - Bratcher,bully.01,her daughter,,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+The school staff,take.01,photos of,,Affirmative,"The school staff took photos of red marks on the boy 's neck , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,staff took photos of,,Affirmative,"The school staff took photos of red marks on the boy 's neck , Brown said . "
+Garcia - Bratcher,give.01,a statement,,Affirmative,"On Saturday , Garcia - Bratcher came into the sheriff 's office to give a statement and was briefly taken into custody afterward , Brown said . "
+Brown,say.01,Bratcher came into,,Affirmative,"On Saturday , Garcia - Bratcher came into the sheriff 's office to give a statement and was briefly taken into custody afterward , Brown said . "
+spokeswoman,say.01,office was still awaiting,,Affirmative,A Sonoma County district attorney 's spokeswoman said Monday that her office was still awaiting the sheriff 's report before deciding on filing any criminal charges . 
+school officials,investigate.01,girl was bullied,,Affirmative,"Meanwhile , school officials also were investigating whether the girl was bullied . "
+Officials from,give.01,a flier,parents,Affirmative,Officials from the Piner - Olivet Union School District gave parents a flier Monday about the incident and reminded them about the school 's visitation policy . 
+Officials from,remind.01,about,them,Affirmative,Officials from the Piner - Olivet Union School District gave parents a flier Monday about the incident and reminded them about the school 's visitation policy . 

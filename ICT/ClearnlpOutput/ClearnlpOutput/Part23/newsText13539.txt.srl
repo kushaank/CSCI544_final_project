@@ -1,0 +1,36 @@
+1	BC	bc	NNP	_	3	nn	_
+2	,	,	,	_	1	punct	_
+3	Vilnius	vilnius	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	19.05.2014	0	CD	_	3	appos	_
+6	.	.	.	_	1	punct	_
+
+1	"	"	``	p2=''	4	punct	_
+2	Lithuania	lithuania	NNP	_	4	nsubj	4:A0=PAG
+3	can	can	MD	_	4	aux	4:AM-MOD
+4	offer	offer	VB	pb=offer.01	20	ccomp	20:A1=PPT
+5	economically	economically	RB	_	6	advmod	_
+6	attractive	attractive	JJ	_	8	amod	_
+7	business	business	NN	_	8	nn	_
+8	opportunities	opportunity	NNS	_	4	dobj	4:A1=PPT;16:A1=PPT
+9	that	that	WDT	_	16	nsubjpass	16:R-A1
+10	,	,	,	_	12	punct	_
+11	we	we	PRP	_	12	nsubj	12:A0
+12	hope	hope	VBP	pb=hope.01	16	parataxis	_
+13	,	,	,	_	16	punct	_
+14	will	will	MD	_	16	aux	16:AM-MOD
+15	be	be	VB	_	16	auxpass	_
+16	used	use	VBN	pb=use.01	8	rcmod	_
+17	advantageously	advantageously	RB	_	16	advmod	16:AM-MNR
+18	"	"	''	_	4	punct	_
+19	,	,	,	_	20	punct	_
+20	said	say	VBD	pb=say.01	0	root	_
+21	Arijandas	arijandas	NNP	p2=NNPS	22	nn	_
+22	Sliupas	sliupas	NNP	_	20	nsubj	20:A0
+23	.	.	.	_	20	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

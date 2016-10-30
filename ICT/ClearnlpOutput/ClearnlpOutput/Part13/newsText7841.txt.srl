@@ -1,0 +1,192 @@
+1	The	the	DT	_	3	det	_
+2	general	general	JJ	_	3	amod	_
+3	manager	manager	NN	_	14	nsubj	14:A1=PPT
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	company	company	NN	_	4	pobj	7:A0=PAG
+7	operating	operate	VBG	pb=operate.01	6	partmod	_
+8	the	the	DT	_	9	det	_
+9	mine	mine	NN	_	7	dobj	7:A1=PPT
+10	,	,	,	_	9	punct	_
+11	Ramazan	ramazan	NNP	_	12	nn	_
+12	Dogru	dogru	NNP	_	9	appos	_
+13	,	,	,	_	14	punct	_
+14	was	be	VBD	pb=be.01	0	root	_
+15	arrested on	arrested on	NNP	p2=VBN	16	nn	_
+16	Monday	monday	NNP	_	14	attr	14:A2=PRD
+17	.	.	.	_	14	punct	_
+
+1	Dogru	dogru	NNP	_	15	nsubj	4:A1=PPT;15:A1=PPT
+2	,	,	,	_	1	punct	_
+3	who	who	WP	_	4	nsubj	4:R-A1
+4	was	be	VBD	pb=be.01	1	rcmod	_
+5	present	present	JJ	_	4	acomp	4:A2=PRD
+6	at	at	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	company	company	NN	_	11	poss	_
+9	's	's	POS	_	8	possessive	_
+10	press	press	NN	_	11	nn	_
+11	conferences	conference	NNS	_	6	pobj	_
+12	last	last	JJ	_	13	amod	_
+13	week	week	NN	_	4	npadvmod	4:AM-TMP
+14	,	,	,	_	1	punct	_
+15	is	be	VBZ	pb=be.01	0	root	_
+16	the	the	DT	_	18	det	_
+17	highest	high	JJS	_	18	amod	_
+18	official	official	NN	p2=JJ	15	attr	21:A1;15:A2=PRD
+19	to	to	TO	_	21	aux	_
+20	be	be	VB	_	21	auxpass	_
+21	investigated	investigate	VBN	pb=investigate.01	18	infmod	_
+22	along	along	IN	p2=RP	21	prep	21:A2=PPT
+23	with	with	IN	_	22	prep	_
+24	Soma	soma	NNP	_	26	nn	_
+25	Coal	coal	NNP	_	26	nn	_
+26	Mining	mining	NNP	_	28	nn	_
+27	Company	company	NNP	_	28	nn	_
+28	CEO	ceo	NNP	p2=NN	23	pobj	_
+29	Can	can	MD	p2=NNP	30	aux	_
+30	Gurkan	gurkan	NNP	p2=VB	18	appos	33:A1=PPT
+31	,	,	,	_	30	punct	_
+32	who	who	WP	_	33	nsubj	33:R-A1
+33	is	be	VBZ	pb=be.01	30	rcmod	_
+34	also	also	RB	_	33	advmod	33:AM-ADV
+35	the	the	DT	_	36	det	_
+36	son	son	NN	_	33	attr	33:A2=PRD
+37	of	of	IN	_	36	prep	_
+38	the	the	DT	_	39	det	_
+39	owner	owner	NN	_	37	pobj	_
+40	,	,	,	_	39	punct	_
+41	Alp	alp	NNP	_	42	nn	_
+42	Gurkan	gurkan	NNP	_	39	appos	_
+43	.	.	.	_	15	punct	_
+
+1	The	the	DT	_	2	det	_
+2	arrests	arrest	NNS	_	3	nsubj	3:A1=PPT
+3	came	come	VBD	pb=come.01	0	root	_
+4	after	after	IN	p2=RB	3	prep	3:AM-TMP
+5	25 people	0 people	NNS	p2=CD	4	pobj	_
+6	,	,	,	_	5	punct	_
+7	including	include	VBG	_	5	prep	_
+8	company	company	NN	_	9	nn	_
+9	executives	executive	NNS	_	7	pobj	11:A1
+10	,	,	,	_	9	punct	_
+11	 were detained	 were detained	VBN	p2=''|pb= were detained.01	9	partmod	_
+12	and	and	CC	_	11	cc	_
+13	questioned	question	VBN	pb=question.01	11	conj	_
+14	.	.	.	_	3	punct	_
+
+1	-	-	HYPH	p2=:	4	punct	_
+2	'	'	``	p2=''	4	punct	_
+3	Reckless	reckless	JJ	p2=NNP	4	amod	_
+4	killing	killing	NN	p2=VBG	8	nsubj	8:A1=PPT
+5	'	'	''	_	4	punct	_
+6	Prosecutor Bekir	prosecutor bekir	NNP	_	7	nn	_
+7	Sahiner	sahiner	NNP	_	4	appos	_
+8	said	say	VBD	pb=say.01	0	root	_
+9	on	on	IN	_	8	prep	8:AM-LOC
+10	Sunday that	sunday that	NNP	p2=XX	9	pobj	_
+11	,	,	,	_	8	punct	_
+12	according	accord	VBG	_	8	prep	8:AM-ADV
+13	to	to	IN	_	12	prep	_
+14	a	a	DT	_	15	det	_
+15	preliminary report	preliminary report	NN	p2=NNP	13	pobj	_
+16	on	on	IN	_	15	prep	_
+17	the incident	the incident	NNP	p2=NN	16	pobj	_
+18	,	,	,	_	17	punct	_
+19	a	a	DT	_	20	det	_
+20	malfunction	malfunction	NN	_	17	appos	26:A0=CAU
+21	of	of	IN	_	20	prep	_
+22	an	an	DT	_	24	det	_
+23	electrical	electrical	JJ	_	24	amod	_
+24	transformer did	transformer did	NN	p2=TO	21	pobj	_
+25	not	not	RB	_	26	neg	26:AM-NEG
+26	cause	cause	VB	p2=IN|pb=cause.01	20	infmod	_
+27	the	the	DT	_	30	det	_
+28	May	may	NNP	_	30	nn	_
+29	13	0	CD	_	28	num	_
+30	disaster	disaster	NN	_	26	dobj	26:A1=PPT
+31	,	,	,	_	26	punct	_
+32	as	as	IN	p2=RB	35	mark	_
+33	had	have	VBD	p2=VBN	35	aux	_
+34	been	be	VBN	_	35	auxpass	_
+35	speculated	speculate	VBN	pb=speculate.01	26	advcl	_
+36	.	.	.	_	8	punct	_
+
+1	Rescue	rescue	NN	p2=VB	2	nn	_
+2	operations	operation	NNS	_	5	nsubj	5:A1
+3	in	in	IN	_	2	prep	_
+4	the mine	the mine	NN	p2=NNP	3	pobj	_
+5	ended	ended	VBD	p2=VBN|pb=end.01	0	root	_
+6	on	on	IN	_	5	prep	5:AM-TMP
+7	Saturday	saturday	NNP	_	6	pobj	_
+8	after	after	IN	_	18	mark	_
+9	the	the	DT	_	10	det	_
+10	bodies	body	NNS	_	18	nsubjpass	18:A1=PPT
+11	of	of	IN	_	10	prep	_
+12	the	the	DT	_	14	det	_
+13	last	last	JJ	_	14	amod	_
+14	two	#crd#	CD	_	11	pobj	15:A1
+15	miners trapped	miners trapped	VBN	p2=NNP|pb=miners trapped.01	14	partmod	_
+16	underground	underground	RB	p2=JJ	15	advmod	15:AM-LOC
+17	were	be	VBD	_	18	auxpass	_
+18	found	find	VBN	pb=find.01	5	advcl	5:AM-TMP
+19	,	,	,	_	18	punct	_
+20	bringing	bring	VBG	pb=bring.01	18	advcl	_
+21	the	the	DT	_	22	det	_
+22	total	total	NN	_	20	dobj	20:A1=PPT
+23	of	of	IN	_	22	prep	_
+24	number	number	NN	_	23	pobj	_
+25	of	of	IN	_	24	prep	_
+26	fatalities	fatality	NNS	_	25	pobj	_
+27	to	to	IN	_	20	prep	20:A2=GOL
+28	301	0	CD	_	27	pobj	_
+29	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	disaster	disaster	NN	_	3	nsubj	3:A0
+3	was the	was the	VBD	p2=POS|pb=was the.01	0	root	_
+4	deadliest	deadly	JJS	_	6	amod	_
+5	mining	mining	NN	p2=VBG	6	nn	_
+6	incident	incident	NN	_	3	dobj	3:A1
+7	in	in	IN	_	6	prep	_
+8	Turkey	turkey	NNP	_	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	history	history	NN	_	7	pobj	_
+11	,	,	,	_	6	punct	_
+12	 surpassing the death	 surpassing the death	CC	p2=JJ	6	cc	_
+13	toll	toll	NN	_	6	conj	_
+14	of	of	IN	_	13	prep	_
+15	a	a	DT	_	17	det	_
+16	firedamp	firedamp	JJ	p2=NN	17	amod	_
+17	explosion	explosion	NN	_	14	pobj	19:A0=PAG
+18	that	that	WDT	_	19	nsubj	19:R-A0
+19	killed	kill	VBD	pb=kill.01	17	rcmod	_
+20	263	0	CD	_	21	num	_
+21	miners	miner	NNS	_	19	dobj	19:A1=PPT
+22	in	in	IN	_	21	prep	_
+23	Zonguldak	zonguldak	NNP	_	22	pobj	_
+24	in	in	IN	_	19	prep	19:AM-TMP
+25	1992	0	CD	_	24	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Dozens	dozen	NNS	_	6	nsubjpass	8:A0=PAG;6:A1=PPT
+2	of	of	IN	_	1	prep	_
+3	prosecutors	prosecutor	NNS	_	2	pobj	_
+4	have	have	VBP	_	6	aux	_
+5	been	be	VBN	_	6	auxpass	_
+6	assigned	assign	VBN	pb=assign.01	0	root	_
+7	to	to	TO	_	8	aux	_
+8	oversee	oversee	VB	pb=oversee.01	6	xcomp	6:A2=GOL
+9	post-mortem	post-mortem	JJ	_	10	amod	_
+10	examinations	examination	NNS	_	8	dobj	8:A1=PPT
+11	.	.	.	_	6	punct	_
+
+1	More	more	JJR	p2=RBR	2	amod	_
+2	than 480	than 0	CD	p2=IN	3	num	_
+3	workers	worker	NNS	_	4	nsubj	4:A0=PAG
+4	survived	survive	VBD	pb=survive.01	0	root	_
+5	the	the	DT	_	7	det	_
+6	Soma	soma	NNP	p2=NN	7	nn	_
+7	disaster	disaster	NN	_	4	dobj	4:A1=PPT
+8	.	.	.	_	4	punct	_
+

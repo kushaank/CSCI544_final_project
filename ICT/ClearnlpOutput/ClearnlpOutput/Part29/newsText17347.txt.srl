@@ -1,0 +1,66 @@
+1	TEA	tea	NNP	p2=NN	3	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	Ratcliffe	ratcliffe	NNP	_	4	nsubj	4:A0=PAG
+4	confirmed	confirm	VBD	pb=confirm.01	0	root	_
+5	that	that	IN	_	10	complm	_
+6	protecting	protect	VBG	pb=protect.01	7	amod	_
+7	teacher	teacher	NN	_	9	poss	6:A0=PAG
+8	's	's	POS	_	7	possessive	_
+9	privacy	privacy	NN	_	10	nsubj	10:A1=PPT
+10	is	be	VBZ	pb=be.01	4	ccomp	4:A1=PPT
+11	critical	critical	JJ	_	10	acomp	10:A2=PRD
+12	.	.	.	_	4	punct	_
+
+1	 	 	``	p2=NNP	3	punct	_
+2	She	she	PRP	_	3	nsubj	3:A0=PAG
+3	pointed	point	VBD	pb=point.02	0	root	_
+4	out	out	RP	_	3	prt	3:C-V
+5	that	that	IN	_	7	complm	_
+6	teachers	teacher	NNS	_	7	nsubj	7:A0=PAG
+7	access	access	VBP	p2=NN|pb=access.01	3	ccomp	3:A1=PPT
+8	the	the	DT	_	9	det	_
+9	survey	survey	NN	_	7	dobj	7:A1=PPT
+10	with	with	IN	_	7	prep	7:AM-MNR
+11	codes	code	NNS	_	10	pobj	12:A1=PPT
+12	linked	link	VBN	pb=link.01	11	partmod	_
+13	to	to	IN	_	12	prep	_
+14	their	their	PRP$	_	15	poss	_
+15	district	district	NN	_	13	pobj	_
+16	.	.	.	_	3	punct	_
+
+1	 	 	:	p2=NN	14	punct	_
+2	"	"	``	_	14	punct	_
+3	If	if	IN	_	5	mark	_
+4	you	you	PRP	_	5	nsubj	5:A0=PAG
+5	have	have	VBP	pb=have.03	14	advcl	14:AM-ADV
+6	only	only	RB	_	8	advmod	_
+7	a	a	DT	_	8	quantmod	_
+8	few	few	JJ	_	9	num	_
+9	people	people	NNS	_	10	nsubj	_
+10	respond	respond	VBP	p2=VB	5	dobj	5:A1=PPT
+11	,	,	,	_	14	punct	_
+12	it	it	PRP	_	14	nsubj	_
+13	could	could	MD	_	14	aux	14:AM-MOD
+14	be	be	VB	pb=be.01	34	ccomp	34:A1=PPT
+15	possible	possible	JJ	_	14	acomp	14:A2=PRD
+16	to	to	TO	_	17	aux	_
+17	determine	determine	VB	pb=determine.01	14	xcomp	14:A1=PPT
+18	how	how	WRB	_	22	advmod	22:R-AM-MNR
+19	a	a	DT	_	21	det	_
+20	particular	particular	JJ	_	21	amod	_
+21	teacher	teacher	NN	_	22	nsubj	22:A0=PAG;24:A0=PAG
+22	answered	answer	VBD	p2=VBN|pb=answer.01	17	ccomp	17:A1=PPT
+23	,	,	,	_	22	punct	_
+24	making	make	VBG	pb=make.02	22	advcl	22:AM-ADV
+25	it	it	PRP	_	30	nsubj	_
+26	no	no	RB	_	27	neg	_
+27	longer	long	RBR	p2=RB	30	advmod	_
+28	an	an	DT	_	30	det	_
+29	anonymous	anonymous	JJ	_	30	amod	_
+30	survey	survey	NN	_	24	ccomp	24:A1=PRD
+31	,	,	,	_	34	punct	_
+32	"	"	''	_	34	punct	_
+33	she	she	PRP	_	34	nsubj	34:A0
+34	said	say	VBD	pb=say.01	0	root	_
+35	.	.	.	_	34	punct	_
+

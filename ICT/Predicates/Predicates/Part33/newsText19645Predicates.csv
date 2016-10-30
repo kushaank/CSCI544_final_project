@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+state,own.01,owned power company,,Affirmative,"The day before his arrest , Indian state owned power company NTPC cancelled Thiess 's contract to build the Pakri Barwadih coal mine - believed to be related to missed deadlines - in the latest blow to Leighton 's international operations . "
+company NTPC,cancel.01,contract,,Affirmative,"The day before his arrest , Indian state owned power company NTPC cancelled Thiess 's contract to build the Pakri Barwadih coal mine - believed to be related to missed deadlines - in the latest blow to Leighton 's international operations . "
+Leighton 's,say.01,is other than,,Affirmative,Leighton will not say what the subject of the dispute is other than that it is unfounded and relates to a two - year - old complaint by Hyderabad company Roshni Developers against Dr Srikanth . 
+Leighton 's,face.01,charges of cheating and,,Affirmative,It was reported in India that he is facing charges of cheating and criminal breach of trust by not sub-contracting work to Roshni developers . 
+Leighton 's,say.01,value is,,Affirmative,Leighton said the contract 's value is $ 267 million over five years and not material to its results . 
+power company NTPC,say.01,value is,,Affirmative,"NTPC has said the value is about $ US3.8 billion and has called in $ 18.5 million in bank guarantees issued by Thiess , which the latter is taking legal action to recover . "
+the contract 's value,call.04,$ 18.5 million in,,Affirmative,"NTPC has said the value is about $ US3.8 billion and has called in $ 18.5 million in bank guarantees issued by Thiess , which the latter is taking legal action to recover . "
+"by Thiess ,",issue.01,"bank guarantees issued by Thiess ,",,Affirmative,"NTPC has said the value is about $ US3.8 billion and has called in $ 18.5 million in bank guarantees issued by Thiess , which the latter is taking legal action to recover . "
+the latter,take.01,"Thiess ,",,Affirmative,"NTPC has said the value is about $ US3.8 billion and has called in $ 18.5 million in bank guarantees issued by Thiess , which the latter is taking legal action to recover . "

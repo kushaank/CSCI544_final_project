@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Village officials,vote.01,to hold,,Affirmative,"Old Westbury Village officials unanimously voted Monday night to hold a public hearing next month on a proposed law restricting accessory structures , including statues , to a 25 - foot height limit . "
+Village officials,hold.04,a public hearing,,Affirmative,"Old Westbury Village officials unanimously voted Monday night to hold a public hearing next month on a proposed law restricting accessory structures , including statues , to a 25 - foot height limit . "
+a proposed law restricting,restrict.01,"accessory structures , including statues",to,Affirmative,"Old Westbury Village officials unanimously voted Monday night to hold a public hearing next month on a proposed law restricting accessory structures , including statues , to a 25 - foot height limit . "
+"The hearing ,",consider.01,a law,,Affirmative,"The hearing , to be held June 16 , would consider a law to align limits of structures with those of accessory buildings . "
+"a proposed law restricting accessory structures , including statues , to a 25-foot height limit",take.01,aim,at,Affirmative,"The proposed law takes aim at a 33 - foot graphic sculpture of a nude , pregnant woman installed by a real estate mogul on his historic estate . "
+by,instal.01,"a nude , pregnant woman installed by",,Affirmative,"The proposed law takes aim at a 33 - foot graphic sculpture of a nude , pregnant woman installed by a real estate mogul on his historic estate . "
+"statue ,",display.01,the insides of,,Affirmative,"Aby Rosen 's statue , The Virgin Mother , by British artist Damien Hirst , displays the insides of nearly half of the woman 's body , with her skull , tissue and part of the fetus exposed , much of it painted red . "
+much of it,paint.02,red,,Affirmative,"Aby Rosen 's statue , The Virgin Mother , by British artist Damien Hirst , displays the insides of nearly half of the woman 's body , with her skull , tissue and part of the fetus exposed , much of it painted red . "
+Aby Rosen 's,seek.01,approvals from,,Affirmative,"Neighbors complained , and the statue has been covered in netting while Rosen seeks approvals from the village Building Department and Architectural Review Board . "
+An attorney for Rosen,say.01,he is willing,,Affirmative,An attorney for Rosen has said he is willing to work with the village to bring the statue into compliance with local laws . 
+An attorney for Rosen,work.01,to bring,,Affirmative,An attorney for Rosen has said he is willing to work with the village to bring the statue into compliance with local laws . 
+An attorney for Rosen,bring.01,Aby Rosen 's statue,,Affirmative,An attorney for Rosen has said he is willing to work with the village to bring the statue into compliance with local laws . 
+Mayor Fred Carillo,say.01,controversy prompted,,Affirmative,"Mayor Fred Carillo has said the controversy prompted a review of the code , which limits accessory buildings such as cabanas or sheds -- but not statues -- to 25 feet in height . "
+the controversy,prompt.01,a review of,,Affirmative,"Mayor Fred Carillo has said the controversy prompted a review of the code , which limits accessory buildings such as cabanas or sheds -- but not statues -- to 25 feet in height . "
+a review of,limit.01,accessory buildings,,Affirmative,"Mayor Fred Carillo has said the controversy prompted a review of the code , which limits accessory buildings such as cabanas or sheds -- but not statues -- to 25 feet in height . "
+Neighbors,want.01,a structure,,Affirmative,"We certainly would n't want a structure to be higher than a building , Carillo said Monday night , noting the law targets the monstrous statue . "
+Mayor Fred Carillo,say.01,We certainly would n't want,,Affirmative,"We certainly would n't want a structure to be higher than a building , Carillo said Monday night , noting the law targets the monstrous statue . "
+Mayor Fred Carillo,note.01,"a proposed law restricting accessory structures , including statues , to a 25-foot height limit",,Affirmative,"We certainly would n't want a structure to be higher than a building , Carillo said Monday night , noting the law targets the monstrous statue . "
+"a proposed law restricting accessory structures , including statues , to a 25-foot height limit",target.01,the monstrous statue,,Affirmative,"We certainly would n't want a structure to be higher than a building , Carillo said Monday night , noting the law targets the monstrous statue . "
+Aby Rosen 's,submit.01,plans,to,Affirmative,"Rosen has submitted plans to the building department and has agreed to turn the statue so the vivid part faces Mr. Rosen , Carillo said . "
+the vivid part,face.01,Aby Rosen 's,,Affirmative,"Rosen has submitted plans to the building department and has agreed to turn the statue so the vivid part faces Mr. Rosen , Carillo said . "
+Mayor Fred Carillo,say.01,Rosen has submitted plans to,,Affirmative,"Rosen has submitted plans to the building department and has agreed to turn the statue so the vivid part faces Mr. Rosen , Carillo said . "
+The village planning board,hear.01,the application,,Affirmative,"The village planning board will hear the application June 2 , followed by the architectural board . "
+Some village residences,comply.01,with,,Affirmative,"Some village residences must comply with a 15 - foot restriction , the law notes . "
+the law,note.01,residences must comply with,,Affirmative,"Some village residences must comply with a 15 - foot restriction , the law notes . "
+East Hills,regulate.01,statues,,Affirmative,Neighboring East Hills does not regulate statues . 
+Sands Point,have.03,no provision regulating sculptures,,Affirmative,"Sands Point has no provision regulating sculptures , officials said . "
+no provision regulating sculptures,regulate.01,sculptures,,Affirmative,"Sands Point has no provision regulating sculptures , officials said . "
+Old Westbury Village officials,say.01,Point has,,Affirmative,"Sands Point has no provision regulating sculptures , officials said . "
+North Hempstead,limit.01,Old Westbury Village officials,to,Affirmative,North Hempstead limits them to no more than 15 feet in height in rear yards for areas not governed by separate village restrictions . 
+by,govern.01,areas,,Affirmative,North Hempstead limits them to no more than 15 feet in height in rear yards for areas not governed by separate village restrictions . 
+Old Westbury Village officials,question.01,the location of,,Affirmative,"Old Westbury officials also have questioned the location of Rosen 's sculpture on the A. Conger Goodyear House , a 5.5 - acre estate built in 1938 and listed in 2003 on the National Register of Historic Places . "
+Mayor Fred Carillo,say.01,statue is within,,Affirmative,"Carillo said the statue is within a conservation easement , subject to strict rules and prohibitions on additions such as plantings or structures . "

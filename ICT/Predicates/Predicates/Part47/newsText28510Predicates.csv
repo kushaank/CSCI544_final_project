@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Vermont Technical College,request.01,million loan from,,Affirmative,Vermont Technical College is requesting another $ 2.5 million loan from the state college system . 
+state college trustees,loan.01,$ 2.5 million,the college,Affirmative,"Last year , state college trustees also loaned the college $ 2.5 million . "
+state college trustees,believe.01,loan would be enough,,Affirmative,At that time trustees believed a single loan would be enough to assist the college while a new business plan was implemented . 
+a single loan,assist.01,Vermont Technical College,,Affirmative,At that time trustees believed a single loan would be enough to assist the college while a new business plan was implemented . 
+Vermont Technical College,meet.01,enrollment projections,,Affirmative,"But according to documents released in advance of Thursday 's trustees meeting , VTC has not met enrollment projections and has n't been able to cut costs as much as anticipated . "
+Vermont Technical College,cut.02,costs,,Affirmative,"But according to documents released in advance of Thursday 's trustees meeting , VTC has not met enrollment projections and has n't been able to cut costs as much as anticipated . "
+ The college,request.01,the supplemental loan for,,Affirmative, The college is requesting the supplemental loan for fiscal year 2015 which begins July 1 . 
+State Colleges Chancellor Tim Donovan,say.01,trustees knew,,Affirmative,State Colleges Chancellor Tim Donovan says trustees knew it would take several years to address the deficit . 
+state college trustees,know.01,it would take,,Affirmative,State Colleges Chancellor Tim Donovan says trustees knew it would take several years to address the deficit . 
+to address,take.10,several years,,Affirmative,State Colleges Chancellor Tim Donovan says trustees knew it would take several years to address the deficit . 
+Vermont Technical College,record.01,larger deficit,,Affirmative,"Earlier this year , the trustees were told that the college was on track to record a significantly larger deficit than anticipated for the current fiscal year . "
+the documents accompanying,accompany.01,"meeting , based on",,Affirmative,"According to the documents accompanying this week 's Board of Trustees meeting , based on the first three quarters of the 2014 fiscal year , the deficit will be $ 2.5 million , $ 1.5 million higher than anticipated . "
+Vermont Technical College,need.01,"another , smaller , loan for",,Affirmative,"Trustees were told it 's likely the college will need another , smaller , loan for the fiscal year that begins July 1 , 2015 . "
+"Dan Smith ,",serve.01,as,,Affirmative,"Dan Smith , the Vermont State College system 's director of Community Relations and Public Policy is serving as acting president . "

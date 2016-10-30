@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Eight Capitol employees,drink.01,beer,,Affirmative," CEBU , Philippines - Eight Capitol employees were found drinking beer nearby during office hours last Friday . "
+Hilario Davide III,say.01,it was,,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+his driver,report.01,four men,to him,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+the latter,see.01,the first group,,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+Hilario Davide III,buy.01,bread,,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+nagtuo,sila.01,ipon ko,,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+ipon ko,ang.01,"usa nitagad man ,",,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+Hilario Davide III,tell.01,ko kay ang,reporters,Affirmative,"Davide said it was his driver who reported them to him after the latter saw the group while he was buying bread at a nearby bakeshop around 2 p.m. Ako giadto , nagtuo sila mo - ipon ko kay ang usa nitagad man , abi nila moapil ko , Davide told reporters . "
+Hilario Davide III,say.01,group told him,,Affirmative,"Davide said the group told him they were on leave that day , prompting him to warn them to watch out . "
+the first group,tell.01,they were on leave,him,Affirmative,"Davide said the group told him they were on leave that day , prompting him to warn them to watch out . "
+Hilario Davide III,warn.01,to watch out,them,Affirmative,"Davide said the group told him they were on leave that day , prompting him to warn them to watch out . "
+records at,show.01,five were not on leave,,Affirmative,"However , records at the Human Resource Management Office showed the five were not on leave that day . "
+Hilario Davide III,say.01,monitor nila,,Affirmative,"Tingali kompyansa ra kaayo sila wa'y mo - monitor nila , Davide said . "
+Hilario Davide III,have.03,yet,,Affirmative,Davide has yet to name them pending the investigation of the Committee on Discipline and Investigation . 
+Hilario Davide III,name.01,the four others,pending,Affirmative,Davide has yet to name them pending the investigation of the Committee on Discipline and Investigation . 
+the personnel,violate.01,the rules,,Affirmative,said the personnel will be terminated for violating the rules . 
+"Tribunalo , who was in Manila when the incident happened",say.01,"kinahanglan imbestigaron ,",,Affirmative,"Di na kinahanglan imbestigaron , si gov nakakita , Tribunalo said . "
+"Tribunalo ,",say.01,he already talked to,,Affirmative,"Tribunalo , who was in Manila when the incident happened , said he already talked to the five staff and explained to them their violations . "
+"Tribunalo , who was in Manila when the incident happened",explain.01,their violations,to them,Affirmative,"Tribunalo , who was in Manila when the incident happened , said he already talked to the five staff and explained to them their violations . "
+he,say.01,We are,,Affirmative,"We are a risk reduction office , not just hazards but also include practice , ethics , he said . "
+The three,claim.01,they worked undertime,,Affirmative,"The three claimed they worked undertime that day , but their records also proved otherwise . "
+they,work.01,undertime,,Affirmative,"The three claimed they worked undertime that day , but their records also proved otherwise . "
+Davide,say.01,violate,,Affirmative,Davide said both groups did not only violate office hours but were also lying . 
+both groups,violate.01,office hours,,Affirmative,Davide said both groups did not only violate office hours but were also lying . 
+we,appreciate.02,those,,Affirmative,"Tingali ila huna - huna buotan ra kaayo ko , we will appreciate those who do honest work , kinahanglan sad disiplinahon , he said . "
+those,do.02,honest work,,Affirmative,"Tingali ila huna - huna buotan ra kaayo ko , we will appreciate those who do honest work , kinahanglan sad disiplinahon , he said . "
+Hilario Davide III,say.01,"ko , we will appreciate those",,Affirmative,"Tingali ila huna - huna buotan ra kaayo ko , we will appreciate those who do honest work , kinahanglan sad disiplinahon , he said . "
+Davide,stress.01,he can not tolerate abuses at,,Affirmative,Davide stressed he can not tolerate abuses at the Capitol and one has to follow rules . 
+he,tolerate.01,abuses at,,Affirmative,Davide stressed he can not tolerate abuses at the Capitol and one has to follow rules . 
+one,follow.02,rules,,Affirmative,Davide stressed he can not tolerate abuses at the Capitol and one has to follow rules . 

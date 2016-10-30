@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Colombian authorities,arrest.01,the driver of,,Affirmative,Colombian authorities have arrested the driver of a bus that crashed and killed 31 children . 
+Colombian authorities,kill.01,31 children,,Affirmative,Colombian authorities have arrested the driver of a bus that crashed and killed 31 children . 
+a bus that crashed and killed 31 children,catch.01,fire,,Affirmative,The youngsters burned to death on Sunday after the bus caught fire and exploded in the north of the South American country as they returned from church services . 
+the bus driver,turn.06,the bus driver,to authorities,Affirmative,"' The driver has been arrested , he turned himself in to authorities and we expect him to explain himself at a hearing this morning , ' a local police spokesman said . "
+we,expect.01,him to explain himself at,,Affirmative,"' The driver has been arrested , he turned himself in to authorities and we expect him to explain himself at a hearing this morning , ' a local police spokesman said . "
+the bus driver,explain.01,the bus driver,,Affirmative,"' The driver has been arrested , he turned himself in to authorities and we expect him to explain himself at a hearing this morning , ' a local police spokesman said . "
+a local police spokesman,say.01,"arrested , he turned himself in to authorities",,Affirmative,"' The driver has been arrested , he turned himself in to authorities and we expect him to explain himself at a hearing this morning , ' a local police spokesman said . "
+the bus driver,flee.01,the scene,,Affirmative,"The driver had initially fled the scene , and angry locals went to his home and threw rocks at his windows . "
+angry locals,throw.01,rocks,at,Affirmative,"The driver had initially fled the scene , and angry locals went to his home and threw rocks at his windows . "
+Investigators,look.01,into,,Affirmative,"Investigators are looking into a number of potential causes of the crash , which prompted President Manuel Santos to travel to the scene and offer his condolences . "
+"the crash ,",prompt.02,President Manuel Santos,to travel to,Affirmative,"Investigators are looking into a number of potential causes of the crash , which prompted President Manuel Santos to travel to the scene and offer his condolences . "
+President Manuel Santos,travel.01,to,,Affirmative,"Investigators are looking into a number of potential causes of the crash , which prompted President Manuel Santos to travel to the scene and offer his condolences . "
+President Manuel Santos,offer.01,his condolences,,Affirmative,"Investigators are looking into a number of potential causes of the crash , which prompted President Manuel Santos to travel to the scene and offer his condolences . "
+the bus driver,use.01,contraband petrol,to refuel,Affirmative,Among the possibilities being explored is that the driver used contraband petrol to refuel the bus and that this may have led to the explosion . 
+the bus driver,refuel.01,a bus that crashed and killed 31 children,,Affirmative,Among the possibilities being explored is that the driver used contraband petrol to refuel the bus and that this may have led to the explosion . 
+official Cesar Uruena,say.01,injured - taken to,,Affirmative,"Red Cross official Cesar Uruena said on Sunday the injured - taken to area hospitals - suffered second and third - degree burns , and many were in critical condition . "
+Police,say.01,blast happened around noon,,Affirmative,Magdalena police said the blast happened around noon and the fire was so intense they had problems determining the number of casualties . 
+Police,have.03,problems determining,,Affirmative,Magdalena police said the blast happened around noon and the fire was so intense they had problems determining the number of casualties . 
+problems determining,determine.01,the number of casualties,,Affirmative,Magdalena police said the blast happened around noon and the fire was so intense they had problems determining the number of casualties . 
+Fundacion Mayor Luz Stella Duran,say.01,survivors reported,,Affirmative,Duran said survivors reported the bus driver had been handling a container with petrol aboard the vehicle . 
+survivors,report.01,driver had been handling,,Affirmative,Duran said survivors reported the bus driver had been handling a container with petrol aboard the vehicle . 
+the bus driver,handle.01,a container,,Affirmative,Duran said survivors reported the bus driver had been handling a container with petrol aboard the vehicle . 
+Police,blame.01,the fire,on,Affirmative,Police initially blamed the fire on a mechanical problem . 
+President Manuel Santos,travel.01,to Fundacion,,Affirmative,Santos travelled to Fundacion after a final re-election campaign rally Sunday in Bogota ahead of the May 25 presidential vote . 
+President Manuel Santos,say.01,government would pay for,,Affirmative,Santos said the government would pay for all hospital and funeral expenses relating to the accident . 
+by,use.01,"The bus ,",,Affirmative,"The bus , which was being used by an evangelical church group , caught fire one block away from the church where the children had earlier attended services . "
+"The bus ,",catch.01,fire,block away from,Affirmative,"The bus , which was being used by an evangelical church group , caught fire one block away from the church where the children had earlier attended services . "
+The children aboard the bus,attend.01,church services,,Affirmative,"The bus , which was being used by an evangelical church group , caught fire one block away from the church where the children had earlier attended services . "
+the Syrian Observatory for,say.01,people have been killed in Syria,,Affirmative,"More than 162,000 people have been killed in Syria since the conflict broke out in March 2011 , the Syrian Observatory for Human Rights says . "
+"The Britain-based monitoring group ,",rely.01,on,,Affirmative,"The Britain-based monitoring group , which relies on a network of sources on the ground , said on Monday it had documented the deaths of 162,402 people . "
+"The Britain-based monitoring group ,",say.01,it had documented,,Affirmative,"The Britain-based monitoring group , which relies on a network of sources on the ground , said on Monday it had documented the deaths of 162,402 people . "
+Monday,document.01,the deaths of,,Affirmative,"The Britain-based monitoring group , which relies on a network of sources on the ground , said on Monday it had documented the deaths of 162,402 people . "
+The Britain-based monitoring group,say.01,"had been killed , including",,Affirmative,"The group said 42,701 members of the armed opposition had been killed , including more than 13,500 fighters from jihadist groups like al - Qaeda affiliate al - Nusra Front and the Islamic State of Iraq and the Levant or ISIL . "
+the Syrian Observatory for Human Rights,document.01,the deaths of,,Affirmative,"The Observatory also documented the deaths of 438 members of Lebanon 's Hezbollah movement , which is fighting alongside the regime , and 1224 other non-Syrian pro-regime fighters . "
+the Syrian Observatory for Human Rights,confirm.01,2891 unidentified people,,Affirmative,The toll also includes 2891 unidentified people whose deaths the Observatory has confirmed without being able to record their identities . 
+2891 unidentified people,record.01,their identities,,Affirmative,The toll also includes 2891 unidentified people whose deaths the Observatory has confirmed without being able to record their identities . 
+Colombian authorities,respond.01,to,with force,Affirmative,"The conflict in Syria erupted in March 2011 , with peaceful anti-government protests that the authorities responded to with force . "

@@ -1,0 +1,40 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Sen. Jim Webb ,",rule.02,running for president,,Affirmative,"Former Sen. Jim Webb , a Virginia Democrat , would not rule out running for president during an appearance on a radio show Monday . "
+"Sen. Jim Webb ,",run.02,for president,,Affirmative,"Former Sen. Jim Webb , a Virginia Democrat , would not rule out running for president during an appearance on a radio show Monday . "
+Jim Webb,say.01,are thinking about,,Affirmative,"When asked whether a White House run was in his future by Susan Page on The Diane Rehm Show on National Public Radio , Webb fumbled over his words for a few moments before saying , My wife and I are thinking about what to do next . "
+Jim Webb,care.01,a lot about,,Affirmative,"I care a lot about where the country is , and we 'll be sorting that out . "
+we,sort.02,the country,,Affirmative,"I care a lot about where the country is , and we 'll be sorting that out . "
+"Page ,",ask.01,statement was,,Affirmative,"Page , who was filling in for Rehm as a guest host , then asked whether Webb 's statement was an expression of interest . "
+you,look.01,at,,Affirmative,"If you look at how I ran for the Senate , I announced nine months to the day before the election with no money and no campaign staff , Webb said . "
+Jim Webb,run.02,for,,Affirmative,"If you look at how I ran for the Senate , I announced nine months to the day before the election with no money and no campaign staff , Webb said . "
+Jim Webb,say.01,", I announced",,Affirmative,"If you look at how I ran for the Senate , I announced nine months to the day before the election with no money and no campaign staff , Webb said . "
+to decide things,take.10,Jim Webb,,Affirmative,It takes me a while to decide things . 
+Jim Webb,say.01,one way or,,Affirmative,I 'm not gon na say one way or the other . 
+Jim Webb,make.02,clear,,Affirmative,"One thing Webb did make clear , however , was that he is not interested in being the No. 2 man in the government 's food chain . "
+I,think.01,I 'd be,,Affirmative,I just do n't think I 'd be a very good vice president . 
+"the interview ,",span.01,an hour,,Affirmative,"Webb touched on a variety of topics during the interview , which spanned almost an hour . "
+He,say.01,House lacks,,Affirmative,"He was critical of the Obama administration 's national security policy , saying the current White House lacks a clear articulation of the policy as it relates to foreign policy . "
+the current White House,lack.01,a clear articulation of,,Affirmative,"He was critical of the Obama administration 's national security policy , saying the current White House lacks a clear articulation of the policy as it relates to foreign policy . "
+The thing,concern.02,me,,Affirmative,"The thing that concerns me the most is that we are bouncing from issue to issue without a clear articulation of what the national security interest of the United States actually is , Webb said . "
+Webb,say.01,is,,Affirmative,"The thing that concerns me the most is that we are bouncing from issue to issue without a clear articulation of what the national security interest of the United States actually is , Webb said . "
+Jim Webb,have.03,a dinner,,Affirmative,"I just had a dinner last week with the foreign minister from Singapore , he said . "
+he,say.01,I just had,,Affirmative,"I just had a dinner last week with the foreign minister from Singapore , he said . "
+you,have.03,a clear expression of,,Affirmative,"' My comment to him was if you have a clear expression of the national interest , not only your allies but your potential adversaries will be able to adjust what you 're going to do or not do . "
+your allies but,adjust.01,you 're going,,Affirmative,"' My comment to him was if you have a clear expression of the national interest , not only your allies but your potential adversaries will be able to adjust what you 're going to do or not do . "
+Libyan citizens,have.03,that,,Affirmative,"And we do n't have that , I think it 's a major concern for our foreign policy right now . "
+I,think.01,it 's,,Affirmative,"And we do n't have that , I think it 's a major concern for our foreign policy right now . "
+Webb,discuss.01,the 2011 crisis in Libya,,Affirmative,"Webb also discussed the 2011 crisis in Libya , which saw the U.S. lead an international military force into the North African nation with the goal of protecting Libyan citizens from crimes against humanity at the hands of Col. Muammar Gadhafi . "
+the 2011 crisis in Libya,see.01,U.S. lead,,Affirmative,"Webb also discussed the 2011 crisis in Libya , which saw the U.S. lead an international military force into the North African nation with the goal of protecting Libyan citizens from crimes against humanity at the hands of Col. Muammar Gadhafi . "
+the U.S.,lead.02,an international military force,,Affirmative,"Webb also discussed the 2011 crisis in Libya , which saw the U.S. lead an international military force into the North African nation with the goal of protecting Libyan citizens from crimes against humanity at the hands of Col. Muammar Gadhafi . "
+Air strikes,pummel.01,strategic targets in,,Affirmative,"Air strikes pummeled strategic targets in the country , including Gadhafi 's compound in Tripoli . "
+We,have.03,no Americans,,Affirmative,"We had no Americans at risk , we were not pre-empting a potential attack , Webb said . "
+we,pre-empt.01,a potential attack,,Affirmative,"We had no Americans at risk , we were not pre-empting a potential attack , Webb said . "
+Jim Webb,say.01,", we were not pre-empting",,Affirmative,"We had no Americans at risk , we were not pre-empting a potential attack , Webb said . "
+you,turn.01,a president loose with that,,Affirmative,"If you turn a president loose with that , that could mean anything under the sun . "
+that,mean.01,anything under,,Affirmative,"If you turn a president loose with that , that could mean anything under the sun . "
+"Webb ,",serve.01,as,,Affirmative,"Webb , who served as assistant secretary of defense and then secretary of the Navy during the Reagan administration , served in the Senate starting in 2007 but decided not to run again . "
+He,leave.01,office,,Affirmative,He left office shortly after the 2012 election . 
+Webb,say.01,It 's,,Affirmative,"It 's a healthy thing to step away , Webb said Monday . "
+I,say.01,I 'm stepping away from,,Affirmative,I 'm not saying I 'm stepping away from the political process as a whole . 
+Gov. Scott Walker,trumpet.01,job growth,,Affirmative,Wisconsin Republican Gov. Scott Walker is trumpeting job growth that has vaulted the state into third place in the Midwe  . 
+job growth,vault.01,the state,into,Affirmative,Wisconsin Republican Gov. Scott Walker is trumpeting job growth that has vaulted the state into third place in the Midwe  . 

@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Wynberg -,secure.01,year conviction against,,Affirmative,Wynberg - The Organised Crime Unit of the Directorate for Priority Crime Investigation ( the Hawks ) in Gauteng secured a 30 - year conviction against Frank Nabolisa today . 
+the Pietermaritzburg High Court,convict.01,Nabolisa and Cwele,for dealing in drugs,Affirmative,"In May 2011 , the Pietermaritzburg High Court convicted Nabolisa and Cwele for dealing in drugs . "
+Nabolisa and Cwele,deal.01,in drugs,,Affirmative,"In May 2011 , the Pietermaritzburg High Court convicted Nabolisa and Cwele for dealing in drugs . "
+They,recruit.01,Tessa Beetge,,Affirmative,They recruited Tessa Beetge to transport drugs to Brazil where she was arrested and served a prison term . 
+They,transport.01,drugs,to Brazil,Affirmative,They recruited Tessa Beetge to transport drugs to Brazil where she was arrested and served a prison term . 
+Tessa Beetge,serve.02,a prison term,,Affirmative,They recruited Tessa Beetge to transport drugs to Brazil where she was arrested and served a prison term . 
+"Forty-six-year-old Nabolisa , who is a drug convict",deal.01,in,,Affirmative,"On 3 December 2009 , Nabolisa was also charged for dealing in dangerous dependence - producing drugs , and contravening the Medicine and Related Substances Act , 1965 ( Act No 101 of 1965 ) . "
+"Forty-six-year-old Nabolisa , who is a drug convict",contravene.01,"Substances Act , 1965",,Affirmative,"On 3 December 2009 , Nabolisa was also charged for dealing in dangerous dependence - producing drugs , and contravening the Medicine and Related Substances Act , 1965 ( Act No 101 of 1965 ) . "
+the Wynberg Regional Court for his sentence,sentence.01,"Forty-six-year-old Nabolisa , who is a drug convict",to,Affirmative,"Today , the Wynberg Regional Court sentenced him to 20 years ' imprisonment for dealing in drugs and 10 years ' imprisonment for contravening the Medicine and Related Substances Act , 1965 ( Act No 101 of 1965 ) . "
+"Forty-six-year-old Nabolisa , who is a drug convict",serve.01,these sentences,,Affirmative,"He will serve these sentences concurrently , after serving his 12 - year sentence . "
+"Forty-six-year-old Nabolisa , who is a drug convict",serve.01,year sentence,,Affirmative,"He will serve these sentences concurrently , after serving his 12 - year sentence . "

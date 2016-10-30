@@ -1,0 +1,64 @@
+1	SAN	san	NNP	p2=NN	2	nn	_
+2	ANGELO	angelo	NNP	_	0	root	_
+3	,	,	,	_	2	punct	_
+4	Texas	texas	NNP	_	2	appos	_
+5	-	-	,	p2=:	2	punct	_
+6	The	the	DT	p2=NNP	8	det	_
+7	best	good	JJS	_	8	amod	_
+8	pictures	picture	NNS	_	2	appos	_
+9	of	of	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	day	day	NN	_	9	pobj	_
+12	from	from	IN	_	11	prep	_
+13	The	the	DT	p2=NNP	15	det	_
+14	Associated	associated	NNP	_	15	nn	_
+15	Press	press	NNP	_	12	pobj	_
+16	.	.	.	_	2	punct	_
+
+1	Visit	visit	VB	pb=visit.01	0	root	_
+2	the	the	DT	_	5	det	_
+3	photo	photo	NN	p2=JJ	4	nn	_
+4	gallery	gallery	NN	_	5	nn	_
+5	section	section	NN	_	1	dobj	1:A1=COM
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	5	infmod	_
+8	all	all	PDT	_	10	predet	_
+9	the	the	DT	_	10	det	_
+10	photos	photo	NNS	_	7	dobj	7:A1=PAG
+11	of	of	IN	_	10	prep	_
+12	this	this	DT	_	13	det	_
+13	gallery	gallery	NN	_	11	pobj	_
+14	.	.	.	_	1	punct	_
+
+1	Ready	ready	JJ	_	0	root	_
+2	to	to	TO	_	3	aux	_
+3	subscribe	subscribe	VB	pb=subscribe.02	1	xcomp	_
+4	to	to	IN	_	3	prep	3:A1=PPT
+5	the	the	DT	_	10	det	_
+6	San	san	NNP	_	10	nn	_
+7	Angelo	angelo	NNP	_	10	nn	_
+8	Standard	standard	NNP	_	10	hmod	_
+9	-	-	HYPH	p2=:	10	hyph	_
+10	Times	times	NNP	_	4	pobj	_
+11	?	?	.	_	1	punct	_
+
+1	Choose	choose	VB	pb=choose.01	0	root	_
+2	between	between	IN	_	1	prep	1:A2=DIR
+3	a	a	DT	_	4	det	_
+4	Premium	premium	NNP	_	2	pobj	_
+5	or	or	CC	_	4	cc	_
+6	Digital	digital	NNP	p2=JJ	7	nn	_
+7	subscription	subscription	NN	_	4	conj	_
+8	below	below	RB	p2=NN	7	advmod	_
+9	.	.	.	_	1	punct	_
+
+1	Need	need	VBN	p2=VB|pb=need.01	0	root	_
+2	Help	help	VB	p2=NNP	1	dobj	1:A1=PPT
+3	?	?	.	_	1	punct	_
+
+1	Call	call	VB	pb=call.02	0	root	_
+2	us	us	PRP	_	1	dobj	1:A1=PPT
+3	at	at	IN	_	1	prep	1:AM-TMP
+4	1-877-304-7763	0	CD	_	3	pobj	_
+5	.	.	.	_	1	punct	_
+

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+5 News,report.01,released,,Affirmative,"- 5 News reported that the University of Arkansas ( UA ) released on - board video last week that allegedly shows a UA Transit bus running a red light , hitting another vehicle and injuring the two people in the vehicle . "
+the University of Arkansas,release.01,board video,,Affirmative,"- 5 News reported that the University of Arkansas ( UA ) released on - board video last week that allegedly shows a UA Transit bus running a red light , hitting another vehicle and injuring the two people in the vehicle . "
+Transit bus running,run.01,a red light,,Affirmative,"- 5 News reported that the University of Arkansas ( UA ) released on - board video last week that allegedly shows a UA Transit bus running a red light , hitting another vehicle and injuring the two people in the vehicle . "
+The video,show.01,McCawley driving through,,Affirmative,The video shows bus driver Kari McCawley driving through a Fayetteville intersection before striking a car on the front right side of the bus on May 6 . 
+driver Kari McCawley,strike.01,a car,,Affirmative,The video shows bus driver Kari McCawley driving through a Fayetteville intersection before striking a car on the front right side of the bus on May 6 . 
+old boy,suffer.01,critical injuries,,Affirmative,"In February , a seven - year - old boy was struck by a UA bus and suffered critical injuries . "
+by,release.01,board video released by,,Affirmative,"On - board video released by the university showed the driver was speeding , but was not cited by police . "
+board video released by,show.01,driver was speeding,,Affirmative,"On - board video released by the university showed the driver was speeding , but was not cited by police . "
+by police,cite.01,board video released by,,Affirmative,"On - board video released by the university showed the driver was speeding , but was not cited by police . "
+The Benefits of,struggle.01,with,,Affirmative,"The Benefits of Door - to - Door Service in ADA Complementary Paratransit Many U.S. transit agencies continue to struggle with the quality of ADA service , the costs , and the difficulties encountered in contracting the service , which is the method of choice for a significant majority of agencies . "
+an agency,make.LV,whether to provide,,Affirmative,"One of the most basic policy decisions an agency must make involves whether to provide door - to - door , or only curb - to - curb service . "
+an agency,provide.01,"door - to - door ,",,Affirmative,"One of the most basic policy decisions an agency must make involves whether to provide door - to - door , or only curb - to - curb service . "
+curb,curb.01,service,,Affirmative,"One of the most basic policy decisions an agency must make involves whether to provide door - to - door , or only curb - to - curb service . "

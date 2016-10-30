@@ -1,0 +1,25 @@
+1	Elsie	elsie	NNP	p2=NN	2	nn	_
+2	Stachour	stachour	NNP	_	9	npadvmod	9:AM-TMP
+3	age	age	NN	p2=VBP	2	appos	_
+4	97	0	CD	_	3	num	_
+5	of	of	IN	_	3	prep	_
+6	Sibley	sibley	NNP	_	5	pobj	_
+7	,	,	,	_	9	punct	_
+8	IA	ia	NNP	_	9	nsubj	9:A1=PPT
+9	died	die	VBD	pb=die.01	0	root	_
+10	Sunday	sunday	NNP	_	9	npadvmod	9:AM-TMP
+11	,	,	,	_	9	punct	_
+12	August	august	NNP	_	9	npadvmod	9:AM-TMP
+13	24	0	CD	_	12	num	_
+14	,	,	,	_	12	punct	_
+15	2014	0	CD	_	12	appos	_
+16	,	,	,	_	12	punct	_
+17	at	at	IN	_	12	prep	_
+18	the	the	DT	_	21	det	_
+19	Country	country	NNP	_	21	nn	_
+20	View	view	NNP	_	21	nn	_
+21	Manor	manor	NNP	_	17	pobj	_
+22	in	in	IN	_	21	prep	_
+23	Sibley	sibley	NNP	_	22	pobj	_
+24	.	.	.	_	9	punct	_
+

@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Hampshire police commissioner,call.01,President Obama,the n - word,Affirmative,The New Hampshire police commissioner who called President Obama the n - word has resigned his post . 
+Hampshire police commissioner,resign.01,his post,,Affirmative,The New Hampshire police commissioner who called President Obama the n - word has resigned his post . 
+Hampshire police commissioner,call.01,President Obama,the n - word,Affirmative,The New Hampshire police commissioner who called President Obama the n - word has resigned his post . 
+Hampshire police commissioner,resign.01,his post,,Affirmative,The New Hampshire police commissioner who called President Obama the n - word has resigned his post . 
+"Robert Copeland , 82 ,",issue.01,a resignation letter as head of,,Affirmative,"Robert Copeland , 82 , issued a resignation letter as head of the Wolfeboro police commission to Town Manager David Owen . "
+A local resident,hear.01,Copeland use,,Affirmative,A local resident complained to Owen after hearing Copeland use the slur to describe Obama while sitting in a local restaurant . 
+Mr. Copeland 's,use.01,the slur,to describe Obama,Affirmative,A local resident complained to Owen after hearing Copeland use the slur to describe Obama while sitting in a local restaurant . 
+Mr. Copeland 's,describe.01,President Obama,,Affirmative,A local resident complained to Owen after hearing Copeland use the slur to describe Obama while sitting in a local restaurant . 
+Mr. Copeland 's,refuse.01,to apologize,,Affirmative,Copeland subsequently added to the controversy by refusing to apologize . 
+Mr. Copeland 's,believe.01,I did use,,Affirmative,"I believe I did use the ' n ' word in reference to the current occupant of the White House , Copeland wrote to his fellow commissioners last week . "
+Mr. Copeland 's,use.01,the ' n ' word,in reference to,Affirmative,"I believe I did use the ' n ' word in reference to the current occupant of the White House , Copeland wrote to his fellow commissioners last week . "
+Mr. Copeland 's,write.01,I believe,to,Affirmative,"I believe I did use the ' n ' word in reference to the current occupant of the White House , Copeland wrote to his fellow commissioners last week . "
+the current occupant of the White House,exceed.01,my criteria for such,,Affirmative,"For this , I do not apologize - he meets and exceeds my criteria for such . "
+Mr. Copeland 's,draw.01,fire,from,Affirmative,"Copeland drew fire from Sens. Kelly Ayotte ( R ) and Jeanne Shaheen ( D ) and Gov. Maggie Hassan -- and even Mitt Romney , who owns a vacation home there . "
+"even Mitt Romney ,",own.01,a vacation home,,Affirmative,"Copeland drew fire from Sens. Kelly Ayotte ( R ) and Jeanne Shaheen ( D ) and Gov. Maggie Hassan -- and even Mitt Romney , who owns a vacation home there . "
+Local officials,condemn.01,Mr. Copeland 's,,Affirmative,Local officials were quick to condemn Copeland . 
+Town Manager David Owen,issue.01,a statement,,Affirmative,Owen issued a statement last week saying he and the town 's board of selectman found Copeland 's behavior reprehensible and totally inconsistent with the Town 's open and welcoming character . 
+a statement,say.01,found,,Affirmative,Owen issued a statement last week saying he and the town 's board of selectman found Copeland 's behavior reprehensible and totally inconsistent with the Town 's open and welcoming character . 
+he and,find.01,behavior reprehensible and,,Affirmative,Owen issued a statement last week saying he and the town 's board of selectman found Copeland 's behavior reprehensible and totally inconsistent with the Town 's open and welcoming character . 
+the controversy,rattle.01,the quaint tourist town of,,Affirmative,"Mr. Copeland 's views are in no way representative of the Board of Selectmen of the Town of Wolfeboro , its administration , or the men and women of the Wolfeboro Police Department The controversy rattled the quaint tourist town of 6,300 people on the shores of Lake Winnipesaukee . "
+100 people,attend.01,a public hearing,,Affirmative,"Last week , more than 100 people attended a public hearing , most demanding that Copeland resign . "
+100 people,demand.01,that Copeland resign,,Affirmative,"Last week , more than 100 people attended a public hearing , most demanding that Copeland resign . "
+no statute allowing for,allow.01,for,,Affirmative,"There is no statute allowing for a recall election , and Copeland was elected to a second three - year term in March . "
+"Linda Murray , chairman of",tell.01,the resignation,the Associated Press,Affirmative,"Linda Murray , chairman of the town board , told the Associated Press the resignation gives us the opportunity to move on . "
+accepting community,take.LV,of,,Affirmative,We are a very accepting community that really takes care of each other . 

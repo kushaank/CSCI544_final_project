@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"WASHINGTON , May 19",.01,tied,,Affirmative,"WASHINGTON , May 19 , 2014  The chairman of the Joint Chiefs of Staff tied his May 16 commencement address at the Virginia Military Institute in Lexington to the Battle of New Market that occurred during the Civil War . "
+The chairman of,tie.01,commencement address,,Affirmative,"WASHINGTON , May 19 , 2014  The chairman of the Joint Chiefs of Staff tied his May 16 commencement address at the Virginia Military Institute in Lexington to the Battle of New Market that occurred during the Civil War . "
+Farm,face.01,Union forces,,Affirmative,"On May 15 , 1864 , 257 young VMI students stood alongside combat veterans at Bushong 's Farm facing Union forces . "
+257 young VMI students,cross.02,a fence line,,Affirmative,At the order they crossed a fence line and charged through a wheat field at the Union line . 
+I,like.01,that,,Affirmative,"' I like that as a touchstone of what we expect of you , the general told the graduates . "
+the group in 1864,face.01,new challenges and dangers,,Affirmative,"A total of 143 VMI graduates were commissioned into the U.S. military , and they are poised -- like the group in 1864 -- to face new challenges and dangers . "
+Dempsey,say.01,he understands,,Affirmative,"Dempsey said he understands what the new officers feel , noting that when he entered the military 40 years ago he was concerned whether he would measure up . "
+Dempsey,understand.01,officers feel,,Affirmative,"Dempsey said he understands what the new officers feel , noting that when he entered the military 40 years ago he was concerned whether he would measure up . "
+whether he would measure up,concern.01,Dempsey,,Affirmative,"Dempsey said he understands what the new officers feel , noting that when he entered the military 40 years ago he was concerned whether he would measure up . "
+Dempsey,say.01,is,,Affirmative,"Trust , he said , is the cement that holds it all together , in their fellow service members , in leaders , and in institutions . "
+the cement,hold.01,it all,,Affirmative,"Trust , he said , is the cement that holds it all together , in their fellow service members , in leaders , and in institutions . "
+the general,tell.01,", most will be surprised",the graduates,Affirmative,"The general told the graduates that while some will lead the life they expect to lead , most will be surprised . "
+some,lead.02,the life,,Affirmative,"The general told the graduates that while some will lead the life they expect to lead , most will be surprised . "
+some,expect.01,to lead,,Affirmative,"The general told the graduates that while some will lead the life they expect to lead , most will be surprised . "
+some,lead.02,the life,,Affirmative,"The general told the graduates that while some will lead the life they expect to lead , most will be surprised . "
+the general,say.01,But that does n't matter,,Affirmative,"But that does n't matter , he said , because they leave VMI with a moral compass . "
+"the graduates that while some will lead the life they expect to lead , most will be surprised",leave.01,VMI,,Affirmative,"But that does n't matter , he said , because they leave VMI with a moral compass . "
+Dempsey,say.01,graduate now faces,,Affirmative,Dempsey said each graduate now faces their own version of the wheat field on that long - ago Civil War battlefield . 
+each graduate,face.01,their own version of,,Affirmative,Dempsey said each graduate now faces their own version of the wheat field on that long - ago Civil War battlefield . 

@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A witness,describe.01,the scene,as hell,Affirmative,"A witness describes the scene as hell , saying youngsters were hitting the windows in a desperate attempt to escape the flames . "
+A witness,say.01,youngsters were hitting,,Affirmative,"A witness describes the scene as hell , saying youngsters were hitting the windows in a desperate attempt to escape the flames . "
+youngsters,hit.02,the windows,,Affirmative,"A witness describes the scene as hell , saying youngsters were hitting the windows in a desperate attempt to escape the flames . "
+youngsters,escape.01,the flames,,Affirmative,"A witness describes the scene as hell , saying youngsters were hitting the windows in a desperate attempt to escape the flames . "
+18 people,manage.02,to escape,,Affirmative,"While 18 people managed to escape the blaze , 31 youngsters and one adult died in the tragedy in the town of Fundacion . "
+18 people,escape.01,"the blaze ,",,Affirmative,"While 18 people managed to escape the blaze , 31 youngsters and one adult died in the tragedy in the town of Fundacion . "
+"Mayor Eduardo Velez , coordinator of",say.01,had,,Affirmative,"The charred bodies of the victims had to be identified using dental records , said Mayor Eduardo Velez , coordinator of Magdalena province 's emergency response corps . "
+Eduardo Velez,say.01,There was,,Affirmative,He said : There was a canister of gasoline inside the vehicle . 
+Local officials,say.01,bus was overcrowded,,Affirmative,"Local officials said the bus was overcrowded - it was rated to carry only 38 passengers , but was carrying around 50 . "
+a bus that had broken down returning from a church event,carry.01,38 passengers,,Affirmative,"Local officials said the bus was overcrowded - it was rated to carry only 38 passengers , but was carrying around 50 . "
+Authorities,investigate.01,the cause of,,Affirmative,"Authorities are investigating the cause of the fire , thought to have been started when the driver tried to get the bus going by pouring fuel into the engine which he accessed through the floor of the cabin . "
+the driver,try.01,to get,,Affirmative,"Authorities are investigating the cause of the fire , thought to have been started when the driver tried to get the bus going by pouring fuel into the engine which he accessed through the floor of the cabin . "
+the driver,get.01,bus going by pouring fuel into,,Affirmative,"Authorities are investigating the cause of the fire , thought to have been started when the driver tried to get the bus going by pouring fuel into the engine which he accessed through the floor of the cabin . "
+the driver,access.01,the engine,,Affirmative,"Authorities are investigating the cause of the fire , thought to have been started when the driver tried to get the bus going by pouring fuel into the engine which he accessed through the floor of the cabin . "
+One witness,describe.01,the scene,as hell,Affirmative,One witness described the scene as hell . 
+Jose Angel Fuentes,say.01,There was,,Affirmative,Jose Angel Fuentes said : There was a young man who was rescuing several girls . 
+a young man,rescue.01,several girls,,Affirmative,Jose Angel Fuentes said : There was a young man who was rescuing several girls . 
+A girl,reach.01,her arms,,Affirmative,"A girl reached her arms out to him , but the blaze that was coming out of the bus did n't allow the man to remove the girl , and he had to back up . "
+the blaze,allow.01,man to remove,,Affirmative,"A girl reached her arms out to him , but the blaze that was coming out of the bus did n't allow the man to remove the girl , and he had to back up . "
+the man,remove.01,A girl,,Affirmative,"A girl reached her arms out to him , but the blaze that was coming out of the bus did n't allow the man to remove the girl , and he had to back up . "
+some boys,hit.02,the windows,,Affirmative,"And there were some boys who were hitting the windows , hitting with their heads , and everyone running to the back . "
+everyone running to,run.02,to,,Affirmative,"And there were some boys who were hitting the windows , hitting with their heads , and everyone running to the back . "
+we,experience.01,practically hell,,Affirmative,It was practically hell that we experienced here . 
+President Juan Manuel Santos,travel.01,to Fundacion,,Affirmative,President Juan Manuel Santos was travelling to Fundacion to console relatives of the victims . 
+President Juan Manuel Santos,fundacion.01,to console relatives of,,Affirmative,President Juan Manuel Santos was travelling to Fundacion to console relatives of the victims . 
+President Juan Manuel Santos,console.01,relatives of,,Affirmative,President Juan Manuel Santos was travelling to Fundacion to console relatives of the victims . 
+President Juan Manuel Santos,say.01,There was,,Affirmative,"He said : There was a bus accident in the Magdalena department , in Fundacion , a bus that was filled with parishioners of the Pentecostal Church . "
+President Juan Manuel Santos,like.01,to join me for,,Affirmative,I would like for you all to join me for a minute of silence for them in a show of our solidarity that we have with these types of unfortunate events . 
+you all,join.01,President Juan Manuel Santos,,Affirmative,I would like for you all to join me for a minute of silence for them in a show of our solidarity that we have with these types of unfortunate events . 
+by,own.01,"The vehicle , owned by",,Affirmative,"The vehicle , owned by a private transport company , was usually used during the week as a school bus . "

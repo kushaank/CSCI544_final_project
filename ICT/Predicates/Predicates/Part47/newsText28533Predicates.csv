@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+His loved ones,track.01,his debit card,,Affirmative,His loved ones tracked his debit card and found he used it twice . 
+His loved ones,find.01,he used it twice,,Affirmative,His loved ones tracked his debit card and found he used it twice . 
+he,use.01,it,,Affirmative,His loved ones tracked his debit card and found he used it twice . 
+we,celebrate.02,important dates,,Affirmative,"He was gone for his father 's birthday , he was gone for Mother 's Day , these are very important dates that we celebrate as a family , Douglas Jr . "
+He,ask.02,how to get to,,Affirmative,He asked how to get to San Diego from the Santa Ana train station . 
+We,love.01,him,,Affirmative,"We love him , we want him home , Douglas said . "
+we,want.01,him,,Affirmative,"We love him , we want him home , Douglas said . "
+Douglas,say.01,", we want him home",,Affirmative,"We love him , we want him home , Douglas said . "
+Douglas,say.01,son took,,Affirmative,Douglas said her son took the last semester off at UC Berkeley because of stress . 
+her son,take.01,the last semester,,Affirmative,Douglas said her son took the last semester off at UC Berkeley because of stress . 
+worried someone,take.01,advantage,of,Affirmative,She 's worried someone may have taken advantage of his weak mental state . 
+He,wear.01,colored outfit with,,Affirmative,He was wearing a dark - colored outfit with black shoes . 
+Anyone with information on,contact.01,Persons Unit Det,,Affirmative,Anyone with information on the man 's whereabouts was asked to contact LAPD Missing Persons Unit Det . 

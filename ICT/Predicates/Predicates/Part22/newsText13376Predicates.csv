@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+China,send.01,five ships,,Affirmative,China is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+China,evacuate.01,Chinese nationals,from Vietnam,Affirmative,China is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+The Chinese government,evacuate.01,"3,000 people ,",,Affirmative,"The Chinese government has already evacuated more than 3,000 people , Chinese state - run media report . "
+The first ship,set.01,sail,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+injured Chinese nationals,leave.01,Vietnam,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+Xinhua news agency,say.01,ship set sail on Sunday,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+the Vietnamese government,call.03,for,,Affirmative,On Saturday the Vietnamese government called for an end to the protests . 
+Officials,say.01,acts would be stopped,,Affirmative,Officials said illegal acts would be stopped as they could damage national stability . 
+Officials,damage.01,national stability,,Affirmative,Officials said illegal acts would be stopped as they could damage national stability . 

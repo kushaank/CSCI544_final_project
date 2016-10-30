@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( CNN ) -- Clashes near,leave.01,eight Malian soldiers,dead,Affirmative,"( CNN ) -- Clashes near the northern Malian town of Kidal between government forces and Tuareg rebel armed groups have left eight Malian soldiers dead and 25 others injured , according to the country 's Defense Ministry , the state - run newspaper , L'Essor National , reported Sunday . "
+Defense Ministry,say.01,There were also,,Affirmative,"There were also 28 dead and 62 wounded on the Tuareg side , the ministry said , according to L'Essor National . "
+The government,issue.01,a statement,,Affirmative,"The government issued a statement Saturday saying Tuareg rebels from the Azawad National Liberation Movement , joined by jihadists , attacked government buildings . "
+Saturday,say.01,", attacked",,Affirmative,"The government issued a statement Saturday saying Tuareg rebels from the Azawad National Liberation Movement , joined by jihadists , attacked government buildings . "
+by jihadists,join.01,"the Azawad National Liberation Movement , joined by jihadists",,Affirmative,"The government issued a statement Saturday saying Tuareg rebels from the Azawad National Liberation Movement , joined by jihadists , attacked government buildings . "
+Tuareg rebels from,attack.01,government buildings,,Affirmative,"The government issued a statement Saturday saying Tuareg rebels from the Azawad National Liberation Movement , joined by jihadists , attacked government buildings . "
+"The Azawad National Liberation Movement -- known as the MNLA , the initials for its name in French --",refer.01,to as Azawad,,Affirmative,"The Azawad National Liberation Movement -- known as the MNLA , the initials for its name in French -- is fighting for independence for the northern part of Mali , a region that it refers to as Azawad . "
+the MNLA,issue.01,a statement about,,Affirmative,"The MNLA issued a statement about the violence , describing it as self - defense and resistance . "
+the MNLA,describe.01,a statement,as,Affirmative,"The MNLA issued a statement about the violence , describing it as self - defense and resistance . "
+The group,claim.01,it took,,Affirmative,"The group claimed it took 30 prisoners , including 24 soldiers and three regional government officials . "
+The group,take.10,"30 prisoners , including",,Affirmative,"The group claimed it took 30 prisoners , including 24 soldiers and three regional government officials . "
+the MNLA,add.01,soldiers were handed over to,,Affirmative,"Two wounded Malian soldiers were handed over to the International Committee of the Red Cross , the MNLA added . "
+Nations Mission in Mali,condemn.01,the clashes,,Affirmative,"The United Nations Mission in Mali condemned the clashes and said they violated the preliminary accords designed to bring peace and security in the northern regions , including in Kidal . "
+Nations Mission in Mali,say.01,they violated,,Affirmative,"The United Nations Mission in Mali condemned the clashes and said they violated the preliminary accords designed to bring peace and security in the northern regions , including in Kidal . "
+eight Malian soldiers,violate.01,the preliminary accords designed,,Affirmative,"The United Nations Mission in Mali condemned the clashes and said they violated the preliminary accords designed to bring peace and security in the northern regions , including in Kidal . "
+a former head of,say.01,is,,Affirmative,"An ISIS attack against the United States or Europe is a question of timing -- not of inevitably , not of intent , says a former head of the CIA . "
+A young boy,kick.01,his vacation,,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+A young boy,dip.02,his toes,in,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+A young boy,make.05,a startling find,,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+Investigators,believe.01,there are,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+one,make.01,the speech and one,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+one,kill.01,James Foley,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+Facebook,announce.01,that they 'll be cracking down on,,Affirmative,Facebook has announced that they 'll be cracking down on the sharing of clickbait content . 
+Investigators,crack.06,on,,Affirmative,Facebook has announced that they 'll be cracking down on the sharing of clickbait content . 
+family and friends,ask.02,for,,Affirmative,Michael Brown 's family and friends ask for a day of silence and peace as they lay the teen to rest . 
+we,prepare.02,we,to kill others,Affirmative,James Dawes : Evil is the strongest word we have to prepare ourselves to kill others . 
+we,kill.01,others,,Affirmative,James Dawes : Evil is the strongest word we have to prepare ourselves to kill others . 
+agent,say.01,Attenborough has died at 90,,Affirmative,"Acclaimed actor - director Richard Attenborough has died at 90 , the actor 's agent said . "
+The Ebola outbreak,cause.01,fear and violence,,Affirmative,The Ebola outbreak causes fear and violence among the poor in Liberia . 
+Spooks,leave.01,their mark,,Affirmative,Spooks have left their mark on a once - divided city still thought to be an espionage hotbed . 

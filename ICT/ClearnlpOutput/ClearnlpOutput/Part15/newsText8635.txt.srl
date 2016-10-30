@@ -1,0 +1,15 @@
+1	For	for	IN	_	5	prep	5:AM-PRP
+2	more	more	JJR	_	3	amod	_
+3	news	news	NN	_	1	pobj	_
+4	,	,	,	_	5	punct	_
+5	visit	visit	VB	p2=VBP|pb=visit.01	0	root	_
+6	the	the	DT	_	8	det	_
+7	UNM	unm	NNP	p2=NN	8	nn	_
+8	Newsroom	newsroom	NNP	p2=NN	5	dobj	5:A1=COM
+9	and	and	CC	_	5	cc	_
+10	follow	follow	VB	p2=VBP|pb=follow.02	5	conj	_
+11	us	us	PRP	_	10	dobj	10:A1=PPT
+12	on	on	IN	p2=RP	10	prep	10:A2=GOL
+13	Twitter	twitter	NNP	p2=NN	12	pobj	_
+14	.	.	.	_	5	punct	_
+

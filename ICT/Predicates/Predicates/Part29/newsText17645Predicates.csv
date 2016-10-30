@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Secretary of State John Kerry,avoid.01,a feeling of gridlock,,Affirmative,Kerry called on students to avoid a feeling of gridlock . 
+Secretary of State John Kerry,deliver.01,Day lecture,,Affirmative,Kerry delivered the Class Day lecture . 
+Secretary of State John Kerry,contrast.01,the pace of progress,,Affirmative,"Kerry contrasted the pace of progress the 1960 s , when he was a student at Yale , with today . "
+Secretary of State John Kerry,say.01,"said , change may have taken years",,Affirmative,"Back then , he said , change may have taken years to play out , but institutions responded to what he called the felt needs of the time . "
+change,take.01,years,to play out,Affirmative,"Back then , he said , change may have taken years to play out , but institutions responded to what he called the felt needs of the time . "
+institutions,respond.01,to,,Affirmative,"Back then , he said , change may have taken years to play out , but institutions responded to what he called the felt needs of the time . "
+Secretary of State John Kerry,call.01,felt needs of,,Affirmative,"Back then , he said , change may have taken years to play out , but institutions responded to what he called the felt needs of the time . "
+Secretary of State John Kerry,say.01,people seem,,Affirmative,Kerry said people seem to have grown used to systems or institutions failing to respond to important issues . 
+systems or institutions failing,respond.01,to,,Affirmative,Kerry said people seem to have grown used to systems or institutions failing to respond to important issues . 
+John Kerry,deliver.01,a commencement speech,,Affirmative,Secretary of State John Kerry delivering a commencement speech at Yale University . 
+Secretary of State John Kerry,say.01,"will power , not capacity",,Affirmative,"It 's really a question of will power , not capacity , Kerry said . "
+a commencement speech,require.01,keeping faith with,,Affirmative,It requires keeping faith with the ability of institutions of America to do big things when the moment demands it . 
+the moment,demand.01,the moment,,Affirmative,It requires keeping faith with the ability of institutions of America to do big things when the moment demands it . 
+Secretary of State John Kerry,avoid.01,a feeling of gridlock,,Affirmative,"' Kerry called on students to avoid a feeling of gridlock , and use their college educations to make a difference . "
+the School of Arts,receive.01,a bomb threat,,Affirmative,"Commencement ceremonies for the School of Arts and Sciences at Quinnipiac University were delayed , then moved indoors this weekend , after the school received a bomb threat . "
+ Police,arrest.01,old woman,,Affirmative, Police later arrested a 22 - year - old woman who they say made the call to try and have commencement ceremonies canceled so her family would n't know she was n't graduating . 
+Police,say.01,old woman,,Affirmative, Police later arrested a 22 - year - old woman who they say made the call to try and have commencement ceremonies canceled so her family would n't know she was n't graduating . 
+her family,know.01,she was n't graduating,,Affirmative, Police later arrested a 22 - year - old woman who they say made the call to try and have commencement ceremonies canceled so her family would n't know she was n't graduating . 
+ Hamden Police,say.01,Shea did n't attend Quinnipiac,,Affirmative," Hamden Police said Shea did n't attend Quinnipiac this year , but her mother paid thousands of dollars that she thought was for her daughter 's education . "
+"Danielle Shea of Quincy , Massachusetts",attend.01,Quinnipiac,,Affirmative," Hamden Police said Shea did n't attend Quinnipiac this year , but her mother paid thousands of dollars that she thought was for her daughter 's education . "
+her mother,pay.01,thousands of dollars,,Affirmative," Hamden Police said Shea did n't attend Quinnipiac this year , but her mother paid thousands of dollars that she thought was for her daughter 's education . "
+thousands of dollars,say.01,"arrived , Shea panicked",,Affirmative,"They said that when graduation arrived , Shea panicked when relatives did n't see her name on the graduation roster . "
+relatives,see.01,her name,,Affirmative,"They said that when graduation arrived , Shea panicked when relatives did n't see her name on the graduation roster . "

@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"BOGOTA ,",try.01,to piece together,,Affirmative,"BOGOTA , Colombia -  Authorities in Colombia are trying to piece together what led to the death of 32 children when an overcrowded bus they were traveling in caught fire . "
+"BOGOTA ,",piece.01,what led to,,Affirmative,"BOGOTA , Colombia -  Authorities in Colombia are trying to piece together what led to the death of 32 children when an overcrowded bus they were traveling in caught fire . "
+32 children,travel.01,in,,Affirmative,"BOGOTA , Colombia -  Authorities in Colombia are trying to piece together what led to the death of 32 children when an overcrowded bus they were traveling in caught fire . "
+President Juan Manuel Santos,travel.01,to,,Affirmative,President Juan Manuel Santos traveled Sunday night to the town of Fundacion near the Caribbean coast to pay his respects to the mostly poor families of the victims . 
+President Juan Manuel Santos,pay.01,his respects,to,Affirmative,President Juan Manuel Santos traveled Sunday night to the town of Fundacion near the Caribbean coast to pay his respects to the mostly poor families of the victims . 
+President Juan Manuel Santos,declare.02,a national day of mourning,,Affirmative,He declared a national day of mourning . 
+Another 22 children and adults,suffer.01,burns in,,Affirmative,Another 22 children and adults suffered burns in the fire that took place Sunday as they were traveling home from an event at an evangelical church . 
+Another 22 children,travel.01,home,,Affirmative,Another 22 children and adults suffered burns in the fire that took place Sunday as they were traveling home from an event at an evangelical church . 
+Tiempo newspaper,report.01,turned himself in Monday,,Affirmative,El Tiempo newspaper reported that the driver of the bus turned himself in Monday . 
+the driver of,turn.06,the driver of the bus,,Affirmative,El Tiempo newspaper reported that the driver of the bus turned himself in Monday . 
+Witnesses,say.01,that he left,,Affirmative,Witnesses have said that he left the vehicle running when he went to fill the tank with gas from a portable container . 
+the driver of the bus,leave.01,the vehicle,running,Affirmative,Witnesses have said that he left the vehicle running when he went to fill the tank with gas from a portable container . 
+the driver of the bus,fill.01,the tank,with gas,Affirmative,Witnesses have said that he left the vehicle running when he went to fill the tank with gas from a portable container . 

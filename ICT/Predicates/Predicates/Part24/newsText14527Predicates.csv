@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,say.01,he threw crack cocaine out of,,Affirmative,"WILMINGTON , NC ( WWAY ) -- A man is in the New Hanover County Jail charged with multiple crimes after police say he threw crack cocaine out of his car while trying to avoid police all with two kids in the car . "
+Police,throw.01,crack cocaine out of,,Affirmative,"WILMINGTON , NC ( WWAY ) -- A man is in the New Hanover County Jail charged with multiple crimes after police say he threw crack cocaine out of his car while trying to avoid police all with two kids in the car . "
+Police,crack.02,cocaine,out of,Affirmative,"WILMINGTON , NC ( WWAY ) -- A man is in the New Hanover County Jail charged with multiple crimes after police say he threw crack cocaine out of his car while trying to avoid police all with two kids in the car . "
+Police,try.01,to avoid police all,,Affirmative,"WILMINGTON , NC ( WWAY ) -- A man is in the New Hanover County Jail charged with multiple crimes after police say he threw crack cocaine out of his car while trying to avoid police all with two kids in the car . "
+Police,avoid.01,police all,,Affirmative,"WILMINGTON , NC ( WWAY ) -- A man is in the New Hanover County Jail charged with multiple crimes after police say he threw crack cocaine out of his car while trying to avoid police all with two kids in the car . "
+spokeswoman Linda Rawley,say.01,sergeant was in,,Affirmative,WPD spokeswoman Linda Rawley says a police sergeant was in the 1000 block of Castle Street around 8 p.m. Friday when he saw someone he thought was selling drugs in a car with a window tint violation . 
+a police sergeant,see.01,someone,,Affirmative,WPD spokeswoman Linda Rawley says a police sergeant was in the 1000 block of Castle Street around 8 p.m. Friday when he saw someone he thought was selling drugs in a car with a window tint violation . 
+a police sergeant,think.01,was selling drugs in,,Affirmative,WPD spokeswoman Linda Rawley says a police sergeant was in the 1000 block of Castle Street around 8 p.m. Friday when he saw someone he thought was selling drugs in a car with a window tint violation . 
+someone,sell.01,drugs,,Affirmative,WPD spokeswoman Linda Rawley says a police sergeant was in the 1000 block of Castle Street around 8 p.m. Friday when he saw someone he thought was selling drugs in a car with a window tint violation . 
+The officer,try.01,to stop,,Affirmative,"The officer tried to stop the car , which instead drove off . "
+The officer,stop.01,"the car ,",,Affirmative,"The officer tried to stop the car , which instead drove off . "
+Police,say.01,threw,,Affirmative,Police say someone in the car threw what turned out to be crack out of the window . 
+someone in,throw.01,what turned out,,Affirmative,Police say someone in the car threw what turned out to be crack out of the window . 
+Police,recover.02,12 grams of,,Affirmative,"Police recovered 12 grams of the drug and seized more than $ 8,000 in cash after the car stopped in the 1100 block of Queen Street . "
+Police,seize.01,"more than $ 8,000 in cash",,Affirmative,"Police recovered 12 grams of the drug and seized more than $ 8,000 in cash after the car stopped in the 1100 block of Queen Street . "
+Investigators,say.01,they arrested,,Affirmative,"Investigators say they arrested Iglesias Montez Dowe , who had his girlfriend , her daughter and an infant boy in the car . "
+Investigators,arrest.01,"Iglesias Montez Dowe ,",,Affirmative,"Investigators say they arrested Iglesias Montez Dowe , who had his girlfriend , her daughter and an infant boy in the car . "
+"Iglesias Montez Dowe ,",have.03,"his girlfriend ,",,Affirmative,"Investigators say they arrested Iglesias Montez Dowe , who had his girlfriend , her daughter and an infant boy in the car . "
+Investigators,continue.01,their search,,Affirmative,"They also continued their search at Dowe 's home , where they say they found digital scales . "
+Investigators,say.01,they found,,Affirmative,"They also continued their search at Dowe 's home , where they say they found digital scales . "
+Investigators,find.01,digital scales,,Affirmative,"They also continued their search at Dowe 's home , where they say they found digital scales . "
+Jail records,show.01,is in custody under,,Affirmative,"New Hanover County Jail records show Dowe , 31 , is in custody under $ 100,000 bond . "
+WPD spokeswoman Linda Rawley,say.01,was not charged,,Affirmative,"The woman in the car with Dowe was not charged , Rawley said . "
+they,absorb.01,that kind of lifestyle,,Affirmative,"When they are in the presence of low - lifes like this guy , they absorb that kind of lifestyle and it becomes a disturbing circle of life . "

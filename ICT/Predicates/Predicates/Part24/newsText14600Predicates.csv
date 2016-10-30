@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+State Police,say.01,resident was injured,,Affirmative,( AP / WBOC ) - Delaware State Police say a resident was injured when two men invaded a home in Millsboro . 
+two men,invade.01,a home in Millsboro,,Affirmative,( AP / WBOC ) - Delaware State Police say a resident was injured when two men invaded a home in Millsboro . 
+Troopers,say.01,entered,,Affirmative,Troopers say two black men with bandanas over their faces entered the home and encountered five residents . 
+two black men with bandanas over,enter.01,the home,,Affirmative,Troopers say two black men with bandanas over their faces entered the home and encountered five residents . 
+two black men with bandanas over,encounter.01,five residents,,Affirmative,Troopers say two black men with bandanas over their faces entered the home and encountered five residents . 
+Investigators,say.01,residents jumped out of windows,,Affirmative,Investigators say two residents jumped out of windows to escape . 
+Police,say.01,suspects assaulted,,Affirmative,Police say the suspects assaulted one resident and stole money from him . 
+the suspects,assault.01,one resident,,Affirmative,Police say the suspects assaulted one resident and stole money from him . 
+the suspects,steal.01,money,from him,Affirmative,Police say the suspects assaulted one resident and stole money from him . 
+Officers,say.01,resident then jumped out,,Affirmative,"Officers say that resident then jumped out a window , and the suspects fled . "

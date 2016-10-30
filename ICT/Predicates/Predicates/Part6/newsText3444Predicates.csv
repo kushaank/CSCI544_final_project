@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Connecticut college dropout,admit.01,to calling in,,Affirmative,"-- A Connecticut college dropout was arrested Sunday night after admitting to calling in two bomb threats to keep her family from learning she had quit Quinnipiac University , police said on Monday . "
+her mother,quit.01,Quinnipiac University,,Affirmative,"-- A Connecticut college dropout was arrested Sunday night after admitting to calling in two bomb threats to keep her family from learning she had quit Quinnipiac University , police said on Monday . "
+police,say.01,dropout was arrested,,Affirmative,"-- A Connecticut college dropout was arrested Sunday night after admitting to calling in two bomb threats to keep her family from learning she had quit Quinnipiac University , police said on Monday . "
+"Danielle Shea , 22 , of Quincy , Massachusetts",make.01,the threats,,Affirmative,"Danielle Shea , 22 , of Quincy , Massachusetts , made the threats after arriving at the graduation ceremony in a cap and gown with her mother , who did not know she had dropped out . "
+"her mother ,",know.01,she had dropped out,,Affirmative,"Danielle Shea , 22 , of Quincy , Massachusetts , made the threats after arriving at the graduation ceremony in a cap and gown with her mother , who did not know she had dropped out . "
+relatives,notice.01,name was not on,,Affirmative,"She panicked when relatives noticed her name was not on the list of graduates , police said . "
+"police , who they tracked the caller down by tracing the phone number she called from",say.01,She panicked,,Affirmative,"She panicked when relatives noticed her name was not on the list of graduates , police said . "
+Shea,call.07,two bomb threats to,,Affirmative,"Shea called in two bomb threats to the Quinnipiac University library so the graduation ceremony would be canceled , police said . "
+police,say.01,Shea called in,,Affirmative,"Shea called in two bomb threats to the Quinnipiac University library so the graduation ceremony would be canceled , police said . "
+the Sunday evening ceremony,move.01,a mile,to,Affirmative,Instead the Sunday evening ceremony was delayed 90 minutes and moved a mile to a different campus of the university in the town of Hamden . 
+Local police,evacuate.01,the area,,Affirmative,"Local police went to the library as an estimated 5,000 people , including the 388 graduates , evacuated the area and quickly moved to the indoor location , according to John Morgan , university spokesman . "
+We,speculate.01,what she was thinking,,Affirmative,"We can not speculate what she was thinking , said Morgan . "
+Morgan,say.01,We can not speculate,,Affirmative,"We can not speculate what she was thinking , said Morgan . "
+we,act.02,in,,Affirmative,But we had to act quickly in the interest of safety . 
+Police,say.01,caller contacted,,Affirmative,"Police said a female caller contacted school security twice on Sunday , first saying , Bomb in the library . "
+a female caller,contact.01,school security,,Affirmative,"Police said a female caller contacted school security twice on Sunday , first saying , Bomb in the library . "
+Police,say.01,Bomb in,,Affirmative,"Police said a female caller contacted school security twice on Sunday , first saying , Bomb in the library . "
+She,say.01,bombs are on campus,,Affirmative,"She called back 20 minutes later to say , Several bombs are on campus . "
+You,clear.01,graduation,,Affirmative,You have n't cleared out graduation . 
+"police ,",say.01,devices were found on,,Affirmative,"No explosive devices were found on the campus , said police , who they tracked the caller down by tracing the phone number she called from . "
+"police ,",trace.02,the phone number,,Affirmative,"No explosive devices were found on the campus , said police , who they tracked the caller down by tracing the phone number she called from . "
+she,call.02,the phone number,from,Affirmative,"No explosive devices were found on the campus , said police , who they tracked the caller down by tracing the phone number she called from . "
+Shea,report.01,an incident,,Affirmative,Shea was charged with threatening in the first degree and falsely reporting an incident . 

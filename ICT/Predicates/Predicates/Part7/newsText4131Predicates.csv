@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Woman,grab.01,throat of boy,,Affirmative,Woman allegedly grabbed throat of boy who was bullying her daughter . 
+boy,bully.01,her daughter 's,,Affirmative,Woman allegedly grabbed throat of boy who was bullying her daughter . 
+California woman,face.01,charges,,Affirmative,"- A Northern California woman is facing charges that she grabbed a 12 - year - old boy by the throat while confronting him about bullying her daughter , authorities said Sunday . "
+A Northern California woman,grab.01,old boy,,Affirmative,"- A Northern California woman is facing charges that she grabbed a 12 - year - old boy by the throat while confronting him about bullying her daughter , authorities said Sunday . "
+A Northern California woman,confront.01,a 12-year-old boy,about bullying,Affirmative,"- A Northern California woman is facing charges that she grabbed a 12 - year - old boy by the throat while confronting him about bullying her daughter , authorities said Sunday . "
+authorities,say.01,woman is facing charges,,Affirmative,"- A Northern California woman is facing charges that she grabbed a 12 - year - old boy by the throat while confronting him about bullying her daughter , authorities said Sunday . "
+"Delia Garcia - Bratcher , 30 , of",ask.02,to point out,"her son ,",Affirmative,"Delia Garcia - Bratcher , 30 , of Santa Rosa came to an elementary school around lunchtime Friday and asked her son , who also attends the school , to point out her daughter 's alleged tormentor , the Sonoma County Sheriff 's office said in a statement . "
+"her son ,",attend.01,an elementary school,,Affirmative,"Delia Garcia - Bratcher , 30 , of Santa Rosa came to an elementary school around lunchtime Friday and asked her son , who also attends the school , to point out her daughter 's alleged tormentor , the Sonoma County Sheriff 's office said in a statement . "
+"her son ,",point.02,alleged tormentor,,Affirmative,"Delia Garcia - Bratcher , 30 , of Santa Rosa came to an elementary school around lunchtime Friday and asked her son , who also attends the school , to point out her daughter 's alleged tormentor , the Sonoma County Sheriff 's office said in a statement . "
+office,say.01,came to,,Affirmative,"Delia Garcia - Bratcher , 30 , of Santa Rosa came to an elementary school around lunchtime Friday and asked her son , who also attends the school , to point out her daughter 's alleged tormentor , the Sonoma County Sheriff 's office said in a statement . "
+The mother,grab.01,a 12-year-old boy,,Affirmative,"The mother grabbed the boy by the throat in front of a number of children , the statement said . "
+a statement,say.01,mother grabbed,,Affirmative,"The mother grabbed the boy by the throat in front of a number of children , the statement said . "
+No adult,see.01,the confrontation,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+Garcia - Bratcher,check.04,with,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+authorities,say.01,adult saw,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+The young witnesses,tell.01,mother threatened,a deputy,Affirmative,The young witnesses later told a deputy the mother threatened the boy about bullying her daughter . 
+The mother,threaten.01,about bullying,the boy,Affirmative,The young witnesses later told a deputy the mother threatened the boy about bullying her daughter . 
+The staff at,take.01,photos of,on,Affirmative,"The staff at Olivet Charter Elementary School took photos of red marks on the boy 's neck as soon as they learned about the alleged assault , authorities said . "
+The young witnesses,learn.01,about,,Affirmative,"The staff at Olivet Charter Elementary School took photos of red marks on the boy 's neck as soon as they learned about the alleged assault , authorities said . "
+authorities,say.01,took photos of,,Affirmative,"The staff at Olivet Charter Elementary School took photos of red marks on the boy 's neck as soon as they learned about the alleged assault , authorities said . "
+Delia Garcia-Bratcher,post.01,"30,000 bail",,Affirmative,"She was released from jail after posting a $ 30,000 bail . "
+a Facebook page,say.01,it belonged to Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that the truth will be told . "
+Facebook,belong.01,to Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that the truth will be told . "
+a Delia Bratcher,post.01,that she was hurt by,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that the truth will be told . "
+by,hurt.01,a Delia Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that the truth will be told . "
+a Delia Bratcher,assert.03,truth will be told,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that the truth will be told . "
+Lt. Mark Essick,tell.01,were looking into,Democrat deputies,Affirmative,Lt. Mark Essick told the Santa Rosa Press - Democrat deputies were looking into the bullying claims but have not substantiated them . 

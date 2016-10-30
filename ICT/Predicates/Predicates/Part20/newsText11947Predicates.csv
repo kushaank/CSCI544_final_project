@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Warren Buffett,have.03,sights set on Kellogg ( NYSE :,,Affirmative,Rumors are swirling that Warren Buffett may have his sights set on Kellogg ( NYSE : K     ) as the next major acquisition for Berkshire Hathaway ( NYSE : BRK - A     ) ( NYSE : BRK - B     ) . 
+you,ignore.01,everything,,Affirmative,"That is , if you ignore everything Charlie Munger has ever said about cereals . "
+Charlie Munger,say.01,everything,,Affirmative,"That is , if you ignore everything Charlie Munger has ever said about cereals . "
+Charlie Munger,explain.01,his perspective on,,Affirmative,"In a now - famous speech to business school students at USC , Munger explained his perspective on the cereal business . "
+Charlie Munger,compare.01,cereals that does n't exist in airlines,to airlines,Affirmative,"He compares cereals to airlines , noting that the industry is commoditized and highly competitive . "
+Charlie Munger,note.01,industry is commoditized and,,Affirmative,"He compares cereals to airlines , noting that the industry is commoditized and highly competitive . "
+by,make.LV,products in,,Affirmative,"Cereals are so commoditized , in fact , that the premium and discount products in any particular category are often made by the same manufacturer . "
+you,make.05,15 %,,Affirmative,"If you 're some kind of a medium grade cereal maker , you might make 15 % on your capital . "
+you,make.05,40 %,,Affirmative,"And if you 're really good , you might make 40 % . "
+some kind of a medium grade cereal maker,look.02,to me,,Affirmative,"But why are cereals so profitable -- despite the fact that it looks to me like they 're competing like crazy with promotions , coupons and everything else ? "
+I,understand.01,"the fact that it looks to me like they 're competing like crazy with promotions , coupons and everything else",,Affirmative,I do n't fully understand it . 
+the main factor,account.01,for it,,Affirmative,That must be the main factor that accounts for it . 
+the cereal makers by and large,learn.01,to be,,Affirmative,And maybe the cereal makers by and large have learned to be less crazy about fighting for market share -- because if you get even one person who 's hell - bent on gaining market share .... 
+you,get.01,one person,,Affirmative,And maybe the cereal makers by and large have learned to be less crazy about fighting for market share -- because if you get even one person who 's hell - bent on gaining market share .... 
+I,decide.01,that I had,,Affirmative,"For example , if I were Kellogg and I decided that I had to have 60 % of the market , I think I could take most of the profit out of cereals . "
+I,have.03,60 % of,,Affirmative,"For example , if I were Kellogg and I decided that I had to have 60 % of the market , I think I could take most of the profit out of cereals . "
+I,think.01,I could take most of,,Affirmative,"For example , if I were Kellogg and I decided that I had to have 60 % of the market , I think I could take most of the profit out of cereals . "
+I,take.01,most of,out of cereals,Affirmative,"For example , if I were Kellogg and I decided that I had to have 60 % of the market , I think I could take most of the profit out of cereals . "
+I,ruin.01,Kellogg,,Affirmative,I 'd ruin Kellogg in the process . 
+I,think.01,I could do it,,Affirmative,But I think I could do it . 
+I,do.02,it,,Affirmative,But I think I could do it . 
+I,think.01,Munger really hits on,,Affirmative,"It 's in the last paragraph that I think Munger really hits on the reason why Berkshire Hathaway would n't own Kellogg , or any cereal business , for that matter . "
+Munger,hit.01,on,,Affirmative,"It 's in the last paragraph that I think Munger really hits on the reason why Berkshire Hathaway would n't own Kellogg , or any cereal business , for that matter . "
+Berkshire Hathaway,own.01,Kellogg,,Affirmative,"It 's in the last paragraph that I think Munger really hits on the reason why Berkshire Hathaway would n't own Kellogg , or any cereal business , for that matter . "
+one bad actor in,ruin.01,the profits for everyone,,Affirmative,"The product is so commoditized , and consumers are so price sensitive , that one bad actor in the industry could ruin the profits for everyone . "
+one industry player,shoot.03,for,,Affirmative,"Once one industry player shoots for market share , rational pricing goes out the window . "
+"conscious families ,",take.01,issue,,Affirmative,"And cold cereal volumes have been in a consistent decline , especially among health - conscious families , who take issue with the fact kids ' cereals contain up to 56 % sugar by weight . "
+a company,rent.01,piece of machinery,,Affirmative,"Imagine a company that rents a very specific and valuable piece of machinery for $ 41,000 ... "
+he,load.02,on 8.8 million shares,,Affirmative,"And Warren Buffett is so confident in this company 's can't - live - without - it business model , he just loaded up on 8.8 million shares . "
+company,have.03,% market share,,Affirmative,"An exclusive , brand - new Motley Fool report details this company that  already has over 50 % market share . "
+Jordan Wathen,have.03,no position in,,Affirmative,Jordan Wathen has no position in any stocks mentioned . 
+The Motley Fool,recommend.01,Berkshire Hathaway and,,Affirmative,The Motley Fool recommends Berkshire Hathaway and Coca - Cola . 
+The Motley Fool,own.01,shares of,,Affirmative,The Motley Fool owns shares of Berkshire Hathaway and has the following options : long January 2016 $ 37 calls on Coca - Cola and short January 2016 $ 37 puts on Coca - Cola . 
+The Motley Fool,have.03,the following options :,,Affirmative,The Motley Fool owns shares of Berkshire Hathaway and has the following options : long January 2016 $ 37 calls on Coca - Cola and short January 2016 $ 37 puts on Coca - Cola . 
+We Fools,hold.02,the same opinions,,Affirmative,"We Fools may not all hold the same opinions , but we all believe that considering a diverse range of insights makes us better investors . "
+we all,believe.01,makes,,Affirmative,"We Fools may not all hold the same opinions , but we all believe that considering a diverse range of insights makes us better investors . "
+considering,make.02,us better investors,,Affirmative,"We Fools may not all hold the same opinions , but we all believe that considering a diverse range of insights makes us better investors . "
+The Motley Fool,have.03,a disclosure policy,,Affirmative,The Motley Fool has a disclosure policy . 
+I,give.01,credit for,them,Affirmative,"DoctorLewis4 , I 'll give them credit for the brand . "
+I,think.01,it 's,,Affirmative,"I just do n't think it 's particularly durable , and neither does Munger , apparently . "
+neither,do.02,Munger,,Affirmative,"I just do n't think it 's particularly durable , and neither does Munger , apparently . "
+I,find.02,it interesting,,Affirmative,I find it interesting that Munger goes so far to compare it to airlines . 
+Munger,compare.01,it,to airlines,Affirmative,I find it interesting that Munger goes so far to compare it to airlines . 
+That comparison,tell.01,a lot about,me,Affirmative,That comparison tells me a lot about what Berkshire really thinks of the cereal business . 
+experts,predict.01,will be sold per year,,Affirmative,experts are predicting 458 million of these types of devices will be sold per year . 
+growth company,rake.01,maximum profit,,Affirmative,1 hyper - growth company stands to rake in maximum profit - and it 's NOT Apple . 
+you,believe.01,is in violation of,,Affirmative,Use this area to report a comment that you believe is in violation of the community guidelines . 
+Our team,review.01,the entry,,Affirmative,Our team will review the entry and take any appropriate action . 
+Apple,recruit.01,development dream team,,Affirmative,Apple recently recruited a secret - development dream team to guarantee its newest smart device was kept hidden from the public for as long as possible . 
+Apple,guarantee.01,device was kept hidden from,,Affirmative,Apple recently recruited a secret - development dream team to guarantee its newest smart device was kept hidden from the public for as long as possible . 
+ABI Research,predict.01,will be sold per year,,Affirmative,"In fact , ABI Research predicts 485 million of this type of device will be sold per year . "
+one small company,make.02,gadget possible,,Affirmative,But one small company makes Apple 's gadget possible . 
+its stock price,have.03,unlimited room,,Affirmative,And its stock price has nearly unlimited room to run for early-in-the-know investors . 
+by BATS,provided.01,Time prices provided by BATS,,Affirmative,Real - Time prices provided by BATS . 
+by,provided.01,Market data provided by,,Affirmative,Market data provided by Interactive Data . 
+by Morningstar,provided.01,Company fundamental data provided by Morningstar,,Affirmative,Company fundamental data provided by Morningstar . 
+by Zacks,provided.01,Key Statistics provided by Zacks,,Affirmative,"Earnings Estimates , Analyst Ratings and Key Statistics provided by Zacks . "
+by,provided.01,Transactions provided by,,Affirmative,SEC Filings and Insider Transactions provided by Edgar Online . 

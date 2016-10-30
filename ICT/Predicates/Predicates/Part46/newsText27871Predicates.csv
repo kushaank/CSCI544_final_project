@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+A woman,crash.01,her vehicle,,Affirmative,"HOOVER , Alabama - A woman crashed her vehicle into a window at the Hoover Public Library today , but there were no injuries , police and fire officials said . "
+City workers,board.01,the broken window,,Affirmative,City workers boarded up the broken window and have blocked library patrons from entering the part of the nonfiction area where the incident occurred . 
+City workers,block.01,library patrons,from entering,Affirmative,City workers boarded up the broken window and have blocked library patrons from entering the part of the nonfiction area where the incident occurred . 
+library patrons,enter.01,the part of,,Affirmative,City workers boarded up the broken window and have blocked library patrons from entering the part of the nonfiction area where the incident occurred . 
+the Hoover Public Library,have.03,no plans for,,Affirmative,The library has no plans for drive - through service . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

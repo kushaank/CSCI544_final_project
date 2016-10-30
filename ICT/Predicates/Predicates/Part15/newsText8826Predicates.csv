@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Defendant,obtain.01,an assessment for,,Affirmative,Defendant shall obtain an assessment for alcohol / drug counseling . 
+Defendant,obtain.01,an assessment for,,Affirmative,Defendant shall obtain an assessment for drug / alcohol counseling . 
+Defendant,pay.01,the fine and,,Affirmative,Defendant is able to pay the fine and court costs imposed in full within 60 days . 
+Defendant,obtain.01,an assessment for,,Affirmative,Defendant shall obtain an assessment for drug / alcohol counseling and shall refrain from all contact with Jennifer Bayes . 
+Defendant,refrain.01,from,,Affirmative,Defendant shall obtain an assessment for drug / alcohol counseling and shall refrain from all contact with Jennifer Bayes . 
+Defendant,obtain.01,an assessment for,,Affirmative,Defendant shall obtain an assessment for drug / alcohol counseling and shall undergo mental health counseling . 
+Defendant,refrain.01,from,,Affirmative,Defendant shall refrain from all contact with Ashley Dean . 
+Defendant,waive.01,preliminary hearing,,Affirmative,Defendant waived preliminary hearing . 
+Defendant,pay.01,the fine and costs imposed in full,,Affirmative,"Defendant is able to pay the fine and costs imposed in full by May 17 , 2014 . "
+"by May 17 , 2014",impose.01,costs imposed in full,,Affirmative,"Defendant is able to pay the fine and costs imposed in full by May 17 , 2014 . "
+Defendant,enter.01,a plea of,,Affirmative,"Defendant entered a plea of no contest and was found not guilty , and a judgment of acquittal is hereby entered . "
+Defendant,obtain.01,drug counseling,,Affirmative,Defendant shall obtain alcohol / drug counseling . 

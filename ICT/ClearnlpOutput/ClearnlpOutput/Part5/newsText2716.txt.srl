@@ -1,0 +1,19 @@
+1	This	this	DT	_	2	det	_
+2	question	question	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	for	for	IN	_	3	prep	3:A2=PRD
+5	testing	test	VBG	p2=NN|pb=test.01	4	pcomp	_
+6	whether	whether	IN	_	8	mark	_
+7	you	you	PRP	_	8	nsubj	14:A0=PAG;8:A1=PPT
+8	are	be	VBP	pb=be.01	3	advcl	_
+9	a	a	DT	_	11	det	_
+10	human	human	JJ	_	11	amod	_
+11	visitor	visitor	NN	_	8	attr	8:A2=PRD
+12	and	and	CC	_	8	cc	_
+13	to	to	TO	_	14	aux	_
+14	prevent	prevent	VB	pb=prevent.01	8	conj	_
+15	automated	automate	VBN	p2=JJ|pb=automate.01	17	amod	_
+16	spam	spam	NN	p2=NNS	17	nn	_
+17	submissions	submission	NNS	_	14	dobj	14:A1=PPT;15:A1=PPT
+18	.	.	.	_	3	punct	_
+

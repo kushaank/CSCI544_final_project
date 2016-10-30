@@ -1,0 +1,42 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,vote.01,on comments,,Affirmative,You must be registered to comment and vote on comments . 
+He,admit.01,robbing,,Affirmative,He admitted robbing 31 Minnesota banks in 12 - month span . 
+He,rob.01,31 Minnesota banks,,Affirmative,He admitted robbing 31 Minnesota banks in 12 - month span . 
+He,wield.01,a knife and,,Affirmative,"He wielded a knife and a toy gun , stole $ 11,400 , and the terror of that day in March 2011 still haunts Pat Zellman , the bank manager at KleinBank in Cologne , Minn . "
+He,steal.01,"$ 11,400",,Affirmative,"He wielded a knife and a toy gun , stole $ 11,400 , and the terror of that day in March 2011 still haunts Pat Zellman , the bank manager at KleinBank in Cologne , Minn . "
+the terror of,haunt.01,"Pat Zellman ,",,Affirmative,"He wielded a knife and a toy gun , stole $ 11,400 , and the terror of that day in March 2011 still haunts Pat Zellman , the bank manager at KleinBank in Cologne , Minn . "
+a man,pay.01,"$ 108,771.71 in restitution",,Affirmative,"He was sentenced to 14 years in prison and ordered to pay $ 108,771.71 in restitution . "
+"Arafat ,",change.01,his name,,Affirmative,"Arafat , who has formally changed his name , acted as his own attorney . "
+"Arafat ,",act.01,as,,Affirmative,"Arafat , who has formally changed his name , acted as his own attorney . "
+Nelson,say.01,Arafat appeared,,Affirmative,Nelson said Arafat appeared to care only for himself and evidently had not learned anything from his previous imprisonment for embezzlement and did not take any responsibility for his actions . 
+now Sheikh Bilaal Muhammad Arafat,care.01,for himself,,Affirmative,Nelson said Arafat appeared to care only for himself and evidently had not learned anything from his previous imprisonment for embezzlement and did not take any responsibility for his actions . 
+now Sheikh Bilaal Muhammad Arafat,take.01,any responsibility for,,Affirmative,Nelson said Arafat appeared to care only for himself and evidently had not learned anything from his previous imprisonment for embezzlement and did not take any responsibility for his actions . 
+She,suggest.01,he consider getting,,Affirmative,She suggested he consider getting some psychological help in prison . 
+Nelson,consider.01,getting,,Affirmative,She suggested he consider getting some psychological help in prison . 
+Nelson,get.01,some psychological help in prison,,Affirmative,She suggested he consider getting some psychological help in prison . 
+now Sheikh Bilaal Muhammad Arafat,plead.02,guilty,,Affirmative,"Arafat pleaded guilty last year to six bank robberies , and admitted to robbing 25 others . "
+now Sheikh Bilaal Muhammad Arafat,admit.01,to robbing,,Affirmative,"Arafat pleaded guilty last year to six bank robberies , and admitted to robbing 25 others . "
+now Sheikh Bilaal Muhammad Arafat,seek.01,to retract,,Affirmative,He sought unsuccessfully to retract his guilty pleas and according to prosecutors had filed 170 motions and pleadings - an unusually high number - challenging many aspects of the case . 
+now Sheikh Bilaal Muhammad Arafat,retract.01,his guilty pleas,,Affirmative,He sought unsuccessfully to retract his guilty pleas and according to prosecutors had filed 170 motions and pleadings - an unusually high number - challenging many aspects of the case . 
+now Sheikh Bilaal Muhammad Arafat,file.01,170 motions and pleadings -,,Affirmative,He sought unsuccessfully to retract his guilty pleas and according to prosecutors had filed 170 motions and pleadings - an unusually high number - challenging many aspects of the case . 
+six bank robberies,cause.01,the biggest stir,,Affirmative,"Although the bank robberies caused the biggest stir , Arafat had achieved some notoriety long before he was the Man in Black or Arafat . "
+now Sheikh Bilaal Muhammad Arafat,achieve.01,some notoriety,,Affirmative,"Although the bank robberies caused the biggest stir , Arafat had achieved some notoriety long before he was the Man in Black or Arafat . "
+now Sheikh Bilaal Muhammad Arafat,make.01,news,,Affirmative,"In 2002 he made news in the sports pages , in a disagreement with a cross-country coach over the handling of his daughter , who was considered one of the best distance runners in the state . "
+"Mark E. Wetsch , who changed his name",want.01,old to skip,,Affirmative,Wetsch wanted the 14 - year - old to skip half the cross-country meets on the Chaska High School schedule to preserve her long - term running career . 
+year - old,skip.01,cross-country meets on,,Affirmative,Wetsch wanted the 14 - year - old to skip half the cross-country meets on the Chaska High School schedule to preserve her long - term running career . 
+half the cross-country,preserve.01,term running career,,Affirmative,Wetsch wanted the 14 - year - old to skip half the cross-country meets on the Chaska High School schedule to preserve her long - term running career . 
+"Mark E. Wetsch , who changed his name",commit.02,his first known bank robbery,,Affirmative,Wetsch committed his first known bank robbery on Jan . 
+"11 , 2011 ,",hold.01,Bank branch in Minneapolis,,Affirmative,"11 , 2011 , holding up a Bremer Bank branch in Minneapolis . "
+he,cover.02,his face,with,Affirmative,"In some of the early robberies , he covered his face with a scarf , said assistant U.S. Attorney Deirdre Aanstad . "
+Attorney Deirdre Aanstad,say.01,", he covered",,Affirmative,"In some of the early robberies , he covered his face with a scarf , said assistant U.S. Attorney Deirdre Aanstad . "
+Police Department,investigate.01,a bank robbery,,Affirmative,", Police Department , had been investigating a bank robbery that occurred two weeks earlier in St. Peter , when he got a call from a colleague about the Brewster holdup . "
+he,get.01,a call from,,Affirmative,", Police Department , had been investigating a bank robbery that occurred two weeks earlier in St. Peter , when he got a call from a colleague about the Brewster holdup . "
+The robber,drive.01,a vehicle,,Affirmative,"The robber escaped , driving a vehicle with a description much like the one used in the St. Peter crime . "
+Sandland,guess.01,robber lived in,,Affirmative,"Because of the locations of the previous robberies , Sandland guessed that the robber lived in the Twin Cities and would be heading that way , north on Hwy . "
+the robber,head.01,that way,,Affirmative,"Because of the locations of the previous robberies , Sandland guessed that the robber lived in the Twin Cities and would be heading that way , north on Hwy . "
+Sandland,spot.01,Wetsch,,Affirmative,"Parked along the roadway in St. Peter , Sandland spotted Wetsch , driving a Silver Ford Edge SUV , and pulled him over . "
+Sandland,drive.01,a Silver Ford Edge SUV,,Affirmative,"Parked along the roadway in St. Peter , Sandland spotted Wetsch , driving a Silver Ford Edge SUV , and pulled him over . "
+Sandland,pull.01,him,over,Affirmative,"Parked along the roadway in St. Peter , Sandland spotted Wetsch , driving a Silver Ford Edge SUV , and pulled him over . "
+"Mark E. Wetsch ,",change.01,his name,,Affirmative,"Mark E. Wetsch , who changed his name , failed to take responsibility for his crimes , judge said at sentencing . "
+"Mark E. Wetsch ,",take.01,responsibility for,,Affirmative,"Mark E. Wetsch , who changed his name , failed to take responsibility for his crimes , judge said at sentencing . "
+judge,say.01,failed,,Affirmative,"Mark E. Wetsch , who changed his name , failed to take responsibility for his crimes , judge said at sentencing . "

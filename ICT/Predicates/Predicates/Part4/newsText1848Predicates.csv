@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by police in Manhattan,shoot.02,A man,,Affirmative,A man who was shot by police in Manhattan over the weekend is now facing charges . 
+A man,face.01,charges,,Affirmative,A man who was shot by police in Manhattan over the weekend is now facing charges . 
+Police,answer.01,a call of,,Affirmative,Police answered a call of a disorderly group gathered outside the Washington Houses in East Harlem yesterday morning . 
+The NYPD,say.01,officers were questioning Schultz,,Affirmative,The NYPD says the officers were questioning Schultz when he ran away . 
+the officers,question.01,Schultz,,Affirmative,The NYPD says the officers were questioning Schultz when he ran away . 
+the officers,chase.01,Michael Schultz,,Affirmative,They chased him and opened fire after they say he pointed a gun at them . 
+the officers,open.01,fire,,Affirmative,They chased him and opened fire after they say he pointed a gun at them . 
+the officers,say.01,he pointed,,Affirmative,They chased him and opened fire after they say he pointed a gun at them . 
+Michael Schultz,point.01,a gun,at them,Affirmative,They chased him and opened fire after they say he pointed a gun at them . 

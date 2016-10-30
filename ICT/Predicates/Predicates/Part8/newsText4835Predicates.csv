@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Relations Officer of,tell.01,follows conclusion of,sack,Affirmative,"Public Relations Officer of the Ghana National Fire Service , Mr Billy Anaglatey , told Joy News Mr Asiedu 's sack follows conclusion of an investigation into the incident . "
+A resident of,blame.01,officials,for inaction,Affirmative,"A resident of Adenta Sakora , Lilian Bagidah , whose house was reduced to ashes in March this year blamed officials at Madina for inaction after calling on them . "
+"A resident of Adenta Sakora , Lilian Bagidah , whose house was reduced to ashes in March this year",call.02,on them,,Affirmative,"According to her personnel at the Madina Fire Station , which is close to her Adenta residence , failed to attend to her when she called on them while her house was burning . "
+Lilan Bagidah,claim.01,told her,,Affirmative,Lilan Bagidah claims officers at the Madina station told her the location of her house was not under their jurisdiction and asked her to go to the Adenta Station for help . 
+officers at,tell.01,the location of,her,Affirmative,Lilan Bagidah claims officers at the Madina station told her the location of her house was not under their jurisdiction and asked her to go to the Adenta Station for help . 
+"Mr. Asiedu ,",insist.01,men did nothing wrong as,,Affirmative,"Mr. Asiedu , who was the supervisor at the Madina Fire Station , had insisted after the incident that his men did nothing wrong as the area was under the jurisdiction of the Adenta station instead . "
+his men,do.02,nothing wrong as,,Affirmative,"Mr. Asiedu , who was the supervisor at the Madina Fire Station , had insisted after the incident that his men did nothing wrong as the area was under the jurisdiction of the Adenta station instead . "
+Mr Billy Anaglatey,say.01,was wrong,,Affirmative,But Mr Anaglatey said Mr Asiedu 's reason for failing to attend to the Adenta fire was wrong . 
+Mr Billy Anaglatey,say.01,Bagidah also erred by giving,,Affirmative,He however said Lilian Bagidah also erred by giving an inaccurate address to her house . 
+Lilian Bagidah,give.01,an inaccurate address,to,Affirmative,He however said Lilian Bagidah also erred by giving an inaccurate address to her house . 
+the Adenta Fire Station -,dispatch.01,a fire tender,,Affirmative,According to him this led to the inability of the Adenta Fire Station - who had dispatched a fire tender to incident earlier - to locate the burning house . 

@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Actress Sandra Bullock,make.01,a graduating class,,Affirmative,"Actress Sandra Bullock made a graduating class ' commencement ceremony extra special on Monday ( 19May14 ) after making a surprise appearance at the New Orleans , Louisiana celebration . "
+Actress Sandra Bullock,join.01,200 students from,,Affirmative,"The Gravity star was a special guest as she joined around 200 students from Warren Easton Charter High School to mark their educational achievement at the Lakefront Arena at the University of New Orleans , and she delighted attendees as she took the stage to share a few words of wisdom with the Class of 2014 . "
+Actress Sandra Bullock,mark.01,their educational achievement at,,Affirmative,"The Gravity star was a special guest as she joined around 200 students from Warren Easton Charter High School to mark their educational achievement at the Lakefront Arena at the University of New Orleans , and she delighted attendees as she took the stage to share a few words of wisdom with the Class of 2014 . "
+Actress Sandra Bullock,delight.03,attendees,,Affirmative,"The Gravity star was a special guest as she joined around 200 students from Warren Easton Charter High School to mark their educational achievement at the Lakefront Arena at the University of New Orleans , and she delighted attendees as she took the stage to share a few words of wisdom with the Class of 2014 . "
+Actress Sandra Bullock,take.01,the stage,,Affirmative,"The Gravity star was a special guest as she joined around 200 students from Warren Easton Charter High School to mark their educational achievement at the Lakefront Arena at the University of New Orleans , and she delighted attendees as she took the stage to share a few words of wisdom with the Class of 2014 . "
+Actress Sandra Bullock,share.01,a few words of wisdom,with,Affirmative,"The Gravity star was a special guest as she joined around 200 students from Warren Easton Charter High School to mark their educational achievement at the Lakefront Arena at the University of New Orleans , and she delighted attendees as she took the stage to share a few words of wisdom with the Class of 2014 . "
+Actress Sandra Bullock,address.02,the crowd,,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+Actress Sandra Bullock,adopt.01,the school,,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+Actress Sandra Bullock,encourage.01,around 200 students,to take in,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+around 200 students,take.06,the moment,,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+Actress Sandra Bullock,say.01,You know,,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+You,know.01,", you are loved and appreciated and supported for",,Affirmative,"Addressing the crowd at the school she ' adopted ' after Hurricane Katrina , she encouraged the students to take in the moment , saying , You know at Warren Easton , you are loved and appreciated and supported for what you have to offer . "
+Actress Sandra Bullock,try.01,to remember,,Affirmative,"I was trying to remember my graduation and , oddly , I could n't remember anything . "
+Actress Sandra Bullock,remember.01,my graduation and,,Affirmative,"I was trying to remember my graduation and , oddly , I could n't remember anything . "
+Actress Sandra Bullock,remember.01,anything,,Affirmative,"I was trying to remember my graduation and , oddly , I could n't remember anything . "
+Actress Sandra Bullock,remember.01,good I looked and,,Affirmative,I remembered how good I looked and then I went back and looked at pictures and I really did n't look so good . 
+Actress Sandra Bullock,look.01,at pictures,,Affirmative,I remembered how good I looked and then I went back and looked at pictures and I really did n't look so good . 
+Actress Sandra Bullock,look.02,so good,,Affirmative,I remembered how good I looked and then I went back and looked at pictures and I really did n't look so good . 
+Actress Sandra Bullock,remember.01,anything,,Affirmative,"I did n't remember anything , because I was so worried about the future . "
+Actress Sandra Bullock,remember.01,any of,,Affirmative,I do n't remember any of the moments in my life where I worried . 
+Actress Sandra Bullock,add.02,pieces of advice,,Affirmative,"Adding a few more pieces of advice , she continued , Eat something green every day . "
+Actress Sandra Bullock,continue.02,Eat something green,,Affirmative,"Adding a few more pieces of advice , she continued , Eat something green every day . "
+we,go.05,get,,Affirmative,How about we just go get a tissue ? 
+someone,care.01,about you,,Affirmative,"When someone who cares about you hugs you , hug them back . "
+someone,hug.01,your,,Affirmative,"When someone who cares about you hugs you , hug them back . "
+someone,hug.01,about we,,Affirmative,"When someone who cares about you hugs you , hug them back . "
+someone,want.01,to play with you,,Affirmative,"If someone does n't want to play with you , it 's okay . "
+Not everybody,love.01,us,,Affirmative,Not everybody is going to love us . 
+your,want.01,to thank you for,,Affirmative,And I want to thank you for the joy that Warren Easton brings me every day . 
+your,thank.01,your,for,Affirmative,And I want to thank you for the joy that Warren Easton brings me every day . 
+Warren Easton,bring.01,your,,Affirmative,And I want to thank you for the joy that Warren Easton brings me every day . 
+"Bullock ,",own.01,a home in,,Affirmative,"Bullock , who owns a home in the city , helped to rebuild the school after it was seriously damaged by Hurricane Katrina in 2005 . "
+"Bullock ,",help.01,to rebuild,,Affirmative,"Bullock , who owns a home in the city , helped to rebuild the school after it was seriously damaged by Hurricane Katrina in 2005 . "
+"Bullock ,",rebuild.01,Warren Easton Charter High School,,Affirmative,"Bullock , who owns a home in the city , helped to rebuild the school after it was seriously damaged by Hurricane Katrina in 2005 . "
+by,damage.01,Warren Easton Charter High School,,Affirmative,"Bullock , who owns a home in the city , helped to rebuild the school after it was seriously damaged by Hurricane Katrina in 2005 . "

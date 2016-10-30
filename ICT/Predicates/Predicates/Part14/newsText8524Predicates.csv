@@ -1,0 +1,63 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+SunRail passengers,pay.01,way base fare of,,Affirmative,"After 12 days of riding for free , SunRail passengers will now have to pay a one - way base fare of $ 2 to ride the train . "
+SunRail passengers,ride.01,the train,,Affirmative,"After 12 days of riding for free , SunRail passengers will now have to pay a one - way base fare of $ 2 to ride the train . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",run.02,on time and with plenty of seats,,Affirmative,"SunRail ran largely on time and with plenty of seats available Monday , despite one train demolishing a luxury car that was stalled on the tracks in Maitland . "
+one train demolishing,demolish.01,a luxury car,,Affirmative,"SunRail ran largely on time and with plenty of seats available Monday , despite one train demolishing a luxury car that was stalled on the tracks in Maitland . "
+Maitland police,say.01,one was seriously hurt in,,Affirmative,"No one was seriously hurt in the second accident in as many weeks for SunRail , although the 28 - year - old driver was transported to Orlando Regional Medical Center , Maitland police said . "
+"The driver ,",flee.01,the black Infiniti,,Affirmative,"The driver , whose name was not released , may have been hit by debris after fleeing the black Infiniti just before it was struck about 2:15 p.m. by the 145 - ton locomotive pulling three passenger cars . "
+ton locomotive pulling,pull.01,three passenger cars,,Affirmative,"The driver , whose name was not released , may have been hit by debris after fleeing the black Infiniti just before it was struck about 2:15 p.m. by the 145 - ton locomotive pulling three passenger cars . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",purchase.01,a luxury car that was stalled on the tracks in Maitland,,Affirmative,"She had recently purchased the car and was learning to drive the stick shift , police said . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",learn.01,to drive,,Affirmative,"She had recently purchased the car and was learning to drive the stick shift , police said . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",drive.02,the stick shift,,Affirmative,"She had recently purchased the car and was learning to drive the stick shift , police said . "
+police,say.01,She had recently purchased,,Affirmative,"She had recently purchased the car and was learning to drive the stick shift , police said . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",charge.01,SunRail passengers,,Affirmative,Monday was the first day that SunRail charged passengers to ride the commuter train . 
+SunRail passengers,ride.01,the commuter train,,Affirmative,Monday was the first day that SunRail charged passengers to ride the commuter train . 
+"135,000 people",overwhelm.01,the system,,Affirmative,"The previous 12 days were free , resulting in nearly 135,000 people overwhelming the system and routinely causing delays of an hour or more . "
+"135,000 people",cause.01,delays of,,Affirmative,"The previous 12 days were free , resulting in nearly 135,000 people overwhelming the system and routinely causing delays of an hour or more . "
+The wreck at,threaten.01,to push SunRail behind again,,Affirmative,"The wreck at the intersection of Packwood and Maitland avenues threatened to push SunRail behind again , but the damaged train was shunted to the side and completed its run about 90 minutes late , though the rest of the system remained on schedule . "
+The wreck at,push.01,"SunRail , which runs between 34 and 37 times along its 31.5-mile route",behind,Affirmative,"The wreck at the intersection of Packwood and Maitland avenues threatened to push SunRail behind again , but the damaged train was shunted to the side and completed its run about 90 minutes late , though the rest of the system remained on schedule . "
+The wreck at,complete.01,its run,,Affirmative,"The wreck at the intersection of Packwood and Maitland avenues threatened to push SunRail behind again , but the damaged train was shunted to the side and completed its run about 90 minutes late , though the rest of the system remained on schedule . "
+Patrol Sgt. Kim Montes,say.01,trains rarely are,,Affirmative,Florida Highway Patrol Sgt. Kim Montes said trains rarely are to blame for accidents in Central Florida . 
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",say.01,is,,Affirmative,"The problem most often , she said , is that drivers stop their cars on the tracks because of traffic lights or go around crossing guards to beat an oncoming train . "
+drivers,stop.01,three passenger cars,,Affirmative,"The problem most often , she said , is that drivers stop their cars on the tracks because of traffic lights or go around crossing guards to beat an oncoming train . "
+drivers,cross.02,guards,,Affirmative,"The problem most often , she said , is that drivers stop their cars on the tracks because of traffic lights or go around crossing guards to beat an oncoming train . "
+"SunRail , which runs between 34 and 37 times along its 31.5-mile route",say.01,are not used to trains operating with,,Affirmative,"Although FHP was not involved in the investigation Monday , she said motorists in metro Orlando are not used to trains operating with such frequency as SunRail , which runs between 34 and 37 times along its 31.5 - mile route . "
+You,have.03,more instances of trains coming along,,Affirmative,"You have more instances of trains coming along the tracks , Montes said .. "
+Montes,say.01,You have,,Affirmative,"You have more instances of trains coming along the tracks , Montes said .. "
+"Michelle Grossman ,",say.01,she heard,,Affirmative,"Michelle Grossman , a Maitland resident who lives off of Packwood , said she heard the crossing - arm bells , blaring horns and the train crushing the car . "
+Michelle Grossman,hear.01,"arm bells ,",,Affirmative,"Michelle Grossman , a Maitland resident who lives off of Packwood , said she heard the crossing - arm bells , blaring horns and the train crushing the car . "
+the train crushing,crush.01,a luxury car that was stalled on the tracks in Maitland,,Affirmative,"Michelle Grossman , a Maitland resident who lives off of Packwood , said she heard the crossing - arm bells , blaring horns and the train crushing the car . "
+Michelle Grossman,say.01,one is horrible and,,Affirmative,"This one is horrible and nerve - racking , Grossman said of the Packwood intersection . "
+This,mark.01,the second crash involving,,Affirmative,This marks the second crash involving a SunRail train . 
+care worker,cause.01,first crash,,Affirmative,A lawn - care worker who caused SunRail 's first crash nearly two weeks ago received a ticket for trying to drive across railroad tracks without enough space for safe passage . 
+care worker,receive.01,a ticket for trying,,Affirmative,A lawn - care worker who caused SunRail 's first crash nearly two weeks ago received a ticket for trying to drive across railroad tracks without enough space for safe passage . 
+the biggest problem facing riders Monday,face.01,riders,,Affirmative,"Beyond the latest accident , the biggest problem facing riders Monday was the ticket machines , some of which were not working or were responding slowly . "
+Platform attendants,help.01,riders get,,Affirmative,Platform attendants often helped riders get their tickets . 
+riders,get.01,their tickets,,Affirmative,Platform attendants often helped riders get their tickets . 
+fares in place,leave.02,plenty of seats,,Affirmative,"That left plenty of seats , especially in contrast to Friday , when more than 17,000 people took advantage of the last day of free rides . "
+"17,000 people",take.01,advantage,of,Affirmative,"That left plenty of seats , especially in contrast to Friday , when more than 17,000 people took advantage of the last day of free rides . "
+Patty Masciantoni of,say.01,she did not mind,,Affirmative,"Patty Masciantoni of Winter Park said she did not mind the joy riders , even though she had to fight the crowds to board . "
+Patty Masciantoni of Winter Park,mind.01,the joy riders,,Affirmative,"Patty Masciantoni of Winter Park said she did not mind the joy riders , even though she had to fight the crowds to board . "
+Patty Masciantoni of Winter Park,fight.01,the crowds to board,,Affirmative,"Patty Masciantoni of Winter Park said she did not mind the joy riders , even though she had to fight the crowds to board . "
+the joy riders,ride.01,the train,,Affirmative,I 'm glad they were riding the train . 
+Patty Masciantoni of Winter Park,think.01,people were curious,,Affirmative,"I think some people were curious , she said . "
+Patty Masciantoni of Winter Park,say.01,I think,,Affirmative,"I think some people were curious , she said . "
+you,have.03,people ride it for free,,Affirmative,"When you have people ride it for free , they 'll tell their neighbors and friends , and maybe we 'll get more [ paying ] riders . "
+some people,ride.01,the train,,Affirmative,"When you have people ride it for free , they 'll tell their neighbors and friends , and maybe we 'll get more [ paying ] riders . "
+we,get.01,riders,,Affirmative,"When you have people ride it for free , they 'll tell their neighbors and friends , and maybe we 'll get more [ paying ] riders . "
+Patty Masciantoni of Winter Park,want.01,this to be,,Affirmative,I really want this to be a success . 
+"Lawrence Sell , 66",say.01,he had ridden for free,,Affirmative,"He said he had ridden for free but did not mind paying , either . "
+"Lawrence Sell , 66",ride.01,for free,,Affirmative,"He said he had ridden for free but did not mind paying , either . "
+"Lawrence Sell , 66",mind.01,paying,,Affirmative,"He said he had ridden for free but did not mind paying , either . "
+"Lawrence Sell , 66",say.01,a rail fan,,Affirmative,"I 'm a rail enthusiast , he said , a rail fan . "
+We,get.01,peace and quiet,,Affirmative,"We get peace and quiet , she said . "
+Norma Queirolo,say.01,We get peace and quiet,,Affirmative,"We get peace and quiet , she said . "
+Norma Queirolo,want.01,peace and quiet,,Affirmative,I want peace and quiet . 
+We,upgrade.02,our reader,,Affirmative,We 've upgraded our reader commenting system . 
+We,comment.01,system,,Affirmative,We 've upgraded our reader commenting system . 
+The Orlando Sentinel,welcome.01,civil dialogue about,,Affirmative,The Orlando Sentinel welcomes civil dialogue about our stories ; you must register with the site to participate . 
+We,filter.02,comments for language and adherence to,,Affirmative,"We filter comments for language and adherence to our Terms of Service , but not for factual accuracy . "
+you,agree.01,to,,Affirmative,"By commenting , you agree to these legal terms . "
+*You,text.01,any of,to 43886,Affirmative,*You can also sign up by texting any of the above keywords to 43886 . 
+You,receive.01,10 messages /,,Affirmative,You will receive no more than 10 messages / week per alert list . 
+You,receive.01,subsequent messages clarifying or confirming,,Affirmative,You may receive subsequent messages clarifying or confirming your STOP request . 

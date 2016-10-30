@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the Centers for,announce.01,that they would be using,,Affirmative,"On Sunday the Centers for Disease Control announced that they would be using their handbook on SARS , the deadly virus outbreak that took place in 2003 , to figure out how to deal with the growing death toll from MERS . "
+they,use.01,their handbook,to figure out,Affirmative,"On Sunday the Centers for Disease Control announced that they would be using their handbook on SARS , the deadly virus outbreak that took place in 2003 , to figure out how to deal with the growing death toll from MERS . "
+they,figure.05,how to deal with,,Affirmative,"On Sunday the Centers for Disease Control announced that they would be using their handbook on SARS , the deadly virus outbreak that took place in 2003 , to figure out how to deal with the growing death toll from MERS . "
+Officials,believe.01,"virus originated from camels ,",,Affirmative,"Officials believe the virus originated from camels , which carry a strain of the disease in their blood . "
+"camels ,",carry.01,a strain of,,Affirmative,"Officials believe the virus originated from camels , which carry a strain of the disease in their blood . "
+contagious strand,mutate.01,a risk,,Affirmative,"Human to human infection is low , although there is a risk a more contagious strand could mutate . "
+acute respiratory syndrome,kill.01,774 people,,Affirmative,"In comparison , the SARS virus , orÂ severe acute respiratory syndrome killed 774 people in the early 2000 s , and spread easily through human to human contact . "
+MERS,affect.01,healthcare workers treating others for,,Affirmative,"Â As with SARS , MERS seems to be disproportionately affecting healthcare workers treating others for the virus . "
+healthcare workers treating others for,treat.01,others,for,Affirmative,"Â As with SARS , MERS seems to be disproportionately affecting healthcare workers treating others for the virus . "
+healthcare workers,provide.01,care,to people,Affirmative,"â€œA lot of the transmission in SARS was in healthcare settings and healthcare workers who were providing care to people who got sick and that is what weâ€™re seeing with MERS , â€� CDC spokesperson Thomas Skinner told The Hill . "
+the Centers for Disease Control,work.01,to develop,,Affirmative,"Â As soon as first cases of MERS occurred in 2012 , the CDC worked to develop a test kit , which has since been distributed throughout state health departments . "
+the Centers for Disease Control,develop.02,"a test kit ,",,Affirmative,"Â As soon as first cases of MERS occurred in 2012 , the CDC worked to develop a test kit , which has since been distributed throughout state health departments . "
+Localities,have.03,access to,,Affirmative,Localities that do n't have access to a test kit can ship samples to the CDC for testing . 
+Localities,ship.01,samples,to,Affirmative,Localities that do n't have access to a test kit can ship samples to the CDC for testing . 
+the CDC,establish.01,Operations Center based in Indiana,,Affirmative,"Â After the first few reported cases of MERS , the CDC established an Emergency Operations Center based in Indiana . "
+the CDC,begin.01,posting signage in airports warning,,Affirmative,Last week the CDC also began posting signage in airports warning unsuspecting passengers the dangers of traveling in a plane with someone infected by MERS . 
+the CDC,post.01,signage,,Affirmative,Last week the CDC also began posting signage in airports warning unsuspecting passengers the dangers of traveling in a plane with someone infected by MERS . 
+airports warning,warn.01,the dangers of traveling in,unsuspecting passengers,Affirmative,Last week the CDC also began posting signage in airports warning unsuspecting passengers the dangers of traveling in a plane with someone infected by MERS . 
+by MERS,infect.01,someone infected by MERS,,Affirmative,Last week the CDC also began posting signage in airports warning unsuspecting passengers the dangers of traveling in a plane with someone infected by MERS . 
+It,urge.01,all travelers,to seek,Affirmative,It urged all travelers to seek medical attention immediately if they started developing any flu-like symptoms following their trip . 
+all travelers,seek.01,medical attention,,Affirmative,It urged all travelers to seek medical attention immediately if they started developing any flu-like symptoms following their trip . 
+they,start.01,developing,,Affirmative,It urged all travelers to seek medical attention immediately if they started developing any flu-like symptoms following their trip . 
+any flu-like symptoms following,follow.01,their trip,,Affirmative,It urged all travelers to seek medical attention immediately if they started developing any flu-like symptoms following their trip . 

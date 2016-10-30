@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Military Committee,honor.01,a fallen comrade,,Affirmative,The Snake River Correctional Institution 's Military Committee will honor a fallen comrade on Wednesday in the eastern Oregon town of Ontario . 
+"John B. Ogburn III ,",work.01,as,,Affirmative,"John B. Ogburn III , an Oregon Army National Guard sergeant killed in northern Iraq on May 22 , 2005 , worked as a corrections officer at the prison before his deployment . "
+John B. Ogburn III,ride.01,as,,Affirmative,"He was riding as a turret gunner in a Humvee , which rolled over when the driver swerved to avoid striking a civilian vehicle in Kirkuk . "
+the driver,swerve.01,to avoid striking,,Affirmative,"He was riding as a turret gunner in a Humvee , which rolled over when the driver swerved to avoid striking a civilian vehicle in Kirkuk . "
+the driver,avoid.01,striking,,Affirmative,"He was riding as a turret gunner in a Humvee , which rolled over when the driver swerved to avoid striking a civilian vehicle in Kirkuk . "
+the driver,strike.05,a civilian vehicle,,Affirmative,"He was riding as a turret gunner in a Humvee , which rolled over when the driver swerved to avoid striking a civilian vehicle in Kirkuk . "
+The Snake River Correctional Institution 's,hold.01,a special place,,Affirmative,"The institution holds a special place in its heart for Ogburn , one of about 20 SRCI staffers who deployed to Iraq with the 3-116 Cavalry . "
+John B. Ogburn III,balance.01,his work,as,Affirmative,He balanced his work as a corrections officer with his service in the National Guard . 
+John B. Ogburn III,attend.01,Valley Community College and,,Affirmative,"Before becoming a corrections officer , Ogburn attended Treasure Valley Community College and the University of Oregon , performed geology fieldwork in an Idaho silver mine and worked in the family retail business in Ontario . "
+John B. Ogburn III,performed.01,geology fieldwork,,Affirmative,"Before becoming a corrections officer , Ogburn attended Treasure Valley Community College and the University of Oregon , performed geology fieldwork in an Idaho silver mine and worked in the family retail business in Ontario . "
+the people,represent.01,your interests in,,Affirmative,"Keep tabs on the people who represent your interests in Salem and Washington , D.C. © 2014 Oregon Live LLC . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

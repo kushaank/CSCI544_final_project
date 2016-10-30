@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A video posted recently on YouTube,show.01,a small kid taking,,Affirmative,A video posted recently on YouTube is showing a small kid taking a Ferrari 458 Italia for a quick spin . 
+a small kid taking,take.01,Italia,,Affirmative,A video posted recently on YouTube is showing a small kid taking a Ferrari 458 Italia for a quick spin . 
+Most people,get.06,to drive,,Affirmative,Most people never get to drive a supercar but a rather controversial video is showing a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot . 
+Most people,drive.01,a supercar,,Affirmative,Most people never get to drive a supercar but a rather controversial video is showing a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot . 
+controversial video,show.01,a young boy taking,,Affirmative,Most people never get to drive a supercar but a rather controversial video is showing a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot . 
+a young boy taking,take.01,Italia,for,Affirmative,Most people never get to drive a supercar but a rather controversial video is showing a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot . 
+a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot,try.01,to do,,Affirmative,The boy tries to do some donuts in front of the cameraman but he still has to improve his driving skills . 
+a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot,do.02,some donuts,,Affirmative,The boy tries to do some donuts in front of the cameraman but he still has to improve his driving skills . 
+a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot,improve.01,his driving skills,,Affirmative,The boy tries to do some donuts in front of the cameraman but he still has to improve his driving skills . 
+a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot,have.03,permission but considering,,Affirmative,"We 're not sure if he has his dad 's permission but considering the fact that the cameraman seems to be another boy , chances are the answer to this question is no . "
+a young boy taking a Ferrari 458 Italia for a spin in a dirt filled empty lot,consider.02,the fact,,Affirmative,"We 're not sure if he has his dad 's permission but considering the fact that the cameraman seems to be another boy , chances are the answer to this question is no . "
+"wheel drive ,",have.03,liter V8 engine,,Affirmative,"Keep in mind that the Ferrari 458 Italia is a rear mid-engine supercar with rear - wheel drive , which has a 4.5 liter V8 engine under its hood . "
+The unit,produce.01,562 HP (,,Affirmative,"The unit can produce 562 HP ( 419 kW ) at 9,000 rpm and 540 Nm ( 398 lb - ft ) of torque , available at 3,250 rpm . "

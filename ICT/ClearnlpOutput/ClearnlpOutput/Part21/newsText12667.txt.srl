@@ -1,0 +1,1426 @@
+1	Dmitry	dmitry	NNP	p2=NN	7	nn	_
+2	Lovetsky	lovetsky	NNP	_	4	nn	_
+3	/	/	SYM	_	4	punct	_
+4	Reuters	reuters	NNP	_	7	nn	_
+5	Cosmonaut	cosmonaut	NNP	p2=VBD	7	nn	_
+6	Mikhail	mikhail	NNP	_	7	nn	_
+7	Tyurin	tyurin	NNP	_	9	nsubjpass	9:A1=PPT;18:A1=PPT
+8	being	be	VBG	_	9	auxpass	_
+9	carried	carry	VBN	pb=carry.01	0	root	_
+10	by	by	IN	_	9	agent	9:A0=PAG
+11	a	a	DT	_	16	det	_
+12	Russian	russian	JJ	_	16	amod	_
+13	space	space	NN	_	14	nn	_
+14	agency	agency	NN	_	16	nn	_
+15	rescue	rescue	NN	p2=VB	16	nn	_
+16	team	team	NN	_	10	pobj	_
+17	after	after	IN	_	9	prep	9:AM-TMP
+18	returning	return	VBG	pb=return.01	17	pcomp	_
+19	last	last	JJ	_	20	amod	_
+20	week	week	NN	_	18	npadvmod	18:AM-TMP
+21	from	from	IN	_	18	prep	18:A3=DIR
+22	a	a	DT	_	26	det	_
+23	five	#crd#	CD	_	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	month	month	NN	_	26	nn	_
+26	mission	mission	NN	_	21	pobj	_
+27	at	at	IN	_	26	prep	_
+28	the	the	DT	_	31	det	_
+29	International	international	NNP	_	31	nn	_
+30	Space	space	NNP	_	31	nn	_
+31	Station	station	NNP	_	27	pobj	_
+32	.	.	.	_	9	punct	_
+
+1	With	with	IN	_	18	prep	18:AM-ADV
+2	a summit	a summit	NN	p2=DT	3	nn	_
+3	meeting	meeting	NN	_	1	pobj	_
+4	between	between	IN	_	3	prep	_
+5	the Russian	the russian	JJ	p2=NNP	7	amod	_
+6	and Chinese	and chinese	JJ	p2=NNP	7	amod	_
+7	presidents	president	NNS	_	4	pobj	_
+8	due	due	JJ	p2=IN	7	amod	_
+9	to begin	to begin	NNP	p2=IN	10	nn	_
+10	Tuesday	tuesday	NNP	_	7	appos	_
+11	,	,	,	_	7	punct	_
+12	Deputy	deputy	NNP	p2=JJ	14	nn	_
+13	Prime	prime	NNP	_	14	nn	_
+14	Minister	minister	NNP	_	16	nn	_
+15	Dmitri	dmitri	NNP	_	16	nn	_
+16	Rogozin	rogozin	NNP	_	18	nsubj	18:A0
+17	has	have	VBZ	_	18	aux	_
+18	followed	followed	VBN	pb=follow.02	0	root	_
+19	last	last	JJ	_	20	amod	_
+20	week	week	NN	_	23	poss	_
+21	's	's	POS	_	20	possessive	_
+22	rhetorical	rhetorical	JJ	_	23	amod	_
+23	bombshell 	bombshell 	NN	p2=''	18	dobj	18:A1
+24	-	-	:	p2=HYPH	23	punct	_
+25	that	that	IN	p2=WDT	27	mark	_
+26	Russia	russia	NNP	_	27	nsubj	27:A1=PPT
+27	was	be	VBD	pb=be.01	23	ccomp	_
+28	not	not	RB	_	27	neg	27:AM-NEG
+29	interested	interested	JJ	p2=VBN	35	amod	_
+30	in extending	in extending	NN	p2=VBG	31	nn	_
+31	operation	operation	NN	_	35	nn	_
+32	of the	of the	NNP	p2=,	35	nn	_
+33	International	international	NNP	_	35	nn	_
+34	Space	space	NNP	_	35	nn	_
+35	Station	station	NNP	_	27	attr	27:A2=PRD
+36	,	,	,	_	35	punct	_
+37	or	or	CC	_	35	cc	_
+38	ISS	iss	NNP	p2=NNPS	35	conj	_
+39	,	,	,	_	45	punct	_
+40	beyond	beyond	IN	_	27	prep	_
+41	2020 	0 	CD	p2=LS	43	hmod	_
+42	-	-	HYPH	p2=:	43	hyph	_
+43	by trumpeting	by trumpeting	VBG	p2=NN	44	amod	_
+44	a future	a future	NN	p2=JJ	40	pobj	_
+45	of increased	of increased	VBD	p2=JJ|pb=of increased.01	46	amod	_
+46	cooperation	cooperation	NN	_	40	pobj	45:A1
+47	with	with	IN	_	46	prep	_
+48	the emerging	the emerging	VBG	pb=the emerging.01	47	pcomp	_
+49	Chinese	chinese	NNP	p2=JJ	52	nn	_
+50	National	national	NNP	_	52	nn	_
+51	Space	space	NNP	_	52	nn	_
+52	Agency	agency	NNP	_	48	dobj	48:A1
+53	.	.	.	_	18	punct	_
+
+1	Meeting	meet	VBG	p2=NNP|pb=meet.03	17	advcl	17:AM-PRD
+2	with	with	IN	_	1	prep	1:A1=COM
+3	his	his	PRP$	_	5	poss	_
+4	Chinese	chinese	JJ	_	5	amod	_
+5	counterpart	counterpart	NN	_	2	pobj	_
+6	,	,	,	_	5	punct	_
+7	Deputy	deputy	NNP	p2=JJ	9	nn	_
+8	Prime	prime	NNP	_	9	nn	_
+9	Minister	minister	NNP	_	11	nn	_
+10	Wang	wang	NNP	_	11	nn	_
+11	Yang	yang	NNP	_	5	appos	_
+12	,	,	,	_	5	punct	_
+13	in Beijing	in beijing	NNP	p2=VBG	14	nn	_
+14	on Monday	on monday	NNP	_	5	appos	_
+15	,	,	,	_	17	punct	_
+16	Rogozin	rogozin	NNP	_	17	nsubj	1:A0=PAG;17:A0=PAG
+17	announced	announce	VBD	pb=announce.01	0	root	_
+18	on Twitter	on twitter	IN	p2=NNP	22	mark	_
+19	that	that	IN	p2=DT	22	mark	_
+20	he	he	PRP	_	22	nsubj	22:A0=PAG
+21	had	have	VBD	_	22	aux	_
+22	signed	sign	VBN	pb=sign.02	17	advcl	17:AM-TMP
+23	"	"	``	p2=''	22	punct	_
+24	a	a	DT	_	25	det	_
+25	protocol	protocol	NN	_	22	dobj	26:A0;22:A1=PPT
+26	on establishing	on establishing	VBG	p2=NN|pb=on establishing.01	25	partmod	_
+27	a control	a control	NN	p2=JJ	28	nn	_
+28	group	group	NN	_	26	dobj	26:A1
+29	for the	for the	DT	p2=NN	30	det	_
+30	implementation	implementation	NN	_	22	npadvmod	22:AM-TMP
+31	of eight	of eight	IN	p2=HYPH	30	prep	_
+32	strategic	strategic	JJ	_	33	amod	_
+33	projects	project	NNS	_	31	pobj	_
+34	.	.	.	_	17	punct	_
+35	"	"	''	_	17	punct	_
+
+1	In a	in a	NNP	p2=NN	4	nsubj	_
+2	later	later	RB	p2=RBR	4	advmod	_
+3	Facebook	facebook	NNP	p2=VBD	4	nn	_
+4	post	post	NN	p2=VB	0	root	_
+5	,	,	,	_	7	punct	_
+6	he	he	PRP	_	7	nsubj	7:A0
+7	said	say	VBD	pb=say.01	0	root	_
+8	"	"	``	_	14	punct	_
+9	cooperation	cooperation	NN	_	10	nn	_
+10	in space	in space	NN	p2=IN	11	nn	_
+11	and in	and in	NNP	p2=''	14	nn	_
+12	the market	the market	WDT	p2=NN	13	advmod	_
+13	for space	for space	JJ	p2=NN	14	amod	_
+14	navigation	navigation	NN	_	16	nsubj	16:A1=PPT
+15	"	"	''	p2=``	14	punct	_
+16	were	be	VBD	pb=be.01	7	ccomp	7:A1=PPT
+17	among	among	IN	_	16	prep	16:A2=PRD
+18	the projects	the projects	NNS	p2=PRP	17	pobj	_
+19	.	.	.	_	7	punct	_
+
+1	Rogozin	rogozin	NNP	p2=NN	2	nn	_
+2	and Wang	and wang	NNP	_	5	nsubj	5:A0
+3	agreed	agree	VBD	_	5	aux	_
+4	to hold	to hold	VBN	p2=NNP	5	aux	_
+5	a meeting	a meeting	VBG	p2=RP|pb=a meeting.01	0	root	_
+6	between	between	IN	_	5	prep	5:AM-LOC
+7	the heads	the heads	NNS	p2=NNPS	6	pobj	_
+8	of their	of their	IN	p2=PRP$	7	prep	_
+9	respective	respective	JJ	_	10	amod	_
+10	agencies	agency	NNS	_	8	pobj	_
+11	"	"	''	p2=``	5	punct	_
+12	in	in	IN	_	5	prep	5:AM-TMP
+13	the near	the near	JJ	p2=CD	14	amod	_
+14	future	future	NN	_	12	pobj	_
+15	,	,	,	_	5	punct	_
+16	"	"	''	p2=``	5	punct	_
+17	so	so	IN	p2=RB	22	mark	_
+18	that	that	IN	p2=DT	22	mark	_
+19	Beijing	beijing	NNP	_	20	nn	_
+20	and Moscow	and moscow	NNP	_	22	nsubj	22:A0=PAG
+21	could	could	MD	_	22	aux	22:AM-MOD
+22	sow	sow	VB	pb=sow.01	5	advcl	5:AM-PRP
+23	the seeds	the seeds	NNS	p2=RB	27	poss	_
+24	of a	of a	POS	p2=IN	23	possessive	_
+25	potential	potential	JJ	p2=NN	27	amod	_
+26	space	space	NN	_	27	nn	_
+27	partnership	partnership	NN	_	22	dobj	22:A1=PPT
+28	.	.	.	_	5	punct	_
+
+1	Federal	federal	NNP	p2=JJ	3	nn	_
+2	Space	space	NNP	_	3	nn	_
+3	Agency	agency	NNP	_	4	nn	_
+4	chief	chief	NN	p2=JJ	6	nn	_
+5	Oleg	oleg	NNP	_	6	nn	_
+6	Ostapanko	ostapanko	NNP	_	7	nsubj	7:A0=PAG
+7	wants	want	VBZ	pb=want.01	26	ccomp	26:A1=PPT
+8	to allow	to allow	NNP	p2=TO	7	dobj	7:A1=PPT
+9	"	"	``	_	13	punct	_
+10	Chinese	chinese	JJ	_	11	amod	_
+11	colleagues	colleague	NNS	_	13	nsubj	13:A0
+12	participate	participate	VBP	p2=VB	13	auxpass	_
+13	in some	in some	VBN	p2=JJ|pb=in some.01	7	ccomp	_
+14	of the	of the	RP	p2=IN	13	prt	13:C-V
+15	most	most	RBS	p2=JJS	16	advmod	_
+16	interesting	interesting	JJ	_	17	amod	_
+17	projects	project	NNS	_	13	dobj	13:A1;20:A2=PPT
+18	that	that	WDT	_	20	nsubj	20:R-A2
+19	can	can	MD	_	20	aux	20:AM-MOD
+20	replace	replace	VB	pb=replace.01	17	rcmod	_
+21	the	the	DT	_	22	det	_
+22	ISS	iss	NNPS	p2=NNP	20	dobj	20:A1=PPT
+23	,	,	,	_	26	punct	_
+24	"	"	''	p2=``	26	punct	_
+25	Rogozin	rogozin	NNP	_	26	nsubj	26:A0;28:A0=PAG
+26	said	say	VBD	pb=say.01	0	root	_
+27	,	,	,	_	26	punct	_
+28	adding	add	VBG	pb=add.01	26	advcl	26:AM-ADV
+29	that	that	IN	_	33	complm	_
+30	they	they	PRP	_	33	nsubj	33:A0=PAG;47:A0
+31	would	would	MD	_	33	aux	33:AM-MOD;47:AM-MOD
+32	also	also	RB	_	33	advmod	33:AM-ADV
+33	discuss	discuss	VB	pb=discuss.01	28	ccomp	28:A1=PPT
+34	"	"	``	p2=''	33	punct	_
+35	projects	project	NNS	_	33	dobj	33:A1=PPT
+36	such	such	JJ	_	37	amod	_
+37	as	as	IN	_	35	prep	_
+38	cooperation	cooperation	NN	_	37	pobj	_
+39	in the	in the	IN	p2=NN	38	prep	_
+40	field	field	NN	_	43	nn	_
+41	of rocket	of rocket	NN	p2=HYPH	43	nn	_
+42	engine	engine	NN	_	43	nn	_
+43	development	development	NN	_	39	pobj	_
+44	,	,	,	_	33	punct	_
+45	"	"	''	p2=``	33	punct	_
+46	and cooperation	and cooperation	CC	p2=NN	33	cc	_
+47	in the	in the	VB	p2=IN|pb=in the.01	33	conj	_
+48	growing	grow	VBG	pb=grow.01	51	amod	_
+49	market	market	NN	_	50	nn	_
+50	of space	of space	NN	p2=IN	51	nn	_
+51	applications	application	NNS	_	47	dobj	56:A0;47:A1;48:A1=PPT
+52	services 	services 	,	p2=''	51	punct	_
+53	-	-	:	p2=,	51	punct	_
+54	which	which	WDT	_	56	nsubj	56:R-A0
+55	primarily	primarily	RB	_	56	advmod	56:AM-ADV
+56	applies	apply	VBZ	pb=apply.02	51	rcmod	_
+57	to the	to the	DT	p2=NN	58	det	_
+58	development	development	NN	_	56	dobj	56:A1=PPT
+59	of the	of the	IN	p2=HYPH	56	prep	56:A2=PRD
+60	Chinese	chinese	JJ	p2=NNP	64	amod	_
+61	Beidou	beidou	NNP	p2=JJ	65	nn	_
+62	satellite	satellite	NN	_	63	nn	_
+63	navigation	navigation	NN	_	64	nn	_
+64	system	system	NN	_	65	nn	_
+65	and Russia	and russia	NNP	_	69	poss	_
+66	's	's	POS	p2=VBZ	65	possessive	_
+67	Glonass	glonass	NNP	p2=JJ	69	nn	_
+68	navigation	navigation	NN	_	69	nn	_
+69	system	system	NN	_	59	pobj	_
+70	,	,	,	_	73	punct	_
+71	both	both	DT	p2=CC	72	det	_
+72	rivals	rival	NNS	p2=VBZ	73	nsubj	73:A0
+73	to the	to the	VBD	p2=IN|pb=to the.01	7	ccomp	_
+74	U.S.	u.s.	NNP	_	76	poss	_
+75	'	'	POS	p2=''	74	possessive	_
+76	GPS	gps	NNS	p2=NNP	73	dobj	73:A1
+77	.	.	.	_	26	punct	_
+
+1	However	however	RB	_	4	advmod	4:AM-DIS
+2	,	,	,	_	4	punct	_
+3	analysts	analyst	NNS	_	4	nsubj	4:A0=PAG
+4	doubted	doubt	VBD	pb=doubt.01	0	root	_
+5	Russia	russia	NNP	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	ability	ability	NN	_	4	dobj	4:A1=PPT
+8	to be	to be	NNP	p2=NN	11	nn	_
+9	a reliable	a reliable	JJ	p2=NNP	11	amod	_
+10	and fruitful	and fruitful	JJ	p2=NN	11	amod	_
+11	partner	partner	NN	_	7	appos	_
+12	to China	to china	NNP	p2=NN	11	appos	_
+13	beyond	beyond	IN	_	7	prep	_
+14	2020	0	CD	_	13	pobj	_
+15	,	,	,	_	7	punct	_
+16	as	as	IN	_	22	prep	_
+17	Russian	russian	JJ	_	18	amod	_
+18	capabilities	capability	NNS	_	16	pobj	_
+19	in space	in space	PRP	p2=,	22	nsubj	22:A0=PAG
+20	have	have	VBP	_	22	aux	_
+21	drastically	drastically	RB	_	22	advmod	22:AM-MNR
+22	withered	wither	VBN	pb=wither.01	7	advcl	_
+23	in the	in the	NNP	p2=IN	22	dobj	22:A1=PPT
+24	20	0	CD	_	25	num	_
+25	years	year	NNS	_	22	npadvmod	_
+26	since	since	IN	_	25	prep	_
+27	the collapse	the collapse	NNP	p2=DT	30	nn	_
+28	of the	of the	NNP	p2=IN	30	nn	_
+29	Soviet	soviet	NNP	_	30	nn	_
+30	Union	union	NNP	_	26	pobj	_
+31	,	,	,	_	36	punct	_
+32	and the	and the	DT	p2=NNP	35	det	_
+33	Russian	russian	JJ	_	35	amod	_
+34	space	space	NN	_	35	nn	_
+35	program	program	NN	_	36	nsubj	36:A0=PAG
+36	lacks	lack	VBZ	pb=lack.01	4	ccomp	_
+37	clear	clear	JJ	_	38	amod	_
+38	direction	direction	NN	_	36	dobj	36:A1=PPT
+39	or	or	CC	_	38	cc	_
+40	goals	goal	NNS	_	38	conj	_
+41	.	.	.	_	4	punct	_
+
+1	"	"	``	_	9	punct	_
+2	The	the	DT	_	3	det	_
+3	purpose	purpose	NN	_	5	nn	_
+4	of any	of any	''	p2=JJ	5	punct	_
+5	cooperation	cooperation	NN	_	9	nsubj	9:A1=PPT
+6	between	between	IN	_	5	prep	_
+7	states	state	NNS	p2=VBZ	8	nn	_
+8	in space	in space	VBP	p2=NN	6	pobj	_
+9	is	be	VBZ	pb=be.01	34	ccomp	34:A1=PPT
+10	to minimize	to minimize	NNP	p2=JJ	11	nn	_
+11	the costs	the costs	NNS	p2=POS	13	poss	_
+12	of complex	of complex	POS	p2=CD	11	possessive	_
+13	projects	project	NNS	_	14	nsubj	14:A0
+14	and the	and the	VBP	p2=DT|pb=and the.01	9	ccomp	9:A2=PRD
+15	development	development	NN	_	14	dobj	14:A1
+16	of science	of science	IN	p2=NN	15	prep	_
+17	and technology	and technology	NNP	p2=NN	16	pobj	_
+18	,	,	,	_	34	punct	_
+19	"	"	''	p2=``	34	punct	_
+20	Pavel	pavel	NNP	p2=VBP	21	nn	_
+21	Luzin	luzin	NNP	_	34	npadvmod	_
+22	,	,	,	_	21	punct	_
+23	a researcher	a researcher	NNP	p2=IN	26	nn	_
+24	at the	at the	NNP	p2=VBD	26	nn	_
+25	Russian	russian	NNP	p2=JJ	26	nn	_
+26	Academy	academy	NNP	_	27	nn	_
+27	of Science	of science	NNP	p2=NN	33	poss	_
+28	's	's	POS	_	27	possessive	_
+29	Institute	institute	NNP	_	30	nn	_
+30	for World	for world	NNP	p2=VBD	33	nn	_
+31	Economy	economy	NNP	_	33	nn	_
+32	and International	and international	NNP	_	33	nn	_
+33	Relations	relation	NNPS	p2=NNP	34	nsubj	34:A0=PAG
+34	told	tell	VBD	pb=tell.01	0	root	_
+35	the Moscow	the moscow	NNP	p2=IN	36	nn	_
+36	Times	times	NNP	_	37	nn	_
+37	Monday	monday	NNP	_	34	dobj	34:A2=GOL
+38	.	.	.	_	34	punct	_
+
+1	By this	by this	DT	p2=NNS	2	det	_
+2	measure	measure	NN	_	7	amod	_
+3	,	,	,	_	5	punct	_
+4	Luzin	luzin	NNP	p2=NN	5	nsubj	5:A0
+5	sees	see	VBZ	pb=see.01	0	root	_
+6	little	little	JJ	_	7	amod	_
+7	point	point	NN	p2=VB	5	dobj	5:A1
+8	in a	in a	IN	p2=NNP	7	prep	_
+9	Russia	russia	NNP	_	11	hmod	_
+10	-	-	HYPH	_	11	hyph	_
+11	China	china	NNP	_	13	nn	_
+12	space	space	NN	_	13	nn	_
+13	partnership	partnership	NN	_	8	pobj	_
+14	.	.	.	_	5	punct	_
+
+1	China	china	NNP	_	2	nsubj	2:A0=PAG
+2	needs	need	VBZ	p2=NNS|pb=need.01	0	root	_
+3	Russia	russia	NNP	_	2	dobj	2:A1=PPT
+4	only	only	RB	_	16	advmod	16:AM-ADV
+5	for 	for 	:	p2=CC	16	punct	_
+6	"	"	``	p2=''	16	punct	_
+7	technologies	technology	NNS	_	16	dep	12:A1=PRD
+8	they	they	PRP	_	12	nsubj	12:A0=PAG
+9	have	have	VBP	_	12	aux	_
+10	not	not	RB	_	12	neg	12:AM-NEG
+11	yet	yet	RB	_	12	advmod	12:AM-TMP
+12	developed	develop	VBN	pb=develop.02	7	rcmod	_
+13	,	,	,	_	16	punct	_
+14	"	"	''	p2=``	16	punct	_
+15	and Russia	and russia	NNP	p2=NN	16	nsubj	16:A0=PAG
+16	lacks	lack	VBZ	pb=lack.01	2	advcl	_
+17	both	both	CC	p2=DT	24	det	_
+18	a long	a long	JJ	p2=NNP	20	hmod	_
+19	-	-	HYPH	_	20	hyph	_
+20	term	term	NN	_	21	nn	_
+21	vision	vision	NN	_	24	amod	_
+22	for its	for its	NNS	p2=VBZ	24	nn	_
+23	space	space	NN	p2=VBP	24	nn	_
+24	program	program	NN	_	16	dobj	16:A1=PPT
+25	and an	and an	CC	p2=MD	24	cc	_
+26	industry	industry	NN	_	24	conj	_
+27	capable	capable	JJ	_	16	ccomp	_
+28	of supporting	of supporting	VBG	p2=IN|pb=of supporting.01	27	xcomp	_
+29	it	it	PRP	_	28	dobj	28:A1
+30	.	.	.	_	2	punct	_
+
+1	Aside	aside	RB	p2=NNP	3	advmod	3:AM-ADV
+2	from the	from the	DT	p2=VB	3	nsubj	3:A1=PAG
+3	failed	fail	VBD	p2=VBN|pb=fail.01	21	advcl	_
+4	Phobos	phobos	NNP	p2=NNPS	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	Grunt	grunt	NNP	_	10	nn	_
+7	scientific	scientific	JJ	_	8	amod	_
+8	mission	mission	NN	_	9	nn	_
+9	to one	to one	NN	p2=NNP	10	nn	_
+10	of the	of the	NN	p2=''	11	nn	_
+11	Martian	martian	NNP	p2=MD	12	nn	_
+12	moons	moon	NNS	p2=VBZ	3	dobj	3:A2=PPT
+13	in 2011	in 0	CD	p2=VBP	12	appos	_
+14	,	,	,	_	21	punct	_
+15	the history	the history	JJ	p2=NNP	20	amod	_
+16	of Russian	of russian	JJ	p2=NN	18	hmod	_
+17	-	-	HYPH	_	18	hyph	_
+18	Chinese	chinese	JJ	_	20	amod	_
+19	cooperation	cooperation	NN	_	20	nn	_
+20	in space	in space	NN	p2=VBP	21	nsubj	21:A1=PPT
+21	amounts	amount	VBZ	p2=NNS|pb=amount.01	0	root	_
+22	to little	to little	RB	p2=,	21	advmod	21:AM-MNR
+23	more	more	JJR	_	21	acomp	21:A2=PRD
+24	than	than	IN	_	23	prep	_
+25	technology	technology	NN	_	26	nn	_
+26	transfer	transfer	NN	_	24	pobj	_
+27	.	.	.	_	21	punct	_
+
+1	"	"	``	_	14	punct	_
+2	In	in	IN	_	6	prep	_
+3	particular	particular	JJ	_	2	amod	_
+4	,	,	,	_	2	punct	_
+5	the Chinese	the chinese	DT	p2=NNP	10	det	_
+6	manned	man	VBN	p2=JJ|pb=man.01	10	amod	_
+7	space	space	NN	_	10	nn	_
+8	program 	program 	NN	p2=JJ	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	spacecraft	spacecraft	NN	_	0	root	6:A1=PPT
+11	,	,	,	_	10	punct	_
+12	spacesuits	spacesuit	NNS	_	10	conj	_
+13	,	,	,	_	12	punct	_
+14	etc	etc	FW	_	12	conj	_
+15	.	.	.	_	14	punct	_
+
+1	 	 	LS	p2=,	5	meta	_
+2	-	-	:	p2=,	5	punct	_
+3	is	be	VBZ	_	5	auxpass	_
+4	largely	largely	RB	_	5	advmod	5:AM-ADV
+5	built	build	VBN	pb=build.01	0	root	13:A1-DSP
+6	on borrowed	on borrowed	VBN	p2=CD|pb=on borrowed.01	9	amod	_
+7	Soviet	soviet	JJ	p2=NNP	9	amod	_
+8	and Russian	and russian	JJ	p2=NNP	9	amod	_
+9	technology	technology	NN	_	5	dobj	5:A1=PRD;6:A1
+10	,	,	,	_	13	punct	_
+11	"	"	''	p2=``	13	punct	_
+12	Luzin	luzin	NNP	_	13	nsubj	13:A0
+13	said	say	VBD	pb=say.01	5	parataxis	_
+14	,	,	,	_	13	punct	_
+15	and 	and 	CC	p2=NNP	5	cc	_
+16	"	"	``	_	22	punct	_
+17	such	such	JJ	_	18	amod	_
+18	cooperation	cooperation	NN	_	22	nsubjpass	22:A1=PPT
+19	should	should	MD	_	22	aux	22:AM-MOD
+20	not	not	RB	_	22	neg	22:AM-NEG
+21	be	be	VB	_	22	auxpass	_
+22	exaggerated	exaggerate	VBN	p2=JJ|pb=exaggerate.01	5	conj	_
+23	.	.	.	_	22	punct	_
+24	"	"	''	_	22	punct	_
+
+1	China	china	NNP	_	4	nsubj	4:A0=PAG
+2	does	do	VBZ	_	4	aux	_
+3	not	not	RB	_	4	neg	4:AM-NEG
+4	need	need	VB	pb=need.01	14	ccomp	14:A1=PPT
+5	Russia	russia	NNP	_	4	dobj	4:A1=PPT
+6	as	as	IN	_	4	prep	4:AM-PRD
+7	a	a	DT	_	9	det	_
+8	genuine	genuine	JJ	_	9	amod	_
+9	partner	partner	NN	_	6	pobj	_
+10	in	in	IN	_	9	prep	_
+11	space	space	NN	_	10	pobj	_
+12	,	,	,	_	14	punct	_
+13	Luzin	luzin	NNP	_	14	nsubj	14:A0
+14	thinks	think	VBZ	pb=think.01	0	root	_
+15	.	.	.	_	14	punct	_
+
+1	Having	have	VBG	_	3	aux	_
+2	been	be	VBN	_	3	auxpass	_
+3	barred	bar	VBN	pb=bar.01	28	ccomp	_
+4	by	by	IN	_	3	agent	3:A0=PAG
+5	the	the	DT	_	6	det	_
+6	U.S.	u.s.	NNP	_	4	pobj	_
+7	from	from	IN	_	3	prep	3:A2=PRD
+8	the	the	DT	_	12	det	_
+9	International	international	NNP	_	11	nn	_
+10	Space	space	NNP	_	11	nn	_
+11	Station	station	NNP	_	12	nn	_
+12	program	program	NN	_	7	pobj	_
+13	-	-	:	p2=HYPH	12	punct	_
+14	a	a	DT	_	20	det	_
+15	$	$	$	_	17	quantmod	_
+16	100	0	CD	_	17	number	_
+17	billion	#crd#	CD	_	20	nn	_
+18	international	international	JJ	_	20	amod	_
+19	scientific	scientific	JJ	_	20	amod	_
+20	project	project	NN	_	12	appos	21:A2=PPT
+21	involving	involve	VBG	pb=involve.01	20	partmod	_
+22	15	0	CD	_	23	num	_
+23	nations	nation	NNS	_	21	dobj	21:A1=PPT
+24	-	-	:	p2=HYPH	28	punct	_
+25	China	china	NNP	_	28	nsubj	28:A0=PAG;37:A0=PAG
+26	has	have	VBZ	_	28	aux	_
+27	unilaterally	unilaterally	RB	_	28	advmod	28:AM-MNR
+28	pursued	pursue	VBN	pb=pursue.01	0	root	_
+29	an	an	DT	_	32	det	_
+30	ambitious	ambitious	JJ	_	32	amod	_
+31	exploration	exploration	NN	_	32	nn	_
+32	program	program	NN	_	28	dobj	28:A1=PPT
+33	in	in	IN	_	28	prep	28:AM-TMP
+34	recent	recent	JJ	_	35	amod	_
+35	years	year	NNS	_	33	pobj	_
+36	,	,	,	_	28	punct	_
+37	convinced	convince	VBN	p2=VBD|pb=convince.01	28	dep	_
+38	that	that	IN	_	43	complm	_
+39	a	a	DT	_	41	det	_
+40	great	great	JJ	_	41	amod	_
+41	power	power	NN	_	43	nsubj	43:A0=PAG
+42	must	must	MD	p2=NN	43	aux	43:AM-MOD
+43	have	have	VB	pb=have.03	37	ccomp	37:A2=PRD
+44	a	a	DT	_	46	det	_
+45	commanding	commanding	JJ	p2=VBG	46	amod	_
+46	presence	presence	NN	_	43	dobj	43:A1=PPT
+47	in	in	IN	_	46	prep	_
+48	space	space	NN	_	47	pobj	_
+49	.	.	.	_	28	punct	_
+
+1	James	james	NNP	p2=NNS	2	nn	_
+2	Oberg	oberg	NNP	_	5	npadvmod	5:AM-DIS
+3	,	,	,	_	5	punct	_
+4	an expert	an expert	NNP	p2=CC	5	nsubj	5:A0
+5	on the	on the	VBD	p2=POS|pb=on the.01	14	ccomp	_
+6	Russian	russian	JJ	_	8	amod	_
+7	space	space	NN	_	8	nn	_
+8	program	program	NN	_	12	nn	_
+9	and NASA	and nasa	NNP	p2=XX	10	nn	_
+10	mission	mission	NN	_	11	nn	_
+11	control	control	NN	_	12	nn	_
+12	veteran	veteran	NN	_	5	dobj	5:A1
+13	,	,	,	_	14	punct	_
+14	rated	rate	VBD	p2=VBN|pb=rate.01	0	root	_
+15	China	china	NNP	_	17	poss	_
+16	's	's	POS	_	15	possessive	_
+17	progress	progress	NN	_	14	dobj	14:A1=PPT
+18	highly	highly	RB	_	17	advmod	_
+19	.	.	.	_	14	punct	_
+
+1	"	"	``	_	25	punct	_
+2	China	china	NNP	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	program	program	NN	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	moved	move	VBN	pb=move.01	0	root	_
+7	from methodical	from methodical	JJ	p2=IN	8	amod	_
+8	recapitulation	recapitulation	NN	_	10	nn	_
+9	of Western	of western	JJ	p2=NN	10	amod	_
+10	stages	stage	NNS	_	6	dobj	6:A1=PPT
+11	into some	into some	JJ	p2=VBP	16	amod	_
+12	breathtakingly	breathtakingly	RB	_	13	advmod	_
+13	innovative	innovative	JJ	_	16	amod	_
+14	new	new	JJ	_	16	amod	_
+15	mission	mission	NN	_	16	nn	_
+16	designs	design	NNS	_	6	npadvmod	_
+17	,	,	,	_	16	punct	_
+18	such	such	JJ	_	19	amod	_
+19	as	as	IN	_	16	prep	_
+20	its	its	PRP$	_	21	poss	_
+21	asteroid	asteroid	NN	p2=JJ	22	nn	_
+22	fly	fly	NN	p2=VB	15	conj	_
+23	-	-	HYPH	p2=:	22	hyph	_
+24	by	by	IN	p2=JJ	22	prep	_
+25	mission	mission	NN	_	24	pobj	_
+26	...	..	.	_	6	punct	_
+
+1	[	[	-LRB-	_	4	punct	_
+2	which	which	WDT	_	4	nsubj	4:R-A0
+3	]	]	-RRB-	_	4	punct	_
+4	shows	show	VBZ	pb=show.01	0	root	_
+5	Beijing	beijing	NNP	_	12	poss	_
+6	's	's	POS	_	5	possessive	_
+7	intention	intention	NN	_	8	nn	_
+8	to pioneer	to pioneer	NN	p2=IN	9	nn	_
+9	space	space	NN	_	10	nn	_
+10	exploration	exploration	NN	_	11	nn	_
+11	in the	in the	NN	p2=SYM	12	nn	_
+12	decade	decade	NN	_	4	dobj	4:A1=PPT
+13	ahead	ahead	RB	_	7	advmod	_
+14	.	.	.	_	4	punct	_
+15	"	"	''	_	4	punct	_
+
+1	In 2003	in 2003	NNP	p2=NN	4	npadvmod	4:AM-DIS
+2	,	,	,	_	4	punct	_
+3	China	china	NNP	_	4	nsubj	4:A1=PPT
+4	became	become	VBD	pb=become.01	0	root	_
+5	the third	the third	RB	p2=JJ	6	amod	_
+6	nation	nation	NN	_	4	attr	8:A0=PAG;4:A2=PRD
+7	to independently	to independently	RB	p2=NNP	8	advmod	8:AM-MNR
+8	put	put	VBD	p2=VB|pb=put.01	6	partmod	_
+9	a man	a man	NNP	p2=JJ	10	nn	_
+10	in space	in space	NNP	p2=NN	8	dobj	8:A1=PPT
+11	,	,	,	_	10	punct	_
+12	and in	and in	NNP	p2=RB	10	appos	_
+13	2011	0	CD	p2=VBD	12	num	_
+14	it	it	PRP	_	15	nsubj	15:A0=PAG
+15	deployed	deploy	VBD	pb=deploy.01	8	ccomp	8:A2=GOL
+16	its	its	PRP$	_	26	poss	_
+17	first	#ord#	JJ	p2=RB	26	amod	_
+18	small	small	JJ	p2=NN	26	amod	_
+19	,	,	,	_	26	punct	_
+20	single	single	JJ	_	22	hmod	_
+21	-	-	HYPH	_	22	hyph	_
+22	module	module	NN	_	26	nn	_
+23	space	space	NN	_	26	nn	_
+24	station 	station 	NN	p2=''	26	hmod	_
+25	-	-	HYPH	p2=:	26	hyph	_
+26	Tiangong	tiangong	NNP	p2=NN	15	dobj	15:A1=PPT
+27	.	.	.	_	4	punct	_
+
+1	By 2023	by 0	NFP	p2=NN	3	punct	_
+2	it	it	PRP	_	3	nsubj	3:A0
+3	hopes	hope	VBZ	pb=hope.01	0	root	_
+4	to build	to build	JJ	p2=VBN	7	amod	_
+5	a multi-module	a multi-module	JJ	p2=HYPH	7	amod	_
+6	space	space	NN	_	7	nn	_
+7	station	station	NN	_	3	dobj	3:A1=PPT
+8	,	,	,	_	3	punct	_
+9	resembling	resemble	VBG	pb=resemble.01	3	advcl	3:AM-ADV
+10	Russia	russia	NNP	_	14	poss	_
+11	's	's	POS	_	10	possessive	_
+12	Mir	mir	NNP	_	14	nn	_
+13	space	space	NN	_	14	nn	_
+14	station	station	NN	_	9	dobj	9:A2=DIR
+15	.	.	.	_	3	punct	_
+
+1	China	china	NNP	_	4	nsubj	6:A0;4:A1=PPT
+2	may	may	MD	_	4	aux	4:AM-MOD
+3	therefore	therefore	RB	_	4	advmod	4:AM-ADV
+4	be	be	VB	pb=be.01	0	root	_
+5	interested	interested	JJ	_	4	acomp	4:A2=PRD
+6	in using	in using	VBG	p2=NN|pb=in using.01	5	xcomp	_
+7	Russia	russia	NNP	_	8	nn	_
+8	to master	to master	NNP	p2=POS	9	nsubj	9:A0
+9	the required	the required	VBD	p2=NNP|pb=the required.01	6	ccomp	6:A1
+10	technology	technology	NN	_	11	nn	_
+11	and techniques	and techniques	NNS	p2=NNP	9	dobj	9:A1
+12	,	,	,	_	9	punct	_
+13	but	but	CC	_	9	cc	_
+14	beyond	beyond	IN	_	17	prep	17:AM-LOC
+15	that	that	DT	p2=IN	14	pobj	_
+16	there	there	EX	_	17	expl	_
+17	is	be	VBZ	pb=be.02	9	conj	_
+18	little	little	JJ	_	19	amod	_
+19	reason	reason	NN	_	17	attr	17:A1=PPT
+20	for China	for china	NNP	p2=FW	21	nn	_
+21	to be	to be	NNP	p2=VBD	23	nn	_
+22	interested	interested	JJ	p2=VBD	23	nn	_
+23	in Russia	in russia	NNP	p2=NN	19	appos	_
+24	as	as	IN	_	23	prep	_
+25	a partner	a partner	NNP	p2=NN	24	pobj	_
+26	,	,	,	_	17	punct	_
+27	according	accord	VBG	_	17	prep	17:AM-ADV
+28	to Luzin	to luzin	NNP	p2=NN	27	pobj	_
+29	.	.	.	_	17	punct	_
+
+1	Aside	aside	RB	_	2	advmod	_
+2	from expertise	from expertise	JJ	p2=IN	5	amod	_
+3	in space	in space	NN	p2=JJ	4	nn	_
+4	station	station	NN	_	5	nn	_
+5	construction	construction	NN	_	9	npadvmod	9:AM-TMP
+6	,	,	,	_	9	punct	_
+7	Russia	russia	NNP	_	9	nsubj	9:A0=PAG
+8	could	could	MD	_	9	aux	9:AM-MOD
+9	share	share	VB	pb=share.01	0	root	_
+10	expertise	expertise	NN	p2=VB	15	nn	_
+11	on reusable	on reusable	JJ	_	15	amod	_
+12	spacecraft	spacecraft	NN	_	13	nn	_
+13	and rocket	and rocket	NN	p2=XX	14	nn	_
+14	engine	engine	NN	_	15	nn	_
+15	technology	technology	NN	_	9	dobj	9:A1=PPT
+16	.	.	.	_	9	punct	_
+
+1	Engines	engine	NNS	p2=NNPS	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	0	root	_
+3	one	#crd#	CD	p2=PRP	4	num	_
+4	of Russia	of russia	NNP	p2=NN	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	greatest	great	JJS	_	7	amod	_
+7	contribution	contribution	NN	_	2	attr	2:A2=PRD
+8	to Western	to western	IN	p2=NN	7	prep	_
+9	space	space	NN	_	14	nn	_
+10	efforts 	efforts 	NNP	p2=''	12	hmod	_
+11	-	-	HYPH	_	12	hyph	_
+12	U.S.	u.s.	NNP	_	14	nn	_
+13	spacecraft	spacecraft	NN	_	14	nn	_
+14	manufacturers	manufacturer	NNS	_	16	nsubj	16:A1=PPT
+15	have	have	VBP	_	16	aux	_
+16	been	be	VBN	pb=be.01	7	rcmod	_
+17	big	big	JJ	_	18	amod	_
+18	buyers	buyer	NNS	_	16	attr	16:A2=PRD
+19	of Russia	of russia	NNP	p2=NNS	28	poss	_
+20	's	's	POS	_	19	possessive	_
+21	powerful	powerful	JJ	_	28	amod	_
+22	RD	rd	NNP	_	24	hmod	_
+23	-	-	HYPH	_	24	hyph	_
+24	180	0	CD	p2=NNP	28	nn	_
+25	and NK	and nk	NNP	p2=''	27	hmod	_
+26	-	-	HYPH	_	27	hyph	_
+27	33	0	CD	_	28	nn	_
+28	engines	engine	NNS	_	18	appos	_
+29	.	.	.	_	2	punct	_
+
+1	"	"	``	_	9	punct	_
+2	But	but	CC	_	9	cc	9:AM-DIS
+3	here	here	RB	_	9	advmod	9:AM-LOC
+4	too	too	RB	_	3	advmod	_
+5	,	,	,	_	9	punct	_
+6	cooperation	cooperation	NN	_	9	nsubj	9:A1=PPT
+7	can	can	MD	_	9	aux	9:AM-MOD
+8	not	not	RB	_	9	neg	9:AM-NEG
+9	be	be	VB	pb=be.01	0	root	_
+10	long	long	JJ	_	11	amod	_
+11	term	term	NN	_	9	attr	9:A2=PRD
+12	.	.	.	_	9	punct	_
+
+1	It	it	PRP	_	3	nsubj	3:A1=PPT
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	end	end	VB	pb=end.01	13	ccomp	13:A1=PPT
+4	after	after	IN	_	9	mark	_
+5	the transfer	the transfer	NNP	p2=JJR	6	nn	_
+6	of technology	of technology	NN	p2=NNP	9	nsubjpass	9:A1=PPT
+7	has	have	VBZ	_	9	aux	_
+8	been	be	VBN	_	9	auxpass	_
+9	completed	complete	VBN	pb=complete.01	3	advcl	3:AM-TMP
+10	,	,	,	_	13	punct	_
+11	"	"	''	p2=``	13	punct	_
+12	Luzin	luzin	NNP	_	13	nsubj	13:A0
+13	said	say	VBD	pb=say.01	0	root	_
+14	.	.	.	_	13	punct	_
+
+1	Were	be	VBD	pb=be.01	17	advcl	17:AM-ADV
+2	Russia	russia	NNP	_	3	nsubj	3:A0
+3	to turn	to turn	VB	p2=NNP|pb=to turn.01	1	ccomp	1:A2=PRD
+4	its	its	PRP$	_	8	poss	_
+5	back	back	RP	p2=RB	6	amod	_
+6	on its	on its	NNS	p2=IN	8	nn	_
+7	U.S.	u.s.	NNP	_	8	nn	_
+8	partners	partner	NNS	_	9	nsubj	9:A0
+9	in space	in space	VBP	p2=IN|pb=in space.01	3	ccomp	3:A1
+10	to focus	to focus	NNP	p2=ADD	11	nn	_
+11	on cooperation	on cooperation	NNP	p2=NN	9	dobj	9:A1
+12	with	with	IN	_	9	prep	9:A2
+13	China	china	NNP	_	12	pobj	_
+14	,	,	,	_	17	punct	_
+15	it	it	PRP	_	17	nsubj	17:A0=PAG
+16	would	would	MD	_	17	aux	17:AM-MOD
+17	lose	lose	VB	pb=lose.02	44	ccomp	44:A1=PPT
+18	more	more	JJR	p2=RBR	17	dobj	17:A1=PPT
+19	than	than	IN	_	22	mark	_
+20	it	it	PRP	_	22	nsubj	22:A0=PAG
+21	would	would	MD	_	22	aux	22:AM-MOD
+22	gain	gain	VB	pb=gain.02	18	advcl	_
+23	:	:	:	_	17	punct	_
+24	"	"	``	_	17	punct	_
+25	It	it	PRP	_	26	nsubj	_
+26	is	be	VBZ	pb=be.01	17	advcl	_
+27	obvious	obvious	JJ	_	26	acomp	26:A2=PRD
+28	that	that	IN	_	36	complm	_
+29	without	without	IN	_	36	prep	36:AM-MNR
+30	cooperation	cooperation	NN	_	29	pobj	_
+31	with	with	IN	_	30	prep	_
+32	the West	the west	JJS	p2=NNP	31	pobj	_
+33	that	that	IN	p2=DT	36	complm	_
+34	Russia	russia	NNP	_	36	nsubj	36:A0=PAG
+35	would	would	MD	_	36	aux	36:AM-MOD
+36	lose	lose	VB	pb=lose.02	26	ccomp	26:A1=PPT
+37	in the	in the	JJ	p2=DT	38	amod	_
+38	competition	competition	NN	_	40	nn	_
+39	in science	in science	NN	p2=IN	40	nn	_
+40	and technology	and technology	NN	p2=NNP	36	dobj	36:A1=PPT
+41	,	,	,	_	44	punct	_
+42	"	"	''	p2=``	44	punct	_
+43	Luzin	luzin	NNP	_	44	nsubj	44:A0
+44	said	say	VBD	pb=say.01	0	root	_
+45	.	.	.	_	44	punct	_
+
+1	With	with	IN	_	0	root	_
+2	a history	a history	NNP	p2=NN	3	nn	_
+3	of cooperation	of cooperation	NN	p2=NNP	4	nsubj	_
+4	dating	date	VBG	pb=date.01	1	pcomp	_
+5	back	back	RB	p2=RP	4	advmod	4:A2=PPT
+6	to 1975	to 0	NN	p2=CD	4	dobj	4:A1=GOL
+7	,	,	,	_	4	punct	_
+8	the U.S	the u.s	RB	p2=NNP	4	advmod	_
+9	.	.	.	_	4	punct	_
+
+1	and Russia	and russia	NNP	p2=NNS	3	nsubj	3:A0=PAG
+2	have	have	VBP	_	3	aux	_
+3	cultivated	cultivate	VBN	pb=cultivate.01	20	ccomp	_
+4	an intimate	an intimate	JJ	p2=DT	5	amod	_
+5	partnership	partnership	NN	_	9	nn	_
+6	in the	in the	JJ	p2=DT	7	amod	_
+7	field	field	NN	_	9	nn	_
+8	of space	of space	NN	p2=IN	9	nn	_
+9	exploration	exploration	NN	_	3	dobj	3:A1=PPT
+10	over	over	IN	p2=RP	3	prep	3:AM-TMP
+11	the 20	the 0	CD	p2=NN	12	num	_
+12	years	year	NNS	_	10	pobj	_
+13	since	since	IN	_	3	prep	3:AM-TMP
+14	the fall	the fall	NNP	p2=DT	17	nn	_
+15	of the	of the	NNP	p2=IN	17	nn	_
+16	Soviet	soviet	NNP	_	17	nn	_
+17	Union	union	NNP	_	13	pobj	_
+18	,	,	,	_	20	punct	_
+19	a relationship	a relationship	NN	p2=''	20	nsubj	20:A0=PAG
+20	solidified	solidify	VBD	pb=solidify.01	0	root	_
+21	on the	on the	CD	p2=NNP	24	num	_
+22	ISS	iss	NNP	p2=IN	24	nn	_
+23	joint	joint	JJ	_	24	amod	_
+24	project	project	NN	_	20	dobj	20:A1=PPT
+25	.	.	.	_	20	punct	_
+
+1	Representatives	representative	NNS	p2=VBZ	7	nsubj	7:A1=PPT
+2	of both	of both	IN	p2=JJ	1	prep	_
+3	countries	country	NNS	_	6	poss	_
+4	'	'	POS	_	3	possessive	_
+5	space	space	NN	_	6	nn	_
+6	agencies	agency	NNS	_	2	pobj	_
+7	are	be	VBP	pb=be.01	25	ccomp	_
+8	present	present	JJ	_	7	acomp	7:A2=PRD
+9	in Mission	in mission	NNP	p2=NN	10	nn	_
+10	Control	control	NNP	_	14	nn	_
+11	Moscow	moscow	NNP	_	14	nn	_
+12	and Houston	and houston	NNP	_	13	nn	_
+13	at all	at all	NNP	p2=NN	14	nn	_
+14	times	time	NNS	p2=VBZ	15	nsubj	15:A0
+15	to support	to support	VBP	p2=IN|pb=to support.01	25	ccomp	_
+16	each	each	DT	_	17	det	_
+17	other	other	JJ	_	19	poss	_
+18	's	's	POS	p2=VBZ	17	possessive	_
+19	operations	operation	NNS	_	15	dobj	15:A1
+20	on the	on the	IN	p2=POS	19	prep	_
+21	ISS	iss	NNP	p2=NN	20	pobj	_
+22	,	,	,	_	25	punct	_
+23	and scientific	and scientific	NNP	p2=JJ	24	nn	_
+24	collaborations	collaboration	NNS	_	25	nsubj	25:A1=PPT
+25	are	be	VBP	pb=be.01	0	root	_
+26	constant	constant	JJ	_	25	acomp	25:A2=PRD
+27	.	.	.	_	25	punct	_
+
+1	This	this	DT	_	2	det	_
+2	relationship	relationship	NN	_	4	nsubj	4:A0=PAG
+3	has	have	VBZ	_	4	aux	_
+4	given	give	VBN	pb=give.01	0	root	_
+5	Moscow	moscow	NNP	_	4	iobj	4:A2=GOL
+6	a reputation	a reputation	NN	p2=NNP	4	dobj	4:A1=PPT
+7	as	as	IN	p2=RB	20	mark	_
+8	a reliable	a reliable	JJ	p2=NNP	14	amod	_
+9	and generous	and generous	JJ	p2=NNP	10	amod	_
+10	partner	partner	NN	_	14	nn	_
+11	in large	in large	NN	p2=JJ	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	scale	scale	NN	p2=VB	14	nn	_
+14	technology	technology	NN	_	17	nn	_
+15	projects 	projects 	NNP	p2=''	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	Russia	russia	NNP	_	20	nsubj	20:A0=PAG
+18	has	have	VBZ	_	20	aux	_
+19	been	be	VBN	_	20	aux	_
+20	giving	give	VBG	pb=give.01	4	advcl	_
+21	U.S.	u.s.	NNP	_	22	nn	_
+22	astronauts	astronaut	NNS	_	20	iobj	20:A2=GOL
+23	rides	ride	NNS	p2=VBZ	20	dobj	20:A1=PPT
+24	to the	to the	VBD	p2=NNP|pb=to the.01	20	advcl	_
+25	ISS	iss	NNP	p2=NNS	24	dobj	24:A1
+26	aboard	aboard	IN	_	24	prep	_
+27	its	its	PRP$	_	30	poss	_
+28	Soyuz	soyuz	NNP	_	30	nn	_
+29	launch	launch	NN	_	30	nn	_
+30	vehicle	vehicle	NN	_	26	pobj	_
+31	following	follow	VBG	_	24	prep	24:AM-TMP
+32	the retirement	the retirement	NN	p2=NNP	36	nn	_
+33	of the	of the	NNP	p2=IN	36	nn	_
+34	U.S.	u.s.	NNP	_	36	nn	_
+35	Space	space	NNP	_	36	nn	_
+36	Shuttle	shuttle	NNP	_	31	pobj	_
+37	fleet 	fleet 	,	p2=NNP	4	punct	_
+38	-	-	:	p2=,	4	punct	_
+39	as	as	RB	_	41	advmod	_
+40	well	well	RB	_	41	advmod	_
+41	as	as	IN	_	42	cc	_
+42	insight	insight	NN	_	4	dobj	_
+43	in to	in to	IN	p2=CD	42	prep	_
+44	advanced	advanced	JJ	p2=VBN	48	amod	_
+45	Western	western	JJ	_	47	amod	_
+46	space	space	NN	_	47	nn	_
+47	technology	technology	NN	_	48	nn	_
+48	and science	and science	NN	p2=NNP	43	pobj	_
+49	.	.	.	_	4	punct	_
+
+1	"	"	``	p2=''	2	punct	_
+2	Throwing	throw	VBG	p2=NNP|pb=throw.07	6	csubj	6:A1=PPT
+3	both	both	DT	p2=CC	5	det	_
+4	away	away	RB	p2=RP	5	amod	_
+5	for spite	for spite	NN	p2=NNP	2	dobj	2:A1=PPT
+6	is	be	VBZ	pb=be.01	38	ccomp	38:A1=PPT
+7	more	more	JJR	p2=RBR	6	acomp	6:A2=PRD
+8	than	than	IN	_	7	prep	_
+9	foolish	foolish	JJ	_	8	amod	_
+10	,	,	,	_	38	punct	_
+11	it	it	PRP	_	13	nsubj	13:A0=PAG
+12	is	be	VBZ	_	13	aux	_
+13	reverting	revert	VBG	p2=JJ|pb=revert.01	38	ccomp	_
+14	to a	to a	NNP	p2=RB	16	nn	_
+15	doomed	doom	VBN	p2=JJ|pb=doom.01	16	amod	_
+16	path	path	NN	_	13	dobj	21:A0;13:A1=PPT;15:A1=PPT
+17	of space	of space	IN	p2=NN	16	prep	_
+18	development	development	NN	_	17	pobj	_
+19	that	that	WDT	_	21	nsubj	21:R-A0
+20	will	will	MD	_	21	aux	21:AM-MOD
+21	harm	harm	VB	pb=harm.01	16	rcmod	_
+22	Russia	russia	NNP	_	21	dobj	21:A1=PPT
+23	most	most	RBS	p2=JJS	21	advmod	21:AM-ADV
+24	,	,	,	_	21	punct	_
+25	since	since	IN	_	27	mark	_
+26	Russia	russia	NNP	_	27	nsubj	27:A1=PPT
+27	remains	remain	VBZ	pb=remain.01	21	advcl	21:AM-CAU
+28	critically	critically	RB	_	29	advmod	_
+29	dependent	dependent	JJ	_	27	acomp	27:A3=PRD
+30	on Western	on western	JJ	p2=IN	32	amod	_
+31	technology	technology	NN	_	32	nn	_
+32	imports	import	NNS	_	27	dobj	_
+33	,	,	,	_	38	punct	_
+34	"	"	''	p2=``	38	punct	_
+35	NASA	nasa	NNP	_	37	poss	_
+36	's	's	POS	_	35	possessive	_
+37	Oberg	oberg	NNP	_	38	nsubj	38:A0
+38	said	say	VBD	pb=say.01	0	root	_
+39	.	.	.	_	38	punct	_
+
+1	Luzin	luzin	NNP	p2=RB	2	nsubj	2:A0
+2	hit	hit	VBD	p2=VB|pb=hit.01	0	root	_
+3	back	back	RB	p2=RP	2	advmod	2:AM-DIR
+4	at that	at that	NNP	p2=IN	7	nn	_
+5	notion 	notion 	NNP	p2=,	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	the scientific	the scientific	NNP	p2=JJ	8	nn	_
+8	value	value	NN	_	9	nn	_
+9	of Russia	of russia	NNP	p2=NN	14	poss	_
+10	's	's	POS	_	9	possessive	_
+11	participation	participation	NN	_	13	hmod	_
+12	in the	in the	HYPH	p2=NN	13	hyph	_
+13	ISS	iss	NNP	p2=NN	14	nn	_
+14	program	program	NN	_	15	nsubj	15:A1=PPT
+15	is	be	VBZ	pb=be.01	2	advcl	_
+16	marginal	marginal	JJ	_	15	acomp	15:A2=PRD
+17	,	,	,	_	19	punct	_
+18	he	he	PRP	_	19	nsubj	19:A0
+19	said	say	VBD	pb=say.01	21	parataxis	_
+20	,	,	,	_	19	punct	_
+21	and presents	and presents	VBZ	p2=CC|pb=and presents.01	2	advcl	19:A1-DSP
+22	little	little	JJ	_	23	amod	_
+23	value	value	NN	_	21	dobj	21:A1
+24	beyond	beyond	IN	_	21	prep	21:AM-TMP
+25	2020	0	CD	_	24	pobj	_
+26	,	,	,	_	21	punct	_
+27	since	since	IN	_	11	prep	_
+28	"	"	``	_	32	punct	_
+29	Russia	russia	NNP	p2=NN	32	nsubj	32:A0=PAG
+30	is	be	VBZ	_	32	aux	_
+31	not	not	RB	_	32	neg	32:AM-NEG
+32	doing	do	VBG	pb=do.02	27	pcomp	_
+33	anything	anything	NN	_	32	dobj	32:A1=PPT
+34	new	new	JJ	_	33	amod	_
+35	on ISS	on iss	NNP	p2=NNS	32	npadvmod	_
+36	compared	compare	VBN	p2=VBD	32	prep	32:AM-ADV
+37	to what	to what	IN	p2=NNP	40	mark	_
+38	it	it	PRP	_	40	nsubj	40:A0=PAG
+39	was	be	VBD	_	40	aux	_
+40	doing	do	VBG	pb=do.02	32	advcl	_
+41	aboard	aboard	IN	p2=RB	40	prep	40:A1=PPT
+42	the Mir	the mir	PRP$	p2=DT	44	poss	_
+43	space	space	NN	_	44	nn	_
+44	station	station	NN	_	41	pobj	_
+45	between	between	IN	_	44	prep	_
+46	1986	0	CD	_	47	num	_
+47	and 2001	and 0	NN	p2=CD	45	pobj	_
+48	.	.	.	_	2	punct	_
+49	"	"	''	_	2	punct	_
+
+1	Currently	currently	RB	_	8	advmod	8:AM-TMP
+2	,	,	,	_	8	punct	_
+3	the Russian	the russian	JJ	p2=DT	5	amod	_
+4	space	space	NN	_	5	nn	_
+5	program	program	NN	_	8	nsubjpass	8:A1=PPT
+6	is	be	VBZ	_	8	auxpass	_
+7	entirely	entirely	RB	_	8	advmod	8:AM-ADV
+8	tied	tie	VBN	pb=tie.01	0	root	_
+9	to	to	IN	_	8	prep	8:C-A1
+10	the ISS	the iss	NNP	p2=PRP	9	pobj	14:A1
+11	,	,	,	_	10	punct	_
+12	which	which	WDT	_	14	dobj	14:R-A2
+13	Luzin	luzin	NNP	_	14	nsubj	14:A0
+14	said	say	VBD	pb=say.01	10	rcmod	_
+15	"	"	``	_	16	punct	_
+16	receives	receive	VBZ	pb=receive.01	14	ccomp	14:A1=PPT
+17	the lion	the lion	NNP	p2=EX	19	poss	_
+18	's	's	POS	_	17	possessive	_
+19	share	share	NN	_	16	dobj	16:A1=PPT
+20	of spending	of spending	VBG	p2=JJ|pb=of spending.01	19	partmod	_
+21	on civil	on civil	JJ	p2=IN	23	amod	_
+22	space	space	NN	_	23	nn	_
+23	exploration	exploration	NN	_	20	dobj	20:A1
+24	.	.	.	_	8	punct	_
+25	"	"	''	_	8	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a product	a product	JJ	p2=NNP	5	amod	_
+4	of its	of its	NNS	p2=JJ	5	nn	_
+5	integration	integration	NN	p2=VBP	2	attr	2:A2=PRD
+6	with	with	IN	_	5	prep	_
+7	the Western	the western	JJ	p2=DT	9	amod	_
+8	aerospace	aerospace	NN	_	9	nn	_
+9	community	community	NN	_	6	pobj	_
+10	through	through	IN	_	5	prep	_
+11	the ISS	the iss	PRP$	p2=NNP	12	poss	_
+12	program	program	NN	_	10	pobj	17:A1=PPT
+13	,	,	,	_	12	punct	_
+14	which	which	WDT	_	17	nsubjpass	17:R-A1
+15	was	be	VBD	_	17	auxpass	_
+16	consciously	consciously	RB	_	17	advmod	17:AM-MNR
+17	fostered	foster	VBN	p2=VBD|pb=foster.01	12	rcmod	_
+18	to address	to address	NNP	p2=NN	19	nn	_
+19	the problem	the problem	NNP	p2=EX	20	nsubj	20:A0
+20	of modernizing	of modernizing	VBG	p2=NNP|pb=of modernizing.01	17	advcl	_
+21	the Soviet-era	the soviet-era	JJ	p2=NNP	25	amod	_
+22	space	space	NN	_	23	nn	_
+23	industry	industry	NN	_	24	nn	_
+24	and its	and its	NNS	p2=VBZ	25	nn	_
+25	integration	integration	NN	p2=VBP	20	dobj	20:A1
+26	into the	into the	IN	p2=VBP	25	prep	_
+27	global	global	JJ	_	28	amod	_
+28	economy	economy	NN	_	26	pobj	_
+29	.	.	.	_	2	punct	_
+
+1	Unfortunately	unfortunately	RB	_	8	advmod	8:AM-ADV
+2	,	,	,	_	8	punct	_
+3	none	none	NN	p2=JJ	5	nn	_
+4	of these	of these	NN	p2=IN	5	nn	_
+5	problems	problem	NNS	_	8	nsubjpass	8:A1=PPT
+6	were	be	VBD	_	8	auxpass	_
+7	appropriately	appropriately	RB	_	8	advmod	8:AM-MNR
+8	addressed	address	VBN	pb=address.02	0	root	_
+9	,	,	,	_	10	punct	_
+10	said	say	VBD	p2=VBN|pb=say.01	0	root	_
+11	Luzin	luzin	NNP	p2=NN	22	nsubj	_
+12	,	,	,	_	11	punct	_
+13	and any	and any	NNP	p2=JJ	14	nn	_
+14	discussion	discussion	NN	_	15	nn	_
+15	of Russia	of russia	NNP	p2=NN	18	poss	_
+16	's	's	POS	_	15	possessive	_
+17	future	future	NN	p2=JJ	18	amod	_
+18	in space	in space	NN	p2=IN	11	appos	_
+19	beyond	beyond	IN	_	18	prep	_
+20	2020	0	CD	_	19	pobj	_
+21	"	"	''	p2=``	22	punct	_
+22	rests	rest	VBZ	p2=NNS|pb=rest.02	10	ccomp	10:A1=PPT
+23	on the	on the	PRP	p2=EX	24	nsubj	24:A0=PAG
+24	need	need	VBP	p2=VB|pb=need.01	22	ccomp	22:A1=PAG
+25	for deep	for deep	JJ	p2=``	27	amod	_
+26	structural	structural	JJ	_	27	amod	_
+27	reforms	reform	NNS	_	24	dobj	24:A1=PPT
+28	,	,	,	_	27	punct	_
+29	which	which	WDT	_	35	pobj	_
+30	not	not	RB	_	33	preconj	_
+31	only	only	RB	_	30	advmod	_
+32	Rogozin	rogozin	NNP	_	33	nsubj	33:A1=PPT
+33	is	be	VBZ	pb=be.01	22	advcl	_
+34	unprepared	unprepared	JJ	_	33	acomp	33:A2=PRD
+35	for	for	IN	_	34	prep	_
+36	,	,	,	_	33	punct	_
+37	but	but	CC	_	33	cc	_
+38	the entire	the entire	NNP	p2=DT	39	nn	_
+39	Putin	putin	NNP	_	40	nn	_
+40	team	team	NN	_	33	conj	_
+41	.	.	.	_	10	punct	_
+
+1	Moreover	moreover	RB	_	4	advmod	4:AM-DIS
+2	,	,	,	_	4	punct	_
+3	there	there	EX	_	4	expl	_
+4	is	be	VBZ	pb=be.02	0	root	_
+5	no	no	DT	_	7	det	_
+6	understanding	understanding	NN	_	7	amod	_
+7	in government	in government	NN	p2=NNP	4	attr	4:A1=PPT
+8	of where	of where	RB	p2=NN	7	advmod	_
+9	and how	and how	RB	p2=IN	13	advmod	13:AM-MNR
+10	we	we	PRP	_	13	nsubj	_
+11	can	can	MD	_	13	aux	13:AM-MOD
+12	and must	and must	RB	p2=VB	13	advmod	13:AM-MNR
+13	develop	develop	VB	pb=develop.01	4	advcl	_
+14	in space	in space	NN	p2=PRP	13	dobj	13:A1=LOC
+15	.	.	.	_	4	punct	_
+16	"	"	''	_	4	punct	_
+
+1	Oberg	oberg	NNP	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	blunt 	blunt 	NNP	p2=JJ	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	Russia	russia	NNP	_	8	poss	_
+6	's	's	POS	_	5	possessive	_
+7	main	main	JJ	p2=NN	8	amod	_
+8	gain	gain	NN	_	14	nsubj	9:A0;14:A0
+9	in courting	in courting	VBG	p2=JJ|pb=in courting.01	8	partmod	_
+10	Chinese	chinese	JJ	_	12	amod	_
+11	space	space	NN	_	12	nn	_
+12	cooperation	cooperation	NN	_	9	dobj	9:A1
+13	is	be	VBZ	_	14	aux	_
+14	in 	in 	VBG	p2=RB|pb=in .01	2	ccomp	2:A2=PRD
+15	"	"	``	p2=''	17	punct	_
+16	fanning	fan	VBG	p2=JJ	17	nn	_
+17	nostalgia	nostalgia	NN	_	19	nn	_
+18	for obsolete	for obsolete	''	p2=NN	17	punct	_
+19	anti-U.S	anti-u.s	NNS	p2=ADD	14	dobj	14:A1
+20	.	.	.	_	2	punct	_
+
+1	alliances	alliance	NNS	p2=VBZ	0	root	5:A1=PPT
+2	,	,	,	_	5	punct	_
+3	"	"	''	_	5	punct	_
+4	he	he	PRP	_	5	nsubj	5:A0
+5	said	say	VBD	pb=say.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	Foreign	foreign	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	7	nsubj	7:A0
+5	Sergei	sergei	NNP	_	6	nn	_
+6	Lavrov	lavrov	NNP	_	4	appos	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Monday	monday	NNP	_	9	nn	_
+9	Russia	russia	NNP	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	told	tell	VBN	p2=VBD|pb=tell.01	7	ccomp	7:A1=PPT
+12	Ukraine	ukraine	NNP	p2=PRP	11	dobj	11:A2=GOL
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	intends	intend	VBZ	pb=intend.01	11	ccomp	11:A1=PPT
+15	to send	to send	RB	p2=VBN	14	advmod	_
+16	another	another	DT	_	19	det	_
+17	humanitarian	humanitarian	JJ	_	18	amod	_
+18	aid	aid	NN	_	19	nn	_
+19	convoy	convoy	NN	_	14	dobj	14:A1=PPT
+20	.	.	.	_	7	punct	_
+
+1	Chechen	chechen	NNP	p2=NN	2	nn	_
+2	leader	leader	NN	_	4	nn	_
+3	Ramzan	ramzan	NNP	_	4	nn	_
+4	Kadyrov	kadyrov	NNP	_	7	nsubjpass	7:A1=PPT
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	inducted	induct	VBN	pb=induct.01	0	root	_
+8	into Russia	into russia	NNP	_	16	poss	_
+9	's	's	POS	_	8	possessive	_
+10	biggest	big	JJS	_	16	amod	_
+11	black	black	JJ	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	leather	leather	NN	_	16	nn	_
+14	clad	clothe	VBN	p2=NN|pb=clothe.01	16	amod	_
+15	biker	biker	NN	p2=JJR	16	nn	_
+16	gang	gang	NN	_	7	oprd	14:A1=PPT;7:A2=GOL
+17	,	,	,	_	16	punct	_
+18	the 	the 	NNP	p2=:	21	poss	_
+19	'	'	POS	_	18	possessive	_
+20	Night	night	NNP	p2=NN	21	nn	_
+21	Wolves	wolf	NNPS	p2=NNS	16	appos	_
+22	.	.	.	_	7	punct	_
+
+1	'	'	POS	p2=``	4	punct	_
+2	Russian	russian	JJ	_	3	amod	_
+3	diplomats	diplomat	NNS	_	4	nsubj	4:A0
+4	say	say	VBP	pb=say.01	18	ccomp	18:A1
+5	they	they	PRP	_	8	nsubjpass	_
+6	have	have	VBP	_	8	aux	_
+7	been	be	VBN	_	8	auxpass	_
+8	excluded	exclude	VBN	pb=exclude.01	4	ccomp	4:A1=PPT
+9	from an	from an	JJ	p2=IN	11	amod	_
+10	upcoming	upcoming	JJ	_	11	amod	_
+11	summit	summit	NN	_	8	dobj	8:A1=PPT
+12	of NATO	of nato	IN	p2=NN	11	prep	_
+13	member	member	NN	_	14	nn	_
+14	countries	country	NNS	_	15	nn	_
+15	in Wales	in wales	NNS	p2=NNP	12	pobj	_
+16	,	,	,	_	18	punct	_
+17	Kommersant	kommersant	NNP	_	18	nsubj	18:A0=PAG;21:A0=PAG
+18	reported	report	VBD	pb=report.01	0	root	_
+19	Monday	monday	NNP	_	18	npadvmod	18:AM-TMP
+20	,	,	,	_	18	punct	_
+21	citing	cite	VBG	pb=cite.01	18	advcl	18:AM-ADV
+22	an unidentified	an unidentified	VBN	p2=JJ|pb=an unidentified.01	24	amod	_
+23	diplomatic	diplomatic	JJ	_	24	amod	_
+24	source	source	NN	_	21	dobj	21:A1=PPT;22:A1
+25	.	.	.	_	18	punct	_
+
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	space	space	NN	_	4	nn	_
+4	agency	agency	NN	_	9	nsubj	9:A0=PAG
+5	,	,	,	_	4	punct	_
+6	Roscosmos	roscosmos	NNP	_	4	appos	_
+7	,	,	,	_	4	punct	_
+8	has	have	VBZ	_	9	aux	_
+9	launched	launch	VBN	pb=launch.01	0	root	_
+10	an independent	an independent	JJ	p2=NN	12	amod	_
+11	investigation	investigation	NN	_	12	nn	_
+12	into the	into the	NN	p2=NFP	13	nn	_
+13	cause	cause	NN	p2=IN	9	dobj	9:A1=PPT
+14	of Friday	of friday	NNP	_	17	poss	_
+15	's	's	POS	p2=VBZ	14	possessive	_
+16	botched	botch	VBN	p2=JJ|pb=botch.01	17	amod	_
+17	launch	launch	NN	p2=VB	13	appos	16:A1=PPT
+18	of two	of two	IN	p2=CD	17	prep	_
+19	brand	brand	NN	_	21	hmod	_
+20	-	-	HYPH	p2=:	21	hyph	_
+21	new	new	JJ	_	24	amod	_
+22	European	european	JJ	p2=NNP	24	amod	_
+23	navigation	navigation	NN	_	24	nn	_
+24	satellites	satellite	NNS	_	18	pobj	_
+25	aboard	aboard	IN	p2=RB	24	prep	_
+26	a Soyuz	a soyuz	NNP	p2=DT	27	nn	_
+27	rocket	rocket	NN	_	25	pobj	_
+28	.	.	.	_	9	punct	_
+
+1	A fiscal	a fiscal	JJ	p2=NNP	2	amod	_
+2	rule	rule	NN	_	15	nsubj	4:A0=PAG;15:A1=PPT
+3	that	that	WDT	_	4	nsubj	4:R-A0
+4	prevents	prevent	VBZ	pb=prevent.01	2	rcmod	_
+5	Russia	russia	NNP	_	6	nsubj	6:A0
+6	from raising	from raising	VBG	p2=HYPH|pb=from raising.01	9	csubj	_
+7	government	government	NN	_	8	nn	_
+8	spending	spending	NN	_	6	dobj	6:A1
+9	reflects	reflect	VBZ	_	4	dobj	4:A1=PPT
+10	"	"	``	_	12	punct	_
+11	old	old	JJ	_	12	amod	_
+12	realities	reality	NNS	_	9	dobj	_
+13	"	"	''	_	12	punct	_
+14	and should	and should	MD	p2=CC	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	24	ccomp	_
+16	relaxed	relaxed	JJ	p2=VBN	15	acomp	15:A2=PRD
+17	,	,	,	_	24	punct	_
+18	Russian	russian	JJ	_	21	amod	_
+19	Economic	economic	NNP	p2=JJ	20	nn	_
+20	Development	development	NNP	_	21	nn	_
+21	Minister	minister	NNP	_	23	nn	_
+22	Alexei	alexei	NNP	_	23	nn	_
+23	Ulyukayev	ulyukayev	NNP	_	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	in an	in an	JJ	p2=NNP	26	amod	_
+26	article	article	NN	_	24	dobj	24:A1=PPT;27:A1=PRD
+27	published	publish	VBN	p2=VBD|pb=publish.01	26	partmod	_
+28	Monday	monday	NNP	_	27	npadvmod	27:AM-TMP
+29	.	.	.	_	24	punct	_
+
+1	Tsars	tsar	NNS	p2=NNP	24	dep	_
+2	,	,	,	_	1	punct	_
+3	revolutions	revolution	NNS	_	1	conj	_
+4	,	,	,	_	3	punct	_
+5	two	#crd#	CD	_	7	num	_
+6	World	world	NNP	p2=JJ	7	nn	_
+7	Wars	war	NNPS	_	3	conj	_
+8	and	and	CC	_	7	cc	_
+9	the	the	DT	_	11	det	_
+10	Soviet	soviet	NNP	_	11	nn	_
+11	Union	union	NNP	_	7	conj	_
+12	-	-	:	p2=,	24	punct	_
+13	if	if	IN	_	15	mark	_
+14	you	you	PRP	_	15	nsubj	15:A1=PPT
+15	're	be	VBP	pb=be.01	24	advcl	24:AM-ADV
+16	interested	interested	JJ	_	15	acomp	15:A2=PRD
+17	in	in	IN	_	16	prep	_
+18	Russia	russia	NNP	_	21	poss	_
+19	's	's	POS	_	18	possessive	_
+20	rich	rich	JJ	_	21	amod	_
+21	history	history	NN	_	17	pobj	_
+22	,	,	,	_	24	punct	_
+23	these	these	DT	_	24	nsubj	24:A1=PPT
+24	are	be	VBP	pb=be.01	0	root	_
+25	the	the	DT	_	26	det	_
+26	websites	website	NNS	_	24	attr	24:A2=PRD
+27	to	to	TO	_	28	aux	_
+28	explore	explore	VB	pb=explore.01	26	infmod	_
+29	.	.	.	_	24	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Hollywood	hollywood	NNP	p2=NN	2	nn	_
+2	star	star	NN	_	4	nn	_
+3	Vin	vin	NNP	_	4	nn	_
+4	Diesel	diesel	NNP	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	challenged	challenge	VBN	pb=challenge.01	0	root	_
+7	Russian	russian	JJ	p2=NNP	8	amod	_
+8	President	president	NNP	_	10	nn	_
+9	Vladimir	vladimir	NNP	_	10	nn	_
+10	Putin	putin	NNP	_	11	nn	_
+11	to pour	to pour	NNP	p2=PRP$	13	nn	_
+12	a bucket	a bucket	NNP	p2=VBD	13	nn	_
+13	of ice	of ice	NNP	p2=RB	14	nsubj	_
+14	cubes	cub	VBZ	_	6	dobj	6:A1=PPT
+15	over	over	IN	p2=RP	14	prep	_
+16	his	his	PRP$	_	17	poss	_
+17	head	head	NN	_	15	pobj	_
+18	,	,	,	_	14	punct	_
+19	as	as	IN	_	14	prep	_
+20	part	part	NN	_	19	pobj	_
+21	of a	of a	IN	p2=HYPH	20	prep	_
+22	global	global	JJ	_	23	amod	_
+23	action	action	NN	_	30	nn	_
+24	to raise	to raise	NN	p2=WP$	30	nn	_
+25	awareness	awareness	NN	_	26	nn	_
+26	for a	for a	NN	p2=NNP	30	nn	_
+27	degenerative	degenerative	NN	p2=JJ	30	nn	_
+28	motor	motor	NN	_	29	nn	_
+29	neuron	neuron	NN	p2=DT	30	nn	_
+30	disease	disease	NN	_	21	pobj	_
+31	.	.	.	_	6	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+

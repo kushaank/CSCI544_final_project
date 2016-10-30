@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Paris police,arrest.01,a drunk man,,Affirmative,Paris police arrested a drunk man early Saturday after he began mounting the capital 's famous Iron Lady . 
+Paris police,begin.01,mounting,,Affirmative,Paris police arrested a drunk man early Saturday after he began mounting the capital 's famous Iron Lady . 
+Paris police,mount.01,famous Iron Lady,,Affirmative,Paris police arrested a drunk man early Saturday after he began mounting the capital 's famous Iron Lady . 
+Paris police,make.02,30 metres up one of,,Affirmative,He reportedly made it around 30 metres up one of the Eiffel Tower 's pillars before officers talked him down and hauled him off to jail . 
+the officers,talk.01,Paris police,,Affirmative,He reportedly made it around 30 metres up one of the Eiffel Tower 's pillars before officers talked him down and hauled him off to jail . 
+the officers,haul.01,Paris police,to jail,Affirmative,He reportedly made it around 30 metres up one of the Eiffel Tower 's pillars before officers talked him down and hauled him off to jail . 
+Police in,get.01,a call around 3:15,,Affirmative,Police in the posh 7th arrondissement got a call around 3:15 am alerting them to the fact a man was attempting to scale the legendary Iron Lady . 
+Police in,alert.01,Police in the posh 7th arrondissement,to,Affirmative,Police in the posh 7th arrondissement got a call around 3:15 am alerting them to the fact a man was attempting to scale the legendary Iron Lady . 
+a man,attempt.01,to scale,,Affirmative,Police in the posh 7th arrondissement got a call around 3:15 am alerting them to the fact a man was attempting to scale the legendary Iron Lady . 
+a man,scale.03,the legendary Iron Lady,,Affirmative,Police in the posh 7th arrondissement got a call around 3:15 am alerting them to the fact a man was attempting to scale the legendary Iron Lady . 
+the officers,spot.01,a man,,Affirmative,"Sure enough , once on scene the officers spotted the man about 30 metres above the Champ de Mars park , AFP reported . "
+AFP,report.01,officers spotted,,Affirmative,"Sure enough , once on scene the officers spotted the man about 30 metres above the Champ de Mars park , AFP reported . "
+The Local,report.01,Legionnaire was arrested for flying,,Affirmative,"Last year an artist was arrested for dancing with a rooster tied to his penis underneath the tower  and The Local reported how a French Foreign  Legionnaire was arrested for flying an unauthorized drone at the tourist site , earlier this year . "
+a French Foreign  Legionnaire,fly.01,an unauthorized drone,,Affirmative,"Last year an artist was arrested for dancing with a rooster tied to his penis underneath the tower  and The Local reported how a French Foreign  Legionnaire was arrested for flying an unauthorized drone at the tourist site , earlier this year . "
+you,want.01,to see,,Affirmative,"If you want to see a video of a man climbing the Eiffel Tower , then check this one out below . "
+you,see.01,a video of,,Affirmative,"If you want to see a video of a man climbing the Eiffel Tower , then check this one out below . "
+a man climbing,climb.01,the Eiffel Tower,,Affirmative,"If you want to see a video of a man climbing the Eiffel Tower , then check this one out below . "
+west France,vote.01,best place,,Affirmative,South west France voted ' best place to work ' Iraq : ' The jihadists raped women and children ' France blasts Germany for ' austerity policy ' 
+The jihadists,rape.01,women and,,Affirmative,South west France voted ' best place to work ' Iraq : ' The jihadists raped women and children ' France blasts Germany for ' austerity policy ' 
+South west France,blast.05,Germany,,Affirmative,South west France voted ' best place to work ' Iraq : ' The jihadists raped women and children ' France blasts Germany for ' austerity policy ' 

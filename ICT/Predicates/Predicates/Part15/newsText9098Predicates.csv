@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Feature Channels,help.01,feature,,Affirmative,Feature Channels help feature writers generate story ideas . 
+Feature Channels,feature.01,writers generate,,Affirmative,Feature Channels help feature writers generate story ideas . 
+writers,generate.01,story ideas,,Affirmative,Feature Channels help feature writers generate story ideas . 
+"scientist Barbara Damron , RN , PhD , FAAN",win.01,Control Champion Award,,Affirmative,"Newswise - University of New Mexico Cancer Center scientist Barbara Damron , RN , PhD , FAAN , recently won the prestigious C - Change Comprehensive Cancer Control Champion Award . "
+the prestigious C-Change Comprehensive Cancer Control Champion Award,honor.01,outstanding career in,,Affirmative,The award honors Dr. Damron 's outstanding career in cancer treatment and research and her passion for saving lives from the ravages of cancer . 
+Cancer,affect.01,anyone,,Affirmative,Cancer can affect anyone . 
+Americans,spend.01,in,,Affirmative,"In 2008 , Americans spent over $ 77 million in cancer treatment alone , not including other impacts such as lost productivity . "
+Americans,include.01,other impacts,,Affirmative,"In 2008 , Americans spent over $ 77 million in cancer treatment alone , not including other impacts such as lost productivity . "
+every state,form.01,its own group,,Affirmative,"To fight cancer as the major public health issue that it is , every state has formed its own group . "
+Dr. Damron 's,help.01,to create,,Affirmative,Dr. Damron helped to create the Texas Cancer Council . 
+Dr. Damron 's,create.01,the Texas Cancer Council,,Affirmative,Dr. Damron helped to create the Texas Cancer Council . 
+Dr. Damron 's,help.01,to create,,Affirmative,Then she helped to create the New Mexico Cancer Council when she moved here in 1999 . 
+Dr. Damron 's,create.01,Mexico Cancer Council,,Affirmative,Then she helped to create the New Mexico Cancer Council when she moved here in 1999 . 
+Mexico Cancer Council,bring.01,"individuals , agencies , businesses and",,Affirmative,"The New Mexico Cancer Council brings together individuals , agencies , businesses and community groups - any entity with an interest in fighting cancer in New Mexico . "
+the New Mexico Cancer Council,develop.02,year plan,,Affirmative,It develops a 5 - year plan which defines what the state should do to help people prevent cancer or get care . 
+year plan,define.01,state should do,,Affirmative,It develops a 5 - year plan which defines what the state should do to help people prevent cancer or get care . 
+the state,help.01,people prevent cancer or get care,,Affirmative,It develops a 5 - year plan which defines what the state should do to help people prevent cancer or get care . 
+people,prevent.01,cancer,,Affirmative,It develops a 5 - year plan which defines what the state should do to help people prevent cancer or get care . 
+people,get.01,care,,Affirmative,It develops a 5 - year plan which defines what the state should do to help people prevent cancer or get care . 
+people,provide.01,the access [,,Affirmative,"We do n't provide the access [ to care ] itself but we facilitate the access to it , says Dr. Damron . "
+people,facilitate.01,the access to it,,Affirmative,"We do n't provide the access [ to care ] itself but we facilitate the access to it , says Dr. Damron . "
+Dr. Damron 's,say.01,We do n't provide,,Affirmative,"We do n't provide the access [ to care ] itself but we facilitate the access to it , says Dr. Damron . "
+The state cancer groups,align.01,their efforts,through,Affirmative,The state cancer groups align their efforts through C - Change . 
+All the voices at,inform.01,the voice,at,Affirmative,"All the voices at the state level help inform the voice at the federal level , explains Dr. Damron . "
+Dr. Damron 's,explain.01,inform,,Affirmative,"All the voices at the state level help inform the voice at the federal level , explains Dr. Damron . "
+C - Change,award.01,Control Awards,,Affirmative,C - Change began awarding its Comprehensive Cancer Control Awards only in the last 4 years to foster state - level efforts . 
+Dr. Damron 's,teach.01,health policy,,Affirmative,Dr. Damron is an Associate Professor at the University of New Mexico ( UNM ) College of Nursing and teaches health policy at the doctoral level with the UNM College of Nursing Robert Wood Johnson Foundation Nursing and Health Policy Collaborative . 
+Dr. Damron 's,conduct.01,based participatory research,,Affirmative,"Dr. Damron also conducts community based participatory research through her office , and is currently funded by the National Cancer Institute , UNM Institutional Grants , and private foundations . "
+by,fund.01,Dr. Damron 's,,Affirmative,"Dr. Damron also conducts community based participatory research through her office , and is currently funded by the National Cancer Institute , UNM Institutional Grants , and private foundations . "
+partners,work.01,to attack cancer in,,Affirmative,"The New Mexico Cancer Council is a collaborative effort of diverse public and private partners working together to attack cancer in New Mexico through the development , implementation and evaluation of the New Mexico Cancer Plan . "
+partners,attack.01,cancer,,Affirmative,"The New Mexico Cancer Council is a collaborative effort of diverse public and private partners working together to attack cancer in New Mexico through the development , implementation and evaluation of the New Mexico Cancer Plan . "
+the only organization,assemble.02,key cancer leaders,,Affirmative,"Founded in 1998 , C - Change is the only organization that assembles key cancer leaders from the three sectors - private , public , and not - for - profit - and from across the cancer continuum - prevention , early detection , treatment and quality of life . "
+by Americans,fear.01,the disease,,Affirmative,"C - Change 's approach is to look at cancer , the disease most feared by Americans , as a societal burden for which we all bear the responsibility for addressing , individually and collectively . "
+we all,bear.01,the responsibility for addressing,,Affirmative,"C - Change 's approach is to look at cancer , the disease most feared by Americans , as a societal burden for which we all bear the responsibility for addressing , individually and collectively . "
+funding of,support.01,research programs,,Affirmative,Annual federal and private funding of over $ 77 million supports the UNM Cancer Center 's research programs . 
+the Official Cancer Center of New Mexico,treat.03,60 percent of,,Affirmative,"The UNM Cancer Center treats more than 60 percent of the adults and virtually all of the children in New Mexico affected by cancer , from every county in the state . "
+by cancer,affect.01,the children in,,Affirmative,"The UNM Cancer Center treats more than 60 percent of the adults and virtually all of the children in New Mexico affected by cancer , from every county in the state . "
+the Official Cancer Center of New Mexico,bring.01,class cancer care,to,Affirmative,"Through its partnership with Memorial Medical Center in Las Cruces , the UNM Cancer Center brings world - class cancer care to the southern part of the state ; its collaborative clinical programs in Santa Fe and Farmington serve northern New Mexico and it is developing new collaborative programs in Alamogordo and in Roswell / Carlsbad . "
+its partnership with Memorial Medical Center in Las Cruces,develop.02,new collaborative programs in Alamogordo and in,,Affirmative,"Through its partnership with Memorial Medical Center in Las Cruces , the UNM Cancer Center brings world - class cancer care to the southern part of the state ; its collaborative clinical programs in Santa Fe and Farmington serve northern New Mexico and it is developing new collaborative programs in Alamogordo and in Roswell / Carlsbad . "
+the Official Cancer Center of New Mexico,support.01,outreach programs,,Affirmative,"The UNM Cancer Center also supports several community outreach programs to make cancer screening , diagnosis and treatment available to every New Mexican . "

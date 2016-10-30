@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A blaze,gut.01,five shops in,,Affirmative,A blaze that gutted five shops in the Johannesburg city centre at dawn yesterday has caused great distress to the victims . 
+A blaze,cause.01,great distress,,Affirmative,A blaze that gutted five shops in the Johannesburg city centre at dawn yesterday has caused great distress to the victims . 
+owner Lucy Mofokeng,say.01,"she had lost everything ,",,Affirmative,"Store owner Lucy Mofokeng said she had lost everything , while pre-school owner Ragie Iol said the school had to be temporarily closed due to safety factors . "
+Store owner Lucy Mofokeng,lose.02,everything,,Affirmative,"Store owner Lucy Mofokeng said she had lost everything , while pre-school owner Ragie Iol said the school had to be temporarily closed due to safety factors . "
+owner Ragie Iol,say.01,school had,,Affirmative,"Store owner Lucy Mofokeng said she had lost everything , while pre-school owner Ragie Iol said the school had to be temporarily closed due to safety factors . "
+owner Iol,say.01,", he found",,Affirmative,"Pre-school owner Iol said when he arrived in the morning at 8 am , he found that the classes were engulfed in a cloud of smoke . "
+pre-school owner Ragie Iol,find.01,classes were engulfed in,,Affirmative,"Pre-school owner Iol said when he arrived in the morning at 8 am , he found that the classes were engulfed in a cloud of smoke . "
+in,engulf.01,the classes,,Affirmative,"Pre-school owner Iol said when he arrived in the morning at 8 am , he found that the classes were engulfed in a cloud of smoke . "
+the parents,want.01,to keep,,Affirmative,"The children had to be sent home since the parents did not want to keep their children at a school that had been destroyed by fire , he said . "
+the parents,keep.02,the children,at,Affirmative,"The children had to be sent home since the parents did not want to keep their children at a school that had been destroyed by fire , he said . "
+pre-school owner Ragie Iol,say.01,children had,,Affirmative,"The children had to be sent home since the parents did not want to keep their children at a school that had been destroyed by fire , he said . "
+Mulaudzi,say.01,", was reported to",,Affirmative,"Mulaudzi said the incident , which he described as extensive , was reported to the emergency service at 6 am , and occurred to a building located between Bree and Mooi streets . "
+Mulaudzi,describe.01,"the incident ,",as extensive,Affirmative,"Mulaudzi said the incident , which he described as extensive , was reported to the emergency service at 6 am , and occurred to a building located between Bree and Mooi streets . "
+owner Mofokeng,say.01,she had received,,Affirmative,Frustrated grocery store owner Mofokeng said she had received a call about 4 am with the information that her store had caught fire . 
+Bree,receive.01,a call about 4,,Affirmative,Frustrated grocery store owner Mofokeng said she had received a call about 4 am with the information that her store had caught fire . 
+the store,catch.01,fire,,Affirmative,Frustrated grocery store owner Mofokeng said she had received a call about 4 am with the information that her store had caught fire . 
+Bree,know.01,what could have caused,,Affirmative,I do n't know what could have caused the fire . 
+The restaurant next to us,use.01,a gas stove,,Affirmative,The restaurant next to us uses a gas stove . 
+Bree,think.01,they might have left it on,,Affirmative,"I think they might have left it on , but I am not accusing anyone , she said . "
+they,leave.01,The restaurant,,Affirmative,"I think they might have left it on , but I am not accusing anyone , she said . "
+Bree,accuse.01,anyone,,Affirmative,"I think they might have left it on , but I am not accusing anyone , she said . "
+Bree,say.01,I think,,Affirmative,"I think they might have left it on , but I am not accusing anyone , she said . "
+Frustrated grocery store owner Mofokeng,know.01,what to do,,Affirmative,For now I do n't know what to do as this shop is my life . 
+Frustrated grocery store owner Mofokeng,lose.02,everything,,Affirmative,I have lost everything . 
+Frustrated grocery store owner Mofokeng,run.01,this shop,,Affirmative,"I have been running this shop for four years , Mofokeng said . "
+Frustrated grocery store owner Mofokeng,say.01,I have been running,,Affirmative,"I have been running this shop for four years , Mofokeng said . "
+superintendent Wayne Minnaar,say.01,roads had been reopened to traffic,,Affirmative,Johannesburg metro police spokesperson superintendent Wayne Minnaar said by 8 am the roads had been reopened to traffic . 

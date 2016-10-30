@@ -1,0 +1,89 @@
+1	 *WE	 *we	NNP	p2=NNS	4	nsubj	4:A0=PAG
+2	do	do	VBP	_	4	aux	_
+3	n't	not	RB	_	4	neg	4:AM-NEG
+4	need	need	VB	pb=need.01	0	root	_
+5	a	a	DT	_	9	det	_
+6	50-50	0	CD	_	7	num	_
+7	gender	gender	NN	_	8	npadvmod	_
+8	based	base	VBN	pb=base.01	9	amod	_
+9	representation	representation	NN	_	4	dobj	4:A1=PPT;8:A1=PPT
+10	in	in	IN	_	9	prep	_
+11	the	the	DT	_	13	det	_
+12	Swapo	swapo	NNP	_	13	nn	_
+13	Party	party	NNP	_	10	pobj	_
+14	.	.	.	_	4	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	need	need	VBP	pb=need.01	0	root	_
+3	a	a	DT	_	8	det	_
+4	50-50	0	CD	_	8	num	_
+5	young	young	JJ	_	8	amod	_
+6	and	and	CC	_	5	cc	_
+7	old	old	JJ	_	5	conj	_
+8	representation	representation	NN	_	2	dobj	2:A1=PPT
+9	.	.	.	_	2	punct	_
+
+1	 WHY	 why	NNP	p2=WRB	6	npadvmod	6:AM-DIS
+2	does	do	VBZ	_	6	aux	_
+3	the	the	DT	_	4	det	_
+4	government	government	NN	_	6	nsubj	6:A0=PAG
+5	not	not	RB	_	6	neg	6:AM-NEG
+6	destroy	destroy	VB	pb=destroy.01	0	root	_
+7	stolen	steal	VBN	p2=JJ|pb=steal.01	8	amod	_
+8	diamonds	diamond	NNS	p2=VBZ	6	dobj	6:A1=PPT;7:A1=PPT
+9	the	the	DT	_	11	det	_
+10	same	same	JJ	_	11	amod	_
+11	way	way	NN	_	6	npadvmod	6:AM-LOC;13:AM-MNR
+12	they	they	PRP	_	13	nsubj	13:A0=PAG
+13	destroy	destroy	VBP	p2=VB|pb=destroy.01	11	rcmod	_
+14	elephant	elephant	NN	p2=VB	15	nn	_
+15	tusks	tusk	NNS	_	13	dobj	13:A1=PPT
+16	?	?	.	_	6	punct	_
+
+1	So	so	RB	p2=CC	4	advmod	4:AM-DIS;8:AM-DIS
+2	,	,	,	_	4	punct	_
+3	rather	rather	RB	_	4	advmod	4:AM-ADV;8:AM-ADV
+4	sell	sell	VB	p2=VBP|pb=sell.01	0	root	_
+5	those	those	DT	_	6	det	_
+6	tusks	tusk	NNS	_	4	dobj	4:A1=PPT
+7	and	and	CC	_	4	cc	_
+8	put	put	VB	p2=VBD|pb=put.01	4	conj	_
+9	that	that	DT	_	10	det	_
+10	money	money	NN	_	8	dobj	8:A1=PPT
+11	into	into	IN	_	8	prep	8:A2=GOL
+12	student	student	NN	_	13	nn	_
+13	funds	fund	NNS	_	11	pobj	_
+14	.	.	.	_	4	punct	_
+
+1	 *TATE	 *tate	NNP	p2=VB	3	nn	_
+2	Herman	herman	NNP	_	3	nn	_
+3	Toivo	toivo	NNP	_	5	nn	_
+4	ya	ya	PRP	p2=NNP	5	nn	_
+5	Toivo	toivo	NNP	p2=RB	9	dep	_
+6	,	,	,	_	9	punct	_
+7	happy	happy	JJ	_	9	amod	_
+8	90th	#ord#	JJ	_	9	amod	_
+9	birthday	birthday	NN	_	0	root	_
+10	.	.	.	_	9	punct	_
+
+1	I	I	PRP	_	3	nsubj	3:A0=PPT
+2	really	really	RB	_	3	advmod	3:AM-ADV
+3	appreciate	appreciate	VBP	pb=appreciate.02	0	root	_
+4	all	all	DT	_	3	dobj	3:A1=PAG;7:A1=PPT
+5	you	you	PRP	_	7	nsubj	7:A0=PAG
+6	have	have	VBP	_	7	aux	_
+7	done	do	VBN	pb=do.02	4	rcmod	_
+8	.	.	.	_	3	punct	_
+
+1	Be	be	VB	pb=be.01	0	root	_
+2	blessed	bless	VBN	p2=JJ|pb=bless.01	1	acomp	1:A2=PRD
+3	with	with	IN	_	2	prep	2:A2=PRD
+4	many	many	JJ	_	6	amod	_
+5	more	more	JJR	_	6	amod	_
+6	years	year	NNS	_	3	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	3	punct	_
+2	Haushona	haushona	NNP	_	3	nn	_
+3	B.	b.	NNP	_	0	root	_
+

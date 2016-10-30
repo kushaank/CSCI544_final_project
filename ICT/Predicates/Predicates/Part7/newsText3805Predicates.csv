@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ACTION,decide.01,to research,,Affirmative,KEY ACTION Decided to research an ordinance regarding grass clippings . 
+ACTION,research.01,an ordinance,,Affirmative,KEY ACTION Decided to research an ordinance regarding grass clippings . 
+DISCUSSION  Councilman Bob Feutz,say.01,action needs,,Affirmative,DISCUSSION  Councilman Bob Feutz said action needs to be taken about grass clippings being blown onto village streets and alleys . 
+action,need.01,to be taken about,,Affirmative,DISCUSSION  Councilman Bob Feutz said action needs to be taken about grass clippings being blown onto village streets and alleys . 
+DISCUSSION Councilman Bob Feutz,say.01,he would like,,Affirmative,Feutz said he would like to have ordinances reviewed to see if there are any prior laws governing this issue . 
+DISCUSSION Councilman Bob Feutz,like.02,to have ordinances reviewed,,Affirmative,Feutz said he would like to have ordinances reviewed to see if there are any prior laws governing this issue . 
+DISCUSSION Councilman Bob Feutz,have.03,ordinances reviewed,,Affirmative,Feutz said he would like to have ordinances reviewed to see if there are any prior laws governing this issue . 
+any prior laws governing,govern.01,this issue,,Affirmative,Feutz said he would like to have ordinances reviewed to see if there are any prior laws governing this issue . 
+Mayor Cary Petrullo,say.01,he has researched,,Affirmative,Mayor Cary Petrullo said he has researched existing ordinances and the village currently does not have anything pertaining to clippings . 
+Mayor Cary Petrullo,research.01,existing ordinances,,Affirmative,Mayor Cary Petrullo said he has researched existing ordinances and the village currently does not have anything pertaining to clippings . 
+the village 's,have.03,anything pertaining to clippings,,Affirmative,Mayor Cary Petrullo said he has researched existing ordinances and the village currently does not have anything pertaining to clippings . 
+anything pertaining to clippings,pertain.01,to clippings,,Affirmative,Mayor Cary Petrullo said he has researched existing ordinances and the village currently does not have anything pertaining to clippings . 
+Solicitor Nicole Stephan,offer.01,to prepare,,Affirmative,Solicitor Nicole Stephan offered to prepare a draft of an ordinance prohibiting grass clippings on streets and alleys for review at the June meeting . 
+Solicitor Nicole Stephan,prepare.02,a draft of,,Affirmative,Solicitor Nicole Stephan offered to prepare a draft of an ordinance prohibiting grass clippings on streets and alleys for review at the June meeting . 
+an ordinance prohibiting,prohibit.01,grass clippings,,Affirmative,Solicitor Nicole Stephan offered to prepare a draft of an ordinance prohibiting grass clippings on streets and alleys for review at the June meeting . 
+Mayor Cary Petrullo,request.01,that residents take care,,Affirmative,"In the meantime , Petrullo requests that residents take care when mowing to keep clippings off the streets . "
+residents,take.LV,care,,Affirmative,"In the meantime , Petrullo requests that residents take care when mowing to keep clippings off the streets . "
+residents,keep.02,about grass clippings being blown onto village streets and alleys,off,Affirmative,"In the meantime , Petrullo requests that residents take care when mowing to keep clippings off the streets . "

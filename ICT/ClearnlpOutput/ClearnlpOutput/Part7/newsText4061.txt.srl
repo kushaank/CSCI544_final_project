@@ -1,0 +1,101 @@
+1	Congratulations	congratulation	NNS	_	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	Your	your	PRP$	_	2	poss	_
+2	weather	weather	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	set	set	VBN	pb=set.01	0	root	_
+5	to	to	IN	p2=TO	4	prep	4:A2=LOC
+6	.	.	.	_	4	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0=PAG
+2	can	can	MD	_	3	aux	3:AM-MOD
+3	change	change	VB	pb=change.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	location	location	NN	_	3	dobj	3:A1=PPT
+6	at	at	IN	_	3	prep	3:AM-TMP
+7	any	any	DT	_	8	det	_
+8	time	time	NN	_	6	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	Stanford had	stanford had	NNP	p2=VBD	2	nsubj	2:A0=PAG
+2	enlisted	enlist	VBD	pb=enlist.01	24	ccomp	_
+3	in	in	IN	_	2	prep	2:AM-LOC
+4	the	the	DT	_	5	det	_
+5	Army	army	NNP	_	3	pobj	_
+6	in	in	IN	_	2	prep	2:AM-TMP
+7	2008	0	CD	_	6	pobj	_
+8	as	as	IN	_	2	prep	2:A2=PRD
+9	a	a	DT	_	12	det	_
+10	signal	signal	NN	p2=JJ	11	nn	_
+11	support	support	NN	_	12	nn	_
+12	specialist	specialist	NN	_	8	pobj	_
+13	,	,	,	_	2	punct	_
+14	according	accord	VBG	_	2	prep	2:AM-ADV
+15	to	to	IN	_	14	prep	_
+16	a	a	DT	_	17	det	_
+17	biography	biography	NN	_	15	pobj	18:A1
+18	provided	provided	VBN	pb=provide.01	17	partmod	_
+19	by	by	IN	_	18	agent	18:A0
+20	his	his	PRP$	_	21	poss	_
+21	unit	unit	NN	_	19	pobj	_
+22	,	,	,	_	24	punct	_
+23	and was	and was	NNP	p2=VBD	24	nsubj	24:A0=PAG
+24	assigned	assign	VBD	pb=assign.01	0	root	_
+25	to	to	IN	_	24	prep	24:A2=GOL
+26	a	a	DT	_	29	det	_
+27	military	military	JJ	_	29	amod	_
+28	police	police	NN	p2=NNS	29	nn	_
+29	company	company	NN	_	25	pobj	_
+30	at	at	IN	_	29	prep	_
+31	Fort	fort	NNP	_	32	nn	_
+32	Drum	drum	NNP	_	30	pobj	_
+33	,	,	,	_	32	punct	_
+34	New	new	NNP	_	35	nn	_
+35	York	york	NNP	_	32	npadvmod	_
+36	.	.	.	_	24	punct	_
+
+1	He	he	PRP	_	3	nsubjpass	3:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	deployed	deploy	VBN	p2=JJ|pb=deploy.01	0	root	_
+4	to	to	IN	_	3	prep	3:A2=PRD
+5	Iraq	iraq	NNP	_	4	pobj	_
+6	in	in	IN	_	3	prep	3:AM-TMP
+7	2009	0	CD	_	6	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	©	©	$	p2=SYM	2	nmod	_
+2	2014	0	CD	_	5	nn	_
+3	MLive	mlive	NNP	_	5	nn	_
+4	Media	media	NNP	_	5	nn	_
+5	Group	group	NNP	_	6	nn	_
+6	All	all	NNP	p2=DT	7	nn	_
+7	rights	right	NNS	p2=RB	8	nsubj	8:A0=PAG
+8	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+9	(	(	-LRB-	_	8	punct	_
+10	About	about	RB	p2=IN	11	advmod	_
+11	Us	us	PRP	p2=NNP	8	dobj	_
+12	)	)	-RRB-	_	8	punct	_
+13	.	.	.	_	8	punct	_
+
+1	Community	community	NN	p2=NNP	2	nn	_
+2	Rules	rule	NNS	p2=NNPS	3	nsubj	3:A1=PPT
+3	apply	apply	VBP	pb=apply.02	0	root	_
+4	to	to	IN	_	3	prep	3:A2=PRD
+5	all	all	DT	_	6	det	_
+6	content	content	NN	_	4	pobj	8:A1=PPT;11:A1=PPT
+7	you	you	PRP	_	8	nsubj	8:A0=PAG;11:A0=PAG
+8	upload	upload	VBP	pb=upload.01	6	rcmod	_
+9	or	or	CC	_	8	cc	_
+10	otherwise	otherwise	RB	_	11	advmod	11:AM-MNR
+11	submit	submit	VB	p2=VBP|pb=submit.01	8	conj	_
+12	to	to	IN	_	11	prep	11:A2=GOL
+13	this	this	DT	_	14	det	_
+14	site	site	NN	_	12	pobj	_
+15	.	.	.	_	3	punct	_
+
+1	Contact	contact	NN	p2=NNP	0	root	_
+2	interactivity	interactivity	NN	_	3	nn	_
+3	management	management	NN	_	1	dobj	_
+4	.	.	.	_	1	punct	_
+

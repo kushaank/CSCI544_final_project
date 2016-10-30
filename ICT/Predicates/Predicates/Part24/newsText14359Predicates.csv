@@ -1,0 +1,78 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+two candidates running for,run.02,for,,Affirmative,"FARMINGTON - Local attorneys , law enforcement officers and energy companies have contributed to two candidates running for San Juan County sheriff , and one candidate says he is not accepting any donations . "
+one candidate,say.01,he is not accepting,,Affirmative,"FARMINGTON - Local attorneys , law enforcement officers and energy companies have contributed to two candidates running for San Juan County sheriff , and one candidate says he is not accepting any donations . "
+one candidate,accept.01,any donations,,Affirmative,"FARMINGTON - Local attorneys , law enforcement officers and energy companies have contributed to two candidates running for San Juan County sheriff , and one candidate says he is not accepting any donations . "
+The primary election,decide.01,next sheriff,,Affirmative,"The primary election is June 3 , and it will decide the county 's next sheriff because no Democrats are running against the three Republican candidates . "
+no Democrats,run.02,against,,Affirmative,"The primary election is June 3 , and it will decide the county 's next sheriff because no Democrats are running against the three Republican candidates . "
+"Ken Christesen ,",run.02,for re-election,,Affirmative,"Ken Christesen , who is running for re-election , has received the most campaign donations , collecting more than $ 18,000 , according to the second round of finance reports filed May 12 . "
+"Ken Christesen ,",receive.01,the most campaign donations,,Affirmative,"Ken Christesen , who is running for re-election , has received the most campaign donations , collecting more than $ 18,000 , according to the second round of finance reports filed May 12 . "
+"Ken Christesen ,",collect.01,"more than $ 18,000",,Affirmative,"Ken Christesen , who is running for re-election , has received the most campaign donations , collecting more than $ 18,000 , according to the second round of finance reports filed May 12 . "
+Victor Titus and,donate.01,"$ 1,750",to,Affirmative,"Victor Titus and Steve Murphy , owners of the Farmington - based Titus & Murphy Law Firm , each donated $ 1,750 to Christesen 's campaign , according the reports . "
+"Mike Kovacs ,",retire.01,from,,Affirmative,"Mike Kovacs , who is retiring this week from his position as Bloomfield 's police chief , has collected $ 11,625 , according to his finance report . "
+"Mike Kovacs ,",collect.01,"$ 11,625",,Affirmative,"Mike Kovacs , who is retiring this week from his position as Bloomfield 's police chief , has collected $ 11,625 , according to his finance report . "
+"office Capt. Shane Utley ,",donate.01,$ 75,to,Affirmative,"Sheriff 's office Capt. Shane Utley , who is a plaintiff in a lawsuit filed against Christesen and other defendants , donated $ 75 to Kovacs ' campaign , according to the reports . "
+"Daniel Goldberg , owner of",run.02,for,,Affirmative,"Also running for the position is Daniel Goldberg , owner of the New Mexico Fugitive Apprehension Bureau , which is not a state agency . "
+Daniel Goldberg,provided.01,all of,,Affirmative,"Goldberg has provided all of his own campaign funds , which have totaled almost $ 11,000 , according to his second finance report . "
+Daniel Goldberg,say.01,I 'm not going,,Affirmative,"I 'm not going to be beholden to anybody , he said . "
+the Christesen 's,say.01,donors have been contributing to,,Affirmative,Christesen said donors have been contributing to his campaign because they want a fair and honest sheriff . 
+donors,want.01,sheriff,,Affirmative,Christesen said donors have been contributing to his campaign because they want a fair and honest sheriff . 
+Daniel Goldberg,say.01,is,,Affirmative,"The best way for me to campaign is to run on my record - not the negative mudslinging , he said . "
+People,want.01,honest people in office,,Affirmative,"People want honest people in office , and my record is clear on that . "
+"Tommy Bolack ,",give.01,"$ 2,400",to,Affirmative,"And Tommy Bolack , who has been appointed a special deputy and is the owner of B - Square Ranch near Farmington , gave $ 2,400 to the Christesen 's race . "
+donors,give.01,"no more than $ 2,400",candidates,Affirmative,"Donors are limited to giving candidates no more than $ 2,400 for the primary and $ 2,400 for the general elections , said Ken Ortiz , spokesman for the New Mexico Secretary of State . "
+"Ken Ortiz , spokesman for",say.01,Donors are limited to giving candidates,,Affirmative,"Donors are limited to giving candidates no more than $ 2,400 for the primary and $ 2,400 for the general elections , said Ken Ortiz , spokesman for the New Mexico Secretary of State . "
+Ken Ortiz,say.01,there is,,Affirmative,He said there is no clause in the Campaign Reporting Act that prohibits employees from donating to their employer 's campaign . 
+Reporting Act,prohibit.01,employees,from donating to,Affirmative,He said there is no clause in the Campaign Reporting Act that prohibits employees from donating to their employer 's campaign . 
+Attorney Doug Echols,say.01,county also does not have rules against that,,Affirmative,County Deputy Attorney Doug Echols said the county also does not have rules against that . 
+San Juan County,have.03,rules against that,,Affirmative,County Deputy Attorney Doug Echols said the county also does not have rules against that . 
+SunRay Park & Casino,donate.01,"$ 1,000",,Affirmative,"SunRay Park & Casino also donated $ 1,000 , and Christesen 's campaign secretary , Dana Anderson , gave the same sum , according to the reports . "
+"campaign secretary ,",give.01,the same sum,,Affirmative,"SunRay Park & Casino also donated $ 1,000 , and Christesen 's campaign secretary , Dana Anderson , gave the same sum , according to the reports . "
+Kovacs,say.01,believe,,Affirmative,Kovacs said supporters who donate to his campaign believe he is the best candidate . 
+supporters,believe.01,he is,,Affirmative,Kovacs said supporters who donate to his campaign believe he is the best candidate . 
+a good sheriff,say.01,has approached him offering support,,Affirmative,"No one , he said , has approached him offering support because they are angry with Christesen . "
+Everybody on,back.04,me,,Affirmative,"Everybody on my platform has backed me because they believe I would be a good sheriff , he said . "
+they,believe.01,I would be,,Affirmative,"Everybody on my platform has backed me because they believe I would be a good sheriff , he said . "
+he,say.01,has backed me,,Affirmative,"Everybody on my platform has backed me because they believe I would be a good sheriff , he said . "
+"Davidson ,",write.01,a letter to,,Affirmative,"Davidson , a former San Juan County sheriff , wrote a letter to the editor published on May 9 in The Daily Times criticizing Christesen . "
+a letter to,criticize.01,Christesen,,Affirmative,"Davidson , a former San Juan County sheriff , wrote a letter to the editor published on May 9 in The Daily Times criticizing Christesen . "
+Haws,donate.01,$ 150,,Affirmative,"Haws donated $ 150 , and Davidson contributed $ 100 , according to the report . "
+Davidson,contribute.01,$ 100,,Affirmative,"Haws donated $ 150 , and Davidson contributed $ 100 , according to the report . "
+Kovacs,say.01,contributions were not related to,,Affirmative,Kovacs said the two men 's contributions were not related to their lawsuit against Christesen . 
+based Rig Equipment &,contribute.01,"$ 1,000",,Affirmative,"donated $ 1,500 ; the Farmington - based Rig Equipment & Supply Co. contributed $ 1,000 ; L&W Drilling of Denver donated $ 1,000 ; and JA Drake Well Service , Inc . "
+L&W Drilling of Denver,donate.01,"$ 1,000",,Affirmative,"donated $ 1,500 ; the Farmington - based Rig Equipment & Supply Co. contributed $ 1,000 ; L&W Drilling of Denver donated $ 1,000 ; and JA Drake Well Service , Inc . "
+Goldberg,contribute.01,"$ 10,945.75 of",to,Affirmative,"Goldberg has contributed $ 10,945.75 of his own money to his campaign , according to his finance reports . "
+he,give.01,"$ 8,252.30 of",his campaign,Affirmative,"His first finance report dated April 15 shows he gave his campaign $ 8,252.30 of his own funds , and the second finance report shows he contributed $ 2,693.45 . "
+the second finance report,show.01,he contributed,,Affirmative,"His first finance report dated April 15 shows he gave his campaign $ 8,252.30 of his own funds , and the second finance report shows he contributed $ 2,693.45 . "
+he,contribute.01,"$ 2,693.45",,Affirmative,"His first finance report dated April 15 shows he gave his campaign $ 8,252.30 of his own funds , and the second finance report shows he contributed $ 2,693.45 . "
+He,say.01,he issues funds,,Affirmative,He said he issues funds as they are needed . 
+the Christesen 's,issue.01,funds,,Affirmative,He said he issues funds as they are needed . 
+Christesen,say.01,he 's promoted,,Affirmative,Christesen said he 's promoted his campaign mostly through fliers and radio ads and by walking door - to - door . 
+the Christesen 's,promote.01,his campaign,,Affirmative,Christesen said he 's promoted his campaign mostly through fliers and radio ads and by walking door - to - door . 
+He,spend.01,on,,Affirmative,"He has spent more than $ 5,500 on address and mail brochures , almost $ 4,400 on yard signs , about $ 3,200 in airtime on the radio , nearly $ 2,800 in print brochures and about $ 800 for 300 bumper stickers , according to the reports . "
+Christesen,say.01,he has had problems with signs,,Affirmative,Christesen said he has had problems with signs getting torn up or ripped down . 
+Daniel Goldberg,have.03,problems with signs,,Affirmative,Christesen said he has had problems with signs getting torn up or ripped down . 
+I,know.01,candidates have,,Affirmative,"I know all the candidates have this kind of problem every campaign season , he said , refusing to speculate on who might be behind the vandalism . "
+all the candidates,have.03,this kind of problem,,Affirmative,"I know all the candidates have this kind of problem every campaign season , he said , refusing to speculate on who might be behind the vandalism . "
+Daniel Goldberg,say.01,I know,,Affirmative,"I know all the candidates have this kind of problem every campaign season , he said , refusing to speculate on who might be behind the vandalism . "
+Daniel Goldberg,refuse.01,to speculate on,,Affirmative,"I know all the candidates have this kind of problem every campaign season , he said , refusing to speculate on who might be behind the vandalism . "
+Daniel Goldberg,say.01,he has had,,Affirmative,Goldberg said he has had similar problems . 
+he,have.03,similar problems,,Affirmative,Goldberg said he has had similar problems . 
+Daniel Goldberg,post.01,the signs,,Affirmative,"Within a week , all 75 of the signs he posted were ripped up , he said . "
+Daniel Goldberg,say.01,were ripped up,,Affirmative,"Within a week , all 75 of the signs he posted were ripped up , he said . "
+he,blame.01,the wind,,Affirmative,"Initially , he blamed the wind . "
+Goldberg,say.01,wind does n't chose,,Affirmative,"But , Goldberg said , the wind does n't chose which signs to topple . "
+the wind,choose.01,signs to topple,,Affirmative,"But , Goldberg said , the wind does n't chose which signs to topple . "
+I,think.01,it 's supporters of one of,,Affirmative,"I think it 's supporters of one of the competitors , he said . "
+Daniel Goldberg,say.01,I think,,Affirmative,"I think it 's supporters of one of the competitors , he said . "
+Goldberg,spend.01,on,,Affirmative,"Goldberg has spent more than $ 5,200 on bumper stickers and banners that vehicles driving around the county tout , according to the reports . "
+Mike Kovacs,spend.01,in materials,,Affirmative,"He has also spent about $ 715 in materials to build signs , about $ 580 for already - made signs , $ 538 for signs to be stuck in yards , about $ 1,600 for T - shirts and $ 300 to attend the March 27 campaign fundraiser in Farmington for New Mexico Gov. Susana Martinez and Jeb Bush , Florida 's former governor . "
+Mike Kovacs,build.01,signs,,Affirmative,"He has also spent about $ 715 in materials to build signs , about $ 580 for already - made signs , $ 538 for signs to be stuck in yards , about $ 1,600 for T - shirts and $ 300 to attend the March 27 campaign fundraiser in Farmington for New Mexico Gov. Susana Martinez and Jeb Bush , Florida 's former governor . "
+Mike Kovacs,attend.01,campaign fundraiser in Farmington for,,Affirmative,"He has also spent about $ 715 in materials to build signs , about $ 580 for already - made signs , $ 538 for signs to be stuck in yards , about $ 1,600 for T - shirts and $ 300 to attend the March 27 campaign fundraiser in Farmington for New Mexico Gov. Susana Martinez and Jeb Bush , Florida 's former governor . "
+Goldberg,say.01,he also walks,,Affirmative,Goldberg said he also walks door - to - door to promote his campaign . 
+Mike Kovacs,walk.01,door - to - door,,Affirmative,Goldberg said he also walks door - to - door to promote his campaign . 
+Mike Kovacs,promote.02,his campaign,,Affirmative,Goldberg said he also walks door - to - door to promote his campaign . 
+Kovacs,spend.01,on signs and,,Affirmative,"Kovacs has spent more than $ 5,000 on signs and more than $ 1,100 on radio ads , according to his report . "
+Dan Schwartz,spend.01,on,,Affirmative,"He has also spent $ 300 on window paintings and about $ 25 on Facebook ads , according to his reports . "
+He,say.01,he reaches voters via,,Affirmative,"He said he reaches voters via social media , radio ads and signs . "
+he,reach.01,voters,,Affirmative,"He said he reaches voters via social media , radio ads and signs . "
+Dan Schwartz,cover.03,government,,Affirmative,Dan Schwartz covers government for The Daily Times . 

@@ -1,0 +1,115 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+defence lawyer,label.01,a liar,Kim Dotcom,Affirmative,Tuesday 20 May 2014 12:12 p.m. John Banks ' defence lawyer has labelled Kim Dotcom a liar as the internet millionaire gave a fiery testimony in the Auckland High Court . 
+the internet millionaire,give.01,a fiery testimony in,,Affirmative,Tuesday 20 May 2014 12:12 p.m. John Banks ' defence lawyer has labelled Kim Dotcom a liar as the internet millionaire gave a fiery testimony in the Auckland High Court . 
+Kim Dotcom,describe.01,his confusion and anger,,Affirmative,"Dotcom had earlier described his confusion and anger after being told to split a $ 50,000 donation so it could be kept anonymous during Banks ' failed 2010 mayoralty campaign . "
+Jones QC,call.01,Kim Dotcom,"a Mega Manipulator ,",Affirmative,"However , during cross-examination this afternoon , David Jones QC called Dotcom a Mega Manipulator , who wanted to bring down the Government and destroy John Banks . "
+David Jones,attack.01,one another,,Affirmative,"Mr Jones and Dotcom verbally attacked one another repeatedly , with Justice Edwin Wylie interjecting several times to prevent Dotcom from arguing . "
+Justice Edwin Wylie,interject.01,several times,,Affirmative,"Mr Jones and Dotcom verbally attacked one another repeatedly , with Justice Edwin Wylie interjecting several times to prevent Dotcom from arguing . "
+Justice Edwin Wylie,prevent.01,Kim Dotcom,from arguing,Affirmative,"Mr Jones and Dotcom verbally attacked one another repeatedly , with Justice Edwin Wylie interjecting several times to prevent Dotcom from arguing . "
+Jones quizzed Dotcom on his,chequer.01,past,,Affirmative,"Mr Jones quizzed Dotcom on his chequered past , including his Robin Hood - like activities as a teenager . "
+ The Mega founder,tell.01,he would hack,the court,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+the court,hack.01,card numbers belonging to banks,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+card numbers belonging to banks,belong.01,to banks,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+card companies and,gain.02,access to,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+The Mega founder,want.01,to harm,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+The Mega founder,harm.01,any individuals and paying penance by working for those,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+by working for those,and paying penance.01,any individuals and paying penance by working for those,,Affirmative," The Mega founder told the court he would hack credit card numbers belonging to banks , credit card companies and similar institutions to gain access to their money - justifying the crime by saying he did not want to harm any individuals and paying penance by working for those he ripped off . "
+The Mega founder,hack.01,All the corporations,,Affirmative,"All the corporations which I had hacked later hired me to help them , he said . "
+All the corporations,hire.01,The Mega founder,to help them,Affirmative,"All the corporations which I had hacked later hired me to help them , he said . "
+All the corporations,help.01,John Banks ',,Affirmative,"All the corporations which I had hacked later hired me to help them , he said . "
+The Mega founder,say.01,later hired me,,Affirmative,"All the corporations which I had hacked later hired me to help them , he said . "
+The Mega founder,make.16,for them,,Affirmative,I made up for them by helping these corporations be safe . 
+The Mega founder,help.01,corporations be safe,,Affirmative,I made up for them by helping these corporations be safe . 
+Kim Dotcom,outline.01,the circumstances which led to,,Affirmative,Dotcom also outlined the circumstances which led to his conviction on insider trading charges in his native Germany . 
+Kim Dotcom,maintain.01,he was innocent of,,Affirmative,Dotcom maintains he was innocent of the crime but claims he accepted a plea deal to save himself from years of litigation by German prosecutors . 
+Kim Dotcom,claim.01,he accepted,,Affirmative,Dotcom maintains he was innocent of the crime but claims he accepted a plea deal to save himself from years of litigation by German prosecutors . 
+Kim Dotcom,accept.01,a plea deal,,Affirmative,Dotcom maintains he was innocent of the crime but claims he accepted a plea deal to save himself from years of litigation by German prosecutors . 
+Kim Dotcom,save.02,Kim Dotcom,from years of litigation by,Affirmative,Dotcom maintains he was innocent of the crime but claims he accepted a plea deal to save himself from years of litigation by German prosecutors . 
+David Jones,talk.01,about,,Affirmative,At one point Dotcom appeared to grow agitated and asked Mr Jones when are we talking about Mr Banks ? 
+Mr Jones,accuse.01,Dotcom,"of reconstructing history based on cheques dated June 9 , 2010",Affirmative,"After a brief adjournment for lunch , the pair continued their back and forth - with Mr Jones accusing Dotcom of reconstructing history based on cheques dated June 9 , 2010 - and that the meeting with Banks actually occurred on June 5 . "
+Dotcom,reconstruct.01,"history based on cheques dated June 9 , 2010",,Affirmative,"After a brief adjournment for lunch , the pair continued their back and forth - with Mr Jones accusing Dotcom of reconstructing history based on cheques dated June 9 , 2010 - and that the meeting with Banks actually occurred on June 5 . "
+"$ 25,000 cheques",make.01,no sense,,Affirmative,"I mean , that makes no sense . "
+Kim Dotcom,say.01,he revealed,,Affirmative,Dotcom said he revealed the information about the donation after Banks lied on television and abandoned the pair 's friendship following Dotcom 's arrest in 2012 . 
+Kim Dotcom,reveal.01,the information about,,Affirmative,Dotcom said he revealed the information about the donation after Banks lied on television and abandoned the pair 's friendship following Dotcom 's arrest in 2012 . 
+John Banks ',abandon.01,friendship,,Affirmative,Dotcom said he revealed the information about the donation after Banks lied on television and abandoned the pair 's friendship following Dotcom 's arrest in 2012 . 
+David Jones,accuse.01,Dotcom,of making,Affirmative,"Mr Jones repeatedly accused Dotcom of making the revelations about Banks in an attempt to undermine the Government 's extradition proceedings , a claim Dotcom strenuously denied . "
+Dotcom,deny.01,a claim,,Affirmative,"Mr Jones repeatedly accused Dotcom of making the revelations about Banks in an attempt to undermine the Government 's extradition proceedings , a claim Dotcom strenuously denied . "
+Kim Dotcom,call.01,telling,,Affirmative,"If you call telling the truth fighting , then that 's correct . "
+Kim Dotcom,tell.01,the truth fighting,,Affirmative,"If you call telling the truth fighting , then that 's correct . "
+David Jones,tell.01,the truth,,Affirmative,But I 'm telling the truth . 
+David Jones,say.01,he wanted,,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+David Jones,want.01,to keep it anonymous ' Giving evidence for,,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+David Jones,keep.02,the truth,,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+David Jones,give.01,evidence,,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+Kim Dotcom,describe.01,Party leader and offering,,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+Kim Dotcom,donate.01,the amount,to,Affirmative,"' He said he wanted to keep it anonymous ' Giving evidence for the Crown this morning , Dotcom described meeting the former ACT Party leader and offering to donate the amount to his ill - fated 2010 campaign for Auckland 's mayoralty . "
+Kim Dotcom,say.01,he first met Banks in April of,,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+Kim Dotcom,meet.03,John Banks ',,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+Kim Dotcom,raise.01,the issue of obtaining residency,,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+John Banks ',say.01,he wanted,,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+Kim Dotcom,want.01,to assist Dotcom and,,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+Kim Dotcom,assist.01,Dotcom and,,Affirmative,"Dotcom said he first met Banks in April of that year and raised the issue of obtaining residency , with Banks saying he wanted to assist Dotcom and his family . "
+Kim Dotcom,think.01,it was,,Affirmative,"I thought it was a generous offer because I did not ask for it and he did n't ask for anything in return , Dotcom told the court . "
+Kim Dotcom,ask.02,for it,,Affirmative,"I thought it was a generous offer because I did not ask for it and he did n't ask for anything in return , Dotcom told the court . "
+John Banks ',ask.02,for anything,,Affirmative,"I thought it was a generous offer because I did not ask for it and he did n't ask for anything in return , Dotcom told the court . "
+Kim Dotcom,say.01,he sought,,Affirmative,He says he sought legal advice and was told to rebuff Banks ' offer in case Immigration New Zealand had issues with it . 
+Kim Dotcom,seek.01,legal advice,,Affirmative,He says he sought legal advice and was told to rebuff Banks ' offer in case Immigration New Zealand had issues with it . 
+Kim Dotcom,tell.01,Zealand had issues with it,to,Affirmative,He says he sought legal advice and was told to rebuff Banks ' offer in case Immigration New Zealand had issues with it . 
+Immigration New Zealand,have.03,issues,,Affirmative,He says he sought legal advice and was told to rebuff Banks ' offer in case Immigration New Zealand had issues with it . 
+Kim Dotcom,say.01,he emailed Banks and told him of this,,Affirmative,Dotcom says he emailed Banks and told him of this . 
+Kim Dotcom,tell.01,of this,him,Affirmative,Dotcom says he emailed Banks and told him of this . 
+Kim Dotcom,meet.03,with Banks,,Affirmative,"However , he met with Banks again and offered to make a $ 50,000 donation to his campaign as he was pleased with Banks ' efforts to welcome him to the country . "
+Kim Dotcom,offer.01,to make,,Affirmative,"However , he met with Banks again and offered to make a $ 50,000 donation to his campaign as he was pleased with Banks ' efforts to welcome him to the country . "
+Kim Dotcom,say.01,he thought,,Affirmative,He said he thought the politician could help him network as he looked into the New Zealand technology market for possible business ventures . 
+Kim Dotcom,think.01,politician could help him network,,Affirmative,He said he thought the politician could help him network as he looked into the New Zealand technology market for possible business ventures . 
+the politician,help.01,network,,Affirmative,He said he thought the politician could help him network as he looked into the New Zealand technology market for possible business ventures . 
+Kim Dotcom,look.01,into,,Affirmative,He said he thought the politician could help him network as he looked into the New Zealand technology market for possible business ventures . 
+Kim Dotcom,want.01,to support,,Affirmative,"I wanted to support Mr Banks because he had been very friendly to me , Dotcom said . "
+Kim Dotcom,support.01,Mr Banks,,Affirmative,"I wanted to support Mr Banks because he had been very friendly to me , Dotcom said . "
+Kim Dotcom,say.01,I wanted,,Affirmative,"I wanted to support Mr Banks because he had been very friendly to me , Dotcom said . "
+Kim Dotcom,think.01,Banks would have,,Affirmative,I thought that Mr Banks would have a good contact network [ ... ] 
+Mr Banks,have.03,a good contact network [ ... ],,Affirmative,I thought that Mr Banks would have a good contact network [ ... ] 
+I,think.01,that could have been interesting down,,Affirmative,I think that could have been interesting down the road . 
+Dotcom,say.01,Banks accepted,,Affirmative,Dotcom says Banks accepted his offer and Dotcom sent his former bodyguard Wayne Tempero to help prepare a cheque . 
+John Banks ',accept.01,his offer,,Affirmative,Dotcom says Banks accepted his offer and Dotcom sent his former bodyguard Wayne Tempero to help prepare a cheque . 
+Dotcom,send.02,his former bodyguard,to help prepare,Affirmative,Dotcom says Banks accepted his offer and Dotcom sent his former bodyguard Wayne Tempero to help prepare a cheque . 
+his former bodyguard,help.01,prepare,,Affirmative,Dotcom says Banks accepted his offer and Dotcom sent his former bodyguard Wayne Tempero to help prepare a cheque . 
+Banks,request.01,he make,,Affirmative,"However , Banks requested he make it two $ 25,000 cheques , which annoyed the millionaire . "
+John Banks ',make.02,it two,,Affirmative,"However , Banks requested he make it two $ 25,000 cheques , which annoyed the millionaire . "
+"25,000 cheques ,",annoy.01,the millionaire,,Affirmative,"However , Banks requested he make it two $ 25,000 cheques , which annoyed the millionaire . "
+Kim Dotcom,wonder.01,why and he said,,Affirmative,"I was irritated , I was wondering why and he said he could then keep it anonymous . "
+John Banks ',say.01,he could then keep it anonymous,,Affirmative,"I was irritated , I was wondering why and he said he could then keep it anonymous . "
+John Banks ',keep.02,rebuff Banks ' offer,,Affirmative,"I was irritated , I was wondering why and he said he could then keep it anonymous . "
+Kim Dotcom,understand.01,why he wanted it anonymous,,Affirmative,"I could n't understand why he wanted it anonymous because I was prepared to give it to him with my name attached , Dotcom said . "
+John Banks ',want.01,rebuff Banks ' offer,,Affirmative,"I could n't understand why he wanted it anonymous because I was prepared to give it to him with my name attached , Dotcom said . "
+Kim Dotcom,give.01,rebuff Banks ' offer,to him,Affirmative,"I could n't understand why he wanted it anonymous because I was prepared to give it to him with my name attached , Dotcom said . "
+Dotcom,say.01,I could n't understand,,Affirmative,"I could n't understand why he wanted it anonymous because I was prepared to give it to him with my name attached , Dotcom said . "
+He,say.01,he wanted,,Affirmative,"He said he wanted to keep it anonymous because he said , ' down the road , if I help you Kim , it is better that nobody knows about your donations ' . "
+he,want.01,to keep it anonymous,,Affirmative,"He said he wanted to keep it anonymous because he said , ' down the road , if I help you Kim , it is better that nobody knows about your donations ' . "
+he,keep.02,it,,Affirmative,"He said he wanted to keep it anonymous because he said , ' down the road , if I help you Kim , it is better that nobody knows about your donations ' . "
+I,help.01,you,,Affirmative,"He said he wanted to keep it anonymous because he said , ' down the road , if I help you Kim , it is better that nobody knows about your donations ' . "
+Kim Dotcom,say.01,there were,,Affirmative,Dotcom said there were two witnesses to the conversation ; Mr Tempero and his butler . 
+Kim Dotcom,say.01,Banks attended,,Affirmative,"Dotcom says Banks attended several events at his Coatesville mansion , including a birthday party . "
+John Banks ',attend.01,several events,,Affirmative,"Dotcom says Banks attended several events at his Coatesville mansion , including a birthday party . "
+He,allege.01,Banks also offered,,Affirmative,"He alleges Banks also offered to talk to Maurice Williamson about an application to the Overseas Investment Office made by Dotcom to buy the house , which he had been renting up until that point . "
+Banks,offer.01,to talk to,,Affirmative,"He alleges Banks also offered to talk to Maurice Williamson about an application to the Overseas Investment Office made by Dotcom to buy the house , which he had been renting up until that point . "
+Banks,talk.01,about,to,Affirmative,"He alleges Banks also offered to talk to Maurice Williamson about an application to the Overseas Investment Office made by Dotcom to buy the house , which he had been renting up until that point . "
+he,rent.01,"the house ,",,Affirmative,"He alleges Banks also offered to talk to Maurice Williamson about an application to the Overseas Investment Office made by Dotcom to buy the house , which he had been renting up until that point . "
+Kim Dotcom,receive.01,an update from Banks,,Affirmative,"Dotcom received an update from Banks on the application 's process , which was ultimately declined due to Dotcom 's historic charges of insider trading . "
+"the woman who presided over Banks ' ill-fated campaign , Michelle Boag",know.01, told,,Affirmative,"' I never knew who Dotcom was ' Earlier this morning , the woman who presided over Banks ' ill - fated campaign , Michelle Boag ,  told the court Dotcom 's name was never mentioned to her by anyone on the team - including Banks . "
+the woman,who presided.01,over,,Affirmative,"' I never knew who Dotcom was ' Earlier this morning , the woman who presided over Banks ' ill - fated campaign , Michelle Boag ,  told the court Dotcom 's name was never mentioned to her by anyone on the team - including Banks . "
+by anyone on,mention.01,the court,to her,Affirmative,"' I never knew who Dotcom was ' Earlier this morning , the woman who presided over Banks ' ill - fated campaign , Michelle Boag ,  told the court Dotcom 's name was never mentioned to her by anyone on the team - including Banks . "
+I,know.01,Dotcom was,,Affirmative,I never knew who Kim Dotcom was until he was arrested . 
+she,know.01,Banks,,Affirmative,She said she has known Banks since 1978 when he first ran for the National Party . 
+he,run.02,for,,Affirmative,She said she has known Banks since 1978 when he first ran for the National Party . 
+I,call.01,us,close friends,Affirmative,I would n't call us close friends but yes he 's been a friend for most of that time . 
+Ms Boag,paint.02,a picture of Banks,as,Affirmative,"Ms Boag painted a picture of Banks as a kind - hearted man , always willing to help her with various charity campaigns . "
+"hearted man ,",help.01,with,her,Affirmative,"Ms Boag painted a picture of Banks as a kind - hearted man , always willing to help her with various charity campaigns . "
+I,meet.03,generous people,,Affirmative,"[ He is ] very direct , very forthright and he 's one of the most generous people I have ever met in my life . "
+She,deny.01,having,,Affirmative,"She denied having any responsibility in the finances , but was the main person responsible for initiating donation campaigns . "
+She,have.03,any responsibility in,,Affirmative,"She denied having any responsibility in the finances , but was the main person responsible for initiating donation campaigns . "
+The Local Electorate Act,make.02,it illegal,,Affirmative,The Local Electorate Act makes it illegal for donations to be listed as anonymous if the candidate knew who made them . 
+the candidate,know.01,who made them,,Affirmative,The Local Electorate Act makes it illegal for donations to be listed as anonymous if the candidate knew who made them . 
+Mr Hutchison,state.01,donation could be listed as anonymous,,Affirmative,"Mr Hutchison yesterday stated while Banks may have known about a donation from Sky City , the donation could be listed as anonymous because he would not have known the amount . "
+Banks,know.01,about,,Affirmative,"Mr Hutchison yesterday stated while Banks may have known about a donation from Sky City , the donation could be listed as anonymous because he would not have known the amount . "
+he,know.01,the amount,,Affirmative,"Mr Hutchison yesterday stated while Banks may have known about a donation from Sky City , the donation could be listed as anonymous because he would not have known the amount . "

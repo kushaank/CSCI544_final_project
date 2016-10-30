@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"AUSTIN ( May 19 , 2014",embattle.01,Hall has told,,Affirmative,"AUSTIN ( May 19 , 2014 ) Embattled University of Texas System Regent Wallace Hall has told the chairman of the Board of Regents he wo n't resign despite the chairman 's call for him to step down . "
+Wallace Hall,tell.01,he wo n't resign despite,the chairman of,Affirmative,"AUSTIN ( May 19 , 2014 ) Embattled University of Texas System Regent Wallace Hall has told the chairman of the Board of Regents he wo n't resign despite the chairman 's call for him to step down . "
+"AUSTIN -LRB- May 19 , 2014 -RRB- Embattled University of Texas System Regent Wallace Hall",resign.01,despite,,Affirmative,"AUSTIN ( May 19 , 2014 ) Embattled University of Texas System Regent Wallace Hall has told the chairman of the Board of Regents he wo n't resign despite the chairman 's call for him to step down . "
+attorney Allan Van Fleet,say.01,Hall sent,,Affirmative,Hall attorney Allan Van Fleet says Hall sent a letter to Board Chairman Paul Foster that said he will remain on the job . 
+Hall attorney Allan Van Fleet,send.02,a letter to,,Affirmative,Hall attorney Allan Van Fleet says Hall sent a letter to Board Chairman Paul Foster that said he will remain on the job . 
+a letter to,say.01,he will remain on,,Affirmative,Hall attorney Allan Van Fleet says Hall sent a letter to Board Chairman Paul Foster that said he will remain on the job . 
+Board Chairman Paul Foster that said he will remain on the job,urge.01,Hall,to resign in,Affirmative,Foster has urged Hall to resign in the wake of legislative and criminal investigations into Hall 's actions probing the University of Texas in an effort to force UT President Bill Powers out . 
+Hall,resign.01,in,,Affirmative,Foster has urged Hall to resign in the wake of legislative and criminal investigations into Hall 's actions probing the University of Texas in an effort to force UT President Bill Powers out . 
+actions probing,probe.01,the University of Texas,,Affirmative,Foster has urged Hall to resign in the wake of legislative and criminal investigations into Hall 's actions probing the University of Texas in an effort to force UT President Bill Powers out . 
+House panel,find.01,grounds exist,,Affirmative,"A Texas House panel last week found grounds exist to impeach Hall , which could lead to his removal from office . "
+A Texas House panel last week found grounds,vote.01,on articles of impeachment,,Affirmative,The panel is wet to vote on articles of impeachment on Wednesday . 
+Gov. Rick Perry,appoint.01,Hall,,Affirmative,"Gov. Rick Perry appointed Hall in 2011 , and Perry aides say Hall still has the governor 's support . "
+Perry aides,say.01,Hall still has,,Affirmative,"Gov. Rick Perry appointed Hall in 2011 , and Perry aides say Hall still has the governor 's support . "
+Hall,have.03,support,,Affirmative,"Gov. Rick Perry appointed Hall in 2011 , and Perry aides say Hall still has the governor 's support . "

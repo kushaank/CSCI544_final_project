@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+dozen goons,attack.01,a dozen goons,,Affirmative,"Four Delhi policemen were injured , one reportedly seriously , after a dozen goons attacked them during picket checking , police said Monday . "
+police,say.01,"policemen were injured ,",,Affirmative,"Four Delhi policemen were injured , one reportedly seriously , after a dozen goons attacked them during picket checking , police said Monday . "
+Four Delhi policemen,check.01,vehicles,,Affirmative,The incident took place around 2 a.m. Monday in Adarsh Nagar area of west Delhi when the policemen were checking vehicles at a picket . 
+Four attackers,beat.05,Four Delhi policemen,,Affirmative,The attackers not only beat up the policemen but also fired five shots at them . 
+Four attackers,fire.01,five shots,,Affirmative,The attackers not only beat up the policemen but also fired five shots at them . 
+Police,arrest.01,four of,,Affirmative,"Police have arrested four of the attackers - identified as Anil , Arvind , Sanjay and Kamal - while others managed to escape in their car . "
+others,manage.02,to escape in,,Affirmative,"Police have arrested four of the attackers - identified as Anil , Arvind , Sanjay and Kamal - while others managed to escape in their car . "
+Four attackers,snatch.01,a service revolver,from,Affirmative,The attackers escaped after snatching a service revolver from a policeman . 
+Four attackers,hit.01,head,with,Affirmative,They even hit head constable Rajinder with their car . 
+a police official,say.01,- were discharged after,,Affirmative,"The other injured constables - Dinesh , Shishram and Amit - were discharged after first aid , said a police official . "
+a police official,say.01,an argument ensued between,,Affirmative,The official said an argument ensued between the policemen and three of the goons who were stopped at the picket while travelling in a car . 
+a dozen goons,call.01,"their other associates ,",,Affirmative,"In the meantime , the goons called their other associates , who reached the spot on their motorcycles and attacked the policemen , said the official . "
+"their other associates ,",reach.01,the spot on,,Affirmative,"In the meantime , the goons called their other associates , who reached the spot on their motorcycles and attacked the policemen , said the official . "
+a police official,say.01,goons called,,Affirmative,"In the meantime , the goons called their other associates , who reached the spot on their motorcycles and attacked the policemen , said the official . "
+patrol team,reach.01,the spot,,Affirmative,"Meanwhile , a police patrol team reached the spot and managed to catch four of the accused . "
+patrol team,manage.02,to catch four of,,Affirmative,"Meanwhile , a police patrol team reached the spot and managed to catch four of the accused . "
+patrol team,catch.03,four of,,Affirmative,"Meanwhile , a police patrol team reached the spot and managed to catch four of the accused . "

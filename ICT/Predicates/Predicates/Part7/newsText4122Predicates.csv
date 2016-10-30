@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The teachers,belong.01,to,,Affirmative,The teachers belonging to the Association of Calicut University Teachers ( ACT ) and the Calicut University Teachers Association ( CUTA ) described the suspension as impudent and irresponsible . 
+by,conduct.01,an adalat conducted by,,Affirmative,"Dr. Thasneem , during an adalat conducted by the Vice-Chancellor on Saturday , had questioned his actions , and criticised him for delaying the probation of several teachers . "
+"Dr. Thasneem , during an adalat conducted by the Vice-Chancellor on Saturday",criticise.01,Thasneem,for delaying,Affirmative,"Dr. Thasneem , during an adalat conducted by the Vice-Chancellor on Saturday , had questioned his actions , and criticised him for delaying the probation of several teachers . "
+by,offend.01,"Dr. Salam , offended by",,Affirmative,"Dr. Salam , offended by the criticism , immediately suspended Dr. Thasneem for indiscipline , and ordered an inquiry by Pro Vice-Chancellor K. Ravindranath . "
+"Dr. Salam , offended by",suspend.01,Dr. Thasneem,,Affirmative,"Dr. Salam , offended by the criticism , immediately suspended Dr. Thasneem for indiscipline , and ordered an inquiry by Pro Vice-Chancellor K. Ravindranath . "
+"Dr. Salam , offended by",order.01,an inquiry by,,Affirmative,"Dr. Salam , offended by the criticism , immediately suspended Dr. Thasneem for indiscipline , and ordered an inquiry by Pro Vice-Chancellor K. Ravindranath . "
+secretary P. Sivadasan,say.01,action could not be justified at,,Affirmative,"ACT secretary P. Sivadasan , in a statement here on Sunday , said the university action could not be justified at any level . "
+P. Sivadasan,say.01,it was,,Affirmative,He said it was the latest in a series of ' anti-teacher ' and ' anti-academic ' actions taken by the Vice-Chancellor since he took charge . 
+by,take.01,' anti-academic ' actions taken by,,Affirmative,He said it was the latest in a series of ' anti-teacher ' and ' anti-academic ' actions taken by the Vice-Chancellor since he took charge . 
+` anti-teacher ',take.01,charge,,Affirmative,He said it was the latest in a series of ' anti-teacher ' and ' anti-academic ' actions taken by the Vice-Chancellor since he took charge . 
+P. Sivadasan,accuse.01,the Vice-Chancellor,of behaving like,Affirmative,Dr. Sivadasan accused the Vice-Chancellor of behaving like a tyrant . 
+the Vice-Chancellor,behave.01,like,,Affirmative,Dr. Sivadasan accused the Vice-Chancellor of behaving like a tyrant . 
+the ACT,demand.01,the intervention of,,Affirmative,"Demanding the intervention of Chancellor Sheila Dikshit , the ACT said the suspension of Dr. Thasneem should be revoked immediately . "
+the ACT,say.01,should be revoked immediately,,Affirmative,"Demanding the intervention of Chancellor Sheila Dikshit , the ACT said the suspension of Dr. Thasneem should be revoked immediately . "
+president P. Raveendran,say.01,was being vitiated by,,Affirmative,CUTA president P. Raveendran said the academic atmosphere on the university campus was being vitiated by the autocratic actions of the Vice-Chancellor . 
+by,vitiate.01,the academic atmosphere on,,Affirmative,CUTA president P. Raveendran said the academic atmosphere on the university campus was being vitiated by the autocratic actions of the Vice-Chancellor . 
+CUTA president P. Raveendran,demand.01,should be brought back to,,Affirmative,He demanded that academic freedom and peace should be brought back to the campus . 

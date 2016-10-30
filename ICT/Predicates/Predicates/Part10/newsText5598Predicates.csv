@@ -1,0 +1,52 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The rebels,form.01,"three lines ,",,Affirmative,"The rebels formed three lines , each two miles long and were charging hard and fast . "
+Union soldiers,try.01,to regroup but couldn't,,Affirmative,Union soldiers tried to regroup but couldn't . 
+Confederate Gen. Stonewall Jackson,do.02,reconnaissance,,Affirmative,"That night , Confederate Gen. Stonewall Jackson , while doing reconnaissance with a small group of soldiers , was accidentally shot by his own men . "
+by,shoot.02,Confederate Gen. Stonewall Jackson,,Affirmative,"That night , Confederate Gen. Stonewall Jackson , while doing reconnaissance with a small group of soldiers , was accidentally shot by his own men . "
+his own men,mistake.01,Jackson and,,Affirmative,"In the darkness , they had mistaken Jackson and his scouts for Union soldiers . "
+his own men,amputate.01,his right arm,,Affirmative,Jackson was rushed to a field hospital where they amputated his right arm . 
+J.E.B. Stuart,take.12,command,,Affirmative,J.E.B. Stuart took over Jackson 's command . 
+J.E.B. Stuart,spend.02,a good part of,trying,Affirmative,"He spent a good part of the next day , trying to reunite with Lee 's main force . "
+J.E.B. Stuart,try.01,to reunite with,,Affirmative,"He spent a good part of the next day , trying to reunite with Lee 's main force . "
+The 55th Ohio Infantry,see.01,action on,,Affirmative,The 55th Ohio did not see action on this day or the next two . 
+Robert E. Lee,initiate.01,an attack,,Affirmative,"At noontime , as Lee was ready to initiate an attack , a courier came galloping with the news that the Yankees had taken Fredericksburg . "
+a courier,gallop.01,with,,Affirmative,"At noontime , as Lee was ready to initiate an attack , a courier came galloping with the news that the Yankees had taken Fredericksburg . "
+the Yankees,take.01,Fredericksburg,,Affirmative,"At noontime , as Lee was ready to initiate an attack , a courier came galloping with the news that the Yankees had taken Fredericksburg . "
+Robert E. Lee,gather.01,reinforcements,,Affirmative,Lee immediately gathered reinforcements and went to their aid . 
+the Confederates,retake.01,the town,,Affirmative,"In Fredericksburg , the Confederates retook the town and drove the Federals back toward the river . "
+the Confederates,drive.02,the Federals,,Affirmative,"In Fredericksburg , the Confederates retook the town and drove the Federals back toward the river . "
+Robert E. Lee,find.01,", had left",,Affirmative,"During the night of May 5 , Lee awoke to find that Union Gen. Joe Hooker , against the advice of his generals , had left the battlefield . "
+"Union Gen. Joe Hooker , against",leave.01,the battlefield,,Affirmative,"During the night of May 5 , Lee awoke to find that Union Gen. Joe Hooker , against the advice of his generals , had left the battlefield . "
+"half his 13,000 soldiers",see.01,action,,Affirmative,"More than half his 13,000 soldiers had not seen action and as a result , were puzzled by the retreat . "
+Gen. George Meade,replace.01,Joe Hooker,,Affirmative,Gen. George Meade replaced Hooker and the war continued . 
+Robert E. Lee,replace.01,"14,000 men",,Affirmative,"Lee 's loss in victory was more devastating , due to the fact that he could n't replace these men . "
+Gen. George Meade,take.01,the Army of the Potomac,along,Affirmative,"In June , Meade took his army along the Alleghanies in search of Lee . "
+"the infantries , artillery and cavalries of",clash.01,in and around,,Affirmative,"For three days the infantries , artillery and cavalries of the Army of Northern Virginia and the Army of the Potomac clashed in and around the little Pennsylvania hamlet . "
+The 55th Ohio Infantry,receive.01,orders,,Affirmative,The 55th Ohio received orders to form skirmish line just south of Gettysburg on the Taneytown Road . 
+"180,000 soldiers engaged in this life or death struggle , 77,500 Confederates and 93,500 Union troops",engage.01,the enemy,from time to time,Affirmative,"While the main battles were being fought , they engaged the enemy from time to time . "
+the Regiment in one afternoon,lose.02,about 50 of,,Affirmative,The Regiment lost about 50 of its 375 men in these engagements . 
+Robert E. Lee,suffer.01,The defeat,,Affirmative,The defeat Lee suffered at Gettysburg marked the end of his attempts to invade northern soil . 
+The defeat,mark.01,the end of,,Affirmative,The defeat Lee suffered at Gettysburg marked the end of his attempts to invade northern soil . 
+Grant and,chase.01,Robert E. Lee and,,Affirmative,"For the next two years Grant and the Army of the Potomac would chase Robert E. Lee and the Army of Northern Virginia all the way to Appomattox , which ended in Lee 's surrender in April 1865 . "
+15 Motley and,leave.02,Atlanta,with Sherman,Affirmative,15 Motley and the 55th Ohio left Atlanta with Sherman on his March to the Sea . 
+Sherman,send.02,his famous telegram,to,Affirmative,"On the final day , Sherman sent his famous telegram to President Lincoln presenting him the city of Savannah as a Christmas present . "
+the crowd of,accept.01,them,,Affirmative,"Sherman was afraid the crowd of 200,000 spectators would not accept them because of the spit and polish of the Eastern troops on the previous day . "
+They,have.03,"two children , William born in 1874",,Affirmative,"They had two children , William born in 1874 and Ada in 1876 . "
+George,move.01,his children and Rebecca,to,Affirmative,"At first , the family lived together at 425 S. 3rd Street but later , George moved his children and Rebecca to 813 River Street . "
+He,have.03,an office,,Affirmative,He had an office and established a dog hospital on Washington Ave . 
+He,establish.01,a dog hospital on,,Affirmative,He had an office and established a dog hospital on Washington Ave . 
+Albert,have.03,a genial personality,,Affirmative,Albert had a genial personality and was deeply loved by all the area farmers . 
+by,love.01,Albert,,Affirmative,Albert had a genial personality and was deeply loved by all the area farmers . 
+George and,work.01,as packers and fishermen for,,Affirmative,"George and his brothers , Thomas , Charles and Eugene worked as packers and fishermen for S.H. Davis and Co. Charles eventually relocated to Cleveland . "
+Eugene,typesetter.01,for,,Affirmative,"Eugene became printer and typesetter for the Alpena Argus , Alpena 's pioneer newspaper in 1887 . "
+he,take.01,charge of,,Affirmative,Four years later he took charge of the life saving station on Middle Island . 
+"His sister , Elizabeth ,",join.01,his family,,Affirmative,"His sister , Elizabeth , joined his family there . "
+George,work.01,as,,Affirmative,"In 1889 George worked as a fisherman and carpenter for the Alpena Fish Co. , which was owned by Casper Alpern , a former Confederate soldier . "
+by,own.01,"the Alpena Fish Co. ,",,Affirmative,"In 1889 George worked as a fisherman and carpenter for the Alpena Fish Co. , which was owned by Casper Alpern , a former Confederate soldier . "
+he,work.01,on,for,Affirmative,"A couple years later , he went to work for David Lincoln on his fishing vessels . "
+Gen. George Meade,maintain.01,that trait,,Affirmative,"In spite of his long illness , he maintained that trait until the time of his death . "
+he,join.01,the Lockwood Post,,Affirmative,May 1883 he joined the Lockwood Post # 139 of the Grand Army of the Republic . 
+he,suffer.01,from,,Affirmative,"George Motley , 72 , died on June 25 , 1814 , at his home on 813 River St. For months , he had been suffering from liver problems and dropsy , a buildup of fluid in the body tissues , usually in the legs . "
+by,cause.01,It,,Affirmative,It is usually caused by congestive heart failure . 
+"His daughter , Ada and",care.01,for him,,Affirmative,"His daughter , Ada and her husband , Richard Kirchstein had been caring for him in the months preceding his death . "
+"His daughter , Ada and",precede.01,his death,,Affirmative,"His daughter , Ada and her husband , Richard Kirchstein had been caring for him in the months preceding his death . "

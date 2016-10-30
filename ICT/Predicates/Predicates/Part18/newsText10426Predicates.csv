@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A wonder drug,save.02,life,,Affirmative,A wonder drug that saved businessman Ron Walker 's life will soon be available to Australian patients with advanced melanoma . 
+company Merck Sharp and Dohme,give.01,Australian patients,,Affirmative,"Pharmaceutical company Merck Sharp and Dohme has given Australian patients with stage three and four melanoma access to the drug , known as MK - 3475 , on a compassionate basis , following a campaign by doctors , support groups and cancer survivor Ron Walker . "
+Mr Walker,have.03,1 treatment in,,Affirmative,Mr Walker had his life - saving PD - 1 treatment in the United States as part of a clinical trial in early 2013 . 
+Mr Walker,say.01,gave him,,Affirmative,"He says MK - 3475 , which has a 50 per cent success rate , gave him a second chance at life . "
+"MK - 3475 ,",have.03,cent success rate,,Affirmative,"He says MK - 3475 , which has a 50 per cent success rate , gave him a second chance at life . "
+"MK - 3475 ,",give.01,a second chance at life,him,Affirmative,"He says MK - 3475 , which has a 50 per cent success rate , gave him a second chance at life . "
+a 50 per cent success rate,work.01,a miracle,,Affirmative,"It worked a miracle , he told 7News health reporter Karen O'Sullivan . "
+Mr Walker,tell.01,It worked,reporter Karen O'Sullivan,Affirmative,"It worked a miracle , he told 7News health reporter Karen O'Sullivan . "
+the professor,say.01,Do I believe in miracles,to me,Affirmative,In fact the professor said to me : ' Do I believe in miracles ? 
+Mr Walker,believe.01,in miracles,,Affirmative,In fact the professor said to me : ' Do I believe in miracles ? 
+Mr Walker,say.01,yes I do,,Affirmative,' and I said : ' yes I do ' . 
+Melissa Sheldon,battle.01,melanoma,,Affirmative,"Melissa Sheldon has been battling melanoma for five years , and has become one of the first Australians to receive access to the promising drug under the new special access program . "
+Ms Sheldon,say.01,There 's hope,,Affirmative,"There 's hope , said Ms Sheldon . "
+A wonder drug that saved businessman Ron Walker 's life,belong.01,to,,Affirmative,The drug belongs to a new class of cancer treatments where the body uses its own immune system to reject the cancer . 
+the body,use.01,its own immune system,to reject,Affirmative,The drug belongs to a new class of cancer treatments where the body uses its own immune system to reject the cancer . 
+"Prof Grant McArthur , of",say.01,I would not use,,Affirmative,"Prof Grant McArthur , of the Peter MacCallum Cancer Centre , said : I would not use the term ' miracle drug ' to describe any cancer drug , but it certainly is one of the biggest steps forward I 've seen in my career . "
+"Prof Grant McArthur , of the Peter MacCallum Cancer Centre",use.01,the term,,Affirmative,"Prof Grant McArthur , of the Peter MacCallum Cancer Centre , said : I would not use the term ' miracle drug ' to describe any cancer drug , but it certainly is one of the biggest steps forward I 've seen in my career . "
+"Prof Grant McArthur , of the Peter MacCallum Cancer Centre",see.01,the biggest steps forward,,Affirmative,"Prof Grant McArthur , of the Peter MacCallum Cancer Centre , said : I would not use the term ' miracle drug ' to describe any cancer drug , but it certainly is one of the biggest steps forward I 've seen in my career . "
+Prof. McArthur,say.01,it could make,,Affirmative,"While there is still limited access to the drug , Prof. McArthur said it could make a difference to the 1400 patients who die from advanced melanoma every year in Australia . "
+A wonder drug that saved businessman Ron Walker 's life,make.02,a difference,,Affirmative,"While there is still limited access to the drug , Prof. McArthur said it could make a difference to the 1400 patients who die from advanced melanoma every year in Australia . "

@@ -1,0 +1,68 @@
+1	•	•	NFP	p2=NNP	4	punct	_
+2	*	*	NFP	p2=CC	4	punct	_
+3	Charmeka	charmeka	NNP	_	4	nn	_
+4	Childs	childs	NNP	_	0	root	_
+5	,	,	,	_	4	punct	_
+6	deputy	deputy	NN	p2=JJ	7	nn	_
+7	superintendent	superintendent	NN	_	4	appos	_
+8	for	for	IN	_	7	prep	_
+9	school	school	NN	_	10	nn	_
+10	effectiveness	effectiveness	NN	_	8	pobj	_
+11	.	.	.	_	4	punct	_
+
+1	State	state	NN	p2=NNP	4	nn	_
+2	Superintendent	superintendent	NNP	p2=NN	4	nn	_
+3	Mick	mick	NNP	_	4	nn	_
+4	Zais	zais	NNP	p2=NNPS	5	nsubj	_
+5	replaced	replace	VBD	pb=replace.01	0	root	_
+6	her	her	PRP	p2=PRP$	5	dobj	5:A1=PPT
+7	with	with	IN	_	5	prep	5:A2=PPT
+8	another	another	DT	_	9	det	_
+9	department	department	NN	_	7	pobj	_
+10	of	of	IN	_	9	prep	_
+11	education	education	NN	_	12	nn	_
+12	employee	employee	NN	_	10	pobj	_
+13	,	,	,	_	19	punct	_
+14	Cindy	cindy	NNP	_	16	nn	_
+15	Van	van	NNP	_	16	nn	_
+16	Buren	buren	NNP	_	12	appos	19:A1=PPT
+17	,	,	,	_	16	punct	_
+18	who	who	WP	_	19	nsubj	19:R-A1
+19	is	be	VBZ	pb=be.01	16	rcmod	_
+20	a	a	DT	_	22	det	_
+21	former	former	JJ	_	22	amod	_
+22	professor	professor	NN	_	19	attr	19:A2=PRD
+23	at	at	IN	_	22	prep	_
+24	Newberry	newberry	NNP	_	25	nn	_
+25	College	college	NNP	_	23	pobj	_
+26	.	.	.	_	5	punct	_
+
+1	Ready	ready	JJ	_	0	root	_
+2	to	to	TO	_	3	aux	_
+3	subscribe	subscribe	VB	pb=subscribe.02	1	xcomp	_
+4	to	to	IN	_	3	prep	3:A1=PPT
+5	the	the	DT	_	7	det	_
+6	Independent	independent	NNP	_	7	nn	_
+7	Mail	mail	NNP	_	4	pobj	_
+8	?	?	.	_	1	punct	_
+
+1	Choose	choose	VB	pb=choose.01	0	root	_
+2	between	between	IN	_	1	prep	1:A2=DIR
+3	a	a	DT	_	4	det	_
+4	Premium	premium	NNP	_	2	pobj	_
+5	or	or	CC	_	4	cc	_
+6	Digital	digital	NNP	p2=JJ	7	nn	_
+7	subscription	subscription	NN	_	4	conj	_
+8	below	below	RB	p2=NN	7	advmod	_
+9	.	.	.	_	1	punct	_
+
+1	Need	need	VBN	p2=VB|pb=need.01	0	root	_
+2	Help	help	VB	p2=NNP	1	dobj	1:A1=PPT
+3	?	?	.	_	1	punct	_
+
+1	Call	call	VB	pb=call.02	0	root	_
+2	us	us	PRP	_	1	dobj	1:A1=PPT
+3	at	at	IN	_	1	prep	1:AM-TMP
+4	1-864-260-1284	0	CD	_	3	pobj	_
+5	.	.	.	_	1	punct	_
+

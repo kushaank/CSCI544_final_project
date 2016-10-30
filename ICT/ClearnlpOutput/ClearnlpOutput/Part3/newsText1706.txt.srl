@@ -1,0 +1,18 @@
+1	Generating	generate	VBG	p2=NNP|pb=generate.01	0	root	_
+2	over	over	IN	p2=RP	3	quantmod	_
+3	1,300	0	CD	_	4	num	_
+4	tweets	tweet	NNS	_	1	dobj	1:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	Generating	generate	VBG	p2=NNP|pb=generate.01	0	root	_
+2	5.6	0	CD	_	3	number	_
+3	million	#crd#	CD	_	4	num	_
+4	impressions	impression	NNS	_	1	dobj	1:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	With	with	IN	_	4	mark	_
+2	over	over	IN	p2=RB	3	quantmod	_
+3	650	0	CD	_	4	num	_
+4	tweets	tweet	NNS	_	0	root	_
+5	.	.	.	_	4	punct	_
+

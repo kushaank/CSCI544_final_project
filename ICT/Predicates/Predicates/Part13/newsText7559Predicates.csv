@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+company Mineralogy,siphon.02,funds,from,Affirmative,"Clive Palmer 's company Mineralogy has been accused of siphoning funds from a Chinese firm , an allegation that worries Foreign Minister Julie Bishop . "
+an allegation,worry.01,Minister Julie Bishop,,Affirmative,"Clive Palmer 's company Mineralogy has been accused of siphoning funds from a Chinese firm , an allegation that worries Foreign Minister Julie Bishop . "
+Mr Palmer,deny.01,accusations,,Affirmative,Mr Palmer has strenuously denied accusations that his company Mineralogy siphoned funds from Chinese state - owned enterprise CITIC Pacific to finance the Palmer United Party 's federal election campaign . 
+his company Mineralogy,siphon.01,funds,from,Affirmative,Mr Palmer has strenuously denied accusations that his company Mineralogy siphoned funds from Chinese state - owned enterprise CITIC Pacific to finance the Palmer United Party 's federal election campaign . 
+state,own.01,owned enterprise,,Affirmative,Mr Palmer has strenuously denied accusations that his company Mineralogy siphoned funds from Chinese state - owned enterprise CITIC Pacific to finance the Palmer United Party 's federal election campaign . 
+his company Mineralogy,finance.01,federal election campaign,,Affirmative,Mr Palmer has strenuously denied accusations that his company Mineralogy siphoned funds from Chinese state - owned enterprise CITIC Pacific to finance the Palmer United Party 's federal election campaign . 
+Ms Bishop,say.01,she did n't want,,Affirmative,"Ms Bishop on Monday said she did n't want to weigh in on the issue while it was before the courts , but as foreign minister she was concerned . "
+Ms Bishop on Monday,want.01,to weigh in on,,Affirmative,"Ms Bishop on Monday said she did n't want to weigh in on the issue while it was before the courts , but as foreign minister she was concerned . "
+Ms Bishop on Monday,weigh.03,on,,Affirmative,"Ms Bishop on Monday said she did n't want to weigh in on the issue while it was before the courts , but as foreign minister she was concerned . "
+These,worry.02,allegations,,Affirmative,"These are worrying allegations , she told Sky News . "
+Ms Bishop on Monday,tell.01,These are worrying allegations,Sky News,Affirmative,"These are worrying allegations , she told Sky News . "
+that,affect.01,our relationship with China,,Affirmative,Anything that affects our relationship with China is of concern to me as foreign minister . 
+Mr Palmer,claim.01,Pacific actually owes Mineralogy,,Affirmative,"Mr Palmer claims CITIC Pacific actually owes Mineralogy more than $ A320 million , as they 've been shipping resources to China without paying for them . "
+Chinese state-owned enterprise CITIC Pacific,owe.01,more than $ A320 million,Mineralogy,Affirmative,"Mr Palmer claims CITIC Pacific actually owes Mineralogy more than $ A320 million , as they 've been shipping resources to China without paying for them . "
+our,ship.01,resources,to China,Affirmative,"Mr Palmer claims CITIC Pacific actually owes Mineralogy more than $ A320 million , as they 've been shipping resources to China without paying for them . "

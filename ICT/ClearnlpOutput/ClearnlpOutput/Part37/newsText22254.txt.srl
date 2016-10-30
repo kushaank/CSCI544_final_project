@@ -1,0 +1,84 @@
+1	A	a	DT	_	3	det	_
+2	Coromandel	coromandel	NNP	p2=JJ	3	nn	_
+3	man	man	NN	_	4	nsubj	4:A0=PAG;6:A0=PAG
+4	plans	plan	VBZ	pb=plan.01	0	root	_
+5	to	to	TO	_	6	aux	_
+6	fight	fight	VB	pb=fight.01	4	xcomp	4:A1=PPT
+7	a	a	DT	_	8	det	_
+8	charge	charge	NN	_	6	dobj	6:A1=COM
+9	of	of	IN	_	8	prep	_
+10	perjury	perjury	NN	_	9	pobj	_
+11	after	after	IN	_	6	prep	6:AM-TMP
+12	being accused	being accused	NNP	p2=VBN	11	pobj	_
+13	of	of	IN	_	12	prep	_
+14	lying	lie	VBG	pb=lie.01	13	pcomp	_
+15	during	during	IN	_	14	prep	14:A2=LOC
+16	a	a	DT	_	17	det	_
+17	trial	trial	NN	_	15	pobj	_
+18	.	.	.	_	4	punct	_
+
+1	Frank	frank	NNP	_	3	nn	_
+2	Allan	allan	NNP	_	3	nn	_
+3	Yeates	yeates	NNP	p2=NNPS	8	nsubj	8:A0=PAG;24:A1=PPT
+4	,	,	,	_	3	punct	_
+5	62	0	CD	_	3	appos	_
+6	,	,	,	_	8	punct	_
+7	today	today	NN	_	8	npadvmod	8:AM-TMP
+8	pleaded	plead	VBD	pb=plead.02	0	root	_
+9	not	not	RB	_	10	neg	_
+10	guilty	guilty	JJ	_	8	acomp	8:A1=PPT
+11	to	to	IN	_	10	prep	_
+12	the	the	DT	_	16	det	_
+13	charge via	charge via	NNP	p2=NNS	14	nn	_
+14	audio	audio	NN	p2=JJ	16	nn	_
+15	visual	visual	JJ	_	16	amod	_
+16	link	link	NN	_	11	pobj	_
+17	in	in	IN	_	16	prep	_
+18	the	the	DT	_	21	det	_
+19	Hamilton	hamilton	NNP	_	21	nn	_
+20	District	district	NNP	_	21	nn	_
+21	Court	court	NNP	_	17	pobj	_
+22	and	and	CC	_	8	cc	_
+23	has	have	VBZ	_	24	aux	_
+24	elected	elect	VBN	pb=elect.01	8	conj	_
+25	a trial	a trial	JJ	p2=VBN	24	oprd	24:A2=PRD
+26	by	by	IN	_	24	agent	24:A0=PAG
+27	jury	jury	NN	_	26	pobj	_
+28	.	.	.	_	8	punct	_
+
+1	The	the	DT	_	3	det	_
+2	perjury	perjury	NN	_	3	nn	_
+3	charge	charge	NN	_	4	nsubj	4:A1=PPT
+4	stems	stem	VBZ	pb=stem.01	0	root	_
+5	from	from	IN	_	4	prep	4:A2=DIR
+6	a	a	DT	_	7	det	_
+7	trial	trial	NN	_	5	pobj	_
+8	in	in	IN	_	7	prep	_
+9	March	march	NNP	_	8	pobj	_
+10	this	this	DT	_	11	det	_
+11	year	year	NN	_	7	npadvmod	_
+12	when	when	WRB	_	13	advmod	13:R-AM-TMP
+13	he's accused	he's accused	VBN	p2=NNP|pb=he's accused.01	4	advcl	4:AM-TMP
+14	of	of	IN	_	13	prep	13:A1
+15	providing	provide	VBG	pb=provide.01	14	pcomp	_
+16	false	false	JJ	_	17	amod	_
+17	evidence	evidence	NN	_	15	dobj	15:A1=PPT
+18	to	to	IN	_	15	prep	15:A2=GOL
+19	a	a	DT	_	20	det	_
+20	jury	jury	NN	_	18	pobj	_
+21	.	.	.	_	4	punct	_
+
+1	Yeates	yeates	NNS	p2=NNP	2	nsubj	2:A1=PPT;4:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	further	far	JJ	p2=RB	4	advmod	4:AM-EXT
+4	remanded	remand	VBN	p2=VBD|pb=remand.01	2	acomp	2:A2=PRD
+5	for	for	IN	_	4	prep	4:A2
+6	another	another	DT	_	7	det	_
+7	appearance	appearance	NN	_	5	pobj	_
+8	via	via	IN	_	7	prep	_
+9	audio	audio	NN	p2=JJ	8	pobj	_
+10	visual link	visual link	FW	p2=HYPH	7	prep	_
+11	next	next	JJ	p2=FW	12	amod	_
+12	month	month	NN	_	7	npadvmod	_
+13	.	.	.	_	2	punct	_
+

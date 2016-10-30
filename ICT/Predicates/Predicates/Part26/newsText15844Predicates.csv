@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,cast.01,a ballot,,Affirmative,"If you did n't cast a ballot in either primary , you can vote in the runoff of your choice . "
+you,vote.01,in,,Affirmative,"If you did n't cast a ballot in either primary , you can vote in the runoff of your choice . "
+you,choose.01,the party,,Affirmative,"If you did vote in the primary , you must stick with the party you chose in the first round . "
+candidates,get.01,voters to return to,,Affirmative,"Traditionally , candidates must labor mightily to get voters to return to the polls for runoff elections , but the results are crucial for setting the government 's direction . "
+negative campaigning,inhibit.01,turnout,,Affirmative,"A couple of this year 's statewide campaigns are particularly nasty , and negative campaigning often inhibits turnout . "
+We,urge.01,Texans,to vote,Affirmative,We urge Texans to vote even if the campaigns are offensive . 
+Texans,vote.01,campaigns are offensive,,Affirmative,We urge Texans to vote even if the campaigns are offensive . 
+We,urge.01,eligible voters,to do,Affirmative,"Regardless of which candidates you prefer , we urge eligible voters to do their part for democracy and cast a ballot . "
+eligible voters,do.02,their part for democracy,,Affirmative,"Regardless of which candidates you prefer , we urge eligible voters to do their part for democracy and cast a ballot . "

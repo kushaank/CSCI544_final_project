@@ -1,0 +1,142 @@
+1	Melendez	melendez	NNP	p2=NN	9	nsubj	11:A0=PPT
+2	,	,	,	_	1	punct	_
+3	30	0	CD	_	1	appos	_
+4	of	of	IN	_	3	prep	_
+5	Trenton	trenton	NNP	_	4	pobj	_
+6	,	,	,	_	5	punct	_
+7	N.J.	n.j.	NNP	_	5	appos	_
+8	,	,	,	_	9	punct	_
+9	 began	 began	VBD	p2=,|pb= began.01	0	root	_
+10	to	to	TO	_	11	aux	_
+11	cross	cross	VB	pb=cross.02	9	xcomp	9:A1
+12	the	the	DT	_	13	det	_
+13	road to	road to	NNP	p2=NN	14	nsubj	14:A0=PAG
+14	meet	meet	VB	pb=meet.02	11	ccomp	11:A1
+15	his	his	PRP$	_	16	poss	_
+16	friend	friend	NN	_	14	dobj	14:A1=COM
+17	when	when	WRB	_	20	advmod	20:R-AM-TMP
+18	he	he	PRP	_	20	nsubjpass	_
+19	was	be	VBD	_	20	auxpass	_
+20	struck	strike	VBN	p2=VBD|pb=strike.01	14	advcl	14:AM-TMP
+21	by the	by the	JJ	p2=DT	22	amod	_
+22	mirror	mirror	NN	_	20	dobj	20:A1=PPT
+23	of	of	IN	_	20	prep	_
+24	a	a	DT	_	25	det	_
+25	passing Lexus	passing lexus	NN	p2=NNP	23	pobj	_
+26	.	.	.	_	9	punct	_
+
+1	The	the	DT	_	2	det	_
+2	force	force	NN	_	6	nsubj	6:A0;8:A1=PAG
+3	of	of	IN	_	2	prep	_
+4	the	the	DT	_	5	det	_
+5	crash	crash	NN	_	3	pobj	_
+6	left	leave	VBD	p2=VBN|pb=leave.01	0	root	_
+7	Melendez	melendez	NNP	_	6	dobj	6:A1=DIR
+8	sitting	sit	VBG	pb=sit.01	6	advcl	6:A2=PRD
+9	upright	upright	RB	p2=JJ	8	advmod	8:AM-MNR
+10	in	in	IN	_	8	prep	8:A2=LOC
+11	the	the	DT	_	15	det	_
+12	right	right	JJ	p2=NN	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	hand	hand	NN	_	15	nn	_
+15	lane	lane	NN	_	10	pobj	_
+16	,	,	,	_	8	punct	_
+17	according	accord	VBG	_	8	prep	8:AM-ADV
+18	to	to	IN	_	17	prep	_
+19	investigators	investigator	NNS	_	18	pobj	_
+20	.	.	.	_	6	punct	_
+
+1	Seeing	see	VBG	pb=see.01	0	root	_
+2	his	his	PRP$	_	3	poss	_
+3	friend	friend	NN	_	1	dobj	1:A1
+4	in	in	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	roadway	roadway	NN	_	4	pobj	_
+7	,	,	,	_	6	punct	_
+8	Raymond	raymond	NNP	_	6	appos	_
+9	,	,	,	_	8	punct	_
+10	36	0	CD	_	8	appos	_
+11	of	of	IN	_	10	prep	_
+12	Levittown	levittown	NNP	_	11	pobj	_
+13	,	,	,	_	12	punct	_
+14	Pa	pa	NNP	_	12	appos	_
+15	.	.	.	_	1	punct	_
+
+1	,	,	,	_	2	punct	_
+2	darted	dart	VBD	p2=VBN|pb=dart.01	0	root	_
+3	into	into	IN	_	2	prep	2:AM-DIR
+4	traffic	traffic	NN	_	3	pobj	_
+5	to	to	TO	_	6	aux	_
+6	try	try	VB	pb=try.01	2	advcl	2:AM-PRP
+7	and	and	CC	_	6	cc	_
+8	drag	drag	VB	pb=drag.01	6	conj	_
+9	Melendez	melendez	NNP	_	8	dobj	8:A1=PPT
+10	to	to	IN	p2=TO	8	prep	8:A2=DIR
+11	safety	safety	NN	_	10	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	A	a	DT	_	5	det	_
+2	passing	pass	VBG	pb=pass.02	5	amod	_
+3	Hyundai	hyundai	NNP	_	5	nn	_
+4	Santa	santa	NNP	_	5	nn	_
+5	Fe	fe	NNP	_	7	nsubj	2:A0=PAG;7:A0=PAG
+6	then	then	RB	_	7	advmod	7:AM-TMP
+7	struck	strike	VBD	pb=strike.01	0	root	_
+8	both	both	DT	p2=CC	9	preconj	_
+9	Melendez	melendez	NNP	_	7	dobj	7:A1=PPT
+10	and	and	CC	_	9	cc	_
+11	Raymond	raymond	NNP	_	9	conj	_
+12	.	.	.	_	7	punct	_
+
+1	The	the	DT	_	2	det	_
+2	drivers	driver	NNS	_	6	nsubj	6:A1=PPT;14:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	both	both	DT	_	5	det	_
+5	cars	car	NNS	_	3	pobj	_
+6	stayed	stay	VBD	pb=stay.01	0	root	_
+7	on	on	IN	_	6	prep	6:A3
+8	the	the	DT	_	9	det	_
+9	scene	scene	NN	_	7	pobj	_
+10	of	of	IN	_	9	prep	_
+11	the	the	DT	_	12	det	_
+12	accident	accident	NN	_	10	pobj	_
+13	and	and	CC	_	6	cc	_
+14	were	be	VBD	pb=be.01	6	conj	_
+15	not	not	RB	_	14	neg	14:AM-NEG
+16	intoxicated	intoxicated	JJ	_	14	acomp	14:A2=PRD
+17	,	,	,	_	14	punct	_
+18	according	accord	VBG	_	14	conj	14:AM-ADV
+19	to	to	IN	_	18	prep	_
+20	police	police	NNS	p2=NN	19	pobj	_
+21	.	.	.	_	6	punct	_
+
+1	State	state	NN	p2=NNP	2	nn	_
+2	Police	police	NNS	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	they	they	PRP	_	6	nsubj	6:A0
+5	would	would	MD	_	6	aux	6:AM-MOD
+6	investigate if	investigate if	VB	p2=IN|pb=investigate if.01	3	ccomp	3:A1=PPT
+7	alcohol	alcohol	NN	_	8	nn	_
+8	use	use	NN	p2=VB	9	nsubj	9:A0=PAG
+9	played	play	VBD	pb=play.01	6	ccomp	6:A1
+10	any	any	DT	_	11	det	_
+11	role	role	NN	_	9	dobj	9:A1=PPT
+12	in	in	IN	_	11	prep	_
+13	the	the	DT	_	14	det	_
+14	victims	victim	NNS	_	16	poss	_
+15	'	'	POS	_	14	possessive	_
+16	actions	action	NNS	_	12	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	3	det	_
+2	full	full	JJ	_	3	amod	_
+3	cause	cause	NN	_	7	nsubj	7:A1=PPT
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	crash	crash	NN	_	4	pobj	_
+7	remained	remain	VBD	pb=remain.01	0	root	_
+8	under	under	IN	_	7	prep	7:A3=PRD
+9	investigation	investigation	NN	_	8	pobj	_
+10	Sunday	sunday	NNP	_	7	npadvmod	7:AM-TMP
+11	.	.	.	_	7	punct	_
+

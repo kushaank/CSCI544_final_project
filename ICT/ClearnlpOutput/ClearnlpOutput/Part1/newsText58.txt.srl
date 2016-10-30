@@ -1,0 +1,18 @@
+1	WJOL	wjol	NNP	p2=NN	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	AM	am	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Internet	internet	NN	p2=NNP	2	nn	_
+2	Development	development	NN	p2=NNP	0	root	_
+3	by	by	IN	_	2	prep	_
+4	Triton	triton	NNP	_	6	nn	_
+5	Digital	digital	NNP	_	6	nn	_
+6	Media	media	NNP	_	3	pobj	_
+7	.	.	.	_	2	punct	_
+

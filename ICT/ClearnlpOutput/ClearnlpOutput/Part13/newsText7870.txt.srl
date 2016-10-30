@@ -1,0 +1,21 @@
+1	In	in	IN	_	8	prep	8:AM-TMP
+2	2014	0	CD	_	1	pobj	_
+3	,	,	,	_	8	punct	_
+4	the	the	DT	_	6	det	_
+5	Pakistani	pakistani	JJ	p2=NNP	6	amod	_
+6	Army	army	NNP	_	8	nsubj	8:A0=PAG
+7	has	have	VBZ	_	8	aux	_
+8	violated	violate	VBN	pb=violate.01	19	ccomp	19:A1=PPT
+9	the	the	DT	_	11	det	_
+10	ceasefire	ceasefire	NN	_	11	nn	_
+11	agreement	agreement	NN	_	8	dobj	8:A1=PPT
+12	seven	#crd#	CD	_	13	num	_
+13	times	time	NNS	_	14	npadvmod	_
+14	so	so	RB	p2=IN	15	advmod	_
+15	far	far	RB	_	8	advmod	8:AM-TMP
+16	,	,	,	_	19	punct	_
+17	Indian	indian	JJ	_	18	amod	_
+18	army	army	NN	_	19	nsubj	19:A0
+19	says	say	VBZ	pb=say.01	0	root	_
+20	.	.	.	_	19	punct	_
+

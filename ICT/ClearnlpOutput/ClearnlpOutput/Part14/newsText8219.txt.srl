@@ -1,0 +1,31 @@
+1	Wiley	wiley	NNP	_	3	nsubjpass	6:A0;3:A1=PPT;13:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	charged	charge	VBN	pb=charge.05	0	root	_
+4	Sunday	sunday	NNP	_	3	npadvmod	3:AM-TMP
+5	with	with	IN	_	3	prep	3:A2=PRD
+6	making	make	VBG	pb=make.LV	5	pcomp	_
+7	false	false	JJ	_	8	amod	_
+8	statements	statement	NNS	_	6	dobj	6:AM-PRR
+9	to	to	IN	p2=TO	6	prep	6:A2
+10	law	law	NN	_	11	nn	_
+11	enforcement	enforcement	NN	_	9	pobj	_
+12	and	and	CC	_	3	cc	_
+13	released	release	VBD	p2=VBN|pb=release.01	3	conj	_
+14	on	on	IN	_	13	prep	13:AM-MNR
+15	a	a	DT	_	18	det	_
+16	$	$	$	_	17	nmod	_
+17	2,000	0	CD	_	18	nn	_
+18	bail	bail	NN	_	14	pobj	_
+19	.	.	.	_	3	punct	_
+
+1	It	it	PRP	_	2	nsubj	_
+2	's	be	VBZ	pb=be.01	0	root	_
+3	not	not	RB	_	2	neg	2:AM-NEG
+4	clear	clear	JJ	_	2	acomp	2:A2=PRD
+5	whether	whether	IN	_	7	complm	_
+6	she	she	PRP	_	7	nsubj	7:A0=PAG
+7	has	have	VBZ	pb=have.03	2	ccomp	2:A1=PPT
+8	a	a	DT	_	9	det	_
+9	lawyer	lawyer	NN	_	7	dobj	7:A1=PPT
+10	.	.	.	_	2	punct	_
+

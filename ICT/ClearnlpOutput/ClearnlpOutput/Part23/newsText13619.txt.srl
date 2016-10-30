@@ -1,0 +1,57 @@
+1	Minister	minister	NNP	_	2	nn	_
+2	Crato	crato	NNP	_	3	nsubj	3:A1=PPT
+3	was	be	VBD	pb=be.01	0	root	_
+4	part	part	NN	_	3	attr	3:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	a	a	DT	_	8	det	_
+7	strong	strong	JJ	_	8	amod	_
+8	delegation	delegation	NN	_	5	pobj	15:A0=PAG
+9	of	of	IN	_	8	prep	_
+10	Portuguese	portuguese	JJ	_	11	amod	_
+11	politicians	politician	NNS	_	9	pobj	_
+12	and	and	CC	_	11	cc	_
+13	businesspeople	businesspeople	NN	p2=NNS	11	conj	_
+14	who	who	WP	_	15	nsubj	15:R-A0
+15	accompanied	accompany	VBD	pb=accompany.01	8	rcmod	_
+16	President	president	NNP	_	18	nn	_
+17	Cavaco	cavaco	NNP	_	18	nn	_
+18	Silva	silva	NNP	_	15	dobj	15:A1=PPT
+19	on	on	IN	_	15	prep	15:A4=GOL
+20	a	a	DT	_	25	det	_
+21	week	week	NN	p2=JJ	23	hmod	_
+22	-	-	HYPH	_	23	hyph	_
+23	long	long	JJ	_	25	amod	_
+24	official	official	JJ	p2=NN	25	amod	_
+25	visit	visit	NN	_	19	pobj	_
+26	to	to	IN	_	25	prep	_
+27	China	china	NNP	_	26	pobj	_
+28	.	.	.	_	3	punct	_
+
+1	Interactive	interactive	JJ	p2=NNP	2	amod	_
+2	Topics	topic	NNS	p2=NNPS	4	npadvmod	4:AM-DIS
+3	,	,	,	_	4	punct	_
+4	send	send	VB	pb=send.01	0	root	_
+5	us	us	PRP	_	4	iobj	4:A2=GOL
+6	your	your	PRP$	_	7	poss	_
+7	comments	comment	NNS	_	4	dobj	4:A1=PPT
+8	/	/	SYM	p2=,	7	punct	_
+9	opinion	opinion	NN	_	7	appos	_
+10	on	on	IN	_	9	prep	_
+11	this	this	DT	_	12	det	_
+12	article	article	NN	_	10	pobj	_
+13	.	.	.	_	4	punct	_
+
+1	shown	show	VBN	pb=show.01	0	root	_
+2	in	in	IN	_	1	prep	1:AM-LOC
+3	the	the	DT	_	4	det	_
+4	image	image	NN	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Letters	letter	NNS	p2=NNPS	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	0	root	_
+3	not	not	RB	_	2	neg	2:AM-NEG
+4	case	case	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	sensitive	sensitive	JJ	_	2	acomp	2:A2=PRD
+7	.	.	.	_	2	punct	_
+

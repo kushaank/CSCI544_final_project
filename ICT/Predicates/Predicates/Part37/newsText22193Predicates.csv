@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Samsung,score.01,an own goal,,Affirmative,Samsung really did score an own goal when it tried to defend itself against Apple 's patent trolling by using its FRAND patents against its fruity rival . 
+Samsung,try.01,to defend itself against,,Affirmative,Samsung really did score an own goal when it tried to defend itself against Apple 's patent trolling by using its FRAND patents against its fruity rival . 
+Samsung,defend.01,Samsung,,Affirmative,Samsung really did score an own goal when it tried to defend itself against Apple 's patent trolling by using its FRAND patents against its fruity rival . 
+a company,agree.01,to license patents out to one another,,Affirmative," FRAND is when a company agrees to license patents out to one another under Fair , Reasonable , and Non-Discriminatory terms ( FRAND ) . "
+a company,license.01,patents that are considered to be standard essential,,Affirmative," FRAND is when a company agrees to license patents out to one another under Fair , Reasonable , and Non-Discriminatory terms ( FRAND ) . "
+Apple 's,go.02,on,,Affirmative,"When Apple went thermonuclear on its rival , Samsung tried to use its FRAND patents as a weapon , however courts said they couldn't . "
+Samsung,try.01,to use,,Affirmative,"When Apple went thermonuclear on its rival , Samsung tried to use its FRAND patents as a weapon , however courts said they couldn't . "
+Samsung,use.01,its FRAND patents,as,Affirmative,"When Apple went thermonuclear on its rival , Samsung tried to use its FRAND patents as a weapon , however courts said they couldn't . "
+the courts,say.01,they couldn't,,Affirmative,"When Apple went thermonuclear on its rival , Samsung tried to use its FRAND patents as a weapon , however courts said they couldn't . "
+the courts,find.01,that Samsung abused,,Affirmative," In Japan last year the courts found that Samsung abused their FRAND patents against Apple , but Samsung appealed the ruling . "
+Samsung,abuse.01,its FRAND patents,,Affirmative," In Japan last year the courts found that Samsung abused their FRAND patents against Apple , but Samsung appealed the ruling . "
+Samsung,appeal.01,the ruling,,Affirmative," In Japan last year the courts found that Samsung abused their FRAND patents against Apple , but Samsung appealed the ruling . "
+This,mean.01,had,,Affirmative,This meant that the court of appeals in Japan had to convene a Grand Panel to hear the case . 
+the court of appeals in Japan,convene.01,a Grand Panel,,Affirmative,This meant that the court of appeals in Japan had to convene a Grand Panel to hear the case . 
+the court of appeals in Japan,hear.01,the case,,Affirmative,This meant that the court of appeals in Japan had to convene a Grand Panel to hear the case . 
+a `` Grand Panel '',decide.01,ruling should stick,,Affirmative,Unfortunately for Samsung looks like the Grand Panel decided that the original ruling should stick . 

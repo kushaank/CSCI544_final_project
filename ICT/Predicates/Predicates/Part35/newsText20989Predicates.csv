@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Hospital,host.01,Donate Eight,,Affirmative,( 21Alive ) - Lutheran Children 's Hospital hosted Donate Eight to support children with cancer who are dealing with hair loss . 
+Hospital,support.01,children with cancer,,Affirmative,( 21Alive ) - Lutheran Children 's Hospital hosted Donate Eight to support children with cancer who are dealing with hair loss . 
+children with cancer,deal.01,with,,Affirmative,( 21Alive ) - Lutheran Children 's Hospital hosted Donate Eight to support children with cancer who are dealing with hair loss . 
+by,stop.01,Donators,,Affirmative,Donators stopped by the hospital to have eight inches of their hair cut . 
+People from across,donate.01,their hair and money,toward,Affirmative,People from across northeast Indiana donated their hair and money toward the cause . 
+the donations,help.01,children feel like,,Affirmative,"While managing a serious illness like cancer can be daunting for anyone , the donations can help the children feel like a kid again . "
+the children,feel.02,like,,Affirmative,"While managing a serious illness like cancer can be daunting for anyone , the donations can help the children feel like a kid again . "
+the children,have.03,problems with,,Affirmative,"My main thing was to help get the community involved and get some awareness for the children out there that might have problems with whatever health problems they have and what the public can do to make them feel better , said Mike James , event organizer . "
+they,have.03,problems with,,Affirmative,"My main thing was to help get the community involved and get some awareness for the children out there that might have problems with whatever health problems they have and what the public can do to make them feel better , said Mike James , event organizer . "
+the public,make.02,them feel better,,Affirmative,"My main thing was to help get the community involved and get some awareness for the children out there that might have problems with whatever health problems they have and what the public can do to make them feel better , said Mike James , event organizer . "
+them,feel.01,better,,Affirmative,"My main thing was to help get the community involved and get some awareness for the children out there that might have problems with whatever health problems they have and what the public can do to make them feel better , said Mike James , event organizer . "
+"Mike James ,",say.01,thing was,,Affirmative,"My main thing was to help get the community involved and get some awareness for the children out there that might have problems with whatever health problems they have and what the public can do to make them feel better , said Mike James , event organizer . "
+James,say.01,donations were received at,,Affirmative,James says 92 donations were received at the event . 
+CLICK,leave.01,us,,Affirmative,What are your thoughts CLICK HERE to leave us a Your2Cents comment . 

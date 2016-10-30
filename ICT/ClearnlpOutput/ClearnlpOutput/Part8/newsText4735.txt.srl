@@ -1,0 +1,81 @@
+1	Save	save	VB	p2=VBP|pb=save.01	0	root	_
+2	up	up	IN	p2=RB	4	quantmod	_
+3	to	to	TO	_	4	quantmod	_
+4	65	0	CD	_	5	num	_
+5	%	%	NN	_	1	dobj	1:A1=PPT
+6	when	when	WRB	_	8	advmod	8:R-AM-TMP
+7	you	you	PRP	_	8	nsubj	8:A0=PAG
+8	subscribe	subscribe	VBP	pb=subscribe.01	1	advcl	1:AM-TMP
+9	today	today	NN	_	8	npadvmod	8:AM-TMP
+10	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	3	det	_
+2	perfect	perfect	JJ	_	3	amod	_
+3	gift	gift	NN	_	0	root	_
+4	for	for	IN	_	3	prep	_
+5	any	any	DT	_	6	det	_
+6	holiday	holiday	NN	_	4	pobj	_
+7	or	or	CC	_	6	cc	_
+8	occasion	occasion	NN	_	6	conj	_
+9	.	.	.	_	3	punct	_
+
+1	New	new	JJ	p2=NNP	2	amod	_
+2	Comment	comment	NN	_	6	pobj	_
+3	You	you	PRP	_	5	nsubj	5:A0=PAG;8:A0=PAG
+4	must	must	MD	_	5	aux	5:AM-MOD;8:AM-MOD
+5	sign	sign	VB	pb=sign.01	0	root	_
+6	in	in	IN	p2=RP	5	prep	5:R-AM-LOC
+7	or	or	CC	_	5	cc	_
+8	register	register	VB	p2=NN|pb=register.02	5	conj	_
+9	as	as	IN	_	8	prep	8:A2=GOL
+10	a	a	DT	_	12	det	_
+11	ScientificAmerican.com	#url#	ADD	_	12	amod	_
+12	member	member	NN	_	9	pobj	14:A0=PAG
+13	to	to	TO	_	14	aux	_
+14	submit	submit	VB	pb=submit.01	12	infmod	_
+15	a	a	DT	_	16	det	_
+16	comment	comment	NN	_	14	dobj	14:A1=PPT
+17	.	.	.	_	5	punct	_
+
+1	michaelshermer	michaelshermer	JJ	p2=RBR	5	amod	_
+2	unrelated	unrelated	JJ	_	5	amod	_
+3	look	look	NN	p2=VB	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	alikes	alikes	NNS	p2=NN	6	nsubj	6:A0=CAU
+6	showed	show	VBD	pb=show.01	0	root	_
+7	little	little	JJ	_	8	amod	_
+8	similarity	similarity	NN	_	6	dobj	6:A1=PPT
+9	in	in	IN	_	8	prep	_
+10	personality	personality	NN	_	9	pobj	_
+11	or	or	CC	_	8	cc	_
+12	self	self	NN	_	14	hmod	_
+13	-	-	HYPH	_	14	hyph	_
+14	esteem	esteem	NN	_	8	conj	_
+15	.	.	.	_	6	punct	_
+
+1	Identical	identical	JJ	_	2	amod	_
+2	twins	twin	NNS	_	0	root	_
+3	...	..	.	_	2	punct	_
+
+1	likeness	likeness	NN	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	largely	largely	RB	_	4	advmod	_
+4	because	because	IN	_	2	prep	2:A2=PRD
+5	of	of	IN	_	4	pcomp	_
+6	genetics	genetics	NNS	_	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	©	©	NFP	p2=IN	2	punct	_
+2	2014	0	CD	_	4	num	_
+3	Scientific	scientific	NNP	p2=JJ	4	nn	_
+4	American	american	NNP	_	0	root	_
+5	,	,	,	_	4	punct	_
+6	a	a	DT	_	7	det	_
+7	Division	division	NNP	_	4	appos	_
+8	of	of	IN	_	7	prep	_
+9	Nature	nature	NNP	_	10	nn	_
+10	America	america	NNP	_	12	nn	_
+11	,	,	,	_	12	punct	_
+12	Inc	inc	NNP	_	8	pobj	_
+13	.	.	.	_	4	punct	_
+

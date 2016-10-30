@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The federal government,sue.01,the Mississippi,,Affirmative,The federal government sues Mississippi fairly often . 
+the Mississippi,sue.01,America,,Affirmative,"Less often , Mississippi sues America - but it does happen . "
+the state Department of Insurance,object.01,to,,Affirmative,"Two years ago , the state Department of Insurance objected in court to congressional action to sustain the National Flood Insurance Program . "
+the state Department of Insurance,sustain.01,Insurance Program,,Affirmative,"Two years ago , the state Department of Insurance objected in court to congressional action to sustain the National Flood Insurance Program . "
+The law,make.02,insurance cost,,Affirmative,The law made the insurance cost too much - way too much . 
+"Mike Chaney ,",drop.01,lawsuit,,Affirmative,"Last month Commissioner of Insurance Mike Chaney , a Republican , dropped the state 's lawsuit . "
+Owners of,buy.01,private policies,,Affirmative,The situation was this : Owners of private property in frequently flooded areas could not buy private policies to guard against flood losses . 
+Insurance companies,underwrite.01,the risk,,Affirmative,"Overland flooding - no. Insurance companies would not underwrite the risk , period . "
+private insurance companies,sell.01,the policies,,Affirmative,"Specifically , private insurance companies would still sell the policies , but at discounted rates backstopped by Uncle Sam . "
+by,backstop.01,discounted rates backstopped by,,Affirmative,"Specifically , private insurance companies would still sell the policies , but at discounted rates backstopped by Uncle Sam . "
+- owners,pay.01,the pre-flood value -,,Affirmative,"In the event of a claim , the property owner would be paid the cost of repairs with one important catch : A home or other structure would be totaled - owners paid the pre-flood value - if the damage was more than 50 percent . "
+cities and counties,agree.01,not to allow construction in,,Affirmative,"Further , cities and counties had to agree not to allow construction in a known flood area or allow rebuilding on a totaled site unless the floor level was above the flood level . "
+cities and counties,allow.01,construction,,Affirmative,"Further , cities and counties had to agree not to allow construction in a known flood area or allow rebuilding on a totaled site unless the floor level was above the flood level . "
+NFIP,toss.01,the tempests,,Affirmative,"Tossing aside the tempests that created , NFIP worked pretty well . "
+Property owners and,like.01,it,,Affirmative,Property owners and mortgage companies liked it because their investments were secure . 
+Insurance companies,love.01,the National Flood Insurance Program,,Affirmative,Insurance companies loved it because they faced zero risk . 
+they,face.01,zero risk,,Affirmative,Insurance companies loved it because they faced zero risk . 
+lenders,face.01,no risk,,Affirmative,"After all , lenders faced no risk in providing mortgages on homes and even apartment complexes , hotels , factories . "
+lenders,provide.01,mortgages,,Affirmative,"After all , lenders faced no risk in providing mortgages on homes and even apartment complexes , hotels , factories . "
+NFIP,borrow.01,$ 18 billion,from,Affirmative,"To pay claims , NFIP borrowed $ 18 billion from the treasury . "
+Congress,see.01,the program awash in,,Affirmative,"Seeing the program awash in red ink , Congress , with bipartisan support , restructured the program in July 2012 . "
+Congress,restructure.01,the program in July 2012,,Affirmative,"Seeing the program awash in red ink , Congress , with bipartisan support , restructured the program in July 2012 . "
+NFIP,pay.01,its own way,,Affirmative,"Problem was , that for NFIP to pay its own way , some property owners were facing 7,000 percent premium increases . "
+some property owners,face.01,percent premium increases,,Affirmative,"Problem was , that for NFIP to pay its own way , some property owners were facing 7,000 percent premium increases . "
+Time magazine,cite.01,Louisiana property owner,,Affirmative,"Time magazine cites one South Louisiana property owner whose annual flood insurance premium rose from $ 633 per year to $ 18,000 . "
+Democrats,need.01,Landrieu to be re-elected,,Affirmative,"To retain their slim Senate majority , Democrats need Louisiana 's Mary Landrieu to be re-elected . "
+one federal program,make.01,fiscal sense,,Affirmative,So the celebration by federal lawmakers of having at least one federal program that made fiscal sense was short - lived . 
+Mississippians in,pay.01,higher premiums,,Affirmative,"Mississippians in high - risk areas are paying ever - higher premiums for coverage , but those premiums still wo n't cover the total of potential claims the next time Mother Nature rampages . "
+those premiums,cover.01,the total of,,Affirmative,"Mississippians in high - risk areas are paying ever - higher premiums for coverage , but those premiums still wo n't cover the total of potential claims the next time Mother Nature rampages . "
+They,know.01,they still ca n't lose,,Affirmative,They know they still ca n't lose . 
+Voters,think.01,Democrat means,,Affirmative,Voters are indoctrinated to think Democrat means good and Republican means evil - or vice versa . 
+Congress,balance.01,one tiny component of,,Affirmative,"Consider Chaney , a champion of government living within its means , deciding to sue Congress for trying to balance one tiny component of the budget . "
+Senate Democrats,feel.01,compelled,,Affirmative,And consider how Senate Democrats felt compelled to make Landrieu look good to her voters . 
+Senate Democrats,make.02,Landrieu look good to,,Affirmative,And consider how Senate Democrats felt compelled to make Landrieu look good to her voters . 
+Landrieu,look.02,good to,,Affirmative,And consider how Senate Democrats felt compelled to make Landrieu look good to her voters . 
+government,do.02,good,,Affirmative,The NFIP is a wonderful case study is how government can do good . 

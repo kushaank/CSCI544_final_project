@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Nicholas Sexton , 33 , of Warwick , R.I.",enter.01,a courtroom,,Affirmative,"Nicholas Sexton , 33 , of Warwick , R.I. , enters a courtroom at the Penobscot Judicial Center , Thursday , May 1 , 2014 in Bangor , Maine . "
+"BANGOR ,",blame.01,all three murders,on,Affirmative,"BANGOR , Maine ( AP ) - One of two men accused of killing three people and burning their bodies after a drug dispute in Bangor , Maine , has blamed all three murders on his co-defendant in his testimony . "
+Prosecutors,say.01,shot and killed,,Affirmative,"Prosecutors say Nicholas Sexton of Warwick , Rhode Island , and Randall Daluz , of Brockton , Massachusetts , shot and killed the victims . "
+"Nicholas Sexton of Warwick ,",kill.01,the victims,,Affirmative,"Prosecutors say Nicholas Sexton of Warwick , Rhode Island , and Randall Daluz , of Brockton , Massachusetts , shot and killed the victims . "
+reports Sexton,testify.01,that Daluz shot,,Affirmative,"WZON - AM reports Sexton testified that Daluz shot the victims , two while driving near Orono , one while parked on a dirt road in Hermon . "
+Randall Daluz,shoot.02,the victims,,Affirmative,"WZON - AM reports Sexton testified that Daluz shot the victims , two while driving near Orono , one while parked on a dirt road in Hermon . "
+"Nicholas Sexton of Warwick , Rhode Island , and Randall Daluz , of Brockton , Massachusetts , shot",testify.01,Daluz ordered him,,Affirmative,Sexton also testified Daluz ordered him to burn the car in Bangor . 
+Randall Daluz,order.01,Randall Daluz,to burn,Affirmative,Sexton also testified Daluz ordered him to burn the car in Bangor . 
+Randall Daluz,burn.01,the car,,Affirmative,Sexton also testified Daluz ordered him to burn the car in Bangor . 
+defense team,present.01,its case,,Affirmative,"Daluz 's defense team is expected to present its case after Sexton 's defense rests , possibly Wednesday . "

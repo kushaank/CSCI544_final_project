@@ -1,0 +1,19 @@
+1	Seven	#crd#	CD	p2=NNP	3	nsubj	3:A0=PAG
+2	have	have	VBP	p2=VB	3	aux	_
+3	declared	declare	VBN	pb=declare.02	0	root	_
+4	candidacy	candidacy	NN	_	3	dobj	3:A1=PPT
+5	,	,	,	_	3	punct	_
+6	among	among	IN	_	3	prep	3:AM-LOC
+7	them	them	PRP	_	6	pobj	_
+8	MK	mk	NNP	_	10	nn	_
+9	Reuven	reuven	NNP	_	10	nn	_
+10	Rivlin	rivlin	NNP	_	3	dobj	14:A0=PAG;15:A0=PAG
+11	,	,	,	_	10	punct	_
+12	who	who	WP	_	14	nsubj	14:R-A0;15:R-A0
+13	has	have	VBZ	_	14	aux	_
+14	started	start	VBN	pb=start.01	10	rcmod	_
+15	campaigning	campaign	VBG	p2=NN|pb=campaign.01	14	xcomp	14:A1=PPT
+16	in	in	IN	p2=RP	15	prep	15:AM-MNR
+17	earnest	earnest	NN	p2=JJ	16	pobj	_
+18	.	.	.	_	3	punct	_
+

@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+At least thirty-two people,travel.01,the bus,,Affirmative,"At least thirty - two people , mostly children , have been killed after the bus they were traveling burst into flames in northern Colombia , media reports citing officials said Monday . "
+media reports citing officials,cite.01,officials,,Affirmative,"At least thirty - two people , mostly children , have been killed after the bus they were traveling burst into flames in northern Colombia , media reports citing officials said Monday . "
+the nineteen people,manage.02,to escape,,Affirmative,The driver of the bus was among the nineteen people who managed to escape the blaze . 
+the nineteen people,escape.01,the blaze,,Affirmative,The driver of the bus was among the nineteen people who managed to escape the blaze . 
+Local media,quote.01,survivors,as saying,Affirmative,Local media quoted survivors as saying that the mishap happened as the driver was attempting to start the faulty bus by pouring fuel from a canister into the engine . 
+Local media,say.01,mishap happened,,Affirmative,Local media quoted survivors as saying that the mishap happened as the driver was attempting to start the faulty bus by pouring fuel from a canister into the engine . 
+the bus driver,attempt.01,to start,,Affirmative,Local media quoted survivors as saying that the mishap happened as the driver was attempting to start the faulty bus by pouring fuel from a canister into the engine . 
+the bus driver,start.01,the faulty bus,,Affirmative,Local media quoted survivors as saying that the mishap happened as the driver was attempting to start the faulty bus by pouring fuel from a canister into the engine . 
+Police,launch.01,an investigation into,,Affirmative,Police have launched an investigation into the incident and taken the bus driver into custody . 
+Police,take.01,the bus driver,into custody,Affirmative,Police have launched an investigation into the incident and taken the bus driver into custody . 

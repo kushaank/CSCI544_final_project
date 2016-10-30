@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+chief Jaganmohan Reddy Monday,meet.02,prime ministerial nominee,,Affirmative,"New Delhi : YSR Congress chief Jaganmohan Reddy Monday met BJP 's prime ministerial nominee Narendra Modi , and said his party will give issue - based support to his government . "
+chief Jaganmohan Reddy Monday,say.01,party will give,,Affirmative,"New Delhi : YSR Congress chief Jaganmohan Reddy Monday met BJP 's prime ministerial nominee Narendra Modi , and said his party will give issue - based support to his government . "
+"his party , which has nine MPs",give.01,based support,to,Affirmative,"New Delhi : YSR Congress chief Jaganmohan Reddy Monday met BJP 's prime ministerial nominee Narendra Modi , and said his party will give issue - based support to his government . "
+"his party ,",have.03,nine MPs,,Affirmative,"Asked if his party , which has nine MPs , would join the National Democratic Alliance , Reddy said : BJP does not require the support of any political party . "
+"his party ,",join.01,the National Democratic Alliance,,Affirmative,"Asked if his party , which has nine MPs , would join the National Democratic Alliance , Reddy said : BJP does not require the support of any political party . "
+Jaganmohan Reddy,say.01,BJP does not require,,Affirmative,"Asked if his party , which has nine MPs , would join the National Democratic Alliance , Reddy said : BJP does not require the support of any political party . "
+BJP,require.01,the support of,,Affirmative,"Asked if his party , which has nine MPs , would join the National Democratic Alliance , Reddy said : BJP does not require the support of any political party . "
+nine MPs,have.03,282 MPs,,Affirmative,The fact is that they already have 282 MPs and they do n't need the support of any of us . 
+nine MPs,need.01,the support of any political party,,Affirmative,The fact is that they already have 282 MPs and they do n't need the support of any of us . 
+Andhra Pradesh,want.01,Jaganmohan Reddy,,Affirmative,"Andhra Pradesh wants him ( Modi ) , he said , adding that his party would extend issue - based support to the NDA government . "
+BJP 's prime ministerial nominee,say.01,Pradesh wants him,,Affirmative,"Andhra Pradesh wants him ( Modi ) , he said , adding that his party would extend issue - based support to the NDA government . "
+BJP 's prime ministerial nominee,add.01,party would extend,,Affirmative,"Andhra Pradesh wants him ( Modi ) , he said , adding that his party would extend issue - based support to the NDA government . "
+"his party , which has nine MPs",extend.02,based support,to,Affirmative,"Andhra Pradesh wants him ( Modi ) , he said , adding that his party would extend issue - based support to the NDA government . "
+Congress chief,submit.01,a memorandum to Modi,,Affirmative,"The YSR Congress chief also submitted a memorandum to Modi , asking him to ensure the promises made for Andhra Pradesh and Telangana are fulfilled . "
+Congress chief,ask.02,to ensure,him,Affirmative,"The YSR Congress chief also submitted a memorandum to Modi , asking him to ensure the promises made for Andhra Pradesh and Telangana are fulfilled . "
+The YSR Congress chief,ensure.01,are fulfilled,,Affirmative,"The YSR Congress chief also submitted a memorandum to Modi , asking him to ensure the promises made for Andhra Pradesh and Telangana are fulfilled . "
+Comments containing,contain.01,language,,Affirmative,Comments containing abusive and offensive language . 
+Comments targeting,target.01,"a specific community , caste , nationality or religion",,Affirmative,"Comments targeting a specific community , caste , nationality or religion . "

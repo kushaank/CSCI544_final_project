@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An inquiry,find.01,no police fault,,Affirmative,An inquiry has found no police fault over a body discovered in marshland days after a search was sparked by cries for help . 
+by cries for help,spark.01,a search,,Affirmative,An inquiry has found no police fault over a body discovered in marshland days after a search was sparked by cries for help . 
+a search,find.01,later located,,Affirmative,A search found nothing but a search for a missing hospital patient several days later located his body . 
+nothing but,locate.01,a body discovered in marshland days after a search was sparked by,,Affirmative,A search found nothing but a search for a missing hospital patient several days later located his body . 
+Commissioner,examine.01,the case,,Affirmative,The Police Investigations and Review Commissioner examined the case and was satisfied with the police response . 
+the farmer,report.01,shouting from,,Affirmative,"Four days earlier , after the farmer reported shouting from a field , police launched a search involving dogs and helicopters , but found no - one . "
+police,launch.01,a search involving dogs and helicopters,,Affirmative,"Four days earlier , after the farmer reported shouting from a field , police launched a search involving dogs and helicopters , but found no - one . "
+police,find.01,no - one,,Affirmative,"Four days earlier , after the farmer reported shouting from a field , police launched a search involving dogs and helicopters , but found no - one . "
+a man,leave.01,Crosshouse Hospital,,Affirmative,On 21 February Police Scotland began a missing person inquiry into a man last seen leaving Crosshouse Hospital several days before . 
+officers,find.01,body,,Affirmative,Officers found the man 's body in marshland the next day . 
+February Police Scotland,refer.02,the matter,to,Affirmative,Police Scotland referred the matter to the PIRC for an independent investigation . 
+Investigators,take.01,statements,from officers and witnesses,Affirmative,"Investigators took statements from officers and witnesses , examined police audio recordings , command and control incidents , statements and other documents . "
+Investigators,examine.01,police,,Affirmative,"Investigators took statements from officers and witnesses , examined police audio recordings , command and control incidents , statements and other documents . "
+Prof John McNeill,say.01,there is nothing,,Affirmative,Police Investigations Commissioner Prof John McNeill said : From all the available evidence there is nothing to suggest that the death of the man was attributable to any act or omission by officers of Police Scotland . 
+nothing,suggest.01,was attributable to,,Affirmative,Police Investigations Commissioner Prof John McNeill said : From all the available evidence there is nothing to suggest that the death of the man was attributable to any act or omission by officers of Police Scotland . 

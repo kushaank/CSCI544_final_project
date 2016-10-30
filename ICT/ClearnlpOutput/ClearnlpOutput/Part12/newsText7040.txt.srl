@@ -1,0 +1,63 @@
+1	Sign	sign	VB	p2=NN|pb=sign.04	0	root	_
+2	in	in	RP	p2=IN	1	prt	1:C-V
+3	to	to	TO	_	4	aux	_
+4	add	add	VB	pb=add.02	1	xcomp	1:A1=PPT
+5	this	this	DT	_	6	det	_
+6	video	video	NN	_	4	dobj	4:A1=PPT
+7	to	to	IN	_	4	prep	4:A2=PPT
+8	a	a	DT	_	9	det	_
+9	playlist	playlist	NN	_	7	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	A	a	DT	_	3	det	_
+2	new	new	JJ	_	3	amod	_
+3	report	report	NN	_	7	nsubj	7:A0=PAG
+4	from	from	IN	_	3	prep	_
+5	The	the	DT	_	6	det	_
+6	Intercept	intercept	NNP	_	4	pobj	_
+7	claims	claim	VBZ	pb=claim.01	0	root	_
+8	the	the	DT	_	11	det	_
+9	National	national	NNP	_	11	nn	_
+10	Security	security	NNP	_	11	nn	_
+11	Agency	agency	NNP	_	12	nsubj	12:A0=PAG
+12	records	record	VBZ	p2=NNS|pb=record.01	7	ccomp	7:A1=PPT
+13	full	full	JJ	_	14	amod	_
+14	audio	audio	NN	_	12	dobj	12:A1=PPT
+15	of	of	IN	_	14	prep	_
+16	every	every	DT	_	17	det	_
+17	call	call	NN	_	15	pobj	18:AM-PRR
+18	made	make	VBN	p2=VBD|pb=make.05	17	partmod	_
+19	on	on	IN	_	18	prep	18:AM-LOC
+20	the	the	DT	_	24	det	_
+21	Bahamas	bahamas	NNPS	p2=NNP	24	nn	_
+22	cell	cell	NN	p2=VBP	23	nn	_
+23	phone	phone	NN	_	24	nn	_
+24	network	network	NN	_	19	pobj	_
+25	.	.	.	_	7	punct	_
+
+1	Rating	rat	VBG	p2=NN	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	available	available	JJ	_	2	acomp	2:A2=PRD
+4	when	when	WRB	_	9	advmod	9:R-AM-TMP
+5	the	the	DT	_	6	det	_
+6	video	video	NN	_	9	nsubjpass	9:A1=PPT
+7	has	have	VBZ	_	9	aux	_
+8	been	be	VBN	_	9	auxpass	_
+9	rented	rent	VBN	pb=rent.01	2	advcl	2:AM-TMP
+10	.	.	.	_	2	punct	_
+
+1	This	this	DT	_	2	det	_
+2	feature	feature	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	not	not	RB	_	3	neg	3:AM-NEG
+5	available	available	JJ	_	3	acomp	3:A2=PRD
+6	right	right	RB	_	7	advmod	_
+7	now	now	RB	_	3	advmod	3:AM-TMP
+8	.	.	.	_	3	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	try	try	VB	pb=try.01	0	root	_
+3	again	again	RB	_	2	advmod	2:AM-TMP
+4	later	later	RB	_	2	advmod	2:AM-TMP
+5	.	.	.	_	2	punct	_
+

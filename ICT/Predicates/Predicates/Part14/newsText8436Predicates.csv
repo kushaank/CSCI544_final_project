@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two doctors at,sell.01,GTx stock,,Affirmative,Two doctors at a San Bernardino practice were accused of insider trading for selling GTx stock before the company announced that a clinical trial of its prostate cancer drug had been halted . 
+the company,announce.01,had been halted,,Affirmative,Two doctors at a San Bernardino practice were accused of insider trading for selling GTx stock before the company announced that a clinical trial of its prostate cancer drug had been halted . 
+Commission,accuse.01,Dr. Franklin Chu and,,Affirmative,The Securities and Exchange Commission accused Dr. Franklin Chu and Dr. Daniel Lama of insider trading after they avoided significant losses by selling shares of GTx Inc . 
+Lama,avoid.01,significant losses,,Affirmative,The Securities and Exchange Commission accused Dr. Franklin Chu and Dr. Daniel Lama of insider trading after they avoided significant losses by selling shares of GTx Inc . 
+Lama,sell.01,shares of,,Affirmative,The Securities and Exchange Commission accused Dr. Franklin Chu and Dr. Daniel Lama of insider trading after they avoided significant losses by selling shares of GTx Inc . 
+the Memphis company,disclose.01,it had been ordered,,Affirmative,before the Memphis company disclosed it had been ordered to stop testing the drug Capesaris . 
+it,stop.01,testing,,Affirmative,before the Memphis company disclosed it had been ordered to stop testing the drug Capesaris . 
+the Memphis company,test.01,the drug Capesaris,,Affirmative,before the Memphis company disclosed it had been ordered to stop testing the drug Capesaris . 
+a role,enable.01,to get,them,Affirmative,"Chu and Lama , who practice at San Bernardino Urological Associates Medical Group , had been involved in a clinical trial of the drug , a role that enabled them to get advance word that the Food and Drug Administration was halting the trial because of safety concerns . "
+them,get.01,advance word,,Affirmative,"Chu and Lama , who practice at San Bernardino Urological Associates Medical Group , had been involved in a clinical trial of the drug , a role that enabled them to get advance word that the Food and Drug Administration was halting the trial because of safety concerns . "
+Administration,halt.01,the trial,,Affirmative,"Chu and Lama , who practice at San Bernardino Urological Associates Medical Group , had been involved in a clinical trial of the drug , a role that enabled them to get advance word that the Food and Drug Administration was halting the trial because of safety concerns . "
+They,sell.01,shares of GTx,,Affirmative,"They sold shares of GTx several days before the company publicly announced the FDA 's decision , news that caused its stock to fall 36 % , the SEC said . "
+the company,announce.01,"decision , news",,Affirmative,"They sold shares of GTx several days before the company publicly announced the FDA 's decision , news that caused its stock to fall 36 % , the SEC said . "
+"decision , news",cause.01,stock to fall,,Affirmative,"They sold shares of GTx several days before the company publicly announced the FDA 's decision , news that caused its stock to fall 36 % , the SEC said . "
+the SEC,say.01,They sold shares of GTx,,Affirmative,"They sold shares of GTx several days before the company publicly announced the FDA 's decision , news that caused its stock to fall 36 % , the SEC said . "
+Franklin Chu,avoid.01,"$ 34,081 in losses",,Affirmative,"By selling ahead of the bad news , Chu avoided $ 34,081 in losses and Lama saved $ 11,502 , the SEC said in a lawsuit . "
+Lama,save.01,"$ 11,502",,Affirmative,"By selling ahead of the bad news , Chu avoided $ 34,081 in losses and Lama saved $ 11,502 , the SEC said in a lawsuit . "
+the SEC,say.01,", Chu avoided",,Affirmative,"By selling ahead of the bad news , Chu avoided $ 34,081 in losses and Lama saved $ 11,502 , the SEC said in a lawsuit . "
+Chu,agree.01,to pay,,Affirmative,"Chu agreed to pay $ 70,000 to settle the SEC case . "
+Chu,pay.01,"$ 70,000",,Affirmative,"Chu agreed to pay $ 70,000 to settle the SEC case . "
+Chu,settle.02,the SEC case,,Affirmative,"Chu agreed to pay $ 70,000 to settle the SEC case . "
+Lama,pay.01,"nearly $ 47,000",,Affirmative,"Lama will pay nearly $ 47,000 . "
+Two doctors at a San Bernardino practice,receive.01,advance notice of,,Affirmative,"The doctors had received advance notice of the FDA hold so they could safely remove patients from the drug trials as quickly as possible , the SEC said . "
+they,remove.01,patients,from,Affirmative,"The doctors had received advance notice of the FDA hold so they could safely remove patients from the drug trials as quickly as possible , the SEC said . "
+the SEC,say.01,doctors had received,,Affirmative,"The doctors had received advance notice of the FDA hold so they could safely remove patients from the drug trials as quickly as possible , the SEC said . "
+The doctors,settle.02,the case,,Affirmative,The doctors settled the case without admitting or denying the allegations . 
+The doctors,deny.01,the allegations,,Affirmative,The doctors settled the case without admitting or denying the allegations . 
+by telephone,reach.01,"Chu , reached by telephone",,Affirmative,"Chu , reached by telephone Monday , said he deeply regretted his actions . "
+"Chu , reached by telephone",say.01,he deeply regretted,,Affirmative,"Chu , reached by telephone Monday , said he deeply regretted his actions . "
+he,regret.01,his actions,,Affirmative,"Chu , reached by telephone Monday , said he deeply regretted his actions . "
+the doctor,say.01,I am,,Affirmative,"I am extremely sorry about what I did , the doctor said . "
+by this,devastate.01,I,,Affirmative,I 'm devastated by this . 
+"Chu , 62 ,",say.01,he intends,,Affirmative,"Chu , 62 , said he intends to continue practicing medicine . "
+"Chu , 62",intend.01,to continue practicing medicine,,Affirmative,"Chu , 62 , said he intends to continue practicing medicine . "
+"Chu , 62",continue.01,practicing medicine,,Affirmative,"Chu , 62 , said he intends to continue practicing medicine . "
+"Chu , 62",practice.01,medicine,,Affirmative,"Chu , 62 , said he intends to continue practicing medicine . "
+Lama,say.01,he did not know,,Affirmative,Lama said he did not know that it was wrong for him to sell when he did . 
+he,know.01,that it was wrong,,Affirmative,Lama said he did not know that it was wrong for him to sell when he did . 
+Lama,say.01,But unfortunately it happened,,Affirmative,"But unfortunately it happened , Lama said . "
+I,buy.01,stock,,Affirmative,I 've never bought stock before . 

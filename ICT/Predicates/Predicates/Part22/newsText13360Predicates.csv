@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,issue.01,"The following censorship instructions , issued to",to,Affirmative,"The following censorship instructions , issued to the media by government authorities , have been leaked and distributed online . "
+exploration vessel entering,enter.01,disputed waters,,Affirmative,A Chinese oil exploration vessel entering disputed waters has triggered violent protests in Vietnam . 
+exploration vessel entering,trigger.01,violent protests in Vietnam,,Affirmative,A Chinese oil exploration vessel entering disputed waters has triggered violent protests in Vietnam . 
+Rioters,target.01,factories,,Affirmative,"Rioters have targeted Chinese and Taiwanese factories , setting fires and looting buildings . "
+Rioters,set.02,fires,,Affirmative,"Rioters have targeted Chinese and Taiwanese factories , setting fires and looting buildings . "
+Rioters,loot.01,buildings,,Affirmative,"Rioters have targeted Chinese and Taiwanese factories , setting fires and looting buildings . "
+China 's,evacuate.01,"3,000 people",,Affirmative,"China has evacuated over 3,000 people . "
+blog post,assert.02,beginning with,,Affirmative,"The December 2013 blog post asserts that China 's century of humiliation beginning with the Opium War , and previous conquest of the empire by the likes of the Mongols and the Manchu , happened not because China was backward , but because it was corrupt and poorly governed . "
+  Mingjing News,republish.01,the post [ Chinese ],,Affirmative,  Mingjing News republished the post [ Chinese ] on May 16 . 
+CDT,collect.01,directives from,,Affirmative,CDT collects directives from a variety of sources and checks them against official Chinese media reports to confirm their implementation . 
+CDT,check.01,"3,000 people",against,Affirmative,CDT collects directives from a variety of sources and checks them against official Chinese media reports to confirm their implementation . 
+"journalists and editors ,",leak.01,journalists and editors,,Affirmative,"Since directives are sometimes communicated orally to journalists and editors , who then leak them online , the wording published here may not be exact . "
+The date given,indicate.01,"directive was leaked ,",,Affirmative,"The date given may indicate when the directive was leaked , rather than when it was issued . "
+CDT,do.02,its utmost,,Affirmative,"CDT does its utmost to verify dates and wording , but also takes precautions to protect the source . "
+CDT,verify.01,dates and wording,,Affirmative,"CDT does its utmost to verify dates and wording , but also takes precautions to protect the source . "
+CDT,take.01,precautions,,Affirmative,"CDT does its utmost to verify dates and wording , but also takes precautions to protect the source . "

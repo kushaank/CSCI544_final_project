@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+governor Martin O'Malley,veto.01,a state bill,,Affirmative,UNITED STATES : Maryland governor Martin O'Malley has vetoed a state bill that would have blocked a proposed 150MW wind farm due to its location near a naval base . 
+a state bill,block.01,a proposed 150MW wind farm,,Affirmative,UNITED STATES : Maryland governor Martin O'Malley has vetoed a state bill that would have blocked a proposed 150MW wind farm due to its location near a naval base . 
+The Democratic governor,say.01,that he decided,,Affirmative,The Democratic governor said that he decided to take action due to the chilling message that would have been sent to the renewables industry if the law had passed . 
+The Democratic governor,decide.01,to take action due to,,Affirmative,The Democratic governor said that he decided to take action due to the chilling message that would have been sent to the renewables industry if the law had passed . 
+developers,instal.01,turbines,within,Affirmative,"Under the bill , developers would have been barred from installing turbines within a 56 - mile ( 90 - kilometre ) radius of the Patuxent River naval air station in Somerset county . "
+This,hit.01,"Bay wind farm ,",,Affirmative,"This would have hit the 150MW Great Bay wind farm , which falls within the restricted area . "
+developer Pioneer Green Energy,say.01,would mean,,Affirmative,Project developer Pioneer Green Energy had said that any delay to the start of construction of the project would mean it would not go ahead . 
+any delay to,mean.01,it would not go ahead,,Affirmative,Project developer Pioneer Green Energy had said that any delay to the start of construction of the project would mean it would not go ahead . 
+Pioneer Green,think.01,that it had reached,,Affirmative,Pioneer Green had previously thought that it had reached a compromise with the navy that would protect the radar capabilities at the Patuxent River base simply by turning the turbines off during test flights . 
+Project developer Pioneer Green Energy,reach.01,a compromise with,,Affirmative,Pioneer Green had previously thought that it had reached a compromise with the navy that would protect the radar capabilities at the Patuxent River base simply by turning the turbines off during test flights . 
+the navy,protect.01,the radar capabilities at,,Affirmative,Pioneer Green had previously thought that it had reached a compromise with the navy that would protect the radar capabilities at the Patuxent River base simply by turning the turbines off during test flights . 
+lawmakers,vote.01,to introduce,,Affirmative,"However , the state 's lawmakers voted to introduce the moratorium in the final days of the legislative session . "
+lawmakers,introduce.02,the moratorium in,,Affirmative,"However , the state 's lawmakers voted to introduce the moratorium in the final days of the legislative session . "
+veto,anger.01,those legislators,,Affirmative,The governor 's veto is likely to anger those legislators who voted 122-12 in the House of Delegates and 31-16 in the Senate in favour of the bill . 
+those legislators,vote.01,122-12 in,,Affirmative,The governor 's veto is likely to anger those legislators who voted 122-12 in the House of Delegates and 31-16 in the Senate in favour of the bill . 
+you,see.01,a comment,,Affirmative,"If you see a comment you find offensive , you can flag it as inappropriate . "
+you,find.01,offensive,,Affirmative,"If you see a comment you find offensive , you can flag it as inappropriate . "
+you,flag.01,a comment you find offensive,as inappropriate,Affirmative,"If you see a comment you find offensive , you can flag it as inappropriate . "
+you,see.01,flag,,Affirmative,"In the top right - hand corner of an individual comment , you will see ' flag as inappropriate ' . "
+this,prompt.02,us,to review,Affirmative,Clicking this prompts us to review the comment . 
+us,review.01,an individual comment,,Affirmative,Clicking this prompts us to review the comment . 

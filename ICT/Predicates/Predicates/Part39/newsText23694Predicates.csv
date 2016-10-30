@@ -1,0 +1,58 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+more people,join.01,its network,,Affirmative,"EE 's 4G performance is starting to suffer as more people join its network , according to network monitoring firm RootMetrics . "
+by RootMetrics,publish.01,Test results published by RootMetrics,,Affirmative,"Test results published by RootMetrics in March said that EE had the fastest and most reliable mobile network in the UK , although only EE had a fully operational 4G network for the full duration of the testing period . "
+Test results published by RootMetrics,say.01,that EE had,,Affirmative,"Test results published by RootMetrics in March said that EE had the fastest and most reliable mobile network in the UK , although only EE had a fully operational 4G network for the full duration of the testing period . "
+EE,have.03,mobile network in,,Affirmative,"Test results published by RootMetrics in March said that EE had the fastest and most reliable mobile network in the UK , although only EE had a fully operational 4G network for the full duration of the testing period . "
+EE,have.03,operational 4G network for,,Affirmative,"Test results published by RootMetrics in March said that EE had the fastest and most reliable mobile network in the UK , although only EE had a fully operational 4G network for the full duration of the testing period . "
+RootMetrics ',begin.01,to see,,Affirmative,"Now , however , RootMetrics is beginning to see EE 's speeds slope off , as the network becomes more congested . "
+RootMetrics ',see.01,"speeds slope off ,",,Affirmative,"Now , however , RootMetrics is beginning to see EE 's speeds slope off , as the network becomes more congested . "
+RootMetrics ',see.01,EE slow down,,Affirmative,We 've started to see some EE slow down ... 
+we,see.01,a speed up on,,Affirmative,"and we 're seeing a speed up on all the other networks because they 've [ now ] got LTE , said RootMetrics CEO , Bill Moore , speaking exclusively to PC Pro . "
+they,get.01,LTE,,Affirmative,"and we 're seeing a speed up on all the other networks because they 've [ now ] got LTE , said RootMetrics CEO , Bill Moore , speaking exclusively to PC Pro . "
+"RootMetrics CEO ,",say.01,and we 're seeing,,Affirmative,"and we 're seeing a speed up on all the other networks because they 've [ now ] got LTE , said RootMetrics CEO , Bill Moore , speaking exclusively to PC Pro . "
+Bill Moore,say.01,is,,Affirmative,"Moore said the pattern of EE 's performance is very similar to what happened in the US , when an early leader was dragged back into the pack . "
+Moore,say.01,LTE has been in,,Affirmative,"LTE has been in the US for an extra 12 to 24 months , said Moore . "
+we,watch.01,the leader,,Affirmative,"And we 've watched the leader within the marketplace - who had a about a year lead on everybody else , similar to what EE had here - [ and ] they were the fastest in year one . "
+EE,say.01,it has,,Affirmative,EE says it has extra spectrum capacity to help it deal with demand on its network . 
+it,have.03,extra spectrum capacity,,Affirmative,EE says it has extra spectrum capacity to help it deal with demand on its network . 
+it,deal.01,with demand on,,Affirmative,EE says it has extra spectrum capacity to help it deal with demand on its network . 
+we,bring.01,more customers,,Affirmative,"Our strategy is very clearly based on the knowledge that as we bring more customers on to the 4G network , we need to introduce more spectrum . "
+we,need.01,to introduce,,Affirmative,"Our strategy is very clearly based on the knowledge that as we bring more customers on to the 4G network , we need to introduce more spectrum . "
+we,introduce.02,more spectrum,,Affirmative,"Our strategy is very clearly based on the knowledge that as we bring more customers on to the 4G network , we need to introduce more spectrum . "
+Pro,launch.01,double speed,,Affirmative,"That 's why we launched ' double speed ' last year in our busiest markets , doubling the amount of spectrum from 10MHz to 20MHz of 1800MHz - to ensure that there 's a consistently fast speed available to all customers . "
+Pro,double.01,the amount of spectrum,,Affirmative,"That 's why we launched ' double speed ' last year in our busiest markets , doubling the amount of spectrum from 10MHz to 20MHz of 1800MHz - to ensure that there 's a consistently fast speed available to all customers . "
+Vodafone and O2,show.01,substantive speed increases,,Affirmative,Vodafone and O2 are showing substantive speed increases . 
+they,have.03,little last year,,Affirmative,This is expected with their deployment of LTE since they had very little last year . 
+We,see.01,slight speed increases with Three,,Affirmative,We are seeing slight speed increases with Three as it begins its LTE deployment . 
+Three,begin.01,its LTE deployment,,Affirmative,We are seeing slight speed increases with Three as it begins its LTE deployment . 
+we,see.01,it maintaining speeds on average across,,Affirmative,With EE we are seeing it maintaining speeds on average across the markets . 
+it,maintain.01,speeds on average across,,Affirmative,With EE we are seeing it maintaining speeds on average across the markets . 
+both of which,increase.01,its average speed,,Affirmative,"This is likely due to three variables : its expansion of LTE coverage , the deployment of the AWS technology , both of which would increase its average speed , and third , increased installed base providing some slow down . "
+installed base providing,provide.01,some slow,,Affirmative,"This is likely due to three variables : its expansion of LTE coverage , the deployment of the AWS technology , both of which would increase its average speed , and third , increased installed base providing some slow down . "
+it,maintain.01,its speed,,Affirmative,"Adding all three variables together , it is maintaining its speed . "
+we,see.01,the rate of,,Affirmative,What is slowing down is the rate of speed increases we saw from last year . 
+"by Vodafone ,",dispute.01,The results of,,Affirmative,"The results of RootMetrics ' last round of tests were hotly disputed by Vodafone , which accused the firm of carrying out testing that does not appear to follow standard industry practices or is fully impartial , presumably a reference to the fact that EE is a customer of RootMetrics . "
+"Vodafone ,",accuse.01,the firm,of carrying out testing,Affirmative,"The results of RootMetrics ' last round of tests were hotly disputed by Vodafone , which accused the firm of carrying out testing that does not appear to follow standard industry practices or is fully impartial , presumably a reference to the fact that EE is a customer of RootMetrics . "
+the firm,carry.03,testing,,Affirmative,"The results of RootMetrics ' last round of tests were hotly disputed by Vodafone , which accused the firm of carrying out testing that does not appear to follow standard industry practices or is fully impartial , presumably a reference to the fact that EE is a customer of RootMetrics . "
+Moore,refute.01,allegations,,Affirmative,"Moore refuted Vodafone 's allegations , claiming that RootMetrics was the only company providing real - world testing of network performance in the UK . "
+Moore,claim.01,that RootMetrics was,,Affirmative,"Moore refuted Vodafone 's allegations , claiming that RootMetrics was the only company providing real - world testing of network performance in the UK . "
+the only company providing,provide.01,world testing of,,Affirmative,"Moore refuted Vodafone 's allegations , claiming that RootMetrics was the only company providing real - world testing of network performance in the UK . "
+He,claim.01,testing harks from,,Affirmative,"He claimed that most mobile network testing harks from the carphone era , and consists of test vehicles driving around to monitor coverage . "
+network testing,hark.01,from,,Affirmative,"He claimed that most mobile network testing harks from the carphone era , and consists of test vehicles driving around to monitor coverage . "
+Indoor coverage,lower.01,the gain on,,Affirmative,"Indoor coverage is simulated by lowering the gain on the antenna , instead of actually testing indoors . "
+RootMetrics,conduct.01,its testing using,,Affirmative,"RootMetrics conducts its testing using off - the - shelf handsets , which it buys from the networks ' own stores , instead of specialist test equipment . "
+it,buy.01,"shelf handsets ,",from,Affirmative,"RootMetrics conducts its testing using off - the - shelf handsets , which it buys from the networks ' own stores , instead of specialist test equipment . "
+RootMetrics ',take.01,their entire portfolio of,,Affirmative,"We take their entire portfolio of hero devices , and we benchmark those behind the scenes , said Moore . "
+we,benchmark.01,those behind,,Affirmative,"We take their entire portfolio of hero devices , and we benchmark those behind the scenes , said Moore . "
+Moore,say.01,We take,,Affirmative,"We take their entire portfolio of hero devices , and we benchmark those behind the scenes , said Moore . "
+We,select.01,the phone,,Affirmative,We select the phone that is effectively going to show them [ the network ] in the best light - it 's a best - case scenario . 
+the phone,show.01,[ the network ] in,them,Affirmative,We select the phone that is effectively going to show them [ the network ] in the best light - it 's a best - case scenario . 
+Moore,say.01,is really,,Affirmative,"Our claim to fame is really to be as close as possible to what the consumer actually experiences , said Moore . "
+Most testing,have.03,its methodology dictated by,,Affirmative,"Most testing that takes place out there has been contracted for , and had its methodology dictated by , the operators themselves . "
+by,dictate.01,its methodology dictated by,,Affirmative,"Most testing that takes place out there has been contracted for , and had its methodology dictated by , the operators themselves . "
+We,determine.01,methodology is,,Affirmative,We determine what the methodology is . 
+Moore,say.01,RootMetrics listened to,,Affirmative,"Moore said RootMetrics listened to anyone 's input on test methodology , but denied it had made any specific changes to its testing at the behest of EE . "
+RootMetrics,listen.01,to,,Affirmative,"Moore said RootMetrics listened to anyone 's input on test methodology , but denied it had made any specific changes to its testing at the behest of EE . "
+RootMetrics,deny.01,it had made,,Affirmative,"Moore said RootMetrics listened to anyone 's input on test methodology , but denied it had made any specific changes to its testing at the behest of EE . "
+tips,visit.01,our hub,,Affirmative,For helpful info and tips visit our hub . 
+You,need.01,to Login or Register,,Affirmative,You need to Login or Register to comment . 

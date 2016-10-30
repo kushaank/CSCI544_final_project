@@ -1,0 +1,103 @@
+1	Gritty drug saga 	gritty drug saga 	NNP	p2=VB	5	nn	_
+2	"	"	``	_	5	punct	_
+3	Breaking Bad	breaking bad	NNP	_	5	nn	_
+4	"	"	''	_	5	punct	_
+5	 on Monday won the best drama series award at the Primetime Emmys	 on monday won the best drama series award at the primetime emmys	NNS	p2=''	0	root	_
+6	,	,	,	_	5	punct	_
+7	 US television's highest honours	 us television's highest honours	NNS	p2=''	5	conj	_
+8	.	.	.	_	7	punct	_
+
+1	European	european	JJ	_	6	amod	_
+2	low	low	JJ	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	cost	cost	NN	_	6	nn	_
+5	airline	airline	NN	_	6	nn	_
+6	Ryanair	ryanair	NNP	_	8	poss	_
+7	's	's	POS	_	6	possessive	_
+8	profits	profit	NNS	_	10	nsubj	10:A0
+9	have	have	VBP	_	10	aux	_
+10	taken	take	VBN	pb=take.01	0	root	_
+11	a	a	DT	_	12	det	_
+12	dive	diva	NN	_	10	dobj	10:A1=PPT
+13	for	for	IN	_	12	prep	_
+14	the	the	DT	_	16	det	_
+15	first	#ord#	JJ	_	16	amod	_
+16	time	time	NN	_	13	pobj	_
+17	in	in	IN	_	16	prep	_
+18	five	#crd#	CD	_	19	num	_
+19	years	year	NNS	_	17	pobj	_
+20	.	.	.	_	10	punct	_
+
+1	The	the	DT	_	3	det	_
+2	Irish	irish	JJ	p2=NNP	3	amod	_
+3	firm	firm	NN	_	4	nsubj	4:A0=PAG
+4	earned	earn	VBD	pb=earn.01	0	root	_
+5	523	0	CD	_	6	number	_
+6	million	#crd#	CD	_	7	num	_
+7	euros	euro	NNS	_	4	dobj	4:A1=PPT
+8	after	after	IN	_	4	prep	4:AM-TMP
+9	tax	tax	NN	_	8	pobj	_
+10	in	in	IN	_	4	prep	4:AM-TMP
+11	the	the	DT	_	12	det	_
+12	year	year	NN	_	10	pobj	_
+13	to	to	IN	_	4	prep	_
+14	March	march	NNP	_	13	pobj	_
+15	.	.	.	_	4	punct	_
+
+1	That	that	DT	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	fall	fall	NN	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	8	0	CD	_	7	num	_
+7	percent	percent	NN	_	5	pobj	_
+8	on	on	IN	_	4	prep	_
+9	the	the	DT	_	11	det	_
+10	previous	previous	JJ	_	11	amod	_
+11	year	year	NN	_	8	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	Ryanair	ryanair	NNP	p2=,	2	nsubj	2:A0=PAG
+2	issued	issue	VBD	pb=issue.01	0	root	_
+3	its	its	PRP$	_	6	poss	_
+4	first	#ord#	JJ	_	6	amod	_
+5	profit	profit	NN	_	6	nn	_
+6	warnings	warning	NNS	_	2	dobj	2:A1=PPT
+7	last	last	JJ	_	8	amod	_
+8	year	year	NN	_	2	npadvmod	2:AM-TMP
+9	.	.	.	_	2	punct	_
+
+1	But	but	CC	_	4	cc	4:AM-DIS
+2	the	the	DT	_	3	det	_
+3	result	result	NN	_	4	nsubj	4:A1=PPT
+4	was	be	VBD	pb=be.01	0	root	_
+5	better	good	JJR	_	4	acomp	4:A2=PRD
+6	than	than	IN	_	11	mark	_
+7	the	the	DT	_	8	det	_
+8	firm	firm	NN	_	11	nsubj	11:A0=PAG
+9	itself	itself	PRP	_	8	appos	_
+10	had	have	VBD	_	11	aux	_
+11	forecast	forecast	VBN	p2=NN|pb=forecast.01	5	advcl	_
+12	.	.	.	_	4	punct	_
+
+1	It	it	PRP	_	3	nsubj	3:A0=CAU
+2	had	have	VBD	_	3	aux	_
+3	predicted	predict	VBN	pb=predict.01	0	root	_
+4	its	its	PRP$	_	8	poss	_
+5	after	after	IN	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	tax	tax	NN	_	8	nn	_
+8	profit	profit	NN	_	13	nsubj	13:A1=PPT
+9	for	for	IN	_	8	prep	_
+10	last	last	JJ	_	11	amod	_
+11	year	year	NN	_	9	pobj	_
+12	would	would	MD	_	13	aux	13:AM-MOD
+13	be	be	VB	pb=be.01	3	ccomp	3:A1=PPT
+14	between	between	IN	_	15	quantmod	_
+15	500	0	CD	_	19	num	_
+16	and	and	CC	_	15	cc	_
+17	520	0	CD	_	18	number	_
+18	million	#crd#	CD	_	15	conj	_
+19	euros	euro	NNS	_	13	attr	13:A2=PRD
+20	.	.	.	_	3	punct	_
+

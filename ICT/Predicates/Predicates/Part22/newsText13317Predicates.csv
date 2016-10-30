@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+it,reject.01,a takeover bid,,Affirmative,"LONDON May 19 ( Reuters ) - European stocks edged lower on Monday , with British pharma group AstraZeneca weighing after it rejected a takeover bid , while broader sentiment was capped by an uncertain economic picture . "
+by,cap.01,broader sentiment,,Affirmative,"LONDON May 19 ( Reuters ) - European stocks edged lower on Monday , with British pharma group AstraZeneca weighing after it rejected a takeover bid , while broader sentiment was capped by an uncertain economic picture . "
+"AstraZeneca weighing after it rejected a takeover bid , while broader sentiment was capped by an uncertain economic picture",reject.01,a sweetened final offer from Pfizer,,Affirmative,"Shares in AstraZeneca fell 12.8 percent after it rejected a sweetened final offer from Pfizer , leaving it uncertain if the U.S. drugmaker would pull off its plan to create the world 's biggest pharmaceuticals group . "
+the U.S. drugmaker,pull.01,its plan,,Affirmative,"Shares in AstraZeneca fell 12.8 percent after it rejected a sweetened final offer from Pfizer , leaving it uncertain if the U.S. drugmaker would pull off its plan to create the world 's biggest pharmaceuticals group . "
+The stock,knock.01,2 points,off,Affirmative,"The stock knocked 2 points off the pan-European FTSEurofirst 300 index , which was down 2.8 points , or 0.3 percent , at 1,358.21 points at 0708 GMT . "
+China,tighten.01,its grip on,,Affirmative,News that China is tightening its grip on interbank lending to defuse risks in shadow banks capped investor sentiment in Asia overnight . 
+China,defuse.01,risks in,,Affirmative,News that China is tightening its grip on interbank lending to defuse risks in shadow banks capped investor sentiment in Asia overnight . 
+News,cap.02,investor sentiment,,Affirmative,News that China is tightening its grip on interbank lending to defuse risks in shadow banks capped investor sentiment in Asia overnight . 
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

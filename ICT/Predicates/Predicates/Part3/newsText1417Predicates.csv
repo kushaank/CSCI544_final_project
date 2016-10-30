@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+GARDAÍ,arrested.01,old man today,,Affirmative,GARDAÍ ARRESTED A 41 - year - old man today in connection with a carjacking last week . 
+they,say.01,man will appear in court,,Affirmative,"This evening , they said that the man will appear in court tomorrow morning charged in relation to the hijacking and robbery . "
+Man,claim.01,to have,,Affirmative,"The man claimed to have a weapon , and forced the woman to drive to her home , retrieve bank cards , and withdraw cash . "
+Man,have.03,a weapon,,Affirmative,"The man claimed to have a weapon , and forced the woman to drive to her home , retrieve bank cards , and withdraw cash . "
+Man,force.01,the woman,to drive to,Affirmative,"The man claimed to have a weapon , and forced the woman to drive to her home , retrieve bank cards , and withdraw cash . "
+the woman,retrieve.01,bank cards,,Affirmative,"The man claimed to have a weapon , and forced the woman to drive to her home , retrieve bank cards , and withdraw cash . "
+Man,force.01,the woman,to drive,Affirmative,"He then forced her to drive the car to Portobello at which point he left the car , gardaí say . "
+the woman,drive.01,the car,,Affirmative,"He then forced her to drive the car to Portobello at which point he left the car , gardaí say . "
+Man,leave.01,the car,,Affirmative,"He then forced her to drive the car to Portobello at which point he left the car , gardaí say . "
+gardaí,say.01,He then forced her,,Affirmative,"He then forced her to drive the car to Portobello at which point he left the car , gardaí say . "
+Email Man,charge.06,hijacked,,Affirmative,Email Man charged over car hijacked last week with two children inside . 
+TheJournal.ie,use.01,cookies,to improve,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+TheJournal.ie,improve.01,your experience,,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+TheJournal.ie,provide.01,services and advertising,,Affirmative,Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising . 
+by,provided.01,News images provided by,,Affirmative,News images provided by Press Association and Photocall Ireland unless otherwise stated . 
+by,provided.01,Irish sport images provided by,,Affirmative,Irish sport images provided by Inpho Photography unless otherwise stated . 
+by,provided.01,Wire service provided by,,Affirmative,Wire service provided by Associated Press . 
+"user created content , posts , comments , submissions or preferences",create.01,"content , posts , comments , submissions or preferences",,Affirmative,"Journal Media does not control and is not responsible for user created content , posts , comments , submissions or preferences . "

@@ -1,0 +1,76 @@
+1	Apparently	apparently	RB	_	3	advmod	3:AM-ADV
+2	Twitch	twitch	NNP	p2=RB	3	nsubj	3:A0=PAG
+3	had	have	VBD	pb=have.03	0	root	_
+4	similar	similar	JJ	_	5	amod	_
+5	offers	offer	NNS	_	3	dobj	3:A1=PPT
+6	from	from	IN	_	5	prep	_
+7	other	other	JJ	_	9	amod	_
+8	interested	interested	JJ	_	9	amod	_
+9	suitors	suitor	NNS	_	6	pobj	_
+10	including	include	VBG	_	9	prep	_
+11	Microsoft	microsoft	NNP	p2=NN	10	pobj	_
+12	and	and	CC	_	11	cc	_
+13	venture	venture	NN	_	14	nn	_
+14	capitalists	capitalist	NNS	_	11	conj	_
+15	,	,	,	_	3	punct	_
+16	but	but	CC	_	3	cc	_
+17	the	the	DT	_	18	det	_
+18	company	company	NN	_	19	nsubj	19:A0=PAG
+19	decided	decide	VBD	pb=decide.01	3	conj	_
+20	that	that	IN	_	29	complm	_
+21	a	a	DT	_	22	det	_
+22	partnership	partnership	NN	_	29	nsubj	29:A1=PPT
+23	with	with	IN	_	22	prep	_
+24	Google	google	NNP	_	26	hmod	_
+25	-	-	HYPH	_	26	hyph	_
+26	owned	own	VBN	_	27	amod	_
+27	YouTube	youtube	NNP	p2=NN	23	pobj	_
+28	would	would	MD	_	29	aux	29:AM-MOD
+29	be	be	VB	pb=be.01	19	ccomp	19:A1=PPT
+30	more	more	RBR	_	31	advmod	_
+31	beneficial	beneficial	JJ	_	29	acomp	29:A2=PRD
+32	,	,	,	_	29	punct	_
+33	as	as	IN	_	36	mark	_
+34	Google	google	NNP	_	36	nsubj	36:A0=PAG
+35	would	would	MD	_	36	aux	36:AM-MOD
+36	have	have	VB	pb=have.03	29	advcl	29:AM-ADV
+37	the	the	DT	_	38	det	_
+38	ability	ability	NN	_	36	dobj	36:A1=PPT
+39	really	really	RB	_	41	advmod	41:AM-ADV
+40	help Twitch	help twitch	NNP	p2=JJ	41	nsubj	41:A1=PRD
+41	grow	grow	VB	p2=NN|pb=grow.03	38	rcmod	_
+42	.	.	.	_	19	punct	_
+
+1	A	a	DT	_	2	det	_
+2	person	person	NN	_	7	nsubj	7:A0
+3	familiar	familiar	JJ	_	2	amod	_
+4	with	with	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	matter	matter	NN	_	4	pobj	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	the	the	DT	_	18	det	_
+9	company would	company would	MD	p2=VBN	11	aux	11:AM-MOD
+10	have	have	VB	p2=VBP	11	aux	_
+11	rejected	reject	VBN	pb=reject.01	7	ccomp	7:A1=PPT
+12	a	a	DT	_	16	det	_
+13	billion	#crd#	CD	_	15	hmod	_
+14	-	-	HYPH	_	15	hyph	_
+15	dollar	dollar	NN	_	16	nn	_
+16	offer	offer	NN	_	11	dobj	11:A1=PPT
+17	from	from	IN	_	16	prep	_
+18	companies	company	NNS	_	17	pobj	_
+19	other	other	JJ	_	18	amod	_
+20	than	than	IN	_	19	prep	_
+21	YouTube	youtube	NNP	p2=PRP	20	pobj	_
+22	.	.	.	_	7	punct	_
+
+1	Google	google	NNP	_	4	nn	_
+2	and	and	CC	_	1	cc	_
+3	Twitch	twitch	NNP	_	1	conj	_
+4	have yet	have yet	NNP	p2=VBD	0	root	_
+5	to	to	TO	_	6	aux	_
+6	make	make	VB	pb=make.LV	4	advcl	_
+7	the	the	DT	_	8	det	_
+8	deal official	deal official	NN	p2=NNP	6	dobj	6:A1
+9	.	.	.	_	4	punct	_
+

@@ -1,0 +1,29 @@
+1	Crime	crime	NNP	p2=NN	2	nn	_
+2	Scene	scene	NNP	_	6	nn	_
+3	image	image	NN	_	4	nn	_
+4	copyright	copyright	NN	_	6	nn	_
+5	Midwest	midwest	NNP	_	6	nn	_
+6	Communications	communication	NNPS	p2=NNP	8	nn	_
+7	,	,	,	_	8	punct	_
+8	Inc	inc	NNP	_	0	root	_
+9	.	.	.	_	8	punct	_
+
+1	Mayor	mayor	NNP	_	3	nn	_
+2	Tom	tom	NNP	_	3	nn	_
+3	Barrett	barrett	NNP	_	4	nsubj	4:A0
+4	said	say	VBD	pb=say.01	0	root	_
+5	over	over	IN	_	6	quantmod	_
+6	350	0	CD	_	7	num	_
+7	firearms	firearm	NNS	_	9	nsubjpass	9:A1=PPT
+8	were	be	VBD	_	9	auxpass	_
+9	given	give	VBN	pb=give.01	4	ccomp	4:A1=PPT
+10	up	up	RP	_	9	prt	9:C-V
+11	--	--	:	_	9	punct	_
+12	including	include	VBG	_	9	prep	_
+13	four	#crd#	CD	_	17	num	_
+14	assault	assault	NN	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	type	type	NN	_	17	nn	_
+17	weapons	weapon	NNS	_	12	pobj	_
+18	.	.	.	_	4	punct	_
+

@@ -1,0 +1,101 @@
+1	>>	>>	NFP	p2=XX	2	punct	_
+2	Login	login	NNP	p2=NN	5	npadvmod	_
+3	if	if	IN	_	5	mark	_
+4	you	you	PRP	_	5	nsubj	5:A1=PPT
+5	are	be	VBP	pb=be.01	0	root	_
+6	already	already	RB	_	5	advmod	5:AM-TMP
+7	a	a	DT	_	8	det	_
+8	member	member	NN	_	5	attr	5:A2=PRD
+9	.	.	.	_	5	punct	_
+
+1	There	there	EX	_	2	expl	_
+2	's	be	VBZ	pb=be.02	0	root	_
+3	a	a	DT	_	5	det	_
+4	dollar	dollar	NN	_	5	nn	_
+5	store	store	NN	_	2	attr	2:A1=PPT
+6	down	down	RP	p2=RB	2	advmod	_
+7	at	at	IN	_	2	prep	2:AM-TMP
+8	the	the	DT	_	9	det	_
+9	end	end	NN	_	7	pobj	_
+10	of	of	IN	_	9	prep	_
+11	the	the	DT	_	12	det	_
+12	street	street	NN	_	10	pobj	16:AM-LOC
+13	on	on	IN	p2=:	16	prep	16:R-A1
+14	which	which	WDT	_	13	pobj	_
+15	I	I	PRP	_	16	nsubj	16:A0=PAG
+16	live	live	VBP	pb=live.01	12	rcmod	_
+17	.	.	.	_	2	punct	_
+
+1	I	I	PRP	_	3	nsubj	3:A0=PAG
+2	sometimes	sometimes	RB	_	3	advmod	3:AM-TMP
+3	shop	shop	VBP	p2=NN|pb=shop.01	0	root	_
+4	there	there	RB	_	3	advmod	3:AM-LOC
+5	.	.	.	_	3	punct	_
+
+1	So	so	RB	_	5	advmod	5:AM-DIS
+2	I	I	PRP	_	5	nsubj	5:A0=PAG
+3	've	have	VBP	_	5	aux	_
+4	been	be	VBN	_	5	aux	_
+5	following	follow	VBG	pb=follow.01	0	root	_
+6	the 	the 	RB	p2=DT	5	advmod	5:AM-MNR
+7	.	.	.	_	5	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Instead	instead	RB	_	2	advmod	_
+2	of	of	IN	_	13	prep	13:AM-ADV
+3	shutting	shut	VBG	pb=shut.05	2	pcomp	_
+4	down	down	RP	p2=RB	3	prt	3:C-V
+5	Obamacare	obamacare	NNP	_	8	poss	_
+6	's	's	POS	_	5	possessive	_
+7	insurance	insurance	NN	_	8	nn	_
+8	exchanges	exchange	NNS	_	3	dobj	3:A1=PPT
+9	,	,	,	_	13	punct	_
+10	the	the	DT	_	11	det	_
+11	government	government	NN	_	13	nsubj	13:A0=PAG
+12	should	should	MD	_	13	aux	13:AM-MOD
+13	expand	expand	VB	pb=expand.01	0	root	_
+14	them	them	PRP	_	13	dobj	13:A1=PPT
+15	so	so	IN	_	19	mark	_
+16	that	that	IN	_	19	mark	_
+17	they	they	PRP	_	19	nsubj	19:A2=GOL
+18	also	also	RB	_	19	advmod	19:AM-ADV
+19	include	include	VBP	pb=include.01	13	advcl	_
+20	pa 	pa 	NNP	p2=NN	19	dobj	19:A1=PPT
+21	.	.	.	_	13	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	President	president	NNP	p2=JJ	2	nn	_
+2	Obama	obama	NNP	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	on	on	IN	_	3	prep	3:A2=PRD
+5	Martha	martha	NNP	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	Vineyard	vineyard	NNP	p2=NN	4	pobj	_
+8	this	this	DT	_	9	det	_
+9	week	week	NN	_	3	npadvmod	3:AM-TMP
+10	and	and	CC	_	9	cc	_
+11	next	next	JJ	p2=RB	9	conj	_
+12	for	for	IN	_	11	prep	_
+13	his	his	PRP$	_	17	poss	_
+14	annual	annual	JJ	_	17	amod	_
+15	non-presidential-election-year	non-presidential-election-year	JJ	p2=NN	17	amod	_
+16	summer	summer	NN	_	17	nn	_
+17	vacation 	vacation 	NN	p2=NNP	12	pobj	_
+18	.	.	.	_	3	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	 	 	NN	p2=:	0	root	_
+2	.	.	.	_	1	punct	_
+

@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"million euros ,",allow.01,port to receive,,Affirmative,"The Port of Tallinn opened on Saturday a new cruise quay that cost 9.34 million euros , which allows the port to receive larger cruise ships than before , LETA / Public Broadcasting reports . "
+the port,receive.01,larger cruise ships than before,,Affirmative,"The Port of Tallinn opened on Saturday a new cruise quay that cost 9.34 million euros , which allows the port to receive larger cruise ships than before , LETA / Public Broadcasting reports . "
+LETA / Public Broadcasting,report.01,opened on Saturday,,Affirmative,"The Port of Tallinn opened on Saturday a new cruise quay that cost 9.34 million euros , which allows the port to receive larger cruise ships than before , LETA / Public Broadcasting reports . "
+Tallinn,welcome.01,300 vessels bringing,,Affirmative,"Tallinn is to welcome around 300 vessels bringing approximately 470,000 cruise tourists during this cruise season . "
+300 vessels bringing,bring.01,"470,000 cruise tourists",,Affirmative,"Tallinn is to welcome around 300 vessels bringing approximately 470,000 cruise tourists during this cruise season . "
+"approximately 470,000 cruise tourists",visit.01,Tallinn,,Affirmative,"The summer cruise season lasts until 26 September , but cruise tourists are expected to visit Tallinn in October and December as well . "

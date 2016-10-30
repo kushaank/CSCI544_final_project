@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Richard Hooten ,",face.01,the death penalty,,Affirmative,"Richard Hooten , a non-compliant sex offender , was facing the death penalty until he accepted a plea deal for killing 17 - year - old Tara Willenborg in March 2013 at a Clarksville apartment . "
+Richard Hooten,accept.01,a plea deal for killing,,Affirmative,"Richard Hooten , a non-compliant sex offender , was facing the death penalty until he accepted a plea deal for killing 17 - year - old Tara Willenborg in March 2013 at a Clarksville apartment . "
+Richard Hooten,spend.02,the rest of,,Affirmative,"When asked about learning he would be spending the rest of his life in prison , Hooten said that was okay . "
+Richard Hooten,say.01,that was okay,,Affirmative,"When asked about learning he would be spending the rest of his life in prison , Hooten said that was okay . "
+Richard Hooten,take.01,a plea deal,,Affirmative,Why 'd you take the plea deal ? 
+Richard Hooten,reply.01,Trying,,Affirmative,"Trying to help everyone out in the family , he replied . "
+Richard Hooten,plead.02,"guilty to rape , murder ,",,Affirmative,"In March , Hooten pleaded guilty to rape , murder , criminal deviant conduct and being a habitual offender . "
+Richard Hooten,describe.01,how he killed,,Affirmative,"At a press conference last year , he described how he killed 17 - year - old Tara Willenborg , saying he forced himself on her at her Clarksville apartment , then he chocked her until she could n't breathe . "
+Richard Hooten,kill.01,old Tara Willenborg,,Affirmative,"At a press conference last year , he described how he killed 17 - year - old Tara Willenborg , saying he forced himself on her at her Clarksville apartment , then he chocked her until she could n't breathe . "
+Richard Hooten,say.01,he forced himself on her,,Affirmative,"At a press conference last year , he described how he killed 17 - year - old Tara Willenborg , saying he forced himself on her at her Clarksville apartment , then he chocked her until she could n't breathe . "
+Richard Hooten,force.01,Richard Hooten,on her,Affirmative,"At a press conference last year , he described how he killed 17 - year - old Tara Willenborg , saying he forced himself on her at her Clarksville apartment , then he chocked her until she could n't breathe . "
+Richard Hooten,chock.01,17-year-old Tara Willenborg in March 2013,,Affirmative,"At a press conference last year , he described how he killed 17 - year - old Tara Willenborg , saying he forced himself on her at her Clarksville apartment , then he chocked her until she could n't breathe . "
+Richard Hooten,tie.01,an apron,,Affirmative,He tied an apron around her neck trying to make it look like suicide . 
+Richard Hooten,try.01,to make,,Affirmative,He tied an apron around her neck trying to make it look like suicide . 
+an apron,look.02,like suicide,,Affirmative,He tied an apron around her neck trying to make it look like suicide . 
+"older brother ,",describe.01,his baby sister,with,Affirmative,"In court , the judge heard from Tara 's older brother , who described his baby sister with one word . "
+They,have.03,a chance,,Affirmative,"They really have n't had a chance to grieve as long as this was open , said prosecutor Steve Stewart . "
+prosecutor Steve Stewart,say.01,They really have n't had,,Affirmative,"They really have n't had a chance to grieve as long as this was open , said prosecutor Steve Stewart . "
+her father,dedicate.01,a memorial garden,in,Affirmative,"A few weeks ago , her father dedicated a memorial garden in her honor . "
+the sentence,give.01,peace,him,Affirmative,"When asked if the sentence gives him peace , he replied , Somewhat . "
+her father,know.01,about,,Affirmative,I do n't know about total peace . 

@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Visalia police,say.01,mother walked into,,Affirmative,"Visalia police say a mother walked into a substance abuse center , leaving her 2-1 / 2 - year - old daughter alone in a locked car . "
+a mother,leave.01,old daughter,,Affirmative,"Visalia police say a mother walked into a substance abuse center , leaving her 2-1 / 2 - year - old daughter alone in a locked car . "
+Visalia police,say.01,walked into,,Affirmative,"Just after 8 a.m. Monday , Visalia police say Lisa Weis , 31 , walked into the substance abuse center , leaving her 2-1 / 2 - year - old daughter alone , parked in a locked car . "
+"Lisa Weis , 31 ,",leave.01,old daughter,alone,Affirmative,"Just after 8 a.m. Monday , Visalia police say Lisa Weis , 31 , walked into the substance abuse center , leaving her 2-1 / 2 - year - old daughter alone , parked in a locked car . "
+Officers,say.01,she was left inside for,,Affirmative,"Officers say she was left inside for a prolonged period of time , and once they made contact with her , they noticed she was under the influence . "
+Officers,notice.01,she was under,,Affirmative,"Officers say she was left inside for a prolonged period of time , and once they made contact with her , they noticed she was under the influence . "
+Lisa Weis,leave.01,The child who was left in the car on Monday morning,unattended inside,Affirmative,"The fact that she was intoxicated , the fact that she left the child unattended inside this locked vehicle -- she was arrested and she was charged with child endangerment , said Sgt. Ozzie Dominguez with the Visalia Police Department . "
+Sgt. Ozzie Dominguez with,say.01,-- she was arrested and,,Affirmative,"The fact that she was intoxicated , the fact that she left the child unattended inside this locked vehicle -- she was arrested and she was charged with child endangerment , said Sgt. Ozzie Dominguez with the Visalia Police Department . "
+by,shock.01,People,,Affirmative,People who work nearby were shocked by the incident . 
+One woman,say.01,she saw something alarming inside,,Affirmative,One woman says she saw something alarming inside the car . 
+One woman,see.01,something alarming inside,,Affirmative,One woman says she saw something alarming inside the car . 
+"six bottles of can of beer -- the 24 oz. , ''",see.01,a little girl in,,Affirmative,I seen a little girl in the car seat . 
+Police,say.01,it 's fortunate,,Affirmative,Police say it 's fortunate Monday morning 's weather was mild . 
+they,say.01,can get hot quickly,,Affirmative,"As we get closer to summer , they say the inside of a car can get hot quickly . "
+Action News,place.01,a thermometer,inside,Affirmative,"To test how hot it gets inside a parked car , Action News placed a thermometer inside a news van . "
+It,say.01,78 degrees,,Affirmative,It said 78 degrees . 
+the thermometer,say.01,95 degrees,,Affirmative,"After 20 minutes , the thermometer said 95 degrees . "
+police,arrest.01,"David Ruiz , 33 ,",for leaving,Affirmative,"That was the case last Saturday in Visalia when police arrested David Ruiz , 33 , for leaving his baby boy locked in his car with the windows up at a Save Mart shopping center . "
+police,leave.01,his baby boy locked in,,Affirmative,"That was the case last Saturday in Visalia when police arrested David Ruiz , 33 , for leaving his baby boy locked in his car with the windows up at a Save Mart shopping center . "
+People,call.02,police,,Affirmative,"People nearby called police after they saw the child hot , sweating and in distress . "
+they,see.01,child hot,,Affirmative,"People nearby called police after they saw the child hot , sweating and in distress . "
+They,break.01,a window,,Affirmative,They did have to break a window to access the child on that occasion . 
+Dominguez,say.01,child was luckily found,,Affirmative,"The child was luckily found to be still in good condition , said Dominguez . "
+Officers,leave.01,your children,,Affirmative,Officers stress never leave your children alone in a parked car . 

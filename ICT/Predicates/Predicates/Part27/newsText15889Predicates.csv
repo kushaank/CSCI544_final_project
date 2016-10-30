@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( CNN ) --,claim.01,"162,402 lives",,Affirmative,"( CNN ) -- The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+an opposition group,say.01,has claimed,,Affirmative,"( CNN ) -- The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+the raging conflict,show.01,no signs of abating,,Affirmative,"( CNN ) -- The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+The dead,say.01,"numbers included civilians ,",,Affirmative,"It said the total numbers included civilians , military members , defected soldiers and foreign fighters , among others . "
+"civilians ,",defect.01,defected soldiers and,,Affirmative,"It said the total numbers included civilians , military members , defected soldiers and foreign fighters , among others . "
+Nations officials,say.01,they stopped updating,,Affirmative,United Nations officials said they stopped updating their death toll in July because of lack of access and the inability to verify information from sources . 
+United Nations officials,stop.01,updating,,Affirmative,United Nations officials said they stopped updating their death toll in July because of lack of access and the inability to verify information from sources . 
+United Nations officials,update.01,their death toll,,Affirmative,United Nations officials said they stopped updating their death toll in July because of lack of access and the inability to verify information from sources . 
+the time,say.01,", have been killed in",,Affirmative,"At the time , it said that well over 100,000 people , including many civilians , have been killed in the war pitting government forces against rebels seeking to end the rule of President Bashar al - Assad . "
+pitting government forces against rebels seeking,pit.03,war,,Affirmative,"At the time , it said that well over 100,000 people , including many civilians , have been killed in the war pitting government forces against rebels seeking to end the rule of President Bashar al - Assad . "
+rebels seeking,seek.01,to end,,Affirmative,"At the time , it said that well over 100,000 people , including many civilians , have been killed in the war pitting government forces against rebels seeking to end the rule of President Bashar al - Assad . "
+Syria 's,say.01,it is battling,,Affirmative,Syria responded with a ferocious crackdown against demonstrators and has consistently said it is battling armed terrorist groups as it targeted anti-government protesters . 
+Syria 's,battle.01,armed terrorist groups,,Affirmative,Syria responded with a ferocious crackdown against demonstrators and has consistently said it is battling armed terrorist groups as it targeted anti-government protesters . 
+Syria 's,target.01,anti-government protesters,,Affirmative,Syria responded with a ferocious crackdown against demonstrators and has consistently said it is battling armed terrorist groups as it targeted anti-government protesters . 
+"Al - Assad ,",rule.03,Syria,,Affirmative,"Al - Assad , whose family has ruled Syria for more than four decades , succeeded his father in 2000 and won a second term in 2007 . "
+"Al - Assad ,",succeed.02,his father,,Affirmative,"Al - Assad , whose family has ruled Syria for more than four decades , succeeded his father in 2000 and won a second term in 2007 . "
+"Al - Assad ,",win.01,a second term,,Affirmative,"Al - Assad , whose family has ruled Syria for more than four decades , succeeded his father in 2000 and won a second term in 2007 . "
+The United Nations,ask.02,to reconsider,his government,Affirmative,The United Nations has asked his government to reconsider the election as the carnage mounts daily . 
+his government,reconsider.01,Syria 's next presidential election,,Affirmative,The United Nations has asked his government to reconsider the election as the carnage mounts daily . 
+Jihadists,kidnap.01,140 Kurdish boys,,Affirmative,Jihadists have kidnapped over 140 Kurdish boys to brainwash them . 
+Jihadists,brainwash.01,Jihadists,,Affirmative,Jihadists have kidnapped over 140 Kurdish boys to brainwash them . 
+a few boys,make.01,a daring escape,,Affirmative,But a few boys made a daring escape . 
+Syrian warplanes,carry.03,a cross-border attack on,,Affirmative,Reports that Syrian warplanes carried out a cross-border attack on Iraqi towns is further evidence of the blurring of the two countries ' borders . 
+a father,join.01,the Jihad movement,,Affirmative,CNN 's Atika Shubert speaks to a father whose teenage son joined the Jihad movement in Syria . 
+CNN 's Atika Shubert,look.01,at,,Affirmative,Atika Shubert looks at the rise of European jihadists traveling to Syria and whether they soon could join ISIS in Iraq . 
+European jihadists traveling to Syria and,travel.01,to Syria and,,Affirmative,Atika Shubert looks at the rise of European jihadists traveling to Syria and whether they soon could join ISIS in Iraq . 
+European jihadists,join.01,ISIS,,Affirmative,Atika Shubert looks at the rise of European jihadists traveling to Syria and whether they soon could join ISIS in Iraq . 
+The US,do.02,airstrikes,,Affirmative,The US is n't doing airstrikes in Iraq . 
+Paton Walsh,report.01,on,,Affirmative,CNN 's Nick Paton Walsh reports on Syrian rebels using underground explosions against the better - equipped regime . 
+Syrian rebels using,use.01,underground explosions,against,Affirmative,CNN 's Nick Paton Walsh reports on Syrian rebels using underground explosions against the better - equipped regime . 
+a city,have.03,life bombed out of it,,Affirmative,"CNN 's Nick Paton Walsh returns to the besieged rebel areas of Aleppo , a pale skeleton of a city that has had the life bombed out of it . "
+a brutal three-year civil war,stop.03,the government alongside his schoolmates,from holding,Affirmative,"Syria may be embroiled in a brutal three - year civil war , but that 's not stopping the government from holding presidential elections . "
+Paton Walsh,meet.01,an ISIS defector in hiding,,Affirmative,CNN 's Nick Paton Walsh meets an ISIS defector in hiding and gets a rare look into the group 's recruitment process . 
+thousand Syrian refugees,turn.01,an abandoned shopping mall in Lebanon,,Affirmative,Over a thousand Syrian refugees have turned an abandoned shopping mall in Lebanon into makeshift living quarters . 
+CNN 's Nick Paton Walsh,address.02,as much as,,Affirmative,What caught our experts ' ears was as much about what he did n't address as much as what he did . 
+year war in Syria,claim.01,"162,402 lives",,Affirmative,"The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+an opposition group,say.01,has claimed,,Affirmative,"The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+the raging conflict,show.01,no signs of abating,,Affirmative,"The three - year war in Syria has claimed 162,402 lives , an opposition group said Monday , as the raging conflict shows no signs of abating . "
+The U.S.,believe.01,is,,Affirmative,Official : The U.S. believes a jihadi featured in a suicide bombing video in Syria is Moner Mohammad Abu-Salha who grew up in Florida . 
+Britain,convict.01,someone of,,Affirmative,"For the first time , Britain has convicted someone of a terrorism offense related to the Syrian civil war . "

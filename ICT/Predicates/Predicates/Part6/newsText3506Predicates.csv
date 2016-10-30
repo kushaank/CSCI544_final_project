@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two men,dump.01,a cardboard box containing,,Affirmative,"Two men have been arrested for dumping a cardboard box containing the remains of five different dogs in a public park in Sapporo in March of this year , police said Monday . "
+a cardboard box containing,contain.01,the remains of,,Affirmative,"Two men have been arrested for dumping a cardboard box containing the remains of five different dogs in a public park in Sapporo in March of this year , police said Monday . "
+police,say.01,men have been arrested for dumping,,Affirmative,"Two men have been arrested for dumping a cardboard box containing the remains of five different dogs in a public park in Sapporo in March of this year , police said Monday . "
+Fuji TV,report.01,", were found inside",,Affirmative,"Fuji TV reported that the bodies of five dogs including a chihuahua and a beagle , were found inside a cardboard box in the public park in Toyohira Ward on the morning of March 15 . "
+The person,find.01,box was quoted by police,,Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+by police,quote.01,a cardboard box in the public park in Toyohira Ward on the morning of March 15,"as saying ,",Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+The person,say.01,", so I went",,Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+The person who found the box was quoted by police as saying,think.01,box contained,,Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+a cardboard box in the public park in Toyohira Ward on the morning of March 15,contain.01,some kind of animal,,Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+The person who found the box was quoted by police as saying,pick.04,a cardboard box in the public park in Toyohira Ward on the morning of March 15,,Affirmative,"The person who found the box was quoted by police as saying , I thought that perhaps the box contained some kind of animal , so I went to pick it up . "
+Fuji,report.01,broke and,,Affirmative,"When I did , the bottom of the box broke and that is when the bodies of the dogs fell out onto the ground , Fuji reported . "
+Officials,inspect.01,the remains of five different dogs in a public park in Sapporo,,Affirmative,Officials who inspected the remains said that some of the dogs showed signs of having been in a state of near starvation before their death . 
+Officials,say.01,showed signs of,,Affirmative,Officials who inspected the remains said that some of the dogs showed signs of having been in a state of near starvation before their death . 
+some of,show.01,signs of,,Affirmative,Officials who inspected the remains said that some of the dogs showed signs of having been in a state of near starvation before their death . 
+police,say.01,they may also charge,,Affirmative,Police said they may also charge the suspects with animal cruelty . 
+police,charge.01,the suspects with,,Affirmative,Police said they may also charge the suspects with animal cruelty . 

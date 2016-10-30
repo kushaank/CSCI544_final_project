@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Bellingham Herald,report.01,will discuss,,Affirmative,"The Bellingham Herald reported that a panel representing Burlington Northern Santa Fe , the Association of Washington Cities and the state Ecology Department will discuss oil and coal train hazards and traffic disruptions . "
+a panel representing,represent.01,"Burlington Northern Santa Fe ,",,Affirmative,"The Bellingham Herald reported that a panel representing Burlington Northern Santa Fe , the Association of Washington Cities and the state Ecology Department will discuss oil and coal train hazards and traffic disruptions . "
+a panel representing,discuss.01,train hazards and,,Affirmative,"The Bellingham Herald reported that a panel representing Burlington Northern Santa Fe , the Association of Washington Cities and the state Ecology Department will discuss oil and coal train hazards and traffic disruptions . "
+The public,have.03,a half - hour,,Affirmative,"The public will have a half - hour to comment at the meeting , which is being held from 9 a.m. to 5 p.m. at the City Hall in Bellingham . "
+Comments,violate.01,the rules,,Affirmative,Comments that violate the rules are subject to removal . 
+you,verify.01,your email address,,Affirmative,Please note that you must verify your email address for your comments to appear . 

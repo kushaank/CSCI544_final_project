@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Delaware State Police,join.01,forces,,Affirmative,"The Delaware State Police joined forces with 14 other states in a Drive to Save Lives enforcement initiative for eight hours on May 17 , which netted 1,146 traffic violations on Delaware roadways . "
+"May 17 ,",net.03,"1,146 traffic violations",,Affirmative,"The Delaware State Police joined forces with 14 other states in a Drive to Save Lives enforcement initiative for eight hours on May 17 , which netted 1,146 traffic violations on Delaware roadways . "
+The Delaware State Police,join.01,forces,,Affirmative,"The Delaware State Police joined forces with 14 other states in a Drive to Save Lives enforcement initiative for eight hours on May 17 , which netted more than 1,000 traffic violations on Delaware roadways . "
+"May 17 ,",net.03,"1,000 traffic violations",,Affirmative,"The Delaware State Police joined forces with 14 other states in a Drive to Save Lives enforcement initiative for eight hours on May 17 , which netted more than 1,000 traffic violations on Delaware roadways . "
+All 15 states,line.01,Interstate 95,to Florida,Affirmative,"All 15 states that line Interstate 95 from Maine to Florida participated in the intensified enforcement initiative , led and coordinated by the Delaware State Police . "
+All 15 states,participate.01,in,,Affirmative,"All 15 states that line Interstate 95 from Maine to Florida participated in the intensified enforcement initiative , led and coordinated by the Delaware State Police . "

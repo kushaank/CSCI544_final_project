@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Justice Department,announce.01,THE CHARGES,,Affirmative,The Justice Department announced charges Monday against five Chinese military officials in a landmark international cyber - spying case . 
+The indictment 's,accuse.01,the officials,of hacking into,Affirmative,The indictment accuses the officials of hacking into the computers of companies and a union to gain access to trade secrets and private communications . 
+the officials,gain.02,access to,,Affirmative,The indictment accuses the officials of hacking into the computers of companies and a union to gain access to trade secrets and private communications . 
+The indictment,charge.01,five officers of,,Affirmative,THE ACCUSED : The indictment charges five officers of the Chinese People 's Liberation Army . 
+Prosecutors,allege.01,", hackers stole",,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+Prosecutors,work.01,from,,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+hackers,steal.01,confidential business information,for,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+the indictment,say.01,they gained access to,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+they,gain.02,access to,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+they,send.02,emails,to company employees,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+emails,company.01,employees,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+you,have.03,an account with,,Affirmative,"NOTE : To post a comment you must have an account with at least one of the following services : Disqus , Facebook , Twitter , Google+ You may then login using your account credentials for that service . "
+You,use.01,your account credentials for,,Affirmative,"NOTE : To post a comment you must have an account with at least one of the following services : Disqus , Facebook , Twitter , Google+ You may then login using your account credentials for that service . "
+you,have.03,an account,,Affirmative,If you do not already have an account you may register a new profile with Disqus by first clicking the Post as button and then the link : Do n't have one ? 
+you,register.02,a new profile with Disqus,,Affirmative,If you do not already have an account you may register a new profile with Disqus by first clicking the Post as button and then the link : Do n't have one ? 
+The Times Colonist,welcome.01,your opinions and comments,,Affirmative,The Times Colonist welcomes your opinions and comments . 
+We,allow.01,"personal attacks ,",,Affirmative,"We do not allow personal attacks , offensive language or unsubstantiated allegations . "
+We,reserve.01,the right,,Affirmative,"We reserve the right to edit comments for length , style , legality and taste and reproduce them in print , electronic or otherwise . "

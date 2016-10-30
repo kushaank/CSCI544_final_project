@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Florida woman,plead.02,guilty to sending,,Affirmative,"A North Florida woman pleaded guilty to sending hoax anthrax letters to U.S. senators Marco Rubio and Bill Nelson , the U.S. Attorney 's Office reported Monday . "
+Florida woman,send.01,hoax anthrax letters,to,Affirmative,"A North Florida woman pleaded guilty to sending hoax anthrax letters to U.S. senators Marco Rubio and Bill Nelson , the U.S. Attorney 's Office reported Monday . "
+Prosecutors,say.01,mailed threatening letters,,Affirmative,"Prosecutors say Kathryn Cohen Allen , 47 , of Jasper mailed threatening letters that contained a white powder to Rubio and Nelson 's respective offices in June 2011 . "
+"Kathryn Cohen Allen , 47 , of Jasper",mail.01,threatening letters,,Affirmative,"Prosecutors say Kathryn Cohen Allen , 47 , of Jasper mailed threatening letters that contained a white powder to Rubio and Nelson 's respective offices in June 2011 . "
+letters,contain.01,a white powder,,Affirmative,"Prosecutors say Kathryn Cohen Allen , 47 , of Jasper mailed threatening letters that contained a white powder to Rubio and Nelson 's respective offices in June 2011 . "
+Laboratory tests,determine.01,powder was not hazardous,,Affirmative,Laboratory tests eventually determined the powder was not hazardous . 
+Office,say.01,Allen was implicated in,,Affirmative,The U.S. Attorney 's Office said Allen was implicated in the case when her handwriting matched that in the letters . 
+Kathryn Cohen Allen,admit.01,she mailed,,Affirmative,"Allen admitted she mailed the letters in an attempt to frame her neighbor , whom she thought was having an interracial relationship , prosecutors said . "
+Kathryn Cohen Allen,mail.01,threatening letters that contained a white powder to Rubio and Nelson 's respective offices in June 2011,,Affirmative,"Allen admitted she mailed the letters in an attempt to frame her neighbor , whom she thought was having an interracial relationship , prosecutors said . "
+Kathryn Cohen Allen,think.01,was having,,Affirmative,"Allen admitted she mailed the letters in an attempt to frame her neighbor , whom she thought was having an interracial relationship , prosecutors said . "
+Prosecutors,say.01,Allen admitted,,Affirmative,"Allen admitted she mailed the letters in an attempt to frame her neighbor , whom she thought was having an interracial relationship , prosecutors said . "
+Kathryn Cohen Allen,face.01,10 years,,Affirmative,"She faces up to 10 years in federal prison and a $ 500,000 fine . "

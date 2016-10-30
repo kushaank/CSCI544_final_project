@@ -1,0 +1,123 @@
+1	Share	share	VB	p2=NN|pb=share.01	0	root	_
+2	This	this	DT	p2=NNP	3	det	_
+3	Story	story	NNP	p2=NN	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	Sent	send	VBN	p2=JJ|pb=send.01	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	A	a	DT	_	2	det	_
+2	link	link	NN	_	5	nsubjpass	5:A1=PPT
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	sent	send	VBN	pb=send.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	your	your	PRP$	_	8	poss	_
+8	friend	friend	NN	_	11	poss	_
+9	's	's	POS	_	8	possessive	_
+10	email	email	NN	_	11	nn	_
+11	address	address	NN	_	6	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	PEARISBURG	pearisburg	NNP	p2=NN	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	Virginia	virginia	NNP	_	4	nn	_
+4	State	state	NNP	p2=NN	5	nn	_
+5	Police	police	NNS	p2=NNP	7	nsubj	7:A0
+6	are	be	VBP	_	7	aux	_
+7	investigating	investigate	VBG	pb=investigate.01	0	root	_
+8	the	the	DT	_	10	det	_
+9	fatal	fatal	JJ	_	10	amod	_
+10	shooting	shooting	NN	_	7	dobj	7:A1
+11	of	of	IN	_	10	prep	_
+12	a	a	DT	_	13	det	_
+13	man	man	NN	_	11	pobj	_
+14	by	by	IN	_	13	prep	_
+15	a	a	DT	_	18	det	_
+16	Pearisburg	pearisburg	JJ	p2=NNP	18	amod	_
+17	police	police	NN	_	18	nn	_
+18	officer	officer	NN	_	14	pobj	_
+19	.	.	.	_	7	punct	_
+
+1	State	state	NN	p2=VB	3	nn	_
+2	police	police	NN	p2=NNS	3	nn	_
+3	spokeswoman	spokeswoman	NN	_	5	nn	_
+4	Corinne	corinne	NNP	_	5	nn	_
+5	Geller	geller	NNP	_	6	nsubj	6:A0
+6	says	say	VBZ	pb=say.01	0	root	_
+7	the	the	DT	_	8	det	_
+8	shooting	shooting	NN	_	9	nsubj	9:A1=PPT
+9	occurred	occur	VBD	pb=occur.01	6	ccomp	6:A1=PPT
+10	during	during	IN	_	9	prep	9:AM-TMP
+11	a	a	DT	_	13	det	_
+12	traffic	traffic	NN	_	13	nn	_
+13	stop	stop	NN	p2=VB	15	nn	_
+14	Sunday	sunday	NNP	_	15	nn	_
+15	afternoon	afternoon	NN	_	10	pobj	_
+16	in	in	IN	_	15	prep	_
+17	Pearisburg	pearisburg	NNP	_	16	pobj	_
+18	.	.	.	_	6	punct	_
+
+1	Details	detail	NNS	_	2	nsubj	2:A1=PPT
+2	were	be	VBD	pb=be.01	0	root	_
+3	n't	not	RB	_	2	neg	2:AM-NEG
+4	immediately	immediately	RB	_	5	advmod	_
+5	available	available	JJ	_	2	acomp	2:A2=PRD
+6	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	3	det	_
+2	male	male	JJ	_	3	amod	_
+3	driver	driver	NN	_	5	nsubjpass	5:A1=PPT;11:A1=PPT
+4	was	be	VBD	_	5	auxpass	_
+5	taken	take	VBN	pb=take.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=DIR
+7	a	a	DT	_	9	det	_
+8	nearby	nearby	JJ	_	9	amod	_
+9	hospital	hospital	NN	_	6	pobj	_
+10	and	and	CC	_	5	cc	_
+11	died	die	VBD	pb=die.01	5	conj	_
+12	a	a	DT	_	14	det	_
+13	short	short	JJ	_	14	amod	_
+14	time	time	NN	_	15	npadvmod	_
+15	later	late	RBR	p2=RB	11	advmod	11:AM-TMP
+16	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	2	det	_
+2	driver	driver	NN	_	8	nsubjpass	8:A1=PPT
+3	and	and	CC	_	2	cc	_
+4	the	the	DT	_	5	det	_
+5	officer	officer	NN	_	2	conj	_
+6	were	be	VBD	_	8	auxpass	_
+7	n't	not	RB	_	8	neg	8:AM-NEG
+8	identified	identify	VBN	pb=identify.01	0	root	_
+9	.	.	.	_	8	punct	_
+
+1	Copyright	copyright	NN	p2=NNP	0	root	_
+2	2014	0	CD	_	1	num	_
+3	The	the	DT	p2=NNP	5	det	_
+4	Associated	associated	NNP	_	5	nn	_
+5	Press	press	NNP	_	1	appos	_
+6	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+

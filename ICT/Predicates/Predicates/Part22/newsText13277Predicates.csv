@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,get.01,thousands of pounds of compensation,,Affirmative,A man who was wrongfully convicted of rape and murder has been flooded with marriage offers after getting thousands of pounds of compensation . 
+"Mr Wang ,",maintain.01,his innocence,,Affirmative,"Mr Wang , who was a farmer , always maintained his innocence over the crime committed on December 15 1994 . "
+his room - mate at,kill.01,a girl,,Affirmative,"On that night his room - mate at a hostel for farm workers in Baotou , Li Yanming , raped and killed a girl he had brought back to their room . "
+"his room-mate at a hostel for farm workers in Baotou , Li Yanming",bring.01,a girl,,Affirmative,"On that night his room - mate at a hostel for farm workers in Baotou , Li Yanming , raped and killed a girl he had brought back to their room . "
+Li Yanming,threaten.01,to kill,,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+Li Yanming,kill.01,"Mr Wang , who was a farmer",,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+Li Yanming,report.01,the crime committed on December 15 1994,to police,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+Li Yanming,cry.02,to beg Wang,,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+Li Yanming,beg.01,"Mr Wang , who was a farmer",to keep it secret -,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+"Mr Wang , who was a farmer",keep.02,the crime committed on December 15 1994,,Affirmative,"At first , Li threatened to kill Mr Wang if he reported the crime to police , and when he refused he knelt down and cried to beg Wang to keep it secret - to which Mr Wang agreed . "
+his friend,dispose.01,of,,Affirmative,"But his friend disposed of the body and then fled , leaving Mr Wang in the frame for the crime . "
+his friend,leave.01,Mr Wang,in,Affirmative,"But his friend disposed of the body and then fled , leaving Mr Wang in the frame for the crime . "
+"Mr Wang , who was a farmer",escape.01,a death sentence,,Affirmative,"Mr Wang was sentenced to jail for rape and murder , narrowly escaping a death sentence in November 1996 . "
+"Mr Wang , who was a farmer",spend.02,his time,,Affirmative,"He spent his time in a brutal prison where he ate bad food , did forced labour and expected to die behind bars , never seeing his family again in Baotou city in north China 's Inner Mongolia Autonomous Region . "
+"Mr Wang , who was a farmer",eat.01,bad food,,Affirmative,"He spent his time in a brutal prison where he ate bad food , did forced labour and expected to die behind bars , never seeing his family again in Baotou city in north China 's Inner Mongolia Autonomous Region . "
+"Mr Wang , who was a farmer",see.01,his family,,Affirmative,"He spent his time in a brutal prison where he ate bad food , did forced labour and expected to die behind bars , never seeing his family again in Baotou city in north China 's Inner Mongolia Autonomous Region . "
+"Mr Wang , who was a farmer",stop.01,pleading,,Affirmative,He never stopped pleading his innocence but said : ' I resigned myself to prison life . 
+"Mr Wang , who was a farmer",plead.01,his innocence,,Affirmative,He never stopped pleading his innocence but said : ' I resigned myself to prison life . 
+"Mr Wang , who was a farmer",say.01,I resigned myself to,,Affirmative,He never stopped pleading his innocence but said : ' I resigned myself to prison life . 
+I,resign.01,I,,Affirmative,He never stopped pleading his innocence but said : ' I resigned myself to prison life . 
+I,resign.01,I,,Affirmative,I resigned myself to dying in jail . 
+Li Yanming,confess.01,that he had raped and killed,,Affirmative,"' But in 2012 , Li was caught in the capital Beijing for other crimes and confessed that he had raped and killed the girl in 1994 . "
+Li Yanming,kill.01,the girl,,Affirmative,"' But in 2012 , Li was caught in the capital Beijing for other crimes and confessed that he had raped and killed the girl in 1994 . "
+"Mr Wang , who was a farmer",receive.01,compensation,,Affirmative,"Recently , Mr Wang received compensation for the years of wrongful imprisonment . "
+Authorities,treat.01,Authorities,to,Affirmative,Authorities also treated him to a meal in a restaurant and gave him a flat to live in for free . 
+Authorities,give.01,a flat,him,Affirmative,Authorities also treated him to a meal in a restaurant and gave him a flat to live in for free . 
+his wife,divorce.01,Authorities,,Affirmative,"Married when he was sentenced and the father of a child , his wife divorced him when he was convicted of rape and murder . "
+Authorities,decide.01,that he would like,,Affirmative,Now he has decided that he would like another wife - and the marriage proposals are flooding in . 
+Authorities,like.01,another wife,,Affirmative,Now he has decided that he would like another wife - and the marriage proposals are flooding in . 
+Authorities,say.01,I am saddened,,Affirmative,He said drily : ' I am saddened that it has less to do with me and more with my money . 
+Married when he was sentenced,have.03,less,,Affirmative,He said drily : ' I am saddened that it has less to do with me and more with my money . 
+I,think.01,I will rather stay single,,Affirmative,I think I will rather stay single . 
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

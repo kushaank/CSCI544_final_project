@@ -1,0 +1,23 @@
+1	Accompanied	accompany	VBN	pb=accompany.01	7	advcl	7:AM-PRD
+2	by	by	IN	_	1	agent	1:A0=PAG
+3	his	his	PRP$	_	4	poss	_
+4	wife	wife	NN	_	2	pobj	_
+5	,	,	,	_	7	punct	_
+6	Santos	santos	NNP	_	7	nsubj	7:A0
+7	said	say	VBD	pb=say.01	0	root	_
+8	the	the	DT	_	9	det	_
+9	government	government	NN	_	11	nsubj	11:A0=PAG
+10	would	would	MD	_	11	aux	11:AM-MOD
+11	pay	pay	VB	pb=pay.01	7	ccomp	7:A1=PPT
+12	for	for	IN	_	11	prep	11:A3=PPT
+13	all	all	DT	_	17	det	_
+14	hospital	hospital	NN	_	17	nn	_
+15	and	and	CC	_	14	cc	_
+16	funeral	funeral	NN	_	14	conj	_
+17	expenses	expense	NNS	_	12	pobj	18:A1=PPT
+18	relating	relate	VBG	pb=relate.01	17	partmod	_
+19	to	to	IN	_	18	prep	18:A2=PPT
+20	the	the	DT	_	21	det	_
+21	accident	accident	NN	_	19	pobj	_
+22	.	.	.	_	7	punct	_
+

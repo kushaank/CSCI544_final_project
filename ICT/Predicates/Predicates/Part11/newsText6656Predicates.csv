@@ -1,0 +1,54 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A staff of two,work.01,to preserve,,Affirmative,"A staff of two at the Indiana State Library is working to preserve what is left of the printed record of Indiana 's history as the yellowing , crumbling newspapers that chronicled Hoosiers ' lives deteriorate with age . "
+A staff of two,preserve.01,what is left of,,Affirmative,"A staff of two at the Indiana State Library is working to preserve what is left of the printed record of Indiana 's history as the yellowing , crumbling newspapers that chronicled Hoosiers ' lives deteriorate with age . "
+crumbling newspapers that chronicled Hoosiers ' lives deteriorate with age,crumble.01,newspapers,,Affirmative,"A staff of two at the Indiana State Library is working to preserve what is left of the printed record of Indiana 's history as the yellowing , crumbling newspapers that chronicled Hoosiers ' lives deteriorate with age . "
+newspapers,chronicle.01,lives deteriorate with age,,Affirmative,"A staff of two at the Indiana State Library is working to preserve what is left of the printed record of Indiana 's history as the yellowing , crumbling newspapers that chronicled Hoosiers ' lives deteriorate with age . "
+Representatives from,begin.01,discussions,,Affirmative,Representatives from The Times Media Co. and the Indiana State Library began discussions last week aimed at finding a way to change that . 
+"Chandler Lighty ,",say.01,is key,,Affirmative,"Chandler Lighty , newspaper digitization program manager for the state library , said documenting the history of the region -- particularly of the steel mills and the Great Migration -- through its newspapers is key . "
+Representatives from The Times Media Co. and the Indiana State Library,have.03,access to for,,Affirmative,"It 's a very important part of the state that we do n't have access to for our project , Lighty said . "
+Chandler Lighty,say.01,It 's,,Affirmative,"It 's a very important part of the state that we do n't have access to for our project , Lighty said . "
+no newspapers from Northwest Indiana involved in the project,preserve.01,copies of,,Affirmative,"For more than a century , newspapers have preserved copies of their printed work using microfilm , which involved capturing photographic images of the pages on small reels of film which are then viewed on large machines that magnify the images on a screen . "
+no newspapers from Northwest Indiana involved in the project,use.01,"microfilm ,",,Affirmative,"For more than a century , newspapers have preserved copies of their printed work using microfilm , which involved capturing photographic images of the pages on small reels of film which are then viewed on large machines that magnify the images on a screen . "
+large machines,magnify.01,the images,,Affirmative,"For more than a century , newspapers have preserved copies of their printed work using microfilm , which involved capturing photographic images of the pages on small reels of film which are then viewed on large machines that magnify the images on a screen . "
+The Lake County Times,use.01,that process,,Affirmative,"The Times has used that process since 1906 , when the newspaper was called The Lake County Times . "
+"Patricia Kincaid ,",say.01,Times has,,Affirmative,"Patricia Kincaid , The Times ' librarian , said The Times has about 2,100 reels of microfilm , not including the microfilm records from The Vidette - Messenger housed at the Valparaiso Public Library . "
+The Lake County Times,have.03,"2,100 reels of microfilm",,Affirmative,"Patricia Kincaid , The Times ' librarian , said The Times has about 2,100 reels of microfilm , not including the microfilm records from The Vidette - Messenger housed at the Valparaiso Public Library . "
+We,know.01,equipment is quickly becoming,,Affirmative,"We know that that equipment is quickly becoming a dinosaur , Kincaid said . "
+"Kincaid , who has managed The Times ' microfilm archives for the last decade",say.01,We know,,Affirmative,"We know that that equipment is quickly becoming a dinosaur , Kincaid said . "
+We,have.03,a service man,,Affirmative,"We had a service man out and he said , ' Oh , you have one of those ? "
+a service man,say.01,"Oh , you have one of those",,Affirmative,"We had a service man out and he said , ' Oh , you have one of those ? "
+you,have.03,one of those,,Affirmative,"We had a service man out and he said , ' Oh , you have one of those ? "
+"Kincaid , who has managed The Times ' microfilm archives for the last decade",think.01,there are,,Affirmative,I do n't even think there are spare parts for that . 
+"' Kincaid ,",manage.01,microfilm archives,,Affirmative,"' Kincaid , who has managed The Times ' microfilm archives for the last decade , recently began exploring the option of how to preserve the newspaper 's print editions digitally . "
+"' Kincaid ,",begin.01,exploring,,Affirmative,"' Kincaid , who has managed The Times ' microfilm archives for the last decade , recently began exploring the option of how to preserve the newspaper 's print editions digitally . "
+"' Kincaid ,",explore.01,the option of,,Affirmative,"' Kincaid , who has managed The Times ' microfilm archives for the last decade , recently began exploring the option of how to preserve the newspaper 's print editions digitally . "
+Editor Doug Ross in,receive.01,a press release about,,Affirmative,Editorial Page Editor Doug Ross in late March received a press release about the Indiana State Library 's Digital Historic Newspaper Program and shared the information with Kincaid . 
+Editor Doug Ross in,share.01,the information,with Kincaid,Affirmative,Editorial Page Editor Doug Ross in late March received a press release about the Indiana State Library 's Digital Historic Newspaper Program and shared the information with Kincaid . 
+"Kincaid , who has managed The Times ' microfilm archives for the last decade",say.01,it seemed,,Affirmative,Kincaid said it seemed to be the perfect match . 
+the bicentennial approaching,make.02,more sense,,Affirmative,"I just thought with the bicentennial approaching , it just made more sense to go to the Indiana State Library , Kincaid said . "
+"Kincaid , who has managed The Times ' microfilm archives for the last decade",say.01,", it just made",,Affirmative,"I just thought with the bicentennial approaching , it just made more sense to go to the Indiana State Library , Kincaid said . "
+the first newspaper,discuss.01,a partnership with,,Affirmative,"The Times -- the second largest newspaper in the state -- is the first newspaper to discuss a partnership with the project , Rendfeld said . "
+Connie Rendfeld,say.01,is,,Affirmative,"The Times -- the second largest newspaper in the state -- is the first newspaper to discuss a partnership with the project , Rendfeld said . "
+The project 's,aim.01,to digitize,,Affirmative,The project aims to digitize newspaper papers as a source of historic content across the country and to provide public access free of charge . 
+The project 's,digitize.01,newspaper papers as,,Affirmative,The project aims to digitize newspaper papers as a source of historic content across the country and to provide public access free of charge . 
+The project 's,provide.01,public access free of charge,,Affirmative,The project aims to digitize newspaper papers as a source of historic content across the country and to provide public access free of charge . 
+The National Endowment for,offer.01,grants,,Affirmative,The National Endowment for the Humanities offered grants to each state for digitizing projects . 
+The Indiana State Library and,receive.01,two cycles of,,Affirmative,The Indiana State Library and the Indiana Historical Society received two cycles of grant funding which allow for digitizing newspapers from 1826 to 1923 . 
+two cycles of,allow.01,for digitizing newspapers from 1826 to 1923,,Affirmative,The Indiana State Library and the Indiana Historical Society received two cycles of grant funding which allow for digitizing newspapers from 1826 to 1923 . 
+The Indiana project,use.01,microfilm reels,,Affirmative,The Indiana project uses microfilm reels which are scanned by one vendor into various digital formats . 
+by,scan.01,microfilm reels,,Affirmative,The Indiana project uses microfilm reels which are scanned by one vendor into various digital formats . 
+them,do.02,"100,000 images",,Affirmative,"We can do 100,000 images in two years , Rendfeld said . "
+Connie Rendfeld,say.01,We can do,,Affirmative,"We can do 100,000 images in two years , Rendfeld said . "
+"$ 250,000 ,",digitize.01,"the first 100,000 pages",,Affirmative,"The first federal grant was $ 250,000 , which covered digitizing the first 100,000 pages . "
+the state,pursue.01,other funding mechanisms,,Affirmative,"With grant money running out , the state is pursuing other funding mechanisms . "
+A foundation,help.01,support,,Affirmative,A foundation has been established to help support the efforts and non-profit status for the group is pending . 
+the ones who have the history of the community,start.01,getting pieces together,,Affirmative,"We 've started getting pieces together to continue the process in house after the grant moneys are gone , Rendfeld said . "
+the ones who have the history of the community,get.05,pieces,together,Affirmative,"We 've started getting pieces together to continue the process in house after the grant moneys are gone , Rendfeld said . "
+the ones who have the history of the community,continue.01,the process in house,,Affirmative,"We 've started getting pieces together to continue the process in house after the grant moneys are gone , Rendfeld said . "
+Connie Rendfeld,say.01,We 've started getting pieces together,,Affirmative,"We 've started getting pieces together to continue the process in house after the grant moneys are gone , Rendfeld said . "
+"William Nangle ,",say.01,he supports,,Affirmative,"William Nangle , executive editor of The Times , said he supports the project 's mission . "
+William Nangle,support.01,mission,,Affirmative,"William Nangle , executive editor of The Times , said he supports the project 's mission . "
+William Nangle,say.01,This is,,Affirmative,"This is a very interesting , valuable program and a huge undertaking , Nangle said . "
+the ones who have the history of the community,have.03,all the archives,,Affirmative,There 's still a lot of history to be gathered from all the archives we have . 
+the ones,have.03,the history of,,Affirmative,"We 're the ones who have the history of the community , Heisse said . "
+Bob Heisse,say.01,We 're,,Affirmative,"We 're the ones who have the history of the community , Heisse said . "

@@ -1,0 +1,27 @@
+1	Sign	sign	VB	p2=VBN|pb=sign.03	0	root	_
+2	in	in	RP	p2=IN	1	prt	1:C-V
+3	with	with	IN	_	1	prep	1:A3=PRD
+4	your	your	PRP$	_	6	poss	_
+5	TWC	twc	NNP	p2=NN	6	nn	_
+6	ID	id	NNP	_	3	pobj	_
+7	to	to	TO	_	8	aux	_
+8	access	access	VB	pb=access.01	1	advcl	1:AM-PRP
+9	our	our	PRP$	_	11	poss	_
+10	video	video	NN	p2=JJ	11	nn	_
+11	clips	clip	NNS	_	8	dobj	8:A1=PPT
+12	.	.	.	_	1	punct	_
+
+1	©	©	NNP	p2=IN	7	npadvmod	_
+2	1999-2014	0	CD	_	7	num	_
+3	Time	time	NNP	_	4	nn	_
+4	Warner	warner	NNP	_	7	nn	_
+5	Cable	cable	NNP	_	7	nn	_
+6	Enterprises	enterprises	NNP	p2=NNPS	7	nn	_
+7	LLC	llc	NNP	_	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

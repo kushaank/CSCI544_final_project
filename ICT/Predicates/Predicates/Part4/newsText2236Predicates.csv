@@ -1,0 +1,72 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the court Mr Harris,tell.01,jury has heard,a girl,Affirmative,"Entertainer Rolf Harris told a girl he wanted to be the first person to give her a tongue kiss when she was 11 or 12 years old , a jury has heard . "
+the court Mr Harris,want.01,to be,,Affirmative,"Entertainer Rolf Harris told a girl he wanted to be the first person to give her a tongue kiss when she was 11 or 12 years old , a jury has heard . "
+the first person,give.01,a tongue kiss,her,Affirmative,"Entertainer Rolf Harris told a girl he wanted to be the first person to give her a tongue kiss when she was 11 or 12 years old , a jury has heard . "
+A woman from,tell.01,she had been repulsed,Southwark Crown Court,Affirmative,"A woman from Darwin , Australia , told Southwark Crown Court she had been repulsed when Mr Harris then gave her a gentle hug and kissed her . "
+the court Mr Harris,give.01,a gentle hug,her,Affirmative,"A woman from Darwin , Australia , told Southwark Crown Court she had been repulsed when Mr Harris then gave her a gentle hug and kissed her . "
+the court Mr Harris,kiss.01,"A woman from Darwin , Australia",,Affirmative,"A woman from Darwin , Australia , told Southwark Crown Court she had been repulsed when Mr Harris then gave her a gentle hug and kissed her . "
+her allegation,form.01,part of,,Affirmative,"The woman is a prosecution witness but her allegation does not form part of the charges against Mr Harris , 84 , who denies 12 counts of indecent assault . "
+"Mr Harris , 84 ,",deny.01,12 counts of,,Affirmative,"The woman is a prosecution witness but her allegation does not form part of the charges against Mr Harris , 84 , who denies 12 counts of indecent assault . "
+"A woman from Darwin , Australia",give.01,evidence,,Affirmative,"Giving evidence , the woman said the childhood incident took place when she was staying with family friends because she was off school ill . "
+"A woman from Darwin , Australia",say.01,incident took place,,Affirmative,"Giving evidence , the woman said the childhood incident took place when she was staying with family friends because she was off school ill . "
+"A woman from Darwin , Australia",find.01,Harris polishing,,Affirmative,She had come downstairs from her sick bed to find Mr Harris polishing a piece of wood under the house . 
+the court Mr Harris,polish.01,a piece of wood,,Affirmative,She had come downstairs from her sick bed to find Mr Harris polishing a piece of wood under the house . 
+"A woman from Darwin , Australia",tell.01,he started talking to her,the court,Affirmative,"She told the court he started talking to her , asking her how old she was . "
+the court Mr Harris,start.01,talking to her,,Affirmative,"She told the court he started talking to her , asking her how old she was . "
+the court Mr Harris,ask.01,old she was,her,Affirmative,"She told the court he started talking to her , asking her how old she was . "
+"A woman from Darwin , Australia",give.01,her age,Mr Harris,Affirmative,"The woman told the court when she gave Mr Harris her age , he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+the court Mr Harris,say.01,woman told,,Affirmative,"The woman told the court when she gave Mr Harris her age , he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+"A woman from Darwin , Australia",want.01,to be,,Affirmative,"The woman told the court when she gave Mr Harris her age , he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+the first one,introduce.01,you,to,Affirmative,"The woman told the court when she gave Mr Harris her age , he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+a celebrity from television,say.01,have,,Affirmative,"After the alleged abuse the entertainer just stopped and then he just went and said ' have a look at what I 've been doing ' , and showed her his polishing work . "
+a celebrity from television,show.01,his polishing work,her,Affirmative,"After the alleged abuse the entertainer just stopped and then he just went and said ' have a look at what I 've been doing ' , and showed her his polishing work . "
+"the court he started talking to her , asking her how old she was",hear.01,woman told,,Affirmative,"The court heard that the woman told a couple of friends about her claims , without being taken seriously , but also each of her three husbands , because she was uncomfortable about being kissed in that way . "
+"A woman from Darwin , Australia",tell.01,It 's,the jury,Affirmative,She told the jury : It 's just this thing I have left over from when I met Mr Harris . 
+"A woman from Darwin , Australia",leave.01,just this thing,,Affirmative,She told the jury : It 's just this thing I have left over from when I met Mr Harris . 
+"A woman from Darwin , Australia",meet.02,the court Mr Harris,,Affirmative,She told the jury : It 's just this thing I have left over from when I met Mr Harris . 
+Her current husband,persuade.01,"A woman from Darwin , Australia",to go to,Affirmative,"Her current husband persuaded her to go to the police about the claim , in the wake of media reports about the entertainer . "
+"A woman from Darwin , Australia",go.02,about,,Affirmative,"Her current husband persuaded her to go to the police about the claim , in the wake of media reports about the entertainer . "
+by,assault.01,"A woman from Darwin , Australia",,Affirmative,The woman was also said to have been assaulted by her cousin when she was 17 . 
+"A woman from Darwin , Australia",reject.01,a suggestion by,,Affirmative,"However , she rejected a suggestion by defence barrister Sonia Woodley QC that she had confused that incident with her claim against Mr Harris . "
+Another prosecution witness,tell.01,Harris groped her,the court,Affirmative,Another prosecution witness told the court Mr Harris groped her as they danced at a party in New Zealand in 1970 . 
+Mr Harris,grope.01,"A woman from Darwin , Australia",,Affirmative,Another prosecution witness told the court Mr Harris groped her as they danced at a party in New Zealand in 1970 . 
+"A woman from Darwin , Australia",meet.02,a celebrity from television,,Affirmative,The jury was told she was 16 or 17 and was working for a wine company when she met the entertainer . 
+"A woman from Darwin , Australia",see.01,him coming through,,Affirmative,"I was quite honoured to see him coming through the door , she told the court . "
+a celebrity from television,pose.02,for photographs,,Affirmative,"He was very friendly and very relaxed , and being stupid as he posed for photographs . "
+"A woman from Darwin , Australia",say.01,when she agreed to,,Affirmative,"But she said when she agreed to Mr Harris 's offer to dance in a flash , in a moment ... "
+"A woman from Darwin , Australia",agree.01,to,,Affirmative,"But she said when she agreed to Mr Harris 's offer to dance in a flash , in a moment ... "
+I,see.01,the dark side of,,Affirmative,I saw the dark side of a man who I thought could be trusted . 
+She,claim.01,Harris put,,Affirmative,She claimed Mr Harris put his hand under her dress and tried to place it between her legs . 
+Mr Harris,put.01,his hand,under,Affirmative,She claimed Mr Harris put his hand under her dress and tried to place it between her legs . 
+Mr Harris,try.01,to place it between,,Affirmative,She claimed Mr Harris put his hand under her dress and tried to place it between her legs . 
+Mr Harris,place.01,it,between,Affirmative,She claimed Mr Harris put his hand under her dress and tried to place it between her legs . 
+she,add.01,", I was totally shocked , and",,Affirmative,"I pulled away , I was totally shocked , and immediately turned and left him on the dance floor on his own , she added . "
+The women,contact.01,Scotland Yard,,Affirmative,The women contacted Scotland Yard after reading about Mr Harris 's arrest in the UK last year . 
+defence barrister,point.02,she had not said,,Affirmative,Mr Harris 's defence barrister pointed out she had not said the entertainer had tried to put his hand between her legs in her statement to police . 
+she,say.01,entertainer had tried,,Affirmative,Mr Harris 's defence barrister pointed out she had not said the entertainer had tried to put his hand between her legs in her statement to police . 
+the entertainer,try.01,to put,,Affirmative,Mr Harris 's defence barrister pointed out she had not said the entertainer had tried to put his hand between her legs in her statement to police . 
+the entertainer,put.01,his hand,between,Affirmative,Mr Harris 's defence barrister pointed out she had not said the entertainer had tried to put his hand between her legs in her statement to police . 
+the woman,say.01,it was incorrect,,Affirmative,"Questioned by Ms Woodley , the woman said it was incorrect to suggest his hand wandered down , maybe innocently , and he did not put his hand up your dress . "
+his hand,wander.01,down,,Affirmative,"Questioned by Ms Woodley , the woman said it was incorrect to suggest his hand wandered down , maybe innocently , and he did not put his hand up your dress . "
+he,put.01,his hand,up,Affirmative,"Questioned by Ms Woodley , the woman said it was incorrect to suggest his hand wandered down , maybe innocently , and he did not put his hand up your dress . "
+by,call.01,A third women,,Affirmative,' Just in shock ' A third women was called by the prosecution to give evidence about an alleged indecent assault by Mr Harris in Malta when she was 18 and on holiday in 1970 . 
+A third women,give.01,evidence about,,Affirmative,' Just in shock ' A third women was called by the prosecution to give evidence about an alleged indecent assault by Mr Harris in Malta when she was 18 and on holiday in 1970 . 
+She,meet.02,him,,Affirmative,She met him on a beach after her boyfriend had been injured while swimming and the entertainer had told them where to find a doctor . 
+swimming and,tell.01,where to find,them,Affirmative,She met him on a beach after her boyfriend had been injured while swimming and the entertainer had told them where to find a doctor . 
+them,find.01,a doctor,,Affirmative,She met him on a beach after her boyfriend had been injured while swimming and the entertainer had told them where to find a doctor . 
+The woman,tell.01,incident had taken place in,the jury,Affirmative,The woman told the jury the incident had taken place in a room in a bar where Mr Harris said he would show her some of his art . 
+the court Mr Harris,say.01,he would show her some of,,Affirmative,The woman told the jury the incident had taken place in a room in a bar where Mr Harris said he would show her some of his art . 
+the court Mr Harris,show.01,some of,her,Affirmative,The woman told the jury the incident had taken place in a room in a bar where Mr Harris said he would show her some of his art . 
+She,claim.01,Harris kissed her,,Affirmative,"She claimed Mr Harris kissed her , touched her breast and put his hand into her underwear , before he just stopped whatever he was doing and just cuddled me . "
+Mr Harris,kiss.01,her,,Affirmative,"She claimed Mr Harris kissed her , touched her breast and put his hand into her underwear , before he just stopped whatever he was doing and just cuddled me . "
+She,touch.01,her breast,,Affirmative,"She claimed Mr Harris kissed her , touched her breast and put his hand into her underwear , before he just stopped whatever he was doing and just cuddled me . "
+She,put.01,his hand,into,Affirmative,"She claimed Mr Harris kissed her , touched her breast and put his hand into her underwear , before he just stopped whatever he was doing and just cuddled me . "
+he,stop.01,whatever he was doing,,Affirmative,"She claimed Mr Harris kissed her , touched her breast and put his hand into her underwear , before he just stopped whatever he was doing and just cuddled me . "
+The woman,tell.01,she was,the court,Affirmative,"The woman told the court she was just in shock really , happy - that was it . "
+"A woman from Darwin , Australia",think.01,I was going,,Affirmative,I thought I was going to be raped . 
+I,know.01,what I thought,,Affirmative,"I do n't know what I thought , really . "
+She,tell.01,Harris had kissed her but nothing else,her boyfriend,Affirmative,"She told her boyfriend that Mr Harris had kissed her but nothing else because she was embarrassed , the jury heard . "
+Mr Harris,kiss.01,her,,Affirmative,"She told her boyfriend that Mr Harris had kissed her but nothing else because she was embarrassed , the jury heard . "
+the jury,hear.01,She told,,Affirmative,"She told her boyfriend that Mr Harris had kissed her but nothing else because she was embarrassed , the jury heard . "
+the woman,deny.01,she had fabricated,,Affirmative,"Questioned in court , the woman denied she had fabricated the entire story . "
+she,fabricate.01,the entire story,,Affirmative,"Questioned in court , the woman denied she had fabricated the entire story . "

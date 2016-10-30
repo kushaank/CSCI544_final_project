@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+NEW YORK - New York,enact.01,the law,,Affirmative,"NEW YORK , NEW YORK - New York has enacted the law which will prevent people from buying cigarettes , tobacco products and e - cigarettes until they are 21 . "
+the law,prevent.01,people,"from buying cigarettes ,",Affirmative,"NEW YORK , NEW YORK - New York has enacted the law which will prevent people from buying cigarettes , tobacco products and e - cigarettes until they are 21 . "
+people,buy.01,"cigarettes ,",,Affirmative,"NEW YORK , NEW YORK - New York has enacted the law which will prevent people from buying cigarettes , tobacco products and e - cigarettes until they are 21 . "
+mayor Michael Bloomberg,finish.01,his second term,,Affirmative,The law was actually signed on November 19th shortly before former mayor Michael Bloomberg finished his second term . 
+former mayor Michael Bloomberg,introduce.02,"the law which will prevent people from buying cigarettes , tobacco products and e-cigarettes until they are 21",,Affirmative,"When he introduced the law , he said it would be an initiative to encourage healthier behaviour among residents . "
+former mayor Michael Bloomberg,say.01,it would be,,Affirmative,"When he introduced the law , he said it would be an initiative to encourage healthier behaviour among residents . "
+an initiative,encourage.02,healthier behaviour among residents,,Affirmative,"When he introduced the law , he said it would be an initiative to encourage healthier behaviour among residents . "
+Storekeepers,display.01,signs,,Affirmative,Storekeepers are now obliged to display signs that warn anyone under 21 about attempting to purchase tobacco products . 
+signs,warn.01,about attempting,anyone,Affirmative,Storekeepers are now obliged to display signs that warn anyone under 21 about attempting to purchase tobacco products . 
+anyone,attempt.01,to purchase,,Affirmative,Storekeepers are now obliged to display signs that warn anyone under 21 about attempting to purchase tobacco products . 
+anyone,purchase.01,tobacco products,,Affirmative,Storekeepers are now obliged to display signs that warn anyone under 21 about attempting to purchase tobacco products . 
+Storekeepers,hand.02,the cigarettes,,Affirmative,"Before they are able to hand over the cigarettes , shopkeepers have to scan IDs to ensure they are not fakes . "
+shopkeepers,scan.01,IDs,,Affirmative,"Before they are able to hand over the cigarettes , shopkeepers have to scan IDs to ensure they are not fakes . "
+Some private residential buildings,ban.01,smoking,,Affirmative,Some private residential buildings have also banned smoking . 
+a wolf,think.01,he can pull,,Affirmative,"When it comes to Iran 's nuclear weapons program , the only difference between them is this : Ahmadinejad was a wolf in wolf 's clothing , Rouhani is a wolf in sheep 's clothing , a wolf who thinks he can pull the wool over the eyes of the international community . "
+Ahmadinejad,pull.01,the wool,over,Affirmative,"When it comes to Iran 's nuclear weapons program , the only difference between them is this : Ahmadinejad was a wolf in wolf 's clothing , Rouhani is a wolf in sheep 's clothing , a wolf who thinks he can pull the wool over the eyes of the international community . "
+The chief lobbyist for,speak.01,about talks,,Affirmative,The chief lobbyist for the National Retail Federation was speaking about talks to end the U.S. government shutdown . 

@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+carrier Spring Airlines on Saturday,announce.01,its plan,,Affirmative,Chinese budget carrier Spring Airlines on Saturday announced its plan to suspend all charter flights from Shanghai to Vietnam from May 19 . 
+all 150 tourists,board.01,the flight,,Affirmative,"However , all 150 tourists who were supposed to board the flight cancelled their trip . "
+all 150 tourists,cancel.01,their trip,,Affirmative,"However , all 150 tourists who were supposed to board the flight cancelled their trip . "
+the flight,pick.04,160 passengers,,Affirmative,"The flight departed for Vietnam anyway , and picked up 160 passengers back to Shanghai on Saturday . "
+The carrier,say.01,it would suspend,,Affirmative,The carrier said it would suspend nine flights carrying 350 passengers to Vietnam in the next month . 
+The carrier,suspend.01,nine flights carrying,,Affirmative,The carrier said it would suspend nine flights carrying 350 passengers to Vietnam in the next month . 
+nine flights carrying,carry.01,350 passengers,,Affirmative,The carrier said it would suspend nine flights carrying 350 passengers to Vietnam in the next month . 
+China Eastern Airlines,say.01,passengers,,Affirmative,China Eastern Airlines also said passengers who had planned to travel to Vietnam could change their departure time or ask for refunds for tickets to Vietnam until June 30 . 
+passengers,plan.01,to travel to Vietnam,,Affirmative,China Eastern Airlines also said passengers who had planned to travel to Vietnam could change their departure time or ask for refunds for tickets to Vietnam until June 30 . 
+passengers,travel.01,to Vietnam,,Affirmative,China Eastern Airlines also said passengers who had planned to travel to Vietnam could change their departure time or ask for refunds for tickets to Vietnam until June 30 . 
+passengers,change.01,their departure time,,Affirmative,China Eastern Airlines also said passengers who had planned to travel to Vietnam could change their departure time or ask for refunds for tickets to Vietnam until June 30 . 
+passengers,ask.02,for refunds for tickets to Vietnam,,Affirmative,China Eastern Airlines also said passengers who had planned to travel to Vietnam could change their departure time or ask for refunds for tickets to Vietnam until June 30 . 

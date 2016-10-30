@@ -1,0 +1,52 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+You,send.01,funny pictures,to,Affirmative,"You can just send funny pictures to your friends then it kinda disappears , but then at the same time it do n't because you can screenshot , and you can save the picture , said McDowell . "
+You,save.02,the picture,,Affirmative,"You can just send funny pictures to your friends then it kinda disappears , but then at the same time it do n't because you can screenshot , and you can save the picture , said McDowell . "
+McDowell,say.01,You can just send,,Affirmative,"You can just send funny pictures to your friends then it kinda disappears , but then at the same time it do n't because you can screenshot , and you can save the picture , said McDowell . "
+McDowell,feel.01,like,,Affirmative,"So , I really feel like , it needs to be common sense needs to be used before you download that app . "
+the location you entered,need.01,to be,,Affirmative,"So , I really feel like , it needs to be common sense needs to be used before you download that app . "
+the location you entered,need.01,to be used,,Affirmative,"So , I really feel like , it needs to be common sense needs to be used before you download that app . "
+You,download.01,that app,,Affirmative,"So , I really feel like , it needs to be common sense needs to be used before you download that app . "
+the company,collect.01,contact information,from,Affirmative,Turns out the company also collected users ' contact information from their address books without asking their permission or letting them know about the practice . 
+users ',know.01,about,,Affirmative,Turns out the company also collected users ' contact information from their address books without asking their permission or letting them know about the practice . 
+advocate Nico Sell,say.01,that 's,,Affirmative,Digital privacy advocate Nico Sell says that 's just the tip of the iceberg . 
+Nico Sell,say.01,There 's been,,Affirmative,"There 's been many stories about Skype working with governments all over the world , said Sell . "
+Even Snapchat,let.01,people know,,Affirmative,Even Snapchat has let people know that they 've given snaps to the FBI . 
+people,know.01,that they 've given snaps to,,Affirmative,Even Snapchat has let people know that they 've given snaps to the FBI . 
+people,give.01,snaps,to,Affirmative,Even Snapchat has let people know that they 've given snaps to the FBI . 
+student Alejandra Lopez,rely.01,on,to free up space on,Affirmative,FCC student Alejandra Lopez relies on cloud storage to free up space on her laptop . 
+student Alejandra Lopez,free.01,space,,Affirmative,FCC student Alejandra Lopez relies on cloud storage to free up space on her laptop . 
+FCC,put.01,your documents,there,Affirmative,"It puts your documents there , your pictures there and it does it all automatically unless you tell it otherwise , said Lopez . "
+FCC,do.02,it all,,Affirmative,"It puts your documents there , your pictures there and it does it all automatically unless you tell it otherwise , said Lopez . "
+FCC student Alejandra Lopez,say.01,It puts,,Affirmative,"It puts your documents there , your pictures there and it does it all automatically unless you tell it otherwise , said Lopez . "
+Privacy experts,say.01,is at risk,,Affirmative,Privacy experts say your personal security and privacy is at risk . 
+The latest papers from,show.01,asking tech companies,,Affirmative,"The latest papers from NSA leaker Edward Snowden show the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations . "
+the keys,information.01,store,you,Affirmative,"The latest papers from NSA leaker Edward Snowden show the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations . "
+"the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations",believe.01,it can get,,Affirmative,The government believes it can get your information from a cloud service . 
+"the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations",get.01,users ' contact information from their address books,from,Affirmative,The government believes it can get your information from a cloud service . 
+"the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations",violate.01,your constitutional rights,,Affirmative,And that 's not going to violate your constitutional rights . 
+"David Greene , an Electronic Frontier Foundation attorney",believe.01,that 's wrong,,Affirmative,"I believe that 's wrong , said David Greene , an Electronic Frontier Foundation attorney . "
+"David Greene ,",say.01,I believe,,Affirmative,"I believe that 's wrong , said David Greene , an Electronic Frontier Foundation attorney . "
+The Electronic Frontier Foundation,say.01,calls carry metadata with,,Affirmative,The Electronic Frontier Foundation says your phone calls carry metadata with who you called and when -- data the NSA says it has a right to look at . 
+your phone calls,carry.01,metadata,,Affirmative,The Electronic Frontier Foundation says your phone calls carry metadata with who you called and when -- data the NSA says it has a right to look at . 
+the NSA,say.01,it has,,Affirmative,The Electronic Frontier Foundation says your phone calls carry metadata with who you called and when -- data the NSA says it has a right to look at . 
+the NSA,have.03,a right,,Affirmative,The Electronic Frontier Foundation says your phone calls carry metadata with who you called and when -- data the NSA says it has a right to look at . 
+"the government asking tech companies for the keys to information you store online -- including your pictures , files , email , private conversations",want.01,The Electronic Frontier Foundation,,Affirmative,"If it was n't useful information , the government would n't want it , said Greene . "
+"David Greene , an Electronic Frontier Foundation attorney",say.01,government would n't want it,,Affirmative,"If it was n't useful information , the government would n't want it , said Greene . "
+researchers,work.01,on,,Affirmative,"At a tiny lab at Stanford , researchers are working on a project called MetaPhone . "
+spy agencies,have.03,a whole lot of it,,Affirmative,"The goal is to find out what spy agencies can learn from metadata , when they have a whole lot of it . "
+"David Greene , an Electronic Frontier Foundation attorney",expect.01,"logs to tell you , '",,Affirmative,"You would n't expect just your call logs to tell you , ' OK , I 'm dating someone or not . "
+just your call logs,tell.01,"OK , I 'm dating someone or not",you,Affirmative,"You would n't expect just your call logs to tell you , ' OK , I 'm dating someone or not . "
+spy agencies,date.02,someone or not,,Affirmative,"You would n't expect just your call logs to tell you , ' OK , I 'm dating someone or not . "
+"Patrick Mutchler ,",say.01,And who I might be dating,,Affirmative,"' And who I might be dating , said Patrick Mutchler , a Stanford Ph.D. student . "
+spy agencies,write.01,a program,,Affirmative,But they wrote a program that does just that . 
+a program,do.02,the tip of the iceberg,,Affirmative,But they wrote a program that does just that . 
+spy agencies,tell.01,you bank with,,Affirmative,They can also tell who you bank with and make a pretty good guess about your health . 
+you,host.01,your own tiny cloud service,,Affirmative,"Products like Pixeom -- an alternative to Dropbox and Google drive , where you host your own tiny cloud service at home . "
+you,provide.01,everything,them,Affirmative,"We can provide them everything we have , turn over all our data , but in the end , the consumers are the ones who are encrypting it themselves , said Sam Nagar , Pixeom co-founder . "
+you,have.03,everything,,Affirmative,"We can provide them everything we have , turn over all our data , but in the end , the consumers are the ones who are encrypting it themselves , said Sam Nagar , Pixeom co-founder . "
+you,turn.01,all our data,,Affirmative,"We can provide them everything we have , turn over all our data , but in the end , the consumers are the ones who are encrypting it themselves , said Sam Nagar , Pixeom co-founder . "
+the ones,encrypt.01,the end,,Affirmative,"We can provide them everything we have , turn over all our data , but in the end , the consumers are the ones who are encrypting it themselves , said Sam Nagar , Pixeom co-founder . "
+"Sam Nagar ,",say.01,We can provide them everything,,Affirmative,"We can provide them everything we have , turn over all our data , but in the end , the consumers are the ones who are encrypting it themselves , said Sam Nagar , Pixeom co-founder . "
+The messaging app Wickr,compete.01,"with Snapchat , and",,Affirmative,"The messaging app Wickr competes with Snapchat , and eventually Skype . "
+The messaging app Wickr,encrypt.01,everything and,,Affirmative,It pledges to encrypt everything and store nothing . 

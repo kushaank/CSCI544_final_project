@@ -1,0 +1,43 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+MEP candidate,call.03,activists to be arrested by police,,Affirmative,A senior Ukip MEP candidate who recently called for abusive activists to be arrested by police has been caught on camera swearing at a group of local protesters . 
+by police,arrest.01,abusive activists,,Affirmative,A senior Ukip MEP candidate who recently called for abusive activists to be arrested by police has been caught on camera swearing at a group of local protesters . 
+East chair,describe.01,"Ms Atkinson , a former Tory candidate",,Affirmative,"Janice Atkinson , the UK Independence Party 's South East chair who describes herself as Nigel Farage 's number two , was pictured brandishing her middle finger at members of the People 's Assembly in Ashford , Kent . "
+"Ms Atkinson , a former Tory candidate",admit.01,she is  not proud of,,Affirmative,"Although Ms Atkinson has admitted she is  not proud of her actions , she says she has no regrets , claiming protesters had made personal comments about her appearance . "
+"Ms Atkinson , a former Tory candidate",say.01,she has,,Affirmative,"Although Ms Atkinson has admitted she is  not proud of her actions , she says she has no regrets , claiming protesters had made personal comments about her appearance . "
+"Ms Atkinson , a former Tory candidate",have.03,no regrets,,Affirmative,"Although Ms Atkinson has admitted she is  not proud of her actions , she says she has no regrets , claiming protesters had made personal comments about her appearance . "
+"Ms Atkinson , a former Tory candidate",claim.01,the protesters,,Affirmative,"Although Ms Atkinson has admitted she is  not proud of her actions , she says she has no regrets , claiming protesters had made personal comments about her appearance . "
+"Ms Atkinson , a former Tory candidate",tell.01,I do n't care,protesters,Affirmative,"She reportedly told protesters : I do n't care where you f ***** g post this , just f ** k off ! "
+"Ms Atkinson , a former Tory candidate",care.01,where you f,,Affirmative,"She reportedly told protesters : I do n't care where you f ***** g post this , just f ** k off ! "
+you,f.01,f ** k off !,,Affirmative,"She reportedly told protesters : I do n't care where you f ***** g post this , just f ** k off ! "
+"Ms Atkinson , a former Tory candidate",post.01,this,,Affirmative,"She reportedly told protesters : I do n't care where you f ***** g post this , just f ** k off ! "
+The image,gather.01,momentum,,Affirmative,"The image soon gathered momentum on Twitter after it was posted by Maria Pizzey , a People 's Assembly and Green Party member who attended the protest . "
+by,post.01,The image,,Affirmative,"The image soon gathered momentum on Twitter after it was posted by Maria Pizzey , a People 's Assembly and Green Party member who attended the protest . "
+Party member,attend.01,the protest,,Affirmative,"The image soon gathered momentum on Twitter after it was posted by Maria Pizzey , a People 's Assembly and Green Party member who attended the protest . "
+a post on Facebook,describe.01,the incident receiving,,Affirmative," The image has now gone viral , with a post on Facebook describing the incident receiving more than 30,000 shares . "
+the incident receiving,receive.01,"30,000 shares",,Affirmative," The image has now gone viral , with a post on Facebook describing the incident receiving more than 30,000 shares . "
+Ms Pizzey,state.01,had held,,Affirmative,"Ms Pizzey stated she and a small number of activists had held a peaceful protest next to Ms Atkinson and Norman Taylor , Ukip 's Ashford chair , who reportedly seemed embarrassed by his colleague 's behaviour . "
+she and,hold.04,a peaceful protest next to,,Affirmative,"Ms Pizzey stated she and a small number of activists had held a peaceful protest next to Ms Atkinson and Norman Taylor , Ukip 's Ashford chair , who reportedly seemed embarrassed by his colleague 's behaviour . "
+"Thom Pizzey ,",attend.01,the protest,,Affirmative,"Thom Pizzey , who also attended the protest , told the Independent : We never shouted . "
+"Thom Pizzey ,",tell.01,We never shouted,the Independent,Affirmative,"Thom Pizzey , who also attended the protest , told the Independent : We never shouted . "
+"Ms Atkinson , a former Tory candidate",let.01,people approach us,,Affirmative,We stood respectfully and quietly to the side of their stall and let people approach us . 
+Thom Pizzey,add.01,group had merely been exercising freedom to protest and,,Affirmative,"He added that the group had merely been exercising freedom to protest and free speech , and that the only aggression was from Ms Atkinson herself . "
+a group of local protesters,exercise.01,freedom to protest and,,Affirmative,"He added that the group had merely been exercising freedom to protest and free speech , and that the only aggression was from Ms Atkinson herself . "
+"Ms Atkinson , a former Tory candidate",defend.01,her actions,,Affirmative,"Ms Atkinson later defended her actions , saying the protesters had been harassing the public and she was upset by comments made about Ukip members . "
+"Ms Atkinson , a former Tory candidate",say.01,protesters had been harassing,,Affirmative,"Ms Atkinson later defended her actions , saying the protesters had been harassing the public and she was upset by comments made about Ukip members . "
+the protesters,harass.01,and she was upset by comments made about,,Affirmative,"Ms Atkinson later defended her actions , saying the protesters had been harassing the public and she was upset by comments made about Ukip members . "
+by comments made about,upset.01,the public and she,,Affirmative,"Ms Atkinson later defended her actions , saying the protesters had been harassing the public and she was upset by comments made about Ukip members . "
+"Ms Atkinson , a former Tory candidate",regret.01,Ukip 's rally,,Affirmative,I got angry but I do n't regret it . 
+"Ms Atkinson , a former Tory candidate",accuse.01,the activists,of,Affirmative,"Speaking to The Independent , Ms Atkinson accused the activists of being the Socialist Workers anarchy wing of the Greens and masquerading as ordinary voters against Ukip . "
+One young woman,say.01,she was in,,Affirmative,"One young woman who said she was in her 30 s and had never voted before , said she was voting for me , she said . "
+One young woman,say.01,she was voting for me,,Affirmative,"One young woman who said she was in her 30 s and had never voted before , said she was voting for me , she said . "
+"Ms Atkinson , a former Tory candidate",vote.01,for me,,Affirmative,"One young woman who said she was in her 30 s and had never voted before , said she was voting for me , she said . "
+"Ms Atkinson , a former Tory candidate",say.01,", said",,Affirmative,"One young woman who said she was in her 30 s and had never voted before , said she was voting for me , she said . "
+The fat Green woman,tell.01,that I was,her,Affirmative,"The fat Green woman approached her , telling her that I was a racist bigot . "
+The fat Green woman,think.01,is,,Affirmative,I think my view of them is self evident . 
+The fat Green woman,have.03,nothing else,,Affirmative,I have nothing else to add . 
+"Ms Atkinson , a former Tory candidate",say.01,were,,Affirmative,Ms Atkinson was also criticised for saying areas of Kent were no - go areas due to gangs of Eastern European immigrants . 
+"Ms Atkinson , a former Tory candidate",deny.01,"comments were alarmist , stating :",,Affirmative,"She later denied the comments were alarmist , stating : People have come to me with tales of intimidation and I try to persuade them to go public but they feel they can't . "
+the comments,state.01,People have come to me,,Affirmative,"She later denied the comments were alarmist , stating : People have come to me with tales of intimidation and I try to persuade them to go public but they feel they can't . "
+"Ms Atkinson , a former Tory candidate",try.01,to persuade them,,Affirmative,"She later denied the comments were alarmist , stating : People have come to me with tales of intimidation and I try to persuade them to go public but they feel they can't . "
+"Ms Atkinson , a former Tory candidate",persuade.01,a People 's,to go public,Affirmative,"She later denied the comments were alarmist , stating : People have come to me with tales of intimidation and I try to persuade them to go public but they feel they can't . "
+a People 's,feel.02,they can't,,Affirmative,"She later denied the comments were alarmist , stating : People have come to me with tales of intimidation and I try to persuade them to go public but they feel they can't . "

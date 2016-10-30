@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Blasio administration,put.01,an upgrade of,,Affirmative,The de Blasio administration is putting an upgrade of the city 's 911 system on hold and ordering a comprehensive review of the entire system . 
+Blasio administration,order.01,a comprehensive review of,,Affirmative,The de Blasio administration is putting an upgrade of the city 's 911 system on hold and ordering a comprehensive review of the entire system . 
+The de Blasio administration,review.01,"project has fallen behind , and",,Affirmative,"It 's reviewing why the project has fallen behind , and nearly a billion dollars over budget . "
+"The project ,",modernize.01,the city 's 911 system,,Affirmative,"The project , which began under Mayor Bloomberg , was supposed to modernize the system and improve communication between fire , police , and EMS . "
+"The project ,",improve.01,"communication between fire , police , and EMS",,Affirmative,"The project , which began under Mayor Bloomberg , was supposed to modernize the system and improve communication between fire , police , and EMS . "
+The de Blasio administration,begin.01,a thorough review of,,Affirmative,"The de Blasio administration began a thorough review of the project in the administration 's first days in office , including an exploration of its history , scope , budget and the multiple changes to its schedule . "
+priority,protect.01,the safety of,,Affirmative,"Our number one priority is protecting the safety of all New Yorkers , said Mayor de Blasio . "
+Mayor de Blasio,say.01,priority is protecting,,Affirmative,"Our number one priority is protecting the safety of all New Yorkers , said Mayor de Blasio . "
+Our number one priority,mean.01,fixing,,Affirmative,"That means not only fixing the problems that have for too long plagued the ECTP , but also addressing new issues that demand immediate corrective action . "
+new issues,demand.01,immediate corrective action,,Affirmative,"That means not only fixing the problems that have for too long plagued the ECTP , but also addressing new issues that demand immediate corrective action . "
+Our,take.01,The critical steps,,Affirmative,"The critical steps we are taking today will ensure that the new emergency communications system is operationally , technologically and financially prepared to protect future generations here in New York City . "
+The critical steps,ensure.01,"system is operationally ,",,Affirmative,"The critical steps we are taking today will ensure that the new emergency communications system is operationally , technologically and financially prepared to protect future generations here in New York City . "
+the new emergency communications system,protect.01,future generations,,Affirmative,"The critical steps we are taking today will ensure that the new emergency communications system is operationally , technologically and financially prepared to protect future generations here in New York City . "

@@ -1,0 +1,119 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Rolf Harris,deny.01,the charges,,Affirmative,Rolf Harris denies the charges . 
+old woman,think.01,she was going,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+Rolf Harris,pin.01,An 18-year-old woman,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+Rolf Harris,grope.01,An 18-year-old woman,,Affirmative,"An 18 - year - old woman thought she was going to be raped when Rolf Harris pinned her against a wall and groped her , a court has heard . "
+"the woman ,",give.01,evidence,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+"the woman ,",say.01,she met,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+"the woman , who can not be named for legal reasons",meet.02,the entertainer,,Affirmative,"Giving evidence at Southwark Crown Court today , the woman , who can not be named for legal reasons , said she met the entertainer while on holiday in Malta in 1970 . "
+Her boyfriend,hurt.01,his foot,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+"swimming , and Harris ,",help.01,them find,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+them,find.01,a doctor,,Affirmative,"Her boyfriend hurt his foot while swimming , and Harris , now 84 , came out of a bar and helped them find a doctor , the jury was told . "
+"the woman , who can not be named for legal reasons",thank.01,the artist,,Affirmative,"The woman then went back to thank the artist , and he took her into a side room , offering to show the aspiring art student some of his work . "
+the artist,take.01,"the woman , who can not be named for legal reasons",into,Affirmative,"The woman then went back to thank the artist , and he took her into a side room , offering to show the aspiring art student some of his work . "
+the artist,pin.01,"the woman , who can not be named for legal reasons",,Affirmative,It is claimed he pinned her against a wall and gave her a slobbery kiss before touching her intimately . 
+the artist,give.01,a slobbery kiss,her,Affirmative,It is claimed he pinned her against a wall and gave her a slobbery kiss before touching her intimately . 
+"the woman , who can not be named for legal reasons",say.01,It was,,Affirmative,The woman said of the kiss : It was quite slobbery . 
+"the woman , who can not be named for legal reasons",tell.01,she was,the jury,Affirmative,"She told the jury at first she was a bit flattered , and that after the alleged assault Harris just stopped whatever he was doing and just cuddled me . "
+"the public Rolf Harris , the entertainer",stop.01,whatever he was doing,,Affirmative,"She told the jury at first she was a bit flattered , and that after the alleged assault Harris just stopped whatever he was doing and just cuddled me . "
+Prosecutor Sasha Wass QC,ask.01,Did he say anything,her,Affirmative,Prosecutor Sasha Wass QC asked her : Did he say anything ? 
+"the public Rolf Harris , the entertainer",say.01,anything,,Affirmative,Prosecutor Sasha Wass QC asked her : Did he say anything ? 
+Prosecutor Sasha Wass QC,say.01,I 'm sorry ',,Affirmative,She replied : ( He said ) ' I 'm sorry ' . 
+"the woman , who can not be named for legal reasons",say.01,she was,,Affirmative,"The woman said she was just in shock really , happy that was it . "
+"the woman , who can not be named for legal reasons",think.01,I was going,,Affirmative,I thought I was going to be raped . 
+"the woman , who can not be named for legal reasons",know.01,what I thought really,,Affirmative,I do n't know what I thought really . 
+"the woman , who can not be named for legal reasons",tell.01,she had,the court,Affirmative,"Afterwards the pair went back to the bar , where the woman told the court she had her photograph taken with Harris . "
+"the woman , who can not be named for legal reasons",have.03,photograph taken with Harris,,Affirmative,"Afterwards the pair went back to the bar , where the woman told the court she had her photograph taken with Harris . "
+"the woman , who can not be named for legal reasons",say.01,entertainer squeezed,,Affirmative,She said the entertainer squeezed her arm really tight as the picture was taken . 
+the entertainer,squeeze.01,her arm,,Affirmative,She said the entertainer squeezed her arm really tight as the picture was taken . 
+"the woman , who can not be named for legal reasons",say.01,It was,,Affirmative,"It was as if it was an apology , the woman said . "
+"the public Rolf Harris , the entertainer",listen.01,from,,Affirmative,"He listened intently from the glass - walled dock , with wife Alwen and other family members including his niece and brother-in-law watching from the public gallery . "
+two other women,support.01,prosecution witnesses,,Affirmative,The court also heard from two other women who are supporting prosecution witnesses and were flown over from Australia and New Zealand to give evidence . 
+The first of,tell.01,", Harris told her",the jury of,Affirmative,"The first of these women told the jury of six men and six women that when she was 11 - years - old , Harris told her that he wanted to be the first person to give her a tongue kiss . "
+"the public Rolf Harris , the entertainer",tell.01,that he wanted,her,Affirmative,"The first of these women told the jury of six men and six women that when she was 11 - years - old , Harris told her that he wanted to be the first person to give her a tongue kiss . "
+"the public Rolf Harris , the entertainer",want.01,to be,,Affirmative,"The first of these women told the jury of six men and six women that when she was 11 - years - old , Harris told her that he wanted to be the first person to give her a tongue kiss . "
+the first person,give.01,a tongue kiss,her,Affirmative,"The first of these women told the jury of six men and six women that when she was 11 - years - old , Harris told her that he wanted to be the first person to give her a tongue kiss . "
+she,see.01,"Harris ,",,Affirmative,"She was at a family friend 's home in Australia in 1969 while she was off sick from school , and came downstairs in her pyjamas and saw Harris , who had been polishing a piece of wood , the court heard . "
+"Harris ,",polish.01,a piece of wood,,Affirmative,"She was at a family friend 's home in Australia in 1969 while she was off sick from school , and came downstairs in her pyjamas and saw Harris , who had been polishing a piece of wood , the court heard . "
+"the woman , who can not be named for legal reasons",say.01,When I came down,,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+a family friend 's,ask.01,old I was,me,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+a family friend 's,say.01,"good , I want",,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+"the woman , who can not be named for legal reasons",want.01,to be,,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+the first one,introduce.01,I,to,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+"the woman , who can not be named for legal reasons",think.01,anything,,Affirmative,"I just stood there , I did n't think anything . "
+"the public Rolf Harris , the entertainer",get.01,"the woman , who can not be named for legal reasons",,Affirmative,"It is claimed that Harris got her in a gentle hug and kissed her , putting his tongue in her mouth . "
+"the woman , who can not be named for legal reasons",say.01,He put,,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+"the public Rolf Harris , the entertainer",put.01,his tongue,in,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+"the public Rolf Harris , the entertainer",give.01,a tongue kiss,me,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+by it,repulse.01,"the woman , who can not be named for legal reasons",,Affirmative,I was quite repulsed by it . 
+the court she had her photograph taken with Harris,hear.01,woman was assaulted by,,Affirmative,"The court heard that the woman was assaulted by her cousin when she was 17 , but was forbidden from reporting it by her parents . "
+by,assault.01,"the woman , who can not be named for legal reasons",,Affirmative,"The court heard that the woman was assaulted by her cousin when she was 17 , but was forbidden from reporting it by her parents . "
+"the woman , who can not be named for legal reasons",say.01,brought up,,Affirmative,"In cross-examination , the woman said the incident with her cousin brought up a recollection of the alleged Harris abuse . "
+the incident with,bring.01,a recollection of,,Affirmative,"In cross-examination , the woman said the incident with her cousin brought up a recollection of the alleged Harris abuse . "
+the incident with her cousin,trigger.01,my memory,,Affirmative,"It triggered my memory to bring it up again , she said . "
+the incident with her cousin,bring.01,the incident with her cousin,,Affirmative,"It triggered my memory to bring it up again , she said . "
+"the woman , who can not be named for legal reasons",say.01,It triggered,,Affirmative,"It triggered my memory to bring it up again , she said . "
+"the woman , who can not be named for legal reasons",reject.01,a suggestion by,,Affirmative,"But the woman rejected a suggestion by Sonia Woodley QC , defending , that she had confused the incident with her cousin and the Harris claim . "
+"the woman , who can not be named for legal reasons",defend.01,that she had confused,,Affirmative,"But the woman rejected a suggestion by Sonia Woodley QC , defending , that she had confused the incident with her cousin and the Harris claim . "
+"the woman , who can not be named for legal reasons",confuse.01,the incident with her cousin,,Affirmative,"But the woman rejected a suggestion by Sonia Woodley QC , defending , that she had confused the incident with her cousin and the Harris claim . "
+The third woman,say.01,she saw,,Affirmative,The third woman broke down as she said she saw the dark side of Harris when he groped her as they danced . 
+The third woman,see.01,the dark side of Harris,,Affirmative,The third woman broke down as she said she saw the dark side of Harris when he groped her as they danced . 
+"the public Rolf Harris , the entertainer",grope.01,The third woman,,Affirmative,The third woman broke down as she said she saw the dark side of Harris when he groped her as they danced . 
+The third woman,meet.02,the entertainer,,Affirmative,Jurors were told that she was 16 or 17 and was working for a wine company at a party in New Zealand in 1970 when she met the entertainer . 
+The third woman,say.01,had photographs taken with Harris and,,Affirmative,"She said that she and another member of staff had photographs taken with Harris and his friend , and he gave her his autograph . "
+she and,have.03,photographs taken with Harris and,,Affirmative,"She said that she and another member of staff had photographs taken with Harris and his friend , and he gave her his autograph . "
+another member of staff,give.01,his autograph,her,Affirmative,"She said that she and another member of staff had photographs taken with Harris and his friend , and he gave her his autograph . "
+another member of staff,act.01,for,,Affirmative,He was acting up for the camera in a way that he wanted to be noticed by the camera . 
+another member of staff,want.01,to be noticed by,,Affirmative,He was acting up for the camera in a way that he wanted to be noticed by the camera . 
+by,notice.01,another member of staff,,Affirmative,He was acting up for the camera in a way that he wanted to be noticed by the camera . 
+another member of staff,make.02,everybody feel,,Affirmative,"He was very comfortable with himself , he was very confident , he was making everybody feel very relaxed . "
+everybody,feel.02,very relaxed,,Affirmative,"He was very comfortable with himself , he was very confident , he was making everybody feel very relaxed . "
+The third woman,think.01,he was,,Affirmative,I thought he was exactly what he was on television . 
+"the public Rolf Harris , the entertainer",ask.02,"to dance ,",her,Affirmative,"Harris then asked her to dance , slid his hand onto her bottom and put it between her legs , the court heard . "
+"the woman , who can not be named for legal reasons",tell.01,: We were dancing and,the court,Affirmative,"Breaking down , the woman told the court : We were dancing and we had had a photo taken , he was talking to me and I felt relaxed , comfortable . "
+We,have.03,a photo taken,,Affirmative,"Breaking down , the woman told the court : We were dancing and we had had a photo taken , he was talking to me and I felt relaxed , comfortable . "
+"the woman , who can not be named for legal reasons",feel.01,"relaxed , comfortable",,Affirmative,"Breaking down , the woman told the court : We were dancing and we had had a photo taken , he was talking to me and I felt relaxed , comfortable . "
+"the woman , who can not be named for legal reasons",see.01,the dark side of,,Affirmative,I saw the dark side of a man who I thought could be trusted . 
+he,try.01,to put,,Affirmative,"I was in a public place , he slid his hand down my back against my bottom and then in a moment put his hand up my skirt and tried to put his hand in between my legs . "
+the woman,feel.01,hand between,,Affirmative,"After the woman felt Harris 's hand between her legs , she said she pushed him away and left the venue . "
+she,say.01,she pushed him away and left,,Affirmative,"After the woman felt Harris 's hand between her legs , she said she pushed him away and left the venue . "
+she,push.01,him,away,Affirmative,"After the woman felt Harris 's hand between her legs , she said she pushed him away and left the venue . "
+she,leave.01,the venue,,Affirmative,"After the woman felt Harris 's hand between her legs , she said she pushed him away and left the venue . "
+"the woman , who can not be named for legal reasons",expect.01,that behaviour,,Affirmative,She told the court : In my wildest dreams I did n't expect that behaviour . 
+I,expect.01,"him to touch me , or",,Affirmative,"I did n't expect him to touch me , or to touch me in my most private area of my body . "
+him,touch.01,me,,Affirmative,"I did n't expect him to touch me , or to touch me in my most private area of my body . "
+him,touch.01,me,,Affirmative,"I did n't expect him to touch me , or to touch me in my most private area of my body . "
+The woman,tell.01,that she informed,the jury,Affirmative,The woman told the jury that she informed her mother about what had happened the next day . 
+she,inform.01,her mother,about,Affirmative,The woman told the jury that she informed her mother about what had happened the next day . 
+I,tell.01,"what a disgusting , vile , repulsive man",her,Affirmative,"I told her what a disgusting , vile , repulsive man that he was and how he had totally taken away trust and the fact that he was a celebrity that he violated my trust . "
+he,take.01,trust and,,Affirmative,"I told her what a disgusting , vile , repulsive man that he was and how he had totally taken away trust and the fact that he was a celebrity that he violated my trust . "
+he,violate.01,my trust,,Affirmative,"I told her what a disgusting , vile , repulsive man that he was and how he had totally taken away trust and the fact that he was a celebrity that he violated my trust . "
+by police,question.01,Harris,,Affirmative,"In April last year after media reports that Harris had been questioned by police , she said she felt relieved . "
+she,say.01,she felt relieved,,Affirmative,"In April last year after media reports that Harris had been questioned by police , she said she felt relieved . "
+she,feel.01,relieved,,Affirmative,"In April last year after media reports that Harris had been questioned by police , she said she felt relieved . "
+"the woman , who can not be named for legal reasons",think.01,they 've finally got,,Affirmative,She told the court : I thought ' they 've finally got the bastard ' . 
+they,get.01,the bastard ',,Affirmative,She told the court : I thought ' they 've finally got the bastard ' . 
+I,feel.01,the relief,,Affirmative,It was all those years later but it was unbelievable the relief I felt . 
+the woman,explain.01,why she had said,,Affirmative,"In heated cross-examination by Sonia Woodley QC , defending , the woman was asked to explain why she had said Harris tried to put his hand up her skirt in an initial police statement . "
+she,say.01,Harris tried,,Affirmative,"In heated cross-examination by Sonia Woodley QC , defending , the woman was asked to explain why she had said Harris tried to put his hand up her skirt in an initial police statement . "
+Harris,try.01,to put,,Affirmative,"In heated cross-examination by Sonia Woodley QC , defending , the woman was asked to explain why she had said Harris tried to put his hand up her skirt in an initial police statement . "
+Harris,put.01,her skirt,in,Affirmative,"In heated cross-examination by Sonia Woodley QC , defending , the woman was asked to explain why she had said Harris tried to put his hand up her skirt in an initial police statement . "
+I,recall.02,what happened,,Affirmative,She went on : I can clearly recall what happened . 
+the woman,mention.01,hand between,,Affirmative,"In another corrected statement the woman had not mentioned Harris 's hand between her legs , the court heard . "
+the court,hear.01,woman had not mentioned,,Affirmative,"In another corrected statement the woman had not mentioned Harris 's hand between her legs , the court heard . "
+The woman,ask.01,How do you sleep at night,Ms Woodley,Affirmative,The woman asked Ms Woodley : How do you sleep at night ? 
+I,have.03,a job,,Affirmative,The barrister replied : I 'm afraid I have a job to do and I have to ask you questions . 
+I,ask.01,questions,you,Affirmative,The barrister replied : I 'm afraid I have a job to do and I have to ask you questions . 
+Harris,have.03,an evil dark side,,Affirmative,"Harris had an evil dark side , the woman said , and she told the court she had kept his autograph and pictures from the day as a reminder to be wary of trusting people . "
+the woman,say.01,Harris had,,Affirmative,"Harris had an evil dark side , the woman said , and she told the court she had kept his autograph and pictures from the day as a reminder to be wary of trusting people . "
+she,tell.01,she had kept,the court,Affirmative,"Harris had an evil dark side , the woman said , and she told the court she had kept his autograph and pictures from the day as a reminder to be wary of trusting people . "
+she,keep.02,his autograph and pictures,from,Affirmative,"Harris had an evil dark side , the woman said , and she told the court she had kept his autograph and pictures from the day as a reminder to be wary of trusting people . "
+I,keep.01,these photos,,Affirmative,I kept these photos and I kept that autograph as a reminder of how what you see is not always what happens in life . 
+I,keep.02,that autograph,,Affirmative,I kept these photos and I kept that autograph as a reminder of how what you see is not always what happens in life . 
+It,remind.01,of,me,Affirmative,"It reminded me of how somebody can be completely different and to be very , very wary of trusting people . "
+We,want.01,you to enjoy,,Affirmative,We want you to enjoy your visit to our website . 
+you,enjoy.01,your visit to,,Affirmative,We want you to enjoy your visit to our website . 
+we,use.01,the cookies,to enhance,Affirmative,That 's why we use cookies to enhance your experience . 
+we,enhance.01,your experience,,Affirmative,That 's why we use cookies to enhance your experience . 
+you,agree.01,to,,Affirmative,By staying on our website you agree to our use of cookies . 
+we,use.01,the cookies,,Affirmative,Find out more about the cookies we use . 

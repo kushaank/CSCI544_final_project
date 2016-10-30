@@ -1,0 +1,40 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"FORT BLISS ,",travel.01,across,,Affirmative,"FORT BLISS , Texas - A Fort Bliss spouse traveled across the country to save a life . "
+"FORT BLISS ,",save.02,a life,,Affirmative,"FORT BLISS , Texas - A Fort Bliss spouse traveled across the country to save a life . "
+"April Scott ,",travel.01,to,,Affirmative,"April Scott , the wife of Chief Warrant Officer 2 Jeffery Scott , unit movement officer for 4th Armored Brigade Combat Team , 1 st Armored Division , traveled to Piedmont Hospital in Atlanta to donate a kidney to her son 's former fifth grade teacher , Stephanie Barnes . "
+"April Scott ,",donate.01,a kidney,to,Affirmative,"April Scott , the wife of Chief Warrant Officer 2 Jeffery Scott , unit movement officer for 4th Armored Brigade Combat Team , 1 st Armored Division , traveled to Piedmont Hospital in Atlanta to donate a kidney to her son 's former fifth grade teacher , Stephanie Barnes . "
+The transplant,give.01,a second chance at life,Barnes,Affirmative,The transplant will give Barnes a second chance at life . 
+The donated kidney,start.01,working immediately,,Affirmative,The donated kidney started working immediately and the doctors were pleased with the results . 
+Scott,say.01,surgery was,,Affirmative,Chief Warrant Officer 2 Scott said the surgery was a success . 
+Chief Warrant Officer 2 Scott,say.01,kidney started working immediately,,Affirmative,He said the donated kidney started working immediately and April was released on May 11 . 
+The donated kidney,start.01,working immediately,,Affirmative,He said the donated kidney started working immediately and April was released on May 11 . 
+surgery recovery,keep.02,April,out of work and,Affirmative,The post surgery recovery will keep April out of work and her Army Reserve commitment for about six months . 
+Scott,say.01,he was shocked,,Affirmative,Chief Warrant Officer 2 Scott said he was shocked when April told him that she wanted to volunteer as a donor . 
+April,tell.01,that she wanted,him,Affirmative,Chief Warrant Officer 2 Scott said he was shocked when April told him that she wanted to volunteer as a donor . 
+her,want.01,to volunteer as,,Affirmative,Chief Warrant Officer 2 Scott said he was shocked when April told him that she wanted to volunteer as a donor . 
+her,volunteer.01,as,,Affirmative,Chief Warrant Officer 2 Scott said he was shocked when April told him that she wanted to volunteer as a donor . 
+some counsel from the brigade chaplain,change.01,his tune,,Affirmative,"After some deliberation and some counsel from the brigade chaplain , he changed his tune and applied for leave to accompany his wife . "
+some counsel from the brigade chaplain,apply.01,for leave,,Affirmative,"After some deliberation and some counsel from the brigade chaplain , he changed his tune and applied for leave to accompany his wife . "
+The brigade,approve.01,the leave request,,Affirmative,The brigade was very quick to approve the leave request and lend their support . 
+The brigade,lend.01,their support,,Affirmative,The brigade was very quick to approve the leave request and lend their support . 
+Chief Warrant Officer 2 Scott,tell.01,wife was donating,me,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+the wife of Chief Warrant Officer 2 Jeffery Scott,donate.01,a kidney,,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+Col. Terry Cook,know.01,we needed,,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+their,need.01,to support him and,,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+their,support.01,him and,,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+"Col. Terry Cook ,",say.01,", I knew",,Affirmative,"When Chief Scott told me his wife was donating a kidney , I knew we needed to support him and his wife , said Col. Terry Cook , 4th ABCT commander . "
+April,hear.01,that Barnes was having,,Affirmative,"While visiting friends and family in Alabama , April heard that Barnes was having health issue and was in need of a kidney transplant . "
+Barnes,have.03,health issue,,Affirmative,"While visiting friends and family in Alabama , April heard that Barnes was having health issue and was in need of a kidney transplant . "
+test results,show.01,she was,,Affirmative,"After test results showed she was a valid donor match , April jumped at the chance to help a friend . "
+April,say.01,she hopes,,Affirmative,April said she hopes that her willingness to help will inspire other Soldiers and civilians to perform unconditional acts of selfless service . 
+she,hope.01,will inspire,,Affirmative,April said she hopes that her willingness to help will inspire other Soldiers and civilians to perform unconditional acts of selfless service . 
+her willingness,inspire.01,other Soldiers and civilians,to perform,Affirmative,April said she hopes that her willingness to help will inspire other Soldiers and civilians to perform unconditional acts of selfless service . 
+other Soldiers and civilians,perform.01,unconditional acts of,,Affirmative,April said she hopes that her willingness to help will inspire other Soldiers and civilians to perform unconditional acts of selfless service . 
+we,see.01,someone with,,Affirmative,"We as human beings , if we see someone with a need , you need to meet that need . "
+Col. Terry Cook,need.01,to meet,,Affirmative,"We as human beings , if we see someone with a need , you need to meet that need . "
+Col. Terry Cook,meet.01,that need,,Affirmative,"We as human beings , if we see someone with a need , you need to meet that need . "
+it,put.01,you,in danger,Affirmative,"If it 's not going to put you in danger and you do your research , you should help out , April said . "
+you,do.02,your research,,Affirmative,"If it 's not going to put you in danger and you do your research , you should help out , April said . "
+April,say.01,", you should help out",,Affirmative,"If it 's not going to put you in danger and you do your research , you should help out , April said . "
+Bliss spouse,donate.01,kidney,,Affirmative,"This work , Fort Bliss spouse donates kidney , by SGT Michael Grimm , identified by DVIDS , is free of known copyright restrictions under U.S. copyright law . "
+by DVIDS,identify.01,"SGT Michael Grimm , identified by DVIDS",,Affirmative,"This work , Fort Bliss spouse donates kidney , by SGT Michael Grimm , identified by DVIDS , is free of known copyright restrictions under U.S. copyright law . "

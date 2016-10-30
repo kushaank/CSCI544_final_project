@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,respond.01,to,,Affirmative,"Police responded to West Georgia Medical Center at approximately 2:06 a.m. where they spoke with Sebrina Ford , 25 , of LaGrange who reported Cameron stabbed her in the chest with a knife at Just Right Sandwich Shop located in the 700 block of Johnson Street . "
+"Sebrina Ford , 25 , of LaGrange",report.01,Cameron stabbed her in,,Affirmative,"Police responded to West Georgia Medical Center at approximately 2:06 a.m. where they spoke with Sebrina Ford , 25 , of LaGrange who reported Cameron stabbed her in the chest with a knife at Just Right Sandwich Shop located in the 700 block of Johnson Street . "
+Jasmine Cameron,stab.01,Jasmine Cameron,with,Affirmative,"Police responded to West Georgia Medical Center at approximately 2:06 a.m. where they spoke with Sebrina Ford , 25 , of LaGrange who reported Cameron stabbed her in the chest with a knife at Just Right Sandwich Shop located in the 700 block of Johnson Street . "
+Jasmine Cameron,stab.01,Sebrina Ford,over,Affirmative,"According to officials , Cameron allegedly stabbed Ford over Cameron 's boyfriend who Ford previously dated . "
+Sebrina Ford,date.02,boyfriend,,Affirmative,"According to officials , Cameron allegedly stabbed Ford over Cameron 's boyfriend who Ford previously dated . "
+Police,call.01,Jasmine Cameron,,Affirmative,Police called Cameron and asked her to come to the LPD for an interview where they arrested her . 
+Police,ask.02,to come to,her,Affirmative,Police called Cameron and asked her to come to the LPD for an interview where they arrested her . 
+officials,arrest.01,Police,,Affirmative,Police called Cameron and asked her to come to the LPD for an interview where they arrested her . 

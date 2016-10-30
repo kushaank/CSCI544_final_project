@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A park visitor,find.01,him unconscious,,Affirmative,A park visitor found him unconscious and called authorities . 
+A park visitor,call.02,authorities,,Affirmative,A park visitor found him unconscious and called authorities . 
+the National Park Service,say.01,speed contributed,,Affirmative,"The collision is still under investigation , but the Park Service said speed contributed . "
+An unidentified 30-year-old man from Mexico City,wear.01,a seat belt,,Affirmative,The man was not wearing a seat belt . 
+An emergency caller,say.01,bystanders tried,,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+bystanders,try.01,to save,,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+bystanders,save.02,A 12-year-old boy,,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+bystanders,start.01,taking him to,,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+bystanders,take.01,A 12-year-old boy,to,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+deputies,take.01,A 12-year-old boy,to,Affirmative,"An emergency caller said bystanders tried to save the boy and started taking him to a hospital about 2:20 p.m. Mohave County sheriff 's deputies later took the boy to a hospital in Kingman , Ariz . "
+A 12-year-old boy,wear.01,a flotation device,,Affirmative,The boy did not wear a flotation device . 
+Two bystanders,try.01,to rescue her,,Affirmative,Two bystanders who initially tried to rescue her were flipped off their personal water craft . 
+Two bystanders,rescue.01,her,,Affirmative,Two bystanders who initially tried to rescue her were flipped off their personal water craft . 
+a ranger,grab.01,"The girl , who also was not wearing a flotation device",,Affirmative,"According to National Park Service , a ranger grabbed her from four feet underwater . "
+"The girl ,",wear.01,a flotation device,,Affirmative,"The girl , who also was not wearing a flotation device , was transported to a hospital and the two bystanders who flipped their water craft were rescued by Nevada Department of Wildlife game wardens . "
+the two bystanders,flip.01,their water craft,,Affirmative,"The girl , who also was not wearing a flotation device , was transported to a hospital and the two bystanders who flipped their water craft were rescued by Nevada Department of Wildlife game wardens . "
+by,rescue.01,the two bystanders,,Affirmative,"The girl , who also was not wearing a flotation device , was transported to a hospital and the two bystanders who flipped their water craft were rescued by Nevada Department of Wildlife game wardens . "
+Officials from,get.01,a call,,Affirmative,"Officials from the National Park Service and Bureau of Reclamation got a call at around 5:45 p.m. and reached the man , with the help of Las Vegas Metropolitan Police Department Search and Rescue , shortly before 8 p.m. , 1.5 miles from the trailhead . "
+Officials from,reach.01,"the man ,",,Affirmative,"Officials from the National Park Service and Bureau of Reclamation got a call at around 5:45 p.m. and reached the man , with the help of Las Vegas Metropolitan Police Department Search and Rescue , shortly before 8 p.m. , 1.5 miles from the trailhead . "

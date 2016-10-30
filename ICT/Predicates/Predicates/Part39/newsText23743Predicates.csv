@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Evil Sarah Smyth,plunder.01,account,,Affirmative,Evil Sarah Smyth plundered former RAF bomb disposal expert James Stevenson 's account after stealing his bank card at Carrickstone House Care Home in Cumbernauld . 
+Evil Sarah Smyth,steal.01,his bank card,,Affirmative,Evil Sarah Smyth plundered former RAF bomb disposal expert James Stevenson 's account after stealing his bank card at Carrickstone House Care Home in Cumbernauld . 
+A callous care worker,steal.01,bank card,,Affirmative,A callous care worker stole a dying great grandfather 's bank card to fund a spending spree . 
+Evil Sarah Smyth,blow.09,savings on clothes and trips to,,Affirmative,"Sarah Smyth blew James Stevenson 's savings on clothes and trips to the hairdressers , the Daily Record reported . "
+the Daily Record,report.01,Smyth blew,,Affirmative,"Sarah Smyth blew James Stevenson 's savings on clothes and trips to the hairdressers , the Daily Record reported . "
+His daughter Carol,say.01,Everyone is,,Affirmative,His daughter Carol said : Everyone is totally horrified by this . 
+"Smyth , 24 ,",prey.01,"on James , 82 ,",,Affirmative,"Smyth , 24 , preyed on James , 82 , when he went into Carrickstone House Care Home in Cumbernauld for a few weeks for rehabilitation after suffering two broken thighs . "
+"Smyth , from Cumbernauld",suffer.01,two broken thighs,,Affirmative,"Smyth , 24 , preyed on James , 82 , when he went into Carrickstone House Care Home in Cumbernauld for a few weeks for rehabilitation after suffering two broken thighs . "
+She,steal.01,bank card,,Affirmative,She stole James 's bank card and pin number from his wallet and lifted more than £2000 from his account in the days before he died . 
+She,pin.01,number,,Affirmative,She stole James 's bank card and pin number from his wallet and lifted more than £2000 from his account in the days before he died . 
+She,lift.01,more than £2000,from,Affirmative,She stole James 's bank card and pin number from his wallet and lifted more than £2000 from his account in the days before he died . 
+"Carol , 47 , from Cumbernauld",add.01,sister went,,Affirmative,"Carol , 47 , from Cumbernauld , added : My sister went to take out £20 for dad one day and the machine said the total amount available for withdrawal had been exceeded for that day . "
+My sister,take.02,£20 for dad,,Affirmative,"Carol , 47 , from Cumbernauld , added : My sister went to take out £20 for dad one day and the machine said the total amount available for withdrawal had been exceeded for that day . "
+the machine,say.01,had been exceeded for,,Affirmative,"Carol , 47 , from Cumbernauld , added : My sister went to take out £20 for dad one day and the machine said the total amount available for withdrawal had been exceeded for that day . "
+we,check.01,his account in the days,,Affirmative,"When we checked the account , we saw all these different transactions that none of us knew anything about . "
+we,see.01,all these different transactions,,Affirmative,"When we checked the account , we saw all these different transactions that none of us knew anything about . "
+none of us,know.01,anything,all these different transactions,Affirmative,"When we checked the account , we saw all these different transactions that none of us knew anything about . "
+"Smyth , from Cumbernauld",steal.01,card,,Affirmative,"Smyth , from Cumbernauld , stole James 's card and pin number on April 11 . "
+"Smyth , from Cumbernauld",pin.01,number,,Affirmative,"Smyth , from Cumbernauld , stole James 's card and pin number on April 11 . "
+"Carol , 47 , from Cumbernauld",add.01,We are not saying,,Affirmative,Carol added : We are not saying she killed him but it certainly put a lot of stress on my dad . 
+The retired plumber and gas heating engineer,say.01,she killed him but,,Affirmative,Carol added : We are not saying she killed him but it certainly put a lot of stress on my dad . 
+"Carol , 47 , from Cumbernauld",kill.01,"Smyth , from Cumbernauld",,Affirmative,Carol added : We are not saying she killed him but it certainly put a lot of stress on my dad . 
+a pulmonary embolism,put.01,a lot of stress,on,Affirmative,Carol added : We are not saying she killed him but it certainly put a lot of stress on my dad . 
+"Carol , 47 , from Cumbernauld",use.01,his bank card,,Affirmative,"Other times , she was using the card in River Island or at the hair salon . "
+my dad,know.01,what was going on,,Affirmative,My dad was sharp as a tack so he knew what was going on . 
+"Smyth , from Cumbernauld",admit.01,fraud and stealing,,Affirmative,"At Airdrie Sheriff Court , Smyth admitted fraud and stealing the card and pin number . "
+"Smyth , from Cumbernauld",steal.01,the card,,Affirmative,"At Airdrie Sheriff Court , Smyth admitted fraud and stealing the card and pin number . "
+"Smyth , from Cumbernauld",pin.01,number,,Affirmative,"At Airdrie Sheriff Court , Smyth admitted fraud and stealing the card and pin number . "
+"Four Seasons Health Care ,",run.01,Carrickstone House Care Home in Cumbernauld,,Affirmative,"Four Seasons Health Care , who run Carrickstone House , have repaid the stolen cash to James 's family . "
+"Four Seasons Health Care ,",repay.01,the stolen cash,,Affirmative,"Four Seasons Health Care , who run Carrickstone House , have repaid the stolen cash to James 's family . "
+A spokesman,say.01,We are,,Affirmative,A spokesman said : We are deeply saddened and disappointed that a care worker in our home would try to take advantage of one of the vulnerable people she was employed to care for . 
+We,disappoint.01,would try,,Affirmative,A spokesman said : We are deeply saddened and disappointed that a care worker in our home would try to take advantage of one of the vulnerable people she was employed to care for . 
+a care worker in,try.01,to take advantage of one of,,Affirmative,A spokesman said : We are deeply saddened and disappointed that a care worker in our home would try to take advantage of one of the vulnerable people she was employed to care for . 
+a care worker in,take.01,advantage,of one of,Affirmative,A spokesman said : We are deeply saddened and disappointed that a care worker in our home would try to take advantage of one of the vulnerable people she was employed to care for . 
+James 's family,care.01,for,,Affirmative,A spokesman said : We are deeply saddened and disappointed that a care worker in our home would try to take advantage of one of the vulnerable people she was employed to care for . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+We,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+We,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+We,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+We,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+We,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+We,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 

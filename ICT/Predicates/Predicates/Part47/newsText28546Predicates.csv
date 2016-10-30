@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( AP ) -,blast.05,college students,,Affirmative,( AP ) - A commencement speaker on Sunday blasted college students as immature and arrogant for protesting another speaker who then decided to withdraw . 
+another speaker,decide.01,to withdraw,,Affirmative,( AP ) - A commencement speaker on Sunday blasted college students as immature and arrogant for protesting another speaker who then decided to withdraw . 
+"William Bowen ,",use.01,his commencement speech,to criticize students,Affirmative,"William Bowen , former president of Princeton University , used his commencement speech at Haverford College outside Philadelphia to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+"William Bowen ,",criticize.01,students,,Affirmative,"William Bowen , former president of Princeton University , used his commencement speech at Haverford College outside Philadelphia to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+students,campaign.01,against,,Affirmative,"William Bowen , former president of Princeton University , used his commencement speech at Haverford College outside Philadelphia to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+several commencement speakers,cancel.01,their appearances,,Affirmative,Birgeneau is among several commencement speakers who canceled their appearances this spring amid student protests . 
+"Birgeneau ,",receive.01,an honorary degree,from Haverford,Affirmative,"Birgeneau , who was also supposed to receive an honorary degree from Haverford , refused those demands and others in a terse email . "
+"Birgeneau ,",refuse.01,those demands and others,,Affirmative,"Birgeneau , who was also supposed to receive an honorary degree from Haverford , refused those demands and others in a terse email . "
+He,call.01,withdrawal,a defeat for,Affirmative,He called Birgeneau 's withdrawal a defeat for the school . 
+His remarks,draw.02,a standing ovation,,Affirmative,His remarks drew a standing ovation . 

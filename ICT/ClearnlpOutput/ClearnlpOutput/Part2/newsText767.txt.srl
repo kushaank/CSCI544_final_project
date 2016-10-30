@@ -1,0 +1,8 @@
+1	Is	be	VBZ	pb=be.01	0	root	_
+2	Not	not	RB	_	1	neg	1:AM-NEG
+3	Available	available	JJ	_	1	acomp	1:A2=PRD
+4	At	at	IN	_	1	prep	1:AM-TMP
+5	This	this	DT	_	6	det	_
+6	Time	time	NNP	p2=NN	4	pobj	_
+7	.	.	.	_	1	punct	_
+

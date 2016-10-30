@@ -1,0 +1,17 @@
+1	Local	local	JJ	_	2	amod	_
+2	news	news	NN	_	0	root	8:A1=PPT
+3	for	for	IN	_	2	prep	_
+4	Nairobi	nairobi	NNP	_	3	pobj	_
+5	,	,	,	_	8	punct	_
+6	Kenya	kenya	NNP	_	8	nsubj	8:A0=PAG
+7	continually	continually	RB	_	8	advmod	8:AM-MNR
+8	updated	update	VBD	p2=VBN|pb=update.01	0	root	_
+9	from	from	IN	_	8	prep	_
+10	thousands	#crd#	NNS	_	9	pobj	_
+11	of	of	IN	_	10	prep	_
+12	sources	source	NNS	_	11	pobj	_
+13	on	on	IN	_	12	prep	_
+14	the	the	DT	_	15	det	_
+15	web	web	NN	_	13	pobj	_
+16	.	.	.	_	8	punct	_
+

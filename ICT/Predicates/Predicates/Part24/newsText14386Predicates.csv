@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Boulder police,announce.01,looking for,,Affirmative,Boulder police today announced they are no longer looking for a masked man or a car like those seen in the movie Grease following a woman 's report that she was grabbed by an assailant and sexually assaulted more than a week ago . 
+they,look.01,for,,Affirmative,Boulder police today announced they are no longer looking for a masked man or a car like those seen in the movie Grease following a woman 's report that she was grabbed by an assailant and sexually assaulted more than a week ago . 
+by,grab.01,those seen in the movie `` Grease '' following a woman 's report,,Affirmative,Boulder police today announced they are no longer looking for a masked man or a car like those seen in the movie Grease following a woman 's report that she was grabbed by an assailant and sexually assaulted more than a week ago . 
+Police,say.01,that they do not believe,,Affirmative,Police said in a news release Monday that they do not believe there is any danger to the public . 
+Police,believe.01,there is,,Affirmative,Police said in a news release Monday that they do not believe there is any danger to the public . 
+"Kim Kobel ,",decline.02,to elaborate,,Affirmative,"Kim Kobel , a Boulder police spokeswoman , declined to elaborate , saying the investigation is still ongoing . "
+"Kim Kobel ,",say.01,investigation is still ongoing,,Affirmative,"Kim Kobel , a Boulder police spokeswoman , declined to elaborate , saying the investigation is still ongoing . "
+a woman 's,say.01,she was leaving,,Affirmative,"The woman said she was leaving her workplace when a man wearing a ski mask grabbed her from behind bear - hug style , dragged her to a nearby car and sexually assaulted her , according to police . "
+a woman 's,leave.01,her workplace,,Affirmative,"The woman said she was leaving her workplace when a man wearing a ski mask grabbed her from behind bear - hug style , dragged her to a nearby car and sexually assaulted her , according to police . "
+a man wearing,wear.01,a ski mask,,Affirmative,"The woman said she was leaving her workplace when a man wearing a ski mask grabbed her from behind bear - hug style , dragged her to a nearby car and sexually assaulted her , according to police . "
+a man wearing,grab.01,a woman 's,,Affirmative,"The woman said she was leaving her workplace when a man wearing a ski mask grabbed her from behind bear - hug style , dragged her to a nearby car and sexually assaulted her , according to police . "
+a woman 's,say.01,"attacker was muscular , of",,Affirmative,"The woman said her attacker was muscular , of unknown height and wore a long - sleeve , collared , polo - style shirt and pants made of rough fabric . "
+her attacker,wear.01,a long - sleeve,,Affirmative,"The woman said her attacker was muscular , of unknown height and wore a long - sleeve , collared , polo - style shirt and pants made of rough fabric . "
+Police,say.01,man had,,Affirmative,"Police said the man had a deep voice , no accent and wore cologne . "
+a man wearing a ski mask,have.03,a deep voice,,Affirmative,"Police said the man had a deep voice , no accent and wore cologne . "
+a man wearing a ski mask,wear.01,cologne,,Affirmative,"Police said the man had a deep voice , no accent and wore cologne . "
+The victim,describe.01,a nearby car,as,Affirmative,"The victim initially described the car as an older , boxy car like the vehicles in the movie ' Grease , ' police said . "
+police,say.01,victim initially described,,Affirmative,"The victim initially described the car as an older , boxy car like the vehicles in the movie ' Grease , ' police said . "
+a nearby car,have.03,two bucket seats,,Affirmative,"The car was light colored , had two bucket seats and had an old - style radio in it , according to police . "
+a nearby car,have.03,style radio in it,,Affirmative,"The car was light colored , had two bucket seats and had an old - style radio in it , according to police . "
+Police,ask.02,call,,Affirmative,Police ask that anyone with information about the case call Detective Brannon Winn at 303-441-4477 . 
+anyone with information about,call.01,Brannon Winn,,Affirmative,Police ask that anyone with information about the case call Detective Brannon Winn at 303-441-4477 . 
+Those,have.03,information,,Affirmative,Those who have information but who wish to remain anonymous may contact the Northern Colorado Crime Stoppers at 1-800-222 - TIPS ( 8477 ) or 1-800-444-3776 . 
+Those,wish.01,to remain anonymous,,Affirmative,Those who have information but who wish to remain anonymous may contact the Northern Colorado Crime Stoppers at 1-800-222 - TIPS ( 8477 ) or 1-800-444-3776 . 
+Those,contact.01,Crime Stoppers,,Affirmative,Those who have information but who wish to remain anonymous may contact the Northern Colorado Crime Stoppers at 1-800-222 - TIPS ( 8477 ) or 1-800-444-3776 . 
+Those submitting tips through,submit.01,Tips,,Affirmative,"Those submitting tips through Crime Stoppers that lead to the arrest and filing of charges on a suspect ( s ) may be eligible for a cash reward of up to $ 1,000 from Crime Stoppers . "

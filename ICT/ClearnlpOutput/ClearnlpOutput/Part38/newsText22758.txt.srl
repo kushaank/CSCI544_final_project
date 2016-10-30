@@ -1,0 +1,51 @@
+1	2	0	CD	p2=LS	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	week	week	NN	_	4	nn	_
+4	trial*	trial*	NN	p2=NNS	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Subscribe	subscribe	NNP	p2=VB	4	nsubj	4:A0=PAG
+2	now	now	RB	_	1	advmod	_
+3	to	to	TO	p2=IN	4	aux	_
+4	access	access	VB	pb=access.01	0	root	_
+5	Legal	legal	NNP	_	6	nn	_
+6	Week	week	NNP	_	9	poss	_
+7	's	's	POS	_	6	possessive	_
+8	latest	late	JJS	_	9	amod	_
+9	news	news	NN	_	4	dobj	4:A1=PPT
+10	,	,	,	_	9	punct	_
+11	analysis	analysis	NN	_	9	conj	_
+12	,	,	,	_	11	punct	_
+13	views	view	NNS	p2=NN	11	conj	_
+14	and	and	CC	_	13	cc	_
+15	industry	industry	NN	_	16	nn	_
+16	comment	comment	NN	_	13	conj	_
+17	for	for	IN	_	16	prep	_
+18	1	0	CD	_	19	num	_
+19	year	year	NN	_	17	pobj	_
+20	.	.	.	_	4	punct	_
+
+1	Pay	pay	VB	p2=NN|pb=pay.01	0	root	_
+2	by	by	IN	_	1	prep	1:AM-MNR
+3	Credit	credit	NNP	p2=NN	4	nn	_
+4	Card	card	NNP	_	2	pobj	_
+5	for	for	IN	_	1	prep	1:A3=PPT
+6	immediate	immediate	JJ	_	7	amod	_
+7	access	access	NN	_	5	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	Get	get	VB	pb=get.01	0	root	_
+2	the	the	DT	_	5	det	_
+3	latest	late	JJS	_	5	amod	_
+4	Legal	legal	NNP	p2=JJ	5	nn	_
+5	Week	week	NNP	_	1	dobj	1:A1=PPT
+6	daily	daily	RB	p2=JJ	1	advmod	1:AM-TMP
+7	and	and	CC	_	1	cc	_
+8	weekly	weekly	JJ	p2=RB	9	amod	_
+9	updates	update	NNS	_	1	conj	10:A1=PPT
+10	delivered	deliver	VBN	p2=VBD|pb=deliver.01	9	partmod	_
+11	to	to	IN	_	10	prep	10:A2=GOL
+12	your	your	PRP$	_	13	poss	_
+13	inbox	inbox	NN	_	11	pobj	_
+14	.	.	.	_	1	punct	_
+

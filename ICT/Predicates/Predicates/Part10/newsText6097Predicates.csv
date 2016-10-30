@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+Prosecutors,keep.01,Street protester,,Affirmative,"Prosecutors will fight to keep in jail the Occupy Wall Street protester recently convicted of assaulting a cop , law - enforcement sources told The Post . "
+enforcement sources,tell.01,Prosecutors will fight,The Post,Affirmative,"Prosecutors will fight to keep in jail the Occupy Wall Street protester recently convicted of assaulting a cop , law - enforcement sources told The Post . "
+old queen of non-violence,elbow.01,a cop in,,Affirmative,"Cecily McMillan , the 25 - year - old queen of non-violence who was found to have intentionally elbowed a cop in the eye during a demonstration at Zuccotti Park , faces as little as probation at her sentencing Monday . "
+"Cecily McMillan ,",face.01,as little as probation,,Affirmative,"Cecily McMillan , the 25 - year - old queen of non-violence who was found to have intentionally elbowed a cop in the eye during a demonstration at Zuccotti Park , faces as little as probation at her sentencing Monday . "
+Prosecutors,try.01,to convince,,Affirmative,"But prosecutors will try to convince Manhattan Supreme Court Justice Ronald Zweibel to slap her with jail time for the felony assault , which carries a maximum sentence of seven years . "
+Prosecutors,convince.01,Court Justice Ronald Zweibel,to slap her with,Affirmative,"But prosecutors will try to convince Manhattan Supreme Court Justice Ronald Zweibel to slap her with jail time for the felony assault , which carries a maximum sentence of seven years . "
+Court Justice Ronald Zweibel,slap.01,Cecily McMillan,,Affirmative,"But prosecutors will try to convince Manhattan Supreme Court Justice Ronald Zweibel to slap her with jail time for the felony assault , which carries a maximum sentence of seven years . "
+"the felony assault ,",carry.01,a maximum sentence of,,Affirmative,"But prosecutors will try to convince Manhattan Supreme Court Justice Ronald Zweibel to slap her with jail time for the felony assault , which carries a maximum sentence of seven years . "
+a jury,convict.01,Cecily McMillan,of assaulting,Affirmative,McMillan was remanded to Rikers Island earlier this month after a jury convicted her of assaulting NYPD Officer Grantley Bovell as he escorted her from the protest . 
+Cecily McMillan,assault.01,Officer Grantley Bovell,,Affirmative,McMillan was remanded to Rikers Island earlier this month after a jury convicted her of assaulting NYPD Officer Grantley Bovell as he escorted her from the protest . 
+Manhattan Supreme Court Justice Ronald Zweibel to slap,escort.01,Cecily McMillan,,Affirmative,McMillan was remanded to Rikers Island earlier this month after a jury convicted her of assaulting NYPD Officer Grantley Bovell as he escorted her from the protest . 
+Cecily McMillan,turn.05,jail deal,,Affirmative,She previously turned down a no - jail deal in exchange for pleading to the felony . 
+attorney Martin Stolar,plan.01,to appeal,,Affirmative,Defense attorney Martin Stolar plans to appeal the conviction . 
+attorney Martin Stolar,appeal.01,the conviction,,Affirmative,Defense attorney Martin Stolar plans to appeal the conviction . 
+Defense attorney Martin Stolar,say.01,", there will be",,Affirmative,"If she 's sentenced to jail , there will be another motion to get her released pending an appeal , he said . "
+Cecily McMillan,claim.01,Bovell grabbed,,Affirmative,"McMillan claimed Bovell grabbed her breast from behind , prompting her to respond . "
+NYPD Officer Grantley Bovell as he escorted her from the protest,grab.01,her breast,,Affirmative,"McMillan claimed Bovell grabbed her breast from behind , prompting her to respond . "
+NYPD Officer Grantley Bovell as he escorted her from the protest,prompt.02,Cecily McMillan,to respond,Affirmative,"McMillan claimed Bovell grabbed her breast from behind , prompting her to respond . "
+Cecily McMillan,testify.01,that she did n't remember,,Affirmative,She testified that she did n't remember what happened after she was arrested and claimed to have suffered a seizure . 
+Cecily McMillan,remember.01,what happened,,Affirmative,She testified that she did n't remember what happened after she was arrested and claimed to have suffered a seizure . 
+Cecily McMillan,suffer.01,a seizure,,Affirmative,She testified that she did n't remember what happened after she was arrested and claimed to have suffered a seizure . 
+The Yankees,lead.01,the Angels 6-5,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+Mariano Rivera,blow.10,the save,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+"Jeter ,",hit.02,off single,,Affirmative,"Leave it to Jeter , who hits a walk - off single in the ninth inning for a 7-6 Yankees win . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

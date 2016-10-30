@@ -1,0 +1,87 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+' Man in,get.01,14 years,,Affirmative,"' Man in Black ' bank robber gets 14 years for ' reign of terror ' Surveillance photos from the May 13 , 2011 , robbery of Merchants Bank in Hampton , the 13th heist attributed to the Man in Black . "
+Mark Edward Wetsch,get.01,"$ 9,445",,Affirmative,"Mark Wetsch allegedly got $ 9,445 in the robbery . "
+"the May 13 , 2011 , robbery of Merchants Bank in Hampton , the 13th heist attributed to the `` Man in Black",take.10,a year for,,Affirmative,It took a year for Sheikh Bilaal Muhammad Arafat -- known to the FBI as the Man in Black -- to rob 31 banks . 
+the `` Man in Black '',instil.01,The terror,,Affirmative,"The terror he instilled while demanding money with armed threats , his victims said , will last much longer . "
+the `` Man in Black '',demand.01,money,,Affirmative,"The terror he instilled while demanding money with armed threats , his victims said , will last much longer . "
+his victims,say.01,will last,,Affirmative,"The terror he instilled while demanding money with armed threats , his victims said , will last much longer . "
+"Pat Zellmann , 52 ,",say.01,We live with this,,Affirmative,"We live with this forever , said Pat Zellmann , 52 , a manager at KleinBank in Cologne , Minn . "
+Pat Zellmann,describe.01,"the nightmares ,",,Affirmative,"In a St. Paul federal courtroom Monday for Arafat 's sentencing , Zellmann described the nightmares , fervent fears and shattered sense of security that followed the March 2011 robbery in which Arafat , formerly known as Mark Edward Wetsch , wielded a knife and a convincing toy gun . "
+"Arafat ,",wield.01,a knife,,Affirmative,"In a St. Paul federal courtroom Monday for Arafat 's sentencing , Zellmann described the nightmares , fervent fears and shattered sense of security that followed the March 2011 robbery in which Arafat , formerly known as Mark Edward Wetsch , wielded a knife and a convincing toy gun . "
+She,start.01,wondering,,Affirmative,"She started wondering if he was following her , she said . "
+She,wonder.01,if he was following her,,Affirmative,"She started wondering if he was following her , she said . "
+Paul,follow.02,She,,Affirmative,"She started wondering if he was following her , she said . "
+She,say.01,She started wondering,,Affirmative,"She started wondering if he was following her , she said . "
+She,start.01,begging,,Affirmative,She started begging her 12 - year - old granddaughter to stay the night when her husband was out of town . 
+She,beg.01,old granddaughter,to stay,Affirmative,She started begging her 12 - year - old granddaughter to stay the night when her husband was out of town . 
+"Pat Zellmann , 52 , a manager at KleinBank in Cologne , Minn.",take.01,my trust,,Affirmative,"You took away my trust , Zellman said , reading a statement to the court . "
+Pat Zellmann,say.01,You took away,,Affirmative,"You took away my trust , Zellman said , reading a statement to the court . "
+Pat Zellmann,read.01,a statement to,,Affirmative,"You took away my trust , Zellman said , reading a statement to the court . "
+"Arafat , formerly known as Mark Edward Wetsch",plead.02,guilty,to six,Affirmative,The robberies -- Arafat pleaded guilty in 2013 to six and admitted to the other 25 -- landed him a 14 - year federal prison sentence from U.S. District Judge Susan Richard Nelson . 
+"Arafat , formerly known as Mark Edward Wetsch",admit.01,to,,Affirmative,The robberies -- Arafat pleaded guilty in 2013 to six and admitted to the other 25 -- landed him a 14 - year federal prison sentence from U.S. District Judge Susan Richard Nelson . 
+"Arafat , formerly known as Mark Edward Wetsch",land.01,year federal prison sentence from,,Affirmative,The robberies -- Arafat pleaded guilty in 2013 to six and admitted to the other 25 -- landed him a 14 - year federal prison sentence from U.S. District Judge Susan Richard Nelson . 
+U.S. District Judge Susan Richard Nelson,say.01,crimes were nothing short of,,Affirmative,"In pronouncing sentence , Nelson said the crimes were nothing short of a reign of terror that caused unthinkable emotional damage to dozens of victims . "
+nothing short of,cause.01,unthinkable emotional damage,,Affirmative,"In pronouncing sentence , Nelson said the crimes were nothing short of a reign of terror that caused unthinkable emotional damage to dozens of victims . "
+She,say.01,", had taken",,Affirmative,"She also said Arafat , 51 , had taken no responsibility and shown no remorse for the robberies . "
+"Arafat , formerly known as Mark Edward Wetsch",take.01,no responsibility,,Affirmative,"She also said Arafat , 51 , had taken no responsibility and shown no remorse for the robberies . "
+"Arafat , formerly known as Mark Edward Wetsch",show.01,no remorse for,,Affirmative,"She also said Arafat , 51 , had taken no responsibility and shown no remorse for the robberies . "
+"Arafat , formerly known as Mark Edward Wetsch",decide.01,to represent himself,,Affirmative,"He went through two public defenders before deciding to represent himself , filed hundreds of court documents on a wide range of topics and tried to withdraw his plea agreement , claiming it was coerced and unjust . "
+"Arafat , formerly known as Mark Edward Wetsch",represent.01,"Arafat , formerly known as Mark Edward Wetsch",,Affirmative,"He went through two public defenders before deciding to represent himself , filed hundreds of court documents on a wide range of topics and tried to withdraw his plea agreement , claiming it was coerced and unjust . "
+filed hundreds of,try.01,to withdraw,,Affirmative,"He went through two public defenders before deciding to represent himself , filed hundreds of court documents on a wide range of topics and tried to withdraw his plea agreement , claiming it was coerced and unjust . "
+filed hundreds of,withdraw.01,his plea agreement,,Affirmative,"He went through two public defenders before deciding to represent himself , filed hundreds of court documents on a wide range of topics and tried to withdraw his plea agreement , claiming it was coerced and unjust . "
+filed hundreds of,claim.01,it was coerced and unjust,,Affirmative,"He went through two public defenders before deciding to represent himself , filed hundreds of court documents on a wide range of topics and tried to withdraw his plea agreement , claiming it was coerced and unjust . "
+"Arafat , formerly known as Mark Edward Wetsch",file.01,a sentencing statement titled,,Affirmative,"As recently as May 14 , he filed a sentencing statement titled Innocence Gone Wrong that began : I am innocent and I accept absolutely no responsibility for the charged offenses the Government has charged me with . "
+"Arafat , formerly known as Mark Edward Wetsch",accept.01,no responsibility for,,Affirmative,"As recently as May 14 , he filed a sentencing statement titled Innocence Gone Wrong that began : I am innocent and I accept absolutely no responsibility for the charged offenses the Government has charged me with . "
+the Government,charge.05,"Arafat , formerly known as Mark Edward Wetsch",with,Affirmative,"As recently as May 14 , he filed a sentencing statement titled Innocence Gone Wrong that began : I am innocent and I accept absolutely no responsibility for the charged offenses the Government has charged me with . "
+a sentencing statement titled `` Innocence Gone Wrong '' that began : `` I am innocent,say.01,resident robbed,,Affirmative,"The statement went on to say the Chaska resident robbed only one bank -- the one in Brewer , Minn . "
+the Chaska resident,rob.01,one bank --,,Affirmative,"The statement went on to say the Chaska resident robbed only one bank -- the one in Brewer , Minn . "
+the perpetrator,wear.01,the black ski mask and,,Affirmative,", that led to his arrest in January 2012 -- as a copycat crime after hearing about other robberies in which the perpetrator wore the black ski mask and dark clothing that gave him his nickname . "
+the black ski mask and,give.01,his nickname,him,Affirmative,", that led to his arrest in January 2012 -- as a copycat crime after hearing about other robberies in which the perpetrator wore the black ski mask and dark clothing that gave him his nickname . "
+"Police , prosecutors and",turn.02,him,into,Affirmative,"Police , prosecutors and the judge turned him into a scapegoat , he wrote . "
+the judge,write.01,turned him into,,Affirmative,"Police , prosecutors and the judge turned him into a scapegoat , he wrote . "
+the judge,say.01,are myself and,,Affirmative,"The only victims here are myself and my children , he said . "
+He,say.01,that prosecutors were out,,Affirmative,He also said that prosecutors were out to get him because he is a Muslim -- and that Nelson wanted to throw the book at him because of my unprecedented success in being a formidable and pertinacious pro se adversary and nemesis in the courtroom . 
+prosecutors,get.01,him,,Affirmative,He also said that prosecutors were out to get him because he is a Muslim -- and that Nelson wanted to throw the book at him because of my unprecedented success in being a formidable and pertinacious pro se adversary and nemesis in the courtroom . 
+Nelson,want.01,to throw,,Affirmative,He also said that prosecutors were out to get him because he is a Muslim -- and that Nelson wanted to throw the book at him because of my unprecedented success in being a formidable and pertinacious pro se adversary and nemesis in the courtroom . 
+Nelson,throw.01,the book,at him,Affirmative,He also said that prosecutors were out to get him because he is a Muslim -- and that Nelson wanted to throw the book at him because of my unprecedented success in being a formidable and pertinacious pro se adversary and nemesis in the courtroom . 
+The statement,rail.01,against,,Affirmative,"The statement railed against the facts of his case , the justice system , the U.S. Congress and the banking industry . "
+She,remark.01,that Arafat seemed ready,,Affirmative,She remarked that Arafat seemed ready to blame anyone and everyone except himself . 
+Arafat,blame.01,anyone and everyone,,Affirmative,She remarked that Arafat seemed ready to blame anyone and everyone except himself . 
+she,say.01,is,,Affirmative,"Nowhere in any of these filings , she said , is any concern for anybody other than you . "
+Arafat,say.01,that was n't,,Affirmative,"Arafat said that was n't the case , saying he had tremendous concern for his family . "
+the case,say.01,he had,,Affirmative,"Arafat said that was n't the case , saying he had tremendous concern for his family . "
+U.S. District Judge Susan Richard Nelson,have.03,tremendous concern for,,Affirmative,"Arafat said that was n't the case , saying he had tremendous concern for his family . "
+He,ask.02,to recommend,Nelson,Affirmative,He asked Nelson to recommend he serve his time at one of two West Coast prisons to be closer to his children and try to repair some broken relationships . 
+Nelson,recommend.01,he serve,,Affirmative,He asked Nelson to recommend he serve his time at one of two West Coast prisons to be closer to his children and try to repair some broken relationships . 
+he,serve.01,his time,,Affirmative,He asked Nelson to recommend he serve his time at one of two West Coast prisons to be closer to his children and try to repair some broken relationships . 
+he,try.01,to repair,,Affirmative,He asked Nelson to recommend he serve his time at one of two West Coast prisons to be closer to his children and try to repair some broken relationships . 
+Attorney Deidre Aanstad,prosecute.01,the case,,Affirmative,Assistant U.S. Attorney Deidre Aanstad prosecuted the case . 
+She,ask.02,to impose,Nelson,Affirmative,She asked Nelson to impose the 14 - year sentence . 
+U.S. District Judge Susan Richard Nelson,impose.01,year sentence,,Affirmative,She asked Nelson to impose the 14 - year sentence . 
+Nelson,order.01,Arafat,to pay,Affirmative,"In addition to the prison sentence , which was in line with the plea agreement , Nelson ordered Arafat to pay about $ 108,000 in restitution . "
+Arafat,pay.01,"about $ 108,000 in restitution",,Affirmative,"In addition to the prison sentence , which was in line with the plea agreement , Nelson ordered Arafat to pay about $ 108,000 in restitution . "
+U.S. District Judge Susan Richard Nelson,owe.01,about $ 1.5 million in restitution,for,Affirmative,He already owes about $ 1.5 million in restitution for a previous federal conviction for swindling with phony invoices a nursing home he used to work for . 
+He,plead.02,guilty to,,Affirmative,He pleaded guilty to that offense in 2005 and spent nearly three years in federal prison . 
+He,spend.02,three years,,Affirmative,He pleaded guilty to that offense in 2005 and spent nearly three years in federal prison . 
+Prosecutors,say.01,paid off debts and funded,,Affirmative,"Prosecutors said the money he stole paid off debts and funded fancy cars , exotic vacations and extensive home remodeling . "
+U.S. District Judge Susan Richard Nelson,steal.01,the money,,Affirmative,"Prosecutors said the money he stole paid off debts and funded fancy cars , exotic vacations and extensive home remodeling . "
+the money,fund.01,"fancy cars ,",,Affirmative,"Prosecutors said the money he stole paid off debts and funded fancy cars , exotic vacations and extensive home remodeling . "
+"Arafat , formerly known as Mark Edward Wetsch",say.01,he started robbing banks for,,Affirmative,"In court filings , he said he started robbing banks for the purpose of economic security in the middle of a custody battle with the mother of one of his daughters . "
+"Arafat , formerly known as Mark Edward Wetsch",start.01,robbing banks for,,Affirmative,"In court filings , he said he started robbing banks for the purpose of economic security in the middle of a custody battle with the mother of one of his daughters . "
+"Arafat , formerly known as Mark Edward Wetsch",rob.01,banks,,Affirmative,"In court filings , he said he started robbing banks for the purpose of economic security in the middle of a custody battle with the mother of one of his daughters . "
+Arafat,argue.01,he had n't committed,,Affirmative,"At sentencing , Arafat argued he had n't committed armed robbery because the fake gun he used in many of the robberies was n't actually a dangerous weapon . "
+he,commit.01,armed robbery,,Affirmative,"At sentencing , Arafat argued he had n't committed armed robbery because the fake gun he used in many of the robberies was n't actually a dangerous weapon . "
+he,use.01,the fake gun,,Affirmative,"At sentencing , Arafat argued he had n't committed armed robbery because the fake gun he used in many of the robberies was n't actually a dangerous weapon . "
+Zellman,scoff.01,at,,Affirmative,"In her statement , Zellman scoffed at the distinction . "
+I,know.01,how you can see,,Affirmative,"I do n't know how you can see why a toy gun matters , she said , when she feared for her life just the same . "
+you,see.01,why a toy gun matters,,Affirmative,"I do n't know how you can see why a toy gun matters , she said , when she feared for her life just the same . "
+many of the robberies,say.01,I do n't know,,Affirmative,"I do n't know how you can see why a toy gun matters , she said , when she feared for her life just the same . "
+She,forgive.01,Arafat,,Affirmative,"She was ready to forgive Arafat when he first pleaded guilty , she said , expecting contrition . "
+"Arafat , formerly known as Mark Edward Wetsch",plead.02,guilty,,Affirmative,"She was ready to forgive Arafat when he first pleaded guilty , she said , expecting contrition . "
+many of the robberies,say.01,She was ready,,Affirmative,"She was ready to forgive Arafat when he first pleaded guilty , she said , expecting contrition . "
+many of the robberies,expect.01,contrition,,Affirmative,"She was ready to forgive Arafat when he first pleaded guilty , she said , expecting contrition . "
+many of the robberies,say.01,she saw smugness and defiance,,Affirmative," Instead , she said she saw smugness and defiance as he continued to fight after the plea . "
+many of the robberies,see.01,smugness and defiance,,Affirmative," Instead , she said she saw smugness and defiance as he continued to fight after the plea . "
+he,continue.01,to fight after,,Affirmative," Instead , she said she saw smugness and defiance as he continued to fight after the plea . "
+God,teach.01,to forgive,me,Affirmative,"God teaches me to forgive , she said . "
+she,say.01,God teaches me,,Affirmative,"God teaches me to forgive , she said . "

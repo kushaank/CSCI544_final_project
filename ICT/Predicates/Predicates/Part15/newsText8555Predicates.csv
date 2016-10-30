@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Researchers,track.01,a great white shark,,Affirmative,"Researchers are tracking a great white shark that has traveled nearly 4,000 miles to South Florida waters after she was tagged in Massachusetts . "
+a great white shark,travel.01,"4,000 miles",,Affirmative,"Researchers are tracking a great white shark that has traveled nearly 4,000 miles to South Florida waters after she was tagged in Massachusetts . "
+by,name.01,"The shark , named Katharine by",Katharine,Affirmative,"The shark , named Katharine by nonprofit shark research group OCEARCH , was last tracked by satellite Sunday at 11:05 a.m. in waters just east of Biscayne National Park . "
+by satellite,track.01,"The shark , named Katharine by",,Affirmative,"The shark , named Katharine by nonprofit shark research group OCEARCH , was last tracked by satellite Sunday at 11:05 a.m. in waters just east of Biscayne National Park . "
+nonprofit shark research group OCEARCH,follow.02,Katharine,,Affirmative,"OCEARCH has been following Katharine since August 19 , when she was tagged in Cape Cod , Mass . "
+Katharine,have.03,"a Twitter feed ,",,Affirmative,"Katharine the shark also has a Twitter feed , where comical posts can be found , such as , I like spots where no one bugs me , and , You know I 'm not the only one here , right ? "
+Katharine the shark,like.01,spots,,Affirmative,"Katharine the shark also has a Twitter feed , where comical posts can be found , such as , I like spots where no one bugs me , and , You know I 'm not the only one here , right ? "
+no one,bug.02,Katharine the shark,,Affirmative,"Katharine the shark also has a Twitter feed , where comical posts can be found , such as , I like spots where no one bugs me , and , You know I 'm not the only one here , right ? "

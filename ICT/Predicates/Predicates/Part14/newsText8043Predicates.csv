@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Philip Roth ,",confirm.01,he will be retiring from writing and from,,Affirmative,"Philip Roth , widely regarded as one of the greatest US novelists of his generation , has confirmed he will be retiring from writing and from the public stage during a final interview with the BBC . "
+Philip Roth,retire.01,from writing and from,,Affirmative,"Philip Roth , widely regarded as one of the greatest US novelists of his generation , has confirmed he will be retiring from writing and from the public stage during a final interview with the BBC . "
+Philip Roth,stun.01,the literary world,,Affirmative,Roth stunned the literary world 18 months ago when he told French cultural magazine Les Inrockuptibles he was laying down his pen . 
+Philip Roth,tell.01,he was laying down,French cultural magazine,Affirmative,Roth stunned the literary world 18 months ago when he told French cultural magazine Les Inrockuptibles he was laying down his pen . 
+Philip Roth,lay.01,his pen,,Affirmative,Roth stunned the literary world 18 months ago when he told French cultural magazine Les Inrockuptibles he was laying down his pen . 
+year - old,confirm.01,his retirement,,Affirmative,"In the interview for BBC programe Imagine , the 80 - year - old confirmed his retirement while looking back on the events that shaped a career spanning over 50 years and 31 books . "
+year - old,look.01,on,,Affirmative,"In the interview for BBC programe Imagine , the 80 - year - old confirmed his retirement while looking back on the events that shaped a career spanning over 50 years and 31 books . "
+the events,shape.01,a career spanning,,Affirmative,"In the interview for BBC programe Imagine , the 80 - year - old confirmed his retirement while looking back on the events that shaped a career spanning over 50 years and 31 books . "
+a career spanning,span.01,50 years and,,Affirmative,"In the interview for BBC programe Imagine , the 80 - year - old confirmed his retirement while looking back on the events that shaped a career spanning over 50 years and 31 books . "
+Goodbye,hit.01,stardom,with,Affirmative,"After limited success with 1959 novella Goodbye , Columbus , he hit stardom in 1969 with Portnoy 's Complaint , a sexually explicit comedy about a young Jewish - American obsessed by masturbation and his mother . "
+by masturbation and,obsess.01,a young Jewish - American obsessed by masturbation and,,Affirmative,"After limited success with 1959 novella Goodbye , Columbus , he hit stardom in 1969 with Portnoy 's Complaint , a sexually explicit comedy about a young Jewish - American obsessed by masturbation and his mother . "
+by,release.01,extracts of which,,Affirmative,"During the interview , extracts of which were released by the BBC , Roth said that a comment made in 2004 , in which he insisted he could not live without writing , had been misguided . "
+Philip Roth,say.01,were released by,,Affirmative,"During the interview , extracts of which were released by the BBC , Roth said that a comment made in 2004 , in which he insisted he could not live without writing , had been misguided . "
+Philip Roth,insist.01,he could not live without writing,,Affirmative,"During the interview , extracts of which were released by the BBC , Roth said that a comment made in 2004 , in which he insisted he could not live without writing , had been misguided . "
+Goodbye,tell.01,I was wrong,chief Yentob,Affirmative,"I was wrong , he told former BBC One chief Yentob . "
+Goodbye,reach.01,the end,,Affirmative,I had reached the end . 
+Goodbye,write.01,about,,Affirmative,There was nothing more for me to write about . 
+Philip Roth,quote.01,boxer Joe Louis,,Affirmative,"Quoting legendary American boxer Joe Louis , Roth said he had done the best he could with what he had . "
+Philip Roth,say.01,he had done,,Affirmative,"Quoting legendary American boxer Joe Louis , Roth said he had done the best he could with what he had . "
+Joe Louis,do.02,the best,with,Affirmative,"Quoting legendary American boxer Joe Louis , Roth said he had done the best he could with what he had . "
+"the interview , extracts of which were released by the BBC",examine.01,the influence of,,Affirmative,"The interview took place in Newark , and examines the influence of the neighborhood on his work . "
+Joe Louis,discuss.01,the importance of,,Affirmative,"He also discussed the importance of his time in communist Prague during the 1970 s , and of a spell living in Israel . "
+Philip Roth,live.01,a secluded life,,Affirmative,"In his later years , Roth has lived a secluded life in the Connecticut countryside , which he described as a very congenial place to live and work . "
+The writer,describe.01,"the Connecticut countryside ,",as,Affirmative,"In his later years , Roth has lived a secluded life in the Connecticut countryside , which he described as a very congenial place to live and work . "

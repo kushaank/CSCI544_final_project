@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Warren teen wearing,wear.01,latex gloves,,Affirmative,A Warren teen wearing latex gloves was arrested early Sunday morning after police said he burglarized Ferndale High School . 
+police,say.01,he burglarized,,Affirmative,A Warren teen wearing latex gloves was arrested early Sunday morning after police said he burglarized Ferndale High School . 
+A Warren teen wearing latex gloves was arrested early Sunday morning after police,burglarize.01,Ferndale High School,,Affirmative,A Warren teen wearing latex gloves was arrested early Sunday morning after police said he burglarized Ferndale High School . 
+"The boy , 15 ,",run.02,from,,Affirmative,"The boy , 15 , ran from the building at 881 Pinecrest , shortly after an alarm alerted police to the burglary about 3 a.m. , said Ferndale Police Lt. William Wilson . "
+an alarm,alert.01,police,to,Affirmative,"The boy , 15 , ran from the building at 881 Pinecrest , shortly after an alarm alerted police to the burglary about 3 a.m. , said Ferndale Police Lt. William Wilson . "
+Lt. William Wilson,say.01,ran from,,Affirmative,"The boy , 15 , ran from the building at 881 Pinecrest , shortly after an alarm alerted police to the burglary about 3 a.m. , said Ferndale Police Lt. William Wilson . "
+The boy,steal.01,a camera and,,Affirmative,"He had stolen a camera and some candy from inside the school , Wilson added . "
+Ferndale Police Lt. William Wilson,add.01,He had stolen,,Affirmative,"He had stolen a camera and some candy from inside the school , Wilson added . "
+Police from,respond.01,to,,Affirmative,Police from four cities responded to the alarm . 
+Police from four cities,say.01,they saw,,Affirmative,"Police said they saw the teen as he ran , but chased him down and arrested him . "
+Police from four cities,see.01,A Warren teen wearing latex gloves was arrested early Sunday morning after police,,Affirmative,"Police said they saw the teen as he ran , but chased him down and arrested him . "
+Police from four cities,chase.01,A Warren teen wearing latex gloves was arrested early Sunday morning after police,,Affirmative,"Police said they saw the teen as he ran , but chased him down and arrested him . "
+Police from four cities,arrest.01,A Warren teen wearing latex gloves was arrested early Sunday morning after police,,Affirmative,"Police said they saw the teen as he ran , but chased him down and arrested him . "
+Ferndale Police Lt. William Wilson,say.01,they spotted,,Affirmative,Wilson said when officers first arrived at the high school they spotted a second - story window open . 
+officers,spot.01,story window open,,Affirmative,Wilson said when officers first arrived at the high school they spotted a second - story window open . 

@@ -1,0 +1,112 @@
+1	Gov.	gov.	NNP	_	3	nn	_
+2	Jay	jay	NNP	_	3	nn	_
+3	Nixon	nixon	NNP	_	4	nsubj	4:A0=PAG
+4	announced	announce	VBD	pb=announce.01	0	root	_
+5	the	the	DT	_	8	det	_
+6	Plato	plato	NNP	_	8	nn	_
+7	School	school	NNP	_	8	nn	_
+8	District	district	NNP	_	9	nsubj	9:A1=PPT
+9	was	be	VBD	pb=be.01	4	ccomp	4:A1=PPT
+10	one	#crd#	CD	_	9	attr	9:A2=PRD
+11	of	of	IN	_	10	prep	_
+12	five	#crd#	CD	_	13	num	_
+13	applicants	applicant	NNS	_	11	pobj	14:A1=PPT
+14	approved	approve	VBN	pb=approve.01	13	partmod	_
+15	for	for	IN	_	14	prep	14:A2=PRD
+16	a	a	DT	_	18	det	_
+17	tornado	tornado	NN	_	18	nn	_
+18	shelter	shelter	NN	_	15	pobj	_
+19	.	.	.	_	4	punct	_
+
+1	Gov.	gov.	NNP	_	3	nn	_
+2	Jay	jay	NNP	_	3	nn	_
+3	Nixon 	nixon 	NNP	p2=NNPS	4	nsubj	4:A0
+4	said	say	VBD	pb=say.01	0	root	_
+5	Monday	monday	NNP	_	4	npadvmod	4:AM-TMP
+6	he	he	PRP	_	8	nsubj	8:A0=PAG
+7	has	have	VBZ	_	8	aux	_
+8	authorized	authorize	VBN	pb=authorize.01	4	ccomp	4:A1=PPT
+9	the State	the state	NNP	p2=CD	12	nn	_
+10	Emergency	emergency	NNP	p2=NN	11	nn	_
+11	Management	management	NNP	_	12	nn	_
+12	Agency to	agency to	NNP	_	8	dobj	8:A1=PRD
+13	proceed	proceed	VBP	p2=VBN|pb=proceed.01	4	ccomp	_
+14	with	with	IN	_	13	prep	13:A1=PPT
+15	proposals	proposal	NNS	_	14	pobj	_
+16	for	for	IN	_	15	prep	_
+17	five	#crd#	CD	_	18	num	_
+18	tornado	tornado	NN	_	20	nn	_
+19	safe	safe	JJ	_	20	amod	_
+20	rooms	room	NNS	_	16	pobj	_
+21	at	at	IN	_	20	prep	_
+22	schools	school	NNS	_	23	nn	_
+23	in Lincoln	in lincoln	NNP	p2=RB	21	pobj	_
+24	,	,	,	_	23	punct	_
+25	St.	st.	NNP	_	26	nn	_
+26	Charles	charles	NNP	_	23	conj	_
+27	,	,	,	_	26	punct	_
+28	Stoddard	stoddard	NNP	_	26	appos	_
+29	,	,	,	_	28	punct	_
+30	Texas and Webster counties	texas and webster counties	NNP	p2=NNPS	28	appos	_
+31	.	.	.	_	4	punct	_
+
+1	The	the	DT	_	7	det	_
+2	proposed	propose	VBN	p2=VBD|pb=propose.01	7	amod	_
+3	4,600	0	CD	_	5	num	_
+4	square	square	JJ	_	5	amod	_
+5	foot	foot	NN	_	7	nn	_
+6	safe	safe	JJ	_	7	amod	_
+7	room	room	NN	_	17	nsubj	17:A0=PAG;2:A1=PPT
+8	at	at	IN	_	7	prep	_
+9	the	the	DT	_	15	det	_
+10	Plato	plato	NNP	_	15	nn	_
+11	R	r	NNP	p2=NN	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	V	v	NNP	_	15	nn	_
+14	School	school	NNP	_	15	nn	_
+15	District	district	NNP	_	8	pobj	_
+16	would	would	MD	_	17	aux	17:AM-MOD
+17	shelter	shelter	VB	pb=shelter.01	0	root	_
+18	about	about	RB	p2=IN	19	quantmod	_
+19	700	0	CD	_	20	num	_
+20	people	people	NNS	_	17	dobj	17:A1=PPT
+21	.	.	.	_	17	punct	_
+
+1	An	an	DT	_	3	det	_
+2	online	online	JJ	p2=NN	3	amod	_
+3	service	service	NN	_	5	nsubjpass	5:A1=PPT
+4	is	be	VBZ	_	5	auxpass	_
+5	needed	need	VBN	pb=need.01	0	root	_
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	5	advcl	5:AM-PRP
+8	this	this	DT	_	9	det	_
+9	article	article	NN	_	7	dobj	7:A1=PAG
+10	in	in	IN	_	7	prep	7:AM-MNR
+11	its	its	PRP$	_	12	poss	_
+12	entirety	entirety	NN	_	10	pobj	_
+13	.	.	.	_	5	punct	_
+
+1	You	you	PRP	_	2	nsubj	2:A0=PAG;7:A0=PPT
+2	need	need	VBP	pb=need.01	0	root	_
+3	an	an	DT	_	5	det	_
+4	online	online	JJ	_	5	amod	_
+5	service	service	NN	_	2	dobj	2:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	view	view	VB	pb=view.01	2	advcl	2:AM-PRP
+8	this	this	DT	_	9	det	_
+9	article	article	NN	_	7	dobj	7:A1=PAG
+10	in	in	IN	_	9	prep	_
+11	its	its	PRP$	_	12	poss	_
+12	entirety	entirety	NN	_	10	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	All	all	PDT	p2=DT	3	predet	_
+2	the	the	DT	_	3	det	_
+3	news	news	NN	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	All	all	PDT	_	3	predet	_
+2	the	the	DT	_	3	det	_
+3	time	time	NN	_	0	root	_
+4	.	.	.	_	3	punct	_
+

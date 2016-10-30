@@ -1,0 +1,23 @@
+1	Copyright	copyright	NN	_	0	root	_
+2	2014	0	CD	_	1	npadvmod	_
+3	by	by	IN	_	1	prep	_
+4	KCRA.com	#url#	ADD	p2=VBG	3	pobj	_
+5	All	all	DT	p2=NNP	6	det	_
+6	rights	right	NNS	_	7	nsubj	7:A1=PPT
+7	reserved	reserve	VBN	p2=VBD|pb=reserve.01	2	partmod	_
+8	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+

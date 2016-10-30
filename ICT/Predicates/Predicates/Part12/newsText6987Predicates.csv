@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+JPMorgan,hire.01,a senior managing director,,Affirmative,"JPMorgan has hired a senior managing director to lead its financial institutions group for northern Europe , poaching Jochen Mehltretter from Morgan Stanley less than two years after his promotion to MD . "
+a senior managing director,manage.01,to lead,,Affirmative,"JPMorgan has hired a senior managing director to lead its financial institutions group for northern Europe , poaching Jochen Mehltretter from Morgan Stanley less than two years after his promotion to MD . "
+a senior managing director,lead.02,institutions group,,Affirmative,"JPMorgan has hired a senior managing director to lead its financial institutions group for northern Europe , poaching Jochen Mehltretter from Morgan Stanley less than two years after his promotion to MD . "
+JPMorgan,poach.02,Jochen Mehltretter,,Affirmative,"JPMorgan has hired a senior managing director to lead its financial institutions group for northern Europe , poaching Jochen Mehltretter from Morgan Stanley less than two years after his promotion to MD . "
+JPMorgan 's,confirm.01,appointment,,Affirmative,JPMorgan confirmed Mehltretter 's appointment . 
+JPMorgan,shake.01,its European FIG team,,Affirmative,"JPMorgan has been shaking up its European FIG team , appointing Piers Davison to lead the division , according to Financial News . "
+JPMorgan,appoint.01,Piers Davison,to lead,Affirmative,"JPMorgan has been shaking up its European FIG team , appointing Piers Davison to lead the division , according to Financial News . "
+Piers Davison,lead.02,the division,,Affirmative,"JPMorgan has been shaking up its European FIG team , appointing Piers Davison to lead the division , according to Financial News . "
+by,take.13,a position taken up by,,Affirmative,"He was previously head of corporate finance execution for the bank 's EMEA FIG unit , a position taken up by Andreas Lingh , who previously covered financial institutions for the Nordic region . "
+"Andreas Lingh ,",cover.03,financial institutions,,Affirmative,"He was previously head of corporate finance execution for the bank 's EMEA FIG unit , a position taken up by Andreas Lingh , who previously covered financial institutions for the Nordic region . "
+Jochen Mehltretter from Morgan Stanley,join.01,Morgan Stanley,,Affirmative,The latter is Mehltretter 's old stomping ground ; he joined Morgan Stanley in 2009 and was latter head of Benelux and Nordic DCM FIG coverage . 
+the financial sector,account.01,for,,Affirmative,"Globally , the financial sector accounted for 47 % of all DCM activity in the first quarter , according to data from Thomson Reuters . "
+JPMorgan,top.01,league tables,,Affirmative,"JPMorgan tops the global DCM league tables , with 8.6 % of the market , while Morgan Stanley ranked 8th . "

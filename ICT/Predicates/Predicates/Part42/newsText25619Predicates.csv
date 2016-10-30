@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+QUETTA :,take.01,Bugti murder case,,Affirmative,"QUETTA : An Anti-Terrorism Court ( ATC ) took up Nawab Akber Bugti murder case on Monday and called former president Pervez Musharraf in the next hearing on June 16 , SAMAA reported . "
+QUETTA :,call.01,president Pervez Musharraf,,Affirmative,"QUETTA : An Anti-Terrorism Court ( ATC ) took up Nawab Akber Bugti murder case on Monday and called former president Pervez Musharraf in the next hearing on June 16 , SAMAA reported . "
+SAMAA,report.01,took up,,Affirmative,"QUETTA : An Anti-Terrorism Court ( ATC ) took up Nawab Akber Bugti murder case on Monday and called former president Pervez Musharraf in the next hearing on June 16 , SAMAA reported . "
+"ATC Judge ,",hear.01,"the case , which the judge accepted and issued a notice to Balochistan government in this regard",,Affirmative,"ATC Judge , Tariq Anwar Kasi , heard the case in Quetta where former federal interior minister Aftab Ahmed Sherpao and former home minister Balochistan Mir Shoaib Nowsherwani appeared before the court . "
+by,represented.01,former president Pervez Musharraf,,Affirmative,Musharraf was represented by his counsel Zeeshan Cheema . 
+Aftab Ahmed Sherpao,file.01,a plea seeking acquittal in,,Affirmative,"Aftab Ahmed Sherpao filed a plea seeking acquittal in the case , which the judge accepted and issued a notice to Balochistan government in this regard . "
+a plea seeking acquittal in,seek.01,acquittal in,,Affirmative,"Aftab Ahmed Sherpao filed a plea seeking acquittal in the case , which the judge accepted and issued a notice to Balochistan government in this regard . "
+ATC Judge,accept.01,"the case ,",,Affirmative,"Aftab Ahmed Sherpao filed a plea seeking acquittal in the case , which the judge accepted and issued a notice to Balochistan government in this regard . "
+ATC Judge,issue.01,a notice,,Affirmative,"Aftab Ahmed Sherpao filed a plea seeking acquittal in the case , which the judge accepted and issued a notice to Balochistan government in this regard . "
+counsel,file.01,an application for,,Affirmative,Musharraf 's counsel filed an application for his client 's exemption from appearance in today 's hearing . 
+by,accept.01,an application,,Affirmative,It was also accepted by the judge . 
+ATC Judge,adjourn.01,"the case , which the judge accepted and issued a notice to Balochistan government in this regard",,Affirmative,The judge later adjourned the case till June 16 and ordered Pervez Musharraf 's guarantors to ensure his appearance on the next hearing . 
+ATC Judge,order.01,guarantors,to ensure,Affirmative,The judge later adjourned the case till June 16 and ordered Pervez Musharraf 's guarantors to ensure his appearance on the next hearing . 
+guarantors,ensure.01,his appearance on,,Affirmative,The judge later adjourned the case till June 16 and ordered Pervez Musharraf 's guarantors to ensure his appearance on the next hearing . 
+former president Pervez Musharraf,leave.01,Pakistan,,Affirmative,Musharraf has been banned from leaving Pakistan as the federal government has refused to remove his name from the Exit Control List ( ECL ) . 
+the federal government,refuse.01,to remove,,Affirmative,Musharraf has been banned from leaving Pakistan as the federal government has refused to remove his name from the Exit Control List ( ECL ) . 
+the federal government,remove.01,his name,from,Affirmative,Musharraf has been banned from leaving Pakistan as the federal government has refused to remove his name from the Exit Control List ( ECL ) . 
+"The ex-general ,",seize.01,power,,Affirmative,"The ex-general , who seized power in 1999 and resigned in 2008 , has pleaded not guilty to the treason charges . "
+"The ex-general ,",plead.02,not guilty to,,Affirmative,"The ex-general , who seized power in 1999 and resigned in 2008 , has pleaded not guilty to the treason charges . "

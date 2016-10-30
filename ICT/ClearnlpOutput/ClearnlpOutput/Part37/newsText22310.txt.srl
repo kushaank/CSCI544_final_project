@@ -1,0 +1,47 @@
+1	While	while	IN	_	6	mark	_
+2	the	the	DT	_	3	det	_
+3	prosecutor	prosecutor	NN	_	6	nsubj	6:A0=PAG
+4	did	do	VBD	_	6	aux	_
+5	not	not	RB	_	6	neg	6:AM-NEG
+6	admit	admit	VB	pb=admit.01	16	advcl	16:AM-ADV
+7	that	that	IN	_	11	complm	_
+8	the	the	DT	_	9	det	_
+9	authorities	authority	NNS	_	11	nsubj	11:A0=PAG
+10	had	have	VBD	_	11	aux	_
+11	made	make	VBN	pb=make.02	6	ccomp	6:A1
+12	a	a	DT	_	13	det	_
+13	mistake	mistake	NN	_	11	dobj	11:AM-PRR
+14	,	,	,	_	16	punct	_
+15	he	he	PRP	_	16	nsubj	16:A0=PAG
+16	did	do	VBD	pb=do.02	0	root	_
+17	apologise	apologise	RB	p2=VB	16	advmod	16:AM-MNR
+18	.	.	.	_	16	punct	_
+
+1	Interactive	interactive	JJ	p2=NNP	2	amod	_
+2	Topics	topic	NNS	p2=NNPS	4	npadvmod	4:AM-DIS
+3	,	,	,	_	4	punct	_
+4	send	send	VB	pb=send.01	0	root	_
+5	us	us	PRP	_	4	iobj	4:A2=GOL
+6	your	your	PRP$	_	7	poss	_
+7	comments	comment	NNS	_	4	dobj	4:A1=PPT
+8	/	/	SYM	p2=,	7	punct	_
+9	opinion	opinion	NN	_	7	appos	_
+10	on	on	IN	_	9	prep	_
+11	this	this	DT	_	12	det	_
+12	article	article	NN	_	10	pobj	_
+13	.	.	.	_	4	punct	_
+
+1	shown	show	VBN	pb=show.01	0	root	_
+2	in	in	IN	_	1	prep	1:AM-LOC
+3	the	the	DT	_	4	det	_
+4	image	image	NN	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Letters	letter	NNS	p2=NNPS	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	0	root	_
+3	not	not	RB	_	2	neg	2:AM-NEG
+4	case	case	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	sensitive	sensitive	JJ	_	2	acomp	2:A2=PRD
+7	.	.	.	_	2	punct	_
+

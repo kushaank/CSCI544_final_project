@@ -1,0 +1,43 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The sanctions,help.01,Russia 's,,Affirmative,"The sanctions may indeed help Russia , but not in the way expected by the Western governments . "
+by,expect.01,the way expected by,,Affirmative,"The sanctions may indeed help Russia , but not in the way expected by the Western governments . "
+the Kremlin,follow.02,the pattern of,,Affirmative,"If the Kremlin does not follow the pattern of self - destructive behavior it adopted following former U.S. President Ronald Reagan 's Strategic Defense Initiative , the West 's isolation may do Russia some good . "
+the Kremlin,adopt.01,isolation may do Russia,,Affirmative,"If the Kremlin does not follow the pattern of self - destructive behavior it adopted following former U.S. President Ronald Reagan 's Strategic Defense Initiative , the West 's isolation may do Russia some good . "
+isolation,do.02,some good,Russia,Affirmative,"If the Kremlin does not follow the pattern of self - destructive behavior it adopted following former U.S. President Ronald Reagan 's Strategic Defense Initiative , the West 's isolation may do Russia some good . "
+the Soviet leadership,raise.01,military expenditures,,Affirmative,"In the early 1980 s , the Soviet leadership bought into Reagan 's bluff by raising military expenditures to unsustainable levels , while refusing to initiate internal reforms to modernize the economy . "
+the Soviet leadership,refuse.01,to initiate,,Affirmative,"In the early 1980 s , the Soviet leadership bought into Reagan 's bluff by raising military expenditures to unsustainable levels , while refusing to initiate internal reforms to modernize the economy . "
+internal reforms,modernize.01,the economy,,Affirmative,"In the early 1980 s , the Soviet leadership bought into Reagan 's bluff by raising military expenditures to unsustainable levels , while refusing to initiate internal reforms to modernize the economy . "
+President Vladimir Putin,want.01,to avoid,,Affirmative,"If President Vladimir Putin wants to avoid this self - destructive scenario , he should exploit the isolation imposed by the West by rebuilding Russia as a strong state . "
+President Vladimir Putin,avoid.01,destructive scenario,,Affirmative,"If President Vladimir Putin wants to avoid this self - destructive scenario , he should exploit the isolation imposed by the West by rebuilding Russia as a strong state . "
+President Vladimir Putin,exploit.01,the isolation imposed by,,Affirmative,"If President Vladimir Putin wants to avoid this self - destructive scenario , he should exploit the isolation imposed by the West by rebuilding Russia as a strong state . "
+by,impose.01,the isolation imposed by,,Affirmative,"If President Vladimir Putin wants to avoid this self - destructive scenario , he should exploit the isolation imposed by the West by rebuilding Russia as a strong state . "
+President Vladimir Putin,rebuild.01,Russia,,Affirmative,"If President Vladimir Putin wants to avoid this self - destructive scenario , he should exploit the isolation imposed by the West by rebuilding Russia as a strong state . "
+This model,assist.01,Russia 's,in mobilizing resources necessary for,Affirmative,This model has traditionally assisted Russia in mobilizing resources necessary for cultural revival and economic modernization . 
+Russia 's,mobilize.01,resources necessary for,,Affirmative,This model has traditionally assisted Russia in mobilizing resources necessary for cultural revival and economic modernization . 
+princes Ivan,lay.01,the foundations of,by ending,Affirmative,"Muscovy 's princes Ivan the Great and his grandson , Ivan IV , laid the foundations of the Russian state by ending the Tatar occupation , consolidating independence from Rome and establishing internal sovereignty from the nobles and the church . "
+Peter the Great,respond.01,to,,Affirmative,Peter the Great responded to European threats by tightening control over the elites and imposing a new ideology of loyalty to the state . 
+Peter the Great,tighten.01,control over,,Affirmative,Peter the Great responded to European threats by tightening control over the elites and imposing a new ideology of loyalty to the state . 
+Stalin,consolidate.01,the Russian state,,Affirmative,"Finally , Stalin consolidated the state after the Bolshevik Revolution and the devastating civil war through mass purges against bureaucracy and all those perceived disloyal to the new system . "
+The post-Crimea situation,assist.01,Putin,in,Affirmative,The post-Crimea situation assists Putin in two principal ways . 
+First,make.02,him genuinely popular,,Affirmative,"First , it makes him genuinely popular . "
+Western sanctions against,make.02,it harder,,Affirmative,"Second , Western sanctions against prominent Kremlin 's officials and businesspeople may make it harder to take money outside the Russian economy and keep it in European and U.S. banks . "
+the West,cut.04,Russia 's,from much of,Affirmative,"If the West cuts Russia off from much of the international banking system as it did with Iran , it will have very damaging short - term effects . "
+Russia 's,do.02,with Iran,,Affirmative,"If the West cuts Russia off from much of the international banking system as it did with Iran , it will have very damaging short - term effects . "
+Russia 's,have.03,term effects,,Affirmative,"If the West cuts Russia off from much of the international banking system as it did with Iran , it will have very damaging short - term effects . "
+the Kremlin,build.01,an alternative financial system,,Affirmative,Yet this will also push the Kremlin to build an alternative financial system . 
+by,supplement.01,Putin 's popularity to endure,,Affirmative,"For Putin 's popularity to endure , however , it must be supplemented by sound economic performance . "
+Russians,support.01,the Russian state,,Affirmative,Russians will support the state only if they see progress in fighting corruption and social and economic development . 
+this,see.01,progress in fighting corruption and,,Affirmative,Russians will support the state only if they see progress in fighting corruption and social and economic development . 
+the corrupt elites,find.01,other schemes,,Affirmative,"In addition , in absence of sound policy , the corrupt elites will surely soon find other schemes to divert resources from the state . "
+Russia 's,lie.01,foundations of,,Affirmative,"By taking advantage of relative isolation from the West , Russia must lay out foundations of financial and economic independence . "
+The isolation from,encourage.01,Russia 's,to attract investments from,Affirmative,The isolation from the West should also encourage Russia to attract investments from Asian and Middle Eastern countries into national development projects . 
+Russia 's,attract.01,investments from,,Affirmative,The isolation from the West should also encourage Russia to attract investments from Asian and Middle Eastern countries into national development projects . 
+Putin in two principal ways,find.01,a way,,Affirmative,Putin must also find a way to purge disloyal corrupt elites who sabotage national development projects and embezzle state funds . 
+disloyal corrupt elites,sabotage.01,national development projects,,Affirmative,Putin must also find a way to purge disloyal corrupt elites who sabotage national development projects and embezzle state funds . 
+disloyal corrupt elites,embezzle.01,state funds,,Affirmative,Putin must also find a way to purge disloyal corrupt elites who sabotage national development projects and embezzle state funds . 
+rebuilding,help.01,Russia strengthen,,Affirmative,"No less important , rebuilding the state will help Russia strengthen its cultural values and cure its inferiority complex . "
+Russia 's,strengthen.01,its cultural values,,Affirmative,"No less important , rebuilding the state will help Russia strengthen its cultural values and cure its inferiority complex . "
+by sanctions,cause.01,the adverse environment caused by sanctions,,Affirmative,"Amid the adverse environment caused by sanctions , Russia needs to take advantage of the opportunity to strengthen the state . "
+Russia 's,need.01,to take advantage of,,Affirmative,"Amid the adverse environment caused by sanctions , Russia needs to take advantage of the opportunity to strengthen the state . "
+Russia 's,take.01,advantage,of,Affirmative,"Amid the adverse environment caused by sanctions , Russia needs to take advantage of the opportunity to strengthen the state . "
+Russia 's,strengthen.01,the Russian state,,Affirmative,"Amid the adverse environment caused by sanctions , Russia needs to take advantage of the opportunity to strengthen the state . "

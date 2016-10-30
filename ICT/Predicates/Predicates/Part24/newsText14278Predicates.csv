@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Bosnia,say.01,had been affected by,,Affirmative,"MAGLAJ Bosnia / KRUPANJ Serbia ( Reuters ) - Bosnia said on Monday that more than a quarter of its 4 million people had been affected by the worst floods to hit the Balkans in living memory , comparing the terrifying destruction to that of the country 's 1992-95 war . "
+by,affect.01,more than a quarter of,,Affirmative,"MAGLAJ Bosnia / KRUPANJ Serbia ( Reuters ) - Bosnia said on Monday that more than a quarter of its 4 million people had been affected by the worst floods to hit the Balkans in living memory , comparing the terrifying destruction to that of the country 's 1992-95 war . "
+The regional death toll,reach.01,more than 40,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+records,cause.01,rivers to burst,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+records,trigger.01,hundreds of landslides,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+by,cause.01,the destruction caused by,,Affirmative,The physical destruction is not less than the destruction caused by the war . 
+Lagumdzija,say.01,were,,Affirmative,"Lagumdzija said more than 100,000 houses and other buildings in Bosnia were no longer fit to use and that over a million people had been cut off from clean water supplies . "
+many people,lose.02,everything,,Affirmative,"During the war , many people lost everything , he said . "
+he,say.01,people lost everything,,Affirmative,"During the war , many people lost everything , he said . "
+they,have.03,nothing,,Affirmative,"Today , again they have nothing . "
+His remarks,throw.01,the extent of,into,Affirmative,His remarks threw into sharp relief the extent of the challenge now facing the cash - strapped governments of both Bosnia and Serbia . 
+the challenge,face.01,strapped governments of,,Affirmative,His remarks threw into sharp relief the extent of the challenge now facing the cash - strapped governments of both Bosnia and Serbia . 
+AlertNet,provide.01,"news , images and insight from",,Affirmative,"AlertNet provides news , images and insight from the world 's disasters and conflicts and is brought to you by Reuters Foundation . "
+by,bring.01,AlertNet,to you,Affirmative,"AlertNet provides news , images and insight from the world 's disasters and conflicts and is brought to you by Reuters Foundation . "

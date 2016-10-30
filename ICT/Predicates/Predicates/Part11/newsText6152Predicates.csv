@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+campaign treasurer,say.01,he did n't know,,Affirmative,"John Banks ' campaign treasurer says he did n't know Kim Dotcom had made two $ 25,000 donations , and never asked the MP if he knew the identity of the donor . "
+Kim Dotcom,know.01,Dotcom had made,,Affirmative,"John Banks ' campaign treasurer says he did n't know Kim Dotcom had made two $ 25,000 donations , and never asked the MP if he knew the identity of the donor . "
+Kim Dotcom,ask.01,if he knew,the MP,Affirmative,"John Banks ' campaign treasurer says he did n't know Kim Dotcom had made two $ 25,000 donations , and never asked the MP if he knew the identity of the donor . "
+Kim Dotcom,know.01,the identity of,,Affirmative,"John Banks ' campaign treasurer says he did n't know Kim Dotcom had made two $ 25,000 donations , and never asked the MP if he knew the identity of the donor . "
+"Banks , 67 ,",claim.01,donations,,Affirmative,"Banks , 67 , is on trial accused of falsely claiming donations from Dotcom and SkyCity were anonymous in his donation declaration after his failed 2010 Auckland mayoral campaign . "
+Banks,receive.01,"15,000 donation",from SkyCity,Affirmative,"Banks received a $ 15,000 donation in May 2010 from SkyCity and two $ 25,000 donations in June 2010 from Megastuff Ltd on behalf of Dotcom - and the Crown says Banks knew who had made the donations despite signing a return declaring them as anonymous . "
+the Crown,say.01,Banks knew,,Affirmative,"Banks received a $ 15,000 donation in May 2010 from SkyCity and two $ 25,000 donations in June 2010 from Megastuff Ltd on behalf of Dotcom - and the Crown says Banks knew who had made the donations despite signing a return declaring them as anonymous . "
+Banks,know.01,who had made,,Affirmative,"Banks received a $ 15,000 donation in May 2010 from SkyCity and two $ 25,000 donations in June 2010 from Megastuff Ltd on behalf of Dotcom - and the Crown says Banks knew who had made the donations despite signing a return declaring them as anonymous . "
+a return declaring them as anonymous,declare.01,Banks,,Affirmative,"Banks received a $ 15,000 donation in May 2010 from SkyCity and two $ 25,000 donations in June 2010 from Megastuff Ltd on behalf of Dotcom - and the Crown says Banks knew who had made the donations despite signing a return declaring them as anonymous . "
+Lance Hutchinson,tell.01,that he listed,the High Court,Affirmative,But Lance Hutchinson told the High Court at Auckland today that he listed the donations as anonymous as the candidate would n't have known who made them . 
+Lance Hutchinson,list.01,"$ 25,000 donations",,Affirmative,But Lance Hutchinson told the High Court at Auckland today that he listed the donations as anonymous as the candidate would n't have known who made them . 
+the candidate,know.01,who made them,,Affirmative,But Lance Hutchinson told the High Court at Auckland today that he listed the donations as anonymous as the candidate would n't have known who made them . 
+Banks,get.01,lots of promises,,Affirmative,We got lots of promises but we can never know who made them on a particular day . 
+Banks,know.01,who made them on,,Affirmative,We got lots of promises but we can never know who made them on a particular day . 
+Lance Hutchinson,say.01,Banks never said anything to him,,Affirmative,He said Banks never said anything to him about the donations from Dotcom or SkyCity . 
+Banks,say.01,anything,to him,Affirmative,He said Banks never said anything to him about the donations from Dotcom or SkyCity . 
+Lance Hutchinson,find.01,were made by Megastuff,,Affirmative,He only found out that two donations in June 2010 were made by Megastuff on behalf of Dotcom when police told him and first heard of Dotcom from Campbell Live some time after the campaign . 
+by,ask.01,if he thought,,Affirmative,"When asked by crown lawyer Paul Dacre QC if he thought Banks would have seen the envelope if his handler had it , Mr Hutchison said he did n't know . "
+crown lawyer Paul Dacre QC,think.01,Banks would have seen,,Affirmative,"When asked by crown lawyer Paul Dacre QC if he thought Banks would have seen the envelope if his handler had it , Mr Hutchison said he did n't know . "
+Banks,see.01,a sealed envelope which was delivered to Mr Hutchison 's desk,,Affirmative,"When asked by crown lawyer Paul Dacre QC if he thought Banks would have seen the envelope if his handler had it , Mr Hutchison said he did n't know . "
+Banks ' handler,have.03,Banks,,Affirmative,"When asked by crown lawyer Paul Dacre QC if he thought Banks would have seen the envelope if his handler had it , Mr Hutchison said he did n't know . "
+Mr Hutchison 's,say.01,he did n't know,,Affirmative,"When asked by crown lawyer Paul Dacre QC if he thought Banks would have seen the envelope if his handler had it , Mr Hutchison said he did n't know . "
+Mr Hutchison 's,compile.01,"the donations return on behalf of Banks ,",,Affirmative,"Mr Hutchison compiled the donations return on behalf of Banks , who signed it . "
+"Banks ,",sign.01,Banks,,Affirmative,"Mr Hutchison compiled the donations return on behalf of Banks , who signed it . "
+Mr Hutchinson,say.01,team looked at,,Affirmative,"Mr Hutchinson also said the campaign team looked at the National Business Review rich list and made a list of people they hoped to get $ 25,000 donations from . "
+the campaign team,look.01,at,,Affirmative,"Mr Hutchinson also said the campaign team looked at the National Business Review rich list and made a list of people they hoped to get $ 25,000 donations from . "
+the campaign team,make.01,a list of people,,Affirmative,"Mr Hutchinson also said the campaign team looked at the National Business Review rich list and made a list of people they hoped to get $ 25,000 donations from . "
+Banks,hope.01,to get,,Affirmative,"Mr Hutchinson also said the campaign team looked at the National Business Review rich list and made a list of people they hoped to get $ 25,000 donations from . "
+Banks,get.01,"25,000 donations",from,Affirmative,"Mr Hutchinson also said the campaign team looked at the National Business Review rich list and made a list of people they hoped to get $ 25,000 donations from . "
+an elderly man,pelt.01,the MP,with mud,Affirmative,The start of the trial was delayed after an elderly man pelted the MP with mud as he arrived at the High Court . 
+an elderly man,say.01,Banks owed him,,Affirmative,"The man appeared agitated and said Banks owed him $ 8000 , said protester Kevin Hester , who witnessed the incident . "
+Banks,owe.01,$ 8000,him,Affirmative,"The man appeared agitated and said Banks owed him $ 8000 , said protester Kevin Hester , who witnessed the incident . "
+"protester Kevin Hester ,",say.01,man appeared agitated and said,,Affirmative,"The man appeared agitated and said Banks owed him $ 8000 , said protester Kevin Hester , who witnessed the incident . "
+"protester Kevin Hester ,",witness.01,the incident,,Affirmative,"The man appeared agitated and said Banks owed him $ 8000 , said protester Kevin Hester , who witnessed the incident . "
+Constable Hayden Craddock,tell.01,police were investigating,,Affirmative,Constable Hayden Craddock told NZ Newswire police were investigating the incident . 
+Newswire police,investigate.01,the incident,,Affirmative,Constable Hayden Craddock told NZ Newswire police were investigating the incident . 

@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+one Connecticut schoolgirl,have.03,prom date :,,Affirmative,"Asking a celebrity to prom is not that uncommon these days , but one Connecticut schoolgirl had an unusual dream prom date : Vice President Joe Biden . "
+"Talia Maselli ,",send.01,a handwritten invitation,Biden,Affirmative,"Talia Maselli , a senior at Newington High School in Newington , Connecticut , sent Biden a handwritten invitation last fall , asking if he would be willing to escort her to prom . "
+"Talia Maselli ,",ask.01,if he would be willing,,Affirmative,"Talia Maselli , a senior at Newington High School in Newington , Connecticut , sent Biden a handwritten invitation last fall , asking if he would be willing to escort her to prom . "
+Talia Maselli,escort.01,her,,Affirmative,"Talia Maselli , a senior at Newington High School in Newington , Connecticut , sent Biden a handwritten invitation last fall , asking if he would be willing to escort her to prom . "
+Talia Maselli,invite.01,you,so far,Affirmative,"I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , Maselli said in her letter . "
+old girls,send.01,you prom invitations,,Affirmative,"I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , Maselli said in her letter . "
+you,prom.01,invitations,,Affirmative,"I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , Maselli said in her letter . "
+Talia Maselli,beat.01,many 17-year-old girls,to it,Affirmative,"I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , Maselli said in her letter . "
+Talia Maselli,say.01,I am inviting you,,Affirmative,"I am inviting you so far in advance because I 'm sure many 17 - year - old girls send you prom invitations , and I had to beat them to it , Maselli said in her letter . "
+Talia Maselli,tolerate.01,school dance,,Affirmative,I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+by,escort.01,Talia Maselli,,Affirmative,I could only tolerate a high school dance if I was to be escorted by the most delightful man in America . 
+Talia Maselli,say.01,she never expected,,Affirmative,"Maselli said she never expected to actually hear back from the vice president , but the morning before the prom received a surprise delivery : a corsage and a note from Biden , inviting her to come visit the White House . "
+you,expect.01,to actually hear back from,,Affirmative,"Maselli said she never expected to actually hear back from the vice president , but the morning before the prom received a surprise delivery : a corsage and a note from Biden , inviting her to come visit the White House . "
+the prom,receive.01,a surprise delivery :,,Affirmative,"Maselli said she never expected to actually hear back from the vice president , but the morning before the prom received a surprise delivery : a corsage and a note from Biden , inviting her to come visit the White House . "
+you,visit.01,the White House,,Affirmative,"Maselli said she never expected to actually hear back from the vice president , but the morning before the prom received a surprise delivery : a corsage and a note from Biden , inviting her to come visit the White House . "
+schedule,permit.01,to actually attend,him,Affirmative,Biden 's schedule did not permit him to actually attend the prom . 
+Vice President Joe Biden,attend.01,the prom,,Affirmative,Biden 's schedule did not permit him to actually attend the prom . 
+Biden 's schedule,permit.01,to be in Connecticut,me,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , the vice president said in the note . "
+the vice president,say.01,"I am flattered , but",,Affirmative,"I am flattered , but my schedule will not permit me to be in Connecticut on Friday evening , the vice president said in the note . "
+the vice president,hope.01,you will accept this corsage and enjoy,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+you,accept.01,this,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+you,enjoy.01,the prom,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+the vice president,do.02,the vice president,,Affirmative,But I hope you will accept this corsage and enjoy your prom as much as I did mine . 
+Talia Maselli,attend.01,her prom and plans on pressing,,Affirmative,"Unfortunately , Maselli did not end up actually attending her prom and plans on pressing the flowers in a book . "
+you,admit.01,she is,,Affirmative,"She admits she is far more excited about visiting Washington , D.C. than she was about prom . "
+you,visit.01,"Washington , D.C.",,Affirmative,"She admits she is far more excited about visiting Washington , D.C. than she was about prom . "
+you,deny.01,that Biden was,,Affirmative,"While Masselli 's dream prom date might be considered pretty unorthodox by ordinary standards , you can not deny that Biden was a class act in this situation . "
+Townhall.com,feature.01,the latest news videos and pictures on,,Affirmative,"Townhall.com also features the latest news videos and pictures on the latest political hot topics including health care reform , the economy , immigration , government tax , President Obama , Sarah Palin , Mitt Romney , Herman Cain , Ron Paul , Iraq , immigration , politics , gay marriage laws , and many more big news issues . "
+our monthly print magazine,offer.01,"exclusive investigative journalism ,",,Affirmative,"Townhall Magazine is our monthly print magazine that offers more exclusive investigative journalism , in-depth reporting , analysis , interviews with the heavy hitters and powerful exposés . "

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Brownsville Police Department,join.01,forces,,Affirmative,The Brownsville Police Department is joining forces with the Texas Department of Transportation and law enforcement agencies across the state to ticket drivers who are n't wearing seat belts . 
+drivers,wear.01,their seat belts,,Affirmative,The Brownsville Police Department is joining forces with the Texas Department of Transportation and law enforcement agencies across the state to ticket drivers who are n't wearing seat belts . 
+summer,drive.01,driving season on,,Affirmative,"With the Memorial Day holiday and the summer driving season on the horizon , it 's more important than ever for motorists to be aware of the importance of roadway safety , Brownsville police spokesman J.J. Treviño said in a news release . "
+spokesman J.J. Treviño,say.01,", it 's",,Affirmative,"With the Memorial Day holiday and the summer driving season on the horizon , it 's more important than ever for motorists to be aware of the importance of roadway safety , Brownsville police spokesman J.J. Treviño said in a news release . "
+by TxDOT,sponsor.01,The campaign,,Affirmative,The campaign is sponsored by TxDOT and it 's in its 13th year . 
+TxDOT,say.01,a news release,,Affirmative,"In a news release TxDOT said when the campaign started in 2002 , only 76 percent of motorists buckled up and today nine out of 10 Texas motorists wear their seat belts . "
+nine,wear.01,their seat belts,,Affirmative,"In a news release TxDOT said when the campaign started in 2002 , only 76 percent of motorists buckled up and today nine out of 10 Texas motorists wear their seat belts . "
+"teens , passengers ,",lag.01,behind,,Affirmative,"However , teens , passengers , pickup drivers and drivers in rural areas continue to lag behind when it comes to seat belt use , according to TxDOT . "
+Officials,say.01,belt is,,Affirmative,Officials said a properly fastened safety belt is the best way to avoid death or serious injury in a vehicle crash . 

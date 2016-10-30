@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Governor Mitt Romney,call.05,on,,Affirmative,"( TRNS ) - Former Massachusetts Governor Mitt Romney called on the embattled police commissioner in New Hampshire , who described President Obama using a racial slur , to resign over the weekend . "
+the embattled police commissioner in,describe.01,President Obama,,Affirmative,"( TRNS ) - Former Massachusetts Governor Mitt Romney called on the embattled police commissioner in New Hampshire , who described President Obama using a racial slur , to resign over the weekend . "
+by,confirm.01,The vile,,Affirmative,"The vile epithet used and confirmed by the commissioner has no place in our community , Romney said in a statement to the Boston Herald . "
+"Former Massachusetts Governor Mitt Romney called on the embattled police commissioner in New Hampshire , who described President Obama using a racial slur , to resign over the weekend",say.01,vile epithet used and confirmed by,,Affirmative,"The vile epithet used and confirmed by the commissioner has no place in our community , Romney said in a statement to the Boston Herald . "
+"Bob Copeland ,",call.01,President Obama using a racial slur,the N - word,Affirmative,"Bob Copeland , the New Hampshire Police Commissioner , was caught calling Obama the N - word , and has since refused to apologize . "
+"Bob Copeland ,",refuse.01,to apologize,,Affirmative,"Bob Copeland , the New Hampshire Police Commissioner , was caught calling Obama the N - word , and has since refused to apologize . "
+"Copeland ,",write.01,a letter,to,Affirmative,"Copeland , who is 82 years old , was reportedly overheard making the remarks by a local resident in a restaurant , and subsequently wrote a letter to the local town manager . "
+Hampshire police commissioner,respond.01,to,,Affirmative,"The New Hampshire police commissioner then responded to the claims , releasing a statement acknowledging the reports . "
+Hampshire police commissioner,release.01,a statement acknowledging,,Affirmative,"The New Hampshire police commissioner then responded to the claims , releasing a statement acknowledging the reports . "
+a statement acknowledging,acknowledge.01,the reports,,Affirmative,"The New Hampshire police commissioner then responded to the claims , releasing a statement acknowledging the reports . "

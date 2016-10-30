@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A popular manga comic,set.05,a public debate in Japan,,Affirmative,TOKYO - A popular manga comic is setting off a public debate in Japan about the health effects of radiation following the Fukushima nuclear disaster - so much so the publisher issued a special edition Monday . 
+the publisher,issue.01,a special edition,,Affirmative,TOKYO - A popular manga comic is setting off a public debate in Japan about the health effects of radiation following the Fukushima nuclear disaster - so much so the publisher issued a special edition Monday . 
+"issue of Oishinbo , by",depict.01,a character getting,,Affirmative,"The April 28 issue of Oishinbo , by Tetsu Kariya , depicted a character getting a nosebleed after visiting Fukushima Dai - ichi nuclear plant . "
+a character getting,get.01,a nosebleed,,Affirmative,"The April 28 issue of Oishinbo , by Tetsu Kariya , depicted a character getting a nosebleed after visiting Fukushima Dai - ichi nuclear plant . "
+a character getting,visit.01,ichi nuclear plant,,Affirmative,"The April 28 issue of Oishinbo , by Tetsu Kariya , depicted a character getting a nosebleed after visiting Fukushima Dai - ichi nuclear plant . "
+radiation,contaminate.01,nearby towns,,Affirmative,"Three of its reactors sank into meltdowns after the March 2011 tsunami , and radiation contaminates nearby towns . "
+Local governments,say.01,portrayal fosters,,Affirmative,"Local governments say the manga comic 's portrayal fosters unfounded fears , even discrimination against Fukushima . "
+portrayal,foster.01,"unfounded fears ,",,Affirmative,"Local governments say the manga comic 's portrayal fosters unfounded fears , even discrimination against Fukushima . "
+Spirits magazine,add.02,a special section in,,Affirmative,"Big Comic Spirits magazine added a special section in its Monday 's issue with criticism and input it had received on Oishinbo , including views from medical experts . "
+a special section in its Monday 's issue,receive.01,a special section in,,Affirmative,"Big Comic Spirits magazine added a special section in its Monday 's issue with criticism and input it had received on Oishinbo , including views from medical experts . "

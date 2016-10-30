@@ -1,0 +1,65 @@
+1	FAIRFIELD	fairfield	NNP	p2=NN	0	root	_
+2	,	,	,	_	1	punct	_
+3	Conn	conn	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	8	punct	_
+2	As	as	IN	p2=NNP	8	mark	_
+3	the Penfield	the penfield	NNP	_	4	nn	_
+4	Sail	sail	NNP	_	8	nsubj	8:A0=PAG
+5	&	&	CC	_	4	cc	_
+6	Power	power	NNP	_	7	nn	_
+7	Squadron	squadron	NNP	_	4	conj	_
+8	celebrates	celebrate	VBZ	pb=celebrate.02	22	advcl	22:AM-ADV
+9	its	its	PRP$	_	11	poss	_
+10	100th	#ord#	JJ	_	11	amod	_
+11	anniversary	anniversary	NN	_	8	dobj	8:A1=PPT
+12	as	as	IN	_	8	prep	8:AM-MNR
+13	part	part	NN	_	12	pobj	_
+14	of	of	IN	_	13	prep	_
+15	National	national	NNP	_	18	nn	_
+16	Safe	safe	NNP	_	18	nn	_
+17	Boating	boating	NNP	_	18	nn	_
+18	Week	week	NNP	_	14	pobj	_
+19	,	,	,	_	22	punct	_
+20	it	it	PRP	_	22	nsubjpass	22:A1=PPT
+21	was	be	VBD	_	22	auxpass	_
+22	recognized	recognize	VBN	pb=recognize.01	0	root	_
+23	for	for	IN	_	22	prep	22:A2=PRD
+24	its	its	PRP$	_	25	poss	_
+25	work	work	NN	_	23	pobj	_
+26	in	in	IN	_	25	prep	_
+27	boating	boat	VBG	p2=NN|pb=boat.01	26	pcomp	_
+28	safety	safety	NN	_	27	dobj	27:AM-PRD
+29	by	by	IN	_	27	prep	27:AM-MNR
+30	Fairfield	fairfield	NNP	_	34	nn	_
+31	First	first	NNP	p2=RB	34	nn	_
+32	Selectman	selectman	NNP	_	34	nn	_
+33	Michael	michael	NNP	_	34	nn	_
+34	Tetreau	tetreau	NNP	_	29	pobj	_
+35	.	.	.	_	22	punct	_
+
+1	Enter	enter	VB	pb=enter.01	0	root	_
+2	your	your	PRP$	_	3	poss	_
+3	username	username	NN	_	1	dobj	1:A1=LOC
+4	or	or	CC	_	3	cc	_
+5	email	email	NN	_	3	conj	_
+6	below	below	RB	p2=IN	1	advmod	1:AM-MNR
+7	,	,	,	_	1	punct	_
+8	then	then	RB	_	1	advmod	_
+9	check	check	VB	pb=check.01	1	dep	_
+10	your	your	PRP$	_	11	poss	_
+11	inbox	inbox	NN	_	9	dobj	9:A1=LOC
+12	.	.	.	_	1	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0=PAG
+2	'll	will	MD	_	3	aux	3:AM-MOD
+3	email	email	VB	p2=VBP|pb=email.01	0	root	_
+4	you	you	PRP	_	3	iobj	3:A2=GOL
+5	instructions	instruction	NNS	_	3	dobj	3:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	resetting	reset	VBG	pb=reset.01	6	pcomp	_
+8	your	your	PRP$	_	9	poss	_
+9	password	password	NN	_	7	dobj	7:A1=PPT
+10	.	.	.	_	3	punct	_
+

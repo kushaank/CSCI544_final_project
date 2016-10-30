@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A judge in,tell.01,is not,Street protester,Affirmative,A judge in New York City told an Occupy Wall Street protester that assaulting a police officer is not civil disobedience as he sentenced her to jail . 
+Street protester,assault.01,a police officer,,Affirmative,A judge in New York City told an Occupy Wall Street protester that assaulting a police officer is not civil disobedience as he sentenced her to jail . 
+an Occupy Wall Street protester that assaulting a police officer,sentence.01,her,to jail,Affirmative,A judge in New York City told an Occupy Wall Street protester that assaulting a police officer is not civil disobedience as he sentenced her to jail . 
+a prosecutor,say.01,she seeks,,Affirmative,"NEW YORK , May 19 ( UPI ) -- An Occupy Wall Street protester was sentenced to 90 days Monday for assaulting a New York police officer after a prosecutor said she seeks to become a martyr . "
+her,seek.01,to become,,Affirmative,"NEW YORK , May 19 ( UPI ) -- An Occupy Wall Street protester was sentenced to 90 days Monday for assaulting a New York police officer after a prosecutor said she seeks to become a martyr . "
+a jury,convict.01,Cecily McMillan,of,Affirmative,"Cecily McMillan , 25 , was jailed two weeks ago after a jury convicted her of second - degree assault . "
+Cecily McMillan,say.01,she struck out reflexively at,,Affirmative,She said she struck out reflexively at Officer Grantley Bovell after he touched her breast . 
+Officer Grantley Bovell,touch.01,her breast,,Affirmative,She said she struck out reflexively at Officer Grantley Bovell after he touched her breast . 
+"Shanda Strain ,",tell.01,that McMillan deserved,Justice Ronald Zweibel,Affirmative,"Shanda Strain , the prosecutor , told Justice Ronald Zweibel during Monday 's hearing in Supreme Court , the trial - level court in New York State , that McMillan deserved jail time for lying under oath about the officer 's actions . "
+Cecily McMillan,deserve.01,jail time for lying under oath,,Affirmative,"Shanda Strain , the prosecutor , told Justice Ronald Zweibel during Monday 's hearing in Supreme Court , the trial - level court in New York State , that McMillan deserved jail time for lying under oath about the officer 's actions . "
+Strain,say.01,McMillan had tried,,Affirmative,Strain said McMillan had tried to make an act of assault and resisting arrest into a political statement and said she seeks to become a martyr . 
+Cecily McMillan,try.01,to make,,Affirmative,Strain said McMillan had tried to make an act of assault and resisting arrest into a political statement and said she seeks to become a martyr . 
+Cecily McMillan,make.02,an act of assault,,Affirmative,Strain said McMillan had tried to make an act of assault and resisting arrest into a political statement and said she seeks to become a martyr . 
+Cecily McMillan,say.01,she seeks,,Affirmative,Strain said McMillan had tried to make an act of assault and resisting arrest into a political statement and said she seeks to become a martyr . 
+Cecily McMillan,seek.01,to become,,Affirmative,Strain said McMillan had tried to make an act of assault and resisting arrest into a political statement and said she seeks to become a martyr . 
+Cecily McMillan,get.01,a lot of support,,Affirmative,"McMillan got a lot of support , with five members of the New York City Council asking that she be spared incarceration and a jailhouse visit from the Russian punk rock protest group Pussy Riot . "
+five members of,ask.02,that she be spared incarceration and,,Affirmative,"McMillan got a lot of support , with five members of the New York City Council asking that she be spared incarceration and a jailhouse visit from the Russian punk rock protest group Pussy Riot . "
+A videotape of,show.01,McMillan striking Bozell without provocation,,Affirmative,A videotape of the incident appeared to show McMillan striking Bozell without provocation . 
+Cecily McMillan,strike.01,Bozell,,Affirmative,A videotape of the incident appeared to show McMillan striking Bozell without provocation . 
+A civilized society,allow.01,assault to be committed under,,Affirmative,"A civilized society must not allow an assault to be committed under the guise of civil disobedience , Zweibel said . "
+Justice Ronald Zweibel during Monday 's hearing,say.01,society must not allow,,Affirmative,"A civilized society must not allow an assault to be committed under the guise of civil disobedience , Zweibel said . "
+distribution partners,provide.01,our content,"to thousands of businesses ,",Affirmative,"In addition , UPI 's distribution partners provide our content to thousands of businesses , policy groups and academic institutions worldwide . "
+decision - makers,depend.01,on,,Affirmative,Our audience consists of millions of decision - makers who depend on UPI 's insightful and analytical stories to make better business or policy decisions . 
+our company,strive.01,to continue,,Affirmative,"In the year of our 107th anniversary , our company strives to continue being a leading and trusted source for news , analysis and insight for readers around the world . "
+We,thank.01,you,for visiting us,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+you,visit.01,We,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+We,hope.01,that we will be,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 

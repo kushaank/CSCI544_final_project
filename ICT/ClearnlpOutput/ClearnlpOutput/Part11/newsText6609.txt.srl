@@ -1,0 +1,72 @@
+1	All	all	DT	_	2	det	_
+2	data	data	NN	p2=NNS	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	delayed	delay	VBN	pb=delay.01	0	root	_
+5	by	by	IN	_	4	prep	4:A2=TMP
+6	15	0	CD	_	7	num	_
+7	min	min	NN	p2=NNS	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Data	data	NNP	p2=NNS	2	nsubj	2:A1=PPT
+2	supplied	supply	VBD	p2=VBN|pb=supply.01	0	root	_
+3	by	by	IN	_	2	agent	2:A0=PAG
+4	I	I	PRP	p2=NNP	6	hmod	_
+5	-	-	HYPH	p2=,	6	hyph	_
+6	Net	net	NNP	p2=JJ	7	nn	_
+7	Bridge	bridge	NNP	_	3	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	data	data	NN	p2=NNS	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	delayed	delay	VBN	pb=delay.01	0	root	_
+5	by	by	IN	_	4	prep	4:A2=TMP
+6	15	0	CD	_	7	num	_
+7	min	min	NN	p2=NNS	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Data	data	NNP	p2=NNS	2	nsubj	2:A1=PPT
+2	supplied	supply	VBD	p2=VBN|pb=supply.01	0	root	_
+3	by	by	IN	_	2	agent	2:A0=PAG
+4	I	I	PRP	p2=NNP	6	hmod	_
+5	-	-	HYPH	p2=,	6	hyph	_
+6	Net	net	NNP	p2=JJ	7	nn	_
+7	Bridge	bridge	NNP	_	3	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	data	data	NN	p2=NNS	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	delayed	delay	VBN	pb=delay.01	0	root	_
+5	by	by	IN	_	4	prep	4:A2=TMP
+6	15	0	CD	_	7	num	_
+7	min	min	NN	p2=NNS	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Data	data	NNP	p2=NNS	2	nsubj	2:A1=PPT
+2	supplied	supply	VBD	p2=VBN|pb=supply.01	0	root	_
+3	by	by	IN	_	2	agent	2:A0=PAG
+4	I	I	PRP	p2=NNP	6	hmod	_
+5	-	-	HYPH	p2=,	6	hyph	_
+6	Net	net	NNP	p2=JJ	7	nn	_
+7	Bridge	bridge	NNP	_	3	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	data	data	NN	p2=NNS	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	delayed	delay	VBN	pb=delay.01	0	root	_
+5	by	by	IN	_	4	prep	4:A2=TMP
+6	15	0	CD	_	7	num	_
+7	min	min	NN	p2=NNS	5	pobj	_
+8	.	.	.	_	4	punct	_
+
+1	Data	data	NNP	p2=NNS	2	nsubj	2:A1=PPT
+2	supplied	supply	VBD	p2=VBN|pb=supply.01	0	root	_
+3	by	by	IN	_	2	agent	2:A0=PAG
+4	I	I	PRP	p2=NNP	6	hmod	_
+5	-	-	HYPH	p2=,	6	hyph	_
+6	Net	net	NNP	p2=JJ	7	nn	_
+7	Bridge	bridge	NNP	_	3	pobj	_
+8	.	.	.	_	2	punct	_
+

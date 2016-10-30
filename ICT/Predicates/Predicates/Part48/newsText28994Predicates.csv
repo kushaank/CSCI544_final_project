@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A US company,plan.01,to launch,,Affirmative,NEW YORK : A US company is planning to launch a high - tech flying bike in 2017 which is designed to carry two people up to a height of 10 ft and reach speeds of up to 72 kmph . 
+A US company,launch.01,flying bike,,Affirmative,NEW YORK : A US company is planning to launch a high - tech flying bike in 2017 which is designed to carry two people up to a height of 10 ft and reach speeds of up to 72 kmph . 
+flying bike,fly.01,high - tech,,Affirmative,NEW YORK : A US company is planning to launch a high - tech flying bike in 2017 which is designed to carry two people up to a height of 10 ft and reach speeds of up to 72 kmph . 
+2017,carry.01,two people up to,,Affirmative,NEW YORK : A US company is planning to launch a high - tech flying bike in 2017 which is designed to carry two people up to a height of 10 ft and reach speeds of up to 72 kmph . 
+2017,reach.01,speeds of,,Affirmative,NEW YORK : A US company is planning to launch a high - tech flying bike in 2017 which is designed to carry two people up to a height of 10 ft and reach speeds of up to 72 kmph . 
+based company,announce.01,that it will be launching,,Affirmative,"The California - based company has announced that it will be launching its Aero - X hoverbike in 2017 at an estimated price of $ 85,000 . "
+The California-based company,launch.01,X hoverbike,,Affirmative,"The California - based company has announced that it will be launching its Aero - X hoverbike in 2017 at an estimated price of $ 85,000 . "
+Aerofex,accept.01,refundable deposits of,,Affirmative,"The company is already accepting refundable deposits of $ 5,000 on its website . "
+"The company , Aerofex ,",attempt.01,to resolve,,Affirmative,"The company , Aerofex , has been attempting to resolve various control and stability challenges by testing its hoverbike for some time now . "
+"The company , Aerofex ,",resolve.01,challenges,,Affirmative,"The company , Aerofex , has been attempting to resolve various control and stability challenges by testing its hoverbike for some time now . "
+"The company , Aerofex ,",test.01,its hoverbike for,,Affirmative,"The company , Aerofex , has been attempting to resolve various control and stability challenges by testing its hoverbike for some time now . "
+fibre rotors,replace.01,wheels,,Affirmative,"With carbon fibre rotors replacing wheels , the Aero - X will be able to take - off and land vertically without the need for a runway or forward speed , the company said . "
+Aerofex,say.01,X will be able,,Affirmative,"With carbon fibre rotors replacing wheels , the Aero - X will be able to take - off and land vertically without the need for a runway or forward speed , the company said . "
+pilots,use.01,"the handlebar grips , situated at",to control,Affirmative,"The bike is also reported to be as easy to ride as a motorcycle , as pilots will be able to use the handlebar grips , situated at knee level , to control the bike . "
+Drivers,need.01,about,,Affirmative,"Drivers will only need about a weekend of training to be able to fly the bike easily , the company claims . "
+its Aero-X hoverbike in 2017,carry.01,loads of,,Affirmative,"According to company officials , with a pre-fuel weight of about 356 kg , the hoverbike can carry loads of up to 140 kg over any any type of surface . "
+stability issues,stop.03,the 1960s,from becoming,Affirmative,"The concept dates to the 1960 s , but stability issues stopped it from becoming a reality . "
+Aerofex,address.02,these,,Affirmative,Aerofex addressed these with a system that allows the bike to respond to the rider 's leaning movements and natural balance . 
+a system,allow.01,bike to respond to,,Affirmative,Aerofex addressed these with a system that allows the bike to respond to the rider 's leaning movements and natural balance . 
+the bike,respond.01,to,,Affirmative,Aerofex addressed these with a system that allows the bike to respond to the rider 's leaning movements and natural balance . 

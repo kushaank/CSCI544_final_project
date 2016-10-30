@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A young farmer,believe.01,he was simply in,,Affirmative,"A young farmer believes he was simply in the right place at the right time when he heard a drowning fisherman 's cry for help , a half - mile away . "
+A young farmer,hear.01,"cry for help ,",,Affirmative,"A young farmer believes he was simply in the right place at the right time when he heard a drowning fisherman 's cry for help , a half - mile away . "
+John Grant,think.01,he heard,,Affirmative,He briefly thought he heard a cry for help in the distance . 
+John Grant,hear.01,a cry for help in,,Affirmative,He briefly thought he heard a cry for help in the distance . 
+John Grant,head.02,towards,,Affirmative,He jumped on his quad bike and headed towards the sea . 
+John Grant,ask.01,if they had heard,other walkers on,Affirmative,"He asked other walkers on Tullagh Beach if they had heard someone crying for help , but they said they had not . "
+other walkers,hear.01,someone crying for help,,Affirmative,"He asked other walkers on Tullagh Beach if they had heard someone crying for help , but they said they had not . "
+other walkers,say.01,they had not,,Affirmative,"He asked other walkers on Tullagh Beach if they had heard someone crying for help , but they said they had not . "
+"John , 23 , who also works at North West Memorials in Muff",continue.01,to listen for,,Affirmative,John continued to listen for the voice and when he looked out to sea he saw a man in the distance waving his arms for help . 
+"John , 23 , who also works at North West Memorials in Muff",listen.01,for,,Affirmative,John continued to listen for the voice and when he looked out to sea he saw a man in the distance waving his arms for help . 
+"John , 23 , who also works at North West Memorials in Muff",look.01,to sea,,Affirmative,John continued to listen for the voice and when he looked out to sea he saw a man in the distance waving his arms for help . 
+"John , 23 , who also works at North West Memorials in Muff",see.01,waving,,Affirmative,John continued to listen for the voice and when he looked out to sea he saw a man in the distance waving his arms for help . 
+a man in,wave.01,his arms,,Affirmative,John continued to listen for the voice and when he looked out to sea he saw a man in the distance waving his arms for help . 
+"John , 23 ,",say.01,I just could n't believe it,,Affirmative,"John , 23 , who also works at North West Memorials in Muff , said , I just could n't believe it . "
+"John , 23 , who also works at North West Memorials in Muff",believe.01,23,,Affirmative,"John , 23 , who also works at North West Memorials in Muff , said , I just could n't believe it . "
+"John , 23 , who also works at North West Memorials in Muff",know.01,"I had heard something , but",,Affirmative,"I knew I had heard something , but nobody else had . "
+"John , 23 , who also works at North West Memorials in Muff",hear.01,something,,Affirmative,"I knew I had heard something , but nobody else had . "
+"John , 23 , who also works at North West Memorials in Muff",see.01,person flapping,,Affirmative,It was only when I actually focused on the sea that I could see this person flapping his arms and waving for help . 
+this person,flap.01,his arms,,Affirmative,It was only when I actually focused on the sea that I could see this person flapping his arms and waving for help . 
+"John , 23 , who also works at North West Memorials in Muff",contact.01,his mother,,Affirmative,"John , from Binion , Clonmany , contacted his mother and she alerted the Malin Head radio station who set about scrambling coastal emergency services to the scene just before 2 pm . "
+"Binion , Clonmany",alert.01,Head radio station,,Affirmative,"John , from Binion , Clonmany , contacted his mother and she alerted the Malin Head radio station who set about scrambling coastal emergency services to the scene just before 2 pm . "
+Head radio station,set.02,about scrambling,,Affirmative,"John , from Binion , Clonmany , contacted his mother and she alerted the Malin Head radio station who set about scrambling coastal emergency services to the scene just before 2 pm . "
+RNLI lifeboat,wrap.01,a local lobster fisherman,in blankets,Affirmative,He was pulled aboard a local boat and then transferred to the Lough Swilly RNLI lifeboat who wrapped him in blankets and brought him ashore . 
+RNLI lifeboat,bring.01,a local lobster fisherman,,Affirmative,He was pulled aboard a local boat and then transferred to the Lough Swilly RNLI lifeboat who wrapped him in blankets and brought him ashore . 
+by,meet.01,a local lobster fisherman,,Affirmative,"The man was then met by the 118 rescue helicopter which had been scrambled from Sligo and brought to Altnagelvin Hospital in Derry where his condition , yesterday , was said to be stable . "
+Joe Joyce of,say.01,it was simply amazing,,Affirmative,Joe Joyce of Lough Swilly RNLI said it was simply amazing how John was able to hear the man 's cry for help over such a distance . 
+"John , 23 , who also works at North West Memorials in Muff",hear.01,cry for help over,,Affirmative,Joe Joyce of Lough Swilly RNLI said it was simply amazing how John was able to hear the man 's cry for help over such a distance . 
+the voice,carry.03,sand dunes,,Affirmative,"It 's simply hard to believe , because his voice had to carry over sand dunes and it was almost half a mile away . "
+news app for smartphones,let.01,"access breaking news , sport , business , entertainment and weather",,Affirmative,"Irish Examiner live news app for smartphones let s you quickly access breaking news , sport , business , entertainment and weather . "
+s,break.01,"news , sport , business , entertainment and weather",,Affirmative,"Irish Examiner live news app for smartphones let s you quickly access breaking news , sport , business , entertainment and weather . "

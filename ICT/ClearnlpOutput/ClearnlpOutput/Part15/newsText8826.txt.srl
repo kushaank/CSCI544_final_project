@@ -1,0 +1,800 @@
+1	Anthony	anthony	NNP	_	6	nn	_
+2	M.	m.	NNP	_	6	nn	_
+3	Grant	grant	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Drug	drug	NNP	_	6	nn	_
+6	Paraphernalia	paraphernalia	NNP	_	0	root	_
+7	(	(	-LRB-	_	6	punct	_
+8	2X	2x	NNP	p2=CD	6	appos	_
+9	)	)	-RRB-	_	6	punct	_
+10	and	and	CC	_	6	cc	_
+11	Possession	possession	NNP	p2=NN	6	conj	_
+12	of	of	IN	_	11	prep	_
+13	Marijuana	marijuana	NNP	_	12	pobj	_
+14	.	.	.	_	6	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Case	case	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	p2=NNS	3	pobj	_
+5	due	due	IN	p2=JJ	2	prep	2:AM-CAU
+6	to	to	IN	_	5	pcomp	_
+7	plea	plea	NN	_	8	nn	_
+8	negotiations	negotiation	NNS	_	5	pobj	_
+9	and	and	CC	_	8	cc	_
+10	defendant	defendant	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	plea	plea	NN	_	8	conj	_
+13	to	to	IN	p2=TO	12	prep	_
+14	companion	companion	NN	_	15	nn	_
+15	case	case	NN	_	13	pobj	_
+16	in	in	IN	_	15	prep	_
+17	Common	common	NNP	_	19	nn	_
+18	Pleas	pleas	NNP	p2=NNPS	19	nn	_
+19	Court	court	NNP	_	16	pobj	_
+20	and	and	CC	_	12	cc	_
+21	not	not	RB	_	22	neg	_
+22	due	due	JJ	p2=IN	12	conj	_
+23	to	to	IN	_	22	prep	_
+24	lack	lack	NN	_	23	pobj	_
+25	of	of	IN	_	24	prep	_
+26	probable	probable	JJ	_	27	amod	_
+27	cause	cause	NN	_	25	pobj	_
+28	to	to	TO	_	29	aux	_
+29	arrest	arrest	VB	pb=arrest.01	27	infmod	_
+30	.	.	.	_	2	punct	_
+
+1	No	no	DT	_	2	det	_
+2	cost	cost	NN	_	0	root	_
+3	to	to	IN	p2=TO	2	prep	_
+4	defendant	defendant	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Krystal	krystal	NNP	p2=JJ	4	nn	_
+2	Compton	compton	NNP	_	4	hmod	_
+3	-	-	HYPH	p2=SYM	4	hyph	_
+4	OVI	ovi	NNP	_	0	root	_
+5	/	/	,	p2=NFP	4	punct	_
+6	Under	under	IN	_	4	prep	_
+7	the	the	DT	_	8	det	_
+8	Influence	influence	NN	p2=NNP	6	pobj	_
+9	.	.	.	_	6	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	One	#crd#	CD	_	2	num	_
+2	year	year	NN	_	4	nn	_
+3	standard	standard	NN	p2=JJ	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NN	p2=NNP	3	nsubj	3:A0=PAG
+2	may	may	MD	_	3	aux	3:AM-MOD
+3	complete	complete	VB	pb=complete.01	0	root	_
+4	three	#crd#	CD	_	5	num	_
+5	day	day	NN	_	3	npadvmod	3:AM-TMP
+6	DDIP	ddip	NNP	p2=NN	10	nn	_
+7	(	(	-LRB-	_	10	punct	_
+8	driver	driver	NN	_	10	nn	_
+9	intervention	intervention	NN	_	10	nn	_
+10	program	program	NN	_	5	appos	_
+11	)	)	-RRB-	_	10	punct	_
+12	in	in	IN	_	3	prep	3:AM-TMP
+13	lieu	lieu	NN	_	12	pobj	_
+14	of	of	IN	_	13	prep	_
+15	jail	jail	NN	_	16	nn	_
+16	time	time	NN	_	14	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	Must	must	MD	_	3	aux	3:AM-MOD
+2	be	be	VB	_	3	auxpass	_
+3	completed	complete	VBN	pb=complete.01	0	root	_
+4	within	within	IN	_	3	prep	3:AM-TMP
+5	six	#crd#	CD	_	6	num	_
+6	months	month	NNS	_	4	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	obtain	obtain	VB	pb=obtain.01	0	root	_
+4	an	an	DT	_	5	det	_
+5	assessment	assessment	NN	_	3	dobj	3:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	alcohol	alcohol	NN	_	9	nn	_
+8	/	/	SYM	_	9	punct	_
+9	drug	drug	NN	_	10	nn	_
+10	counseling	counseling	NN	_	6	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	Miriah	miriah	NNP	_	6	nn	_
+2	C.	c.	NNP	_	6	nn	_
+3	Daniel	daniel	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Vehicular	vehicular	NNP	_	6	nn	_
+6	homicide	homicide	NN	_	0	root	_
+7	(	(	-LRB-	_	6	punct	_
+8	2X	2x	NNP	p2=CD	6	appos	_
+9	)	)	-RRB-	_	6	punct	_
+10	.	.	.	_	6	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Five	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	serve	serve	VB	pb=serve.01	0	root	_
+4	100	0	CD	_	5	num	_
+5	hours	hour	NNS	_	3	dobj	3:A2=GOL
+6	of	of	IN	_	5	prep	_
+7	community	community	NN	_	8	nn	_
+8	service	service	NN	_	6	pobj	_
+9	as	as	IN	_	10	mark	_
+10	assigned	assign	VBN	pb=assign.01	3	advcl	_
+11	by	by	IN	_	10	agent	10:A0=PAG
+12	the	the	DT	_	14	det	_
+13	probation	probation	NN	_	14	nn	_
+14	officer	officer	NN	_	11	pobj	_
+15	.	.	.	_	3	punct	_
+
+1	Adrienne	adrienne	NNP	p2=VB	7	nn	_
+2	M.	m.	NNP	_	7	nn	_
+3	Yeager	yeager	NNP	p2=NN	5	hmod	_
+4	-	-	HYPH	p2=.	5	hyph	_
+5	Abuse	abuse	NNP	_	7	nn	_
+6	Harmful	harmful	NNP	_	7	nn	_
+7	Intoxicants	intoxicant	NNPS	p2=NNP	0	root	_
+8	and	and	CC	_	7	cc	_
+9	Possession	possession	NNP	p2=NNPS	7	conj	_
+10	of	of	IN	_	9	prep	_
+11	Marijuana	marijuana	NNP	_	10	pobj	_
+12	.	.	.	_	7	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Cases	case	NNS	_	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	p2=NNS	3	pobj	_
+5	due	due	IN	p2=JJ	2	prep	2:AM-CAU
+6	to	to	IN	_	5	pcomp	_
+7	plea	plea	NN	_	8	nn	_
+8	negotiations	negotiation	NNS	_	5	pobj	_
+9	and	and	CC	_	8	cc	_
+10	defendant	defendant	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	plea	plea	NN	_	8	conj	_
+13	to	to	IN	p2=TO	12	prep	_
+14	companion	companion	NN	_	15	nn	_
+15	case	case	NN	_	13	pobj	_
+16	14CRB0203	0crb0	CD	p2=NN	17	nn	_
+17	B	b	NN	p2=NNP	15	appos	_
+18	and	and	CC	_	17	cc	_
+19	not	not	RB	_	20	neg	_
+20	due	due	JJ	p2=IN	17	conj	_
+21	to	to	IN	_	20	prep	_
+22	lack	lack	NN	_	21	pobj	_
+23	of	of	IN	_	22	prep	_
+24	probable	probable	JJ	_	25	amod	_
+25	cause	cause	NN	_	23	pobj	_
+26	to	to	TO	_	27	aux	_
+27	arrest	arrest	VB	pb=arrest.01	25	infmod	_
+28	.	.	.	_	2	punct	_
+
+1	No	no	DT	_	2	det	_
+2	cost	cost	NN	_	0	root	_
+3	to	to	IN	p2=TO	2	prep	_
+4	defendant	defendant	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Adrienne	adrienne	NNP	p2=VB	6	nn	_
+2	M.	m.	NNP	_	6	nn	_
+3	Yeager	yeager	NNP	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	Drug	drug	NNP	_	6	nn	_
+6	paraphernalia	paraphernalia	NNS	p2=NN	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	obtain	obtain	VB	pb=obtain.01	0	root	_
+4	an	an	DT	_	5	det	_
+5	assessment	assessment	NN	_	3	dobj	3:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	drug	drug	NN	_	9	nn	_
+8	/	/	SYM	_	9	punct	_
+9	alcohol	alcohol	NN	_	10	nn	_
+10	counseling	counseling	NN	_	6	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	Sherrie	sherrie	NNP	p2=VB	6	nn	_
+2	L.	l.	NNP	_	6	nn	_
+3	Beekman	beekman	NNP	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	Child	child	NNP	_	6	nn	_
+6	endangerment	endangerment	NN	p2=NNP	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Case	case	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	p2=NNS	3	pobj	_
+5	due	due	IN	p2=JJ	2	prep	2:AM-CAU
+6	to	to	IN	_	5	pcomp	_
+7	plea	plea	NN	_	8	nn	_
+8	negotiations	negotiation	NNS	_	5	pobj	_
+9	and	and	CC	_	8	cc	_
+10	defendant	defendant	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	plea	plea	NN	_	8	conj	_
+13	to	to	IN	p2=TO	12	prep	_
+14	companion	companion	NN	_	15	nn	_
+15	case	case	NN	_	16	nn	_
+16	TRC1401028A	trc1401028a	NNP	p2=NN	13	pobj	_
+17	and	and	CC	_	12	cc	_
+18	not	not	RB	_	19	neg	_
+19	due	due	JJ	p2=IN	12	conj	_
+20	to	to	IN	_	19	prep	_
+21	lack	lack	NN	_	20	pobj	_
+22	of	of	IN	_	21	prep	_
+23	probable	probable	JJ	_	24	amod	_
+24	cause	cause	NN	_	22	pobj	_
+25	to	to	TO	_	26	aux	_
+26	arrest	arrest	VB	pb=arrest.01	24	infmod	_
+27	.	.	.	_	2	punct	_
+
+1	Elmer	elmer	NNP	p2=JJR	7	nn	_
+2	J.	j.	NNP	_	7	nn	_
+3	Ison	ison	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Take	take	NNP	p2=VB	7	nn	_
+6	6	0	CD	_	7	num	_
+7	Trout	trout	NNP	p2=NN	0	root	_
+8	and	and	CC	_	7	cc	_
+9	Take	take	VB	p2=NNP|pb=take.01	7	conj	_
+10	7	0	CD	_	11	num	_
+11	Trout	trout	NN	p2=NNP	9	dobj	9:A1=PPT
+12	.	.	.	_	7	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Defendant	defendant	NN	p2=NNP	2	nsubj	5:A0=PAG;2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	able	able	JJ	_	2	acomp	2:A2=PRD
+4	to	to	TO	_	5	aux	_
+5	pay	pay	VB	pb=pay.01	3	xcomp	_
+6	the	the	DT	_	7	det	_
+7	fine	fine	NN	p2=JJ	5	dobj	5:A1=VSP
+8	and	and	CC	_	7	cc	_
+9	court	court	NN	_	10	nn	_
+10	costs	cost	NNS	_	7	conj	11:A1=PPT
+11	imposed	impose	VBN	pb=impose.01	10	partmod	_
+12	in	in	IN	_	11	prep	11:AM-MNR
+13	full	full	JJ	p2=RB	12	amod	_
+14	within	within	IN	_	11	prep	11:AM-TMP
+15	60	0	CD	_	16	num	_
+16	days	day	NNS	_	14	pobj	_
+17	.	.	.	_	2	punct	_
+
+1	Nathan	nathan	NNP	_	6	nn	_
+2	W.	w.	NNP	_	6	nn	_
+3	Reed	reed	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Domestic	domestic	NNP	p2=JJ	6	nn	_
+6	violence	violence	NN	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Case	case	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	To	to	TO	_	3	aux	_
+2	be	be	VB	_	3	auxpass	_
+3	presented	present	VBN	pb=present.01	0	root	_
+4	to	to	IN	p2=TO	3	prep	3:A2=GOL
+5	grand	grand	JJ	_	6	amod	_
+6	jury	jury	NN	_	4	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	No	no	DT	_	2	det	_
+2	cost	cost	NN	_	0	root	_
+3	to	to	IN	p2=TO	2	prep	_
+4	defendant	defendant	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Nathan	nathan	NNP	_	5	nn	_
+2	W.	w.	NNP	_	5	nn	_
+3	Reed	reed	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Persistent	persistent	NNP	_	7	nn	_
+6	disorderly	disorderly	JJ	p2=RB	7	amod	_
+7	conduct	conduct	NN	_	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A0=PAG;13:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	obtain	obtain	VB	pb=obtain.01	0	root	_
+4	an	an	DT	_	5	det	_
+5	assessment	assessment	NN	_	3	dobj	3:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	drug	drug	NN	_	9	nn	_
+8	/	/	SYM	_	9	punct	_
+9	alcohol	alcohol	NN	_	10	nn	_
+10	counseling	counseling	NN	_	6	pobj	_
+11	and	and	CC	_	3	cc	_
+12	shall	shall	MD	_	13	aux	13:AM-MOD
+13	refrain	refrain	VB	pb=refrain.01	3	conj	_
+14	from	from	IN	_	13	prep	13:A1=PPT
+15	all	all	DT	_	16	det	_
+16	contact	contact	NN	_	14	pobj	_
+17	with	with	IN	_	16	prep	_
+18	Jennifer	jennifer	NNP	_	19	nn	_
+19	Bayes	bayes	NNP	p2=NNPS	17	pobj	_
+20	.	.	.	_	3	punct	_
+
+1	Jennifer	jennifer	NNP	_	6	nn	_
+2	N.	n.	NNP	_	6	nn	_
+3	Bayes	bayes	NNP	p2=NNPS	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Domestic	domestic	NNP	p2=JJ	6	nn	_
+6	violence	violence	NN	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Case	case	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	To	to	TO	_	3	aux	_
+2	be	be	VB	_	3	auxpass	_
+3	presented	present	VBN	pb=present.01	0	root	_
+4	to	to	IN	p2=TO	3	prep	3:A2=GOL
+5	grand	grand	JJ	_	6	amod	_
+6	jury	jury	NN	_	4	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	No	no	DT	_	2	det	_
+2	cost	cost	NN	_	0	root	_
+3	to	to	IN	p2=TO	2	prep	_
+4	defendant	defendant	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Jennifer	jennifer	NNP	_	5	nn	_
+2	N.	n.	NNP	_	5	nn	_
+3	Bayes	bayes	NNP	p2=NNPS	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Persistent	persistent	NNP	_	7	nn	_
+6	disorderly	disorderly	JJ	p2=RB	7	amod	_
+7	conduct	conduct	NN	_	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A0=PAG;13:A1=PPT
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	obtain	obtain	VB	pb=obtain.01	0	root	_
+4	an	an	DT	_	5	det	_
+5	assessment	assessment	NN	_	3	dobj	3:A1=PPT
+6	for	for	IN	_	5	prep	_
+7	drug	drug	NN	_	9	nn	_
+8	/	/	SYM	_	9	punct	_
+9	alcohol	alcohol	NN	_	10	nn	_
+10	counseling	counseling	NN	_	6	pobj	_
+11	and	and	CC	_	3	cc	_
+12	shall	shall	MD	_	13	aux	13:AM-MOD
+13	undergo	undergo	VB	pb=undergo.01	3	conj	_
+14	mental	mental	JJ	_	16	amod	_
+15	health	health	NN	_	16	nn	_
+16	counseling	counseling	NN	_	13	dobj	13:A2=PPT
+17	.	.	.	_	3	punct	_
+
+1	Jason	jason	NNP	_	6	nn	_
+2	W.	w.	NNP	_	6	nn	_
+3	Dean	dean	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Domestic	domestic	NNP	p2=JJ	6	nn	_
+6	violence	violence	NN	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	3	nsubj	3:A1=PPT
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	undergo	undergo	VB	pb=undergo.01	0	root	_
+4	batterer	batterer	NN	p2=NNP	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	intervention	intervention	NN	_	7	nn	_
+7	program	program	NN	_	3	dobj	3:A2=PPT
+8	at	at	IN	_	7	prep	_
+9	the	the	DT	_	12	det	_
+10	Pike	pike	NNP	_	12	nn	_
+11	County	county	NNP	_	12	nn	_
+12	Partnership	partnership	NNP	p2=NN	8	pobj	_
+13	Against	against	IN	p2=NNP	12	prep	_
+14	Domestic	domestic	JJ	p2=NNP	15	amod	_
+15	Violence	violence	NN	p2=NNP	13	pobj	_
+16	.	.	.	_	3	punct	_
+
+1	Defendant	defendant	NNP	p2=JJ	3	nsubj	3:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	refrain	refrain	VB	pb=refrain.01	0	root	_
+4	from	from	IN	_	3	prep	3:A1=PPT
+5	all	all	DT	_	6	det	_
+6	contact	contact	NN	_	4	pobj	_
+7	with	with	IN	_	6	prep	_
+8	Ashley	ashley	NNP	_	9	nn	_
+9	Dean	dean	NNP	_	7	pobj	_
+10	.	.	.	_	3	punct	_
+
+1	Paul	paul	NNP	_	6	nn	_
+2	E.	e.	NNP	_	5	nn	_
+3	Carter	carter	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	Domestic	domestic	NNP	p2=JJ	6	nn	_
+6	violence	violence	NN	_	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	Preliminary	preliminary	JJ	p2=NNP	2	advmod	2:A1=PPT
+2	waived	waive	VBN	p2=VBD|pb=waive.01	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Defendant	defendant	VB	p2=NN	2	nsubj	2:A0=PAG
+2	waived	waive	VBN	p2=VBD|pb=waive.01	0	root	_
+3	preliminary	preliminary	JJ	_	4	amod	_
+4	hearing	hearing	NN	_	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	Case	case	NNP	p2=NN	3	nsubjpass	3:A1=PPT
+2	is	be	VBZ	_	3	auxpass	_
+3	bound	bind	VBN	pb=bind.04	0	root	_
+4	over	over	RP	p2=IN	3	prt	3:C-V
+5	to	to	IN	p2=TO	3	prep	3:A2=GOL
+6	next	next	JJ	_	7	amod	_
+7	term	term	NN	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	grand	grand	JJ	_	10	amod	_
+10	jury	jury	NN	_	8	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	Bond	bond	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	remain	remain	VBP	p2=VB|pb=remain.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	same	same	JJ	_	2	attr	2:A3=PRD
+5	.	.	.	_	2	punct	_
+
+1	Donna	donna	NNP	_	5	nn	_
+2	J.	j.	NNP	_	5	nn	_
+3	Pilcher	pilcher	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=,	5	hyph	_
+5	Fail	fail	NNP	_	7	nsubj	7:A0
+6	to	to	TO	p2=IN	7	aux	_
+7	Confine	confine	VB	p2=NNP|pb=confine.01	0	root	_
+8	and	and	CC	_	7	cc	_
+9	Fail	fail	NNP	p2=VB	7	conj	_
+10	to	to	IN	p2=TO	7	prep	7:A2=GOL
+11	Tag	tag	NNP	_	12	nn	_
+12	Dog	dog	NNP	_	10	pobj	_
+13	.	.	.	_	7	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Defendant	defendant	NN	p2=NNP	2	nsubj	5:A0=PAG;2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	able	able	JJ	_	2	acomp	2:A2=PRD
+4	to	to	TO	_	5	aux	_
+5	pay	pay	VB	pb=pay.01	3	xcomp	_
+6	the	the	DT	_	7	det	_
+7	fine	fine	NN	p2=JJ	5	dobj	5:A1=VSP
+8	and	and	CC	_	7	cc	_
+9	costs	cost	NNS	p2=VBZ	7	conj	10:A1=PPT
+10	imposed	impose	VBN	pb=impose.01	9	partmod	_
+11	in	in	IN	_	10	prep	10:AM-MNR
+12	full	full	JJ	_	11	amod	_
+13	by	by	IN	_	10	agent	10:A0=PAG
+14	May	may	NNP	_	13	pobj	_
+15	17	0	CD	_	14	num	_
+16	,	,	,	_	14	punct	_
+17	2014	0	CD	_	14	num	_
+18	.	.	.	_	2	punct	_
+
+1	Krystal	krystal	NNP	p2=JJ	4	nn	_
+2	Compton	compton	NNP	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	D.U.I.	d.u.i.	NNP	_	0	root	_
+5	,	,	,	_	4	punct	_
+6	OVI	ovi	NNP	_	16	nn	_
+7	/	/	SYM	p2=,	6	punct	_
+8	Under	under	IN	p2=NNP	6	prep	_
+9	the	the	DT	_	10	det	_
+10	Influence	influence	NN	p2=NNP	8	pobj	_
+11	,	,	,	_	6	punct	_
+12	and	and	CC	_	6	cc	_
+13	OVI	ovi	NNP	p2=AFX	16	nn	_
+14	/	/	SYM	p2=HYPH	16	punct	_
+15	ALS	als	NNP	_	16	nn	_
+16	Refusal	refusal	NNP	p2=NN	4	appos	_
+17	.	.	.	_	16	punct	_
+
+1	Dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Cases	case	NNS	_	2	nsubj	2:A1=PPT
+2	dismissed	dismiss	VBN	p2=VBD|pb=dismiss.01	0	root	_
+3	without	without	IN	_	2	prep	2:AM-MNR
+4	prejudice	prejudice	NN	p2=NNS	3	pobj	_
+5	due	due	IN	p2=JJ	2	prep	2:AM-CAU
+6	to	to	IN	_	5	pcomp	_
+7	plea	plea	NN	_	8	nn	_
+8	negotiations	negotiation	NNS	_	5	pobj	_
+9	and	and	CC	_	8	cc	_
+10	defendant	defendant	NN	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	plea	plea	NN	_	8	conj	_
+13	to	to	IN	p2=TO	12	prep	_
+14	companion	companion	NN	_	15	nn	_
+15	case	case	NN	_	13	pobj	_
+16	13TRCT3165	0trct0	CD	p2=IN	17	nn	_
+17	A	a	NN	p2=DT	5	pobj	_
+18	and	and	CC	_	17	cc	_
+19	not	not	RB	_	20	neg	_
+20	due	due	JJ	p2=IN	17	conj	_
+21	to	to	IN	_	20	prep	_
+22	lack	lack	NN	_	21	pobj	_
+23	of	of	IN	_	22	prep	_
+24	probable	probable	JJ	_	25	amod	_
+25	cause	cause	NN	_	23	pobj	_
+26	to	to	TO	_	27	aux	_
+27	arrest	arrest	VB	pb=arrest.01	25	infmod	_
+28	.	.	.	_	2	punct	_
+
+1	No	no	DT	_	2	det	_
+2	cost	cost	NN	_	0	root	_
+3	to	to	IN	p2=TO	2	prep	_
+4	defendant	defendant	NN	_	3	pobj	_
+5	.	.	.	_	2	punct	_
+
+1	Sherrie	sherrie	NNP	p2=VB	5	nn	_
+2	L.	l.	NNP	_	5	nn	_
+3	Beekman	beekman	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=,	5	hyph	_
+5	D.U.I.	d.u.i.	NNP	_	0	root	_
+6	(	(	-LRB-	_	7	punct	_
+7	2X	2x	NNP	p2=CD	5	appos	_
+8	)	)	-RRB-	_	7	punct	_
+9	.	.	.	_	5	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Not	not	RB	_	2	neg	_
+2	guilty	guilty	JJ	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Defendant	defendant	NNP	p2=NN	2	nsubj	2:A0=PPT
+2	entered	enter	VBD	pb=enter.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	plea	plea	NN	_	2	dobj	2:A1=LOC
+5	of	of	IN	_	4	prep	_
+6	no	no	DT	_	7	det	_
+7	contest	contest	NN	_	5	pobj	_
+8	and	and	CC	_	2	cc	_
+9	was	be	VBD	_	10	auxpass	_
+10	found	find	VBN	pb=find.02	2	conj	_
+11	not	not	RB	_	12	neg	_
+12	guilty	guilty	JJ	_	10	oprd	10:A1=PPT
+13	,	,	,	_	2	punct	_
+14	and	and	CC	_	2	cc	_
+15	a	a	DT	_	16	det	_
+16	judgment	judgment	NN	_	21	nsubjpass	21:A1=LOC
+17	of	of	IN	_	16	prep	_
+18	acquittal	acquittal	NN	_	17	pobj	_
+19	is	be	VBZ	_	21	auxpass	_
+20	hereby	hereby	RB	p2=NN	21	advmod	21:AM-MNR
+21	entered	enter	VBN	pb=enter.01	2	conj	_
+22	.	.	.	_	21	punct	_
+
+1	James	james	NNP	_	5	nn	_
+2	L.	l.	NNP	_	5	nn	_
+3	Adkins	adkins	NNPS	p2=NNP	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	OVI	ovi	NNP	_	0	root	_
+6	/	/	NFP	p2=,	5	punct	_
+7	Under	under	IN	_	5	prep	_
+8	the	the	DT	_	9	det	_
+9	Influence	influence	NN	p2=NNP	7	pobj	_
+10	.	.	.	_	5	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	contest	contest	NN	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	year	year	NN	p2=JJ	4	nn	_
+3	standard	standard	NN	p2=JJ	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NNP	p2=JJ	3	nsubj	3:A0=PAG
+2	shall	shall	MD	_	3	aux	3:AM-MOD
+3	obtain	obtain	VB	pb=obtain.01	0	root	_
+4	alcohol	alcohol	NN	_	6	nn	_
+5	/	/	SYM	p2=HYPH	6	punct	_
+6	drug	drug	NN	_	7	nn	_
+7	counseling	counseling	NN	_	3	dobj	3:A1=PPT
+8	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	2	det	_
+2	court	court	NN	_	4	nsubj	_
+3	further	far	JJ	p2=IN	4	amod	_
+4	orders	order	NNS	p2=VBZ	0	root	_
+5	that	that	IN	p2=WDT	16	dobj	_
+6	the	the	DT	_	11	det	_
+7	1983	0	CD	_	11	num	_
+8	Ford	ford	NNP	_	11	nn	_
+9	F	f	NNP	_	11	hmod	_
+10	-	-	HYPH	_	11	hyph	_
+11	150	150	NNP	p2=CD	20	nsubjpass	20:A1=PPT
+12	(	(	-LRB-	_	20	punct	_
+13	V.I.N.	v.i.n.	NNP	p2=FW	14	nn	_
+14	#	#	$	p2=POS	20	dep	_
+15	:	:	:	_	20	punct	_
+16	1FTEF4F3DNA65331	0ftef0f0dna0	LS	p2=NN	20	meta	_
+17	)	)	-RRB-	_	16	punct	_
+18	shall	shall	MD	_	20	aux	20:AM-MOD
+19	be	be	VB	_	20	auxpass	_
+20	immobilized	immobilize	VBN	pb=immobilize.01	4	ccomp	_
+21	for	for	IN	_	20	prep	20:AM-TMP
+22	90	0	CD	_	23	num	_
+23	days	day	NNS	_	21	pobj	_
+24	.	.	.	_	20	punct	_
+
+1	Jan	jan	NNP	_	5	nn	_
+2	M.	m.	NNP	_	5	nn	_
+3	Chaney	chaney	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=SYM	5	hyph	_
+5	OVI	ovi	NNP	_	9	dep	_
+6	/	/	,	p2=NFP	5	punct	_
+7	Under	under	IN	_	0	root	_
+8	the	the	DT	_	9	det	_
+9	Influence	influence	NN	p2=NNP	7	pobj	_
+10	.	.	.	_	7	punct	_
+
+1	Guilty	guilty	NNP	p2=JJ	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	years	year	NNS	_	3	npadvmod	_
+3	standard	standard	JJ	p2=NN	4	amod	_
+4	probation	probation	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Defendant	defendant	NN	p2=NNP	3	nsubj	3:A0=PAG
+2	may	may	MD	_	3	aux	3:AM-MOD
+3	complete	complete	VB	pb=complete.01	0	root	_
+4	three	#crd#	CD	_	5	num	_
+5	day	day	NN	_	3	npadvmod	3:AM-TMP
+6	DDIP	ddip	NNP	p2=NN	10	nn	_
+7	(	(	-LRB-	_	10	punct	_
+8	driver	driver	NN	_	10	nn	_
+9	intervention	intervention	NN	_	10	nn	_
+10	program	program	NN	_	5	appos	_
+11	)	)	-RRB-	_	10	punct	_
+12	in	in	IN	_	3	prep	3:AM-TMP
+13	lieu	lieu	NN	_	12	pobj	_
+14	of	of	IN	_	13	prep	_
+15	jail	jail	NN	_	16	nn	_
+16	time	time	NN	_	14	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	Must	must	MD	_	3	aux	3:AM-MOD
+2	be	be	VB	_	3	auxpass	_
+3	completed	complete	VBN	pb=complete.01	0	root	_
+4	within	within	IN	_	3	prep	3:AM-TMP
+5	six	#crd#	CD	_	6	num	_
+6	months	month	NNS	_	4	pobj	_
+7	.	.	.	_	3	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	in	in	IN	_	1	prep	1:AM-LOC
+3	Community	community	NNP	p2=NN	2	pobj	_
+4	on	on	IN	_	1	prep	1:AM-TMP
+5	Monday	monday	NNP	_	4	pobj	_
+6	,	,	,	_	12	punct	_
+7	May	may	NNP	_	12	nn	_
+8	19	0	CD	_	7	num	_
+9	,	,	,	_	12	punct	_
+10	2014	0	CD	_	11	number	_
+11	2:04	0	CD	_	12	num	_
+12	pm	pm	NN	_	5	appos	_
+13	.	.	.	_	1	punct	_
+
+1	Updated	update	VBN	pb=update.01	4	amod	_
+2	:	:	:	_	1	punct	_
+3	8:23	0	CD	_	4	num	_
+4	pm	pm	NN	_	0	root	1:A1=PPT
+5	.	.	.	_	4	punct	_
+

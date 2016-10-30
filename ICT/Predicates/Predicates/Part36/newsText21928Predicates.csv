@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+IDF chief of staff,break.01,silence,,Affirmative,"IDF chief of staff breaks silence on IDF 's budget crisis , announces army will halt reservists training because of lack in funding ; reservist : History will not forgive us . "
+IDF chief of staff,announce.01,army will halt reservists training because of lack in funding,,Affirmative,"IDF chief of staff breaks silence on IDF 's budget crisis , announces army will halt reservists training because of lack in funding ; reservist : History will not forgive us . "
+army,halt.01,reservists training because of lack in funding,,Affirmative,"IDF chief of staff breaks silence on IDF 's budget crisis , announces army will halt reservists training because of lack in funding ; reservist : History will not forgive us . "
+History,forgive.01,us,,Affirmative,"IDF chief of staff breaks silence on IDF 's budget crisis , announces army will halt reservists training because of lack in funding ; reservist : History will not forgive us . "

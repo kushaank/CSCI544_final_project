@@ -1,0 +1,116 @@
+1	Two	#crd#	CD	_	2	num	_
+2	men	man	NNS	_	4	nsubjpass	7:A0=PAG;4:A1;5:A1=PAG
+3	are	be	VBP	_	4	auxpass	_
+4	reported	report	VBN	pb=report.01	0	root	_
+5	missing	miss	VBG	p2=JJ|pb=miss.01	4	xcomp	4:C-A1
+6	and	and	CC	_	4	cc	_
+7	believed	believe	VBD	p2=VBN|pb=believe.01	4	conj	_
+8	drowned	drown	VBN	p2=JJ|pb=drown.03	7	xcomp	7:A1=PPT
+9	,	,	,	_	4	punct	_
+10	after	after	IN	_	7	prep	7:AM-TMP
+11	a	a	DT	_	13	det	_
+12	boating	boating	NN	p2=VBG	13	nn	_
+13	accident	accident	NN	_	10	pobj	14:A1
+14	that occurred	that occurred	VBN	p2=VBD|pb=that occurred.01	13	partmod	_
+15	on	on	IN	_	14	prep	14:AM-LOC
+16	Spiritwood	spiritwood	NNP	_	17	nn	_
+17	Lake	lake	NNP	_	15	pobj	_
+18	early	early	RB	p2=JJ	20	advmod	_
+19	Monday	monday	NNP	_	20	nn	_
+20	morning	morning	NN	_	14	npadvmod	14:AM-TMP
+21	.	.	.	_	4	punct	_
+
+1	Three	#crd#	CD	_	2	num	_
+2	men	man	NNS	_	4	nsubjpass	4:A1
+3	were	be	VBD	_	4	auxpass	_
+4	reported	report	VBN	pb=report.01	0	root	_
+5	to	to	IN	p2=TO	4	prep	4:A2=GOL
+6	be in	be in	NNP	p2=VBG	5	pobj	_
+7	a	a	DT	p2=FW	8	det	_
+8	canoe	canoe	NN	p2=NNP	6	appos	_
+9	on	on	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	lake	lake	NN	_	9	pobj	_
+12	when	when	WRB	_	14	advmod	14:R-AM-TMP
+13	it	it	PRP	_	14	nsubj	14:A0=PAG
+14	capsized	capsize	VBD	p2=VBN|pb=capsize.01	4	advcl	4:AM-TMP
+15	shortly	shortly	RB	_	16	advmod	_
+16	after	after	IN	_	14	prep	14:AM-TMP
+17	midnight	midnight	NN	_	16	pobj	_
+18	.	.	.	_	4	punct	_
+
+1	One	#crd#	CD	_	5	nsubj	5:A0=PAG;10:A0=PAG;15:A1=PPT
+2	of	of	IN	_	1	prep	_
+3	the	the	DT	_	4	det	_
+4	men	man	NNS	_	2	pobj	_
+5	tried	try	VBD	pb=try.01	0	root	_
+6	to grab	to grab	NNP	p2=VB	8	nsubj	_
+7	another	another	DT	_	8	det	_
+8	man	man	NN	_	5	dobj	5:A1=PPT
+9	and	and	CC	_	5	cc	_
+10	pull	pull	VB	pb=pull.01	5	conj	_
+11	him	him	PRP	_	10	dobj	10:A1=PPT
+12	to	to	IN	p2=TO	10	prep	10:A2=DIR
+13	safety	safety	NN	_	12	pobj	_
+14	but	but	CC	_	5	cc	_
+15	was	be	VBD	pb=be.01	5	conj	_
+16	unable	unable	JJ	_	15	acomp	15:A2=PRD
+17	to	to	TO	_	18	aux	_
+18	make	make	VB	pb=make.02	16	xcomp	_
+19	it	it	PRP	_	21	nsubj	21:A0=PAG
+20	to	to	IN	_	21	aux	_
+21	shore	shore	VB	pb=shore.01	18	ccomp	18:A1=PRD
+22	with	with	IN	_	21	prep	21:A1=PPT
+23	him	him	PRP	_	22	pobj	_
+24	.	.	.	_	5	punct	_
+
+1	 The	 the	DT	p2=JJ	2	det	_
+2	man	man	NN	_	4	nsubj	4:A1=PPT;6:A1=PPT
+3	reportedly	reportedly	RB	_	4	advmod	4:AM-ADV;6:AM-ADV
+4	sank	sink	VBD	p2=VBN|pb=sink.01	0	root	_
+5	and	and	CC	_	4	cc	_
+6	drowned	drown	VBD	pb=drown.02	4	conj	_
+7	.	.	.	_	4	punct	_
+
+1	The	the	DT	_	3	det	_
+2	third	#ord#	JJ	_	3	amod	_
+3	man	man	NN	_	7	nsubjpass	10:A0;7:A1=PPT
+4	has	have	VBZ	_	7	aux	_
+5	not	not	RB	_	7	neg	7:AM-NEG
+6	been	be	VBN	_	7	auxpass	_
+7	located	locate	VBN	pb=locate.02	0	root	_
+8	,	,	,	_	7	punct	_
+9	but	but	CC	_	7	cc	_
+10	it's believed	it's believed	VBD	p2=,|pb=it's believed.01	7	conj	_
+11	that	that	IN	_	14	complm	_
+12	he	he	PRP	_	14	nsubj	14:A1=PPT
+13	also	also	RB	_	14	advmod	_
+14	drowned	drown	VBD	pb=drown.02	10	ccomp	10:A1
+15	as	as	IN	_	14	prep	14:AM-CAU
+16	a	a	DT	_	17	det	_
+17	result	result	NN	_	15	pobj	_
+18	of	of	IN	_	17	prep	_
+19	the	the	DT	_	20	det	_
+20	incident	incident	NN	_	18	pobj	_
+21	.	.	.	_	7	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

@@ -1,0 +1,143 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+  ( KRX:005930 ) ( KRX:005935 ),state.01,company is looking at biometrics,,Affirmative,  ( KRX:005930 ) ( KRX:005935 )  senior vice president Rhee In-jong stated that his company is looking at biometrics as a major focal point in its campaign to differentiate its smartphones . 
+his company,look.01,at biometrics,as,Affirmative,  ( KRX:005930 ) ( KRX:005935 )  senior vice president Rhee In-jong stated that his company is looking at biometrics as a major focal point in its campaign to differentiate its smartphones . 
+We,look.01,at ,,Affirmative,We 're looking at  various types of biometric [ mechanisms ] and one of things that everybody is looking at is iris detection . 
+everybody,look.01,things,,Affirmative,We 're looking at  various types of biometric [ mechanisms ] and one of things that everybody is looking at is iris detection . 
+The sensor,read.01,sub-epidermal skin layers,,Affirmative,The sensor reads sub-epidermal skin layers and the firmware supporting it features learning algorithms for better scans and security . 
+the firmware,support.01,it,,Affirmative,The sensor reads sub-epidermal skin layers and the firmware supporting it features learning algorithms for better scans and security . 
+The sensor,feature.01,learning algorithms for,,Affirmative,The sensor reads sub-epidermal skin layers and the firmware supporting it features learning algorithms for better scans and security . 
+ A steel ring,act.01,as,,Affirmative," A steel ring acts as a crude heat sensor for the Apple sensor , making sure it is an actual fingerprint . "
+ A steel ring,make.02,sure,,Affirmative," A steel ring acts as a crude heat sensor for the Apple sensor , making sure it is an actual fingerprint . "
+ The,scan.01,data is stored locally in,,Affirmative," The scan data is stored locally in a secure cache on Apple 's A7 system - on - a - chip , which Apple claims prevents spying on its users . "
+Apple,claim.01,prevents spying on,,Affirmative," The scan data is stored locally in a secure cache on Apple 's A7 system - on - a - chip , which Apple claims prevents spying on its users . "
+"an apparent steel ring ,",trigger.01,a scan by,,Affirmative,"Like Touch ID , there 's an apparent steel ring , which triggers a scan by a capacitive touch sensor . "
+reports,indicate.01,that it too had,,Affirmative," Finer technical details of that mass market sensor are not known , but reports indicate that it too had self - learning capabilities . "
+"Samsung , Apple ,",have.03,learning capabilities,,Affirmative," Finer technical details of that mass market sensor are not known , but reports indicate that it too had self - learning capabilities . "
+it,have.03,a worse recognition rate than,,Affirmative," Reportedly it has a worse recognition rate than Touch ID initially , but eventually reached a passable rate of around 90 percent recognition success , according to reviewers . "
+it,reach.01,a passable rate of,,Affirmative," Reportedly it has a worse recognition rate than Touch ID initially , but eventually reached a passable rate of around 90 percent recognition success , according to reviewers . "
+it,join.01,its fellow Android OEMs,,Affirmative,"Samsung was somewhat of a latecomer to the fingerprint sensor party , but it joined its fellow Android OEMs this year with the launch of the Galaxy S5 ( GS5 ) flagship smartphone , which featured a swipe - style fingerprint sensor . "
+"flagship smartphone ,",feature.01,style fingerprint sensor,,Affirmative,"Samsung was somewhat of a latecomer to the fingerprint sensor party , but it joined its fellow Android OEMs this year with the launch of the Galaxy S5 ( GS5 ) flagship smartphone , which featured a swipe - style fingerprint sensor . "
+The GS5,look.04,to push things,,Affirmative,"The GS5 looked to push things a step further , offering a unique SDK that allowed the fingerprint scanner to be used as a password - like confirmation for in-app purchases in third - party apps . "
+The GS5,push.01,things,step further,Affirmative,"The GS5 looked to push things a step further , offering a unique SDK that allowed the fingerprint scanner to be used as a password - like confirmation for in-app purchases in third - party apps . "
+The GS5,offer.01,a unique SDK,,Affirmative,"The GS5 looked to push things a step further , offering a unique SDK that allowed the fingerprint scanner to be used as a password - like confirmation for in-app purchases in third - party apps . "
+a unique SDK,allow.01,scanner to be used as,,Affirmative,"The GS5 looked to push things a step further , offering a unique SDK that allowed the fingerprint scanner to be used as a password - like confirmation for in-app purchases in third - party apps . "
+Samsung,want.01,to roll out biometrics,,Affirmative,"Samsung wants to roll out biometrics such as facial recognition and fingerprint scanners across its entire smartphone line , even on the low - end . "
+Samsung,roll.01,biometrics,,Affirmative,"Samsung wants to roll out biometrics such as facial recognition and fingerprint scanners across its entire smartphone line , even on the low - end . "
+it,do.02,that,,Affirmative," If it can do that , it could perhaps give a strong selling point , particularly on the budget side . "
+it,give.01,a strong selling point,,Affirmative," If it can do that , it could perhaps give a strong selling point , particularly on the budget side . "
+ Photographs,dupe.01,a number of,,Affirmative, Photographs have been able to dupe a number of facial recognition algorithms . 
+hackers,use.01,fake fingers,to gain,Affirmative," Likewise hackers used fake fingers to gain unauthorized access to the iPhone 5 S  last year , in a controlled experiment . "
+hackers,gain.02,unauthorized access to,,Affirmative," Likewise hackers used fake fingers to gain unauthorized access to the iPhone 5 S  last year , in a controlled experiment . "
+Apple,face.01,some tough questions,,Affirmative, The hack led to Apple facing some tough questions . 
+"Security Research Labs ,",unlock.01,GS5,,Affirmative,"Security Researchers with Germany 's Security Research Labs ,  who successfully unlocked GS5 s with fake fingers , complained that the security flaw could be more damaging given the access to Paypal and other billable accounts . "
+Security Researchers with,complain.01,flaw could be,,Affirmative,"Security Researchers with Germany 's Security Research Labs ,  who successfully unlocked GS5 s with fake fingers , complained that the security flaw could be more damaging given the access to Paypal and other billable accounts . "
+most hackers,lack.01,the sophistication,,Affirmative," While an expert on fingerprint sensors might be able to perform the hack with relative ease , most hackers lack the sophistication to make the detailed latex finger replicas needed for the exploit . "
+"Samsung , Apple , and others",raise.01,the general argument,,Affirmative,"Further , Samsung , Apple , and others have raised the general argument that without biometrics many customers simply use no password or code lock at all . "
+many customers,use.01,lock,,Affirmative,"Further , Samsung , Apple , and others have raised the general argument that without biometrics many customers simply use no password or code lock at all . "
+No smartphone maker,have.03,"iris scanner , yet",,Affirmative,"No smartphone maker has a mass - market iris scanner , yet . "
+ Samsung,launch.01,that technology,,Affirmative," Samsung was rumored to launch that technology with the GS5 , but instead went with the safer fingerprint sensor option . "
+"Samsung , Apple ,",sell.01,million smartphones in Q1 2014,,Affirmative,"Samsung is currently the world 's largest smartphone maker , selling an estimated 90 million smartphones in Q1 2014 . "
+Samsung,struggle.02,to recapture,,Affirmative,"Overall , though Samsung is still struggling to recapture the wild growth it saw in 2011 and 2012 in the smartphone space . "
+Samsung,recapture.01,the wild growth,,Affirmative,"Overall , though Samsung is still struggling to recapture the wild growth it saw in 2011 and 2012 in the smartphone space . "
+it,see.01,the wild growth,,Affirmative,"Overall , though Samsung is still struggling to recapture the wild growth it saw in 2011 and 2012 in the smartphone space . "
+Samsung,disclose.01,there are,,Affirmative,At the investor summit Samsung disclosed that to date there are 87 million devices in the wild which are compatible with Samsung 's KNOX . 
+ First,announce.01,", KNOX was supposed",,Affirmative," First announced at Mobile World Congress 2013 , KNOX was supposed to be the crux of the Samsung Approved For Enterprise ( SAFE ) project . "
+ Samsung,hope.01,to capture,,Affirmative," Samsung was hoping to capture the majority of customers departing from wounded Canadian enterprise smartphone maker BlackBerry , Ltd. ( TSE:BB ) whose Balance solution remains widely used within many organizations . "
+ Samsung,capture.01,the majority of customers departing from,,Affirmative," Samsung was hoping to capture the majority of customers departing from wounded Canadian enterprise smartphone maker BlackBerry , Ltd. ( TSE:BB ) whose Balance solution remains widely used within many organizations . "
+it,announce.01,the GS4,,Affirmative,"In April 2013 , when it announced the GS4 , it suggested KNOX would be offered onboard . "
+it,suggest.01,KNOX would be offered onboard,,Affirmative,"In April 2013 , when it announced the GS4 , it suggested KNOX would be offered onboard . "
+2013,bring.01,the secure Android OS,to market,Affirmative,"2013 , finally brought the secure Android OS to market after nearly a year of delays . "
+you,ascertain.01,OS has been on,,Affirmative,"Given the late September launch , you can quickly ascertain that the OS has been on the market for less than 9 months . "
+he,disclose.01,adopters were or,,Affirmative," While he would not disclose who the early adopters were or what their numbers were , he did say that banks , healthcare and financial companies were among those leading pickup at present . "
+he,say.01,were among those,,Affirmative," While he would not disclose who the early adopters were or what their numbers were , he did say that banks , healthcare and financial companies were among those leading pickup at present . "
+carriers,have.06,yet,,Affirmative, Some Galaxy S3 s and S4 s in the wild remain uncompatible as carriers have yet to deliver Samsung 's upgrade package to customers . 
+carriers,deliver.01,upgrade package to customers,,Affirmative, Some Galaxy S3 s and S4 s in the wild remain uncompatible as carriers have yet to deliver Samsung 's upgrade package to customers . 
+Samsung 's,upgrade.02,package,to customers,Affirmative, Some Galaxy S3 s and S4 s in the wild remain uncompatible as carriers have yet to deliver Samsung 's upgrade package to customers . 
+The new unveiled vulnerability,present.01,a serious threat to,,Affirmative,"The new unveiled vulnerability presents a serious threat to all users of phones based on this architecture , such as users [ of the GS4 ] . "
+Samsung,acknowledge.01,the vulnerability,,Affirmative,"Samsung acknowledged the vulnerability , but said that it might have been mitigated by bundled software that typically was given to SAFE enterprise clients . "
+Samsung,say.01,that it might have been mitigated by,,Affirmative,"Samsung acknowledged the vulnerability , but said that it might have been mitigated by bundled software that typically was given to SAFE enterprise clients . "
+by,mitigate.01,it,,Affirmative,"Samsung acknowledged the vulnerability , but said that it might have been mitigated by bundled software that typically was given to SAFE enterprise clients . "
+"Samsung , Apple ,",act.02,to offer,,Affirmative," However , it also acted to offer security patches are being rolled out for all vulnerable models , noting that the flaw was a bonafide threat to the integrity of Knox - enabled devices . "
+"Samsung , Apple ,",offer.01,patches are being rolled out for,,Affirmative," However , it also acted to offer security patches are being rolled out for all vulnerable models , noting that the flaw was a bonafide threat to the integrity of Knox - enabled devices . "
+"Samsung , Apple ,",note.01,flaw was,,Affirmative," However , it also acted to offer security patches are being rolled out for all vulnerable models , noting that the flaw was a bonafide threat to the integrity of Knox - enabled devices . "
+A flaw,allow.01,apps to escape,,Affirmative,A flaw allowed apps to escape their sandbox in Samsung KNOX . 
+apps,escape.01,their sandbox,,Affirmative,A flaw allowed apps to escape their sandbox in Samsung KNOX . 
+The flaw,allow.01,to escalate,,Affirmative,"The flaw allowed everyday apps , such as games or productivity software , to escalate their privileges and escape the sandbox for private work , snooping on the business sandbox . "
+"everyday apps ,",escalate.01,their privileges,,Affirmative,"The flaw allowed everyday apps , such as games or productivity software , to escalate their privileges and escape the sandbox for private work , snooping on the business sandbox . "
+"everyday apps ,",escape.01,the sandbox for,,Affirmative,"The flaw allowed everyday apps , such as games or productivity software , to escalate their privileges and escape the sandbox for private work , snooping on the business sandbox . "
+"Samsung , Apple ,",convince.01,critics,that it is secure and,Affirmative,"If Samsung can convince critics that it is secure and an attractive exit route for BlackBerry , it still has a tremendous opportunity . "
+it,have.03,a tremendous opportunity,,Affirmative,"If Samsung can convince critics that it is secure and an attractive exit route for BlackBerry , it still has a tremendous opportunity . "
+only BlackBerry Balance and,offer.01,offer tightly integrated,,Affirmative," After all , only BlackBerry Balance and Samsung KNOX offer tightly integrated side-by-side secure work and play sandboxes for bring - your - own - device ( BYOD ) smartphone users . "
+ After all,integrate.01,side-by-side secure work,,Affirmative," After all , only BlackBerry Balance and Samsung KNOX offer tightly integrated side-by-side secure work and play sandboxes for bring - your - own - device ( BYOD ) smartphone users . "
+ After all,play.01,sandboxes,,Affirmative," After all , only BlackBerry Balance and Samsung KNOX offer tightly integrated side-by-side secure work and play sandboxes for bring - your - own - device ( BYOD ) smartphone users . "
+ Samsung,claim.01,KNOX is secure enough,,Affirmative, Samsung claims its KNOX is secure enough even for high - presssure settings such as military or intelligence clients . 
+Samsung,hope.01,will stoke,,Affirmative,Samsung hopes the popularity of the Galaxy S5 will stoke KNOX adoption . 
+the popularity of,stoke.01,KNOX adoption,,Affirmative,Samsung hopes the popularity of the Galaxy S5 will stoke KNOX adoption . 
+A number of,offer.01,similar features,,Affirmative,"A number of third party apps and services , of course , offer similar features across a number of common smartphone platforms . "
+Samsung,act.01,fast,,Affirmative,Samsung must also act fast to try to win customers . 
+Samsung,try.01,to win customers,,Affirmative,Samsung must also act fast to try to win customers . 
+Samsung,win.01,customers,,Affirmative,Samsung must also act fast to try to win customers . 
+ Apple --,see.01,strong enterprise interest,,Affirmative," Apple -- which has seen strong enterprise interest despite lacking that kind of side-by-side environment -- has been rumored to be preparing similar features for iOS 8 , which will ship with the iPhone 6 later this year . "
+ Apple --,lack.01,that kind of,,Affirmative," Apple -- which has seen strong enterprise interest despite lacking that kind of side-by-side environment -- has been rumored to be preparing similar features for iOS 8 , which will ship with the iPhone 6 later this year . "
+ Apple --,prepare.02,similar features,"for iOS 8 ,",Affirmative," Apple -- which has seen strong enterprise interest despite lacking that kind of side-by-side environment -- has been rumored to be preparing similar features for iOS 8 , which will ship with the iPhone 6 later this year . "
+The Afghan girl,grace.01,the cover of,,Affirmative,The Afghan girl whose photo graced the cover of National Geographic was found 17 years later and confirmed based on her iris pattern in the original photo . 
+the photographer,conceive.01,Something,,Affirmative,Something the photographer never even conceived of as a possibility when he snapped the picture in 1985 . 
+he,snap.03,the picture,,Affirmative,Something the photographer never even conceived of as a possibility when he snapped the picture in 1985 . 
+you,leave.01,your phone,,Affirmative,Most smartphone theft involves you leaving your phone in your car or a public place and someone just grabs it and walks off with it . 
+someone,grab.01,it,,Affirmative,Most smartphone theft involves you leaving your phone in your car or a public place and someone just grabs it and walks off with it . 
+they,know.01,who you are,,Affirmative,"Usually they do n't even know who you are , much less have photographs of your face ! "
+this,offer.01,practical security,,Affirmative,"So just like fingerprint scanners , this offers practical security that would defeat the common theft - scenario . "
+practical security,defeat.01,the common theft - scenario,,Affirmative,"So just like fingerprint scanners , this offers practical security that would defeat the common theft - scenario . "
+you,leave.01,fingerprints,just from using it,Affirmative,"In fact this MORE secure than fingerprint scanners , because you leave fingerprints on your phone just from using it . "
+you,use.01,it,,Affirmative,"In fact this MORE secure than fingerprint scanners , because you leave fingerprints on your phone just from using it . "
+They,need.01,to stalk,,Affirmative,They do n't need to stalk most people to obtain a high resolution photo of their face . 
+They,stalk.02,people to obtain,,Affirmative,They do n't need to stalk most people to obtain a high resolution photo of their face . 
+most people,obtain.01,resolution photo of,,Affirmative,They do n't need to stalk most people to obtain a high resolution photo of their face . 
+No one,need.01,to break into,,Affirmative,No one needs to break into your phone to get data off it . 
+No one,break.01,into,,Affirmative,No one needs to break into your phone to get data off it . 
+someone,have.03,physical access to,,Affirmative,"Once someone has physical access to your phone , there 's really nothing they ca n't do anyway . "
+they,do.02,nothing,,Affirmative,"Once someone has physical access to your phone , there 's really nothing they ca n't do anyway . "
+I,say.01,All,,Affirmative,"All I 'm saying is bio-metric security is still better than no security , and more convenient than a password . "
+your girlfriend or wife,want.01,to snoop on,,Affirmative,"If your girlfriend or wife wants to snoop on your phone , chances are she 's not gon na be making high res photos of your face to get into it . "
+your girlfriend or wife,snoop.01,on,,Affirmative,"If your girlfriend or wife wants to snoop on your phone , chances are she 's not gon na be making high res photos of your face to get into it . "
+she,make.02,res photos of,,Affirmative,"If your girlfriend or wife wants to snoop on your phone , chances are she 's not gon na be making high res photos of your face to get into it . "
+people,duplicate.01,your iris or fingerprint,,Affirmative,Considering if the data on your phone is so important that people would be willing to duplicate your iris or fingerprint then either one by itself would be stupid . 
+it,require.01,your iris AND,,Affirmative,However if it required your iris AND a passcode then it would be awesome . 
+someone,need.01,that level of security,,Affirmative,Combined with a passcode and encryption it 's near unbreakable for someone who needs that level of security . 
+somebody,have.03,"your ( fingerprint ,",,Affirmative,"The issue with using biometric is not neccessarily for access to a smartphone , laptop etc. As a second factor it can be better , but the problem is once somebody has your ( fingerprint , iris pattern , etc ) , they have it for life . "
+they,have.03,it,,Affirmative,"The issue with using biometric is not neccessarily for access to a smartphone , laptop etc. As a second factor it can be better , but the problem is once somebody has your ( fingerprint , iris pattern , etc ) , they have it for life . "
+You,change.01,these items,,Affirmative,You can not change these items . 
+we,have.03,sensors capable of determining,,Affirmative,"When we have sensors capable of determining if the eye or finger is alive , you 've pretty much solved that issue . "
+you,solve.01,that issue,,Affirmative,"When we have sensors capable of determining if the eye or finger is alive , you 've pretty much solved that issue . "
+Carrying around,cut.02,it,,Affirmative,Carrying around a picture of someones eye wo n't cut it . 
+Knox-enabled,think.01,Android allowed,,Affirmative,I did n't think Android allowed you to access a phone 's storage via USB if the phone was locked . 
+Android,allow.01,you to access,,Affirmative,I did n't think Android allowed you to access a phone 's storage via USB if the phone was locked . 
+you,access.01,storage,,Affirmative,I did n't think Android allowed you to access a phone 's storage via USB if the phone was locked . 
+I,know.01,WP does n't let,,Affirmative,I know WP does n't let you do that and I 'm fairly certain Android works the same way . 
+WP,let.01,you do that,,Affirmative,I know WP does n't let you do that and I 'm fairly certain Android works the same way . 
+you,do.02,that,,Affirmative,I know WP does n't let you do that and I 'm fairly certain Android works the same way . 
+I,use.01,your local device,,Affirmative,At least it did the last time I used it in such a fashion . 
+many people,store.01,application data and,,Affirmative,"If nothing else , many people store application data and picture data on the SD card which can then just be removed . "
+they,have.03,your device,,Affirmative,"Ultimately once they have your device , they can spend as long as they need getting data off it if they really want it . "
+they,get.01,data,off it,Affirmative,"Ultimately once they have your device , they can spend as long as they need getting data off it if they really want it . "
+they,want.01,it,,Affirmative,"Ultimately once they have your device , they can spend as long as they need getting data off it if they really want it . "
+I,have.03,it 's locked,,Affirmative,I 'd it 's locked they ca n't prevent it from connecting which means you can remotely wipe . 
+they,prevent.01,it,from connecting,Affirmative,I 'd it 's locked they ca n't prevent it from connecting which means you can remotely wipe . 
+it,mean.01,you can remotely wipe,,Affirmative,I 'd it 's locked they ca n't prevent it from connecting which means you can remotely wipe . 
+they,reset.01,a pass code,,Affirmative,And if the device is encrypted if they reset a pass code then the device is a paperweight anyway . 
+they,get.01,my phone,,Affirmative,"Again , if they got my phone my email , OneDrive and Box information are all I would worry about and I would immediately wipe the device and reset passwords to those services . "
+Knox-enabled,worry.02,about,,Affirmative,"Again , if they got my phone my email , OneDrive and Box information are all I would worry about and I would immediately wipe the device and reset passwords to those services . "
+Knox-enabled,wipe.01,the device,,Affirmative,"Again , if they got my phone my email , OneDrive and Box information are all I would worry about and I would immediately wipe the device and reset passwords to those services . "
+Knox-enabled,reset.01,passwords,to,Affirmative,"Again , if they got my phone my email , OneDrive and Box information are all I would worry about and I would immediately wipe the device and reset passwords to those services . "
+We,look.01,at,,Affirmative,We 're looking at various types of biometric [ mechanisms ] and one of things that everybody is looking at is iris detection . 
+everybody,look.01,things,,Affirmative,We 're looking at various types of biometric [ mechanisms ] and one of things that everybody is looking at is iris detection . 
+We,follow.02,the market trend,,Affirmative,"We , as a market leader , are following the market trend . "
+One,lead.02,the market,,Affirmative,One can still lead the market in how that security is implemented . 
+They,follow.01,a trend,,Affirmative,They can be market leader and follow a trend ... 
+I,have.03,zero interest in this,,Affirmative,Call me a nut but I have zero interest in this . 
+We,follow.02,the market trend,,Affirmative,"We , as a market leader , are following the market trend . "
+A leader,set.02,the trend,,Affirmative,A leader sets the trend . 
+i,want.01,this feature,,Affirmative,i do nt want this feature just so we avoid NSA IS GON NA GET ME DOWN WITH THE GOV posts . 
+we,avoid.01,posts,,Affirmative,i do nt want this feature just so we avoid NSA IS GON NA GET ME DOWN WITH THE GOV posts . 
+my headline,refer.01,to,,Affirmative,Originally my headline was referring to the typo ? 
+by that,throw.01,I,off,Affirmative,I was more thrown off by that than laeadung and following . 

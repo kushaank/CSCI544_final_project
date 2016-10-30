@@ -1,0 +1,21 @@
+1	Police	police	NNS	p2=NN	3	nsubj	3:A0=PAG
+2	are	be	VBP	_	3	aux	_
+3	searching	search	VBG	pb=search.01	0	root	_
+4	for	for	IN	_	3	prep	3:A2=PPT
+5	two	#crd#	CD	_	6	num	_
+6	men	man	NNS	_	4	pobj	8:A1=PPT
+7	they	they	PRP	_	8	nsubj	8:A0
+8	say	say	VBP	pb=say.01	6	rcmod	_
+9	broke	break	VBD	p2=VBN|pb=break.02	3	advcl	3:AM-TMP
+10	into	into	IN	_	9	prep	9:A1=GOL
+11	a	a	DT	_	13	det	_
+12	Millsboro	millsboro	NNP	p2=CD	13	nn	_
+13	home	home	NN	p2=RB	10	pobj	_
+14	May	may	NNP	_	19	nn	_
+15	18	0	CD	_	14	num	_
+16	and	and	CC	_	9	cc	_
+17	robbed	rob	VBD	pb=rob.01	9	conj	_
+18	a	a	DT	_	19	det	_
+19	resident	resident	NN	_	17	dobj	17:A1=DIR
+20	.	.	.	_	3	punct	_
+

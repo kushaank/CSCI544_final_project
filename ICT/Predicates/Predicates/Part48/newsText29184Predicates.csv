@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Secretary Jay Carney,suggest.01,Legion had praised,,Affirmative,"At the White House briefing today , Press Secretary Jay Carney repeatedly suggested the American Legion had praised the Department of Veterans Affairs for the resignation Friday of top VA health official Dr. Robert Petzel . "
+the American Legion,praise.01,the Department of,for,Affirmative,"At the White House briefing today , Press Secretary Jay Carney repeatedly suggested the American Legion had praised the Department of Veterans Affairs for the resignation Friday of top VA health official Dr. Robert Petzel . "
+Press Secretary Jay Carney,cite.01,the American Legion,,Affirmative,Carney went on to cite the American Legion nine times during the briefing . 
+The White House,explain.01,that Carney was directly quoting from,,Affirmative,The White House explained that Carney was directly quoting from newspaper accounts citing the commander of the American Legion 's reaction to Petzel 's resignation . 
+Press Secretary Jay Carney,quote.01,from,,Affirmative,The White House explained that Carney was directly quoting from newspaper accounts citing the commander of the American Legion 's reaction to Petzel 's resignation . 
+newspaper accounts citing,cite.01,the commander of,,Affirmative,The White House explained that Carney was directly quoting from newspaper accounts citing the commander of the American Legion 's reaction to Petzel 's resignation . 
+the American Legion,put.01,a statement,on Friday,Affirmative,But the American Legion put out a statement on Friday about Dr. Petzel 's resignation saying almost exactly the opposite of what Carney suggested . 
+resignation saying,say.01,exactly the opposite of,,Affirmative,But the American Legion put out a statement on Friday about Dr. Petzel 's resignation saying almost exactly the opposite of what Carney suggested . 
+The official,quote.01,spokesman John Raughter,,Affirmative,"The official quoted , spokesman John Raughter , acknowledged saying it was a step forward but not much of a step . "
+The official,say.01,it was,,Affirmative,"The official quoted , spokesman John Raughter , acknowledged saying it was a step forward but not much of a step . "

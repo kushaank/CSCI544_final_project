@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+identification,say.01,she was,,Affirmative,"Charity Johnson enrolled in October as a sophomore at New Life Christian School in Longview under the name Charite Stevens , with identification that said she was 15 years old , broadcast station KLTV said . "
+station KLTV,say.01,Johnson enrolled in October,,Affirmative,"Charity Johnson enrolled in October as a sophomore at New Life Christian School in Longview under the name Charite Stevens , with identification that said she was 15 years old , broadcast station KLTV said . "
+Charity Johnson,tell.01,she had been,school officials,Affirmative,Johnson told school officials she had been home - schooled and had no prior transcripts . 
+"Tamica Lincoln ,",tell.01,she took Johnson,KLTV,Affirmative,"Tamica Lincoln , a woman who lives in the area , told KLTV she took Johnson in after she claimed to be a teenage orphan from an abusive household , enrolled her in school and met with her teachers . "
+Tamica Lincoln,take.01,Johnson,,Affirmative,"Tamica Lincoln , a woman who lives in the area , told KLTV she took Johnson in after she claimed to be a teenage orphan from an abusive household , enrolled her in school and met with her teachers . "
+Tamica Lincoln,claim.01,to be,,Affirmative,"Tamica Lincoln , a woman who lives in the area , told KLTV she took Johnson in after she claimed to be a teenage orphan from an abusive household , enrolled her in school and met with her teachers . "
+Tamica Lincoln,take.01,a teenage orphan from an abusive household,as,Affirmative,"I took her in as a child , did her hair , got her clothes and shoes , Lincoln said . "
+Tamica Lincoln,get.01,her clothes and shoes,,Affirmative,"I took her in as a child , did her hair , got her clothes and shoes , Lincoln said . "
+Tamica Lincoln,say.01,I took her in as,,Affirmative,"I took her in as a child , did her hair , got her clothes and shoes , Lincoln said . "
+Tamica Lincoln,say.01,she started,,Affirmative,But Lincoln said she started to doubt Johnson 's story and alerted police . 
+Tamica Lincoln,start.01,to doubt,,Affirmative,But Lincoln said she started to doubt Johnson 's story and alerted police . 
+Tamica Lincoln,doubt.01,story and alerted police,,Affirmative,But Lincoln said she started to doubt Johnson 's story and alerted police . 
+Tamica Lincoln,alert.01,police,,Affirmative,But Lincoln said she started to doubt Johnson 's story and alerted police . 
+Charity Johnson,identify.01,Tamica Lincoln,,Affirmative,"Johnson was arrested Sunday after identifying herself to police as the alias she used to enroll in school , the TV report said . "
+Tamica Lincoln,enroll.01,the alias,in school,Affirmative,"Johnson was arrested Sunday after identifying herself to police as the alias she used to enroll in school , the TV report said . "
+the TV report,say.01,Johnson was arrested Sunday after identifying herself,,Affirmative,"Johnson was arrested Sunday after identifying herself to police as the alias she used to enroll in school , the TV report said . "
+Charity Johnson,give.01,false information,,Affirmative,"Johnson was charged with failure to identify and giving false information , according to jail records . "

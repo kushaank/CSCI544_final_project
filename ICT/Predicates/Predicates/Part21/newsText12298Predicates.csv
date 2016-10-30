@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+It,say.01,people are still in,,Affirmative,"It said of the eleven people who declared bankruptcy today , two people had already surrendered their home , two people are still in their home but expect to lose it in the future and the remaining seven will all retain their family home . "
+the eleven people,declare.02,bankruptcy,,Affirmative,"It said of the eleven people who declared bankruptcy today , two people had already surrendered their home , two people are still in their home but expect to lose it in the future and the remaining seven will all retain their family home . "
+two people,surrender.01,their home,,Affirmative,"It said of the eleven people who declared bankruptcy today , two people had already surrendered their home , two people are still in their home but expect to lose it in the future and the remaining seven will all retain their family home . "
+the remaining seven,retain.01,their family home,,Affirmative,"It said of the eleven people who declared bankruptcy today , two people had already surrendered their home , two people are still in their home but expect to lose it in the future and the remaining seven will all retain their family home . "
+The company,say.01,cases saw,,Affirmative,The company said today 's cases saw a total of €7.8 m debt brought to the bankruptcy court . 
+cases,see.01,a total of €7.8,,Affirmative,The company said today 's cases saw a total of €7.8 m debt brought to the bankruptcy court . 
+debt,bring.01,a total of €7.8,to,Affirmative,The company said today 's cases saw a total of €7.8 m debt brought to the bankruptcy court . 
+by,write.02,70 %,,Affirmative,"Of the mortgage debt of €6.7 m , 70 % will have to be written off by the banks . "
+them,put.01,the stress and,,Affirmative,They can put the stress and the health issues which come with debt behind them . 
+"Jane Carroll , from",comment.02,This is not,,Affirmative,"This is not only good for the debtors but it is good for society as a whole , commented Jane Carroll , from Neo Financial Solutions . "

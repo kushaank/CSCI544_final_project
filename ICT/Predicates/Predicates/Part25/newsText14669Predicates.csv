@@ -1,0 +1,52 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+His attorneys,file.01,a motion asking for,,Affirmative,"His attorneys have filed a motion asking for the execution to be taped because Bucklew suffers from ' weak , malformed blood vessels ' A Missouri death row inmate scheduled to be put to death next week has filed a motion asking that his execution be videotaped because he 's afraid ' it could be painful . "
+a motion asking for,ask.02,for,,Affirmative,"His attorneys have filed a motion asking for the execution to be taped because Bucklew suffers from ' weak , malformed blood vessels ' A Missouri death row inmate scheduled to be put to death next week has filed a motion asking that his execution be videotaped because he 's afraid ' it could be painful . "
+Russell Bucklew,suffer.01,from,,Affirmative,"His attorneys have filed a motion asking for the execution to be taped because Bucklew suffers from ' weak , malformed blood vessels ' A Missouri death row inmate scheduled to be put to death next week has filed a motion asking that his execution be videotaped because he 's afraid ' it could be painful . "
+His attorneys,file.01,a motion asking,,Affirmative,"His attorneys have filed a motion asking for the execution to be taped because Bucklew suffers from ' weak , malformed blood vessels ' A Missouri death row inmate scheduled to be put to death next week has filed a motion asking that his execution be videotaped because he 's afraid ' it could be painful . "
+a motion asking,ask.02,execution be videotaped,,Affirmative,"His attorneys have filed a motion asking for the execution to be taped because Bucklew suffers from ' weak , malformed blood vessels ' A Missouri death row inmate scheduled to be put to death next week has filed a motion asking that his execution be videotaped because he 's afraid ' it could be painful . "
+Bucklew,rape.01,his ex-girlfriend,,Affirmative,"After the murder , Bucklew raped his ex-girlfriend and shot at a state trooper in a police chase . "
+Bucklew,seek.01,this Order,,Affirmative,"Bucklew seeks this Order so he can preserve vital evidence of the events occurring during his execution , ' the motion says . "
+Russell Bucklew,preserve.01,vital evidence of,,Affirmative,"Bucklew seeks this Order so he can preserve vital evidence of the events occurring during his execution , ' the motion says . "
+the motion,say.01,Bucklew seeks,,Affirmative,"Bucklew seeks this Order so he can preserve vital evidence of the events occurring during his execution , ' the motion says . "
+Mr. Bucklew,seek.01,to document,,Affirmative,Mr. Bucklew seeks to document these events . 
+Mr. Bucklew,document.01,these events,,Affirmative,Mr. Bucklew seeks to document these events . 
+Bucklew,suffer.01,from,,Affirmative,' Bucklew suffers from a congenital condition that causes the damaged blood vessels and tumors . 
+a congenital condition,cause.01,the damaged blood vessels and tumors,,Affirmative,' Bucklew suffers from a congenital condition that causes the damaged blood vessels and tumors . 
+Russell Bucklew,tell.01,that he often bleeds from,AP,Affirmative,He told AP in a phone interview Friday that he often bleeds from the eyes and ears . 
+He,have.03,constant pain in,,Affirmative,He has constant pain in the face that requires pain medication every six hours . 
+the face,require.01,pain medication,,Affirmative,He has constant pain in the face that requires pain medication every six hours . 
+Russell Bucklew,say.01,he 's worried about,,Affirmative,"In light of his condition and the botched April execution of Clayton Lockett in Oklahoma , Bucklew said he 's worried about what will happen to him . "
+Bucklew,say.01,I 'm worried,,Affirmative,"' I 'm worried it could be painful , ' Bucklew said . "
+I,understand.01,wants closure,,Affirmative,"I understand the family ( of the victim ) wants closure , but we 're victimizing my family here , too . "
+the family ( of,want.01,closure,,Affirmative,"I understand the family ( of the victim ) wants closure , but we 're victimizing my family here , too . "
+we,victimize.01,my family,,Affirmative,"I understand the family ( of the victim ) wants closure , but we 're victimizing my family here , too . "
+attorneys,cite.01,concerns about,,Affirmative,' Bucklew 's attorneys have also cited concerns about Missouri 's secretive procurement of the execution drug . 
+prosecutor Morley Swingle,call.01,Bucklew,,Affirmative,"Lethal injection : Former Cape Girardeau county prosecutor Morley Swingle has called Bucklew a ' homicidal Energiser bunny ' In March 1996 , Bucklew tracked down his estranged girlfriend , Stephanie Pruitt , at the Cape Girardeau mobile home of Michael Sanders . "
+Bucklew,track.02,"his estranged girlfriend ,",,Affirmative,"Lethal injection : Former Cape Girardeau county prosecutor Morley Swingle has called Bucklew a ' homicidal Energiser bunny ' In March 1996 , Bucklew tracked down his estranged girlfriend , Stephanie Pruitt , at the Cape Girardeau mobile home of Michael Sanders . "
+General Chris Koster,question.01,why Bucklew waited until now,,Affirmative,"Missouri Attorney General Chris Koster , in a court response on Thursday , questioned why Bucklew waited until now to raise those concerns . "
+Russell Bucklew,raise.01,those concerns,,Affirmative,"Missouri Attorney General Chris Koster , in a court response on Thursday , questioned why Bucklew waited until now to raise those concerns . "
+Bucklew,bring.01,his current suit,,Affirmative,"' There is no good reason Bucklew could not have brought his current suit six months ago , or six years ago , ' Koster wrote . "
+Koster,write.01,Bucklew could not have brought,,Affirmative,"' There is no good reason Bucklew could not have brought his current suit six months ago , or six years ago , ' Koster wrote . "
+prosecutor Morley Swingle,say.01,he has,,Affirmative,Former Cape Girardeau County prosecutor Morley Swingle said he has no sympathy for him . 
+he,have.03,no sympathy for him,,Affirmative,Former Cape Girardeau County prosecutor Morley Swingle said he has no sympathy for him . 
+He,refer.01,to Bucklew,,Affirmative,He earlier referred to Bucklew as a ' homicidal Energiser bunny ' when speaking to the Guardian . 
+I,believe.01,he 's probably,,Affirmative,"' I truly believe he 's probably the most evil person I ever prosecuted because he 's such a pure sociopath , ' Swingle said . "
+I,prosecute.01,evil person,,Affirmative,"' I truly believe he 's probably the most evil person I ever prosecuted because he 's such a pure sociopath , ' Swingle said . "
+Swingle,say.01,I truly believe,,Affirmative,"' I truly believe he 's probably the most evil person I ever prosecuted because he 's such a pure sociopath , ' Swingle said . "
+he,have.03,it,,Affirmative,"' When he had it in his mind to hurt somebody , you just could n't stop him . "
+he,hurt.01,somebody,,Affirmative,"' When he had it in his mind to hurt somebody , you just could n't stop him . "
+you,stop.01,him,,Affirmative,"' When he had it in his mind to hurt somebody , you just could n't stop him . "
+Swingle,say.01,' are grasping at straws,,Affirmative,' Swingle said concerns about the pentobarbital used in the execution ' are grasping at straws . 
+concerns about,grasp.01,at straws,,Affirmative,' Swingle said concerns about the pentobarbital used in the execution ' are grasping at straws . 
+they,give.01,it,to him,Affirmative,"It 's a very deadly poison and when they give it to him , he 'll die . "
+A doctor inside,report.01,vein collapsed and,,Affirmative,A doctor inside the death chamber during the execution reported that Lockett 's vein collapsed and some of the lethal drugs were absorbed into his tissue or leaked out . 
+The incident,prompt.01,renewed concern about,,Affirmative,"The incident prompted renewed concern about lethal injection in an era when many states , including Oklahoma and Missouri , have changed drugs they administer and refuse to disclose the source of the execution drugs . "
+"many states , including Oklahoma and Missouri",change.01,drugs,,Affirmative,"The incident prompted renewed concern about lethal injection in an era when many states , including Oklahoma and Missouri , have changed drugs they administer and refuse to disclose the source of the execution drugs . "
+they,administer.01,drugs,,Affirmative,"The incident prompted renewed concern about lethal injection in an era when many states , including Oklahoma and Missouri , have changed drugs they administer and refuse to disclose the source of the execution drugs . "
+they,refuse.01,to disclose,,Affirmative,"The incident prompted renewed concern about lethal injection in an era when many states , including Oklahoma and Missouri , have changed drugs they administer and refuse to disclose the source of the execution drugs . "
+they,disclose.01,the source of,,Affirmative,"The incident prompted renewed concern about lethal injection in an era when many states , including Oklahoma and Missouri , have changed drugs they administer and refuse to disclose the source of the execution drugs . "
+the state,investigate.01,what happened,,Affirmative,"Oklahoma put on hold a second execution scheduled for the same night as Lockett 's death , while the state investigates what happened . "
+a federal appeals court,grant.01,a stay of execution,,Affirmative,A Texas inmate was scheduled to be put to death this week but a federal appeals court granted a stay of execution so his attorneys can pursue appeals arguing that he is mentally impaired and ineligible for the death penalty . 
+his attorneys,pursue.01,appeals arguing,,Affirmative,A Texas inmate was scheduled to be put to death this week but a federal appeals court granted a stay of execution so his attorneys can pursue appeals arguing that he is mentally impaired and ineligible for the death penalty . 
+appeals arguing,argue.01,that he is mentally impaired and ineligible for,,Affirmative,A Texas inmate was scheduled to be put to death this week but a federal appeals court granted a stay of execution so his attorneys can pursue appeals arguing that he is mentally impaired and ineligible for the death penalty . 
+We,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

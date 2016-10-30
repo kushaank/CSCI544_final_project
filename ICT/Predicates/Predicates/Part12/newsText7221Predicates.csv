@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A fake doctor,run.01,a clinic,,Affirmative,A fake doctor who ran a clinic in the Gelderland town of Huissen has been arrested for carrying out medical treatments without qualifications . 
+A fake doctor,carry.03,medical treatments,,Affirmative,A fake doctor who ran a clinic in the Gelderland town of Huissen has been arrested for carrying out medical treatments without qualifications . 
+by l,name.01,old man,as,Affirmative,The 52 - year - old man was named as Fred B by l ocal broadcaster Omroep Gelderland . 
+The 52-year-old man,run.02,Sanit clinic,,Affirmative,"He ran the Medisch Center Sanit clinic and is suspected of assault , fraud and breaking drugs laws . "
+by B,tell.01,old woman from Arnhem,,Affirmative,The arrest follows a complaint by a 65 - year - old woman from Arnhem who was told by B that she had breast cancer . 
+ocal broadcaster Omroep Gelderland,have.03,breast cancer,,Affirmative,The arrest follows a complaint by a 65 - year - old woman from Arnhem who was told by B that she had breast cancer . 
+a 65-year-old woman from Arnhem who was told by B that she had breast cancer,claim.01,"to have paid €60,000",,Affirmative,"She claims to have paid €60,000 to be treated in China . "
+a 65-year-old woman from Arnhem who was told by B that she had breast cancer,pay.01,"€60,000",,Affirmative,"She claims to have paid €60,000 to be treated in China . "
+a 65-year-old woman from Arnhem who was told by B that she had breast cancer,have.03,cancer,,Affirmative,"However , when she went for a check up at a hospital in the Netherlands , it transpired she did not have cancer at all . "
+Three other victims,make.01,formal complaints,,Affirmative,"Three other victims have also come forward and made formal complaints , the broadcaster says . "
+the broadcaster,say.01,victims have also come forward and made,,Affirmative,"Three other victims have also come forward and made formal complaints , the broadcaster says . "
+a person suffering from,suffer.01,from,,Affirmative,A third is said to be a person suffering from serious acne . 
+Fred B,deny.01,all the charges against him,,Affirmative,"Fred B denies all the charges against him , Omroep Gelderland says . "
+ocal broadcaster Omroep Gelderland,say.01,B denies,,Affirmative,"Fred B denies all the charges against him , Omroep Gelderland says . "

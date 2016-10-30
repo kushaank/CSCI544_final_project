@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+River Police Department,conduct.01,an internal investigation into,,Affirmative,The Fall River Police Department will conduct an internal investigation into a police lieutenant who was arrested last month on drunken driving charges in Swansea . 
+River Police Department,conduct.01,an internal investigation into,,Affirmative,The Fall River Police Department will conduct an internal investigation into a police lieutenant who was arrested last month on drunken driving charges in Swansea . 
+River Police Lt. Kevin Tetrault,say.01,investigation will be conducted,,Affirmative,"He remains on sick leave ; an internal police department investigation will be conducted when his case is adjudicated and after he returns from sick leave , said Fall River Police Lt. Kevin Tetrault . "
+he,side-swiped.01,a vehicle,,Affirmative,"12 , Raposo was allegedly intoxicated behind the wheel when he rear - ended and side-swiped a vehicle at the intersection of Route 6 and Gardners Neck Road in Swansea . "
+Officer Richard Gibeau,stop.03,BMW,,Affirmative,Swansea Police Officer Richard Gibeau stopped Raposo 's BMW about a half - mile from the accident . 
+Swansea Police Officer Richard Gibeau,ask.02,for,,Affirmative,Gibeau wrote in his report that Raposo was unresponsive and stared ahead when Gibeau first asked for his driver 's license and registration . 
+Gibeau,say.01,"Raposo told him ,",,Affirmative,"After asking him again for his license , Gibeau said Raposo told him , You know me . "
+"Raposo , a 25-year police department veteran",tell.01,You know me,him,Affirmative,"After asking him again for his license , Gibeau said Raposo told him , You know me . "
+You,know.01,me,,Affirmative,"After asking him again for his license , Gibeau said Raposo told him , You know me . "
+Swansea Police Officer Richard Gibeau,say.01,he then recognized Raposo,,Affirmative,"Gibeau said he then recognized Raposo because they had worked on a case several years prior , according to court records . "
+"Raposo , a 25-year police department veteran",recognize.01,"Raposo , a 25-year police department veteran",,Affirmative,"Gibeau said he then recognized Raposo because they had worked on a case several years prior , according to court records . "
+they,work.01,on,,Affirmative,"Gibeau said he then recognized Raposo because they had worked on a case several years prior , according to court records . "
+Raposo,slur.01,his words,,Affirmative,"According to Gibeau 's report , Raposo slurred his words and said that he had been drinking . "
+Raposo,say.01,that he had been drinking,,Affirmative,"According to Gibeau 's report , Raposo slurred his words and said that he had been drinking . "
+Raposo,ask.01,if he could bring him home,Gibeau,Affirmative,"Raposo asked Gibeau several times if he could bring him home , and became irate when Gibeau asked him to step out of his vehicle , according to court documents . "
+he,bring.01,him,home,Affirmative,"Raposo asked Gibeau several times if he could bring him home , and became irate when Gibeau asked him to step out of his vehicle , according to court documents . "
+Gibeau,ask.02,to step out of,him,Affirmative,"Raposo asked Gibeau several times if he could bring him home , and became irate when Gibeau asked him to step out of his vehicle , according to court documents . "
+you,give.01,a ride home,me,Affirmative,Ca n't you give me a ride home ? 
+Swansea Police Officer Richard Gibeau,say.01,he grabbed,,Affirmative,"A few minutes later , Gibeau said , he grabbed Raposo 's arm and removed him from the vehicle . "
+he,grab.01,arm,,Affirmative,"A few minutes later , Gibeau said , he grabbed Raposo 's arm and removed him from the vehicle . "
+he,remove.01,Swansea Police Officer Richard Gibeau,from,Affirmative,"A few minutes later , Gibeau said , he grabbed Raposo 's arm and removed him from the vehicle . "
+court records,say.01,Raposo was unsteady on,,Affirmative,"Raposo was unsteady on his feet and had to be held by two officers so that he would not fall , court records said . "
+Gibeau,arrest.01,"Raposo , a 25-year police department veteran",,Affirmative,"Gibeau arrested Raposo at the scene , and drove him to the Swansea Police Station for booking . "
+Gibeau,drive.02,him,to,Affirmative,"Gibeau arrested Raposo at the scene , and drove him to the Swansea Police Station for booking . "
+Gibeau,say.01,Raposo told him,,Affirmative,"While traveling to the station , Gibeau said , Raposo told him that he had just passed his house , according to court documents . "
+Raposo,tell.01,that he had just passed,him,Affirmative,"While traveling to the station , Gibeau said , Raposo told him that he had just passed his house , according to court documents . "
+he,pass.01,his house,,Affirmative,"While traveling to the station , Gibeau said , Raposo told him that he had just passed his house , according to court documents . "
+"Raposo ,",leave.01,the scene of,,Affirmative,"Raposo , 5 Kensington Court , Swansea , was charged with operating under the influence of liquor , leaving the scene of property damage and negligent operation of a motor vehicle . "
+"His defense attorney ,",return.02,a phone call,,Affirmative,"His defense attorney , Joseph Silvia , did not return a phone call Tuesday seeking comment . "
+"His defense attorney ,",seek.01,comment,,Affirmative,"His defense attorney , Joseph Silvia , did not return a phone call Tuesday seeking comment . "
+state police,arrest.01,"Raposo , a 25-year police department veteran",on,Affirmative,"In September 2005 , state police arrested Raposo on indecent exposure and open and gross lewdness charges at an Interstate 195 rest area in Swansea . "
+A state police trooper,allege.01,that Raposo was masturbating,,Affirmative,A state police trooper alleged that Raposo was masturbating about 100 yards away from two families eating lunch . 
+Raposo,masturbate.01,100 yards,,Affirmative,A state police trooper alleged that Raposo was masturbating about 100 yards away from two families eating lunch . 
+Raposo,eat.01,lunch,,Affirmative,A state police trooper alleged that Raposo was masturbating about 100 yards away from two families eating lunch . 

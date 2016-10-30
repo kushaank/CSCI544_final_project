@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,vote.01,on comments,,Affirmative,You must be registered to comment and vote on comments . 
+grade teacher in Minneapolis,plead.02,guilty,to attacking,Affirmative,A former fourth - grade teacher in Minneapolis pleaded guilty Monday to attacking his stepson with an ax . 
+grade teacher in Minneapolis,attack.01,his stepson,,Affirmative,A former fourth - grade teacher in Minneapolis pleaded guilty Monday to attacking his stepson with an ax . 
+"Mark R. James , 62 , of",plead.02,guilty,to,Affirmative,"Mark R. James , 62 , of St. Paul pleaded guilty in Ramsey County District Court to second - degree assault . "
+stepson,call.01,police,from,Affirmative,"According to the charges : James ' stepson called police from a neighbor 's home to report that James hit him in the face with an ax , cutting him near his left eye . "
+Mark R. James,hit.01,Mark R. James,with,Affirmative,"According to the charges : James ' stepson called police from a neighbor 's home to report that James hit him in the face with an ax , cutting him near his left eye . "
+Mark R. James,cut.02,Mark R. James,near,Affirmative,"According to the charges : James ' stepson called police from a neighbor 's home to report that James hit him in the face with an ax , cutting him near his left eye . "
+James ' stepson,say.01,James woke him up and told him,,Affirmative,The stepson said James woke him up and told him to get out of the house . 
+Mark R. James,wake.02,Mark R. James,,Affirmative,The stepson said James woke him up and told him to get out of the house . 
+Mark R. James,tell.01,to get out of,him,Affirmative,The stepson said James woke him up and told him to get out of the house . 
+James ' stepson,say.01,he tried,,Affirmative,"The stepson said he tried to reason with James , but James jabbed him in the shoulder and face with the ax , the complaint said . "
+James ' stepson,try.01,to reason with James,,Affirmative,"The stepson said he tried to reason with James , but James jabbed him in the shoulder and face with the ax , the complaint said . "
+James ' stepson,reason.01,with James,,Affirmative,"The stepson said he tried to reason with James , but James jabbed him in the shoulder and face with the ax , the complaint said . "
+Mark R. James,jab.01,Mark R. James,,Affirmative,"The stepson said he tried to reason with James , but James jabbed him in the shoulder and face with the ax , the complaint said . "
+the complaint,say.01,stepson said,,Affirmative,"The stepson said he tried to reason with James , but James jabbed him in the shoulder and face with the ax , the complaint said . "
+The stepson and his wife and two sons,plan.01,to move out at,,Affirmative,They planned to move out at the end of February . 
+Mark R. James,resign.01,from,,Affirmative,"He resigned from the district April 7 , said district spokeswoman Larissa Mavros . "
+spokeswoman Larissa Mavros,say.01,He resigned from,,Affirmative,"He resigned from the district April 7 , said district spokeswoman Larissa Mavros . "

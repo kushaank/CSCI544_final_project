@@ -1,0 +1,31 @@
+1	Omnipolarity	omnipolarity	NN	p2=NNP	0	root	3:A0=PAG
+2	that	that	WDT	_	3	nsubj	3:R-A0
+3	allows	allow	VBZ	pb=allow.01	1	rcmod	_
+4	the	the	DT	_	5	det	_
+5	sensor	sensor	NN	_	8	nsubjpass	8:A1=PPT
+6	to	to	TO	_	8	aux	_
+7	be	be	VB	_	8	auxpass	_
+8	activated	activate	VBN	pb=activate.01	3	ccomp	3:A1=PPT
+9	by	by	IN	_	8	agent	8:A0=PAG
+10	either	either	CC	p2=DT	15	preconj	_
+11	a	a	DT	_	15	det	_
+12	north	north	NN	p2=JJ	15	nn	_
+13	or	or	CC	_	12	cc	_
+14	south	south	NN	p2=JJ	12	conj	_
+15	pole	pole	NN	_	9	pobj	_
+16	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0
+2	may	may	MD	_	3	aux	3:AM-MOD
+3	login	login	VB	pb=login.01	0	root	_
+4	with	with	IN	_	3	prep	3:A1
+5	either	either	CC	p2=DT	8	preconj	_
+6	your	your	PRP$	_	8	poss	_
+7	assigned	assign	VBN	pb=assign.01	8	amod	_
+8	username	username	NN	p2=NNS	4	pobj	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	your	your	PRP$	_	12	poss	_
+11	e-mail	e-mail	NN	_	12	nn	_
+12	address	address	NN	_	8	conj	_
+13	.	.	.	_	3	punct	_
+

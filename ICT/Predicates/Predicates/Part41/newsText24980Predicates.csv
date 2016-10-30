@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+an architecture professor in Budapest,create.01,"the popular puzzle ,",,Affirmative,"Forty years ago , an architecture professor in Budapest created the popular puzzle , a plastic cube composed of rows that rotate independently of each other . "
+rows,rotate.02,a plastic cube composed of rows,,Affirmative,"Forty years ago , an architecture professor in Budapest created the popular puzzle , a plastic cube composed of rows that rotate independently of each other . "
+First,hit.01,the international market,,Affirmative,"First marketed in Hungary under the thoroughly forgettable name of Magic Cube , the puzzle was renamed for its inventor , Erno Rubik , when it hit the international market in 1980 . "
+Your cursor,rotate.02,the entire cube,,Affirmative,Your cursor can either rotate the entire cube or move one row of colored tiles at a time . 
+Your cursor,move.01,one row of,,Affirmative,Your cursor can either rotate the entire cube or move one row of colored tiles at a time . 
+those,know.01,what they 're doing,,Affirmative,"For those who actually know what they 're doing , the doodle keeps track of the number of moves you 've made . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

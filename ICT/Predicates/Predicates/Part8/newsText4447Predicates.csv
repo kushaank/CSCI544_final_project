@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+police,try.01,to figure out,,Affirmative,"A teenager is found dead in a hotel room in Houston , Texas after prom , and police are trying to figure out how she died . "
+police,figure.05,how she died,,Affirmative,"A teenager is found dead in a hotel room in Houston , Texas after prom , and police are trying to figure out how she died . "
+police,say.01,"they found alcohol , and",,Affirmative,"Police say they found alcohol , and prescription pain killers in the room . "
+police,find.01,alcohol,,Affirmative,"Police say they found alcohol , and prescription pain killers in the room . "
+police,question.01,boyfriend,,Affirmative,They 're questioning Gomez 's boyfriend who was in the room and called 9-1 - 1 to report that she had stopped breathing . 
+boyfriend,call.02,to report,9-1,Affirmative,They 're questioning Gomez 's boyfriend who was in the room and called 9-1 - 1 to report that she had stopped breathing . 
+Jacqueline Gomez,stop.01,breathing,,Affirmative,They 're questioning Gomez 's boyfriend who was in the room and called 9-1 - 1 to report that she had stopped breathing . 
+police,say.01,there were,,Affirmative,"Police are waiting for autopsy results , but they say there were no signs of trauma , and the boyfriend is cooperating . "

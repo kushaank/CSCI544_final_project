@@ -1,0 +1,260 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+My wife and I,take.01,a weekend road trip,,Affirmative,My wife and I recently took a weekend road trip to view the annual shore bird migration along the Washington coast . 
+My wife and I,view.02,bird migration along,,Affirmative,My wife and I recently took a weekend road trip to view the annual shore bird migration along the Washington coast . 
+"the unfinished Satsop nuclear power station ,",serve.01,as,,Affirmative,"The above image of a cooling tower was taken at the unfinished Satsop nuclear power station , which is now serving as a development park . "
+The Didcot power station pictured above,burn.01,"a combination of coal ,",,Affirmative,"The Didcot power station pictured above burns a combination of coal , natural gas , and oil . "
+cooling towers,cool.01,hyperboloid,,Affirmative,Note the use of six hyperboloid cooling towers . 
+cooling towers,condense.01,steam exiting,,Affirmative,Cooling towers are used to condense the steam exiting the steam turbines back into liquid water to be converted into steam again and sent back through the turbines . 
+the steam,exit.01,the steam turbines,,Affirmative,Cooling towers are used to condense the steam exiting the steam turbines back into liquid water to be converted into steam again and sent back through the turbines . 
+This,reduce.01,the amount of water,greatly,Affirmative,This greatly reduces the amount of water lost as steam . 
+These,house.01,the heart of,,Affirmative,These house the heart of a nuclear power plant ; the reactor vessel which contains the nuclear fuel rods that boil the water to make the steam that spins the giant pinwheel ( steam turbine ) that is connected to the electric generator the sends electricity over the grid to our homes and cities . 
+the reactor vessel,contain.01,the nuclear fuel rods,,Affirmative,These house the heart of a nuclear power plant ; the reactor vessel which contains the nuclear fuel rods that boil the water to make the steam that spins the giant pinwheel ( steam turbine ) that is connected to the electric generator the sends electricity over the grid to our homes and cities . 
+the nuclear fuel rods,boil.01,the water,,Affirmative,These house the heart of a nuclear power plant ; the reactor vessel which contains the nuclear fuel rods that boil the water to make the steam that spins the giant pinwheel ( steam turbine ) that is connected to the electric generator the sends electricity over the grid to our homes and cities . 
+the steam,spin.03,the giant pinwheel (,,Affirmative,These house the heart of a nuclear power plant ; the reactor vessel which contains the nuclear fuel rods that boil the water to make the steam that spins the giant pinwheel ( steam turbine ) that is connected to the electric generator the sends electricity over the grid to our homes and cities . 
+power plants,use.01,"a different heat source ( coal , biomass ,",,Affirmative,"This is also the only part of a nuclear power plant that is different from other thermal power plants that use a different heat source ( coal , biomass , natural gas , solar , geothermal ) . "
+A power plant,have.03,one nuclear reactor ( each inside,,Affirmative,  A power plant ( sometimes called a power station ) may have more than one nuclear reactor ( each inside its own containment structure ) on site . 
+The Fukushima power plant,have.03,six reactors ( each inside,,Affirmative,"The Fukushima power plant has six reactors ( each inside a steel and concrete containment structure , which is in turn housed in a sheet metal outer building ) . "
+a tsunami,overwhelm.01,the emergency cooling pumps,,Affirmative,"Although three of the Fukushima power plant reactors were damaged beyond repair when a tsunami overwhelmed the emergency cooling pumps , the other three reactors could , in theory , still be used by the power plant to produce electricity . "
+by,use.01,the other three reactors,to produce electricity,Affirmative,"Although three of the Fukushima power plant reactors were damaged beyond repair when a tsunami overwhelmed the emergency cooling pumps , the other three reactors could , in theory , still be used by the power plant to produce electricity . "
+the other three reactors,produce.01,electricity,,Affirmative,"Although three of the Fukushima power plant reactors were damaged beyond repair when a tsunami overwhelmed the emergency cooling pumps , the other three reactors could , in theory , still be used by the power plant to produce electricity . "
+power plant (,produce.01,electricity,,Affirmative,The Chernobyl nuclear power plant ( the poster child for how to do nuclear energy wrong ) continued to produce electricity using  its other reactors for well over a decade after one reactor  ( which had no containment dome ) experienced a meltdown . 
+power plant (,have.03,no containment dome,,Affirmative,The Chernobyl nuclear power plant ( the poster child for how to do nuclear energy wrong ) continued to produce electricity using  its other reactors for well over a decade after one reactor  ( which had no containment dome ) experienced a meltdown . 
+power plant (,experience.01,a meltdown,,Affirmative,The Chernobyl nuclear power plant ( the poster child for how to do nuclear energy wrong ) continued to produce electricity using  its other reactors for well over a decade after one reactor  ( which had no containment dome ) experienced a meltdown . 
+by,form.02,power joint operating agency formed by,,Affirmative,Energy Northwest ( formerly Washington Public Power Supply System ) is a United States public power joint operating agency formed by State law in 1957 to produce at cost power for Northwest utilities . 
+The directors and,have.03,no experience in,,Affirmative,The directors and the managers of the system had no experience in nuclear engineering or in projects of this scale . 
+the managers of the system,develop.02,"means of choosing , directing , and supervising contractors",,Affirmative,"System managers were unable to develop a unified and comprehensive means of choosing , directing , and supervising contractors . "
+United States,understand.01,what had gone on ),,Affirmative,Note in the above graphic I put together ( to better understand what had gone on ) how radically different each power station is from the other . 
+They,have.03,structure designs,,Affirmative,"They have three different containment structure designs as well as three different cooling tower designs , and probably different everything else on the inside as well ... "
+The French and Canadians,use.01,one design,,Affirmative,The French and Canadians used one design which they repeated over and over again . 
+they,repeat.01,one design,,Affirmative,The French and Canadians used one design which they repeated over and over again . 
+you,plan.01,to build,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+you,build.01,a wind farm,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+you,reduce.01,the fuel bills of,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+you,need.01,to cancel,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+you,cancel.01,the plans for,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+it,save.02,you,,Affirmative,"If you were planning to build a wind farm to reduce the fuel bills of your new natural gas power plant , you might need to cancel the plans for the wind farm if it now costs more to build than it will save you in fuel bills . "
+Anyone rating,rating.01,Pacific fish and seafood,,Affirmative,Anyone rating Pacific fish and seafood should be thinking about doing a radiation detox with the natural mineral called Zeolite that has been proven to safely remove both radiation and heavy metals from the human body ! 
+Anyone rating,do.02,a radiation detox,,Affirmative,Anyone rating Pacific fish and seafood should be thinking about doing a radiation detox with the natural mineral called Zeolite that has been proven to safely remove both radiation and heavy metals from the human body ! 
+the natural mineral called Zeolite,remove.01,both radiation and,from,Affirmative,Anyone rating Pacific fish and seafood should be thinking about doing a radiation detox with the natural mineral called Zeolite that has been proven to safely remove both radiation and heavy metals from the human body ! 
+decay reactions,carry.01,energy levels,,Affirmative,"Radiation from unnatural sources is tremendously easy to detect , since the nuclear decay reactions carry each their own distinct signature energy levels . "
+Living in Denver,cause.01,more of,,Affirmative,Living in Denver rather than Seattle will cause more of a radiation risk than eating the fish or seafood . 
+you,decide.01,to eat it,,Affirmative,"But if you still decide to eat it , remember zeolite has no proof it removes radiation or heavy metals and zeolite has not been approved or certified by the FDA to safely remove radiation or heavy metals . "
+you,eat.01,it,,Affirmative,"But if you still decide to eat it , remember zeolite has no proof it removes radiation or heavy metals and zeolite has not been approved or certified by the FDA to safely remove radiation or heavy metals . "
+zeolite,have.03,no proof,,Affirmative,"But if you still decide to eat it , remember zeolite has no proof it removes radiation or heavy metals and zeolite has not been approved or certified by the FDA to safely remove radiation or heavy metals . "
+it,remove.01,radiation or,,Affirmative,"But if you still decide to eat it , remember zeolite has no proof it removes radiation or heavy metals and zeolite has not been approved or certified by the FDA to safely remove radiation or heavy metals . "
+"other products , like",have.03,scientific proof,,Affirmative,"While other products , like Prussian Blue , do have scientific proof that they remove radiation and heavy metals . "
+they,remove.01,radiation and,,Affirmative,"While other products , like Prussian Blue , do have scientific proof that they remove radiation and heavy metals . "
+by,approve.01,These products,to remove radiation and,Affirmative,These products are also certified and approved by the FDA to remove radiation and heavy metals . 
+Barry,have.03,a website,,Affirmative,"Oh , and Barry has a website that sells zeolite . "
+a website,sell.01,zeolite,,Affirmative,"Oh , and Barry has a website that sells zeolite . "
+He,forget.01,to mention that,,Affirmative,He just forgot to mention that . 
+He,mention.01,that,,Affirmative,He just forgot to mention that . 
+Zeolite,remove.01,both radiation and,from,Affirmative,Zeolite has been successfully used to safely remove both radiation and heavy metals from the human body for many years including during the Chernobyl radiation release and meltdown . 
+LET ALONE ZEOLITE,need.01,FDA approval,,Affirmative,Zeolite does not need FDA approval because it is not sold as a big Pharma medication that will cost a lot of money and have to be sold only by a doctors prescription after an also expensive office visit because it is sold as a mineral supplement which is a benefit for the people that can easily purchase Zeolite and utilize its unique ability to remove both radiation and heavy metals from the body . 
+the people,purchase.01,LET ALONE ZEOLITE,,Affirmative,Zeolite does not need FDA approval because it is not sold as a big Pharma medication that will cost a lot of money and have to be sold only by a doctors prescription after an also expensive office visit because it is sold as a mineral supplement which is a benefit for the people that can easily purchase Zeolite and utilize its unique ability to remove both radiation and heavy metals from the body . 
+the people,utilize.01,its unique ability,,Affirmative,Zeolite does not need FDA approval because it is not sold as a big Pharma medication that will cost a lot of money and have to be sold only by a doctors prescription after an also expensive office visit because it is sold as a mineral supplement which is a benefit for the people that can easily purchase Zeolite and utilize its unique ability to remove both radiation and heavy metals from the body . 
+Other forms of Zeolite,remove.01,heavy metals,from,Affirmative,Other forms of Zeolite are also being used to remove heavy metals from contaminated water to protect our environment . 
+United States,ask.02,to purchase,anyone,Affirmative,Nowhere in my postings have I asked anyone to purchase Zeolite products from me . 
+anyone,purchase.01,Zeolite products,from me,Affirmative,Nowhere in my postings have I asked anyone to purchase Zeolite products from me . 
+I,provide.01,important information about,,Affirmative,I post to provide important information about this wonderful mineral for the publics benefit and welfare . 
+Barry,claim.01,successful use,,Affirmative,Barry claims successful use but refuses to provide any proof . 
+Barry,refuse.01,to provide,,Affirmative,Barry claims successful use but refuses to provide any proof . 
+Barry,provide.01,any proof,,Affirmative,Barry claims successful use but refuses to provide any proof . 
+someone else,reference.01,The one report,,Affirmative,"The one report that someone else referenced was the use of zeolite IN COMBINATION with ferrocyanides , and ferrocyanides have been proven to work and have been certified by the FDA . "
+by,certify.01,The one report,,Affirmative,"The one report that someone else referenced was the use of zeolite IN COMBINATION with ferrocyanides , and ferrocyanides have been proven to work and have been certified by the FDA . "
+zeolite,do.02,anything,for radiation or,Affirmative,But still no proof that zeolite does anything for radiation or heavy metals in the body . 
+zeolites,clean.01,water,,Affirmative,Yes zeolites have been used to clean water . 
+No one,claim.01,otherwise,,Affirmative,No one claims otherwise . 
+I,claim.01,that Borey asked anyone,,Affirmative,"Nowhere in my posts have I claim that Borey asked anyone to purchase zeolite products from him , yet he keeps whining about this topic . "
+Borey,ask.02,to purchase,anyone,Affirmative,"Nowhere in my posts have I claim that Borey asked anyone to purchase zeolite products from him , yet he keeps whining about this topic . "
+anyone,purchase.01,zeolite products,from him,Affirmative,"Nowhere in my posts have I claim that Borey asked anyone to purchase zeolite products from him , yet he keeps whining about this topic . "
+he,keep.02,whining about,,Affirmative,"Nowhere in my posts have I claim that Borey asked anyone to purchase zeolite products from him , yet he keeps whining about this topic . "
+he,whine.01,about,,Affirmative,"Nowhere in my posts have I claim that Borey asked anyone to purchase zeolite products from him , yet he keeps whining about this topic . "
+he,provide.01,NO INFORMATION about,,Affirmative,And actually he provides absolutely NO INFORMATION about this clay mineral . 
+He,make.01,claims,,Affirmative,"He makes claims , but refuses to support those claims . "
+He,refuse.01,to support,,Affirmative,"He makes claims , but refuses to support those claims . "
+He,support.01,those claims,,Affirmative,"He makes claims , but refuses to support those claims . "
+you,have.03,the real information,,Affirmative,Then you will have the real information to use to avoid snake oil scammers like Barry . 
+a doctor,get.01,his software,,Affirmative,This was E-mailed to me by a doctor that could not get his software to post into this system . 
+by prescription only,give.01,"a ferric ferrocyanide ,",,Affirmative,"Prussian blue [ Fe4 [ Fe ( CN ) 6 ] 3 is basically a ferric ferrocyanide , that has to be given by prescription only and is good to remove heavy metals and SOME Radionuclides ( Thallium or Cesium ) from the gut . "
+someone,have.03,way too much,,Affirmative,"So if someone has way too much even you per prussian blue paint pigment , is too much too little too late because it can still kill you . "
+way too much even you per prussian blue paint pigment,kill.01,you,,Affirmative,"So if someone has way too much even you per prussian blue paint pigment , is too much too little too late because it can still kill you . "
+Most doctors,prescribe.01,Prussian Blue,,Affirmative,"Most doctors will not prescribe Prussian blue unless you are practically dying anyway , too much too little to late . "
+Most doctors,lose.02,their license,,Affirmative,That is because they are afraid of losing their license . 
+Most doctors,acknowledge.01,"Problems exist ,",,Affirmative,"They are not allowed to officially acknowledge that Fukushima Radiation Problems exist , lest they lose their license . "
+Most doctors,lose.02,their license,,Affirmative,"They are not allowed to officially acknowledge that Fukushima Radiation Problems exist , lest they lose their license . "
+United States,retire.01,no skin,,Affirmative,"After 30 years I can retire , so no skin off my nose but my co-workers is a different story . "
+us,know.01,how you fare,,Affirmative,So go eat some yourself and let us know how you fare ! 
+Clinoptilolite,remove.01,both radiation and,from,Affirmative,On the other hand Clinoptilolite does indeed remove both radiation and heavy metals from the body . 
+You,continue.01,to lie to,,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+the readers saying anything,say.01,anything,,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+Mr Barry,ask.02,to purchase zeolite from,anyone,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+anyone,purchase.01,zeolite,from,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+anyone,help.01,others,,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+others,need.01,to reduce and remove,,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+You,remove.01,heavy metals,for,Affirmative,You just continue to lie to the readers saying anything you can in your weird sick vendetta against Mr Barry that has not asked anyone to purchase zeolite from his company and is only trying to help others that may have been radiated or need to reduce and remove heavy metals for their own better health . 
+a mineral supplement,require.01,paying,,Affirmative,Also zeolite is listed as a mineral supplement that does not require paying possibly hundreds of dollars just to see a physician to get a prescription to acquire any needed zeolite as a detox . 
+a physician,get.01,a prescription,,Affirmative,Also zeolite is listed as a mineral supplement that does not require paying possibly hundreds of dollars just to see a physician to get a prescription to acquire any needed zeolite as a detox . 
+you,care.01,SIR Mike,,Affirmative,But what do you care Mike buffoon ? 
+anyone,see.01,that you could care less about,,Affirmative,By your own posts anyone can see that you could care less about the readers in here or anyone else 's life or well - being ! 
+you,care.01,about,,Affirmative,By your own posts anyone can see that you could care less about the readers in here or anyone else 's life or well - being ! 
+you,allow.01,them to die because of lack of,,Affirmative,In fact you would rather allow them to die because of lack of the helpful information Barry is tying to provide as long as you can hurt him and others just to satisfy your own sick and demented vanity . 
+your buddy Barry,tie.01,to provide,,Affirmative,In fact you would rather allow them to die because of lack of the helpful information Barry is tying to provide as long as you can hurt him and others just to satisfy your own sick and demented vanity . 
+you,hurt.01,him and others,,Affirmative,In fact you would rather allow them to die because of lack of the helpful information Barry is tying to provide as long as you can hurt him and others just to satisfy your own sick and demented vanity . 
+you,satisfy.01,vanity,,Affirmative,In fact you would rather allow them to die because of lack of the helpful information Barry is tying to provide as long as you can hurt him and others just to satisfy your own sick and demented vanity . 
+doctors and governments trying,try.01,to suppress any,,Affirmative,"Sorry Barry the belief in a massive world wide conspiracy of doctors and governments trying to suppress any ' officially acknowledge that Fukushima Radiation Problems exist ' , is just laughable . "
+a doctor,get.01,his software,,Affirmative,Your claim that ' This was E-mailed to me by a doctor that could not get his software to post into this system . 
+you,post.01,your BS,,Affirmative,It is a virtual direct copy of a post by a user named Westcoastrads from 12 hours ago on another one of the articles you post your BS at . 
+zeolite,have.03,any effect on radiation or,,Affirmative,And there is still no proof that zeolite has any effect on radiation or heavy metals in human bodies . 
+Prussian Blue,have.03,beneficial effects,,Affirmative,While there is proof that Prussian Blue does have beneficial effects and the FDA has approved it for use to remove radioactive materials from the human body . 
+the FDA,approve.01,Prussian Blue,,Affirmative,While there is proof that Prussian Blue does have beneficial effects and the FDA has approved it for use to remove radioactive materials from the human body . 
+Prussian Blue,require.01,a prescription,,Affirmative,Does Prussian Blue require a prescription ? 
+United States,say.01,it didn't,,Affirmative,"Yes , I never said it didn't . "
+Prussian Blue,have.03,risks,,Affirmative,Does Prussian Blue have risks ? 
+United States,say.01,it didn't,,Affirmative,"Yes , I never said it didn't . "
+lots of medicines,have.03,risks,,Affirmative,Do lots of medicines have risks ? 
+United States,see.01,you have again changed,,Affirmative,I also see you have again changed your theory as to why I post my comments . 
+you,change.01,your theory,as to,Affirmative,I also see you have again changed your theory as to why I post my comments . 
+United States,post.01,my comments,,Affirmative,I also see you have again changed your theory as to why I post my comments . 
+ELSES MONEY PRETENDING,pretend.01,TO BE DISABLED,,Affirmative,ELSES MONEY PRETENDING TO BE DISABLED . 
+man,help.01,AND,,Affirmative,man rather than help them . 
+United States,love.01,"helping people ,",,Affirmative,"I am a surgeon and I love helping people , Medicine any More this day and age . "
+United States,help.01,"people ,",,Affirmative,"I am a surgeon and I love helping people , Medicine any More this day and age . "
+United States,testify.01,to that,,Affirmative,I can personally testify to that . 
+United States,know.01,your buddy Barry,,Affirmative,"No I Am not Barry , nor do i know him . "
+you,spend.02,24 hours,belching out,Affirmative,that you must spent 24 hours a day belching out your unlearned garbage . 
+you,belch.01,your unlearned garbage,,Affirmative,that you must spent 24 hours a day belching out your unlearned garbage . 
+United States,do.02,INDEED,TO YOU,Affirmative,"I DO INDEED , SUGGEST TO YOU , AND ALL HERE , SIR Mike , THAT YOU SEEM TO BE A PAID SHILL FOR THE NUCLEAR INDUSTRY . "
+you,prove.01,Your claim that ` This was E-mailed to me by a doctor that could not get his software to post into this system . ',,Affirmative,"Sorry fool , you and Barry have made the claim , it is for you to prove it not for me to disprove it . "
+United States,disprove.01,Your claim that ` This was E-mailed to me by a doctor that could not get his software to post into this system . ',,Affirmative,"Sorry fool , you and Barry have made the claim , it is for you to prove it not for me to disprove it . "
+a supposed doctor,understand.01,simple logic like that,,Affirmative,Ca n't believe a supposed doctor does n't understand simple logic like that . 
+United States,say.01,you were,,Affirmative,"I never said you were , but nice strawman . "
+you,call.01,your buddy Barry,,Affirmative,"Oh no , why are you calling Barry a liar ? "
+no where near enough to get decent results,know.01,"who I am , or",,Affirmative,"He ' knows ' exactly who I am , or at least so he claims . "
+you,provide.01,no proof it removes radiation or heavy metals and zeolite has not been approved or certified by the FDA to safely remove radiation or heavy metals,,Affirmative,but again he like you provides no proof . 
+United States,notice.01,refers to himself,,Affirmative,"And like others , I also noticed that the poster claiming to be Barry refers to himself in the 3rd person , as both Barry and Mr. Barry . "
+the poster claiming,claim.01,to be Barry,,Affirmative,"And like others , I also noticed that the poster claiming to be Barry refers to himself in the 3rd person , as both Barry and Mr. Barry . "
+the poster claiming,refer.01,to himself,in,Affirmative,"And like others , I also noticed that the poster claiming to be Barry refers to himself in the 3rd person , as both Barry and Mr. Barry . "
+the poster claiming to be `` Barry '',write.01,of,,Affirmative,"He also writes of his company , where most people would tend to say my company in referring to a company they themselves owned . "
+most people,say.01,his company,,Affirmative,"He also writes of his company , where most people would tend to say my company in referring to a company they themselves owned . "
+most people,refer.01,to,,Affirmative,"He also writes of his company , where most people would tend to say my company in referring to a company they themselves owned . "
+they themselves,own.01,a company,,Affirmative,"He also writes of his company , where most people would tend to say my company in referring to a company they themselves owned . "
+you,insist.01,O'Brien reply to,,Affirmative,Why do you insist that Mike O'Brien reply to your biochemistry question ... 
+a teacher running,run.02,some kind of,,Affirmative,Unless you 're a teacher running some kind of closed - book test for students . 
+you,refer.01,to,,Affirmative,Even that is questionable practice IMHO since in most real - world work situations you can ( and often should ) refer to any available documentation as needed . 
+the ratepayers in,pay.01,more money,on,Affirmative,"For the opportunity to being forced to use wind energy , the ratepayers in the Pacific Northwest get to pay more money on their bill . "
+wind,displace.01,hydroelectric power,,Affirmative,"When wind displaces hydroelectric power , BPA has to raise their rates to cover the cost of debt not being paid because less power is produced by the dams . "
+BPA,raise.01,their rates,,Affirmative,"When wind displaces hydroelectric power , BPA has to raise their rates to cover the cost of debt not being paid because less power is produced by the dams . "
+BPA,cover.01,the cost of,,Affirmative,"When wind displaces hydroelectric power , BPA has to raise their rates to cover the cost of debt not being paid because less power is produced by the dams . "
+by,produce.01,less power,,Affirmative,"When wind displaces hydroelectric power , BPA has to raise their rates to cover the cost of debt not being paid because less power is produced by the dams . "
+I,miss.02,the beautiful Pacific Northwest,,Affirmative,I live in Kansas these days and miss the beautiful Pacific Northwest . 
+by lads accustomed to working on,build.01,Satsop,,Affirmative,"PSS Unlike the other WPPSS plants , Satsop was not being built by lads accustomed to working on federal projects . "
+The union craft and contractors,take.01,great pride,,Affirmative,"The union craft and contractors took great pride in what they did , worked hard and were highly skilled . "
+I,remember.01,crews were achieving,,Affirmative,I remember that the construction crews were achieving higher monthly completion rates than most all other nuclear power construction projects . 
+the construction crews,achieve.01,higher monthly completion rates than,,Affirmative,I remember that the construction crews were achieving higher monthly completion rates than most all other nuclear power construction projects . 
+by,purchase.01,The company,,Affirmative,The company was purchased by Raytheon Constructors which was purchased by Washington Group International ( WGI ) along with some former Westinghouse entities . 
+by,purchase.01,Raytheon Constructors,,Affirmative,The company was purchased by Raytheon Constructors which was purchased by Washington Group International ( WGI ) along with some former Westinghouse entities . 
+URS,purchase.01,WGI,,Affirmative,URS ( SF ) purchased WGI in 2007 . 
+Consumers power in Michigan,have.03,similar fiasco,,Affirmative,Consumers power in Michigan had similar fiasco with nuclear power plant construction . 
+They,convert.01,the plant,to,Affirmative,They converted the plant to natural gas . 
+they,continue.01,the charade,,Affirmative,It appeared they could have continued the charade indefinitely . 
+I,believe.01,they lost reliability,,Affirmative,"I believe they lost reliability as compared to normal well proven processes and design components , but the regulations appeared more to be energized to make nuclear unaffordable . "
+they,lose.02,reliability,,Affirmative,"I believe they lost reliability as compared to normal well proven processes and design components , but the regulations appeared more to be energized to make nuclear unaffordable . "
+citizens,think.01,cooling towers,,Affirmative,"Yes , citizens do think the curved cooling towers the hallmark of nuclear power , also when they see steam blooms rising skyward they curse power plant pollution . "
+the curved cooling,tower.01,the hallmark of,,Affirmative,"Yes , citizens do think the curved cooling towers the hallmark of nuclear power , also when they see steam blooms rising skyward they curse power plant pollution . "
+they,see.01,blooms rising,,Affirmative,"Yes , citizens do think the curved cooling towers the hallmark of nuclear power , also when they see steam blooms rising skyward they curse power plant pollution . "
+citizens,think.01,industry is,,Affirmative,"Same with steam stacks in industry , citizens think the regulatory industry is just to lax or insufficient . "
+World Nuclear Association,have.03,interesting study on,,Affirmative,World Nuclear Association has interesting study on cost comparison of power generation country by country . 
+I,think.01,U.S. has,,Affirmative,I think U.S. has some regulated cost benefits to wind power . 
+U.S.,have.03,some regulated cost benefits to,,Affirmative,I think U.S. has some regulated cost benefits to wind power . 
+environmentalist,believe.01,their hype upon,,Affirmative,"If environmentalist believed their hype upon global warming danger , they would run to demand nuclear power , promote nuclear energy , and condone R&D efforts to make the energy source cost effective , reliable , safe , and more efficient . "
+they,demand.01,nuclear power,,Affirmative,"If environmentalist believed their hype upon global warming danger , they would run to demand nuclear power , promote nuclear energy , and condone R&D efforts to make the energy source cost effective , reliable , safe , and more efficient . "
+they,promote.02,nuclear energy,,Affirmative,"If environmentalist believed their hype upon global warming danger , they would run to demand nuclear power , promote nuclear energy , and condone R&D efforts to make the energy source cost effective , reliable , safe , and more efficient . "
+they,condone.01,R&D efforts,,Affirmative,"If environmentalist believed their hype upon global warming danger , they would run to demand nuclear power , promote nuclear energy , and condone R&D efforts to make the energy source cost effective , reliable , safe , and more efficient . "
+United States,hear.01,this story on NPR,,Affirmative,I heard this story on NPR . 
+the researcher,detect.01,the radiation,,Affirmative,"At the end of the story , the researcher who detected the radiation said that eating this fish every day for a year would be the radiation dose equivalent of about 30 minutes in your average basement . "
+the researcher,say.01,would be,,Affirmative,"At the end of the story , the researcher who detected the radiation said that eating this fish every day for a year would be the radiation dose equivalent of about 30 minutes in your average basement . "
+I,want.01,to make in,,Affirmative,There were two main points I wanted to make in this article . 
+I,make.05,two main points,,Affirmative,There were two main points I wanted to make in this article . 
+A standard design,reduce.01,costs of construction,greatly,Affirmative,2 ) A standard design would greatly reduce costs of construction . 
+YOU,have.03,ALREADY PROVEN,,Affirmative,YOU HAVE ALREADY PROVEN THAT OU ARE MENTALLY INCOMPETANT.NOT ANSWERING FROM KNOWLEDGE CONCERNING THE QUESTION PUT TO YOU ABOUT PRUSSIAN BLUE . 
+THIS,make.02,YOU AN ACESSORY AFTER,,Affirmative,"I SUGGEST TO YOU SIR , THAT IN ANY COURT OF LAW THIS MAKES YOU AN ACESSORY AFTER THE FACT . "
+People,do.02,things,,Affirmative,People can do things to help themselves without prescription . 
+People,help.01,themselves,,Affirmative,People can do things to help themselves without prescription . 
+You O'Brien,tell.01,No,them,Affirmative,You O'Brien tell them No and that you know better . 
+This,show.01,an utter lack of,,Affirmative,This shows an utter lack of any love or compassion for your fellow man and a sole desire to break your own arm off by patting yourself on the back . 
+I,love.01,"helping people , and",,Affirmative,"I am a surgeon and I love helping people , and especially with things that they do n't always have to have a prescription for . "
+I,help.01,people,,Affirmative,"I am a surgeon and I love helping people , and especially with things that they do n't always have to have a prescription for . "
+they,have.03,a prescription,,Affirmative,"I am a surgeon and I love helping people , and especially with things that they do n't always have to have a prescription for . "
+not all physicians,help.01,on,,Affirmative,Since not all physicians will help on many matters for fear of losing their license over an NON-PC Act . 
+I,testify.01,to that,,Affirmative,I can personally testify to that . 
+all,read.01,anything about Fukushima,,Affirmative,Now it is most obvious to all that read anything about Fukushima that you must spent 24 hours a day belching out your unlearned garbage . 
+you,spend.02,24 hours,belching out,Affirmative,Now it is most obvious to all that read anything about Fukushima that you must spent 24 hours a day belching out your unlearned garbage . 
+you,belch.01,your unlearned garbage,,Affirmative,Now it is most obvious to all that read anything about Fukushima that you must spent 24 hours a day belching out your unlearned garbage . 
+YOU,resort.01,TO,,Affirmative,"SINCE YOU CA N'T SCIENTIFICALLY REFUTE MANY MESSAGES SENT TO YOU , YOU THEN RESORT TO THE PUSILLANIMOUS TACTIC OF SMEARING THE MESSENGER . "
+you,hide.01,a PSEUDONYM,,Affirmative,"It is also apparent that Mike O'brien is a PSEUDONYM that you must hide behind , in order to STALK all other reporters of facts concerning the real truth of the Fukushima Radiation problem . "
+facts concerning,concern.02,the real truth of,,Affirmative,"It is also apparent that Mike O'brien is a PSEUDONYM that you must hide behind , in order to STALK all other reporters of facts concerning the real truth of the Fukushima Radiation problem . "
+Learn,claim.01,about it,,Affirmative,"Learn to spell , get your Caps Lock key fixed , learn some basic law before making BS claims about it and finally get your doctor to adjust your medication as it is obviously not working properly . "
+your doctor,adjust.01,your medication,,Affirmative,"Learn to spell , get your Caps Lock key fixed , learn some basic law before making BS claims about it and finally get your doctor to adjust your medication as it is obviously not working properly . "
+your buddy Barry,believe.01,it is,,Affirmative,And your buddy Barry does n't believe it is a pseudonym . 
+he,tell.01,delusion is rattling around in,,Affirmative,"Well he did n't , no telling what delusion is rattling around in his skull today . "
+I,see.01,Coast die offs of fish and,,Affirmative,I have personally seen the West Coast die offs of fish and other marine life since Fukushima . 
+The salmon,have.03,tumors,,Affirmative,The salmon have tumors and ca n't be sold or eaten their flesh is yellow and not pinkish - red . 
+They,sell.01,River Salmon,,Affirmative,"They could not even sell Copper River Salmon for $ 2.63 per pound this year because the meat was tumored and hot from radiation , not to mention off - color . "
+My local Fish,count.01,125 CPM,,Affirmative,"My local Fish generally count 85 to 125 CPM , Whereas before Fukushima they might have been maybe 10 CPM at worst . "
+PEOPLE,want.01,TO UNDERSTAND,,Affirmative,WHAT IS THERE ABOUT IT IS THE RADIATION THAT PEOPLE DO NOT WANT TO UNDERSTAND Besides all the radioactive trash that has washed on shore onto the West Coast . 
+LET US,forget.01,THE STILL BORN INCREASE AND,,Affirmative,OH AND LET US NOT FORGET THE STILL BORN INCREASE AND BIRTH DEFECT INCREASE AND CANCER INCREASE TO THE 3 MOST WESTERN STATES . 
+This,scare-mongering.01,"BS , unsupported by anything in",,Affirmative,"This is just scare-mongering BS , unsupported by anything in the scientific literature . "
+I,post.01,about,,Affirmative,Your information is right on the money and this is exactly why I have been posting about the benefits of Clinoptilolite zeolite in order to safely remove both radiation and heavy metals from the body ! 
+ill nutcase,have.03,some kind of,,Affirmative,This mentally ill nutcase Mike O'Brien has some kind of sick attraction to me because he follows my posts all over the internet spewing lies while trying to discredit me and my valid information about zeolite just because he knows that I am a part of this industry ! 
+he,follow.02,my posts,,Affirmative,This mentally ill nutcase Mike O'Brien has some kind of sick attraction to me because he follows my posts all over the internet spewing lies while trying to discredit me and my valid information about zeolite just because he knows that I am a part of this industry ! 
+he,spew.01,lies,,Affirmative,This mentally ill nutcase Mike O'Brien has some kind of sick attraction to me because he follows my posts all over the internet spewing lies while trying to discredit me and my valid information about zeolite just because he knows that I am a part of this industry ! 
+he,try.01,to discredit me and,,Affirmative,This mentally ill nutcase Mike O'Brien has some kind of sick attraction to me because he follows my posts all over the internet spewing lies while trying to discredit me and my valid information about zeolite just because he knows that I am a part of this industry ! 
+he,know.01,that I am,,Affirmative,This mentally ill nutcase Mike O'Brien has some kind of sick attraction to me because he follows my posts all over the internet spewing lies while trying to discredit me and my valid information about zeolite just because he knows that I am a part of this industry ! 
+This,rip.01,him,,Affirmative,This just rips him up even though I never ask anyone to purchase from me ! 
+I,ask.02,to purchase from me,anyone,Affirmative,This just rips him up even though I never ask anyone to purchase from me ! 
+a third party,show.01,zeolite is capable of removing,,Affirmative,When he asked me of proof of how zeolite works and what kind of radiation and heavy metals zeolite is known to remove I sent him a third party independent test with lab report results that clearly shows what zeolite is capable of removing which includes heavy metals and radiation ! 
+SIR Mike,do.02,The first thing,,Affirmative,The first thing he did was to discount the report as no good as if it did n't exist ! 
+I,post.01,this report,,Affirmative,I posted this report twice ! 
+you,ask.01,how it works,him,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+it,work.09,to remove radiation,,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+it,remove.01,radiation,,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+This guy,answer.01,you,,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+a child telling you something about wearing,tell.01,something about wearing,you,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+a child telling you something about wearing,show.01,the two of us,,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+Mike O'Brien,care.01,about,,Affirmative,When you asked him how it works to remove radiation he could n't answer you and then went on to act like a child telling you something about wearing a foil hat.This shows the two of us and all the other readers in these articles that Mike O'Brien could care less about other peoples health concerns or their very lives ! 
+he,know.01,he 's talking about,,Affirmative,For Mike its all about his own vanity in his failing quest to look like he knows what he 's talking about . 
+This guy,have.03,absolutely no good in him whatsoever,,Affirmative,This guy has absolutely no good in him whatsoever ! 
+He,lead.03,people,to poison themselves then,Affirmative,He would rather lead people to poison themselves then to admit that he is wrong about anything period ! 
+people,poison.02,themselves,,Affirmative,He would rather lead people to poison themselves then to admit that he is wrong about anything period ! 
+He,admit.01,that he is wrong about,,Affirmative,He would rather lead people to poison themselves then to admit that he is wrong about anything period ! 
+he,have.03,a skull,,Affirmative,Talk about toxic he should have a skull and crossbones tattooed with Prussian Blue Dye on his forehead so people can see him coming ! 
+people,see.01,him coming,,Affirmative,Talk about toxic he should have a skull and crossbones tattooed with Prussian Blue Dye on his forehead so people can see him coming ! 
+you,do.02,you,,Affirmative,"No you did n't you , quoted from an unknown source and even then I showed that the paper was a load of BS , it could even get simple math right . "
+United States,show.01,paper was,,Affirmative,"No you did n't you , quoted from an unknown source and even then I showed that the paper was a load of BS , it could even get simple math right . "
+it,get.01,simple math right,,Affirmative,"No you did n't you , quoted from an unknown source and even then I showed that the paper was a load of BS , it could even get simple math right . "
+He,ask.01,how it worked and,me,Affirmative,"He asked me how it worked and then in the same post he explained how it work , so there was nothing for me to answer . "
+he,explain.01,how it work,,Affirmative,"He asked me how it worked and then in the same post he explained how it work , so there was nothing for me to answer . "
+me,answer.01,nothing,,Affirmative,"He asked me how it worked and then in the same post he explained how it work , so there was nothing for me to answer . "
+it,remove.01,radiation,,Affirmative,"Oh and it does n't remove radiation , so even if he had asked me that there is no answer . "
+he,ask.01,that there is,me,Affirmative,"Oh and it does n't remove radiation , so even if he had asked me that there is no answer . "
+United States,start.01,deleting,,Affirmative,"I am just going to start deleting his posts , but he is clearly unhinged . "
+United States,delete.01,his posts,,Affirmative,"I am just going to start deleting his posts , but he is clearly unhinged . "
+theory jokes,make.02,them true,,Affirmative,"Hey doc , repeating BS conspiracy theory jokes wo n't make them true . "
+its an energy force,electricity.01,that,,Affirmative,radiation is n't really a substance its an energy force analogous to electricity that here now then gone . 
+You,eat.01,radiation,,Affirmative,"You ca n't eat radiation , but a person can suffer from over exposure , such as cancer treatments . "
+a person,suffer.01,"from over exposure ,",,Affirmative,"You ca n't eat radiation , but a person can suffer from over exposure , such as cancer treatments . "
+we,live.01,radiation,,Affirmative,The natural world is full of radiation that we live with and most think this is of no danger . 
+most,think.01,this is of,,Affirmative,The natural world is full of radiation that we live with and most think this is of no danger . 
+foods,have.03,a history of causing death,,Affirmative,"Were evaluating irradiating preservation of foods that have a history of causing death as these foods naturally develop toxicity , per the organic process . "
+the process,improve.01,safety and,,Affirmative,"No loss in food value can be determined ( yet ) , but the process greatly improves safety and self life . "
+I,know.01,radiation supplement,,Affirmative,Thyroid protection per iodine is the only recommended over exposure to radiation supplement I know of . 
+some,eat.01,large quantities of salad,,Affirmative,"Careful though , because some have eaten large quantities of salad for this purpose and became sick . "
+by,take.13,the metals lodged in fat,,Affirmative,"Appears , the metals lodged in fat is mostly harmless and when dislodged will easily be taken up again by digestive system . "
+they,recommend.01,eating algae or,,Affirmative,For this reason they recommend eating algae or Chlorella Powder with cilantro as a tag team . 
+they,eat.01,algae or,,Affirmative,For this reason they recommend eating algae or Chlorella Powder with cilantro as a tag team . 
+by,do.02,the study,,Affirmative,"20 participants is no where near enough to get decent results , even if the study was done by competent researchers . "
+both you and,ended.01,posts with Yiddish,,Affirmative,Kind of interesting that both you and your buddy ended posts with Yiddish . 
+some people,believe.01,you were,,Affirmative,Might cause some people to believe you were the same person . 
+Register or log in now,get.01,priority moderation,,Affirmative,Register or log in now to save your comments and get priority moderation ! 
+those,want.01,an inside edge in,,Affirmative,For those who want an inside edge in the energy sector . 

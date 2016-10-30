@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+their,use.01,that talent,to save lives - by detecting,Affirmative,"Dogs are already well - known for their keen sense of smell , but soon they could be using that talent to save lives - by detecting prostate cancer . "
+their,save.02,lives,,Affirmative,"Dogs are already well - known for their keen sense of smell , but soon they could be using that talent to save lives - by detecting prostate cancer . "
+their,detect.01,prostate cancer,,Affirmative,"Dogs are already well - known for their keen sense of smell , but soon they could be using that talent to save lives - by detecting prostate cancer . "
+The two dogs participating in,participate.01,in,,Affirmative,"The two dogs participating in the study were trained to sniff out samples containing chemicals produced by prostate cancer , then lie down beside them . "
+The two dogs participating in,sniff.01,samples containing chemicals produced by,,Affirmative,"The two dogs participating in the study were trained to sniff out samples containing chemicals produced by prostate cancer , then lie down beside them . "
+samples containing chemicals produced by,contain.01,chemicals produced by,,Affirmative,"The two dogs participating in the study were trained to sniff out samples containing chemicals produced by prostate cancer , then lie down beside them . "
+by,produce.01,chemicals produced by,,Affirmative,"The two dogs participating in the study were trained to sniff out samples containing chemicals produced by prostate cancer , then lie down beside them . "
+most,consider.01,possible,,Affirmative,The possibility of using dogs [ to identify ] cancer is something most would never have considered possible a decade or two ago . 
+best friend ',help.01,save,,Affirmative,It 's an interesting concept that ' man 's best friend '  could help save your life . 
+best friend ',save.02,your life,,Affirmative,It 's an interesting concept that ' man 's best friend '  could help save your life . 
+some,consider.02,the new technique,,Affirmative,"But some are considering the new technique just that , though : a concept . "
+Patients,rely.01,on,,Affirmative,As  The  Inquisitr  writes Patients should not rely on their pets to diagnose or rule out any illness . 
+by,diagnose.01,volunteers,,Affirmative,The studies were performed in a controlled environment with volunteers who were already diagnosed by a medical doctor . 
+Dogs,show.01,success,,Affirmative,"Still , dogs have shown success smelling out cancer in other studies before . "
+Dogs,smell.01,cancer,,Affirmative,"Still , dogs have shown success smelling out cancer in other studies before . "
+prostate cancer,kill.01,"some 29,000 men",,Affirmative,"According to the  American Cancer Society , prostate cancer kills some 29,000 men each year . "
+We,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+We,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+We,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

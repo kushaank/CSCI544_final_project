@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mayor Bill de Blasio,demand.01,newspapers apologize for,,Affirmative,Mayor Bill de Blasio has demanded two newspapers apologize for their characterizations of his wife 's comments on motherhood . 
+the newspapers ',apologize.01,for,,Affirmative,Mayor Bill de Blasio has demanded two newspapers apologize for their characterizations of his wife 's comments on motherhood . 
+"The Democratic mayor ,",play.02,a significant role,,Affirmative,"The Democratic mayor , whose family played a significant role in his election , on Monday called the newspapers ' stories deeply disturbing and offensive and criticized their misunderstanding of the first lady 's remarks . "
+"The Democratic mayor ,",call.01,stories,deeply disturbing and offensive,Affirmative,"The Democratic mayor , whose family played a significant role in his election , on Monday called the newspapers ' stories deeply disturbing and offensive and criticized their misunderstanding of the first lady 's remarks . "
+"The Democratic mayor ,",criticize.01,their misunderstanding of,,Affirmative,"The Democratic mayor , whose family played a significant role in his election , on Monday called the newspapers ' stories deeply disturbing and offensive and criticized their misunderstanding of the first lady 's remarks . "
+"His wife ,",tell.01,that she struggled adjusting to motherhood,York magazine,Affirmative,"His wife , Chirlane McCray , told New York magazine in an interview published Sunday that she struggled adjusting to motherhood after the couple 's first child , Chiara , was born . "
+Chirlane McCray,say.01,she loves,,Affirmative,McCray said she loves her daughter but had been working since she was 14 . 
+his wife 's,love.01,her daughter,,Affirmative,McCray said she loves her daughter but had been working since she was 14 . 
+his wife 's,take.01,of kids,,Affirmative,"It took a long time for me to get into ' I 'm taking care of kids , ' and what that means , she said . "
+his wife 's,say.01,what that means,,Affirmative,"It took a long time for me to get into ' I 'm taking care of kids , ' and what that means , she said . "
+both city tabloids,run.02,stories about,,Affirmative,"On Monday , both city tabloids ran stories about the interview and put McCray 's picture on their front pages . "
+both city tabloids,put.01,picture,on,Affirmative,"On Monday , both city tabloids ran stories about the interview and put McCray 's picture on their front pages . "
+The Daily News,run.02,a headline of,,Affirmative,"The Daily News ran a headline of Did n't want to be a mom , which de Blasio said was inaccurate and was n't reflected in the magazine piece . "
+"De Blasio , who took office in January",say.01,was inaccurate and,,Affirmative,"The Daily News ran a headline of Did n't want to be a mom , which de Blasio said was inaccurate and was n't reflected in the magazine piece . "
+"De Blasio , who took office in January",say.01,he thought,,Affirmative,De Blasio said he thought a lot of hardworking women in this city are offended by what they read in the newspapers Monday . 
+"De Blasio , who took office in January",think.01,are offended by,,Affirmative,De Blasio said he thought a lot of hardworking women in this city are offended by what they read in the newspapers Monday . 
+by,offend.01,a lot of,,Affirmative,De Blasio said he thought a lot of hardworking women in this city are offended by what they read in the newspapers Monday . 
+"De Blasio ,",take.01,office,,Affirmative,"De Blasio , who took office in January , has had rocky relations with the city 's media , particularly the tabloids . "
+"De Blasio ,",have.03,rocky relations with,,Affirmative,"De Blasio , who took office in January , has had rocky relations with the city 's media , particularly the tabloids . "
+"The Post ,",have.03,conservative leanings,,Affirmative,"The Post , which often has conservative leanings , has frequently attacked the mayor and repeatedly called him Che de Blasio for his leftist leanings . "
+"The Post ,",attack.01,The Democratic mayor,,Affirmative,"The Post , which often has conservative leanings , has frequently attacked the mayor and repeatedly called him Che de Blasio for his leftist leanings . "
+"The Post ,",call.01,The Democratic mayor,Che de Blasio,Affirmative,"The Post , which often has conservative leanings , has frequently attacked the mayor and repeatedly called him Che de Blasio for his leftist leanings . "
+The Daily News,run.01,page campaign objecting to,,Affirmative,"The Daily News , meanwhile , has run a front - page campaign objecting to de Blasio 's plan to ban carriage horses from the city . "
+page campaign objecting to,object.01,to,,Affirmative,"The Daily News , meanwhile , has run a front - page campaign objecting to de Blasio 's plan to ban carriage horses from the city . "
+De Blasio and McCray,celebrate.02,their 20th wedding anniversary,,Affirmative,De Blasio and McCray celebrated their 20th wedding anniversary last week . 

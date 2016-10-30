@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a court order forcing them out of,force.01,Their,out of,Affirmative,"Their house rent accrued , culminating in a court order forcing them out of their flat . "
+Their,pay.01,Their house rent,,Affirmative,"They had not paid their rent for 10 years , amounting to Dh240,000 . "
+A man,sue.01,his three sons claiming,,Affirmative,"A man sued his three sons claiming they did not shoulder the domestic expenses of the family and demanded that they pay their share of the rent and utilities for the past 10 years amounting to Dh530,000 . "
+his three sons claiming,claim.01,they did not shoulder,,Affirmative,"A man sued his three sons claiming they did not shoulder the domestic expenses of the family and demanded that they pay their share of the rent and utilities for the past 10 years amounting to Dh530,000 . "
+his three sons,shoulder.01,the domestic expenses of,,Affirmative,"A man sued his three sons claiming they did not shoulder the domestic expenses of the family and demanded that they pay their share of the rent and utilities for the past 10 years amounting to Dh530,000 . "
+A man,demand.01,that they pay,,Affirmative,"A man sued his three sons claiming they did not shoulder the domestic expenses of the family and demanded that they pay their share of the rent and utilities for the past 10 years amounting to Dh530,000 . "
+his three sons,pay.01,their share of,,Affirmative,"A man sued his three sons claiming they did not shoulder the domestic expenses of the family and demanded that they pay their share of the rent and utilities for the past 10 years amounting to Dh530,000 . "
+Dhabi Court of Appeals,order.01,the three sons,"to pay Dh200,000 ,",Affirmative,"The Abu Dhabi Court of Appeals ordered the three sons to pay Dh200,000 , which an appellate court overturned recently . "
+the three sons,pay.01,"Dh200,000 ,",,Affirmative,"The Abu Dhabi Court of Appeals ordered the three sons to pay Dh200,000 , which an appellate court overturned recently . "
+an appellate court,overturn.01,"Dh200,000 ,",,Affirmative,"The Abu Dhabi Court of Appeals ordered the three sons to pay Dh200,000 , which an appellate court overturned recently . "
+The three adult sons,defend.01,The three adult sons,,Affirmative,The three adult sons defended themselves saying their father had not spent any money on them for a long time . 
+The three adult sons,say.01,father had not spent,,Affirmative,The three adult sons defended themselves saying their father had not spent any money on them for a long time . 
+a wealthy man,spend.01,on them,,Affirmative,The three adult sons defended themselves saying their father had not spent any money on them for a long time . 
+The three adult sons,claim.01,", became",,Affirmative,"They claimed that their elder brother , who died 10 years ago , became the breadwinner of the family after their father deserted their mother and stopped supporting them financially . "
+a wealthy man,desert.01,their mother,,Affirmative,"They claimed that their elder brother , who died 10 years ago , became the breadwinner of the family after their father deserted their mother and stopped supporting them financially . "
+a wealthy man,stop.01,supporting them financially,,Affirmative,"They claimed that their elder brother , who died 10 years ago , became the breadwinner of the family after their father deserted their mother and stopped supporting them financially . "
+The three adult sons,produce.01,documents,,Affirmative,They produced documents which purportedly showed that their late elder brother paid the rent of their house . 
+documents,show.01,brother paid,,Affirmative,They produced documents which purportedly showed that their late elder brother paid the rent of their house . 
+their late elder brother,pay.01,the rent of,,Affirmative,They produced documents which purportedly showed that their late elder brother paid the rent of their house . 
+a court order forcing them out of,force.01,The three adult sons,out of,Affirmative,"Their house rent accrued , culminating in a court order forcing them out of their flat . "
+The three adult sons,pay.01,Their house rent,,Affirmative,"They had not paid their rent for 10 years , amounting to Dh240,000 . "
+The three brothers,deny.01,that they signed,,Affirmative,The three brothers did not deny that they signed an agreement with their father agreeing to shoulder 70 per cent of the domestic expenses . 
+The three brothers,sign.02,an agreement with,,Affirmative,The three brothers did not deny that they signed an agreement with their father agreeing to shoulder 70 per cent of the domestic expenses . 
+their father,agree.01,to shoulder,,Affirmative,The three brothers did not deny that they signed an agreement with their father agreeing to shoulder 70 per cent of the domestic expenses . 
+The three men,claim.01,that they were,,Affirmative,"The three men claimed in court that they were too young to get a job then , while their father was a wealthy man . "
+The three men,get.01,a job,,Affirmative,"The three men claimed in court that they were too young to get a job then , while their father was a wealthy man . "
+a wealthy man,take.01,the case,,Affirmative,"When the father took the case to the Abu Dhabi Court of First Instance , it was dismissed because he failed to support his claims with documents . "
+a wealthy man,support.01,his claims with documents,,Affirmative,"When the father took the case to the Abu Dhabi Court of First Instance , it was dismissed because he failed to support his claims with documents . "
+a wealthy man,present.01,the salary certificates of,,Affirmative,"In the Court of Appeals , the father presented the salary certificates of his sons . "
+an appellate court,order.01,his three sons,to pay,Affirmative,"The appellate court ordered the sons to pay their father Dh200,000 as their share of the bills . "
+his three sons,pay.01,"their father Dh200,000",,Affirmative,"The appellate court ordered the sons to pay their father Dh200,000 as their share of the bills . "
+the three sons,move.01,the Court of Cassation,,Affirmative,"The three sons then moved the Court of Cassation , which overturned the lower court 's verdict saying that the fact that the three sons were juveniles 10 years ago was not taken into account . "
+the Court of Cassation,overturn.01,verdict saying,,Affirmative,"The three sons then moved the Court of Cassation , which overturned the lower court 's verdict saying that the fact that the three sons were juveniles 10 years ago was not taken into account . "
+verdict saying,say.01,was not taken into account,,Affirmative,"The three sons then moved the Court of Cassation , which overturned the lower court 's verdict saying that the fact that the three sons were juveniles 10 years ago was not taken into account . "
+by,sponsor.01,visas sponsored by,,Affirmative,"They were staying in the country on visas sponsored by their father then and as per residency rules , they were not allowed to work . "
+a wealthy man,bear.01,the domestic expenses of the family,,Affirmative,"As per the law , the father should bear the expenses as long as they are under his sponsorship , the court ruled . "
+Court of Cassation,rule.01,father should bear,,Affirmative,"As per the law , the father should bear the expenses as long as they are under his sponsorship , the court ruled . "
+an appellate court,revoke.01,an agreement,,Affirmative,The appellate court also revoked the agreement the father signed with his sons on the grounds that it was not notorised . 
+Court of Cassation,rule.01,salary certificates,,Affirmative,The court also ruled that the salary certificates the father presented in court were issued recently . 
+the salary,certificate.01,were issued recently,,Affirmative,The court also ruled that the salary certificates the father presented in court were issued recently . 

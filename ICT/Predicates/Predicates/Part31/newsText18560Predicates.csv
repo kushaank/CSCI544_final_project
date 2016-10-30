@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( UPI ) --,say.01,organization still attempting,,Affirmative,"LONDON , May 19 ( UPI ) -- The death toll in the Syrian conflict passed 160,000 in the past two months , said the only organization still attempting to count it . "
+the only organization,attempt.01,to count it,,Affirmative,"LONDON , May 19 ( UPI ) -- The death toll in the Syrian conflict passed 160,000 in the past two months , said the only organization still attempting to count it . "
+the only organization,count.01,LONDON,,Affirmative,"LONDON , May 19 ( UPI ) -- The death toll in the Syrian conflict passed 160,000 in the past two months , said the only organization still attempting to count it . "
+based Syrian Observatory for,claim.01,it has,,Affirmative,"The London - based Syrian Observatory for Human Rights claims it has about 200 contacts in Syria monitoring the conflict , now in its third year . "
+The London-based Syrian Observatory for Human Rights,have.03,200 contacts in Syria,,Affirmative,"The London - based Syrian Observatory for Human Rights claims it has about 200 contacts in Syria monitoring the conflict , now in its third year . "
+200 contacts in Syria,monitor.01,"the Syrian conflict passed 160,000 in the past two months",,Affirmative,"The London - based Syrian Observatory for Human Rights claims it has about 200 contacts in Syria monitoring the conflict , now in its third year . "
+the only organization still attempting to count it,say.01,", stood at 150,000",,Affirmative,"The organization said the mortality figures , for all sides , stood at 150,000 at the start of April , but that number has since risen to about 162,000 . "
+The United Nations,stop.01,offering estimates,,Affirmative,"The United Nations stopped offering estimates earlier this year , noting problems with verification . "
+The United Nations,offer.01,estimates,,Affirmative,"The United Nations stopped offering estimates earlier this year , noting problems with verification . "
+The United Nations,note.01,problems with verification,,Affirmative,"The United Nations stopped offering estimates earlier this year , noting problems with verification . "
+Combatants,suppress.01,information,,Affirmative,"Combatants typically suppress information , journalists seeking accurate counts face the normal obstacles of war , and social media often mix propaganda with fact . "
+journalists seeking,seek.01,accurate counts,,Affirmative,"Combatants typically suppress information , journalists seeking accurate counts face the normal obstacles of war , and social media often mix propaganda with fact . "
+journalists seeking,face.01,the normal obstacles of war,,Affirmative,"Combatants typically suppress information , journalists seeking accurate counts face the normal obstacles of war , and social media often mix propaganda with fact . "
+social media,mix.01,propaganda,,Affirmative,"Combatants typically suppress information , journalists seeking accurate counts face the normal obstacles of war , and social media often mix propaganda with fact . "
+by,criticize.01,reports,,Affirmative,"Syrian Observatory 's reports have been criticized by both pro-government and rebel forces in Syria , an indication , director Rami Abdul Rahman said , that his organization is on the right track . "
+director Rami Abdul Rahman,say.01,organization is on,,Affirmative,"Syrian Observatory 's reports have been criticized by both pro-government and rebel forces in Syria , an indication , director Rami Abdul Rahman said , that his organization is on the right track . "
+director Rami Abdul Rahman said,note.01,one can know,,Affirmative,"He noted , though , that no one can know the entire reality of the war , which has displaced half of Syria 's population . "
+no one,know.01,the entire reality of,,Affirmative,"He noted , though , that no one can know the entire reality of the war , which has displaced half of Syria 's population . "
+"the war ,",displace.01,half of,,Affirmative,"He noted , though , that no one can know the entire reality of the war , which has displaced half of Syria 's population . "
+The London-based Syrian Observatory for Human Rights,add.01,"forces have been killed ,",,Affirmative,"It added 42,701 anti-government forces have been killed , as well as 53,978 civilians , 8,607 of whom were children . "
+distribution partners,provide.01,our content,"to thousands of businesses ,",Affirmative,"In addition , UPI 's distribution partners provide our content to thousands of businesses , policy groups and academic institutions worldwide . "
+decision - makers,depend.01,on,,Affirmative,Our audience consists of millions of decision - makers who depend on UPI 's insightful and analytical stories to make better business or policy decisions . 
+our company,strive.01,to continue,,Affirmative,"In the year of our 107th anniversary , our company strives to continue being a leading and trusted source for news , analysis and insight for readers around the world . "
+We,thank.01,you,for visiting us,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+you,visit.01,We,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 
+We,hope.01,that we will be,,Affirmative,We thank you for visiting us and we hope that we will be your daily stop for news updates . 

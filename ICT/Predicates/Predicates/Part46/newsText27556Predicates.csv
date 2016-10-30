@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Calif.,breed.01,bred horse,,Affirmative,- The Triple Crown is closer to becoming reality for a California bred horse . 
+trainer,hint.01,horse may not run,,Affirmative,The colt 's trainer has hinted the horse may not run the Belmont stakes because of the nasal strips the horse wore while winning his last six races . 
+the horse,run.01,the Belmont stakes,,Affirmative,The colt 's trainer has hinted the horse may not run the Belmont stakes because of the nasal strips the horse wore while winning his last six races . 
+the horse,wear.01,nasal strips,,Affirmative,The colt 's trainer has hinted the horse may not run the Belmont stakes because of the nasal strips the horse wore while winning his last six races . 
+the horse,win.01,his last six races,,Affirmative,The colt 's trainer has hinted the horse may not run the Belmont stakes because of the nasal strips the horse wore while winning his last six races . 
+horses,wear.01,those strips,,Affirmative,"In previous Belmont Stakes races , horses have not been allowed to wear those strips . "
+Race officials,say.01,trainer has not asked,,Affirmative,Race officials say California Chrome 's trainer has not asked to use the strips . 
+11 other horses,do.02,so,,Affirmative,Only 11 other horses have ever done so . 
+We all,feel.01,connected to,,Affirmative,"We all feel connected to this horse , said Kash Gill , mayor of Yuba City . "
+"Kash Gill , mayor of",say.01,feel connected to,,Affirmative,"We all feel connected to this horse , said Kash Gill , mayor of Yuba City . "
+the co-owners of the horse,have.03,street shut down,,Affirmative,"We will have the street shut down , said Darin Gale , economic development director for the city . "
+"Darin Gale ,",say.01,We will have,,Affirmative,"We will have the street shut down , said Darin Gale , economic development director for the city . "
+City leaders,plan.01,to go all out in preparation for,,Affirmative,City leaders plan to go all out in preparation for the Belmont Stakes . 
+City leaders,go.06,all,,Affirmative,City leaders plan to go all out in preparation for the Belmont Stakes . 
+All the businesses here,see.01,a significant boom,,Affirmative,"All the businesses here will see a significant boom and our businesses are starting to get some notoriety from it , Gale said . "
+our businesses,get.01,some notoriety,from it,Affirmative,"All the businesses here will see a significant boom and our businesses are starting to get some notoriety from it , Gale said . "
+Darin Gale,say.01,will see,,Affirmative,"All the businesses here will see a significant boom and our businesses are starting to get some notoriety from it , Gale said . "
+the Safeway on 19th and S in Midtown,have.03,fingers crossed,,Affirmative,"We 're hoping but we still have our fingers crossed , said Greg Popejoy of Sacramento . "
+Greg Popejoy of Sacramento,say.01,We 're hoping but,,Affirmative,"We 're hoping but we still have our fingers crossed , said Greg Popejoy of Sacramento . "
+California Chrome after Saturday 's,bring.01,The Triple Crown,home,Affirmative,"If California Chrome brings home the Triple Crown , Yuba City will hold a parade to celebrate . "
+"Yuba City , which is being thrown into the national spotlight in time with the colt 's success",hold.04,a parade,,Affirmative,"If California Chrome brings home the Triple Crown , Yuba City will hold a parade to celebrate . "
+city officials,say.01,horse will remain,,Affirmative,"But city officials say win or lose , the horse will remain the pride of the town . "

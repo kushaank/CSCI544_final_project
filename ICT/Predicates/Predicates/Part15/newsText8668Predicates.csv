@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",greet.01,David Reed at,,Affirmative,Jerry Jones greets David Reed at the Pawtucket Fire Dept . 
+Reed,save.01,life,,Affirmative,", their first meeting since Reed helped save Jones ' life in 2012 . "
+David Reed,face.01,nothing like,,Affirmative,"PAWTUCKET , R.I. - The 73 - year - old man with the smile and tanned face who got out of the Toyota pickup truck Monday morning in front of the Pawtucket fire station was nothing like the man firefighter David Reed had faced in the days just before Christmas 2012 . "
+he,hear.01,man gasping for breath,,Affirmative,He was off - duty at a Christmas concert at Emmanuel Episcopal Church in Newport when he heard a man gasping for breath . 
+a man,gasp.01,for breath,,Affirmative,He was off - duty at a Christmas concert at Emmanuel Episcopal Church in Newport when he heard a man gasping for breath . 
+"Jerry Jones , of Texas",visit.01,his son,,Affirmative,"Jerry Jones , of Texas , who was in Rhode Island visiting his son , was having a heart attack and collapsed . "
+"Jerry Jones , of Texas",have.03,a heart attack,,Affirmative,"Jerry Jones , of Texas , who was in Rhode Island visiting his son , was having a heart attack and collapsed . "
+Reed,identify.01,himself,as,Affirmative,Reed identified himself as a member of the Pawtucket Fire Department and went to work . 
+He,open.01,airway,,Affirmative,"He opened Jones ' airway , checked for signs of choking and then started CPR . "
+He,check.01,for signs of choking,,Affirmative,"He opened Jones ' airway , checked for signs of choking and then started CPR . "
+He,start.01,CPR,,Affirmative,"He opened Jones ' airway , checked for signs of choking and then started CPR . "
+Newport fire personnel,use.01,a defibrillator on Jones,,Affirmative,"Newport fire personnel arrived and used a defibrillator on Jones three times , until he was revived . "
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",pay.01,a special visit to Reed,,Affirmative,"On Monday , he paid a special visit to Reed to thank him for saving his life . "
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",thank.01,him,for saving,Affirmative,"On Monday , he paid a special visit to Reed to thank him for saving his life . "
+him,save.02,his life,,Affirmative,"On Monday , he paid a special visit to Reed to thank him for saving his life . "
+You,look.02,lot better than,,Affirmative,"You look a lot better than the last time I saw you , Reed told him as the two men embraced . "
+I,see.01,David Reed at the Pawtucket Fire Dept.,,Affirmative,"You look a lot better than the last time I saw you , Reed told him as the two men embraced . "
+Jones,bother.01,you,,Affirmative,"Sorry to bother you on your day off , Jones told him . "
+I,get.01,few patches,,Affirmative,"I got a few patches for you , he said as he pulled some patches from the Fort Worth Texas Fire Department from a plastic bag . "
+he,say.01,I got,,Affirmative,"I got a few patches for you , he said as he pulled some patches from the Fort Worth Texas Fire Department from a plastic bag . "
+he,pull.01,some patches,from,Affirmative,"I got a few patches for you , he said as he pulled some patches from the Fort Worth Texas Fire Department from a plastic bag . "
+He,give.01,a Texas flag,him,Affirmative,He also gave him a Texas flag . 
+We,get.02,a place in Texas,,Affirmative,We 've got a place in Texas you can stay . 
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",tell.01,It 's,Reed,Affirmative,"It 's a place near the river , Jones told Reed by way of inviting him for a visit . "
+Jones,say.01,he was feeling good,,Affirmative,Jones is under a doctor 's care and said he was feeling good . 
+he,feel.01,good,,Affirmative,Jones is under a doctor 's care and said he was feeling good . 
+He,visit.01,"Greg ,",,Affirmative,"He comes to Rhode Island to visit Greg , who is retired from the Coast Guard and lives in Portsmouth . "
+Father and son,attend.01,Sox game against Detroit,,Affirmative,Father and son had attended the Red Sox game against Detroit on Sunday in Boston . 
+I,have.03,a good time,,Affirmative,"I was having a good time until they started to lose , Jerry Jones joked . "
+Father and son,start.01,to lose,,Affirmative,"I was having a good time until they started to lose , Jerry Jones joked . "
+Jones volunteers for,drive.01,a canteen truck,,Affirmative,"Jones volunteers for the Red Cross in Texas driving a canteen truck , he told Reed , mentioning that there have been a lot of brushfires . "
+he,mention.01,that there have been,,Affirmative,"Jones volunteers for the Red Cross in Texas driving a canteen truck , he told Reed , mentioning that there have been a lot of brushfires . "
+a drought,shrivel.01,crops,,Affirmative,Texas is still in the throes of a drought that has shriveled crops and led to massive wildfires . 
+Jones,say.01,he did n't remember much about,,Affirmative,"Jones said he did n't remember much about what happened to him , but his family filled him in . "
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",remember.01,much about,,Affirmative,"Jones said he did n't remember much about what happened to him , but his family filled him in . "
+his family,fill.05,"Jerry Jones , of Texas , who was in Rhode Island visiting his son",,Affirmative,"Jones said he did n't remember much about what happened to him , but his family filled him in . "
+"Jerry Jones , of Texas , who was in Rhode Island visiting his son",visit.01,Department firefighters,,Affirmative,"He said last year when he went to visit the Newport Fire Department firefighters , they told him a firefighter in Pawtucket had performed CPR . "
+they,tell.01,had performed CPR,him,Affirmative,"He said last year when he went to visit the Newport Fire Department firefighters , they told him a firefighter in Pawtucket had performed CPR . "
+a firefighter in Pawtucket,performed.01,CPR,,Affirmative,"He said last year when he went to visit the Newport Fire Department firefighters , they told him a firefighter in Pawtucket had performed CPR . "
+he,say.01,", I would n't be here",,Affirmative,"If it was n't for this guy , I would n't be here , he said . "

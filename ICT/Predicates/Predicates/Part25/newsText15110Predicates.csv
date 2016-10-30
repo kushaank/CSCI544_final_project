@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+police,say.01,man was charged,,Affirmative,"A Springfield man was charged this afternoon with second - degree robbery and first - degree burglary for allegedly robbing a 22 - year - old man on a Lane Transit District bus at knifepoint , police said . "
+"Angel Gamaliel Gallo , 19 ,",board.01,a bus,,Affirmative,"Angel Gamaliel Gallo , 19 , boarded a bus at 11th Avenue and Patterson Street on Thursday at 5:45 p.m. when he allegedly demanded the victim give him his jewelry , police spokeswoman Melinda McLaughlin said . "
+Gamaliel Gallo,demand.01,victim give him,,Affirmative,"Angel Gamaliel Gallo , 19 , boarded a bus at 11th Avenue and Patterson Street on Thursday at 5:45 p.m. when he allegedly demanded the victim give him his jewelry , police spokeswoman Melinda McLaughlin said . "
+the victim,give.01,his jewelry,him,Affirmative,"Angel Gamaliel Gallo , 19 , boarded a bus at 11th Avenue and Patterson Street on Thursday at 5:45 p.m. when he allegedly demanded the victim give him his jewelry , police spokeswoman Melinda McLaughlin said . "
+spokeswoman Melinda McLaughlin,say.01,boarded,,Affirmative,"Angel Gamaliel Gallo , 19 , boarded a bus at 11th Avenue and Patterson Street on Thursday at 5:45 p.m. when he allegedly demanded the victim give him his jewelry , police spokeswoman Melinda McLaughlin said . "
+the victim,call.02,Police,,Affirmative,"The victim called police soon after the incident , McLaughlin said . "
+police spokeswoman Melinda McLaughlin,say.01,victim called police,,Affirmative,"The victim called police soon after the incident , McLaughlin said . "
+Police,arrest.01,Gamaliel Gallo,,Affirmative,"Police arrested Gallo on Friday and were able to recover the stolen jewelry , which the victim said had sentimental value , she said . "
+the victim,say.01,had,,Affirmative,"Police arrested Gallo on Friday and were able to recover the stolen jewelry , which the victim said had sentimental value , she said . "
+Police,say.01,Police arrested Gallo on Friday,,Affirmative,"Police arrested Gallo on Friday and were able to recover the stolen jewelry , which the victim said had sentimental value , she said . "
+Pioneering Oregon wineries,build.01,"wave visitor centers with impressive , intimate ,",,Affirmative,"Pioneering Oregon wineries build new - wave visitor centers with impressive , intimate , immersive tasting and learning opportunities . "

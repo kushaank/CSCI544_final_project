@@ -1,0 +1,24 @@
+
+Cambridge, Massachusetts - Researchers at MIT and the University of Vienna have created an imaging system that reveals neural activity throughout the brains of living animals. This technique, the first that can generate 3-D movies of entire brains at the millisecond timescale, could help scientists discover how neuronal networks process sensory information and generate behavior.
+
+The team used the new system to simultaneously image the activity of every neuron in the worm Caenorhabditis elegans, as well as the entire brain of a zebrafish larva, offering a more complete picture of nervous system activity than has been previously possible.
+
+Boyden’s team developed the brain-mapping method with researchers in the lab of Alipasha Vaziri of the University of Vienna and the Research Institute of Molecular Pathology in Vienna. The paper’s lead authors are Young-Gyu Yoon, a graduate student at MIT, and Robert Prevedel, a postdoc at the University of Vienna.
+
+Neurons encode information — sensory data, motor plans, emotional states, and thoughts — using electrical impulses called action potentials, which provoke calcium ions to stream into each cell as it fires. By engineering fluorescent proteins to glow when they bind calcium, scientists can visualize this electrical firing of neurons. However, until now there has been no way to image this neural activity over a large volume, in three dimensions, and at high speed.
+
+Scanning the brain with a laser beam can produce 3-D images of neural activity, but it takes a long time to capture an image because each point must be scanned individually. The MIT team wanted to achieve similar 3-D imaging but accelerate the process so they could see neuronal firing, which takes only milliseconds, as it occurs.
+
+The new method is based on a widely used technology known as light-field imaging, which creates 3-D images by measuring the angles of incoming rays of light. Ramesh Raskar, an associate professor of media arts and sciences at MIT and an author of this paper, has worked extensively on developing this type of 3-D imaging. Microscopes that perform light-field imaging have been developed previously by multiple groups. In the new paper, the MIT and Austrian researchers optimized the light-field microscope, and applied it, for the first time, to imaging neural activity.
+
+With this kind of microscope, the light emitted by the sample being imaged is sent through an array of lenses that refracts the light in different directions. Each point of the sample generates about 400 different points of light, which can then be recombined using a computer algorithm to recreate the 3-D structure.
+
+“If you have one light-emitting molecule in your sample, rather than just refocusing it into a single point on the camera the way regular microscopes do, these tiny lenses will project its light onto many points. From that, you can infer the three-dimensional position of where the molecule was,” says Boyden, who is a member of MIT’s Media Lab and McGovern Institute for Brain Research.
+
+Prevedel built the microscope, and Yoon devised the computational strategies that reconstruct the 3-D images.
+
+The researchers used this technique to image neural activity in the worm C. elegans, the only organism for which the entire neural wiring diagram is known. This 1-millimeter worm has 302 neurons, each of which the researchers imaged as the worm performed natural behaviors, such as crawling. They also observed the neuronal response to sensory stimuli, such as smells.
+
+The downside to light field microscopy, Boyden says, is that the resolution is not as good as that of techniques that slowly scan a sample. The current resolution is high enough to see activity of individual neurons, but the researchers are now working on improving it so the microscope could also be used to image parts of neurons, such as the long dendrites that branch out from neurons’ main bodies. They also hope to speed up the computing process, which currently takes a few minutes to analyze one second of imaging data.
+
+The researchers also plan to combine this technique with optogenetics, which enables neuronal firing to be controlled by shining light on cells engineered to express light-sensitive proteins. By stimulating a neuron with light and observing the results elsewhere in the brain, scientists could determine which neurons are participating in particular tasks.

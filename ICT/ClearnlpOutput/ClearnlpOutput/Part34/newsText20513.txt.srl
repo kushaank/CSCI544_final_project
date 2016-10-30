@@ -1,0 +1,217 @@
+1	Share	share	VB	p2=NN|pb=share.01	0	root	_
+2	This	this	DT	p2=NNP	3	det	_
+3	Story	story	NNP	p2=NN	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	KENTWOOD	kentwood	NNP	p2=NN	3	nn	_
+2	,	,	,	_	3	punct	_
+3	Mich	mich	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	(	(	-LRB-	_	6	punct	_
+2	WZZM	wzzm	NNP	p2=UH	6	npadvmod	6:AM-DIS
+3	)	)	-RRB-	_	2	punct	_
+4	--	--	:	_	6	punct	_
+5	Firefighters	firefighter	NNS	_	6	nsubj	6:A1=PPT
+6	are	be	VBP	pb=be.01	0	root	_
+7	in	in	IN	_	6	prep	6:A2=PRD
+8	clean	clean	JJ	p2=NN	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	up	up	RP	p2=JJ	11	amod	_
+11	mode	mode	NN	_	7	pobj	_
+12	after	after	IN	_	6	prep	6:AM-TMP
+13	an	an	DT	_	17	det	_
+14	early	early	JJ	_	15	amod	_
+15	morning	morning	NN	_	17	nn	_
+16	oven	oven	NN	p2=IN	17	nn	_
+17	fire	fire	NN	_	12	pobj	_
+18	at	at	IN	_	17	prep	_
+19	a	a	DT	_	21	det	_
+20	Kentwood	kentwood	NNP	_	21	nn	_
+21	bakery	bakery	NN	_	18	pobj	_
+22	.	.	.	_	6	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1
+2	happened	happened	VBD	pb=happen.01	0	root	_
+3	around	around	IN	p2=RB	2	prep	2:AM-TMP
+4	2:40	0	CD	_	5	num	_
+5	a.m.	a.m.	NN	p2=RB	3	pobj	_
+6	Sent	send	VBN	p2=JJ|pb=send.01	2	advcl	2:AM-TMP
+7	!	!	.	_	2	punct	_
+
+1	A	a	DT	_	2	det	_
+2	link	link	NN	_	5	nsubjpass	5:A1=PPT
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	sent	send	VBN	pb=send.01	0	root	_
+6	to	to	IN	_	5	prep	5:A2=GOL
+7	your	your	PRP$	_	8	poss	_
+8	friend	friend	NN	_	11	poss	_
+9	's	's	POS	_	8	possessive	_
+10	email	email	NN	_	11	nn	_
+11	address	address	NN	_	6	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	Roskam	roskam	NNP	p2=NN	2	nn	2:A0
+2	Baking	baking	VBG	p2=VBG|pb=baking.01	0	root	_
+3	on	on	IN	_	2	prep	2:A1
+4	Broadmoor	broadmoor	NNP	_	5	nn	_
+5	Ave	ave	NNP	_	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	in	in	IN	_	5	prep	_
+2	Kentwood	kentwood	NNP	_	1	pobj	_
+3	,	,	,	_	2	punct	_
+4	scene	scene	NN	_	0	root	_
+5	of	of	IN	_	4	prep	_
+6	an	an	DT	_	10	det	_
+7	early	early	JJ	_	8	amod	_
+8	morning	morning	NN	_	10	nn	_
+9	oven	oven	NN	p2=IN	10	nn	_
+10	fire	fire	NN	_	5	pobj	_
+11	.	.	.	_	4	punct	_
+
+1	KENTWOOD	kentwood	NNP	p2=NN	3	nn	_
+2	,	,	,	_	3	punct	_
+3	Mich	mich	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	(	(	-LRB-	_	6	punct	_
+2	WZZM	wzzm	NNP	p2=UH	6	npadvmod	6:AM-DIS
+3	)	)	-RRB-	_	2	punct	_
+4	--	--	:	_	6	punct	_
+5	Firefighters	firefighter	NNS	_	6	nsubj	6:A1=PPT
+6	are	be	VBP	pb=be.01	0	root	_
+7	in	in	IN	_	6	prep	6:A2=PRD
+8	clean	clean	JJ	p2=NN	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	up	up	RP	p2=JJ	11	amod	_
+11	mode	mode	NN	_	7	pobj	_
+12	after	after	IN	_	6	prep	6:AM-TMP
+13	an	an	DT	_	17	det	_
+14	early	early	JJ	_	15	amod	_
+15	morning	morning	NN	_	17	nn	_
+16	oven	oven	NN	p2=IN	17	nn	_
+17	fire	fire	NN	_	12	pobj	_
+18	at	at	IN	_	17	prep	_
+19	a	a	DT	_	21	det	_
+20	Kentwood	kentwood	NNP	_	21	nn	_
+21	bakery	bakery	NN	_	18	pobj	_
+22	.	.	.	_	6	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1
+2	happened	happened	VBD	pb=happen.01	0	root	_
+3	around	around	IN	p2=RB	2	prep	2:AM-TMP
+4	2:40	0	CD	_	5	num	_
+5	a.m.	a.m.	NN	p2=NNP	3	pobj	_
+6	Monday	monday	NNP	_	5	appos	_
+7	at	at	IN	_	2	prep	2:AM-LOC
+8	Roskam	roskam	NNP	_	9	nn	_
+9	Baking	baking	NNP	p2=VBG	7	pobj	_
+10	on	on	IN	_	2	prep	2:AM-LOC
+11	Broadmoor	broadmoor	NNP	_	12	nn	_
+12	Ave	ave	NNP	_	10	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	near	near	IN	p2=JJ	0	root	_
+2	52nd	#ord#	JJ	p2=NN	4	amod	_
+3	St.	st.	NNP	_	4	nn	_
+4	SE	se	NNP	_	1	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Crews	crew	NNS	_	2	nsubj	2:A0=PAG
+2	found	find	VBD	pb=find.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	fire	fire	NN	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	2	prep	2:AM-LOC
+6	one	#crd#	CD	_	5	pobj	_
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	10	det	_
+9	commercial	commercial	JJ	_	10	amod	_
+10	ovens	oven	NNS	_	7	pobj	_
+11	at	at	IN	_	10	prep	_
+12	the	the	DT	_	13	det	_
+13	facility	facility	NN	_	11	pobj	_
+14	.	.	.	_	2	punct	_
+
+1	There	there	EX	_	2	expl	_
+2	was	be	VBD	pb=be.02	0	root	_
+3	a	a	DT	_	4	det	_
+4	haze	haze	NN	_	2	attr	2:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	air	air	NN	_	5	pobj	_
+8	because	because	IN	_	2	prep	2:AM-CAU
+9	of	of	IN	_	8	pcomp	_
+10	the	the	DT	_	11	det	_
+11	fire	fire	NN	_	8	pobj	_
+12	when	when	WRB	_	15	advmod	15:R-AM-TMP
+13	they	they	PRP	_	15	nsubj	15:A1=PPT
+14	first	#ord#	RB	_	15	advmod	15:AM-TMP
+15	arrived	arrive	VBD	pb=arrive.01	11	rcmod	_
+16	.	.	.	_	2	punct	_
+
+1	Evacuated	evacuate	VBD	p2=JJ|pb=evacuate.01	2	amod	_
+2	employees	employee	NNS	_	0	root	1:A1=DIR
+3	outside	outside	IN	_	2	prep	_
+4	the	the	DT	_	7	det	_
+5	Roskam	roskam	NNP	p2=NN	6	nn	_
+6	Baking	baking	NNP	_	7	nn	_
+7	facility	facility	NN	_	3	pobj	_
+8	on	on	IN	_	7	prep	_
+9	Broadmoor	broadmoor	NNP	p2=JJ	10	nn	_
+10	Ave	ave	NNP	_	8	pobj	_
+11	.	.	.	_	2	punct	_
+
+1	following	follow	VBG	pb=follow.01	0	root	_
+2	an	an	DT	_	4	det	_
+3	oven	oven	JJ	p2=NN	4	amod	_
+4	fire	fire	NN	_	1	pobj	1:A2=PPT
+5	.	.	.	_	1	punct	_
+
+1	Employees	employee	NNS	_	6	nsubjpass	6:A1=DIR
+2	of	of	IN	_	1	prep	_
+3	the	the	DT	_	4	det	_
+4	bakery	bakery	NN	_	2	pobj	_
+5	were	be	VBD	_	6	auxpass	_
+6	evacuated	evacuate	VBN	pb=evacuate.01	0	root	_
+7	as	as	IN	_	6	prep	6:AM-PRD
+8	a	a	DT	_	9	det	_
+9	precaution	precaution	NN	_	7	pobj	_
+10	.	.	.	_	6	punct	_
+
+1	No	no	DT	_	2	det	_
+2	one	#crd#	NN	_	4	nsubjpass	4:A1=PPT
+3	was	be	VBD	_	4	auxpass	_
+4	injured	injure	VBN	pb=injure.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Firefighters	firefighter	NNS	p2=NNPS	2	nsubj	2:A0=PAG
+2	had	have	VBD	pb=have.03	0	root	_
+3	the	the	DT	_	5	det	_
+4	oven	oven	JJ	p2=VBN	5	amod	_
+5	fire	fire	NN	_	2	dobj	2:A1=PPT
+6	out	out	RP	p2=RB	5	prt	_
+7	about	about	IN	p2=RB	5	prep	_
+8	an	an	DT	_	9	det	_
+9	hour	hour	NN	_	7	pobj	_
+10	after	after	IN	_	12	mark	_
+11	they	they	PRP	_	12	nsubj	12:A1=PPT
+12	arrived	arrive	VBD	pb=arrive.01	2	advcl	2:AM-TMP
+13	.	.	.	_	2	punct	_
+
+1	Roskam	roskam	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	makes	make	VBZ	pb=make.01	0	root	_
+3	croutons	crouton	NNS	_	2	dobj	2:A1=PRD
+4	and	and	CC	_	3	cc	_
+5	other	other	JJ	_	7	amod	_
+6	baked	baked	JJ	p2=VBN	7	amod	_
+7	goods	good	NNS	_	3	conj	_
+8	for	for	IN	_	7	prep	_
+9	Rothbury	rothbury	NNP	_	10	nn	_
+10	Farms	farms	NNP	_	8	pobj	_
+11	.	.	.	_	2	punct	_
+

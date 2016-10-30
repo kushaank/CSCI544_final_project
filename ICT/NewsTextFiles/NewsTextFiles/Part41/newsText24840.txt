@@ -1,0 +1,30 @@
+
+And the company's research into pen-driven interfaces remains ongoing.
+
+Though the document has been removed from Microsoft's servers, Paul Thurrott took a lot of screenshots . The document shows a number of ways in which stylus/pen-based annotations can be used to enrich the Office experience: sketching diagrams, adding annotations, making notes, and so on. The Office apps serve as a backdrop for this experimentation, and unlike the poor touch features in Office 2013 , this time around, they appear to be true finger-driven applications.
+
+A video presentation accompanied the document. In it, William Vong of the Xbox team and Tucker Hatfield of the Office team described the Office apps as "early prototypes." The different apps look quite different from each other, with PowerPoint and Word having a different concept from Excel, and Outlook being completely different again. Notably, the PowerPoint picture looks very different from the touch PowerPoint briefly demoed at the Build conference earlier this year.
+
+The images also appear to be quite old. A few include the Windows Start screen, and they date back to the original Windows 8 start screen rather than 8.1 (the presence of the old Messenger app betrays their age).
+
+The research indicates that Microsoft still isn't giving up on pen computing. The company's long dependence on the stylus on both smartphone and tablet devices arguably limited their mass-market appeal and made Microsoft slow to make the shift toward finger-based interfaces. Even in the presentation, Hatfield notes how painful it is that Microsoft went from a pen-based leadership position to an also-ran.
+
+... is used to construct a reminder in Outlook.
+
+Angry Birds doesn't support ink directly, but the overlay layer is always available.
+
+Nonetheless, the pictures present a compelling picture of integrating pen input into the rest of the application. The concept moves away from Microsoft's old attempts to use the pen to drive the user interface, tapping buttons and so on, and instead uses the pen for what it is actually good at: laying down digital ink. Driving the interface would be the job for fingers, but the researchers envisage a kind of annotation layer above every application that can be used to sketch and write on. Some applications, such as Word, would recognize and preserve this layer. Others might not, but the inking could still be useful for making notes or other operations.
+
+There's also a depiction of what's codenamed Oz, a natural language command system for Office. In Excel, the user writes (in cursive script) "find images of saddles" and is shown a set of Bing image search results.
+
+Oz natural language commands.
+
+Oz natural language commands.
+
+The presentation makes mention of Microsoft's One Microsoft organization, suggesting that this research was a product of the company's newly collaborative structure.
+
+Peter Bright / Peter is Technology Editor at Ars. He covers Microsoft, programming and software development, Web technology and browsers, and security. He is based in Houston, TX.
+
+Don't have an Ars account? It’s fast and easy to register for one.
+
+If you don't have an account yet it's free and easy.

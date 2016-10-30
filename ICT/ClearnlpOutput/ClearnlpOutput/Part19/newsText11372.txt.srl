@@ -1,0 +1,14 @@
+1	You	you	PRP	_	5	nsubjpass	5:A1=PPT
+2	currently	currently	RB	_	5	advmod	5:AM-TMP
+3	are	be	VBP	_	5	auxpass	_
+4	not	not	RB	_	5	neg	5:AM-NEG
+5	logged	log	VBN	pb=log.01	9	ccomp	_
+6	in	in	RP	p2=IN	5	prt	5:C-V
+7	,	,	,	_	9	punct	_
+8	please	please	UH	p2=VB	9	intj	9:AM-DIS
+9	LOGIN	login	VB	p2=NNP|pb=login.01	0	root	_
+10	to	to	TO	p2=IN	11	aux	_
+11	post	post	VB	pb=post.01	9	xcomp	9:A1
+12	comments	comment	NNS	_	11	dobj	11:A1=PPT
+13	.	.	.	_	9	punct	_
+

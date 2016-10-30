@@ -1,0 +1,70 @@
+
+PCCare247 allegedly collected millions in ill-gotten fees. But the FTC fought back.
+
+Sitting in front of her PC, the phone in her hand connected to a tech support company half a world away, Sheryl Novick was about to get scammed.
+
+The company she had reached, PCCare247, was based in India but had built a lucrative business advertising over the Internet to Americans, encouraging them to call for tech support. After glimpsing something odd on her computer, Novick did so.
+
+“I saw some sort of pop-up and I don’t know if there’s a problem,” she told a PCCare247 tech named Yakeen. He offered to check the “management part” of her computer for possible problems.
+
+“This is very, very important part of the computer and it work like the human brain, all the major decision, all the action, all the result is taken by this management part,” Yakeen said in a strong accent relayed over a poor-quality phone line that sometimes made comprehension difficult. All he needed to run his test was total control of Novick's Windows computer.
+
+She agreed, downloading and installing a remote access tool. When it was in place, Yakeen reached out through the Internet, took control of Novick’s mouse cursor, and opened a program called Event Viewer. The scam was about to begin.
+
+Enlarge / The PCCare247 cricket team after a 2012 match.
+
+Event Viewer is a built-in Windows tool designed to make visible the millions of mostly unimportant background activities running beneath the hood of a modern computer. Few mainstream computer users have even heard of it, much less run Event Viewer of their own volition—which explains why few mainstream users would know that, in a system as complex as Windows, Event Viewer will always display errors, most of them trivial. Thus, should someone want to convince mainstream users that their computers are riddled with problems, Event Viewer is a reliable combination of the inscrutable and the terrifying.
+
+Yakeen showed Novick a series of bright red warning messages in her Event Viewer logs.
+
+“It has 30 errors,” he told her, while a separate subsection of Event Viewer showed 43 more. Based on these 73 problems, Yakeen formulated a quick and utterly improbable diagnosis for Novick’s problems.
+
+Leaving no time for Novick to raise questions about how obscure Windows errors might indicate the presence of terrorist hackers, Yakeen opened a command prompt on Novick’s machine and ran a text-based tool called “netstat.” Netstat shows all of a computer’s network connections, both inbound and outgoing, and in this case it showed a single established link—one that pointed outside the US.
+
+This was a brazen lie; forensic examination would later conclude that the single connection displayed by netstat was in fact the remote access tool that Yakeen was using at that moment to control Novick’s machine.
+
+“Now can you see the number of virus found in your computer?” Yakeen asked.
+
+“509 viruses?” Novick asked.
+
+PCCare247 said it was ready to "despise every technical folly ready to play mess with the lives of naïve techno greenhorns."
+
+All Novick needed was $400.
+
+“Is there any way to do it cheaper?” she asked.
+
+After a brief pause, the “accounts department” reduced the price to $360 and threw in three years of future tech support.
+
+Yakeen transferred her to the floor “accounts manager,” who offered a $300 plan that included two years of future tech support. Novick agreed and provided her credit card. She thanked PCCare247 for helping her out.
+
+Enlarge / The PCCare247 team in the office around Christmas.
+
+What Yakeen didn’t know was that Novick was actually a Federal Trade Commission (FTC) investigator who had been assigned to global “tech support scams.” She had recorded the entire encounter, which had been conducted using a clean PC located within an FTC lab.
+
+After the call, the FTC sent Civil Investigative Demands—requests for information—to just about every US company that had done any sort of business with PCCare247: banks, credit card processors, domain registrars, telephone companies, Facebook, Google, and Microsoft. In October 2012, after months of work, agency lawyers had finally assembled their case into a 15-page complaint against PCCare247 and its owner, Vikas Agrawal (sometimes spelled Agarwal).
+
+“The Defendants operate a massive scheme that tricks consumers into spending approximately $139-$360 to fix non-existent problems with their computers,” the complaint alleged.
+
+Those fees added up to serious revenue for PCCare247. In just one year, from October 2010 to September 2011, $4 million had been deposited in the two main PCCare247 bank accounts—and that was just from US residents.
+
+But PCCare247 went further, taking out ads on search terms like “mcafee phone number usa,” “norton customer service,” and “dell number for help.” The ads themselves said things like “McAfee Support - Call +1-855-[redacted US phone number]” and pointed to domains like mcafee-support.pccare247.com. As numerous complaints attest, less savvy computer users searching the Internet for specific tech support phone numbers would see PCCare247’s number near the top of their screens and assume that this was an official line.
+
+Enlarge / A sample PCCare247 ad.
+
+The tactic reached huge numbers of people. One PCCare247 ad account with Google produced 71.7 million impressions; another generated 12.4 million more. According to records obtained by the FTC, these combined campaigns generated 1.5 million clicks—a 1.8 percent clickthrough rate. Rather than cold-calling people—a preferred tactic of many tech support scammers—PCCare247 instead placed its ads and waited for the calls for help to roll in. The calls were forwarded to PCCare247’s operations in India, where people like Yakeen took over. Some may well have offered legitimate tech support, but even PCCare247 admits that not all did.
+
+Not surprisingly, this business model produced complaints. In New York, the state in which PCCare247 lists its US headquarters (in a virtual office), the Better Business Bureau gave the company an "F" after receiving 27 complaints.
+
+Over at the FTC, 300 complaints poured in to the agency’s Sentinel database . Reading through them serves as a reminder that most mainstream users have absolutely no idea how their computers work and that they will in fact seek out technical support when their speakers are on mute or when they can’t eject a CD from the drive.
+
+The companies processing financial transactions for PCCare247 were also unhappy with the constant stream of chargebacks and complaints. Vikas Agrawal had created many separate PayPal accounts, for instance, but at least three of them had been frozen and set to “Limited-High” status due to security concerns.
+
+PCCare247 faced a constant battle to accept payments, especially credit cards. The company eventually went to a US resident named Navin Pasari, who applied for at least 13 merchant accounts—many of which were declined upfront or cancelled later due to excessive chargebacks.
+
+Given this history, it wasn’t difficult for the FTC to obtain a temporary restraining order (TRO) against PCCare247, an order that made it all but impossible to do business in the US. Most of the company’s cash had already been transferred to Indian banks (only $1,700 was left in US accounts), where it would prove hard to reach, but the TRO did shut down the company’s domain name, local phone numbers, and credit card processing. New money would not be flowing.
+
+Enlarge / PCCare247 employees presenting flowers to Vikas Agrawal on his birthday.
+
+Don't have an Ars account? It’s fast and easy to register for one.
+
+If you don't have an account yet it's free and easy.

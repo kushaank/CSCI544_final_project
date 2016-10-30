@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Manickpur Police,book.01,old man,for,Affirmative,The Manickpur Police have booked a 31 - years - old man for allegedly driving his wife to suicide after he learnt about her affair with another man . 
+The Manickpur Police,drive.01,his wife,,Affirmative,The Manickpur Police have booked a 31 - years - old man for allegedly driving his wife to suicide after he learnt about her affair with another man . 
+The Manickpur Police,learn.01,about,,Affirmative,The Manickpur Police have booked a 31 - years - old man for allegedly driving his wife to suicide after he learnt about her affair with another man . 
+"The deceased ,",hang.01,Sushila Sutar,to death,Affirmative,"The deceased , Sushila Sutar , 28 , hanged herself to death in their residence at DG Nagar in Vasai West . "
+her brother,file.01,a police complaint,,Affirmative,It was her brother who filed a police complaint at the Manickpur station about the alleged torture and mental stress the woman had had to go through . 
+the woman,have.03,an affair with,,Affirmative,"The woman had an affair with a man residing in the same locality and the husband learnt about it , leading to petty fights and assault . "
+a man residing in,reside.01,in,,Affirmative,"The woman had an affair with a man residing in the same locality and the husband learnt about it , leading to petty fights and assault . "
+the husband,learn.01,about it,,Affirmative,"The woman had an affair with a man residing in the same locality and the husband learnt about it , leading to petty fights and assault . "
+"Gopal Sutar , 31 , a businessman , who allegedly tortured the woman",beat.03,his wife,,Affirmative,"A month back , Gopal Sutar beat his wife black and blue , said a Manickpur Police official . "
+Police official,say.01,Sutar beat,,Affirmative,"A month back , Gopal Sutar beat his wife black and blue , said a Manickpur Police official . "
+his wife black and blue,check.01,the call records,,Affirmative,We checked the call records and found that the woman was in regular touch with a man . 
+his wife black and blue,find.01,woman was in,,Affirmative,We checked the call records and found that the woman was in regular touch with a man . 
+a man,reveal.01,had had,,Affirmative,"When we interrogated him , he revealed that they both had had an affair . "
+they both,have.03,an affair,,Affirmative,"When we interrogated him , he revealed that they both had had an affair . "
+The brother of,register.02,a complaint,,Affirmative,"The brother of the deceased has registered a complaint , and we have registered a case under section 498 ( enticing or taking away or detaining with criminal intent a married woman ) , IPC sections 306 ( abetment to suicide ) , 323 ( voluntarily causing grievous hurt ) , 506 ( criminal intimidation ) , 504 ( intentional insult ) . "
+his wife black and blue,register.02,a case under section 498 (,,Affirmative,"The brother of the deceased has registered a complaint , and we have registered a case under section 498 ( enticing or taking away or detaining with criminal intent a married woman ) , IPC sections 306 ( abetment to suicide ) , 323 ( voluntarily causing grievous hurt ) , 506 ( criminal intimidation ) , 504 ( intentional insult ) . "
+his wife black and blue,arrest.01,"Gopal Sutar , 31 , a businessman , who allegedly tortured the woman",,Affirmative,"We will soon arrest Sutar , said Ashwini Patil , Investigation Officer , Manickpur station . "
+"Ashwini Patil ,",say.01,We will soon arrest Sutar,,Affirmative,"We will soon arrest Sutar , said Ashwini Patil , Investigation Officer , Manickpur station . "

@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( WSAZ ) -- Charleston City Council on Monday,approve.01,a grant application to,,Affirmative,( WSAZ ) -- Charleston City Council on Monday approved a grant application to the National Endowment for the Arts to to help fund a sculpture at the Charleston Town Center Mall . 
+a sculpture,serve.01,as,,Affirmative,"The grant is for partial funding of $ 10,000 for the sculpture to serve as a gateway to Charleston . "
+Manager David Molgaard,say.01,city is working,,Affirmative,City Manager David Molgaard said the city is working to try to bring more people to the Charleston area . 
+the city,work.01,to try,,Affirmative,City Manager David Molgaard said the city is working to try to bring more people to the Charleston area . 
+the city,try.01,to bring,,Affirmative,City Manager David Molgaard said the city is working to try to bring more people to the Charleston area . 
+the city,bring.01,more people,to,Affirmative,City Manager David Molgaard said the city is working to try to bring more people to the Charleston area . 
+City Manager David Molgaard,say.01,We have really been focusing on arts in Charleston,,Affirmative,"We have really been focusing on arts in Charleston , Molgaard said . "
+Something about,say.01,that we are,,Affirmative,"Something about the arts says that we are a vibrant city , and it attracts creative people , and it really makes it a place that people really want to be . "
+Something about the arts,attract.01,creative people,,Affirmative,"Something about the arts says that we are a vibrant city , and it attracts creative people , and it really makes it a place that people really want to be . "
+Something about the arts,make.02,it a place,,Affirmative,"Something about the arts says that we are a vibrant city , and it attracts creative people , and it really makes it a place that people really want to be . "
+creative people,want.01,to be,,Affirmative,"Something about the arts says that we are a vibrant city , and it attracts creative people , and it really makes it a place that people really want to be . "
+FestivALL,provide.01,"the other $ 10,000",,Affirmative,"FestivALL is providing the other $ 10,000 . "

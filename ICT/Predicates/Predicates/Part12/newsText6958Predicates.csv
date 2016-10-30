@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Raphael Garcia , 27 ,",lose.03,his job,,Affirmative,"Raphael Garcia , 27 , lost his job on March 12 , nearly five months after pleading no contest to leaving the scene of a crash with property damage , a second - degree misdemeanor . "
+"Raphael Garcia , 27 ,",plead.01,no contest,to leaving,Affirmative,"Raphael Garcia , 27 , lost his job on March 12 , nearly five months after pleading no contest to leaving the scene of a crash with property damage , a second - degree misdemeanor . "
+Internal Affairs,find.01,that Garcia had violated,,Affirmative,"Internal Affairs found that Garcia had violated several department policies , including conduct unbecoming an officer and lying during an internal investigation . "
+Raphael Garcia,violate.01,"several department policies , including conduct unbecoming",,Affirmative,"Internal Affairs found that Garcia had violated several department policies , including conduct unbecoming an officer and lying during an internal investigation . "
+Raphael Garcia,run.01,a stop sign in Davie,,Affirmative,"According to police and court records , Garcia ran a stop sign in Davie and crashed his Toyota Tundra truck into a Toyota Camry near Palm Trace Landings apartments at 2:42 a.m. Sept . "
+Raphael Garcia,crash.01,Tundra truck,,Affirmative,"According to police and court records , Garcia ran a stop sign in Davie and crashed his Toyota Tundra truck into a Toyota Camry near Palm Trace Landings apartments at 2:42 a.m. Sept . "
+Garcia,make.02,sure,,Affirmative,Garcia jumped out of his truck to make sure the driver of the Camry and her two passengers were not hurt . 
+He,flee.01,the scene,,Affirmative,"He then got back in his truck and fled the scene without exchanging information with the other driver , according to the Davie Police Department and the Broward State Attorney 's Office . "
+Attorney Timothy Donnelly,write.01,It is unknown,,Affirmative,"It is unknown whether alcohol contributed to this crash , as investigating officers did not make contact with defendant until days after the fact , when evidence of alcohol consumption would have disappeared , wrote Assistant State Attorney Timothy Donnelly in a memo dated Nov . "
+"Nina Patel ,",tell.01,that Garcia drove off,police,Affirmative,"Nina Patel , the driver of the Camry , told police that Garcia drove off while she was on the phone with 911 . "
+She,provided.01,the dispatcher,,Affirmative,She provided the dispatcher with Garcia 's tag number . 
+the Davie officer,respond.01,to,,Affirmative,"Chris Adams , the Davie officer who responded to the crash , told Internal Affairs he did not realize a fellow officer had been involved in the hit - and - run . "
+"Chris Adams ,",tell.01,he did not realize,Internal Affairs,Affirmative,"Chris Adams , the Davie officer who responded to the crash , told Internal Affairs he did not realize a fellow officer had been involved in the hit - and - run . "
+he,realize.01,officer had been involved in,,Affirmative,"Chris Adams , the Davie officer who responded to the crash , told Internal Affairs he did not realize a fellow officer had been involved in the hit - and - run . "
+Adams,tell.01,", I was",Internal Affairs,Affirmative,"It was late in the shift , I was just ready to go home at that point , Adams told Internal Affairs . "
+"Patel , 24 , and",tell.01,that Garcia never provided,police,Affirmative,"Patel , 24 , and her friends told police that Garcia never provided his phone number or any other information . "
+Raphael Garcia,provided.01,his phone number or,,Affirmative,"Patel , 24 , and her friends told police that Garcia never provided his phone number or any other information . "
+Raphael Garcia,call.01,the Davie Police Department,,Affirmative,"Three days later , Garcia called the Davie Police Department to say he was at fault in the accident , but claimed it was not a hit - and - run , records show . "
+Raphael Garcia,say.01,he was at fault,,Affirmative,"Three days later , Garcia called the Davie Police Department to say he was at fault in the accident , but claimed it was not a hit - and - run , records show . "
+Raphael Garcia,claim.01,it was not,,Affirmative,"Three days later , Garcia called the Davie Police Department to say he was at fault in the accident , but claimed it was not a hit - and - run , records show . "
+Raphael Garcia,tell.01,he exchanged information with Patel,police,Affirmative,"Garcia told police he exchanged information with Patel , but had misplaced the note and could not show a copy to investigators . "
+James Krey,exchange.01,information,,Affirmative,"Garcia told police he exchanged information with Patel , but had misplaced the note and could not show a copy to investigators . "
+"James Krey ,",back.04,his claim,,Affirmative,"Garcia told police that James Krey , a Davie officer who was in Garcia 's truck at the time of the crash , could back up his claim that he had exchanged information with the driver of the Camry . "
+he,exchange.01,information,,Affirmative,"Garcia told police that James Krey , a Davie officer who was in Garcia 's truck at the time of the crash , could back up his claim that he had exchanged information with the driver of the Camry . "
+Krey,say.01,Garcia come back to,,Affirmative,"Krey said Garcia come back to the truck with a piece of paper , but he did not see what was written on it . "
+Maiker Sanchez,see.01,what was written on it,,Affirmative,"Krey said Garcia come back to the truck with a piece of paper , but he did not see what was written on it . "
+Raphael Garcia,give.01,"Maiker Sanchez ,",,Affirmative,"Before the crash , Garcia had given Maiker Sanchez , another Davie officer , a ride home . "
+Sanchez,tell.01,that he could not recall,a prosecutor handling,Affirmative,Sanchez told a prosecutor handling the hit - and - run case that he could not recall whether Garcia had been drinking earlier that night . 
+a prosecutor handling,handle.01,case,,Affirmative,Sanchez told a prosecutor handling the hit - and - run case that he could not recall whether Garcia had been drinking earlier that night . 
+he,recall.02,whether Garcia had been drinking earlier,,Affirmative,Sanchez told a prosecutor handling the hit - and - run case that he could not recall whether Garcia had been drinking earlier that night . 
+Garcia,tell.01,he was sick,Internal Affairs,Affirmative,Garcia told Internal Affairs he was sick that night and had not been drinking . 

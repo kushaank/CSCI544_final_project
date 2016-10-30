@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Neighbors,say.01,they enjoy,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,enjoy.01,the quiet nature of,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,consider.01,a hidden gem of,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,say.01,"developed , it could destroy",,Affirmative,"They say if this 47 acre piece of land is developed , it could destroy their quality of life . "
+this 47 acre piece of land,destroy.01,their quality of life,,Affirmative,"They say if this 47 acre piece of land is developed , it could destroy their quality of life . "
+Neighbors,have.03,the lake,,Affirmative,We have the lake . 
+Neighbors,have.03,the woods and,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Leann Qualls . "
+Neighbors,feel.02,like that 's going,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Leann Qualls . "
+Leann Qualls,say.01,We have,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Leann Qualls . "
+a mayor 's job to support those things,bring.01,a lot of commerce and retail,to,Affirmative,This could bring a lot of commerce and retail to the city of Kingston . 
+Mayor Troy Beets,say.01,It 's,,Affirmative,"It 's a mayor 's job to support those things , said Mayor Troy Beets . "
+an undeveloped patch of land,separate.01,those people,from Interstate 40,Affirmative,"Their homes sit along the Clinch River with an undeveloped patch of land separating them from Interstate 40 , but a developer has plans for that land . "
+a developer,have.03,plans for,,Affirmative,"Their homes sit along the Clinch River with an undeveloped patch of land separating them from Interstate 40 , but a developer has plans for that land . "
+Neighbors,say.01,they enjoy,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,enjoy.01,the quiet nature of,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,consider.01,a hidden gem of,,Affirmative,Neighbors say they enjoy the quiet nature of what they consider a hidden gem of a neighborhood . 
+Neighbors,say.01,"developed , it could destroy",,Affirmative,"They say if this 47 acre piece of land is developed , it could destroy their quality of life . "
+this 47 acre piece of land,destroy.01,their quality of life,,Affirmative,"They say if this 47 acre piece of land is developed , it could destroy their quality of life . "
+Neighbors,describe.01,Haven subdivision in Kingston,"as peaceful , quiet and residential",Affirmative,"Neighbors describe the Wood Haven subdivision in Kingston as peaceful , quiet and residential , but residents like Leann Qualls believe that way of life could soon come to an end with new development plans proposed for the area . "
+residents like,believe.01,could soon come to,,Affirmative,"Neighbors describe the Wood Haven subdivision in Kingston as peaceful , quiet and residential , but residents like Leann Qualls believe that way of life could soon come to an end with new development plans proposed for the area . "
+Neighbors,have.03,the lake,,Affirmative,We have the lake . 
+Neighbors,have.03,the woods and,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Qualls . "
+Neighbors,feel.02,like that 's going,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Qualls . "
+Leann Qualls,say.01,We have,,Affirmative,"We have the woods and wonderful neighbors , and it 's just very quiet and tranquil here and we feel like that 's going to be at risk , said Qualls . "
+the developers,ask.02,to rezone,the city of Kingston,Affirmative,Developers are asking the city of Kingston to rezone the land from residential to commercial . 
+the city of Kingston,rezone.01,the land,from residential to commercial,Affirmative,Developers are asking the city of Kingston to rezone the land from residential to commercial . 
+City officials,believe.01,proposal could be,,Affirmative,City officials believe the proposal could be a game changer for Kingston . 
+This,bring.01,a lot of commerce and retail,to,Affirmative,This could bring a lot of commerce and retail to the city of Kingston . 
+Mayor Troy Beets,say.01,It 's,,Affirmative,"It 's a mayor 's job to support those things , said Mayor Troy Beets . "
+Neighbors,have.03,"a whole list of concerns including traffic ,",,Affirmative,"Neighbors have a whole list of concerns including traffic , bright lights and interstate noise . "
+"a whole list of concerns including traffic , bright lights and interstate noise",affect.01,the value of,,Affirmative,"It 's going to affect the value of our property , but the change in quality of life is of much more concern to me than loss of property value that 's going to result from it , said Browder Williams . "
+Browder Williams,say.01,It 's going,,Affirmative,"It 's going to affect the value of our property , but the change in quality of life is of much more concern to me than loss of property value that 's going to result from it , said Browder Williams . "
+Mayor Troy Beets,believe.01,meeting will address,,Affirmative,Mayor Beets believes the next planning commission meeting will address those concerns . 
+commission meeting,address.02,those concerns,,Affirmative,Mayor Beets believes the next planning commission meeting will address those concerns . 
+Browder Williams,believe.01,developers are going,,Affirmative,"I believe that the developers are going to do it in a way that those people back there are going to be as impacted less than they are by the noise from the steam plant , he said . "
+the developers,do.02,the next planning commission meeting,,Affirmative,"I believe that the developers are going to do it in a way that those people back there are going to be as impacted less than they are by the noise from the steam plant , he said . "
+Browder Williams,say.01,I believe,,Affirmative,"I believe that the developers are going to do it in a way that those people back there are going to be as impacted less than they are by the noise from the steam plant , he said . "
+residents like Leann Qualls,say.01,concern is,,Affirmative,Residents say their biggest concern is the possibility of a big box retail store in their backyard . 

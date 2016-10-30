@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+New Seward County,plan.01,to build,,Affirmative,"Seward County plans to build a new fire station in Kismet on a vacant lot , replacing the current south station , which has been deemed no longer suitable for a fire department . "
+New Seward County,build.01,a new fire station in Kismet,,Affirmative,"Seward County plans to build a new fire station in Kismet on a vacant lot , replacing the current south station , which has been deemed no longer suitable for a fire department . "
+New Seward County,replace.01,"the current south station ,",,Affirmative,"Seward County plans to build a new fire station in Kismet on a vacant lot , replacing the current south station , which has been deemed no longer suitable for a fire department . "
+fire department,look.04,to send out,,Affirmative,The county 's fire department is looking to send out a request for bids from general contractors for a structure to be located on property at 504 Locust in Kismet . 
+fire department,send.01,a request for bids from,,Affirmative,The county 's fire department is looking to send out a request for bids from general contractors for a structure to be located on property at 504 Locust in Kismet . 
+a new fire station in Kismet,have.03,an engine room with three,,Affirmative,"The new fire station will have an engine room with three back in bays , two restrooms , a meeting room and a maintenance / mechanical area . "
+Standard,say.01,building would be constructed with steel,,Affirmative,Standard said the desired building would be constructed with steel and be 66 feet by 86 feet with 14 - foot sidewalls . 
+The front of,face.01,east,,Affirmative,"The front of the building will face east and will have 30 - foot aprons / approaches the width of the building , Standard said . "
+The front of,have.03,foot aprons,,Affirmative,"The front of the building will face east and will have 30 - foot aprons / approaches the width of the building , Standard said . "
+Standard,say.01,/ approaches,,Affirmative,"The front of the building will face east and will have 30 - foot aprons / approaches the width of the building , Standard said . "
+County commissioners,hear.01,about,from Standard,Affirmative,"Seward County commissioners are scheduled to hear from Standard about the request , and the bid packet further details items such as building materials and who will be responsible for things like building plans . "
+the bid packet,state.01,bids for,,Affirmative,The packet likewise stated bids for the project must be received by 2 p.m. July 1 . 
+general contractors for a structure,seal.01,bids for the project,,Affirmative,Contractors are asked to seal bids in an envelope labeled Bid for New Seward County Fire Station and delivered to the Seward County Clerk 's office . 
+Plains Daily Leader and,reach.01,homes,,Affirmative,"The High Plains Daily Leader and Southwest Daily Times are published Sunday through Friday and reaches homes throughout the Liberal , Kansas retail trade zone . "

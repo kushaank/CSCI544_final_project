@@ -1,0 +1,34 @@
+1	Spero	spero	NNP	p2=CD	2	nn	_
+2	News	news	NNP	_	3	nn	_
+3	editor	editor	NN	_	5	nn	_
+4	Martin	martin	NNP	_	5	nn	_
+5	Barillas	barillas	NNP	_	6	nsubj	6:A1=PPT
+6	is	be	VBZ	pb=be.01	0	root	_
+7	a	a	DT	_	10	det	_
+8	former	former	JJ	_	10	amod	_
+9	US	us	NNP	_	10	nn	_
+10	diplomat	diplomat	NN	_	6	attr	14:A0=PAG;6:A2=PRD
+11	,	,	,	_	10	punct	_
+12	who	who	WP	_	14	nsubj	14:R-A0
+13	also	also	RB	_	14	advmod	14:AM-DIS
+14	worked	work	VBD	pb=work.01	10	rcmod	_
+15	as	as	IN	_	14	prep	14:A1=PPT
+16	a	a	DT	_	18	det	_
+17	democracy	democracy	NN	_	18	nn	_
+18	advocate	advocate	NN	_	15	pobj	_
+19	and	and	CC	_	18	cc	_
+20	election	election	NN	_	21	nn	_
+21	observer	observer	NN	_	18	conj	_
+22	in	in	IN	_	21	prep	_
+23	Latin	latin	NNP	_	24	nn	_
+24	America	america	NNP	_	22	pobj	_
+25	.	.	.	_	6	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	also	also	RB	_	2	advmod	2:AM-ADV
+4	a	a	DT	_	6	det	_
+5	freelance	freelance	NN	p2=JJ	6	nn	_
+6	translator	translator	NN	_	2	attr	2:A2=PRD
+7	.	.	.	_	2	punct	_
+

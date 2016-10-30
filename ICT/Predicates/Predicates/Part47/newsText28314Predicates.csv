@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A U.S. grand jury,accuse.01,five Chinese military officers,on,Affirmative,"In recent developments published in a report in Reuters on May 19 , A U.S. grand jury has accused five Chinese military officers on multiple grounds and hacking trade secrets of American companies . "
+A U.S. grand jury,hack.02,trade secrets of,,Affirmative,"In recent developments published in a report in Reuters on May 19 , A U.S. grand jury has accused five Chinese military officers on multiple grounds and hacking trade secrets of American companies . "
+by US,take.01,the toughest step against China,,Affirmative,This is now being counted as the toughest step against China taken by US on issues related to cyber spying . 
+China taken by US on issues related to cyber spying,deny.01,the charges indicted,,Affirmative,"China , on the other hand , has denied the charges indicted , saying these were made up and may damage the trust shared by both countries . "
+China taken by US on issues related to cyber spying,say.01,these were made up and,,Affirmative,"China , on the other hand , has denied the charges indicted , saying these were made up and may damage the trust shared by both countries . "
+by,share.01,the trust shared by,,Affirmative,"China , on the other hand , has denied the charges indicted , saying these were made up and may damage the trust shared by both countries . "
+The Chinese foreign ministry,confirm.01,that the Sino - U.S,,Affirmative,The Chinese foreign ministry has confirmed that the Sino - U.S . 
+the five Chinese suspects,target.01,companies,,Affirmative,"According to the report , the five Chinese suspects were targeting companies in Pittsburg , most being industries related to solar products , nuclear power , and metals . "
+The Department of,confirm.01,the companies,to be,Affirmative,"The Department of Justice officials has confirmed the companies to be United States Steel Corp , Alcoa Inc , Allegheny Technologies Inc , SolarWorld AG , Westinghouse Electric Co along with a steel workers union . "
+WikiLeaks,find.01,"Department cables ,",,Affirmative,"WikiLeaks had found Secret U.S. State Department cables , which showed huge system breaches by Chine back in 2011 . "
+"Department cables ,",show.01,huge system breaches,,Affirmative,"WikiLeaks had found Secret U.S. State Department cables , which showed huge system breaches by Chine back in 2011 . "
+the five indicted as Beijing,agree.01,to hand them over,,Affirmative,"However , U.S. authorities may not be able arrest the five indicted as Beijing might not agree to hand them over . "
+the five indicted as Beijing,hand.02,them,,Affirmative,"However , U.S. authorities may not be able arrest the five indicted as Beijing might not agree to hand them over . "
+experts,believe.01,there can be,,Affirmative,"Although , experts believe there can be much impact on others indicted of hacking U.S. companies . "

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a car jacking incident in,jack.01,incident,,Affirmative,A German tourist has been injured in a car jacking incident in Co Wicklow . 
+German,register.02,"registered Mercedes ,",,Affirmative,"She was one of two people in a German registered Mercedes , which stopped to assist at the scene of a road accident at Clara Vale in Rathdrum at around half past 2 this afternoon . "
+"registered Mercedes ,",stop.01,to assist at,,Affirmative,"She was one of two people in a German registered Mercedes , which stopped to assist at the scene of a road accident at Clara Vale in Rathdrum at around half past 2 this afternoon . "
+Gardaí,say.01,had collided,,Affirmative,"Gardaí said a bus and a black Volvo had collided , and when the German tourists stopped to lend assistance , their car was taken by the four men who had been travelling in the Volvo . "
+the German tourists ',stop.01,to lend assistance,,Affirmative,"Gardaí said a bus and a black Volvo had collided , and when the German tourists stopped to lend assistance , their car was taken by the four men who had been travelling in the Volvo . "
+the German tourists ',lend.01,assistance,,Affirmative,"Gardaí said a bus and a black Volvo had collided , and when the German tourists stopped to lend assistance , their car was taken by the four men who had been travelling in the Volvo . "
+by,take.01,a car jacking incident in Co Wicklow,,Affirmative,"Gardaí said a bus and a black Volvo had collided , and when the German tourists stopped to lend assistance , their car was taken by the four men who had been travelling in the Volvo . "
+the four men,travel.01,in,,Affirmative,"Gardaí said a bus and a black Volvo had collided , and when the German tourists stopped to lend assistance , their car was taken by the four men who had been travelling in the Volvo . "
+Gardaí,locate.02,car,,Affirmative,Gardaí have since located the German tourists ' car in Tullow in Co. Carlow . 

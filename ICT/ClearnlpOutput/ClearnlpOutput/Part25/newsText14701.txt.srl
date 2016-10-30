@@ -1,0 +1,154 @@
+1	An	an	DT	_	7	det	_
+2	18	0	CD	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	year	year	NN	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	old	old	JJ	_	7	amod	_
+7	man	man	NN	_	9	nsubjpass	16:A0=PAG;9:A1=PPT
+8	is	be	VBZ	_	9	auxpass	_
+9	expected	expect	VBN	pb=expect.01	19	ccomp	_
+10	at	at	IN	_	9	prep	9:AM-LOC
+11	the	the	DT	_	13	det	_
+12	Montreal	montreal	NNP	p2=JJ	13	nn	_
+13	courthouse	courthouse	NN	p2=NNP	10	pobj	_
+14	Monday	monday	NNP	_	9	npadvmod	9:AM-TMP
+15	to	to	TO	_	16	aux	_
+16	face	face	VB	pb=face.01	9	xcomp	9:C-A1
+17	charges after	charges after	NNP	p2=JJR	18	nn	_
+18	police	police	NNS	p2=NN	16	dobj	16:A1
+19	found	find	VBD	pb=find.01	0	root	_
+20	19	0	CD	_	23	num	_
+21	homemade	homemade	JJ	_	23	amod	_
+22	explosive	explosive	JJ	_	23	amod	_
+23	devices	device	NNS	_	19	dobj	19:A1=PPT
+24	in	in	IN	_	19	prep	19:AM-LOC
+25	his	his	PRP$	_	28	poss	_
+26	family's Ahuntsic	family's ahuntsic	JJ	p2=NN	28	hmod	_
+27	-	-	HYPH	p2=:	28	hyph	_
+28	Cartierville home	cartierville home	NNP	p2=NNPS	24	pobj	_
+29	.	.	.	_	19	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	person	person	NN	_	2	attr	2:A2=PRD
+5	close	close	JJ	_	4	amod	_
+6	to	to	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	suspect	suspect	NN	_	6	pobj	10:A0=PAG
+9	who	who	WP	_	10	nsubj	10:R-A0
+10	notified	notify	VBD	pb=notify.01	8	rcmod	_
+11	police	police	NNS	p2=NN	10	dobj	_
+12	about the	about the	DT	p2=VBD	13	det	_
+13	presence	presence	NN	_	10	dobj	10:A1=GOL
+14	of	of	IN	_	13	prep	_
+15	explosive	explosive	JJ	_	16	amod	_
+16	materials	material	NNS	_	14	pobj	_
+17	in	in	IN	_	10	prep	10:A2=PPT
+18	the	the	DT	_	19	det	_
+19	family	family	NN	_	21	poss	_
+20	's	's	POS	_	19	possessive	_
+21	triplex	triplex	NN	_	17	pobj	_
+22	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	man	man	NN	_	4	nsubjpass	_
+3	was	be	VBD	_	4	auxpass	_
+4	arrested	arrest	VBN	p2=JJ|pb=arrest.01	0	root	_
+5	downtown	downtown	NN	p2=RP	4	dobj	4:A1=PPT
+6	on	on	IN	_	4	prep	4:AM-TMP
+7	Saturday	saturday	NNP	_	6	pobj	_
+8	several	several	JJ	_	9	amod	_
+9	hours	hour	NNS	_	12	npadvmod	_
+10	after	after	IN	_	12	mark	_
+11	police	police	NN	p2=NNS	12	nsubj	12:A0=PAG
+12	began	begin	VBD	pb=begin.01	4	advcl	4:AM-TMP
+13	its	its	PRP$	_	16	poss	_
+14	operation	operation	NN	_	16	nn	_
+15	on Robertine Barry	on robertine barry	NNP	p2=IN	16	nn	_
+16	Street	street	NNP	_	12	dobj	12:A1=PPT
+17	near	near	IN	p2=RB	12	prep	12:AM-LOC
+18	Alice Nolin Street	alice nolin street	NNP	_	21	nn	_
+19	in Ahuntsic	in ahuntsic	NNP	p2=JJ	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	Cartierville	cartierville	NNP	_	17	pobj	_
+22	.	.	.	_	4	punct	_
+
+1	Specialists	specialist	NNS	_	6	nsubj	6:A0=PAG
+2	with	with	IN	_	1	prep	_
+3	the	the	DT	_	5	det	_
+4	Montreal	montreal	NNP	p2=JJ	5	nn	_
+5	police	police	NNS	p2=NN	2	pobj	_
+6	used	use	VBD	pb=use.01	0	root	_
+7	a	a	DT	_	11	det	_
+8	bomb	bomb	NN	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	defusing	defuse	VBG	p2=NN	11	amod	_
+11	robot	robot	NN	_	6	dobj	6:A1=PPT
+12	in	in	IN	_	6	prep	6:AM-LOC
+13	the	the	DT	_	17	det	_
+14	15	0	CD	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	hour	hour	NN	_	17	nn	_
+17	operation	operation	NN	_	12	pobj	_
+18	,	,	,	_	17	punct	_
+19	during	during	IN	_	25	prep	_
+20	which	which	WDT	_	19	pobj	_
+21	a	a	DT	_	22	det	_
+22	number	number	NN	_	25	nsubj	28:A1=DIR
+23	of	of	IN	_	22	prep	_
+24	homes	home	NNS	_	23	pobj	_
+25	had	have	VBD	pb=have.02	17	rcmod	_
+26	to	to	TO	_	28	aux	_
+27	be	be	VB	_	28	auxpass	_
+28	evacuated	evacuate	VBN	pb=evacuate.01	25	xcomp	_
+29	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	suspect is	suspect is	NNPS	p2=NNS	3	nsubj	3:A0=PAG;5:A0=PAG
+3	accused	accuse	VBD	p2=VBN|pb=accuse.01	0	root	_
+4	of	of	IN	_	3	prep	3:A2=PRD
+5	having	have	VBG	pb=have.03	4	pcomp	_
+6	explosive	explosive	JJ	_	7	amod	_
+7	materials	material	NNS	_	5	dobj	5:A1=PPT
+8	in	in	IN	_	5	prep	5:AM-LOC
+9	his	his	PRP$	_	10	poss	_
+10	possession	possession	NN	_	8	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	Get	get	VB	p2=VBP|pb=get.01	0	root	_
+2	top	top	JJ	_	3	amod	_
+3	stories	story	NNS	_	1	dobj	1:A1=PPT
+4	and	and	CC	_	3	cc	_
+5	blog	blog	NN	_	6	nn	_
+6	posts	post	NNS	_	3	conj	7:A1=PPT
+7	emailed	email	VBN	p2=VBD|pb=email.01	6	partmod	_
+8	to	to	IN	_	7	prep	7:A2=GOL
+9	me	me	PRP	_	8	pobj	_
+10	each	each	DT	_	11	det	_
+11	day	day	NN	_	7	npadvmod	7:AM-TMP
+12	..	..	.	p2=:	1	punct	_
+
+1	Use	use	VB	pb=use.01	0	root	_
+2	this	this	DT	_	3	det	_
+3	form	form	NN	_	1	dobj	1:A1=PPT
+4	to	to	TO	_	5	aux	_
+5	alert	alert	VB	pb=alert.01	1	xcomp	1:A2=PRP
+6	a	a	DT	_	8	det	_
+7	HuffPost	huffpost	NNP	p2=JJ	8	nn	_
+8	editor	editor	NN	_	5	dobj	5:A1=GOL
+9	about	about	IN	_	8	prep	_
+10	a	a	DT	_	14	det	_
+11	factual	factual	JJ	_	14	amod	_
+12	or	or	CC	_	11	cc	_
+13	typographical	typographical	JJ	_	11	conj	_
+14	error	error	NN	_	9	pobj	_
+15	in	in	IN	_	14	prep	_
+16	this	this	DT	_	17	det	_
+17	story	story	NN	_	15	pobj	_
+18	.	.	.	_	1	punct	_
+
+1	Thank	thank	VBP	pb=thank.01	0	root	_
+2	you	you	PRP	_	1	dobj	1:A1=PPT
+3	!	!	.	_	1	punct	_
+

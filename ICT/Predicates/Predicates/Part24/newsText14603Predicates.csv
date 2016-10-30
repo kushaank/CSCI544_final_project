@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Delaware woman,report.01,residence was burglarized twice in,,Affirmative,A Delaware woman reported her residence was burglarized twice in the same day last week . 
+A Delaware woman,report.01,her home,,Affirmative,The woman first reported her home in the first block of High Street was burglarized between 1 and 4 a.m. May 8 . 
+Someone,steal.01,a television worth,from,Affirmative,"Someone stole a television worth $ 1,000 from the residence , according to police reports . "
+someone,steal.01,a laptop computer valued at,,Affirmative,"At 8:30 p.m. that night at the same residence , someone stole a laptop computer valued at $ 1,400 , reports said . "
+police reports,say.01,", someone stole",,Affirmative,"At 8:30 p.m. that night at the same residence , someone stole a laptop computer valued at $ 1,400 , reports said . "
+police,say.01,crimes were classified as burglaries,,Affirmative,"The crimes were classified as burglaries , although there was no sign of forced entry at the scene , police said . "
+Other people,have.03,access to,,Affirmative,"Other people have access to the home , and the crime could be reclassified as a felony theft if one of those people committed the crime , police said . "
+one of,commit.02,the crime,,Affirmative,"Other people have access to the home , and the crime could be reclassified as a felony theft if one of those people committed the crime , police said . "
+police,say.01,people have access to,,Affirmative,"Other people have access to the home , and the crime could be reclassified as a felony theft if one of those people committed the crime , police said . "
+Police,have.03,a suspect in,,Affirmative,"Delaware police have a suspect in the case , but no charges have been filed , according to police reports . "
+A Delaware man,report.01,he was,,Affirmative,* A Delaware man reported he was the victim of a strong - arm robbery between 8 and 8:30 p.m. May 9 at a business in the 200 block of South Sandusky Street . 
+a suspect in the case,flee.01,the scene,,Affirmative,"The suspect fled the scene before police arrived , reports said . "
+police reports,say.01,suspect fled,,Affirmative,"The suspect fled the scene before police arrived , reports said . "
+Police,arrest.01,"Roy W. Hodge , 24 , of",,Affirmative,"Police arrested Roy W. Hodge , 24 , of North Clinton Street in Defiance , following the alleged incident , reports said . "
+police reports,say.01,Police arrested,,Affirmative,"Police arrested Roy W. Hodge , 24 , of North Clinton Street in Defiance , following the alleged incident , reports said . "
+Roy W. Hodge,face.01,a charge of robbery,,Affirmative,"Hodge faces a charge of robbery , a third - degree felony , reports said . "
+police reports,say.01,Hodge faces,,Affirmative,"Hodge faces a charge of robbery , a third - degree felony , reports said . "
+Police,respond.01,to,,Affirmative,* Delaware police responded to a report of theft from a vehicle that occurred between 6 a.m. and 2 p.m. May 11 in the 100 block of London Road . 
+An unknown suspect,steal.01,a purse valued at,from,Affirmative,"An unknown suspect stole a purse valued at $ 430 from an unlocked vehicle , according to reports . "
+Three people,report.01,residence was burglarized,,Affirmative,* Three people reported their residence was burglarized between 7 and 9:30 p.m. May 11 in the first block of Lexington Boulevard . 
+An unknown suspect,steal.01,"3,380 worth of jewelry , electronics and luggage from",,Affirmative,"An unknown suspect stole an estimated $ 3,380 worth of jewelry , electronics and luggage from the residence , according to police reports . "
+police reports,say.01,There were,,Affirmative,"There were no signs of forced entry , reports said . "
+Police,respond.01,to reports of,,Affirmative,* Police responded to reports of a burglary that occurred between 3 p.m. May 13 and 12:30 a.m. May 14 in the first block of Poplar Bend . 
+police reports,say.01,incident is inactive,,Affirmative,"The incident is inactive pending further investigation , reports said . "

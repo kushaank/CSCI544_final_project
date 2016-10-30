@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Prince Harry,take.01,part,in,Affirmative,Prince Harry has taken part in a memorial service 70 years on from one of the Second World War 's bloodiest battles . 
+Prince Harry,take.01,part,,Affirmative,"On the second day of a two - day visit to Italy , Harry took part in a procession and met veterans of the battle of Monte Cassino - a brutal clash which saw around thousands of Allied and Axis soldiers lose their lives . "
+Prince Harry,meet.02,veterans of,,Affirmative,"On the second day of a two - day visit to Italy , Harry took part in a procession and met veterans of the battle of Monte Cassino - a brutal clash which saw around thousands of Allied and Axis soldiers lose their lives . "
+a brutal clash,see.01,soldiers lose,,Affirmative,"On the second day of a two - day visit to Italy , Harry took part in a procession and met veterans of the battle of Monte Cassino - a brutal clash which saw around thousands of Allied and Axis soldiers lose their lives . "
+soldiers,lose.02,their lives,,Affirmative,"On the second day of a two - day visit to Italy , Harry took part in a procession and met veterans of the battle of Monte Cassino - a brutal clash which saw around thousands of Allied and Axis soldiers lose their lives . "
+"The prince ,",lay.01,a wreath,for,Affirmative,"The prince , who himself serves in the Household Cavalry , also laid a wreath for the British soldiers who died during the fight to take control of the strategically important monastery above the town of Cassino . "
+the British soldiers,take.01,control of,,Affirmative,"The prince , who himself serves in the Household Cavalry , also laid a wreath for the British soldiers who died during the fight to take control of the strategically important monastery above the town of Cassino . "
+Harry,take.01,part,,Affirmative,Harry taking part in the procession at the start of the commemoration service . 
+a number of,take.01,part,,Affirmative,"As well as British forces , a number of Commonwealth soldiers took part in the battle , along with forces from the USA , Poland , France royalist Italian troops . "
+France,royalist.01,Italian troops,,Affirmative,"As well as British forces , a number of Commonwealth soldiers took part in the battle , along with forces from the USA , Poland , France royalist Italian troops . "

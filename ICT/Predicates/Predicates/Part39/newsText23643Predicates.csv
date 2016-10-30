@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+"Terell Viera , 24 ,",face.01,murder charges,,Affirmative,"Terell Viera , 24 , was locked up on Rikers Island facing murder charges in January 2011 when he told his brother Shamar Viera , 26 , and pal Roger Freeman , 28 , to kill a witness set to testify against him . "
+"Terell Viera , 24",tell.01,to kill,his brother,Affirmative,"Terell Viera , 24 , was locked up on Rikers Island facing murder charges in January 2011 when he told his brother Shamar Viera , 26 , and pal Roger Freeman , 28 , to kill a witness set to testify against him . "
+his brother,kill.01,a witness set,,Affirmative,"Terell Viera , 24 , was locked up on Rikers Island facing murder charges in January 2011 when he told his brother Shamar Viera , 26 , and pal Roger Freeman , 28 , to kill a witness set to testify against him . "
+a witness set,testify.01,against him,,Affirmative,"Terell Viera , 24 , was locked up on Rikers Island facing murder charges in January 2011 when he told his brother Shamar Viera , 26 , and pal Roger Freeman , 28 , to kill a witness set to testify against him . "
+"his brother Shamar Viera , 26 , and pal Roger Freeman , 28",lure.01,a witness set to testify against him,to,Affirmative,Shamar Viera and Freeman lured the witness to the roof of a Brooklyn building the night before Terell Viera 's murder trial and shot him - but the witness lived . 
+"his brother Shamar Viera , 26 , and pal Roger Freeman , 28",shoot.02,Shamar Viera,,Affirmative,Shamar Viera and Freeman lured the witness to the roof of a Brooklyn building the night before Terell Viera 's murder trial and shot him - but the witness lived . 
+a witness,testify.01,against,,Affirmative,This was an attempted murder of a witness who testified against his brother . 
+Judge Albert Tomei,say.01,It 's,,Affirmative,"It 's an attack on our judicial system , Judge Albert Tomei said Monday in Brooklyn Supreme Court . "
+Tomei,hand.01,year sentence,,Affirmative,The 40 - year sentence Tomei handed down greatly exceeds even the 25 years to life sentence most often meted out for murder . 
+year sentence,exceed.01,even the 25 years to life sentence,,Affirmative,The 40 - year sentence Tomei handed down greatly exceeds even the 25 years to life sentence most often meted out for murder . 
+None of,express.01,remorse,,Affirmative,None of the three men spoke to express remorse before they were sentenced and none had any family or friends in court to support them . 
+none,have.03,any family or friends,,Affirmative,None of the three men spoke to express remorse before they were sentenced and none had any family or friends in court to support them . 
+none,support.01,them,,Affirmative,None of the three men spoke to express remorse before they were sentenced and none had any family or friends in court to support them . 
+prosecutor Melissa Carvajal,write.01,are despicable,,Affirmative,"The defendant 's actions of trying to silence a witness are despicable , prosecutor Melissa Carvajal wrote of Terell Viera in court papers . "
+the witness -,take.01,the stand in,,Affirmative,"Despite the near - deadly intimidation , the witness - whose name is being witheld by The Post - took the stand in Terell 's murder trial and then faced all three men in the 2014 attempted murder and witness intimidation trial . "
+the witness -,face.01,all three men,,Affirmative,"Despite the near - deadly intimidation , the witness - whose name is being witheld by The Post - took the stand in Terell 's murder trial and then faced all three men in the 2014 attempted murder and witness intimidation trial . "
+The Yankees,lead.01,the Angels 6-5,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+Mariano Rivera,blow.10,the save,,Affirmative,"The Yankees are leading the Angels 6-5 in the ninth , but Mariano Rivera blows the save . "
+"Jeter ,",hit.02,off single,,Affirmative,"Leave it to Jeter , who hits a walk - off single in the ninth inning for a 7-6 Yankees win . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

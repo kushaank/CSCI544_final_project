@@ -1,0 +1,137 @@
+1	By	by	IN	_	17	prep	_
+2	Bethany	bethany	NNP	p2=JJ	3	nn	_
+3	Wesley	wesley	NNP	_	1	pobj	_
+4	on	on	IN	_	17	prep	_
+5	May	may	NNP	_	4	pobj	_
+6	19	0	CD	_	5	num	_
+7	,	,	,	_	5	punct	_
+8	2014	0	CD	_	5	num	_
+9	at	at	IN	p2=CC	5	prep	_
+10	8:53	0	CD	_	11	num	_
+11	p.m.	p.m.	NN	p2=RB	12	nn	_
+12	BEMIDJI	bemidji	NNP	p2=NN	9	pobj	_
+13	--	--	:	_	17	punct	_
+14	John	john	NNP	_	15	nn	_
+15	Centko	centko	NNP	_	17	nsubj	17:A1=PPT
+16	is	be	VBZ	_	17	aux	_
+17	returning	return	VBG	pb=return.01	0	root	_
+18	to	to	IN	_	17	prep	17:A4=GOL
+19	his	his	PRP$	_	21	poss	_
+20	alma	alma	NN	p2=JJ	21	nn	_
+21	mater	mater	NN	_	18	pobj	_
+22	.	.	.	_	17	punct	_
+
+1	Centko	centko	NNP	p2=NN	16	nsubj	16:A0
+2	,	,	,	_	1	punct	_
+3	the	the	DT	_	5	det	_
+4	outgoing	outgoing	JJ	_	5	amod	_
+5	provost	provost	NN	_	1	appos	_
+6	and	and	CC	_	5	cc	_
+7	vice	vice	NN	_	8	nn	_
+8	president	president	NN	_	5	conj	_
+9	for	for	IN	_	8	prep	_
+10	Northwest	northwest	NNP	_	12	nn	_
+11	Technical	technical	NNP	_	12	nn	_
+12	College	college	NNP	_	9	pobj	_
+13	,	,	,	_	16	punct	_
+14	on	on	IN	_	16	prep	16:AM-TMP
+15	Monday	monday	NNP	_	14	pobj	_
+16	said	say	VBD	pb=say.01	0	root	_
+17	he	he	PRP	_	19	nsubj	19:A0=PAG
+18	has	have	VBZ	_	19	aux	_
+19	accepted	accept	VBN	pb=accept.01	16	ccomp	16:A1=PPT
+20	a	a	DT	_	21	det	_
+21	position	position	NN	_	19	dobj	19:A1=PPT
+22	at	at	IN	_	21	prep	_
+23	Northern	northern	NNP	_	24	nn	_
+24	Michigan	michigan	NNP	_	25	nn	_
+25	University	university	NNP	_	22	pobj	_
+26	in	in	IN	_	25	prep	_
+27	Marquette	marquette	NNP	_	26	pobj	_
+28	,	,	,	_	27	punct	_
+29	Mich	mich	NNP	_	27	appos	_
+30	.	.	.	_	16	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	bit	bit	NN	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	a	a	DT	_	7	det	_
+7	homecoming	homecoming	NN	_	5	pobj	_
+8	for	for	IN	_	7	prep	_
+9	Centko	centko	NNP	p2=NN	8	pobj	12:A0=PPT;19:A0=PAG
+10	,	,	,	_	9	punct	_
+11	who	who	WP	_	12	nsubj	12:R-A0;19:R-A0
+12	graduated	graduate	VBD	pb=graduate.01	9	rcmod	_
+13	from	from	IN	_	12	prep	12:A1=DIR
+14	NMU	nmu	NNP	_	13	pobj	_
+15	and	and	CC	_	12	cc	_
+16	in	in	IN	_	19	prep	19:AM-TMP
+17	the	the	DT	_	18	det	_
+18	past	past	NN	_	16	pobj	_
+19	worked	work	VBD	p2=VBN|pb=work.01	12	conj	_
+20	in	in	IN	_	19	prep	19:AM-LOC
+21	several	several	JJ	_	22	amod	_
+22	roles	role	NNS	_	20	pobj	_
+23	there	there	RB	_	22	advmod	_
+24	,	,	,	_	22	punct	_
+25	including	include	VBG	_	22	prep	_
+26	facilities	facility	NNS	_	27	nn	_
+27	management	management	NN	_	25	pobj	_
+28	.	.	.	_	2	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	TO	p2=VB	2	aux	_
+2	Activate	activate	VB	p2=NNP|pb=activate.01	0	root	_
+3	your	your	PRP$	_	4	poss	_
+4	account	account	NN	_	2	dobj	2:A1=PPT
+5	.	.	.	_	2	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	need	need	VB	pb=need.01	0	root	_
+4	your	your	PRP$	_	7	poss	_
+5	subscription account	subscription account	NN	p2=VB	6	nn	_
+6	number and phone	number and phone	NN	p2=JJ	7	nn	_
+7	number	number	NN	_	3	dobj	3:A1=PPT
+8	.	.	.	_	3	punct	_
+
+1	Not	not	RB	_	2	neg	_
+2	sure	sure	JJ	p2=RB	0	root	_
+3	if	if	IN	_	5	mark	_
+4	you	you	PRP	_	5	nsubj	5:A0=PAG
+5	have	have	VBP	pb=have.03	2	advcl	_
+6	an	an	DT	_	7	det	_
+7	account	account	NN	_	5	dobj	5:A1=PPT
+8	?	?	.	_	2	punct	_
+
+1	 	 	TO	p2=DT	2	aux	_
+2	Email	email	VB	pb=email.01	12	advcl	12:AM-PRP
+3	us	us	PRP	_	2	dobj	2:A2=GOL
+4	 or	 or	CC	p2=,	2	cc	_
+5	call	call	VB	p2=NN|pb=call.01	2	conj	_
+6	(	(	-LRB-	_	5	punct	_
+7	218	0	CD	p2=LS	5	dobj	_
+8	)	)	-RRB-	_	5	punct	_
+9	333-9200 and	0 and	NN	p2=CC	5	oprd	5:A2=PRD
+10	we	we	PRP	_	12	nsubj	12:A0=PAG
+11	can	can	MD	_	12	aux	12:AM-MOD
+12	help	help	VB	pb=help.01	0	root	_
+13	you	you	PRP	_	12	dobj	12:A1=PPT
+14	.	.	.	_	12	punct	_
+

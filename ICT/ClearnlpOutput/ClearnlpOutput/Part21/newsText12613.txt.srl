@@ -1,0 +1,101 @@
+1	Copyright	copyright	NN	p2=NNP	2	nsubj	2:A0
+2	©	©	VBD	p2=IN|pb=©.01	0	root	_
+3	2014	0	CD	_	4	num	_
+4	Microsoft	microsoft	NNP	p2=NN	2	dobj	2:A1
+5	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	Fundamental	fundamental	JJ	_	3	amod	_
+2	company	company	NN	_	3	nn	_
+3	data	datum	NNS	p2=NN	0	root	_
+4	and	and	CC	_	3	cc	_
+5	historical	historical	JJ	_	7	amod	_
+6	chart	chart	NN	_	7	nn	_
+7	data	datum	NNS	p2=NN	3	conj	8:A1
+8	provided	provided	VBN	pb=provide.01	7	partmod	_
+9	by	by	IN	_	8	agent	8:A0
+10	Morningstar	morningstar	NNP	_	11	nn	_
+11	Inc	inc	NNP	_	9	pobj	_
+12	.	.	.	_	3	punct	_
+
+1	Real	real	JJ	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	time	time	NN	_	5	nn	_
+4	index	index	NN	_	5	nn	_
+5	quotes	quote	NNS	p2=VBZ	0	root	_
+6	and	and	CC	_	5	cc	_
+7	delayed	delay	VBN	p2=VBD|pb=delay.01	8	amod	_
+8	quotes	quote	NNS	_	5	conj	7:A1=PPT
+9	supplied	supply	VBN	pb=supply.01	8	partmod	_
+10	by	by	IN	_	9	agent	9:A0=PAG
+11	Morningstar	morningstar	NNP	_	12	nn	_
+12	Inc	inc	NNP	_	10	pobj	_
+13	.	.	.	_	8	punct	_
+
+1	Quotes	quote	NNS	p2=VBZ	2	nsubj	2:A1=PPT
+2	delayed	delay	VBN	pb=delay.01	0	root	_
+3	by	by	IN	p2=RB	2	prep	2:AM-TMP
+4	up	up	IN	_	6	quantmod	_
+5	to	to	TO	p2=IN	6	quantmod	_
+6	15	0	CD	_	7	num	_
+7	minutes	minute	NNS	_	3	pobj	_
+8	,	,	,	_	2	punct	_
+9	except	except	IN	_	2	prep	_
+10	where	where	WRB	_	11	advmod	11:R-AM-LOC
+11	indicated	indicate	VBD	p2=VBN|pb=indicate.01	9	pcomp	_
+12	otherwise	otherwise	RB	_	11	advmod	11:A1=PPT
+13	.	.	.	_	2	punct	_
+
+1	Fund	fund	JJ	p2=NNP	2	amod	_
+2	summary	summary	NN	_	0	root	_
+3	,	,	,	_	2	punct	_
+4	fund	fund	NN	_	5	nn	_
+5	performance	performance	NN	_	2	conj	_
+6	and	and	CC	_	5	cc	_
+7	dividend	dividend	NN	_	8	nn	_
+8	data	datum	NNS	p2=NN	5	conj	9:A1
+9	provided	provided	VBN	pb=provide.01	8	partmod	_
+10	by	by	IN	_	9	agent	9:A0
+11	Morningstar	morningstar	NNP	_	12	nn	_
+12	Inc	inc	NNP	_	10	pobj	_
+13	.	.	.	_	2	punct	_
+
+1	Analyst	analyst	JJ	p2=NNP	2	amod	_
+2	recommendations	recommendation	NNS	_	0	root	3:A1
+3	provided	provided	VBN	pb=provide.01	2	partmod	_
+4	by	by	IN	_	3	agent	3:A0
+5	Zacks	zacks	NNP	p2=NNPS	7	nn	_
+6	Investment	investment	NNP	_	7	nn	_
+7	Research	research	NNP	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	StockScouter	stockscouter	JJR	p2=NN	2	amod	_
+2	data	datum	NNS	p2=NN	0	root	3:A1
+3	provided	provided	VBN	pb=provide.01	2	partmod	_
+4	by	by	IN	_	3	agent	3:A0
+5	Verus	verus	NNP	_	6	nn	_
+6	Analytics	analytics	NNP	p2=NNPS	4	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	IPO	ipo	NN	p2=CD	2	nn	_
+2	data	datum	NNS	p2=NN	0	root	3:A1
+3	provided	provided	VBN	pb=provide.01	2	partmod	_
+4	by	by	IN	_	3	agent	3:A0
+5	Hoover	hoover	NNP	_	7	poss	_
+6	's	's	POS	_	5	possessive	_
+7	Inc	inc	NNP	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Index	index	NN	p2=NNP	2	nn	_
+2	membership	membership	NN	_	3	nn	_
+3	data	datum	NNS	p2=NN	0	root	4:A1
+4	provided	provided	VBN	pb=provide.01	3	partmod	_
+5	by	by	IN	_	4	agent	4:A0
+6	Morningstar	morningstar	NNP	_	7	nn	_
+7	Inc	inc	NNP	_	5	pobj	_
+8	.	.	.	_	3	punct	_
+

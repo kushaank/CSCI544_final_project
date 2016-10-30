@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Ads,help.01,vault,,Affirmative,Ads likely helped vault Tom Wolf to the top . 
+Ads,vault.01,Tom Wolf,to,Affirmative,Ads likely helped vault Tom Wolf to the top . 
+one,show.01,money can be in politics,,Affirmative,"There are a host of primaries on Tuesday in states across the country , but for one that shows just how effective money can be in politics , look no further than Pennsylvania . "
+Four Democrats,compete.01,to run against,,Affirmative,"Four Democrats are competing to run against Republican Gov. Tom Corbett , widely thought to be one of the most vulnerable incumbents in the country this election year . "
+Four Democrats,run.02,against,,Affirmative,"Four Democrats are competing to run against Republican Gov. Tom Corbett , widely thought to be one of the most vulnerable incumbents in the country this election year . "
+Voters,like.01,how Corbett has handled,,Affirmative,"If voters do n't like how Corbett has handled the state , Democrats have an answer for how they would change things . "
+Tom Corbett,handle.01,the state 's,,Affirmative,"If voters do n't like how Corbett has handled the state , Democrats have an answer for how they would change things . "
+Four Democrats,have.03,an answer for,,Affirmative,"If voters do n't like how Corbett has handled the state , Democrats have an answer for how they would change things . "
+Voters,change.01,things,,Affirmative,"If voters do n't like how Corbett has handled the state , Democrats have an answer for how they would change things . "
+They all,want.01,more education spending,,Affirmative,"They all want more education spending , they all want a severance tax on the natural gas industry , they all want more environmental regulations on the industry . "
+they all,want.01,a severance tax on,,Affirmative,"They all want more education spending , they all want a severance tax on the natural gas industry , they all want more environmental regulations on the industry . "
+they all,want.01,more environmental regulations on,,Affirmative,"They all want more education spending , they all want a severance tax on the natural gas industry , they all want more environmental regulations on the industry . "
+the Democratic challengers,try.01,to differentiate themselves and bring down Wolf at,,Affirmative,"Little has changed since then , though the Democratic challengers have tried to differentiate themselves and bring down Wolf at the same time . "
+the Democratic challengers,differentiate.01,the Democratic challengers,,Affirmative,"Little has changed since then , though the Democratic challengers have tried to differentiate themselves and bring down Wolf at the same time . "
+the Democratic challengers,bring.01,Wolf,,Affirmative,"Little has changed since then , though the Democratic challengers have tried to differentiate themselves and bring down Wolf at the same time . "
+Rob McCord,spend.01,on,,Affirmative,Wolf has spent an estimated $ 1 million a week on television ads . 
+Rob McCord,build.01,this huge lead,,Affirmative,"He built this huge lead and he 's maintained it despite repeated efforts to bring him down , Madonna said . "
+Rob McCord,maintain.01,this huge lead,,Affirmative,"He built this huge lead and he 's maintained it despite repeated efforts to bring him down , Madonna said . "
+Madonna,say.01,He built,,Affirmative,"He built this huge lead and he 's maintained it despite repeated efforts to bring him down , Madonna said . "
+"treasurer Rob McCord ,",spend.01,on,,Affirmative,"Wolf is up against state treasurer Rob McCord , who spent nearly $ 8 million on his campaign ; U.S. Rep. Allyson Schwartz , who has spent $ 7.5 million of the $ 8.8 million she 's raised ;  and former state environmental protection secretary Katie McGinty , who has spent about $ 500,000 . "
+"Linda McMahon ,",try.01,to win,,Affirmative,"Linda McMahon , a Connecticut Republican , spent about $ 100 million of her own money in 2010 and 2012 trying to win a race for U.S. Senate . "
+Linda McMahon,give.01,a kinship with,her,Affirmative,"She was not elected either time , giving her a kinship with California 's Meg Whitman , who spent $ 144 million of her own money -- and $ 33 million raised from others -- in her unsuccessful bid for governor in 2010 . "

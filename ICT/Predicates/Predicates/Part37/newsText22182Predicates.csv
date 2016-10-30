@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Court officials,begin.01,preparations for,,Affirmative,"Guam - In anticipation of one of the most high profile cases of the year , Superior Court officials are beginning preparations for the trial of accused murderer Chad DeSoto , a trial that is expected to last 6 to 8 weeks with over 100 potential witnesses , more than 20 of whom will be flown in from off - island . "
+Superior Court officials,look.01,trial will probably take,,Affirmative,We 're looking that this trial will probably take about 6-8 weeks . 
+Desoto 's trial,take.10,6-8 weeks,,Affirmative,We 're looking that this trial will probably take about 6-8 weeks . 
+ I,think.01,government had filed,,Affirmative," I think now that the government had filed 138 potential witnesses , while the defense filed 30 potential witnesses ... "
+the government,file.01,138 potential witnesses,,Affirmative," I think now that the government had filed 138 potential witnesses , while the defense filed 30 potential witnesses ... "
+the defense,file.01,30 potential witnesses,,Affirmative," I think now that the government had filed 138 potential witnesses , while the defense filed 30 potential witnesses ... "
+ I,want.01,you to know,,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+you,know.01,I think,,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+I,think.01,it 'll take us,,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+to select,take.10,us,2 weeks,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+us,select.01,"the jury ,",,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+Judge Sukola,say.01, I just want,,Affirmative," I just want you to know I think it 'll take us about 2 weeks to select the jury , maybe less , says Judge Sukola . "
+General Phil Tydingco,say.01,office will narrow down,,Affirmative,Deputy Attorney General Phil Tydingco says the AG 's office will narrow down its witness list but that number wo n't be finalized until the end of this week . 
+office,narrow.01,its witness list,,Affirmative,Deputy Attorney General Phil Tydingco says the AG 's office will narrow down its witness list but that number wo n't be finalized until the end of this week . 
+We,lock.01,them,,Affirmative,We have locked them in to arrive on island . 
+Miller,say.01,Blinder will be ready,,Affirmative,"Dr. Blinder will be ready to testify on July 9 , Dr. Fukataki on July 8 , Miller says . "
+I,say.01,", I would begin scheduling flying in",,Affirmative,"I would say that as soon as we 're done selecting the jury , I would begin scheduling flying in the Japanese witnesses , Tydingco then stated . "
+we,select.01,the jury,,Affirmative,"I would say that as soon as we 're done selecting the jury , I would begin scheduling flying in the Japanese witnesses , Tydingco then stated . "
+I,begin.01,scheduling,,Affirmative,"I would say that as soon as we 're done selecting the jury , I would begin scheduling flying in the Japanese witnesses , Tydingco then stated . "
+Tydingco,state.01,I would say,,Affirmative,"I would say that as soon as we 're done selecting the jury , I would begin scheduling flying in the Japanese witnesses , Tydingco then stated . "
+court officials,meet.03,with,,Affirmative,"In anticipation of a packed courtroom with international media presence , court officials also met with the local media . "
+Spokesman Josh Tenorio,say.01,goal is,,Affirmative,Court Spokesman Josh Tenorio says the Judiciary 's goal is to ensure accessibility without disruption of ongoing court proceedings . 
+He,note.01,will be flying to Guam,,Affirmative,He notes that about 15 people from the Japanese media will be flying to Guam for Desoto 's trial . 
+Chad DeSoto,drive.01,his car,,Affirmative,"DeSoto is accused of driving his car in a crowded Tumon sidewalk , crashing into the Outrigger 's ABC Store then jumping out and stabbing people at random . "
+DeSoto,plead.02,not guilty and,,Affirmative,DeSoto pleaded not guilty and not guilty by reason of insanity . 

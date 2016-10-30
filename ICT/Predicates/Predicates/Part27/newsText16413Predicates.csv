@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+FOX45,host.01,a national Town Hall,,Affirmative,"On Tuesday , August 26 FOX45 will host a national Town Hall on the tensions in Ferguson , MO . "
+by police,kill.01,"son ,",,Affirmative,"Marcella Holloman 's son , who was diagnosed with a mental illness , was killed by police two years ago and says she still questions the department 's policies . "
+"son ,",say.01,she still questions,,Affirmative,"Marcella Holloman 's son , who was diagnosed with a mental illness , was killed by police two years ago and says she still questions the department 's policies . "
+Marcella Holloman 's,question.01,policies,,Affirmative,"Marcella Holloman 's son , who was diagnosed with a mental illness , was killed by police two years ago and says she still questions the department 's policies . "
+Maurice Johnson,have.03,big plans,,Affirmative,"Maurice Johnson had big plans to move to Las Vegas and one day get married , but that all changed two years ago . "
+Marcella Holloman 's,know.01,son had been diagnosed with,,Affirmative,Marcella Holloman knew her son had been diagnosed with bipolar disorder and had called the police for help in the past . 
+Marcella Holloman 's son,call.01,the police,,Affirmative,Marcella Holloman knew her son had been diagnosed with bipolar disorder and had called the police for help in the past . 
+Marcella Holloman 's,call.02,police,,Affirmative,"So when Maurice became combative that day , she called police . "
+Marcella Holloman 's,say.01,son had,,Affirmative,"I said my son had mental illness when I made the 911 call , Holloman said . "
+Marcella Holloman 's son,have.03,mental illness,,Affirmative,"I said my son had mental illness when I made the 911 call , Holloman said . "
+Marcella Holloman 's,say.01,I said,,Affirmative,"I said my son had mental illness when I made the 911 call , Holloman said . "
+Police,shoot.02,Maurice Johnson,,Affirmative,Police shot Maurice several times after they say he reached for their gun . 
+they,say.01,he reached for,,Affirmative,Police shot Maurice several times after they say he reached for their gun . 
+Marcella Holloman 's,say.01,she still questions,,Affirmative,"While the officers were cleared of their wrongdoing , Holloman says she still questions the officer 's actions and how they carried out the department 's policies and procedures . "
+Marcella Holloman 's,question.01,actions,,Affirmative,"While the officers were cleared of their wrongdoing , Holloman says she still questions the officer 's actions and how they carried out the department 's policies and procedures . "
+the officers,carry.03,policies and procedures,,Affirmative,"While the officers were cleared of their wrongdoing , Holloman says she still questions the officer 's actions and how they carried out the department 's policies and procedures . "
+recruits,teach.01,to approach and handle,them,Affirmative,"Since 2009 , there had been mandatory training for recruits to teach them how to approach and handle a mental health crisis . "
+recruits,handle.01,a mental health crisis,,Affirmative,"Since 2009 , there had been mandatory training for recruits to teach them how to approach and handle a mental health crisis . "
+Alaska,use.01,some,,Affirmative,"JUNEAU , Alaska ( AP ) -- Maybe police in Juneau , Alaska could have used some back up from Luke Skywalker when a call came in to check out a suspicious device on the side of a road . "
+a call,check.01,a suspicious device,,Affirmative,"JUNEAU , Alaska ( AP ) -- Maybe police in Juneau , Alaska could have used some back up from Luke Skywalker when a call came in to check out a suspicious device on the side of a road . "
+a move,shave.01,its tax bill,,Affirmative,"MIAMI ( AP ) -- Burger King is in talks to buy doughnut chain Tim Hortons and create a new holding company headquartered in Canada , a move that could shave its tax bill . "

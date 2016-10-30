@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+a student,bring.01,a relic grenade,to school,Affirmative,"A school in Montclair , New Jersey was evacuated Monday afternoon , after a student brought a relic grenade to school . "
+a teacher,bring.01,a training device,to,Affirmative,"The Charles H. Bullock school was evacuated at about 2:30 p.m. , when a teacher brought the grenade to the principal 's office stating a student had brought it to school . "
+office stating,state.01,a student,,Affirmative,"The Charles H. Bullock school was evacuated at about 2:30 p.m. , when a teacher brought the grenade to the principal 's office stating a student had brought it to school . "
+the principal 's,call.01,office and,,Affirmative,"The principal called the school superintendent 's office and the police , and the police requested an evacuation . "
+the police,request.01,an evacuation,,Affirmative,"The principal called the school superintendent 's office and the police , and the police requested an evacuation . "
+"Police , firefighters and",clear.01,the building,,Affirmative,"Police , firefighters and the bomb squad came and cleared the building . "
+Authorities,indicate.01,grenade was,,Affirmative,"Authorities indicated the grenade was a training device , or a ' dummy ' . "

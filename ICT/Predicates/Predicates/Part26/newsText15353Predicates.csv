@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Supreme Court,allow.01,the former editor of,,Affirmative,India 's Supreme Court has allowed the former editor of a news magazine who is charged with raping a female colleague to attend his mother 's funeral . 
+a news magazine,rape.01,a female colleague,,Affirmative,India 's Supreme Court has allowed the former editor of a news magazine who is charged with raping a female colleague to attend his mother 's funeral . 
+a female colleague,attend.01,funeral,,Affirmative,India 's Supreme Court has allowed the former editor of a news magazine who is charged with raping a female colleague to attend his mother 's funeral . 
+Mr Tejpal 's,deny.01,the charges,,Affirmative,He denies the charges . 
+His unnamed accuser,allege.01,that he assaulted her at,,Affirmative,His unnamed accuser has alleged that he assaulted her at an event organised by Tehelka in Goa in November last year . 
+Mr Tejpal 's,assault.01,His unnamed accuser,,Affirmative,His unnamed accuser has alleged that he assaulted her at an event organised by Tehelka in Goa in November last year . 
+by Tehelka,organize.01,an event organised by Tehelka,,Affirmative,His unnamed accuser has alleged that he assaulted her at an event organised by Tehelka in Goa in November last year . 
+Legal experts,say.01,Tejpal could be sentenced to,,Affirmative,"Legal experts say if found guilty , Mr Tejpal could be sentenced to at least seven years in jail . "
+prosecutors,file.01,the charges,,Affirmative,"In February , prosecutors filed charges , running to nearly 2,700 pages , in a court in Goa , which has repeatedly denied him bail . "
+prosecutors,run.02,to,,Affirmative,"In February , prosecutors filed charges , running to nearly 2,700 pages , in a court in Goa , which has repeatedly denied him bail . "
+mother,suffer.01,from,,Affirmative,"Mr Tejpal 's mother Shakuntala Tejpal , who was suffering from a brain tumour , died on Sunday evening , reports quoting his lawyer Sandip Kapoor said . "
+Press Trust of India,quote.01,Mr Kapoor,as saying,Affirmative,"The decision is yet to be taken whether the final rites would be conducted in Goa or Delhi , Press Trust of India quoted Mr Kapoor as saying . "
+critics,accuse.01,magazine - one of,,Affirmative,"After Mr Tejpal was accused of rape , critics accused Tehelka magazine - one of India 's top investigative titles , which has exposed gender inequality and officially - sanctioned misogyny - of hypocrisy and double standards . "
+"top investigative titles ,",expose.01,gender inequality and,,Affirmative,"After Mr Tejpal was accused of rape , critics accused Tehelka magazine - one of India 's top investigative titles , which has exposed gender inequality and officially - sanctioned misogyny - of hypocrisy and double standards . "
+The case,have.03,particular resonance,,Affirmative,The case has particular resonance because it comes amid a debate about attitudes to sexual violence in India after the brutal gang rape and murder of a woman in Delhi in December 2012 . 

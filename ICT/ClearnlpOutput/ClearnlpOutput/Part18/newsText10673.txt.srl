@@ -1,0 +1,237 @@
+1	The	the	DT	_	3	det	_
+2	fourth	#ord#	JJ	_	3	amod	_
+3	round	round	NN	_	0	root	_
+4	of	of	IN	_	3	prep	_
+5	negotiations	negotiation	NNS	_	4	pobj	_
+6	between Iran and	between iran and	IN	p2=VBP	5	prep	_
+7	the	the	DT	_	9	det	_
+8	P5+1	p5+1	NNP	p2=NN	9	nn	_
+9	group	group	NN	_	6	pobj	_
+10	of	of	IN	_	9	prep	_
+11	world	world	NN	_	12	nn	_
+12	powers	power	NNS	_	10	pobj	13:A1=PPT
+13	aimed	aim	VBN	pb=aim.02	12	partmod	_
+14	at	at	IN	_	13	prep	13:A2=GOL
+15	reaching	reach	VBG	pb=reach.01	14	pcomp	_
+16	a	a	DT	_	18	det	_
+17	permanent	permanent	JJ	_	18	amod	_
+18	settlement	settlement	NN	_	15	dobj	15:A1=GOL
+19	to	to	IN	_	18	prep	_
+20	Tehran	tehran	NNP	_	24	poss	_
+21	's	's	POS	_	20	possessive	_
+22	controversial	controversial	JJ	_	24	amod	_
+23	nuclear	nuclear	JJ	_	24	amod	_
+24	program	program	NN	_	19	pobj	25:A1
+25	had ended	had ended	VBN	p2=VBD|pb=had ended.01	24	partmod	_
+26	on	on	IN	_	25	prep	25:AM-TMP
+27	Friday	friday	NNP	_	26	pobj	_
+28	with	with	IN	_	25	prep	25:A2
+29	no	no	DT	_	30	det	_
+30	signs	sign	NNS	_	28	pobj	_
+31	of	of	IN	_	30	prep	_
+32	progress	progress	NN	_	31	pobj	_
+33	.	.	.	_	3	punct	_
+
+1	Officials	official	NNS	_	2	nsubj	2:A0
+2	said that	said that	VBP	p2=VBD|pb=said that.01	0	root	_
+3	no	no	DT	_	4	det	_
+4	agreement	agreement	NN	_	7	nsubjpass	7:A1=GOL
+5	had	have	VBD	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	reached	reach	VBN	pb=reach.01	2	ccomp	2:A1
+8	after	after	IN	_	7	prep	7:AM-TMP
+9	the four	the four	PRP$	p2=JJ	10	poss	_
+10	days	day	NNS	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	negotiations	negotiation	NNS	_	13	nn	_
+13	in Vienna	in vienna	NNP	p2=NNS	11	pobj	16:A1
+14	,	,	,	_	13	punct	_
+15	which	which	WDT	_	16	nsubj	16:R-A1
+16	were headed	were headed	VBD	pb=were headed.01	13	rcmod	_
+17	by	by	IN	_	16	prep	16:A2
+18	the	the	DT	_	19	det	_
+19	EU	eu	NNP	_	22	poss	_
+20	's	's	POS	_	19	possessive	_
+21	High	high	NNP	p2=JJ	22	nn	_
+22	Representative	representative	NNP	_	17	pobj	_
+23	for	for	IN	_	22	prep	_
+24	Foreign	foreign	NNP	_	25	nn	_
+25	Affairs	affair	NNPS	_	23	pobj	_
+26	and	and	CC	_	25	cc	_
+27	Security	security	NNP	_	28	nn	_
+28	Policy	policy	NNP	_	25	conj	_
+29	,	,	,	_	28	punct	_
+30	Catherine	catherine	NNP	_	31	nn	_
+31	Ashton	ashton	NNP	_	28	conj	_
+32	,	,	,	_	31	punct	_
+33	and Iran	and iran	NNP	_	36	poss	_
+34	's	's	POS	_	33	possessive	_
+35	Foreign	foreign	NNP	_	36	nn	_
+36	Minister	minister	NNP	_	31	conj	_
+37	,	,	,	_	36	punct	_
+38	Mohammad	mohammad	NNP	_	40	nn	_
+39	Javad	javad	NNP	_	40	nn	_
+40	Zarif	zarif	NNP	_	36	appos	_
+41	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	U.S	u.s	NNP	_	13	nsubj	_
+3	,	,	,	_	2	punct	_
+4	Great	great	NNP	_	5	nn	_
+5	Britain	britain	NNP	_	2	conj	_
+6	,	,	,	_	5	punct	_
+7	France	france	NNP	_	5	conj	_
+8	,	,	,	_	7	punct	_
+9	China	china	NNP	_	7	conj	_
+10	,	,	,	_	9	punct	_
+11	Russia	russia	NNP	_	9	conj	_
+12	as	as	RB	p2=IN	15	advmod	_
+13	well	well	RB	_	0	root	_
+14	as Germany discussed uranium	as germany discussed uranium	NNP	p2=IN	15	nn	_
+15	enrichment	enrichment	NN	_	11	conj	_
+16	,	,	,	_	15	punct	_
+17	nuclear	nuclear	JJ	_	18	amod	_
+18	cooperation	cooperation	NN	_	15	conj	_
+19	,	,	,	_	18	punct	_
+20	sanctions	sanction	NNS	_	18	conj	_
+21	and	and	CC	_	20	cc	_
+22	the	the	DT	_	23	det	_
+23	use	use	NN	_	20	conj	_
+24	of	of	IN	_	23	prep	_
+25	heavy	heavy	JJ	_	27	hmod	_
+26	-	-	HYPH	_	27	hyph	_
+27	water	water	NN	_	28	nn	_
+28	reactors	reactor	NNS	_	24	pobj	_
+29	with	with	IN	_	28	prep	_
+30	Iran	iran	NNP	_	29	pobj	_
+31	.	.	.	_	11	punct	_
+
+1	"	"	``	_	6	punct	_
+2	No	no	DT	_	3	det	_
+3	progress	progress	NN	_	6	nsubjpass	6:AM-PRR
+4	has	have	VBZ	_	6	aux	_
+5	been	be	VBN	_	6	auxpass	_
+6	made	make	VBN	pb=make.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	but	but	CC	_	6	cc	_
+9	talks	talk	NNS	_	11	nsubj	11:A1=PPT
+10	will	will	MD	_	11	aux	11:AM-MOD
+11	continue	continue	VB	pb=continue.01	6	conj	_
+12	,	,	,	_	11	punct	_
+13	"	"	``	p2=''	11	punct	_
+14	 Iran	 iran	NNP	p2=NNS	18	poss	_
+15	's	's	POS	_	14	possessive	_
+16	deputy	deputy	NN	p2=JJ	18	amod	_
+17	foreign	foreign	JJ	p2=NN	18	amod	_
+18	minister	minister	NN	_	21	nn	_
+19	Abbas	abbas	NNP	_	20	nn	_
+20	Araqchi told	araqchi told	NNP	_	21	nn	_
+21	reporters	reporter	NNS	_	11	dobj	_
+22	.	.	.	_	11	punct	_
+
+1	The	the	DT	_	3	det	_
+2	exact	exact	JJ	_	3	amod	_
+3	date	date	NN	_	10	nsubj	10:A0=PAG;14:A1=PPT
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	fifth	#ord#	JJ	_	7	amod	_
+7	round	round	NN	_	4	pobj	_
+8	of	of	IN	_	7	prep	_
+9	negotiations	negotiation	NNS	_	8	pobj	_
+10	has	have	VBZ	pb=have.06	0	root	_
+11	yet	yet	RB	_	10	advmod	10:A1=VSP
+12	to	to	TO	_	14	aux	_
+13	be	be	VB	_	14	auxpass	_
+14	decided	decide	VBN	pb=decide.01	10	xcomp	_
+15	.	.	.	_	10	punct	_
+
+1	In	in	IN	_	5	prep	5:AM-TMP
+2	2005	0	CD	_	1	pobj	_
+3	,	,	,	_	5	punct	_
+4	 Iran	 iran	NNP	p2=MD	5	nsubj	5:A0;7:A0=PAG;15:A0=PAG
+5	announced plans	announced plans	VBZ	p2=NNPS|pb=announced plans.01	0	root	_
+6	to	to	TO	_	7	aux	_
+7	resume	resume	VB	pb=resume.01	5	xcomp	5:A1
+8	uranium	uranium	NN	_	9	nn	_
+9	conversion	conversion	NN	_	7	dobj	7:A1=PPT
+10	at	at	IN	_	7	prep	7:AM-LOC
+11	Isfaha	isfaha	NNP	_	12	nn	_
+12	prompting EU	prompting eu	NNP	p2=VBD	13	nsubj	_
+13	states	state	VBZ	p2=NNS	10	pobj	_
+14	to	to	TO	_	15	aux	_
+15	threaten	threaten	VB	pb=threaten.01	7	advcl	7:AM-PRP
+16	to	to	IN	p2=TO	15	prep	15:A2=GOL
+17	end negotiations	end negotiations	NNS	_	16	pobj	18:A1=PPT
+18	linked	link	VBN	pb=link.01	17	partmod	_
+19	to	to	IN	p2=TO	18	prep	_
+20	trade	trade	NN	_	23	nn	_
+21	and	and	CC	_	20	cc	_
+22	economic	economic	JJ	_	20	conj	_
+23	issues	issue	NNS	_	19	pobj	_
+24	.	.	.	_	5	punct	_
+
+1	 Iran then agreed to	 iran then agreed to	TO	p2=NNP	2	aux	_
+2	wait	wait	VB	pb=wait.01	0	root	_
+3	for	for	IN	_	2	prep	2:A2
+4	detailed	detailed	JJ	p2=VBN	5	amod	_
+5	proposals	proposal	NNS	_	8	poss	_
+6	from Europeans	from europeans	POS	p2=NNS	5	possessive	_
+7	until the	until the	JJ	_	8	amod	_
+8	end	end	NN	_	3	pobj	_
+9	of	of	IN	_	8	prep	_
+10	July	july	NNP	_	9	pobj	_
+11	.	.	.	_	6	punct	_
+
+1	In	in	IN	_	11	prep	11:AM-TMP
+2	August	august	NNP	_	1	pobj	_
+3	,	,	,	_	11	punct	_
+4	however	however	RB	_	11	advmod	11:AM-DIS
+5	,	,	,	_	11	punct	_
+6	as Mahmoud	as mahmoud	NNP	p2=IN	8	nn	_
+7	Ahmadinejad	ahmadinejad	NNP	_	8	nn	_
+8	became president	became president	NNP	p2=VBD	11	npadvmod	11:AM-DIS
+9	,	,	,	_	11	punct	_
+10	 Iran	 iran	NNP	p2=''	11	nsubj	11:A0=PAG
+11	rejected	reject	VBD	pb=reject.01	0	root	_
+12	all European	all european	JJ	p2=NNP	13	amod	_
+13	initiatives	initiative	NNS	_	11	dobj	11:A1=PPT
+14	to resolve the	to resolve the	DT	p2=IN	15	det	_
+15	crisis	crisis	NN	_	11	npadvmod	11:AM-TMP
+16	.	.	.	_	11	punct	_
+
+1	A	a	DT	_	2	det	_
+2	deal	deal	NN	_	4	nsubj	4:A0=PAG
+3	was finally	was finally	RB	p2=NNP	4	advmod	4:AM-ADV
+4	reached	reach	VBD	p2=VBN|pb=reach.01	0	root	_
+5	in	in	IN	_	4	prep	4:AM-LOC
+6	Geneva	geneva	NNP	_	7	nn	_
+7	on November	on november	NNP	_	5	pobj	_
+8	24	0	CD	_	7	num	_
+9	,	,	,	_	7	punct	_
+10	2013	0	CD	_	7	appos	_
+11	,	,	,	_	14	punct	_
+12	as Western	as western	JJ	p2=NNP	13	amod	_
+13	countries	country	NNS	_	14	nsubj	14:A0=PAG
+14	agreed	agree	VBD	pb=agree.01	4	ccomp	4:A1=GOL
+15	to	to	IN	p2=TO	14	prep	14:A1=PPT
+16	provide Iran	provide iran	NNP	p2=VB	15	pobj	_
+17	with	with	IN	_	14	prep	14:A2=COM
+18	limited	limited	JJ	_	20	amod	_
+19	sanctions	sanction	NNS	_	20	nn	_
+20	relief	relief	NN	_	17	pobj	_
+21	in	in	IN	_	14	prep	14:AM-MNR
+22	exchange	exchange	NN	_	21	pobj	_
+23	for	for	IN	_	22	prep	_
+24	a	a	DT	_	29	det	_
+25	curbing	curb	VBG	p2=NN|pb=curb.01	29	amod	_
+26	of Tehran	of tehran	NNP	p2=NN	29	poss	_
+27	's	's	POS	_	26	possessive	_
+28	nuclear	nuclear	JJ	_	29	amod	_
+29	activities	activity	NNS	_	23	pobj	25:A1=PPT
+30	for	for	IN	_	29	prep	_
+31	a	a	DT	_	34	det	_
+32	six	#crd#	CD	_	34	hmod	_
+33	-	-	HYPH	_	34	hyph	_
+34	month	month	NN	_	30	pobj	_
+35	.	.	.	_	4	punct	_
+

@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+I,visit.01,three places on Saturday,,Affirmative,"While I visited only three places on Saturday , I learned some skills that will help me on the rest of the Michigan 's Best Taco search , including how to be polite when ordering food . "
+I,learn.01,some skills,,Affirmative,"While I visited only three places on Saturday , I learned some skills that will help me on the rest of the Michigan 's Best Taco search , including how to be polite when ordering food . "
+some skills,help.01,I,,Affirmative,"While I visited only three places on Saturday , I learned some skills that will help me on the rest of the Michigan 's Best Taco search , including how to be polite when ordering food . "
+I,decide.01,to learn,,Affirmative,"This Michigan 's Best search , I decided to learn a new skill : Spanish We 've been asking restaurant owners , servers and managers to teach me a little bit . "
+I,learn.01,a new skill,,Affirmative,"This Michigan 's Best search , I decided to learn a new skill : Spanish We 've been asking restaurant owners , servers and managers to teach me a little bit . "
+We,ask.02,to teach me,"restaurant owners , servers and managers",Affirmative,"This Michigan 's Best search , I decided to learn a new skill : Spanish We 've been asking restaurant owners , servers and managers to teach me a little bit . "
+"restaurant owners , servers and managers",teach.01,a little bit,me,Affirmative,"This Michigan 's Best search , I decided to learn a new skill : Spanish We 've been asking restaurant owners , servers and managers to teach me a little bit . "
+I,look.03,to expanding,,Affirmative,I 'm looking forward to expanding my vocabulary . 
+I,expand.01,my vocabulary,,Affirmative,I 'm looking forward to expanding my vocabulary . 
+Pablo Maldonado from,teach.01,some Spanish,Fritz Klug,Affirmative,Pablo Maldonado from Pablo 's Panaderia in Lansing teaches Fritz Klug some Spanish during the Michigan 's Best Taco search . 
+Carlos Gutierrez from,teach.01,how to invite,me,Affirmative,Carlos Gutierrez from El Oasis in Lansing taught me how to invite my friends to his taco truck . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

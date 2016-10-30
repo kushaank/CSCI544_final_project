@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+) Monday,announce.01,has canceled,,Affirmative,"( SFTBF.PK , SFTBY.PK ) Monday announced that its unit Yahoo Japan Corp has canceled its plans to acquire shares of mobile network operator eAccess Ltd. , from SoftBank in a deal worth $ 3.2 billion , or 324 billion yen . "
+its unit,cancel.01,its plans,,Affirmative,"( SFTBF.PK , SFTBY.PK ) Monday announced that its unit Yahoo Japan Corp has canceled its plans to acquire shares of mobile network operator eAccess Ltd. , from SoftBank in a deal worth $ 3.2 billion , or 324 billion yen . "
+its unit,acquire.01,shares of,from SoftBank in,Affirmative,"( SFTBF.PK , SFTBY.PK ) Monday announced that its unit Yahoo Japan Corp has canceled its plans to acquire shares of mobile network operator eAccess Ltd. , from SoftBank in a deal worth $ 3.2 billion , or 324 billion yen . "
+The company,cut.02,its revenue estimate for,,Affirmative,The company also cut its revenue estimate for the first half of fiscal year ending March 2015 . 
+Japan,announce.01,its intention,,Affirmative,Japan announced its intention to purchase shares of eAccess from SoftBank . 
+Japan,purchase.01,shares of eAccess,from SoftBank,Affirmative,Japan announced its intention to purchase shares of eAccess from SoftBank . 
+Japan,decide.01,to cancel,,Affirmative,Japan has decided to cancel the purchase of eAccess shares and conversion to a consolidated subsidiary . 
+Japan,cancel.01,the purchase of,,Affirmative,Japan has decided to cancel the purchase of eAccess shares and conversion to a consolidated subsidiary . 
+SoftBank,own.01,42.6 percent of Yahoo,,Affirmative,SoftBank owns 42.6 percent of Yahoo ! 
+its,convert.01,the new company,to,Affirmative,"Japan came to the conclusion that instead of its converting the new company to a consolidated subsidiary and building an infrastructure on its own , it would be better to develop the business by employing the strengths of each company . "
+SoftBank,note.01,will be minor,,Affirmative,"SoftBank noted that the impact of the cancellation of the deal on the consolidated results for fiscal year ending March 31 , 2015 will be minor . "
+The company,cut.02,its revenue estimate for,,Affirmative,"The company also cut its revenue estimate for the first half of fiscal year ending March 2015 , to 211.90 billion yen from its previous forecast of 335.90 billion yen . "
+the company,post.01,billion yen,,Affirmative,"For the first half of fiscal 2013 , the company posted 188.04 billion yen . "
+The firm,expect.01,income to be,,Affirmative,The firm still expects operating income to be 93.40 billion yen for the period . 
+Japan,say.01,it would still pursue,,Affirmative,Japan said it would still pursue the Y ! 
+it,pursue.01,the Y,,Affirmative,Japan said it would still pursue the Y ! 
+eAccess,build.01,infrastructure,,Affirmative,"mobile service with SoftBank , whilst eAccess builds infrastructure . "

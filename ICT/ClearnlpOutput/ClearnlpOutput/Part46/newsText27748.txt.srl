@@ -1,0 +1,61 @@
+1	Counties	county	NNS	p2=NNPS	2	nsubj	2:A2=GOL
+2	include	include	VBP	pb=include.01	0	root	_
+3	:	:	:	_	2	punct	_
+4	Anoka	anoka	NNP	_	2	dobj	2:A1=PPT
+5	,	,	,	_	4	punct	_
+6	Benton	benton	NNP	_	4	conj	_
+7	,	,	,	_	6	punct	_
+8	Chisago	chisago	NNP	_	6	conj	_
+9	,	,	,	_	8	punct	_
+10	Dakota	dakota	NNP	_	8	conj	_
+11	,	,	,	_	10	punct	_
+12	Douglas	douglas	NNP	_	10	conj	_
+13	,	,	,	_	12	punct	_
+14	Isanti	isanti	NNP	_	12	conj	_
+15	,	,	,	_	14	punct	_
+16	Hennepin	hennepin	NNP	_	14	conj	_
+17	,	,	,	_	16	punct	_
+18	Kanabec	kanabec	NNP	_	16	conj	_
+19	,	,	,	_	18	punct	_
+20	Mille	mille	NNP	_	21	nn	_
+21	Lacs	lacs	NNP	p2=NNPS	18	conj	_
+22	,	,	,	_	21	punct	_
+23	Morrison	morrison	NNP	_	21	conj	_
+24	,	,	,	_	23	punct	_
+25	Pine	pine	NNP	_	23	conj	_
+26	,	,	,	_	25	punct	_
+27	Pope	pope	NNP	_	25	conj	_
+28	,	,	,	_	27	punct	_
+29	Ramsey	ramsey	NNP	_	27	conj	_
+30	,	,	,	_	29	punct	_
+31	Sherburne	sherburne	NNP	_	29	conj	_
+32	,	,	,	_	31	punct	_
+33	Stearns	stearns	NNP	_	31	conj	_
+34	,	,	,	_	33	punct	_
+35	Todd	todd	NNP	_	33	conj	_
+36	,	,	,	_	35	punct	_
+37	Washington	washington	NNP	_	35	conj	_
+38	and	and	CC	_	37	cc	_
+39	Wright	wright	NNP	_	37	conj	_
+40	.	.	.	_	2	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

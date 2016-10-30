@@ -1,0 +1,420 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A trader,monitor.01,the screen,on,Affirmative,A trader monitors the screen on a trading floor in London . 
+Britain 's,reject.01,higher takeover bid,,Affirmative,"London - Britain 's top shares fell on Monday , dented by a sharp drop in pharmaceutical firm AstraZeneca after it rejected rival Pfizer 's higher takeover bid . "
+pharmaceutical firm AstraZeneca,dive.01,10.5 percent,,Affirmative,AstraZeneca dived 10.5 percent after turning down Pfizer 's 55 pounds / share take - it - or - leave - it offer . 
+pharmaceutical firm AstraZeneca,turn.05,55 pounds,,Affirmative,AstraZeneca dived 10.5 percent after turning down Pfizer 's 55 pounds / share take - it - or - leave - it offer . 
+That steep decline,pull.01,the index,down,Affirmative,"That steep decline was the biggest drag on the FTSE 100 by some margin and pulled the index down 17.58 points , or 0.3 percent , to 6,838.23 points by 16:37 SA time . "
+traders,say.01,deal was now unlikely,,Affirmative,"AstraZeneca had risen more than 27 percent in the month since the first Pfizer bid was reported , and traders said that a deal was now unlikely after Pfizer appeared reluctant to engage in a hostile approach . "
+rival Pfizer 's,say.01,they wo n't go hostile,,Affirmative,"With Pfizer saying they wo n't go hostile , it looks like it is pretty much dead , Will Hedden , sales trader at IG , said . "
+rival Pfizer 's,look.02,like it is,,Affirmative,"With Pfizer saying they wo n't go hostile , it looks like it is pretty much dead , Will Hedden , sales trader at IG , said . "
+"Will Hedden ,",say.01,", it looks",,Affirmative,"With Pfizer saying they wo n't go hostile , it looks like it is pretty much dead , Will Hedden , sales trader at IG , said . "
+Recent price moves,leave.01,AstraZeneca trading,,Affirmative,"Recent price moves had left AstraZeneca trading at a forward price / EPS multiple of 19.5 , according to StarMine data , compared to 15.5 for GlaxoSmithKline and 14.3 for Sanofi , and over double its 10 - year median of 9.3 . "
+Citi,take.01,the opportunity,,Affirmative,"But following Monday 's share price pull - back , Citi took the opportunity to add AstraZeneca to its Focus List Europe . "
+Citi,add.02,AstraZeneca,to,Affirmative,"But following Monday 's share price pull - back , Citi took the opportunity to add AstraZeneca to its Focus List Europe . "
+Monday 's share price pull-back,reckon.01,market still under - appreciated,,Affirmative,It reckoned the market still under - appreciated AstraZeneca 's portfolio in both immune - oncology and the management of auto - immune related disease . 
+the FTSE 100,retrace.01,some of,,Affirmative,"The FTSE 100 retraced some of the previous week 's 0.6 percent gain , which saw it touch 14 - year highs . "
+"percent gain ,",see.01,it touch,,Affirmative,"The FTSE 100 retraced some of the previous week 's 0.6 percent gain , which saw it touch 14 - year highs . "
+the FTSE 100,touch.01,year highs,,Affirmative,"The FTSE 100 retraced some of the previous week 's 0.6 percent gain , which saw it touch 14 - year highs . "
+"Jeremy Batstone - Carr , analyst at",say.01,again been raised in relation to valuation,,Affirmative,"With the FTSE 100 close to all - time - high territory , concerns have once again been raised in relation to valuation , which is creating something of a headwind , said Jeremy Batstone - Carr , analyst at Charles Stanley . "
+Thomson Reuters Datastream,show.01,trades at,,Affirmative,"The FTSE 100 trades at a price to earnings ratio of 13.8 , compared to a 10 - year average of 11.8 , Thomson Reuters Datastream showed . "
+you,haven.01,' t,,Affirmative,"Login and register , if you haven ' t already . "
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 20 year old woman looking to meet men between the ages of 20 and 27 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 20 year old woman looking to meet men between the ages of 20 and 27 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 49 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 49 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 25 year old woman looking to meet men between the ages of 25 and 37 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 25 year old woman looking to meet men between the ages of 25 and 37 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 35 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 35 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 23 year old woman looking to meet men between the ages of 23 and 33 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 23 year old woman looking to meet men between the ages of 23 and 33 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 53 year old woman looking to meet men between the ages of 50 and 57 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 53 year old woman looking to meet men between the ages of 50 and 57 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 57 year old woman looking to meet men between the ages of 53 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 57 year old woman looking to meet men between the ages of 53 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 47 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 47 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 37 and 44 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 37 and 44 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 31 and 51 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 31 and 51 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 18 and 100 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 18 and 100 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 30 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 30 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 47 and 58 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 47 and 58 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 40 and 54 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 40 and 54 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 44 year old woman looking to meet men between the ages of 42 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 44 year old woman looking to meet men between the ages of 42 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 36 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 36 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 44 year old woman looking to meet men between the ages of 42 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 44 year old woman looking to meet men between the ages of 42 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 54 year old woman looking to meet men between the ages of 45 and 56 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 54 year old woman looking to meet men between the ages of 45 and 56 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 34 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 34 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 32 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 32 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 24 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 24 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 19 and 30 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 19 and 30 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 44 and 58 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 44 and 58 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 25 and 38 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 25 and 38 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 23 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 23 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 49 and 62 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 49 and 62 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 22 and 28 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 22 and 28 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 43 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 43 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 47 year old woman looking to meet men between the ages of 47 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 47 year old woman looking to meet men between the ages of 47 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 40 year old woman looking to meet men between the ages of 41 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 40 year old woman looking to meet men between the ages of 41 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 30 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 30 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 36 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 36 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 20 year old woman looking to meet men between the ages of 23 and 26 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 20 year old woman looking to meet men between the ages of 23 and 26 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 40 and 52 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 40 and 52 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 19 and 30 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 19 year old woman looking to meet men between the ages of 19 and 30 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 43 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 43 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 56 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 56 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 37 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 37 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 51 year old woman looking to meet men between the ages of 50 and 62 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 51 year old woman looking to meet men between the ages of 50 and 62 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 38 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 38 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 35 and 44 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 35 and 44 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 55 year old woman looking to meet men between the ages of 45 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 55 year old woman looking to meet men between the ages of 45 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 41 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 41 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 30 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 30 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 52 year old woman looking to meet men between the ages of 50 and 65 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 52 year old woman looking to meet men between the ages of 50 and 65 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 34 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 34 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 34 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 34 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 49 and 53 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 49 year old woman looking to meet men between the ages of 49 and 53 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 28 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 28 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 58 year old woman looking to meet men between the ages of 55 and 64 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 58 year old woman looking to meet men between the ages of 55 and 64 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 54 year old woman looking to meet men between the ages of 52 and 63 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 54 year old woman looking to meet men between the ages of 52 and 63 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 35 year old woman looking to meet men between the ages of 29 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 35 year old woman looking to meet men between the ages of 29 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 25 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 25 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 45 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 45 year old woman looking to meet men between the ages of 45 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 25 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 25 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 43 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 43 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 33 and 43 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 33 and 43 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 31 year old woman looking to meet men between the ages of 31 and 38 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 31 year old woman looking to meet men between the ages of 31 and 38 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 31 and 41 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 33 year old woman looking to meet men between the ages of 31 and 41 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 32 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 38 year old woman looking to meet men between the ages of 32 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 29 year old woman looking to meet men between the ages of 29 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 29 year old woman looking to meet men between the ages of 29 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 35 year old woman looking to meet men between the ages of 34 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 35 year old woman looking to meet men between the ages of 34 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 50 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 50 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 47 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 47 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 40 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 40 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 39 year old woman looking to meet men between the ages of 35 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 38 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 38 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 30 year old woman looking to meet men between the ages of 30 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 35 and 65 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 34 year old woman looking to meet men between the ages of 35 and 65 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 35 and 46 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 28 year old woman looking to meet men between the ages of 35 and 46 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 32 and 39 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 32 year old woman looking to meet men between the ages of 32 and 39 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 35 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 48 year old woman looking to meet men between the ages of 35 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 50 and 62 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 43 year old woman looking to meet men between the ages of 50 and 62 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 29 year old woman looking to meet men between the ages of 27 and 39 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 29 year old woman looking to meet men between the ages of 27 and 39 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 52 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 52 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 40 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 40 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 41 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 24 year old woman looking to meet men between the ages of 25 and 40 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 24 year old woman looking to meet men between the ages of 25 and 40 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 22 year old woman looking to meet men between the ages of 25 and 37 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 22 year old woman looking to meet men between the ages of 25 and 37 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 40 and 52 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 40 and 52 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 25 year old woman looking to meet men between the ages of 25 and 31 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 25 year old woman looking to meet men between the ages of 25 and 31 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 25 and 39 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 25 and 39 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 46 year old woman looking to meet men between the ages of 45 and 55 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 55 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 55 year old woman looking to meet men between the ages of 50 and 60 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 27 year old woman looking to meet men between the ages of 25 and 35 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 35 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 35 and 45 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 42 year old woman looking to meet men between the ages of 40 and 50 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 36 and 42 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 37 year old woman looking to meet men between the ages of 36 and 42 . 
+old woman looking,look.04,to meet men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 38 and 45 . 
+old woman looking,meet.01,men between,,Affirmative,I 'm a 36 year old woman looking to meet men between the ages of 38 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 40 and 62 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 40 and 62 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 30 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 30 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 27 and 36 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 27 and 36 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 50 and 72 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 50 and 72 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 42 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 42 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 48 and 62 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 48 and 62 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 44 year old man looking to meet women between the ages of 32 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 44 year old man looking to meet women between the ages of 32 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 30 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 30 and 48 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 34 year old man looking to meet women between the ages of 25 and 29 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 34 year old man looking to meet women between the ages of 25 and 29 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 37 year old man looking to meet women between the ages of 28 and 35 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 37 year old man looking to meet women between the ages of 28 and 35 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 53 year old man looking to meet women between the ages of 48 and 58 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 53 year old man looking to meet women between the ages of 48 and 58 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 49 and 76 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 49 and 76 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 25 year old man looking to meet women between the ages of 18 and 30 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 25 year old man looking to meet women between the ages of 18 and 30 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 41 and 50 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 41 and 50 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 45 and 57 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 45 and 57 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 61 year old man looking to meet women between the ages of 49 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 61 year old man looking to meet women between the ages of 49 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 40 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 40 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 31 year old man looking to meet women between the ages of 25 and 35 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 31 year old man looking to meet women between the ages of 25 and 35 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 40 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 40 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 51 year old man looking to meet women between the ages of 38 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 51 year old man looking to meet women between the ages of 38 and 48 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 66 year old man looking to meet women between the ages of 18 and 100 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 66 year old man looking to meet women between the ages of 18 and 100 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 52 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 52 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 28 and 35 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 28 and 35 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 18 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 18 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 57 year old man looking to meet women between the ages of 42 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 57 year old man looking to meet women between the ages of 42 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 64 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 64 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 40 and 52 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 40 and 52 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 44 and 56 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 44 and 56 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 39 and 64 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 39 and 64 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 35 and 50 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 35 and 50 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 50 and 65 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 50 and 65 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 60 year old man looking to meet women between the ages of 48 and 58 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 60 year old man looking to meet women between the ages of 48 and 58 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 40 and 54 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 40 and 54 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 36 year old man looking to meet women between the ages of 28 and 42 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 36 year old man looking to meet women between the ages of 28 and 42 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 66 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 66 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 34 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 34 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 36 and 70 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 36 and 70 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 45 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 56 year old man looking to meet women between the ages of 45 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 35 and 47 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 35 and 47 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 27 year old man looking to meet women between the ages of 21 and 35 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 27 year old man looking to meet women between the ages of 21 and 35 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 25 and 47 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 25 and 47 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 38 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 38 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 25 and 40 . 
+old man looking,look.04,to meet men between,,Affirmative,I 'm a 41 year old man looking to meet men between the ages of 25 and 50 . 
+old man looking,meet.01,men between,,Affirmative,I 'm a 41 year old man looking to meet men between the ages of 25 and 50 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 30 and 50 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 30 and 50 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 39 year old man looking to meet women between the ages of 30 and 42 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 39 year old man looking to meet women between the ages of 30 and 42 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 64 year old man looking to meet women between the ages of 48 and 64 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 64 year old man looking to meet women between the ages of 48 and 64 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 45 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 37 year old man looking to meet women between the ages of 26 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 37 year old man looking to meet women between the ages of 26 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 40 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 40 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 68 year old man looking to meet women between the ages of 53 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 68 year old man looking to meet women between the ages of 53 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 34 and 44 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 34 and 44 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 49 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 62 year old man looking to meet women between the ages of 49 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 37 and 46 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 37 and 46 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 70 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 70 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 57 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 57 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 46 and 65 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 46 and 65 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 30 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 24 and 30 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 31 year old man looking to meet women between the ages of 21 and 32 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 31 year old man looking to meet women between the ages of 21 and 32 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 36 year old man looking to meet women between the ages of 25 and 39 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 36 year old man looking to meet women between the ages of 25 and 39 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 30 and 50 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 46 year old man looking to meet women between the ages of 30 and 50 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 28 and 38 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 47 year old man looking to meet women between the ages of 28 and 38 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 48 and 53 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 48 and 53 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 32 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 45 year old man looking to meet women between the ages of 32 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 37 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 52 year old man looking to meet women between the ages of 37 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 33 and 41 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 43 year old man looking to meet women between the ages of 33 and 41 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 30 year old man looking to meet women between the ages of 25 and 33 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 30 year old man looking to meet women between the ages of 25 and 33 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 22 and 54 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 22 and 54 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 25 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 25 and 48 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 41 year old man looking to meet women between the ages of 30 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 18 and 38 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 18 and 38 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 69 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 69 year old man looking to meet women between the ages of 55 and 65 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 40 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 50 year old man looking to meet women between the ages of 40 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 45 and 63 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 45 and 63 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 45 and 63 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 59 year old man looking to meet women between the ages of 45 and 63 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 63 year old man looking to meet women between the ages of 50 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 63 year old man looking to meet women between the ages of 50 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 39 year old man looking to meet women between the ages of 20 and 40 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 39 year old man looking to meet women between the ages of 20 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 58 year old man looking to meet women between the ages of 35 and 55 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 25 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 28 year old man looking to meet women between the ages of 18 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 28 year old man looking to meet women between the ages of 18 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 53 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 53 year old man looking to meet women between the ages of 35 and 48 . 
+old man looking,look.04,to meet men between,,Affirmative,I 'm a 30 year old man looking to meet men between the ages of 28 and 40 . 
+old man looking,meet.01,men between,,Affirmative,I 'm a 30 year old man looking to meet men between the ages of 28 and 40 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 35 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 35 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 26 and 35 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 35 year old man looking to meet women between the ages of 26 and 35 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 61 year old man looking to meet women between the ages of 39 and 59 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 61 year old man looking to meet women between the ages of 39 and 59 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 18 and 100 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 32 year old man looking to meet women between the ages of 18 and 100 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 49 and 60 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 54 year old man looking to meet women between the ages of 49 and 60 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 35 and 45 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 48 year old man looking to meet women between the ages of 35 and 45 . 
+old man looking,look.04,to meet women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 40 and 50 . 
+old man looking,meet.01,women between,,Affirmative,I 'm a 49 year old man looking to meet women between the ages of 40 and 50 . 
+in,contain.01,works contained in,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "
+The copyright in,belong.01,to,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "

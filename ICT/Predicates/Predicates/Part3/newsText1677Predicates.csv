@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mr. Israel 's,show.01,the comments used,,Affirmative,Rep. Israel was not shown the comments used to describe Iraq War veteran Lee Zeldin before they were sent out by DCCC staffers . 
+by,send.02,they,,Affirmative,Rep. Israel was not shown the comments used to describe Iraq War veteran Lee Zeldin before they were sent out by DCCC staffers . 
+Iraq War veteran Lee Zeldin,condemn.01,they,,Affirmative,"He not only disagrees with these comments , but strongly condemns them , said Mr. Israel 's aide Samantha Slater , Newsday reported . "
+aide,say.01,disagrees with,,Affirmative,"He not only disagrees with these comments , but strongly condemns them , said Mr. Israel 's aide Samantha Slater , Newsday reported . "
+Newsday,report.01,", said",,Affirmative,"He not only disagrees with these comments , but strongly condemns them , said Mr. Israel 's aide Samantha Slater , Newsday reported . "
+Iraq War veteran Lee Zeldin,run.02,for,,Affirmative,Mr. Zeldin is running for the U.S. House in New York to challenge Democratic Rep. Tim Bishop . 
+Iraq War veteran Lee Zeldin,challenge.01,Rep. Tim Bishop,,Affirmative,Mr. Zeldin is running for the U.S. House in New York to challenge Democratic Rep. Tim Bishop . 
+by,send.01,An email sent by,,Affirmative,An email sent by the DCCC on Wednesday showed Mr. Zeldin 's face superimposed on a picture of the Cowardly Lion from The Wizard of Oz . 
+An email sent by,show.01,face superimposed on,,Affirmative,An email sent by the DCCC on Wednesday showed Mr. Zeldin 's face superimposed on a picture of the Cowardly Lion from The Wizard of Oz . 
+An email sent by the DCCC on Wednesday,criticize.01,the veteran,for,Affirmative,It criticized the veteran for not saying how he would vote regarding Rep. Paul Ryan 's controversial budget . 
+the veteran,say.01,how he would vote regarding,,Affirmative,It criticized the veteran for not saying how he would vote regarding Rep. Paul Ryan 's controversial budget . 
+the veteran,vote.01,regarding,,Affirmative,It criticized the veteran for not saying how he would vote regarding Rep. Paul Ryan 's controversial budget . 
+Democratic Rep. Tim Bishop,use.01,those words,,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "
+Democratic Rep. Tim Bishop,approve.01,of them,,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "
+his campaign manager,say.01,Bishop would not have used,,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "
+his campaign manager,add.01,Bishop has,,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "
+Democratic Rep. Tim Bishop,have.03,enormous respect and gratitude for,,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "
+Newsday reported,report.01,", said",,Affirmative,"Bishop would not have used those words nor does he approve of them , said his campaign manager Keith Davies , adding that Mr. Bishop has enormous respect and gratitude for Mr. Zeldin 's military service , Newsday reported . "

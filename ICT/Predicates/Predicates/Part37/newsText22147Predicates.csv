@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A journalist,find.01,nose does n't stop bleeding after visiting,,Affirmative,TOKYO ( AP ) - A journalist finds his nose does n't stop bleeding after visiting the meltdown - stricken Fukushima nuclear plant . 
+his nose,stop.01,bleeding after visiting,,Affirmative,TOKYO ( AP ) - A journalist finds his nose does n't stop bleeding after visiting the meltdown - stricken Fukushima nuclear plant . 
+his nose,visit.01,stricken Fukushima nuclear plant,,Affirmative,TOKYO ( AP ) - A journalist finds his nose does n't stop bleeding after visiting the meltdown - stricken Fukushima nuclear plant . 
+A journalist finds his nose does n't stop bleeding after visiting the meltdown-stricken Fukushima nuclear plant,learn.01,others suffer,,Affirmative,He also learns others suffer similar symptoms . 
+others,suffer.01,similar symptoms,,Affirmative,He also learns others suffer similar symptoms . 
+The scene from,set.05,a hot public debate in Japan,,Affirmative,"The scene from popular manga comic Oishinbo , published last month , has set off a hot public debate in Japan - a nation still traumatized by the world 's worst nuclear disaster since Chernobyl . "
+by,traumatize.01,a nation,,Affirmative,"The scene from popular manga comic Oishinbo , published last month , has set off a hot public debate in Japan - a nation still traumatized by the world 's worst nuclear disaster since Chernobyl . "
+Local governments,protest.01,the comic,,Affirmative,"Local governments immediately protested the comic , saying it fosters unfounded fears of radiation . "
+Local governments,say.01,it fosters,,Affirmative,"Local governments immediately protested the comic , saying it fosters unfounded fears of radiation . "
+"The scene from popular manga comic `` Oishinbo , '' published last month",foster.01,unfounded fears of radiation,,Affirmative,"Local governments immediately protested the comic , saying it fosters unfounded fears of radiation . "
+Minister Shinzo Abe,reassure.01,the public,there was,Affirmative,"Prime Minister Shinzo Abe chimed in over the weekend , reassuring the public there was no proof of a link between radiation and such illnesses . "
+Prime Minister Shinzo Abe,say.01,government will make,,Affirmative,"The government will make the best effort to take action against baseless rumors , he said . "
+publisher Shogakukan,add.02,page segment,to,Affirmative,"Undeterred by the ruckus , Tokyo - based publisher Shogakukan added a special 10 - page segment to weekly Big Comic Spirits magazine , published Monday , featuring criticism it had received as well as opinion from radiation experts . "
+publisher Shogakukan,feature.01,criticism,,Affirmative,"Undeterred by the ruckus , Tokyo - based publisher Shogakukan added a special 10 - page segment to weekly Big Comic Spirits magazine , published Monday , featuring criticism it had received as well as opinion from radiation experts . "
+the ruckus,receive.01,as opinion from,,Affirmative,"Undeterred by the ruckus , Tokyo - based publisher Shogakukan added a special 10 - page segment to weekly Big Comic Spirits magazine , published Monday , featuring criticism it had received as well as opinion from radiation experts . "
+Editor Hiroshi Murayama,acknowledge.01,he had been unsure about publishing,,Affirmative,"Editor Hiroshi Murayama acknowledged he had been unsure about publishing the manga , subtitled The Truth of Fukushima , because he anticipated people would be offended . "
+Editor Hiroshi Murayama,publish.01,the manga,,Affirmative,"Editor Hiroshi Murayama acknowledged he had been unsure about publishing the manga , subtitled The Truth of Fukushima , because he anticipated people would be offended . "
+Editor Hiroshi Murayama,anticipate.01,people would be offended,,Affirmative,"Editor Hiroshi Murayama acknowledged he had been unsure about publishing the manga , subtitled The Truth of Fukushima , because he anticipated people would be offended . "
+Editor Hiroshi Murayama,decide.01,that voice needed,,Affirmative,"But he had decided that voice needed to be heard , he said . "
+Editor Hiroshi Murayama,say.01,But he had decided,,Affirmative,"But he had decided that voice needed to be heard , he said . "
+people,hope.01,will lead to,,Affirmative,"We hope the various views on the latest ' Oishinbo ' will lead to a constructive debate into assessing our future , he said in the special segment . "
+Editor Hiroshi Murayama,say.01,We hope,,Affirmative,"We hope the various views on the latest ' Oishinbo ' will lead to a constructive debate into assessing our future , he said in the special segment . "
+the publisher,say.01,that had been,,Affirmative,But the publisher said that had been the plan even before the controversy . 
+The Fukushima prefectural government,issue.01,a protest against Oishinbo,,Affirmative,"The Fukushima prefectural government issued a protest against Oishinbo , slamming it as misleading and fanning the fears about the safety of the area 's fish and agricultural products . "
+The Fukushima prefectural government,slam.01,The Fukushima prefectural government,as misleading and fanning,Affirmative,"The Fukushima prefectural government issued a protest against Oishinbo , slamming it as misleading and fanning the fears about the safety of the area 's fish and agricultural products . "
+the evacuation zone in Fukushima,say.01,are not being exposed to,,Affirmative,"Although nosebleeds may be related to radiation , people outside the evacuation zone in Fukushima are not being exposed to such high levels of radiation , it said in a statement , also included in the magazine . "
+"Ikuro Anzai ,",say.01,he was aware of talk in Fukushima,,Affirmative,"Also featured was Ikuro Anzai , honorary professor at Ritsumeikan University and radiation expert , who said he was aware of talk in Fukushima about nosebleeds but stressed there was no scientific data to draw conclusions . "
+"Ikuro Anzai ,",stress.01,there was,,Affirmative,"Also featured was Ikuro Anzai , honorary professor at Ritsumeikan University and radiation expert , who said he was aware of talk in Fukushima about nosebleeds but stressed there was no scientific data to draw conclusions . "
+discrimination against Fukushima,cause.01,"more real suffering , not radiation",,Affirmative,"And discrimination against Fukushima was causing far more real suffering , not radiation . "
+people,know.01,it is best,,Affirmative,"People know it is best not to get radiated and so whatever happens , people are going to blame Fukushima , he said . "
+people,blame.01,Fukushima,,Affirmative,"People know it is best not to get radiated and so whatever happens , people are going to blame Fukushima , he said . "
+Ikuro Anzai,say.01,People know,,Affirmative,"People know it is best not to get radiated and so whatever happens , people are going to blame Fukushima , he said . "
+Scientists,say.01,there is,,Affirmative,Scientists say there is no exact safe limit to low dose radiation . 
+Fukushima,monitor.01,the health of,,Affirmative,"Fukushima is monitoring the health of its residents , and carrying out thyroid checks on those ages 18 and under . "
+Fukushima,carry.03,thyroid checks,,Affirmative,"Fukushima is monitoring the health of its residents , and carrying out thyroid checks on those ages 18 and under . "

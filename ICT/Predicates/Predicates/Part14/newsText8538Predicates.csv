@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+State Police,arrest.01,two carnival workers traveling through,,Affirmative,Indiana State Police arrested two carnival workers traveling through Sullivan County . 
+two carnival workers traveling through,travel.01,through,,Affirmative,Indiana State Police arrested two carnival workers traveling through Sullivan County . 
+Indiana State Police,say.01,men had,,Affirmative,Police say the men had two miniature horses that were emaciated . 
+the men,have.03,two miniature horses,,Affirmative,Police say the men had two miniature horses that were emaciated . 
+Indiana State Police,say.01,"horses did not have water , food or",,Affirmative,"Police also say the horses did not have water , food or sufficient air supply in their trailer . "
+two miniature horses that were emaciated,have.03,"water , food or",,Affirmative,"Police also say the horses did not have water , food or sufficient air supply in their trailer . "
+Two carnival workers traveling through,travel.01,through,,Affirmative,Two carnival workers traveling through Sullivan County are behind bars for animal neglect . 
+State Police,stop.01,a truck,,Affirmative,Indiana State Police stopped a truck that was carrying a homemade enclosed trailer on US 41 . 
+a truck,carry.01,a homemade enclosed trailer,,Affirmative,Indiana State Police stopped a truck that was carrying a homemade enclosed trailer on US 41 . 
+Indiana State Police,find.01,two miniature horses that were emaciated,,Affirmative,"Police found two miniature horses inside the trailer without water , food and sufficient air flow . "
+Indiana State Police,say.01,animals were emaciated and in,,Affirmative,Police also say the animals were emaciated and in poor health . 
+Indiana State Police,arrest.01,"Steven Toth , Jr",,Affirmative,"Police arrested Steven Toth , Jr . "
+Police,say.01,they work for,,Affirmative,"Police say they work for Modern Midways Carnival in Miami , Florida and were traveling to Chicago . "
+Police,travel.01,to Chicago,,Affirmative,"Police say they work for Modern Midways Carnival in Miami , Florida and were traveling to Chicago . "

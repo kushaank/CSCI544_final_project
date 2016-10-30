@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+he,draw.02,first place,,Affirmative,"David Leyonhjelm tweets criticism of ' gay lifestyle ' Leyonhjelm , a member of the libertarian Liberal Democratic party , secured 8.9 % of the vote in New South Wales in September 's federal election after he drew first place on the ballot paper , prompting allegations that many Liberal supporters had voted for him by mistake . "
+he,prompt.01,allegations,,Affirmative,"David Leyonhjelm tweets criticism of ' gay lifestyle ' Leyonhjelm , a member of the libertarian Liberal Democratic party , secured 8.9 % of the vote in New South Wales in September 's federal election after he drew first place on the ballot paper , prompting allegations that many Liberal supporters had voted for him by mistake . "
+many Liberal supporters,vote.01,for him,,Affirmative,"David Leyonhjelm tweets criticism of ' gay lifestyle ' Leyonhjelm , a member of the libertarian Liberal Democratic party , secured 8.9 % of the vote in New South Wales in September 's federal election after he drew first place on the ballot paper , prompting allegations that many Liberal supporters had voted for him by mistake . "
+"Democrat party president ,",confirm.01,that Leyonhjelm had written,,Affirmative,"The Liberal Democrat party president , Gabriel Buckley , confirmed to Guardian Australia that Leyonhjelm had written the tweet . "
+David Leyonhjelm,write.01,the tweet,,Affirmative,"The Liberal Democrat party president , Gabriel Buckley , confirmed to Guardian Australia that Leyonhjelm had written the tweet . "
+Gabriel Buckley,think.01,is vital,,Affirmative,"I think that freedom of speech is vital for a functioning democracy and freedom of speech should entail the freedom to say things that other people might find controversial , he said . "
+a functioning democracy and freedom of speech,entail.01,the freedom,,Affirmative,"I think that freedom of speech is vital for a functioning democracy and freedom of speech should entail the freedom to say things that other people might find controversial , he said . "
+other people,find.01,controversial,,Affirmative,"I think that freedom of speech is vital for a functioning democracy and freedom of speech should entail the freedom to say things that other people might find controversial , he said . "
+Gabriel Buckley,say.01,I think,,Affirmative,"I think that freedom of speech is vital for a functioning democracy and freedom of speech should entail the freedom to say things that other people might find controversial , he said . "
+Gabriel Buckley,argue.01,tweet did not equate,,Affirmative,Buckley argued the tweet did not equate a gay lifestyle with reckless promiscuity . 
+the tweet,equate.01,a gay lifestyle,with,Affirmative,Buckley argued the tweet did not equate a gay lifestyle with reckless promiscuity . 
+Gabriel Buckley,say.01,They certainly appeared,,Affirmative,"They certainly appeared to be two separate questions to me - judging by the use of capital letters and punctuation marks , he said . "
+Tolerance,require.01,approval,,Affirmative,Tolerance does n't require approval . 
+David Leyonhjelm,respond.01,to,,Affirmative,Leyonhjelm did not respond to a request for comment . 
+The senator - elect,defend.01,his decision,,Affirmative,The senator - elect had previously defended his decision to question a job applicant about his sexuality . 
+The senator-elect,ask.01,whoever I want,,Affirmative,"I will ask whoever I want if they are gay , '' he told Sydney 's Daily Telegraph . "
+The senator-elect,want.01,if they are gay,,Affirmative,"I will ask whoever I want if they are gay , '' he told Sydney 's Daily Telegraph . "
+The senator-elect,tell.01,I will ask,Daily Telegraph,Affirmative,"I will ask whoever I want if they are gay , '' he told Sydney 's Daily Telegraph . "
+David Leyonhjelm,take.01,his seat in,,Affirmative,Leyonhjelm is due to take his seat in the Senate in July . 

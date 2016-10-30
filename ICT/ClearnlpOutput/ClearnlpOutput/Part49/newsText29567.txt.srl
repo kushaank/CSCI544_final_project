@@ -1,0 +1,15 @@
+1	Middle	middle	NNP	_	2	nn	_
+2	Tennessee	tennessee	NNP	_	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	top	top	JJ	_	5	amod	_
+5	companies	company	NNS	_	7	nsubj	7:A0=PAG
+6	to	to	TO	_	7	aux	_
+7	improve	improve	VB	pb=improve.01	0	root	_
+8	your	your	PRP$	_	9	poss	_
+9	heath	heath	NN	_	7	dobj	7:A1=PPT
+10	,	,	,	_	9	punct	_
+11	home	home	NN	p2=RB	9	conj	_
+12	and	and	CC	_	11	cc	_
+13	life	life	NN	_	11	conj	_
+14	.	.	.	_	7	punct	_
+

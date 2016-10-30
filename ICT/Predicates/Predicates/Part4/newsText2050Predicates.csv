@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Chris Gautz of,explain.01,"the warring minimum wage bills ,",,Affirmative,"Chris Gautz of Crain 's Detroit Business explains the warring minimum wage bills , one of which was approved by Michigan state Senators yesterday . "
+by,approve.01,"the warring minimum wage bills ,",,Affirmative,"Chris Gautz of Crain 's Detroit Business explains the warring minimum wage bills , one of which was approved by Michigan state Senators yesterday . "
+by,introduce.02,"This bill , introduced by",,Affirmative,"This bill , introduced by Senate Majority Leader Randy Richardville , would repeal the state 's current minimum wage law of $ 7.40 and increase it to $ 9.20 by 2017 . "
+"This bill , introduced by",repeal.01,current minimum wage law of,,Affirmative,"This bill , introduced by Senate Majority Leader Randy Richardville , would repeal the state 's current minimum wage law of $ 7.40 and increase it to $ 9.20 by 2017 . "
+"This bill , introduced by",increase.01,it,,Affirmative,"This bill , introduced by Senate Majority Leader Randy Richardville , would repeal the state 's current minimum wage law of $ 7.40 and increase it to $ 9.20 by 2017 . "
+the shift Republicans,try.01,to avoid,,Affirmative,"According to Gautz , the shift Republicans are trying to avoid is the increase tipped wage from $ 2.65 to $ 10.10 . "
+the increase,tip.03,wage,,Affirmative,"According to Gautz , the shift Republicans are trying to avoid is the increase tipped wage from $ 2.65 to $ 10.10 . "
+He,say.01,employer must make up,,Affirmative,"He says under current legislation , if a tipped employee does not make the minimum hourly wage of $ 7.40 with tips , the employer must make up the difference . "
+a tipped employee,make.02,the minimum hourly wage of,,Affirmative,"He says under current legislation , if a tipped employee does not make the minimum hourly wage of $ 7.40 with tips , the employer must make up the difference . "
+the employer,make.02,the difference,,Affirmative,"He says under current legislation , if a tipped employee does not make the minimum hourly wage of $ 7.40 with tips , the employer must make up the difference . "

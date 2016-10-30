@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,assault.01,a pupil,,Affirmative,"JOHANNESBURG - A man has been arrested for allegedly assaulting a pupil at the Stanwest Combined School in Standerton , Mpumalanga . "
+to,leak.01,A video of,,Affirmative,"A video of Thursday 's attack was leaked to the Standerton Advertiser , despite reports the school allegedly told students to delete any footage or pictures of the incident . "
+"the Stanwest Combined School in Standerton , Mpumalanga",tell.01,to delete,students,Affirmative,"A video of Thursday 's attack was leaked to the Standerton Advertiser , despite reports the school allegedly told students to delete any footage or pictures of the incident . "
+students,delete.01,any footage or pictures of,,Affirmative,"A video of Thursday 's attack was leaked to the Standerton Advertiser , despite reports the school allegedly told students to delete any footage or pictures of the incident . "
+A video of Thursday 's attack,show.01,"a man ,",,Affirmative,"The video shows a man , who appears to be a worker at the school , attacking a male pupil with a broom . "
+a worker at,attack.01,a male pupil,,Affirmative,"The video shows a man , who appears to be a worker at the school , attacking a male pupil with a broom . "
+the Department of Basic Education in Mpumalanga,investigate.01,the incident,,Affirmative,It 's still unclear what led to the incident and the Department of Basic Education in Mpumalanga says it 's investigating the incident . 

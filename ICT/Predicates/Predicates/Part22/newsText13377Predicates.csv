@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+CHINA,send.01,five ships,,Affirmative,CHINA is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+CHINA,evacuate.01,Chinese nationals,from Vietnam,Affirmative,CHINA is sending five ships to evacuate Chinese nationals from Vietnam following a wave of anti-Chinese riots . 
+The Chinese Government,evacuate.01,"3,000 people ,",,Affirmative,"The Chinese Government has already evacuated more than 3,000 people , Chinese state - run media report . "
+The first ship,set.01,sail,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+injured Chinese nationals,leave.01,Vietnam,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+Xinhua news agency,say.01,ship set sail on Sunday,,Affirmative,"The first ship set sail on Sunday , while 16 critically injured Chinese nationals left Vietnam on a chartered flight , Xinhua news agency said . "
+the Vietnamese government,call.03,for,,Affirmative,On Saturday the Vietnamese government called for an end to the protests . 
+Officials,say.01,acts would be stopped,,Affirmative,Officials said illegal acts would be stopped as they could damage national stability . 
+Officials,damage.01,national stability,,Affirmative,Officials said illegal acts would be stopped as they could damage national stability . 
+dissident groups,urge.01,"more than 3,000 people",to rally again in,Affirmative,"However , dissident groups have urged people to rally again in major cities on Sunday and the authorities broke up some anti-China protests in Hanoi and Ho Chi Minh City . "
+the authorities,break.08,some anti-China protests in Hanoi and,,Affirmative,"However , dissident groups have urged people to rally again in major cities on Sunday and the authorities broke up some anti-China protests in Hanoi and Ho Chi Minh City . "
+crowds,set.01,fire,to,Affirmative,"In recent days crowds have set fire to at least 15 foreign - owned factories - including Chinese , Taiwanese and South Korean businesses - in several Vietnamese industrial parks . "
+Correspondents,say.01,attacks appear,,Affirmative,"Correspondents say the attacks appear to have worried authorities , as Hanoi depends heavily on foreign investment for economic growth . "
+the attacks,have.03,worried authorities,,Affirmative,"Correspondents say the attacks appear to have worried authorities , as Hanoi depends heavily on foreign investment for economic growth . "
+Hanoi,depend.01,on,,Affirmative,"Correspondents say the attacks appear to have worried authorities , as Hanoi depends heavily on foreign investment for economic growth . "
+China,urge.01,the authorities,to take,Affirmative,"However , China has urged authorities to take tougher measures to punish rioters . "
+the authorities,take.01,tougher measures,,Affirmative,"However , China has urged authorities to take tougher measures to punish rioters . "
+the authorities,punish.01,rioters,,Affirmative,"However , China has urged authorities to take tougher measures to punish rioters . "
+Xinhua,quote.01,chief Guo Shengkun,as saying on Saturday,Affirmative,"We are strongly dissatisfied by the Vietnamese side failure to respond effectively to curb an escalation , Xinhua quoted security chief Guo Shengkun as saying on Saturday . "

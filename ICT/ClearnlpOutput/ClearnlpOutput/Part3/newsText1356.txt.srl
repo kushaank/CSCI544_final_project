@@ -1,0 +1,256 @@
+1	Pilgrims	pilgrim	VBZ	p2=VBZ|pb=pilgrim.01	0	root	_
+2	to	to	IN	p2=TO	1	prep	1:A2
+3	Tunisia	tunisia	NNP	_	2	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	J	j	NNP	_	3	nn	_
+2	Street	street	NNP	_	3	nn	_
+3	Delegation	delegation	NNP	_	4	nsubj	4:A0=PAG;12:A0
+4	meets	meet	VBZ	pb=meet.03	0	root	_
+5	with	with	IN	_	4	prep	4:A1=COM
+6	Jordan	jordan	NNP	_	9	poss	_
+7	's	's	POS	_	6	possessive	_
+8	Regent	regent	NNP	p2=JJ	9	nn	_
+9	May	may	NNP	_	5	pobj	_
+10	19	0	CD	_	9	num	_
+11	,	,	,	_	4	punct	_
+12	globe-trotting	globe-trotting	VBG	p2=JJ|pb=globe-trotting.01	4	advcl	4:AM-ADV
+13	healthcare	healthcare	NN	_	14	nn	_
+14	workers	worker	NNS	_	12	dobj	12:A1
+15	.	.	.	_	4	punct	_
+
+1	will	will	MD	_	2	aux	2:AM-MOD
+2	hitch	hitch	VB	pb=hitch.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	ride	ride	NN	_	2	dobj	2:A1=PPT
+5	on	on	IN	_	4	prep	_
+6	workers	worker	NNS	_	5	pobj	_
+7	as	as	IN	_	9	mark	_
+8	they	they	PRP	_	9	nsubj	9:A1=PPT
+9	return	return	VBP	pb=return.01	2	advcl	2:AM-TMP
+10	home	home	RB	_	9	advmod	9:A4=GOL
+11	.	.	.	_	2	punct	_
+
+1	expert	expert	NN	p2=VB	4	nn	_
+2	Dr	dr	NNP	_	4	nn	_
+3	Amesh	amesh	NNP	_	4	nn	_
+4	Adalja	adalja	NNP	_	0	root	_
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	University	university	NNP	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	Pittsburgh	pittsburgh	NNP	_	8	pobj	_
+10	Medical	medical	NNP	_	11	nn	_
+11	Centre	centre	NNP	_	7	appos	_
+12	.	.	.	_	4	punct	_
+
+1	It	it	PRP	_	3	nsubj	3:A0
+2	can	can	MD	_	3	aux	3:AM-MOD
+3	take	take	VB	pb=take.01	0	root	_
+4	five	#crd#	CD	_	6	number	_
+5	to	to	TO	_	6	quantmod	_
+6	14	0	CD	_	7	num	_
+7	days	day	NNS	_	3	dobj	3:A1=PPT
+8	for	for	IN	_	3	prep	3:A2=DIR
+9	someone	someone	NN	_	8	pobj	14:A0=CAU;10:A1=GOL
+10	infected	infect	VBN	p2=VBD|pb=infect.01	9	partmod	_
+11	with	with	IN	_	10	prep	10:A2=PPT
+12	MERS	mers	NNP	p2=NNS	11	pobj	_
+13	to	to	TO	_	14	aux	_
+14	show	show	VB	pb=show.01	10	advcl	10:AM-PRP
+15	symptoms	symptom	NNS	_	14	dobj	14:A1=PPT
+16	,	,	,	_	15	punct	_
+17	the	the	DT	_	18	det	_
+18	world	world	NN	_	15	appos	_
+19	without	without	IN	_	14	prep	14:AM-MNR
+20	being	be	VBG	pb=be.01	19	pcomp	_
+21	detectable	detectable	JJ	_	20	acomp	20:A2=PRD
+22	.	.	.	_	3	punct	_
+
+1	to	to	IN	_	7	prep	7:A2=GOL
+2	the	the	DT	_	4	det	_
+3	general	general	JJ	p2=NN	4	amod	_
+4	public	public	NN	p2=NNP	1	pobj	_
+5	,	,	,	_	7	punct	_
+6	Adalja	adalja	NNP	_	7	nsubj	7:A0
+7	said	say	VBD	pb=say.01	0	root	_
+8	.	.	.	_	7	punct	_
+
+1	bound	bind	VBN	p2=JJ|pb=bind.01	2	amod	_
+2	west	west	NN	p2=RB	0	root	1:A1=PPT
+3	.	.	.	_	2	punct	_
+
+1	Organization	organization	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	to	to	IN	p2=TO	0	root	_
+2	nurses	nurse	NNS	_	1	pobj	_
+3	,	,	,	_	2	punct	_
+4	doctors	doctor	NNS	_	2	conj	7:A1=GOL
+5	and	and	CC	_	4	cc	_
+6	recruiters	recruiter	NNS	p2=VBZ	4	conj	_
+7	interviewed	interview	VBN	pb=interview.01	4	partmod	_
+8	by	by	IN	_	7	agent	7:A0=PAG
+9	Reuters	reuters	NNP	p2=NNS	8	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	about	about	IN	p2=RB	6	prep	_
+2	MERS	mers	NNP	p2=NNS	1	pobj	_
+3	,	,	,	_	1	punct	_
+4	but	but	CC	_	6	cc	6:AM-DIS
+5	she	she	PRP	_	6	nsubj	6:A0
+6	wasnt	wasnt	VBD	p2=RB|pb=wasnt.01	0	root	_
+7	worried	worried	JJ	_	6	acomp	6:A2
+8	.	.	.	_	7	punct	_
+
+1	time	time	NN	_	0	root	_
+2	in	in	IN	_	1	prep	_
+3	years	year	NNS	_	2	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	three	#crd#	CD	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	day	day	NN	_	4	nn	_
+4	pilgrimage	pilgrimage	NN	_	0	root	5:A1=PPT
+5	ending	end	VBG	pb=end.01	4	partmod	_
+6	Sunday	sunday	NNP	_	5	npadvmod	5:AM-TMP
+7	[	[	-LRB-	_	9	punct	_
+8	18	0	CD	_	9	num	_
+9	May	may	NNP	p2=MD	6	appos	_
+10	]	]	-RRB-	_	9	punct	_
+11	.	.	.	_	4	punct	_
+
+1	"	"	``	_	8	punct	_
+2	The	the	DT	_	3	det	_
+3	pilgrimage	pilgrimage	NN	_	8	nsubj	8:A1=PPT
+4	of	of	IN	_	3	prep	_
+5	2014	0	CD	p2=NNP	4	pobj	_
+6	has	have	VBZ	p2=NNS	8	aux	_
+7	definitely	definitely	RB	_	8	advmod	8:AM-ADV
+8	been	be	VBN	pb=be.01	0	root	_
+9	a	a	DT	_	10	det	_
+10	success	success	NN	_	8	attr	8:A2=PRD
+11	.	.	.	_	8	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	9	ccomp	9:A1=PPT
+3	a	a	DT	_	5	det	_
+4	great	great	JJ	_	5	amod	_
+5	day	day	NN	_	2	attr	2:A2=PRD
+6	,	,	,	_	9	punct	_
+7	"	"	''	_	9	punct	_
+8	he	he	PRP	_	9	nsubj	9:A0;11:A0=PAG
+9	said	say	VBD	pb=say.01	0	root	_
+10	,	,	,	_	9	punct	_
+11	thanking	thank	VBG	pb=thank.01	9	xcomp	9:AM-ADV
+12	security	security	NN	_	13	nn	_
+13	forces	force	NNS	_	11	dobj	11:A1=PPT
+14	for	for	IN	_	11	prep	11:A2=CAU
+15	protecting	protect	VBG	pb=protect.01	14	pcomp	_
+16	the	the	DT	_	17	det	_
+17	event	event	NN	_	15	dobj	15:A1=PPT
+18	.	.	.	_	9	punct	_
+
+1	hundreds	#crd#	NNS	_	10	nsubj	2:A1=PPT
+2	attending	attend	VBG	pb=attend.01	1	partmod	_
+3	,	,	,	_	1	punct	_
+4	down	down	RB	p2=IN	1	advmod	_
+5	from	from	IN	_	4	prep	_
+6	a	a	DT	_	7	det	_
+7	peak	peak	NN	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	7,000	0	CD	_	8	pobj	_
+10	in	in	IN	_	0	root	_
+11	2000	0	CD	_	10	pobj	_
+12	.	.	.	_	1	punct	_
+
+1	diplomatic	diplomatic	JJ	_	2	amod	_
+2	relations	relation	NNS	_	0	root	_
+3	with	with	IN	_	2	prep	_
+4	Israel	israel	NNP	_	3	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	time	time	NN	_	4	npadvmod	4:AM-TMP
+2	she	she	PRP	_	4	nsubj	4:A0=PAG
+3	had	have	VBD	_	4	aux	_
+4	done	do	VBN	pb=do.02	0	root	_
+5	the	the	DT	_	6	det	_
+6	pilgrimage	pilgrimage	NN	_	4	dobj	4:A1=PPT
+7	since	since	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	revolution	revolution	NN	_	7	pobj	_
+10	.	.	.	_	4	punct	_
+
+1	come	come	VB	p2=VBP|pb=come.01	5	ccomp	5:A1=PPT
+2	,	,	,	_	5	punct	_
+3	"	"	''	p2=``	5	punct	_
+4	she	she	PRP	_	5	nsubj	5:A0
+5	said	say	VBD	pb=say.01	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	business	business	NN	_	2	nn	_
+2	owners	owner	NNS	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	B.C.	b.c.	NNP	p2=NNS	4	nsubj	4:A0=PAG
+2	,	,	,	_	15	punct	_
+3	once	once	RB	_	4	advmod	4:AM-TMP
+4	drew	draw	VBD	pb=draw.02	15	ccomp	15:A1=PPT
+5	up	up	IN	p2=RP	7	quantmod	_
+6	to	to	TO	p2=IN	7	quantmod	_
+7	2,000	0	CD	_	8	num	_
+8	visitors	visitor	NNS	_	4	dobj	4:A1=PPT
+9	per	per	IN	_	8	prep	_
+10	day	day	NN	_	9	pobj	_
+11	,	,	,	_	15	punct	_
+12	Jewish	jewish	JJ	_	13	amod	_
+13	leaders	leader	NNS	_	15	nsubj	15:A0
+14	have	have	VBP	_	15	aux	_
+15	said	say	VBN	p2=VBD|pb=say.01	0	root	_
+16	.	.	.	_	15	punct	_
+
+1	messages	message	NNS	_	0	root	_
+2	on	on	IN	_	1	prep	_
+3	them	them	PRP	_	2	pobj	_
+4	.	.	.	_	1	punct	_
+
+1	Palestinian	palestinian	JJ	_	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	Israeli	israeli	JJ	_	4	amod	_
+4	conflict	conflict	NN	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	one	#crd#	CD	p2=NN	0	root	3:A0=PAG
+2	that	that	WDT	_	3	nsubj	3:R-A0
+3	lives	live	VBZ	pb=live.01	1	rcmod	_
+4	side-by-side	side-by-side	JJ	p2=RB	3	acomp	3:AM-ADV
+5	with	with	IN	_	4	prep	_
+6	Israel	israel	NNP	_	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	News	news	NNP	_	2	nn	_
+2	Agency	agency	NNP	_	6	nsubj	6:A0=PAG
+3	,	,	,	_	2	punct	_
+4	Petra	petra	NNP	_	2	npadvmod	_
+5	,	,	,	_	2	punct	_
+6	reported	report	VBD	pb=report.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	economic	economic	JJ	_	2	amod	_
+2	burden	burden	NN	_	0	root	_
+3	on	on	IN	_	2	prep	_
+4	Jordan	jordan	NNP	_	3	pobj	_
+5	due	due	IN	p2=JJ	2	prep	_
+6	to	to	IN	_	5	pcomp	_
+7	hosting	host	VBG	pb=host.01	5	pcomp	_
+8	large	large	JJ	_	9	amod	_
+9	number	number	NN	_	7	dobj	7:A1=GOL
+10	of	of	IN	_	9	prep	_
+11	refugees	refugee	NNS	_	10	pobj	_
+12	.	.	.	_	2	punct	_
+
+1	own	own	JJ	p2=VBP	3	amod	_
+2	independent	independent	JJ	_	3	amod	_
+3	state	state	NN	_	0	root	_
+4	.	.	.	_	3	punct	_
+

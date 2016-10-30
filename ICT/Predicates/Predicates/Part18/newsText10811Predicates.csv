@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+NATO,see.01,any evidence of,,Affirmative,"Brussels : NATO has not seen any evidence of Russia pulling back troops from Ukraine after Russian President Vladimir Putin ordered a withdrawal , Xinhua cited NATO Secretary General Anders Fogh Rasmussen as saying Monday . "
+Russia 's,pull.01,troops,back,Affirmative,"Brussels : NATO has not seen any evidence of Russia pulling back troops from Ukraine after Russian President Vladimir Putin ordered a withdrawal , Xinhua cited NATO Secretary General Anders Fogh Rasmussen as saying Monday . "
+President Vladimir Putin,order.01,a withdrawal,,Affirmative,"Brussels : NATO has not seen any evidence of Russia pulling back troops from Ukraine after Russian President Vladimir Putin ordered a withdrawal , Xinhua cited NATO Secretary General Anders Fogh Rasmussen as saying Monday . "
+Xinhua,cite.01,General Anders Fogh Rasmussen,as saying Monday,Affirmative,"Brussels : NATO has not seen any evidence of Russia pulling back troops from Ukraine after Russian President Vladimir Putin ordered a withdrawal , Xinhua cited NATO Secretary General Anders Fogh Rasmussen as saying Monday . "
+Russian President Vladimir Putin,order.01,the defence minister for withdrawal of,,Affirmative,"According to the Russian official , President Putin ordered the defence minister for withdrawal of the troops to their permanent bases in Western Russia near Ukraine border , Xinhua reported . "
+Xinhua,report.01,Putin ordered,,Affirmative,"According to the Russian official , President Putin ordered the defence minister for withdrawal of the troops to their permanent bases in Western Russia near Ukraine border , Xinhua reported . "
+NATO Secretary General Anders Fogh Rasmussen as saying Monday,claim.01,action caused,,Affirmative,Rasmussen also claimed Russia 's action caused a negative effect on Ukraine . 
+action,cause.01,a negative effect on Ukraine,,Affirmative,Rasmussen also claimed Russia 's action caused a negative effect on Ukraine . 
+aggression against Ukraine,challenge.01,right of states,,Affirmative,"Russia 's aggression against Ukraine has challenged right of states to choose their own path , he said . "
+NATO Secretary General Anders Fogh Rasmussen as saying Monday,say.01,has challenged right of states,,Affirmative,"Russia 's aggression against Ukraine has challenged right of states to choose their own path , he said . "
+NATO Secretary General Anders Fogh Rasmussen as saying Monday,stress.01,its importance,,Affirmative,"Talking about the upcoming Ukrainian presidential election , he stressed its importance in accordance with international laws and standards . "
+NATO Secretary General Anders Fogh Rasmussen as saying Monday,say.01,This is,,Affirmative,"This is the vote that counts for Ukraine and the international community , he said . "
+Ukraine,hold.04,early presidential election,,Affirmative,"Ukraine will hold early presidential election May 25 , which the eastern regions of Donetsk and Lugansk have refused to recognise . "
+the eastern regions of Donetsk and Lugansk,refuse.01,to recognise,,Affirmative,"Ukraine will hold early presidential election May 25 , which the eastern regions of Donetsk and Lugansk have refused to recognise . "
+the eastern regions of Donetsk and Lugansk,recognise.01,"May 25 ,",,Affirmative,"Ukraine will hold early presidential election May 25 , which the eastern regions of Donetsk and Lugansk have refused to recognise . "
+Comments containing,contain.01,language,,Affirmative,Comments containing abusive and offensive language . 
+Comments targeting,target.01,"a specific community , caste , nationality or religion",,Affirmative,"Comments targeting a specific community , caste , nationality or religion . "

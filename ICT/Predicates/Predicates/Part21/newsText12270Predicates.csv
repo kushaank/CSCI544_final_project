@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Kentucky angel investor,put.11,"$ 500,000",,Affirmative,"A Kentucky angel investor is putting up $ 500,000 annually to help launch entrepreneurial businesses . "
+A Kentucky angel investor,help.01,launch,,Affirmative,"A Kentucky angel investor is putting up $ 500,000 annually to help launch entrepreneurial businesses . "
+A Kentucky angel investor,launch.01,entrepreneurial businesses,,Affirmative,"A Kentucky angel investor is putting up $ 500,000 annually to help launch entrepreneurial businesses . "
+founder Pearse Lyons,announce.01,his pledge,,Affirmative,Alltech founder Pearse Lyons announced his pledge at the 30th Annual International Symposium being held this week in Lexington . 
+"Susanna Elliott , spokesperson for Alltech",say.01,company plans,,Affirmative,"Susanna Elliott , spokesperson for Alltech , said the company plans to launch a website for the program in June with program details . "
+the company,plan.01,to launch,,Affirmative,"Susanna Elliott , spokesperson for Alltech , said the company plans to launch a website for the program in June with program details . "
+the company,launch.01,a website,,Affirmative,"Susanna Elliott , spokesperson for Alltech , said the company plans to launch a website for the program in June with program details . "
+Susanna Elliott,add.01,Fund was borne out of,,Affirmative,"She added that the Lyonsâ€™ Den Fund was borne out of the Alltech Innovation Competition , which attracted six university business teams in Ireland and eight university business teams in Kentucky this year . "
+"the Alltech Innovation Competition ,",attract.01,six university business teams in Ireland,,Affirmative,"She added that the Lyonsâ€™ Den Fund was borne out of the Alltech Innovation Competition , which attracted six university business teams in Ireland and eight university business teams in Kentucky this year . "
+"its FuturFry deep fryer ,",help.01,operators save,,Affirmative,"The company won for its FuturFry deep fryer , which will help restaurant operators save 40 percent on annual cooking oil costs . "
+restaurant operators,save.01,40 percent,,Affirmative,"The company won for its FuturFry deep fryer , which will help restaurant operators save 40 percent on annual cooking oil costs . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

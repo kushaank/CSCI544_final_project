@@ -1,0 +1,16 @@
+1	Board	board	NNP	p2=NN	6	nsubj	6:A0=PAG
+2	of	of	IN	_	1	prep	_
+3	British	british	NNP	p2=JJ	5	nn	_
+4	drugmaker	drugmaker	NNP	p2=NN	5	nn	_
+5	AstraZeneca	astrazeneca	NNP	_	2	pobj	_
+6	rejects	reject	VBZ	pb=reject.01	0	root	_
+7	new	new	JJ	p2=RB	12	amod	_
+8	$	$	$	_	10	quantmod	_
+9	119	0	CD	_	10	number	_
+10	billion	#crd#	CD	_	12	nn	_
+11	takeover	takeover	NN	p2=WDT	12	nn	_
+12	offer	offer	NN	_	6	dobj	6:A1=PPT
+13	from	from	IN	_	12	prep	_
+14	Pfizer	pfizer	NNP	_	13	pobj	_
+15	.	.	.	_	6	punct	_
+

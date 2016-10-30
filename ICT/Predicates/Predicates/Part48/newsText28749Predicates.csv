@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Barack Obama,nominate.01,Justice Geoffrey Crawford of,to serve as,Affirmative,"President Barack Obama will nominate Associate Justice Geoffrey Crawford of the Vermont Supreme Court to serve as Vermont 's next federal court judge , Sen. Patrick Leahy , D - Vt . "
+President Barack Obama,serve.01,as,,Affirmative,"President Barack Obama will nominate Associate Justice Geoffrey Crawford of the Vermont Supreme Court to serve as Vermont 's next federal court judge , Sen. Patrick Leahy , D - Vt . "
+Leahy,recommend.01,Associate Justice Geoffrey Crawford of the Vermont Supreme Court,,Affirmative,"Leahy recommended Crawford in March to succeed U.S. District Judge William Sessions , who will accept senior status . "
+Leahy,succeed.02,"Judge William Sessions ,",,Affirmative,"Leahy recommended Crawford in March to succeed U.S. District Judge William Sessions , who will accept senior status . "
+"Judge William Sessions ,",accept.01,senior status,,Affirmative,"Leahy recommended Crawford in March to succeed U.S. District Judge William Sessions , who will accept senior status . "
+Associate Justice Geoffrey Crawford of the Vermont Supreme Court,join.01,Judge Christina Reiss,,Affirmative,"If approved , Crawford will join Judge Christina Reiss on the federal bench from Vermont . "
+Crawford,earn.01,an undergraduate degree,,Affirmative,"According to the news release , Crawford earned an undergraduate degree from Yale and a law degree from Harvard Law School in 1980 . "
+Associate Justice Geoffrey Crawford of the Vermont Supreme Court,serve.01,as,,Affirmative,From 1980 to 1981 he served as a law clerk to Hon . 
+he and,form.01,"the firm of O'Neill , Crawford & Green ,",,Affirmative,"In 1987 he and Jerome F. O'Neill formed the firm of O'Neill , Crawford & Green , where he practiced until 2002 . "
+He and,raise.01,five children,,Affirmative,He and his wife have raised five children . 
+VTDigger.org,require.01,commenters identify themselves by,,Affirmative,VTDigger.org requires that all commenters identify themselves by their authentic first and last names . 
+all commenters,identify.01,themselves,,Affirmative,VTDigger.org requires that all commenters identify themselves by their authentic first and last names . 
+a result of,create.01,a safe zone,,Affirmative,"As a result of our comment policy , VTDigger.org has created a safe zone for readers who wish to engage in a thoughtful discussion on a range of subjects , regardless of where they stand . "
+readers,wish.01,to engage in,,Affirmative,"As a result of our comment policy , VTDigger.org has created a safe zone for readers who wish to engage in a thoughtful discussion on a range of subjects , regardless of where they stand . "
+We,hope.01,you join,,Affirmative,We hope you join the conversation . 
+you,join.01,the conversation,,Affirmative,We hope you join the conversation . 
+VTDigger.org,share.01,specific information about,with,Affirmative,VTDigger.org does not share specific information about our readers with other entities . 
+we,collect.01,Email addresses,,Affirmative,Email addresses we collect through our subscription list and comment submissions are kept private . 
+We,use.01,Google analytics,to generate,Affirmative,We use Google analytics to generate aggregated data regarding the size and geographic distribution of our readership . 
+We,generate.01,aggregated data regarding,,Affirmative,We use Google analytics to generate aggregated data regarding the size and geographic distribution of our readership . 
+This information,help.01,us gauge,,Affirmative,This information helps us gauge how many readers come to the website and what towns they live in . 
+your donation,help.01,fund,,Affirmative,"We 're an independent nonprofit organization , your donation helps fund the digging , and , it 's tax deductible . "
+Obama,nominate.01,Crawford,as,Affirmative,"Thanks for reporting an error with the story , Obama to nominate Crawford as federal judge "

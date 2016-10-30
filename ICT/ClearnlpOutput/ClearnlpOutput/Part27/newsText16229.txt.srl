@@ -1,0 +1,17 @@
+1	that	that	DT	p2=WDT	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	8	ccomp	_
+3	quick	quick	JJ	_	2	acomp	2:A2=PRD
+4	,	,	,	_	8	punct	_
+5	All	all	DT	p2=NNP	6	det	_
+6	Pakistanis	pakistani	NNPS	p2=NNP	8	nsubj	8:A0=PAG
+7	should	should	MD	_	8	aux	8:AM-MOD
+8	apply	apply	VB	pb=apply.02	0	root	_
+9	US	us	NNP	_	10	nn	_
+10	citizenship	citizenship	NN	_	8	dobj	8:A1=PPT
+11	for	for	IN	_	8	prep	_
+12	quick	quick	JJ	p2=NN	15	amod	_
+13	and	and	CC	_	12	cc	_
+14	fare	fare	JJ	p2=NN	12	conj	_
+15	Judgment	judgment	NNP	p2=NN	11	pobj	_
+16	.	.	.	_	8	punct	_
+

@@ -1,0 +1,91 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A murder accused,say.01,things got out of hand,,Affirmative,A murder accused said things got out of hand before he killed his neighbour 72 - year - old Rose Doughty . 
+he,kill.01,old Rose Doughty,,Affirmative,A murder accused said things got out of hand before he killed his neighbour 72 - year - old Rose Doughty . 
+Christian Darko,need.01,a psychiatrist,,Affirmative,"Christian Darko , 41 , told a psychiatrist he needed to buy electricity and asked Rose Doughty , who lived in the flat above his , for money . "
+Christian Darko,buy.01,electricity,,Affirmative,"Christian Darko , 41 , told a psychiatrist he needed to buy electricity and asked Rose Doughty , who lived in the flat above his , for money . "
+his neighbour,say.01,she was unable,,Affirmative,She said she was unable to help him but offered him sugar and a flask of hot water on the night of November 22 last year . 
+his neighbour,help.01,Christian Darko,,Affirmative,She said she was unable to help him but offered him sugar and a flask of hot water on the night of November 22 last year . 
+his neighbour,offer.01,sugar and,,Affirmative,She said she was unable to help him but offered him sugar and a flask of hot water on the night of November 22 last year . 
+Teesside Crown Court,hear.01,He made,,Affirmative,"He made further visits to her flat the following morning , Teesside Crown Court heard . "
+psychiatrist Dr Pablo Vandenabeele,say.01,He told me,,Affirmative,"Consultant psychiatrist Dr Pablo Vandenabeele , giving evidence today , said : He told me he had taken a knife with him as he had planned to scare her . "
+Christian Darko,tell.01,he had taken,me,Affirmative,"Consultant psychiatrist Dr Pablo Vandenabeele , giving evidence today , said : He told me he had taken a knife with him as he had planned to scare her . "
+Christian Darko,take.01,a knife,with him,Affirmative,"Consultant psychiatrist Dr Pablo Vandenabeele , giving evidence today , said : He told me he had taken a knife with him as he had planned to scare her . "
+Christian Darko,plan.01,to scare her,,Affirmative,"Consultant psychiatrist Dr Pablo Vandenabeele , giving evidence today , said : He told me he had taken a knife with him as he had planned to scare her . "
+Christian Darko,scare.01,his neighbour,,Affirmative,"Consultant psychiatrist Dr Pablo Vandenabeele , giving evidence today , said : He told me he had taken a knife with him as he had planned to scare her . "
+Christian Darko,ask.01,for money,her,Affirmative,He asked her once again for money . 
+Christian Darko,tell.01,she refused,me,Affirmative,"He told me she refused to give any money to him , and he said things got out of hand . "
+she,refuse.01,to give,,Affirmative,"He told me she refused to give any money to him , and he said things got out of hand . "
+she,give.01,any money,to him,Affirmative,"He told me she refused to give any money to him , and he said things got out of hand . "
+Christian Darko,say.01,things got out of hand,,Affirmative,"He told me she refused to give any money to him , and he said things got out of hand . "
+Christian Darko,take.01,a knife with him,out of,Affirmative,He then took the knife out of his pocket in order to scare her . 
+Christian Darko,say.01,Doughty started screaming and tried,,Affirmative,He said that Mrs Doughty started screaming and tried to grab him in order to get hold of the knife . 
+stab Mrs Doughty,start.01,screaming,,Affirmative,He said that Mrs Doughty started screaming and tried to grab him in order to get hold of the knife . 
+stab Mrs Doughty,try.01,to grab him in order,,Affirmative,He said that Mrs Doughty started screaming and tried to grab him in order to get hold of the knife . 
+stab Mrs Doughty,grab.01,stab Mrs Doughty,,Affirmative,He said that Mrs Doughty started screaming and tried to grab him in order to get hold of the knife . 
+Christian Darko,tell.01,he stabbed or tried,the psychiatrist,Affirmative,"Darko told the psychiatrist he stabbed or tried to stab Mrs Doughty and put his hands around her neck , then went back to his flat and cleaned the knife . "
+Christian Darko,try.01,to stab,,Affirmative,"Darko told the psychiatrist he stabbed or tried to stab Mrs Doughty and put his hands around her neck , then went back to his flat and cleaned the knife . "
+Christian Darko,stab.01,stab Mrs Doughty,,Affirmative,"Darko told the psychiatrist he stabbed or tried to stab Mrs Doughty and put his hands around her neck , then went back to his flat and cleaned the knife . "
+Christian Darko,put.01,his hands,around,Affirmative,"Darko told the psychiatrist he stabbed or tried to stab Mrs Doughty and put his hands around her neck , then went back to his flat and cleaned the knife . "
+"Dr Vandenabeele ,",treat.01,disordered offenders,,Affirmative,"Dr Vandenabeele , who treats mentally disordered offenders , said : It is my view that he was suffering from a mental disorder at the time of the alleged offence . "
+"Dr Vandenabeele ,",say.01,It is,,Affirmative,"Dr Vandenabeele , who treats mentally disordered offenders , said : It is my view that he was suffering from a mental disorder at the time of the alleged offence . "
+Christian Darko,suffer.01,from,,Affirmative,"Dr Vandenabeele , who treats mentally disordered offenders , said : It is my view that he was suffering from a mental disorder at the time of the alleged offence . "
+Teesside Crown Court,hear.01,IQ was assessed as 65,,Affirmative,"The court had heard how Darko 's IQ was assessed as 65 , extremely low intelligence , in the bottom 1 % of the population . "
+Consultant psychiatrist Dr Pablo Vandenabeele,believe.01,he had,,Affirmative,Dr Vandenabeele believed he had an abnormality of mental functioning which substantially impaired his ability to exercise self - control and to form rational judgments . 
+Consultant psychiatrist Dr Pablo Vandenabeele,have.03,an abnormality of,,Affirmative,Dr Vandenabeele believed he had an abnormality of mental functioning which substantially impaired his ability to exercise self - control and to form rational judgments . 
+an abnormality of,impair.01,his ability,,Affirmative,Dr Vandenabeele believed he had an abnormality of mental functioning which substantially impaired his ability to exercise self - control and to form rational judgments . 
+Consultant psychiatrist Dr Pablo Vandenabeele,refer.01,to,,Affirmative,"He referred to a history of aggressive and destructive behaviour , acting without understanding the impact or consequences . "
+The witness,add.01,It is,,Affirmative,The witness added : It is my belief that he acts in such a way because he does n't have the skills to deal with it in any other way . 
+Consultant psychiatrist Dr Pablo Vandenabeele,have.03,the skills,,Affirmative,The witness added : It is my belief that he acts in such a way because he does n't have the skills to deal with it in any other way . 
+Christian Darko,admit.01,manslaughter,,Affirmative,Darko admits manslaughter but denies murder on the basis of diminished responsibility . 
+Christian Darko,deny.01,murder,,Affirmative,Darko admits manslaughter but denies murder on the basis of diminished responsibility . 
+Consultant psychiatrist Dr Pablo Vandenabeele,say.01,there was evidence,,Affirmative,"Dr Vandenabeele said there was evidence Darko was socially and emotionally immature , badgering his neighbours for money without realising he was annoying them . "
+Christian Darko,badger.01,his neighbours,for money,Affirmative,"Dr Vandenabeele said there was evidence Darko was socially and emotionally immature , badgering his neighbours for money without realising he was annoying them . "
+Christian Darko,annoy.01,his neighbours,,Affirmative,"Dr Vandenabeele said there was evidence Darko was socially and emotionally immature , badgering his neighbours for money without realising he was annoying them . "
+Consultant psychiatrist Dr Pablo Vandenabeele,say.01,Darko had,,Affirmative,"He said twice - married Darko had poor budgeting skills , in arrears for his electricity while spending money on the lottery . "
+married Darko,have.03,poor budgeting skills,,Affirmative,"He said twice - married Darko had poor budgeting skills , in arrears for his electricity while spending money on the lottery . "
+Consultant psychiatrist Dr Pablo Vandenabeele,say.01,He was buying,,Affirmative,"Dr Vandenabeele said : He was buying all these lottery tickets , not because he was psychotic but because he genuinely believed that was a sensible investment . "
+Christian Darko,buy.01,all these lottery tickets,,Affirmative,"Dr Vandenabeele said : He was buying all these lottery tickets , not because he was psychotic but because he genuinely believed that was a sensible investment . "
+Christian Darko,believe.01,that was,,Affirmative,"Dr Vandenabeele said : He was buying all these lottery tickets , not because he was psychotic but because he genuinely believed that was a sensible investment . "
+Christian Darko,believe.01,that was,,Affirmative,"He believed that was a sensible way of getting him out of his misery , living where he did n't like living . "
+Christian Darko,like.01,living,,Affirmative,"He believed that was a sensible way of getting him out of his misery , living where he did n't like living . "
+Christian Darko,say.01,Darko had,,Affirmative,"He said Darko had a difficult birth in Ghana followed by convulsions and a delay in his speech development , and he was sent to the UK aged seven for a good education at a private school in London . "
+Christian Darko,have.03,a difficult birth in Ghana,,Affirmative,"He said Darko had a difficult birth in Ghana followed by convulsions and a delay in his speech development , and he was sent to the UK aged seven for a good education at a private school in London . "
+Christian Darko,have.03,behavioural difficulties,,Affirmative,"He had behavioural difficulties , attracted bad friends , struggled academically and moved to a special school . "
+Christian Darko,attract.01,bad friends,,Affirmative,"He had behavioural difficulties , attracted bad friends , struggled academically and moved to a special school . "
+Christian Darko,think.01,Darko was suffering,,Affirmative,"He did not think Darko was suffering suicidal or self - harm ideas , delusional beliefs or hallucinations , though Darko told him he had once tried to set himself on fire . "
+Christian Darko,suffer.01,"ideas ,",,Affirmative,"He did not think Darko was suffering suicidal or self - harm ideas , delusional beliefs or hallucinations , though Darko told him he had once tried to set himself on fire . "
+Christian Darko,tell.01,he had once tried,him,Affirmative,"He did not think Darko was suffering suicidal or self - harm ideas , delusional beliefs or hallucinations , though Darko told him he had once tried to set himself on fire . "
+Christian Darko,try.01,to set himself on fire,,Affirmative,"He did not think Darko was suffering suicidal or self - harm ideas , delusional beliefs or hallucinations , though Darko told him he had once tried to set himself on fire . "
+Christian Darko,set.02,Christian Darko,on fire,Affirmative,"He did not think Darko was suffering suicidal or self - harm ideas , delusional beliefs or hallucinations , though Darko told him he had once tried to set himself on fire . "
+Christian Darko,say.01,Darko denied hearing voices in,,Affirmative,"He said Darko denied hearing voices in his head on the day of the killing , though he had about three weeks earlier . "
+Christian Darko,deny.01,hearing voices in,,Affirmative,"He said Darko denied hearing voices in his head on the day of the killing , though he had about three weeks earlier . "
+Christian Darko,hear.01,voices,,Affirmative,"He said Darko denied hearing voices in his head on the day of the killing , though he had about three weeks earlier . "
+Christian Darko,tell.01,he was attacked in prison,him,Affirmative,"Darko told him he was attacked in prison , put on a form of suicide watch , seen by the mental health team and prescribed Prozac . "
+by,see.01,"suicide watch , seen by",,Affirmative,"Darko told him he was attacked in prison , put on a form of suicide watch , seen by the mental health team and prescribed Prozac . "
+Christian Darko,believe.01,Darko left,,Affirmative,He believed Darko left the dock during the trial because he was overwhelmed with the levels of anxiety . 
+Christian Darko,leave.01,the dock,,Affirmative,He believed Darko left the dock during the trial because he was overwhelmed with the levels of anxiety . 
+barrister Andrew Robertson QC,say.01,it would be,,Affirmative,Defence barrister Andrew Robertson QC said it would be for the jury to decide whether Darko 's mental abnormality explained what he did . 
+the jury,decide.01,abnormality explained,,Affirmative,Defence barrister Andrew Robertson QC said it would be for the jury to decide whether Darko 's mental abnormality explained what he did . 
+mental abnormality,explain.01,what he did,,Affirmative,Defence barrister Andrew Robertson QC said it would be for the jury to decide whether Darko 's mental abnormality explained what he did . 
+Defence barrister Andrew Robertson QC,tell.01,There is,the court,Affirmative,He told the court : There is no doubt that he was responsible for the homicide of Mrs Doughty . 
+Teesside Crown Court,hear.01,Darko had,,Affirmative,"The court heard Darko had no previous convictions , cautions or reprimands . "
+Christian Darko,have.03,"no previous convictions , cautions or reprimands",,Affirmative,"The court heard Darko had no previous convictions , cautions or reprimands . "
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+by,read.01,The Evening Gazette,,Affirmative,"The Evening Gazette is read by more adults than any other newspaper on sale in the Teesside area , with 95,949 average readership and 36,986 copies purchased each day , providing extensive coverage across the region . "
+"36,986 copies",provide.01,extensive coverage,,Affirmative,"The Evening Gazette is read by more adults than any other newspaper on sale in the Teesside area , with 95,949 average readership and 36,986 copies purchased each day , providing extensive coverage across the region . "
+"206,000 adults",look.01,for,,Affirmative,"206,000 adults would turn to the Evening Gazette when looking for a job . "
+"205,000 adults",look.01,for articles for sale in,,Affirmative,"205,000 adults would turn to the Evening Gazette when looking for articles for sale in the classified section . "
+"146,000 adults",plan.01,activities,,Affirmative,"146,000 adults would turn to the Evening Gazette when planning entertainment and leisure activities . "
+Audience,figure.03,from Omniture,,Affirmative,"Audience figures from Omniture , monthly average ( Jan 12 - Jun 12 ) . "
+31 % of,click.01,to,,Affirmative,"More than 31 % of GazetteLive users have clicked through to an online advertisement , demonstrating their receptiveness to effective online advertising . "
+31 % of,demonstrate.01,their receptiveness,to,Affirmative,"More than 31 % of GazetteLive users have clicked through to an online advertisement , demonstrating their receptiveness to effective online advertising . "
+GazetteLive,reach.01,savvy audience,,Affirmative,"GazetteLive reaches an internet - savvy audience , with 82 % of users having purchased products or services online in the past 12 months . "
+GazetteLive users,purchase.01,products or services,,Affirmative,"GazetteLive reaches an internet - savvy audience , with 82 % of users having purchased products or services online in the past 12 months . "
+Christian Darko,have.03,years experience,,Affirmative,"Chris has more than 20 years experience as a journalist and has previously worked in senior positions in Newcastle , Exeter and Nottingham . "

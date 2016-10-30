@@ -1,0 +1,43 @@
+1	any	any	DT	_	2	det	_
+2	chance	chance	NN	_	0	root	_
+3	that	that	IN	p2=WDT	6	complm	_
+4	you	you	PRP	_	6	nsubj	6:A0=PAG;10:A0=PAG
+5	actually	actually	RB	_	6	advmod	6:AM-ADV
+6	read	read	VBP	p2=VBD|pb=read.01	2	ccomp	_
+7	the	the	DT	_	8	det	_
+8	article	article	NN	_	6	dobj	6:A1=PPT
+9	before	before	IN	_	6	prep	_
+10	commenting	comment	VBG	pb=comment.01	9	pcomp	_
+11	?	?	.	_	2	punct	_
+
+1	the	the	DT	_	3	det	_
+2	unfortunate	unfortunate	JJ	_	3	amod	_
+3	lady	lady	NN	_	4	nsubj	7:A0=PPT
+4	felt	feel	VBD	p2=VBN|pb=feel.01	0	root	_
+5	unwell	unwell	JJ	p2=RB	4	acomp	4:A1=PPT
+6	before	before	IN	_	4	prep	4:AM-TMP
+7	entering	enter	VBG	pb=enter.01	6	pcomp	_
+8	the	the	DT	_	9	det	_
+9	water	water	NN	_	7	dobj	7:A1=LOC
+10	.	.	.	_	4	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	n't	not	RB	_	2	neg	2:AM-NEG
+4	a	a	DT	_	6	det	_
+5	diving	diving	NN	p2=JJ	6	amod	_
+6	death	death	NN	_	2	attr	2:A2=PRD
+7	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	2	det	_
+2	lady	lady	NN	_	4	nsubj	4:A0=PAG
+3	was	be	VBD	_	4	aux	_
+4	preparing	prepare	VBG	pb=prepare.02	0	root	_
+5	for	for	IN	_	4	prep	4:A2=PRP
+6	a	a	DT	_	7	det	_
+7	dive	diva	NN	_	5	pobj	_
+8	not	not	RB	_	7	neg	_
+9	actually	actually	RB	_	10	advmod	_
+10	diving	diving	NN	p2=VBG	7	appos	_
+11	.	.	.	_	4	punct	_
+

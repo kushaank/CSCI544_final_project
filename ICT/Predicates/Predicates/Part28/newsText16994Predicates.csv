@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Schools,keep.02,intruders,,Affirmative,"Schools are focused on keeping intruders out , but an even greater danger to the safety of kids at school is being ignored in Arizona : the threat of fire . "
+ Inspectors,check.01,for,,Affirmative," Inspectors check for blocked exits , working sprinklers , hazardous materials being stored improperly -  anything that can cause a disaster or slow down an escape . "
+that,cause.01,a disaster,,Affirmative," Inspectors check for blocked exits , working sprinklers , hazardous materials being stored improperly -  anything that can cause a disaster or slow down an escape . "
+Many parents,assume safety.01,checks like this,,Affirmative,Many parents assume safety checks like this happen every year . 
+CBS 5 News,discover.01,was,,Affirmative, CBS 5 News discovered the last time Tavan was inspected was three or four years ago . 
+News,wonder.01,about dangers,,Affirmative,CBS 5 News wondered about dangers that could be lurking behind closed doors . 
+could be lurking behind,close.01,doors,,Affirmative,CBS 5 News wondered about dangers that could be lurking behind closed doors . 
+Fire Marshal Rich Kochanski,refer.01,to,,Affirmative,"My fear is that they are over 10 years , many of them , said Mesa Fire Marshal Rich Kochanski , referring to the last time some school buildings were checked . "
+you,divide.02,the number of,by,Affirmative,"If you divide the number of school buildings by the four inspectors and then for the 365 days of the year , each inspector would have to clear nine buildings a day just to get through them all . "
+each inspector,clear nine.01,day just to get through them all,,Affirmative,"If you divide the number of school buildings by the four inspectors and then for the 365 days of the year , each inspector would have to clear nine buildings a day just to get through them all . "
+you,fact that.01,schools take,,Affirmative,That does n't take into consideration travel time or the fact that several schools take more than one day to inspect properly . 
+several schools,take.10,one day,,Affirmative,That does n't take into consideration travel time or the fact that several schools take more than one day to inspect properly . 
+Rich Kochanski,say.01,danger grows with,,Affirmative,He said he fears that the danger grows with every passing day . 
+an even greater danger to the safety of kids at school,worry.01,Rich Kochanski,,Affirmative,"Absolutely , it worries me , Kochanski said . "
+Rich Kochanski,say.01,"Absolutely , it worries me",,Affirmative,"Absolutely , it worries me , Kochanski said . "
+Rich Kochanski,have.03,small children,,Affirmative,I have small children myself . 
+small children,need.01,to take care of,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+small children,take.LV,of,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+small children,need.01,to shift,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+small children,shift.01,the money,to,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+small children,help.01,us pay,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+us,pay.01,personnel to do,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+the personnel,do.02,the work,,Affirmative,"The responsibility lies with the state , and they need to take care of their responsibility or they need to shift the money over to the local jurisdictions and help us pay for the personnel to do the work . "
+"many cities like Scottsdale , Glendale , Gilbert and Chandler",sign.02,memorandums of understanding with,,Affirmative,"It's become so bad , many cities like Scottsdale , Glendale , Gilbert and Chandler have signed memorandums of understanding with the state . "
+The documents,say.01,we understand,,Affirmative,The documents basically say we understand we ca n't count on you so we will do the inspections ourselves at our own cost . 
+us,understand.01,we ca n't count on you,,Affirmative,The documents basically say we understand we ca n't count on you so we will do the inspections ourselves at our own cost . 
+us,count.03,on you,,Affirmative,The documents basically say we understand we ca n't count on you so we will do the inspections ourselves at our own cost . 
+us,do.02,the inspections,,Affirmative,The documents basically say we understand we ca n't count on you so we will do the inspections ourselves at our own cost . 
+many cities,have.03,the funds or,,Affirmative,But many cities do n't have the funds or the expertise to pick up the slack . 
+state Fire Marshall Bob Barger,say.01,"It 's getting better , but",,Affirmative,"It 's getting better , but I 'm not [ satisfied ] , Barger said . "
+We,love.02,to get everything,,Affirmative,"We would love to get everything every year for public safety , that 's what we 're here for . "
+We,get.01,everything,,Affirmative,"We would love to get everything every year for public safety , that 's what we 're here for . "
+state Fire Marshall Bob Barger,say.01,it would be difficult,,Affirmative,Barger said it would be difficult . 
+We,have.03,the staffing,,Affirmative,"Well , yes , it 's impossible with the staffing we have right now , Barger said . "
+state Fire Marshall Bob Barger,say.01,"Well , yes , it 's impossible with",,Affirmative,"Well , yes , it 's impossible with the staffing we have right now , Barger said . "
+Fire Inspector Dan Ierley,hate.01,to say,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+Fire Inspector Dan Ierley,say.01,no way,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+Fire Inspector Dan Ierley,know.01,that I have,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+for me to cover everything,take.02,years,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+Fire Inspector Dan Ierley,cover.01,everything,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+Inspector Dan Ierley,say.01,I 'd hate,,Affirmative,"I 'd hate to say no way , but with the buildings that I know that I have to cover , it 's going to take years for me to cover everything that I have to get to , said Fire Inspector Dan Ierley . "
+News,try.01,to ask,,Affirmative,CBS 5 News tried to ask the people with the purse strings why the state fire marshal ca n't get the funding it needs to protect our children . 
+News,ask.01,marshal ca n't get,the people with,Affirmative,CBS 5 News tried to ask the people with the purse strings why the state fire marshal ca n't get the funding it needs to protect our children . 
+fire marshal,get.01,the funding,,Affirmative,CBS 5 News tried to ask the people with the purse strings why the state fire marshal ca n't get the funding it needs to protect our children . 
+CBS 5 News,need.01,the funding,,Affirmative,CBS 5 News tried to ask the people with the purse strings why the state fire marshal ca n't get the funding it needs to protect our children . 
+CBS 5 News,protect.01,small children,,Affirmative,CBS 5 News tried to ask the people with the purse strings why the state fire marshal ca n't get the funding it needs to protect our children . 
+We,get.01,no response from,,Affirmative,"But after weeks of repeated emails and phone call requests for comment , we got no response from Gov. Jan Brewer , whose office prepares the state fire marshal 's budget . "
+"Gov. Jan Brewer ,",prepare.01,budget,,Affirmative,"But after weeks of repeated emails and phone call requests for comment , we got no response from Gov. Jan Brewer , whose office prepares the state fire marshal 's budget . "
+Rich Kochanski,say.01,"potential is huge , so",,Affirmative,"The potential is huge , so it is very unnerving , said Kochanski . "
+Rich Kochanski,drop.01,my kids,,Affirmative,"As a parent myself , when I drop my kids off , it 's always in the back of my mind that facility could be very unsafe for them . "
+somebody,call.02,state Fire Marshall Bob Barger,,Affirmative,"I 'm concerned and I would be heartbroken if somebody called me right now and said , ' Hey , we just had a fire in this elementary school , kids could n't get out for whatever reason and we lost several kids , ' Barger said . "
+We,have.03,a fire in,,Affirmative,"I 'm concerned and I would be heartbroken if somebody called me right now and said , ' Hey , we just had a fire in this elementary school , kids could n't get out for whatever reason and we lost several kids , ' Barger said . "
+We,lose.02,several kids,,Affirmative,"I 'm concerned and I would be heartbroken if somebody called me right now and said , ' Hey , we just had a fire in this elementary school , kids could n't get out for whatever reason and we lost several kids , ' Barger said . "
+state Fire Marshall Bob Barger,say.01,", kids could n't get out for",,Affirmative,"I 'm concerned and I would be heartbroken if somebody called me right now and said , ' Hey , we just had a fire in this elementary school , kids could n't get out for whatever reason and we lost several kids , ' Barger said . "
+Parents,wonder.01,how they can discover,,Affirmative,Parents wondering how they can discover when their child 's school was last inspected have a rough going . 
+the state,keep.02,a digital database of,,Affirmative,And the state just recently started keeping a digital database of its inspections . 
+Lee officials,say.01,soldier has died,,Affirmative,Fort Lee officials say a soldier has died after she likely shot herself at the post Monday morning . 
+An 88-year-old woman from Hamden,shoot.03,An 88-year-old woman from Hamden,,Affirmative,Fort Lee officials say a soldier has died after she likely shot herself at the post Monday morning . 

@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,gangraped.01,"old woman , new to",,Affirmative,"A4 0 - year - old woman , new to the city , was allegedly gangraped by three security guards deployed at a construction site along the Mumbai - Bangalore highway in Baner , on Sunday night . "
+A4 0-year-old woman,ask.02,for directions,one of them,Affirmative,"She had asked one of them for directions , after she lost her way home . "
+A4 0-year-old woman,lose.03,her way home,,Affirmative,"She had asked one of them for directions , after she lost her way home . "
+the police,arrest.01,"three security guards deployed at a construction site along the Mumbai-Bangalore highway in Baner , on Sunday night",,Affirmative,"Police have arrested the guards , identified as Ritesh Maheshkumar Savita ( 23 ) of Tapkir Vasti in Baner , Shersingh Janaksingh Rajput ( 29 ) and Birjeshsingh Sardarsingh Rajput ( 20 ) , both currently residing at Wakad . "
+the police,reside.01,at Wakad,,Affirmative,"Police have arrested the guards , identified as Ritesh Maheshkumar Savita ( 23 ) of Tapkir Vasti in Baner , Shersingh Janaksingh Rajput ( 29 ) and Birjeshsingh Sardarsingh Rajput ( 20 ) , both currently residing at Wakad . "
+the police,say.01,three are natives of,,Affirmative,"All three are natives of Madhya Pradesh and have been working here for the past two or three years , police said . "
+Commissioner Sanjay Kumar,instruct.01,personnel,at,Affirmative,The incident comes less than two months after Police Commissioner Sanjay Kumar instructed personnel at the chowky level to start collecting information about security guards working in the city . 
+personnel,start.01,collecting information about,,Affirmative,The incident comes less than two months after Police Commissioner Sanjay Kumar instructed personnel at the chowky level to start collecting information about security guards working in the city . 
+personnel,collect.01,information about,,Affirmative,The incident comes less than two months after Police Commissioner Sanjay Kumar instructed personnel at the chowky level to start collecting information about security guards working in the city . 
+A4 0-year-old woman,buy.01,vegetables,,Affirmative,"On Sunday evening , she had gone to Pashan market to buy vegetables . "
+A4 0-year-old woman,lose.02,her way,,Affirmative,"On her way back home , she lost her way and went to Pawar Vasti . "
+"Inspector Arun Sawant , in-charge of",say.01,Ritesh was standing at,,Affirmative,"Senior Police Inspector Arun Sawant , in-charge of Chatushrungi police station , said , Ritesh was standing at the main gate of the construction site in Pawar vasti . "
+A4 0-year-old woman,ask.01,if he could direct her towards Baner,,Affirmative,The woman went up to him and asked if he could direct her towards Baner . 
+Ritesh,direct.01,A4 0-year-old woman,towards Baner,Affirmative,The woman went up to him and asked if he could direct her towards Baner . 
+Ritesh,tell.01,her way back,her,Affirmative,"Ritesh told her the way , but as she started walking away , he followed her and intercepted her in the dark . "
+Ritesh,intercept.01,A4 0-year-old woman,,Affirmative,"Ritesh told her the way , but as she started walking away , he followed her and intercepted her in the dark . "
+Ritesh,threaten.01,with,her,Affirmative,"He threatened her with a knife , forcefully took her to the ground and raped her . "
+Ritesh,take.01,A4 0-year-old woman,,Affirmative,"He threatened her with a knife , forcefully took her to the ground and raped her . "
+Ritesh,rape.01,A4 0-year-old woman,,Affirmative,"He threatened her with a knife , forcefully took her to the ground and raped her . "
+Brijeshsingh,rape.01,A4 0-year-old woman,,Affirmative,"In her statement , the victim said that the accused then called Shersingh and Brijeshsingh who also raped her . "
+Some passers - by,hear.01,her screams,,Affirmative,Some passers - by heard her screams and rushed to the spot . 
+Some passers-by,catch.01,hold of Ritesh,,Affirmative,They caught hold of Ritesh while Brijeshsingh and Shersingh escaped . 
+Someone,inform.01,control room,,Affirmative,Someone then informed the police control room and our staff also arrived at the spot . 
+the accused,nab.01,the duo,,Affirmative,"After a massive search , we finally nabbed the duo in the early hours of Monday , added Sawant . "
+Arun Sawant,add.01,", we finally nabbed",,Affirmative,"After a massive search , we finally nabbed the duo in the early hours of Monday , added Sawant . "
+the police,charge.05,the accused under sections,,Affirmative,Police have charged the accused under sections 376 D ( rape ) and 506 ( 2 ) ( criminal intimidation ) of the Indian Penal Code ( IPC ) . 
+A magistrate court,remand.01,the three accused in,,Affirmative,A magistrate court has remanded the three accused in police custody till May 26 . 
+Both the agencies,do.02,police verification of,,Affirmative,"As per rules , agencies are supposed to have done police verification of the guards . "
+the accused,verify.01,these details,,Affirmative,"We are verifying these details , ACP ( Chatushrungi division ) Smita Patil told Mirror . "
+Smita Patil,tell.01,We are verifying,Mirror,Affirmative,"We are verifying these details , ACP ( Chatushrungi division ) Smita Patil told Mirror . "
+Rajesh Dubey,say.01,he was going through,,Affirmative,Owner of the security agencies Rajesh Dubey initially said he was going through the guards ' papers to verify their details and asked this reporter to contact him later . 
+Owner of the security agencies Rajesh Dubey,verify.01,these details,,Affirmative,Owner of the security agencies Rajesh Dubey initially said he was going through the guards ' papers to verify their details and asked this reporter to contact him later . 
+Rajesh Dubey,ask.02,to contact him later,this reporter,Affirmative,Owner of the security agencies Rajesh Dubey initially said he was going through the guards ' papers to verify their details and asked this reporter to contact him later . 
+this reporter,contact.01,Owner of the security agencies Rajesh Dubey,,Affirmative,Owner of the security agencies Rajesh Dubey initially said he was going through the guards ' papers to verify their details and asked this reporter to contact him later . 
+Rajesh Dubey,stop.01,answering,,Affirmative,"However , Dubey stopped answering phone calls after that and did not respond to text messages either . "
+Rajesh Dubey,answer.01,phone calls after that,,Affirmative,"However , Dubey stopped answering phone calls after that and did not respond to text messages either . "
+Rajesh Dubey,respond.01,to,,Affirmative,"However , Dubey stopped answering phone calls after that and did not respond to text messages either . "

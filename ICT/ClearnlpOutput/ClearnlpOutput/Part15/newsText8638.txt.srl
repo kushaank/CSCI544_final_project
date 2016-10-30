@@ -1,0 +1,911 @@
+1	Thanks	thanks	NNS	_	0	root	_
+2	for	for	IN	_	1	prep	_
+3	contacting	contact	VBG	pb=contact.01	2	pcomp	_
+4	us	us	PRP	_	3	dobj	3:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0=PAG
+2	've	have	VBP	_	3	aux	_
+3	received	receive	VBN	pb=receive.01	0	root	_
+4	your	your	PRP$	_	5	poss	_
+5	submission	submission	NN	_	3	dobj	3:A1=PPT
+6	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	Jun	jun	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	2-6	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Mon	mon	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Thurs	thurs	NNPS	p2=NNP	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	7	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=:	3	punct	_
+5	Fri	fri	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	6	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	Up	up	IN	p2=RB	6	quantmod	_
+5	to	to	TO	_	6	quantmod	_
+6	75	0	CD	_	7	num	_
+7	percent	percent	NN	_	8	npadvmod	_
+8	off	off	IN	p2=JJ	3	prep	_
+9	stock	stock	NN	_	8	pobj	_
+10	and	and	CC	_	9	cc	_
+11	one	#crd#	CD	p2=NN	17	hmod	_
+12	-	-	HYPH	_	17	hyph	_
+13	of	of	IN	_	17	hmod	_
+14	-	-	HYPH	_	17	hyph	_
+15	a	a	DT	_	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	kind	kind	NN	p2=JJ	18	nn	_
+18	samples	sample	NNS	_	9	conj	_
+19	of	of	IN	_	18	prep	_
+20	cashmere	cashmere	NN	p2=NNS	19	pobj	_
+21	,	,	,	_	3	punct	_
+22	cashmere	cashmere	VBD	p2=FW|pb=cashmere.01	23	amod	_
+23	blend	blend	NN	p2=VB	3	conj	22:A1
+24	&	&	CC	p2=HYPH	23	cc	_
+25	cotton	cotton	NN	_	23	conj	_
+26	apparel	apparel	NN	_	23	conj	_
+27	and	and	CC	_	26	cc	_
+28	accessories	accessory	NNS	_	26	conj	_
+29	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	21	0	CD	p2=LS	6	hmod	_
+5	-	-	HYPH	p2=:	6	hyph	_
+6	ongoing	ongoing	JJ	p2=NN	3	num	_
+7	.	.	.	_	1	punct	_
+
+1	Mon	mon	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Sat	sat	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=,	3	punct	_
+5	Sun	sun	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	11	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	SYM	p2=HYPH	3	punct	_
+2	6	0	CD	p2=LS	3	num	_
+3	p.m.	p.m.	NN	_	4	nsubj	4:A0=PAG
+4	Save	save	VB	p2=VBP|pb=save.01	0	root	_
+5	up	up	IN	p2=RP	7	quantmod	_
+6	to	to	TO	_	7	quantmod	_
+7	40	0	CD	_	8	num	_
+8	percent	percent	NN	_	4	dobj	4:A1=PPT
+9	on	on	IN	_	4	prep	_
+10	5F	5f	NNP	p2=CD	9	pobj	_
+11	ready	ready	JJ	_	3	rcmod	_
+12	-	-	HYPH	_	4	punct	_
+13	to	to	TO	_	15	aux	_
+14	-	-	HYPH	_	15	hyph	_
+15	wear	wear	VB	pb=wear.01	11	xcomp	_
+16	,	,	,	_	15	punct	_
+17	shoes	shoe	NNS	_	15	conj	_
+18	and	and	CC	_	17	cc	_
+19	handbags	handbag	NNS	_	17	conj	_
+20	.	.	.	_	4	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	19-31	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Mon	mon	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Sun	sun	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	7	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	4	nsubj	4:A1=PPT
+4	Discounts	discount	VBZ	p2=NNS|pb=discount.01	0	root	_
+5	on	on	IN	_	4	prep	4:A2=EXT
+6	men	man	NNS	_	11	poss	_
+7	's	's	POS	_	6	possessive	_
+8	and	and	CC	_	6	cc	_
+9	women	woman	NNS	_	6	conj	_
+10	's	's	POS	_	9	possessive	_
+11	clothing	clothing	NN	_	5	pobj	_
+12	and	and	CC	_	11	cc	_
+13	accessories	accessory	NNS	_	11	conj	_
+14	.	.	.	_	4	punct	_
+
+1	The	the	DT	_	4	det	_
+2	Khari	khari	NNP	_	4	nn	_
+3	tiger	tiger	NN	_	4	nn	_
+4	sweater	sweater	NN	_	5	nsubj	5:A1=PPT
+5	is	be	VBZ	pb=be.01	0	root	_
+6	$	$	$	_	7	nmod	_
+7	159	0	CD	_	5	attr	5:A2=PRD
+8	(	(	-LRB-	_	7	punct	_
+9	originally	originally	RB	_	11	advmod	_
+10	$	$	$	_	11	nmod	_
+11	395	0	CD	_	7	appos	_
+12	)	)	-RRB-	_	7	punct	_
+13	and	and	CC	_	5	cc	_
+14	Camp	camp	NNP	p2=NN	16	nn	_
+15	print	print	NN	p2=VBP	16	nn	_
+16	scarf	scarf	NN	p2=NNP	17	nsubj	17:A1=PPT
+17	is	be	VBZ	pb=be.01	5	conj	_
+18	$	$	$	_	19	nmod	_
+19	48	0	CD	_	17	attr	17:A2=PRD
+20	(	(	-LRB-	_	19	punct	_
+21	originally	originally	RB	_	23	advmod	_
+22	$	$	$	_	23	quantmod	_
+23	98	0	CD	_	19	appos	_
+24	)	)	-RRB-	_	19	punct	_
+25	.	.	.	_	17	punct	_
+
+1	Sale	sale	NN	_	6	dep	_
+2	:	:	:	_	6	punct	_
+3	May	may	NNP	p2=MD	6	nn	_
+4	19	0	CD	p2=NNP	6	hmod	_
+5	-	-	HYPH	p2=:	6	hyph	_
+6	Jun	jun	NNP	p2=NN	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	8	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Up	up	IN	p2=RB	3	quantmod	_
+2	to	to	TO	_	3	quantmod	_
+3	50	0	CD	_	4	num	_
+4	percent	percent	NN	_	5	npadvmod	_
+5	off	off	RP	p2=RB	6	advmod	_
+6	select	select	VB	p2=VBP|pb=select.01	0	root	_
+7	lingerie	lingerie	NN	p2=FW	6	dobj	6:A1=PPT
+8	and	and	CC	_	7	cc	_
+9	sleepwear	sleepwear	NN	_	7	conj	_
+10	.	.	.	_	6	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	20-25	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Tues	tues	NNS	p2=NNPS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=NNP	0	root	_
+4	/	/	SYM	p2=:	3	punct	_
+5	Wed	wed	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Fri	fri	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	7	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=:	3	punct	_
+5	Sat	sat	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	11	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	7	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=,	3	punct	_
+5	Sun	sun	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	11	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	4	0	CD	_	0	root	_
+3	p.m.	p.m.	NN	p2=NNP	5	nn	_
+4	Shop	shop	NNP	p2=NN	5	nn	_
+5	men	man	NNS	p2=NNP	11	nsubj	11:A0
+6	's	's	POS	_	5	possessive	_
+7	and	and	CC	_	5	cc	_
+8	women	woman	NNS	_	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	premium	premium	NN	_	5	conj	_
+11	denim	denim	VBP	p2=NN|pb=denim.01	0	root	_
+12	styles	style	NNS	_	11	dobj	11:A1
+13	at	at	IN	p2=RB	11	prep	11:A2
+14	up	up	IN	p2=RB	16	quantmod	_
+15	to	to	TO	_	16	quantmod	_
+16	80	0	CD	_	17	num	_
+17	percent	percent	NN	_	18	npadvmod	_
+18	off	off	RP	p2=IN	13	pobj	_
+19	.	.	.	_	11	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	Jun	jun	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	10-12	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Tues	tues	NNS	p2=NNPS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=NNP	0	root	_
+4	/	/	SYM	p2=:	3	punct	_
+5	Wed	wed	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Thurs	thurs	NNPS	p2=NNP	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	6	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=NNP	0	root	_
+4	Deep	deep	JJ	p2=NNP	5	amod	_
+5	discounts	discount	NNS	_	3	appos	_
+6	on	on	IN	_	5	prep	_
+7	men	man	NNS	_	12	nn	_
+8	's	's	POS	_	7	possessive	_
+9	and	and	CC	_	7	cc	_
+10	women	woman	NNS	_	7	conj	_
+11	's	's	POS	p2=VBZ	10	possessive	_
+12	denim	denim	NN	p2=NNS	6	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	29	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Enjoy	enjoy	VB	p2=VBP|pb=enjoy.01	0	root	_
+2	30	0	CD	_	4	number	_
+3	to	to	TO	_	4	quantmod	_
+4	45	0	CD	_	5	num	_
+5	percent	percent	NN	_	1	dobj	1:A1=PAG
+6	off	off	IN	p2=RP	1	prep	1:AM-MNR
+7	pre-spring	pre-spring	VBG	p2=JJ|pb=pre-spring.01	6	pcomp	_
+8	2014	0	CD	_	9	num	_
+9	merchandise	merchandise	NN	_	7	dobj	7:A1
+10	.	.	.	_	1	punct	_
+
+1	Sale	sale	NN	_	2	nsubj	2:A1=PPT
+2	starts	start	VBZ	pb=start.01	0	root	_
+3	Thursday	thursday	NNP	_	2	npadvmod	2:AM-TMP
+4	,	,	,	_	2	punct	_
+5	May	may	NNP	_	2	npadvmod	2:AM-TMP
+6	29	0	CD	_	5	num	_
+7	,	,	,	_	2	punct	_
+8	at	at	IN	_	2	prep	_
+9	12	0	CD	_	10	num	_
+10	p.m.	p.m.	NN	p2=RB	11	nn	_
+11	Sale	sale	NN	_	8	pobj	_
+12	:	:	:	_	2	punct	_
+13	May	may	NNP	p2=MD	16	nn	_
+14	26	0	CD	p2=NNP	16	hmod	_
+15	-	-	HYPH	p2=:	16	hyph	_
+16	Jun	jun	NNP	p2=NN	2	npadvmod	_
+17	.	.	.	_	2	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Enter	enter	VB	p2=NN	2	nn	_
+2	code	code	NN	p2=VBP	3	nn	_
+3	SPRING	spring	NNP	p2=NN	0	root	_
+4	at	at	IN	p2=CC	3	prep	_
+5	check	check	VB	_	4	pobj	_
+6	out	out	RP	p2=RB	5	prt	_
+7	to	to	TO	_	8	aux	_
+8	receive	receive	VB	pb=receive.01	3	advcl	_
+9	20	0	CD	_	10	num	_
+10	percent	percent	NN	_	8	dobj	8:A1=PPT
+11	off	off	RP	p2=IN	8	prt	8:C-V
+12	and	and	CC	_	8	cc	_
+13	free	free	JJ	p2=VB	14	amod	_
+14	shipping	shipping	NN	_	8	conj	_
+15	on	on	IN	_	14	prep	_
+16	all	all	DT	_	18	det	_
+17	jewelry	jewelry	NN	_	18	nn	_
+18	purchases	purchase	NNS	_	15	pobj	_
+19	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	21-22	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Wed	wed	VBD	p2=VBD|pb=wed.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Thurs	thurs	NNPS	p2=NNP	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10:30	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	4	punct	_
+2	4:30	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	4	nsubj	4:A0=PAG
+4	Discounts	discount	VBZ	p2=NNS|pb=discount.01	0	root	_
+5	on	on	IN	_	4	prep	4:A2=EXT
+6	women	woman	NNS	_	12	poss	_
+7	's	's	POS	_	6	possessive	_
+8	ready	ready	JJ	_	12	hmod	_
+9	-	-	HYPH	_	12	hyph	_
+10	to	to	TO	_	12	aux	_
+11	-	-	HYPH	_	12	hyph	_
+12	wear	wear	VB	pb=wear.01	4	xcomp	_
+13	,	,	,	_	12	punct	_
+14	accessories	accessory	NNS	_	12	conj	_
+15	,	,	,	_	14	punct	_
+16	jewelry	jewelry	NN	_	14	conj	_
+17	and	and	CC	_	16	cc	_
+18	shoes	shoe	NNS	_	16	conj	_
+19	.	.	.	_	4	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	Jun	jun	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	4-5	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Wed	wed	VBD	p2=VBD|pb=wed.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Thurs	thurs	NNPS	p2=NNP	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	4	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	Snag	snag	JJ	p2=VBP	6	amod	_
+5	great	great	JJ	_	6	amod	_
+6	deals	deal	NNS	_	3	appos	_
+7	on	on	IN	_	6	prep	_
+8	women	woman	NNS	_	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	intimates	intimate	NNS	_	7	pobj	_
+11	,	,	,	_	10	punct	_
+12	sleepwear	sleepwear	NN	p2=VBP	10	conj	_
+13	,	,	,	_	12	punct	_
+14	loungewear	loungewear	NN	p2=JJR	12	conj	_
+15	and	and	CC	_	14	cc	_
+16	more	more	JJR	p2=RBR	14	conj	_
+17	.	.	.	_	3	punct	_
+
+1	Pop	pop	NN	p2=VB	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	up	up	NN	_	0	root	_
+4	:	:	:	_	3	punct	_
+5	May	may	NNP	p2=MD	3	appos	_
+6	19	0	CD	_	8	hmod	_
+7	-	-	HYPH	p2=:	8	hyph	_
+8	ongoing	ongoing	JJ	p2=NN	5	num	_
+9	.	.	.	_	3	punct	_
+
+1	New	new	NNP	_	2	nn	_
+2	York	york	NNP	_	4	nn	_
+3	based	base	VBN	p2=VBD|pb=base.01	4	amod	_
+4	designer	designer	NN	_	6	nn	3:A1=PPT
+5	Nili	nili	NNP	_	6	nn	_
+6	Lotan	lotan	NNP	_	8	nsubj	8:A0=PAG
+7	is	be	VBZ	_	8	aux	_
+8	hosting	host	VBG	pb=host.01	0	root	_
+9	a	a	DT	_	12	det	_
+10	pop	pop	NN	_	12	nn	_
+11	up	up	RP	p2=IN	10	prt	_
+12	shop	shop	NN	_	8	dobj	8:A1=GOL
+13	in	in	IN	_	12	prep	_
+14	her	her	PRP$	p2=PRP	17	poss	_
+15	SOHO	soho	NNP	p2=JJ	17	nn	_
+16	studio	studio	NN	_	17	nn	_
+17	space	space	NN	_	13	pobj	_
+18	.	.	.	_	8	punct	_
+
+1	The	the	DT	_	5	det	_
+2	pop	pop	NN	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	up	up	RP	p2=NN	5	amod	_
+5	boutique	boutique	NN	_	6	nsubj	6:A0=PAG
+6	features	feature	VBZ	p2=NNS|pb=feature.01	0	root	_
+7	a	a	DT	_	8	det	_
+8	selection	selection	NN	_	6	dobj	6:A1=PPT
+9	of	of	IN	_	8	prep	_
+10	Lotan	lotan	NNP	_	13	poss	_
+11	's	's	POS	_	10	possessive	_
+12	summer	summer	NN	_	13	nn	_
+13	essentials	essential	NNS	_	9	pobj	_
+14	and	and	CC	_	8	cc	_
+15	a	a	DT	_	18	det	_
+16	personally	personally	RB	_	17	advmod	_
+17	curated	curated	JJ	p2=VBN	18	amod	_
+18	collection	collection	NN	_	8	conj	_
+19	of	of	IN	_	18	prep	_
+20	local	local	JJ	_	22	amod	_
+21	vintage	vintage	NN	p2=JJ	22	nn	_
+22	finds	find	VBZ	p2=NNS	19	pobj	_
+23	-	-	:	p2=,	18	punct	_
+24	including	include	VBG	_	18	prep	_
+25	jewelry	jewelry	NN	_	24	pobj	_
+26	,	,	,	_	25	punct	_
+27	art	art	NN	_	28	nn	_
+28	books	book	NNS	_	25	conj	_
+29	and	and	CC	_	28	cc	_
+30	wares	war	NNS	_	28	conj	_
+31	.	.	.	_	6	punct	_
+
+1	Pop	pop	NN	p2=VB	3	hmod	_
+2	-	-	HYPH	_	3	hyph	_
+3	up	up	NN	_	0	root	_
+4	:	:	:	_	8	punct	_
+5	May	may	NNP	p2=MD	8	nn	_
+6	24	0	CD	_	8	hmod	_
+7	-	-	HYPH	p2=:	8	hyph	_
+8	Sept	sept	NNP	p2=NNPS	3	npadvmod	_
+9	.	.	.	_	3	punct	_
+
+1	1	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	If	if	IN	_	3	mark	_
+2	you	you	PRP	_	3	nsubj	3:A0=PAG
+3	find	find	VBP	pb=find.01	0	root	_
+4	yourself	yourself	PRP	_	3	dobj	3:A1=PPT
+5	in	in	IN	_	3	prep	3:AM-LOC
+6	East	east	NNP	_	7	nn	_
+7	Hampton	hampton	NNP	_	5	pobj	_
+8	this	this	DT	_	9	det	_
+9	summer	summer	NN	_	3	npadvmod	3:AM-TMP
+10	,	,	,	_	9	punct	_
+11	head	head	NN	p2=VBP	9	appos	_
+12	to	to	IN	_	11	prep	_
+13	the	the	DT	_	18	det	_
+14	Orlebar	orlebar	NNP	_	15	nn	_
+15	Brown	brown	NNP	_	18	nn	_
+16	pop	pop	NN	_	18	hmod	_
+17	-	-	HYPH	_	18	hyph	_
+18	up	up	NN	_	12	pobj	_
+19	to	to	TO	_	20	aux	_
+20	find	find	VB	pb=find.01	11	infmod	_
+21	stylish	stylish	JJ	_	22	amod	_
+22	swimwear	swimwear	NN	_	20	dobj	20:A1=PPT
+23	,	,	,	_	22	punct	_
+24	beachwear	beachwear	NN	_	22	conj	_
+25	,	,	,	_	24	punct	_
+26	accessories	accessory	NNS	_	24	conj	_
+27	and	and	CC	_	26	cc	_
+28	more	more	JJR	p2=RBR	26	conj	_
+29	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	Jun	jun	NNP	_	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	9-13	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Mon	mon	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Fri	fri	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	6	0	CD	_	0	root	_
+3	p.m.	p.m.	NN	p2=RB	4	nn	_
+4	Bangles	bangle	NNS	p2=NNPS	0	root	_
+5	,	,	,	_	4	punct	_
+6	necklaces	necklace	NNS	_	4	conj	_
+7	,	,	,	_	6	punct	_
+8	cuffs	cuff	NNS	_	6	conj	_
+9	and	and	CC	_	8	cc	_
+10	more-	more-	VBD	p2=CC|pb=more-.01	8	conj	_
+11	all	all	DT	p2=RB	12	det	_
+12	50	0	CD	_	14	number	_
+13	to	to	TO	_	14	quantmod	_
+14	80	0	CD	_	15	num	_
+15	percent	percent	NN	_	10	dobj	10:A1
+16	off	off	RP	p2=IN	15	prt	_
+17	.	.	.	_	2	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	24-26	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Sat	sat	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=,	3	punct	_
+5	Sun	sun	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	12-6	0	CD	_	2	num	_
+2	p.m.	p.m.	NN	p2=RB	0	root	_
+3	/	/	SYM	p2=:	2	punct	_
+4	Mon	mon	NNP	_	2	appos	_
+5	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	_	0	root	_
+4	Discover	discover	NNP	p2=JJ	3	appos	_
+5	amazing	amazing	JJ	_	6	amod	_
+6	deals	deal	NNS	_	3	appos	_
+7	on	on	IN	_	6	prep	_
+8	women	woman	NNS	_	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	footwear	footwear	NN	_	7	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	19	0	CD	p2=NNP	3	num	_
+5	-	-	:	p2=HYPH	1	punct	_
+6	June	june	NNP	_	1	npadvmod	_
+7	6	0	CD	_	6	num	_
+8	.	.	.	_	1	punct	_
+
+1	Mon	mon	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=:	2	hyph	_
+2	Fri	fri	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	10	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	2	hyph	_
+2	7	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=:	3	punct	_
+5	Sat	sat	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	11	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	6	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	Up	up	IN	p2=RB	6	quantmod	_
+5	to	to	TO	_	6	quantmod	_
+6	90	0	CD	_	7	num	_
+7	percent	percent	NN	_	8	npadvmod	_
+8	off	off	IN	p2=JJ	3	prep	_
+9	clothing	clothing	NN	_	8	pobj	_
+10	and	and	CC	_	9	cc	_
+11	accessories	accessory	NNS	_	9	conj	_
+12	from	from	IN	_	3	prep	_
+13	Charlotte	charlotte	NNP	_	14	nn	_
+14	Ronson	ronson	NNP	_	12	pobj	_
+15	,	,	,	_	14	punct	_
+16	Erickson	erickson	NNP	_	17	nn	_
+17	Beamon	beamon	NNP	_	14	conj	_
+18	,	,	,	_	17	punct	_
+19	Issa	issa	NNP	_	20	nn	_
+20	London	london	NNP	_	17	conj	_
+21	,	,	,	_	20	punct	_
+22	LAMB	lamb	NNP	_	20	conj	_
+23	,	,	,	_	22	punct	_
+24	Liebeskind	liebeskind	NNP	p2=RB	22	conj	_
+25	,	,	,	_	24	punct	_
+26	Twenty	twenty	NNP	p2=CD	27	nn	_
+27	Cluny	cluny	NNP	_	24	conj	_
+28	,	,	,	_	27	punct	_
+29	and	and	CC	_	27	cc	_
+30	more	more	RBR	p2=JJR	27	conj	_
+31	.	.	.	_	3	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	22-26	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Enjoy	enjoy	VB	p2=VBP|pb=enjoy.01	0	root	_
+2	25	0	CD	_	3	num	_
+3	percent	percent	NN	_	1	dobj	1:A1=PAG
+4	off	off	IN	_	1	prep	1:AM-MNR
+5	your	your	PRP$	_	7	poss	_
+6	entire	entire	JJ	_	7	amod	_
+7	purchase	purchase	NN	_	4	pobj	_
+8	.	.	.	_	1	punct	_
+
+1	Sale	sale	NN	_	0	root	_
+2	:	:	:	_	1	punct	_
+3	May	may	NNP	p2=MD	1	npadvmod	_
+4	20-22	0	CD	_	3	num	_
+5	.	.	.	_	1	punct	_
+
+1	Tues	tues	NNS	p2=NNPS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	12-8	0	CD	_	2	num	_
+2	p.m.	p.m.	NN	p2=RB	0	root	_
+3	/	/	SYM	p2=:	2	punct	_
+4	Wed	wed	NNP	_	2	appos	_
+5	.	.	.	_	2	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	3	punct	_
+2	8	0	CD	_	3	num	_
+3	p.m.	p.m.	NN	p2=RB	0	root	_
+4	/	/	SYM	p2=,	3	punct	_
+5	Thurs	thurs	NNP	p2=NNPS	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	9	0	CD	_	0	root	_
+2	a.m	a.m	RB	_	1	advmod	_
+3	.	.	.	_	1	punct	_
+
+1	-	-	HYPH	p2=SYM	4	punct	_
+2	5	0	CD	_	4	num	_
+3	p.m.	p.m.	NN	p2=NNP	4	nn	_
+4	Shop	shop	NNP	p2=NN	0	root	_
+5	up	up	IN	p2=RB	7	quantmod	_
+6	to	to	TO	_	7	quantmod	_
+7	70	0	CD	_	8	num	_
+8	percent	percent	NN	_	9	npadvmod	_
+9	off	off	IN	p2=JJ	4	prep	_
+10	runway	runway	NN	_	11	nn	_
+11	archives	archive	NNS	_	9	pobj	_
+12	,	,	,	_	4	punct	_
+13	one	#crd#	CD	_	19	hmod	_
+14	-	-	HYPH	_	19	hyph	_
+15	of	of	IN	_	19	hmod	_
+16	-	-	HYPH	_	19	hyph	_
+17	a	a	DT	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	kind	kind	NN	_	20	nn	_
+20	pieces	piece	NNS	_	4	conj	_
+21	,	,	,	_	20	punct	_
+22	and	and	CC	_	20	cc	_
+23	current	current	JJ	p2=NN	27	amod	_
+24	and	and	CC	_	23	cc	_
+25	past	past	JJ	p2=IN	23	conj	_
+26	season	season	NN	_	27	nn	_
+27	products	product	NNS	_	20	conj	_
+28	.	.	.	_	4	punct	_
+
+1	A	a	DT	_	5	det	_
+2	solid	solid	JJ	_	5	amod	_
+3	silk	silk	NN	_	4	nn	_
+4	maxi	maxi	NN	p2=FW	5	nn	_
+5	dress	dress	NN	_	6	nsubj	6:A1=PPT
+6	is	be	VBZ	pb=be.01	0	root	_
+7	$	$	$	_	8	nmod	_
+8	150	0	CD	_	6	attr	6:A2=PRD
+9	(	(	-LRB-	_	8	punct	_
+10	originally	originally	RB	_	12	advmod	_
+11	$	$	$	_	12	quantmod	_
+12	675	0	CD	_	8	appos	_
+13	)	)	-RRB-	_	8	punct	_
+14	and	and	CC	_	6	cc	_
+15	printed	print	VBN	pb=print.01	18	amod	_
+16	Eiffel	eiffel	NNP	_	17	nn	_
+17	Tower	tower	NNP	_	18	nn	_
+18	sweater	sweater	NN	_	19	nsubj	15:A1=PPT;19:A1=PPT
+19	is	be	VBZ	pb=be.01	6	conj	_
+20	$	$	$	_	21	nmod	_
+21	75	0	CD	_	19	attr	19:A2=PRD
+22	(	(	-LRB-	_	25	punct	_
+23	originally	originally	RB	_	25	advmod	_
+24	$	$	$	_	25	quantmod	_
+25	295	0	CD	_	21	appos	_
+26	)	)	-RRB-	_	25	punct	_
+27	.	.	.	_	19	punct	_
+
+1	Sorry	sorry	UH	_	7	intj	7:AM-DIS
+2	,	,	,	_	7	punct	_
+3	your	your	PRP$	_	4	poss	_
+4	blog	blog	NN	_	7	nsubj	7:A0=PAG
+5	can	can	MD	_	7	aux	7:AM-MOD
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	share	share	VB	pb=share.01	0	root	_
+8	posts	post	NNS	_	7	dobj	7:A1=PPT
+9	by	by	IN	_	7	prep	7:AM-MNR
+10	email	email	NN	_	9	pobj	_
+11	.	.	.	_	7	punct	_
+
+1	Welcome	welcome	VBP	p2=UH|pb=welcome.01	0	root	_
+2	back	back	RP	_	1	prt	1:AM-DIR
+3	!	!	.	_	1	punct	_
+
+1	{	{	-LRB-	_	3	punct	_
+2	*	*	NFP	_	3	punct	_
+3	#	#	$	p2=VBN	0	root	_
+4	socialRegistrationForm	socialregistrationform	JJ	p2=NNP	3	amod	_
+5	*	*	NFP	p2=NN	30	punct	_
+6	}	}	-RRB-	_	30	punct	_
+7	{	{	-LRB-	p2=NFP	30	punct	_
+8	*	*	NFP	_	30	punct	_
+9	socialRegistration_emailAddress	socialregistration_emailaddress	NNP	p2=-LRB-	30	npadvmod	30:AM-DIS
+10	*	*	NFP	p2=-RRB-	30	punct	_
+11	}	}	-RRB-	p2=NFP	30	punct	_
+12	{	{	-LRB-	p2=NFP	30	punct	_
+13	*	*	NFP	_	30	punct	_
+14	socialRegistration_displayName	socialregistration_displayname	NNP	p2=FW	30	npadvmod	30:AM-DIS
+15	*	*	NFP	p2=-RRB-	30	punct	_
+16	}	}	-RRB-	p2=NFP	30	punct	_
+17	{	{	-LRB-	p2=NFP	30	punct	_
+18	*	*	NFP	_	30	punct	_
+19	socialRegistration_ageVerification	socialregistration_ageverification	NNP	p2=NN	30	npadvmod	_
+20	*	*	NFP	p2=-RRB-	19	punct	_
+21	}	}	-RRB-	p2=``	19	punct	_
+22	By	by	IN	_	30	prep	30:AM-MNR
+23	clicking	click	VBG	pb=click.01	22	pcomp	_
+24	"	"	``	_	23	punct	_
+25	Create	create	VB	p2=NNP|pb=create.01	23	xcomp	23:A1=PPT
+26	Account	account	NNP	p2=NN	25	dobj	25:A1=PPT
+27	"	"	''	_	23	punct	_
+28	,	,	,	_	30	punct	_
+29	you	you	PRP	_	30	nsubj	30:A0=PAG
+30	confirm	confirm	VBP	pb=confirm.01	3	root	_
+31	that	that	IN	_	33	complm	_
+32	you	you	PRP	_	33	nsubj	33:A0=PAG;40:A0=PAG;42:A0=PAG
+33	accept	accept	VBP	pb=accept.01	30	ccomp	30:A1=PPT
+34	our	our	PRP$	_	35	poss	_
+35	terms	term	NNS	_	33	dobj	33:A1=PPT
+36	of	of	IN	_	35	prep	_
+37	service	service	NN	_	36	pobj	_
+38	and	and	CC	_	33	cc	_
+39	have	have	VBP	p2=VB	40	aux	_
+40	read	read	VBN	p2=VB|pb=read.01	33	conj	_
+41	and	and	CC	_	33	cc	_
+42	understand	understand	VB	p2=VBP|pb=understand.01	33	conj	_
+43	privacy	privacy	NN	_	44	nn	_
+44	policy	policy	NN	_	42	dobj	42:A1=PPT
+45	.	.	.	_	30	punct	_
+
+1	Do	do	VB	_	3	aux	_
+2	n't	not	RB	_	3	neg	3:AM-NEG
+3	worry	worry	VB	pb=worry.02	6	advcl	_
+4	,	,	,	_	6	punct	_
+5	it	it	PRP	_	6	nsubj	6:A1=PPT
+6	happens	happen	VBZ	pb=happen.01	0	root	_
+7	.	.	.	_	6	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0=PAG
+2	'll	will	MD	_	3	aux	3:AM-MOD
+3	send	send	VB	pb=send.01	0	root	_
+4	you	you	PRP	_	3	iobj	3:A2=GOL
+5	a	a	DT	_	6	det	_
+6	link	link	NN	_	3	dobj	8:A0=PAG;3:A1=PPT
+7	to	to	TO	_	8	aux	_
+8	create	create	VB	pb=create.01	6	infmod	_
+9	a	a	DT	_	11	det	_
+10	new	new	JJ	_	11	amod	_
+11	password	password	NN	p2=NNP	8	dobj	8:A1=PPT
+12	.	.	.	_	3	punct	_
+
+1	Create	create	VB	p2=VBP|pb=create.01	0	root	_
+2	a	a	DT	_	4	det	_
+3	new	new	JJ	_	4	amod	_
+4	password	password	NN	p2=NNP	1	dobj	1:A1=PPT;5:A1=PPT
+5	Sent	send	VBN	p2=NNP|pb=send.01	4	partmod	_
+6	!	!	.	_	1	punct	_
+
+1	We	we	PRP	_	3	nsubj	3:A0=PAG
+2	've	have	VBP	_	3	aux	_
+3	sent	send	VBN	pb=send.01	0	root	_
+4	an	an	DT	_	5	det	_
+5	email	email	NN	_	3	dobj	3:A1=PPT
+6	with	with	IN	_	3	prep	3:A2=GOL
+7	instructions	instruction	NNS	_	6	pobj	_
+8	to	to	TO	_	9	aux	_
+9	create	create	VB	pb=create.01	7	infmod	_
+10	a	a	DT	_	12	det	_
+11	new	new	JJ	_	12	amod	_
+12	password	password	NN	p2=NNP	9	dobj	9:A1=PPT
+13	.	.	.	_	3	punct	_
+
+1	Your	your	PRP$	_	3	poss	_
+2	existing	exist	VBG	pb=exist.01	3	amod	_
+3	password	password	NN	p2=NNP	7	nsubjpass	2:A1=PAG;7:A1=PPT
+4	has	have	VBZ	_	7	aux	_
+5	not	not	RB	_	7	neg	7:AM-NEG
+6	been	be	VBN	_	7	auxpass	_
+7	changed	change	VBN	pb=change.01	0	root	_
+8	.	.	.	_	7	punct	_
+

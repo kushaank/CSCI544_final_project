@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Coromandel man,plan.01,to fight,,Affirmative,A Coromandel man plans to fight a charge of perjury after being accused of lying during a trial . 
+A Coromandel man,fight.01,The perjury charge,,Affirmative,A Coromandel man plans to fight a charge of perjury after being accused of lying during a trial . 
+"Frank Allan Yeates , 62",plead.02,not guilty to,,Affirmative,"Frank Allan Yeates , 62 , today pleaded not guilty to the charge via audio visual link in the Hamilton District Court and has elected a trial by jury . "
+by jury,elect.01,"Frank Allan Yeates , 62",a trial,Affirmative,"Frank Allan Yeates , 62 , today pleaded not guilty to the charge via audio visual link in the Hamilton District Court and has elected a trial by jury . "

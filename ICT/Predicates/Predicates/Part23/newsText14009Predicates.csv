@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a victim in the attack,spend.01,time,,Affirmative,"I spent time there , I know it was great . "
+a victim in the attack,know.01,it was great,,Affirmative,"I spent time there , I know it was great . "
+a victim in the attack,doubt.01,are causing,,Affirmative,I doubt that David Koch and Charles Koch are causing global warming . 
+David Koch and,cause.01,global warming,,Affirmative,I doubt that David Koch and Charles Koch are causing global warming . 
+you,find.01,warnings,,Affirmative,Look in science magazines from the 1970 s and you will find warnings that if we do n't reduce our carbon footprint we will enter an ice age . 
+our,reduce.01,our carbon footprint,,Affirmative,Look in science magazines from the 1970 s and you will find warnings that if we do n't reduce our carbon footprint we will enter an ice age . 
+our,enter.01,an ice age,,Affirmative,Look in science magazines from the 1970 s and you will find warnings that if we do n't reduce our carbon footprint we will enter an ice age . 
+Some of,say.01,that we are causing,,Affirmative,Some of the same scientists are saying today that we are causing global warming . 
+our,cause.01,global warming,,Affirmative,Some of the same scientists are saying today that we are causing global warming . 
+Some of the same scientists,want.01,to control,,Affirmative,They are lying to you because they want to control your life . 
+Some of the same scientists,control.01,your life,,Affirmative,They are lying to you because they want to control your life . 
+a victim in the attack,have.03,the money spent on,,Affirmative,"If I had been a victim in the attack on the World Trade Center , I would rather have the money spent on the memorial go to research and development of lifesaving medical treatments . "
+the Obama administration,cause.01,rating downgrade,,Affirmative,It was n't the Obama administration that caused the credit rating downgrade . 
+the Congress,shut.05,our government,,Affirmative,It was the Congress shutting down our government that caused it . 
+our government,cause.01,the Congress shutting down our government that caused it,,Affirmative,It was the Congress shutting down our government that caused it . 
+Pope Francis,begin.01,advocating for creating,,Affirmative,"If Pope Francis were to begin advocating for creating new wealth , as Cal Thomas said he should ( May 14 Opinion ) , then the pope would not be following the teachings of Christ . "
+Pope Francis,advocate.01,for creating,,Affirmative,"If Pope Francis were to begin advocating for creating new wealth , as Cal Thomas said he should ( May 14 Opinion ) , then the pope would not be following the teachings of Christ . "
+Cal Thomas,say.01,he should,,Affirmative,"If Pope Francis were to begin advocating for creating new wealth , as Cal Thomas said he should ( May 14 Opinion ) , then the pope would not be following the teachings of Christ . "
+the pope,follow.02,the teachings of Christ,,Affirmative,"If Pope Francis were to begin advocating for creating new wealth , as Cal Thomas said he should ( May 14 Opinion ) , then the pope would not be following the teachings of Christ . "
+gays,have.03,a different religion,,Affirmative,Then gays have a different religion from yours . 
+gays,do.02,anything illegal,,Affirmative,They are n't doing anything illegal . 
+The Wichita City Council,vote.01,to design,,Affirmative,The Wichita City Council voted to design a new library we ca n't afford . 
+The Wichita City Council,design.01,a new library,,Affirmative,The Wichita City Council voted to design a new library we ca n't afford . 
+we,afford.01,a new library,,Affirmative,The Wichita City Council voted to design a new library we ca n't afford . 
+a victim in the attack,believe.01,there is,,Affirmative,It is really hard for me to believe there is one person left in Wichita who thinks there is the slightest chance that those people downtown are not going to build a new library . 
+one person left in Wichita,think.01,there is,,Affirmative,It is really hard for me to believe there is one person left in Wichita who thinks there is the slightest chance that those people downtown are not going to build a new library . 
+people downtown,build.01,a new library,,Affirmative,It is really hard for me to believe there is one person left in Wichita who thinks there is the slightest chance that those people downtown are not going to build a new library . 
+We,encourage.02,"lively , open debate on",,Affirmative,"We encourage lively , open debate on the issues of the day , and ask that you refrain from profanity , hate speech , personal comments and remarks that are off point . "
+We,ask.02,"that you refrain from profanity ,",,Affirmative,"We encourage lively , open debate on the issues of the day , and ask that you refrain from profanity , hate speech , personal comments and remarks that are off point . "
+you,refrain.01,"from profanity ,",,Affirmative,"We encourage lively , open debate on the issues of the day , and ask that you refrain from profanity , hate speech , personal comments and remarks that are off point . "
+you,take.01,the time,,Affirmative,Thank you for taking the time to offer your thoughts . 
+you,offer.01,your thoughts,,Affirmative,Thank you for taking the time to offer your thoughts . 

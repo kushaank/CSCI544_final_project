@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+E - voting,offer.01,voters,,Affirmative,"E - voting will offer voters in NSW greater electoral integrity over paper as the iVote system is more accurate , said NSW Electoral Commission ( NSWEC ) CIO Ian Brightwell . "
+NSW Electoral Commission ( NSWEC ),say.01,voting will offer voters in NSW,,Affirmative,"E - voting will offer voters in NSW greater electoral integrity over paper as the iVote system is more accurate , said NSW Electoral Commission ( NSWEC ) CIO Ian Brightwell . "
+CIO Ian Brightwell,tell.01,day is,delegates,Affirmative,"Speaking at the AusCERT security conference on the Gold Coast , Brightwell told delegates that election day is only the beginning for the Commission . "
+delegates that election day is `` only the beginning '' for the Commission,handle.01,ballot papers,,Affirmative,"In the case of NSWEC , we are handling ballot papers and counting them a month after election day . "
+delegates that election day is `` only the beginning '' for the Commission,count.01,NSW voters,,Affirmative,"In the case of NSWEC , we are handling ballot papers and counting them a month after election day . "
+CIO Ian Brightwell,say.01,reality is,,Affirmative,"The reality is that it 's very difficult to ensure that all the ballot papers are in the right piles and counted correctly , he said . "
+delegates that election day is `` only the beginning '' for the Commission,count.01,million [ physical ] ballot papers,,Affirmative,"The fact is that we would never be able to count 4.5 million [ physical ] ballot papers perfectly , he told delegates . "
+CIO Ian Brightwell,tell.01,fact is,delegates,Affirmative,"The fact is that we would never be able to count 4.5 million [ physical ] ballot papers perfectly , he told delegates . "
+NSW voters,use.01,"their smartphone , tablet or PC",,Affirmative,"NSW voters can vote by using their smartphone , tablet or PC . "
+CIO Ian Brightwell,add.01,NSWEC will be releasing,,Affirmative,Brightwell added that the NSWEC will be releasing the raw data on its website so that voters can check the counting process . 
+the NSWEC,release.01,the raw data on,,Affirmative,Brightwell added that the NSWEC will be releasing the raw data on its website so that voters can check the counting process . 
+NSW voters,check.01,the counting process,,Affirmative,Brightwell added that the NSWEC will be releasing the raw data on its website so that voters can check the counting process . 
+CIO Ian Brightwell,say.01,that iVote will offer,,Affirmative,"In addition , he said that iVote will offer more NSW voters who are living overseas a chance to have their say . "
+iVote,offer.01,more NSW voters,,Affirmative,"In addition , he said that iVote will offer more NSW voters who are living overseas a chance to have their say . "
+CIO Ian Brightwell,add.01,that NSWEC discovered,,Affirmative,"Brightwell added that NSWEC discovered about 20,000 NSW people living overseas who were eligible to vote but could n't get a paper vote in within the two week voting period . "
+the NSWEC,discover.01,"20,000 NSW people living overseas",,Affirmative,"Brightwell added that NSWEC discovered about 20,000 NSW people living overseas who were eligible to vote but could n't get a paper vote in within the two week voting period . "
+you,have.03,the postal vote sent to,,Affirmative,What 's the chance finding an address where you can have the postal vote sent to and get it [ voting papers ] sent back within the two week period ? 
+you,get.01,the postal vote sent to,,Affirmative,What 's the chance finding an address where you can have the postal vote sent to and get it [ voting papers ] sent back within the two week period ? 
+the iVote system,take.01,votes,from,Affirmative,"When e - voting was first conducted during the 2011 NSW state elections , the system took votes from 46,864 electors . "
+CIO Ian Brightwell,expect.01,voters to utilise,,Affirmative,"This time around , Brightwell is expecting approximately 250,000 NSW voters to utilise e - voting . "
+"250,000 NSW voters",utilise.01,e - voting,,Affirmative,"This time around , Brightwell is expecting approximately 250,000 NSW voters to utilise e - voting . "
+CIO Ian Brightwell,add.01,", ca n't get to",,Affirmative,"He added that iVote is designed to provide facilities to people who are blind or disabled , ca n't get to a polling booth because they live remotely or are overseas . "
+iVote,provide.01,facilities,to people,Affirmative,"He added that iVote is designed to provide facilities to people who are blind or disabled , ca n't get to a polling booth because they live remotely or are overseas . "
+CIO Ian Brightwell,acknowledge.01,some concerns about,,Affirmative,Brightwell also acknowledged that there some concerns about e - voting . 
+CIO Ian Brightwell,listen.01,to,,Affirmative,"If you listen to certain speakers at AusCERT , you will walk away with the view that every system can be broken and that you should n't do things that are dangerous on the Internet . "
+CIO Ian Brightwell,do.02,things,,Affirmative,"If you listen to certain speakers at AusCERT , you will walk away with the view that every system can be broken and that you should n't do things that are dangerous on the Internet . "
+he,say.01,That is not,,Affirmative,"That is not an unreasonable view , but what we have done is taken the view [ that e - voting ] is a comparative risk , he said . "
+the NSW voting commissioners,provide.01,voting facilities,to people,Affirmative,"For example , the NSW voting commissioners are very mindful that they have to provide voting facilities to people who would be fined if they do n't vote , he said . "
+he,say.01,commissioners are,,Affirmative,"For example , the NSW voting commissioners are very mindful that they have to provide voting facilities to people who would be fined if they do n't vote , he said . "
+NSWEC,work.01,to improve,,Affirmative,NSWEC is working with voting provider Scytl to improve the use of cryptography . 
+NSWEC,improve.01,the use of cryptography,,Affirmative,NSWEC is working with voting provider Scytl to improve the use of cryptography . 
+provider Scytl,incorporate.02,a verification system,,Affirmative,"It will also incorporate a verification system in which encrypted votes are sent to both NSWEC and an independent auditor , allowing two sets of data to be compared to ensure votes have not been tampered with . "
+Hamish Barwick,attend.01,the AusCERT security conference on the Gold Coast,,Affirmative,Hamish Barwick attended the AusCERT conference as a guest of AusCERT . 
+I,check.01,this blog,,Affirmative,I was checking continuously this blog and I 'm impressed ! 
+I,care.01,for,,Affirmative,Very useful information specially the last part :) I care for such information much . 
+I,seek.01,this certain information,,Affirmative,I was seeking this certain information for a long time . 

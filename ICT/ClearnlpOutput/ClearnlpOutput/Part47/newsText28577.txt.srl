@@ -1,0 +1,86 @@
+1	The	the	DT	_	2	det	_
+2	article	article	NN	_	6	nsubj	6:A0=PAG;5:A1=PPT
+3	you	you	PRP	_	5	nsubj	5:A0=PAG
+4	have	have	VBP	_	5	aux	_
+5	selected	select	VBN	pb=select.01	2	rcmod	_
+6	requires	require	VBZ	pb=require.01	0	root	_
+7	a	a	DT	_	10	det	_
+8	WorldScreen.com	#url#	ADD	p2=``	9	amod	_
+9	premium	premium	NN	p2=JJ	10	nn	_
+10	subscription	subscription	NN	_	6	dobj	6:A1=PPT
+11	.	.	.	_	6	punct	_
+
+1	Become	become	VB	pb=become.01	0	root	_
+2	a	a	DT	_	3	det	_
+3	Member	member	NNP	p2=NN	1	attr	1:A2=PRD
+4	Now	now	RB	_	3	advmod	_
+5	!	!	.	_	1	punct	_
+
+1	Subscription	subscription	NN	p2=NNP	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	just	just	RB	_	5	advmod	_
+4	$	$	$	_	5	quantmod	_
+5	99	0	CD	_	2	attr	2:A2=PRD
+6	for	for	IN	_	5	prep	_
+7	one	#crd#	CD	_	9	num	_
+8	whole	whole	JJ	_	9	amod	_
+9	year	year	NN	_	6	pobj	_
+10	.	.	.	_	2	punct	_
+
+1	Sign	sign	VB	p2=VBP|pb=sign.03	0	root	_
+2	up	up	IN	p2=RP	1	prt	1:C-V
+3	to	to	IN	_	1	prep	1:A1=PPT
+4	WorldScreen.com	#url#	ADD	_	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	premium	premium	NN	p2=JJ	7	nn	_
+7	service	service	NN	_	3	pobj	_
+8	to	to	TO	_	9	aux	_
+9	read	read	VB	pb=read.01	1	advcl	1:AM-PRP
+10	exclusive	exclusive	JJ	_	11	amod	_
+11	content	content	NN	_	9	dobj	9:A1=PPT
+12	,	,	,	_	1	punct	_
+13	receive	receive	VB	p2=VBP|pb=receive.01	1	conj	_
+14	discounts	discount	NNS	_	13	dobj	13:A1=PPT
+15	on	on	IN	_	14	prep	_
+16	program	program	NN	_	17	nn	_
+17	price	price	NN	_	18	nn	_
+18	guides	guide	NNS	_	15	pobj	_
+19	and	and	CC	_	18	cc	_
+20	channel	channel	NN	_	21	nn	_
+21	directories	directory	NNS	_	18	conj	_
+22	,	,	,	_	13	punct	_
+23	and	and	CC	_	13	cc	_
+24	access	access	VB	p2=VBP|pb=access.01	13	conj	_
+25	our	our	PRP$	_	27	poss	_
+26	extensive	extensive	JJ	_	27	amod	_
+27	archive	archive	NN	p2=NNS	24	dobj	24:A1=PPT
+28	of	of	IN	_	27	prep	_
+29	past	past	JJ	_	31	amod	_
+30	news	news	NN	_	31	nn	_
+31	articles	article	NNS	_	28	pobj	_
+32	,	,	,	_	31	punct	_
+33	features	feature	NNS	_	31	conj	_
+34	,	,	,	_	33	punct	_
+35	interviews	interview	NNS	_	33	conj	_
+36	,	,	,	_	35	punct	_
+37	profiles	profile	NNS	_	35	conj	_
+38	and	and	CC	_	37	cc	_
+39	columns	column	NNS	_	37	conj	_
+40	.	.	.	_	1	punct	_
+
+1	Premium	premium	JJ	p2=NN	2	amod	_
+2	subscriptions	subscription	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	non-refundable	non-refundable	JJ	_	3	acomp	3:A2=PRD
+5	.	.	.	_	3	punct	_
+
+1	©	©	DT	p2=NNP	3	det	_
+2	World	world	NNP	p2=NN	3	nn	_
+3	Screen	screen	NN	p2=NNP	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

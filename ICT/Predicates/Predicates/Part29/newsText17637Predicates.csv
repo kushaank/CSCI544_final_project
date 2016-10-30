@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"MANILA ,",evade.01,a murder attempt against him,,Affirmative,"MANILA , Philippines - A retired officer of the Philippine Marine Corps evaded a murder attempt against him when his assailant fired a shot at him but missed . "
+his assailant,fire.01,a shot,,Affirmative,"MANILA , Philippines - A retired officer of the Philippine Marine Corps evaded a murder attempt against him when his assailant fired a shot at him but missed . "
+"Nestor Mendoza , 61 ,",‎reported.01,Burgos made,to,Affirmative,"Nestor Mendoza , 61 , ‎reported to the police that a certain Juan Burgos made an attempt against his life on Sunday at Barangay ( village ) Maria Paz in Tanauan City . "
+"Inspector Mary Anne Torres ,",say.01,suspect confronted Mendoza prior to,,Affirmative,"‎Police Inspector Mary Anne Torres , Batangas Provincial Police information officer , said in a text message that the suspect confronted Mendoza prior to the shooting . "
+the suspect,confront.01,Nestor Mendoza,,Affirmative,"‎Police Inspector Mary Anne Torres , Batangas Provincial Police information officer , said in a text message that the suspect confronted Mendoza prior to the shooting . "
+a certain Juan Burgos,say.01,Babarilin kita,,Affirmative,"Burgos allegedly threatened the victim , saying , Babarilin kita ! "
+a certain Juan Burgos,shoot.03,you,,Affirmative,( I will shoot you ! ) 
+the gunshot,hit.01,the retired Marine,,Affirmative,The suspect fired once at Mendoza but the gunshot failed to hit the retired Marine . 
+‎Torres,say.01,Burgos will be charged with,,Affirmative,‎Torres said Burgos will be charged with illegal discharge of firearms while he has an existing arrest warrant for frustrated murder . 
+a certain Juan Burgos,have.03,an existing arrest warrant for,,Affirmative,‎Torres said Burgos will be charged with illegal discharge of firearms while he has an existing arrest warrant for frustrated murder . 
+Batangas Provincial Police information officer,add.01,suspect remains at large,,Affirmative,"The suspect remains at large , the Batangas information officer added . "

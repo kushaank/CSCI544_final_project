@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a local hospital official,say.01,civilians were killed and,,Affirmative,"Four Iraqi civilians were killed and five others injured in a mortar attack by the Iraqi army on residential areas in Fallujah , a local hospital official said Sunday . "
+"Wessam al - Essawi ,",add.01,victims were brought to,,Affirmative,"The injured victims were brought to the hospital , but the bodies of the victims were taken to the forensic department , Wessam al - Essawi , the spokesman of Fallujah General Hospital , added . "
+Medics,flee.01,Fallujah General Hospital in,,Affirmative,"Medics had fled Fallujah General Hospital in western Iraq on Sunday because of continued Iraqi army shelling of the medical facility , according to the hospital spokesman . "
+continued Iraqi army shelling of,shell.02,of,,Affirmative,"Medics had fled Fallujah General Hospital in western Iraq on Sunday because of continued Iraqi army shelling of the medical facility , according to the hospital spokesman . "
+"continued Iraqi army shelling of the medical facility , according to the hospital spokesman",fire.01,mortars and rockets,,Affirmative,"The army continues to fire mortars and rockets at the hospital , prompting many medics to leave , Wessam al - Essawi told Anadolu Agency . "
+"continued Iraqi army shelling of the medical facility , according to the hospital spokesman",prompt.01,many medics,,Affirmative,"The army continues to fire mortars and rockets at the hospital , prompting many medics to leave , Wessam al - Essawi told Anadolu Agency . "
+Wessam al - Essawi,tell.01,army continues,Anadolu Agency,Affirmative,"The army continues to fire mortars and rockets at the hospital , prompting many medics to leave , Wessam al - Essawi told Anadolu Agency . "
+three doctors and,decide.01,to stay behind,,Affirmative,"Only three doctors and few nurses decided to stay behind to help the wounded civilians , he added . "
+three doctors and,help.01,the wounded civilians,,Affirmative,"Only three doctors and few nurses decided to stay behind to help the wounded civilians , he added . "
+"Wessam al-Essawi , the spokesman of Fallujah General Hospital",add.01,decided,,Affirmative,"Only three doctors and few nurses decided to stay behind to help the wounded civilians , he added . "
+Al - Essawi,call.05,to intervene,,Affirmative,Al - Essawi called on the Iraqi Health Ministry to intervene to stop indiscriminate attacks on medical facilities and the homes of innocent citizens in Fallujah . 
+Iraqi army officials,comment.01,on,,Affirmative,Iraqi army officials were not immediately available to comment on the accusations . 
+the Iraqi army on residential areas,battle.01,militants,,Affirmative,"Since last December , the Iraqi army has been battling militants in the western Anbar province , of which Fallujah is a key city . "

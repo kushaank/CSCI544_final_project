@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Tom Cruise and,visit.01,a little girl,,Affirmative,Tom Cruise and Jon Bon Jovi constantly visited her when she was a little girl . 
+little girls hosting,host.01,imaginary friends,,Affirmative,"Granted , little girls hosting imaginary friends is a childhood staple , but controversial comic Sakdiyah Ma'ruf cracked me up when she mischievously suggested that they still visit sometimes . "
+controversial comic Sakdiyah Ma'ruf,crack.02,me,,Affirmative,"Granted , little girls hosting imaginary friends is a childhood staple , but controversial comic Sakdiyah Ma'ruf cracked me up when she mischievously suggested that they still visit sometimes . "
+ruf,suggest.01,that they still visit sometimes,,Affirmative,"Granted , little girls hosting imaginary friends is a childhood staple , but controversial comic Sakdiyah Ma'ruf cracked me up when she mischievously suggested that they still visit sometimes . "
+Sakdiyah,teach.01,English,herself,Affirmative,"Growing up in Java , the world 's most populous island , she taught herself English by watching sitcoms like The Cosby Show , Roseanne , Seinfeld and Full House , all of which featured subtitles in Bahasa Indonesia . "
+Sakdiyah,watch.01,sitcoms like,,Affirmative,"Growing up in Java , the world 's most populous island , she taught herself English by watching sitcoms like The Cosby Show , Roseanne , Seinfeld and Full House , all of which featured subtitles in Bahasa Indonesia . "
+me,ask.01,why she wears,,Affirmative,"When I ask why she wears a veil in a society where it 's optional , Sakdiyah explains how it frees her . "
+Sakdiyah,wear.01,a veil,,Affirmative,"When I ask why she wears a veil in a society where it 's optional , Sakdiyah explains how it frees her . "
+Sakdiyah,explain.01,how it frees her,,Affirmative,"When I ask why she wears a veil in a society where it 's optional , Sakdiyah explains how it frees her . "
+Java,free.01,Sakdiyah,,Affirmative,"When I ask why she wears a veil in a society where it 's optional , Sakdiyah explains how it frees her . "
+the veil,counter.01,impossible beauty standards,,Affirmative,"For her , the veil counters impossible beauty standards . "
+a veil in a society where it 's optional,assert.02,ownership over,,Affirmative,It asserts ownership over her own body . 
+Sakdiyah,resist.01,the gravitational pull of,,Affirmative,"Her use of the veil is also a way she resists the gravitational pull of the fashion industry , allowing her to focus on issues of justice , violence and equality . "
+Sakdiyah,describe.01,Sakdiyah,as,Affirmative,"In her work , Sakdiyah describes herself as almost pretty , a bittersweet phrase suggesting the implicit mandate of aesthetic potential : the dream that drives advertising . "
+a bittersweet phrase suggesting,suggest.01,the implicit mandate of,,Affirmative,"In her work , Sakdiyah describes herself as almost pretty , a bittersweet phrase suggesting the implicit mandate of aesthetic potential : the dream that drives advertising . "
+the dream,drive.02,advertising,,Affirmative,"In her work , Sakdiyah describes herself as almost pretty , a bittersweet phrase suggesting the implicit mandate of aesthetic potential : the dream that drives advertising . "
+Sakdiyah,rave.01,about,,Affirmative,"Sakdiyah raves about her influences : Sarah Silverman , Tina Fey , Margaret Cho , Roseanne , Ellen , Kathy Griffin , Robin Williams , Stephen Colbert , Chris Rock , Ricky Gervais and Jerry Seinfeld . "
+She,say.01,comic is,,Affirmative,"Her favorite comic is Louis C.K. She says his most recent special satirizes aspects of human nature so ugly , so unbearable , that she can only weep as he redeems misery with insight . "
+he,redeem.01,misery,,Affirmative,"Her favorite comic is Louis C.K. She says his most recent special satirizes aspects of human nature so ugly , so unbearable , that she can only weep as he redeems misery with insight . "
+the hypocrisy of,mean.01,it hurts,,Affirmative,"Great comedy mirrors the hypocrisy of a culture , which means it hurts real bad . "
+It,condense.01,pain,into,Affirmative,"It condenses pain into tiny joke pellets , like a mass - immunization that builds tolerance and vigor . "
+a mass - immunization,build.01,tolerance and vigor,,Affirmative,"It condenses pain into tiny joke pellets , like a mass - immunization that builds tolerance and vigor . "
+Sakdiyah,chase.01,truth,,Affirmative,And Sakdiyah is chasing truth . 

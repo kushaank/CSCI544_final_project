@@ -1,0 +1,75 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+", '' Rubin",spend.01,on,,Affirmative,"He spent $ 2,000 on a custom - built drone that he bought the components for on - line . "
+", '' Rubin",buy.01,the components,,Affirmative,"He spent $ 2,000 on a custom - built drone that he bought the components for on - line . "
+His flying machine,have.03,"three arms ,",,Affirmative,"His flying machine has three arms , each supporting two propellers . "
+each,support.01,two propellers,,Affirmative,"His flying machine has three arms , each supporting two propellers . "
+a very stable configuration,look.02,cool,,Affirmative,It 's a very stable configuration and it just looks cool ! 
+a mini-computer,control.01,each motor,,Affirmative,There 's a mini-computer that controls each motor . 
+a mini-computer that controls each motor,have.03,a GPS and,,Affirmative,It has a GPS and a compass . 
+you,tell.01,where to go,it,Affirmative," It 's almost like the computer is flying it , you just have to tell it where to go . "
+UAV,carry.01,PRO camera,,Affirmative,Rubin 's UAV is designed to carry a stabilized GO - PRO camera . 
+ It,shoot.03,resolution video,,Affirmative, It shoots high - resolution video and uses WIFI to beam the images back to the operator on the ground as the craft is flying . 
+ It,use.01,WIFI,to beam,Affirmative, It shoots high - resolution video and uses WIFI to beam the images back to the operator on the ground as the craft is flying . 
+anyone,fly.01,a UAV,,Affirmative,"Under current Canadian law , anyone can fly a UAV or take video with it for fun , as long as the machine weighs less than 35 kilograms and is not being used for a commercial purposes . "
+anyone,take.01,video,with it,Affirmative,"Under current Canadian law , anyone can fly a UAV or take video with it for fun , as long as the machine weighs less than 35 kilograms and is not being used for a commercial purposes . "
+a very stable configuration,weigh.01,35 kilograms,,Affirmative,"Under current Canadian law , anyone can fly a UAV or take video with it for fun , as long as the machine weighs less than 35 kilograms and is not being used for a commercial purposes . "
+"Mauro , the aviation lawyer",say.01,is outdated,,Affirmative,But Mauro says the notion that today 's drones qualify as model aircraft under existing Canadian rules is outdated . 
+"Mauro , the aviation lawyer",say.01,safety is arguably,,Affirmative,"Peering cameras flying overhead raise significant privacy concerns , but Mauro says safety is arguably a more pressing issue . "
+Safety Board is,investigate.01,a case,,Affirmative,"Recently ,  it was revealed Canada 's Transportation Safety Board is investigating a case where an Air Canada pilot landing at Vancouver International Airport spotted a drone a few dozen metres from his jet . "
+Canada pilot landing at,spot.01,a drone,,Affirmative,"Recently ,  it was revealed Canada 's Transportation Safety Board is investigating a case where an Air Canada pilot landing at Vancouver International Airport spotted a drone a few dozen metres from his jet . "
+"Mauro , the aviation lawyer",say.01,Aircraft are tested for,,Affirmative,"Aircraft are tested for bird strikes on a regular basis and the industry is highly regulated and safe , Mauro says . "
+"Mauro , the aviation lawyer",think.01,that is,,Affirmative,And I think that is a safety issue we are seeing now . 
+we,see.01,a safety issue,,Affirmative,And I think that is a safety issue we are seeing now . 
+we,require.01,all operators flying for,,Affirmative,"They require all operators flying for commercial purposes to get a permit and file a sort of flight plan ,  a process that usually takes between 10 and 20 days . "
+process,take.02,days,,Affirmative,"They require all operators flying for commercial purposes to get a permit and file a sort of flight plan ,  a process that usually takes between 10 and 20 days . "
+the department 's,issue.01,operation certificates,,Affirmative,"The department issued 945 so - called flight operation certificates last year , and observers expect the number to be higher in 2014 . "
+observers,expect.01,number to be higher in 2014,,Affirmative,"The department issued 945 so - called flight operation certificates last year , and observers expect the number to be higher in 2014 . "
+Baur,tell.01, the,you,Affirmative,"I 'll tell you ,  the last six months have been totally phenomenal , Baur says of the demand for his company 's drone services . "
+Baur,say.01,"I 'll tell you ,  the",,Affirmative,"I 'll tell you ,  the last six months have been totally phenomenal , Baur says of the demand for his company 's drone services . "
+by,hire.01, Guardian,to inspect,Affirmative,"Earlier this spring ,  Guardian was hired by the Yukon government to inspect an old bridge on the Ross River , a job unsuitable for a helicopter . "
+ Guardian,inspect.01,an old bridge on,,Affirmative,"Earlier this spring ,  Guardian was hired by the Yukon government to inspect an old bridge on the Ross River , a job unsuitable for a helicopter . "
+It [,blow.09,an old bridge on the Ross River,,Affirmative,"It [ a regular helicopter ] might blow the bridge away , Howe says . "
+Howe,say.01,might blow,,Affirmative,"It [ a regular helicopter ] might blow the bridge away , Howe says . "
+his company 's,have.03,a contract,,Affirmative,The company also has a contract to work with Vancouver - area fire departments to use drones to deploy heat sensors . 
+his company 's,use.01,today 's drones,to deploy,Affirmative,The company also has a contract to work with Vancouver - area fire departments to use drones to deploy heat sensors . 
+the official,say.01,It 's hard,,Affirmative,"It 's hard to regulate something that 's evolving so quickly , the official said . "
+", '' Rubin",say.01,he would n't be opposed to,,Affirmative,"Noel Rubin says as a hobby user he would n't be opposed to more controls being put on people who are flying for fun , even if it means licensing users . "
+risk of collapse,mean.01,licensing users,,Affirmative,"Noel Rubin says as a hobby user he would n't be opposed to more controls being put on people who are flying for fun , even if it means licensing users . "
+", '' Rubin",tell.01,There should be,CBC News,Affirmative,"There should be some level of qualification , he told CBC News as he manoeuvred his UAV at a park near Vancouver 's Science World . "
+", '' Rubin",manoeuvre.01,a UAV,,Affirmative,"There should be some level of qualification , he told CBC News as he manoeuvred his UAV at a park near Vancouver 's Science World . "
+"Mauro , the aviation lawyer",think.01,it only makes sense,,Affirmative,I think it only makes sense to have some kind of licensing when it comes to the pilots of these aircraft . 
+some level of qualification,make.01,sense,,Affirmative,I think it only makes sense to have some kind of licensing when it comes to the pilots of these aircraft . 
+These,create.01,a safety concern for,,Affirmative,These ( UAVS ) create a safety concern for the public and it makes sense to license them . 
+UAVs,make.05,sense,,Affirmative,These ( UAVS ) create a safety concern for the public and it makes sense to license them . 
+UAVs,license.01,drivers,,Affirmative,These ( UAVS ) create a safety concern for the public and it makes sense to license them . 
+Canada official,say.01,idea has been discussed within,,Affirmative,"The Transport Canada official CBC News spoke to said the idea has been discussed within the department 's working group on UAVs ,  but for the moment there is no plan to move in that direction . "
+a hobby user,post.01,his drone videos,on - line,Affirmative,"Amiel De Guzman , a hobby user who frequently posts his drone videos on - line , said an aviation inspector e-mailed him and advised him he was flying too close to buildings . "
+"Amiel De Guzman ,",say.01,inspector e-mailed him and advised him he,,Affirmative,"Amiel De Guzman , a hobby user who frequently posts his drone videos on - line , said an aviation inspector e-mailed him and advised him he was flying too close to buildings . "
+an aviation inspector,advise.01,him he,was flying,Affirmative,"Amiel De Guzman , a hobby user who frequently posts his drone videos on - line , said an aviation inspector e-mailed him and advised him he was flying too close to buildings . "
+Amiel De Guzman,say.01,official appeared concerned about,,Affirmative,De Guzman says the government official appeared concerned about some footage he shot near apartment buildings that line Vancouver's English Bay . 
+the government official,concerned about.01,some footage,,Affirmative,De Guzman says the government official appeared concerned about some footage he shot near apartment buildings that line Vancouver's English Bay . 
+the government official,shoot.01,some footage,,Affirmative,De Guzman says the government official appeared concerned about some footage he shot near apartment buildings that line Vancouver's English Bay . 
+Amiel De Guzman,get.02,several videos on Youtube,,Affirmative,"I 've got several videos on Youtube and they got referenced , De Guzman says . "
+Amiel De Guzman,say.01,I 've got,,Affirmative,"I 've got several videos on Youtube and they got referenced , De Guzman says . "
+Youtube,tell.01,I have been flying it in areas,me,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+Amiel De Guzman,fly.01,some footage,,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+Amiel De Guzman,want.01,to keep on flying,,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+Amiel De Guzman,keep.02,flying,,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+Amiel De Guzman,fly.01,I may need,,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+Amiel De Guzman,need.01,a permit,,Affirmative,"He pretty much told me I have been flying it in areas hazardous to people , and if I want to keep on flying I may need a permit . "
+One of,show.01,drone crashing into,,Affirmative,One of De Guzman 's videos shows his drone crashing into the top of a tree . 
+Youtube,say.01,It actually went out of signal,,Affirmative,"It actually went out of signal once , he says . "
+One of De Guzman 's videos,hit.01,a tree,,Affirmative,"Thankfully , it hit a tree . "
+Many UAVs,take.01,off if,out of range,Affirmative,Many UAVs have built - in safety features and are pre-programmed to return to the point from which they took off if they move out of range or are about to run out of power . 
+transponders,potentially warn.01,today 's drones,from hitting objects - or,Affirmative,"But other features , such as transponders that might potentially warn off drones from hitting objects - or each other - are still likely several years away from being standard . "
+"Mauro , the aviation lawyer",say.01,it would make sense in,,Affirmative,Mauro says it would make sense in urban areas to limit where recreational users could fly . 
+each other,make.02,sense,,Affirmative,Mauro says it would make sense in urban areas to limit where recreational users could fly . 
+each other,limit.01,users could fly,,Affirmative,Mauro says it would make sense in urban areas to limit where recreational users could fly . 
+people who are flying for fun,operate.01,safe way,,Affirmative,"There 's nothing wrong with establishing a block of airspace , somewhere where drones are flying and where people can operate drones in a safe way , away from the public . "
+Transport Canada 's,have.03,a working group,,Affirmative,Transport Canada has a working group that has been considering new rules for using drones for several years . 
+a working group,consider.02,new rules,for using drones for,Affirmative,Transport Canada has a working group that has been considering new rules for using drones for several years . 
+A spokesman,say.01,group is continuing,,Affirmative,A spokesman says the group is continuing to discuss the possibilities for better regulating UAVs . 
+a working group that has been considering new rules for using drones for several years,continue.01,to discuss,,Affirmative,A spokesman says the group is continuing to discuss the possibilities for better regulating UAVs . 
+a working group that has been considering new rules for using drones for several years,discuss.01,the possibilities for,,Affirmative,A spokesman says the group is continuing to discuss the possibilities for better regulating UAVs . 
+one user,say.01,it still feels like ,,Affirmative,"For the moment though , one user said it still feels like  the wild west as Canada 's drone business takes off . "
+the moment,feel.02,like ,,Affirmative,"For the moment though , one user said it still feels like  the wild west as Canada 's drone business takes off . "

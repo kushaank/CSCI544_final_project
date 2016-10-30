@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sunseekers,struggle.02,to find,,Affirmative,Sunseekers struggled to find a spot on Britain 's beaches today as the country basked in the hottest weather of the year so far . 
+Sunseekers,find.01,a spot on,,Affirmative,Sunseekers struggled to find a spot on Britain 's beaches today as the country basked in the hottest weather of the year so far . 
+Visitors,soak.02,the rays,,Affirmative,"Visitors arrived in droves to soak up the rays as temperatures reached 25C ( 77F ) - hotter than Rome , Athens or Majorca . "
+temperatures dropping to 16C by Wednesday,reach.01,25C,,Affirmative,"Visitors arrived in droves to soak up the rays as temperatures reached 25C ( 77F ) - hotter than Rome , Athens or Majorca . "
+"150,000 seaside visitors",head.02,to Brighton,,Affirmative,"About 150,000 seaside visitors headed to Brighton at the weekend , filling nearly all its hotels to capacity and causing gridlock on roads to the resort . "
+"150,000 seaside visitors",fill.01,all its hotels,to capacity,Affirmative,"About 150,000 seaside visitors headed to Brighton at the weekend , filling nearly all its hotels to capacity and causing gridlock on roads to the resort . "
+"150,000 seaside visitors",cause.01,gridlock,,Affirmative,"About 150,000 seaside visitors headed to Brighton at the weekend , filling nearly all its hotels to capacity and causing gridlock on roads to the resort . "
+"Helen Roberts ,",say.01,We expect,,Affirmative,"Helen Roberts , a Met Office forecaster , said : ' We expect to see highs of around 24C ( 75.2F ) again tomorrow in the south - east but temperatures will start to fall elsewhere . "
+We,expect.01,to see highs of,,Affirmative,"Helen Roberts , a Met Office forecaster , said : ' We expect to see highs of around 24C ( 75.2F ) again tomorrow in the south - east but temperatures will start to fall elsewhere . "
+We,see.01,highs of,,Affirmative,"Helen Roberts , a Met Office forecaster , said : ' We expect to see highs of around 24C ( 75.2F ) again tomorrow in the south - east but temperatures will start to fall elsewhere . "
+200 hotels,reach.01,capacity,,Affirmative,"Almost all of the town 's 3,000 deckchairs were checked out and 200 hotels reached capacity . "
+Ladbrokes,offer.01,odds of 8/1,,Affirmative,"Meanwhile , Ladbrokes is offering odds of 8/1 on May becoming the hottest on record . "

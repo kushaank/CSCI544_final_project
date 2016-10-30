@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the Ethiopian maid 's,deny.01,stealing,,Affirmative,"The Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+the Ethiopian maid 's,steal.01,the money,,Affirmative,"The Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+the other woman,confess.01,to,,Affirmative,"The Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+The Iraqi,inform.01,Gharb police station of,,Affirmative,"The Iraqi informed Al Gharb police station of the theft , saying he suspected his Ethiopian maid . "
+The Iraqi,say.01,he suspected,,Affirmative,"The Iraqi informed Al Gharb police station of the theft , saying he suspected his Ethiopian maid . "
+an Ethiopian man,suspect.01,the Ethiopian maid 's,,Affirmative,"The Iraqi informed Al Gharb police station of the theft , saying he suspected his Ethiopian maid . "
+by,trust.02,the Ethiopian maid 's,,Affirmative,She used to be trusted by the family and knew the place where they kept money and other valuables . 
+the Ethiopian maid 's,know.01,the place,,Affirmative,She used to be trusted by the family and knew the place where they kept money and other valuables . 
+Two maids,keep.02,money and,,Affirmative,She used to be trusted by the family and knew the place where they kept money and other valuables . 
+A team from,investigate.01,the theft,,Affirmative,A team from the Criminal Investigation Department investigating the theft arrested the absconding maid . 
+A team from,arrest.01,the absconding maid,,Affirmative,A team from the Criminal Investigation Department investigating the theft arrested the absconding maid . 
+Two maids,arrest.01,"a second maid ,",,Affirmative,"They also arrested a second maid , who worked for the family occasionally as a cleaner . "
+"a second maid ,",work.01,occasionally as,for,Affirmative,"They also arrested a second maid , who worked for the family occasionally as a cleaner . "
+the Ethiopian maid 's and police,think.01,she could also be involved,,Affirmative,Her working hours coincided with the Ethiopian maid 's and police thought she could also be involved . 
+the Ethiopian maid 's,deny.01,stealing,,Affirmative,"While the Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+the Ethiopian maid 's,steal.01,the money,,Affirmative,"While the Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+the other woman,confess.01,to,,Affirmative,"While the Ethiopian maid initially denied stealing the money , the other woman confessed to having been involved . "
+the Ethiopian maid 's,say.01,money was stolen,,Affirmative,She said the money was stolen to get her back on their employer 's wife who was always fighting with her . 
+wife,fight.01,with her,,Affirmative,She said the money was stolen to get her back on their employer 's wife who was always fighting with her . 
+police,find.01,"Dhs20,000",,Affirmative,"On searching her house , police found Dhs20,000 in addition to two of the three stolen mobiles . "
+the Ethiopian maid 's,say.01,she had handed them over to,,Affirmative,"Asked about the remaining sum and the phone , she reportedly said she had handed them over to their third accomplice , who was to have smuggled them out . "
+the Ethiopian maid 's,hand.02,the Ethiopian maid 's and police,to,Affirmative,"Asked about the remaining sum and the phone , she reportedly said she had handed them over to their third accomplice , who was to have smuggled them out . "
+an Ethiopian man,deny.01,involvement in,,Affirmative,"When the Ethiopian man was arrested , he denied involvement in the robbery , saying he was handed over the money by one of the maids . "
+an Ethiopian man,say.01,he was handed over,,Affirmative,"When the Ethiopian man was arrested , he denied involvement in the robbery , saying he was handed over the money by one of the maids . "
+by one of,hand.02,an Ethiopian man,,Affirmative,"When the Ethiopian man was arrested , he denied involvement in the robbery , saying he was handed over the money by one of the maids . "

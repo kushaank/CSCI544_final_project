@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,investigate.01,an aggravated robbery,,Affirmative,Police are investigating an aggravated robbery at Stirling North last night . 
+"Two men ,",arm.01,one,with,Affirmative,"ROBBERY : Two men , one allegedly armed with a small sword have robbed a Stirling North deli . "
+one,rob.01,North deli,,Affirmative,"ROBBERY : Two men , one allegedly armed with a small sword have robbed a Stirling North deli . "
+Police,investigate.01,an aggravated robbery,,Affirmative,Police are investigating an aggravated robbery at Stirling North on Sunday night . 
+"Two men , one allegedly armed with a small sword",enter.01,a deli,,Affirmative,"Around 7 pm Sunday night , police were called to Quorn Road after two men entered a deli and demanded money . "
+"Two men , one allegedly armed with a small sword",demand.01,money,,Affirmative,"Around 7 pm Sunday night , police were called to Quorn Road after two men entered a deli and demanded money . "
+The second suspect,wear.01,a red jumper with,,Affirmative,The second suspect was wearing a red jumper with white letters on the front . 

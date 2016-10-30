@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Houston police,investigate.01,whether alcohol played,,Affirmative,Houston police are investigating whether alcohol played a role in the death of a teen whose body was found in a hotel room after she attended her senior prom . 
+alcohol,play.02,a role,,Affirmative,Houston police are investigating whether alcohol played a role in the death of a teen whose body was found in a hotel room after she attended her senior prom . 
+she,attend.01,her senior prom,,Affirmative,Houston police are investigating whether alcohol played a role in the death of a teen whose body was found in a hotel room after she attended her senior prom . 
+statement Monday,say.01,officials are trying,,Affirmative,A coroner 's statement Monday says officials are trying to determine the cause and manner of death for 17 - year - old Jacqueline Gomez . 
+officials,try.01,to determine,,Affirmative,A coroner 's statement Monday says officials are trying to determine the cause and manner of death for 17 - year - old Jacqueline Gomez . 
+officials,determine.01,the cause and manner of death,,Affirmative,A coroner 's statement Monday says officials are trying to determine the cause and manner of death for 17 - year - old Jacqueline Gomez . 
+by,notify.01,Houston police on,,Affirmative,Houston police on Saturday morning were notified by her boyfriend that Gomez was unresponsive in a room at the Hyatt North Houston . 
+The couple on,attend.01,prom,,Affirmative,The couple on Friday night had attended prom at the hotel . 
+Houston police on Saturday,say.01,boyfriend told investigators,,Affirmative,Police say the boyfriend told investigators that he and Gomez drank alcohol before falling asleep . 
+her boyfriend,tell.01,drank alcohol before falling asleep,investigators,Affirmative,Police say the boyfriend told investigators that he and Gomez drank alcohol before falling asleep . 
+he and Gomez,drink.01,alcohol,,Affirmative,Police say the boyfriend told investigators that he and Gomez drank alcohol before falling asleep . 
+Houston police on Saturday,say.01,they do not believe,,Affirmative,Police have said they do not believe the boyfriend contributed to the girl 's death . 
+Houston police on Saturday,believe.01,boyfriend contributed to,,Affirmative,Police have said they do not believe the boyfriend contributed to the girl 's death . 

@@ -1,0 +1,71 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"HOMS , Syria :",fear.01,re-arrest or retribution from,,Affirmative,"HOMS , Syria : More than 100 rebels who surrendered to the Syrian regime in the hope of an amnesty have languished for months in a detention center in Homs , fearing re-arrest or retribution from other rebels . "
+some activists,leave.01,City neighborhood,,Affirmative,"Guarded by troops , the school houses rebels and some activists who left Homs ' besieged Old City neighborhood , broken by hunger and lured by government promises of amnesty if they surrendered . "
+the Syrian regime,say.01,it wants,,Affirmative,"The regime says it wants to re-educate the men , who include army defectors , draft evaders and civilians who joined the revolt against President Bashar Assad that broke out in March 2011 . "
+the Syrian regime,want.01,to re-educate,,Affirmative,"The regime says it wants to re-educate the men , who include army defectors , draft evaders and civilians who joined the revolt against President Bashar Assad that broke out in March 2011 . "
+the Syrian regime,re-educate.01,"the men ,",,Affirmative,"The regime says it wants to re-educate the men , who include army defectors , draft evaders and civilians who joined the revolt against President Bashar Assad that broke out in March 2011 . "
+evaders and civilians,join.01,the revolt against,,Affirmative,"The regime says it wants to re-educate the men , who include army defectors , draft evaders and civilians who joined the revolt against President Bashar Assad that broke out in March 2011 . "
+by,label.01,those,as traitors,Affirmative,But those who surrendered have been labeled as traitors by their former comrades in arms . 
+by,give.01,release papers,,Affirmative,"The majority of the 1,500 people who passed through Andalus were given release papers by the authorities . "
+others,refuse.01,to leave,,Affirmative,"Some are still waiting to be freed , while others are refusing to leave . "
+The detainees,tell.01,governor,AFP,Affirmative,Detainees told AFP during a visit to the facility authorized by the Homs governor that at least 56 were re-arrested after their release or simply vanished . 
+by,authorize.01,the facility authorized by,,Affirmative,Detainees told AFP during a visit to the facility authorized by the Homs governor that at least 56 were re-arrested after their release or simply vanished . 
+Many,fear.01,they could face,,Affirmative,Many now fear they could face the same fate . 
+Many,face.01,the same fate,,Affirmative,Many now fear they could face the same fate . 
+Many,know.01,where he is,,Affirmative,"My brother was arrested after he was given his papers , and now we do n't know where he is , said Mowaffaq Shufan , an ex-rebel commander held at Andalus . "
+"Mowaffaq Shufan ,",say.01,brother was arrested,,Affirmative,"My brother was arrested after he was given his papers , and now we do n't know where he is , said Mowaffaq Shufan , an ex-rebel commander held at Andalus . "
+The detainees,say.01,they were tricked into surrendering,,Affirmative,"The detainees say they were tricked into surrendering and dozens who received release papers have chosen to stay on , fearing they could be re-arrested or abducted by pro-regime militiamen . "
+dozens,receive.01,release papers,,Affirmative,"The detainees say they were tricked into surrendering and dozens who received release papers have chosen to stay on , fearing they could be re-arrested or abducted by pro-regime militiamen . "
+dozens,choose.01,to stay on,,Affirmative,"The detainees say they were tricked into surrendering and dozens who received release papers have chosen to stay on , fearing they could be re-arrested or abducted by pro-regime militiamen . "
+dozens,fear.01,they could be re-arrested or abducted by,,Affirmative,"The detainees say they were tricked into surrendering and dozens who received release papers have chosen to stay on , fearing they could be re-arrested or abducted by pro-regime militiamen . "
+by,abduct.01,The detainees,,Affirmative,"The detainees say they were tricked into surrendering and dozens who received release papers have chosen to stay on , fearing they could be re-arrested or abducted by pro-regime militiamen . "
+known media activist,cover.02,the uprising in Homs,,Affirmative,"Among the disappeared is Khaled al - Tellawy , a well - known media activist who had covered the uprising in Homs since its outbreak . "
+the disappeared,know.01,where he is,,Affirmative,"We do n't know where he is any more , said Ghanem , a detainee who declined to give his surname . "
+"Ghanem ,",say.01,We do n't know,,Affirmative,"We do n't know where he is any more , said Ghanem , a detainee who declined to give his surname . "
+a detainee,decline.02,to give,,Affirmative,"We do n't know where he is any more , said Ghanem , a detainee who declined to give his surname . "
+a detainee,give.01,his surname,,Affirmative,"We do n't know where he is any more , said Ghanem , a detainee who declined to give his surname . "
+Khaled al-Tellawy,say.01,Tellawy had admitted providing,,Affirmative,He said Tellawy had admitted providing video footage and pictures to international media . 
+Tellawy,admit.01,providing,,Affirmative,He said Tellawy had admitted providing video footage and pictures to international media . 
+Tellawy,provide.01,video footage and pictures,to,Affirmative,He said Tellawy had admitted providing video footage and pictures to international media . 
+Khaled al-Tellawy,add.01,I do n't dare leave,,Affirmative,"I do n't dare leave , he added . "
+director Ammar Heshme,say.01,men were arrested and referred to prosecution,,Affirmative,Andalus director Ammar Heshme said 20 men were arrested and referred to prosecution after they had left the facility because civilians had launched proceedings against them . 
+20 men,refer.02,to prosecution,,Affirmative,Andalus director Ammar Heshme said 20 men were arrested and referred to prosecution after they had left the facility because civilians had launched proceedings against them . 
+20 men,leave.01,the facility authorized by the Homs governor that at least 56 were re-arrested after their release,,Affirmative,Andalus director Ammar Heshme said 20 men were arrested and referred to prosecution after they had left the facility because civilians had launched proceedings against them . 
+civilians who joined the revolt against President Bashar Assad that broke out in March 2011,launch.01,proceedings against them,,Affirmative,Andalus director Ammar Heshme said 20 men were arrested and referred to prosecution after they had left the facility because civilians had launched proceedings against them . 
+citizens,accuse.01,20 men,of,Affirmative,There are citizens who accuse them of having kidnapped a relative or killed another . 
+citizens,kidnap.01,a relative,,Affirmative,There are citizens who accuse them of having kidnapped a relative or killed another . 
+citizens,kill.01,another,,Affirmative,There are citizens who accuse them of having kidnapped a relative or killed another . 
+The government,pardon.01,these citizens,,Affirmative,"The government can pardon them but it can not stop these citizens from filing complaints against them , he said . "
+The government,stop.03,these citizens,from filing complaints against them,Affirmative,"The government can pardon them but it can not stop these citizens from filing complaints against them , he said . "
+these citizens,file.01,complaints against them,,Affirmative,"The government can pardon them but it can not stop these citizens from filing complaints against them , he said . "
+Andalus director Ammar Heshme,say.01,government can pardon them but,,Affirmative,"The government can pardon them but it can not stop these citizens from filing complaints against them , he said . "
+visitors but detainees,say.01,relatives risk kidnapping,,Affirmative,They are allowed visitors but detainees said their relatives risk kidnapping if they come . 
+their relatives,risk.01,kidnapping,,Affirmative,They are allowed visitors but detainees said their relatives risk kidnapping if they come . 
+My cousins,see.01,"Firas , who also did not give his surname",,Affirmative,My cousins were coming to see me but they disappeared . 
+"Firas ,",say.01,I am afraid of,,Affirmative,"I am afraid of being kidnapped too , said Firas , who also did not give his surname . "
+"Firas ,",give.01,his surname,,Affirmative,"I am afraid of being kidnapped too , said Firas , who also did not give his surname . "
+"Firas , who also did not give his surname",fear.01,rebels might retaliate against me,,Affirmative,"If I go there , I fear the rebels might retaliate against me , as they consider us traitors , he said . "
+the school houses rebels,retaliate.01,against me,,Affirmative,"If I go there , I fear the rebels might retaliate against me , as they consider us traitors , he said . "
+the school houses rebels,consider.01,us traitors,,Affirmative,"If I go there , I fear the rebels might retaliate against me , as they consider us traitors , he said . "
+"Firas , who also did not give his surname",say.01,", I fear",,Affirmative,"If I go there , I fear the rebels might retaliate against me , as they consider us traitors , he said . "
+he and,strike.01,a deal,,Affirmative,Firas surrendered in early May under a deal he and other detainees struck with the army . 
+Another detainee,identify.01,"Firas , who also did not give his surname",,Affirmative,"Another detainee who identified himself as Ziad said he surrendered because after the army 's two - year siege , he was weak from hunger . "
+Ziad,say.01,he surrendered,,Affirmative,"Another detainee who identified himself as Ziad said he surrendered because after the army 's two - year siege , he was weak from hunger . "
+Another detainee who identified himself as Ziad,say.01,I could not stand on,,Affirmative,"I could not stand on my own two feet anymore , he said . "
+Others,say.01,longer bow to demands,,Affirmative,Others said they could no longer bow to demands by rebel chiefs who asked them for loyalty in exchange for food and medicines . 
+Others,bow.01,to demands,,Affirmative,Others said they could no longer bow to demands by rebel chiefs who asked them for loyalty in exchange for food and medicines . 
+demands,ask.02,for loyalty in exchange for food and medicines,them,Affirmative,Others said they could no longer bow to demands by rebel chiefs who asked them for loyalty in exchange for food and medicines . 
+"Shufan ,",say.01,detainees complained,,Affirmative,"Shufan , the rebel commander , said detainees complained they had nowhere left to turn . "
+The detainees,complain.01,they had nowhere left,,Affirmative,"Shufan , the rebel commander , said detainees complained they had nowhere left to turn . "
+"Mowaffaq Shufan , an ex-rebel commander held at Andalus",say.01,We are victims of,,Affirmative,"We are victims of the two sides , he said . "
+us,invite.01,all our readers,to share with us,Affirmative,We invite all our readers to share with us their views and comments about this article . 
+all our readers,share.01,their views and comments about,with us,Affirmative,We invite all our readers to share with us their views and comments about this article . 
+by,submit.01,Comments submitted by,,Affirmative,Disclaimer : Comments submitted by third parties on this site are the sole responsibility of the individual ( s ) whose content is submitted . 
+The Daily Star,accept.01,no responsibility for,,Affirmative,"The Daily Star accepts no responsibility for the content of comment ( s ) , including , without limitation , any error , omission or inaccuracy therein . "
+100 rebels,fear.01,re-arrest or retribution from,,Affirmative,"More than 100 rebels who surrendered to the Syrian regime in the hope of an amnesty have languished for months in a detention center in Homs , fearing re-arrest or retribution from other rebels . "
+some activists,leave.01,City neighborhood,,Affirmative,"Guarded by troops , the school houses rebels and some activists who left Homs ' besieged Old City neighborhood , broken by hunger and lured by government promises of amnesty if they surrendered . "
+The detainees,tell.01,governor,AFP,Affirmative,Detainees told AFP during a visit to the facility authorized by the Homs governor that at least 56 were re-arrested after their release or simply vanished . 
+by,authorize.01,the facility authorized by,,Affirmative,Detainees told AFP during a visit to the facility authorized by the Homs governor that at least 56 were re-arrested after their release or simply vanished . 
+he and,strike.01,a deal,,Affirmative,Firas surrendered in early May under a deal he and other detainees struck with the army . 
+Another detainee,identify.01,"Firas , who also did not give his surname",,Affirmative,"Another detainee who identified himself as Ziad said he surrendered because after the army 's two - year siege , he was weak from hunger . "
+Ziad,say.01,he surrendered,,Affirmative,"Another detainee who identified himself as Ziad said he surrendered because after the army 's two - year siege , he was weak from hunger . "

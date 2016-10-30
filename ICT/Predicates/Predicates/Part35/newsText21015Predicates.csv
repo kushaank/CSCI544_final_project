@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+an altercation with his roommate,state.01,that Thompson hit,,Affirmative,  It states that Thompson hit the roommate several times in the face with an open hand while the roommate was holding Thompson 's 3 - year - old son . 
+"Bill Robert Thompson , 44 , of Draper",hit.02,his roommate,,Affirmative,  It states that Thompson hit the roommate several times in the face with an open hand while the roommate was holding Thompson 's 3 - year - old son . 
+his roommate,hold.01,old son,,Affirmative,  It states that Thompson hit the roommate several times in the face with an open hand while the roommate was holding Thompson 's 3 - year - old son . 
+A neighbor,state.01,argument was,,Affirmative,A neighbor stated that the argument was because the defendant had been drinking for the last couple of days and was very intoxicated . 
+Police,receive.01,a call about,,Affirmative,Police received a call about domestic violence but Thompson had already left the scene before officers arrived . 
+"Bill Robert Thompson , 44 , of Draper",leave.01,the scene,,Affirmative,Police received a call about domestic violence but Thompson had already left the scene before officers arrived . 
+The driver of,try.01,to let,,Affirmative,The driver of a Mini Cooper came to the dead end of the road and tried to let Thompson pass her to make a U-turn - instead Thompson reportedly struck the driver 's side door then laughed and drove off . 
+"Bill Robert Thompson , 44 , of Draper",pass.01,A neighbor,,Affirmative,The driver of a Mini Cooper came to the dead end of the road and tried to let Thompson pass her to make a U-turn - instead Thompson reportedly struck the driver 's side door then laughed and drove off . 
+A neighbor,make.02,a U-turn,,Affirmative,The driver of a Mini Cooper came to the dead end of the road and tried to let Thompson pass her to make a U-turn - instead Thompson reportedly struck the driver 's side door then laughed and drove off . 
+"Bill Robert Thompson , 44 , of Draper",strike.01,side door,,Affirmative,The driver of a Mini Cooper came to the dead end of the road and tried to let Thompson pass her to make a U-turn - instead Thompson reportedly struck the driver 's side door then laughed and drove off . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

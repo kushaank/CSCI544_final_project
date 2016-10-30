@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+CHINIOT - Police on Sunday,kill.01,five attackers,,Affirmative,"CHINIOT - Police on Sunday killed five attackers when they held hostage two men in an attempt to flee from the scene after killing three people at Bhowana Town 's main bazaar , some 35 km from here at Jhang Road . "
+Police on Sunday,hold.01,hostage,,Affirmative,"CHINIOT - Police on Sunday killed five attackers when they held hostage two men in an attempt to flee from the scene after killing three people at Bhowana Town 's main bazaar , some 35 km from here at Jhang Road . "
+five armed men,storm.02,main bazaar of,,Affirmative,"As per details , five armed men stormed main bazaar of Bhowana Town at Jhang Road at noon and shot dead Wali Khan and Sher Khan along with a local trader and tried to flee from the scene . "
+five armed men,shoot.02,dead Wali Khan and,,Affirmative,"As per details , five armed men stormed main bazaar of Bhowana Town at Jhang Road at noon and shot dead Wali Khan and Sher Khan along with a local trader and tried to flee from the scene . "
+five armed men,try.01,to flee from,,Affirmative,"As per details , five armed men stormed main bazaar of Bhowana Town at Jhang Road at noon and shot dead Wali Khan and Sher Khan along with a local trader and tried to flee from the scene . "
+five armed men,flee.01,from,,Affirmative,"As per details , five armed men stormed main bazaar of Bhowana Town at Jhang Road at noon and shot dead Wali Khan and Sher Khan along with a local trader and tried to flee from the scene . "
+Bhowana police,intercept.01,five armed men,,Affirmative,Bhowana police intercepted them and they took refuge in crop fields holding two men working in the fields hostages . 
+five armed men,take.01,refuge,,Affirmative,Bhowana police intercepted them and they took refuge in crop fields holding two men working in the fields hostages . 
+five armed men,hold.04,two men working in,,Affirmative,Bhowana police intercepted them and they took refuge in crop fields holding two men working in the fields hostages . 
+Officer Munir Zia along with,reach.01,there,,Affirmative,"Hearing about the incident , District Police Officer Munir Zia along with heavy contingent of police from whole of the district reached there and surrounded the area . "
+The DPO,hold.04,negotiations with attackers,,Affirmative,The DPO held negotiations with attackers on cellphone for release of hostages and arrest of the assailants but it did not work . 
+The attackers,refuse.01,to free hostages,,Affirmative,The attackers refused to free hostages and opened fire on police using guns and hand grenades . 
+The attackers,free.01,hostages,,Affirmative,The attackers refused to free hostages and opened fire on police using guns and hand grenades . 
+The attackers,open.01,fire,,Affirmative,The attackers refused to free hostages and opened fire on police using guns and hand grenades . 
+police using guns and,use.01,guns and,,Affirmative,The attackers refused to free hostages and opened fire on police using guns and hand grenades . 
+RPO Faisalabad Muhammad Nawaz Waraich,join.01,the encountering party,,Affirmative,"Later , RPO Faisalabad Muhammad Nawaz Waraich also joined the encountering party and after five hours of gunbattle , all five attackers were killed . "
+the police,recover.02,the hostages safe and sound,,Affirmative,"However , the police succeeded to recover the hostages safe and sound . "
+Initial information,reveal.01,belonged to,,Affirmative,Initial information revealed that both deceased and attackers belonged to Bajaur Agency and had old enmity . 
+both deceased and attackers,belong.01,to,,Affirmative,Initial information revealed that both deceased and attackers belonged to Bajaur Agency and had old enmity . 
+both deceased and attackers,have.03,old enmity,,Affirmative,Initial information revealed that both deceased and attackers belonged to Bajaur Agency and had old enmity . 
+their enemies,kill.01,their enemies,,Affirmative,Due to which the deceased Sher Khan and Wali Khan shifted to Bhowana Town but their enemies chased and killed them . 
+DPO Chiniot Rao Munir Zia,say.01,was identified as,,Affirmative,DPO Chiniot Rao Munir Zia said one of the attackers was identified as Muhammad Zaigham of Shah Pur Saddar . 
+DPO Chiniot Rao Munir Zia,say.01,that police tried,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+police,try.01,to get,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+police,get.01,them arrested and asked them,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+both deceased and attackers,ask.02,to lay arms,them,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+both deceased and attackers,lie.02,arms,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+both deceased and attackers,refuse.01,to comply with,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 
+both deceased and attackers,comply.01,with,,Affirmative,He also said that police tried its best to get them arrested and asked them to lay arms but they refused to comply with the directions . 

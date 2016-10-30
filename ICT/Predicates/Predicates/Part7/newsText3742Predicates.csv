@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Lyndon Johnson,coin.01,the term,,Affirmative,There are articles these days celebrating 50 years of the great society as President Lyndon Johnson coined the term with the help of speechwriter Richard N. Goodwin . 
+a big plan,calibrate.01,expectations,,Affirmative,"Yes , it was a big idea with a big plan that has calibrated America 's expectations . "
+contrast President Kennedy 's,want.01,Americans to engage,,Affirmative,Kennedy wanted Americans to engage their government as participants . 
+Americans,engage.01,their government,as participants,Affirmative,Kennedy wanted Americans to engage their government as participants . 
+contrast President Kennedy 's,want.01,citizens to do,,Affirmative,He wanted citizens to do as he did in serving his nation to the best of their ability . 
+contrast President Kennedy 's,serve.01,his nation,,Affirmative,He wanted citizens to do as he did in serving his nation to the best of their ability . 
+A government by,mean.01,that government is,,Affirmative,"A government by the people means that government is an instrument controlled by people to address a nation 's needs that requires collaboration , consensus , and sharing to accomplish . "
+by people,control.01,an instrument controlled by people,,Affirmative,"A government by the people means that government is an instrument controlled by people to address a nation 's needs that requires collaboration , consensus , and sharing to accomplish . "
+an instrument controlled by people,require.01,"collaboration , consensus , and sharing",,Affirmative,"A government by the people means that government is an instrument controlled by people to address a nation 's needs that requires collaboration , consensus , and sharing to accomplish . "
+A government by the people,mean.01,that government is,,Affirmative,It does n't mean that government is the enemy . 
+President Lyndon Johnson,want.01,to address,,Affirmative,President Johnson wanted to address the big problems first such as ending poverty . 
+President Lyndon Johnson,address.02,the big problems,,Affirmative,President Johnson wanted to address the big problems first such as ending poverty . 
+a nation 's,end.01,poverty,,Affirmative,"If the nation ends poverty , it puts everyone on equal footing to do the best they can to lead a sustainable life . "
+a nation 's,put.01,everyone,on,Affirmative,"If the nation ends poverty , it puts everyone on equal footing to do the best they can to lead a sustainable life . "
+we,optimize.01,liberty,,Affirmative,"If we optimize liberty for all , than we have done our best to ensure a good life for all by supporting individuals and by relieving them from shackles of hate , intolerance , and discrimination . "
+we,do.02,the best they can to lead a sustainable life,,Affirmative,"If we optimize liberty for all , than we have done our best to ensure a good life for all by supporting individuals and by relieving them from shackles of hate , intolerance , and discrimination . "
+we,ensure.01,a good life for all,,Affirmative,"If we optimize liberty for all , than we have done our best to ensure a good life for all by supporting individuals and by relieving them from shackles of hate , intolerance , and discrimination . "
+we,eliminate.01,poverty,,Affirmative,"Today , we have not eliminated poverty and that is because the leadership among the political parties and wealthy and powerful Americans have not accomplished what is in their capacity to do . "
+the leadership among,accomplish.01,what is in,,Affirmative,"Today , we have not eliminated poverty and that is because the leadership among the political parties and wealthy and powerful Americans have not accomplished what is in their capacity to do . "
+America 's,squander.01,the opportunity,,Affirmative,America has squandered the opportunity by engaging in wars that we can not afford . 
+we,afford.01,wars,,Affirmative,America has squandered the opportunity by engaging in wars that we can not afford . 
+we,take.01,our eye,from invention and innovation,Affirmative,We have taken our eye from invention and innovation that expand the economy and ensure upward mobile opportunity for all . 
+invention and innovation,expand.01,the economy,,Affirmative,We have taken our eye from invention and innovation that expand the economy and ensure upward mobile opportunity for all . 
+invention and innovation,ensure.01,upward mobile opportunity for all,,Affirmative,We have taken our eye from invention and innovation that expand the economy and ensure upward mobile opportunity for all . 
+this writer,take.01,a walk along,,Affirmative,"Today , this writer will take a walk along Lady Bird Johnson Park and over to LBJ 's memorial to reflect on their ideas and ideals . "
+Karl Rove,call.01,handling of Syria,an ' unmitigated disaster ',Affirmative,The president is increasingly isolated on action in Syria ; Karl Rove calls Obama 's handling of Syria an ' unmitigated disaster ' : Ted Cruz calls it a distraction from Benghazi ; GOP pushes immigration reform in the House ; and more in today 's politics . 
+Ted Cruz,call.01,action in Syria,a distraction from Benghazi,Affirmative,The president is increasingly isolated on action in Syria ; Karl Rove calls Obama 's handling of Syria an ' unmitigated disaster ' : Ted Cruz calls it a distraction from Benghazi ; GOP pushes immigration reform in the House ; and more in today 's politics . 
+GOP,push.04,immigration reform,,Affirmative,The president is increasingly isolated on action in Syria ; Karl Rove calls Obama 's handling of Syria an ' unmitigated disaster ' : Ted Cruz calls it a distraction from Benghazi ; GOP pushes immigration reform in the House ; and more in today 's politics . 

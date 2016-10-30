@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A university,send.01,confidential details about thousands of,to users of,Affirmative,A university has apologised after sending out confidential details about thousands of job applicants to users of its job site . 
+The email attachment,contain.01,the names of,,Affirmative,"The email attachment contained the names of 4,751 applicants for jobs at the University of Nottingham - and whether they were successful . "
+the University of Nottingham,say.01,it was carrying out,,Affirmative,The university said it was carrying out an urgent investigation and has notified the Information Commissioner . 
+the University of Nottingham,carry.03,an urgent investigation,,Affirmative,The university said it was carrying out an urgent investigation and has notified the Information Commissioner . 
+One recent applicant,say.01,incident was worrying,,Affirmative,One recent applicant said the incident was worrying . 
+"The applicant ,",want.01,to be named,,Affirmative,"The applicant , who did not want to be named , said : I am concerned about how they have treated my personal and confidential data and I 'm shocked that a large organisation could allow this to happen . "
+"The applicant ,",say.01,I am concerned about,,Affirmative,"The applicant , who did not want to be named , said : I am concerned about how they have treated my personal and confidential data and I 'm shocked that a large organisation could allow this to happen . "
+"4,751 applicants for jobs",treat.01,data,,Affirmative,"The applicant , who did not want to be named , said : I am concerned about how they have treated my personal and confidential data and I 'm shocked that a large organisation could allow this to happen . "
+a large organisation,allow.01,this to happen,,Affirmative,"The applicant , who did not want to be named , said : I am concerned about how they have treated my personal and confidential data and I 'm shocked that a large organisation could allow this to happen . "
+The document,contain.01,full names and gender,,Affirmative,"It contained applicants ' full names and gender , the position they had applied for and whether they were offered the job . "
+"4,751 applicants for jobs",apply.01,for and,,Affirmative,"It contained applicants ' full names and gender , the position they had applied for and whether they were offered the job . "
+"4,751 applicants for jobs",offer.01,the job,,Affirmative,"It contained applicants ' full names and gender , the position they had applied for and whether they were offered the job . "
+recipients - all users registered with its job website,delete.01,An email,,Affirmative,"An email was sent out to recipients - all users registered with its job website - two days later , asking them to delete it immediately . "
+spokesman,say.01,emails were sent in error,,Affirmative,A University of Nottingham spokesman said the emails were sent in error and it has taken the precautionary step of contacting the Information Commissioner . 
+the University of Nottingham,take.01,the precautionary step of contacting,,Affirmative,A University of Nottingham spokesman said the emails were sent in error and it has taken the precautionary step of contacting the Information Commissioner . 
+A University of Nottingham spokesman,say.01,We are completing,,Affirmative,He said : We are completing an investigation as a matter of urgency . 
+recipients - all users registered with its job website,complete.01,an investigation as,,Affirmative,He said : We are completing an investigation as a matter of urgency . 
+recipients - all users registered with its job website,work.01,to ensure,,Affirmative,We are working with our software provider to ensure that this situation can not happen again . 
+recipients - all users registered with its job website,ensure.01,situation can not happen again,,Affirmative,We are working with our software provider to ensure that this situation can not happen again . 
+recipients - all users registered with its job website,take.01,a situation,,Affirmative,This is a situation we take extremely seriously and the university would like to offer its unreserved apologies to those whose details were included in the documents . 
+the University of Nottingham,like.02,to offer,,Affirmative,This is a situation we take extremely seriously and the university would like to offer its unreserved apologies to those whose details were included in the documents . 
+the University of Nottingham,offer.01,its unreserved apologies,,Affirmative,This is a situation we take extremely seriously and the university would like to offer its unreserved apologies to those whose details were included in the documents . 

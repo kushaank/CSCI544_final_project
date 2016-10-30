@@ -1,0 +1,42 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+attorney Danford Grant,admit.01,he raped women at,,Affirmative,Seattle attorney Danford Grant admitted he raped women at local massage parlors to escape his problems before he was sentenced to 25 years in prison . 
+Seattle attorney Danford Grant,rape.01,the women,,Affirmative,Seattle attorney Danford Grant admitted he raped women at local massage parlors to escape his problems before he was sentenced to 25 years in prison . 
+Seattle attorney Danford Grant,escape.01,his problems,,Affirmative,Seattle attorney Danford Grant admitted he raped women at local massage parlors to escape his problems before he was sentenced to 25 years in prison . 
+the prosecutor,call.01,the prosecutor,a sexual deviant,Affirmative,"Grant , 49 , remained stoic while the prosecutor called him a sexual deviant ; and letters from his rape victims were read in court , describing how they feel dirty and ashamed because of what he had done . "
+letters from,describe.01,how they feel dirty and ashamed,,Affirmative,"Grant , 49 , remained stoic while the prosecutor called him a sexual deviant ; and letters from his rape victims were read in court , describing how they feel dirty and ashamed because of what he had done . "
+his rape victims,feel.01,dirty and ashamed,,Affirmative,"Grant , 49 , remained stoic while the prosecutor called him a sexual deviant ; and letters from his rape victims were read in court , describing how they feel dirty and ashamed because of what he had done . "
+"Grant , 49",plead.02,guilty to,,Affirmative,"Grant pleaded guilty to one count of first - degree burglary and five counts of third - degree rape in a series of attacks on women at massage parlors in Seattle , Bellevue , and Shoreline . "
+Grant,attack.01,each woman,,Affirmative,The five counts of rape reflect one for each woman Grant attacked over a period that lasted from April 2011 to his arrest in September 2012 . 
+"Grant , 49",agree.01,to,,Affirmative,"As part of the deal reached just before the start of his trial , Grant agreed to a recommended sentence of 25 years in prison . "
+"Grant , 49",face.01,two counts of,,Affirmative,"Had the case proceeded to trial , Grant faced two counts of first - degree rape , two counts of attempted rape and one count of first - degree burglary . "
+"Grant , 49",spend.02,the rest of,,Affirmative,"Under the state 's indeterminate sentencing laws , he could have spent the rest of his life in prison if convicted . "
+"Grant , 49",want.01,to use,,Affirmative,I wanted to use this opportunity to acknowledge that I have committed wrongs and to express my deep regret and emotional pain that I have caused . 
+"Grant , 49",use.01,this opportunity,to acknowledge,Affirmative,I wanted to use this opportunity to acknowledge that I have committed wrongs and to express my deep regret and emotional pain that I have caused . 
+"Grant , 49",commit.02,wrongs,,Affirmative,I wanted to use this opportunity to acknowledge that I have committed wrongs and to express my deep regret and emotional pain that I have caused . 
+"Grant , 49",express.01,my deep regret and,,Affirmative,I wanted to use this opportunity to acknowledge that I have committed wrongs and to express my deep regret and emotional pain that I have caused . 
+"Grant , 49",cause.01,emotional pain,,Affirmative,I wanted to use this opportunity to acknowledge that I have committed wrongs and to express my deep regret and emotional pain that I have caused . 
+"Grant , 49",recognize.02,behavior is reprehensible,,Affirmative,I recognize that my behavior is reprehensible . 
+"Grant , 49",know.01,that I should be punished and,,Affirmative,I know that I should be punished and prison is a just punishment and I willingly submit to prison as my punishment . 
+"Grant , 49",minimize.01,my real wrongs and,,Affirmative,"Although the truth about what I did is dramatically different than what was alleged , I do not minimize my real wrongs and my apology for those particular wrongs is genuine and heartfelt . "
+"Grant , 49",apologize.01,for,to,Affirmative,My regret and sadness about my behavior is real and I unequivocally apologize to the women and their families for what I did . 
+"Grant , 49",have.03,nightmares,,Affirmative,I often have nightmares which sometimes have caused me to not be able to sleep at night . 
+nightmares,cause.01,me to not be able,,Affirmative,I often have nightmares which sometimes have caused me to not be able to sleep at night . 
+"Grant , 49",see.01,someone,,Affirmative,"Sometimes when I walk down the street and see someone who resembles him , I become very nervous and terrified because I 'm not sure if that person might be him . "
+"Grant , 49",feel.02,I was doomed by,,Affirmative,"Another read : For several months after the attack , I felt I was doomed by the devil ... "
+by,doom.01,"Grant , 49",,Affirmative,"Another read : For several months after the attack , I felt I was doomed by the devil ... "
+"Grant , 49",have.03,nightmares,,Affirmative,I had nightmares at night . 
+"Grant , 49",feel.02,there was always someone hiding outside,,Affirmative,I felt there was always someone hiding outside my bedroom and he would assault me as soon as I opened the door . 
+he,assault.01,"Grant , 49",,Affirmative,I felt there was always someone hiding outside my bedroom and he would assault me as soon as I opened the door . 
+"Grant , 49",open.01,the door,,Affirmative,I felt there was always someone hiding outside my bedroom and he would assault me as soon as I opened the door . 
+My daughter,give.01,a hug,me,Affirmative,My daughter gave me a hug and told me she would wait to get married when she is at least 25 so that I can be with her at her wedding . 
+My daughter,tell.01,she would wait,me,Affirmative,My daughter gave me a hug and told me she would wait to get married when she is at least 25 so that I can be with her at her wedding . 
+his attorney,say.01,he has suffered with,,Affirmative,"Following Grant 's guilty plea on May 7 , his attorney said he has suffered with a lifetime of addiction problems , including sexual addiction . "
+he,suffer.01,with,,Affirmative,"Following Grant 's guilty plea on May 7 , his attorney said he has suffered with a lifetime of addiction problems , including sexual addiction . "
+Stephanie,join.01,the MyNorthwest.com team,,Affirmative,Stephanie joined the MyNorthwest.com team in February 2008 . 
+She,build.01,the site,,Affirmative,"She has built the site into a two - time National Edward R. Murrow Award winner ( Best Radio Website 2010 , 2012 ) . "
+We,change.01,our comments,,Affirmative,"ATTENTION COMMENTERS : We 've changed our comments , but want to keep you in the conversation . "
+We,want.01,to keep you in,,Affirmative,"ATTENTION COMMENTERS : We 've changed our comments , but want to keep you in the conversation . "
+We,keep.04,you,in,Affirmative,"ATTENTION COMMENTERS : We 've changed our comments , but want to keep you in the conversation . "
+account holders,need.01,to create,,Affirmative,Existing MyNorthwest account holders will need to create a new Disqus account or use one of the social logins provided below . 
+account holders,create.01,a new Disqus account,,Affirmative,Existing MyNorthwest account holders will need to create a new Disqus account or use one of the social logins provided below . 
+account holders,use.01,one of,,Affirmative,Existing MyNorthwest account holders will need to create a new Disqus account or use one of the social logins provided below . 

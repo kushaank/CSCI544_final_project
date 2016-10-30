@@ -1,0 +1,131 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Military,try.01,to convince protesters,,Affirmative,"NEW : Analyst : Military is trying to convince protesters to go home , dial down the tensions Professor : The situation is very volatile Bangkok ( CNN ) -- The Thai army declared martial law throughout the country Tuesday in a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand . "
+Military,convince.01,protesters,to go home,Affirmative,"NEW : Analyst : Military is trying to convince protesters to go home , dial down the tensions Professor : The situation is very volatile Bangkok ( CNN ) -- The Thai army declared martial law throughout the country Tuesday in a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand . "
+Military,dial.01,the tensions Professor :,,Affirmative,"NEW : Analyst : Military is trying to convince protesters to go home , dial down the tensions Professor : The situation is very volatile Bangkok ( CNN ) -- The Thai army declared martial law throughout the country Tuesday in a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand . "
+Bangkok,declare.02,martial law throughout,,Affirmative,"NEW : Analyst : Military is trying to convince protesters to go home , dial down the tensions Professor : The situation is very volatile Bangkok ( CNN ) -- The Thai army declared martial law throughout the country Tuesday in a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand . "
+an aide to,say.01,government did n't know,,Affirmative,"NEW : Analyst : Military is trying to convince protesters to go home , dial down the tensions Professor : The situation is very volatile Bangkok ( CNN ) -- The Thai army declared martial law throughout the country Tuesday in a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand . "
+The government 's,have.03,a special meeting regarding this,,Affirmative,The government is having a special meeting regarding this . 
+We,see.01,chief honors,,Affirmative,"We have to watch and see if the army chief honors his declaration of impartiality , the aide said , describing the situation as half a coup d'etat . "
+the army chief,honor.01,his declaration of impartiality,,Affirmative,"We have to watch and see if the army chief honors his declaration of impartiality , the aide said , describing the situation as half a coup d'etat . "
+an aide to the embattled Prime Minister,say.01,We have,,Affirmative,"We have to watch and see if the army chief honors his declaration of impartiality , the aide said , describing the situation as half a coup d'etat . "
+an aide to the embattled Prime Minister,describe.01,The situation,as,Affirmative,"We have to watch and see if the army chief honors his declaration of impartiality , the aide said , describing the situation as half a coup d'etat . "
+Lt. Gen. Nipat Thonglek,tell.01,move was not,CNN,Affirmative,Lt. Gen. Nipat Thonglek told CNN the move was not a coup . 
+The Army,aim.01,"to maintain peace , order and",,Affirmative,"The Army aims to maintain peace , order and public safety for all groups and all parties , a ticker running on the army 's television channel said . "
+The Army,maintain.01,"peace , order and",,Affirmative,"The Army aims to maintain peace , order and public safety for all groups and all parties , a ticker running on the army 's television channel said . "
+a ticker running on,say.01,Army aims,,Affirmative,"The Army aims to maintain peace , order and public safety for all groups and all parties , a ticker running on the army 's television channel said . "
+a ticker running on the army 's television channel,say.01,law went into effect,,Affirmative,"Martial law went into effect at 3 a.m. on Tuesday , the ticker said . "
+by,guard.01,All Thai TV stations,,Affirmative,"All Thai TV stations are being guarded by the military , Thai public television announced , showing pictures of soldiers and armored vehicles taking positions outside broadcast facilities in the country 's capital . "
+Thai public television,announce.01,stations are being guarded by,,Affirmative,"All Thai TV stations are being guarded by the military , Thai public television announced , showing pictures of soldiers and armored vehicles taking positions outside broadcast facilities in the country 's capital . "
+Thai public television,show.01,pictures of soldiers and,,Affirmative,"All Thai TV stations are being guarded by the military , Thai public television announced , showing pictures of soldiers and armored vehicles taking positions outside broadcast facilities in the country 's capital . "
+armored vehicles taking positions outside,take.01,their positions,,Affirmative,"All Thai TV stations are being guarded by the military , Thai public television announced , showing pictures of soldiers and armored vehicles taking positions outside broadcast facilities in the country 's capital . "
+by police and soldiers,escort.01,a coup d'etat,,Affirmative,"Thai anti-coup activist Sombat Boonngamanong , center , gestures as he arrives escorted by police and soldiers at a military court in Bangkok on Thursday , June 12 . "
+The prominent anti-coup figure,face.01,14 years in prison,,Affirmative,"The prominent anti-coup figure faces up to 14 years in prison if convicted of incitement , computer crimes and ignoring a summons by the junta , police said . "
+police,say.01,figure faces,,Affirmative,"The prominent anti-coup figure faces up to 14 years in prison if convicted of incitement , computer crimes and ignoring a summons by the junta , police said . "
+The Thai military,carry.03,a surprise move that an aide to the embattled Prime Minister said the government did n't know about beforehand,,Affirmative,The Thai military carried out a coup May 22 after months of unrest had destabilized the country 's elected government and caused outbursts of deadly violence in Bangkok . 
+months of unrest,destabilize.01,elected government,,Affirmative,The Thai military carried out a coup May 22 after months of unrest had destabilized the country 's elected government and caused outbursts of deadly violence in Bangkok . 
+months of unrest,cause.01,outbursts of,,Affirmative,The Thai military carried out a coup May 22 after months of unrest had destabilized the country 's elected government and caused outbursts of deadly violence in Bangkok . 
+Officials,clean.01,a canal,,Affirmative,"Officials clean a canal on Friday , June 6 , outside Thai Government House in Bangkok in an area anti-government protesters occupied for months . "
+rights activists and,criticize.01,intervention,,Affirmative,"Human - rights activists and foreign governments criticized the military 's intervention , but life in Thailand has resumed to something approaching normal while the political situation remains in flux . "
+Thai soldiers,entertain.01,People,,Affirmative,"Thai soldiers entertain people with songs at Victory Monument in Bangkok on Thursday , June 5 . "
+the junta,wage.01,a propaganda campaign,,Affirmative,The junta is waging a propaganda campaign to encourage national happiness following the coup that severely restricted civil liberties . 
+the coup,restrict.01,civil liberties,,Affirmative,The junta is waging a propaganda campaign to encourage national happiness following the coup that severely restricted civil liberties . 
+Passengers on,entertain.01,the crowds at,,Affirmative,Passengers on a bus watch soldiers entertain the crowds at Bangkok 's Victory Monument on June 5 . 
+Police,secure.01,an area inside,,Affirmative,"Police secure an area inside the Australian Embassy in Bangkok on Wednesday , June 4 . "
+A protester,adopt.01,fingered salute from,,Affirmative,A protester adopts the three - fingered salute from The Hunger Games during an anti-coup demonstration in front of the Australian Embassy in Bangkok on June 4 . 
+soldiers,pull.01,barbed wire,from,Affirmative,Soldiers pull barbed wire from a canal near the Thai Government House during a cleanup operation June 4 in Bangkok . 
+Thai police officers,leave.01,the Victory,,Affirmative,"Thai police officers leave the Victory Monument after they finish guarding it Tuesday , June 3 , in Bangkok . "
+Thai police officers,finish.01,guarding it Tuesday,,Affirmative,"Thai police officers leave the Victory Monument after they finish guarding it Tuesday , June 3 , in Bangkok . "
+Thai police officers,guard.01,Bangkok 's Victory Monument on June 5,,Affirmative,"Thai police officers leave the Victory Monument after they finish guarding it Tuesday , June 3 , in Bangkok . "
+protesters,flash.01,finger salute,,Affirmative,"Protesters flash the three - finger salute while shouting during an anti-coup demonstration in Bangkok on Sunday , June 1 . "
+A protester,hold.01,three fingers,,Affirmative,A protester holds up three fingers during an anti-coup demonstration at a Bangkok shopping mall on June 1 . 
+Thai soldiers,guard.01,stop area,,Affirmative,"Thai soldiers guard a bus stop area to prevent an anti-coup demonstration in Bangkok on Thursday , May 29 . "
+Thai soldiers,prevent.01,an anti-coup demonstration in Bangkok,,Affirmative,"Thai soldiers guard a bus stop area to prevent an anti-coup demonstration in Bangkok on Thursday , May 29 . "
+A man,participate.01,in,,Affirmative,"A man participates in an anti-coup demonstration in Bangkok on Wednesday , May 28 . "
+A protester,throw.01,a garbage,,Affirmative,A protester throws a garbage can at a line of Thai soldiers during an anti-coup demonstration in Bangkok on May 28 . 
+Anti-coup demonstrators,protest.01,the military coup,,Affirmative,Anti-coup demonstrators gather at the Victory Monument to protest the military coup as Thai soldiers stand guard in Bangkok on May 27 . 
+Thai soldiers,oust.01,Minister Chaturon Chaisang,,Affirmative,Thai soldiers arrest ousted Education Minister Chaturon Chaisang at the Foreign Correspondents ' Club of Thailand in Bangkok on May 27 . 
+Thai soldiers,receive.01,roses,from,Affirmative,Thai soldiers receive roses from coup supporters at a military base in Bangkok on May 27 . 
+military authorities,take.01,power,,Affirmative,"Since taking power , military authorities have summoned -- and in some cases detained -- scores of political officials and other prominent figures . "
+Anti-coup demonstrators,take.01,to,,Affirmative,"Demonstrators have taken to the streets in opposition to the coup , while some Thais express hope the military will bring an end to the political crisis . "
+some Thais,express.01,hope,,Affirmative,"Demonstrators have taken to the streets in opposition to the coup , while some Thais express hope the military will bring an end to the political crisis . "
+Military,bring.01,an end,to,Affirmative,"Demonstrators have taken to the streets in opposition to the coup , while some Thais express hope the military will bring an end to the political crisis . "
+An anti-coup protester,face.01,riot police,,Affirmative,An anti-coup protester faces riot police during a May 26 rally in Bangkok . 
+Thai police,take.01,a woman,,Affirmative,Thai police take a woman away from an anti-coup protest in Bangkok on May 26 . 
+A protester,confront.01,soldiers,in,Affirmative,"A protester confronts soldiers in riot gear during an anti-coup rally Sunday , May 25 , in Bangkok . "
+"A Thai soldier , citing",cite.01,"safety reasons , apologies",to pedestrians,Affirmative,"A Thai soldier , citing safety reasons , apologies to pedestrians after he closes the fence to an overpass during an anti-coup demonstration in Bangkok on May 25 . "
+A Thai soldier,close.01,the fence,to,Affirmative,"A Thai soldier , citing safety reasons , apologies to pedestrians after he closes the fence to an overpass during an anti-coup demonstration in Bangkok on May 25 . "
+protesters,chant.01,slogans,,Affirmative,Protesters chant slogans during an anti-coup rally May 25 in Bangkok . 
+by,detain.01,An anti-coup protester,,Affirmative,"An anti-coup protester is detained by Thai police officers during a protest in Bangkok on Saturday , May 24 . "
+Thai soldiers,link.01,arms,,Affirmative,Thai soldiers link arms as they monitor a protest outside a Bangkok shopping complex on May 24 . 
+Thai soldiers,monitor.01,a protest outside,,Affirmative,Thai soldiers link arms as they monitor a protest outside a Bangkok shopping complex on May 24 . 
+Thai soldiers,guard.01,the Thai police headquarters in Bangkok,,Affirmative,"Thai soldiers guard the Thai police headquarters in Bangkok on Tuesday , May 20 . "
+an area anti-government protesters occupied for months,listen.01,to,,Affirmative,Anti-government protesters listen to their national anthem during a gathering in Bangkok on May 20 . 
+Office workers,walk.01,past armed soldiers,,Affirmative,Office workers walk past armed soldiers outside the Shinawatra Tower Two office building in Bangkok on May 20 . 
+A soldier,grip.01,his gun,,Affirmative,A soldier grips his gun outside the Government Public Relations Department building on May 20 . 
+soldiers,hold.01,their positions,,Affirmative,Soldiers hold their positions outside the Government Public Relations Department building on May 20 . 
+by,guard.01,All Thai TV stations,,Affirmative,All Thai TV stations were being guarded by the military . 
+soldiers,secure.02,the Ratchaprasong intersection in Bangkok,,Affirmative,Soldiers secure the Ratchaprasong intersection in Bangkok on May 20 . 
+Military,declare.02,must suspend,,Affirmative,"In a statement read on Thai television , the military declared that all of the country 's radio and television stations must suspend their normal programs when it is needed . "
+all of,suspend.01,their normal programs,,Affirmative,"In a statement read on Thai television , the military declared that all of the country 's radio and television stations must suspend their normal programs when it is needed . "
+An anti-government protester,wave.01,a Thai national flag,,Affirmative,"An anti-government protester waves a Thai national flag during a march through streets of Bangkok on Monday , May 19 . "
+Military,declare.02,must suspend,,Affirmative,"In a statement read on Thai television , the military declared that all of the country 's radio and television stations must suspend their normal programs when it is needed . "
+all of,suspend.01,their normal programs,,Affirmative,"In a statement read on Thai television , the military declared that all of the country 's radio and television stations must suspend their normal programs when it is needed . "
+Supporters and opponents of,stage.01,mass protests,,Affirmative,"Supporters and opponents of the country 's government have staged mass protests in recent days , and earlier this month a top court removed caretaker Prime Minister Yingluck Shinawatra from office , along with nine cabinet ministers . "
+a top court,remove.01,Minister Yingluck Shinawatra,from office,Affirmative,"Supporters and opponents of the country 's government have staged mass protests in recent days , and earlier this month a top court removed caretaker Prime Minister Yingluck Shinawatra from office , along with nine cabinet ministers . "
+declaration of,ease.02,Political tensions,,Affirmative,"It 's too soon to tell whether the military 's declaration of martial law will ease tensions or heighten them , analysts said . "
+declaration of,heighten.01,Supporters and opponents of the country 's government,,Affirmative,"It 's too soon to tell whether the military 's declaration of martial law will ease tensions or heighten them , analysts said . "
+analysts,say.01,It 's,,Affirmative,"It 's too soon to tell whether the military 's declaration of martial law will ease tensions or heighten them , analysts said . "
+"Thitinan Pongsudhirak ,",describe.01,The situation,as,Affirmative,"Thitinan Pongsudhirak , a political science professor , described the situation as very volatile . "
+Thitinan Pongsudhirak,say.01,This is,,Affirmative,"This is a precarious time now for the army , he said . "
+Military,favor.01,one side,,Affirmative,"If the military appears to be favoring one side , he said , violence could escalate rather than cool down . "
+Thitinan Pongsudhirak,say.01,violence could escalate,,Affirmative,"If the military appears to be favoring one side , he said , violence could escalate rather than cool down . "
+Military,favor.01,one side or,,Affirmative,"If it 's seen as favoring one side or the other side , then we could see more violence and turmoil against the military , he said . "
+Supporters and opponents of the country 's government,see.01,more violence and turmoil against,,Affirmative,"If it 's seen as favoring one side or the other side , then we could see more violence and turmoil against the military , he said . "
+Thitinan Pongsudhirak,say.01,", then we could see",,Affirmative,"If it 's seen as favoring one side or the other side , then we could see more violence and turmoil against the military , he said . "
+"Paul Quaglia , director at",describe.01,The situation,as,Affirmative,"Paul Quaglia , director at Bangkok - based risk assessment firm PQA Associates , described the situation as martial law light . "
+Military,deploy.01,troops,,Affirmative,Right now the military has deployed troops around key intersections of the city . 
+Paul Quaglia,say.01,Traffic is,,Affirmative,"Traffic is a real mess here at the moment , but there 's no violence , he said . "
+Paul Quaglia,think.01,military is trying,,Affirmative,I think what the military is trying to do with this ... 
+Military,try.01,to do with this,,Affirmative,I think what the military is trying to do with this ... 
+They,try.01,to dial down,,Affirmative,They 're trying to dial down the tensions here as well as preempt several large rallies and strikes that were scheduled for later this week . 
+They,dial.01,the tensions here,,Affirmative,They 're trying to dial down the tensions here as well as preempt several large rallies and strikes that were scheduled for later this week . 
+what happens next,depend.01,on,,Affirmative,"But what happens next will depend on how protesters react , he said . "
+he,say.01,will depend on,,Affirmative,"But what happens next will depend on how protesters react , he said . "
+The military,take.01,a step by,,Affirmative,"The military is taking a step by step , gentle approach to see if they can get things to improve , Quaglia said . "
+The military,see.01,if they can get things,,Affirmative,"The military is taking a step by step , gentle approach to see if they can get things to improve , Quaglia said . "
+protesters,get.01,things,,Affirmative,"The military is taking a step by step , gentle approach to see if they can get things to improve , Quaglia said . "
+Quaglia,say.01,military is taking,,Affirmative,"The military is taking a step by step , gentle approach to see if they can get things to improve , Quaglia said . "
+they,ratchet.01,their actions,,Affirmative,"If not , they 'll of course have to ratchet up their actions . "
+Nipat,say.01,were being worked out,,Affirmative,Nipat said the precise restrictions of martial law were being worked out . 
+many of whom hail from,view.02,ouster,as,Affirmative,"The government 's red shirt support base , many of whom hail from the country 's rural north and northeast , view Yingluck 's ouster as a judicial coup and have been protesting what they consider an unfair bias by many of the country 's institutions against their side . "
+many of whom hail from,protest.01,what they consider,,Affirmative,"The government 's red shirt support base , many of whom hail from the country 's rural north and northeast , view Yingluck 's ouster as a judicial coup and have been protesting what they consider an unfair bias by many of the country 's institutions against their side . "
+they,consider.01,an unfair bias by many of,,Affirmative,"The government 's red shirt support base , many of whom hail from the country 's rural north and northeast , view Yingluck 's ouster as a judicial coup and have been protesting what they consider an unfair bias by many of the country 's institutions against their side . "
+Anti-government protesters,seek.01,a new government,,Affirmative,"Anti-government protesters are seeking a new government -- but not through elections , which the opposition Democrat Party has boycotted , arguing the alleged corruption of their political rivals makes widespread reform necessary before any meaningful vote can be held . "
+the opposition Democrat Party,boycott.01,"elections ,",,Affirmative,"Anti-government protesters are seeking a new government -- but not through elections , which the opposition Democrat Party has boycotted , arguing the alleged corruption of their political rivals makes widespread reform necessary before any meaningful vote can be held . "
+Anti-government protesters,argue.02,the alleged corruption of,,Affirmative,"Anti-government protesters are seeking a new government -- but not through elections , which the opposition Democrat Party has boycotted , arguing the alleged corruption of their political rivals makes widespread reform necessary before any meaningful vote can be held . "
+Quaglia,say.01,are,,Affirmative,"Increased government efforts to improve security are a positive step , Quaglia said . "
+That being,say.01,law will not solve,,Affirmative,"That being said , martial law will not solve the political problems that continue to haunt this country , he said . "
+martial law,solve.01,the political problems,,Affirmative,"That being said , martial law will not solve the political problems that continue to haunt this country , he said . "
+the political problems,continue.01,to haunt,,Affirmative,"That being said , martial law will not solve the political problems that continue to haunt this country , he said . "
+the political problems,haunt.01,this country,,Affirmative,"That being said , martial law will not solve the political problems that continue to haunt this country , he said . "
+he,say.01,"being said ,",,Affirmative,"That being said , martial law will not solve the political problems that continue to haunt this country , he said . "
+I,think.01,military can step in and by force,,Affirmative,"The differences are stark , and I do n't think the military can step in and by force fix the political issues . "
+the military,fix.02,the political issues,,Affirmative,"The differences are stark , and I do n't think the military can step in and by force fix the political issues . "
+The military leader,take.01,control of Thailand,,Affirmative,The military leader who took control of Thailand in a coup in May has been named the country 's prime minister . 
+new military ruler,add.02,a personal touch,to,Affirmative,"Thailand 's new military ruler has added a personal touch to the post-coup charm offensive , writing the lyrics to a pro-junta ballad . "
+new military ruler,write.01,the lyrics,to,Affirmative,"Thailand 's new military ruler has added a personal touch to the post-coup charm offensive , writing the lyrics to a pro-junta ballad . "
+winner Weluree Fai Ditsayabut,relinquish.01,her title,,Affirmative,Pageant winner Weluree Fai Ditsayabut has relinquished her title under a barrage of criticism over her comments about red shirts . 
+by,lead.02,They,,Affirmative,"They may not be led by Katniss Everdeen , but Thai protesters have adopted one of her symbols . "
+Thai protesters,adopt.01,one of,,Affirmative,"They may not be led by Katniss Everdeen , but Thai protesters have adopted one of her symbols . "
+The general,seize.01,control of Thailand,,Affirmative,The general who seized control of Thailand in a coup has announced he has received royal endorsement to run the country . 
+The general,announce.01,he has received,,Affirmative,The general who seized control of Thailand in a coup has announced he has received royal endorsement to run the country . 
+he,receive.01,royal endorsement,,Affirmative,The general who seized control of Thailand in a coup has announced he has received royal endorsement to run the country . 
+U.S.,suspend.01,$ 3.5 million in aid,,Affirmative,U.S. suspends $ 3.5 million in aid to Thailand after the military took charge of the country . 
+the military,take.01,charge of,,Affirmative,U.S. suspends $ 3.5 million in aid to Thailand after the military took charge of the country . 
+military,declare.02,that it has taken control of,,Affirmative,Thailand 's military declared Thursday that it has taken control of the country in a coup . 
+The Thai military,take.01,control of,,Affirmative,Thailand 's military declared Thursday that it has taken control of the country in a coup . 
+you,plan.01,on visiting,,Affirmative,"If you 're planning on visiting the country , you should be aware of what 's going on . "
+you,visit.01,the country,,Affirmative,"If you 're planning on visiting the country , you should be aware of what 's going on . "
+The U.S. Ambassador to Thailand,react.01,to,,Affirmative,"The U.S. Ambassador to Thailand , Kristie Kenney , reacts to the Thai military coup . "
+The Thai military,censor.01,TV and radio,,Affirmative,The Thai military has censored TV and radio -- and social media could be next . 
+military chief,announce.01,coup,,Affirmative,Thailand 's military chief announces coup in a televised national address . 

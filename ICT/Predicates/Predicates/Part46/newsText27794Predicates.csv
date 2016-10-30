@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+police,say.01,they believe,,Affirmative,"The incident occurred in the 700 block of Canal Street and police said they believe it may have had something to do with a social media set of posts that stated merely - CANAL DAY 4 pm until , Saturday May 17 , 2014 . "
+police,believe.01,it may have had something,,Affirmative,"The incident occurred in the 700 block of Canal Street and police said they believe it may have had something to do with a social media set of posts that stated merely - CANAL DAY 4 pm until , Saturday May 17 , 2014 . "
+The incident,have.03,something,,Affirmative,"The incident occurred in the 700 block of Canal Street and police said they believe it may have had something to do with a social media set of posts that stated merely - CANAL DAY 4 pm until , Saturday May 17 , 2014 . "
+posts,state.01,DAY 4 pm,,Affirmative,"The incident occurred in the 700 block of Canal Street and police said they believe it may have had something to do with a social media set of posts that stated merely - CANAL DAY 4 pm until , Saturday May 17 , 2014 . "
+police,say.01,fight broke out inside of,,Affirmative,Police said a fight broke out inside of a McDonald 's at that location and that the restaurant asked those involved to leave . 
+witnesses,say.01,man produced,,Affirmative,"According to police , witnesses said that at some point in the fracas , a young man produced a gun and fired it in no particular direction . "
+a young man,produce.01,a gun,,Affirmative,"According to police , witnesses said that at some point in the fracas , a young man produced a gun and fired it in no particular direction . "
+a young man,fire.02,some point in the fracas,,Affirmative,"According to police , witnesses said that at some point in the fracas , a young man produced a gun and fired it in no particular direction . "
+A bullet,strike.05,a female bystander,,Affirmative,A bullet struck a female bystander in the leg . 
+some of it,suffer.01,a graze wound,,Affirmative,She suffered a graze wound and sought refuge in a nearby shop . 
+some of it,seek.01,refuge,,Affirmative,She suffered a graze wound and sought refuge in a nearby shop . 
+Anyone with information on,call.02,Crimestoppers,,Affirmative,Anyone with information on the shooting incident can call Crimestoppers at 822-1111 . 

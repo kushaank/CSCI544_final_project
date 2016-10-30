@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+officials,strike.01,a deal on Tuesday,,Affirmative,"Russian and Chinese officials are due to strike a deal on Tuesday allowing China to receive Russian gas worth USD 400 B over the next 30 years , a Russian daily reports . "
+a deal on Tuesday,allow.01,China to receive,,Affirmative,"Russian and Chinese officials are due to strike a deal on Tuesday allowing China to receive Russian gas worth USD 400 B over the next 30 years , a Russian daily reports . "
+China,receive.01,Russian gas worth USD,,Affirmative,"Russian and Chinese officials are due to strike a deal on Tuesday allowing China to receive Russian gas worth USD 400 B over the next 30 years , a Russian daily reports . "
+Izvestiya,cite.01,sources from,,Affirmative,"Citing sources from the energy company Gazprom , Russia 's Izvestiya argues that the forthcoming agreement envisages that 38 bcm of gas a year be supplied to China . "
+Izvestiya,argue.01,agreement envisages,,Affirmative,"Citing sources from the energy company Gazprom , Russia 's Izvestiya argues that the forthcoming agreement envisages that 38 bcm of gas a year be supplied to China . "
+the forthcoming agreement,envisage.01,year be supplied to China,,Affirmative,"Citing sources from the energy company Gazprom , Russia 's Izvestiya argues that the forthcoming agreement envisages that 38 bcm of gas a year be supplied to China . "
+decade span of,mean.01,quantity might reach,,Affirmative,The three - decade span of the contract means the quantity might reach 1140 bcm . 
+the quantity,reach.01,1140 bcm,,Affirmative,The three - decade span of the contract means the quantity might reach 1140 bcm . 
+Russia 's Izvestiya,quote.01,the Gazprom source,as saying,Affirmative,Izvestiya quoted the Gazprom source as saying that the positions of China and Russia on the pricing formula are very close . 
+Europe 's,issue.01,a threat,,Affirmative,"Europe has repeatedly issued a threat to impose economic sanctions on Russia as a continued response to the standoff , even though opinions on that matter are divided on the continent . "
+This,stop.01,originated gas glow,,Affirmative,This could stop Russia - originated gas glow . 
+refusal,pose.02,a risk for,,Affirmative,"Ukraine 's refusal to pay for its gas , on the other hand , is posing a risk for the EU 's energy supplies , as deliveries via the country 's territory might come to a halt . "
+Moscow,state.01,it would increase cooperation with,,Affirmative,Moscow has repeatedly stated it would increase cooperation with other partners such as China and India if the EU pursues its efforts to isolate it . 
+Moscow,increase.01,cooperation with,,Affirmative,Moscow has repeatedly stated it would increase cooperation with other partners such as China and India if the EU pursues its efforts to isolate it . 
+the EU 's,pursue.01,its efforts,,Affirmative,Moscow has repeatedly stated it would increase cooperation with other partners such as China and India if the EU pursues its efforts to isolate it . 
+the EU 's,isolate.01,Moscow,,Affirmative,Moscow has repeatedly stated it would increase cooperation with other partners such as China and India if the EU pursues its efforts to isolate it . 

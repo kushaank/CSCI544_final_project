@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A federal judge,deny.01,a request,,Affirmative,A federal judge denied a request to stay the execution of Missouri death row inmate Russell Bucklew on Monday . 
+lawyers,argue.01,defect would make,,Affirmative,Bucklew 's lawyers had argued a rare birth defect would make his pending lethal injection extremely painful and therefore unconstitutional . 
+a rare birth defect,make.02,injection extremely painful and,,Affirmative,Bucklew 's lawyers had argued a rare birth defect would make his pending lethal injection extremely painful and therefore unconstitutional . 
+a medical condition,cause.01,to grow in,,Affirmative,"Bucklew is a convicted murderer and rapist with a medical condition that causes tumors , which cause bleeding and difficulty breathing , to grow in his head and neck . "
+"tumors ,",cause.01,breathing,,Affirmative,"Bucklew is a convicted murderer and rapist with a medical condition that causes tumors , which cause bleeding and difficulty breathing , to grow in his head and neck . "
+Bucklew 's lawyers,say.01,drugs will fail,,Affirmative,"As a result of the tumors , his lawyers say the lethal injection drugs will fail to circulate and Bucklew will end up choking to death . "
+Missouri death row inmate Russell Bucklew,ask.02,execution be videotaped and used as evidence in,,Affirmative,Bucklew reportedly asked that his execution be videotaped and used as evidence in a civil lawsuit in the state . 
+NBC,report.01,that request was also denied,,Affirmative,NBC reports that request was also denied . 
+Bucklew 's lawyers,say.01,that they would immediately appeal,,Affirmative,His lawyers said in a statement issued Monday that they would immediately appeal the judges decision . 
+Bucklew 's lawyers,appeal.01,the judges decision,,Affirmative,His lawyers said in a statement issued Monday that they would immediately appeal the judges decision . 
+We,appeal.01,the denial of,,Affirmative,"We will immediately appeal the denial of a stay of execution because the courts must fully consider Mr. Bucklew 's claim that he will die a prolonged tortuous death in violation of the Eighth Amendment during his execution , his lawyers said in a statement . "
+the courts,consider.01,claim,,Affirmative,"We will immediately appeal the denial of a stay of execution because the courts must fully consider Mr. Bucklew 's claim that he will die a prolonged tortuous death in violation of the Eighth Amendment during his execution , his lawyers said in a statement . "
+Bucklew 's lawyers,say.01,We will immediately appeal,,Affirmative,"We will immediately appeal the denial of a stay of execution because the courts must fully consider Mr. Bucklew 's claim that he will die a prolonged tortuous death in violation of the Eighth Amendment during his execution , his lawyers said in a statement . "

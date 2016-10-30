@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+an earthquake,shake.01,northern Italy,,Affirmative,"A German woman died of fright after an earthquake shook northern Italy on Sunday morning , killing at least six other people , and leaving buildings in ruins . "
+an earthquake,kill.01,six other people,,Affirmative,"A German woman died of fright after an earthquake shook northern Italy on Sunday morning , killing at least six other people , and leaving buildings in ruins . "
+an earthquake,leave.01,buildings,in ruins,Affirmative,"A German woman died of fright after an earthquake shook northern Italy on Sunday morning , killing at least six other people , and leaving buildings in ruins . "
+agency Ansa,say.01,woman started,,Affirmative,"Italian news agency Ansa said that the German woman started having breathing problems shortly after the initial quake , and that it is thought a panic attack led to her death . "
+A German woman,start.01,having breathing problems,,Affirmative,"Italian news agency Ansa said that the German woman started having breathing problems shortly after the initial quake , and that it is thought a panic attack led to her death . "
+A German woman,breathe.01,problems,,Affirmative,"Italian news agency Ansa said that the German woman started having breathing problems shortly after the initial quake , and that it is thought a panic attack led to her death . "
+A man,call.02,the emergency services,,Affirmative,A man called the emergency services but they could not help her and she died . 
+Three night-shift workers,help.01,A German woman,,Affirmative,A man called the emergency services but they could not help her and she died . 
+the initial quake,measure.01,5.9 -,,Affirmative,The quake measured 5.9 - nearly as strong as the Aquila quake from 2009 which caused huge damage in the region . 
+a person,live.01,the majority of,,Affirmative,"As a person who has live the majority of her life on the ring of fire , I am amazed someone could get worked up enough about a 5.9 to die of fright . "
+the majority of her life,feel.01,her life,,Affirmative,That 's big enough to feel it but not enough to give you a good ride . 
+the prevalence of,make.02,ones dangerous,,Affirmative,"Granted , the prevalence of older brink buildings can make smaller ones dangerous , but that 's always luck of the draw . "

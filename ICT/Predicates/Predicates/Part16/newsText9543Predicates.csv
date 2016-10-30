@@ -1,0 +1,67 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A private crowdfunded team,attempt.01,to make contact with,,Affirmative,"A private crowdfunded team will attempt to make contact with a 1970s-era NASA spacecraft this week , the first major step in an ambitious effort to repurpose the retired probe . "
+"the group ,",meet.03,"125,000 crowfunding goal",,Affirmative,"Members of the group , which met its $ 125,000 crowfunding goal last week , have traveled to Puerto Rico , where they 'll use the powerful Arecibo Observatory to beam messages to the International Sun-Earth Explorer 3 probe , or ISEE - 3 . "
+Members of,travel.01,to,,Affirmative,"Members of the group , which met its $ 125,000 crowfunding goal last week , have traveled to Puerto Rico , where they 'll use the powerful Arecibo Observatory to beam messages to the International Sun-Earth Explorer 3 probe , or ISEE - 3 . "
+they,use.01,the powerful Arecibo Observatory,to beam messages to,Affirmative,"Members of the group , which met its $ 125,000 crowfunding goal last week , have traveled to Puerto Rico , where they 'll use the powerful Arecibo Observatory to beam messages to the International Sun-Earth Explorer 3 probe , or ISEE - 3 . "
+they,beam.01,messages,,Affirmative,"Members of the group , which met its $ 125,000 crowfunding goal last week , have traveled to Puerto Rico , where they 'll use the powerful Arecibo Observatory to beam messages to the International Sun-Earth Explorer 3 probe , or ISEE - 3 . "
+The spacecraft,cease.01,science operations,,Affirmative,The spacecraft launched in 1978 and ceased science operations in 1997 . 
+the team,use.01,"Network scientific telecommunications system ,",to stay in touch with,Affirmative,"The extra money will be used to rent NASA 's Deep Space Network scientific telecommunications system , which the team will use to stay in touch with ISEE - 3 spacecraft , project leaders said . "
+project leaders,say.01,money will be used,,Affirmative,"The extra money will be used to rent NASA 's Deep Space Network scientific telecommunications system , which the team will use to stay in touch with ISEE - 3 spacecraft , project leaders said . "
+Team members,try.01,to make,,Affirmative,Team members are in Puerto Rico trying to make their hardware work with the telescope ( which is itself several decades old ) and to install a transmitter shipped from Germany this week . 
+their hardware,install.01,a transmitter shipped from Germany,,Affirmative,Team members are in Puerto Rico trying to make their hardware work with the telescope ( which is itself several decades old ) and to install a transmitter shipped from Germany this week . 
+it,do.02,all the stuff,,Affirmative,"Once we 're certain the hardware works - that it can transmit and receive and do all the stuff to talk with the spacecraft - then the issue is getting everybody into position , said project co-leader Keith Cowing , who is remaining behind in Virginia to pump up the crowdfunding effort . "
+"co-leader Keith Cowing ,",say.01,- that it can transmit and receive and do,,Affirmative,"Once we 're certain the hardware works - that it can transmit and receive and do all the stuff to talk with the spacecraft - then the issue is getting everybody into position , said project co-leader Keith Cowing , who is remaining behind in Virginia to pump up the crowdfunding effort . "
+A private group,contact.01,a spacecraft,,Affirmative,"A private group has never contacted a spacecraft before , and Cowing said everyone wanted to be sure that things were done right . "
+Cowing,say.01,everyone wanted,,Affirmative,"A private group has never contacted a spacecraft before , and Cowing said everyone wanted to be sure that things were done right . "
+everyone,want.01,to be sure,,Affirmative,"A private group has never contacted a spacecraft before , and Cowing said everyone wanted to be sure that things were done right . "
+the group,contact.01,the spacecraft,,Affirmative,"The pact covers matters such as how the group will contact the spacecraft , what they plan to do with it and what the data will be used for . "
+they,plan.01,to do with it,,Affirmative,"The pact covers matters such as how the group will contact the spacecraft , what they plan to do with it and what the data will be used for . "
+3 probe,have.03,an itinerant life,,Affirmative,The ISEE - 3 probe has had an itinerant life since entering space in 1978 . 
+3 probe,enter.01,space,,Affirmative,The ISEE - 3 probe has had an itinerant life since entering space in 1978 . 
+It,examine.01,the solar wind and,,Affirmative,"It originally examined the solar wind and cosmic rays , then chased two comets ( including Halley 's Comet ) in the mid-1980 s , then was a sun probe from 1991 until 1997 , when it was put into hibernation . "
+no computer on board,require.01,the team,,Affirmative,"Making contact is a challenge because there is no computer on board , requiring the team to seek out old documents to figure out how to get in touch with the spacecraft . "
+the team,seek.01,old documents,,Affirmative,"Making contact is a challenge because there is no computer on board , requiring the team to seek out old documents to figure out how to get in touch with the spacecraft . "
+the team,figure.05,how to get in touch with,,Affirmative,"Making contact is a challenge because there is no computer on board , requiring the team to seek out old documents to figure out how to get in touch with the spacecraft . "
+a challenge,have.03,a thermostat,,Affirmative,It does n't even have a thermostat . 
+It,have.03,battery for,,Affirmative,"It has n't had a [ working ] battery for 20 years , Cowing said . "
+Cowing,say.01,It has n't had,,Affirmative,"It has n't had a [ working ] battery for 20 years , Cowing said . "
+The team,plan.01,to talk to,,Affirmative,"The team plans to talk to the probe to see which of its 13 instruments are functioning , and then to redirect its path so that it swings around the far side of the moon . "
+The team,see.01,are functioning,,Affirmative,"The team plans to talk to the probe to see which of its 13 instruments are functioning , and then to redirect its path so that it swings around the far side of the moon . "
+The team,redirect.01,its path,,Affirmative,"The team plans to talk to the probe to see which of its 13 instruments are functioning , and then to redirect its path so that it swings around the far side of the moon . "
+Team members,need.01,to make sure,,Affirmative,"Team members will need to make sure the solar - powered ISEE - 3 survives this maneuver , which will take it beyond the reach of sunlight for a spell . "
+Team members,make.02,sure,,Affirmative,"Team members will need to make sure the solar - powered ISEE - 3 survives this maneuver , which will take it beyond the reach of sunlight for a spell . "
+powered ISEE - 3,survive.01,"this maneuver ,",,Affirmative,"Team members will need to make sure the solar - powered ISEE - 3 survives this maneuver , which will take it beyond the reach of sunlight for a spell . "
+"this maneuver ,",take.01,it,beyond,Affirmative,"Team members will need to make sure the solar - powered ISEE - 3 survives this maneuver , which will take it beyond the reach of sunlight for a spell . "
+The group,plan.01,to redirect,,Affirmative,"The group plans to redirect the probe from its current orbit around the sun to the Earth - sun Lagrange Point 1 ( ES - 1 ) , a gravitationally stable spot about 930,000 miles ( 1.5 million kilometers ) from Earth . "
+The group,redirect.01,the probe,from,Affirmative,"The group plans to redirect the probe from its current orbit around the sun to the Earth - sun Lagrange Point 1 ( ES - 1 ) , a gravitationally stable spot about 930,000 miles ( 1.5 million kilometers ) from Earth . "
+Cowing,say.01,they 'll worry about that,,Affirmative,But it 's unclear what the spacecraft 's ultimate fate will be ; Cowing said they 'll worry about that later . 
+they,worry.02,about that,,Affirmative,But it 's unclear what the spacecraft 's ultimate fate will be ; Cowing said they 'll worry about that later . 
+you,save.01,a spacecraft,,Affirmative,"It 's a lot easier to have discussions with folks with a spacecraft you have saved than one you have not yet , he said . "
+he,say.01,It 's,,Affirmative,"It 's a lot easier to have discussions with folks with a spacecraft you have saved than one you have not yet , he said . "
+This still from,show.01,the location of,,Affirmative,"This still from a NASA animation shows the location of the International Sun-Earth Explorer 3 spacecraft relative to Earth on May 22 , 2014 . "
+they,attempt.01,to contact,,Affirmative,The ISEE - 3 away team at the Arecibo Telescope in Puerto Rico as they attempt to contact the spacecraft . 
+they,contact.01,the spacecraft,,Affirmative,The ISEE - 3 away team at the Arecibo Telescope in Puerto Rico as they attempt to contact the spacecraft . 
+a former NASA employee himself,co-leading.01,"Recovery Project ,",,Affirmative,"Cowing , a former NASA employee himself , is also co-leading the Lunar Orbiter Image Recovery Project , which is digitizing original analog tapes from five robotic spacecraft that went to the moon in 1966 and 1967 . "
+"Recovery Project ,",digitize.01,original analog tapes,from,Affirmative,"Cowing , a former NASA employee himself , is also co-leading the Lunar Orbiter Image Recovery Project , which is digitizing original analog tapes from five robotic spacecraft that went to the moon in 1966 and 1967 . "
+He,credit.02,that effort,for helping,Affirmative,He credits that effort ( which he also heads with Wingo ) for helping him think creatively about contacting ISEE - 3 . 
+Keith Cowing,head.01,with Wingo,,Affirmative,He credits that effort ( which he also heads with Wingo ) for helping him think creatively about contacting ISEE - 3 . 
+we,try.01,The more,,Affirmative,"The more we tried , the more we discovered we could do this , he said . "
+we,discover.01,we could do this,,Affirmative,"The more we tried , the more we discovered we could do this , he said . "
+we,do.02,this,,Affirmative,"The more we tried , the more we discovered we could do this , he said . "
+he,say.01,more we discovered,,Affirmative,"The more we tried , the more we discovered we could do this , he said . "
+You,reverse.01,engineer stuff,,Affirmative,You could reverse - engineer stuff . 
+You,buy.01,"parts ,",,Affirmative,"You could buy parts , which were still out there . "
+People,keep.04,this stuff,in,Affirmative,People kept this stuff in their garages . 
+Cowing,say.01,he 's been honored by,,Affirmative,"While a lot of hard work lies ahead , Cowing says he 's been honored by the help and support of many former NASA workers , as well as the hundreds of people who supported the team financially . "
+by,honor.01,Keith Cowing,,Affirmative,"While a lot of hard work lies ahead , Cowing says he 's been honored by the help and support of many former NASA workers , as well as the hundreds of people who supported the team financially . "
+people,support.01,the team,,Affirmative,"While a lot of hard work lies ahead , Cowing says he 's been honored by the help and support of many former NASA workers , as well as the hundreds of people who supported the team financially . "
+he,add.01,are not,,Affirmative,"Many of those funders are not self - professed space geeks , he added , saying that perhaps NASA and other space entities should bear that in mind when doing public outreach . "
+Many of,say.01,should bear that in mind,,Affirmative,"Many of those funders are not self - professed space geeks , he added , saying that perhaps NASA and other space entities should bear that in mind when doing public outreach . "
+NASA and,bear.01,that in mind,,Affirmative,"Many of those funders are not self - professed space geeks , he added , saying that perhaps NASA and other space entities should bear that in mind when doing public outreach . "
+I,see.01,them,,Affirmative,"When I would see them [ funders ] tweet something , I 'd always go back and follow them from the official Twitter account . "
+I,follow.02,them,from,Affirmative,"When I would see them [ funders ] tweet something , I 'd always go back and follow them from the official Twitter account . "
+people with like three or four followers,say.01,this is,,Affirmative,"And they 're saying this is so cool , what we are doing , Cowing said . "
+Cowing,say.01,what we are doing,,Affirmative,"And they 're saying this is so cool , what we are doing , Cowing said . "
+Everyone,feel.02,that they have,,Affirmative,"Everyone who donates now feels that they have a personal stake in our success , he added , and that they get to celebrate when we make it work . "
+they,have.03,a personal stake in,,Affirmative,"Everyone who donates now feels that they have a personal stake in our success , he added , and that they get to celebrate when we make it work . "
+we,make.02,it work,,Affirmative,"Everyone who donates now feels that they have a personal stake in our success , he added , and that they get to celebrate when we make it work . "

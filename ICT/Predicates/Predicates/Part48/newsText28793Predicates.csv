@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two carnival workers,face.01,neglect charges,,Affirmative,"SULLIVAN COUNTY , Indiana ( May 19 , 2014 ) - Two carnival workers are facing animal neglect charges after a traffic stop this afternoon just south of Terre Haute , Indiana . "
+An Indiana State Trooper,stop.01,pickup truck hauling,,Affirmative,"An Indiana State Trooper stopped a Ford pickup truck hauling a homemade enclosed trailer along U.S. 41 near State Road 54 in Sullivan County for a routine inspection of the truck , trailer and cargo . "
+pickup truck hauling,haul.01,a homemade enclosed trailer along U.S. 41 near,,Affirmative,"An Indiana State Trooper stopped a Ford pickup truck hauling a homemade enclosed trailer along U.S. 41 near State Road 54 in Sullivan County for a routine inspection of the truck , trailer and cargo . "
+An Indiana State Trooper,find.01,"two miniature horses , one male and",,Affirmative,"In the trailer the Trooper found two miniature horses , one male and one female . "
+"the trailer ,",have.03,insufficient air flow for,,Affirmative,"  There was n't food or water in the trailer , which also had insufficient air flow for the animals . "
+Society workers,take.01,custody of,,Affirmative,"Humane Society workers were called to the scene and took custody of the horses , which were taken to the Sullivan County Animal Hospital for care . "
+Several traffic citations,have.03,a log book and,,Affirmative,"Several traffic citations were issued , including not having a log book and overloaded trailer tires . "
+by,employ.01,Both men,,Affirmative,"  Both men are carnival workers and were employed by Modern Midways Carnival out of Miami , Florida . "
+Both men,make.01,their way,"from Chadsworth , Georgia to Chicago",Affirmative,"  The men were making their way from Chadsworth , Georgia to Chicago , Illinois . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

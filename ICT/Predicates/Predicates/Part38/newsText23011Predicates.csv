@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Iannone 's team-mate Yonny Hernandez,hit.01,me,,Affirmative,Hernandez hit me so hard I thought he broke my leg - Cal Crutchlow . 
+me,think.01,he broke,,Affirmative,Hernandez hit me so hard I thought he broke my leg - Cal Crutchlow . 
+Iannone 's team-mate Yonny Hernandez,break.01,my leg,,Affirmative,Hernandez hit me so hard I thought he broke my leg - Cal Crutchlow . 
+rider Hayden,say.01,Not a lot,,Affirmative,"Not a lot to report , said Aspar Honda rider Hayden on Sunday evening . "
+We,find.01,something,,Affirmative,We found something to improve the bike this morning and I was able to go faster than in qualifying so I was excited for the race . 
+Aspar Honda rider Hayden on Sunday,get.01,a good start,,Affirmative,"I got a good start , probably my best of the year and was right there with a decent position . "
+class rider,use.01,"the extra-soft rear tyre ,",,Affirmative,"Iannone had qualified eleventh on the grid and was the only Factory class rider using the extra-soft rear tyre , which perhaps encouraged him to attack in the early laps . "
+"the extra-soft rear tyre ,",encourage.01,him,to attack in,Affirmative,"Iannone had qualified eleventh on the grid and was the only Factory class rider using the extra-soft rear tyre , which perhaps encouraged him to attack in the early laps . "
+Andrea Iannone on the exit of the first chicane,have.03,the contact,,Affirmative,"I am sorry for the contact I had with Nicky , who fell . "
+Andrea Iannone on the exit of the first chicane,see.01,Nicky who crashed in front of me,,Affirmative,"I did n't see him because he was behind me , said Iannone . "
+Andrea Iannone on the exit of the first chicane,say.01,I did n't see him,,Affirmative,"I did n't see him because he was behind me , said Iannone . "
+Ducati 's Cal Crutchlow,destroy.01,my boot,,Affirmative,"In addition , during the contact I completely destroyed my boot , it would have been difficult in any case to finish the race because the boot was completely open . "
+Cal Crutchlow,reveal.01,were also caught up in,,Affirmative,After the race Ducati 's Cal Crutchlow revealed that he and Iannone 's team - mate Yonny Hernandez were also caught up in the incident . 
+Ducati 's Cal Crutchlow,say.01,race was wrecked for me,,Affirmative,"Today 's race was wrecked for me in the first three corners because I was caught up in the collision with Nicky , Crutchlow said . "
+Nicky who crashed in front of me,hit.01,Nicky,,Affirmative,He hit Nicky who crashed in front of me and then Hernandez hit me in the side of the leg so hard I thought he broke my leg . 
+Iannone 's team-mate Yonny Hernandez,hit.01,Ducati 's Cal Crutchlow,,Affirmative,He hit Nicky who crashed in front of me and then Hernandez hit me in the side of the leg so hard I thought he broke my leg . 
+Ducati 's Cal Crutchlow,think.01,he broke,,Affirmative,He hit Nicky who crashed in front of me and then Hernandez hit me in the side of the leg so hard I thought he broke my leg . 
+Iannone 's team-mate Yonny Hernandez,break.01,my leg,,Affirmative,He hit Nicky who crashed in front of me and then Hernandez hit me in the side of the leg so hard I thought he broke my leg . 
+Ducati 's Cal Crutchlow,finish.01,the race,,Affirmative,"Crutchlow finished the race in eleventh , with Hernandez 13th . "
+people posting SPAM,post.01,SPAM,,Affirmative,"Sorry , due to abuse from people posting SPAM , we no longer allow web addresses to be posted in comments . "
+we,allow.01,addresses to be posted in comments,,Affirmative,"Sorry , due to abuse from people posting SPAM , we no longer allow web addresses to be posted in comments . "
+the administrators and moderators of,attempt.01,to keep,,Affirmative,"Although the administrators and moderators of this website will attempt to keep all objectionable comments off these pages , it is impossible for us to review all messages . "
+the administrators and moderators of,keep.02,all objectionable comments off,,Affirmative,"Although the administrators and moderators of this website will attempt to keep all objectionable comments off these pages , it is impossible for us to review all messages . "
+we,review.01,all messages,,Affirmative,"Although the administrators and moderators of this website will attempt to keep all objectionable comments off these pages , it is impossible for us to review all messages . "
+All messages,express.01,the views of,,Affirmative,"All messages express the views of the poster , and neither Crash Media Group nor Crash.Net will be held responsible for the content of any message . "
+we,vouch.01,for,,Affirmative,"We do not vouch for or warrant the accuracy , completeness or usefulness of any message , and are not responsible for the contents of any message . "
+we,warrant.01,"the accuracy , completeness or usefulness",,Affirmative,"We do not vouch for or warrant the accuracy , completeness or usefulness of any message , and are not responsible for the contents of any message . "
+me,find.01,a message objectionable,,Affirmative,"If you find a message objectionable , please contact us and inform us of the problem or use the [ report ] function next to the offending post . "
+he,have.03,every single interview,,Affirmative,"Why in every single interview he has , does Cal have to slag someone or something off , like in this , Iannone was hot like usual he really should concentrate on himself rather than constantly calling everyone else out , be it other riders , or his team ! "
+Cal,slag.01,someone or something off,,Affirmative,"Why in every single interview he has , does Cal have to slag someone or something off , like in this , Iannone was hot like usual he really should concentrate on himself rather than constantly calling everyone else out , be it other riders , or his team ! "
+he,concentrate.01,on himself,,Affirmative,"Why in every single interview he has , does Cal have to slag someone or something off , like in this , Iannone was hot like usual he really should concentrate on himself rather than constantly calling everyone else out , be it other riders , or his team ! "
+he,call.01,everyone else,,Affirmative,"Why in every single interview he has , does Cal have to slag someone or something off , like in this , Iannone was hot like usual he really should concentrate on himself rather than constantly calling everyone else out , be it other riders , or his team ! "

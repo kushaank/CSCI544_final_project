@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,buy.01,a Taser,,Affirmative,A man who bought a Taser in Thailand before trying it out on his mates at a Cairns pub has been handed a good behaviour bond . 
+A man,try.03,a Taser in Thailand,,Affirmative,A man who bought a Taser in Thailand before trying it out on his mates at a Cairns pub has been handed a good behaviour bond . 
+"Brendon John King , 40 ,",tell.01,he picked up,the court,Affirmative,"Brendon John King , 40 , told the court he picked up the device while holidaying in Thailand as a means of protection . "
+John King,pick.04,the device,,Affirmative,"Brendon John King , 40 , told the court he picked up the device while holidaying in Thailand as a means of protection . "
+Police,see.01,it,,Affirmative,"Police did n't see it that way , however , when they arrested Mr King outside the Courthouse Hotel on May 1 , after security guards witnessed him zapping friends with the device . "
+Police,arrest.01,Mr King,,Affirmative,"Police did n't see it that way , however , when they arrested Mr King outside the Courthouse Hotel on May 1 , after security guards witnessed him zapping friends with the device . "
+security guards,witness.01,him zapping friends with,,Affirmative,"Police did n't see it that way , however , when they arrested Mr King outside the Courthouse Hotel on May 1 , after security guards witnessed him zapping friends with the device . "
+Mr King outside the Courthouse Hotel,zap.01,friends,,Affirmative,"Police did n't see it that way , however , when they arrested Mr King outside the Courthouse Hotel on May 1 , after security guards witnessed him zapping friends with the device . "
+"lawyer ,",tell.01,client had,the court,Affirmative,"Mr King 's lawyer , Stephen O'Reilly told the court his client had no idea he was not allowed to wield the device in public . "
+his client,have.03,no idea,,Affirmative,"Mr King 's lawyer , Stephen O'Reilly told the court his client had no idea he was not allowed to wield the device in public . "
+his client,wield.01,the device,,Affirmative,"Mr King 's lawyer , Stephen O'Reilly told the court his client had no idea he was not allowed to wield the device in public . "
+Mr King 's lawyer,carry.01,the court his client had no idea he was not allowed to wield the device in public,,Affirmative,"He carried it with him because he was previously assaulted and it made him feel safe , Mr O'Reilly said . "
+the court his client had no idea he was not allowed to wield the device in public,make.02,him feel safe,,Affirmative,"He carried it with him because he was previously assaulted and it made him feel safe , Mr O'Reilly said . "
+Mr King 's lawyer,feel.01,safe,,Affirmative,"He carried it with him because he was previously assaulted and it made him feel safe , Mr O'Reilly said . "
+Mr O'Reilly,say.01,He carried it with him,,Affirmative,"He carried it with him because he was previously assaulted and it made him feel safe , Mr O'Reilly said . "
+Mr King 's lawyer,use.01,the device,as,Affirmative,There was no suggestion he was using the device as its intended purpose . 
+Magistrate Suzette Coats,hand.01,330 good behaviour bond,Mr King,Affirmative,Magistrate Suzette Coats handed Mr King a $ 330 good behaviour bond and said she would not record a conviction against him . 
+Magistrate Suzette Coats,say.01,she would not record,,Affirmative,Magistrate Suzette Coats handed Mr King a $ 330 good behaviour bond and said she would not record a conviction against him . 
+she,record.01,a conviction against him,,Affirmative,Magistrate Suzette Coats handed Mr King a $ 330 good behaviour bond and said she would not record a conviction against him . 

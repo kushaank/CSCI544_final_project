@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"A DUBLIN man ,",claim.01,he was injured,,Affirmative,"A DUBLIN man , who claimed he was injured after he fell in the stairway of a Dublin bus , has lost a €38,000 damages claim in the Circuit Civil Court . "
+"A DUBLIN man ,",lose.03,"a €38,000 damages claim in",,Affirmative,"A DUBLIN man , who claimed he was injured after he fell in the stairway of a Dublin bus , has lost a €38,000 damages claim in the Circuit Civil Court . "
+Michael Brady ( 41 ),sue.01,Dublin Bus,for negligence,Affirmative,Michael Brady ( 41 ) sued Dublin Bus for negligence . 
+Michael Brady -LRB- 41 -RRB-,claim.01,he fell,,Affirmative,"He claimed he fell after a plastic bottle got trapped under his right foot , while the bus had been travelling at speed as he was descending the stairway . "
+Michael Brady -LRB- 41 -RRB-,descend.01,the stairway of a Dublin bus,,Affirmative,"He claimed he fell after a plastic bottle got trapped under his right foot , while the bus had been travelling at speed as he was descending the stairway . "
+a result of,break.01,two teeth,,Affirmative,As a result of his fall Mr Brady broke two teeth and injured his right ankle . 
+a result of,injure.01,his right ankle,,Affirmative,As a result of his fall Mr Brady broke two teeth and injured his right ankle . 
+by,deny.01,claims,,Affirmative,Mr Brady 's claims were denied by Dublin Bus . 
+Justice Raymond Groarke,find.01,Bus had not been negligent and dismissed,,Affirmative,In his ruling today Circuit Court President Mr Justice Raymond Groarke found Dublin Bus had not been negligent and dismissed Mr Brady 's claim . 
+Mr Brady 's,tell.01,", he had been travelling on",the court,Affirmative,"Mr Brady told the court that on the afternoon of August , 29 , 2012 , he had been travelling on the upper deck of a bus . "
+Mr Brady 's,travel.01,on,,Affirmative,"Mr Brady told the court that on the afternoon of August , 29 , 2012 , he had been travelling on the upper deck of a bus . "
+Mr Brady 's,hear.01,a crunching sound,,Affirmative,He heard a crunching sound under his foot when he got up from his seat . 
+Mr Brady 's,get.05,from,,Affirmative,He heard a crunching sound under his foot when he got up from his seat . 
+Mr Brady 's,say.01,that it was,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,start.01,descending,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,descend.01,the stairs,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,notice.01,the stairs,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,try.01,to remove,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,remove.01,a plastic bottle,,Affirmative,Mr Brady said that it was only when he started descending the stairs that he noticed and tried to remove a plastic bottle which was stuck under his foot . 
+Mr Brady 's,tell.01,bus was driven fast,"Dublin Bus solicitor ,",Affirmative,"He told Dublin Bus solicitor , Gerard O'Herlihy , that the bus was driven fast as it turned around a corner , causing him to lose his balance and fall down the stairs , hitting his head . "
+it,turn.01,a corner,,Affirmative,"He told Dublin Bus solicitor , Gerard O'Herlihy , that the bus was driven fast as it turned around a corner , causing him to lose his balance and fall down the stairs , hitting his head . "
+it,cause.01,him to lose,,Affirmative,"He told Dublin Bus solicitor , Gerard O'Herlihy , that the bus was driven fast as it turned around a corner , causing him to lose his balance and fall down the stairs , hitting his head . "
+Mr Brady 's,lose.02,his balance,,Affirmative,"He told Dublin Bus solicitor , Gerard O'Herlihy , that the bus was driven fast as it turned around a corner , causing him to lose his balance and fall down the stairs , hitting his head . "
+Mr Brady 's,lose.03,consciousness,,Affirmative,He temporarily lost consciousness . 
+the Circuit Civil Court,hear.01,Brady was taken by ambulance,,Affirmative,"The court heard that Mr Brady was taken by ambulance to the A&E Department of Beaumont Hospital , Dublin , where X-rays revealed no fracture . "
+by ambulance,take.01,Mr Brady 's,,Affirmative,"The court heard that Mr Brady was taken by ambulance to the A&E Department of Beaumont Hospital , Dublin , where X-rays revealed no fracture . "
+X-rays,reveal.01,no fracture,,Affirmative,"The court heard that Mr Brady was taken by ambulance to the A&E Department of Beaumont Hospital , Dublin , where X-rays revealed no fracture . "
+Mr Brady 's,suffer.01,a soft tissue injury,,Affirmative,He suffered a soft tissue injury to his ankle and underwent physiotherapy sessions . 
+Mr Brady 's,say.01,he was still experiencing pain in,,Affirmative,He said he was still experiencing pain in his ankle and his personal activities had been affected . 
+Mr Brady 's,experience.01,pain,,Affirmative,He said he was still experiencing pain in his ankle and his personal activities had been affected . 
+Mr Brady 's,afford.01,to have,,Affirmative,He could not afford to have his teeth repaired . 
+Mr Brady 's,have.03,teeth repaired,,Affirmative,He could not afford to have his teeth repaired . 
+Mr Brady 's,sue.01,Dublin Bus,for negligence,Affirmative,He sued Dublin Bus for negligence . 
+Dublin Bus,deny.01,liability,,Affirmative,Dublin Bus denied liability . 
+Mr O'Herlihy,say.01,footage showed,,Affirmative,In his submissions to the court Mr O'Herlihy said CCTV footage showed the bus was not driven fast at the time of Mr Brady 's fall . 
+CCTV footage,show.01,bus was not driven fast at,,Affirmative,In his submissions to the court Mr O'Herlihy said CCTV footage showed the bus was not driven fast at the time of Mr Brady 's fall . 
+Mr Brady 's,add.02,Dublin Bus for negligence,,Affirmative,  He added the bus was serviced and cleaned the night before Mr Brady 's fall . 
+Circuit Court President Mr Justice Raymond Groarke,dismiss.01,Mr Brady 's claim,,Affirmative,"Judge Groarke , dismissing the claim , said Mr Brady suffered very nasty injuries , but CCTV evidence showed that passengers seemed comfortably seated in the bus at the time of Mr Brady 's fall . "
+Circuit Court President Mr Justice Raymond Groarke,say.01,Brady suffered,,Affirmative,"Judge Groarke , dismissing the claim , said Mr Brady suffered very nasty injuries , but CCTV evidence showed that passengers seemed comfortably seated in the bus at the time of Mr Brady 's fall . "
+Mr Brady 's,suffer.01,nasty injuries,,Affirmative,"Judge Groarke , dismissing the claim , said Mr Brady suffered very nasty injuries , but CCTV evidence showed that passengers seemed comfortably seated in the bus at the time of Mr Brady 's fall . "
+CCTV evidence,show.01,that passengers seemed,,Affirmative,"Judge Groarke , dismissing the claim , said Mr Brady suffered very nasty injuries , but CCTV evidence showed that passengers seemed comfortably seated in the bus at the time of Mr Brady 's fall . "
+This,suggest.01,bus was not travelling at speed,,Affirmative,"  This suggested that the bus was not travelling at speed , the Judge said . "
+the Judge,say.01,  This suggested,,Affirmative,"  This suggested that the bus was not travelling at speed , the Judge said . "

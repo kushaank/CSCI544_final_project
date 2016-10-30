@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+State police,charge.05,Elijah Messer and,for,Affirmative,State police charged Elijah Messer and Angela Mills for the murder of Mills . 
+Kentucky State Police,say.01,they arrested,,Affirmative,"That 's after Kentucky State Police said they arrested two men Friday , accusing them of impersonating officers and killing a man . "
+Elijah Messer and Angela Mills,arrest.01,two men,,Affirmative,"That 's after Kentucky State Police said they arrested two men Friday , accusing them of impersonating officers and killing a man . "
+Elijah Messer and Angela Mills,accuse.01,them,of impersonating officers and killing,Affirmative,"That 's after Kentucky State Police said they arrested two men Friday , accusing them of impersonating officers and killing a man . "
+them,impersonate.01,officers,,Affirmative,"That 's after Kentucky State Police said they arrested two men Friday , accusing them of impersonating officers and killing a man . "
+them,kill.01,a man,,Affirmative,"That 's after Kentucky State Police said they arrested two men Friday , accusing them of impersonating officers and killing a man . "
+Patrick Baker and Christopher Wagner,say.01,Mills was shot trying,,Affirmative,They said Mills was shot trying to fight the men . 
+29 year old Donald Mills,try.01,to fight,,Affirmative,They said Mills was shot trying to fight the men . 
+29 year old Donald Mills,fight.01,two men,,Affirmative,They said Mills was shot trying to fight the men . 

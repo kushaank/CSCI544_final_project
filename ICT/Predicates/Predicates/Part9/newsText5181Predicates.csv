@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the former Fed chairman,think.01,", I think",,Affirmative,"I think that more than just selling a book , I think I 'm really interested in the personal therapy here , the former Fed chairman said Monday at a conference on monetary policy hosted by former President George W. Bush 's policy institute in Dallas . "
+the former Fed chairman,think.01,I 'm,,Affirmative,"I think that more than just selling a book , I think I 'm really interested in the personal therapy here , the former Fed chairman said Monday at a conference on monetary policy hosted by former President George W. Bush 's policy institute in Dallas . "
+the former Fed chairman,say.01,I think,,Affirmative,"I think that more than just selling a book , I think I 'm really interested in the personal therapy here , the former Fed chairman said Monday at a conference on monetary policy hosted by former President George W. Bush 's policy institute in Dallas . "
+by,host.01,monetary policy hosted by,,Affirmative,"I think that more than just selling a book , I think I 'm really interested in the personal therapy here , the former Fed chairman said Monday at a conference on monetary policy hosted by former President George W. Bush 's policy institute in Dallas . "
+Bernanke,want.01,to go back and think through,,Affirmative,"I really want to go back and think through all these decisions and recognizing that many of them were made under very tight timelines under very difficult circumstances , try to understand where we did the right thing , where we made mistakes , try to really come to grips with all of this . "
+Bernanke,recognize.02,were made under,,Affirmative,"I really want to go back and think through all these decisions and recognizing that many of them were made under very tight timelines under very difficult circumstances , try to understand where we did the right thing , where we made mistakes , try to really come to grips with all of this . "
+we,do.02,"the right thing ,",,Affirmative,"I really want to go back and think through all these decisions and recognizing that many of them were made under very tight timelines under very difficult circumstances , try to understand where we did the right thing , where we made mistakes , try to really come to grips with all of this . "
+we,make.01,mistakes,,Affirmative,"I really want to go back and think through all these decisions and recognizing that many of them were made under very tight timelines under very difficult circumstances , try to understand where we did the right thing , where we made mistakes , try to really come to grips with all of this . "
+the former Fed chairman,start.01,his career,,Affirmative,"He started his career at the Fed in 2002 , when he joined the Board of Governors . "
+the former Fed chairman,join.01,the Board of Governors,,Affirmative,"He started his career at the Fed in 2002 , when he joined the Board of Governors . "
+"by Bush ,",appoint.01,the former Fed chairman,chairman,Affirmative,"He was appointed chairman in 2006 by Bush , a Republican , and reappointed four years later by President Barack Obama , a Democrat . "
+by,reappoint.01,the former Fed chairman,,Affirmative,"He was appointed chairman in 2006 by Bush , a Republican , and reappointed four years later by President Barack Obama , a Democrat . "
+Bernanke,say.01,It 's really,,Affirmative,"It 's really hard now to remember how black the situation was in October of 2008 , Bernanke said . "
+"Bush , a Republican",recall.02,a meeting with Bernanke,,Affirmative,Bush also spoke at the conference and recalled a meeting with Bernanke during the financial crisis . 
+the Fed,do.02,all those things,,Affirmative,"Relying on the Fed to take care of all these problems - income distribution , long - term growth , the fact that the Nationals are only in second place , all that - the Fed can not do all those things . "
+we,get.02,educational policy,,Affirmative,"If people are concerned about these distributional issues , we 've got educational policy , we 've got immigration policy , we 've got ( job ) training policy . "
+we,get.02,immigration policy,,Affirmative,"If people are concerned about these distributional issues , we 've got educational policy , we 've got immigration policy , we 've got ( job ) training policy . "
+we,get.02,training policy,,Affirmative,"If people are concerned about these distributional issues , we 've got educational policy , we 've got immigration policy , we 've got ( job ) training policy . "
+Bernanke,say.01,There 's lots of stuff,,Affirmative,"There 's lots of stuff that can be done in Washington to address these issues , Bernanke said . "
+people,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+people,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+people,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+people,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+people,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+people,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+people,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

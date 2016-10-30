@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Dominique Strauss - Kahn,sue.01,the makers of Welcome,for defamation,Affirmative,Dominique Strauss - Kahn is to sue for defamation the makers of Welcome to New York - the scandal - struck film that is the talk of the Cannes festival - saying it contains accusations of rape . 
+the scandal-struck film that is the talk of the Cannes festival,contain.01,accusations of rape,,Affirmative,Dominique Strauss - Kahn is to sue for defamation the makers of Welcome to New York - the scandal - struck film that is the talk of the Cannes festival - saying it contains accusations of rape . 
+lawyer,see.01,has,,Affirmative,"The disgraced former International Monetary Fund chief 's lawyer has apparently not seen the film , which comes with a legal disclaimer but whose main character - played by Gérard Depardieu - has undeniable parallels with DSK , as he is known . "
+"the film ,",have.03,undeniable parallels with DSK,,Affirmative,"The disgraced former International Monetary Fund chief 's lawyer has apparently not seen the film , which comes with a legal disclaimer but whose main character - played by Gérard Depardieu - has undeniable parallels with DSK , as he is known . "
+"Jean Veil ,",tell.01,client was disgusted by,Europe1 radio,Affirmative,"However , Jean Veil , his lawyer , told Europe1 radio on Monday that his client was disgusted by the movie and had asked him to file a complaint for defamation because of the accusations and insinuations of rape throughout the film . "
+his client,ask.02,to file,him,Affirmative,"However , Jean Veil , his lawyer , told Europe1 radio on Monday that his client was disgusted by the movie and had asked him to file a complaint for defamation because of the accusations and insinuations of rape throughout the film . "
+Jean Veil,file.01,a complaint,,Affirmative,"However , Jean Veil , his lawyer , told Europe1 radio on Monday that his client was disgusted by the movie and had asked him to file a complaint for defamation because of the accusations and insinuations of rape throughout the film . "
+Mr Veil,describe.01,Europe1 radio,as,Affirmative,"Describing it as intolerable Mr Veil said : We have the right to fiction , but not the right to accuse . "
+Mr Veil,say.01,We have,,Affirmative,"Describing it as intolerable Mr Veil said : We have the right to fiction , but not the right to accuse . "
+the makers of Welcome to New York -- the scandal-struck film that is the talk of the Cannes festival -- saying it contains `` accusations of rape '',have.03,the right,,Affirmative,"Describing it as intolerable Mr Veil said : We have the right to fiction , but not the right to accuse . "
+DSK like everyone,have.03,the right,,Affirmative,"DSK like everyone has the right to be forgotten , he added . "
+Jean Veil,add.01,has,,Affirmative,"DSK like everyone has the right to be forgotten , he added . "
+DSK like everyone,say.01,Mr Strauss - Khan -,,Affirmative,"Talking about the film itself , which he said Mr Strauss - Khan - once tipped to be French president - has no intention of seeing , Mr Veil was unequivocal . "
+"the film itself ,",tip.03,to be,,Affirmative,"Talking about the film itself , which he said Mr Strauss - Khan - once tipped to be French president - has no intention of seeing , Mr Veil was unequivocal . "
+Mr Veil,say.01,complaint will be filed in,,Affirmative,"The complaint will be filed in a court in the coming days , Mr Veil said . "
+Mr Depardieu,say.01,film was,,Affirmative,"At a press conference after the film , Mr Depardieu said the film was a unique adventure because it 's drawn from a news item that everyone has read . "
+everyone,read.01,a news item,,Affirmative,"At a press conference after the film , Mr Depardieu said the film was a unique adventure because it 's drawn from a news item that everyone has read . "
+Miss Bisset,play.02,the part of,,Affirmative,"Miss Bisset plays the part of Anne Sinclair , DSK 's former wife and a journalist . "
+Anne Sinclair,say.01,she was sickened by,,Affirmative,"On Sunday , Miss Sinclair also said she was sickened by the film , claiming it was anti-Semitic . "
+by,sicken.01,Anne Sinclair,,Affirmative,"On Sunday , Miss Sinclair also said she was sickened by the film , claiming it was anti-Semitic . "
+Anne Sinclair,claim.01,it was anti-Semitic,,Affirmative,"On Sunday , Miss Sinclair also said she was sickened by the film , claiming it was anti-Semitic . "
+Anne Sinclair,edit.01,the French version of,,Affirmative,"Writing in the French version of the Huffington Post , which she edits , she said she was disgusted with the so - called face - to - face between the two principal characters , upon which the authors and producers of the film project their fantasies about money and Jews . "
+Anne Sinclair,say.01,she was disgusted with,,Affirmative,"Writing in the French version of the Huffington Post , which she edits , she said she was disgusted with the so - called face - to - face between the two principal characters , upon which the authors and producers of the film project their fantasies about money and Jews . "
+Anne Sinclair,say.01,she did not plan,,Affirmative,But she said she did not plan to sue the filmmaker as that would only provide more publicity for the film . 
+Anne Sinclair,plan.01,to sue,,Affirmative,But she said she did not plan to sue the filmmaker as that would only provide more publicity for the film . 
+Anne Sinclair,sue.01,the filmmaker,,Affirmative,But she said she did not plan to sue the filmmaker as that would only provide more publicity for the film . 
+"the French version of the Huffington Post , which she edits",provide.01,more publicity for,,Affirmative,But she said she did not plan to sue the filmmaker as that would only provide more publicity for the film . 
+Anne Sinclair,attack.01,filth,,Affirmative,I do not attack filth . 
+Anne Sinclair,write.01,I vomit it,,Affirmative,"I vomit it , she wrote . "
+"Mr Strauss - Kahn ,",assault.01,"Nafissatou Diallo ,",,Affirmative,"In May 2011 , Mr Strauss - Kahn , now 65 , was accused of sexually assaulting Nafissatou Diallo , a Sofitel chamber maid . "
+Mr Strauss-Kahn,reach.01,court civil settlement thought,,Affirmative,"Criminal charges were ultimately dropped and he reached an out - of - court civil settlement thought to be at least $ 1.5 million ( £890,000 ) . "

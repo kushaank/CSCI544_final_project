@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. Justice Department,file.01,criminal charges,,Affirmative,"The U.S. Justice Department has filed criminal charges against a handful of government authorities in China , alleging they 've stolen U.S. trade secrets via cyber warfare . "
+The U.S. Justice Department,allege.01,they 've stolen,,Affirmative,"The U.S. Justice Department has filed criminal charges against a handful of government authorities in China , alleging they 've stolen U.S. trade secrets via cyber warfare . "
+government authorities,steal.01,U.S. trade secrets,,Affirmative,"The U.S. Justice Department has filed criminal charges against a handful of government authorities in China , alleging they 've stolen U.S. trade secrets via cyber warfare . "
+NBC News,report.01,that it 's,,Affirmative,The charges are historic ; NBC News reported that it 's the first time in history that the United States has formally filed accusations over cyber espionage against another country . 
+the United States,file.01,accusations over,,Affirmative,The charges are historic ; NBC News reported that it 's the first time in history that the United States has formally filed accusations over cyber espionage against another country . 
+General Eric Holder,detail.01,the charges on Monday,,Affirmative,Attorney General Eric Holder is due to detail the charges on Monday . 
+NBC News,say.01,charges actually name,,Affirmative,But NBC said that the charges actually name several Chinese government workers . 
+criminal charges against a handful of government authorities,name.01,several Chinese government workers,,Affirmative,But NBC said that the charges actually name several Chinese government workers . 
+several Chinese government workers,use.01,facilities,to commit,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , one official said , to NBC . "
+several Chinese government workers,commit.02,cyber espionage against,,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , one official said , to NBC . "
+one official,say.01,They used,,Affirmative,"They used military and intelligence facilities to commit cyber espionage against U.S. companies , one official said , to NBC . "
+one source close to,tell.01,companies are believed,NBC,Affirmative,But one source close to the investigation told NBC that the companies are believed to be in the manufacturing and energy fields . 
+The White House,consider.01,China,,Affirmative,"The White House , meanwhile , has long considered China one of the biggest threats to America 's industrial sector in terms of taking secrets . "
+the Office of,say.01,actors are,,Affirmative,"Chinese actors are the world 's most active and persistent perpetrators of economic espionage , said the Office of the National Counterintelligence Executive , an agency within he U.S. government , in a 2011 report . "

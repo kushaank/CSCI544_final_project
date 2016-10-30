@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Analysts,expect.01,decreased profit for Target,,Affirmative,"Analysts expect decreased profit for Target when the company reports its first quarter results on Wednesday , May 21 , 2014 . "
+the company,report.01,"quarter results on Wednesday ,",,Affirmative,"Analysts expect decreased profit for Target when the company reports its first quarter results on Wednesday , May 21 , 2014 . "
+Target,report.01,profit of,,Affirmative,"Although Target reported profit of $ 1.05 a year ago , the consensus estimate calls for earnings per share of 70 cents . "
+the consensus estimate,call.03,for earnings per share of,,Affirmative,"Although Target reported profit of $ 1.05 a year ago , the consensus estimate calls for earnings per share of 70 cents . "
+Analysts,project.02,earnings of,,Affirmative,Analysts are projecting earnings of $ 3.99 per share for the fiscal year . 
+Revenue,eclipse.01,earlier total of,,Affirmative,"Revenue is projected to eclipse the year - earlier total of $ 16.71 billion by 2 % , finishing at $ 17.02 billion for the quarter . "
+the company,see.01,revenue increase for,,Affirmative,The company has seen revenue increase for two quarters in a row . 
+the company,see.01,a year-over-year drop in revenue,,Affirmative,"Over the last four quarters , the company saw a year-over-year drop in revenue by an average of 8 % . "
+Target,operate.01,discount stores,,Affirmative,Target operates general - merchandise and food discount stores in the United States . 
+"Costco Wholesale ,",report.01,"earnings on Thursday ,",,Affirmative,"Costco Wholesale , also in the retail ( specialty ) industry , will report earnings on Thursday , May 29 , 2014 . "
+Analysts,expect.01,earnings of,,Affirmative,"Analysts are expecting earnings of $ 1.09 per share for Costco , up 5 % from last year 's earnings of $ 1.04 per share . "
+by Zacks,provided.01,Earnings estimates provided by Zacks,,Affirmative,Earnings estimates provided by Zacks . 
+Narrative Science,transform.01,data,into stories and insights,Affirmative,"Narrative Science , through its proprietary artificial intelligence platform , transforms data into stories and insights . "

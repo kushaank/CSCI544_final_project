@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police in Carroll,continue.01,to investigate,,Affirmative,Police in Carroll continue to investigate a stabbing at a home on Main Street Friday . 
+Police in Carroll,investigate.01,a stabbing,,Affirmative,Police in Carroll continue to investigate a stabbing at a home on Main Street Friday . 
+Police in Carroll,tell.01,suffered,"KCCI that Christine Burtnett , 25 ,",Affirmative,"Police told KCCI that Christine Burtnett , 25 , suffered a stab would to the chest . "
+"KCCI that Christine Burtnett , 25 ,",suffer.01,a stab,,Affirmative,"Police told KCCI that Christine Burtnett , 25 , suffered a stab would to the chest . "
+Police in Carroll,say.01,was identified as,,Affirmative,"Police said Mark Lee , 27 , was identified as a person of interest in connection with the case . "
+ Police,locate.01,Mark Lee,,Affirmative, Police have so far been unable to locate him . 
+Police in Carroll,ask.02,to call 911,the public,Affirmative,Police are asking the public to call 911 to report any information about the case . 
+the public,call.02,911,,Affirmative,Police are asking the public to call 911 to report any information about the case . 
+the public,report.01,any information about,,Affirmative,Police are asking the public to call 911 to report any information about the case . 
+you,agree.01,to accept,,Affirmative,By posting your comments you agree to accept our terms of use . 
+you,accept.01,our terms of use,,Affirmative,By posting your comments you agree to accept our terms of use . 

@@ -1,0 +1,42 @@
+
+SAP apps are coming to Azure and BusinessObjects now talks to Microsoft Power BI, but in-memory cloud options for Hana, SQL Server must wait.
+
+Microsoft and SAP announced Monday that a range of SAP applications have been certified to run in Microsoft's Azure cloud. The long-time partners also announced new ties between SAP BusinessObjects and Microsoft Office and expanded joint options for mobile support.
+
+The biggest news is clearly the availability of SAP apps in Microsoft's cloud. SAP Business Suite applications and SAP Business All-In-One for small and midsized businesses are expected to be available for deployment on Azure by the end of June. The partners are promising elastic deployment using an SAP Cloud Appliance Library tool that can deploy a variety of virtual application configurations.
+
+"Customers can deploy these applications into Azure knowing that the configurations are tested, certified, and supported by SAP," said Microsoft's Takeshi Numoto, corporate VP of cloud, enterprise marketing, in a phone interview with InformationWeek. "They can take advantage of the flexibility and agility that cloud computing provides where you can spool up and down resources as needed and only pay for what you use."
+
+That flexibility applies to the computing capacity that customers will rent on Azure, but the software licensing side of the proposition is not elastic. SAP customers can bring existing software licenses to Azure, but they must be licensed to support peak workloads and cannot drop licenses when not in use.
+
+The database service options for running on Azure will include SAP Adaptive Server Enterprise (formerly Sybase ASE) and Microsoft SQL Server 2012. SAP is not yet certified on Microsoft SQL Server 2014, which is no surprise given that the latest version of Microsoft's flagship database was released in April. But it's somewhat surprising that only the developer edition of SAP's flagship in-memory database, SAP Hana, will be made available this summer.
+
+"This relationship around Azure is a stepping stone to many more solutions to come, and this is just the first wave," SAP's Kevin Ichhpurani, senior VP and head of business development, told InformationWeek. He was hinting that Hana will eventually support production deployments on Azure, but he declined to provide any forecast on what month, quarter, or even year that might happen.
+
+That's a contrast with an unprecedented Oracle-Microsoft partnership , announced last summer and introduced at Oracle Open World, through which Oracle applications and the flagship Oracle 12c Database are now available on Azure.
+
+Microsoft and SAP were also cagey about when SAP apps might be certified on SQL Server 2014. That upgrade is not an in-memory database, as Hana is, but it does offer an in-memory OLTP option that lets users run specific indexes in memory to dramatically speed data-intensive applications.
+
+The SAP Gateway for Microsoft now extends data access from the Office suite, including Excel, into BusinessObjects Universe data models.
+
+In-memory performance also figures in new ties between SAP BusinessObjects business intelligence software and Microsoft Office. Deeper integration through the SAP Gateway for Microsoft specifically lets Microsoft Excel users explore a BusinessObjects Universe (data model) and select data objects to explore and report against. The tools available from within Excel include Power BI for data visualization and PowerPivot for fast, in-memory data exploration in the spreadsheet interface.
+
+"This will empower the casual users because they can get at the data on the fly, as opposed to using the multiple [import] steps that were previously required," said Ichhpurani.
+
+Power BI also lets users blend data sets and tap into Microsoft reporting, analysis, and integration services that are part of the SQL Server platform.
+
+On the mobility front, SAP has 13 applications available that support Windows Mobile 8.1 and Windows Phone 8.1, and it announced that the SAP Mobile Platform -- which includes SAP Unwired middleware, Afaria for security, and the Syclo mobile apps platform -- will support the same operating systems by June. The development platform lets you build applications once and deploy to any supported mobile device, and the list will now include a range of Windows and Windows Phone devices.
+
+Join Enterprise Connect for an intensive day-long series of sessions in a free four-city road show focused on helping you design strategies for successful adoption and implementation of Microsoft's Lync. During this free program, we will help you evaluate Lync as a voice solution, address the challenges of integrating Lync into your existing UC architecture, and analyze total cost of ownership. Join your peers and leading vendor companies making Lync adoption possible in San Francisco, Chicago, Boston, and New York. Register for the Enterprise Connect Lync Tour today.
+
+Enhterprise applications will become cloud applications when users pay for what they use, not what they have a long term license for. This SAP move to the cloud is an interim step.
+
+HANA will not run on Azure 'cos HANA does not run on Windoze; today it runs on (a specifically kernel-modified version of) Suse Linux only. Also in a cloud env HANA will loose much of its edge anyway and SQL Server 2014 might just be looking a little too good and mature in comparison. So its prudent for SAP to avoid a showdown around HANA.
+
+To me this announcement means SAP isnt going for the kill with its own cloud platform. The 'platform' talk from Waldorf has gotten a lot less credible over the past weeks.
+
+Between SAPs apps and Microsoft's Azure cloud, there are probably just too many variables and too few "proven configurations" to roll out Hana-based app deployments at this point. Why else would SAP not make this available? It will be interesting to see Microsoft and Oracle highlighting SAP customers taking advantage of their in-memory capablities (available in SQL Server 2014 and yet to be added to Oracle 12c).
+
+UPCOMING!
+
+If you found this interesting or useful, please use the links to the services below to share it with other readers.  You will need a free account with each service to share an item via that service.

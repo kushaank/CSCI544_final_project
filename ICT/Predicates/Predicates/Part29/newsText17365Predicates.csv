@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Coeur d'Alene Press,report.01,Benjamin attended,,Affirmative,"The Coeur d'Alene Press reports 102 - year - old Orville Benjamin attended a recent class reunion at the school , visiting with old friends and fellow Park Elementary School alumni . "
+old Orville Benjamin,attend.01,a recent class reunion,,Affirmative,"The Coeur d'Alene Press reports 102 - year - old Orville Benjamin attended a recent class reunion at the school , visiting with old friends and fellow Park Elementary School alumni . "
+old Orville Benjamin,visit.01,with,,Affirmative,"The Coeur d'Alene Press reports 102 - year - old Orville Benjamin attended a recent class reunion at the school , visiting with old friends and fellow Park Elementary School alumni . "
+102-year-old Orville Benjamin,attend.01,Winton Elementary School,,Affirmative,He attended the school from 1923 through 1925 . 
+you,agree.01,to,,Affirmative,By posting your comments you agree to our Terms of Use . 
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

@@ -1,0 +1,9 @@
+1	The	the	DT	_	3	det	_
+2	Associated	associated	NNP	_	3	nn	_
+3	Press	press	NNP	_	4	nsubj	4:A0=PAG
+4	contributed	contribute	VBD	pb=contribute.01	0	root	_
+5	to	to	IN	_	4	prep	4:A2=GOL
+6	this	this	DT	_	7	det	_
+7	report	report	NN	_	5	pobj	_
+8	.	.	.	_	4	punct	_
+

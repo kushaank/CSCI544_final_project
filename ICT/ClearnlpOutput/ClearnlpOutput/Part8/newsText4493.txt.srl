@@ -1,0 +1,32 @@
+1	Sign	sign	VB	p2=VBN|pb=sign.03	0	root	_
+2	up	up	RP	p2=IN	1	prt	1:C-V
+3	to	to	TO	_	4	aux	_
+4	receive	receive	VB	pb=receive.01	1	advcl	1:AM-PRP
+5	our	our	PRP$	_	11	poss	_
+6	FREE	free	JJ	p2=NNP	11	amod	_
+7	daily	daily	JJ	p2=NN	11	amod	_
+8	Morning	morning	NNP	p2=NN	11	nn	_
+9	10	0	CD	_	8	num	_
+10	email	email	NN	_	11	nn	_
+11	newsletter	newsletter	NN	_	4	dobj	4:A1=PPT
+12	.	.	.	_	1	punct	_
+
+1	Start	start	VB	pb=start.01	0	root	_
+2	your	your	PRP$	_	3	poss	_
+3	day	day	NN	_	1	dobj	1:A1=PPT
+4	with	with	IN	_	1	prep	1:A2=MNR
+5	a	a	DT	_	6	det	_
+6	roundup	roundup	NN	_	4	pobj	_
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	day	day	NN	_	13	poss	_
+10	's	's	POS	_	9	possessive	_
+11	top	top	JJ	_	13	amod	_
+12	business	business	NN	_	13	nn	_
+13	headlines	headline	NNS	p2=VBZ	7	pobj	_
+14	from	from	IN	_	13	prep	_
+15	around	around	IN	_	14	prep	_
+16	the	the	DT	_	17	det	_
+17	Web	web	NN	_	15	pobj	_
+18	.	.	.	_	1	punct	_
+

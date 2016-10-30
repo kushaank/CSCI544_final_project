@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the company,expect.01,to begin delivering to customers,,Affirmative,"Greensboro - based Honda Aircraft Co. , a wholly - owned subsidiary of American Honda Motor Co. ( NYSE : HMC ) , made a series of announcements on Monday related to the progress of a $ 4.5 million lightweight jet that the company expects to begin delivering to customers by early 2015 . "
+the company,begin.01,delivering to customers,,Affirmative,"Greensboro - based Honda Aircraft Co. , a wholly - owned subsidiary of American Honda Motor Co. ( NYSE : HMC ) , made a series of announcements on Monday related to the progress of a $ 4.5 million lightweight jet that the company expects to begin delivering to customers by early 2015 . "
+Honda Aircraft Co.,expect.01,to obtain,,Affirmative,Honda expects to obtain aircraft type certification from the Federal Aviation Administration in the first quarter of 2015 and begin deliveries thereafter . 
+Honda Aircraft Co.,obtain.01,type certification,from,Affirmative,Honda expects to obtain aircraft type certification from the Federal Aviation Administration in the first quarter of 2015 and begin deliveries thereafter . 
+Honda Aircraft Co.,begin.01,deliveries,,Affirmative,Honda expects to obtain aircraft type certification from the Federal Aviation Administration in the first quarter of 2015 and begin deliveries thereafter . 
+Honda Aircraft Co.,unveil.01,its first production aircraft on Monday,,Affirmative,"Honda unveiled its first production aircraft on Monday , which features a new paint scheme of deep pearl green with a gold stripe . "
+its first production aircraft on Monday,feature.01,a new paint scheme of,,Affirmative,"Honda unveiled its first production aircraft on Monday , which features a new paint scheme of deep pearl green with a gold stripe . "
+Honda Aircraft Co.,say.01,it will soon begin,,Affirmative,"Honda Aircraft said it will soon begin ground tests on the aircraft , with the first flight slated this summer . "
+it,begin.01,ground tests,,Affirmative,"Honda Aircraft said it will soon begin ground tests on the aircraft , with the first flight slated this summer . "
+the company,expect.01,to have,,Affirmative,The company expects to have 10 aircraft on the final assembly line in June . 
+the company,have.03,10 aircraft,,Affirmative,The company expects to have 10 aircraft on the final assembly line in June . 
+the company,say.01,is complete and,,Affirmative,"The first flight simulator for flight training is complete and software integration is underway , the company said . "
+Honda Aircraft Co.,say.01,will begin before entry into service,,Affirmative,Honda said the training at its world headquarters will begin before entry into service . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

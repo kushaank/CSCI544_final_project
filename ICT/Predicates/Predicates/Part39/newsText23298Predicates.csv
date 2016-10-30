@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the Bharatiya Janata Party ( BJP ),win.01,any seat in,,Affirmative,"Despite strong presence of Sangh Parivar , the Bharatiya Janata Party ( BJP ) failed to win any seat in communally volatile Kandhamal district of Odisha in the recently concluded Lok Sabha and Assembly polls . "
+by,win.01,Sabha seat,,Affirmative,"The Kandhamal Lok Sabha seat was won by the BJD candidate , Hemendra Chandra Singh who defeated his Congress rival and former State minister Harihar Karan by a margin of 2,40,441 votes . "
+"the BJD candidate ,",defeat.01,his Congress rival and,,Affirmative,"The Kandhamal Lok Sabha seat was won by the BJD candidate , Hemendra Chandra Singh who defeated his Congress rival and former State minister Harihar Karan by a margin of 2,40,441 votes . "
+candidate Sukant Panigrahy,receive.01,"1,08,774 votes",,Affirmative,"The BJP candidate Sukant Panigrahy received 1,08,774 votes to be in third place . "
+Sabha seat,contain.01,assembly segments in,,Affirmative,"Kandhamal Lok Sabha seat contains Phulbani , G.Udaygiri and Baliguda assembly segments in Kandhamal district , Boudh and Kantamal in Boudh district , Bhanjanagar in Ganjam district and Daspalla in Nayagarh district . "
+by,win.01,The Kandhamal Lok Sabha seat,,Affirmative,"Earlier , this Lok Sabha constituency was named Phulbani and in 2009 , this seat had been won by the BJD candidate Rudramadhav Mishra . "
+by,win.01,Phulbani seat,,Affirmative,In the 2009 assembly elections the BJP had won from Baliguda and G.Udaygiri assembly seats while Phulbani seat had been won by the BJD . 
+The BJP,repeat.01,its magic,,Affirmative,But the BJP failed to repeat its magic this time . 
+by,win.01,The Baliguda seat,,Affirmative,The Baliguda seat was won by the BJD candidate Rajiv Patra . 
+candidate Jacob Pradhan,defeat.01,his nearest Congress,,Affirmative,"Despite the strong pro-BJD wave throughout the State , Congress candidate Jacob Pradhan won from this seat defeating his nearest Congress rival by a margin of 10,289 votes . "
+the BJD,change.01,The BJP candidate Manoj Pradhan,,Affirmative,"In the Phulbani assembly seat , the BJD had changed its candidate . "
+place of its,field.01,"candidate Duguni Kanhar ,",,Affirmative,"In place of its sitting MLA Debendra Kanhar , it had fielded a new candidate Duguni Kanhar , who also won . "

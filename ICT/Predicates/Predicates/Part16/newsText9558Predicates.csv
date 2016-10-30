@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+The U.S. Supreme Court,refuse.01,to block,,Affirmative,The U.S. Supreme Court has refused to block state court rulings requiring New Orleans to pay $ 17.5 million for its share of the fire department 's retirement fund for 2010 through 2012 . 
+The U.S. Supreme Court,block.01,court rulings requiring,,Affirmative,The U.S. Supreme Court has refused to block state court rulings requiring New Orleans to pay $ 17.5 million for its share of the fire department 's retirement fund for 2010 through 2012 . 
+court rulings requiring,require.01,to pay,New Orleans,Affirmative,The U.S. Supreme Court has refused to block state court rulings requiring New Orleans to pay $ 17.5 million for its share of the fire department 's retirement fund for 2010 through 2012 . 
+New Orleans,pay.01,$ 17.5 million,,Affirmative,The U.S. Supreme Court has refused to block state court rulings requiring New Orleans to pay $ 17.5 million for its share of the fire department 's retirement fund for 2010 through 2012 . 
+The Landrieu administration,stop.01,making,,Affirmative,The Landrieu administration stopped making full monthly payments to the fund in July 2010 . 
+the city 's,say.01,it could n't afford,,Affirmative,"The city said it could n't afford the payments , and argued that ambiguities in the law give the mayor discretion over the amount of the city contribution . "
+the city 's,afford.01,full monthly payments,,Affirmative,"The city said it could n't afford the payments , and argued that ambiguities in the law give the mayor discretion over the amount of the city contribution . "
+the city 's,argue.01,give,,Affirmative,"The city said it could n't afford the payments , and argued that ambiguities in the law give the mayor discretion over the amount of the city contribution . "
+ambiguities in,give.01,discretion over,the mayor,Affirmative,"The city said it could n't afford the payments , and argued that ambiguities in the law give the mayor discretion over the amount of the city contribution . "
+the city 's,say.01,have driven up,,Affirmative,The city also says poor investments by the Firefighters Pension Board have driven up the city 's contribution amount . 
+poor investments by,drive.02,contribution amount,up,Affirmative,The city also says poor investments by the Firefighters Pension Board have driven up the city 's contribution amount . 
+the city 's,ask.02,to stay implementation of,the U.S. Supreme Court,Affirmative,The city had asked the U.S. Supreme Court to stay implementation of the state ruling pending an appeal . 
+Mayor Andy Kopplin,say.01,city is reviewing,,Affirmative,Deputy Mayor Andy Kopplin said Monday the city is reviewing its options . 
+the city 's,review.01,its options,,Affirmative,Deputy Mayor Andy Kopplin said Monday the city is reviewing its options . 
+Deputy Mayor Andy Kopplin,say.01,judgment will be devastating to,,Affirmative,He says the judgment will be devastating to the city budget . 
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,dont.01,see it,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,see.01,the verification email,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

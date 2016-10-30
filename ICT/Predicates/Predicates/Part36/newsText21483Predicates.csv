@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The anti-corruption bureau,nab.01,a class one government officer,,Affirmative,VADODARA : The anti-corruption bureau ( ACB ) nabbed a class one government officer on Sunday while allegedly accepting a bribe of Rs one lakh . 
+The anti-corruption bureau,accept.01,a bribe of Rs,,Affirmative,VADODARA : The anti-corruption bureau ( ACB ) nabbed a class one government officer on Sunday while allegedly accepting a bribe of Rs one lakh . 
+by,arrest.01,"Kantilal Parmar , 58 ,",,Affirmative,"Kantilal Parmar , 58 , was arrested by the ACB sleuths near Sun City in Manjalpur area . "
+by,lay.01,The trap,on,Affirmative,The trap was laid by ACB sleuths on the basis of a complaint registered by Ashok Patel who had applied for loan subsidy . 
+by,register.02,a complaint registered by,,Affirmative,The trap was laid by ACB sleuths on the basis of a complaint registered by Ashok Patel who had applied for loan subsidy . 
+Ashok Patel,apply.02,for,,Affirmative,The trap was laid by ACB sleuths on the basis of a complaint registered by Ashok Patel who had applied for loan subsidy . 
+Ashok Patel who had applied for loan subsidy,tell.01,that Parmar had sought,the ACB,Affirmative,Patel told the ACB that Parmar had sought a bribe of Rs 1.10 lakh from him some days ago . 
+Kantilal Parmar,seek.01,a bribe of Rs,from him,Affirmative,Patel told the ACB that Parmar had sought a bribe of Rs 1.10 lakh from him some days ago . 
+Ashok Patel who had applied for loan subsidy,apply.02,for,,Affirmative,"According to ACB officials , Patel had applied for loan subsidy under the National Agriculture Development Plan run by state government for buying agricultural machinery . "
+by,run.01,Development Plan run by,,Affirmative,"According to ACB officials , Patel had applied for loan subsidy under the National Agriculture Development Plan run by state government for buying agricultural machinery . "
+The accused,demand.01,Rs 1.10,lakh from Patel,Affirmative,The accused demanded Rs 1.10 lakh from Patel for releasing the cheque . 
+"Patel ,",give.01,"10,000",Rs,Affirmative,"Patel , a resident of Dabhoi , gave Rs 10,000 some days ago but when Parmar demanded Rs one lakh the former decided to approach ACB . "
+Kantilal Parmar,demand.01,Rs one lakh,,Affirmative,"Patel , a resident of Dabhoi , gave Rs 10,000 some days ago but when Parmar demanded Rs one lakh the former decided to approach ACB . "
+the former,decide.01,to approach ACB,,Affirmative,"Patel , a resident of Dabhoi , gave Rs 10,000 some days ago but when Parmar demanded Rs one lakh the former decided to approach ACB . "
+The ACB,decide.01,to lay,,Affirmative,The ACB then decided to lay a trap with the help of Patel . 
+The ACB,lie.01,a trap,with,Affirmative,The ACB then decided to lay a trap with the help of Patel . 
+The complainant,contact.01,Kantilal Parmar,,Affirmative,The complainant contacted Parmar and agreed to pay up Rs one lakh . 
+The complainant,agree.01,to pay up Rs,,Affirmative,The complainant contacted Parmar and agreed to pay up Rs one lakh . 
+The complainant,pay.01,one lakh,Rs,Affirmative,The complainant contacted Parmar and agreed to pay up Rs one lakh . 
+Ashok Patel who had applied for loan subsidy,meet.02,Kantilal Parmar,,Affirmative,Patel met Parmar by roadside and gave him Rs one lakh . 
+Ashok Patel who had applied for loan subsidy,give.01,Rs,him,Affirmative,Patel met Parmar by roadside and gave him Rs one lakh . 
+The ACB,catch.01,Kantilal Parmar,red - handed,Affirmative,The ACB caught Parmar red - handed and recovered the money . 
+The ACB,recover.02,the money,,Affirmative,The ACB caught Parmar red - handed and recovered the money . 
+the ACB sleuths,do.02,video and,,Affirmative,ACB sleuths also did video and audio recording of the incident . 

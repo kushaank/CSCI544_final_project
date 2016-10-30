@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+MCINTIRE,|.01,year - old from Riceville,,Affirmative,"MCINTIRE | A 19 - year - old from Riceville was killed Monday in a two - vehicle crash east of McIntire , in Mitchell County . "
+County Sheriff Greg Beaver,confirm.01,Gaffey died in,,Affirmative,"Ryan Gaffey died in the crash , confirmed Mitchell County Sheriff Greg Beaver . "
+Mitchell County Sheriff Greg Beaver,say.01,crash happened at,,Affirmative,"Beaver said the crash happened at 12:30 p.m. on 430th Street , one mile east of McIntire . "
+Ryan Gaffey,travel.01,north,,Affirmative,Gaffey was traveling north on Windfall Avenue when he collided with a semitrailer truck which was traveling east . 
+Ryan Gaffey,collide.01,with,,Affirmative,Gaffey was traveling north on Windfall Avenue when he collided with a semitrailer truck which was traveling east . 
+a semitrailer truck,travel.01,east,,Affirmative,Gaffey was traveling north on Windfall Avenue when he collided with a semitrailer truck which was traveling east . 
+Mitchell County Sheriff Greg Beaver,say.01,it appeared,,Affirmative,"Beaver said it appeared Gaffey , who was driving a pickup truck , failed to stop at a stop sign and pulled out in front of the semi . "
+"Gaffey ,",drive.01,a pickup truck,,Affirmative,"Beaver said it appeared Gaffey , who was driving a pickup truck , failed to stop at a stop sign and pulled out in front of the semi . "
+by,transport.01,Ryan Gaffey,to,Affirmative,"Gaffey was transported to Mitchell County Regional Health Care Center by Riceville Ambulance , where he was pronounced dead . "
+Beaver,say.01,investigation continues,,Affirmative,Beaver said the investigation continues . 

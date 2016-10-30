@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. Center for,announce.01,", was allegedly tested positive for",,Affirmative,"The U.S. Center for Disease Control ( CDC ) announced that an Illinois man , who refused to be publicly named , was allegedly tested positive for the Middle East Respiratory Syndrome ( MERS ) virus last Saturday , May 17 . "
+"an Illinois man ,",refuse.01,to be publicly named,,Affirmative,"The U.S. Center for Disease Control ( CDC ) announced that an Illinois man , who refused to be publicly named , was allegedly tested positive for the Middle East Respiratory Syndrome ( MERS ) virus last Saturday , May 17 . "
+the first,confirm.01,case in,,Affirmative,"If further tests will be conducted , he will be the third case of the MERS virus , two weeks after the first confirmed case in the U.S. Health officials said the Illinois resident tested positive for MERS after being in contact with an infected patient , U.S. officials said on Saturday . "
+an Illinois man,have.03,a close contact with,,Affirmative,"According to CDC , the man had a close contact with the Indiana patient , the first to contract the virus in the U.S. The Indiana patient had less - than - an - hour business meeting with the Illinois man last April 25 . "
+the first confirmed case in the U.S. Health officials,have.03,hour business meeting with,,Affirmative,"According to CDC , the man had a close contact with the Indiana patient , the first to contract the virus in the U.S. The Indiana patient had less - than - an - hour business meeting with the Illinois man last April 25 . "
+The second patient,catch.01,the virus in the U.S.,,Affirmative,The second patient was thought to catch the virus abroad . 
+the Illinois resident,possess.01,no signs or symptoms of,,Affirmative,"Like the first patient from Indiana , the Illinois resident possessed no signs or symptoms of the deadly virus . "
+U.S. health officials,trace.02,possible milder forms of MERS in,,Affirmative,U.S. health officials are now tracing possible milder forms of MERS in the country . 
+researchers,start.01,to investigate,,Affirmative,"With this recent MERS case finding , researchers start to investigate if MERS infected patients who show no symptoms can pass the virus to others . "
+infected patients,show.01,symptoms can pass,,Affirmative,"With this recent MERS case finding , researchers start to investigate if MERS infected patients who show no symptoms can pass the virus to others . "
+no symptoms,pass.01,the virus,to others,Affirmative,"With this recent MERS case finding , researchers start to investigate if MERS infected patients who show no symptoms can pass the virus to others . "
+Reports,say.01,"resident had been feeling well , and required",,Affirmative,"Reports say that the Illinois resident had been feeling well , and required no medical care or attention . "
+the Illinois resident,feel.01,well,,Affirmative,"Reports say that the Illinois resident had been feeling well , and required no medical care or attention . "
+the Illinois resident,require.01,no medical care or attention,,Affirmative,"Reports say that the Illinois resident had been feeling well , and required no medical care or attention . "
+a blood test,reveal.01,man had developed antibodies to MERS,,Affirmative,"Though a blood test revealed the Illinois man had developed antibodies to MERS , health officials quickly asserted that the man may have caught the virus . "
+the Illinois man,develop.02,antibodies,to MERS,Affirmative,"Though a blood test revealed the Illinois man had developed antibodies to MERS , health officials quickly asserted that the man may have caught the virus . "
+health officials,assert.03,man may have caught,,Affirmative,"Though a blood test revealed the Illinois man had developed antibodies to MERS , health officials quickly asserted that the man may have caught the virus . "
+the man,catch.01,the virus,,Affirmative,"Though a blood test revealed the Illinois man had developed antibodies to MERS , health officials quickly asserted that the man may have caught the virus . "
+CDC officials,state.01,test is,,Affirmative,CDC officials stated that the blood test is an insufficient basis to consider the Illinois resident a confirmed MERS case . 
+CDC 's,continue.01,test only revealed antibodies but,,Affirmative,CDC continued that the blood test only revealed antibodies but not the actual virus itself . 
+an insufficient basis to consider the Illinois resident a confirmed MERS case,reveal.01,antibodies,,Affirmative,CDC continued that the blood test only revealed antibodies but not the actual virus itself . 
+Doctor David Swerdlow,say.01,had contact with,,Affirmative,"CDC 's Doctor David Swerdlow said that the first MERS patient in the U.S. had contact with 50 other people before but resulted negative to the tests , but are subject to more tests . "
+the first MERS patient in,have.03,contact with,,Affirmative,"CDC 's Doctor David Swerdlow said that the first MERS patient in the U.S. had contact with 50 other people before but resulted negative to the tests , but are subject to more tests . "
+it,claim.01,173 lives,,Affirmative,"MERS was first discovered in Saudi Arabia in 2012 , and it has since claimed 173 lives . "
+by it,kill.01,About a third of those,,Affirmative,"About a third of those who have contracted the virus have been killed by it , wrote The Verge . "
+The Verge,write.01,have been killed by it,,Affirmative,"About a third of those who have contracted the virus have been killed by it , wrote The Verge . "
+We,value.01,your privacy,,Affirmative,We value your privacy . 

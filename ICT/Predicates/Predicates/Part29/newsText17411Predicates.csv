@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mr. Bowen,say.01,He is,,Affirmative,"He is a person of consequence , Mr. Bowen said . "
+a person of consequence,say.01,"he told students ,",,Affirmative,"He said he told students , If you expect to agree with commencement speakers on everything , then who will you get to speak ? "
+a person of consequence,tell.01,will you get,students,Affirmative,"He said he told students , If you expect to agree with commencement speakers on everything , then who will you get to speak ? "
+Mr. Bowen,expect.01,to agree with,,Affirmative,"He said he told students , If you expect to agree with commencement speakers on everything , then who will you get to speak ? "
+Mr. Bowen,agree.01,with,,Affirmative,"He said he told students , If you expect to agree with commencement speakers on everything , then who will you get to speak ? "
+Someone totally boring . '',add.01,that he also called,,Affirmative,He added that he also called the subset of students who had objected to Dr. Birgeneau immature and arrogant . 
+Someone totally boring . '',call.01,the subset of students,,Affirmative,He added that he also called the subset of students who had objected to Dr. Birgeneau immature and arrogant . 
+students,object.01,to,,Affirmative,He added that he also called the subset of students who had objected to Dr. Birgeneau immature and arrogant . 
+students about,read the.01,Great Gatsby be,,Affirmative,"Should students about to read The Great Gatsby be forewarned about a variety of scenes that reference gory , abusive and misogynistic violence , as one Rutgers student proposed ? "
+scenes,reference.01,violence,,Affirmative,"Should students about to read The Great Gatsby be forewarned about a variety of scenes that reference gory , abusive and misogynistic violence , as one Rutgers student proposed ? "
+any,book.01,that addresses,,Affirmative,Would any book that addresses racism - like The Adventures of Huckleberry Finn or Things Fall Apart  - have to be preceded by a note of caution ? 
+by,precede.01,Apart ,,Affirmative,Would any book that addresses racism - like The Adventures of Huckleberry Finn or Things Fall Apart  - have to be preceded by a note of caution ? 
+The debate,leave.02,many academics,fuming,Affirmative,"The debate has left many academics fuming , saying that professors should be trusted to use common sense and that being provocative is part of their mandate . "
+The debate,fume.01,many academics,,Affirmative,"The debate has left many academics fuming , saying that professors should be trusted to use common sense and that being provocative is part of their mandate . "
+The debate,say.01,that professors should be trusted,,Affirmative,"The debate has left many academics fuming , saying that professors should be trusted to use common sense and that being provocative is part of their mandate . "
+professors,use.01,common sense,,Affirmative,"The debate has left many academics fuming , saying that professors should be trusted to use common sense and that being provocative is part of their mandate . "
+they,say.01,say suggest,,Affirmative,"Trigger warnings , they say suggest a certain fragility of mind that higher learning is meant to challenge , not embrace . "
+Trigger warnings,suggest.01,a certain fragility of mind,,Affirmative,"Trigger warnings , they say suggest a certain fragility of mind that higher learning is meant to challenge , not embrace . "
+Resisting,have.03,nothing,,Affirmative,"Resisting the culture of offense has nothing to do with permitting obscenity to run amok , letting kindergarteners play with knives , or sitting in dumb silence while social injustice blazes forward . "
+Most people,realize.01,Spectator is published by,,Affirmative,"Most people do n't realize that The American Spectator is published by a non-profit , The American Spectator Foundation . "
+by,publish.01,The American Spectator,,Affirmative,"Most people do n't realize that The American Spectator is published by a non-profit , The American Spectator Foundation . "

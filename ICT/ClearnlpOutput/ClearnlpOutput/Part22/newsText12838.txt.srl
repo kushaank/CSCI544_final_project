@@ -1,0 +1,112 @@
+1	He	he	PRP	_	3	nsubjpass	3:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	charged	charge	VBN	pb=charge.05	0	root	_
+4	with	with	IN	_	3	prep	3:A2=PRD
+5	possession	possession	NN	_	4	pobj	_
+6	of	of	IN	_	5	prep	_
+7	incendiary	incendiary	JJ	p2=NN	8	amod	_
+8	material	material	NN	_	6	pobj	_
+9	,	,	,	_	8	punct	_
+10	possession	possession	NN	_	8	conj	_
+11	of	of	IN	_	10	prep	_
+12	a	a	DT	_	15	det	_
+13	weapon for	weapon for	JJ	p2=``	15	amod	_
+14	dangerous	dangerous	JJ	_	15	amod	_
+15	purpose	purpose	NN	_	11	pobj	_
+16	,	,	,	_	10	punct	_
+17	using	use	VBG	pb=use.01	10	conj	_
+18	explosives	explosive	NNS	_	17	dobj	17:A1=PPT
+19	and	and	CC	_	18	cc	_
+20	possession	possession	NN	_	18	conj	_
+21	without	without	IN	_	17	prep	17:AM-MNR
+22	lawful	lawful	JJ	_	23	amod	_
+23	excuse	excuse	NN	_	21	pobj	_
+24	.	.	.	_	3	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A1=PPT
+2	remains	remain	VBZ	pb=remain.01	0	root	_
+3	in	in	IN	_	2	prep	2:A3=PRD
+4	custody	custody	NN	_	3	pobj	_
+5	pending	pending	VBG	_	2	advcl	2:AM-ADV
+6	a	a	DT	_	8	det	_
+7	psychiatric	psychiatric	JJ	_	8	amod	_
+8	evaluation	evaluation	NN	_	5	dobj	_
+9	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	was	be	VBD	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	person	person	NN	_	2	attr	2:A2=PRD
+5	close	close	JJ	_	4	amod	_
+6	to	to	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	suspect	suspect	NN	_	6	pobj	10:A0=PAG
+9	who	who	WP	_	10	nsubj	10:R-A0
+10	notified	notify	VBD	pb=notify.01	8	rcmod	_
+11	police	police	NNS	p2=NN	10	dobj	_
+12	about the	about the	DT	p2=VBD	13	det	_
+13	presence	presence	NN	_	10	dobj	10:A1=GOL
+14	of	of	IN	_	13	prep	_
+15	explosive	explosive	JJ	_	16	amod	_
+16	materials	material	NNS	_	14	pobj	_
+17	in	in	IN	_	10	prep	10:A2=PPT
+18	the	the	DT	_	19	det	_
+19	family	family	NN	_	21	poss	_
+20	's	's	POS	_	19	possessive	_
+21	triplex	triplex	NN	_	17	pobj	_
+22	.	.	.	_	2	punct	_
+
+1	Antunes	antunes	NNS	p2=NNP	3	hmod	_
+2	-	-	HYPH	p2=:	3	hyph	_
+3	Barros	barros	NNP	_	5	nsubjpass	_
+4	was	be	VBD	_	5	auxpass	_
+5	arrested	arrest	VBN	pb=arrest.01	0	root	_
+6	downtown	downtown	NN	p2=RP	5	dobj	5:A1=PPT
+7	on	on	IN	_	5	prep	5:AM-TMP
+8	Saturday	saturday	NNP	_	7	pobj	_
+9	several	several	JJ	_	10	amod	_
+10	hours	hour	NNS	_	13	npadvmod	_
+11	after	after	IN	_	13	mark	_
+12	police	police	NN	p2=NNS	13	nsubj	13:A0=PAG
+13	began	begin	VBD	pb=begin.01	5	advcl	5:AM-TMP
+14	its	its	PRP$	_	15	poss	_
+15	operation	operation	NN	_	13	dobj	13:A1=PPT
+16	on Robertine Barry	on robertine barry	NNP	p2=IN	17	nn	_
+17	Street	street	NNP	_	15	appos	_
+18	near	near	IN	p2=RB	13	prep	_
+19	Alice Nolin Street	alice nolin street	NNP	_	22	nn	_
+20	in Ahuntsic	in ahuntsic	NNP	p2=JJ	22	hmod	_
+21	-	-	HYPH	_	22	hyph	_
+22	Cartierville	cartierville	NNP	_	18	pobj	_
+23	.	.	.	_	5	punct	_
+
+1	Specialists	specialist	NNS	_	6	nsubj	6:A0=PAG
+2	with	with	IN	_	1	prep	_
+3	the	the	DT	_	5	det	_
+4	Montreal	montreal	NNP	p2=JJ	5	nn	_
+5	police	police	NNS	p2=NN	2	pobj	_
+6	used	use	VBD	pb=use.01	0	root	_
+7	a	a	DT	_	11	det	_
+8	bomb	bomb	NN	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	defusing	defuse	VBG	p2=NN	11	amod	_
+11	robot	robot	NN	_	6	dobj	6:A1=PPT
+12	in	in	IN	_	6	prep	6:AM-LOC
+13	the	the	DT	_	17	det	_
+14	15	0	CD	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	hour	hour	NN	_	17	nn	_
+17	operation	operation	NN	_	12	pobj	_
+18	,	,	,	_	17	punct	_
+19	during	during	IN	_	25	prep	_
+20	which	which	WDT	_	19	pobj	_
+21	a	a	DT	_	22	det	_
+22	number	number	NN	_	25	nsubj	28:A1=DIR
+23	of	of	IN	_	22	prep	_
+24	homes	home	NNS	_	23	pobj	_
+25	had	have	VBD	pb=have.02	17	rcmod	_
+26	to	to	TO	_	28	aux	_
+27	be	be	VB	_	28	auxpass	_
+28	evacuated	evacuate	VBN	pb=evacuate.01	25	xcomp	_
+29	.	.	.	_	6	punct	_
+

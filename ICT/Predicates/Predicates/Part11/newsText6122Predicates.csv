@@ -1,0 +1,64 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a judge,sentence.01,David Chalue,to,Affirmative,"SPRINGFIELD - Doling out the maximum punishment allowed under state law , a judge Monday sentenced David Chalue to three consecutive life sentences , without the possibility of parole , for the killing of three Pittsfield men in 2011 . "
+Judge C. Jeffrey Kinder,say.01,"victims were tortured , murdered and mutilated in",,Affirmative,"The victims were tortured , murdered and mutilated in a way that is depraved , said Hampden Superior Court Judge C. Jeffrey Kinder . "
+David Chalue,wear.01,gray jail,,Affirmative,"Before being sentenced , Chalue , wearing gray jail issued clothing and his hands in cuffs , sat quietly listening with little outward emotion to victim impact statements from the friends and family of the victims -- David Glasser , Edward Frampton and Robert Chadwell . "
+David Chalue,issue.01,clothing and,,Affirmative,"Before being sentenced , Chalue , wearing gray jail issued clothing and his hands in cuffs , sat quietly listening with little outward emotion to victim impact statements from the friends and family of the victims -- David Glasser , Edward Frampton and Robert Chadwell . "
+by,read.01,a statement read by,,Affirmative,"In a statement read by Berkshire District Attorney David F. Capeless , Chadwell 's daughter , Ashleye Hall , said Chalue was evil . "
+Chadwell 's daughter,say.01,he deserved,,Affirmative,She said he deserved to suffer and that she hoped he spent the rest of his life behind bars . 
+David F. Capeless,deserve.01,to suffer,,Affirmative,She said he deserved to suffer and that she hoped he spent the rest of his life behind bars . 
+Chadwell 's daughter,hope.01,he spent,,Affirmative,She said he deserved to suffer and that she hoped he spent the rest of his life behind bars . 
+David F. Capeless,spend.02,the rest of,behind bars,Affirmative,She said he deserved to suffer and that she hoped he spent the rest of his life behind bars . 
+the rest of his life,make.02,heart hurt,,Affirmative,"It makes my heart hurt , she said of losing her father . "
+Chadwell 's daughter,say.01,It makes,,Affirmative,"It makes my heart hurt , she said of losing her father . "
+Chadwell 's daughter,lose.02,her father,,Affirmative,"It makes my heart hurt , she said of losing her father . "
+the rest of his life,shatter.01,his life,,Affirmative,It shattered my life . 
+"Carol Chadwell Smith ,",thank.01,the jury,,Affirmative,"Carol Chadwell Smith , Robert Chadwell 's sister , thanked the jury and asked the judge to bring closure in the family by giving Chalue the maximum sentence . "
+"Carol Chadwell Smith ,",ask.02,to bring closure in,the judge,Affirmative,"Carol Chadwell Smith , Robert Chadwell 's sister , thanked the jury and asked the judge to bring closure in the family by giving Chalue the maximum sentence . "
+"a judge Monday sentenced David Chalue to three consecutive life sentences , without the possibility of parole",bring.01,closure,,Affirmative,"Carol Chadwell Smith , Robert Chadwell 's sister , thanked the jury and asked the judge to bring closure in the family by giving Chalue the maximum sentence . "
+an agency,provide.01,support,to people with,Affirmative,"Erin Forbush , who works for ServiceNet , an agency that provides support to people with developmental disabilities , spoke on behalf of Frampton . "
+Erin Forbush,say.01,had,,Affirmative,"She was close to Frampton , a client who she said had a fun and quirky sense of humor . "
+death,leave.02,personal loss for all,,Affirmative,"Ed 's death leaves a very personal loss for all who loved him and to those that were touched by Ed 's love and humor , she said , going on to say that he was also an advocate for the developmentally disabled . "
+all,love.01,Ed 's,,Affirmative,"Ed 's death leaves a very personal loss for all who loved him and to those that were touched by Ed 's love and humor , she said , going on to say that he was also an advocate for the developmentally disabled . "
+by,touch.01,those,,Affirmative,"Ed 's death leaves a very personal loss for all who loved him and to those that were touched by Ed 's love and humor , she said , going on to say that he was also an advocate for the developmentally disabled . "
+Erin Forbush,say.01,death leaves,,Affirmative,"Ed 's death leaves a very personal loss for all who loved him and to those that were touched by Ed 's love and humor , she said , going on to say that he was also an advocate for the developmentally disabled . "
+those that were touched by Ed 's love and humor,say.01,death was,,Affirmative,"His death was a loss for advocacy and education , she said . "
+David F. Capeless,say.01,crimes were,,Affirmative,Capeless said the crimes were a brutal assault on the victims and the justice system and deplored Chalue 's cowardly and loathsome display by committing the crimes and then bragging about it . 
+David F. Capeless,ask.02,to show,the court,Affirmative,He asked the court to show no more mercy in sentencing than Chalue showed the victims and to give him consecutive life sentences for the three murders and nine to 10 years on the other charges . 
+the court,show.01,no more mercy,,Affirmative,He asked the court to show no more mercy in sentencing than Chalue showed the victims and to give him consecutive life sentences for the three murders and nine to 10 years on the other charges . 
+David Chalue,show.01,The victims,,Affirmative,He asked the court to show no more mercy in sentencing than Chalue showed the victims and to give him consecutive life sentences for the three murders and nine to 10 years on the other charges . 
+David Chalue,give.01,consecutive life sentences for,him,Affirmative,He asked the court to show no more mercy in sentencing than Chalue showed the victims and to give him consecutive life sentences for the three murders and nine to 10 years on the other charges . 
+attorney Donald W. Frank,say.01,client is not,,Affirmative,"Defense attorney Donald W. Frank said his client is not a monster , and asked for concurrent life sentences . "
+attorney Donald W. Frank,ask.02,for,,Affirmative,"Defense attorney Donald W. Frank said his client is not a monster , and asked for concurrent life sentences . "
+Defense attorney Donald W. Frank,say.01,Chalue wanted,,Affirmative,He said Chalue wanted to express his condolences for the victims and apologized to his own family . 
+David Chalue,want.01,to express,,Affirmative,He said Chalue wanted to express his condolences for the victims and apologized to his own family . 
+David Chalue,express.01,his condolences,,Affirmative,He said Chalue wanted to express his condolences for the victims and apologized to his own family . 
+David Chalue,tell.01,", he respects",his children and family,Affirmative,"Chalue , through his lawyer , told his children and family that although he does n't agree with the verdict , he respects the judicial process and asked them to do the same . "
+David Chalue,agree.01,with,,Affirmative,"Chalue , through his lawyer , told his children and family that although he does n't agree with the verdict , he respects the judicial process and asked them to do the same . "
+David Chalue,respect.01,the judicial process,,Affirmative,"Chalue , through his lawyer , told his children and family that although he does n't agree with the verdict , he respects the judicial process and asked them to do the same . "
+David Chalue,ask.02,to do,them,Affirmative,"Chalue , through his lawyer , told his children and family that although he does n't agree with the verdict , he respects the judicial process and asked them to do the same . "
+his children and family,do.02,the same,,Affirmative,"Chalue , through his lawyer , told his children and family that although he does n't agree with the verdict , he respects the judicial process and asked them to do the same . "
+"Massachusetts State Trooper William Scott ,",work.01,on,,Affirmative,"Massachusetts State Trooper William Scott , who worked on the case and knew Glasser , said he did n't lie , cheat or steal and lost his life living this creed . "
+"Massachusetts State Trooper William Scott ,",know.01,David Glasser,,Affirmative,"Massachusetts State Trooper William Scott , who worked on the case and knew Glasser , said he did n't lie , cheat or steal and lost his life living this creed . "
+"Massachusetts State Trooper William Scott ,",say.01,"he did n't lie , cheat or steal",,Affirmative,"Massachusetts State Trooper William Scott , who worked on the case and knew Glasser , said he did n't lie , cheat or steal and lost his life living this creed . "
+William Scott,lose.02,his life,,Affirmative,"Massachusetts State Trooper William Scott , who worked on the case and knew Glasser , said he did n't lie , cheat or steal and lost his life living this creed . "
+"Chalue , 47 , of",take.01,part,,Affirmative,"Chalue , 47 , of North Adams , was accused of taking part in the kidnapping and murder of the three men in August 2011 , along with Adam Lee Hall and Caius Veiovis . "
+Hampden Superior Court Judge C. Jeffrey Kinder,say.01,crimes struck at,,Affirmative,"In handing down the sentence , Kinder said the crimes struck at the very core of our system of justice , noting that Glasser was killed to keep him from testifying against Hall in another case and that the other two men were potential witnesses to the kidnapping of Glasser . "
+David Glasser,testify.01,against Hall,,Affirmative,"In handing down the sentence , Kinder said the crimes struck at the very core of our system of justice , noting that Glasser was killed to keep him from testifying against Hall in another case and that the other two men were potential witnesses to the kidnapping of Glasser . "
+Hampden Superior Court Judge C. Jeffrey Kinder,sentence.01,David Chalue,,Affirmative,He sentenced Chalue to serve three consecutive life sentences without the possibility of parole at the Massachusetts Correctional Institution at Cedar Junction on the first - degree murder charges . 
+Hampden Superior Court Judge C. Jeffrey Kinder,serve.01,three consecutive life sentences,,Affirmative,He sentenced Chalue to serve three consecutive life sentences without the possibility of parole at the Massachusetts Correctional Institution at Cedar Junction on the first - degree murder charges . 
+Hampden Superior Court Judge C. Jeffrey Kinder,give.01,to,Chalue,Affirmative,He also gave Chalue concurrent 8 - to 10 - year sentences on the other charges . 
+family,shout.01,that they love him,,Affirmative,Chalue 's family shouted out that they love him as he was led out of the courtroom . 
+the other two men,love.01,Chalue 's family,,Affirmative,Chalue 's family shouted out that they love him as he was led out of the courtroom . 
+David F. Capeless,say.01,he was glad,,Affirmative,"After the sentencing , Capeless said he was glad the judge imposed the consecutive life sentences . "
+"a judge Monday sentenced David Chalue to three consecutive life sentences , without the possibility of parole",impose.01,three consecutive life sentences,,Affirmative,"After the sentencing , Capeless said he was glad the judge imposed the consecutive life sentences . "
+the sentencing,bring.01,"David Glasser ,",,Affirmative,"Obviously it is not going to bring back David Glasser , Ed Frampton or Robert Chadwell . "
+the sentencing,bring.01,closure,to,Affirmative,"It wo n't even bring closure to their families , something they longed for , but it is justice , he said . "
+their families,long.01,something,,Affirmative,"It wo n't even bring closure to their families , something they longed for , but it is justice , he said . "
+David F. Capeless,say.01,It wo n't even bring closure to,,Affirmative,"It wo n't even bring closure to their families , something they longed for , but it is justice , he said . "
+we,ask.02,for,,Affirmative,And it is the most we can ask for . 
+David F. Capeless,say.01,he was looking forward to,,Affirmative,He said he was looking forward to the trial of Veiovis in September . 
+David F. Capeless,look.03,to,,Affirmative,He said he was looking forward to the trial of Veiovis in September . 
+the login link below,sign.01,with,,Affirmative,Welcome to your discussion forum : Click the login link below to sign in with or to set up a Disqus account or to access your social networking account . 
+the login link below,set.03,a Disqus account,,Affirmative,Welcome to your discussion forum : Click the login link below to sign in with or to set up a Disqus account or to access your social networking account . 
+your comment,meet.01,the guidelines,,Affirmative,"When you do , your comment should be posted immediately , provided it meets the guidelines . "
+the person posting them,post.01,. -RRB-,,Affirmative,Comments made here are the sole responsibility of the person posting them ; these comments do not reflect the opinion of The Berkshire Eagle . 

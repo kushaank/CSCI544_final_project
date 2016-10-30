@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Both states,adopt.01,laws,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+laws,prohibit.01,doctors,from performing abortions,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+doctors,perform.01,abortions,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+the provider,have.03,admitting privileges,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+doctors,admit.01,admitting privileges,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+Both states,adopt.01,laws,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+laws,prohibit.01,doctors,from performing abortions,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+doctors,perform.01,abortions,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+the provider,have.03,admitting privileges,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+doctors,admit.01,admitting privileges,,Affirmative,Both states have adopted laws that prohibit doctors from performing abortions unless the provider has admitting privileges at a nearby hospital . 
+Emotions,run.02,high,,Affirmative,"Emotions ran high , when Wisconsin legislators debated new abortion rules . "
+Wisconsin legislators,debate.01,new abortion rules,,Affirmative,"Emotions ran high , when Wisconsin legislators debated new abortion rules . "
+Sen. Mary Lazich,propose.01,Wisconsin legislators,,Affirmative,"Republican Sen. Mary Lazich proposed them , insisting they would protect the well - being of women . "
+Sen. Mary Lazich,insist.01,they would protect,,Affirmative,"Republican Sen. Mary Lazich proposed them , insisting they would protect the well - being of women . "
+Wisconsin legislators,protect.01,the well - being of women,,Affirmative,"Republican Sen. Mary Lazich proposed them , insisting they would protect the well - being of women . "
+providers,have.03,admitting privileges,,Affirmative,"In addition to requiring providers to have admitting privileges at a nearby hospital , her bill requires women seeking an abortion to get an ultrasound . "
+her bill,require.01,women seeking,,Affirmative,"In addition to requiring providers to have admitting privileges at a nearby hospital , her bill requires women seeking an abortion to get an ultrasound . "
+women seeking,seek.01,an abortion,,Affirmative,"In addition to requiring providers to have admitting privileges at a nearby hospital , her bill requires women seeking an abortion to get an ultrasound . "
+women seeking,get.01,an ultrasound,,Affirmative,"In addition to requiring providers to have admitting privileges at a nearby hospital , her bill requires women seeking an abortion to get an ultrasound . "
+These places,tell.01,it 's,you,Affirmative,"These places that tell you it 's just a blob of tissue , get it done quick , you 're doing the right thing , you do n't have a job , you do n't have a father , you 're too young , you 're this , you 're that . "
+this,do.02,the right thing,,Affirmative,"These places that tell you it 's just a blob of tissue , get it done quick , you 're doing the right thing , you do n't have a job , you do n't have a father , you 're too young , you 're this , you 're that . "
+this,have.03,a job,,Affirmative,"These places that tell you it 's just a blob of tissue , get it done quick , you 're doing the right thing , you do n't have a job , you do n't have a father , you 're too young , you 're this , you 're that . "
+this,have.03,a father,,Affirmative,"These places that tell you it 's just a blob of tissue , get it done quick , you 're doing the right thing , you do n't have a job , you do n't have a father , you 're too young , you 're this , you 're that . "
+I,say.01,words,,Affirmative,"words I should n't say on the senate floor , but that 's baloney , and we 're not doing that anymore to women in this state , Lazich says . "
+we,do.02,that,to women in,Affirmative,"words I should n't say on the senate floor , but that 's baloney , and we 're not doing that anymore to women in this state , Lazich says . "
+Lazich,say.01,words I should n't say on,,Affirmative,"words I should n't say on the senate floor , but that 's baloney , and we 're not doing that anymore to women in this state , Lazich says . "
+Sen. Kathleen Vinehout,implore.01,colleagues,,Affirmative,Democratic Sen. Kathleen Vinehout implored colleagues to reject the bill . 
+Sen. Kathleen Vinehout,reject.01,the bill,,Affirmative,Democratic Sen. Kathleen Vinehout implored colleagues to reject the bill . 
+I,believe.01,abortion should be rare,,Affirmative,"I too , believe abortion should be rare , but I strongly believe it must be legal and it must be safe , and this bill works very hard to close clinics in Wisconsin , and then where will women go ? "
+I,believe.01,it must be legal and,,Affirmative,"I too , believe abortion should be rare , but I strongly believe it must be legal and it must be safe , and this bill works very hard to close clinics in Wisconsin , and then where will women go ? "
+this bill,work.01,to close clinics in Wisconsin,,Affirmative,"I too , believe abortion should be rare , but I strongly believe it must be legal and it must be safe , and this bill works very hard to close clinics in Wisconsin , and then where will women go ? "
+this bill,close.01,clinics,,Affirmative,"I too , believe abortion should be rare , but I strongly believe it must be legal and it must be safe , and this bill works very hard to close clinics in Wisconsin , and then where will women go ? "
+Both the state Senate and Assembly,pass.01,the bill,,Affirmative,"Both the state Senate and Assembly passed the bill last summer , along party lines . "
+Gov. Walker,sign.02,the measure,into law and moments,Affirmative,"Gov. Walker signed the measure into law and moments later , two clinics that perform abortions sued . "
+two clinics,perform.01,abortions,,Affirmative,"Gov. Walker signed the measure into law and moments later , two clinics that perform abortions sued . "
+Federal courts,issue.01,an injunction,,Affirmative,"Federal courts issued an injunction , temporarily blocking the law , while they determine if it 's constitutional . "
+Federal courts,block.01,the law,,Affirmative,"Federal courts issued an injunction , temporarily blocking the law , while they determine if it 's constitutional . "
+they,determine.01,if it 's constitutional,,Affirmative,"Federal courts issued an injunction , temporarily blocking the law , while they determine if it 's constitutional . "
+Larry Dupuis,represent.01,one clinic challenging,,Affirmative,"Larry Dupuis is an attorney with the ACLU of Wisconsin and , is representing one clinic challenging the law - Affiliated Medical Services of Milwaukee . "
+one clinic challenging,challenge.01,Affiliated Medical Services of Milwaukee,,Affirmative,"Larry Dupuis is an attorney with the ACLU of Wisconsin and , is representing one clinic challenging the law - Affiliated Medical Services of Milwaukee . "
+Dupuis,say.01,opponents have lobbied legislatures across,,Affirmative,Dupuis says abortion opponents have lobbied legislatures across the country to develop what he refers to as TRAP laws . 
+abortion opponents,lobby.01,legislatures,,Affirmative,Dupuis says abortion opponents have lobbied legislatures across the country to develop what he refers to as TRAP laws . 
+abortion opponents,develop.02,he refers to as,,Affirmative,Dupuis says abortion opponents have lobbied legislatures across the country to develop what he refers to as TRAP laws . 
+They,look.01,like,,Affirmative,"They look like sort of neutral , medical regulations but , they 're only applied to abortion providers and not to any other providers of comparable kinds of medical services and they are designed and have the affect of essentially putting abortion providers out of business , Dupuis says . "
+they,have.03,the affect of,,Affirmative,"They look like sort of neutral , medical regulations but , they 're only applied to abortion providers and not to any other providers of comparable kinds of medical services and they are designed and have the affect of essentially putting abortion providers out of business , Dupuis says . "
+Dupuis,say.01,They look like,,Affirmative,"They look like sort of neutral , medical regulations but , they 're only applied to abortion providers and not to any other providers of comparable kinds of medical services and they are designed and have the affect of essentially putting abortion providers out of business , Dupuis says . "
+A handful of states,pass.01,"similar legislation , including Alabama",,Affirmative,"A handful of states have passed similar legislation , including Alabama . "
+Dupuis,say.01,he 'll argue,,Affirmative,"When Wisconsin 's starts next week , Dupuis says , he 'll argue that the rules violate constitutional guarantees of equal protection . "
+he,argue.01,rules violate,,Affirmative,"When Wisconsin 's starts next week , Dupuis says , he 'll argue that the rules violate constitutional guarantees of equal protection . "
+the rules,violate.01,constitutional guarantees of,,Affirmative,"When Wisconsin 's starts next week , Dupuis says , he 'll argue that the rules violate constitutional guarantees of equal protection . "
+the Wisconsin Department of Justice,fight.01,to uphold,,Affirmative,"On the other side , the Wisconsin Department of Justice will fight to uphold the regulations . "
+the Wisconsin Department of Justice,uphold.01,the regulations,,Affirmative,"On the other side , the Wisconsin Department of Justice will fight to uphold the regulations . "
+those insisting,insist.01,rules are reasonable,,Affirmative,  Republican state Sen. Glenn Grothman is among those insisting the rules are reasonable . 
+you,have.03,"a small , common sense regulation on",,Affirmative,"And , you have a small , common sense regulation on an abortion clinic and then all of a sudden , the judges step in and say , we ca n't regulate these guys , Grothman says . "
+the judges,say.01,", we ca n't regulate",,Affirmative,"And , you have a small , common sense regulation on an abortion clinic and then all of a sudden , the judges step in and say , we ca n't regulate these guys , Grothman says . "
+we,regulate.01,these guys,,Affirmative,"And , you have a small , common sense regulation on an abortion clinic and then all of a sudden , the judges step in and say , we ca n't regulate these guys , Grothman says . "
+Grothman,say.01,"And , you have",,Affirmative,"And , you have a small , common sense regulation on an abortion clinic and then all of a sudden , the judges step in and say , we ca n't regulate these guys , Grothman says . "
+government,regulate.01,abortions,,Affirmative,"So it appears the overall issue of whether government can regulate abortions , will eventually head to the U.S. Supreme Court . "

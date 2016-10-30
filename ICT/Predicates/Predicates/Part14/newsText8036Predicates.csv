@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+"The councilman , also a candidate for state House of Representatives",say.01,that he might handle,,Affirmative,"The councilman said last month that he might handle his own defense in the case , and said today , May 19 , that 's what he intends to do . "
+"The councilman , also a candidate for state House of Representatives",handle.01,his own defense,,Affirmative,"The councilman said last month that he might handle his own defense in the case , and said today , May 19 , that 's what he intends to do . "
+"The councilman , also a candidate for state House of Representatives",intend.01,to do,,Affirmative,"The councilman said last month that he might handle his own defense in the case , and said today , May 19 , that 's what he intends to do . "
+Mays,act.01,as,,Affirmative,"Just last week , Mays also acted as his own attorney in a civil lawsuit that sought to stop the demolition of the Genesee Towers . "
+a civil lawsuit,seek.01,to stop,,Affirmative,"Just last week , Mays also acted as his own attorney in a civil lawsuit that sought to stop the demolition of the Genesee Towers . "
+a civil lawsuit,stop.01,the demolition of,,Affirmative,"Just last week , Mays also acted as his own attorney in a civil lawsuit that sought to stop the demolition of the Genesee Towers . "
+Judge Geoffrey Neithercut,grant.01,the city of,,Affirmative,Genesee Circuit Judge Geoffrey Neithercut instead granted the city of Flint 's motion for summary judgement of the complaint . 
+Mays,say.01,that he 's served,,Affirmative,"Mays said today that he 's served a subpoena , calling for emergency manager Darnell Earley to appear as a witness in the case against him . "
+Mays,serve.02,a subpoena,,Affirmative,"Mays said today that he 's served a subpoena , calling for emergency manager Darnell Earley to appear as a witness in the case against him . "
+Mays,call.03,Earley to appear as,,Affirmative,"Mays said today that he 's served a subpoena , calling for emergency manager Darnell Earley to appear as a witness in the case against him . "
+"Earley ,",ask.02,"for Mays to resign in December ,",,Affirmative,"Earley , Mayor Dayne Walling and Council President Scott Kincaid asked for Mays to resign in December , the month after his arrest . "
+Mays,resign.01,"in December ,",,Affirmative,"Earley , Mayor Dayne Walling and Council President Scott Kincaid asked for Mays to resign in December , the month after his arrest . "
+"The councilman ,",say.01,could have,,Affirmative,"The councilman , also a candidate for state House of Representatives , has said Earley 's decision to ask him to resign could have an impact on the jury pool . "
+decision,have.03,an impact on,,Affirmative,"The councilman , also a candidate for state House of Representatives , has said Earley 's decision to ask him to resign could have an impact on the jury pool . "
+MLive -,reach.01,prosecutor Michael J. Gildner,,Affirmative,MLive - The Flint Journal could not immediately reach special prosecutor Michael J. Gildner for comment on the case today . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

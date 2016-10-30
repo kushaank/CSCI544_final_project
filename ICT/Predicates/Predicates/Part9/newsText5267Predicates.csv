@@ -1,0 +1,112 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A political committee,send.01,mailers,,Affirmative,A political committee that sent out mailers and paid for television ads hitting 4th Assembly District candidate Dan Wolk last week has fired back at Wolk 's campaign for blasting the mailer 's claims as inaccurate . 
+television ads hitting,hit.01,candidate Dan Wolk,,Affirmative,A political committee that sent out mailers and paid for television ads hitting 4th Assembly District candidate Dan Wolk last week has fired back at Wolk 's campaign for blasting the mailer 's claims as inaccurate . 
+by,run.01,"FairPAC ,",,Affirmative,"FairPAC , which is run by the Civil Justice Association of California , spent almost $ 280,000 on mailers and television ads attacking Wolk as a flip - flopper , as well as a TV spot supporting Wolk 's rival in the 4th District race , Napa County Supervisor Bill Dodd . "
+"FairPAC ,",spend.01,on mailers and,,Affirmative,"FairPAC , which is run by the Civil Justice Association of California , spent almost $ 280,000 on mailers and television ads attacking Wolk as a flip - flopper , as well as a TV spot supporting Wolk 's rival in the 4th District race , Napa County Supervisor Bill Dodd . "
+mailers and,attack.01,Wolk,,Affirmative,"FairPAC , which is run by the Civil Justice Association of California , spent almost $ 280,000 on mailers and television ads attacking Wolk as a flip - flopper , as well as a TV spot supporting Wolk 's rival in the 4th District race , Napa County Supervisor Bill Dodd . "
+a TV spot supporting,support.01,rival,,Affirmative,"FairPAC , which is run by the Civil Justice Association of California , spent almost $ 280,000 on mailers and television ads attacking Wolk as a flip - flopper , as well as a TV spot supporting Wolk 's rival in the 4th District race , Napa County Supervisor Bill Dodd . "
+campaign,say.01,"ads were not true , and said",,Affirmative,"Wolk 's campaign said last week that the ads were not true , and said FairPAC received money from Koch Industries . "
+mailers and television ads,say.01,FairPAC received money from,,Affirmative,"Wolk 's campaign said last week that the ads were not true , and said FairPAC received money from Koch Industries . "
+"FairPAC , which is run by the Civil Justice Association of California",receive.01,money,from,Affirmative,"Wolk 's campaign said last week that the ads were not true , and said FairPAC received money from Koch Industries . "
+Wolk 's campaign,send.01,a fundraising pitch and,,Affirmative,"The campaign sent out a fundraising pitch and a statement that noted the money donated from Koch Industries , Dow Chemical and insurance companies . "
+a statement,note.01,the money donated from,,Affirmative,"The campaign sent out a fundraising pitch and a statement that noted the money donated from Koch Industries , Dow Chemical and insurance companies . "
+A related FairPAC committee -,receive.01,"6,800 contribution from",,Affirmative,"A related FairPAC committee - not the one that paid for the ads - did receive a $ 6,800 contribution from Koch Industries last May , but returned the entire amount donated , said Kevin Reikes , a political consultant with Sacramento - based Media & Associates , which produced the pieces for FairPAC . "
+"Kevin Reikes ,",say.01,did receive,,Affirmative,"A related FairPAC committee - not the one that paid for the ads - did receive a $ 6,800 contribution from Koch Industries last May , but returned the entire amount donated , said Kevin Reikes , a political consultant with Sacramento - based Media & Associates , which produced the pieces for FairPAC . "
+"Kevin Reikes ,",produce.01,the pieces,,Affirmative,"A related FairPAC committee - not the one that paid for the ads - did receive a $ 6,800 contribution from Koch Industries last May , but returned the entire amount donated , said Kevin Reikes , a political consultant with Sacramento - based Media & Associates , which produced the pieces for FairPAC . "
+finance reports filed with,show.01,donation was refunded,,Affirmative,"Campaign finance reports filed with the secretary of state 's office show that the $ 6,800 donation was refunded . "
+Kevin Reikes,say.01,was also returned,,Affirmative,"An earlier contribution of $ 6,500 made in May 2012 was also returned , Reikes said . "
+The committee,take.01,money,from,Affirmative,"The committee that paid for the ads has taken money from the California Farm Bureau , Farmers Insurance , Realtors , the Doctors Co. , dentists , hospitals , the San Manuel Band of Mission Indians , Chevron , Anheuser - Busch and the California Credit Union League , among other donors , according to Reikes . "
+campaign,reiterate.01,the connection in,,Affirmative,Wolk 's campaign reiterated the connection in a statement . 
+"David McCuan ,",say.01,groups focusing,,Affirmative,"David McCuan , a political science professor for Sonoma State University , said independent political groups focusing negative attack ads on candidates are par for the course at this stage of a competitive contest such as the 4th District race . "
+independent political groups,focus.01,negative attack ads,on candidates,Affirmative,"David McCuan , a political science professor for Sonoma State University , said independent political groups focusing negative attack ads on candidates are par for the course at this stage of a competitive contest such as the 4th District race . "
+independent money spent in,top.02,"$ 800,000",,Affirmative,"With two weeks to go to Election Day , independent money spent in the 4th District race has topped $ 800,000 , according to new reports filed with the secretary of state 's office Monday . "
+David McCuan,predict.01,will be,,Affirmative,McCuan predicted the final tally of independent money spent in the June 3 primary election will be $ 1.3 million to $ 1.5 million . 
+"described moderate Democrat , Dodd",square.03,with,,Affirmative,"The 4th District race and others have been emblematic of shifts in the Democratic Party in California , as a self - described moderate Democrat , Dodd , has been squaring off with the more traditional labor - backed candidate in Wolk , McCuan said . "
+David McCuan,say.01,have been emblematic of shifts in,,Affirmative,"The 4th District race and others have been emblematic of shifts in the Democratic Party in California , as a self - described moderate Democrat , Dodd , has been squaring off with the more traditional labor - backed candidate in Wolk , McCuan said . "
+"the 4th District race , Napa County Supervisor Bill Dodd",make.02,races attract spending from,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+Few legislative races,attract.01,spending from,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+"the independent groups , representing",represent.01,various interests,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+various interests,try.01,to make plays in,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+various interests,make.02,plays in,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+David McCuan,say.01,That makes,,Affirmative,"That makes the races attract spending from the independent groups , representing various interests such as business or labor that are trying to make plays in the contests , McCuan said . "
+Wolk,ignore.01,the community in Davis,,Affirmative,"Reikes stood by the mailer 's claim that Wolk ignored the community in Davis in voting to increase water rates by 300 percent , despite years of planning in advance of the City Council 's vote in March 2013 , and residents voting in favor of the water project the rate increase will fund . "
+Reikes,support.01,the mailer 's claims,,Affirmative,Reikes supports his claims by noting that in 2011 Wolk told the Sacramento Bee he wanted to build community support for the project . 
+District candidate Dan Wolk,tell.01,he wanted,the Sacramento Bee,Affirmative,Reikes supports his claims by noting that in 2011 Wolk told the Sacramento Bee he wanted to build community support for the project . 
+District candidate Dan Wolk,want.01,to build,,Affirmative,Reikes supports his claims by noting that in 2011 Wolk told the Sacramento Bee he wanted to build community support for the project . 
+District candidate Dan Wolk,build.02,community support for,,Affirmative,Reikes supports his claims by noting that in 2011 Wolk told the Sacramento Bee he wanted to build community support for the project . 
+four percent of,vote.01,to approve,,Affirmative,"Fifty - four percent of Davis voters ultimately voted to approve the project , but Reikes hinged his claims on the fact that 46 percent of Davis residents voted no on it , and 1,800 ratepayers protested the water rate increase . "
+four percent of,approve.01,the water project,,Affirmative,"Fifty - four percent of Davis voters ultimately voted to approve the project , but Reikes hinged his claims on the fact that 46 percent of Davis residents voted no on it , and 1,800 ratepayers protested the water rate increase . "
+46 percent of,vote.01,no,,Affirmative,"Fifty - four percent of Davis voters ultimately voted to approve the project , but Reikes hinged his claims on the fact that 46 percent of Davis residents voted no on it , and 1,800 ratepayers protested the water rate increase . "
+"1,800 ratepayers",protest.01,rate increase,,Affirmative,"Fifty - four percent of Davis voters ultimately voted to approve the project , but Reikes hinged his claims on the fact that 46 percent of Davis residents voted no on it , and 1,800 ratepayers protested the water rate increase . "
+the city 's,need.01,more than half of,,Affirmative,"The city needed more than half of its 16,500 ratepayers to protest in order to block the increases , according to a March 2013 Davis Enterprise article Reikes cites . "
+Reikes,cite.01,Enterprise article,,Affirmative,"The city needed more than half of its 16,500 ratepayers to protest in order to block the increases , according to a March 2013 Davis Enterprise article Reikes cites . "
+Davis professor,work.01,on,,Affirmative,"Frank Loge , a UC Davis professor who worked closely with the City Council on the water rates issue , said last week that the mailer 's claim that Wolk ignored the community was blatantly wrong . "
+"Frank Loge ,",say.01,was,,Affirmative,"Frank Loge , a UC Davis professor who worked closely with the City Council on the water rates issue , said last week that the mailer 's claim that Wolk ignored the community was blatantly wrong . "
+Wolk,ignore.01,the community,,Affirmative,"Frank Loge , a UC Davis professor who worked closely with the City Council on the water rates issue , said last week that the mailer 's claim that Wolk ignored the community was blatantly wrong . "
+Frank Loge,serve.01,on,,Affirmative,"Loge served on a citizens ' committee that spent two years between 2011 and 2013 analyzing the size of the water project and the potential rate increase , and then gave its recommendations to the City Council . "
+committee,spend.02,two years,analyzing,Affirmative,"Loge served on a citizens ' committee that spent two years between 2011 and 2013 analyzing the size of the water project and the potential rate increase , and then gave its recommendations to the City Council . "
+committee,analyze.01,the size of,,Affirmative,"Loge served on a citizens ' committee that spent two years between 2011 and 2013 analyzing the size of the water project and the potential rate increase , and then gave its recommendations to the City Council . "
+Frank Loge,give.01,its recommendations to,,Affirmative,"Loge served on a citizens ' committee that spent two years between 2011 and 2013 analyzing the size of the water project and the potential rate increase , and then gave its recommendations to the City Council . "
+District candidate Dan Wolk,vote.01,against,A second claim states,Affirmative,A second claim states Wolk voted against fire safety at a late - night meeting . 
+Kevin Reikes,say.01,it 's in reference to,,Affirmative,"Reikes said it 's in reference to a vote , which happened at 11:30 p.m. last December , to share management of the city of Davis ' fire service with UC Davis ' fire service . "
+District candidate Dan Wolk,vote.01,no,,Affirmative,"Wolk voted no on the agreement , after having supported an earlier iteration of the deal in October , which the city 's firefighters had supported , according to an Enterprise article . "
+District candidate Dan Wolk,support.01,an earlier iteration of,,Affirmative,"Wolk voted no on the agreement , after having supported an earlier iteration of the deal in October , which the city 's firefighters had supported , according to an Enterprise article . "
+firefighters,support.01,"October ,",,Affirmative,"Wolk voted no on the agreement , after having supported an earlier iteration of the deal in October , which the city 's firefighters had supported , according to an Enterprise article . "
+the city 's firefighters,reverse.01,course,,Affirmative,"The firefighters later reversed course after the first several months of the agreement , and Wolk questioned the way it had been managed . "
+District candidate Dan Wolk,question.01,the way,,Affirmative,"The firefighters later reversed course after the first several months of the agreement , and Wolk questioned the way it had been managed . "
+three councilmembers,support.01,the agreement,,Affirmative,"The agreement passed anyway , with three councilmembers supporting it . "
+District candidate Dan Wolk,vote.01,to oppose,,Affirmative,"Wolk voted to oppose a shift in the fire services ' staffing last spring , which would have reduced staffing from 12 on - duty firefighters to 11 , and changed the way the department responded to calls , according to a Davis Enterprise article . "
+District candidate Dan Wolk,oppose.01,a shift in,,Affirmative,"Wolk voted to oppose a shift in the fire services ' staffing last spring , which would have reduced staffing from 12 on - duty firefighters to 11 , and changed the way the department responded to calls , according to a Davis Enterprise article . "
+"last spring ,",reduce.01,staffing,,Affirmative,"Wolk voted to oppose a shift in the fire services ' staffing last spring , which would have reduced staffing from 12 on - duty firefighters to 11 , and changed the way the department responded to calls , according to a Davis Enterprise article . "
+District candidate Dan Wolk,change.01,the way it had been managed,,Affirmative,"Wolk voted to oppose a shift in the fire services ' staffing last spring , which would have reduced staffing from 12 on - duty firefighters to 11 , and changed the way the department responded to calls , according to a Davis Enterprise article . "
+the department,respond.01,to calls,,Affirmative,"Wolk voted to oppose a shift in the fire services ' staffing last spring , which would have reduced staffing from 12 on - duty firefighters to 11 , and changed the way the department responded to calls , according to a Davis Enterprise article . "
+District candidate Dan Wolk,compromise.01,the quality of,,Affirmative,Has Dan Wolk ever compromised the quality of the water ? 
+District candidate Dan Wolk,try.01,to pollute,,Affirmative,Has he ever tried to pollute the water ? 
+District candidate Dan Wolk,pollute.01,the water,,Affirmative,Has he ever tried to pollute the water ? 
+District candidate Dan Wolk,try.01,to take it away from,,Affirmative,Has he ever tried to take it away from his community ? 
+District candidate Dan Wolk,take.01,the water,,Affirmative,Has he ever tried to take it away from his community ? 
+Dan,control.01,inflation and,,Affirmative,Dan can not control inflation and the money supply . 
+Dan,try.01,to collect,,Affirmative,Dan can only try to collect as much water as he can and return it still clean to his community . 
+Dan,collect.01,much water,,Affirmative,Dan can only try to collect as much water as he can and return it still clean to his community . 
+Dan,return.02,as much water,,Affirmative,Dan can only try to collect as much water as he can and return it still clean to his community . 
+FairPAC,support.01,Dodd but not,,Affirmative,FairPAC supports Dodd but not Wolk ? 
+me,vote.01,for Wolk,,Affirmative,I 'll vote for Wolk . 
+District candidate Dan Wolk,have.03,a lot,,Affirmative,He still has a lot to learn but he 's a type of person that 's less likely to be bought by casino interests etc. FairPAC is supporting Dodd for a reason . 
+etc. FairPAC,support.01,Dodd,,Affirmative,He still has a lot to learn but he 's a type of person that 's less likely to be bought by casino interests etc. FairPAC is supporting Dodd for a reason . 
+they,think.01,are,,Affirmative,They most likely support politicians whom they think are easily influenced . 
+you,like.01,"growth state ,",,Affirmative,"if you like our no job growth state , our trillion dollar debt to public employee retirement funds ... "
+A guy,manage.01,a real business,,Affirmative,"here 's your guy , A guy that have never managed a real business , people who get elected who never ran a business are almost always public employee union hampsters . "
+people,run.02,a business,,Affirmative,"here 's your guy , A guy that have never managed a real business , people who get elected who never ran a business are almost always public employee union hampsters . "
+you,think.01,Wolk might be influenced by,,Affirmative,"vocal , do n't you think Mr. Wolk might be influenced by the unions ? "
+by,influence.01,Mr. Wolk,,Affirmative,"vocal , do n't you think Mr. Wolk might be influenced by the unions ? "
+He,take.01,a lot of,,Affirmative,He takes a lot of union money . 
+He,run.01,his campaign,,Affirmative,He 's certainly not running his campaign on his own money to avoid influence from outside interests . 
+He,avoid.01,influence from,,Affirmative,He 's certainly not running his campaign on his own money to avoid influence from outside interests . 
+you,say.01,that Dodd supports,,Affirmative,Vocal - so you are saying that Dodd supports Indian gaming in Napa ? 
+Dodd,support.01,Indian gaming,,Affirmative,Vocal - so you are saying that Dodd supports Indian gaming in Napa ? 
+Every single member of,oppose.01,a casino,,Affirmative,Every single member of the Napa Board of Supervisors opposes a casino in a Napa . 
+Dodd,care.01,about Napa,,Affirmative,Dodd cares about Napa and if you have Napa 's true interest at heart you will vote Dodd . 
+you,have.03,true interest at heart,,Affirmative,Dodd cares about Napa and if you have Napa 's true interest at heart you will vote Dodd . 
+you,vote.01,Dodd,,Affirmative,Dodd cares about Napa and if you have Napa 's true interest at heart you will vote Dodd . 
+We as,have.03,democratic legislators,,Affirmative,"We as a people have had democratic legislators for the last decade and longer , The problems of California have become worse . "
+some people in office,bring.01,our freedom,to,Affirmative,When are we going to get some people in office who will bring back our freedom to our state and our rights . 
+I,hope.01,that we will not put in office,,Affirmative,I hope that we will not put in office another freedom thieving democrat . 
+we,put.01,thieving democrat,in office,Affirmative,I hope that we will not put in office another freedom thieving democrat . 
+thieving democrat,thieve.01,freedom,,Affirmative,I hope that we will not put in office another freedom thieving democrat . 
+it,influence.01,voters,to vote for Wolk,Affirmative,Democrats are famous for false attack ads like this and it will surely influence voters to vote for Wolk . 
+voters,vote.01,for Wolk,,Affirmative,Democrats are famous for false attack ads like this and it will surely influence voters to vote for Wolk . 
+Bill Dodd,care.01,what 's best for,,Affirmative,Bill Dodd only cares what 's best for Bill Dodd and what will further his name . 
+everybody,know.01,it,,Affirmative,He 's a bully and everybody knows it even if folks are too scared to say so . 
+folks,say.01,so,,Affirmative,He 's a bully and everybody knows it even if folks are too scared to say so . 
+me,guess.01,"you 've never met Bill ,",,Affirmative,"Wow , I guess you 've never met Bill , as you could not be farther from the truth . "
+you,meet.02,Bill,,Affirmative,"Wow , I guess you 've never met Bill , as you could not be farther from the truth . "
+me,like.01,that,,Affirmative,And I do n't like that either . 
+I,wish.01,we had politicians around,,Affirmative,I wish we had politicians around who actually represented the PEOPLE rather than corporations or unions . 
+we,have.03,politicians,,Affirmative,I wish we had politicians around who actually represented the PEOPLE rather than corporations or unions . 
+I,pick.01,the lesser of,,Affirmative,"But if I must pick the lesser of two evils , I 'll pick the candidate who 's supported by unions ? "
+I,pick.01,the candidate,,Affirmative,"But if I must pick the lesser of two evils , I 'll pick the candidate who 's supported by unions ? "
+by unions,support.01,the candidate,,Affirmative,"But if I must pick the lesser of two evils , I 'll pick the candidate who 's supported by unions ? "
+they,consider.01,their impact on,,Affirmative,"The bad thing about unions is that they do not consider their impact on all people , just a select group who benefit . "
+unions,protect.01,our middle class,,Affirmative,"However , if done right , unions do protect our middle class , up to a point . "
+I,say.01,the same thing about corporations,,Affirmative,I ca n't say the same thing about corporations . 
+they,outsource.01,jobs,,Affirmative,"Or they outsource jobs , whichever is cheapest . "

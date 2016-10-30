@@ -1,0 +1,42 @@
+
+SocialSense uses the types of things users post about online, and their word frequency, to place them into small sub-groups for marketers to hone their message to.
+
+A key part of Networked Insights' software package (and similar social media analysis tools offered by competitors like Salesforce and Crimson Hexagon) is to capture and analyze every bit of new, publicly available content of relevance to their clients as it appears online.
+
+Using natural language processing and automated classification software, Networked Insights and their competitors can find out a lot about individual Internet users' genders, occupations, educational levels, and more.
+
+Clients like Samsung pay a large licensing fee to use Networked Insight's software to figure out what concerns are on the minds of small clusters of consumers.
+
+Since content posted to the Internet is viewed as a powerful source of consumer information, marketing departments at Samsung, Taco Bell, and other large companies see it as a complement to traditional information-gathering methods like focus groups and surveys.
+
+In order to help Samsung discover specific consumer dislikes of the iPhone, the company used a tool called Doppler inside Networked Insights' platform to classify blog comments and Tweets into larger categories.
+
+When Samsung wanted to deconstruct what Apple's customers thought of the iPhone, they didn't hold focus groups--they went straight to social media (with a little bit of machine learning thrown in).
+
+During the latest Apple vs. Samsung patent lawsuit , observers of intellectual property lawsuits got a rare treat: details that were actually interesting. Internal Samsung documents showed a list of things that iPhone 5 owners wanted to change about their phone. It showed that Samsung was, as you might expect, trying furiously to deconstruct their archrival’s flagship product.
+
+And now, Fast Company has learned, they were using social media data to do it. Several years ago, the Korean electronics giant hired Chicago-based Networked Insights , who we named one of 2012’s Most Innovative Companies , to do deep analysis of customers' likes and dislikes. They did this using massive amounts of data aggregated online.
+
+Networked Insights, whose clients include Procter & Gamble, Yum Restaurants (Taco Bell), MillerCoors, and Ford, applies machine learning techniques to mine web and social data and identify both what people are saying about the brands and--importantly--what people are saying about their rivals’ products. The company says Samsung worked closely with them in the years when they jumped from America’s #4 to #1 smartphone provider.
+
+Networked Insights connected with us shortly before today's launch of their SocialSense 2.0 platform , which costs approximately $10,000 monthly, to tell a little bit about how Samsung used their platform to hack Apple.
+
+“Samsung took on a company with the arguably most successful consumer product ever created,” Networked Insights CEO Dan Neely told Fast Company. “Samsung asked us how to use analytics to attack Apple.” Similar techniques, he added, were used by Taco Bell for their new breakfast campaign in order to find consumer dissatisfaction with McDonald’s.
+
+Using aggregated online posts and machine learning techniques, Samsung found several specific weak spots where they could outperform Apple. Customers specifically complained about the iPhone’s comparatively poor battery life, the inefficiencies of Apple Maps, how small the screen was, unhappiness with the Lightning cable, the lack of customization, Siri, and the iPhone’s fragility. Samsung felt that it could compete with Apple on most of these points--and, importantly, that they hard data to back up these consumer preferences.
+
+When working with Networked Insights, a big part of Samsung’s strategy was to vacuum up any information on the iPhone 5 that was posted to social media. This meant using the dashboard they licensed to obtain every iPhone-related post on Tumblr, Twitter, Disqus (a popular commenting platform), WordPress, and YouTube, as well as new hits on Google. This information was then classified, as Neely put it, “15,000 different ways.” A big part of the problem for Samsung and others, Neely said, was the difference in extracting relevant information when they needed it versus finding erroneous information on other aspects of individual customers that were irrelevant to the task at hand. That meant a lot of data processing and fine-tuned analytics.
+
+Importantly, Samsung used the dashboard to find what people were posting online about the iPhone--rather than just looking for posts about Samsung’s own products. They then identified specific complaints about the iPhone where their own products outperformed Apple’s products, and tweaked marketing campaigns to emphasize these Samsung strong points.
+
+Apple could have done the analysis, but other documents unearthed in the hearings show that Apple declined to hire Networked Insights . Arthur Rangel, a senior director at Apple, sent an email in January 2013 to Apple senior vice president Phil Schiller referencing a Fortune article on Samsung and Networked Insights and asking why Cupertino didn’t use a social media monitoring service like their Korean rival. Schiller said there was no need for one.
+
+Crucially, Neely says Samsung could get monthly purchase intent metrics for sales in real-time--a metric he asserts Apple lacked at the time. Using information gleaned from extrapolation of the social web, Samsung was able to get this crucial intelligence on their competitor.
+
+“When someone talks about Ford the automaker, we know what indicators to look for to indicate they’re talking about cars. That’s part of machine learning, which we can use to  tell us how how old someone’s kids are based on an online post. We find when children are younger, people call them ‘kids.’ When they are older, they call them children,” Neely told Fast Company.
+
+Dan Cropsey, a senior vice president at Networked Insights, added that a big part of how this benefited Samsung was affinity classification. Samsung could look at customer sub-segments they viewed as likely iPhone switcher-overs, see which celebrities they most admired, and then make sure Jay-Z and Martha Stewart are turned into Samsung users .
+
+The same affinity classification was used to look at customers’ lifestyle preferences--using machine learning, you can infer with reasonable accuracy whether a customer prefers Whole Foods or Trader Joe’s, for instance. This was then used to bunch Internet posts into clusters which were used to find unexpected complaints about Apple like long lines at Apple stores or dissatisfaction with the headphone jacks on Apple products. This information was then later used to refine Samsung’s anti-Apple marketing efforts.
+
+The social media monitoring firm has also received heavy capital infusion: Their last two funding rounds in 2013 and 2011 consisted of $10 and $20 million respectively. Networked Insights has approximately 125 employees at their Chicago headquarters and additional offices in New York, Los Angeles, and Madison, Wisconsin.

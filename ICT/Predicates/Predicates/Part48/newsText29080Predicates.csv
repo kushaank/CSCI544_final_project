@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+People,see.01,I 've shown,,Affirmative,"People have seen I 've shown real leadership in driving this issue forward , Denham said . "
+Denham,show.01,real leadership,,Affirmative,"People have seen I 've shown real leadership in driving this issue forward , Denham said . "
+Denham,say.01,People have seen,,Affirmative,"People have seen I 've shown real leadership in driving this issue forward , Denham said . "
+People,pay.01,lip service,to,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+People,refuse.01,to lift,,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+People,lift.02,a pen,,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+People,sign.01,the discharge petition,,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+the discharge petition,force.02,a vote,,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+"Rep. Steve Israel , chairman of",say.01,They pay,,Affirmative,"They pay lip service to comprehensive immigration reform , but they refuse to lift a pen to sign the discharge petition to force a vote , said Rep. Steve Israel , chairman of the Democratic Congressional Campaign Committee . "
+those of us,do.02,a greater job of championing and being vocal on,,Affirmative,"There are those of us who have to do a greater job of championing and being vocal on the issue , Denham said . "
+Denham,say.01,There are those of us,,Affirmative,"There are those of us who have to do a greater job of championing and being vocal on the issue , Denham said . "
+that,like.02,to say,,Affirmative,My concern is that there is a very vocal minority in our conference that likes to say crazy and outlandish things that get picked up by the media . 
+vocal minority in,say.01,things,,Affirmative,My concern is that there is a very vocal minority in our conference that likes to say crazy and outlandish things that get picked up by the media . 
+by,pick.04,things,,Affirmative,My concern is that there is a very vocal minority in our conference that likes to say crazy and outlandish things that get picked up by the media . 

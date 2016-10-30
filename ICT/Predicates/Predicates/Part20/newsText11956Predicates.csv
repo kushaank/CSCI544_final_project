@@ -1,0 +1,68 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+I,receive.01,my annual statement,from,Affirmative,I 've just received my annual statement from my KiwiSaver provider in the post . 
+I,lose.02,my internet password,,Affirmative,Given I 've lost my internet password and have n't logged on to my account for a while the first thing I rushed to check was how much do I now have saved towards my retirement . 
+I,log.02,to,,Affirmative,Given I 've lost my internet password and have n't logged on to my account for a while the first thing I rushed to check was how much do I now have saved towards my retirement . 
+I,check.01,the first thing,,Affirmative,Given I 've lost my internet password and have n't logged on to my account for a while the first thing I rushed to check was how much do I now have saved towards my retirement . 
+my husband 's KiwiSaver balance,make.01,quite a dent,,Affirmative,Added to my husband 's KiwiSaver balance it would make quite a dent and definitely reduce the financial pressure right now . 
+my husband 's KiwiSaver balance,reduce.01,the financial pressure,,Affirmative,Added to my husband 's KiwiSaver balance it would make quite a dent and definitely reduce the financial pressure right now . 
+I,want.01,to live like,,Affirmative,Then again ( though it seems a long way away at this stage ) I also do n't want to live like a pauper in retirement and let 's face it my KiwiSaver balance would n't be this high without my employer contributions or the government 's contributions . 
+'s,face.01,my husband 's KiwiSaver balance,,Affirmative,Then again ( though it seems a long way away at this stage ) I also do n't want to live like a pauper in retirement and let 's face it my KiwiSaver balance would n't be this high without my employer contributions or the government 's contributions . 
+my KiwiSaver provider,crow.01,about,,Affirmative,First my KiwiSaver provider was crowing about being reappointed as a KiwiSaver default provider . 
+word default and finance,make.01,for,,Affirmative,Usually the word default and finance do n't make for a happy association - as anyone who has n't paid a loan or bill on time knows . 
+anyone,pay.01,a loan or bill,,Affirmative,Usually the word default and finance do n't make for a happy association - as anyone who has n't paid a loan or bill on time knows . 
+the case of KiwiSaver,refer.01,to,,Affirmative,It simply refers to a group of companies which the government has selected to run funds where people who do not choose a KiwiSaver provider will have their money put . 
+the government 's,select.01,companies,,Affirmative,It simply refers to a group of companies which the government has selected to run funds where people who do not choose a KiwiSaver provider will have their money put . 
+the government 's,run.01,funds,,Affirmative,It simply refers to a group of companies which the government has selected to run funds where people who do not choose a KiwiSaver provider will have their money put . 
+people,choose.01,your KiwiSaver provider 's,,Affirmative,It simply refers to a group of companies which the government has selected to run funds where people who do not choose a KiwiSaver provider will have their money put . 
+people,have.03,money put,,Affirmative,It simply refers to a group of companies which the government has selected to run funds where people who do not choose a KiwiSaver provider will have their money put . 
+five companies,run.01,default funds,,Affirmative,"There are currently five companies which run default funds - AMP , ASB , ANZ , Fisher Funds and Mercer - but from July 1 a further four are being added - BNZ , Westpac , Kiwibank and Grosvenor . "
+the government 's,provide.01,no guarantees on,,Affirmative,"The allocation is done at random and despite the perception , the government provides no guarantees on these funds or the companies running them . "
+the companies running them,run.01,"five companies which run default funds - AMP , ASB , ANZ , Fisher Funds and Mercer - but from July 1 a further four are being added - BNZ , Westpac , Kiwibank and Grosvenor",,Affirmative,"The allocation is done at random and despite the perception , the government provides no guarantees on these funds or the companies running them . "
+"default funds - AMP , ASB , ANZ , Fisher Funds and Mercer",invest.01,25 per cent of,into,Affirmative,Default funds must invest 15 to 25 per cent of their money into growth assets such as shares and property . 
+"default funds - AMP , ASB , ANZ , Fisher Funds and Mercer",mean.01,will be invested in cash and,,Affirmative,That means the majority of your money will be invested in cash and fixed interest investments like bonds and because of this are seen as a conservative or a lower risk place to invest money . 
+the government 's,view.02,"default funds - AMP , ASB , ANZ , Fisher Funds and Mercer",as,Affirmative,The government views the default funds as a holding place and anyone automatically put into one should consider if it is right for them . 
+anyone,put.01,one should consider,into,Affirmative,The government views the default funds as a holding place and anyone automatically put into one should consider if it is right for them . 
+one,consider.01,if it is right for them,,Affirmative,The government views the default funds as a holding place and anyone automatically put into one should consider if it is right for them . 
+website Sorted,have.03,a tool,,Affirmative,Money website Sorted has a tool to help people figure out what sort of fund they should be in . 
+people who do not choose a KiwiSaver provider will have their money,figure.05,they should be in,,Affirmative,Money website Sorted has a tool to help people figure out what sort of fund they should be in . 
+my KiwiSaver provider,want.01,to know,,Affirmative,My provider then wanted to know if was on the right PIR or prescribed investor rate - eek this sounded complicated but actually it 's just the tax rate on my investments . 
+my KiwiSaver provider,know.01,eek this sounded complicated but,,Affirmative,My provider then wanted to know if was on the right PIR or prescribed investor rate - eek this sounded complicated but actually it 's just the tax rate on my investments . 
+different rates of tax for,depend.01,on,,Affirmative,Just like personal tax there are different rates of tax for your KiwiSaver investments depending on what you earn . 
+you,change.01,income,,Affirmative,If you have changed income recently it pays to check you are on the right rate . 
+a matter of letting your KiwiSaver provider know,check.01,you are on,,Affirmative,If you have changed income recently it pays to check you are on the right rate . 
+No one,want.01,to pay,,Affirmative,No one wants to pay more tax than they have to . 
+No one,pay.01,more tax,,Affirmative,No one wants to pay more tax than they have to . 
+I,receive.01,a tax summary,,Affirmative,As well as my account summary I also received a tax summary for my portfolio investment entity or PIE . 
+PIEs in,describe.01,the type of,,Affirmative,PIEs in the KiwiSaver sense describe the type of investment vehicle your money is in . 
+KiwiSaver schemes,receive.01,their first allocations of money,from,Affirmative,They were created in October 2007 - the same time at which KiwiSaver schemes received their first allocations of money from the Inland Revenue and began to invest it . 
+They,pay.01,tax on,,Affirmative,Most KiwiSaver schemes are PIEs which means they pay tax on the investment income based on the prescribed investor rate of their investors rather than at a tax rate for the entire entity . 
+People with money,need.01,to take into account,,Affirmative,People with money in these PIEs need to take into account any income from them when it comes to certain benefits and student loans . 
+People with money,take.01,any income,from them,Affirmative,People with money in these PIEs need to take into account any income from them when it comes to certain benefits and student loans . 
+the Inland Revenue,have.03,more details about that,,Affirmative,The Inland Revenue has more details about that here . 
+my provider,tell.01,is,me,Affirmative,The good news or so my provider tells me is that I can now get more information about my KiwiSaver fund through a QDS or quarterly disclosure statement . 
+I,get.01,more information about,,Affirmative,The good news or so my provider tells me is that I can now get more information about my KiwiSaver fund through a QDS or quarterly disclosure statement . 
+These new reports,have.03,information about,,Affirmative,"These new reports are due out at the end of March , June , September and December and have information about a fund 's performance and returns , fees and costs , where the money has been invested and the people who look after it . "
+a standardised way,make.02,it easier,,Affirmative,The best part about them is that they have to be reported in a standardised way which makes it easier to compare your fund to others . 
+This,mean.01,you can compare,,Affirmative,This means you can compare the performance returns and fees . 
+you,compare.01,the performance returns and fees,,Affirmative,This means you can compare the performance returns and fees . 
+you,compare.01,similar funds,,Affirmative,But be careful to ensure you are comparing similar funds . 
+The Sorted website,have.03,a handy tool,,Affirmative,The Sorted website has a handy tool which allows you to do this easily . 
+a handy tool,allow.01,you to do this easily,,Affirmative,The Sorted website has a handy tool which allows you to do this easily . 
+you,do.02,This,,Affirmative,The Sorted website has a handy tool which allows you to do this easily . 
+the government 's,give.01,the free money,to you,Affirmative,Despite having tax in the name this phrase is actually good news for savers because it 's the free money the government will give to you every year if you personally contribute to KiwiSaver . 
+you,put.01,up to $ 1043,,Affirmative,For every dollar you put in up to $ 1043 the government gives you 50c up to a maximum of $ 521.43 per year . 
+the government 's,give.01,every dollar,you,Affirmative,For every dollar you put in up to $ 1043 the government gives you 50c up to a maximum of $ 521.43 per year . 
+you,need.01,to ensure,,Affirmative,The year is based on the KiwiSaver year so you need to ensure you have put in at least $ 1043 by June 30 or mid June to be safe to get the full government contribution . 
+you,ensure.01,you have put in,,Affirmative,The year is based on the KiwiSaver year so you need to ensure you have put in at least $ 1043 by June 30 or mid June to be safe to get the full government contribution . 
+you,put.01,least $ 1043,,Affirmative,The year is based on the KiwiSaver year so you need to ensure you have put in at least $ 1043 by June 30 or mid June to be safe to get the full government contribution . 
+you,top.02,the full amount,,Affirmative,If you have n't put in the full amount you can top it up through the Inland Revenue and get the full amount as long as you have been in KiwiSaver for the full year to June 30 . 
+you,get.01,the full amount,,Affirmative,If you have n't put in the full amount you can top it up through the Inland Revenue and get the full amount as long as you have been in KiwiSaver for the full year to June 30 . 
+You,find.03,how to make,,Affirmative,You can find out how to make voluntary contributions to the Inland Revenue here . 
+Tamsyn Parker,help.01,readers learn more about,,Affirmative,She is passionate about helping readers learn more about to make their money work for them . 
+readers,learn.01,more about,,Affirmative,She is passionate about helping readers learn more about to make their money work for them . 
+readers,make.02,money work for them,,Affirmative,She is passionate about helping readers learn more about to make their money work for them . 
+We,aim.01,to have,,Affirmative,We aim to have healthy debate . 
+We,have.03,healthy debate,,Affirmative,We aim to have healthy debate . 
+We,publish.01,comments,,Affirmative,But we wo n't publish comments that abuse others . 
+you,post.01,further comments and,,Affirmative,"Once you login , you can post further comments and view comments made in your profile . "
+you,share.01,your views,,Affirmative,Thank you for sharing your views . 

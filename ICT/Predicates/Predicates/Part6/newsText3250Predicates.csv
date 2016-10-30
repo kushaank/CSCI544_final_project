@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+The state highway department,host.01,a public meeting on June 18,,Affirmative,The state highway department will host a public meeting on June 18 to discuss a proposed project designed to improve the safety and traffic flow on U.S. 190 between Interstate 12 and the Claiborne Hill overpass near downtown Covington . 
+The state highway department,discuss.01,a proposed project designed,,Affirmative,The state highway department will host a public meeting on June 18 to discuss a proposed project designed to improve the safety and traffic flow on U.S. 190 between Interstate 12 and the Claiborne Hill overpass near downtown Covington . 
+a proposed project designed,improve.01,the safety and,,Affirmative,The state highway department will host a public meeting on June 18 to discuss a proposed project designed to improve the safety and traffic flow on U.S. 190 between Interstate 12 and the Claiborne Hill overpass near downtown Covington . 
+a proposed project designed to improve the safety and traffic flow on U.S. 190 between Interstate 12 and the Claiborne Hill overpass near downtown Covington,improve.01,the safety and,,Affirmative,"The project is designed to improve the safety and traffic flow on the major north - south commercial artery by restricting turning movements , closing some crossovers , changing traffic signals and adding signals at U-turns , according to the news release . "
+by,postpone.01,a public meeting on June 18,,Affirmative,The meeting was originally scheduled for May 14 but was postponed by the highway department . 
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,dont.01,see it,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,see.01,the verification email,,Affirmative,"If you dont ' see it , check your spam folder . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Two men,rob.01,"Dh900,000",from,Affirmative,"Two men who robbed Dh900,000 from a security companys staff have each been sentenced to three years in prison . "
+The two Nigerians,assault.01,security guards,,Affirmative,"The two Nigerians , both unemployed and aged 25 and 23 , assaulted the company 's security guards with a stun gun , snatched the suitcase in which the latter were transporting the money to ATMs  and ran away . "
+The two Nigerians,snatch.01,the suitcase,,Affirmative,"The two Nigerians , both unemployed and aged 25 and 23 , assaulted the company 's security guards with a stun gun , snatched the suitcase in which the latter were transporting the money to ATMs  and ran away . "
+the latter,transport.01,the money,,Affirmative,"The two Nigerians , both unemployed and aged 25 and 23 , assaulted the company 's security guards with a stun gun , snatched the suitcase in which the latter were transporting the money to ATMs  and ran away . "
+The Court of,convict.01,the company 's security guards,of,Affirmative,The Court of First Instance convicted them of armed robbery and possession of a gun without permit . 
+The two staff members,enter.01,a centre,,Affirmative,The two staff members were about to enter a centre at Al Muhaisna in Al Qusais when they were attacked . 
+by,punch.01,the guard,,Affirmative,"I was punched in the face by a man while my colleague who was carrying the money was stun- gunned and he fell down , the guard added . "
+my colleague,carry.01,the money,,Affirmative,"I was punched in the face by a man while my colleague who was carrying the money was stun- gunned and he fell down , the guard added . "
+the guard,add.01,I was punched in,,Affirmative,"I was punched in the face by a man while my colleague who was carrying the money was stun- gunned and he fell down , the guard added . "
+The two men,snatch.01,the suitcase in which the latter were transporting the money to ATMs,,Affirmative,The two men then snatched the suitcase and ran away . 
+"A police corporal ,",witness.01,the defendants running in,,Affirmative,"A police corporal , who happened to witness the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am , said they were wearing masks and were being chased by people screaming thieves . "
+"A police corporal ,",say.01,they were wearing masks,,Affirmative,"A police corporal , who happened to witness the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am , said they were wearing masks and were being chased by people screaming thieves . "
+the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am,wear.01,masks,,Affirmative,"A police corporal , who happened to witness the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am , said they were wearing masks and were being chased by people screaming thieves . "
+people screaming thieves,scream.01,the thieves,,Affirmative,"A police corporal , who happened to witness the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am , said they were wearing masks and were being chased by people screaming thieves . "
+A police corporal,take.01,registration number,,Affirmative,He took down their car 's registration number and gave it to the police later . 
+A police corporal,give.01,their car 's registration number,to,Affirmative,He took down their car 's registration number and gave it to the police later . 
+A police corporal,say.01,he tried,,Affirmative,He said he tried to chase the thieves in vain as they drove recklessly . 
+A police corporal,try.01,to chase,,Affirmative,He said he tried to chase the thieves in vain as they drove recklessly . 
+A police corporal,chase.01,the thieves,,Affirmative,He said he tried to chase the thieves in vain as they drove recklessly . 
+the police,find.01,the car,,Affirmative,The police found the car the defendants used for the heist in an industrial area in Al Qusais two days later . 
+the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am,send.01,the car in addition,to,Affirmative,"We sent the car to the crime lab for fingerprints and evidence , a police lieutenant said . "
+a police lieutenant,say.01,We sent,,Affirmative,"We sent the car to the crime lab for fingerprints and evidence , a police lieutenant said . "
+the police,raid.01,a flat in,,Affirmative,The police raided a flat in Al Nakheel area after learning that the accused were there . 
+the police,learn.01,accused were there,,Affirmative,The police raided a flat in Al Nakheel area after learning that the accused were there . 
+the accused,purchase.01,with part of,,Affirmative,"New electronic devices like computers , mobile phones and tablets , were found in the flat which the accused admitted to have purchased with part of the stolen money . "
+the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am,lead.01,the police,,Affirmative,"The defendants led the police to the exchange centre through which they had sent money to their relatives , and the officers recovered the amount of money . "
+the defendants running in the car park of a centre in Al Muhaisna 4 around 10.30 am,send.01,money,to,Affirmative,"The defendants led the police to the exchange centre through which they had sent money to their relatives , and the officers recovered the amount of money . "
+the officers,recover.02,the amount of money,,Affirmative,"The defendants led the police to the exchange centre through which they had sent money to their relatives , and the officers recovered the amount of money . "

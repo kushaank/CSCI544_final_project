@@ -1,0 +1,51 @@
+1	BC	bc	NNP	_	3	nn	_
+2	,	,	,	_	1	punct	_
+3	Vilnius	vilnius	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	19.05.2014	0	CD	_	3	appos	_
+6	.	.	.	_	1	punct	_
+
+1	During	during	IN	_	12	prep	12:AM-TMP
+2	the	the	DT	_	4	det	_
+3	Informal	informal	NNP	_	4	nn	_
+4	Meeting	meeting	NNP	_	1	pobj	_
+5	of	of	IN	_	4	prep	_
+6	Ministers	ministers	NNP	p2=NNPS	5	pobj	_
+7	for	for	IN	_	6	prep	_
+8	Energy	energy	NNP	p2=NN	7	pobj	_
+9	,	,	,	_	12	punct	_
+10	Neverovic	neverovic	NNP	_	12	nsubj	12:A0=PAG
+11	also	also	RB	_	12	advmod	12:AM-ADV
+12	met	meet	VBD	pb=meet.03	0	root	_
+13	with	with	IN	_	12	prep	12:A1=COM
+14	Latvian	latvian	JJ	_	15	amod	_
+15	Minister	minister	NNP	_	13	pobj	_
+16	of	of	IN	_	15	prep	_
+17	Economy	economy	NNP	_	16	pobj	_
+18	Vjaceslavs	vjaceslavs	NNP	p2=NNPS	19	nn	_
+19	Dombrovskis	dombrovskis	NNP	_	16	pobj	_
+20	.	.	.	_	12	punct	_
+
+1	The	the	DT	_	2	det	_
+2	two	#crd#	CD	_	3	nsubj	3:A0=PAG
+3	discussed	discuss	VBD	p2=VBN|pb=discuss.01	0	root	_
+4	issues	issue	NNS	_	3	dobj	3:A1=PPT;5:A1=PPT
+5	relating	relate	VBG	pb=relate.01	4	partmod	_
+6	to	to	IN	_	5	prep	5:A2=PPT
+7	cooperation	cooperation	NN	_	6	pobj	_
+8	when	when	WRB	_	9	advmod	9:R-AM-TMP
+9	implementing	implement	VBG	pb=implement.01	5	advcl	_
+10	strategic	strategic	JJ	_	11	amod	_
+11	projects	project	NNS	_	9	dobj	9:A1=PPT
+12	in	in	IN	_	11	prep	_
+13	gas	gas	NN	_	16	nn	_
+14	and	and	CC	_	13	cc	_
+15	electricity	electricity	NN	_	13	conj	_
+16	sectors	sector	NNS	_	12	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

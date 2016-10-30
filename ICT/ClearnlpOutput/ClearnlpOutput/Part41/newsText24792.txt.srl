@@ -1,0 +1,27 @@
+1	Sorry	sorry	UH	_	10	intj	10:AM-DIS
+2	,	,	,	_	10	punct	_
+3	the	the	DT	_	4	det	_
+4	page	page	NN	_	10	nsubj	9:A1=PPT;10:A1=PPT
+5	you	you	PRP	_	7	nsubj	7:A0=PAG;9:A0=PAG
+6	are	be	VBP	_	7	aux	_
+7	trying	try	VBG	pb=try.01	4	rcmod	_
+8	to	to	TO	_	9	aux	_
+9	open	open	VB	pb=open.01	7	xcomp	7:A1=PPT
+10	is	be	VBZ	pb=be.01	0	root	_
+11	available	available	JJ	_	10	acomp	10:A2=PRD
+12	only	only	RB	_	13	advmod	_
+13	for	for	IN	_	11	prep	_
+14	our	our	PRP$	_	16	poss	_
+15	paid	pay	VBN	p2=JJ|pb=pay.01	16	amod	_
+16	subscribers	subscriber	NNS	_	13	pobj	15:A1=VSP
+17	.	.	.	_	10	punct	_
+
+1	© DIGITIMES	© digitimes	NNP	p2=NNS	2	nn	_
+2	Inc	inc	NNP	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

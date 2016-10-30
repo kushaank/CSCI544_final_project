@@ -1,0 +1,118 @@
+
+At an investor forum in Hong Kong, China this week Samsung Electronics Comp., Ltd. ( KRX:005930 ) ( KRX:005935 ) senior vice president Rhee In-jong stated that his company is looking at biometrics as a major focal point in its campaign to differentiate its smartphones.
+
+We’re looking at  various types of biometric [mechanisms] and one of things that everybody is looking at is iris detection.  We, as a market leader, are following the market trend.
+
+Samsung was actually one of the first companies to make a big deal out of this feature, highlighting it in marketing for the Galaxy Nexus and  the Galaxy S4 , last year's flagship smartphone.
+
+The sensor reads sub-epidermal skin layers and the firmware supporting it features learning algorithms for better scans and security.  A steel ring acts as a crude heat sensor for the Apple sensor, making sure it is an actual fingerprint.  The scan data is stored locally in a secure cache on Apple's A7 system-on-a-chip, which Apple claims prevents spying on its users.
+
+Like Touch ID, there's an apparent steel ring, which triggers a scan by a capacitive touch sensor.  Finer technical details of that mass market sensor are not known, but reports indicate that it too had self-learning capabilities.  Reportedly it has a worse recognition rate than Touch ID initially, but eventually reached a passable rate of around 90 percent recognition success , according to reviewers.
+
+Samsung was somewhat of a latecomer to the fingerprint sensor party, but it joined its fellow Android OEMs this year with the launch of the Galaxy S5 (GS5) flagship smartphone, which featured a swipe-style fingerprint sensor.
+
+The GS5 looked to push things a step further, offering a unique SDK that allowed the fingerprint scanner to be used as a password-like confirmation for in-app purchases in third-party apps.  eBay, Inc. ( EBAY ) payment services firm Paypal was the first major partner for the feature, debuting a fingerprint-protected billing app at launch.
+
+Samsung wants to roll out biometrics such as facial recognition and fingerprint scanners across its entire smartphone line, even on the low-end.  If it can do that, it could perhaps give a strong selling point, particularly on the budget side.
+
+One ongoing concern is that most forms of biometric sensors are vulnerable to fake objects made to resemble humans.  Photographs have been able to dupe a number of facial recognition algorithms .  Likewise hackers used fake fingers to gain unauthorized access to the iPhone 5S  last year, in a controlled experiment.  The fingers were formed based on fingerprints lifted off glass.  The hack led to Apple facing some tough questions .
+
+Security Researchers with Germany's Security Research Labs , who successfully unlocked GS5s with fake fingers, complained that the security flaw could be more damaging given the access to Paypal and other billable accounts.
+
+However, there have been no reported instances to date of iPhones, HTC One Maxes, or Galaxy S5 smartphones being actively exploited in the wild using the hack.  One reason why is the complexity.  While an expert on fingerprint sensors might be able to perform the hack with relative ease, most hackers lack the sophistication to make the detailed latex finger replicas needed for the exploit.
+
+Further, Samsung, Apple, and others have raised the general argument that without biometrics many customers simply use no password or code lock at all.  Their argument boills down to that biometric unlocks -- while perhaps flawed -- are better than no security at all.
+
+No smartphone maker has a mass-market iris scanner, yet.  Samsung was rumored to launch that technology with the GS5 , but instead went with the safer fingerprint sensor option.
+
+Samsung is currently the world's largest smartphone maker, selling an estimated 90 million smartphones in Q1 2014 .  Sales of the Galaxy S5 in Q2 2014 have reportedly been brisk, thus far , compared to the more sluggish sales of last generation's Galaxy S4.
+
+Overall, though Samsung is still struggling to recapture the wild growth it saw in 2011 and 2012 in the smartphone space.  One point where Samsung is struggling is in the enterprise space.
+
+At the investor summit Samsung disclosed that to date there are 87 million devices in the wild which are compatible with Samsung's KNOX.  First announced at Mobile World Congress 2013, KNOX was supposed to be the crux of the Samsung Approved For Enterprise (SAFE) project.  Samsung was hoping to capture the majority of customers departing from wounded Canadian enterprise smartphone maker BlackBerry, Ltd. ( TSE:BB ) whose "Balance" solution remains widely used within many organizations .
+
+BlackBerry Balance is the chief tightly integrated competitor to Samsung's KNOX.
+
+In April 2013, when it announced the GS4, it suggested KNOX would be offered onboard.  But at launch the secure build of Android was not yet available.   The Samsung Galaxy Note 3 , launched in Sept. 2013, finally brought the secure Android OS to market after nearly a year of delays.
+
+Samsung followed up with the Android v4.3 "Gingerbread" Samsung Premium Suite Upgrade, which was delivered for the GS3, GS4, and Galaxy Note II late in Nov. 2013 .  More devices were upgraded to that package early this year, raising the list of compatible KNOX devices.
+
+Samsung Knox became widely available late last year.
+
+Given the late September launch, you can quickly ascertain that the OS has been on the market for less than 9 months.  In that regard, 87 million units sounds like a pretty competitive total.  But according to Mr. In-jong only 1.8 million of the devices are actively using KNOX.  While he would not disclose who the early adopters were or what their numbers were, he did say that banks, healthcare and financial companies were among those leading pickup at present.
+
+The slow adoption is partly Samsung's fault, perhaps due to poor marketing and inconsistent updates.  Some Galaxy S3s and S4s in the wild remain uncompatible as carriers have yet to deliver Samsung's upgrade package to customers.
+
+The new unveiled vulnerability presents a serious threat to all users of phones based on this architecture, such as users [of the GS4].
+
+Samsung acknowledged the vulnerability, but said that it might have been mitigated by bundled software that typically was given to SAFE enterprise clients.  However, it also acted to offer "security patches are being rolled out for all vulnerable models", noting that the flaw was a bonafide "threat to the integrity of Knox-enabled devices."
+
+A flaw allowed apps to escape their sandbox in Samsung KNOX.  The flaw has since been patched.
+
+The flaw allowed everyday apps, such as games or productivity software, to escalate their privileges and escape the sandbox for private work, snooping on the business sandbox.
+
+The Defense Information Systems Agency (DISA) and the National Security Agency (NSA) had purchased at the time 500 GS4s to test across the Pentagon and various intelligence agencies.
+
+If Samsung can convince critics that it is secure and an attractive exit route for BlackBerry, it still has a tremendous opportunity.  After all, only BlackBerry Balance and Samsung KNOX offer tightly integrated side-by-side secure work and play sandboxes for bring-your-own-device (BYOD) smartphone users .  Samsung claims its KNOX is secure enough even for high-presssure settings such as military or intelligence clients.
+
+Samsung hopes the popularity of the Galaxy S5 will stoke KNOX adoption.
+
+A number of third party apps and services, of course, offer similar features across a number of common smartphone platforms.  But BlackBerry and Samsung remain the most tightly integrated examples of side-by-side sandboxes for BYOD devices.
+
+Samsung must also act fast to try to win customers.  Apple -- which has seen strong enterprise interest despite lacking that kind of side-by-side environment -- has been rumored to be preparing similar features for iOS 8 , which will ship with the iPhone 6 later this year.
+
+Your iris is always on display, simple for anyone else to photograph and potentially copy.  The Afghan girl whose photo graced the cover of National Geographic was found 17 years later and confirmed based on her iris pattern in the original photo.  Something the photographer never even conceived of as a possibility when he snapped the picture in 1985.
+
+Sounds like something from a spy movie.  Most smartphone theft involves you leaving your phone in your car or a public place and someone just grabs it and walks off with it.  Usually they don't even know who you are, much less have photographs of your face!
+
+So just like fingerprint scanners, this offers practical security that would defeat the common theft-scenario.
+
+In fact this MORE secure than fingerprint scanners, because you leave fingerprints on your phone just from using it.  Not the same with your retina.
+
+They don't need to stalk most people to obtain a high resolution photo of their face.  Selfie.
+
+No one needs to break into your phone to get data off it.  With the vast majority of phones anyway.
+
+Another good point.  Once someone has physical access to your phone, there's really nothing they can't do anyway.  With the proper tools.
+
+All I'm saying is bio-metric security is still better than no security, and more convenient than a password.
+
+If your girlfriend or wife wants to snoop on your phone, chances are she's not gonna be making high res photos of your face to get into it.
+
+What people are forgetting is that biometric security is awesome if used in a two-factor method of authentication.  Considering if the data on your phone is so important that people would be willing to duplicate your iris or fingerprint then either one by itself would be stupid.  However if it required your iris AND a passcode then it would be awesome.  Especially if your local device is encrypted, which would be a given if data was critical.
+
+By itself it's convenient to an end user.  Combined with a passcode and encryption it's near unbreakable for someone who needs that level of security.  I'm with you here, there is absolutely nothing negative about biometric authentication mechanisms.
+
+The issue with using biometric is not neccessarily for access to a smartphone, laptop etc.  As a second factor it can be better, but the problem is once somebody has your (fingerprint, iris pattern, etc), they have it for life.  You cannot change these items.  If they start being used for many things, theft will be bigger and non-recoverable.  A passcode, password, keyfob, can always be changed, your biometrics cannot.
+
+That's only because biometrics are fairly crude today.  When we have sensors capable of determining if the eye or finger is "alive", you've pretty much solved that issue.  Carrying around a picture of someones eye won't cut it.
+
+I didn't think Android allowed you to access a phone's storage via USB if the phone was locked.  I know WP doesn't let you do that and I'm fairly certain Android works the same way.  At least it did the last time I used it in such a fashion.
+
+Actually you appear to be right.  I'm sure there is some way around this though.  If nothing else, many people store application data and picture data on the SD card which can then just be removed.
+
+Ultimately once they have your device, they can spend as long as they need getting data off it if they really want it.
+
+I'd it's locked they can't prevent it from connecting which means you can remotely wipe. And if the device is encrypted if they reset a pass code then the device is a paperweight anyway. Again, if they got my phone my email, OneDrive and Box information are all I would worry about and I would immediately wipe the device and reset passwords to those services. Of course that's true using biometrics or an unlock code.
+
+We’re looking at  various types of biometric [mechanisms] and one of things that everybody is looking at is iris detection. We, as a market leader, are following the market trend .
+
+Last time I checked when you lead you don't follow.
+
+The market is trending towards more security.  One can still lead the market in how that security is implemented.
+
+Last time I checked when you lead you don't follow.
+
+They can be market leader and follow a trend... this security thing is just a single trend out of many, Samsung could be the leader in every trend except this one.
+
+Guess the leader/follower thing is just as valid.
+
+Call me a nut but I have zero interest in this.
+
+We, as a market leader, are following the market trend.
+
+A leader sets the trend.
+
+i dont want this feature just so we avoid "NSA IS GONNA GET ME DOWN WITH THE GOV" posts.
+
+Originally my headline was referring to the typo? "4.3 Gingerbread". I was more thrown off by that than laeadung and following.

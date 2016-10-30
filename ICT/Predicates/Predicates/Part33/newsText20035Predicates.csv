@@ -1,0 +1,72 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Secretary Robert McDonald,say.01,is in,,Affirmative,"MEMPHIS , Tennessee - The Veterans Affairs Department is in the process of holding bad employees accountable amid a scandal about long wait times for patients and other problems , VA Secretary Robert McDonald said Thursday , but he declined to say how many people were being fired and who they were . "
+VA Secretary Robert McDonald,decline.02,to say,,Affirmative,"MEMPHIS , Tennessee - The Veterans Affairs Department is in the process of holding bad employees accountable amid a scandal about long wait times for patients and other problems , VA Secretary Robert McDonald said Thursday , but he declined to say how many people were being fired and who they were . "
+VA Secretary Robert McDonald,say.01,people were being fired and,,Affirmative,"MEMPHIS , Tennessee - The Veterans Affairs Department is in the process of holding bad employees accountable amid a scandal about long wait times for patients and other problems , VA Secretary Robert McDonald said Thursday , but he declined to say how many people were being fired and who they were . "
+VA Secretary Robert McDonald,visit.01,with veterans and employees,,Affirmative,"McDonald visited with veterans and employees at the Memphis VA hospital on Thursday , a day after addressing the American Veterans national convention . "
+VA Secretary Robert McDonald,say.01,are allowed,,Affirmative,"McDonald said employees who are being fired are allowed due process , but the agency is working as quickly as it can as it goes through the process under a new law that addresses the VA 's firing practices . "
+employees,allow.01,due process,,Affirmative,"McDonald said employees who are being fired are allowed due process , but the agency is working as quickly as it can as it goes through the process under a new law that addresses the VA 's firing practices . "
+a new law,address.02,firing practices,,Affirmative,"McDonald said employees who are being fired are allowed due process , but the agency is working as quickly as it can as it goes through the process under a new law that addresses the VA 's firing practices . "
+You,get.06,to treat,,Affirmative,"You 've got to treat that person with respect , he told reporters at the hospital . "
+You,treat.01,that person,,Affirmative,"You 've got to treat that person with respect , he told reporters at the hospital . "
+VA Secretary Robert McDonald,tell.01,You 've got,reporters,Affirmative,"You 've got to treat that person with respect , he told reporters at the hospital . "
+a certain due process,allow.01,You,,Affirmative,They have to be allowed a certain due process that 's allowed them by law or by statute or by policy . 
+reporters,talk.01,about names,to you,Affirmative,"And , so , we ca n't talk to you about names , we ca n't talk to you about individuals , even though that 's what you would like . "
+reporters,talk.01,about individuals,to you,Affirmative,"And , so , we ca n't talk to you about names , we ca n't talk to you about individuals , even though that 's what you would like . "
+reporters,do.02,reporters,,Affirmative,We ca n't do that because that would be disrespectful . 
+reporters,get.06,to deal with it,,Affirmative,"On the other hand , we 've got to deal with it as quickly as we can , he added . "
+reporters,deal.01,with it,,Affirmative,"On the other hand , we 've got to deal with it as quickly as we can , he added . "
+he,add.01,", we 've got",,Affirmative,"On the other hand , we 've got to deal with it as quickly as we can , he added . "
+reporters,get.06,to deal with it,,Affirmative,We 've got to deal with it deliberately and we 've got to deal with it appropriately . 
+reporters,deal.01,with it,,Affirmative,We 've got to deal with it deliberately and we 've got to deal with it appropriately . 
+reporters,get.06,to deal with it,,Affirmative,We 've got to deal with it deliberately and we 've got to deal with it appropriately . 
+reporters,deal.01,with it,,Affirmative,We 've got to deal with it deliberately and we 've got to deal with it appropriately . 
+he,tell.01,", we are going",you,Affirmative,"I can tell you , we are going to hold people accountable , and we 're going to do that as quickly as we possibly can . "
+reporters,hold.02,people accountable,,Affirmative,"I can tell you , we are going to hold people accountable , and we 're going to do that as quickly as we possibly can . "
+reporters,do.02,people,,Affirmative,"I can tell you , we are going to hold people accountable , and we 're going to do that as quickly as we possibly can . "
+he,say.01,That 's not relevant,,Affirmative,"When asked how many people have been fired , he said : That 's not relevant . "
+by,sign.01,billion VA overhaul law signed by,,Affirmative,"A $ 16.3 billion VA overhaul law signed by President Barack Obama last week grants the VA secretary authority to immediately fire poor - performing senior executives , while providing employees with streamlined appeals rights . "
+billion VA overhaul law signed by,grant.01,secretary authority,,Affirmative,"A $ 16.3 billion VA overhaul law signed by President Barack Obama last week grants the VA secretary authority to immediately fire poor - performing senior executives , while providing employees with streamlined appeals rights . "
+Fired employees,have.03,seven days,,Affirmative,"Fired employees would have seven days to appeal , with a decision by an administrative judge due in 21 days . "
+Fired employees,appeal.01,with,,Affirmative,"Fired employees would have seven days to appeal , with a decision by an administrative judge due in 21 days . "
+members of Congress,complain.01,that it has taken months,,Affirmative,The law was adopted after members of Congress from both parties complained that it has taken months to fire VA employees . 
+Congress from both parties,take.10,months,,Affirmative,The law was adopted after members of Congress from both parties complained that it has taken months to fire VA employees . 
+the Memphis VA,say.01,it wanted,,Affirmative,"In late July , the VA said it wanted to fire two supervisors accused of manipulating health care data in Colorado and Wyoming . "
+late July,want.01,to fire,,Affirmative,"In late July , the VA said it wanted to fire two supervisors accused of manipulating health care data in Colorado and Wyoming . "
+late July,fire.01,two supervisors accused of manipulating,,Affirmative,"In late July , the VA said it wanted to fire two supervisors accused of manipulating health care data in Colorado and Wyoming . "
+Four other employees,face.01,"suspension , demotion or admonishment",,Affirmative,"Four other employees face suspension , demotion or admonishment . "
+VA Secretary Robert McDonald,say.01,he met with veterans,,Affirmative,McDonald also said he met with veterans who like the care they have received at the Memphis VA and employees who are passionate about their jobs . 
+VA Secretary Robert McDonald,meet.03,with veterans,,Affirmative,McDonald also said he met with veterans who like the care they have received at the Memphis VA and employees who are passionate about their jobs . 
+veterans,like.01,the care,,Affirmative,McDonald also said he met with veterans who like the care they have received at the Memphis VA and employees who are passionate about their jobs . 
+Four other employees,receive.01,the care,,Affirmative,McDonald also said he met with veterans who like the care they have received at the Memphis VA and employees who are passionate about their jobs . 
+VA Secretary Robert McDonald,hear.01,complaints from veterans,,Affirmative,But he also heard complaints from veterans who have been critical of the care they have received . 
+veterans who like the care they have received at the Memphis VA,receive.01,the care they have received at the Memphis VA,,Affirmative,But he also heard complaints from veterans who have been critical of the care they have received . 
+several veterans,have.03,bad things,,Affirmative,"I talked with several veterans who had bad things to say , McDonald said . "
+VA Secretary Robert McDonald,say.01,I talked with,,Affirmative,"I talked with several veterans who had bad things to say , McDonald said . "
+VA Secretary Robert McDonald,meet.03,with whistleblowers,,Affirmative,I have met with whistleblowers while I 'm here . 
+VA Secretary Robert McDonald,meet.03,with veterans,,Affirmative,I 've met with veterans who are unhappy with their care . 
+those,get.02,access to care,,Affirmative,"Generally , the most unhappy people are those who have n't gotten access to care , and we 're trying to get that fixed . "
+we,try.01,to get,,Affirmative,"Generally , the most unhappy people are those who have n't gotten access to care , and we 're trying to get that fixed . "
+we,get.01,that fixed,,Affirmative,"Generally , the most unhappy people are those who have n't gotten access to care , and we 're trying to get that fixed . "
+VA Secretary Robert McDonald,say.01,he 's heard about,,Affirmative,He said he 's heard about a culture that 's punished people for bringing problems to light and have cited acrimony between staff and managers . 
+VA Secretary Robert McDonald,hear.01,about,,Affirmative,He said he 's heard about a culture that 's punished people for bringing problems to light and have cited acrimony between staff and managers . 
+a culture,punish.01,people,for bringing problems,Affirmative,He said he 's heard about a culture that 's punished people for bringing problems to light and have cited acrimony between staff and managers . 
+people,get.06,to stop fighting amongst ourselves,,Affirmative,"We 've got to stop fighting amongst ourselves and start working together as a team , he said . "
+people,stop.01,fighting amongst ourselves,,Affirmative,"We 've got to stop fighting amongst ourselves and start working together as a team , he said . "
+people,start.01,working together as,,Affirmative,"We 've got to stop fighting amongst ourselves and start working together as a team , he said . "
+VA Secretary Robert McDonald,say.01,We 've got,,Affirmative,"We 've got to stop fighting amongst ourselves and start working together as a team , he said . "
+VA Secretary Robert McDonald,cite.01,changes made to,,Affirmative,McDonald also cited changes made to the hospital 's emergency room after last October 's inspector general 's report that said three patients died after receiving substandard care . 
+report,say.01,patients died after receiving,,Affirmative,McDonald also cited changes made to the hospital 's emergency room after last October 's inspector general 's report that said three patients died after receiving substandard care . 
+three patients,receive.01,substandard care,,Affirmative,McDonald also cited changes made to the hospital 's emergency room after last October 's inspector general 's report that said three patients died after receiving substandard care . 
+general 's report,say.01,patient was given,,Affirmative,The report said one patient was given a medication despite a documented drug allergy and had a fatal reaction . 
+one patient,have.03,a fatal reaction,,Affirmative,The report said one patient was given a medication despite a documented drug allergy and had a fatal reaction . 
+Another patient,receive.01,multiple sedating medications,,Affirmative,Another patient was found unresponsive after receiving multiple sedating medications . 
+A third,have.03,high blood pressure,,Affirmative,A third had critically high blood pressure that was not aggressively monitored and experienced bleeding in the brain about five hours after going to the emergency room . 
+we,see.01,", he said",,Affirmative,"Fortunately , we 're not seeing that in every VA facility , he said . "
+the Memphis VA hospital on Thursday,say.01,have been fixed,,Affirmative,The hospital has said the problems that led to the deaths have been fixed . 
+VA Secretary Robert McDonald,say.01,were on,,Affirmative,"McDonald said a new emergency department chief and a new nurse manager were on the job , and 14 additional nurses with emergency experience were hired . "
+VA Secretary Robert McDonald,say.01,room was being added in,,Affirmative,"More room was being added in the emergency department as part of a $ 5 million renovation , he said . "
+the Memphis VA,expand.01,hours,,Affirmative,"And , the Memphis VA has expanded hours and increased the use of overtime , he said . "
+the Memphis VA,increase.01,the use of overtime,,Affirmative,"And , the Memphis VA has expanded hours and increased the use of overtime , he said . "
+VA Secretary Robert McDonald,say.01,VA has expanded hours and increased,,Affirmative,"And , the Memphis VA has expanded hours and increased the use of overtime , he said . "
+An audit released in June,show.01,veterans were made,,Affirmative,"An audit released in June showed that while more than 97 percent of 48,998 appointments at the hospital were scheduled within 30 days , 1,697 veterans were made to wait more than 30 days for appointments . "
+An audit released in June,show.01,veterans had,,Affirmative,"Another 507 veterans had to wait 61 days to 90 days for an appointment , the audit showed . "

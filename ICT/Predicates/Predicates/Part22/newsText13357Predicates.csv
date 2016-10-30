@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+from,issue.01,A statement issued from,,Affirmative,"A statement issued from the SGPC headquarters here stated that these issues were discussed during a meeting with a Pakistani delegation led by Punjab 's ( Pak ) minister for justice and human rights , Raja Ashfaq Sarvar . "
+A statement issued from,state.01,issues were discussed during,,Affirmative,"A statement issued from the SGPC headquarters here stated that these issues were discussed during a meeting with a Pakistani delegation led by Punjab 's ( Pak ) minister for justice and human rights , Raja Ashfaq Sarvar . "
+by,lead.02,a Pakistani delegation led by,,Affirmative,"A statement issued from the SGPC headquarters here stated that these issues were discussed during a meeting with a Pakistani delegation led by Punjab 's ( Pak ) minister for justice and human rights , Raja Ashfaq Sarvar . "
+Punjab chief minister,chair.01,a meeting,,Affirmative,The Pak Punjab chief minister Shahbaz Sharif was to chair this meeting but could not do so as he had to leave on a tour of China . 
+Punjab chief minister,do.02,so,,Affirmative,The Pak Punjab chief minister Shahbaz Sharif was to chair this meeting but could not do so as he had to leave on a tour of China . 
+The Pak Punjab chief minister Shahbaz Sharif,leave.02,on,,Affirmative,The Pak Punjab chief minister Shahbaz Sharif was to chair this meeting but could not do so as he had to leave on a tour of China . 
+the issues,top.01,the safety of minorities in Pakistan,,Affirmative,Among the issues that topped the agenda was the safety of minorities in Pakistan . 
+the SGPC delegation,refer.01,to,,Affirmative,"In this context , the SGPC delegation referred to Sikh 's being targeted by militant groups in the North West Frontier Province . "
+by,target.01,this context,,Affirmative,"In this context , the SGPC delegation referred to Sikh 's being targeted by militant groups in the North West Frontier Province . "
+Makkar,tell.01,Sikhs had respect for,Punjab minister,Affirmative,"During discussions , Makkar told the Pakistan Punjab minister that the Sikhs had respect for all religions and had made contributions towards the economy of Pakistan . "
+the Sikhs,have.03,respect for,,Affirmative,"During discussions , Makkar told the Pakistan Punjab minister that the Sikhs had respect for all religions and had made contributions towards the economy of Pakistan . "
+the Pakistan Punjab minister,assure.01,the SGPC delegation,that he would take up,Affirmative,The minister assured the SGPC delegation that he would take up this issue with the Federal government of his country . 
+the Pakistan Punjab minister,take.01,this issue,,Affirmative,The minister assured the SGPC delegation that he would take up this issue with the Federal government of his country . 
+Makkar,point.02,were often denied visas for visiting,,Affirmative,Makkar pointed out that a large number of Sikhs were often denied visas for visiting the historic gurdwaras of Pakistan with the ' jathas ' of the SGPC . 
+Makkar,impress.01,upon,,Affirmative,Makkar also impressed upon the Pakistan Punjab minister on the need of simplifying the visa regime between the two neighbours . 
+Makkar,favour.01,the setting - up of,,Affirmative,He favoured the setting - up of visa centres at Lahore and Amritsar . 
+Makkar,take.13,the issue of properties of,,Affirmative,Makkar also took up the issue of properties of historic gurdwaras in Pakistan which were being encroached upon by some people . 
+by,encroach.01,upon,,Affirmative,Makkar also took up the issue of properties of historic gurdwaras in Pakistan which were being encroached upon by some people . 
+the SGPC,offer.01,to assist in this,,Affirmative,The need for having trained ' granthis ' ( priests ) in gurdwaras in Pakistan was also taken up with the minister and the SGPC offered to assist in this . 

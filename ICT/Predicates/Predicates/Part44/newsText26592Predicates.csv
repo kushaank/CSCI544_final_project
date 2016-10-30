@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The state,provide.01,aid,to,Affirmative,"LOCAL > Soma mine victims ' families ' to soon be given payments ' The state is providing aid to the families of last week 's Soma mine disaster , Balıkesir Gov. Ahmet Turhan has said , adding that authorities would soon begin giving victims ' families payments to cope with their loss . "
+Gov. Ahmet Turhan,add.01,that authorities would soon begin giving,,Affirmative,"LOCAL > Soma mine victims ' families ' to soon be given payments ' The state is providing aid to the families of last week 's Soma mine disaster , Balıkesir Gov. Ahmet Turhan has said , adding that authorities would soon begin giving victims ' families payments to cope with their loss . "
+authorities,begin.01,giving,,Affirmative,"LOCAL > Soma mine victims ' families ' to soon be given payments ' The state is providing aid to the families of last week 's Soma mine disaster , Balıkesir Gov. Ahmet Turhan has said , adding that authorities would soon begin giving victims ' families payments to cope with their loss . "
+authorities,give.01,payments ',families,Affirmative,"LOCAL > Soma mine victims ' families ' to soon be given payments ' The state is providing aid to the families of last week 's Soma mine disaster , Balıkesir Gov. Ahmet Turhan has said , adding that authorities would soon begin giving victims ' families payments to cope with their loss . "
+families,cope.01,with,,Affirmative,"LOCAL > Soma mine victims ' families ' to soon be given payments ' The state is providing aid to the families of last week 's Soma mine disaster , Balıkesir Gov. Ahmet Turhan has said , adding that authorities would soon begin giving victims ' families payments to cope with their loss . "
+the miners,lose.02,their lives,,Affirmative,"The families of the miners who lost their lives are being given 1,000 Turkish Liras initially , and they also received food aid . "
+The families of the miners who lost their lives,receive.01,food aid,,Affirmative,"The families of the miners who lost their lives are being given 1,000 Turkish Liras initially , and they also received food aid . "
+Balkesir Gov. Ahmet Turhan,say.01,We will give each of,,Affirmative,"We will give each of these families 2,000 liras tomorrow , said Turhan . "
+Balkesir Gov. Ahmet Turhan,say.01,would be put on,,Affirmative,Turhan said the families of the 301 miners who lost their lives in an explosion that took place on May 13 would be put on a salary by the state as soon as possible . 
+the 301 miners,lose.02,their lives,,Affirmative,Turhan said the families of the 301 miners who lost their lives in an explosion that took place on May 13 would be put on a salary by the state as soon as possible . 
+our foundations for,meet.01,needs,,Affirmative,"Until that time , our foundations for social assistance and solidarity is meeting the families ' needs . "
+Philanthropists and NGOs,give.01,necessary support,,Affirmative,"Philanthropists and NGOs are giving necessary support , said Turhan . "
+Balkesir Gov. Ahmet Turhan,say.01,are giving,,Affirmative,"Philanthropists and NGOs are giving necessary support , said Turhan . "
+by,announce.01,The definitive death toll in,,Affirmative,"The definitive death toll in the disaster that took place in Manisa 's Soma district has been announced as 301 by the Turkish government , after the last body was reportedly pulled out of the mine on May 17 . "
+Others in,accuse.01,the government,of concealing,Affirmative,"Others in the area , however , accuse the government of concealing the true death toll . "
+the government,conceal.01,the true death toll,,Affirmative,"Others in the area , however , accuse the government of concealing the true death toll . "
+Others in the area,give.01,more support,to,Affirmative,We will give more support to the families . 
+Others in the area,make.LV,their graves,,Affirmative,We will make their graves . 
+Others in the area,give.01,more support,to,Affirmative,We will give more support to these families . 
+Our teams,visit.01,Soma mine victims ' families,,Affirmative,"Our teams are visiting the families and determining their needs , said the governor . "
+Our teams,determine.01,the families ' needs,,Affirmative,"Our teams are visiting the families and determining their needs , said the governor . "
+the governor,say.01,teams are visiting,,Affirmative,"Our teams are visiting the families and determining their needs , said the governor . "
+the governor,say.01,were residents of,,Affirmative,He also said 104 of the miners who died in the coal mine disaster in Soma were residents of Balıkesir province . 

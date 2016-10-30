@@ -1,0 +1,39 @@
+1	· Samsung	· samsung	NNP	p2=VBG	2	nn	_
+2	Electronics	electronics	NNP	p2=NNPS	4	nsubj	4:A0=PAG
+3	will	will	MD	_	4	aux	4:AM-MOD
+4	provide	provide	VB	pb=provide.01	0	root	_
+5	its	its	PRP$	_	9	poss	_
+6	comprehensive	comprehensive	JJ	_	9	amod	_
+7	B2B	b2b	NNP	p2=CC	9	nn	_
+8	educational	educational	JJ	_	9	amod	_
+9	products	product	NNS	_	4	dobj	4:A1=PPT
+10	and	and	CC	_	9	cc	_
+11	solution	solution	NN	_	12	nn	_
+12	packages	package	NNS	_	9	conj	_
+13	to	to	IN	_	4	prep	4:A2=GOL
+14	20	0	CD	_	16	num	_
+15	pilot	pilot	NN	_	16	nn	_
+16	schools	school	NNS	_	13	pobj	_
+17	in	in	IN	_	16	prep	_
+18	Trinidad	trinidad	NNP	_	17	pobj	_
+19	and	and	CC	_	18	cc	_
+20	Tobago	tobago	NNP	_	18	conj	_
+21	.	.	.	_	4	punct	_
+
+1	Stay	stay	VB	pb=stay.01	0	root	_
+2	connected	connect	VBN	pb=connect.01	1	acomp	1:A3
+3	through	through	IN	_	2	prep	2:AM-MNR
+4	our	our	PRP$	_	6	poss	_
+5	RSS	rss	NNP	p2=NN	6	nn	_
+6	feed	feed	NN	p2=VB	3	pobj	_
+7	and	and	CC	_	1	cc	_
+8	automatically	automatically	RB	_	9	advmod	9:AM-MNR
+9	receive	receive	VB	p2=VBP|pb=receive.01	1	conj	_
+10	new	new	JJ	_	11	amod	_
+11	posts	post	NNS	_	9	dobj	9:A1=PPT
+12	when	when	WRB	_	14	advmod	14:R-AM-TMP
+13	they	they	PRP	_	14	nsubj	14:A0=PPT
+14	go	go	VBP	pb=go.02	9	advcl	9:AM-TMP
+15	live	live	RB	p2=VB	14	advmod	14:AM-MNR
+16	.	.	.	_	1	punct	_
+

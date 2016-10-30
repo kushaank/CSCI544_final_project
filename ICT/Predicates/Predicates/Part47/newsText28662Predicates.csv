@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Kentucky State Police,charge.05,"Eric M. Puckett , 30 ,",with possession of marijuana,Affirmative,"The Kentucky State Police charged Eric M. Puckett , 30 , with possession of marijuana , tampering with physical evidence , first - degree possession of a controlled substance ( methamphetamine ) , failure to or improper turn signal , no registration plates , no registration receipt , failure of non-owner operator to maintain required insurance . "
+The Kentucky State Police,tamper.01,with,,Affirmative,"The Kentucky State Police charged Eric M. Puckett , 30 , with possession of marijuana , tampering with physical evidence , first - degree possession of a controlled substance ( methamphetamine ) , failure to or improper turn signal , no registration plates , no registration receipt , failure of non-owner operator to maintain required insurance . "
+Authorities,say.01,Puckett was taken into custody,,Affirmative,Authorities said Puckett was taken into custody at a traffic safety checkpoint on Kentucky 112 in Hopkins County . 
+The state police,say.01,Puckett tried,,Affirmative,"The state police said Puckett tried to avoid the checkpoint by making an improper turn down a dead end road , officials said . "
+Puckett,try.01,to avoid,,Affirmative,"The state police said Puckett tried to avoid the checkpoint by making an improper turn down a dead end road , officials said . "
+Puckett,avoid.01,the checkpoint,,Affirmative,"The state police said Puckett tried to avoid the checkpoint by making an improper turn down a dead end road , officials said . "
+officials,say.01,police said,,Affirmative,"The state police said Puckett tried to avoid the checkpoint by making an improper turn down a dead end road , officials said . "
+the state police,say.01,investigation was initiated,,Affirmative,The vehicle was located and the state police said a DUI investigation was initiated . 
+troopers,conduct.01,field sobriety tests,,Affirmative,"While conducting field sobriety tests , troopers observed that Mr. Puckett was attempting to conceal something in his mouth . "
+troopers,observe.02,Puckett was attempting,,Affirmative,"While conducting field sobriety tests , troopers observed that Mr. Puckett was attempting to conceal something in his mouth . "
+Eric M. Puckett,attempt.01,to conceal something in,,Affirmative,"While conducting field sobriety tests , troopers observed that Mr. Puckett was attempting to conceal something in his mouth . "
+Eric M. Puckett,conceal.01,something in,,Affirmative,"While conducting field sobriety tests , troopers observed that Mr. Puckett was attempting to conceal something in his mouth . "
+Mr. Puckett,attempt.01,to swallow,,Affirmative,"Through the investigation , it was determined Mr. Puckett attempted to swallow suspected methamphetamine , according to a news release . "
+Mr. Puckett,swallow.01,suspected methamphetamine,,Affirmative,"Through the investigation , it was determined Mr. Puckett attempted to swallow suspected methamphetamine , according to a news release . "
+officials,say.01,meth was recovered,,Affirmative,"The suspected meth was recovered , officials said . "
+authorities,say.01,was found in,,Affirmative,"A quantity of marijuana was found in the vehicle , authorities said . "
+citizens,call.02,"tip hotline ,",,Affirmative,"To anonymously report any type of suspected illegal drug activity , citizens can call the KSP toll - free drug tip hotline , 1-800 - DOPE - TIP . "

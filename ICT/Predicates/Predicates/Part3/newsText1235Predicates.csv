@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Policemen,ask.02,to leave,people,Affirmative,Policemen ask people to leave a street near to the Chinese embassy in Hanoi on Sunday . 
+people,leave.01,a street,near to,Affirmative,Policemen ask people to leave a street near to the Chinese embassy in Hanoi on Sunday . 
+authorities,deploy.01,heavy security,,Affirmative,"A call for further anti-China protests appeared to have fizzled in the capital , with authorities deploying heavy security around the Chinese embassy and other suspected protest sites . "
+"China , as you might expect",say.01,it plans,,Affirmative,"China says it plans to send five more ships in an effort to evacuate its citizens from Vietnam , where anti-Chinese protests have turned violent . "
+"China , as you might expect",plan.01,to send,,Affirmative,"China says it plans to send five more ships in an effort to evacuate its citizens from Vietnam , where anti-Chinese protests have turned violent . "
+"China , as you might expect",send.01,five more ships,,Affirmative,"China says it plans to send five more ships in an effort to evacuate its citizens from Vietnam , where anti-Chinese protests have turned violent . "
+"3,000 Chinese nationals",flee.01,mass riots,,Affirmative,"They fled mass riots that left two Chinese dead and more than 100 injured , according to China 's government . "
+mass riots,leave.01,two,Chinese dead and,Affirmative,"They fled mass riots that left two Chinese dead and more than 100 injured , according to China 's government . "
+by,trigger.01,"mass riots that left two Chinese dead and more than 100 injured , according to China 's government",,Affirmative,The riots were triggered by an oil drilling rig China moved into Vietnam 's exclusive economic zone and subsequent clashes between Chinese and Vietnamese ships . 
+the U.S. Navy,ensure.01,peace,,Affirmative,"China 's move is widely seen in the region as part of a long - term strategy for establishing dominance in the crucial South China Sea , where the U.S. Navy ensured peace for decades . "
+the Vietnamese government,sanction.01,"3,000 Chinese nationals",,Affirmative,"As the protests kicked off , the Vietnamese government appears to have sanctioned them . "
+the BBC,report.01,"factories have been set on fire ,",,Affirmative,"But , the BBC reports , in recent days , 15 foreign - owned factories have been set on fire , which worried Vietnamese authorities because Hanoi depends heavily on foreign investment for economic growth . "
+"fire ,",worry.01,Vietnamese authorities,,Affirmative,"But , the BBC reports , in recent days , 15 foreign - owned factories have been set on fire , which worried Vietnamese authorities because Hanoi depends heavily on foreign investment for economic growth . "
+Hanoi,depend.01,on,,Affirmative,"But , the BBC reports , in recent days , 15 foreign - owned factories have been set on fire , which worried Vietnamese authorities because Hanoi depends heavily on foreign investment for economic growth . "
+"China , as you might expect",say.01,Vietnam has failed,,Affirmative,"China , as you might expect , is saying Vietnam has failed to respond effectively to curb an escalation . "
+Vietnam 's,curb.01,an escalation,,Affirmative,"China , as you might expect , is saying Vietnam has failed to respond effectively to curb an escalation . "

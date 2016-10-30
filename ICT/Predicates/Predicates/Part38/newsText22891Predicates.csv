@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+University Human Resources,hold.04,events,,Affirmative,"Every spring , University Human Resources holds events to recognize employees marking their 10th , 15th or 20th year at U.Va . "
+University Human Resources,recognize.01,employees marking,,Affirmative,"Every spring , University Human Resources holds events to recognize employees marking their 10th , 15th or 20th year at U.Va . "
+employees marking,mark.01,year at U.Va,,Affirmative,"Every spring , University Human Resources holds events to recognize employees marking their 10th , 15th or 20th year at U.Va . "
+The festive event,feature.01,carpet welcome and popcorn and,,Affirmative,The festive event featured a red carpet welcome and popcorn and other treats before and after the ceremony . 
+the employee,have.03,a photo taken with,,Affirmative,"Each person 's name was called and the employee walked across the stage , then had a photo taken with the vice president heading their unit . "
+the vice president,head.01,their unit,,Affirmative,"Each person 's name was called and the employee walked across the stage , then had a photo taken with the vice president heading their unit . "
+winners,receive.01,carpet treatment,,Affirmative,The Years of Service honorees and Outstanding Contribution Award winners received the red - carpet treatment at a ceremony and reception held May 13 at the John Paul Jones Arena . 

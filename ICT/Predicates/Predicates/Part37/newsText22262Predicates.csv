@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A judge,rule.01,old woman,,Affirmative,"Judge : Woman accused in Kensington fatal stabbing ' not guilty by reason of insanity ' MARTINEZ -- A judge has ruled a 58 - year - old woman is not guilty by reason of insanity for stabbing her 81 - year - old neighbor to death in 2012 , according to the Contra Costa District Attorney 's Office . "
+Judge Terri Mockler,issue.01,the ruling,,Affirmative,Contra Costa Judge Terri Mockler issued the ruling at a hearing on Friday after Diane Sydenham pleaded guilty to second - degree murder . 
+Diane Sydenham,plead.02,guilty to,,Affirmative,Contra Costa Judge Terri Mockler issued the ruling at a hearing on Friday after Diane Sydenham pleaded guilty to second - degree murder . 
+Diane Sydenham,spend.02,the remainder of,,Affirmative,"Instead of prison time , Sydenham will spend the remainder of her life in a state mental hospital . "
+Authorities,say.01,Sydenham stabbed,,Affirmative,Authorities said Sydenham stabbed retired psychologist James Durkin 28 times in the chest with a kitchen knife in August 2012 . 
+Diane Sydenham,stab.01,psychologist James Durkin,with,Affirmative,Authorities said Sydenham stabbed retired psychologist James Durkin 28 times in the chest with a kitchen knife in August 2012 . 
+a neighbor,find.01,Durkin,,Affirmative,"About three days after the stabbing , a neighbor found Durkin inside his Kensington home with the knife still in his chest . "
+A police detective,testify.01,blood was found inside,,Affirmative,"A police detective later testified at a preliminary hearing that Sydenham 's blood was found inside Durkin 's home on Coventry Road , and Durkin 's blood was found inside Sydenham 's home in nearby Albany . "

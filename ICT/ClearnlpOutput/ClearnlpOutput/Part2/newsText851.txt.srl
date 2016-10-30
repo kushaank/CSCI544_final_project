@@ -1,0 +1,12 @@
+1	Get	get	VB	p2=VBP|pb=get.01	0	root	_
+2	daily	daily	JJ	p2=RB	3	amod	_
+3	headlines	headline	NNS	_	7	nsubj	7:A0=PAG
+4	from	from	IN	_	3	prep	_
+5	Knox	knox	NNP	_	6	nn	_
+6	VillageSoup	villagesoup	NNP	_	4	pobj	_
+7	delivered	deliver	VBD	pb=deliver.01	1	ccomp	1:A1=PPT
+8	to	to	IN	_	7	prep	7:A2=GOL
+9	your	your	PRP$	_	10	poss	_
+10	in-box	in-box	NN	_	8	pobj	_
+11	!	!	.	_	1	punct	_
+

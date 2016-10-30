@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,take.01,your own actions,into account,Affirmative,"Not only is it important to teach your kids proper safety precautions , but it 's also crucial that you take your own actions into account . "
+A health issue,cause.01,Cook to have part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Aaron Cook,have.03,part of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+he and,learn.01,one of,,Affirmative,"A health issue caused Aaron Cook to have part of his leg amputated , and he and his daughter learned one of its drawbacks the hard way . "
+Target 12 fact check on,claim.01,state,,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+Target 12 fact check on,waste.01,millions,on,Affirmative,Target 12 fact check on latest campaign ad claiming state wastes millions on paper timesheets . 
+"by family , hope , and",inspire.01,line,,Affirmative,"Glenn Michael 's line is inspired by family , hope , and a promise of a better tomorrow . "
+"Max Levine ,",compete.01,against,,Affirmative,"Max Levine , an eighth grader at Wheeler School , is competing against 53 other students in the 26th annual bee , which began Monday in Washington , D.C. Max Levine , an 8th grader at The Wheeler School , is representing Rhode Island at the National Geographic Bee in Washington , DC . "
+"D.C. Max Levine , an 8th grader at The Wheeler School",receive.01,a perfect score in,,Affirmative,"According to a school spokeswoman , Levine received a perfect score in the preliminary round . "
+"D.C. Max Levine , an 8th grader at The Wheeler School",tell.01,he has been studying online with some of,The Providence Journal,Affirmative,Levine tells The Providence Journal he has been studying online with some of the friends he met while competing in the bee in 2012 . 
+"D.C. Max Levine , an 8th grader at The Wheeler School",study.01,with some of,,Affirmative,Levine tells The Providence Journal he has been studying online with some of the friends he met while competing in the bee in 2012 . 
+"D.C. Max Levine , an 8th grader at The Wheeler School",meet.02,the friends,,Affirmative,Levine tells The Providence Journal he has been studying online with some of the friends he met while competing in the bee in 2012 . 
+"D.C. Max Levine , an 8th grader at The Wheeler School",have.03,hand experience with geography,,Affirmative,Levine also has some first - hand experience with geography . 
+"D.C. Max Levine , an 8th grader at The Wheeler School",say.01,he 's traveled with,,Affirmative,"  He says he 's traveled with his family to Europe , Central America , Israel and the Caribbean . "
+"D.C. Max Levine , an 8th grader at The Wheeler School",travel.01,"to Europe ,",,Affirmative,"  He says he 's traveled with his family to Europe , Central America , Israel and the Caribbean . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

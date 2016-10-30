@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Dominique Strauss - Kahn,sue.01,director Abel Ferrara,for defamation over,Affirmative,Dominique Strauss - Kahn is to sue US film director Abel Ferrara for defamation over a movie allegedly based on the ex-IMF chief 's sex scandal . 
+My client,find.01,intolerable,,Affirmative,"My client finds the film 's accusations of rape intolerable , his lawyer said . "
+his lawyer,say.01,client finds,,Affirmative,"My client finds the film 's accusations of rape intolerable , his lawyer said . "
+a French banker,assault.01,a maid,,Affirmative,"Welcome to New York , screened at the Cannes Film Festival on Saturday , is about a French banker who sexually assaults a maid at a New York hotel . "
+Mr Strauss - Kahn,quit.01,as head of,,Affirmative,Mr Strauss - Kahn quit as head of the International Monetary Fund in 2011 after facing similar allegations . 
+Mr Strauss - Kahn,face.01,similar allegations,,Affirmative,Mr Strauss - Kahn quit as head of the International Monetary Fund in 2011 after facing similar allegations . 
+a maid at,accuse.01,The 65-year-old,of trying,Affirmative,The 65 - year - old was arrested in New York three years ago when a maid at the Sofitel hotel in New York accused him of trying to rape her . 
+The 65-year-old,try.01,to rape her,,Affirmative,The 65 - year - old was arrested in New York three years ago when a maid at the Sofitel hotel in New York accused him of trying to rape her . 
+The 65-year-old,rape.01,a maid at the Sofitel hotel in New York,,Affirmative,The 65 - year - old was arrested in New York three years ago when a maid at the Sofitel hotel in New York accused him of trying to rape her . 
+Mr Strauss - Kahn,reach.01,a settlement with,,Affirmative,"The charges were eventually dropped , and Mr Strauss - Kahn subsequently reached a settlement with the maid , Nafissatou Diallo . "
+Mr Strauss-Kahn 's,deny.01,allegations,,Affirmative,He is still due to stand trial in an unrelated case in France on charges of hiring prostitutes for sex parties - allegations he denies . 
+"His lawyer ,",say.01,boss would take,,Affirmative,"' Disgusted and frightened ' His lawyer , Jean Veil , said the former IMF boss would take legal action for defamation over the accusations of rape and the insinuations made throughout the movie . "
+Jean Veil,add.01,Kahn was disgusted and frightened by,,Affirmative,"He added that Mr Strauss - Kahn was disgusted and frightened by the film , which stars French actor Gerard Depardieu in the lead role . "
+The prosecutor in,clear.02,The prosecutor in New York,of,Affirmative,"The prosecutor in New York cleared him of all charges [ and ] he has a right to be forgotten like everyone else , Mr Veil told French radio station Europe 1 on Monday . "
+The prosecutor in New York,have.03,a right,,Affirmative,"The prosecutor in New York cleared him of all charges [ and ] he has a right to be forgotten like everyone else , Mr Veil told French radio station Europe 1 on Monday . "
+Jean Veil,allege.01,carried,,Affirmative,The lawyer also alleged that Welcome to New York carried anti-Semitic overtones . 
+Welcome to,carry.01,anti-Semitic overtones,,Affirmative,The lawyer also alleged that Welcome to New York carried anti-Semitic overtones . 
+by,echo.01,This,,Affirmative,"This was echoed by Mr Strauss - Kahn 's ex-wife , Anne Sinclair , who accused Mr Ferrara and producers of projecting their fantasies about money and Jews . "
+"ex-wife ,",accuse.01,Mr Ferrara and producers,of projecting,Affirmative,"This was echoed by Mr Strauss - Kahn 's ex-wife , Anne Sinclair , who accused Mr Ferrara and producers of projecting their fantasies about money and Jews . "
+Mr Ferrara and producers,project.02,their fantasies about money and Jews,,Affirmative,"This was echoed by Mr Strauss - Kahn 's ex-wife , Anne Sinclair , who accused Mr Ferrara and producers of projecting their fantasies about money and Jews . "
+Welcome to,tell.01,the story of,,Affirmative,Welcome to New York tells the story of how a French economics professor becomes a politician backed by his wife 's millions and rises to fame and prosperity only to be brought down by accusations of rape . 
+by,back.01,a politician backed by,,Affirmative,Welcome to New York tells the story of how a French economics professor becomes a politician backed by his wife 's millions and rises to fame and prosperity only to be brought down by accusations of rape . 
+by accusations of rape,bring.01,a politician backed by,,Affirmative,Welcome to New York tells the story of how a French economics professor becomes a politician backed by his wife 's millions and rises to fame and prosperity only to be brought down by accusations of rape . 
+"American director ,",respond.01,to news of,,Affirmative,"The film 's American director , Abel Ferrara , responded to news of the lawsuit by invoking his freedom of expression . "
+Mr Strauss-Kahn 's,say.01,is not,,Affirmative,"[ Strauss - Kahn ] is not the only guy who got caught in a situation like this , he said , adding : Let my lawyer talk to his lawyer . "
+Mr Strauss-Kahn 's,add.01,Let,,Affirmative,"[ Strauss - Kahn ] is not the only guy who got caught in a situation like this , he said , adding : Let my lawyer talk to his lawyer . "
+by,inspire.01,"the film , which stars French actor Gerard Depardieu in the lead role",,Affirmative,"The movie opens with a disclaimer , which reads : This film was inspired by a court case , the public stages of which have been filmed , broadcast , reported and commented on throughout the media worldwide . "
+all sequences depicting,depict.01,their private lives,,Affirmative,Nonetheless the characters portrayed in the film and all sequences depicting their private lives remain entirely fictional . 
+French actor Gerard Depardieu,put.01,some of,into,Affirmative,"Depardieu put some of his own money into the movie and took a low fee of 100,000 euros ( £81,000 ) . "
+French actor Gerard Depardieu,take.01,a low fee of,,Affirmative,"Depardieu put some of his own money into the movie and took a low fee of 100,000 euros ( £81,000 ) . "
+Producer Vincent Maraval,criticise.01,establishment,for refusing,Affirmative,"Producer Vincent Maraval had previously criticised the French political , TV and movie establishment for refusing to finance the film . "
+Everyone,warn.01,not to make,us,Affirmative,"Everyone warned us not to make this film , both our friends and our enemies , he said in an interview with US magazine Variety . "
+some of his own money,make.02,"the film , which stars French actor Gerard Depardieu in the lead role",,Affirmative,"Everyone warned us not to make this film , both our friends and our enemies , he said in an interview with US magazine Variety . "
+Producer Vincent Maraval,say.01,Everyone warned us,,Affirmative,"Everyone warned us not to make this film , both our friends and our enemies , he said in an interview with US magazine Variety . "

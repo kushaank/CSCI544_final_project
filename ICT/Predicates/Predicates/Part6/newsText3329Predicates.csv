@@ -1,0 +1,110 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+One of,take.01,the stand on Monday,,Affirmative,One of the alleged killers in Bangor 's triple murder trial took the stand on Monday . 
+( NEWS CENTER ) -- One of,take.01,the stand on Monday,,Affirmative,"BANGOR , Maine ( NEWS CENTER ) -- One of the alleged killers in Bangor 's triple murder trial took the stand on Monday . "
+Nicholas Sexton,tell.01,about,jurors,Affirmative,"Nicholas Sexton told jurors about his drug dealing , relationships with the victims , and about his relationship with the co-defendant Randall Daluz . "
+Nicholas Sexton,explain.01,how he knew,,Affirmative,Sexton explained how he knew the co-defendant Daluz for nearly 10 years . 
+Nicholas Sexton,know.01,the co-defendant Randall Daluz,,Affirmative,Sexton explained how he knew the co-defendant Daluz for nearly 10 years . 
+Nicholas Sexton,say.01,", was",,Affirmative,"He said one of the victims , Daniel Borders , was a friend of his and he also bought drugs from him . "
+Daniel Borders,buy.01,drugs,from him,Affirmative,"He said one of the victims , Daniel Borders , was a friend of his and he also bought drugs from him . "
+Nicholas Sexton,tell.01,he did n't know,the jury,Affirmative,Sexton told the jury he did n't know the victim Lucas Tuscano . 
+Nicholas Sexton,know.01,the victim,,Affirmative,Sexton told the jury he did n't know the victim Lucas Tuscano . 
+his attorney,ask.02,about,,Affirmative,"When his attorney asked about Nicolle Lugdon , the third victim , Sexton broke down in tears . "
+his attorney,describe.01,Nicolle Lugdon,as,Affirmative,He described her as always being happy and told the jury whenever he was in Maine they spent time together . 
+his attorney,tell.01,they spent time together,the jury,Affirmative,He described her as always being happy and told the jury whenever he was in Maine they spent time together . 
+they,spend.02,time,,Affirmative,He described her as always being happy and told the jury whenever he was in Maine they spent time together . 
+Nicholas Sexton,explain.01,his version of,,Affirmative,Sexton explained his version of what happened leading up to the night in question . 
+attorney,question.01,about,,Affirmative,"Sexton 's attorney Jeff Toothaker questioned his client about the two alleged murder weapons , a derringer and a .380 pistol . "
+Nicholas Sexton,testify.01,Derringer was given to him,,Affirmative,Sexton testified the Derringer was given to him to pay a drug debt . 
+Nicholas Sexton,say.01,he did not like guns and,,Affirmative,"He said he did not like guns and that they were n't needed in Maine , everyone was so nice . "
+Nicholas Sexton,like.01,guns,,Affirmative,"He said he did not like guns and that they were n't needed in Maine , everyone was so nice . "
+Nicholas Sexton,claim.01,he gave,,Affirmative,Sexton claimed he gave the gun to Daluz because he liked guns . 
+Nicholas Sexton,give.01,the gun,to Daluz,Affirmative,Sexton claimed he gave the gun to Daluz because he liked guns . 
+Nicholas Sexton,like.01,guns,,Affirmative,Sexton claimed he gave the gun to Daluz because he liked guns . 
+Nicholas Sexton,say.01,pistol was sold to Daluz,,Affirmative,"Sexton said the .380 pistol was sold to Daluz by one of the victims , Daniel Borders . "
+by one of,sell.01,a .380 pistol,to Daluz,Affirmative,"Sexton said the .380 pistol was sold to Daluz by one of the victims , Daniel Borders . "
+The defendant,deny.01,having,,Affirmative,"The defendant denied having any guns in a Brewer motel room , contrary to Katelyn Lugdon , one of the victims sisters testimony . "
+The defendant,have.03,any guns,,Affirmative,"The defendant denied having any guns in a Brewer motel room , contrary to Katelyn Lugdon , one of the victims sisters testimony . "
+Nicholas Sexton,admit.01,he used,,Affirmative,"Sexton admitted he used a rental car , rented a hotel at the Ramada Inn and spent the day dealing drugs . "
+Nicholas Sexton,use.01,a rental car,,Affirmative,"Sexton admitted he used a rental car , rented a hotel at the Ramada Inn and spent the day dealing drugs . "
+Nicholas Sexton,rent.01,a hotel,,Affirmative,"Sexton admitted he used a rental car , rented a hotel at the Ramada Inn and spent the day dealing drugs . "
+Nicholas Sexton,spend.02,the day,dealing drugs,Affirmative,"Sexton admitted he used a rental car , rented a hotel at the Ramada Inn and spent the day dealing drugs . "
+Nicholas Sexton,testify.01,Daluz was also selling drugs,,Affirmative,Sexton testified Daluz was also selling drugs that day and night to other people . 
+the co-defendant Randall Daluz,sell.01,drugs,to,Affirmative,Sexton testified Daluz was also selling drugs that day and night to other people . 
+Nicholas Sexton,tell.01,Borders called him,them,Affirmative,"The jury listened as Sexton told them Borders called him seven times that night looking for pills , but Sexton only had cocaine left . "
+Borders,call.01,Daniel Borders,,Affirmative,"The jury listened as Sexton told them Borders called him seven times that night looking for pills , but Sexton only had cocaine left . "
+Nicholas Sexton,have.03,the cocaine,,Affirmative,"The jury listened as Sexton told them Borders called him seven times that night looking for pills , but Sexton only had cocaine left . "
+Nicholas Sexton,tell.01,Borders became upset with him,the jury,Affirmative,Sexton told the jury Borders became upset with him but took the cocaine anyway . 
+Daniel Borders,take.01,the cocaine,,Affirmative,Sexton told the jury Borders became upset with him but took the cocaine anyway . 
+the judge,call.02,a recess,,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+the judge,tell.01,he needed,the jury,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+the judge,determine.01,if Sexton could discuss,,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+Nicholas Sexton,discuss.01,what Daluz had said to him,,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+the co-defendant Randall Daluz,say.01,as it may violate,to him,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+An hour into the testimony,violate.01,his right,,Affirmative,"An hour into the testimony , the judge called a recess , telling the jury he needed to determine if Sexton could discuss what Daluz had said to him during August 12 - 13 as it may violate his right to a fair trial . "
+Nicholas Sexton,describe.01,went to,,Affirmative,Sexton 's testimony continued as he described how both he and Daluz went to the Schell residence after picking up more drugs . 
+both he and Daluz,pick.04,more drugs,,Affirmative,Sexton 's testimony continued as he described how both he and Daluz went to the Schell residence after picking up more drugs . 
+someone,say.01,Daluz was at,,Affirmative,This is the first time someone has said Daluz was at the home where the victims were last seen . 
+phone records,show.01,Daluz was in,,Affirmative,"Prior , only cell phone records showed Daluz was in the same area . "
+Nicholas Sexton,testify.01,Borders expected,,Affirmative,Sexton testified Borders expected him to show up at the Bangor residence because Sexton was bringing him cocaine . 
+Daniel Borders,expect.01,him to show up at,,Affirmative,Sexton testified Borders expected him to show up at the Bangor residence because Sexton was bringing him cocaine . 
+Nicholas Sexton,bring.01,cocaine,him,Affirmative,Sexton testified Borders expected him to show up at the Bangor residence because Sexton was bringing him cocaine . 
+The defendant,tell.01,Lugdon was excited,the jury,Affirmative,The defendant told the jury Lugdon was excited to see him . 
+Nicolle Lugdon,see.01,The defendant,,Affirmative,The defendant told the jury Lugdon was excited to see him . 
+The defendant,tell.01,Lugdon asked,the jury,Affirmative,He went on to tell the jury Lugdon asked where he was sleeping that night and told the jury he took it as they were spending the night together . 
+Nicolle Lugdon,ask.01,where he was sleeping,,Affirmative,He went on to tell the jury Lugdon asked where he was sleeping that night and told the jury he took it as they were spending the night together . 
+Nicolle Lugdon,tell.01,he took it,the jury,Affirmative,He went on to tell the jury Lugdon asked where he was sleeping that night and told the jury he took it as they were spending the night together . 
+The defendant,take.01,the jury Lugdon asked where he was sleeping that night,,Affirmative,He went on to tell the jury Lugdon asked where he was sleeping that night and told the jury he took it as they were spending the night together . 
+they,spend.02,the night in question,,Affirmative,He went on to tell the jury Lugdon asked where he was sleeping that night and told the jury he took it as they were spending the night together . 
+Nicholas Sexton,testify.01,victims went for,,Affirmative,Sexton testified the three victims went for a ride with both he and Daluz to go smoke weed . 
+both he and Daluz,go.05,smoke weed,,Affirmative,Sexton testified the three victims went for a ride with both he and Daluz to go smoke weed . 
+Nicholas Sexton,testify.01,Borders said something,,Affirmative,"During the car ride , Sexton testified Borders said something to Daluz that upset him . "
+Daniel Borders,say.01,something,,Affirmative,"During the car ride , Sexton testified Borders said something to Daluz that upset him . "
+Nicholas Sexton,say.01,Daluz hit Borders in,,Affirmative,He said Daluz hit Borders in the head and Sexton realized he had a gun in his hand . 
+the co-defendant Randall Daluz,hit.01,Daniel Borders,,Affirmative,He said Daluz hit Borders in the head and Sexton realized he had a gun in his hand . 
+Nicholas Sexton,realize.01,he had,,Affirmative,He said Daluz hit Borders in the head and Sexton realized he had a gun in his hand . 
+Nicholas Sexton,have.03,a gun,,Affirmative,He said Daluz hit Borders in the head and Sexton realized he had a gun in his hand . 
+Nicholas Sexton,claim.01,gun accidentally went off,,Affirmative,"Sexton claimed the gun accidentally went off , everyone panicked and Tuscano became upset . "
+Daluz,shoot.01,the victim Lucas Tuscano,,Affirmative,Sexton claims Daluz shot Tuscano . 
+Nicholas Sexton,tell.01,Pontiac was running low on gas,the jury,Affirmative,"Sexton told the jury his Pontiac was running low on gas , but Daluz did not want to stop at a gas station with two bodies in the car . "
+his Pontiac,run.01,low on gas,,Affirmative,"Sexton told the jury his Pontiac was running low on gas , but Daluz did not want to stop at a gas station with two bodies in the car . "
+the co-defendant Randall Daluz,want.01,to stop at,,Affirmative,"Sexton told the jury his Pontiac was running low on gas , but Daluz did not want to stop at a gas station with two bodies in the car . "
+the co-defendant Randall Daluz,have.03,them drive to,,Affirmative,"According to Sexton , Daluz had them drive to a friend 's house in Dedham where they could find fuel . "
+them,drive.01,to,,Affirmative,"According to Sexton , Daluz had them drive to a friend 's house in Dedham where they could find fuel . "
+them,find.01,fuel,,Affirmative,"According to Sexton , Daluz had them drive to a friend 's house in Dedham where they could find fuel . "
+Nicholas Sexton,tell.01,he grabbed,the jury,Affirmative,Sexton told the jury he grabbed a fuel can filled with diesel and used it to fill up the car . 
+Nicholas Sexton,grab.01,a fuel,,Affirmative,Sexton told the jury he grabbed a fuel can filled with diesel and used it to fill up the car . 
+Nicholas Sexton,use.01,the jury he did n't know the victim Lucas Tuscano,to fill up,Affirmative,Sexton told the jury he grabbed a fuel can filled with diesel and used it to fill up the car . 
+Nicholas Sexton,testify.01,Daluz told him,,Affirmative,He testified Daluz told him to save some because they had to burn the car later . 
+the co-defendant Randall Daluz,tell.01,to save some,him,Affirmative,He testified Daluz told him to save some because they had to burn the car later . 
+the co-defendant Randall Daluz,save.02,some,,Affirmative,He testified Daluz told him to save some because they had to burn the car later . 
+some,burn.01,a rental car,,Affirmative,He testified Daluz told him to save some because they had to burn the car later . 
+the co-defendant Randall Daluz,force.01,Nicolle Lugdon,to take,Affirmative,"Later , according to Sexton , they drove back to the Bangor area where Daluz forced Lugdon to take a bunch of pills before shooting her . "
+Nicolle Lugdon,take.01,a bunch of pills,,Affirmative,"Later , according to Sexton , they drove back to the Bangor area where Daluz forced Lugdon to take a bunch of pills before shooting her . "
+Nicholas Sexton,tell.01,he did not do anything,the jury,Affirmative,Sexton told the jury he did not do anything because he was scared . 
+Nicholas Sexton,do.02,anything,,Affirmative,Sexton told the jury he did not do anything because he was scared . 
+Nicholas Sexton,testify.01,Daluz threatened,,Affirmative,He testified Daluz threatened his children if he said anything to anyone . 
+the co-defendant Randall Daluz,say.01,anything,to anyone,Affirmative,He testified Daluz threatened his children if he said anything to anyone . 
+Nicholas Sexton,tell.01,was,the court,Affirmative,Sexton told the court the only reason Daluz did not kill him too was because he wanted Sexton charged with the crime . 
+Daluz,kill.01,Nicholas Sexton,,Affirmative,Sexton told the court the only reason Daluz did not kill him too was because he wanted Sexton charged with the crime . 
+Nicholas Sexton,want.01,Sexton charged with,,Affirmative,Sexton told the court the only reason Daluz did not kill him too was because he wanted Sexton charged with the crime . 
+Nicholas Sexton,claim.01,the co-defendant Randall Daluz,,Affirmative,Sexton claimed Daluz then forced him to burn the car to get rid of any DNA or fingerprints of Daluz's . 
+Nicholas Sexton,force.01,the co-defendant Randall Daluz,to burn,Affirmative,Sexton claimed Daluz then forced him to burn the car to get rid of any DNA or fingerprints of Daluz's . 
+the co-defendant Randall Daluz,burn.01,the car,,Affirmative,Sexton claimed Daluz then forced him to burn the car to get rid of any DNA or fingerprints of Daluz's . 
+Nicholas Sexton,tell.01,he was scared and,the jury,Affirmative,Sexton told the jury he was scared and did not know what to do . 
+Nicholas Sexton,say.01,Would you go to police,,Affirmative,"When asked why he did not go to police he said , Would you go to police with three dead people in your car ? "
+Nicholas Sexton,claim.01,he went to,,Affirmative,"Sexton claimed the next morning he went to an attorney 's office , David Bate , who is now one of his two attorneys . "
+the prosecution,begin.01,questioning Sexton,,Affirmative,"When the prosecution began questioning Sexton , he was asked if he knew any of this was going to happen when he picked up the victims . "
+the prosecution,question.01,Nicholas Sexton,,Affirmative,"When the prosecution began questioning Sexton , he was asked if he knew any of this was going to happen when he picked up the victims . "
+Nicholas Sexton,know.01,was going,,Affirmative,"When the prosecution began questioning Sexton , he was asked if he knew any of this was going to happen when he picked up the victims . "
+Nicholas Sexton,pick.04,the victims,,Affirmative,"When the prosecution began questioning Sexton , he was asked if he knew any of this was going to happen when he picked up the victims . "
+Nicholas Sexton,pick.04,this,,Affirmative,I would not have picked them up if I knew that would happen . 
+Nicholas Sexton,know.01,that would happen,,Affirmative,I would not have picked them up if I knew that would happen . 
+Nicholas Sexton,continue.01,to tell,,Affirmative,Sexton continued to tell the jury he was scared of Daluz . 
+Nicholas Sexton,tell.01,he was scared of Daluz,the jury,Affirmative,Sexton continued to tell the jury he was scared of Daluz . 
+The prosecution and,question.01,", did he call him more than",,Affirmative,"The prosecution and Daluz 's defense team both questioned why , if Sexton was so scared of Daluz , did he call him more than a dozen times the day after the murders . "
+Nicholas Sexton,call.01,Nicholas Sexton,,Affirmative,"The prosecution and Daluz 's defense team both questioned why , if Sexton was so scared of Daluz , did he call him more than a dozen times the day after the murders . "
+Nicholas Sexton,have.03,an answer for,,Affirmative,Sexton did not have an answer for this question . 
+Daluz 's defense team,have.03,the opportunity,,Affirmative,The Daluz defense team will then have the opportunity to present witnesses or Daluz himself could testify . 
+Nicholas Sexton,explain.01,his version of events,,Affirmative,Family members and friends of the victims upset as Sexton explains his version of events . 
+Sexton,paint.02,different picture,,Affirmative,Sexton painting a very different picture for the jury than the state did . 
+his version of events,point.01,the finger,at Daluz,Affirmative,His version points the finger directly at Daluz . 

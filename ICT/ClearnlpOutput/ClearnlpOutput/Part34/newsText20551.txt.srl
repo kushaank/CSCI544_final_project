@@ -1,0 +1,28 @@
+1	The	the	DT	_	2	det	_
+2	content	content	NN	_	7	nsubjpass	7:A1=PPT;13:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	this	this	DT	_	5	det	_
+5	field	field	NN	_	3	pobj	_
+6	is	be	VBZ	_	7	auxpass	_
+7	kept	keep	VBN	pb=keep.02	0	root	_
+8	private	private	JJ	_	7	oprd	7:C-A1
+9	and	and	CC	_	7	cc	_
+10	will	will	MD	_	13	aux	13:AM-MOD
+11	not	not	RB	_	13	neg	13:AM-NEG
+12	be	be	VB	_	13	auxpass	_
+13	shown	show	VBN	pb=show.01	7	conj	_
+14	publicly	publicly	RB	_	13	advmod	13:AM-MNR
+15	.	.	.	_	7	punct	_
+
+1	Web	web	NN	_	2	nn	_
+2	page	page	NN	_	3	nn	_
+3	addresses	address	NNS	_	7	nsubj	7:A1=PPT
+4	and	and	CC	_	3	cc	_
+5	e-mail	e-mail	NN	_	6	nn	_
+6	addresses	address	NNS	_	3	conj	_
+7	turn	turn	VBP	pb=turn.01	0	root	_
+8	into	into	IN	_	7	prep	7:AM-DIR
+9	links	link	NNS	_	8	pobj	_
+10	automatically	automatically	RB	_	7	advmod	7:AM-DIR
+11	.	.	.	_	7	punct	_
+

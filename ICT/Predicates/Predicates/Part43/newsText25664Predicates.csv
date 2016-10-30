@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+John Sheldon Jernigan,hand.02,$ 400,to,Affirmative,"When John Sheldon Jernigan handed over $ 400 to the clerk at the Bay County Courthouse  to pay his trespassing fine , the clerk noticed something fishy with the cash , reports WMBB ABC News - 13 i n Panama City . "
+John Sheldon Jernigan,pay.01,his trespassing,,Affirmative,"When John Sheldon Jernigan handed over $ 400 to the clerk at the Bay County Courthouse  to pay his trespassing fine , the clerk noticed something fishy with the cash , reports WMBB ABC News - 13 i n Panama City . "
+the clerk at the Bay County Courthouse,notice.01,something fishy with,,Affirmative,"When John Sheldon Jernigan handed over $ 400 to the clerk at the Bay County Courthouse  to pay his trespassing fine , the clerk noticed something fishy with the cash , reports WMBB ABC News - 13 i n Panama City . "
+13 i n Panama City,report.01,clerk noticed something fishy with,,Affirmative,"When John Sheldon Jernigan handed over $ 400 to the clerk at the Bay County Courthouse  to pay his trespassing fine , the clerk noticed something fishy with the cash , reports WMBB ABC News - 13 i n Panama City . "
+the clerk at the Bay County Courthouse,call.03,a deputy,to,Affirmative,"The clerk called a deputy to the counter , who then charged Jernigan with thirteen counts of using fake money . "
+"the counter ,",charge.05,Jernigan,with,Affirmative,"The clerk called a deputy to the counter , who then charged Jernigan with thirteen counts of using fake money . "
+We,upgrade.02,our reader,,Affirmative,We 've upgraded our reader commenting system . 
+We,comment.01,system,,Affirmative,We 've upgraded our reader commenting system . 
+The Orlando Sentinel,welcome.01,civil dialogue about,,Affirmative,The Orlando Sentinel welcomes civil dialogue about our stories ; you must register with the site to participate . 
+We,filter.02,comments for language and adherence to,,Affirmative,"We filter comments for language and adherence to our Terms of Service , but not for factual accuracy . "
+you,agree.01,to,,Affirmative,"By commenting , you agree to these legal terms . "
+*You,text.01,any of,to 43886,Affirmative,*You can also sign up by texting any of the above keywords to 43886 . 
+You,receive.01,10 messages /,,Affirmative,You will receive no more than 10 messages / week per alert list . 
+You,receive.01,subsequent messages clarifying or confirming,,Affirmative,You may receive subsequent messages clarifying or confirming your STOP request . 

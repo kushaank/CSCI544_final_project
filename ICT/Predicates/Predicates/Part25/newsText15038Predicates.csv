@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,believe.01,they know,,Affirmative,"Updated 05/20/14 - 11:11 a.m. CHICAGO ( CBS ) - Police believe they know what happened to a University of Illinois student who disappeared after he checked in for a flight at O'Hare International Airport , but never boarded the plane . "
+Police,know.01,what happened to,,Affirmative,"Updated 05/20/14 - 11:11 a.m. CHICAGO ( CBS ) - Police believe they know what happened to a University of Illinois student who disappeared after he checked in for a flight at O'Hare International Airport , but never boarded the plane . "
+he,check.02,for,,Affirmative,"Updated 05/20/14 - 11:11 a.m. CHICAGO ( CBS ) - Police believe they know what happened to a University of Illinois student who disappeared after he checked in for a flight at O'Hare International Airport , but never boarded the plane . "
+Police,board.01,the plane,,Affirmative,"Updated 05/20/14 - 11:11 a.m. CHICAGO ( CBS ) - Police believe they know what happened to a University of Illinois student who disappeared after he checked in for a flight at O'Hare International Airport , but never boarded the plane . "
+2's Mike Puccinelli,report.01,Choi was last seen on Saturday,,Affirmative,"CBS 2's Mike Puccinelli reports 19 - year - old Hye Min Choi was last seen on Saturday , when he was scheduled to catch a flight from O'Hare to Greensboro , North Carolina . "
+19-year-old Hye Min Choi,catch.01,a flight from O'Hare,,Affirmative,"CBS 2's Mike Puccinelli reports 19 - year - old Hye Min Choi was last seen on Saturday , when he was scheduled to catch a flight from O'Hare to Greensboro , North Carolina . "
+"engineering student ,",check.01,out of,,Affirmative,"The electrical engineering student , who also goes by the first name Joseph , had checked out of his dorm , took a bus to Chicago , and checked in his luggage on United Airlines flight 5892 , but he never boarded the flight . "
+The electrical engineering student,board.01,United Airlines flight 5892,,Affirmative,"The electrical engineering student , who also goes by the first name Joseph , had checked out of his dorm , took a bus to Chicago , and checked in his luggage on United Airlines flight 5892 , but he never boarded the flight . "
+His mother,realize.01,he was n't on,,Affirmative,"His mother was waiting for him in North Carolina , and quickly realized he was n't on the flight . "
+Police,say.01,he did not re-book,,Affirmative,Police said he did not re-book another flight with United . 
+The electrical engineering student,re-book.01,another flight with United,,Affirmative,Police said he did not re-book another flight with United . 
+Chicago police,think.01,they know,,Affirmative,Chicago police think they know what happened . 
+Chicago police,know.01,what happened,,Affirmative,Chicago police think they know what happened . 
+Garry McCarthy,say.01,there 's,,Affirmative,Garry McCarthy said there 's no evidence of foul play . 
+Sources,say.01,Choi might have been upset over,,Affirmative,"Sources said Choi might have been upset over his final exams , but authorities would not confirm that . "
+authorities,confirm.01,that,,Affirmative,"Sources said Choi might have been upset over his final exams , but authorities would not confirm that . "
+His mother,review.01,surveillance video tapes,,Affirmative,His mother flew to Chicago and has been reviewing surveillance video tapes with police . 
+He,have.03,a scar on,,Affirmative,He has a scar on his right eyelid . 
+police,say.01,university has been notified of,,Affirmative,"The university has been notified of the missing student , police said . "
+Anyone with information on,call.01,North detectives,,Affirmative,Anyone with information on Choi 's whereabouts should call Area North detectives at ( 312 ) 744-8266 . 

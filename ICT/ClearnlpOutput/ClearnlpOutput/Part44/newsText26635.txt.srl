@@ -1,0 +1,149 @@
+1	ANKARA	ankara	NNP	p2=NN	6	nsubj	6:A1=PPT
+2	-	-	:	p2=,	1	punct	_
+3	The	the	DT	p2=NNP	5	det	_
+4	Turkish	turkish	JJ	p2=NNP	5	amod	_
+5	Parliament	parliament	NNP	p2=NN	1	appos	_
+6	is	be	VBZ	pb=be.01	0	root	_
+7	to debate the	to debate the	JJ	p2=NNP	6	acomp	6:A2=PRD
+8	Soma coal	soma coal	NNP	p2=JJ	10	nn	_
+9	mine	mine	NN	p2=PRP	10	nn	_
+10	tragedy	tragedy	NN	_	6	attr	_
+11	on	on	IN	_	10	prep	_
+12	Tuesday	tuesday	NNP	_	11	pobj	_
+13	.	.	.	_	6	punct	_
+
+1	MPs	mp	NNS	p2=NNPS	3	nsubj	3:A0=PAG;6:A0=PAG;11:A0
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	decide	decide	VB	pb=decide.01	0	root	_
+4	whether	whether	IN	_	6	complm	_
+5	to	to	TO	_	6	aux	_
+6	set	set	VB	pb=set.03	3	xcomp	3:A1=PPT
+7	up	up	RP	_	6	prt	6:C-V
+8	a	a	DT	_	9	det	_
+9	committee	committee	NN	_	6	dobj	6:A1=PPT
+10	to	to	TO	_	11	aux	_
+11	investigate	investigate	VB	pb=investigate.01	6	advcl	6:AM-PRP
+12	the	the	DT	_	15	det	_
+13	tragedy after various	tragedy after various	JJ	_	15	amod	_
+14	political	political	JJ	_	15	amod	_
+15	parties	party	NNS	_	11	dobj	16:A0=PAG;11:A1
+16	submitted	submit	VBD	p2=VBN|pb=submit.01	15	partmod	_
+17	motions	motion	NNS	_	16	dobj	18:A0=PAG;16:A1=PPT
+18	calling	call	VBG	pb=call.03	17	partmod	_
+19	for	for	IN	_	18	prep	18:A1=PPT
+20	an	an	DT	_	21	det	_
+21	inquiry	inquiry	NN	_	19	pobj	_
+22	into	into	IN	_	21	prep	_
+23	the	the	DT	_	27	det	_
+24	13	0	CD	_	27	num	_
+25	May coal	may coal	NNP	p2=JJ	27	nn	_
+26	mine	mine	NN	p2=PRP$	27	nn	_
+27	disaster	disaster	NN	_	22	pobj	32:AM-LOC
+28	in	in	IN	_	32	prep	32:R-AM-LOC
+29	which	which	WDT	_	28	pobj	_
+30	301	0	CD	_	31	num	_
+31	miners	miner	NNS	_	32	nsubj	32:A1=PPT
+32	died	die	VBD	pb=die.01	27	rcmod	_
+33	in	in	IN	_	32	prep	32:AM-LOC
+34	western Turkey	western turkey	NNP	_	33	pobj	_
+35	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	3	det	_
+2	ruling	rule	VBG	p2=NN|pb=rule.03	3	amod	_
+3	AK Party	ak party	NNP	_	5	nsubj	2:A0=PAG;5:A0=PAG
+4	has	have	VBZ	_	5	aux	_
+5	submitted	submit	VBN	pb=submit.01	0	root	_
+6	a	a	DT	_	7	det	_
+7	motion calling	motion calling	NN	p2=VBG	5	dobj	5:A1=PPT
+8	for	for	IN	_	5	prep	5:AM-TMP
+9	a	a	DT	_	10	det	_
+10	formal investigation	formal investigation	NN	_	8	pobj	_
+11	,	,	,	_	5	punct	_
+12	as	as	IN	p2=RB	5	prep	5:A2=GOL
+13	have Turkey's main	have turkey's main	JJ	p2=VBP	14	amod	_
+14	opposition	opposition	NN	_	18	nn	_
+15	Republican	republican	NNP	p2=JJ	16	nn	_
+16	People	people	NNPS	p2=NNP	18	poss	_
+17	's	's	POS	_	16	possessive	_
+18	Party	party	NNP	_	12	pobj	_
+19	and	and	CC	_	18	cc	_
+20	the	the	DT	_	21	det	_
+21	People	people	NNS	p2=NNPS	24	poss	_
+22	's	's	POS	_	21	possessive	_
+23	Democratic	democratic	NNP	p2=JJ	24	nn	_
+24	Party	party	NNP	_	18	conj	_
+25	.	.	.	_	5	punct	_
+
+1	The	the	DT	_	3	det	_
+2	Soma	soma	NNP	p2=NN	3	nn	_
+3	tragedy	tragedy	NN	_	4	nsubj	4:A1=PPT
+4	was	be	VBD	pb=be.01	0	root	_
+5	the	the	DT	_	8	det	_
+6	worst	bad	JJS	_	8	amod	_
+7	mining	mining	NN	_	8	nn	_
+8	disaster	disaster	NN	_	4	attr	4:A2=PRD
+9	in	in	IN	_	8	prep	_
+10	Turkey	turkey	NNP	_	12	poss	_
+11	's	's	POS	_	10	possessive	_
+12	history	history	NN	_	9	pobj	_
+13	,	,	,	_	4	punct	_
+14	surpassing	surpass	VBG	pb=surpass.01	4	advcl	4:AM-ADV
+15	a	a	DT	_	17	det	_
+16	firedamp	firedamp	JJ	p2=NN	17	amod	_
+17	explosion	explosion	NN	_	14	dobj	14:A1=PPT
+18	in	in	IN	_	17	prep	_
+19	1992	0	CD	_	18	pobj	_
+20	in	in	IN	_	19	prep	_
+21	which 263	which 0	NN	p2=CD	22	nn	_
+22	miners	miner	NNS	_	20	pobj	_
+23	in	in	IN	_	22	prep	_
+24	Zonguldak	zonguldak	NNP	_	23	pobj	_
+25	.	.	.	_	4	punct	_
+
+1	Turkish	turkish	JJ	_	3	amod	_
+2	Energy	energy	NNP	p2=NN	3	nn	_
+3	Minister	minister	NNP	_	5	nn	_
+4	Taner	taner	NNP	_	5	nn	_
+5	Yildiz	yildiz	NNP	_	7	nsubj	7:A0
+6	has	have	VBZ	_	7	aux	_
+7	said 485	said 0	VBN	p2=CD|pb=said 0.01	8	amod	_
+8	miners	miner	NNS	_	10	nsubjpass	7:A1;10:A1=PPT
+9	were	be	VBD	_	10	auxpass	_
+10	rescued	rescue	VBN	pb=rescue.01	0	root	_
+11	from	from	IN	_	10	prep	10:A2=DIR
+12	the	the	DT	_	13	det	_
+13	mine	mine	NN	_	11	pobj	_
+14	.	.	.	_	10	punct	_
+
+1	Meanwhile	meanwhile	RB	_	6	advmod	6:AM-TMP
+2	,	,	,	_	6	punct	_
+3	MPs	mps	NNP	p2=NNPS	6	nsubj	6:A0=PAG
+4	will	will	MD	_	6	aux	6:AM-MOD
+5	also	also	RB	_	6	advmod	6:AM-DIS
+6	appoint	appoint	VB	pb=appoint.01	0	root	_
+7	five members	five members	NNS	p2=NNPS	6	dobj	6:A1=PPT
+8	out	out	RP	p2=IN	6	prt	6:C-V
+9	of 10	of 0	NNS	p2=CD	6	dobj	22:A1=PPT
+10	candidates to	candidates to	IN	p2=VBP	9	prep	_
+11	the	the	DT	_	13	det	_
+12	Turkish	turkish	JJ	p2=NNP	13	amod	_
+13	Court	court	NNP	p2=NN	10	pobj	_
+14	of	of	IN	_	13	prep	_
+15	Accounts	account	NNPS	p2=NNP	14	pobj	_
+16	(	(	-LRB-	_	13	punct	_
+17	Sayistay	sayistay	NNP	p2=NN	13	appos	_
+18	)	)	-RRB-	_	13	punct	_
+19	who	who	WP	_	22	nsubjpass	22:R-A1
+20	have	have	VBP	_	22	aux	_
+21	been	be	VBN	_	22	auxpass	_
+22	put	put	VBN	pb=put.01	9	rcmod	_
+23	forward by	forward by	IN	p2=VBG	22	prep	22:A2=GOL
+24	the	the	DT	_	25	det	_
+25	parliament	parliament	NN	_	30	poss	_
+26	's	's	POS	_	25	possessive	_
+27	planning	planning	NN	_	30	nn	_
+28	and	and	CC	_	27	cc	_
+29	budget	budget	NN	_	27	conj	_
+30	commission	commission	NN	_	23	pobj	_
+31	.	.	.	_	6	punct	_
+

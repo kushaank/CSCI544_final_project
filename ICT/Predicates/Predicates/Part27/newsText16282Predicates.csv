@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+Police in,issue.01,tickets,to people,Affirmative,"BRIGHTON , MI ( AP ) - Police in downtown Brighton are cracking down on disorderly conduct by issuing tickets to people who swear or cause problems following complaints about the behavior of teenagers and young adults in the area . "
+people,cause.01,problems following complaints about,,Affirmative,"BRIGHTON , MI ( AP ) - Police in downtown Brighton are cracking down on disorderly conduct by issuing tickets to people who swear or cause problems following complaints about the behavior of teenagers and young adults in the area . "
+problems following complaints about,follow.02,complaints about,,Affirmative,"BRIGHTON , MI ( AP ) - Police in downtown Brighton are cracking down on disorderly conduct by issuing tickets to people who swear or cause problems following complaints about the behavior of teenagers and young adults in the area . "
+Colin Andersen,tell.01,that he was simply venting,County Daily Press & Argus of Howell,Affirmative,"Colin Andersen told the Livingston County Daily Press & Argus of Howell that he was simply venting when he swore after a friend was ticketed for skateboarding in Brighton , a community about 35 miles northwest of Detroit . "
+Colin Andersen,swear.01,"friend was ticketed for skateboarding in Brighton ,",,Affirmative,"Colin Andersen told the Livingston County Daily Press & Argus of Howell that he was simply venting when he swore after a friend was ticketed for skateboarding in Brighton , a community about 35 miles northwest of Detroit . "
+year - old from Brighton,say.01,he was in,,Affirmative,The 19 - year - old from Brighton said he was in the parking lot near the Imagination Station playground in April when he was ticketed for disorderly conduct . 
+Colin Andersen,say.01,he swore under,,Affirmative,"Andersen said he swore under his breath and no children heard him , but he ended up with a $ 200 fine . "
+Colin Andersen,start.01,arguing,,Affirmative,"What got me to start arguing a little bit , they were asking all of us to leave because he got a ticket , Andersen said . "
+no children,ask.02,to leave,,Affirmative,"What got me to start arguing a little bit , they were asking all of us to leave because he got a ticket , Andersen said . "
+The 19-year-old from Brighton,get.01,a ticket,,Affirmative,"What got me to start arguing a little bit , they were asking all of us to leave because he got a ticket , Andersen said . "
+Colin Andersen,say.01,", they were asking all of us",,Affirmative,"What got me to start arguing a little bit , they were asking all of us to leave because he got a ticket , Andersen said . "
+Brighton police Chief Tom Wightman,say.01,it 's OK,,Affirmative,"Brighton police Chief Tom Wightman said it 's OK for teenagers to hang out downtown , and the city does n't have a law prohibiting certain words . "
+teenagers,hang.01,downtown,,Affirmative,"Brighton police Chief Tom Wightman said it 's OK for teenagers to hang out downtown , and the city does n't have a law prohibiting certain words . "
+the city,have.03,a law prohibiting,,Affirmative,"Brighton police Chief Tom Wightman said it 's OK for teenagers to hang out downtown , and the city does n't have a law prohibiting certain words . "
+a law prohibiting,prohibit.01,certain words,,Affirmative,"Brighton police Chief Tom Wightman said it 's OK for teenagers to hang out downtown , and the city does n't have a law prohibiting certain words . "
+Brighton police Chief Tom Wightman,note.01,playground is used by families and,,Affirmative,"He noted that the playground is used by families and young children , and he said the department gets complaints about teenagers and young adults . "
+by families and,use.01,the Imagination Station playground in April,,Affirmative,"He noted that the playground is used by families and young children , and he said the department gets complaints about teenagers and young adults . "
+Brighton police Chief Tom Wightman,say.01,department gets complaints about teenagers and,,Affirmative,"He noted that the playground is used by families and young children , and he said the department gets complaints about teenagers and young adults . "
+the department,get.01,complaints about teenagers and,,Affirmative,"He noted that the playground is used by families and young children , and he said the department gets complaints about teenagers and young adults . "
+Brighton police Chief Tom Wightman,say.01,That 's,,Affirmative,"That 's what gets on our radar , their behavior , he said . "
+Colin Andersen,fight.01,a ticket,,Affirmative,Andersen fought the ticket in court but lost . 
+Andersen 's statement,require.01,an officer with,,Affirmative,"That would require an officer with some incredible hearing , Wightman said . "
+Brighton police Chief Tom Wightman,say.01,That would require,,Affirmative,"That would require an officer with some incredible hearing , Wightman said . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

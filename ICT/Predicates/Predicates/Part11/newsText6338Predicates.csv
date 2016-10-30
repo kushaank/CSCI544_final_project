@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Josephine Mulry,punch.01,"goer Callum Budde , 21 ,",,Affirmative,"Josephine Mulry repeatedly punched fellow club goer Callum Budde , 21 , A woman who bit off a man 's ear in an unprovoked nightclub attack because she thought he was trying to start a fight with her boyfriend has escaped a prison term . "
+A woman,bite.01,ear,,Affirmative,"Josephine Mulry repeatedly punched fellow club goer Callum Budde , 21 , A woman who bit off a man 's ear in an unprovoked nightclub attack because she thought he was trying to start a fight with her boyfriend has escaped a prison term . "
+Josephine Mulry,think.01,he was trying,,Affirmative,"Josephine Mulry repeatedly punched fellow club goer Callum Budde , 21 , A woman who bit off a man 's ear in an unprovoked nightclub attack because she thought he was trying to start a fight with her boyfriend has escaped a prison term . "
+a man 's,try.01,to start,,Affirmative,"Josephine Mulry repeatedly punched fellow club goer Callum Budde , 21 , A woman who bit off a man 's ear in an unprovoked nightclub attack because she thought he was trying to start a fight with her boyfriend has escaped a prison term . "
+a man 's,start.01,a fight with,,Affirmative,"Josephine Mulry repeatedly punched fellow club goer Callum Budde , 21 , A woman who bit off a man 's ear in an unprovoked nightclub attack because she thought he was trying to start a fight with her boyfriend has escaped a prison term . "
+Josephine Mulry,punch.01,old Callum Budden,,Affirmative,Josephine Mulry repeatedly punched 21 - year - old Callum Budden and then bit off his ear lobe . 
+Josephine Mulry,bite.01,his ear lobe,,Affirmative,Josephine Mulry repeatedly punched 21 - year - old Callum Budden and then bit off his ear lobe . 
+by,eat.01,The bloody piece of flesh,,Affirmative,"The bloody piece of flesh was then apparently eaten by another club goer , Dorchester Crown Court heard . "
+Dorchester Crown Court,hear.01,was then apparently eaten by,,Affirmative,"The bloody piece of flesh was then apparently eaten by another club goer , Dorchester Crown Court heard . "
+"Mr Budden , who works in a nearby nightclub",need.01,plastic surgery,,Affirmative,"Following the brutal assault Mulry , 27 , was thrown out of the nightclub while Mr Budden was taken to hospital where he needed plastic surgery to reconstruct his damaged ear . "
+"Mr Budden , who works in a nearby nightclub",reconstruct.01,his damaged ear,,Affirmative,"Following the brutal assault Mulry , 27 , was thrown out of the nightclub while Mr Budden was taken to hospital where he needed plastic surgery to reconstruct his damaged ear . "
+"Mr Budden ,",say.01,he had never seen Mulry before in,,Affirmative,"Mr Budden , who works in a nearby nightclub , said he had never seen Mulry before in his life , and was so baffled by the attack that he had to be told by an onlooker that part of his ear was missing . "
+"Mr Budden , who works in a nearby nightclub",see.01,"Mulry , 27",,Affirmative,"Mr Budden , who works in a nearby nightclub , said he had never seen Mulry before in his life , and was so baffled by the attack that he had to be told by an onlooker that part of his ear was missing . "
+by,baffle.01,"Mr Budden , who works in a nearby nightclub",,Affirmative,"Mr Budden , who works in a nearby nightclub , said he had never seen Mulry before in his life , and was so baffled by the attack that he had to be told by an onlooker that part of his ear was missing . "
+by,tell.01,an unprovoked nightclub attack,,Affirmative,"Mr Budden , who works in a nearby nightclub , said he had never seen Mulry before in his life , and was so baffled by the attack that he had to be told by an onlooker that part of his ear was missing . "
+"Mr Budden , who works in a nearby nightclub",say.01,I had never seen her before in,,Affirmative,"Mr Budden , from Weymouth , said : ' I had never seen her before in my life . "
+I,see.01,the victim,,Affirmative,"Mr Budden , from Weymouth , said : ' I had never seen her before in my life . "
+I,get.01,time,,Affirmative,I did n't really get time to think it was so brief . 
+I,realise.01,what had happened,,Affirmative,' I did n't realise what had happened . 
+someone,say.01,You 're missing,,Affirmative,It took me a fair few minutes before someone said : You 're missing a bit of your ear . 
+You,miss.02,a bit of,,Affirmative,It took me a fair few minutes before someone said : You 're missing a bit of your ear . 
+another clubber,pick.04,the part of the ear,,Affirmative,"' It is not clear what happened to the part of the ear , however the court was told it is believed another clubber picked it up and put it in their mouth . "
+another clubber,put.01,the part of the ear,in,Affirmative,"' It is not clear what happened to the part of the ear , however the court was told it is believed another clubber picked it up and put it in their mouth . "
+"Mulry , 27",say.01,she was,,Affirmative,In a police interview Mulry said she was ' horrified and disgusted ' by her actions . 
+"Robert Harding , mitigating",say.01,Mulry was ',,Affirmative,"Robert Harding , mitigating , said Mulry was ' genuinely remorseful for her actions , which were genuinely out of character . "
+Robert Harding,add.01,She feels,,Affirmative,' He added : ' She feels incredibly sorry for what has happened to this victim . 
+she,feel.02,incredibly sorry for,,Affirmative,' He added : ' She feels incredibly sorry for what has happened to this victim . 
+Judge Roger Jarvis,say.01,It is plain in,,Affirmative,Judge Roger Jarvis said : ' It is plain in my judgement that the reason for the commission of this offence was your over-indulgence in alcohol . 
+"Mr Budden , who works in a nearby nightclub",follwing.01,the sentencing,,Affirmative,"' Follwing the sentencing , Mr Budden said it was ' a bit too lenient ' . "
+"Mr Budden , who works in a nearby nightclub",say.01,it was ',,Affirmative,"' Follwing the sentencing , Mr Budden said it was ' a bit too lenient ' . "
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

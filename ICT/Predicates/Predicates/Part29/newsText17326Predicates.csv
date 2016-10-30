@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the 972 students,receive.01,their undergraduate degrees,,Affirmative,"Not just for the 972 students who received their undergraduate degrees but for the school itself , which celebrated 175 years by honoring its founder , Horace Mann . "
+"the school itself ,",celebrate.02,175 years,,Affirmative,"Not just for the 972 students who received their undergraduate degrees but for the school itself , which celebrated 175 years by honoring its founder , Horace Mann . "
+the 972 students,honor.01,"its founder ,",,Affirmative,"Not just for the 972 students who received their undergraduate degrees but for the school itself , which celebrated 175 years by honoring its founder , Horace Mann . "
+"Mann ,",have.03,three students,,Affirmative,"Mann , the state�s first secretary of education , had only three students at his college , which was located in Lexington at the time . "
+Matthew Malone,use.01,a famous pop icon,to embody,Affirmative,"In a surprising twist , Malone used a famous pop icon to embody Mann 's legacy in his speech . "
+the graduates,learn.01,new skills,,Affirmative,"Malone advised that like Timberlake , the graduates would have to constantly learn new skills and reinvent themselves . "
+the graduates,reinvent.01,the graduates,,Affirmative,"Malone advised that like Timberlake , the graduates would have to constantly learn new skills and reinvent themselves . "
+Matthew Malone,say.01,style is something,,Affirmative,He said Timberlake�s �innovative and cool� style is something the grads should strive for . 
+the grads,strive.01,for,,Affirmative,He said Timberlake�s �innovative and cool� style is something the grads should strive for . 
+Matthew Malone,say.01,commenting on,,Affirmative,"�He�s like the modern day Renaissance man , � said Malone , commenting on the star�s transformations from a member of boy band N�Sync to acting to being a five - time host on Saturday Night Live . "
+�He�s like,comment.01,on,,Affirmative,"�He�s like the modern day Renaissance man , � said Malone , commenting on the star�s transformations from a member of boy band N�Sync to acting to being a five - time host on Saturday Night Live . "
+Matthew Malone,have.03,dyslexia,,Affirmative,He had dyslexia and attended three different high schools before graduating . 
+Matthew Malone,attend.01,three different high schools,,Affirmative,He had dyslexia and attended three different high schools before graduating . 
+Matthew Malone,say.01,�I should not be secretary of education for,,Affirmative,"�I should not be secretary of education for the best schools in the country , � said Malone . "
+Matthew Malone,share.01,an anecdote about,,Affirmative,He also shared an anecdote about his time as school superintendent in Swampscott . 
+a student,pass.01,the MCAS,,Affirmative,Malone worked with a student who could not pass the MCAS and had severe anger problems . 
+Matthew Malone,have.03,severe anger problems,,Affirmative,Malone worked with a student who could not pass the MCAS and had severe anger problems . 
+Matthew Malone,say.01,he never gave up on,,Affirmative,"Malone said he never gave up on that student , whom he called Antoine . "
+Matthew Malone,give.07,on,,Affirmative,"Malone said he never gave up on that student , whom he called Antoine . "
+Matthew Malone,call.01,"that student ,",Antoine,Affirmative,"Malone said he never gave up on that student , whom he called Antoine . "
+a student who could not pass the MCAS,pass.01,the MCAS,,Affirmative,The student passed the MCAS and graduated a few years later . 
+his death,get.01,Malone fired up about education,,Affirmative,"Antoine was shot�soon after , �and his death got Malone fired up about education , he said . "
+Matthew Malone,fire.01,about education,,Affirmative,"Antoine was shot�soon after , �and his death got Malone fired up about education , he said . "
+Antoine,say.01,Antoine was shot�soon,,Affirmative,"Antoine was shot�soon after , �and his death got Malone fired up about education , he said . "
+Antoine,encourage.01,the grads,to do,Affirmative,He encouraged the grads to do the same . 
+the grads,do.02,the same,,Affirmative,He encouraged the grads to do the same . 
+Don,say.01,Wear,,Affirmative,"Wear your passion as a suit of armor , � he said . "
+by,receive.01,"his speech ,",,Affirmative,"Malone was awarded an honorary doctor of education degree after his speech , which was received by a standing ovation . "
+The school,award.01,an honorary doctorate,Horace Mann,Affirmative,The school also posthumously awarded Horace Mann an honorary doctorate . 
+"1,000 people",support.01,the graduates,,Affirmative,"More than 1,000 people gathered on the Framingham Green on Sunday to support their graduates . "
+"More than 1,000 people",watch.01,the ceremony,,Affirmative,Every seat was occupied and people surrounded the graduation tent to watch the ceremony . 
+President Robert Martin,begin.01,the ceremony,,Affirmative,University President Robert Martin began the ceremony by instilling his faith in the graduates . 
+President Robert Martin,instil.01,his faith in,,Affirmative,University President Robert Martin began the ceremony by instilling his faith in the graduates . 
+University President Robert Martin,say.01,�I stand here with,,Affirmative,"�I stand here with complete confidence that you are prepared for your future , � he said . "
+Page 2 of,receive.01,Latin honors,,Affirmative,"Page 2 of 2 - More than 25 percent of the graduates received Latin honors ; 42 students graduated summa cum laude , 65 graduated magna cum laude and 158 graduated cum laude . "
+42 students,graduate.01,summa cum laude,,Affirmative,"Page 2 of 2 - More than 25 percent of the graduates received Latin honors ; 42 students graduated summa cum laude , 65 graduated magna cum laude and 158 graduated cum laude . "
+65,graduate.01,magna cum laude and,,Affirmative,"Page 2 of 2 - More than 25 percent of the graduates received Latin honors ; 42 students graduated summa cum laude , 65 graduated magna cum laude and 158 graduated cum laude . "

@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Several Democratic leaders,demand.01,an apology,,Affirmative,Several Democratic leaders are demanding an apology after Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+Republican gubernatorial candidate Bruce Rauner,greet.01,a man wearing,,Affirmative,Several Democratic leaders are demanding an apology after Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+a man wearing,wear.01,a patch of,,Affirmative,Several Democratic leaders are demanding an apology after Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+Several Democratic leaders,demand.01,an apology,,Affirmative,Several Democratic leaders are demanding an apology after Republican gubernatorial candidate Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+candidate Bruce Rauner,greet.01,a man wearing,,Affirmative,Several Democratic leaders are demanding an apology after Republican gubernatorial candidate Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+a man wearing,wear.01,a patch of,,Affirmative,Several Democratic leaders are demanding an apology after Republican gubernatorial candidate Bruce Rauner greeted a man wearing a patch of the confederate flag during an ABC7 interview . 
+Republican gubernatorial candidate Bruce Rauner,attend.01,a picnic,,Affirmative,"Rauner attended a picnic on Saturday afternoon sponsored by the ABATE Motorcycle Club , of which he 's been a member since 2008 . "
+by,sponsor.01,Saturday afternoon sponsored by,,Affirmative,"Rauner attended a picnic on Saturday afternoon sponsored by the ABATE Motorcycle Club , of which he 's been a member since 2008 . "
+Republican gubernatorial candidate Bruce Rauner,shake.01,hands,,Affirmative,"There , he shook hands with a man wearing a jacket with a confederate flag patch on the right arm with the words fighting terrorism since 1861 . "
+a man wearing,wear.01,a jacket,,Affirmative,"There , he shook hands with a man wearing a jacket with a confederate flag patch on the right arm with the words fighting terrorism since 1861 . "
+the words fighting terrorism since 1861,fight.01,terrorism,,Affirmative,"There , he shook hands with a man wearing a jacket with a confederate flag patch on the right arm with the words fighting terrorism since 1861 . "
+Republican gubernatorial candidate Bruce Rauner,meet.03,with voters,,Affirmative,"When I 'm out meeting with voters , I ca n't always control who I shake hands and who 's in which crowd , Rauner said . "
+Republican gubernatorial candidate Bruce Rauner,control.01,who I shake hands and,,Affirmative,"When I 'm out meeting with voters , I ca n't always control who I shake hands and who 's in which crowd , Rauner said . "
+Republican gubernatorial candidate Bruce Rauner,shake.01,hands with a man,,Affirmative,"When I 'm out meeting with voters , I ca n't always control who I shake hands and who 's in which crowd , Rauner said . "
+Republican gubernatorial candidate Bruce Rauner,say.01,", I ca n't always control",,Affirmative,"When I 'm out meeting with voters , I ca n't always control who I shake hands and who 's in which crowd , Rauner said . "
+"Several top Illinois Democrats , including",demand.01,an apology,,Affirmative,"Several top Illinois Democrats , including Cook County President Toni Preckwinkle , Illinois Secretary of State Jessie White and Congress members Danny Davis , Bobby Rush and Jan Schakowski , are demanding an apology . "
+Several top Illinois Democrats,write.01,It is shocking,,Affirmative,"They wrote , It is shocking to see Republican candidate for governor Bruce Rauner warmly embracing a supporter wearing the Confederate flag . "
+Bruce Rauner,embrace.01,a supporter wearing,,Affirmative,"They wrote , It is shocking to see Republican candidate for governor Bruce Rauner warmly embracing a supporter wearing the Confederate flag . "
+a supporter wearing,wear.01,the confederate flag,,Affirmative,"They wrote , It is shocking to see Republican candidate for governor Bruce Rauner warmly embracing a supporter wearing the Confederate flag . "
+Republican gubernatorial candidate Bruce Rauner,condone.01,the confederate flag,,Affirmative,I certainly do n't condone the Confederate flag . 
+Republican gubernatorial candidate Bruce Rauner,support.01,the American flag,,Affirmative,"I support the American flag , Rauner said . "
+Republican gubernatorial candidate Bruce Rauner,say.01,I support,,Affirmative,"I support the American flag , Rauner said . "
+Republican gubernatorial candidate Bruce Rauner,choose.01,to associate,,Affirmative,"As I was told as a child , you are judged by your associates and judged by to whom you choose to associate , Chicago Teachers Union President Karen Lewis said . "
+President Karen Lewis,say.01,", you are judged by",,Affirmative,"As I was told as a child , you are judged by your associates and judged by to whom you choose to associate , Chicago Teachers Union President Karen Lewis said . "
+Governor Pat Quinn,try.01,to hold on to,,Affirmative,Governor Pat Quinn is trying to hold on to his democratic party 's traditional strong support among African - Americans . 
+Governor Pat Quinn,hold.06,to,,Affirmative,Governor Pat Quinn is trying to hold on to his democratic party 's traditional strong support among African - Americans . 
+Republican gubernatorial candidate Bruce Rauner,say.01,he wo n't not concede,,Affirmative,Rauner says he wo n't not concede any group . 
+Republican gubernatorial candidate Bruce Rauner,concede.01,any group,,Affirmative,Rauner says he wo n't not concede any group . 
+African-Americans,say.01,powers to come after Bruce,,Affirmative,"For the political powers to come after Bruce in that regard I think is kind of silly , she said . "
+African-Americans,believe.01,focus should be on lack of jobs and,,Affirmative,She believes the focus should be on lack of jobs and quality education . 
+African-Americans,play.01,racial politics,,Affirmative,Let 's not play racial politics to the point of being stupid . 

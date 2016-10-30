@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A group of,write.01,a letter to,,Affirmative,"A group of Italian women have written a letter to Pope Francis , asking for an end to the Catholic Church 's requirement of celibacy for priests . "
+A group of,ask.02,for,,Affirmative,"A group of Italian women have written a letter to Pope Francis , asking for an end to the Catholic Church 's requirement of celibacy for priests . "
+priests,say.01,they 've all been in (,,Affirmative,They say they 've all been in ( or would like to be in ) secret relationships with men of the cloth . 
+priests,like.02,to be in ),,Affirmative,They say they 've all been in ( or would like to be in ) secret relationships with men of the cloth . 
+by those,say.01,a lot,,Affirmative,"As you are well aware , the letter reads , a lot has been said by those who are in favour of optional celibacy but very little is known about the devastating suffering of a woman who is deeply in love with a priest . "
+priests,place.01,the devastating suffering of a woman who is deeply in love with a priest,at,Affirmative,"We humbly place our suffering at your feet in the hope that something may change , not just for us , but for the good of the entire Church . "
+priests,add.01,consequences are,,Affirmative,"When this enormous pain leads to a definitive separation , the consequences are no less devastating and both parties are often scarred for life , they added . "
+a priest,break.04,love with someone,,Affirmative,"Right now , a priest who falls madly in love with someone can break it off , carry on in secret or leave the priesthood . "
+a priest,leave.01,the priesthood,,Affirmative,"Right now , a priest who falls madly in love with someone can break it off , carry on in secret or leave the priesthood . "
+You,trust.02,on this,,Affirmative,( You can trust me on this because I recently read The Thornbirds . ) 
+you,read.01,The Thornbirds,,Affirmative,( You can trust me on this because I recently read The Thornbirds . ) 
+The 26 women,say.01,they 're,,Affirmative,"The 26 women say they 're just a a small sample of those in their situation ; according to the Telegraph , there are 6,000 men living in Italy who 've left the church to marry , compared to 33,000 currently serving . "
+"6,000 men living in Italy",leave.01,the Church,,Affirmative,"The 26 women say they 're just a a small sample of those in their situation ; according to the Telegraph , there are 6,000 men living in Italy who 've left the church to marry , compared to 33,000 currently serving . "
+errorsâ€¦ Tradition,play.02,an important role,,Affirmative,"For now , I am in favour of maintaining celibacy , with all the pros and cons that some with it , because in ten centuries there have been more positive experiences than errorsâ€¦ Tradition plays an important role . "
+Catholic ministers,choose.01,celibacy,,Affirmative,Catholic ministers gradually chose celibacy . 
+some,opt.01,for it,,Affirmative,"Until 1100 some opted for it and some did n't â€¦ it is a question of discipline , not faith . "
+The 26 women,consider.02,marrying,,Affirmative,Personally I never considered marrying . 
+'s,replace.01,the celibacy law,with something like,Affirmative,"Here 's a thought : If it 's just about discipline , let 's replace the celibacy law with something like , I du n no , mandated vegetarianism . "
+you,du.01,"n no , mandated vegetarianism",,Affirmative,"Here 's a thought : If it 's just about discipline , let 's replace the celibacy law with something like , I du n no , mandated vegetarianism . "
+a thought,do.02,The 26 women,,Affirmative,"But of course , it 's not like the Church has quite the same history of skepticism toward hamburgers as it does women . "

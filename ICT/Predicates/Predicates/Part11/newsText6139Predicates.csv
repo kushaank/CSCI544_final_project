@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+FOX45,host.01,a national Town Hall,,Affirmative,"On Tuesday , August 26 FOX45 will host a national Town Hall on the tensions in Ferguson , MO . "
+A Vietnam veteran,say.01,he was,,Affirmative,A Vietnam veteran who says he was a human guinea pig for an Army research program is fighting the VA for help paying his medical bills . 
+A Vietnam veteran,fight.01,the VA,for help paying,Affirmative,A Vietnam veteran who says he was a human guinea pig for an Army research program is fighting the VA for help paying his medical bills . 
+help paying,pay.01,his medical bills,,Affirmative,A Vietnam veteran who says he was a human guinea pig for an Army research program is fighting the VA for help paying his medical bills . 
+Tim Josephs,say.01,have left him with,,Affirmative,"Tim Josephs says the chemicals he was given during experiments have left him with health problems , such as Parkinson's - like tremors . "
+the chemicals,leave.01,Tim Josephs,with,Affirmative,"Tim Josephs says the chemicals he was given during experiments have left him with health problems , such as Parkinson's - like tremors . "
+the VA office,award.01,disability pay,him,Affirmative,"The VA awarded him disability pay , but Josephs says it does n't cover his medical costs . "
+Tim Josephs,say.01,it does n't cover,,Affirmative,"The VA awarded him disability pay , but Josephs says it does n't cover his medical costs . "
+the VA office,cover.01,his medical costs,,Affirmative,"The VA awarded him disability pay , but Josephs says it does n't cover his medical costs . "
+Tim Josephs,appeal.01,the decision,,Affirmative,He 's appealing the decision . 
+Tim Josephs,join.01,the US Army,,Affirmative,Josephs was just 18 years old when he joined the US Army at the height of the Vietnam War . 
+Tim Josephs,feel.01,a duty,,Affirmative,"Most of my friends were drafted and I felt a duty to serve , Josephs said . "
+Tim Josephs,say.01,were drafted and,,Affirmative,"Most of my friends were drafted and I felt a duty to serve , Josephs said . "
+Tim Josephs,participate.01,in,,Affirmative,"Shortly after enlisting , Josephs was chosen to participate in a two - month program at Edgewood Arsenal Military Base in Maryland . "
+The United States,want.01,defenses against,,Affirmative,"The United States wanted defenses against a possible Soviet chemical attack and , according to CNN , for 20 years , about 7,000 military volunteers took part in the testing of some 250 chemical and biological agents . "
+"7,000 military volunteers",take.01,part,in,Affirmative,"The United States wanted defenses against a possible Soviet chemical attack and , according to CNN , for 20 years , about 7,000 military volunteers took part in the testing of some 250 chemical and biological agents . "
+Tim Josephs,demonstrate.01,symptoms,,Affirmative,"One test , I woke up and demonstrated Parkinson 's symptoms , Josephs described . "
+Tim Josephs,describe.01,"test , I woke up and demonstrated",,Affirmative,"One test , I woke up and demonstrated Parkinson 's symptoms , Josephs described . "
+My body,have.03,pain,,Affirmative,"My body shook violently and had pain throughout my body , and just a lot of numbness . "
+Tim Josephs,feel.01,The symptoms,,Affirmative,"The symptoms that I felt then are just exactly what 's come back to me in the last 10 years , Josephs said . "
+Tim Josephs,say.01,are,,Affirmative,"The symptoms that I felt then are just exactly what 's come back to me in the last 10 years , Josephs said . "
+he and,sue.01,the Department of Defense,,Affirmative,Now he and other Edgewood vets are suing the Department of Defense and the Department of Veteran Affairs . 
+the Department of Defense,make.02,it a priority,,Affirmative,"The Department of Defense has made it a priority to identify all service members exposed to chemical and biological substances , and the VA has contacted and offered free medical evaluations to thousands of veterans . "
+the VA office,offer.01,free medical evaluations,,Affirmative,"The Department of Defense has made it a priority to identify all service members exposed to chemical and biological substances , and the VA has contacted and offered free medical evaluations to thousands of veterans . "
+Tim Josephs,find.01,himself facing,,Affirmative,"But today , Josephs finds himself facing another struggle : his Parkinson 's forced him to retire early . "
+Tim Josephs,face.01,another struggle :,,Affirmative,"But today , Josephs finds himself facing another struggle : his Parkinson 's forced him to retire early . "
+his Parkinson 's,force.01,Parkinson 's,to retire early,Affirmative,"But today , Josephs finds himself facing another struggle : his Parkinson 's forced him to retire early . "
+Tim Josephs,file.01,a medical claim with,,Affirmative,"In 2010 , he filed a medical claim with the VA . "
+Tim Josephs,have.03,a hard time,,Affirmative,"I have a hard time really dressing myself , and traveling and i have attacks daily of tremors and sometime breathing difficulty and eating , Josephs said . "
+a hard time,dress.01,Tim Josephs,,Affirmative,"I have a hard time really dressing myself , and traveling and i have attacks daily of tremors and sometime breathing difficulty and eating , Josephs said . "
+Tim Josephs,have.03,attacks,,Affirmative,"I have a hard time really dressing myself , and traveling and i have attacks daily of tremors and sometime breathing difficulty and eating , Josephs said . "
+Tim Josephs,breathe.01,difficulty and eating,,Affirmative,"I have a hard time really dressing myself , and traveling and i have attacks daily of tremors and sometime breathing difficulty and eating , Josephs said . "
+Tim Josephs,say.01,I have,,Affirmative,"I have a hard time really dressing myself , and traveling and i have attacks daily of tremors and sometime breathing difficulty and eating , Josephs said . "
+Tim Josephs,ask.02,for more,,Affirmative,"But the sum is not enough to even pay for his medications , so he appealed , asking for more . "
+Tim Josephs,get.01,unwelcome news,,Affirmative,"This February , after three years of waiting and unanswered letters Josephs got unwelcome news , at the VA office in Pittsburgh . "
+Tim Josephs,say.01,That I should call back in,,Affirmative,"That I should call back in about four years , that by that time , I 'd be much closer to my file being looked at , Josephs said . "
+Tim Josephs,say.01,it could be 2018,,Affirmative,Josephs says it could be 2018 before the VA could make a decision on his case . 
+Several lawyers,handle.01,disability claims,,Affirmative,"Several lawyers CNN spoke with , who handle disability claims , say they are n't surprised ; many veterans , 275,000 as of this week , are waiting an average of four to five years for an answer on an appealed disability claim . "
+Several lawyers,say.01,they are n't surprised,,Affirmative,"Several lawyers CNN spoke with , who handle disability claims , say they are n't surprised ; many veterans , 275,000 as of this week , are waiting an average of four to five years for an answer on an appealed disability claim . "
+Tim Josephs,say.01,he received,,Affirmative,Josephs said this week he received a call from the VA saying it would increase his disability rating from 40 % to 80 % . 
+Tim Josephs,receive.01,a call from,,Affirmative,Josephs said this week he received a call from the VA saying it would increase his disability rating from 40 % to 80 % . 
+a call from,say.01,it would increase,,Affirmative,Josephs said this week he received a call from the VA saying it would increase his disability rating from 40 % to 80 % . 
+a call,increase.01,a 40 % disability rating,,Affirmative,Josephs said this week he received a call from the VA saying it would increase his disability rating from 40 % to 80 % . 
+Alaska,use.01,some,,Affirmative,"JUNEAU , Alaska ( AP ) -- Maybe police in Juneau , Alaska could have used some back up from Luke Skywalker when a call came in to check out a suspicious device on the side of a road . "
+a call,check.01,a suspicious device,,Affirmative,"JUNEAU , Alaska ( AP ) -- Maybe police in Juneau , Alaska could have used some back up from Luke Skywalker when a call came in to check out a suspicious device on the side of a road . "
+a move,shave.01,its tax bill,,Affirmative,"MIAMI ( AP ) -- Burger King is in talks to buy doughnut chain Tim Hortons and create a new holding company headquartered in Canada , a move that could shave its tax bill . "

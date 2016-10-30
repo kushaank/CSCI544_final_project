@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,try.01,to find,,Affirmative,WANTED : Police are trying to find this man after an armed robbery in Sunnynook . 
+Police,find.01,this man,,Affirmative,WANTED : Police are trying to find this man after an armed robbery in Sunnynook . 
+Auckland police,want.01,to find,,Affirmative,Auckland police want to find a good samaritan who helped try to chase down a man who robbed a Sunnynook bank armed with a nailgun . 
+Auckland police,find.01,a good samaritan,,Affirmative,Auckland police want to find a good samaritan who helped try to chase down a man who robbed a Sunnynook bank armed with a nailgun . 
+a good samaritan,help.01,try,,Affirmative,Auckland police want to find a good samaritan who helped try to chase down a man who robbed a Sunnynook bank armed with a nailgun . 
+a good samaritan,try.01,to chase down,,Affirmative,Auckland police want to find a good samaritan who helped try to chase down a man who robbed a Sunnynook bank armed with a nailgun . 
+a man,rob.01,a Sunnynook bank armed with,,Affirmative,Auckland police want to find a good samaritan who helped try to chase down a man who robbed a Sunnynook bank armed with a nailgun . 
+A man,enter.01,Kiwibank,,Affirmative,A man entered Kiwibank on Sunnynook Rd just after 1 pm on May 14 and pointed a nailgun at a teller and demanded money . 
+A man,point.01,a nailgun,at,Affirmative,A man entered Kiwibank on Sunnynook Rd just after 1 pm on May 14 and pointed a nailgun at a teller and demanded money . 
+A man,demand.01,money,,Affirmative,A man entered Kiwibank on Sunnynook Rd just after 1 pm on May 14 and pointed a nailgun at a teller and demanded money . 
+A man,flee.01,with,,Affirmative,He fled with a sum of money but a bank staff member gave chase and flagged down a car in nearby Cockayne Cres . 
+A man,flag.01,a car in,,Affirmative,He fled with a sum of money but a bank staff member gave chase and flagged down a car in nearby Cockayne Cres . 
+The driver,pick.04,the worker,,Affirmative,"The driver picked up the worker and they tried to follow the man , but lost sight of him . "
+Auckland police,try.01,to follow,,Affirmative,"The driver picked up the worker and they tried to follow the man , but lost sight of him . "
+Auckland police,follow.02,A man,,Affirmative,"The driver picked up the worker and they tried to follow the man , but lost sight of him . "
+Auckland police,lose.02,sight of him,,Affirmative,"The driver picked up the worker and they tried to follow the man , but lost sight of him . "
+the pair,see.01,man getting into,,Affirmative,A few minutes later the pair saw a similar - looking man getting into a car . 
+Police,want.01,to talk to,,Affirmative,Police want to talk to the good samaritan who helped the bank staff member . 
+the good samaritan,help.01,a bank staff member,,Affirmative,Police want to talk to the good samaritan who helped the bank staff member . 
+Police,try.01,to locate,,Affirmative,"They are also trying to locate the armed man , who is described as Maori or Pacific Islander in his 20 s or 30s . "
+Police,locate.01,"the armed man ,",,Affirmative,"They are also trying to locate the armed man , who is described as Maori or Pacific Islander in his 20 s or 30s . "
+the armed man,wear.01,"around sunglasses ,",,Affirmative,"He was wearing black wrap - around sunglasses , a black hoodie , black sleeveless puffer vest , dark pants and black sneakers with white trim . "

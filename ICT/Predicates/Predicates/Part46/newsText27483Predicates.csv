@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Christopher Haag , 38 , about 9:30 a.m.",tell.01,police,South Daytona,Affirmative,Christopher Haag told South Daytona police he was asleep while an intruder killed his wife of six years . 
+an intruder,kill.01,his wife of,,Affirmative,Christopher Haag told South Daytona police he was asleep while an intruder killed his wife of six years . 
+Investigators,find.01,"Rosemarie Haag , 45 , lying in",,Affirmative,"Investigators found Rosemarie Haag , 45 , lying in a pool of blood about 1 a.m. Monday in the hall near the front door of the condominium the couple shared on Banana Cay Drive . "
+the couple,share.01,on,,Affirmative,"Investigators found Rosemarie Haag , 45 , lying in a pool of blood about 1 a.m. Monday in the hall near the front door of the condominium the couple shared on Banana Cay Drive . "
+"Rosemarie Haag , 45",have.03,"extensive head trauma ,",,Affirmative,"She had extensive head trauma , an arrest report shows . "
+an arrest report,show.01,"extensive head trauma ,",,Affirmative,"She had extensive head trauma , an arrest report shows . "
+Officers,doubt.01,story,,Affirmative,Officers soon doubted Haag 's story . 
+Investigators,find.01,a wedding ring on,,Affirmative,Investigators found a wedding ring on the ground on a rear patio . 
+police,write.01,is incredible,,Affirmative,"The defendant 's claims to have slept on the couch while the extremely violent homicide occurred within feet of him is incredible , police wrote in the report . "
+Investigators,arrest.01,"Christopher Haag , 38 ,",,Affirmative,"They arrested Christopher Haag , 38 , about 9:30 a.m. on a charge of second - degree murder . "
+"Christopher Haag , 38 , about 9:30 a.m.",call.01,911,,Affirmative,"Haag called 911 - but only after he spoke by phone to his mother for nearly half an hour and then contacted his drug dealer , according to the report . "
+"Christopher Haag , 38 , about 9:30 a.m.",contact.01,his drug dealer,,Affirmative,"Haag called 911 - but only after he spoke by phone to his mother for nearly half an hour and then contacted his drug dealer , according to the report . "
+"Christopher Haag , 38 , about 9:30 a.m.",tell.01,he was afraid,a dispatcher,Affirmative,"He told a dispatcher he was afraid to call the police because he is on misdemeanor probation , the report states . "
+"Christopher Haag , 38 , about 9:30 a.m.",call.02,South Daytona police he was asleep while an intruder killed his wife of six years,,Affirmative,"He told a dispatcher he was afraid to call the police because he is on misdemeanor probation , the report states . "
+"Christopher Haag , 38 , about 9:30 a.m.",plead.02,no contest in March,to driving under,Affirmative,He pleaded no contest in March to driving under the influence and in February 2012 to domestic battery . 
+"Christopher Haag , 38 , about 9:30 a.m.",serve.01,year prison sentence for throwing,,Affirmative,Christopher Haag served a two - year prison sentence for throwing a deadly missile into a vehicle in 2003 . 
+"Christopher Haag , 38 , about 9:30 a.m.",throw.01,a deadly missile,into,Affirmative,Christopher Haag served a two - year prison sentence for throwing a deadly missile into a vehicle in 2003 . 

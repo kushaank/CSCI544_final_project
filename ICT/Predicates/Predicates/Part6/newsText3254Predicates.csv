@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+YORK ( CBSNewYork ) -,accuse.01,a travel company,of scamming her,Affirmative,"NEW YORK ( CBSNewYork ) - A Brooklyn woman is accusing a travel company of scamming her after she paid thousands of dollars for a trip to the Holy Land , but did n't go anywhere . "
+a travel company,scam.01,her,,Affirmative,"NEW YORK ( CBSNewYork ) - A Brooklyn woman is accusing a travel company of scamming her after she paid thousands of dollars for a trip to the Holy Land , but did n't go anywhere . "
+her,pay.01,thousands of dollars,,Affirmative,"NEW YORK ( CBSNewYork ) - A Brooklyn woman is accusing a travel company of scamming her after she paid thousands of dollars for a trip to the Holy Land , but did n't go anywhere . "
+"Marie Jacobs ,",decide.01,to take,,Affirmative,"As CBS 2's Elise Finch reported , Marie Jacobs , of Brooklyn , decided to take the trip after seeing an ad in The Tablet , a local Catholic newspaper . "
+"Marie Jacobs ,",take.01,a trip,,Affirmative,"As CBS 2's Elise Finch reported , Marie Jacobs , of Brooklyn , decided to take the trip after seeing an ad in The Tablet , a local Catholic newspaper . "
+"Marie Jacobs ,",see.01,an ad in,,Affirmative,"As CBS 2's Elise Finch reported , Marie Jacobs , of Brooklyn , decided to take the trip after seeing an ad in The Tablet , a local Catholic newspaper . "
+A company called,sell.01,"Jacobs ,",,Affirmative,"A company called Catholic Value Tours sold Jacobs , her husband and her son a 13 - day trip to Bethlehem , Jerusalem , Nazareth , Galilee and the Vatican , for just over $ 3,000 per person . "
+A company representative,tell.01,agency did n't accept,Jacobs,Affirmative,"A company representative told Jacobs the agency did n't accept credit cards , so Jacobs set up a payment plan . "
+the agency,accept.01,credit cards,,Affirmative,"A company representative told Jacobs the agency did n't accept credit cards , so Jacobs set up a payment plan . "
+Marie Jacobs,set.03,a payment plan,,Affirmative,"A company representative told Jacobs the agency did n't accept credit cards , so Jacobs set up a payment plan . "
+Marie Jacobs,send.02,four checks totaling,Catholic Value Tours,Affirmative,"Starting in April 2013 , Jacobs sent Catholic Value Tours four checks totaling $ 6,000 . "
+Marie Jacobs,figure.05,something was wrong,,Affirmative,She figured out something was wrong when the last check was never cashed . 
+Marie Jacobs,call.01,A company,,Affirmative,"She called the company , only to find its phone had been disconnected . "
+Marie Jacobs,find.01,phone had been disconnected,,Affirmative,"She called the company , only to find its phone had been disconnected . "
+Marie Jacobs,send.03,Mail,to,Affirmative,Mail she sent to the agency was returned to her . 
+Mail she sent to the agency,look.02,like I 've been duped,,Affirmative,"It looks like I 've been duped , Jacobs said . "
+Marie Jacobs,say.01,It looks,,Affirmative,"It looks like I 've been duped , Jacobs said . "
+Business Bureau,say.01,Tours has,,Affirmative,The Better Business Bureau said Catholic Value Tours has an F rating . 
+Catholic Value Tours,have.03,an F rating,,Affirmative,The Better Business Bureau said Catholic Value Tours has an F rating . 
+customers,say.01,trips were canceled and,,Affirmative,"In the past six months , there have been 14 complaints against the California - based company from customers who say their trips were canceled and their money was never returned . "
+customers who say their trips were canceled,take.01,advantage,of them,Affirmative,"Definitely , it sounds to me they took advantage of them , said Ryan Maurer , a Suffolk County resident . "
+"Ryan Maurer ,",say.01,"Definitely , it sounds to me",,Affirmative,"Definitely , it sounds to me they took advantage of them , said Ryan Maurer , a Suffolk County resident . "
+Marie Jacobs,say.01,she does n't blame,,Affirmative,Jacobs said she does n't blame her church or The Tablet - just the company targeting the Catholic community for what appears to be a scam . 
+Marie Jacobs,blame.01,her church or,,Affirmative,Jacobs said she does n't blame her church or The Tablet - just the company targeting the Catholic community for what appears to be a scam . 
+just the company targeting,target.01,the Catholic community,for,Affirmative,Jacobs said she does n't blame her church or The Tablet - just the company targeting the Catholic community for what appears to be a scam . 
+Marie Jacobs,say.01,I 'm,,Affirmative,"I 'm very upset that I 've been so deceived , Jacobs said . "

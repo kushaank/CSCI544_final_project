@@ -1,0 +1,50 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+We,re-imagine.01,our design,,Affirmative,We have re-imagined our design in a bold new way . 
+We,roll.01,our design,,Affirmative,"Before we roll it out for everyone , we are giving select readers an opportunity to try out the new design . "
+We,give.01,an opportunity,select readers,Affirmative,"Before we roll it out for everyone , we are giving select readers an opportunity to try out the new design . "
+select readers,try.03,the new design,,Affirmative,"Before we roll it out for everyone , we are giving select readers an opportunity to try out the new design . "
+We,welcome.01,your feedback,,Affirmative,We welcome your feedback . 
+We,remove.01,you,from,Affirmative,We 've removed you from the beta test of the new design . 
+you,clear.01,your cookies,,Affirmative,Please note : if you clear your cookies you may be invited back to the beta . 
+"1 Commissioner out : A police commissioner in Wolfeboro , N.H.",admit.01,using,,Affirmative,"1 Commissioner out : A police commissioner in Wolfeboro , N.H. , has resigned after he admitted using a racial slur to describe President Obama . "
+"1 Commissioner out : A police commissioner in Wolfeboro , N.H.",use.01,a racial slur,to describe,Affirmative,"1 Commissioner out : A police commissioner in Wolfeboro , N.H. , has resigned after he admitted using a racial slur to describe President Obama . "
+a controversy,draw.01,national attention,,Affirmative,"Robert Copeland , 82 , resigned Sunday night , putting to rest a controversy that drew national attention and sparked impassioned debate in the resort town of 6,300 . "
+a controversy,spark.01,impassioned debate,,Affirmative,"Robert Copeland , 82 , resigned Sunday night , putting to rest a controversy that drew national attention and sparked impassioned debate in the resort town of 6,300 . "
+Robert Copeland,admit.01,using,,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+Robert Copeland,use.01,"the slur , preceded by",,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+by,precede.01,"the slur , preceded by",,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+A resident,overhear.01,Robert Copeland,,Affirmative,A resident overheard him and complained to town officials when she learned that he was a police commissioner . 
+she,learn.01,that he was,,Affirmative,A resident overheard him and complained to town officials when she learned that he was a police commissioner . 
+Robert Copeland,refuse.01,to apologize,,Affirmative,Copeland refused to apologize . 
+A judge,set.01,bond,at,Affirmative,"2 Bomb threat : A judge has set bond at $ 10,000 for a woman accused of calling bomb threats in to a commencement ceremony at Quinnipiac University in Connecticut to keep her family from learning that she was not graduating . "
+a woman accused of calling,call.01,bomb threats in,to,Affirmative,"2 Bomb threat : A judge has set bond at $ 10,000 for a woman accused of calling bomb threats in to a commencement ceremony at Quinnipiac University in Connecticut to keep her family from learning that she was not graduating . "
+Police,say.01,Shea did n't attend,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+22-year-old Danielle Shea,attend.01,Quinnipiac University in Connecticut,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+her mother,pay.01,thousands of dollars,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+her mother,think.01,was for,,Affirmative,"Police say Shea did n't attend the university this year , but her mother paid thousands of dollars she thought was for her daughter 's education . "
+a Coast Guard officer,stop.01,boaters,,Affirmative,"3 Not the Coast Guard : Former U.S. Sen. Scott Brown 's half brother was sentenced Monday to one year and one day in prison for pretending to be a Coast Guard officer as he stopped boaters off the Connecticut coast , prosecutors said . "
+Bruce Brown,plead.02,guilty,to impersonating,Affirmative,He pleaded guilty in February to impersonating a law enforcement officer and falsifying a military discharge certificate . 
+Bruce Brown,impersonate.01,enforcement officer,,Affirmative,He pleaded guilty in February to impersonating a law enforcement officer and falsifying a military discharge certificate . 
+Bruce Brown,falsify.01,discharge certificate,,Affirmative,He pleaded guilty in February to impersonating a law enforcement officer and falsifying a military discharge certificate . 
+she,assault.01,a police officer,,Affirmative,"4 Protester jailed : An Occupy Wall Street protester who became a cause celebre for activists after she was charged with assaulting a police officer was sentenced Monday to 90 days in jail , with a judge saying a protest is no excuse for an attack . "
+a judge,say.01,protest is,,Affirmative,"4 Protester jailed : An Occupy Wall Street protester who became a cause celebre for activists after she was charged with assaulting a police officer was sentenced Monday to 90 days in jail , with a judge saying a protest is no excuse for an attack . "
+McMillan,apologize.01,for injuring,,Affirmative,Cecily McMillan apologized for injuring the officer but defiantly proclaimed her innocence as she was sentenced . 
+McMillan,injure.01,a police officer,,Affirmative,Cecily McMillan apologized for injuring the officer but defiantly proclaimed her innocence as she was sentenced . 
+McMillan,proclaim.01,her innocence,,Affirmative,Cecily McMillan apologized for injuring the officer but defiantly proclaimed her innocence as she was sentenced . 
+"171,000 people",sign.02,an online petition asking,,Affirmative,"More than 171,000 people had signed an online petition asking the court for leniency . "
+an online petition asking,ask.02,for leniency,the court,Affirmative,"More than 171,000 people had signed an online petition asking the court for leniency . "
+Rep. Joseph Kennedy,agree.01,to deliver,,Affirmative,"5 Late diploma : When Massachusetts Rep. Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma . "
+Rep. Joseph Kennedy,deliver.01,a commencement address,,Affirmative,"5 Late diploma : When Massachusetts Rep. Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma . "
+the late U.S. Sen. Edward Kennedy,realize.01,he 'd be receiving,,Affirmative,"5 Late diploma : When Massachusetts Rep. Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma . "
+the late U.S. Sen. Edward Kennedy,receive.01,a diploma,,Affirmative,"5 Late diploma : When Massachusetts Rep. Joseph Kennedy agreed to deliver a commencement address at the University of Virginia Law School , he did n't realize he 'd be receiving a diploma . "
+the late U.S. Sen. Edward Kennedy,skip.01,commencement,,Affirmative,Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . 
+the late U.S. Sen. Edward Kennedy,help.01,run,,Affirmative,Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . 
+the late U.S. Sen. Edward Kennedy,run.01,Former U.S. Sen. Scott Brown 's half brother,,Affirmative,Ted Kennedy skipped commencement because he was helping run his brother John 's presidential campaign . 
+her then,back.01,a pickup truck over,,Affirmative,6 Tragic accident : Authorities in San Diego say a married man and woman in their 80 s were killed when he backed a pickup truck over her then was hit by the truck himself as he scrambled to help her . 
+her then,scramble.01,to help her,,Affirmative,6 Tragic accident : Authorities in San Diego say a married man and woman in their 80 s were killed when he backed a pickup truck over her then was hit by the truck himself as he scrambled to help her . 
+her then,help.01,woman in their 80s,,Affirmative,6 Tragic accident : Authorities in San Diego say a married man and woman in their 80 s were killed when he backed a pickup truck over her then was hit by the truck himself as he scrambled to help her . 
+County medical examiner,say.01,was hit by,,Affirmative,"The San Diego County medical examiner said Monday that Setsuko Yada , 80 , was hit by her 87 - year - old husband as he was trying to park their truck Sunday night . "
+her 87-year-old husband,try.01,to park,,Affirmative,"The San Diego County medical examiner said Monday that Setsuko Yada , 80 , was hit by her 87 - year - old husband as he was trying to park their truck Sunday night . "
+her 87-year-old husband,park.01,a pickup truck over her then,,Affirmative,"The San Diego County medical examiner said Monday that Setsuko Yada , 80 , was hit by her 87 - year - old husband as he was trying to park their truck Sunday night . "
+"The man ,",get.05,in,,Affirmative,"The man , whose name has not been released , then got out in what appears to have been an attempt to help his wife and was hit by the truck himself . "
+Confluence of factors,mean.01,will get paid out,,Affirmative,Confluence of factors means few in Napa will get paid out . 

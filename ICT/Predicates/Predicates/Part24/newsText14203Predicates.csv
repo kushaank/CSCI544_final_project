@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,investigate.01,a burglary at,,Affirmative,"Berkshire Eagle Staff , 9:14 a.m. : Police investigate a burglary at Split Ends Hair Salon on Elm Street . "
+Police,arrest.01,old male juvenile,on,Affirmative,10:35 a.m. : Police arrest a 14 - year - old male juvenile on a warrant . 
+Police,investigate.01,a burglary at,,Affirmative,10:45 a.m. : Police investigate a burglary at Miracle Ear on Elm Street . 
+Police,arrest.01,"Barry W. Dunnells , 41 , of",,Affirmative,"11:40 a.m. : Police arrest Barry W. Dunnells , 41 , of Columbus Avenue , on a warrant . "
+Police,arrest.01,"Israel M. Chaparro , 31 , of",,Affirmative,"2:35 p.m. : Police arrest Israel M. Chaparro , 31 , of Columbus Avenue , on seven warrants . "
+Police,arrest.01,"Lawrence B. Taylor , 36 , of",on charges of operating,Affirmative,"4:49 p.m. : Police arrest Lawrence B. Taylor , 36 , of Dewey Avenue , on charges of operating a motor vehicle with a suspended license , and failure to stop or yield . "
+Police,arrest.01,"Reginald Kee , 25 , of",on,Affirmative,"8:50 p.m. : Police arrest Reginald Kee , 25 , of Orchard Street , on a warrant . "
+Police,arrest.01,"Joseph C. McGregor , 49 , of",on charges of assault,Affirmative,"9:16 p.m. : Police arrest Joseph C. McGregor , 49 , of Francis Avenue , on charges of assault with a dangerous weapon , and threat to commit murder . "
+Police,receive.01,a report of,,Affirmative,11:08 p.m. : Police receive a report of a structure fire on Elizabeth Street . 
+Police,investigate.01,burglary at,,Affirmative,11:10 p.m. : Police investigate burglary at Pittsfield High School on East Street . 
+Police,take.01,"Derek W. Ladouceur , 30 , of",into,Affirmative,"11:24 p.m. : Police take Derek W. Ladouceur , 30 , of Lincoln Street , into protective custody . "
+Police,receive.01,a report of,,Affirmative,1:20 a.m. : Police receive a report of a tree down on South Street . 
+Police,receive.01,a report of,,Affirmative,1:26 a.m. : Police receive a report of a tree down on Tamarack Road . 
+Police,receive.01,a report of,,Affirmative,1:42 a.m. : Police receive a report of a wire down on Bradford Street . 
+Police,receive.01,a report of,,Affirmative,2:01 a.m. : Police receive a report of a tree down on West Street and Dewey Avenue . 
+Police,receive.01,a report of,,Affirmative,2:54 a.m. : Police receive a report of a structure fire on Morewood Drive . 
+Police,receive.01,a report of,,Affirmative,3:27 a.m. : Police receive a report of a tree down on Pecks Road . 
+Police,receive.01,a report of,,Affirmative,5:48 a.m. : Police receive a report of a tree down on West Street . 
+Police,receive.01,a report of,,Affirmative,7:54 a.m. : Police receive a report of a tree down on Churchill Street . 
+Police,arrest.01,"Paul D. Kwasniowski , 58 , address unknown ,",on,Affirmative,"12:55 p.m. : Police arrest Paul D. Kwasniowski , 58 , address unknown , North Adams , on a warrant . "
+Police,receive.01,a report of,,Affirmative,12:58 p.m. : Police receive a report of a wire down at Dewey Avenue and Division Street . 
+Police,arrest.01,"Edward K. Chapman , 46 , of",on,Affirmative,"2:55 p.m. : Police arrest Edward K. Chapman , 46 , of Robbins Avenue , on a charge of assault and battery . "
+Police,investigate.01,a domestic incident on,,Affirmative,6:42 p.m. : Police investigate a domestic incident on Danforth Avenue . 
+Police,arrest.01,"Taryn Rose Eckert , 25 , of",,Affirmative,"10:35 p.m. : Police arrest Taryn Rose Eckert , 25 , of Essex Street , on two warrants . "
+Police,investigate.01,loud party on,,Affirmative,12:55 a.m. : Police investigate a disturbance / loud party on Fenn Street . 
+Police,investigate.01,loud party on,,Affirmative,1:48 a.m. : Police investigate a disturbance / loud party on Wellington Avenue . 
+Police,investigate.01,shoplifting at,,Affirmative,3:39 a.m. : Police investigate shoplifting at Cumberland Farms on First Street . 
+Police,arrest.01,"Brandy Rheaume , 27 , of",on,Affirmative,"10:59 a.m. : Police arrest Brandy Rheaume , 27 , of Calumet Street , on a charge of operating a motor vehicle with a suspended license . "
+Police,receive.01,a report of,,Affirmative,12:50 a.m. : Police receive a report of an unattended death on Harvard Street . 
+Police,arrest.01,"Ocean Lynn Sutton , 24 , of",on,Affirmative,"2:14 p.m. : Police arrest Ocean Lynn Sutton , 24 , of Robbins Avenue , on a charge of violating an abuse prevention order . "
+Police,investigate.01,a gas odor at,,Affirmative,5:07 p.m. : Police investigate a gas odor at Herberg Middle School on Pomeroy Avenue . 
+Police,investigate.01,a disturbance at,,Affirmative,7:26 p.m. : Police investigate a disturbance at Crosby Elementary School on West Street . 
+Police,investigate.01,suspicious activity at,,Affirmative,8:40 p.m. : Police investigate suspicious activity at Knesset Israel Synagogue on Colt Road . 
+Police,investigate.01,juvenile offenses on,,Affirmative,11:24 p.m. : Police investigate juvenile offenses on Sibley Street . 
+the login link below,sign.01,with,,Affirmative,Welcome to your discussion forum : Click the login link below to sign in with or to set up a Disqus account or to access your social networking account . 
+the login link below,set.03,a Disqus account,,Affirmative,Welcome to your discussion forum : Click the login link below to sign in with or to set up a Disqus account or to access your social networking account . 
+your comment,meet.01,the guidelines,,Affirmative,"When you do , your comment should be posted immediately , provided it meets the guidelines . "
+the person posting them,post.01,. -RRB-,,Affirmative,Comments made here are the sole responsibility of the person posting them ; these comments do not reflect the opinion of The Berkshire Eagle . 

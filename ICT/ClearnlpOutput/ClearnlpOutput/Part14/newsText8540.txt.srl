@@ -1,0 +1,11 @@
+1	Our	our	PRP$	_	2	poss	_
+2	engineers	engineer	NNS	_	4	nsubj	4:A0=PAG;7:A0=PAG
+3	are	be	VBP	_	4	aux	_
+4	working	work	VBG	pb=work.01	0	root	_
+5	quickly	quickly	RB	_	4	advmod	4:AM-MNR
+6	to	to	TO	_	7	aux	_
+7	resolve	resolve	VB	pb=resolve.01	4	advcl	4:A1=PPT
+8	the	the	DT	_	9	det	_
+9	issue	issue	NN	_	7	dobj	7:A1=PPT
+10	.	.	.	_	4	punct	_
+

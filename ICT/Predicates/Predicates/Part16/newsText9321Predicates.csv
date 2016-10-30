@@ -1,0 +1,41 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County woman,gun.01,her husband,,Affirmative,The Benton County woman who gunned down her husband while he slept pleaded guilty to murder on Monday and was sentenced to 40 years in prison . 
+County woman,plead.02,guilty to murder on Monday,,Affirmative,The Benton County woman who gunned down her husband while he slept pleaded guilty to murder on Monday and was sentenced to 40 years in prison . 
+The Fleck 's,reach.01,the plea deal with prosecutors,,Affirmative,Susan Fleck reached the plea deal with prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence . 
+The Fleck 's,plead.02,guilty to,,Affirmative,Susan Fleck reached the plea deal with prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence . 
+The Fleck 's,face.01,a charge of,,Affirmative,"Fleck initially faced a charge of capital murder , but the prosecutor charged her with first - degree murder because prosecutors did not believe they could prove the statutes necessary for a guilty verdict in a capital murder case . "
+the Benton County Prosecutor 's,charge.05,The Fleck 's,with,Affirmative,"Fleck initially faced a charge of capital murder , but the prosecutor charged her with first - degree murder because prosecutors did not believe they could prove the statutes necessary for a guilty verdict in a capital murder case . "
+prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence,believe.01,they could prove,,Affirmative,"Fleck initially faced a charge of capital murder , but the prosecutor charged her with first - degree murder because prosecutors did not believe they could prove the statutes necessary for a guilty verdict in a capital murder case . "
+prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence,prove.01,the statutes necessary for,,Affirmative,"Fleck initially faced a charge of capital murder , but the prosecutor charged her with first - degree murder because prosecutors did not believe they could prove the statutes necessary for a guilty verdict in a capital murder case . "
+prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence,state.01,they would not seek,,Affirmative,"Prosecutors stated early in the case they would not seek the death penalty , according to the Benton County Prosecutor 's Office . "
+prosecutors in which she pleaded guilty to first degree murder in exchange for the sentence,seek.01,the death penalty,,Affirmative,"Prosecutors stated early in the case they would not seek the death penalty , according to the Benton County Prosecutor 's Office . "
+County investigators,release.01,an arrest report,,Affirmative,Benton County investigators released an arrest report that month that states Fleck shot her husband after finding a picture on his iPad of him embracing another woman . 
+The Fleck 's,shoot.01,her husband,,Affirmative,Benton County investigators released an arrest report that month that states Fleck shot her husband after finding a picture on his iPad of him embracing another woman . 
+The Fleck 's,find.01,a picture on,,Affirmative,Benton County investigators released an arrest report that month that states Fleck shot her husband after finding a picture on his iPad of him embracing another woman . 
+her husband,embrace.01,another woman,,Affirmative,Benton County investigators released an arrest report that month that states Fleck shot her husband after finding a picture on his iPad of him embracing another woman . 
+the judge overseeing,oversee.01,the case they would not seek the death penalty,,Affirmative,"Benton County Circuit Judge Robin Green , the judge overseeing the case , denied bond for Fleck . "
+"Judge Robin Green ,",deny.01,bond,,Affirmative,"Benton County Circuit Judge Robin Green , the judge overseeing the case , denied bond for Fleck . "
+The Fleck 's,call.02,County dispatcher,,Affirmative,"Susan Fleck drove to Delaware County and called a Benton County dispatcher to report what had happened , court documents show . "
+the court documents,show.01,Fleck drove to,,Affirmative,"Susan Fleck drove to Delaware County and called a Benton County dispatcher to report what had happened , court documents show . "
+The Fleck 's,tell.01,husband was in,a dispatcher,Affirmative,Fleck told a dispatcher her husband was in the bedroom and had recently filed for divorce . 
+her husband,file.01,for divorce,,Affirmative,Fleck told a dispatcher her husband was in the bedroom and had recently filed for divorce . 
+The Fleck 's,say.01,she destroyed,,Affirmative,"She said she destroyed her life , according to the court documents . "
+The Fleck 's,destroy.01,her life,,Affirmative,"She said she destroyed her life , according to the court documents . "
+officials,say.01,", were home at",,Affirmative,"The Fleck 's four children , ages 7 to 15 , were home at the time of the shooting , officials said . "
+The Fleck 's,say.01,"happened , according to",,Affirmative,"Fleck woke one of the children at 3:40 a.m. and said something bad happened , according to court documents . "
+The Fleck 's,tell.01,to stay out of,the four children,Affirmative,"She told the four children to stay out of their father 's room , court records show . "
+court records,show.01,She told,,Affirmative,"She told the four children to stay out of their father 's room , court records show . "
+County booking report,state.01,Fleck was taken into custody,,Affirmative,"A Delaware County booking report states Fleck was taken into custody at Twisters , a convenience store in Kansas , Okla . "
+7 a.m. Investigators,respond.01,to,,Affirmative,", at about 7 a.m. Investigators responding to the residence at 19147 Arkansas Highway 12 east of Gentry found Evan Fleck dead in the bedroom with what appeared to be a single gunshot wound to the head , Benton County Sheriff Kelley Cradduck said . "
+County Sheriff Kelley Cradduck,say.01,found,,Affirmative,", at about 7 a.m. Investigators responding to the residence at 19147 Arkansas Highway 12 east of Gentry found Evan Fleck dead in the bedroom with what appeared to be a single gunshot wound to the head , Benton County Sheriff Kelley Cradduck said . "
+Cradduck,say.01,Fleck was shot with,,Affirmative,"Cradduck said Fleck was shot with a handgun , which authorities later recovered . "
+Investigators,say.01,couple had been arguing before,,Affirmative,Investigators said the couple had been arguing before the shooting . 
+Deputies searching,search.01,the home,,Affirmative,Deputies searching the home found an iPad referenced by Fleck in her call to police . 
+Deputies searching,find.01,an iPad referenced by Fleck,,Affirmative,Deputies searching the home found an iPad referenced by Fleck in her call to police . 
+Photographs,show.01,Fleck embracing,,Affirmative,"Photographs showed Evan Fleck embracing another woman , the affidavit states . "
+The Fleck 's,embrace.01,"another woman ,",,Affirmative,"Photographs showed Evan Fleck embracing another woman , the affidavit states . "
+A detective,confirm.01,Fleck had engaged in,,Affirmative,"A detective confirmed Evan Fleck had engaged in an affair with the woman and that Susan Fleck knew about it , the woman in the picture told an investigator . "
+Susan Fleck,know.01,about it,,Affirmative,"A detective confirmed Evan Fleck had engaged in an affair with the woman and that Susan Fleck knew about it , the woman in the picture told an investigator . "
+Evan Fleck,file.02,for divorce,,Affirmative,Evan Fleck filed for divorce from Susan Fleck on Feb . 
+officials,say.01,children first were placed in,,Affirmative,"After the incident , the children first were placed in the custody of the state Department of Human Services , but since have been placed with relatives , officials said . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

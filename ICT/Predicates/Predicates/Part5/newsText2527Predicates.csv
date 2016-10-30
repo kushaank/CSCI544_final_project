@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Utility crews,work.01,to restore power in,,Affirmative,"FORT KENT , Maine - Utility crews were working to restore power in several St. John Valley towns Sunday morning , May 18 . "
+Utility crews,restore.01,power,,Affirmative,"FORT KENT , Maine - Utility crews were working to restore power in several St. John Valley towns Sunday morning , May 18 . "
+Maine crews,determine.01,the cause of,,Affirmative,"Emera Maine crews had been dispatched to determine the cause of an outage affecting more than 1,700 customers in the Fort Kent area , according to a 9:30 a.m. press release from the company . "
+an outage affecting,affect.01,"1,700 customers",,Affirmative,"Emera Maine crews had been dispatched to determine the cause of an outage affecting more than 1,700 customers in the Fort Kent area , according to a 9:30 a.m. press release from the company . "
+Emera Maine crews,work.01,to correct,,Affirmative,"Crews were working to correct the cause and restore service as quickly and safely as possible , according to the release . "
+Emera Maine crews,correct.01,"the cause of an outage affecting more than 1,700 customers in the Fort Kent area , according to a 9:30 a.m. press release from the company",,Affirmative,"Crews were working to correct the cause and restore service as quickly and safely as possible , according to the release . "
+Emera Maine crews,restore.01,service,,Affirmative,"Crews were working to correct the cause and restore service as quickly and safely as possible , according to the release . "
+Emera,remind.01,to never touch,the public,Affirmative,Emera reminded the public to never touch a downed line or a tree in contact with one . 
+the public,touch.01,a downed line or,,Affirmative,Emera reminded the public to never touch a downed line or a tree in contact with one . 
+Anyone using,use.01,a generator,,Affirmative,"Anyone using a generator is asked to make sure it is properly installed according to manufacturer guidelines , according to the press release . "
+Affected residents,report.01,any outages to,,Affirmative,Affected residents may report any outages to the company 's customer service center by calling 207-973-2000 or 855 - EMERA11 ( 363-7211 ) . 

@@ -1,0 +1,45 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+OBC students of,run.02,to post for,,Affirmative,MYSORE : OBC students of Maharaja 's College were seen running from pillar to post for examination hall ticket on Monday . 
+the college authorities,withhold.01,the tickets of,,Affirmative,"Reason : the college authorities have withheld the tickets of some students , claiming that they had not paid the college fee for 2013-14 . "
+the college authorities,claim.01,that they had not paid,,Affirmative,"Reason : the college authorities have withheld the tickets of some students , claiming that they had not paid the college fee for 2013-14 . "
+the college authorities,pay.01,the college fee,,Affirmative,"Reason : the college authorities have withheld the tickets of some students , claiming that they had not paid the college fee for 2013-14 . "
+some students,want.01,college to give them,,Affirmative,But the students want the college to give them a discount in fee . 
+Maharaja 's College,give.01,a discount in fee,them,Affirmative,But the students want the college to give them a discount in fee . 
+some students,quote.01,rules,,Affirmative,"Quoting rules , the students said that they need to pay only Rs 2,500 per year , and this includes tuition fee and examination fee , while the government would pay the rest . "
+some students,say.01,that they need,,Affirmative,"Quoting rules , the students said that they need to pay only Rs 2,500 per year , and this includes tuition fee and examination fee , while the government would pay the rest . "
+some students,need.01,to pay,,Affirmative,"Quoting rules , the students said that they need to pay only Rs 2,500 per year , and this includes tuition fee and examination fee , while the government would pay the rest . "
+some students,pay.01,"2,500 per year",only Rs,Affirmative,"Quoting rules , the students said that they need to pay only Rs 2,500 per year , and this includes tuition fee and examination fee , while the government would pay the rest . "
+the government,pay.01,the rest,,Affirmative,"Quoting rules , the students said that they need to pay only Rs 2,500 per year , and this includes tuition fee and examination fee , while the government would pay the rest . "
+Maharaja 's College,ask.02,for,,Affirmative,"But now , the college is asking for an additional fee of Rs 2,286 . "
+"H MBasavaraju ,",say.01,college has been asking us,,Affirmative,"H MBasavaraju , a second year BA student , said : The college has been asking us to pay Rs 2,286 so that we are given hall tickets . "
+Maharaja 's College,ask.02,"to pay Rs 2,286",us,Affirmative,"H MBasavaraju , a second year BA student , said : The college has been asking us to pay Rs 2,286 so that we are given hall tickets . "
+some students,pay.01,"2,286",Rs,Affirmative,"H MBasavaraju , a second year BA student , said : The college has been asking us to pay Rs 2,286 so that we are given hall tickets . "
+some students,pay.01,"2,500",Rs,Affirmative,"We had paid Rs 2,500 during admission . "
+the college authorities,inform.01,some students,about,Affirmative,"The college authorities had not informed us about the additional fee then , he said . "
+a second year BA student,say.01,authorities had not informed us about,,Affirmative,"The college authorities had not informed us about the additional fee then , he said . "
+some students,say.01,that they did get,,Affirmative,The students said that they did get a discount in fee last year without even applying for the same . 
+some students,get.01,a discount in fee,,Affirmative,The students said that they did get a discount in fee last year without even applying for the same . 
+some students,apply.01,for,,Affirmative,The students said that they did get a discount in fee last year without even applying for the same . 
+the college authorities,demand.01,Rs,,Affirmative,"But now , they are demanding Rs 2,286 a few days before the start of exams , they said . "
+the college authorities,say.01,"But now , they are demanding Rs",,Affirmative,"But now , they are demanding Rs 2,286 a few days before the start of exams , they said . "
+R Santosh Kumar,say.01,Following,,Affirmative,"Another student B R Santosh Kumar said : Following several protests , the college authorities had assured us fee discount . "
+the college authorities,assure.01,some students,fee discount,Affirmative,"Another student B R Santosh Kumar said : Following several protests , the college authorities had assured us fee discount . "
+the principal,issue.01,hall tickets,,Affirmative,"But now , the principal is not issuing hall tickets , he said . "
+the principal,say.01,principal is not issuing,,Affirmative,"But now , the principal is not issuing hall tickets , he said . "
+some students,seek.01,discount,,Affirmative,"Seeking discount , the students had provided caste certificates and other documents at the time of admission . "
+some students,provided.01,caste certificates and,,Affirmative,"Seeking discount , the students had provided caste certificates and other documents at the time of admission . "
+principal S N Gayathri,deny.01,the allegations,,Affirmative,"Denying the allegations , Maharaja College principal S N Gayathri said that they had put up notifications on the notice board , asking students to apply for scholarship or fee discount . "
+principal S N Gayathri,say.01,that they had put up notifications on,,Affirmative,"Denying the allegations , Maharaja College principal S N Gayathri said that they had put up notifications on the notice board , asking students to apply for scholarship or fee discount . "
+some students,put.01,notifications on,,Affirmative,"Denying the allegations , Maharaja College principal S N Gayathri said that they had put up notifications on the notice board , asking students to apply for scholarship or fee discount . "
+some students,ask.02,to apply for,students,Affirmative,"Denying the allegations , Maharaja College principal S N Gayathri said that they had put up notifications on the notice board , asking students to apply for scholarship or fee discount . "
+some students,apply.01,for,,Affirmative,"Denying the allegations , Maharaja College principal S N Gayathri said that they had put up notifications on the notice board , asking students to apply for scholarship or fee discount . "
+some students,do.02,so,,Affirmative,But they have failed to do so . 
+the university,direct.01,colleges,not to issue,Affirmative,"Now , the university has directed ( UoM - affiliated ) colleges not to issue hall ticket unless the fee is paid . "
+colleges,issue.01,examination hall ticket on Monday,,Affirmative,"Now , the university has directed ( UoM - affiliated ) colleges not to issue hall ticket unless the fee is paid . "
+UoM,ask.02,to issue,us,Affirmative,"If UoM asks us to issue hall tickets , I will allow them to write exams , the principal said . "
+us,issue.01,hall tickets,,Affirmative,"If UoM asks us to issue hall tickets , I will allow them to write exams , the principal said . "
+the principal,allow.01,them to write exams,,Affirmative,"If UoM asks us to issue hall tickets , I will allow them to write exams , the principal said . "
+some students,write.01,The exams,,Affirmative,"If UoM asks us to issue hall tickets , I will allow them to write exams , the principal said . "
+the principal,say.01,", I will allow",,Affirmative,"If UoM asks us to issue hall tickets , I will allow them to write exams , the principal said . "
+some students,say.01,that will stage,,Affirmative,"If their demand is not met , the students said that will stage a protest against the college and UoM authorities in front of the DC 's office on Tuesday . "
+some students,stage.01,a protest against,,Affirmative,"If their demand is not met , the students said that will stage a protest against the college and UoM authorities in front of the DC 's office on Tuesday . "

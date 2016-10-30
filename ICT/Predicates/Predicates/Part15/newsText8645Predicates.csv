@@ -1,0 +1,55 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+particularly the southeast corner of the state,consider.02,widening,,Affirmative,"The state is considering widening the road , a project opponents fear would destroy the town 's Southern charm , but supporters say the move is needed to ease traffic congestion . "
+particularly the southeast corner of the state,widen.01,the road,,Affirmative,"The state is considering widening the road , a project opponents fear would destroy the town 's Southern charm , but supporters say the move is needed to ease traffic congestion . "
+project opponents,fear.01,would destroy,,Affirmative,"The state is considering widening the road , a project opponents fear would destroy the town 's Southern charm , but supporters say the move is needed to ease traffic congestion . "
+project opponents,destroy.01,Southern charm,,Affirmative,"The state is considering widening the road , a project opponents fear would destroy the town 's Southern charm , but supporters say the move is needed to ease traffic congestion . "
+supporters,say.01,move is needed,,Affirmative,"The state is considering widening the road , a project opponents fear would destroy the town 's Southern charm , but supporters say the move is needed to ease traffic congestion . "
+- Travelers heading through,head.02,through,,Affirmative,- Travelers heading through southeast Alabama to Florida Panhandle beaches have a four - lane road the entire way except for a half - mile stretch in Eufaula . 
+- Travelers heading through,have.03,lane road,,Affirmative,- Travelers heading through southeast Alabama to Florida Panhandle beaches have a four - lane road the entire way except for a half - mile stretch in Eufaula . 
+by,line.01,"That section ,",,Affirmative,"That section , gracefully lined by Southern mansions and giant oaks , narrows to two lanes . "
+the town,find.01,itself,,Affirmative,Now the town finds itself in a battle of Southern charm vs. traffic congestion as the state makes plans to widen U.S. 431 and remove some trees . 
+the state,make.LV,plans,,Affirmative,Now the town finds itself in a battle of Southern charm vs. traffic congestion as the state makes plans to widen U.S. 431 and remove some trees . 
+the state,remove.01,some trees,,Affirmative,Now the town finds itself in a battle of Southern charm vs. traffic congestion as the state makes plans to widen U.S. 431 and remove some trees . 
+City officials and,say.01,it would strike,,Affirmative,"City officials and historic preservationists say it would strike a huge blow to the city 's heritage - and heritage - related tourism that helps drive the economy in town of 13,000 situated on the Chattahoochee River . "
+it,strike.01,a huge blow to,,Affirmative,"City officials and historic preservationists say it would strike a huge blow to the city 's heritage - and heritage - related tourism that helps drive the economy in town of 13,000 situated on the Chattahoochee River . "
+related tourism,help.01,drive,,Affirmative,"City officials and historic preservationists say it would strike a huge blow to the city 's heritage - and heritage - related tourism that helps drive the economy in town of 13,000 situated on the Chattahoochee River . "
+related tourism,drive.02,the economy,,Affirmative,"City officials and historic preservationists say it would strike a huge blow to the city 's heritage - and heritage - related tourism that helps drive the economy in town of 13,000 situated on the Chattahoochee River . "
+"Mike Bunn ,",say.01,It is,,Affirmative,"It is an iconic image for Alabama , said Mike Bunn , executive director of the Historic Chattahoochee Commission . "
+Director John Cooper,say.01,Alabama has spent,,Affirmative,State Transportation Director John Cooper said Alabama has spent $ 150 million to complete the last four - lane stretches of U.S. 431 from Interstate 85 to the Florida line . 
+Alabama,complete.01,lane stretches of U.S. 431,,Affirmative,State Transportation Director John Cooper said Alabama has spent $ 150 million to complete the last four - lane stretches of U.S. 431 from Interstate 85 to the Florida line . 
+we,spend.01,too much,on,Affirmative,"From a transportation standpoint we have spent too much on this corridor and this corridor is too important to the state , particularly the southeast corner of the state , not to pursue trying to eliminate this bottleneck , Cooper said in an interview . "
+Cooper,say.01,we have spent,,Affirmative,"From a transportation standpoint we have spent too much on this corridor and this corridor is too important to the state , particularly the southeast corner of the state , not to pursue trying to eliminate this bottleneck , Cooper said in an interview . "
+U.S. 431,carry.01,lots of trucks and tourists,,Affirmative,"U.S. 431 carries lots of trucks and tourists , particularly from the Atlanta area . "
+by medians,separate.01,two single lanes separated by medians,,Affirmative,"As they approach Eufaula , the four - lane highway divides into two single lanes separated by medians 30 to 50 feet wide . "
+"crepe myrtles , azaleas and",create.01,a canopy with,,Affirmative,"The medians are filled with crepe myrtles , azaleas and giant live oaks that create a canopy with the huge oaks in front of mansions from the 1800s . "
+Those mansions,anchor.01,a historic district with,,Affirmative,Those mansions anchor a historic district with nearly 700 buildings . 
+Cooper,say.01,street is also,,Affirmative,"The street is also the busiest two - lane stretch of road in Alabama , averaging 21,000 vehicles a day , Cooper said . "
+Mayor Jack Tibbs,say.01,traffic backs up on,,Affirmative,"Mayor Jack Tibbs said traffic backs up on busy weekends for beach tourism , but the town uses police officers to keep the vehicles moving . "
+an iconic image for Alabama,use.01,police officers,to keep,Affirmative,"Mayor Jack Tibbs said traffic backs up on busy weekends for beach tourism , but the town uses police officers to keep the vehicles moving . "
+He,say.01,is,,Affirmative,He said the tourism created by the historic district is too valuable to the town to risk running four lanes of traffic through it and destroying its beauty . 
+by,create.01,the tourism created by,,Affirmative,He said the tourism created by the historic district is too valuable to the town to risk running four lanes of traffic through it and destroying its beauty . 
+the tourism created by,destroy.01,its beauty,,Affirmative,He said the tourism created by the historic district is too valuable to the town to risk running four lanes of traffic through it and destroying its beauty . 
+he,say.01,It is,,Affirmative,"It is our calling card , he said . "
+transportation workers,drive.02,stakes,into,Affirmative,"In April , transportation workers drove stakes into the medians to show the maximum amount that could be cut away for a four - lane road . "
+transportation workers,show.01,the maximum amount,,Affirmative,"In April , transportation workers drove stakes into the medians to show the maximum amount that could be cut away for a four - lane road . "
+Cooper,say.01,is,,Affirmative,"It varies from about a foot to 6 feet on each side , but Cooper said the average along the route is 5 feet on each side . "
+He,predict.01,damage will be minimal,,Affirmative,He predicts tree damage will be minimal . 
+City officials,cite.01,a university study,,Affirmative,City officials disagree and cite a university study to back up their view . 
+It,cut.04,feeder roots,,Affirmative,"It 's going to cut off feeder roots and kill the trees eventually , town horticulturist Sherry Burchett said . "
+It,kill.01,the trees,,Affirmative,"It 's going to cut off feeder roots and kill the trees eventually , town horticulturist Sherry Burchett said . "
+horticulturist Sherry Burchett,say.01,It 's going,,Affirmative,"It 's going to cut off feeder roots and kill the trees eventually , town horticulturist Sherry Burchett said . "
+Dee Kellogg,see.01,the historic homes in Eufaula,as,Affirmative,Dee Kellogg saw the historic homes in Eufaula as a 14 - year - old and became determined to have one eventually . 
+they,buy.01,a home on,,Affirmative,"When she and her husband Don retired in Moab , Utah , they bought a home on North Eufaula Avenue and made her dream come true in 2008 . "
+they,make.02,dream come true in 2008,,Affirmative,"When she and her husband Don retired in Moab , Utah , they bought a home on North Eufaula Avenue and made her dream come true in 2008 . "
+They,spend.01,on,,Affirmative,They spent $ 1 million on the purchase and restoration . 
+they,worry.02,about,,Affirmative,Now they worry about what will happen to their property values . 
+not just by,cherish.01,It,,Affirmative,"It is cherished not just by the people who live here , but by the people who visit here , she said . "
+she,say.01,It is cherished,,Affirmative,"It is cherished not just by the people who live here , but by the people who visit here , she said . "
+They,decide.01,to take,,Affirmative,"They decided to take a vacation focused on Southern history and stopped in Eufaula after visits to Charleston , South Carolina and Savannah , Georgia . "
+They,take.01,a vacation focused on,,Affirmative,"They decided to take a vacation focused on Southern history and stopped in Eufaula after visits to Charleston , South Carolina and Savannah , Georgia . "
+Kristina De Boel,say.01,cities spend lots of money,,Affirmative,Kristina De Boel said European cities spend lots of money to protect their heritage and keep tourists coming . 
+European cities,spend.01,lots of money,to protect,Affirmative,Kristina De Boel said European cities spend lots of money to protect their heritage and keep tourists coming . 
+European cities,protect.01,their heritage,,Affirmative,Kristina De Boel said European cities spend lots of money to protect their heritage and keep tourists coming . 
+European cities,keep.02,tourists coming,,Affirmative,Kristina De Boel said European cities spend lots of money to protect their heritage and keep tourists coming . 
+She,imagine.01,why anyone would think about doing anything,,Affirmative,She ca n't imagine why anyone would think about doing anything that might damage Eufaula 's calling card . 
+anything,damage.01,calling card,,Affirmative,She ca n't imagine why anyone would think about doing anything that might damage Eufaula 's calling card . 

@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mr Akende,find.02,the accused guilty on,,Affirmative,I find the accused guilty on his own admission of the facts . 
+Mr Akende,take.01,note,,Affirmative,I take note that the accused is a first offender who readily admitted the charge without wasting the court 's time . 
+a first offender,admit.01,the charge,,Affirmative,I take note that the accused is a first offender who readily admitted the charge without wasting the court 's time . 
+Mr Akende,sentence.01,you,to,Affirmative,"I , therefore , sentence you to six months imprisonment with hard labour with effect from May 10 , the date on which you were arrested , Mr Akende said . "
+Mr Akende,say.01,"therefore , sentence you to",,Affirmative,"I , therefore , sentence you to six months imprisonment with hard labour with effect from May 10 , the date on which you were arrested , Mr Akende said . "
+Zulu,beg.01,the court,to be lenient on him,Affirmative,"In mitigation , Zulu begged the court to be lenient on him . "
+Zulu,submit.01,that he stole,,Affirmative,Zulu submitted that he stole the polony and meat because he wanted to go and eat them . 
+Zulu,steal.01,the polony and meat,,Affirmative,Zulu submitted that he stole the polony and meat because he wanted to go and eat them . 
+Zulu,want.01,to go and eat them,,Affirmative,Zulu submitted that he stole the polony and meat because he wanted to go and eat them . 
+Zulu,eat.01,the polony and meat,,Affirmative,Zulu submitted that he stole the polony and meat because he wanted to go and eat them . 
+by,read.01,the court read by,,Affirmative,"Facts before the court read by public prosecutor Chrispin Mukubanda were that on that day around 13:00 hours ,   a security guard at Shoprite  identified as Davison Sichone saw a suspicious  person with some packets of meat and polony trying to leave without paying . "
+Davison Sichone,see.01,trying,,Affirmative,"Facts before the court read by public prosecutor Chrispin Mukubanda were that on that day around 13:00 hours ,   a security guard at Shoprite  identified as Davison Sichone saw a suspicious  person with some packets of meat and polony trying to leave without paying . "
+a suspicious  person with,try.01,to leave without paying,,Affirmative,"Facts before the court read by public prosecutor Chrispin Mukubanda were that on that day around 13:00 hours ,   a security guard at Shoprite  identified as Davison Sichone saw a suspicious  person with some packets of meat and polony trying to leave without paying . "
+Mr Sichone,give.01,chase,,Affirmative,Mr Sichone gave chase and apprehended Zulu . 
+Mr Sichone,apprehend.01,Zulu,,Affirmative,Mr Sichone gave chase and apprehended Zulu . 

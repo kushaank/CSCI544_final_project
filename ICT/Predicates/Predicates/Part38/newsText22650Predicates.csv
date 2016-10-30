@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Anyone accused of wrongdoing,get.01,a decision,from,Affirmative,"Robert Robb : Anyone accused of wrongdoing should get a decision from an impartial adjudicator , even Tom Horne . "
+Attorney Sheila Polk,decide.01,not to accept,,Affirmative,Yavapai County Attorney Sheila Polk decided not to accept the recommendation of an administrative law judge and stuck with her finding that Attorney General Tom Horne illegally coordinated with an independent campaign . 
+Attorney Sheila Polk,accept.01,the recommendation of,,Affirmative,Yavapai County Attorney Sheila Polk decided not to accept the recommendation of an administrative law judge and stuck with her finding that Attorney General Tom Horne illegally coordinated with an independent campaign . 
+Yavapai County Attorney Sheila Polk,find.01,Horne illegally coordinated with,,Affirmative,Yavapai County Attorney Sheila Polk decided not to accept the recommendation of an administrative law judge and stuck with her finding that Attorney General Tom Horne illegally coordinated with an independent campaign . 
+I,think.01,she should have done that,,Affirmative,I do n't think she should have done that . 
+Yavapai County Attorney Sheila Polk,do.02,that,,Affirmative,I do n't think she should have done that . 
+Yavapai County Attorney Sheila Polk,have.03,an argument,,Affirmative,"Not because she does n't have an argument , but because of the peculiar procedural status of the case . "
+Arizona,have.03,a weird system of,,Affirmative,"Arizona has a weird system of administrative law in this respect : While there are independent administrative law judges , their decisions are merely recommendations to agency heads , who can overturn them . "
+"agency heads ,",overturn.01,independent administrative law judges,,Affirmative,"Arizona has a weird system of administrative law in this respect : While there are independent administrative law judges , their decisions are merely recommendations to agency heads , who can overturn them . "
+court judge,reconsider.01,the case,,Affirmative,A superior court judge does n't reconsider the case on the merits . 
+A superior court judge,overturn.01,An administrative decision,,Affirmative,"Instead , the judge can overturn an administrative decision only on the basis that it was arbitrary and capricious , an abuse of discretion or clearly contrary to the evidence or the law . "
+a prosecutor,have.03,the final word,,Affirmative,"In particular , a prosecutor should n't have the final word . "
+Lord,know.01,it 's hard,,Affirmative,"Lord knows , it 's hard to work up any sympathy for Tom Horne these days . "
+Lord,get.01,a fair shake,,Affirmative,"But in this matter , he 's not getting a fair shake . "

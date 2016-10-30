@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+counsel,submit.01,a petition praying,,Affirmative,"During the hearing , Pervez Musharraf 's counsel submitted a petition praying his client 's exemption from appearance for Monday on medical ground , which the court granted . "
+a petition praying,pray.01,exemption from appearance for Monday,,Affirmative,"During the hearing , Pervez Musharraf 's counsel submitted a petition praying his client 's exemption from appearance for Monday on medical ground , which the court granted . "
+the court,grant.01,"medical ground ,",,Affirmative,"During the hearing , Pervez Musharraf 's counsel submitted a petition praying his client 's exemption from appearance for Monday on medical ground , which the court granted . "
+the court,ask.02,to ensure,the guarantors of,Affirmative,"However , the court asked the guarantors of former President to ensure Pervez Musharraf 's presence on the next hearing . "
+the guarantors of,ensure.01,presence on,,Affirmative,"However , the court asked the guarantors of former President to ensure Pervez Musharraf 's presence on the next hearing . "
+Sherpao and Nausherwani,submit.01,their requests for,,Affirmative,Sherpao and Nausherwani submitted their requests for their acquittal from the Bugti murder case . 
+the ATC,issue.01,notices,to,Affirmative,On this the ATC issued notices to the relevant authorities and adjourned the hearing till June 16 . 
+the ATC,adjourn.01,the hearing till June 16,,Affirmative,On this the ATC issued notices to the relevant authorities and adjourned the hearing till June 16 . 
+by,provided.01,assurance provided by,,Affirmative,"This is the sixth time that the court has ordered for the former military dictator 's appearance in court , but he has remained absent from all hearings despite assurance provided by his guarantors . "
+by Musharraf,order.01,a crackdown ordered by Musharraf,,Affirmative,"Baloch nationalist leader Akbar Khan Bugti was killed in a cave on Aug 26 , 2006 during a crackdown ordered by Musharraf . "

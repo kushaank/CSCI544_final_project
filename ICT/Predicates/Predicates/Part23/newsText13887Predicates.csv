@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Justice Department,announce.01,THE CHARGES,,Affirmative,The Justice Department announced charges Monday against five Chinese military officials in a landmark international cyber - spying case . 
+The indictment 's,accuse.01,the officials,of hacking into,Affirmative,The indictment accuses the officials of hacking into the computers of companies and a union to gain access to trade secrets and private communications . 
+the officials,gain.02,access to,,Affirmative,The indictment accuses the officials of hacking into the computers of companies and a union to gain access to trade secrets and private communications . 
+The indictment,charge.01,five officers of,,Affirmative,THE ACCUSED : The indictment charges five officers of the Chinese People 's Liberation Army . 
+Prosecutors,allege.01,", hackers stole",,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+Prosecutors,work.01,from,,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+hackers,steal.01,confidential business information,for,Affirmative,"THE OPERATION : Prosecutors allege that working from a building in Shanghai , hackers stole confidential business information for competitive advantage . "
+the indictment,say.01,they gained access to,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+they,gain.02,access to,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+they,send.02,emails,to company employees,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "
+emails,company.01,employees,,Affirmative,"In some instances , the indictment says , they gained access to computer networks by sending emails to company employees that looked authentic but that actually contained a link to malicious code . "

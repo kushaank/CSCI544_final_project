@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+League members,rack.01,an R83 000 tab,,Affirmative,League members are accused of racking up an R83 000 tab at a Durban night club and not paying the bill . 
+League members,pay.01,an apparently unpaid ANC Youth League bill erupted into a race-filled diatribe on Facebook on Sunday,,Affirmative,League members are accused of racking up an R83 000 tab at a Durban night club and not paying the bill . 
+The Sunday Tribune,report.01,approached,,Affirmative,"The Sunday Tribune reported that Emmanuel Bongumasa Gumede , director of four companies going into liquidation , and Themba Dlomo approached a director of the Velvet Lounge club , asking him to host two parties for the league on 5 and 6 April . "
+"Emmanuel Bongumasa Gumede , director of",ask.02,to host,him,Affirmative,"The Sunday Tribune reported that Emmanuel Bongumasa Gumede , director of four companies going into liquidation , and Themba Dlomo approached a director of the Velvet Lounge club , asking him to host two parties for the league on 5 and 6 April . "
+Themba Dlomo,host.01,two parties for,,Affirmative,"The Sunday Tribune reported that Emmanuel Bongumasa Gumede , director of four companies going into liquidation , and Themba Dlomo approached a director of the Velvet Lounge club , asking him to host two parties for the league on 5 and 6 April . "
+party Dlomo,pay.01,R8 000,,Affirmative,"The manager , who was not named , said after the first party Dlomo paid R8 000 on his credit card for a bill of R27 000 , spent by a table of 10 people , and said the rest would be settled at the next party . "
+by,spend.02,a bill of R27 000,,Affirmative,"The manager , who was not named , said after the first party Dlomo paid R8 000 on his credit card for a bill of R27 000 , spent by a table of 10 people , and said the rest would be settled at the next party . "
+party Dlomo,say.01,rest would be settled at,,Affirmative,"The manager , who was not named , said after the first party Dlomo paid R8 000 on his credit card for a bill of R27 000 , spent by a table of 10 people , and said the rest would be settled at the next party . "
+by,book.01,the entire bottom floor of,,Affirmative,"At the following party , the entire bottom floor of the club was booked out by the league and VIPs were accommodated upstairs . "
+the first party Dlomo,tell.01,he had acted,the Tribune,Affirmative,Dlomo told the Tribune he had acted only as a facilitator for a funder to meet the restaurant owner . 
+R82 583,act.02,only as,,Affirmative,Dlomo told the Tribune he had acted only as a facilitator for a funder to meet the restaurant owner . 
+the first party Dlomo,read.01,media report,,Affirmative,"However , having read Sunday 's media report , Dlomo took to Facebook to vent his anger at the story . "
+the first party Dlomo,vent.01,his anger,,Affirmative,"However , having read Sunday 's media report , Dlomo took to Facebook to vent his anger at the story . "
+R82 583,accuse.01,the idiotic Indian,of trying,Affirmative,He accused the idiotic Indian of trying to popularise his venue by using his and the ANC 's names . 
+the idiotic Indian,try.01,to popularise,,Affirmative,He accused the idiotic Indian of trying to popularise his venue by using his and the ANC 's names . 
+the idiotic Indian,popularise.01,his venue,,Affirmative,He accused the idiotic Indian of trying to popularise his venue by using his and the ANC 's names . 
+idiotic Indian,mention.01,idiotic Indian,,Affirmative,Why does he not mention the Indian that [ he ] is fighting with ? 
+idiotic Indian,fight.01,idiotic Indian,,Affirmative,Why does he not mention the Indian that [ he ] is fighting with ? 
+the first party Dlomo,charge.06,that he was worried,,Affirmative,Dlomo charged that he was worried because the bulk of the ANC 's election funds came from Indians . 
+the first party Dlomo,complain.01,about,,Affirmative,"A month ago , Dlomo had complained on Facebook about being contacted for the payment . "
+idiotic Indian,hate.01,more than calls from,,Affirmative,Nothing I hate more than calls from service provider on a Friday one Gupta did n't pay another Gupta . 
+Nothing,pay.01,another Gupta,,Affirmative,Nothing I hate more than calls from service provider on a Friday one Gupta did n't pay another Gupta . 
+idiotic Indian,write.01,Fundraising Blues,,Affirmative,"Fundraising Blues , he wrote . "
+idiotic Indian,heed.01,the advice of,,Affirmative,Eventually he heeded the advice of his friends and deleted his comments late on Sunday afternoon . 
+idiotic Indian,delete.01,his comments,,Affirmative,Eventually he heeded the advice of his friends and deleted his comments late on Sunday afternoon . 
+co-ordinator Nontembeko Boyce,tell.01,body did not know about,The Witness,Affirmative,ANC Youth League task team co-ordinator Nontembeko Boyce told The Witness that the body did not know about the party until it was approached by the Tribune last week . 
+the body,know.01,about,,Affirmative,ANC Youth League task team co-ordinator Nontembeko Boyce told The Witness that the body did not know about the party until it was approached by the Tribune last week . 
+ANC Youth League task team co-ordinator Nontembeko Boyce,say.01,leadership would consider,,Affirmative,Boyce said the league 's leadership would consider the article at its next meeting and see what action to take against the two . 
+leadership,consider.01,the article,,Affirmative,Boyce said the league 's leadership would consider the article at its next meeting and see what action to take against the two . 
+leadership,see.01,action to take against,,Affirmative,Boyce said the league 's leadership would consider the article at its next meeting and see what action to take against the two . 
+SMS Alerts,break.01,news stories,,Affirmative,SMS Alerts Get breaking news stories via SMS . 
+by OpenCalais,automate.01,Website keywords automated by OpenCalais,,Affirmative,Calais Website keywords automated by OpenCalais . 
+Creating,enable.01,to submit photos and stories,you,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,submit.01,photos and stories,,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,select.01,The image,,Affirmative,* The image you selected could not be uploaded . 

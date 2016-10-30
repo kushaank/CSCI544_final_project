@@ -1,0 +1,49 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mark Teixeira,hit.02,run single,,Affirmative,"NEW YORK -- Mark Teixeira hit a two - run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single - admission doubleheader . "
+Brett Gardner,add.01,an RBI double,,Affirmative,"NEW YORK -- Mark Teixeira hit a two - run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single - admission doubleheader . "
+York Yankees,hold.06,for,,Affirmative,"NEW YORK -- Mark Teixeira hit a two - run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single - admission doubleheader . "
+Brian McCann,have.03,an RBI single,,Affirmative,Brian McCann had an RBI single and New York scored all its runs in the first two innings on five hits after belting five homers in a 7-1 victory Saturday . 
+"NEW YORK -- Mark Teixeira hit a two-run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single-admission doubleheader .",score.01,all its runs in,,Affirmative,Brian McCann had an RBI single and New York scored all its runs in the first two innings on five hits after belting five homers in a 7-1 victory Saturday . 
+"NEW YORK -- Mark Teixeira hit a two-run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single-admission doubleheader .",belt.01,five homers,,Affirmative,Brian McCann had an RBI single and New York scored all its runs in the first two innings on five hits after belting five homers in a 7-1 victory Saturday . 
+Hiroki Kuroda ( 3-3 ),help.01,Yankees improve to 8-0 in,,Affirmative,Hiroki Kuroda ( 3-3 ) labored through six innings to help the Yankees improve to 8-0 in interleague home games against Pittsburgh . 
+"David Robertson ,",get.01,four outs,,Affirmative,"David Robertson , the fourth Yankees reliever , got four outs for his eighth save . "
+"NEW YORK -- Mark Teixeira hit a two-run single , Brett Gardner added an RBI double and the New York Yankees held on for a 4-3 victory over the Pittsburgh Pirates on Sunday in the opener of a single-admission doubleheader .",try.01,for,,Affirmative,"New York will try for its third three - game sweep of the Pirates , along with 2005 and ` 07 , in the finale of the first traditional twinbill at Yankee Stadium since 2004 . "
+Gerrit Cole,face.01,Vidal Nuno,,Affirmative,Pittsburgh 's Gerrit Cole faces Vidal Nuno in the second game . 
+manager Joe Girardi,say.01,Jeter would only start,,Affirmative,"With the second game scheduled to begin about 30 minutes after the end of the first , Yankees manager Joe Girardi said Derek Jeter would only start the opener . "
+Derek Jeter,start.01,the opener of a single-admission doubleheader,,Affirmative,"With the second game scheduled to begin about 30 minutes after the end of the first , Yankees manager Joe Girardi said Derek Jeter would only start the opener . "
+Yankees manager Joe Girardi,say.01,Ellsbury would not start in,,Affirmative,Girardi also said Jacoby Ellsbury would not start in center field both games after sitting out Saturday with flu-like symptoms . 
+Jacoby Ellsbury,start.01,both games after sitting out Saturday with,,Affirmative,Girardi also said Jacoby Ellsbury would not start in center field both games after sitting out Saturday with flu-like symptoms . 
+manager Clint Hurdle,say.01,to expect,,Affirmative,Pirates manager Clint Hurdle said to expect lineup changes for the finale . 
+manager Clint Hurdle,expect.01,lineup changes for,,Affirmative,Pirates manager Clint Hurdle said to expect lineup changes for the finale . 
+His main concern,protect.01,his bullpen,for,Affirmative,"His main concern , though , was protecting his bullpen for the second game , and Charlie Morton ( 0-6 ) did just that with seven solid innings after a shaky start . "
+Charlie Morton -LRB- 0-6 -RRB-,walk.01,Brett Gardner,,Affirmative,Morton walked Brett Gardner to open the first . 
+Charlie Morton -LRB- 0-6 -RRB-,open.01,the first,,Affirmative,Morton walked Brett Gardner to open the first . 
+Derek Jeter,bunt.01,the third base line for,,Affirmative,"Jeter then bunted down the third base line for a hit and Ellsbury was hit by a pitch to load the bases for Teixeira , who homered Saturday . "
+Ellsbury,load.01,"the bases for Teixeira ,",,Affirmative,"Jeter then bunted down the third base line for a hit and Ellsbury was hit by a pitch to load the bases for Teixeira , who homered Saturday . "
+hitting first baseman,line.01,a two-run single,to,Affirmative,The hot - hitting first baseman lined his single to right - center . 
+Brett Gardner,allow.01,", was picked off",,Affirmative,"He allowed just one baserunner the rest of his outing , and Zoilo Almonte , who singled with two outs in the fourth , was picked off first base -- after a replay overturned an original safe call . "
+a replay,overturn.01,an original safe call,,Affirmative,"He allowed just one baserunner the rest of his outing , and Zoilo Almonte , who singled with two outs in the fourth , was picked off first base -- after a replay overturned an original safe call . "
+Neil Walker,add.01,an RBI single,,Affirmative,Neil Walker homered in the first -- his ninth -- and added an RBI single in the fifth to cut the lead to 4-3 . 
+the Pittsburgh Pirates,score.01,three runs for Morton,,Affirmative,The Pirates scored three runs for Morton after giving him only three runs of support in his previous four starts . 
+the Pittsburgh Pirates,give.01,three runs of support in,him,Affirmative,The Pirates scored three runs for Morton after giving him only three runs of support in his previous four starts . 
+Charlie Morton -LRB- 0-6 -RRB-,give.08,six hits,,Affirmative,He gave up six hits and walked one with six strikeouts . 
+Charlie Morton -LRB- 0-6 -RRB-,walk.01,one with,,Affirmative,He gave up six hits and walked one with six strikeouts . 
+Hiroki Kuroda -LRB- 3-3 -RRB-,throw.01,98 pitches,in,Affirmative,"Kuroda threw 98 pitches in his first win since April 12 , a span of six starts . "
+Yankees RF Carlos Beltran,have.03,a second cortisone shot,,Affirmative,Yankees RF Carlos Beltran ( right elbow ) had a second cortisone shot to try to ease the discomfort in his right elbow from a bone spur . 
+Yankees RF Carlos Beltran,ease.02,the discomfort,,Affirmative,Yankees RF Carlos Beltran ( right elbow ) had a second cortisone shot to try to ease the discomfort in his right elbow from a bone spur . 
+Yankees RF Carlos Beltran -LRB- right elbow -RRB-,get.01,a second opinion from,,Affirmative,He will get a second opinion from Dr. James Andrews on Tuesday . 
+Yankees manager Joe Girardi,say.01,Beltran had planned on getting,,Affirmative,Girardi said Beltran had planned on getting the second opinion but Andrews was n't available sooner . 
+Yankees RF Carlos Beltran -LRB- right elbow -RRB-,plan.01,on getting,,Affirmative,Girardi said Beltran had planned on getting the second opinion but Andrews was n't available sooner . 
+Yankees RF Carlos Beltran -LRB- right elbow -RRB-,get.01,a second opinion,,Affirmative,Girardi said Beltran had planned on getting the second opinion but Andrews was n't available sooner . 
+Yankees manager Joe Girardi,say.01,Beltran is getting better,,Affirmative,Girardi said Beltran is getting better . 
+Girardi,acknowledge.01,Sabathia might need surgery someday on,,Affirmative,Girardi also acknowledged that LHP CC Sabathia might need surgery someday on his right knee because the condition is degenerative . 
+LHP CC Sabathia,need.01,surgery,,Affirmative,Girardi also acknowledged that LHP CC Sabathia might need surgery someday on his right knee because the condition is degenerative . 
+he,have.03,knee drained and,,Affirmative,"Sabathia was returning from a visit to Andrews ' office , where he had his knee drained and was given a cortisone shot . "
+Travis Snider,strike.05,looking,,Affirmative,The Pirates ' streak of the leadoff batter reaching in eight straight games ended when Travis Snider struck out looking . 
+The Pirates,recall.02,RHP Brandon Cumpton,from,Affirmative,The Pirates recalled RHP Brandon Cumpton from Triple - A Indianapolis as the 26th man for the doubleheader . 
+The Yankees,bring.01,RHP Jose Ramirez,,Affirmative,The Yankees brought up RHP Jose Ramirez from Triple - A Scranton / Wilkes - Barre . 
+B Gardner and,score.01,to third,,Affirmative,"M Teixeira singled to right center , B Gardner and D Jeter scored , J Ellsbury to third . "
+C Barmes,score.01,Walker reached on,,Affirmative,"N Walker reached on infield single to third , C Barmes scored . "
+Hiroki Kuroda,surrender.01,batting average against splitters,,Affirmative,"Hiroki Kuroda is surrendering a .244 batting average against splitters he throws down in the zone , which is 61 points above league average on the pitch . "
+he,throw.01,splitters,down,Affirmative,"Hiroki Kuroda is surrendering a .244 batting average against splitters he throws down in the zone , which is 61 points above league average on the pitch . "
+Andrew McCutchen,hit.01,.267,,Affirmative,"Andrew McCutchen is hitting .267 against pitches down in the zone , which is 31 points better than the league average . "

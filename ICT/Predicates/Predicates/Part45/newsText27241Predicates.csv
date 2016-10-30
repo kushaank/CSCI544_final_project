@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the police commissioner,spark.01,national outrage,,Affirmative,"Robert Copeland , 82 , the police commissioner who sparked national outrage after his racist statements about President Barack Obama were made public last week , has resigned , reports the Washington Post . "
+"Town officials in Wolfeboro ,",confirm.01,that Copeland submitted,,Affirmative,"Town officials in Wolfeboro , New Hampshire confirmed that Copeland submitted his resignation late Sunday night . "
+Robert Copeland,submit.01,his resignation,,Affirmative,"Town officials in Wolfeboro , New Hampshire confirmed that Copeland submitted his resignation late Sunday night . "
+resident Jane O'Toole,say.01,she overheard,,Affirmative,"As previously reported by NewsOne , Wolfeboro resident Jane O'Toole said she overheard Copeland call President Obama the n - word at a restaurant in March and wrote to the town manager . "
+resident Jane OToole,overhear.01,Copeland call,,Affirmative,"As previously reported by NewsOne , Wolfeboro resident Jane O'Toole said she overheard Copeland call President Obama the n - word at a restaurant in March and wrote to the town manager . "
+Robert Copeland,call.01,President Barack Obama,the n - word,Affirmative,"As previously reported by NewsOne , Wolfeboro resident Jane O'Toole said she overheard Copeland call President Obama the n - word at a restaurant in March and wrote to the town manager . "
+Robert Copeland,acknowledge.01,using,,Affirmative,Copeland acknowledged using the slur and refused to apologize . 
+Robert Copeland,use.01,the slur,,Affirmative,Copeland acknowledged using the slur and refused to apologize . 
+Robert Copeland,refuse.01,to apologize,,Affirmative,Copeland acknowledged using the slur and refused to apologize . 
+"nominee Mitt Romney ,",own.01,a vacation home in Wolfeboro,,Affirmative,"Former Republican presidential nominee Mitt Romney , who owns a vacation home in Wolfeboro , also called for Copeland 's resignation , reports the Post . "
+"nominee Mitt Romney ,",call.03,for,,Affirmative,"Former Republican presidential nominee Mitt Romney , who owns a vacation home in Wolfeboro , also called for Copeland 's resignation , reports the Post . "
+the Washington Post,report.01,", also called for",,Affirmative,"Former Republican presidential nominee Mitt Romney , who owns a vacation home in Wolfeboro , also called for Copeland 's resignation , reports the Post . "
+"percent Black ,",report.01,the Associated Press,,Affirmative,"About 20 Black people live in Wolfeboro in central New Hampshire , a state that 's 94 percent White and 1 percent Black , reports the Associated Press . "

@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,acquit.01,A MAN acquitted of rape,of rape,Affirmative,A MAN acquitted of rape last week by High Court judge Justice Prabaharan Kumararatnam has been given another chance to correct his ways and support his young family . 
+A MAN acquitted of rape,correct.01,his ways,,Affirmative,A MAN acquitted of rape last week by High Court judge Justice Prabaharan Kumararatnam has been given another chance to correct his ways and support his young family . 
+A MAN acquitted of rape,support.01,his young family,,Affirmative,A MAN acquitted of rape last week by High Court judge Justice Prabaharan Kumararatnam has been given another chance to correct his ways and support his young family . 
+Rupeni Baleitamavua,escape.01,a jail term,,Affirmative,Rupeni Baleitamavua escaped a jail term and was given a suspended sentence on a count of assault and ordered to pay a $ 100 fine for another of breaching a suspended sentence . 
+Rupeni Baleitamavua,pay.01,100 fine,,Affirmative,Rupeni Baleitamavua escaped a jail term and was given a suspended sentence on a count of assault and ordered to pay a $ 100 fine for another of breaching a suspended sentence . 
+High Court judge Justice Prabaharan Kumararatnam,tell.01,court was giving him,Baleitamavua,Affirmative,"Passing sentence , Justice Kumararatnam told Baleitamavua the court was giving him a final chance to live a normal life with his family . "
+the court,give.01,a final chance,him,Affirmative,"Passing sentence , Justice Kumararatnam told Baleitamavua the court was giving him a final chance to live a normal life with his family . "
+Rupeni Baleitamavua,tell.01,wife had just given birth and,the court,Affirmative,"In mitigation , Baleitamavua told the court his 25 - year - old wife had just given birth and that his one - month two - week - old child constantly needed medical attention along with his wife . "
+old wife,give.01,birth,,Affirmative,"In mitigation , Baleitamavua told the court his 25 - year - old wife had just given birth and that his one - month two - week - old child constantly needed medical attention along with his wife . "
+old child,need.01,medical attention,,Affirmative,"In mitigation , Baleitamavua told the court his 25 - year - old wife had just given birth and that his one - month two - week - old child constantly needed medical attention along with his wife . "
+Rupeni Baleitamavua,ask.02,to allow him time,the court,Affirmative,He also asked the court to allow him time to pay the fine . 
+the court,allow.01,time,,Affirmative,He also asked the court to allow him time to pay the fine . 
+Rupeni Baleitamavua,say.01,he was,,Affirmative,Baleitamavua said he was heavily intoxicated at the time the offence was committed . 
+Rupeni Baleitamavua,say.01,he had met,,Affirmative,He said he had met the complainant in a Suva restaurant and asked to use her phone . 
+Rupeni Baleitamavua,meet.02,the complainant,,Affirmative,He said he had met the complainant in a Suva restaurant and asked to use her phone . 
+Rupeni Baleitamavua,ask.02,to use,,Affirmative,He said he had met the complainant in a Suva restaurant and asked to use her phone . 
+Rupeni Baleitamavua,use.01,her phone,,Affirmative,He said he had met the complainant in a Suva restaurant and asked to use her phone . 

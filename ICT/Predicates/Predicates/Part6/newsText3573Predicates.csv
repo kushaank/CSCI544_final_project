@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,arrest.01,a woman,,Affirmative,Police arrested a woman who reportedly attempted to set her boyfriend on fire after an argument . 
+a woman,attempt.01,to set,,Affirmative,Police arrested a woman who reportedly attempted to set her boyfriend on fire after an argument . 
+a woman,set.01,her boyfriend,on fire after,Affirmative,Police arrested a woman who reportedly attempted to set her boyfriend on fire after an argument . 
+Police,say.01,", they were called to",,Affirmative,"Police said Saturday night , they were called to an apartment near Interstate 240 and South Walker Avenue . "
+Police,say.01,told authorities,,Affirmative,Police said a man at the apartment complex told authorities that he and his girlfriend had gotten into a fight . 
+a man at,tell.01,had gotten into,authorities,Affirmative,Police said a man at the apartment complex told authorities that he and his girlfriend had gotten into a fight . 
+he and,get.06,into,,Affirmative,Police said a man at the apartment complex told authorities that he and his girlfriend had gotten into a fight . 
+a man at the apartment complex,say.01,she punched him and,,Affirmative,He said she punched him and then continued to attack him . 
+Police,punch.01,a man at the apartment complex,,Affirmative,He said she punched him and then continued to attack him . 
+Police,continue.01,to attack him,,Affirmative,He said she punched him and then continued to attack him . 
+Police,say.01,then grabbed,,Affirmative,"Police said Chana Reede , 27 , then grabbed a bottle of lighter fluid off the pair 's grill and sprayed it on the man . "
+"Chana Reede , 27 ,",grab.01,a bottle of,,Affirmative,"Police said Chana Reede , 27 , then grabbed a bottle of lighter fluid off the pair 's grill and sprayed it on the man . "
+"Chana Reede , 27 ,",spray.01,27,,Affirmative,"Police said Chana Reede , 27 , then grabbed a bottle of lighter fluid off the pair 's grill and sprayed it on the man . "
+The victim,tell.01,woman chased him around,officers,Affirmative,The victim told officers that the woman chased him around the apartment with a lighter . 
+a woman who reportedly attempted to set her boyfriend on fire after an argument,chase.01,The victim,,Affirmative,The victim told officers that the woman chased him around the apartment with a lighter . 
+The victim,leave.01,an apartment near Interstate 240 and South Walker Avenue,,Affirmative,He was eventually able to leave the apartment and get into a car and lock the doors . 
+Police,say.01,"woman followed him , but",,Affirmative,"Police said the woman followed him , but eventually went back into the apartment . "
+Police,find.01,the man in,,Affirmative,Police found the man in the vehicle with the strong odor of lighter fluid coming off his clothing . 
+Police,say.01,Reede told authorities,,Affirmative,Police said Reede told authorities that the man beat her up and put the lighter fluid on himself because he wanted her to go to jail . 
+Chana Reede,tell.01,man beat her up and put,authorities,Affirmative,Police said Reede told authorities that the man beat her up and put the lighter fluid on himself because he wanted her to go to jail . 
+a man at the apartment complex,beat.01,Chana Reede,,Affirmative,Police said Reede told authorities that the man beat her up and put the lighter fluid on himself because he wanted her to go to jail . 
+a man at the apartment complex,put.01,the lighter fluid,on himself,Affirmative,Police said Reede told authorities that the man beat her up and put the lighter fluid on himself because he wanted her to go to jail . 
+a man at the apartment complex,want.01,her to go to jail,,Affirmative,Police said Reede told authorities that the man beat her up and put the lighter fluid on himself because he wanted her to go to jail . 
+Police,say.01,Reede told them,,Affirmative,"Police said Reede told them the victim punched her several times , but could not explain to authorities why she did not have injuries consistent with being beaten . "
+Chana Reede,tell.01,victim punched,them,Affirmative,"Police said Reede told them the victim punched her several times , but could not explain to authorities why she did not have injuries consistent with being beaten . "
+The victim,punch.01,her several times,,Affirmative,"Police said Reede told them the victim punched her several times , but could not explain to authorities why she did not have injuries consistent with being beaten . "
+The victim,explain.01,why she did not have injuries consistent with,to authorities,Affirmative,"Police said Reede told them the victim punched her several times , but could not explain to authorities why she did not have injuries consistent with being beaten . "
+Chana Reede,have.03,injuries consistent with,,Affirmative,"Police said Reede told them the victim punched her several times , but could not explain to authorities why she did not have injuries consistent with being beaten . "
+Police,arrest.01,Chana Reede,on suspicion of,Affirmative,Police arrested Reede on suspicion of first degree arson . 
+you,agree.01,to accept,,Affirmative,By posting your comments you agree to accept our terms of use . 
+you,accept.01,our terms of use,,Affirmative,By posting your comments you agree to accept our terms of use . 

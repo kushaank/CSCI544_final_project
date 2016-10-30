@@ -1,0 +1,94 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Friends,help.01,her raise,,Affirmative,"Friends have helped her raise more than $ 8,000 so far . "
+her,raise.01,"more than $ 8,000",,Affirmative,"Friends have helped her raise more than $ 8,000 so far . "
+by,axe.01,a raising money,,Affirmative,Friends of a female adult film star in California have come to her rescue raising thousands of dollars with an online fundraiser after a her first attempt a raising money was axed by a rival site . 
+friends,raise.02,"more than $ 8,000",,Affirmative,"Eden Alexander 's friends have raised more than $ 8,000 to help pay for her care after she posted an email sent to her Friday by WePay saying her fundraising effort had been cancelled . "
+friends,help.01,pay for,,Affirmative,"Eden Alexander 's friends have raised more than $ 8,000 to help pay for her care after she posted an email sent to her Friday by WePay saying her fundraising effort had been cancelled . "
+her,post.01,an email sent to,,Affirmative,"Eden Alexander 's friends have raised more than $ 8,000 to help pay for her care after she posted an email sent to her Friday by WePay saying her fundraising effort had been cancelled . "
+by WePay,send.01,an email sent to,to,Affirmative,"Eden Alexander 's friends have raised more than $ 8,000 to help pay for her care after she posted an email sent to her Friday by WePay saying her fundraising effort had been cancelled . "
+an email sent to,say.01,effort had been cancelled,,Affirmative,"Eden Alexander 's friends have raised more than $ 8,000 to help pay for her care after she posted an email sent to her Friday by WePay saying her fundraising effort had been cancelled . "
+her,disclose.01,she had,,Affirmative,She previously disclosed she had a deadly infection and no money to pay for doctors . 
+her,have.03,a deadly infection and,,Affirmative,She previously disclosed she had a deadly infection and no money to pay for doctors . 
+her,suffer.01,from,,Affirmative,Alexander tweeted earlier this month that she was suffering from septic poisoning that caused her heart and lungs to fail . 
+septic poisoning,cause.01,to fail,,Affirmative,Alexander tweeted earlier this month that she was suffering from septic poisoning that caused her heart and lungs to fail . 
+her,say.01,doctors refused,,Affirmative,"She also said doctors refused to treat her because of her profession , and that it led to her condition rapidly deteriorating . "
+doctors,refuse.01,to treat her because of,,Affirmative,"She also said doctors refused to treat her because of her profession , and that it led to her condition rapidly deteriorating . "
+doctors,treat.01,her,,Affirmative,"She also said doctors refused to treat her because of her profession , and that it led to her condition rapidly deteriorating . "
+WePay 's,tell.01,it cancelled,her,Affirmative,"WePay told her it cancelled the fundraiser because it 's terms of service prohibited anything of ' a pornographic nature , ' according to the email she received . "
+her profession,cancel.01,the fundraiser,,Affirmative,"WePay told her it cancelled the fundraiser because it 's terms of service prohibited anything of ' a pornographic nature , ' according to the email she received . "
+WePay 's,receive.01,the email,,Affirmative,"WePay told her it cancelled the fundraiser because it 's terms of service prohibited anything of ' a pornographic nature , ' according to the email she received . "
+The payment processor,tell.01,"money received ,",her,Affirmative,"The payment processor also told her that all money received , just north of $ 1,100 , would not be given to her . "
+WePay 's,reverse.01,it 's decision,,Affirmative,WePay has since reversed it 's decision and allowed Alexander to raise money to pay bills she was previously unable to because sex workers do not have health insurance . 
+WePay 's,allow.01,Alexander to raise money,,Affirmative,WePay has since reversed it 's decision and allowed Alexander to raise money to pay bills she was previously unable to because sex workers do not have health insurance . 
+Eden Alexander 's,raise.01,money,,Affirmative,WePay has since reversed it 's decision and allowed Alexander to raise money to pay bills she was previously unable to because sex workers do not have health insurance . 
+Eden Alexander 's,pay.01,bills,to,Affirmative,WePay has since reversed it 's decision and allowed Alexander to raise money to pay bills she was previously unable to because sex workers do not have health insurance . 
+sex workers,have.03,health insurance,,Affirmative,WePay has since reversed it 's decision and allowed Alexander to raise money to pay bills she was previously unable to because sex workers do not have health insurance . 
+WePay,suspect.01,Eden may not have been aware of,,Affirmative,"' Upon further review , WePay suspects Eden may not have been aware of the terms of service and we are offering her the ability to open a new campaign for further fundraising , ' the site said in a statement emailed to MailOnline . "
+we,offer.01,the ability,,Affirmative,"' Upon further review , WePay suspects Eden may not have been aware of the terms of service and we are offering her the ability to open a new campaign for further fundraising , ' the site said in a statement emailed to MailOnline . "
+a rival site,say.01,", WePay suspects",,Affirmative,"' Upon further review , WePay suspects Eden may not have been aware of the terms of service and we are offering her the ability to open a new campaign for further fundraising , ' the site said in a statement emailed to MailOnline . "
+by friend,set.03,A new fundraiser set up on CrowdTilt,,Affirmative,"A new fundraiser set up on CrowdTilt by friend Kitty Fisher has raised almost $ 9,000 from more than 230 contributors in only one day - the target was $ 5,000 . "
+A new fundraiser set up on CrowdTilt,raise.02,"almost $ 9,000",from,Affirmative,"A new fundraiser set up on CrowdTilt by friend Kitty Fisher has raised almost $ 9,000 from more than 230 contributors in only one day - the target was $ 5,000 . "
+A new fundraiser set up on CrowdTilt by friend Kitty Fisher,claim.01,that Alexander is suffering from,,Affirmative,"The fundraiser claims that Alexander is suffering from a skin infection , MRSA , and an infection - caused instance of hypothyroidism called myxedema coma - the trio of ailments nearly killed her . "
+Eden Alexander 's,suffer.01,from,,Affirmative,"The fundraiser claims that Alexander is suffering from a skin infection , MRSA , and an infection - caused instance of hypothyroidism called myxedema coma - the trio of ailments nearly killed her . "
+the trio of ailments,kill.01,friend Kitty Fisher,,Affirmative,"The fundraiser claims that Alexander is suffering from a skin infection , MRSA , and an infection - caused instance of hypothyroidism called myxedema coma - the trio of ailments nearly killed her . "
+The initial denial of,cause.01,outrage among,,Affirmative,"The initial denial of her efforts to raise the life - saving funds caused outrage among sex workers and their fans , with people taking to social media and accusing the site of ' w *** e shaming ' and discrimination , among other things . "
+people,take.01,to,,Affirmative,"The initial denial of her efforts to raise the life - saving funds caused outrage among sex workers and their fans , with people taking to social media and accusing the site of ' w *** e shaming ' and discrimination , among other things . "
+people,accuse.01,the site of ' w,,Affirmative,"The initial denial of her efforts to raise the life - saving funds caused outrage among sex workers and their fans , with people taking to social media and accusing the site of ' w *** e shaming ' and discrimination , among other things . "
+Nobody,teach.01,the things,me,Affirmative,Nobody taught me the things I need to be a good person . 
+no I,need.01,to be,,Affirmative,Nobody taught me the things I need to be a good person . 
+no I,try.01,to teach myself,,Affirmative,I 've tried so hard to teach myself . 
+terms,state.01,you,that you will not accept payments of use,Affirmative,"' WePay 's terms state you that you will not accept payments of use the Service in connection with pornographic items , ' read the letter . "
+you,accept.01,payments of use,,Affirmative,"' WePay 's terms state you that you will not accept payments of use the Service in connection with pornographic items , ' read the letter . "
+Her collection,accrue.01,"more than $ 1,100 in donations",,Affirmative,"Her collection had accrued more than $ 1,100 in donations at the time it was shut down . "
+Eden Alexander 's,say.01,she is suffering from,,Affirmative,"Alexander said in earlier tweets she is suffering from septic poisoning , which has caused her heart and other organs to intermittently fail . "
+WePay 's,suffer.01,from,,Affirmative,"Alexander said in earlier tweets she is suffering from septic poisoning , which has caused her heart and other organs to intermittently fail . "
+"septic poisoning ,",cause.01,to intermittently fail,,Affirmative,"Alexander said in earlier tweets she is suffering from septic poisoning , which has caused her heart and other organs to intermittently fail . "
+WePay 's,claim.01,she has been on,,Affirmative,She claims she has been on her death bed suffering for three weeks with no nurse to care for her . 
+WePay 's,drop.01,the ax on,,Affirmative,"Many fans had rallied round and donated to her cause , but WePay dropped the ax on her collection despite her specifically saying it was not for pornographic purposes . "
+WePay 's,say.01,it was not for,,Affirmative,"Many fans had rallied round and donated to her cause , but WePay dropped the ax on her collection despite her specifically saying it was not for pornographic purposes . "
+The hours,post.01,that tweet have seen spiral into,,Affirmative,"The hours since posting that tweet have seen spiral into a pit of despair listening to songs about breaking up and longing for another person on Pandora before the last song picked was ' I Got Ways Like the Devil , ' by Blue Lu Parker . "
+tweet,see.01,spiral,,Affirmative,"The hours since posting that tweet have seen spiral into a pit of despair listening to songs about breaking up and longing for another person on Pandora before the last song picked was ' I Got Ways Like the Devil , ' by Blue Lu Parker . "
+despair listening to songs,listen.01,about breaking up and longing for,,Affirmative,"The hours since posting that tweet have seen spiral into a pit of despair listening to songs about breaking up and longing for another person on Pandora before the last song picked was ' I Got Ways Like the Devil , ' by Blue Lu Parker . "
+no I,get.01,Ways Like,,Affirmative,"The hours since posting that tweet have seen spiral into a pit of despair listening to songs about breaking up and longing for another person on Pandora before the last song picked was ' I Got Ways Like the Devil , ' by Blue Lu Parker . "
+Eden Alexander 's,claim.01,that she fell into pornography,,Affirmative,Alexander claims that she fell into pornography because she grew up desperately poor and it was her only way out . 
+Eden Alexander 's,tease.02,no I,,Affirmative,' He used to tease me [ because ] I 'd coupon & stockpile food . 
+no I,stockpile.01,food,,Affirmative,' He used to tease me [ because ] I 'd coupon & stockpile food . 
+no I,buy.01,all this ramen,,Affirmative,"I bought all this ramen , [ because ] of [ people ] like you , she wrote of her now departed boyfriend . "
+-RSB- of -LSB- people,write.01,of,,Affirmative,"I bought all this ramen , [ because ] of [ people ] like you , she wrote of her now departed boyfriend . "
+The desperate woman,say.01,that she 'll film,,Affirmative,"The desperate woman even says , at one point , that she 'll film as many group sex scenes as she needs to in order earn the money to pay her bills . "
+The desperate woman,film.01,many group sex scenes,,Affirmative,"The desperate woman even says , at one point , that she 'll film as many group sex scenes as she needs to in order earn the money to pay her bills . "
+The desperate woman,need.01,to in order earn,,Affirmative,"The desperate woman even says , at one point , that she 'll film as many group sex scenes as she needs to in order earn the money to pay her bills . "
+The desperate woman,earn.01,a raising money,,Affirmative,"The desperate woman even says , at one point , that she 'll film as many group sex scenes as she needs to in order earn the money to pay her bills . "
+The desperate woman,pay.01,her medical bills,,Affirmative,"The desperate woman even says , at one point , that she 'll film as many group sex scenes as she needs to in order earn the money to pay her bills . "
+no I,buy.01,food,for,Affirmative,"' I had to buy food for our dogs , with the money I had left . "
+no I,leave.01,the money,,Affirmative,"' I had to buy food for our dogs , with the money I had left . "
+no I,put.01,you,them,Affirmative,"I always put you , them , us , first . "
+I,wan.01,na be forgotten,,Affirmative,"' I wan na be forgotten , & I do n't wan na be reminded , [ you ] said please do n't make this harder , no I wo n't , ' she lamented . "
+I,wan.01,na be reminded,,Affirmative,"' I wan na be forgotten , & I do n't wan na be reminded , [ you ] said please do n't make this harder , no I wo n't , ' she lamented . "
+you,say.01,please do n't make,,Affirmative,"' I wan na be forgotten , & I do n't wan na be reminded , [ you ] said please do n't make this harder , no I wo n't , ' she lamented . "
+She,brush.03,her hair,,Affirmative,She lamented not being able to brush her hair or shave her legs correctly . 
+She,shave.01,her legs,,Affirmative,She lamented not being able to brush her hair or shave her legs correctly . 
+I,lose.02,my balance,,Affirmative,"' Welp I just stood up off the toilet , lost my balance and fell face first into the tile wall in front of me , ' she lamented . "
+She,express.01,grave sadness,,Affirmative,She expressed grave sadness over not having a better relations with her parents . 
+She,have.03,a better relations with,,Affirmative,She expressed grave sadness over not having a better relations with her parents . 
+' Desperation,do.02,funny things,to,Affirmative,' Desperation does funny things to your mind . 
+she,say.01,she 's,,Affirmative,"Like how your try and call your mom for some solace and she says she 's too busy and hangs up , ' the fetish actress wrote . "
+People,donate.01,help ease,,Affirmative,People donated the money help ease the burden of her medical bills . 
+the money help,ease.02,the burden of,,Affirmative,People donated the money help ease the burden of her medical bills . 
+no I,know.01,world has,,Affirmative,' [ I do n't know ] why the world has to be cruel . 
+she,say.01,Going away for,,Affirmative,"Going away for a while now , ' she said . "
+Nobody,care.01,if I dies,,Affirmative,' Nobody cares if I dies . 
+Nobody,care.01,if I survive,,Affirmative,Nobody cares if I survive . 
+she,cry.03,I 'm not,,Affirmative,"I 'm not even human , ' she cried out . "
+I,want.01,Daddy so bad,,Affirmative,"' I want my Daddy so bad , I 'm so miserable and heartbroken . "
+Several people,side.01,with Alexander,,Affirmative,Several people have sided with Alexander in her cause . 
+Mitchell Sunderland,disgust.01,that WePay wo n't release,,Affirmative,"' Disgusting that WePay wo n't release [ Alexander 's ] money to pay for medical bills because she has worked as a sex worker , ' wrote Mitchell Sunderland . "
+WePay,release.01,] money,,Affirmative,"' Disgusting that WePay wo n't release [ Alexander 's ] money to pay for medical bills because she has worked as a sex worker , ' wrote Mitchell Sunderland . "
+she,work.01,as,,Affirmative,"' Disgusting that WePay wo n't release [ Alexander 's ] money to pay for medical bills because she has worked as a sex worker , ' wrote Mitchell Sunderland . "
+Things,take.01,a turn for,,Affirmative,Things took a turn for the worse Saturday afternoon . 
+no I,try.01,to speak,,Affirmative,I 've tried so hard all these years to speak the truth and I 've done nothing but fail and disappoint you . 
+no I,speak.01,the truth,,Affirmative,I 've tried so hard all these years to speak the truth and I 've done nothing but fail and disappoint you . 
+no I,do.02,nothing,,Affirmative,I 've tried so hard all these years to speak the truth and I 've done nothing but fail and disappoint you . 
+no I,disappoint.01,you,,Affirmative,I 've tried so hard all these years to speak the truth and I 've done nothing but fail and disappoint you . 
+no I,have.03,nothing left,,Affirmative,"' I 've nothing left , nowhere to go , Every time I plead for help I just get hurt more . "
+We,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

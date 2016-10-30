@@ -1,0 +1,10 @@
+1	Your	your	PRP$	_	2	poss	_
+2	browser	browser	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	out	out	RB	p2=IN	6	hmod	_
+5	-	-	HYPH	p2=,	6	hyph	_
+6	of	of	IN	_	8	hmod	_
+7	-	-	HYPH	_	8	hyph	_
+8	date	date	NN	_	3	acomp	3:A2=PRD
+9	!	!	.	_	3	punct	_
+

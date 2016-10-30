@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Metro Police,arrest.01,three people,,Affirmative,( WDRB ) -- Metro Police arrested three people near the Big Four Bridge Saturday after complaints they were using heroin inside a car . 
+Police,say.01,were using,,Affirmative,"Police say 32 - year - old Andrew Lee , 31 - year - old Judith Peyton and 39 - year - old Gerard Foote were using the drug in the Red Lot on River Road . "
+"old Andrew Lee ,",use.01,the drug,,Affirmative,"Police say 32 - year - old Andrew Lee , 31 - year - old Judith Peyton and 39 - year - old Gerard Foote were using the drug in the Red Lot on River Road . "
+reports,say.01,three were visibly shaking and changing,,Affirmative,"When an officer approached their vehicle , reports say all three were visibly shaking and changing their demeanor at the sight of police . "
+all three,change.01,their demeanor,,Affirmative,"When an officer approached their vehicle , reports say all three were visibly shaking and changing their demeanor at the sight of police . "
+"Lee ,",give.01,permission,the officer,Affirmative,"Lee , who was in the driver 's seat , allegedly gave the officer permission to search the vehicle . "
+an officer,search.01,the vehicle,,Affirmative,"Lee , who was in the driver 's seat , allegedly gave the officer permission to search the vehicle . "
+an officer,find.01,heroin,,Affirmative,"According to the arrest report , the officer found heroin in the glove box and a needle and spoon under the floor mat behind the passenger 's seat , where police say Peyton was sitting . "
+Metro Police arrested three people near the Big Four Bridge Saturday after complaints they were using heroin inside a car,say.01,Peyton was sitting,,Affirmative,"According to the arrest report , the officer found heroin in the glove box and a needle and spoon under the floor mat behind the passenger 's seat , where police say Peyton was sitting . "
+Andrew Lee,admit.01,that Foote was sitting in,,Affirmative,"Foote was allegedly standing near the driver 's window when the officer approached , but Lee admitted that Foote was sitting in the back seat , according to police . "

@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Inovio Pharmaceuticals,announce.01,that it has acquired,,Affirmative,Inovio Pharmaceuticals announced that it has acquired global rights excluding China for early preclinical therapies for Alzheimer 's disease and multiple sclerosis . 
+Inovio Pharmaceuticals,acquire.01,global rights excluding China,,Affirmative,Inovio Pharmaceuticals announced that it has acquired global rights excluding China for early preclinical therapies for Alzheimer 's disease and multiple sclerosis . 
+The company,say.01,it will make,,Affirmative,The company said it will make clinical and regulatory milestone payments to the University in view of Dr. Wang 's academic research . 
+Dr. Bin Wang,author.01,several of,,Affirmative,Dr. Wang has authored several of the earliest DNA vaccine papers and patents . 
+Dr. Wang and,discover.01,a new method of generating,,Affirmative,Dr. Wang and Dr. Weiner discovered a new method of generating inducible regulatory T cells ( iTreg ) . 
+The researchers,generate.01,iTreg cells,,Affirmative,"The researchers were able to generate CD25 - iTreg cells in an antigen - specific manner , which could be used to develop therapies targeting inflammatory diseases , including multiple sclerosis and Alzheimer 's disease . "
+therapies targeting,target.01,"inflammatory diseases , including",,Affirmative,"The researchers were able to generate CD25 - iTreg cells in an antigen - specific manner , which could be used to develop therapies targeting inflammatory diseases , including multiple sclerosis and Alzheimer 's disease . "
+MS,affect.01,"350,000 patients in",,Affirmative,"MS affects more than 350,000 patients in the U.S. alone and about 2.5 million worldwide . "
+AD,affect.01,million U.S. patients,,Affirmative,AD is the sixth leading cause of death in the U.S. and affects approximately 5.2 million U.S. patients . 
+Inovio,license.01,"the researchers ,",as,Affirmative,"The technologies are based on patent - protected and published work of the researchers , which Inovio has licensed as preclinical synthetic products as treatment for the two major inflammatory diseases . "

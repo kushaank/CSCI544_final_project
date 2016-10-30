@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"( Reuters ) - Washington , D.C.",find.01,a new front in,,Affirmative,"WASHINGTON May 19 ( Reuters ) - Washington , D.C. will have to find a new front in its battle for budget independence from the U.S. Congress after a district court judge on Monday decided the country 's capital city can not by law decide how to spend its revenues . "
+court judge on Monday,decide.01,decide,,Affirmative,"WASHINGTON May 19 ( Reuters ) - Washington , D.C. will have to find a new front in its battle for budget independence from the U.S. Congress after a district court judge on Monday decided the country 's capital city can not by law decide how to spend its revenues . "
+capital city,decide.01,how to spend,,Affirmative,"WASHINGTON May 19 ( Reuters ) - Washington , D.C. will have to find a new front in its battle for budget independence from the U.S. Congress after a district court judge on Monday decided the country 's capital city can not by law decide how to spend its revenues . "
+Judge Emmet Sullivan,say.01,he was,,Affirmative,"As a native of Washington , U.S. District Judge Emmet Sullivan said he was deeply moved by the argument that the people of the District are entitled to the right to spend their own , local funds . "
+by,move.01,a native of Washington,,Affirmative,"As a native of Washington , U.S. District Judge Emmet Sullivan said he was deeply moved by the argument that the people of the District are entitled to the right to spend their own , local funds . "
+a native of Washington,add.01,he was powerless,,Affirmative,But he added he was powerless to provide a legal remedy and can not implement budget autonomy for the District . 
+a native of Washington,provide.01,a legal remedy,,Affirmative,But he added he was powerless to provide a legal remedy and can not implement budget autonomy for the District . 
+a native of Washington,implement.01,budget autonomy for,,Affirmative,But he added he was powerless to provide a legal remedy and can not implement budget autonomy for the District . 
+WASHINGTON,have.03,its budget approved by Congress,,Affirmative,"A city without a state , Washington must have its budget approved by Congress each year . "
+by Congress,approve.01,its budget approved by Congress,,Affirmative,"A city without a state , Washington must have its budget approved by Congress each year . "
+the federal government,bring.01,its budget approved by Congress each year,into order,Affirmative,"In the 1990 s , when the District fell into perpetual financial crisis , the federal government stepped in with a five - member control board to bring its budget into order . "
+by,issue.01,Automobile license plates issued by,,Affirmative,"Automobile license plates issued by the District all carry the motto Taxation without representation , a pointed takeoff of the colonists ' slogan against British rule in the 1700 s of No taxation without representation . "
+Automobile license plates issued by,carry.01,the motto Taxation without representation,,Affirmative,"Automobile license plates issued by the District all carry the motto Taxation without representation , a pointed takeoff of the colonists ' slogan against British rule in the 1700 s of No taxation without representation . "
+Recent budget impasses in Congress,stoke.01,local frustration,,Affirmative,Recent budget impasses in Congress have stoked local frustration . 
+a referendum giving Washington,give.01,the right,Washington,Affirmative,In April 2013 voters approved a referendum giving Washington the right to spend its local tax and fee revenue without Congressional approval . 
+Mayor Vincent Gray and,refuse.01,to execute,,Affirmative,"When Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both refused to execute the law , the city council sued . "
+Mayor Vincent Gray and,execute.02,the law,,Affirmative,"When Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both refused to execute the law , the city council sued . "
+U.S. District Judge Emmet Sullivan,say.01,he would not compel them,,Affirmative,"Sullivan , though , said he would not compel them to carry out the legislation . "
+U.S. District Judge Emmet Sullivan,compel.01,"Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both",to carry out,Affirmative,"Sullivan , though , said he would not compel them to carry out the legislation . "
+"Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both",carry.03,the legislation,,Affirmative,"Sullivan , though , said he would not compel them to carry out the legislation . "
+by,frustrate.01,Phil Mendelson,,Affirmative,"I am frustrated by the result , but will withhold comment today on whether we will appeal . "
+Phil Mendelson,withhold.01,comment,,Affirmative,"I am frustrated by the result , but will withhold comment today on whether we will appeal . "
+"Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both",want.01,to read,,Affirmative,"Obviously , we will want to read the court 's opinion , said the council 's chairman , Phil Mendelson , in a statement . "
+"Mayor Vincent Gray and the District 's Chief Financial Officer , Jeffrey DeWitt , both",read.01,opinion,,Affirmative,"Obviously , we will want to read the court 's opinion , said the council 's chairman , Phil Mendelson , in a statement . "
+"chairman ,",say.01,"Obviously , we will want",,Affirmative,"Obviously , we will want to read the court 's opinion , said the council 's chairman , Phil Mendelson , in a statement . "
+decision,deter.01,the city council,from continuing,Affirmative,The court 's decision will not deter the council from continuing to push for budget autonomy through other avenues . 
+President Barack Obama,say.01,city should have,,Affirmative,"President Barack Obama has said the city should have more control over its budget , as has Gray . "
+"A city without a state , Washington",have.03,more control over,,Affirmative,"President Barack Obama has said the city should have more control over its budget , as has Gray . "
+President Barack Obama,express.01,the concerns,,Affirmative,"However , given the concerns I have continually expressed , I 'm not surprised by the ruling . "
+we,need.01,to gain,,Affirmative,"As I have said all along , we need to gain the freedom to spend our own money legally , Gray said in a statement . "
+we,gain.02,the freedom,,Affirmative,"As I have said all along , we need to gain the freedom to spend our own money legally , Gray said in a statement . "
+Vincent Gray,say.01,", we need",,Affirmative,"As I have said all along , we need to gain the freedom to spend our own money legally , Gray said in a statement . "
+we,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

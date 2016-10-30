@@ -1,0 +1,34 @@
+1	While	while	IN	_	4	mark	_
+2	growth	growth	NN	_	4	nsubj	4:A1=PPT
+3	is	be	VBZ	_	4	aux	_
+4	picking	pick	VBG	pb=pick.05	12	advcl	12:AM-ADV
+5	up	up	RP	_	4	prt	4:C-V
+6	slowly	slowly	RB	_	4	advmod	4:AM-MNR
+7	in	in	IN	_	4	prep	4:AM-LOC
+8	Europe	europe	NNP	_	7	pobj	_
+9	,	,	,	_	12	punct	_
+10	French	french	JJ	p2=NNP	11	amod	_
+11	economy	economy	NN	_	12	nsubj	12:A1=PPT
+12	is	be	VBZ	pb=be.01	0	root	_
+13	at	at	IN	_	12	prep	12:A2=PRD
+14	zero	#crd#	CD	_	15	num	_
+15	percent	percent	NN	_	13	pobj	_
+16	.	.	.	_	12	punct	_
+
+1	Pressure	pressure	NN	_	3	nsubj	3:A1=PPT
+2	is	be	VBZ	_	3	aux	_
+3	growing	grow	VBG	pb=grow.01	0	root	_
+4	on	on	IN	_	3	prep	3:A2=EXT
+5	President	president	NNP	_	7	nn	_
+6	François	françois	NNP	_	7	nn	_
+7	Hollande	hollande	NNP	_	9	poss	_
+8	's	's	POS	_	7	possessive	_
+9	government	government	NN	_	4	pobj	_
+10	to	to	TO	_	11	aux	_
+11	create	create	VB	pb=create.01	3	advcl	_
+12	jobs	job	NNS	_	11	dobj	11:A1=PPT
+13	and	and	CC	_	11	cc	_
+14	attract	attract	VB	pb=attract.01	11	conj	_
+15	investment	investment	NN	_	14	dobj	14:A1=PPT
+16	.	.	.	_	3	punct	_
+

@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a stranger in a bank,hand.01,a bag containing,,Affirmative,Pune : Striking up a conversation with a stranger in a bank cost an employee dearly when he handed a bag containing Rs3.12 lakh cash to the conman who duped him posing as his employer 's friend . 
+a bag containing,contain.01,Rs3.12 lakh cash,,Affirmative,Pune : Striking up a conversation with a stranger in a bank cost an employee dearly when he handed a bag containing Rs3.12 lakh cash to the conman who duped him posing as his employer 's friend . 
+the conman,dupe.01,a stranger in a bank,posing as,Affirmative,Pune : Striking up a conversation with a stranger in a bank cost an employee dearly when he handed a bag containing Rs3.12 lakh cash to the conman who duped him posing as his employer 's friend . 
+"complainant Gurunath Mallinath Munadi ( 18years , )",deposit.01,cash of,,Affirmative,"The shocking incident took place at Bank of India 's Tilak Road branch when complainant Gurunath Mallinath Munadi ( 18years , ) who works in R A Mulani and Company , went to the branch to deposit cash of Rs3.12 lakh . "
+a man,strike.09,a conversation with him,,Affirmative,"While waiting in the queue for depositing money at the bank , a man struck up a conversation with him . "
+a man,ask.01,about,me,Affirmative,He was standing right behind me in the queue and asked me about my job . 
+complainant Gurunath,give.01,the details,him,Affirmative,"When I gave him the details , he said that he knew my boss and asked me for his phone number . "
+a man,say.01,that he knew,,Affirmative,"When I gave him the details , he said that he knew my boss and asked me for his phone number . "
+a man,know.01,my boss,,Affirmative,"When I gave him the details , he said that he knew my boss and asked me for his phone number . "
+a man,ask.02,for,me,Affirmative,"When I gave him the details , he said that he knew my boss and asked me for his phone number . "
+a man,pretend.01,to call him and hung up,,Affirmative,He later pretended to call him and hung up . 
+a man,call.02,a man,,Affirmative,He later pretended to call him and hung up . 
+a man,tell.01,his name as Raju,me,Affirmative,He told me his name as Raju and that he lives on third floor of the building opposite to the bank . 
+a man,tell.01,to deliver,me,Affirmative,"He told me to deliver a cheque to his wife and get cash which I was supposed to deposit in my employer 's account , said Gurunath . "
+complainant Gurunath,deliver.01,a cheque,to,Affirmative,"He told me to deliver a cheque to his wife and get cash which I was supposed to deposit in my employer 's account , said Gurunath . "
+complainant Gurunath,get.01,cash,,Affirmative,"He told me to deliver a cheque to his wife and get cash which I was supposed to deposit in my employer 's account , said Gurunath . "
+complainant Gurunath,deposit.01,cash,in,Affirmative,"He told me to deliver a cheque to his wife and get cash which I was supposed to deposit in my employer 's account , said Gurunath . "
+complainant Gurunath,say.01,He told me,,Affirmative,"He told me to deliver a cheque to his wife and get cash which I was supposed to deposit in my employer 's account , said Gurunath . "

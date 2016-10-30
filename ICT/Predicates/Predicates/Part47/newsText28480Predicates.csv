@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the NHP,say.01,died in,,Affirmative,"The driver , an unidentified 16 - year - old girl and Amy Nardi , 39 , died in the Sunday car crash , the NHP said . "
+"The driver ,",allow.01,car to drive off,,Affirmative,"The driver , who allowed the car to drive off the west roadway edge onto the dirt shoulder , swerved to the left causing the vehicle to rotate in a counter-clockwise direction , the NHP said . "
+the car,drive.01,roadway edge,,Affirmative,"The driver , who allowed the car to drive off the west roadway edge onto the dirt shoulder , swerved to the left causing the vehicle to rotate in a counter-clockwise direction , the NHP said . "
+"The driver ,",swerve.01,causing,,Affirmative,"The driver , who allowed the car to drive off the west roadway edge onto the dirt shoulder , swerved to the left causing the vehicle to rotate in a counter-clockwise direction , the NHP said . "
+"The driver ,",cause.01,vehicle to rotate in,,Affirmative,"The driver , who allowed the car to drive off the west roadway edge onto the dirt shoulder , swerved to the left causing the vehicle to rotate in a counter-clockwise direction , the NHP said . "
+the NHP,say.01,", swerved to",,Affirmative,"The driver , who allowed the car to drive off the west roadway edge onto the dirt shoulder , swerved to the left causing the vehicle to rotate in a counter-clockwise direction , the NHP said . "
+The Kia,cross.01,both travel lanes,,Affirmative,"The Kia overturned , crossed both travel lanes and left the eastbound shoulder . "
+The Kia,leave.01,the eastbound shoulder,,Affirmative,"The Kia overturned , crossed both travel lanes and left the eastbound shoulder . "
+"The driver , an unidentified 16-year-old girl and Amy Nardi",wear.01,their seat belts,,Affirmative,"The driver and Nardi were not wearing their seat belts , the NHP said . "
+the NHP,say.01,were not wearing,,Affirmative,"The driver and Nardi were not wearing their seat belts , the NHP said . "
+Witnesses,call.02,the NHP,,Affirmative,Witnesses are asked to call the NHP at 775-753-1111 . 

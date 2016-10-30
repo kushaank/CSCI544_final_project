@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+IOC Vice President,say.01,were,,Affirmative,"A couple of weeks ago , IOC Vice President said Brazil 's preparations for the 2016 Olympics were the worst I have experienced , and that was before the New York Times wrote Sunday about all the carcasses ( both canine and human ) in the waters of the bay where the sailing and windsurfing events will take place . "
+IOC Vice President,experience.01,the worst,,Affirmative,"A couple of weeks ago , IOC Vice President said Brazil 's preparations for the 2016 Olympics were the worst I have experienced , and that was before the New York Times wrote Sunday about all the carcasses ( both canine and human ) in the waters of the bay where the sailing and windsurfing events will take place . "
+sailing team,say.01,Welcome to,,Affirmative,"Welcome to the dump that is Rio , Germany 's sailing team said in one typically blunt assessment of the site for the Olympic regatta . "
+"Thomas Low - Beer , 24 ,",say.01,It can get,,Affirmative,"It can get really disgusting , with dog carcasses in some places and the water turning brown from sewage contamination , said Thomas Low - Beer , 24 , a Brazilian Olympic hopeful who sails in the bay . "
+Thomas Low-Beer,recall.02,dinghy crashed into,,Affirmative,"He shuddered when recalling how his dinghy crashed into what he believed was a partly submerged sofa , capsizing him into the murky Guanabara . "
+Thomas Low-Beer,believe.01,was,,Affirmative,"He shuddered when recalling how his dinghy crashed into what he believed was a partly submerged sofa , capsizing him into the murky Guanabara . "
+by,stymie.01,Efforts,,Affirmative,"Efforts to clean up the bay have been stymied by the usual Brazilian maladies of mismanagement and allegations of corruption , the Times reports . "
+the Times,report.01,have been stymied by,,Affirmative,"Efforts to clean up the bay have been stymied by the usual Brazilian maladies of mismanagement and allegations of corruption , the Times reports . "
+The Rio state government,take.01,$ 1 billion in loans from,,Affirmative,"The Rio state government has taken out $ 1 billion in loans from the government of Japan and the Inter-American Development Bank , but the carcasses , sofas and sewage still remain . "
+a Brazilian sailing legend,win.01,two Olympic medals,,Affirmative,"Calling the bay dark , brown and stinking , Lars Grael , 50 , a Brazilian sailing legend who won two Olympic medals , said he had encountered human corpses on four occasions while sailing in the bay . "
+Lars Grael,encounter.01,human corpses,,Affirmative,"Calling the bay dark , brown and stinking , Lars Grael , 50 , a Brazilian sailing legend who won two Olympic medals , said he had encountered human corpses on four occasions while sailing in the bay . "
+Lars Grael,tell.01,that officials should move,reporters,Affirmative,He told reporters that officials should move the sailing events to a resort area hours away by car . 
+officials,move.01,the sailing and windsurfing events,to,Affirmative,He told reporters that officials should move the sailing events to a resort area hours away by car . 
+the Chinese government,deploy.01,"1,000 boats",,Affirmative,"To fight an algal bloom in 2008 , the Chinese government deployed about 1,000 boats in advance of the Beijing Games , the Times reports , and it worked . "
+the Times,report.01,government deployed,,Affirmative,"To fight an algal bloom in 2008 , the Chinese government deployed about 1,000 boats in advance of the Beijing Games , the Times reports , and it worked . "
+Brazilian officials,say.01,they hope,,Affirmative,Brazilian officials said they hope to have 20 or 30 boats ready to help clean up Guanabara Bay . 
+Brazilian officials,hope.01,to have,,Affirmative,Brazilian officials said they hope to have 20 or 30 boats ready to help clean up Guanabara Bay . 
+Brazilian officials,have.03,boats ready,,Affirmative,Brazilian officials said they hope to have 20 or 30 boats ready to help clean up Guanabara Bay . 
+boats,help.01,clean up,,Affirmative,Brazilian officials said they hope to have 20 or 30 boats ready to help clean up Guanabara Bay . 
+boats,clean.02,the murky Guanabara,,Affirmative,Brazilian officials said they hope to have 20 or 30 boats ready to help clean up Guanabara Bay . 
+Fact Checkers,contribute.01,"questions , information and facts",to,Affirmative,"Fact Checkers contribute questions , information and facts to The Fact Checker . "
+Post contributors,write.01,articles or columns,,Affirmative,"Post contributors are n't staff , but may write articles or columns . "
+Post reporters or editors,recommend.01,this comment or,,Affirmative,Washington Post reporters or editors recommend this comment or reader post . 
+You,report.01,a comment,,Affirmative,You must be logged in to report a comment . 
+our editors,find.02,particularly useful or relevant,,Affirmative,"Comments our editors find particularly useful or relevant are displayed in Top Comments , as are comments by users with these badges : . "

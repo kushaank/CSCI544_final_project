@@ -1,0 +1,61 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,kill.01,old Madison woman armed with,,Affirmative,"A 26 - year - old Madison woman armed with a semi-automatic handgun was killed by Madison police officers early Sunday at a Far East Side apartment building after she failed to follow commands , police said . "
+A 26-year-old Madison woman armed with a semi-automatic handgun,follow.02,commands,,Affirmative,"A 26 - year - old Madison woman armed with a semi-automatic handgun was killed by Madison police officers early Sunday at a Far East Side apartment building after she failed to follow commands , police said . "
+police,say.01,was killed by,,Affirmative,"A 26 - year - old Madison woman armed with a semi-automatic handgun was killed by Madison police officers early Sunday at a Far East Side apartment building after she failed to follow commands , police said . "
+Two officers,fire.02,their service weapons,,Affirmative,"Two officers fired their service weapons at the woman , who died in the apartment she shared with her boyfriend , Police Chief Mike Koval said . "
+"the woman , who died in the apartment she shared with her boyfriend",share.01,the apartment where the woman was killed,with,Affirmative,"Two officers fired their service weapons at the woman , who died in the apartment she shared with her boyfriend , Police Chief Mike Koval said . "
+Chief Mike Koval,say.01,officers fired,,Affirmative,"Two officers fired their service weapons at the woman , who died in the apartment she shared with her boyfriend , Police Chief Mike Koval said . "
+Police Chief Mike Koval,say.01,officers were called at,,Affirmative,"Koval , speaking late Sunday morning at Nature Valley Conservancy Apartments , said officers were called at about 1:20 a.m. to a domestic dispute at the apartments in the 1100 block of MacArthur Road , south of East Washington Avenue and just east of Stoughton Road . "
+A man,call.02,911,,Affirmative,"A man called 911 to say he ran from his apartment after his girlfriend armed herself with a handgun , police said . "
+A man,say.01,he ran from,,Affirmative,"A man called 911 to say he ran from his apartment after his girlfriend armed herself with a handgun , police said . "
+Police Chief Mike Koval,run.02,from,,Affirmative,"A man called 911 to say he ran from his apartment after his girlfriend armed herself with a handgun , police said . "
+his girlfriend,arm.01,Nobody else,with,Affirmative,"A man called 911 to say he ran from his apartment after his girlfriend armed herself with a handgun , police said . "
+police,say.01,man called 911,,Affirmative,"A man called 911 to say he ran from his apartment after his girlfriend armed herself with a handgun , police said . "
+police,extend.01,discussions with,,Affirmative,"When police arrived they had extended discussions with the woman , who did n't cooperate , Koval said . "
+Police Chief Mike Koval,say.01,they had extended discussions with,,Affirmative,"When police arrived they had extended discussions with the woman , who did n't cooperate , Koval said . "
+A third officer,say.01,", was brought in",,Affirmative,"A third officer , with specialized crisis negotiation training , was brought in , he said . "
+"the woman , who died in the apartment she shared with her boyfriend",present.01,a threat,to,Affirmative,"At one point she presented a threat to those officers , who fired , Koval said . "
+Police Chief Mike Koval,say.01,she presented,,Affirmative,"At one point she presented a threat to those officers , who fired , Koval said . "
+spokesman Joel DeSpain,say.01,woman was shot,,Affirmative,Police spokesman Joel DeSpain said the woman was shot after she failed to comply with verbal commands . 
+"the woman , who died in the apartment she shared with her boyfriend",comply.01,with,,Affirmative,Police spokesman Joel DeSpain said the woman was shot after she failed to comply with verbal commands . 
+Police Chief Mike Koval,say.01,police were involved in,,Affirmative,Koval said police were involved in the incident for about 30 minutes before the shots were fired . 
+Police Chief Mike Koval,decline.02,to say,,Affirmative,He declined to say whether the woman fired at the officers . 
+Police Chief Mike Koval,say.01,woman fired at,,Affirmative,He declined to say whether the woman fired at the officers . 
+Office,conduct.01,an autopsy,,Affirmative,"The Dane County Medical Examiner 's Office will conduct an autopsy and release the name of the victim after family members are notified , Koval said . "
+Office,release.01,the name of,,Affirmative,"The Dane County Medical Examiner 's Office will conduct an autopsy and release the name of the victim after family members are notified , Koval said . "
+Police Chief Mike Koval,say.01,Office will conduct,,Affirmative,"The Dane County Medical Examiner 's Office will conduct an autopsy and release the name of the victim after family members are notified , Koval said . "
+The state Division of,handle.01,the shooting investigation,,Affirmative,"The state Division of Criminal Investigation is handling the shooting investigation , Koval said , in compliance with a new state law requiring an outside agency to investigate officer - involved deaths . "
+Police Chief Mike Koval,say.01,is handling,,Affirmative,"The state Division of Criminal Investigation is handling the shooting investigation , Koval said , in compliance with a new state law requiring an outside agency to investigate officer - involved deaths . "
+a new state law requiring,require.01,an outside agency,,Affirmative,"The state Division of Criminal Investigation is handling the shooting investigation , Koval said , in compliance with a new state law requiring an outside agency to investigate officer - involved deaths . "
+an outside agency,investigate.01,involved deaths,,Affirmative,"The state Division of Criminal Investigation is handling the shooting investigation , Koval said , in compliance with a new state law requiring an outside agency to investigate officer - involved deaths . "
+Police Chief Mike Koval,say.01,homicides have roots in,,Affirmative,"Koval said many homicides have roots in domestic violence , and police take such calls very seriously . "
+many homicides,have.03,roots,,Affirmative,"Koval said many homicides have roots in domestic violence , and police take such calls very seriously . "
+police,take.01,such calls,,Affirmative,"Koval said many homicides have roots in domestic violence , and police take such calls very seriously . "
+"Nancy Albright , 59 ,",say.01,she believed,,Affirmative,"Nancy Albright , 59 , who lives upstairs from the apartment where the woman was killed , said she believed the couple moved there in mid-March and she knew the woman only as Ashley . "
+Nancy Albright,believe.01,couple moved there in mid-March,,Affirmative,"Nancy Albright , 59 , who lives upstairs from the apartment where the woman was killed , said she believed the couple moved there in mid-March and she knew the woman only as Ashley . "
+Nancy Albright,know.01,"the woman , who died in the apartment she shared with her boyfriend",only as Ashley,Affirmative,"Nancy Albright , 59 , who lives upstairs from the apartment where the woman was killed , said she believed the couple moved there in mid-March and she knew the woman only as Ashley . "
+Nancy Albright,say.01,she heard,,Affirmative,She said she heard four to six shots early Sunday and could hear many conversations from the apartment below . 
+Nancy Albright,hear.01,six shots,,Affirmative,She said she heard four to six shots early Sunday and could hear many conversations from the apartment below . 
+Nancy Albright,hear.01,many conversations from,,Affirmative,She said she heard four to six shots early Sunday and could hear many conversations from the apartment below . 
+Nancy Albright,say.01,This is,,Affirmative,"This is an example of a relationship that went bad , Albright said . "
+Nancy Albright,describe.01,the woman shot by police,as,Affirmative,Albright described the woman shot by police as very quiet . 
+by police,shoot.02,the woman shot by police,,Affirmative,Albright described the woman shot by police as very quiet . 
+Nancy Albright,believe.01,woman was suicidal,,Affirmative,"Based on what she heard , Albright believed the woman was suicidal , and that drugs and alcohol were involved in the incident . "
+Nancy Albright,say.01,I prayed for,,Affirmative,"I prayed for this girl , she said . "
+Police Chief Mike Koval,say.01,he did n't know,,Affirmative,Koval said he did n't know if alcohol or drugs were involved and declined to comment on whether the woman was mentally ill . 
+Police Chief Mike Koval,know.01,were involved and declined,,Affirmative,Koval said he did n't know if alcohol or drugs were involved and declined to comment on whether the woman was mentally ill . 
+Police Chief Mike Koval,decline.02,to talk about,,Affirmative,He also declined to talk about the dynamics of the couple 's relationship and whether they had a history of police involvement . 
+Police Chief Mike Koval,talk.01,about,,Affirmative,He also declined to talk about the dynamics of the couple 's relationship and whether they had a history of police involvement . 
+they,have.03,a history of,,Affirmative,He also declined to talk about the dynamics of the couple 's relationship and whether they had a history of police involvement . 
+Police Chief Mike Koval,say.01,shots were fired or,,Affirmative,He also would not say how many shots were fired or where on her body the woman was shot . 
+Police spokesman Joel DeSpain,say.01,will be placed on,,Affirmative,"The officers involved will be placed on paid leave pending the outcome of the investigation , DeSpain said . "
+police,kill.01,"Londrell Johnson , 33 ,",,Affirmative,"In that May 2 incident , police shot and killed Londrell Johnson , 33 , after he allegedly stabbed his neighbor and her daughter to death in the mother 's East Washington Avenue apartment . "
+Londrell Johnson,stab.01,his neighbor and,,Affirmative,"In that May 2 incident , police shot and killed Londrell Johnson , 33 , after he allegedly stabbed his neighbor and her daughter to death in the mother 's East Washington Avenue apartment . "
+DCI,investigate.01,that shooting,,Affirmative,DCI is also investigating that shooting . 
+deputy,shoot.02,"Dean A. Caccamo , 50 ,",,Affirmative,"A day earlier , a Dane County sheriff 's deputy fatally shot Dean A. Caccamo , 50 , in his parents ' home in the town of Primrose . "
+Dean A. Caccamo,stab.01,a deputy and,,Affirmative,Caccamo allegedly stabbed a deputy and a lieutenant in the legs while they descended a spiral staircase after finding Caccamo 's parents beaten in the home . 
+a deputy and a lieutenant in the legs,descend.01,a spiral staircase,,Affirmative,Caccamo allegedly stabbed a deputy and a lieutenant in the legs while they descended a spiral staircase after finding Caccamo 's parents beaten in the home . 
+a deputy and a lieutenant in the legs,find.02,parents beaten in,,Affirmative,Caccamo allegedly stabbed a deputy and a lieutenant in the legs while they descended a spiral staircase after finding Caccamo 's parents beaten in the home . 
+by,lead.01,The probe into,,Affirmative,"The probe into that shooting is being led by police investigators from Madison and Sun Prairie , with assistance from Fitchburg and UW - Madison police . "
+Authorities,say.01,had histories of,,Affirmative,Authorities say both Johnson and Caccamo had histories of mental illness . 
+both Johnson and Caccamo,have.03,histories of,,Affirmative,Authorities say both Johnson and Caccamo had histories of mental illness . 

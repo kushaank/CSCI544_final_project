@@ -1,0 +1,90 @@
+
+Summary: Apple is on the receiving end of a lawsuit in the US over an iMessage bug that prevents former iOS users from receiving SMS messages on their non-iOS devices.
+
+Apple is being sued by a former iPhone owner over a bug in iMessage that prevents text messages from iPhones being delivered to her Android device.
+
+Filed last Thursday in a Californian district court, plaintiff Adrienne Moore claimed Apple "interfered" with cellular service contracts by preventing subscribers from receiving their text messages, Bloomberg reported on Friday .
+
+The problem lies in iMessage, the messaging app that Apple rolled out with iOS 5. The app lets iPhone users send text messages to other iOS devices over a wi-fi network when there's one available, thus avoiding the fee an operator typically charges for carrying a text message over their mobile network.
+
+The catch with iMessage is that it can make porting a mobile phone number to a non-iOS device problematic due to a bug in iMessage that makes it impossible to untangle the number from the messaging service. The result is that when iPhone users try to send a text to that number, now on an Android device, the message isn't delivered.
+
+According to the complaint, published by Apple Insider , that's what happened after Moore replaced her iPhone 4 with a Galaxy S5 earlier this year.
+
+Earlier this month, Apple's support staff reportedly confirmed to Adam Pash , the former chief editor of Lifehacker, that "a lot of people are facing" the "iMessage purgatory" and that there's currently no real fix for the bug.
+
+It's not the first time the bug has made the news — many users reported the problem with iMessage after the release of iOS 7. Apple subsequently released a fix for the issue, yet there appears to be no sign of it going away just yet.
+
+ZDNet has asked Apple for comment and we'll update the story if any is forthcoming.
+
+Liam Tung is an Australian business technology journalist living a few too many Swedish miles north of Stockholm for his liking. He gained a bachelors degree in economics and arts (cultural studies) at Sydney's Macquarie University, but hacked (without Norse or malicious code for that matter) his way into a career as an enterprise tech, security and telecommunications journalist with ZDNet Australia. These days Liam is a full time freelance technology journalist who writes for several publications.
+
+Guy's not suing because Apple looked at im funny. He's suing because a bug in iOS has crippled his mobile number and Apple doesn't seem interested in fixing it. And this isn't a simple question of: "well, if you don't like the product then stop using it." He is no longer an Apple customer, and yet Apple still has his account jacked up.
+
+Plenty of lawsuits are bogus, but sometimes a lawsuit is the only way to get justice. I'd say this guy has a case.
+
+His mobile number isn't crippled.
+
+He can still make and receive calls on that number. He can still receive text messages on that number.
+
+What he can't do is get an iMessage text from an iPhone user to that number until the bug is fixed.
+
+No, they can't get any test messages from an iPhone user.
+
+The problem is even SMS messages are not delivered. And the sender isn't even notified the message hasn't been delivered.
+
+It's definitely a problem. It's been a problem for quite some time (long before iOS 7 was released) and Apple has done nothing to fix it.
+
+Apple uses it's installed user base to add a competitive advantage when it comes to upgrading to a new phone.
+
+Changing away from an iPhone to any other phone means a lot of SMS won't reach you anymore because iPhones won't send them to non-iPhones.
+
+This is about texts, not iMessages. And I've seen people blaming their new non-Apple devices for the issue that is caused solely by Apple.
+
+Putting it simple, anyone who defends this practice is clearly nuts.
+
+Would require porting Apple's modified secure transport layer for it to work. Apple can't even get secure transport right on their own platforms let alone cross platform.
+
+iMessage was a brand marketing feature so Apple is never going to nullify that by offering it cross platform to users they never profit from.
+
+It's not going to happen on a technical level and marketing level.
+
+"The app lets iPhone users send text messages to other iOS devices over a wi-fi network when there's one available".  It's designed to connect iDevices, she left the iOS platform of her own volition.  It's not intended to work with Android.  This lawsuit will get thrown out.
+
+...when someone with an iPhone tries to text someone that used to have an iPhone and used iMessage and now has an Android or Windows Phone, iOS first tries to send the message via iMessage.  When the phone number is associated with an iOS device, it sends it as an iMessage, regardless if that phone is active or not.  As you pointed out, iMessage is not intended to work with Android.  Precisely!  This is an issue on Apple's end.  This happened to my wife when she switched to a Window Phone.  I disabled iMessage on her old iPhone and believe she is now receiving texts from people that she initially wasn't able to receive messages from.    I didn't have the problem when I switched, but I had turned off iMessage before I switched.  I found it unreliable even texting between me and my wife when we both had iPhones.
+
+This is like using Viber and then moving to a phone where it isn't installed and complaining your Viber messages don't get to you anymore. The only issue I see here is that people don't understand they need to log out of iMessage or other users phones won't know they arn't using the service anymore.
+
+I switched from an iPhone 4 to the Galaxy s5, for a few days after I got my new phone all my iMessage buddies couldn't get any texts to send to me because they would sit trying to send as iMessage. There's no need for this and needs to be fixed. Apple needs to remove the setting for "only send as imessage"
+
+Possibly. I've experienced the problem myself.
+
+I think I had the sender change my number type from "iPhone" to "Mobile" or something like that. Or delete my contact information and re-add me. Can't recall what fixed it.
+
+Regardless you have to have *every* sender perform the work around.
+
+If you turn off iMessage on the phone and give it a few days like that prior to switching...so that your apple account gets cleared of the cached data... it should go more smoothly for you. I have had a couple friends who did it that way..
+
+However... I agree with the poster above...Apple should release imessage on Android and Windows as well as Windows phone and broaden the usefullness of it as well as fix these sorts of issues.
+
+imessage does much more than just text over wifi.. it actually texts over your data plan or wifi and is available on your iPad, and Mac.. so your imessages come on all three devices....which is a really great feature.
+
+Just use hangouts, works on everything.
+
+And in the UK almost everyone with any form of contract, or pay monthly deal has unlimited SMS anyway.
+
+Apple needs to either fix this problem asap or offer iMessage to Android and WP users.  This isn't right.  It actaully forces iPhone users who want to communicate with those who switched and are experiencing this problem to use and get charged for regular text messaging.  Completely defeating the advantages of iMessege for even current iPhone users.
+
+It's a bizarre iMessage platform bug for Apple to allow to persist for so long. After all, the iPhone is drawing much of its usage from the business sector. Your communications platform is not supposed to be capable of sabotaging business communications because of the simple transfer of a sim card. Instead of designing the system to base sending actions on whether the recipient is logged in and the phone is turned on, they designed it to assume that the users of the iMessage will never be using anything other than an iPhone.
+
+Fail.
+
+Well, I'm not an iDevice user. But it does seem strange that when your carrier changes you to a new phone that all your messages still go through your Apple account even though you no longer have an iPhone. iMessage seems to be some type if IM along the lines of the old PC-based IM like MSNIM, AIM, Jabber, etc.
+
+We're temporarily in maintenance mode, which means you won't be able to sign up for a newsletter. Please check back shortly to resume the subscription process. Thanks for your patience.
+
+ZDNet Must Read News Alerts - US: Major news is breaking. Are you ready? This newsletter has only the most important tech news nothing else.
+
+Learn how you can deploy best-of-breed revenue management solutions that drive scalable, proactive processes. Join us for this live, interactive webcast featuring CBS Interactive's Featured Contributor Bill Kleyman and Intacct's Cloud Financials Strategist Mark Gervase.
+
+Learn how you can deploy best-of-breed revenue management solutions that drive scalable, proactive processes. Join us for this live, interactive webcast featuring CBS Interactive's Featured Contributor Bill Kleyman and Intacct's Cloud Financials Strategist Mark Gervase.

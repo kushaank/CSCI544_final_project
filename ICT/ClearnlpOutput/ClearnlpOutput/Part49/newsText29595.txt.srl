@@ -1,0 +1,45 @@
+1	The	the	DT	_	3	det	_
+2	National	national	NNP	_	3	nn	_
+3	Organization	organization	NNP	_	6	nsubj	6:A0=PAG
+4	for	for	IN	_	3	prep	_
+5	Marriage	marriage	NN	p2=NNP	4	pobj	_
+6	screws	screw	VBZ	p2=NNS|pb=screw.01	0	root	_
+7	up	up	RP	_	6	prt	6:C-V
+8	again	again	RB	_	6	advmod	6:AM-TMP
+9	in	in	IN	_	6	prep	6:AM-LOC
+10	Oregon	oregon	NNP	_	9	pobj	_
+11	.	.	.	_	6	punct	_
+
+1	Judges	judge	NNS	p2=NNPS	6	nsubj	6:A0=PAG
+2	in	in	IN	_	1	prep	_
+3	Idaho	idaho	NNP	_	2	pobj	_
+4	and	and	CC	_	3	cc	_
+5	Arkansas	arkansas	NNP	_	3	conj	_
+6	rule	rule	VBP	p2=NN|pb=rule.01	0	root	_
+7	that	that	IN	p2=DT	10	complm	_
+8	marriage	marriage	NN	_	9	nn	_
+9	bans	ban	NNS	_	10	nsubj	10:A0=PAG
+10	violate	violate	VBP	pb=violate.01	6	ccomp	6:A1=PPT
+11	the	the	DT	_	13	det	_
+12	US	us	NNP	_	13	nn	_
+13	Constitution	constitution	NNP	_	10	dobj	10:A1=PPT
+14	.	.	.	_	6	punct	_
+
+1	Following	follow	VBG	_	8	prep	8:AM-TMP
+2	another	another	DT	_	3	det	_
+3	round	round	NN	_	1	pobj	_
+4	of	of	IN	_	3	prep	_
+5	hearings	hearing	NNS	_	4	pobj	_
+6	,	,	,	_	8	punct	_
+7	rulings	ruling	NNS	_	8	nsubj	8:A1=PPT
+8	are	be	VBP	pb=be.01	0	root	_
+9	due	due	JJ	p2=IN	8	acomp	8:A2=PRD
+10	any	any	DT	_	11	det	_
+11	day	day	NN	_	9	npadvmod	_
+12	now	now	RB	_	11	advmod	_
+13	in	in	IN	_	11	prep	_
+14	Virginia	virginia	NNP	_	13	pobj	_
+15	and	and	CC	_	14	cc	_
+16	Pennsylvania	pennsylvania	NNP	_	14	conj	_
+17	.	.	.	_	8	punct	_
+

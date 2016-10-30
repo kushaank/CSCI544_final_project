@@ -1,0 +1,20 @@
+1	At	at	IN	_	8	prep	8:AM-LOC
+2	Germany	germany	NNP	_	4	poss	_
+3	's	's	POS	_	2	possessive	_
+4	initiative	initiative	NN	_	1	pobj	_
+5	,	,	,	_	8	punct	_
+6	Vladimir	vladimir	NNP	_	7	nn	_
+7	Putin	putin	NNP	_	8	nsubj	8:A0=PAG
+8	had	have	VBD	pb=have.03	0	root	_
+9	a	a	DT	_	11	det	_
+10	telephone	telephone	NN	_	11	nn	_
+11	conversation	conversation	NN	_	8	dobj	8:A1=PPT
+12	with	with	IN	_	11	prep	_
+13	Federal	federal	NNP	p2=JJ	14	nn	_
+14	Chancellor	chancellor	NNP	_	18	nn	_
+15	of	of	IN	_	14	prep	_
+16	Germany	germany	NNP	_	15	pobj	_
+17	Angela	angela	NNP	_	18	nn	_
+18	Merkel	merkel	NNP	_	12	pobj	_
+19	.	.	.	_	8	punct	_
+

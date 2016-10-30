@@ -1,0 +1,38 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The caller,report.01,being robbed at gunpoint,,Affirmative,The caller reported being robbed at gunpoint at the intersection of Elaine Drive and Bluefield Avenue . 
+The caller,report.01,being robbed at gunpoint,,Affirmative,The caller reported being robbed at gunpoint at the intersection of Elaine Drive and Bluefield Avenue . 
+Jessica Jones,say.01,she was just getting ready,,Affirmative,She says she was just getting ready to go to bed when she heard a commotion at her front door . 
+Jessica Jones,hear.01,a commotion at,,Affirmative,She says she was just getting ready to go to bed when she heard a commotion at her front door . 
+Jessica Jones,know.01,if they were trying,,Affirmative,"I was scared , I was scared to death , because I did n't know if they were trying to break into the room and shoot us , too , she said . "
+her boyfriend and his family,try.01,to break into,,Affirmative,"I was scared , I was scared to death , because I did n't know if they were trying to break into the room and shoot us , too , she said . "
+her boyfriend and his family,break.02,into,,Affirmative,"I was scared , I was scared to death , because I did n't know if they were trying to break into the room and shoot us , too , she said . "
+her boyfriend and his family,shoot.02,us,,Affirmative,"I was scared , I was scared to death , because I did n't know if they were trying to break into the room and shoot us , too , she said . "
+Jessica Jones,say.01,", I was scared to death",,Affirmative,"I was scared , I was scared to death , because I did n't know if they were trying to break into the room and shoot us , too , she said . "
+the suspects,flee.01,the scene,,Affirmative,"1:15 a.m. , but the suspects had already fled the scene . "
+the suspects,think.01,that there was money in,,Affirmative,"They thought that there was money in the house or something , said Jones . "
+Jessica Jones,say.01,They thought,,Affirmative,"They thought that there was money in the house or something , said Jones . "
+Neighbors,say.01,has increased drastically within,,Affirmative,Neighbors say crime within this community has increased drastically within the past few months and that 's why they are intent on helping police catch those responsible . 
+Neighbors,help.01,police catch those responsible,,Affirmative,Neighbors say crime within this community has increased drastically within the past few months and that 's why they are intent on helping police catch those responsible . 
+police,catch.01,those responsible,,Affirmative,Neighbors say crime within this community has increased drastically within the past few months and that 's why they are intent on helping police catch those responsible . 
+night,leave.01,"Joshua Hensley , who lives and works in the neighborhood",little concerned,Affirmative,"I sometimes have to walk late at night and it kind of leaves me a little concerned because I do n't carry weapons to defend myself , said Joshua Hensley , who lives and works in the neighborhood . "
+"Joshua Hensley , who lives and works in the neighborhood",carry.01,weapons,,Affirmative,"I sometimes have to walk late at night and it kind of leaves me a little concerned because I do n't carry weapons to defend myself , said Joshua Hensley , who lives and works in the neighborhood . "
+"Joshua Hensley , who lives and works in the neighborhood",defend.01,"Joshua Hensley , who lives and works in the neighborhood",,Affirmative,"I sometimes have to walk late at night and it kind of leaves me a little concerned because I do n't carry weapons to defend myself , said Joshua Hensley , who lives and works in the neighborhood . "
+"Joshua Hensley ,",say.01,I sometimes have,,Affirmative,"I sometimes have to walk late at night and it kind of leaves me a little concerned because I do n't carry weapons to defend myself , said Joshua Hensley , who lives and works in the neighborhood . "
+police,say.01,they 've received,,Affirmative,police say they 've received a number of calls throughout the day . 
+police,receive.01,a number of calls throughout,,Affirmative,police say they 've received a number of calls throughout the day . 
+neighbors reporting,report.01,unusual activity in,,Affirmative,Some were from neighbors reporting unusual activity in back alleys . 
+people,say.01,they saw,,Affirmative,Others were reports from people who say they saw suspicious vehicles in the area . 
+Others,see.01,suspicious vehicles,,Affirmative,Others were reports from people who say they saw suspicious vehicles in the area . 
+Neighbors,blame.01,recent crime,,Affirmative,Neighbors blame recent crime in the neighborhood on drug use . 
+Metro 911 dispatchers,say.01,people were reported fighting around,,Affirmative,"Metro 911 dispatchers say at least three people were reported fighting around 1 a.m. Monday , when one person shot another in the leg . "
+one person,shoot.01,another,,Affirmative,"Metro 911 dispatchers say at least three people were reported fighting around 1 a.m. Monday , when one person shot another in the leg . "
+Two masked men,enter.01,a home,,Affirmative,Two masked men entered a home on the 4800 block of Ohio Street and began arguing with the people inside . 
+Two masked men,begin.01,arguing with,,Affirmative,Two masked men entered a home on the 4800 block of Ohio Street and began arguing with the people inside . 
+Two masked men,argue.02,with,,Affirmative,Two masked men entered a home on the 4800 block of Ohio Street and began arguing with the people inside . 
+another,sustain.02,a head injury,,Affirmative,"One person was shot shortly after , while another sustained a head injury . "
+The shooters,leave.01,the scene,,Affirmative,The shooters left the scene and are on the run . 
+Units from,assist.01,Charleston Police,,Affirmative,"Units from the Dunbar Police Department , Charleston Police Department , Kanawha County Sheriff 's Office , and the West Virginia State Police are assisting South Charleston Police at this time . "
+K - 9,assist.01,Multiple,in,Affirmative,Multiple K - 9 are also assisting in the search . 
+you,have.03,any information on,,Affirmative,"If you have any information on the whereabouts of the shooting suspects , you are asked to dial 911 . "
+you,dial.01,911,,Affirmative,"If you have any information on the whereabouts of the shooting suspects , you are asked to dial 911 . "
+All content,copyright.01,WorldNow and WOWK,,Affirmative,All content © Copyright 2000 - 2014 WorldNow and WOWK . 

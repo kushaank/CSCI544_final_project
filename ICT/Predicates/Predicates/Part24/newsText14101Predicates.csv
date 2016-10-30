@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Colombians,express.01,horror,,Affirmative,"BOGOTA : Colombians expressed horror Monday after 32 children burned to death when an overcrowded bus burst into flames and the driver fled the scene , pursued by a mob that stoned his house . "
+an overcrowded bus burst into flames,flee.01,the scene,,Affirmative,"BOGOTA : Colombians expressed horror Monday after 32 children burned to death when an overcrowded bus burst into flames and the driver fled the scene , pursued by a mob that stoned his house . "
+by,pursue.01,an overcrowded bus burst into flames,,Affirmative,"BOGOTA : Colombians expressed horror Monday after 32 children burned to death when an overcrowded bus burst into flames and the driver fled the scene , pursued by a mob that stoned his house . "
+a mob,stone.02,his house,,Affirmative,"BOGOTA : Colombians expressed horror Monday after 32 children burned to death when an overcrowded bus burst into flames and the driver fled the scene , pursued by a mob that stoned his house . "
+the driver 's,turn.06,the driver 's,,Affirmative,"The driver turned himself to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+the driver 's,police.01,as families sought,,Affirmative,"The driver turned himself to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+families,seek.01,to hunt him down following,,Affirmative,"The driver turned himself to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+families,hunt.01,the driver 's,,Affirmative,"The driver turned himself to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+a witness,refuel.01,the bus 's,,Affirmative,"The driver turned himself to police as families sought to hunt him down following Sunday 's tragedy in which , according to a witness , the bus went up in flames as he refuelled it with a jerrycan . "
+the driver 's,lose.02,two of,,Affirmative,The driver lost two of his own children in the tragedy . 
+Mayor Luz Stella Duran,say.01,20 were hospitalised,,Affirmative,Fundacion Mayor Luz Stella Duran said another 20 were hospitalised . 
+Most of,have.03,degree burns,,Affirmative,Most of the injured have second - or third - degree burns . 
+Residents of,join.01,firefighters,,Affirmative,"Residents of the northern town of Fundacion joined firefighters to extinguish the blaze , according to a video . "
+Residents of,extinguish.01,the blaze,,Affirmative,"Residents of the northern town of Fundacion joined firefighters to extinguish the blaze , according to a video . "
+An inconsolable father,slap.01,charred remains,,Affirmative,An inconsolable father slapped the bus 's charred remains and dropped to his knees before being pulled away by townspeople . 
+Residents of the northern town of Fundacion,raise.01,white flags,,Affirmative,Residents raised white flags outside their house windows . 
+mayor,declare.02,three days of mourning and,,Affirmative,The town 's mayor declared three days of mourning and banned alcohol consumption . 
+"President Juan Manuel Santos ,",say.01,investigation was underway,,Affirmative,"President Juan Manuel Santos , who rushed to the scene , said an investigation was underway while many denounced the accident as an example of Colombia 's poor enforcement of road safety . "
+many,denounce.01,the accident,as,Affirmative,"President Juan Manuel Santos , who rushed to the scene , said an investigation was underway while many denounced the accident as an example of Colombia 's poor enforcement of road safety . "
+Crews,pull.01,small charred bodies,from,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified - a task which could take days . 
+Crews,take.01,Crews,to,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified - a task which could take days . 
+a task,take.01,three days of mourning,,Affirmative,Crews pulled small charred bodies from the wreckage and took them to the medical examiner 's office in the regional capital of Barranquilla to be identified - a task which could take days . 
+the driver 's,give.08,the driver 's,to police,Affirmative,The driver gave himself up to police after townspeople hurled rocks at his home . 
+townspeople,hurl.01,rocks,at,Affirmative,The driver gave himself up to police after townspeople hurled rocks at his home . 
+the driver 's,explain.01,the driver 's,,Affirmative,He was due to appear at a court hearing to explain himself . 
+office,say.01,driver lacked,,Affirmative,The prosecutor 's office said the driver lacked a license to drive and was under investigation . 
+the driver 's,lack.01,a license,,Affirmative,The prosecutor 's office said the driver lacked a license to drive and was under investigation . 
+Minister Cecilia Alvarez,say.01,bus had lacked,,Affirmative,Transport Minister Cecilia Alvarez said the bus had lacked the authorization to provide services since 2012 . 
+the bus 's,lack.01,the authorization,,Affirmative,Transport Minister Cecilia Alvarez said the bus had lacked the authorization to provide services since 2012 . 
+an illegal vehicle,lack.01,transport insurance,,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+Transport Minister Cecilia Alvarez,tell.01,It is,RCN radio,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+Transport Minister Cecilia Alvarez,add.01,investigations are leaning toward,,Affirmative,"It is an illegal vehicle that also lacked transport insurance , Alvarez told RCN radio , adding that the initial investigations are leaning toward driver recklessness . "
+the driver 's,use.01,contraband gasoline,to refuel,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+the driver 's,refuel.01,the bus 's,,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+the minister,say.01,driver apparently used,,Affirmative,"The driver apparently used contraband gasoline to refuel the bus , the minister said . "
+old girl,lose.03,two brothers,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+old girl,tell.01,driver left,local media,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+the driver 's,leave.01,the bus,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+the driver 's,refuel.01,the bus,,Affirmative,An 11 - year - old girl who lost two brothers told local media that the driver left the bus to refuel while his young charges remained on board . 
+Juan Manuel Santos,seek.01,a second term,,Affirmative,"The tragedy became a political issue ahead of Sunday 's presidential election , in which Santos is seeking a second term . "
+An 11-year-old girl who lost two brothers,say.01,It is also,,Affirmative,"It is also the lack of rigor and presence of the authorities , she said . "
+Juan Manuel Santos,say.01,he ordered,,Affirmative,"Santos said he ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating , adding that such tasks are usually in the hands of municipal officials . "
+Juan Manuel Santos,order.01,national authorities,to intervene,Affirmative,"Santos said he ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating , adding that such tasks are usually in the hands of municipal officials . "
+national authorities,intervene.01,in,,Affirmative,"Santos said he ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating , adding that such tasks are usually in the hands of municipal officials . "
+national authorities,ensure.01,"vehicles are not circulating , adding",,Affirmative,"Santos said he ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating , adding that such tasks are usually in the hands of municipal officials . "
+banned vehicles,add.01,tasks are usually in,,Affirmative,"Santos said he ordered national authorities to intervene more directly in road safety to ensure banned vehicles are not circulating , adding that such tasks are usually in the hands of municipal officials . "

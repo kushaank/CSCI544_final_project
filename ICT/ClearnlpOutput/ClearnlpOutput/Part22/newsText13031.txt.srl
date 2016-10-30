@@ -1,0 +1,41 @@
+1	The	the	DT	_	2	det	_
+2	Swiss	swiss	NNP	p2=NNPS	3	nsubj	3:A0=PAG
+3	allowed	allow	VBD	pb=allow.01	0	root	_
+4	a	a	DT	_	6	det	_
+5	multi-billion-dollar	multi-billion-dollar	JJ	p2=NN	6	amod	_
+6	deal	deal	NN	_	8	nsubj	8:A0=PAG
+7	to	to	TO	_	8	aux	_
+8	buy	buy	VB	pb=buy.01	3	ccomp	3:A1=PPT
+9	fighter	fighter	NN	_	10	nn	_
+10	jets	jet	NNS	_	8	dobj	8:A1=PPT
+11	from	from	IN	_	8	prep	8:A2=DIR
+12	Sweden	sweden	NNP	_	11	pobj	_
+13	to	to	TO	p2=IN	14	aux	_
+14	crash	crash	VB	pb=crash.01	8	advcl	8:AM-PRP
+15	and	and	CC	_	14	cc	_
+16	burn	burn	VB	pb=burn.01	14	conj	_
+17	Sunday	sunday	NNP	_	16	npadvmod	16:AM-TMP
+18	,	,	,	_	3	punct	_
+19	when	when	WRB	_	22	advmod	22:R-AM-TMP
+20	a	a	DT	_	21	det	_
+21	majority	majority	NN	_	22	nsubj	22:A1=PPT
+22	turned	turn	VBD	pb=turn.01	3	advcl	_
+23	out	out	RP	_	22	prt	22:C-V
+24	to	to	IN	p2=TO	22	prep	22:AM-DIR
+25	nix	nix	CD	p2=NN	26	num	_
+26	funding	funding	NN	_	24	pobj	_
+27	for	for	IN	_	26	prep	_
+28	the	the	DT	_	29	det	_
+29	purchase	purchase	NN	_	27	pobj	_
+30	.	.	.	_	3	punct	_
+
+1	Photo	photo	NN	p2=NNP	0	root	_
+2	:	:	:	_	1	punct	_
+3	Shutterstock	shutterstock	NNP	p2=NN	1	appos	_
+4	.	.	.	_	1	punct	_
+
+1	Photo	photo	NN	p2=NNP	0	root	_
+2	:	:	:	_	1	punct	_
+3	Shutterstock	shutterstock	NNP	p2=NN	1	appos	_
+4	.	.	.	_	1	punct	_
+

@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+President Park Geun-hye,arouse.01,public emotion,,Affirmative,President Park Geun-hye seemed to have aroused public emotion when she shed tears at the end of her long - awaited national address over the tragic Sewol ferry sinking . 
+President Park Geun-hye,shed.01,tears,,Affirmative,President Park Geun-hye seemed to have aroused public emotion when she shed tears at the end of her long - awaited national address over the tragic Sewol ferry sinking . 
+a tragedy,put.01,the nation,in,Affirmative,The 24 - minute address came 34 days after the April 16 disaster ; a tragedy that has put the nation in a somber mood with more than 300 passengers dead or missing . 
+"Park , dressed in a formal gray suit",wrap.02,her speech,,Affirmative,Park wrapped up her speech by naming the dead passengers and crew members who sacrificed their lives to save others aboard the vessel . 
+"Park , dressed in a formal gray suit",name.01,the dead passengers and,,Affirmative,Park wrapped up her speech by naming the dead passengers and crew members who sacrificed their lives to save others aboard the vessel . 
+the dead passengers and,sacrifice.01,their lives,,Affirmative,Park wrapped up her speech by naming the dead passengers and crew members who sacrificed their lives to save others aboard the vessel . 
+the dead passengers and,save.02,others aboard,,Affirmative,Park wrapped up her speech by naming the dead passengers and crew members who sacrificed their lives to save others aboard the vessel . 
+The emotional president,recount.01,their good deeds,,Affirmative,"The emotional president broke down in tears , while recounting their good deeds . "
+Critics,say.01,that Park seemed,,Affirmative,Critics said that Park seemed to be largely out of touch with the national emotion . 
+"Park , dressed in a formal gray suit",find.01,some hope in,,Affirmative,"After saying she found some hope in the nation through their heroic acts , tears ran down her cheeks . "
+tears,run.01,her cheeks,,Affirmative,"After saying she found some hope in the nation through their heroic acts , tears ran down her cheeks . "
+"Park , dressed in a formal gray suit",console.01,the bereaved families on Jindo Island,,Affirmative,She then prayed for the souls of the deceased and consoled the bereaved families before exiting the press room without taking questions . 
+"Park , dressed in a formal gray suit",exit.01,the press room,,Affirmative,She then prayed for the souls of the deceased and consoled the bereaved families before exiting the press room without taking questions . 
+"Park , dressed in",read.01,her address,,Affirmative,"Park , dressed in a formal gray suit , stepped onto the podium after bowing , to read her address which included among other things disbanding the nation 's Coast Guard and reforming the state 's bureaucracy . "
+other things disbanding,disband.01,Coast Guard,,Affirmative,"Park , dressed in a formal gray suit , stepped onto the podium after bowing , to read her address which included among other things disbanding the nation 's Coast Guard and reforming the state 's bureaucracy . "
+"Park , dressed in a formal gray suit",say.01,", I apologize for",,Affirmative,"She bowed once again after saying , As the president who is required to protect the lives and safety of the people , I apologize for the pain the people have suffered . "
+to protect,require.01,the president,,Affirmative,"She bowed once again after saying , As the president who is required to protect the lives and safety of the people , I apologize for the pain the people have suffered . "
+the president,protect.01,the lives and safety of,,Affirmative,"She bowed once again after saying , As the president who is required to protect the lives and safety of the people , I apologize for the pain the people have suffered . "
+"Park , dressed in a formal gray suit",apologize.01,for,,Affirmative,"She bowed once again after saying , As the president who is required to protect the lives and safety of the people , I apologize for the pain the people have suffered . "
+the people,suffer.01,the pain,,Affirmative,"She bowed once again after saying , As the president who is required to protect the lives and safety of the people , I apologize for the pain the people have suffered . "
+"Park , dressed in a formal gray suit",say.01,she took,,Affirmative,Park said she took ultimate responsibility for the government 's clumsy response to the sinking and paused for a few seconds . 
+"Park , dressed in a formal gray suit",take.01,ultimate responsibility for,,Affirmative,Park said she took ultimate responsibility for the government 's clumsy response to the sinking and paused for a few seconds . 
+"Park , dressed in a formal gray suit",raise.01,her voice,,Affirmative,"During the speech , she raised her voice when touching on reforming the entrenched public sector as well as unveiling an upgraded safety system , but the visibly shaken president seemed to be battling grief . "
+shaken president,battle.01,grief,,Affirmative,"During the speech , she raised her voice when touching on reforming the entrenched public sector as well as unveiling an upgraded safety system , but the visibly shaken president seemed to be battling grief . "
+by,accompany.01,"Park , dressed in a formal gray suit",,Affirmative,"In the briefing room , Park was not accompanied by her senior secretaries or Cabinet members unlike her New Year 's press conference or one marking the first anniversary of her inauguration . "
+Dae official,say.01,members proposed,,Affirmative,"A Cheong Wa Dae official said staff members proposed that they should not attend the event , which Park accepted without hesitation . "
+staff members,propose.01,that they should not attend,,Affirmative,"A Cheong Wa Dae official said staff members proposed that they should not attend the event , which Park accepted without hesitation . "
+staff members,attend.01,"the event ,",,Affirmative,"A Cheong Wa Dae official said staff members proposed that they should not attend the event , which Park accepted without hesitation . "
+"Park , dressed in a formal gray suit",accept.01,"the event ,",,Affirmative,"A Cheong Wa Dae official said staff members proposed that they should not attend the event , which Park accepted without hesitation . "
+박 대통령이,눈물을.01,오전 청와대 춘추관에서,,Affirmative,"박 대통령이 눈물을 보인 것은 이날 오전 청와대 춘추관에서 발표한 대국민담화 말미에 권혁규군을 비롯해 정차웅군 , 최덕하군 , 남윤철·최혜정 교사 , 박지영·김기웅·정현선·양대홍 씨 등 승무원 , 민간잠수사 이광욱씨 등 ' 세월호 영웅 ' 들의 이름과 이들의 선행을 언급하면서였다 . "
+권혁규군을,비롯해.01,"정차웅군 , 최덕하군 ,",,Affirmative,"박 대통령이 눈물을 보인 것은 이날 오전 청와대 춘추관에서 발표한 대국민담화 말미에 권혁규군을 비롯해 정차웅군 , 최덕하군 , 남윤철·최혜정 교사 , 박지영·김기웅·정현선·양대홍 씨 등 승무원 , 민간잠수사 이광욱씨 등 ' 세월호 영웅 ' 들의 이름과 이들의 선행을 언급하면서였다 . "
+박 대통령은,감정이.01,북받치는지 목소리가 떨렸고,,Affirmative,"박 대통령은 감정이 북받치는지 목소리가 떨렸고 , 특히 남윤철·최혜정 교사를 언급할 때는 눈물을 보였다 . "
+박 대통령이,목이.01,이들의 이름을,,Affirmative,박 대통령이 목이 메어 떨리는 목소리로 겨우 이들의 이름을 모두 부른 뒤 ' 대한민국의 희망을 본다 . 
+저는 이런,분들이야말로.01,우리 시대의,,Affirmative,저는 이런 분들이야말로 우리 시대의 진정한 영웅이라고 생각한다 ' 고 말하면서는 왈칵 눈물을 쏟아냈다 . 
+박 대통령은,고인의.01,위로를 전하고서 다시,,Affirmative,박 대통령은 고인의 명복을 빌고 유가족에게 위로를 전하고서 다시 고개를 숙인 뒤 질의응답을 받지 않고 퇴장했다 . 
+이날 담화는,정확히.01,9시 정각에,,Affirmative,이날 담화는 정확히 9시 정각에 시작돼 24분간 이뤄졌다 . 
+회색 정장을,입고.01,박 대통령은 내내 굳은 표정이었다,,Affirmative,회색 정장을 입고 연단 뒤편에서 등장한 박 대통령은 내내 굳은 표정이었다 . 
+박 대통령은,담화에서.01,부정부패 척결에 대한,,Affirmative,박 대통령은 담화에서 개혁과 변혁을 강조하고 부정부패 척결에 대한 의지를 피력할 때는 단호하게 목소리를 높였으나 대형 참사가 난 원인을 지적할 때는 목소리가 떨렸다 . 
+이날 담화,발표장에는.01,내각 각료나 수석비서관,,Affirmative,이날 담화 발표장에는 박 대통령 외에 내각 각료나 수석비서관 이상 청와대 참모진은 전혀 배석하지 않았다 . 
+청와대는 박,대통령이.01,공식 사과를 하는,,Affirmative,청와대는 박 대통령이 국정운영 최고 책임자로서 공식 사과를 하는 자리인 만큼 아무도 배석하지 않는 것으로 최종 결정을 내렸다고 한다 . 
+특히 이러한,결정의.01,개각을 비롯해 청와대,,Affirmative,특히 이러한 결정의 배경으로는 담화 후속조치로 개각을 비롯해 청와대 참모진의 개편이 예상되는 상황에서 ' 바뀔지도 모르는 사람 ' 을 배석하게 하는 게 적절치 않다는 점도 고려됐다고 한다 . 
+박 대통령과,청와대는.01,정리하느라 그동안 깊은 고민을 해왔다,,Affirmative,박 대통령과 청와대는 담화에 들어갈 내용을 정리하느라 그동안 깊은 고민을 해왔다 . 
+담화의 내용,가운데.01,개혁 방안 등,,Affirmative,담화의 내용 가운데 국가재난방재시스템 확립과 공직사회 개혁 방안 등 후속 개혁조치와 관련된 내용은 유민봉 국정기획수석의 주도로 만들어진 것으로 알려졌다 . 
+유 수석이,만든.01,내용을 추리는데도 상당한 시일이 걸렸다,,Affirmative,유 수석이 만든 초안에서 담화에 담길 내용을 추리는데도 상당한 시일이 걸렸다 . 
+세월호 참사,이후.01,악화한 상황이어서 이번,,Affirmative,세월호 참사 이후 민심이 악화할 대로 악화한 상황이어서 이번 담화가 기대만큼 국민적 신뢰나 감동을 끌어내지 못하면 민심이반이 더욱 심각해지면서 국정운영이 더욱 어려워질 수 있다는 위기감 때문에 신중에 신중을 거듭한 것으로 전해졌다 . 
+박 대통령은,늘.01,발표 직전까지 수정에,,Affirmative,박 대통령은 늘 그렇듯 이날 담화문도 발표 직전까지 수정에 수정을 거듭하며 공을 들였다는 후문이다 . 

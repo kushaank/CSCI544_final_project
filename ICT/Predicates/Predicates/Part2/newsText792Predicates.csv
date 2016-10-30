@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+George Clooney,want.01,to give,,Affirmative,George Clooney wants to give Amal Alamuddin her dream wedding . 
+George Clooney,give.01,her dream wedding,Amal Alamuddin,Affirmative,George Clooney wants to give Amal Alamuddin her dream wedding . 
+they,plan.01,to tie,,Affirmative,"The 53 - year - old actor proposed to the British lawyer , 36 , last month and they plan to tie the knot in September at either his home in Lake Como , Italy or Cabo San Lucas in Mexico . "
+they,tie.01,the knot,,Affirmative,"The 53 - year - old actor proposed to the British lawyer , 36 , last month and they plan to tie the knot in September at either his home in Lake Como , Italy or Cabo San Lucas in Mexico . "
+A source,say.01,He 'd marry,,Affirmative,"A source said : He 'd marry her today if he could , but he wants to give her a dream wedding . "
+The 53-year-old actor,want.01,to give her,,Affirmative,"A source said : He 'd marry her today if he could , but he wants to give her a dream wedding . "
+The 53-year-old actor,give.01,her first,her,Affirmative,"A source said : He 'd marry her today if he could , but he wants to give her a dream wedding . "
+The 53-year-old actor,want.01,it to be,,Affirmative,"It is her first , and he wants it to be his last ! "
+the couple,make.02,union legal,,Affirmative,The brunette beauty 's conservative Lebanese parents are also eager for the couple to make their union legal . 
+The insider,tell.01,[ They ] are,Us Weekly magazine,Affirmative,The insider told Us Weekly magazine : [ They ] are old - fashioned when it comes to these things . 
+The brunette beauty 's conservative Lebanese parents,expect.01,a short engagement,,Affirmative,They expect a short engagement . 
+George Clooney,do.02,whatever makes,,Affirmative,George would do whatever makes her happy . 
+the couple to make their union legal,celebrate.02,a short engagement,,Affirmative,"The couple celebrated their engagement with 20 close friends at Café Habana in Malibu , California on May 11 , during which U2 frontman Bono serenaded them with ' Wonderwall ' . "
+U2,frontman.01,Bono serenaded them with ' Wonderwall ',,Affirmative,"The couple celebrated their engagement with 20 close friends at Café Habana in Malibu , California on May 11 , during which U2 frontman Bono serenaded them with ' Wonderwall ' . "
+Bono,serenade.01,The brunette beauty 's conservative Lebanese parents,,Affirmative,"The couple celebrated their engagement with 20 close friends at Café Habana in Malibu , California on May 11 , during which U2 frontman Bono serenaded them with ' Wonderwall ' . "
+his bride-to-be,want.01,to have,,Affirmative,The ' Monuments Men ' actor is thought to be planning to splash out on a new property in London because his bride-to-be does n't want to have to relocate her career . 
+his bride-to-be,relocate.01,her career,,Affirmative,The ' Monuments Men ' actor is thought to be planning to splash out on a new property in London because his bride-to-be does n't want to have to relocate her career . 
+A source,claim.01,: Amal wants,,Affirmative,"A source claimed last week : Amal wants to continue her work , and George is very supportive and proud of her career . "
+Amal,want.01,to continue,,Affirmative,"A source claimed last week : Amal wants to continue her work , and George is very supportive and proud of her career . "
+Amal,continue.01,her work,,Affirmative,"A source claimed last week : Amal wants to continue her work , and George is very supportive and proud of her career . "
+The brunette beauty 's conservative Lebanese parents,look.01,for,,Affirmative,He will soon be going to London so they can look for a new home there together . 

@@ -1,0 +1,53 @@
+1	Forces	force	NNS	p2=NNPS	10	nsubj	10:A0=PAG
+2	loyal	loyal	JJ	_	1	amod	_
+3	to	to	IN	_	2	prep	_
+4	former	former	JJ	_	6	amod	_
+5	Libyan	libyan	JJ	_	6	amod	_
+6	general	general	NN	p2=JJ	8	nn	_
+7	Khalifa	khalifa	NNP	_	8	nn	_
+8	Haftar	haftar	NNP	_	3	pobj	_
+9	have	have	VBP	_	10	aux	_
+10	attacked	attack	VBN	p2=VBD|pb=attack.01	0	root	_
+11	Islamic	islamic	JJ	_	12	amod	_
+12	groups	group	NNS	_	10	dobj	10:A1=PPT
+13	and	and	CC	_	12	cc	_
+14	government	government	NN	_	15	nn	_
+15	buildings	building	NNS	_	12	conj	_
+16	in	in	IN	_	15	prep	_
+17	Benghazi	benghazi	NNP	_	16	pobj	_
+18	and	and	CC	_	17	cc	_
+19	Tripoli	tripoli	NNP	_	17	conj	_
+20	.	.	.	_	10	punct	_
+
+1	Thanks	thanks	NNS	_	0	root	_
+2	for	for	IN	_	1	prep	_
+3	checking	check	VBG	pb=check.05	2	pcomp	_
+4	us	us	PRP	_	3	dobj	3:A1=LOC
+5	out	out	RP	p2=RB	3	prt	3:C-V
+6	.	.	.	_	1	punct	_
+
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	take	take	VB	pb=take.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	look	look	NN	_	2	dobj	2:AM-PRR
+5	at	at	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	rest	rest	NN	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	our	our	PRP$	_	10	poss	_
+10	videos	video	NNS	_	8	pobj	_
+11	and	and	CC	_	10	cc	_
+12	articles	article	NNS	_	10	conj	_
+13	.	.	.	_	2	punct	_
+
+1	To	to	TO	_	2	aux	_
+2	stay	stay	VB	pb=stay.01	7	advcl	7:AM-PRP
+3	in	in	IN	_	2	prep	2:A3
+4	the	the	DT	_	5	det	_
+5	loop	loop	NN	_	3	pobj	_
+6	,	,	,	_	7	punct	_
+7	bookmark	bookmark	VB	p2=CC|pb=bookmark.01	0	root	_
+8	our	our	PRP$	_	9	poss	_
+9	homepage	homepage	NN	_	7	dobj	7:A1
+10	.	.	.	_	7	punct	_
+

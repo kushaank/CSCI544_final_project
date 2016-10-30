@@ -1,0 +1,68 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+MILFORD --,show.01,a room full of,,Affirmative,"MILFORD -- Jason Dorval showed a room full of Milford firefighters , police officers and paramedics a photo of his 10 - year - old son , Connor , who has both Down syndrome and autism . "
+MILFORD --,paramedics.01,a photo of,,Affirmative,"MILFORD -- Jason Dorval showed a room full of Milford firefighters , police officers and paramedics a photo of his 10 - year - old son , Connor , who has both Down syndrome and autism . "
+"old son , Connor ,",have.03,both Down syndrome and autism,,Affirmative,"MILFORD -- Jason Dorval showed a room full of Milford firefighters , police officers and paramedics a photo of his 10 - year - old son , Connor , who has both Down syndrome and autism . "
+Dorval,say.01,syndrome is easy,,Affirmative,"Connor 's Down syndrome is easy to identify , Dorval said , because it carries certain physical characteristics , such as an upward slant to the eyes and small stature . "
+it,carry.01,"certain physical characteristics ,",,Affirmative,"Connor 's Down syndrome is easy to identify , Dorval said , because it carries certain physical characteristics , such as an upward slant to the eyes and small stature . "
+you,see.01,Connor,,Affirmative,"If you saw Connor , you 'd recognize the disability right away , he said . "
+you,recognize.01,the disability,,Affirmative,"If you saw Connor , you 'd recognize the disability right away , he said . "
+he,say.01,", you 'd recognize",,Affirmative,"If you saw Connor , you 'd recognize the disability right away , he said . "
+Autism,carry.01,such obvious physical characteristics,,Affirmative,"Autism , however , does n't carry such obvious physical characteristics . "
+Dorval,visit.01,police and,,Affirmative,"That is why Dorval is visiting police and fire departments throughout the country as part of the Massachusetts - based Autism and Law Enforcement Coalition , founded in 2003 . "
+The coalition,help.01,train,,Affirmative,The coalition helps train first responders to recognize people with autism and treat them accordingly . 
+The coalition,recognize.01,people,,Affirmative,The coalition helps train first responders to recognize people with autism and treat them accordingly . 
+Jason Dorval,say.01,It 's important,,Affirmative,"It 's important to recognize a person with autism so they 're not misconceived as being noncompliant with fire and police orders , ( or ) thought to be injured or possibly intoxicated , Dorval said . "
+Dorval,train.01,about,,Affirmative,"On Friday morning , Dorval was at the Milford Fire Rescue Station , training about a dozen firefighters and paramedics to recognize and properly respond to someone with autism . "
+developmental disorders,cause.01,problems,,Affirmative,"Autism spectrum disorders , diagnosed in one of every 68 children , are a group of developmental disorders that cause significant social , communication and behavioral problems . "
+Dorval,say.01,symptoms are vague enough,,Affirmative,"Dorval said these symptoms are vague enough that they can be mistaken for a variety of other conditions , including drunkenness . "
+He,say.01,can be,,Affirmative,He said some people with autism can be physically aggressive . 
+officers,perceive.01,a threat from someone with,,Affirmative,"There have been incidents in which officers perceiving a threat from someone with autism used stun guns , arrested them or even shot them . "
+autism,arrest.01,them,,Affirmative,"There have been incidents in which officers perceiving a threat from someone with autism used stun guns , arrested them or even shot them . "
+autism,shoot.02,them,,Affirmative,"There have been incidents in which officers perceiving a threat from someone with autism used stun guns , arrested them or even shot them . "
+Dorval,say.01,", you can get beat up",,Affirmative,"Dorval said if an officer approaches a person with special needs without knowing the situation , you can get beat up pretty good . "
+He,say.01,had been punched in,,Affirmative,He said one firefighter he met during another training session had been punched in the face because he misread a situation . 
+one firefighter he met during another training session,meet.03,one firefighter,,Affirmative,He said one firefighter he met during another training session had been punched in the face because he misread a situation . 
+one firefighter he met during another training session,misread.01,a situation,,Affirmative,He said one firefighter he met during another training session had been punched in the face because he misread a situation . 
+The firefighter,see.01,teenager walking unsteadily down,,Affirmative,"The firefighter saw a teenager walking unsteadily down the street , and thought he was intoxicated . "
+The firefighter,think.01,he was intoxicated,,Affirmative,"The firefighter saw a teenager walking unsteadily down the street , and thought he was intoxicated . "
+Dorval,say.01,it 's not uncommon,,Affirmative,Dorval said it 's not uncommon for people with autism to repeat the last thing they 've heard . 
+people with autism,repeat.01,the last thing,,Affirmative,Dorval said it 's not uncommon for people with autism to repeat the last thing they 've heard . 
+they,hear.01,the last thing,,Affirmative,Dorval said it 's not uncommon for people with autism to repeat the last thing they 've heard . 
+the firefighter,think.01,teen was being belligerent,,Affirmative,But the firefighter thought the teen was being belligerent . 
+he,ask.01,man was going,,Affirmative,When he once again asked where the young man was going -- and got the same response -- the firefighter pushed the teenager up against a cruiser that had a light bar . 
+he,get.01,the same response --,,Affirmative,When he once again asked where the young man was going -- and got the same response -- the firefighter pushed the teenager up against a cruiser that had a light bar . 
+the firefighter,push.01,the teenager,up,Affirmative,When he once again asked where the young man was going -- and got the same response -- the firefighter pushed the teenager up against a cruiser that had a light bar . 
+a cruiser,have.03,a light bar,,Affirmative,When he once again asked where the young man was going -- and got the same response -- the firefighter pushed the teenager up against a cruiser that had a light bar . 
+the kid,punch.01,the officer,,Affirmative,"When the lights went off , the kid flipped out and punched the officer in the face , Dorval said . "
+Dorval,say.01,kid flipped out and punched,,Affirmative,"When the lights went off , the kid flipped out and punched the officer in the face , Dorval said . "
+one firefighter he met during another training session,recognize.02,teen had autism,,Affirmative,"Had the firefighter recognized that the teen had autism , he could have defused the situation . "
+the teen,have.03,autism,,Affirmative,"Had the firefighter recognized that the teen had autism , he could have defused the situation . "
+he,defuse.01,the situation,,Affirmative,"Had the firefighter recognized that the teen had autism , he could have defused the situation . "
+Dorval,say.01,-- were both,,Affirmative,Dorval said the young man 's unsteady gait and pattern of repeating what the firefighter was saying -- known as echolalia -- were both red flags . 
+He,say.01,it 's also,,Affirmative,He said it 's also a good idea to subtly check whether the person in question is wearing a medical bracelet or something else that indicates he or she has special needs . 
+the person in question,wear.01,a medical bracelet or something else,,Affirmative,He said it 's also a good idea to subtly check whether the person in question is wearing a medical bracelet or something else that indicates he or she has special needs . 
+something else,indicate.01,has,,Affirmative,He said it 's also a good idea to subtly check whether the person in question is wearing a medical bracelet or something else that indicates he or she has special needs . 
+he or she,have.03,special needs,,Affirmative,He said it 's also a good idea to subtly check whether the person in question is wearing a medical bracelet or something else that indicates he or she has special needs . 
+Dorval,tell.01,", they need",the Milford officers,Affirmative,"Dorval told the Milford officers if they think a subject has autism , they need to identify themselves as a helper -- in other words , someone who is n't a threat . "
+they,think.01,subject has autism,,Affirmative,"Dorval told the Milford officers if they think a subject has autism , they need to identify themselves as a helper -- in other words , someone who is n't a threat . "
+a subject,have.03,autism,,Affirmative,"Dorval told the Milford officers if they think a subject has autism , they need to identify themselves as a helper -- in other words , someone who is n't a threat . "
+they,need.01,to identify themselves as,,Affirmative,"Dorval told the Milford officers if they think a subject has autism , they need to identify themselves as a helper -- in other words , someone who is n't a threat . "
+they,identify.01,themselves,as,Affirmative,"Dorval told the Milford officers if they think a subject has autism , they need to identify themselves as a helper -- in other words , someone who is n't a threat . "
+He,caution.01,to use,the officers,Affirmative,"He also cautioned the officers to use simple commands , such as sit down or wait . "
+the officers,use.01,"simple commands ,",,Affirmative,"He also cautioned the officers to use simple commands , such as sit down or wait . "
+Jason Dorval,say.01,do n't respond to,,Affirmative,Dorval said some people with autism do n't respond to complex commands such as Go sit over there and wait for me . 
+some people with autism,respond.01,to,,Affirmative,Dorval said some people with autism do n't respond to complex commands such as Go sit over there and wait for me . 
+Dorval,say.01,Be,,Affirmative,"Be very blunt , Dorval said . "
+Dorval,conduct.01,training,,Affirmative,"Dorval has conducted training at a handful of other sites in Connecticut , including Norwalk , Westport and West Hartford . "
+Milford,offer.01,the training at,,Affirmative,"Milford offered the training at the request of members of public , said Greg Carman , training and public information officer for Milford Fire Rescue . "
+"Greg Carman , training and",say.01,Milford offered,,Affirmative,"Milford offered the training at the request of members of public , said Greg Carman , training and public information officer for Milford Fire Rescue . "
+Carman,say.01,responders have,,Affirmative,Carman said many first responders have little training on working with people with special needs . 
+many first responders,have.03,little training on working with people with,,Affirmative,Carman said many first responders have little training on working with people with special needs . 
+the textbook for,have.03,one chapter on,,Affirmative,"For instance , the textbook for emergency medical technicians in Connecticut only has one chapter on the topic . "
+It,group.01,a variety of illnesses and conditions,,Affirmative,"It groups together a variety of illnesses and conditions , and is n't very helpful , Carman said . "
+Carman,say.01,It groups together,,Affirmative,"It groups together a variety of illnesses and conditions , and is n't very helpful , Carman said . "
+This ( training ),open.01,our eyes,,Affirmative,"This ( training ) has opened our eyes to the needs and specific requirements of dealing with people with autism , he said . "
+he,say.01,has opened,,Affirmative,"This ( training ) has opened our eyes to the needs and specific requirements of dealing with people with autism , he said . "
+We,want.01,to make sure,,Affirmative,We want to make sure we treat people with the proper care . 
+We,make.02,sure,,Affirmative,We want to make sure we treat people with the proper care . 
+we,treat.01,people,with,Affirmative,We want to make sure we treat people with the proper care . 

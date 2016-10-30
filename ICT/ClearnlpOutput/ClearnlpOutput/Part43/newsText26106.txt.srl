@@ -1,0 +1,26 @@
+1	Russian	russian	JJ	_	3	amod	_
+2	Foreign	foreign	NNP	_	3	nn	_
+3	Minister	minister	NNP	_	5	nn	_
+4	Serghei	serghei	NNP	_	5	nn	_
+5	Lavrov	lavrov	NNP	_	6	nsubj	6:A0=PAG
+6	asked	ask	VBD	pb=ask.02	0	root	_
+7	the	the	DT	_	8	det	_
+8	Organization	organization	NNP	_	6	dobj	19:A0=PAG;6:A2=GOL
+9	for	for	IN	_	8	prep	_
+10	Security	security	NNP	p2=NN	9	pobj	_
+11	and	and	CC	_	10	cc	_
+12	Co-operation	co-operation	NNP	p2=NN	10	conj	_
+13	in	in	IN	_	12	prep	_
+14	Europe	europe	NNP	_	13	pobj	_
+15	(	(	-LRB-	_	16	punct	_
+16	OSCE	osce	NNP	_	14	appos	_
+17	)	)	-RRB-	_	16	punct	_
+18	to	to	TO	_	19	aux	_
+19	intervene	intervene	VB	pb=intervene.01	6	xcomp	6:A1=PPT
+20	for	for	IN	_	19	prep	19:A1=PPT
+21	the	the	DT	_	22	det	_
+22	journalists	journalist	NNS	_	24	poss	_
+23	'	'	POS	_	22	possessive	_
+24	release	release	NN	_	20	pobj	_
+25	.	.	.	_	6	punct	_
+

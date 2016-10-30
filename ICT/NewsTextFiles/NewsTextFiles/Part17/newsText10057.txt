@@ -1,0 +1,12 @@
+
+Still mourning the loss of your little buddy Chairman Meow? Upload a photo of him or your favorite Lolcat into PetMatch , and the app’s machine vision algorithms will find a similar looking kitty in your area that you can adopt. Sounds adorable, but PetMatch is no joke. It’s the first consumer app from Superfish , a $20 million-funded startup with a dozen PhDs working to teach computers to see like humans.
+
+To use PetMatch, first you upload a photo of a pet, pull one from the web ( Grumpycat! Doge!), or choose one from the app’s internal library. Superfish then does a geometric analysis of the image using its machine vision technology to look at the distance between the animal’s eyes, the angle of its mouth, and the shape of its face as a whole.
+
+PetMatch does this same analysis on images from PetFinder, a service that aggregates data about adoptable pets from shelters and rescue organizations. The app then presents matches between your image and similar-looking pets around the country, and the best matches it can find that are nearby. See one you like and you can tap through to call or email the shelter and adopt the little furball.
+
+“Wait, so they’re spending $20 million and employing PhDs from Stanford and MIT just to find me a puppy?” Not exactly. The Israel and Palo Alto-based Superfish has been working on machine vision since 2006 thanks to money raised from Draper Fisher Jurvetson  and Vintage Investment Partners. Superfish offers an ecommerce browser extension and iOS app that can find similar products to one you’re looking at. The apps now reach 100 million users a month.
+
+Thanks to the affiliate fees it generates, Superfish has been profitable for years. But now it’s using standalone apps to prove its technology works and get the word out. Beyond pets, Superfish plans to launch visual search apps for jewelry and furniture. Visual search is becoming a hot startup space, with Slyce raising $10.5 million this year  and  Pinterest buying VisualGraph . I can’t say I’d be surprised if Superfish was acquired by one of tech giants.
+
+Superfish co-founder and CEO Adi Pinhas tells me his goal is “to change the way people use the camera in their mobile.” Rather than taking a photo and then it gathering dust in your camera roll, Superfish wants to turn your lens into the eye of an all-knowing robot that can tell you what you might want to see, do, or buy next. That might sound creepy, but PetMatch is a perfect example that computer vision can actually make the world a cuter, cuddlier place.

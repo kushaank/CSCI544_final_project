@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a worker,believe.01,they 're working in,,Affirmative,If a worker believes they 're working in unsafe conditions they can always call OSHA 's toll - free hotline at 800-321-6742 or the agency 's Omaha Area Office at 402-553-0171 . 
+they,call.02,free hotline,,Affirmative,If a worker believes they 're working in unsafe conditions they can always call OSHA 's toll - free hotline at 800-321-6742 or the agency 's Omaha Area Office at 402-553-0171 . 
+OSHA 's,fine.01,Omaha business,,Affirmative,OSHA is fining a West Omaha business for exposing workers to dangerous levels of a hazardous dust . 
+OSHA 's,expose.01,workers,to,Affirmative,OSHA is fining a West Omaha business for exposing workers to dangerous levels of a hazardous dust . 
+An investigation stretching half,stretch.01,half,,Affirmative,An investigation stretching half a year led OSHA to discover workers had been exposed to dangerous silica dust levels and other hazards . 
+An investigation stretching half,lead.03,OSHA,to discover,Affirmative,An investigation stretching half a year led OSHA to discover workers had been exposed to dangerous silica dust levels and other hazards . 
+OSHA,discover.01,workers had been exposed to,,Affirmative,An investigation stretching half a year led OSHA to discover workers had been exposed to dangerous silica dust levels and other hazards . 
+The dust,cause.01,an irreversible lung disease called silicosis,,Affirmative,The dust can cause an irreversible lung disease called silicosis as well as an increased risk of developing lung cancer and pulmonary tuberculosis . 
+Inspectors,say.01,company failed,,Affirmative,Inspectors say the company failed to implement administrative and engineering controls to reduce exposure ; and failed to train workers on silica hazards . 
+the company,implement.01,controls,,Affirmative,Inspectors say the company failed to implement administrative and engineering controls to reduce exposure ; and failed to train workers on silica hazards . 
+the company,reduce.01,exposure,,Affirmative,Inspectors say the company failed to implement administrative and engineering controls to reduce exposure ; and failed to train workers on silica hazards . 
+the company,train.01,on,workers,Affirmative,Inspectors say the company failed to implement administrative and engineering controls to reduce exposure ; and failed to train workers on silica hazards . 
+OSHA,say.01,company failed,,Affirmative,"OSHA says the company failed to implement a written respiratory protection program , or conduct medical evaluation and fit testing for respirators . "
+the company,implement.01,protection program,,Affirmative,"OSHA says the company failed to implement a written respiratory protection program , or conduct medical evaluation and fit testing for respirators . "
+the company,conduct.01,medical evaluation,,Affirmative,"OSHA says the company failed to implement a written respiratory protection program , or conduct medical evaluation and fit testing for respirators . "
+the company,fit.01,testing,,Affirmative,"OSHA says the company failed to implement a written respiratory protection program , or conduct medical evaluation and fit testing for respirators . "
+They,cite.01,the company,for,Affirmative,They 're also citing the company for not monitoring noise hazards for employees . 
+the company,monitor.01,noise hazards,for employees,Affirmative,They 're also citing the company for not monitoring noise hazards for employees . 
+"owner ,",tell.01,that he plans,WOWT 6 News,Affirmative,"Baltazar 's owner , Baltazar Sauceda , tells WOWT 6 News that he plans to contest several of the fines , which he believes are redundant . "
+he,plan.01,to contest several of,,Affirmative,"Baltazar 's owner , Baltazar Sauceda , tells WOWT 6 News that he plans to contest several of the fines , which he believes are redundant . "
+he,contest.01,several of,,Affirmative,"Baltazar 's owner , Baltazar Sauceda , tells WOWT 6 News that he plans to contest several of the fines , which he believes are redundant . "
+he,believe.01,are redundant,,Affirmative,"Baltazar 's owner , Baltazar Sauceda , tells WOWT 6 News that he plans to contest several of the fines , which he believes are redundant . "
+We,improve.01,things,,Affirmative,"We are constantly improving things so [ the employees ] are working in a safe environment , Sauceda told WOWT . "
+Sauceda,tell.01,We are constantly improving things,WOWT,Affirmative,"We are constantly improving things so [ the employees ] are working in a safe environment , Sauceda told WOWT . "
+we,work.01,to make sure,,Affirmative,"It 's not easy to make it safe , but we work hard to make sure it is . "
+we,make.02,sure,,Affirmative,"It 's not easy to make it safe , but we work hard to make sure it is . "
+He,say.01,they are willing,,Affirmative,He says they are willing to pay some of those fines . 
+they,pay.01,some of,,Affirmative,He says they are willing to pay some of those fines . 
+The business,have.03,15 business days,,Affirmative,"The business has 15 business days from Monday 's citations to comply , request a conference with OSHA 's area director or contest the findings before an independent commission . "

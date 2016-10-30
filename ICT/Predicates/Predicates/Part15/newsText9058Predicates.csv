@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+HAVERFORD,blast.05,college students,,Affirmative,HAVERFORD ( AP ) � A commencement speaker on Sunday blasted college students as �immature� and �arrogant� for protesting another speaker who then decided to withdraw . 
+HAVERFORD,protest.01,another speaker,,Affirmative,HAVERFORD ( AP ) � A commencement speaker on Sunday blasted college students as �immature� and �arrogant� for protesting another speaker who then decided to withdraw . 
+another speaker,decide.01,to withdraw,,Affirmative,HAVERFORD ( AP ) � A commencement speaker on Sunday blasted college students as �immature� and �arrogant� for protesting another speaker who then decided to withdraw . 
+"William Bowen ,",use.01,his commencement speech at,to criticize students,Affirmative,"William Bowen , former president of Princeton University , used his commencement speech at Haverford College to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California Berkeley . "
+students,campaign.01,against,,Affirmative,"William Bowen , former president of Princeton University , used his commencement speech at Haverford College to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California Berkeley . "
+"Birgeneau ,",receive.01,an honorary degree,from Haverford,Affirmative,"Birgeneau , who was also supposed to receive an honorary degree from Haverford , refused those demands and others in a terse email . "
+"Birgeneau ,",refuse.01,those demands and others,,Affirmative,"Birgeneau , who was also supposed to receive an honorary degree from Haverford , refused those demands and others in a terse email . "
+William Bowen,chastise.01,"students who campaigned against Robert Birgeneau , former chancellor of the University of California Berkeley",,Affirmative,"Bowen chastised students in his speech for driving Birgeneau away , The Philadelphia Inquirer reported . "
+The Philadelphia Inquirer,report.01,Bowen chastised students in,,Affirmative,"Bowen chastised students in his speech for driving Birgeneau away , The Philadelphia Inquirer reported . "
+William Bowen,call.07,Birgeneau�s withdrawal,,Affirmative,He called Birgeneau�s withdrawal a defeat for the school . 
+Birgeneau�s,withdrawal.01,a defeat for,,Affirmative,He called Birgeneau�s withdrawal a defeat for the school . 
+His remarks,draw.02,a standing ovation,,Affirmative,His remarks drew a standing ovation . 

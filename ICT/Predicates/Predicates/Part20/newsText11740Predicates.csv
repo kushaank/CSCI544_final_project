@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"EL PASO , Texas --",voice.01,concerns,,Affirmative,"EL PASO , Texas -- A northeast El Paso man voices concerns after he said a construction company he paid never came back to finish the job . "
+he,say.01,never came back,,Affirmative,"EL PASO , Texas -- A northeast El Paso man voices concerns after he said a construction company he paid never came back to finish the job . "
+he,pay.01,a construction company,,Affirmative,"EL PASO , Texas -- A northeast El Paso man voices concerns after he said a construction company he paid never came back to finish the job . "
+a construction company,finish.01,the job,,Affirmative,"EL PASO , Texas -- A northeast El Paso man voices concerns after he said a construction company he paid never came back to finish the job . "
+Ray Pastran,say.01,he paid,,Affirmative,"Ray Pastran said he paid Rojeros General Construction $ 1,600 upfront to come out and start renovation work on his bathroom in February . "
+Ray Pastran,pay.01,"$ 1,600 upfront",Rojeros General Construction,Affirmative,"Ray Pastran said he paid Rojeros General Construction $ 1,600 upfront to come out and start renovation work on his bathroom in February . "
+Ray Pastran,start.01,renovation work on,,Affirmative,"Ray Pastran said he paid Rojeros General Construction $ 1,600 upfront to come out and start renovation work on his bathroom in February . "
+Ray Pastran,say.01,workers came out,,Affirmative,Pastran said the company 's workers came out a total of three days and said they were going to come back and finish the job the following week . 
+workers,say.01,they were going,,Affirmative,Pastran said the company 's workers came out a total of three days and said they were going to come back and finish the job the following week . 
+the company 's workers,finish.01,the job,,Affirmative,Pastran said the company 's workers came out a total of three days and said they were going to come back and finish the job the following week . 
+the company 's workers,tear.01,everything,,Affirmative,"They came and they tore everything up , Pastran said . "
+Ray Pastran,say.01,They came and,,Affirmative,"They came and they tore everything up , Pastran said . "
+the company 's workers,say.01,they were going,,Affirmative,"They said they were going to come by the next two days , but they did n't show up . "
+a construction company he paid never,complete.01,his bathroom in February,,Affirmative,"Not only did the company not complete the bathroom , but Pastran showed us new and old renovation materials that the workers left in his front yard . "
+Ray Pastran,show.01,renovation materials,us,Affirmative,"Not only did the company not complete the bathroom , but Pastran showed us new and old renovation materials that the workers left in his front yard . "
+Ray Pastran,say.01,materials have been here for,,Affirmative,"These building materials have been here for three months and it 's already rained three times on this , Pastran said . "
+The owner of,say.01,is,,Affirmative,The owner of the company said the reason he had not come back to finish the job is because he had been ill and he has another job he has been working on out of town . 
+The owner of the company,finish.01,the job,,Affirmative,The owner of the company said the reason he had not come back to finish the job is because he had been ill and he has another job he has been working on out of town . 
+The owner of the company,have.03,another job,,Affirmative,The owner of the company said the reason he had not come back to finish the job is because he had been ill and he has another job he has been working on out of town . 
+The owner of the company,work.01,on out of town,,Affirmative,The owner of the company said the reason he had not come back to finish the job is because he had been ill and he has another job he has been working on out of town . 
+KFOX 14,find.01,that there were,,Affirmative,"After doing some digging , KFOX 14 found on the Better Business Bureau 's website that there were a total of five complaints filed with the BBB for the company 's service within the last year . "
+Ray Pastran,say.01,family does have,,Affirmative,"Pastran said the family does have a second bathroom , but with five people in the house he is frustrated that this bathroom is left incomplete for months at a time . "
+the family,have.03,a second bathroom,,Affirmative,"Pastran said the family does have a second bathroom , but with five people in the house he is frustrated that this bathroom is left incomplete for months at a time . "
+you,finish.01,a two-day job,,Affirmative,"This is a two - day job , you can finish this if you work on it eight hours each day , it would be done , Pastran said . "
+you,work.01,on it,,Affirmative,"This is a two - day job , you can finish this if you work on it eight hours each day , it would be done , Pastran said . "
+Ray Pastran,say.01,", it would be done",,Affirmative,"This is a two - day job , you can finish this if you work on it eight hours each day , it would be done , Pastran said . "
+five people in the house,want.01,a second bathroom,,Affirmative,We just want our bathroom back . 
+Ray Pastran,say.01,", he will be filing",,Affirmative,"Pastran said if the construction company does not come out and finish the rest of the work soon , he will be filing a complaint with the Better Business Bureau . "
+a construction company he paid never,finish.01,the rest of,,Affirmative,"Pastran said if the construction company does not come out and finish the rest of the work soon , he will be filing a complaint with the Better Business Bureau . "
+Ray Pastran,file.01,a complaint,with,Affirmative,"Pastran said if the construction company does not come out and finish the rest of the work soon , he will be filing a complaint with the Better Business Bureau . "
+The homeowner,say.01,he plans,,Affirmative,The homeowner said from now on he plans to look into the company 's history a little more closely before paying any company to do work on his home . 
+The homeowner,plan.01,to look into,,Affirmative,The homeowner said from now on he plans to look into the company 's history a little more closely before paying any company to do work on his home . 
+The homeowner,look.01,into,,Affirmative,The homeowner said from now on he plans to look into the company 's history a little more closely before paying any company to do work on his home . 
+The homeowner,pay.01,any company,,Affirmative,The homeowner said from now on he plans to look into the company 's history a little more closely before paying any company to do work on his home . 
+The public,check.01,website,,Affirmative,The public can check the Better Business Bureau 's website and search for a company 's history of complaints at www.bbb.org . 

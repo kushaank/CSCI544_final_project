@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Ahmedabad,top.02,the list of,,Affirmative,"According to a joint survey of 10 cities in India by Indian Institute of Management , Bangalore ( IIM - B ) and Magicbricks ( MB ) , Ahmedabad tops the list of youngest real estate buyers . "
+The survey,title.01,Sentiment Index ( HSI ),is jointly developed by,Affirmative,The survey titled Housing Sentiment Index ( HSI ) is jointly developed by IIM - Bangalore ( IIMB ) and Magicbricks ( MB ) and is based on an online survey of prospective home buyers after careful screening by MB and IIMB . 
+by,develop.02,Sentiment Index ( HSI ),,Affirmative,The survey titled Housing Sentiment Index ( HSI ) is jointly developed by IIM - Bangalore ( IIMB ) and Magicbricks ( MB ) and is based on an online survey of prospective home buyers after careful screening by MB and IIMB . 
+The HSI index for,put.01,Ahmedabad,at 131,Affirmative,The HSI index for youngest buyers in the 18-25 age group puts Ahmedabad at 131 . 
+Kolkata,top.02,the list of,,Affirmative,"On the other hand , Kolkata topped the list of oldest buyers in the 50 years and above age group at HSI of 131 . "
+A score of,mean.01,people do not expect,,Affirmative,"A score of 100 represents neutrality , meaning people do not expect house prices to either increase or decrease . "
+people,expect.01,prices to either increase or decrease,,Affirmative,"A score of 100 represents neutrality , meaning people do not expect house prices to either increase or decrease . "
+A score of 200,indicate.01,respondents expect,,Affirmative,A score of 200 indicates that all respondents expect house prices to increase . 
+all respondents,expect.01,prices to increase,,Affirmative,A score of 200 indicates that all respondents expect house prices to increase . 
+A score of 0,indicate.01,respondents expect,,Affirmative,A score of 0 indicates that all respondents expect house prices to decrease . 
+all respondents,expect.01,prices to decrease,,Affirmative,A score of 0 indicates that all respondents expect house prices to decrease . 
+The HSI index for youngest buyers in the 18-25 age group,highlight.01,price sensitivity among,,Affirmative,The index also highlighted price sensitivity among real estate buyers in Ahmedabad . 
+Ahmedabad,see.01,62 per cent of those earning less than Rs,,Affirmative,The city saw 62 per cent of those earning less than Rs 10 lakh per annum ( HSI 84 ) look to buy in Ahmedabad while 30 per cent plan to buy in Gurgaon ( HSI 144 ) . 
+those earning less than Rs,earn.01,less than Rs,,Affirmative,The city saw 62 per cent of those earning less than Rs 10 lakh per annum ( HSI 84 ) look to buy in Ahmedabad while 30 per cent plan to buy in Gurgaon ( HSI 144 ) . 
+51 per cent of those living in,intend.01,to buy property for,,Affirmative,"Moreover , over 51 per cent of those living in their own houses intend to buy property for residential purpose , implying a move to a bigger / better residence . "
+51 per cent of those living in,buy.01,property,,Affirmative,"Moreover , over 51 per cent of those living in their own houses intend to buy property for residential purpose , implying a move to a bigger / better residence . "
+51 per cent of those living in,imply.01,a move to,,Affirmative,"Moreover , over 51 per cent of those living in their own houses intend to buy property for residential purpose , implying a move to a bigger / better residence . "
+Bangalore,have.03,the maximum IT crowd (,,Affirmative,"Among other factors , Bangalore has the maximum IT crowd ( 51 per cent , HSI 141 ) while Ahmedabad has maximum self - employed ( 25 per cent , HSI 92 ) and retirees ( 4 per cent ) . "
+Ahmedabad,have.03,"25 per cent , HSI 92",,Affirmative,"Among other factors , Bangalore has the maximum IT crowd ( 51 per cent , HSI 141 ) while Ahmedabad has maximum self - employed ( 25 per cent , HSI 92 ) and retirees ( 4 per cent ) . "
+59 per cent,want.01,to purchase property within,,Affirmative,"In Ahmedabad , of the buyers 59 per cent want to purchase property within the next six months ( HSI 102 ) while 22 per cent are ready to wait a year or more ( HSI 105 ) . "
+59 per cent,purchase.01,property,,Affirmative,"In Ahmedabad , of the buyers 59 per cent want to purchase property within the next six months ( HSI 102 ) while 22 per cent are ready to wait a year or more ( HSI 105 ) . "
+by,conduct.01,The HSI survey,,Affirmative,The HSI survey is conducted by the Indian Institute of Management Bangalore-Century Real Estate Research Initiative ( IIMB - CRERI ) which was set up through a grant from the Century Real Estate as well as Magicbricks . 

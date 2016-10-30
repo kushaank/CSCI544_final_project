@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Tyler police,respond.01,to,,Affirmative,"TYLER , TX ( KLTV ) - Tyler police responded to an aggravated assault early Sunday morning at a local donut shop . "
+Officers,learn.01,", attacked",,Affirmative,"Officers learned that a Hispanic male , identified as 50 - year - old Juan Oliva of Tyler , attacked another Hispanic male with a knife and cut the victim 's right hand . "
+"a Hispanic male , identified as",attack.01,another Hispanic male with,,Affirmative,"Officers learned that a Hispanic male , identified as 50 - year - old Juan Oliva of Tyler , attacked another Hispanic male with a knife and cut the victim 's right hand . "
+"a Hispanic male , identified as",cut.02,right hand,,Affirmative,"Officers learned that a Hispanic male , identified as 50 - year - old Juan Oliva of Tyler , attacked another Hispanic male with a knife and cut the victim 's right hand . "
+"The victim , identified as",require.01,immediate medical attention,,Affirmative,"The victim , identified as 32 - year - old Juan Benegas of Tyler , did not require immediate medical attention . "
+Officers,determine.01,incident started as,,Affirmative,Officers spoke to witnesses at the scene and determined the incident started as a disturbance between Oliva and Benegas . 

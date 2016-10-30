@@ -1,0 +1,88 @@
+1	About	about	RB	p2=IN	0	root	_
+2	Invesco	invesco	NNP	_	5	nn	_
+3	Mortgage	mortgage	NNP	p2=NN	5	nn	_
+4	Capital	capital	NNP	_	5	nn	_
+5	Inc	inc	NNP	_	1	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	Invesco	invesco	NNP	_	4	nn	_
+2	Mortgage	mortgage	NNP	p2=NN	4	nn	_
+3	Capital	capital	NNP	_	4	nn	_
+4	Inc	inc	NNP	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	is	be	VBZ	pb=be.01	0	root	_
+2	a	a	DT	_	6	det	_
+3	real	real	JJ	_	4	amod	_
+4	estate	estate	NN	_	6	nn	_
+5	investment	investment	NN	_	6	nn	_
+6	trust	trust	NN	_	1	attr	8:A0=PPT;1:A2=PRD
+7	that	that	WDT	_	8	nsubj	8:R-A1
+8	focuses	focus	VBZ	pb=focus.01	6	rcmod	_
+9	on	on	IN	_	8	prep	8:A2=PPT
+10	financing	finance	VBG	p2=NN|pb=finance.01	9	pcomp	_
+11	and	and	CC	_	10	cc	_
+12	managing	manage	VBG	pb=manage.01	10	conj	_
+13	residential	residential	JJ	_	19	amod	_
+14	and	and	CC	_	13	cc	_
+15	commercial	commercial	JJ	_	13	conj	_
+16	mortgage	mortgage	NN	_	18	hmod	_
+17	-	-	HYPH	_	18	hyph	_
+18	backed	back	VBN	_	19	amod	_
+19	securities	security	NNS	_	12	dobj	12:A1=PPT
+20	and	and	CC	_	19	cc	_
+21	mortgage	mortgage	NN	_	22	nn	_
+22	loans	loan	NNS	_	19	conj	_
+23	.	.	.	_	1	punct	_
+
+1	Invesco	invesco	NNP	_	4	nn	_
+2	Mortgage	mortgage	NNP	p2=NN	4	nn	_
+3	Capital	capital	NNP	_	4	nn	_
+4	Inc	inc	NNP	_	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	is	be	VBZ	_	3	auxpass	_
+2	externally	externally	RB	_	3	advmod	5:AM-ADV;3:AM-MNR
+3	managed	manage	VBN	pb=manage.01	0	root	_
+4	and	and	CC	_	3	cc	_
+5	advised	advise	VBN	pb=advise.01	3	conj	_
+6	by	by	IN	_	5	agent	5:A0=PAG
+7	Invesco	invesco	NNP	_	8	nn	_
+8	Advisers	adviser	NNPS	_	6	pobj	_
+9	,	,	,	_	8	punct	_
+10	Inc	inc	NNP	_	8	appos	_
+11	.	.	.	_	3	punct	_
+
+1	,	,	,	_	8	punct	_
+2	a	a	DT	_	3	det	_
+3	subsidiary	subsidiary	NN	_	19	nsubj	_
+4	of	of	IN	_	3	prep	_
+5	Invesco	invesco	NNP	_	6	nn	_
+6	Ltd.	ltd.	NNP	_	4	pobj	_
+7	(	(	-LRB-	_	3	punct	_
+8	NYSE	nyse	NNP	_	3	appos	_
+9	:	:	:	_	3	punct	_
+10	IVZ	ivz	NNP	_	0	root	_
+11	)	)	-RRB-	_	10	punct	_
+12	,	,	,	_	10	punct	_
+13	a	a	DT	_	19	det	_
+14	leading	lead	VBG	p2=JJ|pb=lead.01	19	amod	_
+15	independent	independent	JJ	_	19	amod	_
+16	global	global	JJ	_	19	amod	_
+17	investment	investment	NN	_	18	nn	_
+18	management	management	NN	_	19	nn	_
+19	firm	firm	NN	_	10	appos	14:A0=PAG
+20	.	.	.	_	8	punct	_
+
+1	Additional	additional	JJ	_	2	amod	_
+2	information	information	NN	_	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	available	available	JJ	_	3	acomp	3:A2=PRD
+5	at	at	IN	_	4	prep	_
+6	www.invescomortgagecapital.com.	#url#	ADD	_	5	pobj	_
+7	02.08	0	CD	p2=LS	5	pobj	_
+8	.	.	.	_	3	punct	_
+
+1	21.07	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+

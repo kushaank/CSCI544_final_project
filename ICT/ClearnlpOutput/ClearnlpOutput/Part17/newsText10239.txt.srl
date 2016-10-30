@@ -1,0 +1,105 @@
+1	The	the	DT	_	3	det	_
+2	Armenian	armenian	JJ	_	3	amod	_
+3	military	military	NN	p2=JJ	5	nsubj	5:A0
+4	'	'	''	p2=POS	3	punct	_
+5	broke its	broke its	VBZ	p2=NNS|pb=broke its.01	18	ccomp	_
+6	ceasefire	ceasefire	NN	_	5	dobj	5:A1
+7	with	with	IN	_	6	prep	_
+8	Azerbaijan	azerbaijan	NNP	_	7	pobj	_
+9	again	again	RB	_	5	advmod	5:AM-TMP
+10	last	last	JJ	p2=VB	11	amod	_
+11	night	night	NN	_	5	npadvmod	5:AM-TMP
+12	,	,	,	_	18	punct	_
+13	'	'	''	_	18	punct	_
+14	the	the	DT	_	17	det	_
+15	Azerbaijani	azerbaijani	NNP	_	17	nn	_
+16	Defense	defense	NNP	_	17	nn	_
+17	Ministry	ministry	NNP	_	18	nsubj	18:A0=PAG
+18	stated	state	VBD	pb=state.01	25	ccomp	25:A1=PPT
+19	on	on	IN	_	18	prep	18:AM-TMP
+20	May	may	NNP	_	19	pobj	_
+21	19	0	CD	_	20	num	_
+22	,	,	,	_	25	punct	_
+23	Ilkin	ilkin	NNP	p2=NNPS	24	nn	_
+24	Izzet	izzet	NNP	_	25	nsubj	25:A0=PAG
+25	writes	write	VBZ	pb=write.01	0	root	_
+26	for	for	IN	_	25	prep	25:A2=GOL
+27	Trend	trend	NNP	p2=NN	26	pobj	_
+28	.	.	.	_	25	punct	_
+
+1	Armenian	armenian	JJ	_	3	amod	_
+2	soldiers opened	soldiers opened	JJ	p2=VBD	3	amod	_
+3	fire	fire	NN	_	0	root	_
+4	at	at	IN	_	3	prep	_
+5	Azerbaijani	azerbaijani	NNP	_	7	nn	_
+6	Armed	armed	NNP	_	7	nn	_
+7	Forces	force	NNPS	p2=NNP	9	poss	_
+8	'	'	POS	_	7	possessive	_
+9	positions	position	NNS	_	4	pobj	_
+10	near	near	IN	_	9	prep	_
+11	the	the	DT	_	13	det	_
+12	Paravakar	paravakar	NNP	_	13	nn	_
+13	Village	village	NNP	_	10	pobj	_
+14	of	of	IN	_	13	prep	_
+15	Armenia	armenia	NNP	_	18	poss	_
+16	's	's	POS	_	15	possessive	_
+17	Ijevan	ijevan	JJ	p2=NNP	18	amod	_
+18	regions	region	NNS	_	14	pobj	_
+19	,	,	,	_	22	punct	_
+20	the	the	DT	_	21	det	_
+21	ministry	ministry	NN	_	22	nsubj	22:A0
+22	said	say	VBD	pb=say.01	0	root	_
+23	.	.	.	_	22	punct	_
+
+1	At	at	IN	_	9	prep	9:AM-TMP
+2	the	the	DT	_	4	det	_
+3	same	same	JJ	_	4	amod	_
+4	time	time	NN	_	1	pobj	_
+5	,	,	,	_	9	punct	_
+6	Azerbaijan	azerbaijan	NNP	_	8	poss	_
+7	's	's	POS	_	6	possessive	_
+8	positions	position	NNS	_	9	nsubj	9:A1=PPT
+9	came	come	VBD	pb=come.01	0	root	_
+10	under fire	under fire	RB	p2=NNP	9	advmod	9:AM-MNR
+11	from	from	IN	_	9	prep	9:A2=EXT
+12	forces located	forces located	VBN	p2=NNP	11	pobj	_
+13	near	near	IN	_	12	prep	_
+14	the	the	DT	_	15	det	_
+15	villages	village	NNS	_	13	pobj	_
+16	of	of	IN	_	15	prep	_
+17	Sarijali	sarijali	NNP	_	16	pobj	_
+18	,	,	,	_	17	punct	_
+19	Kengerli	kengerli	NNP	_	17	conj	_
+20	,	,	,	_	19	punct	_
+21	Yusifjanli	yusifjanli	NNP	p2=FW	19	conj	_
+22	of	of	IN	_	21	prep	_
+23	 the	 the	NNP	p2=CD	24	nn	_
+24	Aghdam	aghdam	NNP	_	22	pobj	_
+25	and	and	CC	_	24	cc	_
+26	Goyarkh	goyarkh	NNP	_	24	conj	_
+27	of	of	IN	_	24	prep	_
+28	Terter	terter	NNP	p2=JJR	29	nn	_
+29	region	region	NN	_	27	pobj	_
+30	.	.	.	_	9	punct	_
+
+1	Azerbaijani	azerbaijani	JJ	p2=IN	2	amod	_
+2	soldiers	soldier	NNS	_	5	nsubjpass	5:A1=PPT
+3	were	be	VBD	_	5	auxpass	_
+4	also	also	RB	_	5	advmod	5:AM-DIS
+5	shot	shoot	VBN	p2=JJ|pb=shoot.02	0	root	_
+6	at from	at from	IN	p2=NN	5	prep	5:AM-PRD
+7	positions	position	NNS	_	6	pobj	8:A1=PPT
+8	located	locate	VBN	pb=locate.01	7	partmod	_
+9	in the	in the	IN	p2=PRP	8	prep	8:AM-LOC
+10	'	'	``	p2=POS	12	punct	_
+11	nameless	nameless	JJ	p2=JJR	12	amod	_
+12	heights	height	NNS	_	9	pobj	_
+13	'	'	''	_	12	punct	_
+14	of	of	IN	_	12	prep	_
+15	the	the	DT	_	19	det	_
+16	Khojavend	khojavend	NNP	p2=NN	19	nn	_
+17	and	and	CC	_	16	cc	_
+18	Fizuli	fizuli	NNP	p2=JJ	16	conj	_
+19	regions	region	NNS	_	14	pobj	_
+20	.	.	.	_	5	punct	_
+

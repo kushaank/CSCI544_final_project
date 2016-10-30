@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Sandra Grohman , 29 ,",plead.02,guilty to endangering,,Affirmative,"Sandra Grohman , 29 , plead guilty to endangering a child and was sentenced to 180 days in jail . "
+"Sandra Grohman , 29 ,",endanger.01,a child,,Affirmative,"Sandra Grohman , 29 , plead guilty to endangering a child and was sentenced to 180 days in jail . "
+"Sandra Grohman , 29",cause.01,infant to fall out of,,Affirmative,"HUMBLE , Texas -- A mother who was so drunk as she walked with her 1 - month - old baby that she caused the infant to fall out of a stroller near a busy street plead guilty Monday , according to Humble police . "
+"HUMBLE , Texas --",plead.02,guilty,,Affirmative,"HUMBLE , Texas -- A mother who was so drunk as she walked with her 1 - month - old baby that she caused the infant to fall out of a stroller near a busy street plead guilty Monday , according to Humble police . "
+"Sandra Grohman , 29 ,",plead.02,guilty to endangering,,Affirmative,"Sandra Grohman , 29 , plead guilty to endangering a child and was sentenced to 180 days in jail . "
+"Sandra Grohman , 29 ,",endanger.01,a child,,Affirmative,"Sandra Grohman , 29 , plead guilty to endangering a child and was sentenced to 180 days in jail . "
+A concerned citizen,call.01,authorities,,Affirmative,"A concerned citizen called authorities on April 22 , 2014 to report that the mother , who appeared to be intoxicated , was pushing a stroller in the 1200 block of S. Houston Ave . "
+A concerned citizen,report.01,", was pushing",,Affirmative,"A concerned citizen called authorities on April 22 , 2014 to report that the mother , who appeared to be intoxicated , was pushing a stroller in the 1200 block of S. Houston Ave . "
+"the mother ,",push.01,a stroller,in,Affirmative,"A concerned citizen called authorities on April 22 , 2014 to report that the mother , who appeared to be intoxicated , was pushing a stroller in the 1200 block of S. Houston Ave . "
+The witness,say.01,"mother had fallen over , causing",,Affirmative,"The witness said the mother had fallen over , causing the baby to fall out of the stroller . "
+the mother,cause.01,baby to fall out of,,Affirmative,"The witness said the mother had fallen over , causing the baby to fall out of the stroller . "
+they,determine.01,Grohman was intoxicated,,Affirmative,"When officers arrived , they determined Grohman was intoxicated . "
+They,have.03,the baby checked out by EMS,,Affirmative,They had the baby checked out by EMS at the scene . 
+by EMS,check.05,the baby checked out by EMS,,Affirmative,They had the baby checked out by EMS at the scene . 

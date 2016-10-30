@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Alaska State Troopers,say.01,he confessed,,Affirmative,"An Anchorage man has been charged in a Palmer man 's death , after Alaska State Troopers say he confessed Sunday evening to killing him with a machete . "
+An Anchorage man,confess.01,Sunday evening,,Affirmative,"An Anchorage man has been charged in a Palmer man 's death , after Alaska State Troopers say he confessed Sunday evening to killing him with a machete . "
+An Anchorage man,kill.01,An Anchorage man,with,Affirmative,"An Anchorage man has been charged in a Palmer man 's death , after Alaska State Troopers say he confessed Sunday evening to killing him with a machete . "
+Garcia,name.01,him,as S.G.,Affirmative,"In a criminal complaint , written before Garcia was positively identified and naming him as S.G. , troopers say Cottam walked into the Anchorage Jail at about 5 p.m. Sunday to make his startling confession . "
+troopers,say.01,Cottam walked into,,Affirmative,"In a criminal complaint , written before Garcia was positively identified and naming him as S.G. , troopers say Cottam walked into the Anchorage Jail at about 5 p.m. Sunday to make his startling confession . "
+Palmer troopers,respond.01,to,,Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+Palmer troopers,see.01,his body,,Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+he,tell.01,that he had just killed someone and hacked them up with,( an officer ),Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+he,kill.01,someone,,Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+he,hack.01,them,,Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+officials,write.01,troopers responded to,,Affirmative,"Palmer troopers responded to Garcia 's home and saw his body , making a welfare check and confirming his death at about 5:45 p.m. Cottam appeared upset and he told ( an officer ) that he had just killed someone and hacked them up with a machete , officials wrote . "
+23-year-old Thomas Cottam Jr.,tell.01,began,investigators,Affirmative,Cottam told investigators the events leading up to the incident began when the men met less than a week ago . 
+the men,meet.02,less than,,Affirmative,Cottam told investigators the events leading up to the incident began when the men met less than a week ago . 
+23-year-old Thomas Cottam Jr.,state.01,he was hitchhiking,,Affirmative,"Cottam stated approximately six days ago he was hitchhiking and was picked up by S.G. , officials wrote . "
+officials,write.01,Cottam stated,,Affirmative,"Cottam stated approximately six days ago he was hitchhiking and was picked up by S.G. , officials wrote . "
+81-year-old Steven Garcia 's,say.01,he had,,Affirmative,"After dropping Cottam off , Garcia said he had a farm , with work and possibly a place to stay -- an offer Cottam took him up on . "
+23-year-old Thomas Cottam Jr.,have.03,a farm,,Affirmative,"After dropping Cottam off , Garcia said he had a farm , with work and possibly a place to stay -- an offer Cottam took him up on . "
+23-year-old Thomas Cottam Jr.,take.01,him,on,Affirmative,"After dropping Cottam off , Garcia said he had a farm , with work and possibly a place to stay -- an offer Cottam took him up on . "
+by Garcia,attack.01,23-year-old Thomas Cottam Jr.,,Affirmative,"According to Cottam , he was attacked by Garcia and acted in self - defense . "
+23-year-old Thomas Cottam Jr.,tell.01,that he had taken,investigators,Affirmative,"Cottam told investigators that he had taken Garcia 's wallet , containing $ 32 that he thought he was owed , as well as Garcia 's car and his dog . "
+23-year-old Thomas Cottam Jr.,take.01,wallet,,Affirmative,"Cottam told investigators that he had taken Garcia 's wallet , containing $ 32 that he thought he was owed , as well as Garcia 's car and his dog . "
+23-year-old Thomas Cottam Jr.,contain.01,$ 32,,Affirmative,"Cottam told investigators that he had taken Garcia 's wallet , containing $ 32 that he thought he was owed , as well as Garcia 's car and his dog . "
+23-year-old Thomas Cottam Jr.,think.01,"he was owed ,",,Affirmative,"Cottam told investigators that he had taken Garcia 's wallet , containing $ 32 that he thought he was owed , as well as Garcia 's car and his dog . "
+He,plan.01,to run away to Kodiak,,Affirmative,"He had planned to run away to Kodiak , but when he told a friend what he had done , the friend recommended Cottam turn himself in . "
+he,tell.01,what he had done,a friend,Affirmative,"He had planned to run away to Kodiak , but when he told a friend what he had done , the friend recommended Cottam turn himself in . "
+the friend,recommend.01,Cottam turn himself in,,Affirmative,"He had planned to run away to Kodiak , but when he told a friend what he had done , the friend recommended Cottam turn himself in . "
+23-year-old Thomas Cottam Jr.,turn.06,himself,,Affirmative,"He had planned to run away to Kodiak , but when he told a friend what he had done , the friend recommended Cottam turn himself in . "
+The two,drive.01,to,,Affirmative,"The two drove to the Anchorage Jail in Garcia 's car Sunday night , where Anchorage police reported that Cottam did n't have any obvious signs of blood on him . "
+Anchorage police,report.01,that Cottam did n't have,,Affirmative,"The two drove to the Anchorage Jail in Garcia 's car Sunday night , where Anchorage police reported that Cottam did n't have any obvious signs of blood on him . "
+Cottam,have.03,any obvious signs of blood,,Affirmative,"The two drove to the Anchorage Jail in Garcia 's car Sunday night , where Anchorage police reported that Cottam did n't have any obvious signs of blood on him . "
+Troopers,obtain.01,a warrant,,Affirmative,Troopers obtained a warrant to search Cottam 's body and verify that observation . 
+police,interview.01,friend,,Affirmative,"When police interviewed Cottam 's friend , he said Cottam had told him much the same account of the incident . "
+he,say.01,Cottam had told him much,,Affirmative,"When police interviewed Cottam 's friend , he said Cottam had told him much the same account of the incident . "
+Cottam,tell.01,much,him,Affirmative,"When police interviewed Cottam 's friend , he said Cottam had told him much the same account of the incident . "
+troopers,obtain.01,a search warrant for,,Affirmative,"When troopers obtained a search warrant for Garcia 's home , in the Old Glenn Highway / Knik River area , they found both his body and a pair of bloodied weapons - a machete and a butterfly knife . "
+they,find.01,both his body and,,Affirmative,"When troopers obtained a search warrant for Garcia 's home , in the Old Glenn Highway / Knik River area , they found both his body and a pair of bloodied weapons - a machete and a butterfly knife . "
+S.G.,lie.02,face - down,near,Affirmative,"'s house and observed S.G. to be lying face - down with his hands under his body near his chin , officials wrote . "
+officials,write.01,house and observed S.G.,,Affirmative,"'s house and observed S.G. to be lying face - down with his hands under his body near his chin , officials wrote . "
+spokesperson Beth Ipsen,say.01,investigators have worked overnight Sunday and all through Monday,,Affirmative,AST spokesperson Beth Ipsen says investigators have worked overnight Sunday and all through Monday on the case . 
+investigators,work.01,on,,Affirmative,AST spokesperson Beth Ipsen says investigators have worked overnight Sunday and all through Monday on the case . 
+We,have.03,enough evidence,,Affirmative,"We do have enough evidence , definitely , to charge ( Cottam ) with murder , but then we have to back that up , Ipsen said . "
+we,back.04,that,,Affirmative,"We do have enough evidence , definitely , to charge ( Cottam ) with murder , but then we have to back that up , Ipsen said . "
+Ipsen,say.01,We do have,,Affirmative,"We do have enough evidence , definitely , to charge ( Cottam ) with murder , but then we have to back that up , Ipsen said . "
+We,gather.01,evidence,,Affirmative,We still have to gather evidence . 
+by,supply.01,No email address,,Affirmative,No email address was supplied by . 
+you,have.03,subscription offers sent,,Affirmative,Please confirm or modify the email address to which you will have subscription offers sent . 

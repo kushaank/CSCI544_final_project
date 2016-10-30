@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Fisherman,label.01,turtle,real old man of,Affirmative,Catch of the day : Fisherman labelled turtle ' real old man of the sea ' A Chinese fisherman gave up the chance to earn a fortune from restaurants when he released a 200 lb turtle back into the ocean . 
+A Chinese fisherman,give.01,the chance,,Affirmative,Catch of the day : Fisherman labelled turtle ' real old man of the sea ' A Chinese fisherman gave up the chance to earn a fortune from restaurants when he released a 200 lb turtle back into the ocean . 
+Fisherman,release.01,lb turtle,,Affirmative,Catch of the day : Fisherman labelled turtle ' real old man of the sea ' A Chinese fisherman gave up the chance to earn a fortune from restaurants when he released a 200 lb turtle back into the ocean . 
+Cai Tu,allow.01,it to swim free,,Affirmative,"In a land where many unlikely animals are fair game for restaurateurs , Cai Tu , 45 , was so overawed by the size of the animal that he allowed it to swim free once more . "
+Cai Tu,say.01,taught me,,Affirmative,"He said : My dad , who was a fisherman , taught me you can tell their age from the shell , and based on that I estimated the turtle was over 100 years old . "
+"My dad ,",teach.01,you can tell,me,Affirmative,"He said : My dad , who was a fisherman , taught me you can tell their age from the shell , and based on that I estimated the turtle was over 100 years old . "
+you,tell.01,from,their age,Affirmative,"He said : My dad , who was a fisherman , taught me you can tell their age from the shell , and based on that I estimated the turtle was over 100 years old . "
+Cai Tu,estimate.01,turtle was,,Affirmative,"He said : My dad , who was a fisherman , taught me you can tell their age from the shell , and based on that I estimated the turtle was over 100 years old . "
+his fellow Menyuwei villagers,brand.01,a fool for letting,him,Affirmative,"Amid the struggle to eke out an existence , his fellow Menyuwei villagers branded him a fool for letting such a valuable delicacy get away . "
+Cai Tu,insist.01,Sometimes you have,,Affirmative,But Cai insisted : Sometimes you have to do the right thing . 
+you,do.02,the right thing,,Affirmative,But Cai insisted : Sometimes you have to do the right thing . 
+Cai Tu,look.01,into,,Affirmative,"I looked into that turtle 's eye and saw something that was alive before my grandfather was born , and I did n't want to be the end of that journey . "
+Cai Tu,see.01,something,,Affirmative,"I looked into that turtle 's eye and saw something that was alive before my grandfather was born , and I did n't want to be the end of that journey . "
+Cai Tu,want.01,to be,,Affirmative,"I looked into that turtle 's eye and saw something that was alive before my grandfather was born , and I did n't want to be the end of that journey . "
+Cai Tu,want.01,to give him,,Affirmative,I wanted to give him another chance . 
+Cai Tu,give.01,another chance,him,Affirmative,I wanted to give him another chance . 
+China,have.03,a taste for turtle,,Affirmative,"China has a taste for turtle - it is made into soup , their eggs are eaten and even their bones are ground up for use in Chinese medicine to promote longevity . "
+Fish,market.01,the length and breadth of China,,Affirmative,Fish markets the length and breadth of China are filled with live specimens caught fresh that day . 
+Cai Tu,earn.01,the equivalent of,,Affirmative,Cai could have earned the equivalent of £500 - two months ' wages - for the whopper he nicknamed The Hulk if he had put it up for sale to restaurants . 
+Cai Tu,nickname.01,The Hulk,,Affirmative,Cai could have earned the equivalent of £500 - two months ' wages - for the whopper he nicknamed The Hulk if he had put it up for sale to restaurants . 
+Cai Tu,put.01,The Hulk,for sale to restaurants,Affirmative,Cai could have earned the equivalent of £500 - two months ' wages - for the whopper he nicknamed The Hulk if he had put it up for sale to restaurants . 
+Cai Tu,add.01,It was obviously,,Affirmative,But he added : It was obviously very old and I figured it had earned its right to enjoy the rest of its days in the deep . 
+Cai Tu,figure.01,it had earned,,Affirmative,But he added : It was obviously very old and I figured it had earned its right to enjoy the rest of its days in the deep . 
+the equivalent of # 500 - two months ' wages -,earn.01,its right,,Affirmative,But he added : It was obviously very old and I figured it had earned its right to enjoy the rest of its days in the deep . 
+Cai Tu,decide.01,there,,Affirmative,He was a real old man of the sea and so I decided there and then that was where he belonged . 
+others,say.01,they respect me for,,Affirmative,"Some people have laughed at me , others have said they respect me for what I did . "
+Some people,respect.01,He,for,Affirmative,"Some people have laughed at me , others have said they respect me for what I did . "
+He,hope.01,Hulk does n't get entangled in,,Affirmative,I hope The Hulk does n't get entangled in anyone else 's nets any time soon . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+others,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+others,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+others,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+others,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+others,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+others,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 

@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+vision algorithms,find.01,a similar looking kitty in,,Affirmative,"Upload a photo of him or your favorite Lolcat into PetMatch , and the app 's machine vision algorithms will find a similar looking kitty in your area that you can adopt . "
+you,adopt.01,a similar looking kitty in,,Affirmative,"Upload a photo of him or your favorite Lolcat into PetMatch , and the app 's machine vision algorithms will find a similar looking kitty in your area that you can adopt . "
+dozen PhDs,work.01,to teach computers,,Affirmative,"It 's the first consumer app from Superfish , a $ 20 million - funded startup with a dozen PhDs working to teach computers to see like humans . "
+dozen PhDs,teach.01,to see like humans,computers,Affirmative,"It 's the first consumer app from Superfish , a $ 20 million - funded startup with a dozen PhDs working to teach computers to see like humans . "
+Superfish,do.02,a geometric analysis of,,Affirmative,"Superfish then does a geometric analysis of the image using its machine vision technology to look at the distance between the animal 's eyes , the angle of its mouth , and the shape of its face as a whole . "
+Superfish,use.01,vision technology,to look at,Affirmative,"Superfish then does a geometric analysis of the image using its machine vision technology to look at the distance between the animal 's eyes , the angle of its mouth , and the shape of its face as a whole . "
+PetMatch,do.02,"this same analysis on images from PetFinder ,",,Affirmative,"PetMatch does this same analysis on images from PetFinder , a service that aggregates data about adoptable pets from shelters and rescue organizations . "
+a service,aggregate.01,data about,,Affirmative,"PetMatch does this same analysis on images from PetFinder , a service that aggregates data about adoptable pets from shelters and rescue organizations . "
+the app 's,present.01,matches between,,Affirmative,"The app then presents matches between your image and similar - looking pets around the country , and the best matches it can find that are nearby . "
+the app 's,find.01,that are nearby,,Affirmative,"The app then presents matches between your image and similar - looking pets around the country , and the best matches it can find that are nearby . "
+you,tap.02,to call or email,,Affirmative,See one you like and you can tap through to call or email the shelter and adopt the little furball . 
+you,email.01,the shelter,,Affirmative,See one you like and you can tap through to call or email the shelter and adopt the little furball . 
+you,adopt.01,the little furball,,Affirmative,See one you like and you can tap through to call or email the shelter and adopt the little furball . 
+you,employ.01,PhDs,from Stanford and MIT,Affirmative,"Wait , so they 're spending $ 20 million and employing PhDs from Stanford and MIT just to find me a puppy ? "
+you,find.01,me a puppy,,Affirmative,"Wait , so they 're spending $ 20 million and employing PhDs from Stanford and MIT just to find me a puppy ? "
+based Superfish,work.01,on,,Affirmative,The Israel and Palo Alto - based Superfish has been working on machine vision since 2006 thanks to money raised from Draper Fisher Jurvetson  and Vintage Investment Partners . 
+ Superfish,offer.01,an ecommerce browser extension,,Affirmative, Superfish offers an ecommerce browser extension and iOS app that can find similar products to one you 're looking at . 
+iOS,app.01,that can find,,Affirmative, Superfish offers an ecommerce browser extension and iOS app that can find similar products to one you 're looking at . 
+that,find.01,similar products,,Affirmative, Superfish offers an ecommerce browser extension and iOS app that can find similar products to one you 're looking at . 
+you,look.01,at,,Affirmative, Superfish offers an ecommerce browser extension and iOS app that can find similar products to one you 're looking at . 
+The apps,reach.01,million users,,Affirmative,The apps now reach 100 million users a month . 
+100 million,generate.01,the affiliate fees,,Affirmative,"Thanks to the affiliate fees it generates , Superfish has been profitable for years . "
+100 million,use.01,standalone apps,to prove,Affirmative,But now it 's using standalone apps to prove its technology works and get the word out . 
+100 million,prove.01,its technology works,,Affirmative,But now it 's using standalone apps to prove its technology works and get the word out . 
+Superfish,plan.01,to launch,,Affirmative," Beyond pets , Superfish plans to launch visual search apps for jewelry and furniture . "
+Superfish,launch.01,visual search apps,,Affirmative," Beyond pets , Superfish plans to launch visual search apps for jewelry and furniture . "
+Slyce,raise.02,$ 10.5 million,,Affirmative,"Visual search is becoming a hot startup space , with Slyce raising $ 10.5 million this year  and  Pinterest buying VisualGraph . "
+ and  Pinterest,buy.01,VisualGraph,,Affirmative,"Visual search is becoming a hot startup space , with Slyce raising $ 10.5 million this year  and  Pinterest buying VisualGraph . "
+I,say.01,I 'd be surprised,,Affirmative,I ca n't say I 'd be surprised if Superfish was acquired by one of tech giants . 
+by one of,acquire.01,Superfish,,Affirmative,I ca n't say I 'd be surprised if Superfish was acquired by one of tech giants . 
+Adi Pinhas,tell.01,goal is,me,Affirmative,Superfish co-founder and CEO Adi Pinhas tells me his goal is to change the way people use the camera in their mobile . 
+people,use.01,the camera,,Affirmative,Superfish co-founder and CEO Adi Pinhas tells me his goal is to change the way people use the camera in their mobile . 
+it,gather.01,dust,,Affirmative,"Rather than taking a photo and then it gathering dust in your camera roll , Superfish wants to turn your lens into the eye of an all - knowing robot that can tell you what you might want to see , do , or buy next . "
+Superfish,want.01,to turn,,Affirmative,"Rather than taking a photo and then it gathering dust in your camera roll , Superfish wants to turn your lens into the eye of an all - knowing robot that can tell you what you might want to see , do , or buy next . "
+Superfish,turn.02,your lens,into,Affirmative,"Rather than taking a photo and then it gathering dust in your camera roll , Superfish wants to turn your lens into the eye of an all - knowing robot that can tell you what you might want to see , do , or buy next . "
+knowing robot,tell.01,you might want,you,Affirmative,"Rather than taking a photo and then it gathering dust in your camera roll , Superfish wants to turn your lens into the eye of an all - knowing robot that can tell you what you might want to see , do , or buy next . "
+you,want.01,"to see , do , or buy next",,Affirmative,"Rather than taking a photo and then it gathering dust in your camera roll , Superfish wants to turn your lens into the eye of an all - knowing robot that can tell you what you might want to see , do , or buy next . "
+computer vision,make.02,"world a cuter ,",,Affirmative,"That might sound creepy , but PetMatch is a perfect example that computer vision can actually make the world a cuter , cuddlier place . "

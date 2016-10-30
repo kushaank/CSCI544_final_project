@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Hays Medical Center,introduce.01,"Robotic Surgery System ,",,Affirmative,"Hays Medical Center recently introduced the da Vinci Robotic Surgery System , which uses a minimally invasive high - tech control module to complete procedures . "
+"Robotic Surgery System ,",use.01,control module,to,Affirmative,"Hays Medical Center recently introduced the da Vinci Robotic Surgery System , which uses a minimally invasive high - tech control module to complete procedures . "
+"Dr. Larry Watts ,",say.01,surgery leads to,,Affirmative,"Dr. Larry Watts , chief medical officer at HaysMed , said the minimally invasive surgery leads to quicker recovery times and less pain due to smaller incisions . "
+you,make.02,a big incision,,Affirmative,"Typically when you have to make a big incision on an ill person , it might actually result in faulty healing , Watts said . "
+Larry Watts,say.01,", it might actually result in",,Affirmative,"Typically when you have to make a big incision on an ill person , it might actually result in faulty healing , Watts said . "
+people,have.03,a better opportunity,,Affirmative,"By making smaller incisions , people will have a better opportunity to heal and recover faster . "
+HaysMed,use.01,a laparoscope for,,Affirmative,HaysMed is transitioning from using a laparoscope for the majority of procedures . 
+Laparoscopic surgery,use.01,small incisions,to insert,Affirmative,Laparoscopic surgery also is minimally invasive and uses small incisions to insert a telescopic rod lens system that usually is connected to a camera . 
+Larry Watts,say.01,surgery was,,Affirmative,"Laparoscopic surgery was a stepping stone from open surgery to robotic surgery , Watts said . "
+Robotic surgery,use.01,small tools attached to,,Affirmative,Robotic surgery uses small tools attached to a robotic arm . 
+The surgeon,control.01,a robotic arm,,Affirmative,The surgeon controls the robotic arm with a computer . 
+Larry Watts,say.01,were not,,Affirmative,"The movements from the laparoscope were not wrist - like , Watts said . "
+the one who was operating,mimic.01,our normal motion,,Affirmative,The robot mimics our normal motion . 
+"100,000 procedures using",use.01,robotic technology,,Affirmative,"According to the Food and Drug Administration , 50 out of 100,000 procedures using robotic technology in 2013 resulted in an injury or death . "
+The FDA,issue.01,a warning to,,Affirmative,"The FDA issued a warning to the company , asking for additional corrective actions . "
+The FDA,ask.02,for,,Affirmative,"The FDA issued a warning to the company , asking for additional corrective actions . "
+Larry Watts,say.01,There has been,,Affirmative,"There has been one recall in the past where there was a slight delay between the motion of the robot hand and the surgeon , Watts said . "
+the user,use.01,one recall in the past,,Affirmative,"With any new technology , it 's only as good as the user who uses it . "
+we,hear.01,about,,Affirmative,"When we hear about an injury that occurs as a result of the technology , yes , the robot was the one who was operating , but it was still the surgeon making the decision . "
+the one who was operating,take.12,as,,Affirmative,"This is the way most surgeons are being trained now , so over time the robot will take over as surgical preference , Watts said . "
+Larry Watts,say.01,robot will take over as,,Affirmative,"This is the way most surgeons are being trained now , so over time the robot will take over as surgical preference , Watts said . "
+newer surgeons,recruit.01,new surgeons,,Affirmative,We would n't be able to recruit new surgeons without purchasing this technology . 
+a laparoscope,take.10,months,,Affirmative,"The laparoscope sometimes took months to learn , Watts said , and robotics can be learned in weeks or a couple months . "
+Larry Watts,say.01,and robotics can be learned in weeks or,,Affirmative,"The laparoscope sometimes took months to learn , Watts said , and robotics can be learned in weeks or a couple months . "
+a laparoscope,simulate.01,the normal movements of,,Affirmative,"Because it simulates the normal movements of your hands , you learn the technology much faster . "
+your,learn.01,The technology,,Affirmative,"Because it simulates the normal movements of your hands , you learn the technology much faster . "
+Vinci Surgical System,ensure.01,residents would n't have,,Affirmative,"HaysMed is in the process of bringing in new technology in order to make health care more accessible in western Kansas , and the da Vinci Surgical System was necessary to ensure residents would n't have to travel far to receive surgeries . "
+residents,travel.01,far,,Affirmative,"HaysMed is in the process of bringing in new technology in order to make health care more accessible in western Kansas , and the da Vinci Surgical System was necessary to ensure residents would n't have to travel far to receive surgeries . "
+residents,receive.01,general surgeries,,Affirmative,"HaysMed is in the process of bringing in new technology in order to make health care more accessible in western Kansas , and the da Vinci Surgical System was necessary to ensure residents would n't have to travel far to receive surgeries . "
+residents,hope.01,to do by adding,,Affirmative,"What we hope to do by adding the robot is similar to a lot of things we do here , Watts said . "
+residents,add.02,the one who was operating,,Affirmative,"What we hope to do by adding the robot is similar to a lot of things we do here , Watts said . "
+residents,do.02,things,,Affirmative,"What we hope to do by adding the robot is similar to a lot of things we do here , Watts said . "
+Larry Watts,say.01,is similar to,,Affirmative,"What we hope to do by adding the robot is similar to a lot of things we do here , Watts said . "
+residents,add.02,one more technology,,Affirmative,It 's just one more technology we 're adding so people do n't have to leave western Kansas for their health issues . 
+people,leave.02,western Kansas,for,Affirmative,It 's just one more technology we 're adding so people do n't have to leave western Kansas for their health issues . 

@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+social network,work.01,on,,Affirmative,Zuckerberg 's social network is reportedly working on a Snapchat - like video messaging service called Slingshot that will live outside of Facebook 's Messenger app . 
+Others,say.01,app may never see,,Affirmative,"Others , however , say the app may never see the light of day . "
+Facebook 's Messenger app,see.01,the light of day,,Affirmative,"Others , however , say the app may never see the light of day . "
+Slingshot that will live outside of Facebook 's Messenger app,let.01,users long press,,Affirmative,Slingshot is said to function by letting users long press a person 's name in their contact list and selecting the video they want to send . 
+users,press.01,name,,Affirmative,Slingshot is said to function by letting users long press a person 's name in their contact list and selecting the video they want to send . 
+Others,want.01,to send,,Affirmative,Slingshot is said to function by letting users long press a person 's name in their contact list and selecting the video they want to send . 
+Others,send.01,the video,,Affirmative,Slingshot is said to function by letting users long press a person 's name in their contact list and selecting the video they want to send . 
+Facebook 's,attempt.01,to buyout Snapchat for,,Affirmative,"Initially , Facebook attempted to buyout Snapchat for $ 1 billion , but was turned down by the company 's creators Evan Spiegel and Bobby Murphy . "
+Facebook 's,buyout.01,Snapchat,,Affirmative,"Initially , Facebook attempted to buyout Snapchat for $ 1 billion , but was turned down by the company 's creators Evan Spiegel and Bobby Murphy . "
+by,turn.05,Facebook 's,,Affirmative,"Initially , Facebook attempted to buyout Snapchat for $ 1 billion , but was turned down by the company 's creators Evan Spiegel and Bobby Murphy . "
+crew,work.01,on ways,,Affirmative,"Since then , Zuckerberg 's crew has been working on ways to duplicate the ephemeral messaging service with apps of its own . "
+crew,duplicate.01,the ephemeral messaging service with apps of,,Affirmative,"Since then , Zuckerberg 's crew has been working on ways to duplicate the ephemeral messaging service with apps of its own . "
+"latest update ,",bring.01,video,,Affirmative,"Snapchat 's latest update , which brought video messaging to the service , was wildly popular among younger users , a segment Facebook wants to hold on to . "
+Facebook 's,want.01,to hold on,,Affirmative,"Snapchat 's latest update , which brought video messaging to the service , was wildly popular among younger users , a segment Facebook wants to hold on to . "
+Facebook 's,hold.06,a segment,,Affirmative,"Snapchat 's latest update , which brought video messaging to the service , was wildly popular among younger users , a segment Facebook wants to hold on to . "
+Slingshot that will live outside of Facebook 's Messenger app,do.02,Slingshot that will live outside of Facebook 's Messenger app,,Affirmative,Will Slingshot be able to do that when and if it is released ? 

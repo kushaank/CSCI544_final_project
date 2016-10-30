@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Lithuania,ban.01,drinks,,Affirmative,Lithuania has banned drinks that contain 150 milligrams of caffeine per litre from being sold to minors . 
+drinks,contain.01,150 milligrams of caffeine per litre,,Affirmative,Lithuania has banned drinks that contain 150 milligrams of caffeine per litre from being sold to minors . 
+Street Journal,evaluate.01,move could have,,Affirmative,The Wall Street Journal evaluates that the move could have a large impact on industry sales . 
+the move,have.03,a large impact on,,Affirmative,The Wall Street Journal evaluates that the move could have a large impact on industry sales . 
+Authority study,find.01,that adolescents are,,Affirmative,"A European Food Safety Authority study found in 2013 that adolescents are far more likely to consume energy drinks than adults , with 68 percent of Europeans aged 10 to 18 years old drinking them . "
+adolescents,consume.01,energy drinks than adults,,Affirmative,"A European Food Safety Authority study found in 2013 that adolescents are far more likely to consume energy drinks than adults , with 68 percent of Europeans aged 10 to 18 years old drinking them . "
+68 percent of Europeans,drink.01,adolescents,,Affirmative,"A European Food Safety Authority study found in 2013 that adolescents are far more likely to consume energy drinks than adults , with 68 percent of Europeans aged 10 to 18 years old drinking them . "
+drink sales,reach.01,billion euros,,Affirmative,"The energy drink market has quadrupled over the past 10 years , with global energy - drink sales reaching more than 19 billion euros in 2013 . "
+firm Red Bull,have.03,percent global share,,Affirmative,"Austrian firm Red Bull has a 31.5 percent global share , while its American rival Monster has 14 percent , Time and the Wall Street Journal Report . "
+its American rival Monster,have.03,"14 percent , Time and",,Affirmative,"Austrian firm Red Bull has a 31.5 percent global share , while its American rival Monster has 14 percent , Time and the Wall Street Journal Report . "

@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+100 bills,win.01,a bet,,Affirmative,"Denver Broncos wide receiver Wes Welker was one of the thousands of people to attend the Kentucky Derby at Churchill Downs this year , and was seen handing out $ 100 bills to strangers after winning a bet . "
+wide receiver Wes Welker,send.02,a friend,to collect,Affirmative,Welker sent a friend to collect his winnings . 
+a friend,collect.01,his winnings,,Affirmative,Welker sent a friend to collect his winnings . 
+wide receiver Wes Welker,receive.01,"$ 42,295.35",,Affirmative,"He was supposed to receive $ 42,295.35 but instead was given $ 57,193.90 ; that is a difference of $ 14,000 . "
+many people,think.01,he should return,,Affirmative,"Even though it was not Welker 's fault , many people think he should return the money . "
+wide receiver Wes Welker,return.02,the money,,Affirmative,"Even though it was not Welker 's fault , many people think he should return the money . "
+Kentucky administrative regulations,state.01,track is responsible and,,Affirmative,"The regulations state that if there is an overpayment , the track is responsible and the patron is not required to repay the money . "
+the patron,repay.01,the money,,Affirmative,"The regulations state that if there is an overpayment , the track is responsible and the patron is not required to repay the money . "
+wide receiver Wes Welker,reveal.01,that he did not realize,,Affirmative,Welker revealed that he did not realize that he had been overpaid . 
+wide receiver Wes Welker,realize.01,that he had been overpaid,,Affirmative,Welker revealed that he did not realize that he had been overpaid . 
+wide receiver Wes Welker,say.01,he could have been underpaid and,,Affirmative,He said he could have been underpaid and he never would have known the difference . 
+wide receiver Wes Welker,know.01,one,,Affirmative,He said he could have been underpaid and he never would have known the difference . 
+wide receiver Wes Welker,say.01,that he handed them out,,Affirmative,"And , as for the $ 100 bills , he said that he handed them out rather than signing hundreds of autographs . "
+wide receiver Wes Welker,hand.02,them,,Affirmative,"And , as for the $ 100 bills , he said that he handed them out rather than signing hundreds of autographs . "
+wide receiver Wes Welker,sign.02,hundreds of autographs,,Affirmative,"And , as for the $ 100 bills , he said that he handed them out rather than signing hundreds of autographs . "

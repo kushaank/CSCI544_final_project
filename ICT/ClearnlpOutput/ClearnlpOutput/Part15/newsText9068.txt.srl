@@ -1,0 +1,55 @@
+1	By	by	IN	_	23	prep	_
+2	Paula	paula	NNP	_	3	nn	_
+3	Quam	quam	NNP	_	1	pobj	_
+4	on	on	IN	_	23	prep	23:AM-TMP
+5	May	may	NNP	_	4	pobj	_
+6	19	0	CD	_	5	num	_
+7	,	,	,	_	5	punct	_
+8	2014	0	CD	_	5	num	_
+9	at	at	IN	_	5	prep	_
+10	8:12	0	CD	_	11	num	_
+11	a.m.	a.m.	NN	_	23	nsubj	23:A1=PPT
+12	Minnesota	minnesota	NNP	_	15	nn	_
+13	State	state	NNP	_	15	nn	_
+14	Patrol	patrol	NNP	_	15	nn	_
+15	Officer	officer	NNP	_	17	nn	_
+16	Tim	tim	NNP	_	17	nn	_
+17	Clements	clements	NNP	_	19	poss	_
+18	's	's	POS	_	17	possessive	_
+19	love	love	NN	_	11	appos	_
+20	of	of	IN	_	19	prep	_
+21	law	law	NN	_	22	nn	_
+22	enforcement	enforcement	NN	_	20	pobj	_
+23	started	start	VBD	pb=start.01	0	root	_
+24	back	back	RB	_	23	advmod	_
+25	when	when	WRB	_	27	advmod	27:R-AM-TMP
+26	he	he	PRP	_	27	nsubj	27:A1=PPT
+27	was	be	VBD	pb=be.01	23	advcl	23:AM-TMP
+28	only	only	RB	_	29	advmod	_
+29	three	#crd#	CD	_	32	num	_
+30	or	or	CC	_	29	cc	_
+31	four	#crd#	CD	_	29	conj	_
+32	years	year	NNS	_	33	npadvmod	_
+33	old	old	JJ	_	27	acomp	27:A2=PRD
+34	.	.	.	_	23	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

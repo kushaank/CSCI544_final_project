@@ -1,0 +1,7 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+one of,accept.01,the method of payment,,Affirmative,"Silver Meikar , an independent candidate for European Parliament , stopped in for lunch and a photo op on Sunday at a hole-in-the-wall manga - themed Tallinn eatery that is one of the city 's restaurants that accepts the method of payment . "
+by,use.01,the one used by,,Affirmative,His party 's €78 check at Sushi Cat was paid by using two smartphones using a process not dissimilar to the one used by card payment terminals . 
+The waitress,enter.01,the amount,,Affirmative,"The waitress entered the amount to be paid on her phone , which then calculated the price in bitcoins . "
+"her phone ,",calculate.01,the price,in bitcoins,Affirmative,"The waitress entered the amount to be paid on her phone , which then calculated the price in bitcoins . "
+The waitress,receive.01,a QR code,,Affirmative,The waitress then received a QR code on her phone . 
+Meikar,scan.01,that QR code,,Affirmative,"Meikar scanned that QR code with his own phone , and the payment was sent . "

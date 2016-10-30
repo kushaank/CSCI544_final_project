@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"The fungus , known as",attack.01,leaves,,Affirmative,"The fungus , known as coffee rust , attacks the coffee plant 's leaves with brown and red spots that look like rust . "
+spots,look.02,like rust,,Affirmative,"The fungus , known as coffee rust , attacks the coffee plant 's leaves with brown and red spots that look like rust . "
+a fungus,force.01,"the coffee plant , coffea ,",to produce,Affirmative,"The fungus forces the coffee plant , coffea , to produce less fruit which encases the green coffee bean . "
+"the coffee plant , coffea ,",produce.01,less fruit,,Affirmative,"The fungus forces the coffee plant , coffea , to produce less fruit which encases the green coffee bean . "
+less fruit,encase.01,the green coffee bean,,Affirmative,"The fungus forces the coffee plant , coffea , to produce less fruit which encases the green coffee bean . "
+coffee rust,threaten.01,"life , production will drop and",,Affirmative,"Roasted coffee is still safe to drink , there are no health problems from the fungus but as the rust threatens ' plant life , production will drop and smaller coffee farms could dramatically start to lose business . "
+smaller coffee farms,start.01,to lose business,,Affirmative,"Roasted coffee is still safe to drink , there are no health problems from the fungus but as the rust threatens ' plant life , production will drop and smaller coffee farms could dramatically start to lose business . "
+smaller coffee farms,lose.02,business,,Affirmative,"Roasted coffee is still safe to drink , there are no health problems from the fungus but as the rust threatens ' plant life , production will drop and smaller coffee farms could dramatically start to lose business . "
+Rohs Street Cafe,specialize.01,in,,Affirmative,Rohs Street Cafe specializes in Central American coffee . 
+It,source.01,"its beans from Guatemala , one of",,Affirmative,"It sources its beans from Guatemala , one of the areas hardest hit by the coffee fungus . "
+We,love.01,American coffee,,Affirmative,"We love Central American coffee around here so we want to have it , but it 's ( the fungus ) really driving the prices up a lot , Keaton Neely said . "
+We,want.01,to have it,,Affirmative,"We love Central American coffee around here so we want to have it , but it 's ( the fungus ) really driving the prices up a lot , Keaton Neely said . "
+We,have.03,here,,Affirmative,"We love Central American coffee around here so we want to have it , but it 's ( the fungus ) really driving the prices up a lot , Keaton Neely said . "
+( the fungus ),drive.02,the prices,up,Affirmative,"We love Central American coffee around here so we want to have it , but it 's ( the fungus ) really driving the prices up a lot , Keaton Neely said . "
+Keaton Neely,say.01,We love,,Affirmative,"We love Central American coffee around here so we want to have it , but it 's ( the fungus ) really driving the prices up a lot , Keaton Neely said . "
+Rohs ',charge.01,$ 2,,Affirmative,"Rohs ' currently charges $ 2 for a cup of coffee and if the problem is n't taken care of sooner than later , it might have to increase the price . "
+the problem,increase.01,the price,,Affirmative,"Rohs ' currently charges $ 2 for a cup of coffee and if the problem is n't taken care of sooner than later , it might have to increase the price . "
+Healthy,roast.01,coffee beans for,,Affirmative,Healthy roasts coffee beans for Rohs Street Cafe . 
+It,have.03,three bags left of,,Affirmative,It only has three bags left of green coffee beans from the two farms it imports coffee from in Guatemala . 
+it,import.01,coffee,from in Guatemala,Affirmative,It only has three bags left of green coffee beans from the two farms it imports coffee from in Guatemala . 
+Les Stoneham,travel.01,to Guatemala,,Affirmative,Co-owner and roaster Les Stoneham traveled to Guatemala to work with the small family - owned farms impacted by this coffee fungus . 
+by,impact.01,owned farms impacted by,,Affirmative,Co-owner and roaster Les Stoneham traveled to Guatemala to work with the small family - owned farms impacted by this coffee fungus . 
+we,see.01,the big problems,,Affirmative,"Where we 're seeing the big problems now is in the higher elevations where the qualities are higher , higher quality strains , a lot of heirloom strains of coffee but a pretty narrow genetic spectrum , Stoneham said . "
+Stoneham,say.01,now is in,,Affirmative,"Where we 're seeing the big problems now is in the higher elevations where the qualities are higher , higher quality strains , a lot of heirloom strains of coffee but a pretty narrow genetic spectrum , Stoneham said . "
+roaster Tony Tausch,coffee.01,fungus,,Affirmative,"At the Coffee Emporium on Central Parkway in downtown Cincinnati , head roaster Tony Tausch is used to coffee fungus in other parts of the world but this time it 's hitting farms that are n't equipped to handle this type of fungus . "
+the higher quality coffee plant farms,hit.01,farms,,Affirmative,"At the Coffee Emporium on Central Parkway in downtown Cincinnati , head roaster Tony Tausch is used to coffee fungus in other parts of the world but this time it 's hitting farms that are n't equipped to handle this type of fungus . "
+farms,handle.01,this type of fungus,,Affirmative,"At the Coffee Emporium on Central Parkway in downtown Cincinnati , head roaster Tony Tausch is used to coffee fungus in other parts of the world but this time it 's hitting farms that are n't equipped to handle this type of fungus . "
+several of,use.01,pesticides,,Affirmative,"According to Tausch , several of the higher quality coffee plant farms do not use pesticides simply because they can not afford it , or they want to maintain an organic farm . "
+Co-owner and roaster Les Stoneham,afford.01,The quality of the coffee that we will be serving here,,Affirmative,"According to Tausch , several of the higher quality coffee plant farms do not use pesticides simply because they can not afford it , or they want to maintain an organic farm . "
+Co-owner and roaster Les Stoneham,want.01,to maintain,,Affirmative,"According to Tausch , several of the higher quality coffee plant farms do not use pesticides simply because they can not afford it , or they want to maintain an organic farm . "
+Co-owner and roaster Les Stoneham,maintain.01,an organic farm,,Affirmative,"According to Tausch , several of the higher quality coffee plant farms do not use pesticides simply because they can not afford it , or they want to maintain an organic farm . "
+caffeine addicts like Lauren Schmidt,notice.01,", Tausch said",,Affirmative,"The quality of the coffee that we will be serving here will hopefully be just as good as it always has been , and they should n't notice that much of a change from their daily cup , Tausch said . "
+caffeine addicts like,say.01,they 'll still make,,Affirmative,"And even if coffee costs a bit more , caffeine addicts like Lauren Schmidt said they 'll still make it work . "
+they,make.02,it work,,Affirmative,"And even if coffee costs a bit more , caffeine addicts like Lauren Schmidt said they 'll still make it work . "
+I,find.01,a way,,Affirmative,"It would be really hard for it to go up much higher but I 'd probably still find a way to justify it somehow , Schmidt said . "
+Schmidt,say.01,It would be,,Affirmative,"It would be really hard for it to go up much higher but I 'd probably still find a way to justify it somehow , Schmidt said . "
+you,agree.01,to accept,,Affirmative,By posting your comments you agree to accept our terms of use . 
+you,accept.01,our terms of use,,Affirmative,By posting your comments you agree to accept our terms of use . 

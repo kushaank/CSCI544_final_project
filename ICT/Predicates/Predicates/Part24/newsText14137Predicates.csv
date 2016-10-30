@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The police commander for,give.01,the preliminary casualty count,Noticias Caracol,Affirmative,"The police commander for Magdalena province , where the accident occurred , Col. Adan Leon , gave Noticias Caracol the preliminary casualty count while investigators were still examining the scene . "
+investigators,examine.01,the scene,,Affirmative,"The police commander for Magdalena province , where the accident occurred , Col. Adan Leon , gave Noticias Caracol the preliminary casualty count while investigators were still examining the scene . "
+investigators,talk.01,of,,Affirmative,We are talking of 16 fatalities . 
+investigators,finish.01,the inspection,,Affirmative,"We have not finished the inspection , said Leon , who added that the 14 injured people had been transported to nearby hospitals . "
+"Leon ,",say.01,We have not finished,,Affirmative,"We have not finished the inspection , said Leon , who added that the 14 injured people had been transported to nearby hospitals . "
+"Leon ,",add.01,people had been transported to,,Affirmative,"We have not finished the inspection , said Leon , who added that the 14 injured people had been transported to nearby hospitals . "
+"President Juan Manuel Santos ,",say.01,that he deplored,,Affirmative,"Colombian President Juan Manuel Santos , who on Sunday was focusing on the logistics of wrapping up his re-election campaign on May 25 in Bogota neighborhoods , said on his Twitter account that he deplored the incident . "
+Juan Manuel Santos,deplore.01,the incident,,Affirmative,"Colombian President Juan Manuel Santos , who on Sunday was focusing on the logistics of wrapping up his re-election campaign on May 25 in Bogota neighborhoods , said on his Twitter account that he deplored the incident . "
+investigators,regret.01,"accident in Fundacion , Magdalena ,",,Affirmative,"We deeply regret accident in Fundacion , Magdalena , where according to latest information at least 15 people died , including children , the president said . "
+the president,say.01,"We deeply regret accident in Fundacion , Magdalena ,",,Affirmative,"We deeply regret accident in Fundacion , Magdalena , where according to latest information at least 15 people died , including children , the president said . "
+Mayor Luz Stella Duran,tell.01,people had died,Caracol Radio,Affirmative,"The death toll could rise , given that Fundacion Mayor Luz Stella Duran told Caracol Radio that 26 people had died . "

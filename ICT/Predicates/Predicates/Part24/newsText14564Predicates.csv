@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+COURTHOUSE,�.01,man was sentenced to time served to,,Affirmative,COURTHOUSE � A Philadelphia man was sentenced to time served to 12 months in prison for violating his parole by pleading guilty to stealing a pair of sunglasses from the King of Prussia mall and attempting to flee from mall security . 
+Larry Richard Lee Parrott,plead.02,guilty to,,Affirmative,He pleaded guilty to one misdemeanor charge of harassment and a third - degree felony charge of retail theft was withdrawn as a part of the plea . 
+Larry Richard Lee Parrott,violate.01,parole stemming from,,Affirmative,By pleading guilty to harassment he violated parole stemming from a retail theft in Limerick in 2010 . 
+Court documents,show.01,Parrott has been in prison,,Affirmative,"Court documents show Parrott has been in prison since May 19 , 2013 . "
+Parrott �,begin.01,to look at,,Affirmative,"According to the affidavit of probable cause , on March 13 , 2013 at 8:45 p.m. , a man � later identified as Parrott � walked into the Sunglass Hut with a woman in the King of Prussia Mall and began to look at several pairs of sunglasses . "
+Parrott �,look.01,at,,Affirmative,"According to the affidavit of probable cause , on March 13 , 2013 at 8:45 p.m. , a man � later identified as Parrott � walked into the Sunglass Hut with a woman in the King of Prussia Mall and began to look at several pairs of sunglasses . "
+The affidavit of,leave.01,the store,,Affirmative,"The affidavit of probable cause states Parrot and the woman , who is not identified in the arresting affidavit , left the store at 8:49 p.m. One of the employees of the store noticed the sunglasses � valued at $ 375 � were missing , notified mall security and followed Parrott . "
+Mall security,stop.01,Larry Richard Lee Parrott,,Affirmative,Mall security stopped Parrott and found he was holding a purple bag . 
+Mall security,find.01,he was holding,,Affirmative,Mall security stopped Parrott and found he was holding a purple bag . 
+he,hold.04,a purple bag,,Affirmative,Mall security stopped Parrott and found he was holding a purple bag . 
+Parrot,flee.01,the area dropping,,Affirmative,"When stopped , Parrot fled the area dropping the purple bag and ran into the parking lot where he was arrested by Upper Merion police officers . "
+the area dropping,drop.05,the purple bag,,Affirmative,"When stopped , Parrot fled the area dropping the purple bag and ran into the parking lot where he was arrested by Upper Merion police officers . "
+Parrot,run.02,into,,Affirmative,"When stopped , Parrot fled the area dropping the purple bag and ran into the parking lot where he was arrested by Upper Merion police officers . "
+by,arrest.01,Larry Richard Lee Parrott,,Affirmative,"When stopped , Parrot fled the area dropping the purple bag and ran into the parking lot where he was arrested by Upper Merion police officers . "
+The affidavit of,say.01,was arrested or not,,Affirmative,The affidavit of probable cause does not say the woman who accompanied Parrot into the store was arrested or not . 
+the woman,accompany.01,Parrot,,Affirmative,The affidavit of probable cause does not say the woman who accompanied Parrot into the store was arrested or not . 
+It,mention.01,sunglasses were ever recovered,,Affirmative,It also does not mention if the sunglasses were ever recovered . 
+Parrott,have.03,four prior retail convictions,,Affirmative,Parrott has four prior retail convictions not including the most recent in Upper Merion . 

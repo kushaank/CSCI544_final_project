@@ -1,0 +1,30 @@
+1	Sorry	sorry	UH	_	6	intj	6:AM-DIS
+2	,	,	,	_	6	punct	_
+3	we	we	PRP	_	6	nsubj	6:A0=CAU
+4	ca	can	MD	_	6	aux	6:AM-MOD
+5	n't	not	RB	_	6	neg	6:AM-NEG
+6	show	show	VB	pb=show.01	0	root	_
+7	this	this	DT	_	8	det	_
+8	content	content	NN	_	6	dobj	6:A1=PPT
+9	as	as	IN	_	14	mark	_
+10	your	your	PRP$	_	11	poss	_
+11	browser	browser	NN	_	14	nsubj	14:A0
+12	does	do	VBZ	_	14	aux	_
+13	not	not	RB	_	14	neg	14:AM-NEG
+14	support	support	VB	pb=support.01	6	advcl	_
+15	iframes	iframes	NNS	p2=RB	14	dobj	14:A1
+16	.	.	.	_	6	punct	_
+
+1	Select	select	VB	p2=NNP|pb=select.01	0	root	_
+2	your	your	PRP$	_	3	poss	_
+3	region	region	NN	_	1	dobj	1:A1=PPT
+4	to	to	TO	_	5	aux	_
+5	see	see	VB	pb=see.01	1	advcl	1:AM-PRP
+6	news	news	NN	_	5	dobj	5:A1
+7	and	and	CC	_	6	cc	_
+8	weather	weather	NN	p2=VB	6	conj	_
+9	for	for	IN	_	5	prep	5:AM-LOC
+10	your	your	PRP$	_	11	poss	_
+11	area	area	NN	_	9	pobj	_
+12	.	.	.	_	1	punct	_
+

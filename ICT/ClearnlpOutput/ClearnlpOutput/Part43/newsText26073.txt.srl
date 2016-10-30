@@ -1,0 +1,13 @@
+1	Please	please	UH	p2=VB	3	intj	3:AM-DIS;7:AM-DIS
+2	double	double	VB	p2=JJ	3	aux	_
+3	check	check	VB	p2=NN|pb=check.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	URL	url	NN	_	3	dobj	3:A1=LOC
+6	or	or	CC	_	3	cc	_
+7	try	try	VB	pb=try.01	3	conj	_
+8	the	the	DT	_	10	det	_
+9	search	search	NN	_	10	nn	_
+10	box	box	NN	p2=VB	7	dobj	7:A1=PPT
+11	below	below	RB	_	7	advmod	7:AM-MNR
+12	.	.	.	_	3	punct	_
+

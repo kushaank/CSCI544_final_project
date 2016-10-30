@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+board,propose.01,to pay,,Affirmative,"PRAGUE May 19 ( Reuters ) - Telefonica Czech Republic 's board proposed to pay a dividend of 18 Czech crowns ( $ 0.90 ) per share from 2013 profit , the company said on Monday . "
+board,pay.01,a dividend of,,Affirmative,"PRAGUE May 19 ( Reuters ) - Telefonica Czech Republic 's board proposed to pay a dividend of 18 Czech crowns ( $ 0.90 ) per share from 2013 profit , the company said on Monday . "
+the company,say.01,board proposed,,Affirmative,"PRAGUE May 19 ( Reuters ) - Telefonica Czech Republic 's board proposed to pay a dividend of 18 Czech crowns ( $ 0.90 ) per share from 2013 profit , the company said on Monday . "
+by,own.01,"The operator ,",,Affirmative,"The operator , now owned by the Czech financial group PPF , had said earlier it would seek a dividend in the range of 18 to 30 crowns . "
+"The operator ,",say.01,it would seek,,Affirmative,"The operator , now owned by the Czech financial group PPF , had said earlier it would seek a dividend in the range of 18 to 30 crowns . "
+The operator,seek.01,a dividend in,,Affirmative,"The operator , now owned by the Czech financial group PPF , had said earlier it would seek a dividend in the range of 18 to 30 crowns . "
+the company,say.01,date is November 26,,Affirmative,"The proposed dividend due date is November 26 , with the conclusive date for exercising the right to dividend being October 27 , the company said in a regulatory filing . "
+We,welcome.01,comments on,,Affirmative,We welcome comments on our articles for a limited period after their publication . 

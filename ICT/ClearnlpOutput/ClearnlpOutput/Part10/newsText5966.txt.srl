@@ -1,0 +1,25 @@
+1	Pope	pope	NNP	_	3	poss	_
+2	's	's	POS	_	1	possessive	_
+3	visit	visit	NN	_	14	nsubjpass	16:A0=PAG;8:A1=PPT;14:A1=PPT
+4	,	,	,	_	3	punct	_
+5	which	which	WDT	_	8	nsubjpass	8:R-A1
+6	was	be	VBD	_	8	auxpass	_
+7	heavily	heavily	RB	_	8	advmod	8:AM-MNR
+8	marketed	market	VBN	pb=market.01	3	rcmod	_
+9	for	for	IN	_	8	prep	8:A3=PRD
+10	Catholic	catholic	JJ	_	11	amod	_
+11	pilgrimage	pilgrimage	NN	_	9	pobj	_
+12	,	,	,	_	14	punct	_
+13	is	be	VBZ	_	14	auxpass	_
+14	expected	expect	VBN	pb=expect.01	0	root	_
+15	to	to	TO	_	16	aux	_
+16	increase	increase	VB	pb=increase.01	14	xcomp	14:C-A1
+17	Christian	christian	JJ	_	18	amod	_
+18	tourism	tourism	NN	_	16	dobj	16:A1=PPT
+19	to	to	IN	_	16	prep	16:A4=GOL
+20	Israel	israel	NNP	_	19	pobj	_
+21	by	by	IN	_	16	prep	16:A2=EXT
+22	10	0	CD	_	23	num	_
+23	%	%	NN	_	21	pobj	_
+24	.	.	.	_	14	punct	_
+

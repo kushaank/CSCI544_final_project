@@ -1,0 +1,19 @@
+1	No	no	UH	_	5	intj	5:AM-DIS
+2	,	,	,	_	5	punct	_
+3	Hamidreza	hamidreza	NNP	_	4	nn	_
+4	Sheikhmorteza	sheikhmorteza	NNP	_	5	nsubj	5:A0=PAG
+5	did	do	VBD	pb=do.02	0	root	_
+6	.	.	.	_	5	punct	_
+
+1	Due	due	IN	_	7	prep	7:AM-CAU
+2	to	to	IN	p2=TO	1	pcomp	_
+3	inactivity	inactivity	NN	_	1	pobj	_
+4	you	you	PRP	_	7	nsubjpass	7:A1=PPT
+5	will	will	MD	_	7	aux	7:AM-MOD
+6	be	be	VB	_	7	auxpass	_
+7	logged	log	VBN	pb=log.01	0	root	_
+8	out	out	RP	_	7	prt	7:C-V
+9	in	in	IN	_	7	prep	7:AM-TMP
+10	seconds	#ord#	NNS	_	9	pobj	_
+11	.	.	.	_	7	punct	_
+

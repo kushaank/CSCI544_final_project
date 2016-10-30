@@ -1,0 +1,18 @@
+1	Can	can	MD	_	3	aux	3:AM-MOD
+2	not	not	RB	_	3	neg	3:AM-NEG
+3	open	open	VB	pb=open.01	0	root	_
+4	template	template	NN	_	8	nn	_
+5	/	/	SYM	_	8	punct	_
+6	var	var	NN	p2=NNS	8	dep	_
+7	/	/	SYM	p2=,	8	punct	_
+8	www/content/template/search/tmpl/wtov.tmpl	#url#	ADD	_	3	dobj	3:A1=PPT
+9	at	at	IN	_	3	prep	3:AM-EXT
+10	/	/	SYM	p2=NFP	15	punct	_
+11	var	var	NN	p2=NNP	15	nn	_
+12	/	/	SYM	p2=,	15	punct	_
+13	www/content/template/cgi-bin/	#url#	ADD	_	9	pobj	_
+14	archived.pl	archived.pl	NN	p2=SYM	15	nn	_
+15	line	line	NN	_	9	pobj	_
+16	75	0	CD	_	15	num	_
+17	.	.	.	_	3	punct	_
+

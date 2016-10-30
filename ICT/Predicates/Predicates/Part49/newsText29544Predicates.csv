@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Matt Kozar,report.01,Cortez was found waiting for,,Affirmative,Matt Kozar reports Eliceo Cortez was found waiting for a NYC bus . 
+Eyewitness News,learn.01,has been found safe and,,Affirmative,Eyewitness News has learned that a missing autistic 14 - year - old who disappeared Friday afternoon has been found safe and was reunited with his mother early Monday . 
+the bus driver,call.01,his mother,,Affirmative,"He was supposed to be on the bus on his way home , but when he was n't , the bus driver called his mother . "
+A school counselor,find.01,him waiting for,,Affirmative,"A school counselor found him waiting for the B49 bus , his normal way to school , Monday morning . "
+Relatives,say.01,teenager looks older,,Affirmative,Relatives say the 6 - foot - 1 teenager looks older than he is . 
+1 teenager,look.02,older,,Affirmative,Relatives say the 6 - foot - 1 teenager looks older than he is . 
+the 6-foot-1 teenager,have.03,brown eyes and,,Affirmative,"He weighs 135 pounds , has brown eyes and short black hair . "
+the 6-foot-1 teenager,have.03,a long scar down,,Affirmative,He has a long scar down his back and burn marks on his hands . 
+the 6-foot-1 teenager,burn.01,marks,,Affirmative,He has a long scar down his back and burn marks on his hands . 
+the 6-foot-1 teenager,have.03,no history of running away,,Affirmative,He is shy and quiet and has no history of running away . 
+"His mother ,",say.01,he is in,,Affirmative,"His mother , Nancy Reavis , says he is in ninth grade at the Leon Goldstein High School for the Sciences but has the reading ability of a second - grader . "
+the 6-foot-1 teenager,have.03,the reading ability of,,Affirmative,"His mother , Nancy Reavis , says he is in ninth grade at the Leon Goldstein High School for the Sciences but has the reading ability of a second - grader . "
+Nancy Reavis,spend.02,the weekend,pounding,Affirmative,"She spent the weekend pounding the pavement , putting up fliers across Coney Island and other parts of Brooklyn . "
+Nancy Reavis,pound.02,the pavement,,Affirmative,"She spent the weekend pounding the pavement , putting up fliers across Coney Island and other parts of Brooklyn . "
+Nancy Reavis,put.01,fliers,across,Affirmative,"She spent the weekend pounding the pavement , putting up fliers across Coney Island and other parts of Brooklyn . "
+Nancy Reavis,say.01,Eliceo is supposed,,Affirmative,"She says Eliceo is supposed to have a para - professional escort him from class to class , and she is not sure what happened , but that he does not know his way home from school . "
+Eliceo Cortez,have.03,professional escort him from class to class,,Affirmative,"She says Eliceo is supposed to have a para - professional escort him from class to class , and she is not sure what happened , but that he does not know his way home from school . "
+a para - professional,escort.01,a para-professional escort,,Affirmative,"She says Eliceo is supposed to have a para - professional escort him from class to class , and she is not sure what happened , but that he does not know his way home from school . "
+Eliceo Cortez,know.01,his way home,,Affirmative,"She says Eliceo is supposed to have a para - professional escort him from class to class , and she is not sure what happened , but that he does not know his way home from school . "
+City Department of Education,release.01,the following statement :,,Affirmative,The New York City Department of Education released the following statement : School officials are in contact with his mother and we are all deeply concerned about his well - being . 
+we,continue.01,to work closely with NYPD,,Affirmative,"Since this situation was identified on Friday , we have worked and continue to work closely with NYPD in its investigation . "

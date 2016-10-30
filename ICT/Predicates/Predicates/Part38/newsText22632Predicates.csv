@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Nicholas Sexton , one of",testify.01,that he does n't like guns,,Affirmative,"Nicholas Sexton , one of two men accused of killing three people , testifies that he does n't like guns . "
+"Nicholas Sexton , one of two men accused of killing three people",like.01,guns,,Affirmative,"Nicholas Sexton , one of two men accused of killing three people , testifies that he does n't like guns . "
+a drug dispute,blame.01,the killings,on,Affirmative,BANGOR - One of two men accused of killing three people and burning their bodies after a drug dispute blamed the killings on his co-defendant in his testimony Monday . 
+"Nicholas Sexton of Warwick ,",kill.01,the three victims,,Affirmative,"Nicholas Sexton of Warwick , Rhode Island , and Randall Daluz of Brockton , Massachusetts , shot and killed the three victims before setting them ablaze in a car in a Bangor parking lot in 2012 , prosecutors said . "
+prosecutors,say.01,shot and killed,,Affirmative,"Nicholas Sexton of Warwick , Rhode Island , and Randall Daluz of Brockton , Massachusetts , shot and killed the three victims before setting them ablaze in a car in a Bangor parking lot in 2012 , prosecutors said . "
+WZON - AM,report.01,that Sexton testified,,Affirmative,WZON - AM reported that Sexton testified Daluz shot Lucas Tuscano and Daniel Borders while driving near Orono and shot Nicolle Lugdon while parked on a dirt road in Hermon . 
+"Nicholas Sexton , one of two men accused of killing three people",testify.01,Daluz shot,,Affirmative,WZON - AM reported that Sexton testified Daluz shot Lucas Tuscano and Daniel Borders while driving near Orono and shot Nicolle Lugdon while parked on a dirt road in Hermon . 
+"Randall Daluz of Brockton , Massachusetts",shoot.02,Lucas Tuscano and,,Affirmative,WZON - AM reported that Sexton testified Daluz shot Lucas Tuscano and Daniel Borders while driving near Orono and shot Nicolle Lugdon while parked on a dirt road in Hermon . 
+"Randall Daluz of Brockton , Massachusetts",shoot.02,Nicolle Lugdon,,Affirmative,WZON - AM reported that Sexton testified Daluz shot Lucas Tuscano and Daniel Borders while driving near Orono and shot Nicolle Lugdon while parked on a dirt road in Hermon . 
+"Nicholas Sexton , one of two men accused of killing three people",testify.01,that Daluz ordered him,,Affirmative,Sexton also testified that Daluz ordered him to burn the car in Bangor . 
+"Randall Daluz of Brockton , Massachusetts",order.01,"Randall Daluz of Brockton , Massachusetts",to burn,Affirmative,Sexton also testified that Daluz ordered him to burn the car in Bangor . 
+"Randall Daluz of Brockton , Massachusetts",burn.01,the car,,Affirmative,Sexton also testified that Daluz ordered him to burn the car in Bangor . 
+The station,report.01,that Sexton wept on,,Affirmative,The station also reported that Sexton wept on the witness stand while describing Lugdon as a friend . 
+"Nicholas Sexton , one of two men accused of killing three people",say.01,he went along with,,Affirmative,He said he went along with Daluz 's plan to burn the car because Daluz threatened him and his family if he did n't do it . 
+"Nicholas Sexton , one of two men accused of killing three people",do.02,a car in a Bangor parking lot in 2012,,Affirmative,He said he went along with Daluz 's plan to burn the car because Daluz threatened him and his family if he did n't do it . 
+defense attorneys,say.01,that Sexton called Daluz more,,Affirmative,"Daluz 's defense attorneys said in court that Sexton called Daluz more than a dozen times in the day that followed the killings , indicating that he was n't scared of Daluz . "
+"Nicholas Sexton , one of two men accused of killing three people",call.02,"Randall Daluz of Brockton , Massachusetts",,Affirmative,"Daluz 's defense attorneys said in court that Sexton called Daluz more than a dozen times in the day that followed the killings , indicating that he was n't scared of Daluz . "
+Daluz 's defense attorneys,say.01,Sexton may return to,,Affirmative,"Sexton may return to the stand Tuesday , attorneys said . "
+defense team,present.01,its case,,Affirmative,"Daluz 's defense team is expected to present its case after Sexton 's defense rests , possibly Tuesday . "
+Closing arguments,follow.02,Tuesday or Wednesday,,Affirmative,"Closing arguments could follow Tuesday or Wednesday , prosecutors said . "
+prosecutors,say.01,arguments could follow Tuesday or Wednesday,,Affirmative,"Closing arguments could follow Tuesday or Wednesday , prosecutors said . "
+They each,face.01,a maximum sentence of life,,Affirmative,They each face a maximum sentence of life in prison if convicted . 
+we,value.01,our readers,,Affirmative,Here at MaineToday Media we value our readers and are committed to growing our community by encouraging you to add to the discussion . 
+you,read.01,3 of,,Affirmative,"As of your last visit , you 've read 3 of 10 free articles . "

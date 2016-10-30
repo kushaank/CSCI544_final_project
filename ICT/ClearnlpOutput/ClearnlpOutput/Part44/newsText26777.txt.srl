@@ -1,0 +1,112 @@
+1	While	while	IN	_	4	mark	_
+2	the	the	DT	_	3	det	_
+3	situation	situation	NN	_	4	nsubj	4:A1
+4	in Ukraine remains	in ukraine remains	VBZ	p2=HYPH|pb=in ukraine remains.01	15	advcl	15:AM-ADV
+5	uncertain	uncertain	JJ	_	4	acomp	4:A2
+6	,	,	,	_	15	punct	_
+7	travel	travel	NN	p2=VB	8	nn	_
+8	businesses	business	NNS	_	15	nsubj	10:A0=PAG;15:A0;18:A0=PAG
+9	that	that	WDT	_	10	nsubj	10:R-A0
+10	head	head	VBP	pb=head.02	8	rcmod	_
+11	to	to	IN	_	10	prep	10:A1=PPT
+12	the	the	DT	_	13	det	_
+13	area	area	NN	_	11	pobj	_
+14	are	be	VBP	_	15	aux	_
+15	taking	take	VBG	pb=take.01	0	root	_
+16	steps	step	NNS	_	15	dobj	15:A1=PPT
+17	to	to	TO	_	18	aux	_
+18	keep	keep	VB	pb=keep.02	16	infmod	_
+19	their	their	PRP$	_	20	poss	_
+20	customers	customer	NNS	_	18	dobj	18:A1=PPT
+21	safe	safe	JJ	_	18	oprd	18:C-A1
+22	.	.	.	_	15	punct	_
+
+1	 Exeter	 exeter	NNP	p2=JJR	2	nn	_
+2	International	international	NNP	_	8	nsubj	8:A0
+3	,	,	,	_	8	punct	_
+4	for	for	IN	_	8	prep	8:AM-DIS
+5	example	example	NN	_	4	pobj	_
+6	,	,	,	_	8	punct	_
+7	has	have	VBZ	_	8	aux	_
+8	already canceled	already canceled	VBN	pb=already canceled.01	0	root	_
+9	its	its	PRP$	_	10	poss	_
+10	trips	trip	NNS	_	8	dobj	8:A1
+11	to	to	IN	_	10	prep	_
+12	Ukraine	ukraine	NNP	p2=NN	11	pobj	_
+13	,	,	,	_	8	punct	_
+14	and	and	CC	_	8	cc	_
+15	now Silversea	now silversea	NNP	p2=,	16	nn	_
+16	Cruises has	cruises has	NNP	p2=NNPS	17	nsubj	17:A0=PAG
+17	modified	modify	VBD	pb=modify.01	8	conj	_
+18	the	the	DT	_	19	det	_
+19	itineraries	itinerary	NNS	p2=NN	17	dobj	17:A1=PPT
+20	for	for	IN	_	17	prep	17:AM-PRP
+21	four Black	four black	NNP	p2=CD	22	nn	_
+22	Sea voyages	sea voyages	NNP	p2=NNPS	20	pobj	26:A0=PAG;24:A1=PRD
+23	originally	originally	RB	_	24	advmod	24:AM-TMP
+24	scheduled	schedule	VBN	p2=VBD|pb=schedule.01	22	partmod	_
+25	to	to	TO	_	26	aux	_
+26	call	call	VB	pb=call.02	24	xcomp	24:A2=PRD
+27	inYalta	inyalta	NNP	p2=NNS	26	dobj	26:A1=PPT
+28	,	,	,	_	27	punct	_
+29	 Sevastopol	 sevastopol	NNP	p2=NN	27	conj	_
+30	,	,	,	_	29	punct	_
+31	or Odessa this	or odessa this	NNP	p2=DT	32	nn	_
+32	year	year	NN	_	26	npadvmod	26:AM-TMP
+33	.	.	.	_	17	punct	_
+
+1	Silver	silver	NNP	p2=JJ	2	nn	_
+2	Spirit's July	spirit's july	NNP	_	7	nn	_
+3	21	0	CD	_	2	num	_
+4	seven	#crd#	CD	_	6	hmod	_
+5	-	-	HYPH	_	6	hyph	_
+6	day	day	NN	_	7	nn	_
+7	sailing	sailing	NN	_	9	nsubj	9:A1=PPT
+8	will	will	MD	_	9	aux	9:AM-MOD
+9	remain	remain	VB	pb=remain.01	0	root	_
+10	entirely	entirely	RB	_	9	advmod	9:A3=PRD
+11	a	a	DT	_	14	det	_
+12	Black	black	NNP	p2=JJ	13	nn	_
+13	Sea	sea	NNP	_	14	nn	_
+14	itinerary	itinerary	NN	_	9	attr	9:AM-TMP
+15	with	with	IN	_	14	prep	_
+16	Trabzon	trabzon	NNP	_	17	nsubj	17:A0=PAG
+17	replacing	replace	VBG	pb=replace.01	15	pcomp	_
+18	Odessa	odessa	NNP	p2=NN	17	dobj	17:A1=PPT
+19	,	,	,	_	9	punct	_
+20	while	while	IN	_	28	mark	_
+21	three	#crd#	CD	_	26	num	_
+22	new	new	JJ	_	26	amod	_
+23	nine	#crd#	CD	_	25	hmod	_
+24	-	-	HYPH	_	25	hyph	_
+25	day	day	NN	_	26	nn	_
+26	voyages	voyage	NNS	_	28	nsubj	28:A0=PPT;38:A0=PAG
+27	will	will	MD	_	28	aux	28:AM-MOD;38:AM-MOD
+28	focus	focus	VB	pb=focus.01	9	advcl	9:AM-ADV
+29	on	on	IN	_	28	prep	28:A2=PPT
+30	destinations	destination	NNS	_	29	pobj	_
+31	in	in	IN	_	30	prep	_
+32	Greece	greece	NNP	_	31	pobj	_
+33	and	and	CC	_	32	cc	_
+34	Turkey	turkey	NNP	_	32	conj	_
+35	,	,	,	_	28	punct	_
+36	and	and	CC	_	28	cc	_
+37	also	also	RB	_	38	advmod	38:AM-ADV
+38	retain	retain	VB	pb=retain.01	28	conj	_
+39	the	the	DT	_	43	det	_
+40	original	original	JJ	_	43	amod	_
+41	Black	black	NNP	_	42	nn	_
+42	Sea	sea	NNP	_	43	nn	_
+43	ports	port	NNS	_	38	dobj	38:A1=PPT
+44	of	of	IN	_	43	prep	_
+45	Constanza	constanza	NNP	_	44	pobj	_
+46	and	and	CC	_	45	cc	_
+47	Nessebur	nessebur	NNP	_	45	conj	_
+48	.	.	.	_	9	punct	_
+
+1	Be	be	VB	pb=be.01	0	root	_
+2	Sociable	sociable	JJ	p2=NNP	1	acomp	1:A2=PRD
+3	,	,	,	_	1	punct	_
+4	Share	share	VB	p2=NNP|pb=share.01	1	dep	_
+5	!	!	.	_	1	punct	_
+

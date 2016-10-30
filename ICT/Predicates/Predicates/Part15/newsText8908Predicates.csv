@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+users,use.01,hashtags,,Affirmative,List of hashtags that users can use on instagram . 
+xtraxtra #,feature.01,hashtag etc,,Affirmative,# xtraxtra # featured # news # hashtag etc .. 
+JP Morgan Chase,support.01,"Forces Initiative , and",,Affirmative,"JP Morgan Chase supports the White House 's Joining Forces Initiative , and the Philanthropy - Joining Forces Impact Pledge , which was started by the Blue Shield of California Foundation , the Bristol Meyers Squibb Foundation , the Lincoln Community Foundation , and the McCormick Foundation , and which supports community programs and initiatives that focus on service members , veterans , and their families . "
+by,start.01,"Forces Impact Pledge ,",,Affirmative,"JP Morgan Chase supports the White House 's Joining Forces Initiative , and the Philanthropy - Joining Forces Impact Pledge , which was started by the Blue Shield of California Foundation , the Bristol Meyers Squibb Foundation , the Lincoln Community Foundation , and the McCormick Foundation , and which supports community programs and initiatives that focus on service members , veterans , and their families . "
+"Forces Impact Pledge ,",support.01,community programs and initiatives,,Affirmative,"JP Morgan Chase supports the White House 's Joining Forces Initiative , and the Philanthropy - Joining Forces Impact Pledge , which was started by the Blue Shield of California Foundation , the Bristol Meyers Squibb Foundation , the Lincoln Community Foundation , and the McCormick Foundation , and which supports community programs and initiatives that focus on service members , veterans , and their families . "
+service members,turn.02,"your favorite non-profit ,",into cash,Affirmative,"Earn points for your favorite non-profit , which they can turn into cash . "
+you,earn.01,10 points,,Affirmative,"Just by registering , you earn 10 points for a local non-profit group . "
+you,post.01,Everything,,Affirmative,Everything you post earns more points . 
+Everything,earn.01,more points,,Affirmative,Everything you post earns more points . 
+You,switch.01,non-profits,,Affirmative,You may switch non-profits at any time . 

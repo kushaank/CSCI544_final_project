@@ -1,0 +1,46 @@
+1	Lidl	lidl	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	open	open	VB	pb=open.01	0	root	_
+4	its	its	PRP$	_	6	poss	_
+5	first	#ord#	JJ	_	6	amod	_
+6	supermarkets	supermarket	NNS	_	3	dobj	3:A1=PPT
+7	in	in	IN	_	6	prep	_
+8	the	the	DT	_	10	det	_
+9	United	united	NNP	_	10	nn	_
+10	States	states	NNP	p2=NNPS	7	pobj	_
+11	in	in	IN	_	3	prep	3:AM-TMP
+12	2018	0	CD	_	11	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	3	nsubjpass	3:A1=PPT
+2	was	be	VBD	_	3	auxpass	_
+3	said	say	VBN	pb=say.01	0	root	_
+4	by	by	IN	_	3	agent	3:A0
+5	CEO	ceo	NNP	p2=NN	7	nn	_
+6	Klaus	klaus	NNP	_	7	nn	_
+7	Gehrig	gehrig	NNP	_	4	pobj	_
+8	of	of	IN	_	7	prep	_
+9	main	main	JJ	_	10	amod	_
+10	concern	concern	NN	_	8	pobj	_
+11	Schwarz	schwarz	NNP	_	12	nn	_
+12	Gruppe	gruppe	NNP	_	10	appos	_
+13	to	to	IN	_	12	prep	_
+14	the	the	DT	_	16	det	_
+15	Heilbronner	heilbronner	NNP	p2=NN	16	nn	_
+16	Stimme	stimme	NNP	_	13	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	Gehrig	gehrig	NNP	p2=NNS	2	nsubj	2:A0=PAG
+2	stated	state	VBD	pb=state.01	0	root	_
+3	last	last	JJ	_	4	amod	_
+4	year	year	NN	_	2	npadvmod	2:AM-TMP
+5	that	that	IN	_	10	complm	_
+6	the	the	DT	_	7	det	_
+7	entrance	entrance	NN	_	10	nsubjpass	10:AM-PRR
+8	would	would	MD	_	10	aux	10:AM-MOD
+9	be	be	VB	_	10	auxpass	_
+10	made	make	VBN	pb=make.LV	2	ccomp	2:A1=PPT
+11	in	in	IN	_	10	prep	10:AM-TMP
+12	2015	0	CD	_	11	pobj	_
+13	.	.	.	_	2	punct	_
+

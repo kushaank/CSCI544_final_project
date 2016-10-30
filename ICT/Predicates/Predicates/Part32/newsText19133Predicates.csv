@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Prince Harry,pay.01,tribute,to,Affirmative,"Prince Harry has paid tribute to the veterans who fought in the bitter and bloody Battle of Monte Cassino in Italy during the second world war , saying that its reputation as ' the forgotten campaign ' made no sense at all . "
+Prince Harry,say.01,made,,Affirmative,"Prince Harry has paid tribute to the veterans who fought in the bitter and bloody Battle of Monte Cassino in Italy during the second world war , saying that its reputation as ' the forgotten campaign ' made no sense at all . "
+"The Prince , in Italy",visit.01,the the battle site,,Affirmative,"The Prince , in Italy for a two - day trip , visited the the battle site two days running for commemorative events tied to the 70th anniversary of the capture of Monte Cassino hilltop . "
+"The Prince , in Italy",run.02,for,,Affirmative,"The Prince , in Italy for a two - day trip , visited the the battle site two days running for commemorative events tied to the 70th anniversary of the capture of Monte Cassino hilltop . "
+British veterans,travel.01,to Italy,,Affirmative,"After meeting British veterans who had travelled to Italy for the occasion , he said : At the end of the day this has always been referred to as the forgotten campaign - to me it makes no sense at all . "
+Prince Harry,say.01,this has always been referred to,,Affirmative,"After meeting British veterans who had travelled to Italy for the occasion , he said : At the end of the day this has always been referred to as the forgotten campaign - to me it makes no sense at all . "
+the end of the day,make.LV,`` no sense at all '',,Affirmative,"After meeting British veterans who had travelled to Italy for the occasion , he said : At the end of the day this has always been referred to as the forgotten campaign - to me it makes no sense at all . "
+"More than 50,000 Allied soldiers",withstand.01,relentless Nazi bombardments,,Affirmative,"The conditions of the series of four attacks were infamously tough , with soldiers having to climb steep terrain , brave terrible weather and withstand relentless Nazi bombardments . "
+Those guys in there,lose.02,most of,,Affirmative,"So these guys were being asked , directed to walk through open ground knowing they were going to lose most of their friends and probably themselves as well - so this deserves as much recognition as everything else , said the Prince , describing the campaign as a huge ask . "
+this,deserve.01,much recognition as everything else,,Affirmative,"So these guys were being asked , directed to walk through open ground knowing they were going to lose most of their friends and probably themselves as well - so this deserves as much recognition as everything else , said the Prince , describing the campaign as a huge ask . "
+Prince Harry,say.01,so this deserves,,Affirmative,"So these guys were being asked , directed to walk through open ground knowing they were going to lose most of their friends and probably themselves as well - so this deserves as much recognition as everything else , said the Prince , describing the campaign as a huge ask . "
+Prince Harry,describe.01,the forgotten campaign,as,Affirmative,"So these guys were being asked , directed to walk through open ground knowing they were going to lose most of their friends and probably themselves as well - so this deserves as much recognition as everything else , said the Prince , describing the campaign as a huge ask . "
+Prince Harry,take.01,my hat,,Affirmative,"So I take my hat off ( to them ) , he added . "
+Prince Harry,add.01,So I take,,Affirmative,"So I take my hat off ( to them ) , he added . "
+veterans of,contend.02,hurtful things,,Affirmative,One of the most hurtful things with which veterans of the Italian campaign had to contend after the war was a comment - allegedly made by MP and socialite Nancy Astor - describing them as ' D - Day Dodgers ' . 
+by MP and,make.01,a comment -,,Affirmative,One of the most hurtful things with which veterans of the Italian campaign had to contend after the war was a comment - allegedly made by MP and socialite Nancy Astor - describing them as ' D - Day Dodgers ' . 
+One of,describe.01,veterans of the Italian campaign,as ',Affirmative,One of the most hurtful things with which veterans of the Italian campaign had to contend after the war was a comment - allegedly made by MP and socialite Nancy Astor - describing them as ' D - Day Dodgers ' . 
+"Lord Astor ,",defend.01,his great - aunt,,Affirmative,"Speaking in Cassino on Monday , Lord Astor , Lords spokesman on defence , defended his great - aunt , saying he did not believe she would have said it . "
+"Lord Astor ,",say.01,he did not believe,,Affirmative,"Speaking in Cassino on Monday , Lord Astor , Lords spokesman on defence , defended his great - aunt , saying he did not believe she would have said it . "
+Lord Astor,believe.01,she would have said it,,Affirmative,"Speaking in Cassino on Monday , Lord Astor , Lords spokesman on defence , defended his great - aunt , saying he did not believe she would have said it . "
+his great-aunt,say.01,Monday,,Affirmative,"Speaking in Cassino on Monday , Lord Astor , Lords spokesman on defence , defended his great - aunt , saying he did not believe she would have said it . "
+his great-aunt,deny.01,she ever made,,Affirmative,She always denied she ever made that remark . 
+his great-aunt,swear.01,that she never said it,to,Affirmative,"In fact she swore to her dying day that she never said it , he said . "
+his great-aunt,say.01,her dying day,,Affirmative,"In fact she swore to her dying day that she never said it , he said . "
+Lord Astor,say.01,she swore to,,Affirmative,"In fact she swore to her dying day that she never said it , he said . "
+his great-aunt,have.03,three sons and,,Affirmative,"She had three sons and four nephews fighting in the war , including in Italy , so it seems very odd that she would say such a thing . "
+his great-aunt,say.01,such a thing,,Affirmative,"She had three sons and four nephews fighting in the war , including in Italy , so it seems very odd that she would say such a thing . "
+The story,make.01,sense,,Affirmative,The story just does n't make sense . 
+"Ivor Gaskill , 90",remember.01,trying,,Affirmative,"Speaking at a reception for veterans , Ivor Gaskill , 90 , remembered trying to climb Monte Cassino . "
+"Ivor Gaskill , 90",try.01,to climb,,Affirmative,"Speaking at a reception for veterans , Ivor Gaskill , 90 , remembered trying to climb Monte Cassino . "
+Ivor Gaskill,say.01,We were up to,,Affirmative,"We were up to our waists in mud and water , soaking wet , hungry and full of lice , he said . "
+"Gaskill ,",say.01,it was marvellous of,,Affirmative,"Gaskill , a private who was just 18 at the time , said it was marvellous of the Prince to commemorate the battle . "
+Ivor Gaskill,think.01,we were forgotten,,Affirmative,"I thought we were forgotten , he said . "
+Ivor Gaskill,say.01,I thought,,Affirmative,"I thought we were forgotten , he said . "

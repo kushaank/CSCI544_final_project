@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police in,arrest.01,old woman,on suspicion of,Affirmative,Police in Tokyo 's Katsushika Ward on Monday arrested a 36 - year - old woman on suspicion of fatally stabbing her 2 - month - old daughter . 
+Police in Tokyo 's Katsushika Ward on Monday,receive.01,a call,,Affirmative,"According to police , they received a call at around 3 a.m. reporting that a woman had killed her daughter . "
+3 a.m. reporting,report.01,woman had killed,,Affirmative,"According to police , they received a call at around 3 a.m. reporting that a woman had killed her daughter . "
+a woman,kill.01,her 2-month-old daughter,,Affirmative,"According to police , they received a call at around 3 a.m. reporting that a woman had killed her daughter . "
+TBS,report.01,that police rushed to,,Affirmative,TBS reported that police rushed to the apartment and found the 2 - month - old girl lying on her bed with stab wounds to her stomach . 
+police,find.01,girl lying on,,Affirmative,TBS reported that police rushed to the apartment and found the 2 - month - old girl lying on her bed with stab wounds to her stomach . 
+the child 's,have.03,strangulation marks,,Affirmative,"The child also had strangulation marks on her neck , caused by a towel , police said . "
+police,say.01,child also had,,Affirmative,"The child also had strangulation marks on her neck , caused by a towel , police said . "
+Police in Tokyo 's Katsushika Ward on Monday,say.01,She was taken to hospital,,Affirmative,"She was taken to hospital where she was pronounced dead , police said . "
+Police in Tokyo 's Katsushika Ward on Monday,say.01,", had called",,Affirmative,"Police said the child 's mother , identified as Megumi Yamagishi , had called her mother and told her what she had done , and it was the grandmother who contacted police . "
+"mother , identified as",call.02,the child 's mother,,Affirmative,"Police said the child 's mother , identified as Megumi Yamagishi , had called her mother and told her what she had done , and it was the grandmother who contacted police . "
+"mother , identified as",tell.01,what she had done,her,Affirmative,"Police said the child 's mother , identified as Megumi Yamagishi , had called her mother and told her what she had done , and it was the grandmother who contacted police . "
+the grandmother,contact.01,Police in Tokyo 's Katsushika Ward on Monday,,Affirmative,"Police said the child 's mother , identified as Megumi Yamagishi , had called her mother and told her what she had done , and it was the grandmother who contacted police . "
+Megumi Yamagishi,call.01,the child 's mother,,Affirmative,"Yamagishi went missing after calling her mother , but was taken into custody in Kanagawa Prefecture . "
+Police in Tokyo 's Katsushika Ward on Monday,quote.01,Megumi Yamagishi,as saying,Affirmative,Police quoted her as saying she killed her daughter Ema because she appeared mentally ll and she worried about her ability to raise her . 
+Police in Tokyo 's Katsushika Ward on Monday,say.01,she killed,,Affirmative,Police quoted her as saying she killed her daughter Ema because she appeared mentally ll and she worried about her ability to raise her . 
+Megumi Yamagishi,kill.01,her daughter Ema,,Affirmative,Police quoted her as saying she killed her daughter Ema because she appeared mentally ll and she worried about her ability to raise her . 
+Megumi Yamagishi,worry.02,about,,Affirmative,Police quoted her as saying she killed her daughter Ema because she appeared mentally ll and she worried about her ability to raise her . 
+Megumi Yamagishi,say.01,she wanted,,Affirmative,Yamagishi also said she wanted to kill herself . 
+Megumi Yamagishi,want.01,to kill herself,,Affirmative,Yamagishi also said she wanted to kill herself . 
+Megumi Yamagishi,kill.01,Megumi Yamagishi,,Affirmative,Yamagishi also said she wanted to kill herself . 

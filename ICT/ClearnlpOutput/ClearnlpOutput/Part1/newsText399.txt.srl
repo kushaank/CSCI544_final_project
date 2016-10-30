@@ -1,0 +1,715 @@
+1	BASILDON	basildon	NNP	_	2	nn	_
+2	Hospital	hospital	NNP	p2=NN	4	nsubj	4:A0=PAG
+3	has	have	VBZ	_	4	aux	_
+4	spent	spend	VBN	pb=spend.01	0	root	_
+5	£12.9million	£0million	CD	p2=,	4	dobj	4:A3=VSP
+6	on	on	IN	_	4	prep	4:A1=PPT
+7	stop	stop	VB	p2=NN	6	pobj	_
+8	-	-	HYPH	_	7	hyph	_
+9	gap	gap	NN	_	10	nn	_
+10	staff	staff	NN	_	7	dobj	_
+11	in	in	IN	_	7	prep	_
+12	a	a	DT	_	13	det	_
+13	year	year	NN	_	11	pobj	_
+14	.	.	.	_	4	punct	_
+
+1	This	this	DT	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	despite	despite	IN	_	2	prep	2:A2=PRD
+4	a	a	DT	_	8	det	_
+5	crippling	crippling	JJ	p2=NN	6	amod	_
+6	£9million	£0million	CD	p2=NN	8	nn	_
+7	rolling	roll	VBG	p2=JJ|pb=roll.01	8	amod	_
+8	debt	debt	NN	_	3	pobj	7:A0=PAG
+9	,	,	,	_	2	punct	_
+10	as	as	IN	_	11	mark	_
+11	revealed	reveal	VBN	pb=reveal.01	2	advcl	_
+12	in	in	IN	_	11	prep	11:AM-LOC
+13	the	the	DT	_	14	det	_
+14	Echo	echo	NNP	p2=NN	12	pobj	_
+15	earlier	early	RBR	_	17	advmod	_
+16	this	this	DT	_	17	det	_
+17	month	month	NN	_	11	npadvmod	11:AM-TMP
+18	,	,	,	_	2	punct	_
+19	which	which	WDT	_	21	nsubj	21:R-A0
+20	has	have	VBZ	_	21	aux	_
+21	led	lead	VBN	pb=lead.03	2	advcl	_
+22	to	to	IN	p2=TO	21	prep	21:A2=PRD
+23	finance	finance	NN	_	24	nn	_
+24	bosses	boss	NNS	_	25	nsubj	25:A0=PAG
+25	setting	set	VBG	pb=set.03	22	pcomp	_
+26	up	up	RP	_	25	prt	25:C-V
+27	regular	regular	JJ	_	29	amod	_
+28	crisis	crisis	NN	_	29	nn	_
+29	meetings	meeting	NNS	_	25	dobj	25:A1=PPT
+30	.	.	.	_	2	punct	_
+
+1	Last	last	JJ	_	2	amod	_
+2	year	year	NN	_	6	npadvmod	6:AM-TMP
+3	,	,	,	_	6	punct	_
+4	the	the	DT	_	5	det	_
+5	hospital	hospital	NN	_	6	nsubj	6:A0
+6	said	say	VBD	pb=say.01	0	root	_
+7	it	it	PRP	_	9	nsubj	9:A0=PPT;16:A0=PAG
+8	was	be	VBD	_	9	aux	_
+9	looking	look	VBG	pb=look.01	6	ccomp	6:A1=PPT
+10	to	to	IN	_	9	prep	9:A1=GOL
+11	Spain	spain	NNP	_	10	pobj	_
+12	and	and	CC	_	11	cc	_
+13	the	the	DT	_	14	det	_
+14	Philippines	philippine	NNPS	p2=NNP	11	conj	_
+15	to	to	TO	_	16	aux	_
+16	recruit	recruit	VB	pb=recruit.01	9	advcl	9:AM-PRP
+17	nurses	nurse	NNS	_	16	dobj	16:A1=PPT
+18	to	to	TO	_	19	aux	_
+19	plug	plug	VB	pb=plug.01	17	infmod	_
+20	the	the	DT	_	21	det	_
+21	shortfall	shortfall	NN	_	19	dobj	19:A1=GOL
+22	.	.	.	_	6	punct	_
+
+1	The	the	DT	_	2	det	_
+2	£12.9million	£0million	NN	p2=CD	9	nsubj	9:A0=PAG;3:A1=VSP
+3	spent	spend	VBN	p2=VBD|pb=spend.02	2	partmod	_
+4	in	in	IN	_	3	prep	3:AM-TMP
+5	a	a	DT	_	6	det	_
+6	year	year	NN	_	4	pobj	_
+7	could	could	MD	_	9	aux	9:AM-MOD
+8	have	have	VB	_	9	aux	_
+9	covered	cover	VBN	pb=cover.02	0	root	_
+10	the	the	DT	_	12	det	_
+11	annual	annual	JJ	_	12	amod	_
+12	salary	salary	NN	_	9	dobj	9:A1=PPT
+13	of	of	IN	_	12	prep	_
+14	up	up	IN	p2=RB	16	quantmod	_
+15	to	to	TO	_	16	quantmod	_
+16	500	0	CD	_	17	num	_
+17	nurses	nurse	NNS	_	13	pobj	_
+18	.	.	.	_	9	punct	_
+
+1	Hospital	hospital	NN	p2=JJ	2	nn	_
+2	bosses	boss	NNS	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	changes	change	NNS	_	3	dobj	3:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	overseas	overseas	JJ	_	7	amod	_
+7	procedures	procedure	NNS	_	5	pobj	_
+8	,	,	,	_	3	punct	_
+9	by	by	IN	_	16	prep	16:AM-MNR
+10	the	the	DT	_	11	det	_
+11	Nursing	nursing	NN	p2=NNP	9	pobj	_
+12	and	and	CC	_	11	cc	_
+13	Midwifery	midwifery	NNP	_	14	nn	_
+14	Council	council	NNP	_	11	conj	16:A0=PAG
+15	,	,	,	_	16	punct	_
+16	meant	mean	VBD	pb=mean.01	3	advcl	_
+17	about	about	IN	p2=RB	18	advmod	_
+18	100	0	CD	_	19	num	_
+19	staff	staff	NN	_	22	nsubj	22:A1=PPT
+20	could	could	MD	_	22	aux	22:AM-MOD
+21	not	not	RB	_	22	neg	22:AM-NEG
+22	start	start	VB	pb=start.01	16	ccomp	16:A1=PPT
+23	until	until	IN	_	22	prep	22:AM-TMP
+24	late	late	RB	p2=JJ	26	advmod	_
+25	last	last	JJ	_	26	amod	_
+26	year	year	NN	_	23	pobj	_
+27	.	.	.	_	3	punct	_
+
+1	Finance	finance	NN	p2=NNP	2	nn	_
+2	chiefs	chief	NNS	_	3	nsubj	3:A0=PAG
+3	admit	admit	VBP	pb=admit.01	0	root	_
+4	this	this	DT	_	6	nsubj	6:A0=PAG
+5	has	have	VBZ	p2=NNS	6	aux	_
+6	contributed	contribute	VBN	pb=contribute.01	3	ccomp	3:A1
+7	to	to	IN	_	6	prep	6:A2=GOL
+8	the	the	DT	_	9	det	_
+9	hospital	hospital	NN	_	7	pobj	_
+10	having	have	VBG	pb=have.03	6	advcl	_
+11	the	the	DT	_	13	det	_
+12	highest	high	JJS	_	13	amod	_
+13	number	number	NN	_	10	dobj	10:A1=PPT
+14	of	of	IN	_	13	prep	_
+15	temporary	temporary	JJ	_	23	amod	_
+16	staff	staff	NN	_	18	hmod	_
+17	-	-	HYPH	p2=,	18	hyph	_
+18	more	more	RBR	p2=JJR	20	amod	_
+19	than	than	IN	_	20	quantmod	_
+20	double	double	JJ	p2=PDT	23	num	_
+21	the	the	DT	_	23	det	_
+22	£6million	£0million	CD	p2=NN	23	nn	_
+23	cost	cost	NN	_	14	pobj	_
+24	in	in	IN	_	13	prep	_
+25	2011/12	0	CD	_	24	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	Clare	clare	NNP	p2=VB	2	nn	_
+2	Panniker	panniker	NNP	_	10	nsubj	10:A0
+3	,	,	,	_	2	punct	_
+4	the	the	DT	_	5	det	_
+5	hospital	hospital	NN	_	8	poss	_
+6	's	's	POS	_	5	possessive	_
+7	chief	chief	JJ	_	8	amod	_
+8	executive	executive	NN	_	2	appos	_
+9	,	,	,	_	2	punct	_
+10	said	say	VBD	pb=say.01	0	root	_
+11	:	:	:	_	10	punct	_
+12	"	"	``	_	10	punct	_
+13	There	there	EX	_	16	expl	_
+14	will	will	MD	_	16	aux	16:AM-MOD
+15	always	always	RB	_	16	advmod	16:AM-TMP
+16	be	be	VB	pb=be.02	27	ccomp	_
+17	a	a	DT	_	18	det	_
+18	need	need	NN	_	16	attr	16:A1=PPT
+19	to	to	TO	_	20	aux	_
+20	use	use	VB	pb=use.01	18	infmod	_
+21	agency	agency	NN	_	22	nn	_
+22	nurses	nurse	NNS	_	20	dobj	20:A1=PPT
+23	,	,	,	_	27	punct	_
+24	however	however	RB	_	27	advmod	27:AM-ADV
+25	we	we	PRP	_	27	nsubj	27:A0=PAG;29:A0=PAG
+26	are	be	VBP	_	27	aux	_
+27	working	work	VBG	pb=work.01	10	ccomp	10:A1=PPT
+28	to	to	TO	p2=IN	29	aux	_
+29	minimise	minimise	VB	pb=minimise.01	27	advcl	27:A1=PPT
+30	this	this	DT	_	29	dobj	29:A1=PPT
+31	as	as	RB	_	32	advmod	_
+32	much	much	RB	p2=JJ	29	advmod	29:AM-EXT
+33	as	as	IN	p2=RB	32	prep	_
+34	possible	possible	JJ	_	33	amod	_
+35	through	through	IN	_	29	prep	29:AM-MNR
+36	better	good	JJR	p2=RBR	37	amod	_
+37	planning	planning	NN	_	35	pobj	_
+38	.	.	.	_	10	punct	_
+39	"	"	''	_	10	punct	_
+
+1	Some	some	DT	_	13	nsubj	13:A0=PAG
+2	of	of	IN	_	1	prep	_
+3	the	the	DT	_	5	det	_
+4	100	0	CD	_	5	num	_
+5	nurses	nurse	NNS	_	2	pobj	8:A1=PPT
+6	who	who	WP	_	8	nsubjpass	8:R-A1
+7	were	be	VBD	_	8	auxpass	_
+8	recruited	recruit	VBN	pb=recruit.01	5	rcmod	_
+9	from	from	IN	_	8	prep	8:A3=DIR
+10	overseas	overseas	RB	p2=JJ	9	pobj	_
+11	are	be	VBP	_	13	aux	_
+12	currently	currently	RB	_	13	advmod	13:AM-TMP
+13	working	work	VBG	pb=work.01	0	root	_
+14	under	under	IN	_	13	prep	13:AM-LOC
+15	supervision	supervision	NN	_	14	pobj	_
+16	pending	pending	VBG	_	13	advcl	13:AM-ADV
+17	commencement	commencement	NN	_	16	dobj	_
+18	of	of	IN	_	17	prep	_
+19	their	their	PRP$	_	23	poss	_
+20	formal	formal	JJ	_	23	amod	_
+21	overseas	overseas	JJ	_	23	amod	_
+22	nursing	nursing	NN	_	23	nn	_
+23	programmes	program	NNS	_	18	pobj	_
+24	.	.	.	_	13	punct	_
+
+1	The	the	DT	_	2	det	_
+2	hospital	hospital	NN	_	3	nsubj	3:A0=PAG
+3	recruited	recruit	VBD	pb=recruit.01	0	root	_
+4	an	an	DT	_	7	det	_
+5	extra	extra	JJ	_	7	amod	_
+6	200	0	CD	_	7	num	_
+7	nurses	nurse	NNS	_	3	dobj	3:A1=PPT
+8	in	in	IN	_	3	prep	3:AM-TMP
+9	2013	0	CD	_	8	pobj	_
+10	to	to	TO	_	11	aux	_
+11	cope	cope	VB	pb=cope.01	3	advcl	3:A2=PRD
+12	with	with	IN	_	11	prep	11:A1=PPT
+13	the	the	DT	_	15	det	_
+14	extra	extra	JJ	_	15	amod	_
+15	burden	burden	NN	_	12	pobj	_
+16	,	,	,	_	3	punct	_
+17	but	but	CC	_	3	cc	_
+18	over	over	IN	_	19	quantmod	_
+19	half	half	NN	p2=DT	23	nsubjpass	23:A1=PPT
+20	of	of	IN	_	19	prep	_
+21	these	these	DT	_	20	pobj	_
+22	were	be	VBD	_	23	auxpass	_
+23	delayed	delay	VBN	p2=JJ|pb=delay.01	3	conj	_
+24	because	because	IN	_	27	mark	_
+25	they	they	PRP	_	27	nsubjpass	27:A1=PPT
+26	were	be	VBD	_	27	auxpass	_
+27	employed	employ	VBN	pb=employ.01	23	advcl	23:AM-CAU
+28	from	from	IN	_	27	prep	27:A2=PRD
+29	overseas	overseas	RB	p2=JJ	28	pcomp	_
+30	.	.	.	_	23	punct	_
+
+1	In	in	IN	_	6	prep	6:AM-TMP
+2	July	july	NNP	_	1	pobj	_
+3	,	,	,	_	6	punct	_
+4	the	the	DT	_	5	det	_
+5	hospital	hospital	NN	_	6	nsubj	6:A0=PAG
+6	posted	post	VBD	pb=post.01	0	root	_
+7	its	its	PRP$	_	9	poss	_
+8	biggest	big	JJS	_	9	amod	_
+9	expenditure	expenditure	NN	_	6	dobj	6:A1=PPT
+10	on	on	IN	_	9	prep	_
+11	stop	stop	NN	p2=VB	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	gap	gap	NN	_	14	nn	_
+14	staff	staff	NN	_	10	pobj	_
+15	-	-	HYPH	p2=:	18	hyph	_
+16	just	just	RB	p2=NN	18	advmod	_
+17	over	over	IN	_	18	quantmod	_
+18	£2.5million	£0million	CD	p2=NN	25	num	_
+19	,	,	,	_	14	punct	_
+20	with	with	IN	_	6	prep	_
+21	the	the	DT	_	22	det	_
+22	majority	majority	NN	_	23	nsubj	23:A1=PPT
+23	going	go	VBG	pb=go.01	20	pcomp	_
+24	on	on	IN	p2=RP	23	prep	23:A2=EXT
+25	nurses	nurse	NNS	_	24	pobj	_
+26	.	.	.	_	6	punct	_
+
+1	In	in	IN	_	7	prep	7:AM-TMP
+2	total	total	JJ	p2=NN	3	amod	_
+3	£4.4million	£0million	NN	p2=CD	1	pobj	_
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	£12.9million	£0million	NN	p2=CD	4	pobj	_
+7	went	go	VBD	pb=go.01	0	root	_
+8	on	on	IN	p2=RP	7	prep	7:A1=PPT
+9	nursing	nursing	NN	p2=VBG	10	nn	_
+10	staff	staff	NN	_	8	pobj	_
+11	over	over	IN	_	7	prep	7:AM-TMP
+12	the	the	DT	_	13	det	_
+13	year	year	NN	_	11	pobj	_
+14	.	.	.	_	7	punct	_
+
+1	Last	last	JJ	_	2	amod	_
+2	week	week	NN	_	6	npadvmod	6:AM-TMP
+3	,	,	,	_	6	punct	_
+4	the	the	DT	_	5	det	_
+5	trust	trust	NN	_	6	nsubj	6:A0=PAG
+6	had	have	VBD	pb=have.03	0	root	_
+7	128	0	CD	_	9	num	_
+8	nursing	nursing	NN	_	9	nn	_
+9	posts	post	NNS	_	6	dobj	6:A1=PPT
+10	vacant	vacant	JJ	_	9	amod	_
+11	,	,	,	_	6	punct	_
+12	but	but	CC	_	6	cc	_
+13	Ms	ms	NNP	p2=NNPS	14	nn	_
+14	Panniker	panniker	NNP	_	15	nsubj	15:A0=PAG
+15	added	add	VBD	pb=add.01	6	conj	_
+16	:	:	:	_	15	punct	_
+17	"	"	``	_	15	punct	_
+18	We	we	PRP	_	20	nsubj	20:A0=PAG;22:A0=PAG
+19	are	be	VBP	_	20	aux	_
+20	continuing	continue	VBG	pb=continue.01	15	ccomp	15:A1=PPT
+21	to	to	TO	_	22	aux	_
+22	recruit	recruit	VB	pb=recruit.01	20	xcomp	20:A1=PPT
+23	nurses	nurse	NNS	_	22	dobj	22:A1=PPT
+24	.	.	.	_	15	punct	_
+25	"	"	''	_	15	punct	_
+
+1	Patient	patient	NN	p2=JJ	2	nn	_
+2	care	care	NN	_	5	nsubj	5:A1=PPT
+3	and	and	CC	_	2	cc	_
+4	safety	safety	NN	_	2	conj	_
+5	is	be	VBZ	pb=be.01	0	root	_
+6	our	our	PRP$	_	7	poss	_
+7	priority	priority	NN	_	5	attr	5:A2=PRD
+8	and	and	CC	_	5	cc	_
+9	that	that	DT	p2=IN	10	nsubj	10:A2=GOL
+10	includes	include	VBZ	pb=include.01	5	conj	_
+11	ensuring	ensure	VBG	pb=ensure.01	10	xcomp	10:A1=PPT
+12	ward	ward	NN	p2=VBN	13	nn	_
+13	staffing	staffing	NN	_	14	nn	_
+14	levels	level	NNS	_	15	nsubj	15:A0=PAG
+15	meet	meet	VBP	p2=VB|pb=meet.01	11	ccomp	11:A1=PPT
+16	safe	safe	JJ	_	17	amod	_
+17	standards	standard	NNS	_	15	dobj	15:A1=PPT
+18	.	.	.	_	10	punct	_
+
+1	The	the	DT	_	2	det	_
+2	hospital	hospital	NN	_	3	nsubj	7:A0;3:A1=PPT
+3	was	be	VBD	pb=be.01	0	root	_
+4	not	not	RB	_	3	neg	3:AM-NEG
+5	able	able	JJ	_	3	acomp	3:A2=PRD
+6	to	to	TO	_	7	aux	_
+7	say	say	VB	pb=say.01	5	xcomp	_
+8	how	how	WRB	_	9	advmod	_
+9	many	many	JJ	_	11	amod	_
+10	agency	agency	NN	_	11	nn	_
+11	staff	staff	NN	_	32	nn	13:A1=PPT
+12	it	it	PRP	_	13	nsubj	13:A0=PAG
+13	employed	employ	VBD	pb=employ.02	11	rcmod	_
+14	or	or	CC	_	13	cc	_
+15	how	how	WRB	_	16	advmod	_
+16	much	much	JJ	_	3	attr	_
+17	of	of	IN	_	16	prep	_
+18	a	a	DT	_	19	det	_
+19	cut	cut	NN	p2=VBN	17	pobj	22:A1=PPT
+20	the	the	DT	_	21	det	_
+21	agencies	agency	NNS	_	22	nsubj	22:A0
+22	took	take	VBD	pb=take.01	19	rcmod	_
+23	from	from	IN	_	22	prep	22:A2=DIR
+24	the	the	DT	_	25	det	_
+25	money	money	NN	_	23	pobj	29:A1=VSP
+26	their	their	PRP$	_	27	poss	_
+27	staff	staff	NN	_	29	nsubjpass	_
+28	were	be	VBD	_	29	auxpass	_
+29	paid	pay	VBN	pb=pay.01	25	rcmod	_
+30	by	by	IN	_	29	agent	29:R-A0=PAG
+31	Basildon	basildon	NNP	_	32	nn	_
+32	Hospital	hospital	NNP	_	30	pobj	_
+33	.	.	.	_	3	punct	_
+
+1	NURSES	nurse	NNS	p2=NNP	3	nsubj	5:A0;3:A2=PPT
+2	are	be	VBP	_	3	aux	_
+3	training	train	VBG	p2=NN|pb=train.01	0	root	_
+4	here	here	RB	_	3	advmod	3:AM-LOC
+5	then leaving	then leaving	VBG	p2=NNP|pb=then leaving.01	3	advcl	3:AM-ADV
+6	England	england	NNP	_	5	dobj	5:A1
+7	because	because	IN	_	12	mark	_
+8	the	the	DT	_	9	det	_
+9	lure of	lure of	NNP	p2=NN	10	nsubj	10:A0=PAG
+10	working	work	VBG	p2=NN|pb=work.01	12	csubj	12:A1=PPT
+11	abroad	abroad	RB	_	10	advmod	10:AM-LOC
+12	is	be	VBZ	pb=be.01	3	advcl	3:AM-CAU
+13	too	too	RB	_	14	advmod	_
+14	great	great	JJ	_	12	acomp	12:A2=PRD
+15	,	,	,	_	12	punct	_
+16	 according	 according	VBG	pb= according.01	12	advcl	12:AM-ADV
+17	to	to	IN	_	16	prep	16:A2
+18	the	the	DT	_	21	det	_
+19	Royal	royal	NNP	_	21	nn	_
+20	College	college	NNP	_	21	nn	_
+21	of Nursing	of nursing	NNP	p2=VBG	17	pobj	_
+22	.	.	.	_	3	punct	_
+
+1	A	a	DT	_	2	det	_
+2	report	report	NN	_	0	root	_
+3	from	from	IN	_	2	prep	_
+4	the	the	DT	_	5	det	_
+5	college reveals	college reveals	NNS	p2=NNPS	3	pobj	_
+6	that	that	IN	p2=WDT	9	nmod	_
+7	between	between	IN	_	8	quantmod	_
+8	2010	0	CD	_	9	num	_
+9	and 2012	and 0	NN	p2=NNP	20	nsubj	_
+10	,	,	,	_	9	punct	_
+11	the	the	DT	_	12	det	_
+12	number	number	NN	_	9	appos	_
+13	of	of	IN	_	12	prep	_
+14	full	full	JJ	_	16	hmod	_
+15	-	-	HYPH	_	16	hyph	_
+16	time	time	NN	_	17	nn	_
+17	nurses in	nurses in	NN	p2=NNP	13	pobj	_
+18	the	the	DT	_	19	det	_
+19	UK	uk	NNP	p2=NN	2	appos	20:A1=PPT
+20	dipped	dip	VBN	p2=VBD|pb=dip.01	19	partmod	_
+21	by	by	IN	_	20	agent	20:AM-TMP
+22	some	some	DT	_	23	det	_
+23	3,700	0	CD	p2=LS	21	pobj	_
+24	.	.	.	_	2	punct	_
+
+1	 So	 so	NNP	p2=IN	4	nn	_
+2	Basildon	basildon	NNP	_	4	nn	_
+3	Hospital	hospital	NNP	_	4	nn	_
+4	searching abroad	searching abroad	NNP	p2=NN	7	nsubj	7:A0=PAG;8:A1
+5	for	for	IN	_	4	prep	_
+6	recruits	recruit	NNS	_	5	pobj	_
+7	makes	make	VBZ	pb=make.02	0	root	_
+8	sense when	sense when	VBN	p2=:|pb=sense when.01	7	acomp	_
+9	you	you	PRP	_	10	nsubj	10:A0=PAG
+10	consider	consider	VBP	p2=VB|pb=consider.01	7	ccomp	7:A1=PRD
+11	more	more	RBR	p2=JJR	14	amod	_
+12	and	and	CC	_	11	cc	_
+13	more British	more british	JJ	p2=NNP	11	conj	_
+14	nurses	nurse	NNS	_	16	nsubj	16:A0=PAG
+15	are	be	VBP	_	16	aux	_
+16	seeking	seek	VBG	pb=seek.01	10	ccomp	10:A1
+17	opportunities elsewhere	opportunities elsewhere	RB	p2=NN	16	advmod	16:AM-MNR
+18	.	.	.	_	7	punct	_
+
+1	THE	the	DT	_	13	det	_
+2	Nursing	nursing	NN	p2=NNP	13	nn	_
+3	and	and	CC	_	2	cc	_
+4	Midwifery Council	midwifery council	NNP	p2=NN	2	conj	_
+5	,	,	,	_	4	punct	_
+6	the	the	DT	_	10	det	_
+7	organisation	organisation	NN	_	9	hmod	_
+8	behind the	behind the	HYPH	p2=NN	9	hyph	_
+9	nursing	nursing	NN	p2=VBG	10	nn	_
+10	recruitment	recruitment	NN	_	11	nsubj	11:A0
+11	changes was	changes was	VBD	p2=VBZ|pb=changes was.01	13	amod	_
+12	adamant	adamant	JJ	_	13	amod	_
+13	hospitals	hospital	NNS	_	14	nsubj	11:A1;14:A1=PPT
+14	were	be	VBD	pb=be.01	0	root	_
+15	well aware	well aware	NNP	p2=JJ	14	attr	14:A2=PRD
+16	of	of	IN	_	15	prep	_
+17	the	the	DT	_	19	det	_
+18	new	new	JJ	_	19	amod	_
+19	guidelines	guideline	NNS	_	16	pobj	_
+20	and explained	and explained	VBD	p2=NFP|pb=and explained.01	14	conj	_
+21	the	the	DT	_	22	det	_
+22	changes	change	NNS	_	20	dobj	20:A1
+23	in	in	IN	_	22	prep	_
+24	detail	detail	NN	_	23	pobj	_
+25	.	.	.	_	14	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0
+2	said	say	VBD	pb=say.01	0	root	_
+3	it	it	PRP	_	5	nsubj	5:A0=PAG
+4	had	have	VBD	_	5	aux	_
+5	published	publish	VBN	pb=publish.01	2	ccomp	2:A1=PPT
+6	all details	all details	NNS	p2=NNP	5	dobj	5:A1=PRD
+7	of	of	IN	_	6	prep	_
+8	the	the	DT	_	9	det	_
+9	changes	change	NNS	_	7	pobj	15:A1
+10	in	in	IN	_	9	prep	_
+11	a monthly	a monthly	JJ	p2=DT	12	amod	_
+12	newsletter	newsletter	NN	_	10	pobj	_
+13	as	as	RB	p2=IN	21	advmod	_
+14	well	well	RB	_	15	advmod	15:AM-MNR
+15	as talking	as talking	VBG	p2=JJ|pb=as talking.01	9	partmod	_
+16	to	to	IN	p2=TO	15	prep	15:A2
+17	NHS	nhs	NNP	p2=NNS	18	nn	_
+18	employers	employer	NNS	_	16	pobj	_
+19	directly when	directly when	,	p2=NNP	21	punct	_
+20	they	they	PRP	_	21	nsubj	21:A1=PPT
+21	were	be	VBD	pb=be.01	5	advcl	5:AM-MNR
+22	in	in	IN	_	21	prep	21:A2=PRD
+23	discussion stages	discussion stages	NNS	p2=NNP	22	pobj	_
+24	.	.	.	_	2	punct	_
+
+1	A	a	DT	_	2	det	_
+2	spokeswoman	spokeswoman	NN	_	3	nsubj	3:A0
+3	said	say	VBD	pb=say.01	0	root	_
+4	they	they	PRP	_	5	nsubj	5:A0
+5	had become	had become	VBP	p2=RB|pb=had become.01	3	ccomp	3:A1=PPT
+6	aware	aware	JJ	p2=NN	5	acomp	5:A1
+7	of	of	IN	_	6	prep	_
+8	a	a	DT	_	10	det	_
+9	"	"	``	_	10	punct	_
+10	potential weakness	potential weakness	NN	_	7	pobj	15:A0
+11	"	"	''	_	10	punct	_
+12	in	in	IN	_	10	prep	_
+13	its	its	PRP$	_	14	poss	_
+14	system	system	NN	_	12	pobj	_
+15	with registering	with registering	VBG	p2=IN|pb=with registering.01	10	partmod	_
+16	overseas	overseas	JJ	p2=RB	19	amod	_
+17	staff	staff	NN	_	18	nn	_
+18	when reviewing	when reviewing	VBG	p2=NN	19	nn	_
+19	procedures	procedure	NNS	_	15	dobj	15:A1
+20	,	,	,	_	3	punct	_
+21	but	but	CC	_	3	cc	_
+22	would not	would not	VBD	p2=JJ|pb=would not.01	3	conj	_
+23	elaborate	elaborate	JJ	p2=RB	22	acomp	22:A1
+24	.	.	.	_	3	punct	_
+
+1	She	she	PRP	_	2	nsubj	2:A0
+2	said	say	VBD	pb=say.01	0	root	_
+3	:	:	:	_	2	punct	_
+4	"	"	``	_	2	punct	_
+5	In	in	IN	_	12	prep	12:AM-PRP
+6	order	order	NN	_	5	pobj	_
+7	to	to	TO	p2=IN	8	aux	_
+8	protect the	protect the	VB	pb=protect the.01	6	infmod	_
+9	public	public	JJ	p2=NN	8	acomp	8:A2
+10	,	,	,	_	12	punct	_
+11	we	we	PRP	_	12	nsubj	12:A0=PPT;14:A0=PAG
+12	reacted	react	VBD	pb=react.01	2	ccomp	2:A1=PPT
+13	immediately to	immediately to	TO	p2=NNP	14	aux	_
+14	strengthen	strengthen	VB	pb=strengthen.01	12	advcl	12:A1=PAG
+15	our	our	PRP$	_	16	poss	_
+16	processes	process	NNS	_	14	dobj	14:A1=PPT
+17	.	.	.	_	2	punct	_
+18	"	"	''	_	2	punct	_
+
+1	The	the	DT	_	3	det	_
+2	biggest	big	JJS	_	3	amod	_
+3	change	change	NN	_	11	nsubj	11:A1=PPT
+4	to	to	IN	_	3	prep	_
+5	date	date	NN	_	4	pobj	_
+6	(	(	-LRB-	_	3	punct	_
+7	in August	in august	NNP	p2=RB	3	appos	_
+8	2013	0	CD	_	7	num	_
+9	)	)	-RRB-	_	3	punct	_
+10	has	have	VBZ	_	11	aux	_
+11	been	be	VBN	pb=be.01	0	root	_
+12	to	to	TO	p2=IN	13	aux	_
+13	require applicants	require applicants	VB	p2=NNS|pb=require applicants.01	11	xcomp	11:A2=PRD
+14	to	to	TO	_	15	aux	_
+15	attend	attend	VB	pb=attend.01	13	advcl	13:AM-PRP
+16	a	a	DT	_	20	det	_
+17	face	face	NN	_	19	hmod	_
+18	-	-	HYPH	p2=:	19	hyph	_
+19	toface identification	toface identification	NN	_	20	nn	_
+20	check	check	NN	_	15	dobj	15:A1=PPT
+21	,	,	,	_	20	punct	_
+22	with originals	with originals	NNS	p2=IN	20	conj	_
+23	of	of	IN	_	22	prep	_
+24	all	all	DT	p2=PDT	26	predet	_
+25	their	their	PRP$	_	26	poss	_
+26	identification documents	identification documents	NNS	_	23	pobj	_
+27	.	.	.	_	11	punct	_
+
+1	"	"	``	_	5	punct	_
+2	We	we	PRP	_	5	nsubj	5:A0=PAG
+3	have	have	VBP	_	5	aux	_
+4	also	also	RB	_	5	advmod	5:AM-ADV
+5	introduced	introduce	VBN	pb=introduce.02	0	root	_
+6	new identification	new identification	NN	p2=NNP	7	nn	_
+7	verification	verification	NN	_	8	nn	_
+8	software	software	NN	_	5	dobj	5:A1=PPT
+9	.	.	.	_	5	punct	_
+
+1	 Since	 since	IN	p2=VB	12	prep	12:AM-TMP
+2	the	the	DT	_	3	det	_
+3	introduction	introduction	NN	_	1	pobj	_
+4	of the	of the	IN	p2=POS	3	prep	_
+5	new	new	JJ	_	6	amod	_
+6	policy	policy	NN	_	4	pobj	_
+7	the	the	DT	_	9	det	_
+8	overseas	overseas	JJ	p2=RB	9	amod	_
+9	nursing programme	nursing programme	NN	p2=NNP	12	nsubj	12:A1
+10	will	will	MD	_	12	aux	12:AM-MOD
+11	always	always	RB	_	12	advmod	12:AM-TMP
+12	consist of	consist of	VB	p2=NNP|pb=consist of.01	0	root	_
+13	,	,	,	_	12	punct	_
+14	as	as	IN	_	3	prep	_
+15	a	a	DT	_	16	det	_
+16	minimum	minimum	NN	p2=JJ	14	pobj	_
+17	,	,	,	_	16	punct	_
+18	20	0	CD	_	19	nsubj	_
+19	days learning	days learning	VBG	p2=NN	27	nn	_
+20	time	time	NN	_	19	dobj	_
+21	and	and	CC	_	14	cc	_
+22	up	up	IN	p2=RP	14	conj	_
+23	to	to	IN	p2=TO	22	prep	_
+24	12 months	0 months	NNS	p2=CD	23	pobj	_
+25	of	of	IN	_	24	prep	_
+26	supervised	supervise	VBN	p2=JJ|pb=supervise.01	27	amod	_
+27	practice	practice	NN	_	25	pobj	26:A1=PPT
+28	.	.	.	_	12	punct	_
+
+1	Many	many	JJ	_	2	amod	_
+2	people	people	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	14	ccomp	_
+4	on	on	IN	_	3	prep	3:A2=PRD
+5	the	the	DT	_	6	det	_
+6	take	take	NN	_	4	pobj	_
+7	,	,	,	_	14	punct	_
+8	a	a	DT	_	10	det	_
+9	high	high	JJ	_	10	amod	_
+10	%	%	NN	_	14	nsubjpass	13:A1=PPT;14:A1=PPT
+11	of	of	IN	_	10	prep	_
+12	that	that	DT	_	11	pobj	_
+13	gets	get	VBZ	pb=get.03	14	auxpass	_
+14	redirected	redirect	VBN	p2=JJ|pb=redirect.01	0	root	13:A2=GOL
+15	to	to	IN	_	14	prep	14:A2=DIR
+16	the	the	DT	_	17	det	_
+17	people	people	NNS	_	15	pobj	19:A0=PAG
+18	who	who	WP	_	19	nsubj	19:R-A0
+19	award	award	VBP	p2=VBD|pb=award.01	17	rcmod	_
+20	the	the	DT	_	21	det	_
+21	contracts	contract	NNS	_	19	dobj	19:A1=PPT
+22	.	.	.	_	14	punct	_
+
+1	Its	its	PRP$	p2=VBZ	4	poss	_
+2	about	about	IN	p2=JJ	3	advmod	_
+3	time	time	NN	_	4	nn	_
+4	someone	someone	NN	_	7	nsubj	7:A0;11:A0=PAG
+5	in	in	IN	_	4	prep	_
+6	authority	authority	NN	_	5	pobj	_
+7	took	take	VBD	pb=take.01	0	root	_
+8	some	some	DT	_	9	det	_
+9	action	action	NN	_	7	dobj	7:AM-PRR
+10	and	and	CC	_	7	cc	_
+11	did	do	VBD	pb=do.02	7	conj	_
+12	a	a	DT	_	14	det	_
+13	detailed	detailed	JJ	_	14	amod	_
+14	search	search	NN	_	11	dobj	11:A1=PPT
+15	of	of	IN	_	14	prep	_
+16	the	the	DT	_	18	det	_
+17	financial	financial	JJ	_	18	amod	_
+18	accounts	account	NNS	_	15	pobj	_
+19	of	of	IN	_	18	prep	_
+20	the	the	DT	_	21	det	_
+21	agencies	agency	NNS	_	19	pobj	_
+22	and	and	CC	_	11	cc	_
+23	account	account	VBP	p2=NN|pb=account.01	11	conj	_
+24	for	for	IN	_	23	prep	23:A1=PPT
+25	where	where	WRB	p2=RB	29	advmod	29:R-A4
+26	every	every	DT	_	28	det	_
+27	last	last	JJ	_	28	amod	_
+28	penny	penny	NN	_	29	nsubj	29:A1=PPT
+29	goes	go	VBZ	pb=go.01	24	pcomp	_
+30	.	.	.	_	7	punct	_
+
+1	For	for	IN	_	10	prep	10:AM-ADV
+2	clarity	clarity	NN	_	1	pobj	_
+3	,	,	,	_	10	punct	_
+4	most	most	JJS	_	10	nsubj	10:A1=PPT
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	8	det	_
+7	12	0	CD	_	8	num	_
+8	mil	mil	NN	_	5	pobj	_
+9	actually	actually	RB	_	10	advmod	10:AM-ADV
+10	goes	go	VBZ	pb=go.10	0	root	_
+11	on	on	IN	_	10	prep	10:C-V
+12	wages	wage	NNS	_	11	pobj	_
+13	,	,	,	_	10	punct	_
+14	but	but	CC	_	10	cc	_
+15	there	there	EX	_	16	expl	_
+16	is	be	VBZ	pb=be.02	10	conj	_
+17	still	still	RB	_	16	advmod	16:AM-TMP
+18	a	a	DT	_	22	det	_
+19	healthy	healthy	JJ	_	22	amod	_
+20	20-35	0	CD	_	21	num	_
+21	%	%	NN	_	22	nn	_
+22	profit	profit	NN	_	16	attr	16:A1=PPT
+23	.	.	.	_	16	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A0=PAG
+2	want	want	VBP	pb=want.01	0	root	_
+3	you	you	PRP	_	5	nsubj	5:A0=PPT
+4	to	to	TO	_	5	aux	_
+5	enjoy	enjoy	VB	pb=enjoy.01	2	ccomp	2:A1=PPT
+6	your	your	PRP$	_	7	poss	_
+7	visit	visit	NN	_	5	dobj	5:A1=PAG
+8	to	to	IN	_	7	prep	_
+9	our	our	PRP$	_	10	poss	_
+10	website	website	NN	_	8	pobj	_
+11	.	.	.	_	2	punct	_
+
+1	That	that	DT	_	2	nsubj	2:A1=PPT
+2	's	be	VBZ	pb=be.01	0	root	_
+3	why	why	WRB	_	5	advmod	5:R-AM-CAU
+4	we	we	PRP	_	5	nsubj	5:A0=PAG;8:A0=PAG
+5	use	use	VBP	pb=use.01	2	ccomp	2:A2=PRD
+6	cookies	cookie	NNS	_	5	dobj	5:A1=PPT
+7	to	to	TO	_	8	aux	_
+8	enhance	enhance	VB	pb=enhance.01	5	xcomp	5:A2=PRP
+9	your	your	PRP$	_	10	poss	_
+10	experience	experience	NN	_	8	dobj	8:A1=PPT
+11	.	.	.	_	2	punct	_
+
+1	By	by	IN	_	7	prep	7:AM-MNR
+2	staying	stay	VBG	pb=stay.01	1	pcomp	_
+3	on	on	IN	_	2	prep	2:A3
+4	our	our	PRP$	_	5	poss	_
+5	website	website	NN	_	3	pobj	_
+6	you	you	PRP	_	7	nsubj	7:A0=PAG
+7	agree	agree	VBP	pb=agree.01	0	root	_
+8	to	to	IN	_	7	prep	7:A1=PPT
+9	our	our	PRP$	_	10	poss	_
+10	use	use	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	cookies	cookie	NNS	_	11	pobj	_
+13	.	.	.	_	7	punct	_
+
+1	Find	find	VB	pb=find.03	0	root	_
+2	out	out	RP	p2=RB	1	prt	1:C-V
+3	more	more	JJR	p2=RBR	1	dobj	1:A1=PPT
+4	about	about	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	cookies	cookie	NNS	_	4	pobj	8:A1=PPT
+7	we	we	PRP	_	8	nsubj	8:A0=PAG
+8	use	use	VBP	pb=use.01	6	rcmod	_
+9	.	.	.	_	1	punct	_
+

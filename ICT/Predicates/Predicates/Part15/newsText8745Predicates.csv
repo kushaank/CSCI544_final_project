@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+47 states,see.01,a drop in,,Affirmative,"According to the report , 47 states saw a drop in unemployment numbers from March to April , but the remaining three either saw no change in unemployment or , in one case , even an increase . "
+the remaining three either,see.01,no change in unemployment,,Affirmative,"According to the report , 47 states saw a drop in unemployment numbers from March to April , but the remaining three either saw no change in unemployment or , in one case , even an increase . "
+Utah,continue.01,to rank among,,Affirmative,"Utah continues to rank among the states with the lowest unemployment numbers , joined by Wyoming , Vermont , South Dakota , North Dakota and Nebraska as states with an unemployment rate below 4 percent . "
+"by Wyoming , Vermont ,",join.01,"the lowest unemployment numbers , joined by Wyoming , Vermont ,",,Affirmative,"Utah continues to rank among the states with the lowest unemployment numbers , joined by Wyoming , Vermont , South Dakota , North Dakota and Nebraska as states with an unemployment rate below 4 percent . "
+those Americans,stop.01,looking for work,,Affirmative,True unemployment numbers are much worse when you factor in those Americans that have stopped looking for work & given up . 
+those Americans,look.01,for work,,Affirmative,True unemployment numbers are much worse when you factor in those Americans that have stopped looking for work & given up . 
+&,lose.03,benefits,,Affirmative,They drop out of the unemployment numbers when they lose benefits & are no longer counted . 

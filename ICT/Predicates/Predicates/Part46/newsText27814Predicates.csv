@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Officials,investigate.01,a report of,,Affirmative,Officials are investigating a report of two pedestrians struck by a train on Cinder Lane . 
+by,strike.02,two pedestrians struck by,,Affirmative,Officials are investigating a report of two pedestrians struck by a train on Cinder Lane . 
+Sources,confirm.01,girl was hit by,,Affirmative,LOWER POTTSGROVE � Sources confirmed Monday that a girl was hit by a Norfolk Southern freight train while she was walking along the tracks near the Home Depot Saturday evening . 
+by,strike.01,two pedestrians struck by a train on Cinder Lane,,Affirmative,The Lower Pottsgrove incident was the second of two in which pedestrians were struck by Norfolk Southern trains Saturday . 
+by,kill.01,two males walking along tracks near,,Affirmative,"That morning , two males walking along tracks near the former Valley Forge National Historical Park train station at the foot of the Betzwood bridge were struck and killed instantly by a freight train around 7:35 a.m. , according to Upper Merion police . "
+"Lower Pottsgrove police ,",refer.02,all questions,to,Affirmative,"Lower Pottsgrove police , who assisted at the scene along with Pottstown police , referred all questions Monday to Norfolk Southern police , who are investigating the incident . "
+"Southern police ,",investigate.01,the incident which occurred around 6:30 p.m. Saturday,,Affirmative,"Lower Pottsgrove police , who assisted at the scene along with Pottstown police , referred all questions Monday to Norfolk Southern police , who are investigating the incident . "
+Police at,say.01,incident allegedly occurred along tracks near,,Affirmative,Police at the scene Saturday said the incident allegedly occurred along tracks near Armand Hammer Boulevard and the Home Depot in Lower Pottsgrove . 
+A conductor on,report.01,seeing,,Affirmative,A conductor on the train reported seeing the girl walking on the tracks before hearing a thump . 
+A conductor on,see.01,girl walking on,,Affirmative,A conductor on the train reported seeing the girl walking on the tracks before hearing a thump . 
+the girl,hear.01,a thump,,Affirmative,A conductor on the train reported seeing the girl walking on the tracks before hearing a thump . 
+Dave Pidgeon,say.01,train was going at,,Affirmative,"The track speed in the area of the incident is set at 50 miles per hour , but Pidgeon could not say how fast the train was going at the time of the incident . "
+"The train ,",have.03,three locomotives and,,Affirmative,"The train , which had three locomotives and 90 empty cars attached , was heading west when the incident occurred . "
+"The train ,",head.02,west,,Affirmative,"The train , which had three locomotives and 90 empty cars attached , was heading west when the incident occurred . "
+Dave Pidgeon,say.01,trains were halted on,,Affirmative,Pidgeon could not say if the trains were halted on the eastbound tracks but did say no other trains were run on the westbound tracks while the train was stopped and to accommodate the investigation . 
+Norfolk Southern trains,say.01,trains were run on,,Affirmative,Pidgeon could not say if the trains were halted on the eastbound tracks but did say no other trains were run on the westbound tracks while the train was stopped and to accommodate the investigation . 
+a freight train around 7:35 a.m.,accommodate.01,the investigation of the Lower Pottsgrove incident,,Affirmative,Pidgeon could not say if the trains were halted on the eastbound tracks but did say no other trains were run on the westbound tracks while the train was stopped and to accommodate the investigation . 
+�We,want.01,to do,,Affirmative,"�We want to do what we can to help any kind of investigation , � said Pidgeon . "
+�We,help.01,any kind of investigation,,Affirmative,"�We want to do what we can to help any kind of investigation , � said Pidgeon . "
+Dave Pidgeon,say.01,�We want,,Affirmative,"�We want to do what we can to help any kind of investigation , � said Pidgeon . "
+Dave Pidgeon,say.01,investigation was ongoing and,,Affirmative,Pidgeon said the investigation was ongoing and could give no further details Monday afternoon . 
+the investigation of the Lower Pottsgrove incident,give.01,no further details,,Affirmative,Pidgeon said the investigation was ongoing and could give no further details Monday afternoon . 
+"Thomas Algatt ,",say.01,could be charged with trespassing,,Affirmative,"Thomas Algatt , state coordinator of Pennsylvania Operation Lifesaver , said all train track rights - of - way are private property and anyone found walking on them could be charged with trespassing . "
+Thomas Algatt,say.01,he was not familiar with,,Affirmative,"Algatt said he was not familiar with the investigation into Saturday�s incident , but said it would be up to the investigating officers to decide whether the girl struck Saturday would be charged . "
+Thomas Algatt,say.01,it would be up to,,Affirmative,"Algatt said he was not familiar with the investigation into Saturday�s incident , but said it would be up to the investigating officers to decide whether the girl struck Saturday would be charged . "
+a girl,strike.01,Saturday would be charged,,Affirmative,"Algatt said he was not familiar with the investigation into Saturday�s incident , but said it would be up to the investigating officers to decide whether the girl struck Saturday would be charged . "

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Five gunmen,shoot.03,dead three persons,,Affirmative,"Five gunmen were killed in an encounter with Elite Force in Chiniot district on Sunday , shortly after they shot dead three persons . "
+five armed persons belonging to,belong.01,to,,Affirmative,"According to police , five armed persons belonging to Bajaur Agency opened indiscriminate fire in a local market , killing three traders , including two brothers and tried to escape the crime scene . "
+five armed persons belonging to,open.01,indiscriminate fire,,Affirmative,"According to police , five armed persons belonging to Bajaur Agency opened indiscriminate fire in a local market , killing three traders , including two brothers and tried to escape the crime scene . "
+five armed persons belonging to,kill.01,"three traders , including",,Affirmative,"According to police , five armed persons belonging to Bajaur Agency opened indiscriminate fire in a local market , killing three traders , including two brothers and tried to escape the crime scene . "
+five armed persons belonging to,try.01,to escape,,Affirmative,"According to police , five armed persons belonging to Bajaur Agency opened indiscriminate fire in a local market , killing three traders , including two brothers and tried to escape the crime scene . "
+five armed persons belonging to,escape.01,the crime scene,,Affirmative,"According to police , five armed persons belonging to Bajaur Agency opened indiscriminate fire in a local market , killing three traders , including two brothers and tried to escape the crime scene . "
+police,followed.02,the assailants,,Affirmative,"Police followed the assailants and warned them to stop , but they hid in a nearby village and held two farmers hostage . "
+police,warn.01,to stop,them,Affirmative,"Police followed the assailants and warned them to stop , but they hid in a nearby village and held two farmers hostage . "
+police,hold.04,two farmers,,Affirmative,"Police followed the assailants and warned them to stop , but they hid in a nearby village and held two farmers hostage . "

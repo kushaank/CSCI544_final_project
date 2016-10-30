@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The United Nations,appeal.02,to donors,,Affirmative,The United Nations appealed to donors on Monday for $ 60 million in aid to help avert famine and a humanitarian disaster in Somalia . 
+"UN humanitarian coordinator for Somalia ,",say.01,"assisted , they are at",,Affirmative,"If 50,000 acutely malnourished children are not assisted , they are at the door of death , UN humanitarian coordinator for Somalia , Philippe Lazzarini , said . "
+Philippe Lazzarini,say.01,were present,,Affirmative,"Lazzarini said the same warning signs of drought and malnutrition were present as was the case before the 2011 famine , which killed more than 250,000 people as funds were slow to arrive . "
+"the 2011 famine ,",kill.01,"250,000 people",,Affirmative,"Lazzarini said the same warning signs of drought and malnutrition were present as was the case before the 2011 famine , which killed more than 250,000 people as funds were slow to arrive . "
+The fledgling government,battle.01,Shabaab militants,,Affirmative,"The fledgling government , with help from African Union troops , is battling al - Qaeda - linked al - Shabaab militants . "
+A new government offensive,weaken.01,al - Shabaab,,Affirmative,A new government offensive has weakened al - Shabaab . 
+Philippe Lazzarini,say.01,group was enacting,,Affirmative,"But Lazzarini said the group was enacting a policy of encirclement , cutting off roads into government - controlled towns to humanitarian agencies and causing food prices to soar . "
+the group,enact.01,a policy of encirclement,,Affirmative,"But Lazzarini said the group was enacting a policy of encirclement , cutting off roads into government - controlled towns to humanitarian agencies and causing food prices to soar . "
+the group,cut.04,roads,,Affirmative,"But Lazzarini said the group was enacting a policy of encirclement , cutting off roads into government - controlled towns to humanitarian agencies and causing food prices to soar . "
+the group,cause.01,prices to soar,,Affirmative,"But Lazzarini said the group was enacting a policy of encirclement , cutting off roads into government - controlled towns to humanitarian agencies and causing food prices to soar . "

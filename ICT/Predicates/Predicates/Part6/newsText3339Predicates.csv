@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Officer Sean Shelton 's,discover.01,lying face down near,,Affirmative,"According to Officer Sean Shelton 's narrative , he was dispatched to the scene at approximately 11:47 p.m. When he arrived , he discovered a black male lying face down near the stairway of an apartment complex . "
+Shelton,report.01,", was bleeding profusely from underneath",,Affirmative,"Shelton reported that the man , later identified as Derrick Cavett , was bleeding profusely from underneath his body . "
+Officer Sean Shelton 's,notify.01,dispatch,,Affirmative,Shelton promptly notified dispatch to send an ambulance and then proceeded to secure the crime scene . 
+Officer Sean Shelton 's,send.01,an ambulance,,Affirmative,Shelton promptly notified dispatch to send an ambulance and then proceeded to secure the crime scene . 
+Officer Sean Shelton 's,proceed.01,to secure,,Affirmative,Shelton promptly notified dispatch to send an ambulance and then proceeded to secure the crime scene . 
+the officer,state.01,the,,Affirmative,"In his report , the officer stated the he observed a black male subject exit the apartment next to the victim's . "
+he,observe.01,the apartment next to,,Affirmative,"In his report , the officer stated the he observed a black male subject exit the apartment next to the victim's . "
+The man,identify.01,the alleged shooter,as,Affirmative,The man identified the alleged shooter as Mike Mike and added that the suspect shot Cavett multiple times . 
+The man,add.01,suspect shot Cavett,,Affirmative,The man identified the alleged shooter as Mike Mike and added that the suspect shot Cavett multiple times . 
+the suspect,shoot.03,Cavett,,Affirmative,The man identified the alleged shooter as Mike Mike and added that the suspect shot Cavett multiple times . 
+The witness,close.01,his apartment door,,Affirmative,The witness immediately closed his apartment door and called police . 
+The witness,call.02,police,,Affirmative,The witness immediately closed his apartment door and called police . 
+Shelton,note.01,that he found,,Affirmative,Shelton noted in his report that he found a .45 caliber spent shell casing next to the victim . 
+he,find.01,spent shell casing next to,,Affirmative,Shelton noted in his report that he found a .45 caliber spent shell casing next to the victim . 
+.45 caliber,spend.02,spent shell casing next to,,Affirmative,Shelton noted in his report that he found a .45 caliber spent shell casing next to the victim . 
+Pafford Ambulance EMTs,begin.01,stabilizing Cavett,,Affirmative,Pafford Ambulance EMTs also arrived at the scene and began stabilizing Cavett . 
+Pafford Ambulance EMTs,stabilize.01,Cavett,,Affirmative,Pafford Ambulance EMTs also arrived at the scene and began stabilizing Cavett . 
+Air Evac,fly.01,him,,Affirmative,He was transported to Helena Regional Medical Center before Air Evac flew him on to The Med . 
+The report,indicate.01,as to,,Affirmative,The report did not indicate as to whether any arrests were made in the shooting incident or as to the condition of the victim . 

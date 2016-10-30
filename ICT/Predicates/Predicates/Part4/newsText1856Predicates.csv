@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A BUNGLING thief,set.01,his own hair,alight,Affirmative,"A BUNGLING thief set his own hair alight while trying to steal an electrical cable in Manama , a court heard . "
+A BUNGLING thief,try.01,to steal,,Affirmative,"A BUNGLING thief set his own hair alight while trying to steal an electrical cable in Manama , a court heard . "
+A BUNGLING thief,steal.01,an electrical cable,,Affirmative,"A BUNGLING thief set his own hair alight while trying to steal an electrical cable in Manama , a court heard . "
+The Bangladeshi man,suffer.01,degree burns,,Affirmative,The Bangladeshi man suffered second - degree burns to his hands and head after trying to cut through cabling at a building in the capital in December . 
+Passers -,alert.01,police,,Affirmative,Passers - by alerted police when the 32 - year - old was spotted ducking into a vehicle with his hair engulfed in flames . 
+by,take.01,the 32-year-old,,Affirmative,"He was taken to Salmaniya Medical Complex by the driver of the car , where it was claimed he suffered the burns while cooking . "
+the 32-year-old,suffer.01,second-degree burns,,Affirmative,"He was taken to Salmaniya Medical Complex by the driver of the car , where it was claimed he suffered the burns while cooking . "
+police,find.01,wire cutters and tools,,Affirmative,"However , police found wire cutters and tools in the defendants ' possession that were apparently used by him during the attempted theft . "
+by him,use.01,possession,,Affirmative,"However , police found wire cutters and tools in the defendants ' possession that were apparently used by him during the attempted theft . "
+friend,tell.01,that he had picked,prosecutors,Affirmative,The incompetent thief 's friend told prosecutors that he had picked the injured man up in his car after receiving a phone call . 
+The incompetent thief 's friend,pick.04,the injured man,,Affirmative,The incompetent thief 's friend told prosecutors that he had picked the injured man up in his car after receiving a phone call . 
+The incompetent thief 's friend,receive.01,a phone call,,Affirmative,The incompetent thief 's friend told prosecutors that he had picked the injured man up in his car after receiving a phone call . 
+The incompetent thief 's friend,call.02,The incompetent thief 's,,Affirmative,"My friend called me and said that he got electrocuted when he was stealing electrical cables , he said . "
+The incompetent thief 's friend,say.01,that he got electrocuted,,Affirmative,"My friend called me and said that he got electrocuted when he was stealing electrical cables , he said . "
+The incompetent thief 's friend,steal.01,electrical cables,,Affirmative,"My friend called me and said that he got electrocuted when he was stealing electrical cables , he said . "
+The incompetent thief 's friend,say.01,friend called me and said,,Affirmative,"My friend called me and said that he got electrocuted when he was stealing electrical cables , he said . "
+The incompetent thief 's,pick.04,The incompetent thief 's friend,,Affirmative,I picked him up and his face was burnt and he was in a bad state . 
+We,take.01,The incompetent thief 's friend,,Affirmative,"We then took him to SMC , where we told doctors that he suffered burns while cooking . "
+We,tell.01,that he suffered burns,doctors,Affirmative,"We then took him to SMC , where we told doctors that he suffered burns while cooking . "
+The incompetent thief 's friend,suffer.01,second-degree burns,,Affirmative,"We then took him to SMC , where we told doctors that he suffered burns while cooking . "
+by,jail.01,The Bangladeshi,,Affirmative,The Bangladeshi was earlier jailed for 12 months by the Lower Criminal Court for attempted theft . 
+The Bangladeshi,complete.01,his sentence,,Affirmative,An appeal lodged at the High Criminal Appeals Court was rejected yesterday and he will be deported after completing his sentence . 

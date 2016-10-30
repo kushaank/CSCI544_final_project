@@ -1,0 +1,48 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+hundred patients,take.01,part,,Affirmative,Several hundred patients take part in experiment at Beth Israel Deaconess Medical Center . 
+the woman,talk.01,about,to,Affirmative,"BOSTON - For years , the woman went to a Boston hospital to talk to a therapist about being depressed and overweight . "
+a therapist,ask.02,questions,,Affirmative,"The therapist , listening closely , asked questions and jotted down notes on a memo pad . "
+a therapist,jot.01,notes on,,Affirmative,"The therapist , listening closely , asked questions and jotted down notes on a memo pad . "
+old woman,know.01,therapist was writing,,Affirmative,"Until recently , the 54 - year - old woman did n't know what her therapist was writing . "
+a therapist,offer.01,to share,,Affirmative,"Then , last month , her therapist offered to share his notes with her regularly . "
+a therapist,share.01,his notes,with her,Affirmative,"Then , last month , her therapist offered to share his notes with her regularly . "
+the 54-year-old woman,read.01,two pages of notes,,Affirmative,"But when she read two pages of notes from two visits last month , she was pleasantly surprised by the level of detail . "
+by,surprise.01,the 54-year-old woman,,Affirmative,"But when she read two pages of notes from two visits last month , she was pleasantly surprised by the level of detail . "
+a therapist,write.01,about,,Affirmative,"He wrote , for example , about how much she disliked using the treadmill . "
+the 54-year-old woman,use.01,the treadmill,,Affirmative,"He wrote , for example , about how much she disliked using the treadmill . "
+the 54-year-old woman,say.01,"He really is listening ,",,Affirmative,"He really is listening , she said . "
+hundred patients taking part in,take.01,part,,Affirmative,"Lori is among several hundred patients taking part in an experiment at Beth Israel Deaconess Medical Center that began March 1 and gives them electronic access to therapy notes written by their psychiatrists , psychologists and social workers . "
+Lori,give.01,electronic access to,them,Affirmative,"Lori is among several hundred patients taking part in an experiment at Beth Israel Deaconess Medical Center that began March 1 and gives them electronic access to therapy notes written by their psychiatrists , psychologists and social workers . "
+by,write.01,therapy notes written by,,Affirmative,"Lori is among several hundred patients taking part in an experiment at Beth Israel Deaconess Medical Center that began March 1 and gives them electronic access to therapy notes written by their psychiatrists , psychologists and social workers . "
+the first private hospital system,do.02,so,,Affirmative,"Beth Israel is the first private hospital system to do so , and the practice has set off a spirited debate among mental - health professionals and patients . "
+the practice,set.05,a spirited debate among,,Affirmative,"Beth Israel is the first private hospital system to do so , and the practice has set off a spirited debate among mental - health professionals and patients . "
+Supporters,argue.01,sharing provides,,Affirmative,Supporters argue note - sharing provides many benefits . 
+note - sharing,provide.01,many benefits,,Affirmative,Supporters argue note - sharing provides many benefits . 
+Supporters,say.01,reduces,,Affirmative,"More transparency , they say , reduces the stigma and isolation of mental illness while boosting patients ' self - image . "
+More transparency,reduce.01,the stigma and isolation of,,Affirmative,"More transparency , they say , reduces the stigma and isolation of mental illness while boosting patients ' self - image . "
+Supporters,say.01,could empower them,,Affirmative,They also say having patients read about their problems could empower them to change their behaviors in positive ways . 
+having,empower.01,several hundred patients,to change,Affirmative,They also say having patients read about their problems could empower them to change their behaviors in positive ways . 
+several hundred patients,change.01,their behaviors,,Affirmative,They also say having patients read about their problems could empower them to change their behaviors in positive ways . 
+"Michael Kahn ,",write.01,feels like entering,,Affirmative,"Bringing transparency into mental health feels like entering a minefield , triggering clinicians ' worst fears about sharing notes with patients , Michael Kahn , a psychiatrist at Beth Israel , wrote in an article in the Journal of the American Medical Association last month . "
+Michael Kahn,take.01,part,,Affirmative,Kahn is taking part in the pilot program . 
+"Jeffrey Lieberman ,",say.01,", I 'm all for it",,Affirmative,"In principle , I 'm all for it , said Jeffrey Lieberman , past president of the American Psychiatric Association . "
+"Jeffrey Lieberman , past president of the American Psychiatric Association",say.01,sharing was,,Affirmative,He said note - sharing was a way to handle mental illnesses that was like the approach to nonpsychiatric ailments . 
+"Jeffrey Lieberman , past president of the American Psychiatric Association",add.01,devil is in,,Affirmative,"But , he added : The devil is in the details . "
+you,manage.01,complexities,,Affirmative,"How you manage complexities , that 's where we are right now . "
+several hundred patients,access.01,protected notes,,Affirmative,Patients can access the encryption - protected notes only through a secure portal and can read them on their home computers . 
+several hundred patients,read.01,several hundred patients,on,Affirmative,Patients can access the encryption - protected notes only through a secure portal and can read them on their home computers . 
+several hundred patients,offer.01,10 percent of,,Affirmative,"They have offered 10 percent of their patients - 350 people - access to their notes , according to Pam Peck , a psychiatrist who is managing the department 's participation . "
+a psychiatrist,manage.01,participation,,Affirmative,"They have offered 10 percent of their patients - 350 people - access to their notes , according to Pam Peck , a psychiatrist who is managing the department 's participation . "
+Individual clinicians,select.01,those patients,,Affirmative,Individual clinicians are selecting those patients they feel could safely read the notes at home . 
+Individual clinicians,feel.02,those patients,,Affirmative,Individual clinicians are selecting those patients they feel could safely read the notes at home . 
+Individual clinicians,read.01,"therapy notes written by their psychiatrists , psychologists and social workers",,Affirmative,Individual clinicians are selecting those patients they feel could safely read the notes at home . 
+social workers at,begin.01,offering notes to 360 of,,Affirmative,"On April 1 , two dozen social workers at the hospital began offering notes to 360 of their patients . "
+social workers at,offer.01,his notes,,Affirmative,"On April 1 , two dozen social workers at the hospital began offering notes to 360 of their patients . "
+their partners,see.01,"therapy notes written by their psychiatrists , psychologists and social workers",,Affirmative,Victims of domestic violence are excluded out of concern that their partners might see the notes . 
+Individual clinicians,say.01,they have been surprised by,,Affirmative,Clinicians say they have been surprised by the feedback . 
+by,surprise.01,Individual clinicians,,Affirmative,Clinicians say they have been surprised by the feedback . 
+Some patients,see.01,"therapy notes written by their psychiatrists , psychologists and social workers",,Affirmative,Some patients have been eager to see the notes . 
+O'Neill,say.01,Others are,,Affirmative,"Others are less interested because it 's not that big a deal , O'Neill said . "
+One patient,tell.01,treatment was like taking,"his social worker ,",Affirmative,"One patient told his social worker , Deborah Judd , that his treatment was like taking his car in for repairs : He trusted the mechanic and did not want to look under the hood . "
+One patient,trust.02,the mechanic,,Affirmative,"One patient told his social worker , Deborah Judd , that his treatment was like taking his car in for repairs : He trusted the mechanic and did not want to look under the hood . "
+One patient,want.01,to look under,,Affirmative,"One patient told his social worker , Deborah Judd , that his treatment was like taking his car in for repairs : He trusted the mechanic and did not want to look under the hood . "

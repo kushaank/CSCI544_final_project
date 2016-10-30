@@ -1,0 +1,194 @@
+1	BANGKOK	bangkok	NNP	p2=VB	11	nsubjpass	13:A0=PAG;11:A1=PPT;20:A1=PPT
+2	-	-	:	p2=,	1	punct	_
+3	The	the	DT	_	4	det	_
+4	winner	winner	NN	_	1	appos	_
+5	of	of	IN	_	4	prep	_
+6	Sunday's Miss	sunday's miss	NNP	_	9	nn	_
+7	Universe	universe	NNP	_	9	nn	_
+8	Thailand	thailand	NNP	_	9	nn	_
+9	competition	competition	NN	_	5	pobj	_
+10	was	be	VBD	_	11	auxpass	_
+11	forced	force	VBN	pb=force.01	0	root	_
+12	to	to	TO	_	13	aux	_
+13	issue	issue	VB	pb=issue.01	11	xcomp	11:A2=PRD
+14	a	a	DT	_	17	det	_
+15	public	public	JJ	p2=NN	17	amod	_
+16	apology Monday	apology monday	NNP	p2=NN	17	nn	_
+17	after comments	after comments	NNS	p2=NNPS	13	dobj	13:A1=PPT
+18	were	be	VBD	_	20	auxpass	_
+19	reportedly	reportedly	RB	_	20	advmod	20:AM-ADV
+20	found	find	VBN	pb=find.01	11	xcomp	_
+21	on	on	IN	_	20	prep	20:AM-LOC
+22	her	her	PRP$	p2=PRP	24	poss	_
+23	Facebook	facebook	NNP	p2=NN	24	nn	_
+24	page	page	NN	_	21	pobj	25:A0=PAG
+25	calling	call	VBG	pb=call.03	24	partmod	_
+26	for	for	IN	_	25	prep	25:A1=PPT
+27	the	the	DT	_	29	det	_
+28	"	"	``	_	29	punct	_
+29	execution	execution	NN	_	26	pobj	_
+30	"	"	''	_	29	punct	_
+31	of	of	IN	_	29	prep	_
+32	members	member	NNS	_	31	pobj	_
+33	of	of	IN	_	32	prep	_
+34	Thailand	thailand	NNP	_	37	poss	_
+35	's	's	POS	_	34	possessive	_
+36	pro-democracy	pro-democracy	JJ	_	37	amod	_
+37	movement	movement	NN	_	33	pobj	_
+38	.	.	.	_	11	punct	_
+
+1	"	"	``	_	3	punct	_
+2	I	I	PRP	_	3	nsubj	3:A0=PAG
+3	promise	promise	VBP	pb=promise.01	0	root	_
+4	this	this	DT	_	3	dobj	3:A1=GOL;7:A1=PPT
+5	wo	wo	MD	_	7	aux	7:AM-MOD
+6	n't	not	RB	_	7	neg	7:AM-NEG
+7	happen	happen	VB	pb=happen.01	3	ccomp	3:A2=PPT
+8	again	again	RB	_	7	advmod	7:AM-TMP
+9	.	.	.	_	3	punct	_
+
+1	I	I	PRP	_	3	nsubj	3:A0=PAG;7:A0=PAG;10:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	use	use	VB	pb=use.01	24	ccomp	24:A1=PPT
+4	your	your	PRP$	_	5	poss	_
+5	criticisms	criticism	NNS	_	3	dobj	3:A1=PPT
+6	to	to	TO	_	7	aux	_
+7	improve	improve	VB	pb=improve.01	3	xcomp	3:A2=PRP
+8	myself	myself	PRP	_	7	dobj	7:A1=PPT
+9	and	and	CC	_	7	cc	_
+10	do	do	VB	p2=VBP|pb=do.02	7	conj	_
+11	my	my	PRP$	_	12	poss	_
+12	best	good	JJS	_	10	dobj	10:A1=PPT
+13	to	to	TO	_	14	aux	_
+14	perform	perform	VB	pb=perform.01	10	advcl	10:AM-PRP
+15	my	my	PRP$	_	16	poss	_
+16	duty	duty	NN	_	14	dobj	14:A1=PPT
+17	as	as	IN	_	16	prep	_
+18	Miss	miss	NNP	_	20	nn	_
+19	Universe	universe	NNP	_	20	nn	_
+20	Thailand	thailand	NNP	_	17	pobj	_
+21	,	,	,	_	24	punct	_
+22	"	"	''	p2=``	24	punct	_
+23	 she	 she	DT	p2=PRP	24	nsubj	24:A0
+24	said	say	VBD	pb=say.01	0	root	_
+25	.	.	.	_	24	punct	_
+
+1	Families	family	NNS	_	7	nsubj	7:A0
+2	,	,	,	_	1	punct	_
+3	workplaces	workplace	NNS	_	1	conj	_
+4	and	and	CC	_	3	cc	_
+5	friendships	friendship	NNS	_	3	conj	_
+6	have	have	VBP	_	7	aux	_
+7	split on	split on	VBN	p2=NNP|pb=split on.01	12	ccomp	_
+8	political lines	political lines	NNS	_	7	dobj	7:A1
+9	,	,	,	_	12	punct	_
+10	parents	parent	NNS	_	12	nsubj	12:A0
+11	have	have	VBP	_	12	aux	_
+12	denounced children	denounced children	VBN	p2=NNS|pb=denounced children.01	17	ccomp	_
+13	and violent	and violent	JJ	p2=NNP	14	amod	_
+14	clashes	clash	NNS	_	17	nsubj	17:A0=PAG
+15	have	have	VBP	_	17	aux	_
+16	frequently	frequently	RB	_	17	advmod	17:AM-TMP
+17	broken	break	VBN	pb=break.01	0	root	_
+18	out between	out between	NNP	p2=VBN	19	nn	_
+19	opposing sides	opposing sides	NNS	p2=NNP	17	dobj	17:A1=PPT
+20	.	.	.	_	17	punct	_
+
+1	In	in	IN	_	27	prep	27:AM-LOC
+2	another instance	another instance	NNP	p2=DT	1	pobj	_
+3	,	,	,	_	27	punct	_
+4	the	the	DT	_	5	det	_
+5	father	father	NN	_	2	appos	_
+6	of	of	IN	_	5	prep	_
+7	28	0	CD	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	year	year	NN	_	11	hmod	_
+10	-	-	HYPH	_	11	hyph	_
+11	old	old	JJ	_	14	amod	_
+12	Singha	singha	NNP	p2=JJ	13	nn	_
+13	beer	beer	NN	_	14	nn	_
+14	heiress	heiress	NN	p2=NNP	16	nn	_
+15	Chitpas	chitpas	NNP	p2=VBZ	16	nn	_
+16	Bhirombhakdi announced	bhirombhakdi announced	NNP	p2=VBD	6	pobj	_
+17	in	in	IN	_	5	prep	_
+18	a	a	DT	_	19	det	_
+19	letter	letter	NN	_	17	pobj	20:A1=PPT
+20	sent	send	VBN	pb=send.01	19	partmod	_
+21	to	to	IN	_	20	prep	20:A2=GOL
+22	media	medium	NNS	p2=NN	21	pobj	_
+23	in December	in december	IN	p2=NNP	20	prep	20:AM-TMP
+24	that	that	IN	p2=DT	27	mark	_
+25	his	his	PRP$	_	26	poss	_
+26	daughter	daughter	NN	_	27	nsubj	27:A0
+27	would change	would change	VBZ	p2=VBD|pb=would change.01	0	root	_
+28	her	her	PRP$	_	29	poss	_
+29	surname	surname	NN	_	27	dobj	27:A1
+30	,	,	,	_	27	punct	_
+31	so	so	RB	p2=IN	40	advmod	_
+32	as her	as her	IN	p2=VB	40	mark	_
+33	political	political	JJ	_	38	amod	_
+34	activities as a	activities as a	NN	p2=JJ	38	nn	_
+35	core	core	NN	p2=VBP	38	amod	_
+36	anti-government	anti-government	JJ	_	38	amod	_
+37	protest	protest	NN	_	38	nn	_
+38	leader	leader	NN	_	40	nsubj	40:A1=PPT
+39	could	could	MD	_	40	aux	40:AM-MOD
+40	continue	continue	VB	pb=continue.01	27	advcl	27:AM-ADV
+41	without	without	IN	_	40	prep	40:AM-MNR
+42	damaging	damage	VBG	pb=damage.01	41	pcomp	_
+43	the	the	DT	_	45	det	_
+44	family	family	NN	_	45	nn	_
+45	business	business	NN	_	42	dobj	42:A1=PPT
+46	.	.	.	_	27	punct	_
+
+1	The	the	DT	_	2	det	_
+2	boycott	boycott	NN	p2=VB	38	nsubj	41:A0=PAG;38:A1=PPT
+3	became symbolic	became symbolic	NNP	p2=''	2	appos	_
+4	of	of	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	division	division	NN	_	4	pobj	_
+7	in	in	IN	_	6	prep	_
+8	Thai	thai	NNP	_	9	nn	_
+9	society between	society between	NNP	p2=IN	7	pobj	_
+10	an	an	DT	_	12	det	_
+11	urban	urban	JJ	_	12	amod	_
+12	middle class	middle class	NN	_	9	appos	_
+13	which	which	WDT	_	41	dobj	_
+14	despises ex-Prime	despises ex-prime	NNP	p2=VBD	15	nn	_
+15	Minister	minister	NNP	_	18	nn	_
+16	Yingluck	yingluck	NNP	_	17	nn	_
+17	Shinawatra's populist	shinawatra's populist	NNP	p2=VBD	18	nn	_
+18	government	government	NN	_	38	nsubj	_
+19	and	and	CC	_	18	cc	_
+20	provincials	provincial	NNS	p2=VBZ	18	conj	_
+21	in	in	IN	_	0	root	_
+22	the	the	DT	_	23	det	_
+23	poorer north	poorer north	NN	p2=JJ	21	pobj	_
+24	and	and	CC	_	23	cc	_
+25	north	north	NN	_	27	hmod	_
+26	-	-	HYPH	_	27	hyph	_
+27	east	east	NN	_	23	conj	_
+28	who	who	WP	_	29	nsubj	29:R-A0
+29	feel their	feel their	VBP	p2=VBZ|pb=feel their.01	23	rcmod	_
+30	democratic	democratic	JJ	_	31	amod	_
+31	right	right	NN	p2=RB	35	nsubjpass	35:A1=PAG
+32	is	be	VBZ	_	35	aux	_
+33	not	not	RB	_	35	neg	35:AM-NEG
+34	being	be	VBG	_	35	auxpass	_
+35	respected	respect	VBN	p2=JJ|pb=respect.01	29	ccomp	_
+36	,	,	,	_	35	punct	_
+37	and	and	CC	_	35	cc	_
+38	are	be	VBP	pb=be.01	35	conj	_
+39	determined	determined	JJ	p2=VBN	38	acomp	38:A2=PRD
+40	to	to	TO	_	41	aux	_
+41	maintain	maintain	VB	pb=maintain.01	39	xcomp	_
+42	an	an	DT	_	43	det	_
+43	administration	administration	NN	_	41	dobj	46:A0=PAG;41:A1=PPT
+44	which	which	WDT	_	46	nsubj	46:R-A0
+45	has	have	VBZ	_	46	aux	_
+46	delivered	deliver	VBN	pb=deliver.01	43	rcmod	_
+47	them clear	them clear	JJ	p2=PRP$	49	amod	_
+48	material	material	NN	p2=JJ	49	nn	_
+49	benefits	benefit	NNS	_	46	dobj	46:A1=PPT
+50	.	.	.	_	3	punct	_
+

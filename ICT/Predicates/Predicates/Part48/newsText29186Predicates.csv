@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+Cops,call.01,incident,a case of,Affirmative,"Cops have called Wednesday 's incident a case of road rage but Elizabeth Conklin , 73 , believes that Hansen - a pro surfer who also has a line of surf wear - wanted to steal her car . "
+"Elizabeth Conklin , 73 ,",believe.01,wear - wanted,,Affirmative,"Cops have called Wednesday 's incident a case of road rage but Elizabeth Conklin , 73 , believes that Hansen - a pro surfer who also has a line of surf wear - wanted to steal her car . "
+a pro surfer,have.03,a line of surf,,Affirmative,"Cops have called Wednesday 's incident a case of road rage but Elizabeth Conklin , 73 , believes that Hansen - a pro surfer who also has a line of surf wear - wanted to steal her car . "
+Hansen -,want.01,to steal,,Affirmative,"Cops have called Wednesday 's incident a case of road rage but Elizabeth Conklin , 73 , believes that Hansen - a pro surfer who also has a line of surf wear - wanted to steal her car . "
+Hansen -,steal.01,her car,,Affirmative,"Cops have called Wednesday 's incident a case of road rage but Elizabeth Conklin , 73 , believes that Hansen - a pro surfer who also has a line of surf wear - wanted to steal her car . "
+"Conklin ,",have.03,two black eyes,,Affirmative,"Conklin , who has two black eyes from the beating , said she had just parked her BMW at her building and ca n't remember anything else . "
+"Conklin ,",say.01,she had just parked,,Affirmative,"Conklin , who has two black eyes from the beating , said she had just parked her BMW at her building and ca n't remember anything else . "
+Elizabeth Conklin,park.01,her BMW,at,Affirmative,"Conklin , who has two black eyes from the beating , said she had just parked her BMW at her building and ca n't remember anything else . "
+Elizabeth Conklin,remember.01,anything else,,Affirmative,"Conklin , who has two black eyes from the beating , said she had just parked her BMW at her building and ca n't remember anything else . "
+"Conklin , who has two black eyes from the beating",say.01,I drove home and,,Affirmative,"I drove home and I drove into my parking garage and I parked in my normal parking place and I got out and all of a sudden I woke up in an ambulance , Conklin said . "
+The senior citizen,say.01,she owes,,Affirmative,The senior citizen says she owes her life to a neighbor who witnessed the incident . 
+Elizabeth Conklin,owe.01,her life,to,Affirmative,The senior citizen says she owes her life to a neighbor who witnessed the incident . 
+a neighbor,witness.01,Wednesday 's incident a case of road rage,,Affirmative,The senior citizen says she owes her life to a neighbor who witnessed the incident . 
+The senior citizen,distract.01,Hansen -- a pro surfer who also has a line of surf wear --,,Affirmative,He distracted Hansen by bashing in the back window of her car with a crowbar - stopping her from hitting Conklin again . 
+Elizabeth Conklin,hit.01,"Conklin , who has two black eyes from the beating",,Affirmative,He distracted Hansen by bashing in the back window of her car with a crowbar - stopping her from hitting Conklin again . 
+The senior citizen,see.01,a neighbor who witnessed the incident,,Affirmative,He saw her in her car getting ready to hit me again . 
+The senior citizen,save.02,her life,,Affirmative,"He totally saved my life , Conklin told ABC News . "
+"Conklin , who has two black eyes from the beating",tell.01,ABC News,,Affirmative,"He totally saved my life , Conklin told ABC News . "
+Hansen -- a pro surfer who also has a line of surf wear --,leave.01,her own car,behind,Affirmative,"Hansen took off on foot , leaving her own car behind , and was arrested a short time later , police said . "
+police,say.01,Hansen took off on foot,,Affirmative,"Hansen took off on foot , leaving her own car behind , and was arrested a short time later , police said . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

@@ -1,0 +1,64 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+California mother suspected of attacking,attack.01,old boy,,Affirmative,"A Northern California mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+she,say.01,was bullying,,Affirmative,"A Northern California mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+California mother suspected of attacking,target.01,the wrong child,,Affirmative,"A Northern California mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+official,say.01,may have targeted,,Affirmative,"A Northern California mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child , a sheriff 's official said Monday . "
+Investigators,find.01,evidence linking,,Affirmative,"Investigators have not found evidence linking the boy to the bullying allegations , Sonoma County sheriff 's Lt. Steve Brown said . "
+Lt. Steve Brown,say.01,Investigators have not found evidence linking,,Affirmative,"Investigators have not found evidence linking the boy to the bullying allegations , Sonoma County sheriff 's Lt. Steve Brown said . "
+a 12-year-old boy she said was bullying her daughter at school,say.01,they are looking into,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+Investigators,look.01,into,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+another child,harass.01,The girl 's,,Affirmative,He said they are looking into whether another child may have harassed the girl . 
+Investigators,determine.01,bullying ever occurred,,Affirmative,"We are unable to determine if any bullying ever occurred , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,We are unable,,Affirmative,"We are unable to determine if any bullying ever occurred , Brown said . "
+Investigators,know.01,kid bullied,,Affirmative,We do n't know if this kid bullied this girl at all . 
+this kid,bully.01,The girl 's,,Affirmative,We do n't know if this kid bullied this girl at all . 
+It,look.02,like he did not,,Affirmative,It looks like he did not . 
+Investigators,find.01,anybody,,Affirmative,We ca n't find anybody to say that he did . 
+anybody,say.01,that he did,,Affirmative,We ca n't find anybody to say that he did . 
+deputies,say.01,she came to,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+a child,grab.01,a 12-year-old boy she said was bullying her daughter at school,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+Delia Garcia-Bratcher,ask.02,to point out,"her son ,",Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+"her son ,",attend.01,Olivet Elementary Charter School in Santa Rosa,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+"her son ,",point.02,who was bullying,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+office,say.01,She asked,,Affirmative,"She asked her son , who also attends the school , to point out who was bullying her daughter , the sheriff 's office said . "
+"lawyer ,",say.01,client is,,Affirmative,"Garcia - Bratcher 's lawyer , Ben Adams , said Monday that his client is very upset over the accusation and adamantly denies attacking the boy . "
+his client,deny.01,attacking,,Affirmative,"Garcia - Bratcher 's lawyer , Ben Adams , said Monday that his client is very upset over the accusation and adamantly denies attacking the boy . "
+his client,attack.01,a 12-year-old boy she said was bullying her daughter at school,,Affirmative,"Garcia - Bratcher 's lawyer , Ben Adams , said Monday that his client is very upset over the accusation and adamantly denies attacking the boy . "
+Delia Garcia-Bratcher,deny.01,confronting,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Delia Garcia-Bratcher,confront.01,a 12-year-old boy she said was bullying her daughter at school,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Delia Garcia-Bratcher,tell.01,to ' knock it off,him,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+a 12-year-old boy she said was bullying her daughter at school,knock.03,Monday,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Delia Garcia-Bratcher,deny.01,touching him,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Delia Garcia-Bratcher,touch.01,a 12-year-old boy she said was bullying her daughter at school,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Ben Adams,say.01,She does not deny confronting,,Affirmative,"She does not deny confronting the boy and telling him to ' knock it off , ' but she absolutely denies touching him , Adams said . "
+Garcia - Bratcher,break.01,an administrative rule,,Affirmative,"While Garcia - Bratcher may have broken an administrative rule by not signing in when she arrived at the school , she had every right to protect her children , he said . "
+Delia Garcia-Bratcher,have.03,every right,,Affirmative,"While Garcia - Bratcher may have broken an administrative rule by not signing in when she arrived at the school , she had every right to protect her children , he said . "
+Delia Garcia-Bratcher,protect.01,her children,,Affirmative,"While Garcia - Bratcher may have broken an administrative rule by not signing in when she arrived at the school , she had every right to protect her children , he said . "
+a 12-year-old boy she said was bullying her daughter at school,say.01,", she had",,Affirmative,"While Garcia - Bratcher may have broken an administrative rule by not signing in when she arrived at the school , she had every right to protect her children , he said . "
+Ben Adams,know.01,DA will charge her with,,Affirmative,"I do n't know what the DA will charge her with , and if they do , we will absolutely fight it vigorously every step of the way , Adams said . "
+the DA,charge.05,Delia Garcia-Bratcher,,Affirmative,"I do n't know what the DA will charge her with , and if they do , we will absolutely fight it vigorously every step of the way , Adams said . "
+we,fight.01,the DA,,Affirmative,"I do n't know what the DA will charge her with , and if they do , we will absolutely fight it vigorously every step of the way , Adams said . "
+Ben Adams,say.01,I do n't know,,Affirmative,"I do n't know what the DA will charge her with , and if they do , we will absolutely fight it vigorously every step of the way , Adams said . "
+a spokeswoman,say.01,office was awaiting,,Affirmative,"The Sonoma County district attorney 's office was awaiting the sheriff 's report before deciding on filing any criminal charges , a spokeswoman said Monday . "
+children,attend.01,school,,Affirmative,"Garcia - Bratcher 's children did not attend school Monday as a precaution , Adams said . "
+Ben Adams,say.01,children did not attend school Monday as,,Affirmative,"Garcia - Bratcher 's children did not attend school Monday as a precaution , Adams said . "
+Ben Adams,know.01,if they would return Tuesday,,Affirmative,He also did not know if they would return Tuesday . 
+Ben Adams,want.01,them getting harassed,,Affirmative,"I do n't want them getting harassed , he said . "
+Ben Adams,say.01,I do n't want,,Affirmative,"I do n't want them getting harassed , he said . "
+several students,see.01,incident,,Affirmative,"While several students saw Friday 's incident , no adults witnessed what happened , said Brown , the lieutenant . "
+no adults,witness.01,what happened,,Affirmative,"While several students saw Friday 's incident , no adults witnessed what happened , said Brown , the lieutenant . "
+"Brown ,",say.01,adults witnessed,,Affirmative,"While several students saw Friday 's incident , no adults witnessed what happened , said Brown , the lieutenant . "
+several students,tell.01,Bratcher threatened,a deputy,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+Garcia - Bratcher,threaten.01,about bullying,the boy,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+Garcia - Bratcher,bully.01,her daughter,,Affirmative,The students later told a deputy that Garcia - Bratcher threatened the boy about bullying her daughter . 
+The school staff,take.01,photos of,,Affirmative,"The school staff took photos of red marks on the boy 's neck , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,staff took photos of,,Affirmative,"The school staff took photos of red marks on the boy 's neck , Brown said . "
+Garcia - Bratcher,give.01,a statement,,Affirmative,"On Saturday , Garcia - Bratcher came into the sheriff 's office to give a statement and was briefly taken into custody , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,Bratcher came into,,Affirmative,"On Saturday , Garcia - Bratcher came into the sheriff 's office to give a statement and was briefly taken into custody , Brown said . "
+A Northern California mother suspected of attacking a 12-year-old boy she said was bullying her daughter at school,commit.02,the crime,,Affirmative,"Even if some bullying did occur , that does n't change the crime that the mother allegedly committed , Brown said . "
+Sonoma County sheriff 's Lt. Steve Brown,say.01,"occur , that does n't change",,Affirmative,"Even if some bullying did occur , that does n't change the crime that the mother allegedly committed , Brown said . "
+school officials,investigate.01,girl was bullied,,Affirmative,"Meanwhile , school officials also were investigating whether the girl was bullied . "
+Officials from,give.01,a flier,parents,Affirmative,Officials from the Piner - Olivet Union School District gave parents a flier Monday about the incident and reminded them about the school 's visitation policy . 
+Officials from,remind.01,about,them,Affirmative,Officials from the Piner - Olivet Union School District gave parents a flier Monday about the incident and reminded them about the school 's visitation policy . 
+Officials from the Piner-Olivet Union School District,take.01,the Piner-Olivet Union School District,,Affirmative,"We take it very seriously , Superintendent Jennie Snyder said . "
+Superintendent Jennie Snyder,say.01,We take it,,Affirmative,"We take it very seriously , Superintendent Jennie Snyder said . "

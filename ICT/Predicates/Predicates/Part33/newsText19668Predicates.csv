@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A large earthquake,damage.01,some buildings,,Affirmative,"A large earthquake has rolled through California , damaging some buildings , igniting fires and knocking out power . "
+A large earthquake,knock.03,power,,Affirmative,"A large earthquake has rolled through California , damaging some buildings , igniting fires and knocking out power . "
+Knesset,replace.01,Shimon Peres,,Affirmative,"Tel Aviv -  Israel 's Knesset will elect a new president on 10 June to replace Shimon Peres , parliamentary speaker Yuli Edelstein said on Monday . "
+speaker Yuli Edelstein,say.01,Knesset will elect,,Affirmative,"Tel Aviv -  Israel 's Knesset will elect a new president on 10 June to replace Shimon Peres , parliamentary speaker Yuli Edelstein said on Monday . "
+Candidates,have.03,eight days,,Affirmative,Candidates will have eight days to gather at least 10 signatures from members of Knesset in order to be in the running . 
+Candidates,gather.01,10 signatures,,Affirmative,Candidates will have eight days to gather at least 10 signatures from members of Knesset in order to be in the running . 
+The president of,unite.01,the divisions,,Affirmative,"The president of the State of Israel is meant to unite the divisions and be a bridge , said Edelstein . "
+parliamentary speaker Yuli Edelstein,say.01,is meant,,Affirmative,"The president of the State of Israel is meant to unite the divisions and be a bridge , said Edelstein . "
+by,define.01,the current race,,Affirmative,"Unfortunately , and I am sure it is unfortunate for us all , the current race has been defined by mudslinging and de-legitimisation , behaviour which in my view has tainted the process and severely harmed this important institution , he added . "
+", behaviour",taint.01,the process,,Affirmative,"Unfortunately , and I am sure it is unfortunate for us all , the current race has been defined by mudslinging and de-legitimisation , behaviour which in my view has tainted the process and severely harmed this important institution , he added . "
+", behaviour",harm.01,this important institution,,Affirmative,"Unfortunately , and I am sure it is unfortunate for us all , the current race has been defined by mudslinging and de-legitimisation , behaviour which in my view has tainted the process and severely harmed this important institution , he added . "
+The president of the State of Israel,add.01,race has been defined by,,Affirmative,"Unfortunately , and I am sure it is unfortunate for us all , the current race has been defined by mudslinging and de-legitimisation , behaviour which in my view has tainted the process and severely harmed this important institution , he added . "
+Israeli media,report.01,Netanyahu is considering supporting,,Affirmative,"Israeli media reported that Prime Minister Benjamin Netanyahu is considering supporting Energy Minister Silvan Shalom , also from his Likud party . "
+Minister Benjamin Netanyahu,consider.02,supporting,,Affirmative,"Israeli media reported that Prime Minister Benjamin Netanyahu is considering supporting Energy Minister Silvan Shalom , also from his Likud party . "
+Minister Benjamin Netanyahu,support.01,Minister Silvan Shalom,,Affirmative,"Israeli media reported that Prime Minister Benjamin Netanyahu is considering supporting Energy Minister Silvan Shalom , also from his Likud party . "
+Shalom,face.01,allegations of,,Affirmative,Shalom recently faced allegations of sexual misconduct . 
+the head of state,play.02,a role after,,Affirmative,"Israel 's presidency is a mostly symbolic position , but the head of state plays a role after each election in tasking a politician with forming the next government . "
+a new president on 10,have.03,powers,,Affirmative,The president also has powers to pardon criminals . 
+SMS Alerts,break.01,news stories,,Affirmative,SMS Alerts Get breaking news stories via SMS . 
+by OpenCalais,automate.01,Website keywords automated by OpenCalais,,Affirmative,Calais Website keywords automated by OpenCalais . 
+Creating,enable.01,to submit photos and stories,you,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,submit.01,photos and stories,,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,select.01,The image,,Affirmative,* The image you selected could not be uploaded . 

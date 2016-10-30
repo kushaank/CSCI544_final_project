@@ -1,0 +1,17 @@
+1	Disallowed	disallow	VBD	p2=VBN|pb=disallow.01	0	root	_
+2	Crawler	crawler	NNP	_	1	dobj	1:A1=PPT
+3	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	crawler	crawler	NN	_	7	nsubjpass	7:A1=PPT
+3	or	or	CC	_	2	cc	_
+4	robot	robot	NN	_	2	conj	_
+5	has	have	VBZ	_	7	aux	_
+6	been	be	VBN	_	7	auxpass	_
+7	disallowed	disallow	VBN	pb=disallow.01	0	root	_
+8	from	from	IN	_	7	prep	7:AM-PRD
+9	visting	visting	VBG	pb=visting.01	8	pcomp	_
+10	our	our	PRP$	_	11	poss	_
+11	site	site	NN	_	9	dobj	9:A1
+12	.	.	.	_	7	punct	_
+

@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The company,start.01,rolling out,,Affirmative,"The company started rolling out the new technology , known as XLTE , at the beginning of the year , with hundreds more scheduled to be complete by the end of the year . "
+The company,roll.02,"the new technology , known as XLTE",,Affirmative,"The company started rolling out the new technology , known as XLTE , at the beginning of the year , with hundreds more scheduled to be complete by the end of the year . "
+the new technology,double.01,the capacity of,,Affirmative,The technology doubles the capacity of Verizon 's 4G LTW network . 
+more devices,log.01,onto,,Affirmative,"The spectrum is a finite resource , which gets used up as more devices log onto the infrastructure . "
+The Federal Communications Commission,estimate.01,traffic will inevitably exceed,,Affirmative,The Federal Communications Commission estimates that network traffic will inevitably exceed the available spectrum . 
+network traffic,exceed.01,the available spectrum,,Affirmative,The Federal Communications Commission estimates that network traffic will inevitably exceed the available spectrum . 
+"Mariano Legaz ,",say.01,And that 's important in Florida,,Affirmative,"And that 's important in Florida , while is poised to become the third most populated state in the U.S. â€œFloridians are especially mobile and enthusiastic users of 4G LTE â€ sharing photos and video , downloading large files , and staying connected to enjoy a great wireless experience , â€� said Mariano Legaz , Florida region president . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

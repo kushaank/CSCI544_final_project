@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The horse,win.01,both the Kentucky Derby and Preakness wearing strips,,Affirmative,The horse won both the Kentucky Derby and Preakness wearing strips not allowed in New York thoroughbred racing . 
+both the Kentucky Derby and Preakness wearing strips,wear.01,strips,,Affirmative,The horse won both the Kentucky Derby and Preakness wearing strips not allowed in New York thoroughbred racing . 
+he,wear.01,a nasal strip,,Affirmative,NEW YORK - California Chrome can breathe easy - he 's allowed to wear a nasal strip when he goes for the Triple Crown in the Belmont Stakes . 
+he,go.02,for,,Affirmative,NEW YORK - California Chrome can breathe easy - he 's allowed to wear a nasal strip when he goes for the Triple Crown in the Belmont Stakes . 
+Park stewards,clear.01,The horse,,Affirmative,"Belmont Park stewards cleared the horse Monday to use the strip that opens his nasal passages , just as he did in winning the Kentucky Derby and Preakness . "
+Park stewards,use.01,the strip,,Affirmative,"Belmont Park stewards cleared the horse Monday to use the strip that opens his nasal passages , just as he did in winning the Kentucky Derby and Preakness . "
+the strip,open.01,his nasal passages,,Affirmative,"Belmont Park stewards cleared the horse Monday to use the strip that opens his nasal passages , just as he did in winning the Kentucky Derby and Preakness . "
+he,win.01,both the Kentucky Derby and Preakness,,Affirmative,"Belmont Park stewards cleared the horse Monday to use the strip that opens his nasal passages , just as he did in winning the Kentucky Derby and Preakness . "
+York tracks,have.03,a rule prohibiting,,Affirmative,"New York tracks have a rule prohibiting any equipment not specifically approved by stewards , and nasal strips were not on the list . "
+a rule prohibiting,prohibit.01,any equipment,,Affirmative,"New York tracks have a rule prohibiting any equipment not specifically approved by stewards , and nasal strips were not on the list . "
+by stewards,approve.01,any equipment,,Affirmative,"New York tracks have a rule prohibiting any equipment not specifically approved by stewards , and nasal strips were not on the list . "
+A statement from,say.01,stewards unanimously agreed,,Affirmative,A statement from the New York Racing Association and the state 's Gaming Commission said the track 's three stewards unanimously agreed to lift the ban . 
+three stewards,agree.01,to lift,,Affirmative,A statement from the New York Racing Association and the state 's Gaming Commission said the track 's three stewards unanimously agreed to lift the ban . 
+three stewards,lift.02,the ban,,Affirmative,A statement from the New York Racing Association and the state 's Gaming Commission said the track 's three stewards unanimously agreed to lift the ban . 
+by,wear.01,The strip worn by,,Affirmative,The strip worn by California Chrome during his six - race winning streak assists airflow through the nostrils - something that should come in handy during the Belmont 's grueling 1 1/2 miles on June 7 . 
+Other states,allow.01,nasal strips,,Affirmative,"Other states allow nasal strips while racing , and even some jockeys wear them , as do humans in other sports . "
+even some jockeys,wear.01,some jockeys,,Affirmative,"Other states allow nasal strips while racing , and even some jockeys wear them , as do humans in other sports . "
+California Chrome,try.01,to become,,Affirmative,California Chrome is trying to become the 12th Triple Crown winner and the first since Affirmed in 1978 . 
+Sherman,raise.01,the possibility,,Affirmative,"On Sunday , however , Sherman raised the possibility his horse would n't run in the Belmont if barred from using a nasal strip . "
+Doug O'Neill,train.01,I 'll Have Another to victories in,,Affirmative,"Two years ago , Doug O'Neill trained I 'll Have Another to victories in the Kentucky Derby and Preakness with the colt wearing a nasal strip . "
+I,have.03,Another,,Affirmative,"Two years ago , Doug O'Neill trained I 'll Have Another to victories in the Kentucky Derby and Preakness with the colt wearing a nasal strip . "
+the colt wearing,wear.01,a nasal strip,,Affirmative,"Two years ago , Doug O'Neill trained I 'll Have Another to victories in the Kentucky Derby and Preakness with the colt wearing a nasal strip . "
+York officials,tell.01,horse could n't wear one in,O'Neill,Affirmative,New York officials told O'Neill his horse could n't wear one in the Belmont . 
+The horse,wear.01,one in,,Affirmative,New York officials told O'Neill his horse could n't wear one in the Belmont . 
+I,have.03,Another was scratched,,Affirmative,The issue became moot when I 'll Have Another was scratched the day before the race because of a leg injury . 
+we,value.01,our readers,,Affirmative,Here at MaineToday Media we value our readers and are committed to growing our community by encouraging you to add to the discussion . 
+you,read.01,3 of,,Affirmative,"As of your last visit , you 've read 3 of 10 free articles . "

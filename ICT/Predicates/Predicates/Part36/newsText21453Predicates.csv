@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+DHANBAD :,award.01,life imprisonment,to,Affirmative,DHANBAD : A local court on Monday awarded life imprisonment to a man for murdering his three sisters-in-law four years ago . 
+The court of,hold.02,Verma guilty,,Affirmative,"The court of additional district judge - VII Dhanbad NK Sinha held Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302 and also imposed a fine of Rs 60,000 on him . "
+The court of,impose.01,a fine of Rs,,Affirmative,"The court of additional district judge - VII Dhanbad NK Sinha held Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302 and also imposed a fine of Rs 60,000 on him . "
+"Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302",lock.01,quarter of,,Affirmative,"On the night of December 7 , 2010 , Verma locked the servants ' quarter of the PHED guest house near Dhanbad Circuit House where his three sister-in-laws Usha Devi , Tina Devi and Rina Kumar were sleeping . "
+"Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302",pour.01,petrol,,Affirmative,"He then poured petrol inside the room through the windows and set it on fire , killing the three women alive . "
+"Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302",set.01,the room,on fire,Affirmative,"He then poured petrol inside the room through the windows and set it on fire , killing the three women alive . "
+"Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302",kill.01,the three women,,Affirmative,"He then poured petrol inside the room through the windows and set it on fire , killing the three women alive . "
+family members,allege.01,that Verma had fallen in love,,Affirmative,The victims ' family members had alleged that Verma had fallen in love with his younger sister-in-law Rina and wanted to marry her too . 
+"Sonu Kumar Verma guilty under IPC sections 342 , 436 and 302",want.01,to marry her too,,Affirmative,The victims ' family members had alleged that Verma had fallen in love with his younger sister-in-law Rina and wanted to marry her too . 
+another person,kill.01,The victims ' family members,,Affirmative,"However , when Rina 's marriage was settled with another person , he killed them , they alleged . "

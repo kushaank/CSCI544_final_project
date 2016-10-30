@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+No,mean.01,No,,Affirmative,"No means no , people . "
+Jarrett,believe.01,Boehner will allow,,Affirmative,"Jarrett believes Boehner will allow a comprehensive immigration reform bill , or a package of bills , to come up for a vote after the primary election to avoid spoiling some GOP candidates ' chances . "
+Boehner,allow.01,"reform bill , or",,Affirmative,"Jarrett believes Boehner will allow a comprehensive immigration reform bill , or a package of bills , to come up for a vote after the primary election to avoid spoiling some GOP candidates ' chances . "
+Jarrett,say.01,House does n't care,,Affirmative,"Jarrett said the White House does n't care if immigration reform is accomplished in one bill or multiple bills , which is preferred by Republicans leery of omni­bus legislation . "
+the White House,care.01,reform is accomplished in,,Affirmative,"Jarrett said the White House does n't care if immigration reform is accomplished in one bill or multiple bills , which is preferred by Republicans leery of omni­bus legislation . "
+"Michael Steel ,",say.01,Boehner has not made,,Affirmative,"Michael Steel , a spokesman for the Ohio Republican , said Boehner has not made a commitment to the White House . "
+Republicans leery of omnibus legislation,reform.01,our immigration system,,Affirmative,"Republicans are committed to reforming our immigration system , but as the speaker has said repeatedly , it 's difficult to see how we make progress until the American people have faith that President Obama will enforce the law as written , Steel said in an email . "
+the American people,have.03,faith,,Affirmative,"Republicans are committed to reforming our immigration system , but as the speaker has said repeatedly , it 's difficult to see how we make progress until the American people have faith that President Obama will enforce the law as written , Steel said in an email . "
+President Obama,enforce.01,the law,,Affirmative,"Republicans are committed to reforming our immigration system , but as the speaker has said repeatedly , it 's difficult to see how we make progress until the American people have faith that President Obama will enforce the law as written , Steel said in an email . "
+Michael Steel,say.01,Republicans are committed to reforming,,Affirmative,"Republicans are committed to reforming our immigration system , but as the speaker has said repeatedly , it 's difficult to see how we make progress until the American people have faith that President Obama will enforce the law as written , Steel said in an email . "
+a bill,appeal.01,to Republicans,,Affirmative,"If ever there was a bill to appeal to Republicans , this is it : Republican sponsor . "
+the Republican Party,need.01,an ethnic group,,Affirmative,Appeal to an ethnic group that the Republican Party needs badly to attract for its long - term success . 
+the Republican Party,attract.01,for,,Affirmative,Appeal to an ethnic group that the Republican Party needs badly to attract for its long - term success . 
+it,look.02,good,,Affirmative,But it 's not looking good . 

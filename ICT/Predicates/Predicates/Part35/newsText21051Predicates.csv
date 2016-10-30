@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Google,celebrate.02,the 40th birthday of,,Affirmative,Google has celebrated the 40th birthday of the Rubik 's Cube with an animated doodle that allows you to try to solves the puzzle online . 
+an animated doodle,allow.01,you to try,,Affirmative,Google has celebrated the 40th birthday of the Rubik 's Cube with an animated doodle that allows you to try to solves the puzzle online . 
+you,try.01,to solves,,Affirmative,Google has celebrated the 40th birthday of the Rubik 's Cube with an animated doodle that allows you to try to solves the puzzle online . 
+you,solves.01,the puzzle,,Affirmative,Google has celebrated the 40th birthday of the Rubik 's Cube with an animated doodle that allows you to try to solves the puzzle online . 
+by,invent.01,Cube,,Affirmative,"The Rubik 's Cube was invented in 1974 by Erno Rubik , a Hungarian architect , who wanted a working model to help explain three - dimensional geometry . "
+"a Hungarian architect ,",want.01,a working model,,Affirmative,"The Rubik 's Cube was invented in 1974 by Erno Rubik , a Hungarian architect , who wanted a working model to help explain three - dimensional geometry . "
+the Rubik 's,fashion.01,the first cube,,Affirmative,"He fashioned the first cube himself , hand - carving the ' cubelets ' . "
+before he was able,take.10,the Rubik 's,,Affirmative,It took him one month before he was able to solve the Cube for himself . 
+the Rubik 's,solve.01,the Cube,,Affirmative,It took him one month before he was able to solve the Cube for himself . 
+million units,make.02,selling toy of,,Affirmative,"It was licensed to the Ideal Toy Corp in 1980 and , by January 2009 , more than 350 million units had been sold worldwide , making it the biggest - selling toy of all time and a retro favourite for anyone who was young in the 80s . "
+Speedcubers,race.01,each other,,Affirmative,"' Speedcubers ' race each other to complete cubes in speeds as fast as six seconds , while every legally muddled cube is solvable in just 20 moves . "
+Speedcubers,complete.01,cubes,,Affirmative,"' Speedcubers ' race each other to complete cubes in speeds as fast as six seconds , while every legally muddled cube is solvable in just 20 moves . "
+the user,rotate.02,the rows and columns,,Affirmative,"When you click on it , however , the cube enlarges and becomes fully coloured , and allows the user to rotate the rows and columns horizontally and vertically , and manipulate the cube as a whole , thus playing it properly . "
+the user,manipulate.02,the first cube himself,as,Affirmative,"When you click on it , however , the cube enlarges and becomes fully coloured , and allows the user to rotate the rows and columns horizontally and vertically , and manipulate the cube as a whole , thus playing it properly . "
+you,take.01,many moves,,Affirmative,"There is even a number in the bottom left corner , showing you how many moves you have taken . "

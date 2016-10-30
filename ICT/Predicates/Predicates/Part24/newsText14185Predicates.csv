@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Delaware State Police,investigate.01,a home invasion,,Affirmative,The Delaware State Police is investigating a home invasion that occurred Sunday night in the 28000 block of Russell Street in Millsboro . 
+The Delaware State Police,investigate.01,a home invasion,,Affirmative,The Delaware State Police is investigating a home invasion that occurred Sunday night in the 28000 block of Russell Street in Millsboro . 
+The Delaware State Police,say.01,entered,,Affirmative,"Police said around 11:30 p.m. , two black suspects with bandanas over their faces entered the residence , which was occupied by three males - ages 35 , 28 and 24 - and two females - ages 40 and 13 . "
+"11:30 p.m. ,",enter.01,"the residence ,",,Affirmative,"Police said around 11:30 p.m. , two black suspects with bandanas over their faces entered the residence , which was occupied by three males - ages 35 , 28 and 24 - and two females - ages 40 and 13 . "
+by,occupy.01,"the residence ,",,Affirmative,"Police said around 11:30 p.m. , two black suspects with bandanas over their faces entered the residence , which was occupied by three males - ages 35 , 28 and 24 - and two females - ages 40 and 13 . "
+The Delaware State Police,say.01,fled by jumping out of windows,,Affirmative,Police said the 35 - year - old and the 28 - year - old fled by jumping out of windows . 
+by,assault.01,year - old,,Affirmative,"The 24 - year - old was assaulted by the suspects , who may have discharged a firearm while in the residence . "
+"the suspects ,",discharge.10,a firearm,,Affirmative,"The 24 - year - old was assaulted by the suspects , who may have discharged a firearm while in the residence . "
+The Delaware State Police,say.01,suspects took money from,,Affirmative,"Police said the suspects took money from the 24 - year - old , who eventually escaped by jumping out of a window . "
+"the suspects , who may have discharged a firearm while in the residence",take.01,money,from,Affirmative,"Police said the suspects took money from the 24 - year - old , who eventually escaped by jumping out of a window . "
+The Delaware State Police,say.01,old was treated at,,Affirmative,Police said the 24 - year - old was treated at a nearby hospital for a non-life threatening head injury . 
+The Delaware State Police,determine.01,this was not,,Affirmative,"Police have determined this was not a random act , and the victims were targeted in the home invasion . "

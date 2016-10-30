@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+I,hope.01,I 'm rich enough,,Affirmative,"One day I hope I 'm rich enough that I do n't even realize I lost $ 40,000 . "
+I,realize.01,I lost,,Affirmative,"One day I hope I 'm rich enough that I do n't even realize I lost $ 40,000 . "
+I,lose.02,"$ 40,000",,Affirmative,"One day I hope I 'm rich enough that I do n't even realize I lost $ 40,000 . "
+I,find.02,40k in,,Affirmative,"I find 40k in a couch with a name on it , I go find that person and buy the rest of their shit . "
+I,go.05,find,,Affirmative,"I find 40k in a couch with a name on it , I go find that person and buy the rest of their shit . "
+I,find.01,that person,,Affirmative,"I find 40k in a couch with a name on it , I go find that person and buy the rest of their shit . "
+I,buy.01,the rest of,,Affirmative,"I find 40k in a couch with a name on it , I go find that person and buy the rest of their shit . "
+That girl,say.01,they said,,Affirmative,That girl was excited when she said they said it could be drugs . 
+their,say.01,it could be drugs,,Affirmative,That girl was excited when she said they said it could be drugs . 
+their,give.01,a name on it,drugs,Affirmative,Bet if it was drugs they would n't have given it back . 
+you,guess.01,kids found in,,Affirmative,Break : you 'll never guess what these kids found in a used couch ? 
+these kids,give.01,the money,to,Affirmative,They should have given the money to Michael strahan . 
+Michael strahan,fix.02,gapped teeth,,Affirmative,So he could fix those damn gapped teeth . 
+I,drug.01,the other people,,Affirmative,What great people I would have drugged the other people until they forgot about the money then kept it for myself but ... 
+the other people,forget.01,about,,Affirmative,What great people I would have drugged the other people until they forgot about the money then kept it for myself but ... 
+What great people,keep.04,the money,,Affirmative,What great people I would have drugged the other people until they forgot about the money then kept it for myself but ... 
+I,put.01,the money,to,Affirmative,I would have put the money to good use for the old bag . 
+They,give.01,it,to,Affirmative,"They gave it to the rightful owner , good for them , they did the right thing . "
+they,do.02,the right thing,,Affirmative,"They gave it to the rightful owner , good for them , they did the right thing . "
+Three,keep.01,a secret,,Affirmative,@ justhefacts Â the quote is Three can keep a secret ... 

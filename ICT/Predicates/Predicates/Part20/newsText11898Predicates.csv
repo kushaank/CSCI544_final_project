@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Organization for,demand.01,justice,,Affirmative,"The Organization for Legal Aid ( OLA ) , ECLJ 's affiliate in Pakistan , is demanding justice for a Christian farmhand , Saleem Masih , who was severely beaten by his Muslim employer 's sons for taking two extra days off of work after Easter . "
+The local police,register.02,the case,,Affirmative,"The local police have not registered the case yet , and Saleem is being pressured by the Muslims to not press charges against them . "
+by,pressure.01,Saleem Masih,to not press charges against them,Affirmative,"The local police have not registered the case yet , and Saleem is being pressured by the Muslims to not press charges against them . "
+Saleem Masih,press.01,charges against them,,Affirmative,"The local police have not registered the case yet , and Saleem is being pressured by the Muslims to not press charges against them . "
+"son ,",break.01,into,,Affirmative,"The incident occurred the morning of April 23 , 2014 , when Saleem 's employer 's son , Muhammad Abbas Mayo , broke into Saleem 's house and began beating Saleem with a club while he was asleep . "
+"son ,",begin.01,beating Saleem with,,Affirmative,"The incident occurred the morning of April 23 , 2014 , when Saleem 's employer 's son , Muhammad Abbas Mayo , broke into Saleem 's house and began beating Saleem with a club while he was asleep . "
+Muhammad Abbas Mayo,drag.01,Saleem Masih,out of,Affirmative,Abbas dragged Saleem out of the house and continued to beat him . 
+Muhammad Abbas Mayo,continue.01,to beat him,,Affirmative,Abbas dragged Saleem out of the house and continued to beat him . 
+Muhammad Abbas Mayo,beat.01,Muhammad Abbas Mayo,,Affirmative,Abbas dragged Saleem out of the house and continued to beat him . 
+Muhammad Abbas Mayo,beat.01,Saleem 's wife,,Affirmative,"Saleem 's wife intervened , but Abbas also beat her and tore her shirt in public . "
+Muhammad Abbas Mayo,tear.01,her shirt,,Affirmative,"Saleem 's wife intervened , but Abbas also beat her and tore her shirt in public . "
+Muhammad Abbas Mayo,take.01,Saleem Masih,,Affirmative,"Abbas took Saleem to his farmhouse where his brother , Muhammad Sajid Mayo , was waiting . "
+Abbas and Sajid,continue.01,to severely beat Saleem,,Affirmative,Abbas and Sajid continued to severely beat Saleem . 
+Abbas and Sajid,beat.03,Saleem Masih,,Affirmative,Abbas and Sajid continued to severely beat Saleem . 
+family,plead.01,with,to spare him,Affirmative,"Saleem 's family pleaded with the brothers to spare him , but Abbas and Sajid took Saleem to their fields for forced labor . "
+family,spare.01,Saleem 's family,,Affirmative,"Saleem 's family pleaded with the brothers to spare him , but Abbas and Sajid took Saleem to their fields for forced labor . "
+Abbas and Sajid,take.01,Saleem Masih,,Affirmative,"Saleem 's family pleaded with the brothers to spare him , but Abbas and Sajid took Saleem to their fields for forced labor . "
+the OLA 's,file.01,an application with,,Affirmative,"On April 24 , 2014 , OLA filed an application with the Saddar Police Station to press charges against Abbas and Sajid , but the police did not register the case . "
+the OLA 's,press.01,charges,against Abbas and Sajid,Affirmative,"On April 24 , 2014 , OLA filed an application with the Saddar Police Station to press charges against Abbas and Sajid , but the police did not register the case . "
+The local police,register.02,the case,,Affirmative,"On April 24 , 2014 , OLA filed an application with the Saddar Police Station to press charges against Abbas and Sajid , but the police did not register the case . "
+by,issue.01,The Medico-Legal Certificate issued by,,Affirmative,"The Medico-Legal Certificate issued by the doctor describes Saleem 's eight injuries , including bruise and contusion injuries . "
+The Medico-Legal Certificate issued by,describe.01,"eight injuries , including",,Affirmative,"The Medico-Legal Certificate issued by the doctor describes Saleem 's eight injuries , including bruise and contusion injuries . "
+a doctor for treatment,receive.01,x-ray report,,Affirmative,Other possible injuries are to be determined after the doctor receives Saleem 's x-ray report back from the radiology department . 
+the OLA 's,file.01,a petition,,Affirmative,OLA has filed a petition under Section 22 - A and 22 - B of Pakistan 's Criminal Procedure Code to ensure Saleem 's case is registered . 
+the OLA 's,ensure.01,case,,Affirmative,OLA has filed a petition under Section 22 - A and 22 - B of Pakistan 's Criminal Procedure Code to ensure Saleem 's case is registered . 
+judges,have.03,powers,,Affirmative,"Under these sections , judges have powers to order the police to arrest the perpetrators and register formal charges against them . "
+judges,order.01,the police,to arrest,Affirmative,"Under these sections , judges have powers to order the police to arrest the perpetrators and register formal charges against them . "
+the police,arrest.01,the perpetrators,,Affirmative,"Under these sections , judges have powers to order the police to arrest the perpetrators and register formal charges against them . "
+the police,register.02,formal charges against them,,Affirmative,"Under these sections , judges have powers to order the police to arrest the perpetrators and register formal charges against them . "
+these workers,have.03,any formal contract of employment,,Affirmative,"These workers are often paid well below minimum wage , and do not have any formal contract of employment . "
+these workers,attempt.01,legal redress or,,Affirmative,Workers are often threatened and coerced from attempting legal redress or physical escape . 
+these workers,try.01,to break away from,,Affirmative,"If they try to break away from their bondage , they are beaten , killed , harassed , or implicated in fake cases by their employers . "
+Shaheryar Gill,serve.01,as,,Affirmative,Shaheryar Gill serves as Associate Counsel with the ECLJ and oversees the OLA 's work in Pakistan . 
+Shaheryar Gill,oversee.01,work in Pakistan,,Affirmative,Shaheryar Gill serves as Associate Counsel with the ECLJ and oversees the OLA 's work in Pakistan . 
+by,lead.02,the ACLJ,,Affirmative,"Led by Chief Counsel Jay Sekulow , the ACLJ focuses on constitutional and human rights law worldwide . "
+the ACLJ,engage.01,issues,,Affirmative,"The ACLJ engages legal , legislative , and cultural issues by implementing an effective strategy of advocacy , education , and litigation that includes representing clients before the Supreme Court of the United States and international tribunals around the globe . "
+the ACLJ,implement.01,"an effective strategy of advocacy , education , and litigation",,Affirmative,"The ACLJ engages legal , legislative , and cultural issues by implementing an effective strategy of advocacy , education , and litigation that includes representing clients before the Supreme Court of the United States and international tribunals around the globe . "
+litigation,represent.01,clients,,Affirmative,"The ACLJ engages legal , legislative , and cultural issues by implementing an effective strategy of advocacy , education , and litigation that includes representing clients before the Supreme Court of the United States and international tribunals around the globe . "

@@ -1,0 +1,48 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+30 passengers travelling from Pune,travel.01,from Pune,,Affirmative,"Nearly 30 passengers travelling from Pune to Ahmedabad in an AC sleeper bus had a harrowing experience on Saturday evening , after they discovered that the driver was heavily drunk . "
+30 passengers travelling from Pune,have.03,a harrowing experience on,,Affirmative,"Nearly 30 passengers travelling from Pune to Ahmedabad in an AC sleeper bus had a harrowing experience on Saturday evening , after they discovered that the driver was heavily drunk . "
+Nearly 30 passengers travelling from Pune to Ahmedabad in an AC sleeper bus,discover.01,driver was,,Affirmative,"Nearly 30 passengers travelling from Pune to Ahmedabad in an AC sleeper bus had a harrowing experience on Saturday evening , after they discovered that the driver was heavily drunk . "
+Nearly 30 passengers travelling from Pune to Ahmedabad in an AC sleeper bus,hand.02,The driver 's,to,Affirmative,"They handed over the driver to the police at the Khalapur toll plaza on the Mumbai - Pune Expressway , but then had to spend the whole night stranded on the highway , as the agency that owns the bus - Deep Travels - took nearly eight hours to arrange another driver to continue the journey . "
+Deep Travels - took,arrange.01,another driver,,Affirmative,"They handed over the driver to the police at the Khalapur toll plaza on the Mumbai - Pune Expressway , but then had to spend the whole night stranded on the highway , as the agency that owns the bus - Deep Travels - took nearly eight hours to arrange another driver to continue the journey . "
+another driver,continue.01,the journey,,Affirmative,"They handed over the driver to the police at the Khalapur toll plaza on the Mumbai - Pune Expressway , but then had to spend the whole night stranded on the highway , as the agency that owns the bus - Deep Travels - took nearly eight hours to arrange another driver to continue the journey . "
+"Sugesh Dube ,",reach.01,Ankaleshwar,,Affirmative,"One of the passengers , Sugesh Dube , who reached Ankaleshwar at 6 pm on Sunday , 12 hours later than the bus ' scheduled arrival at 6 am , shared his experience with mid-day . "
+One of,share.01,his experience with mid-day,,Affirmative,"One of the passengers , Sugesh Dube , who reached Ankaleshwar at 6 pm on Sunday , 12 hours later than the bus ' scheduled arrival at 6 am , shared his experience with mid-day . "
+Sugesh Dube,board.01,Travels bus,,Affirmative,I boarded the Deep Travels bus in Nigdi . 
+Sugesh Dube,see.01,driver driving rashly,,Affirmative,I got suspicious right away after seeing the driver driving rashly . 
+some passengers,ask.02,to go slow,him,Affirmative,"When some passengers asked him to go slow , he started arguing and even abused some of us . "
+the driver driving rashly,start.01,arguing,,Affirmative,"When some passengers asked him to go slow , he started arguing and even abused some of us . "
+the driver driving rashly,abuse.01,some of us,,Affirmative,"When some passengers asked him to go slow , he started arguing and even abused some of us . "
+Sugesh Dube,say.01,", he said ' jo",,Affirmative,"When I warned him , he said ' jo karna hai kar lo ' ( do what you want ) , said Dube . "
+us,call.01,the highway police,,Affirmative,"Fearing for our lives , we called the highway police at Khalapur toll plaza and handed over the driver to them . "
+us,hand.02,the driver,to them,Affirmative,"Fearing for our lives , we called the highway police at Khalapur toll plaza and handed over the driver to them . "
+us,try.01,contacting,,Affirmative,"In the meantime , we tried contacting Deep Travels for help , but did n't get a good response . "
+us,contact.01,Deep Travels,,Affirmative,"In the meantime , we tried contacting Deep Travels for help , but did n't get a good response . "
+us,get.01,a good response,,Affirmative,"In the meantime , we tried contacting Deep Travels for help , but did n't get a good response . "
+us,spend.01,almost the entire night,,Affirmative,We spent almost the entire night on the highway before the agency sent a replacement driver . 
+the agency that owns the bus -- Deep Travels -- took nearly eight hours to arrange another driver to continue the journey,send.02,a replacement driver,,Affirmative,We spent almost the entire night on the highway before the agency sent a replacement driver . 
+Sugesh Dube,want.01,to attend,,Affirmative,"I wanted to attend a function at my sister 's home in Ankaleshwar on Sunday morning , but this never - ending journey ruined all my plans , Dube , who looks after his brother 's business in Pune , added . "
+Sugesh Dube,attend.01,a function,,Affirmative,"I wanted to attend a function at my sister 's home in Ankaleshwar on Sunday morning , but this never - ending journey ruined all my plans , Dube , who looks after his brother 's business in Pune , added . "
+ending journey,ruin.01,all my plans,,Affirmative,"I wanted to attend a function at my sister 's home in Ankaleshwar on Sunday morning , but this never - ending journey ruined all my plans , Dube , who looks after his brother 's business in Pune , added . "
+"Dube ,",add.01,I wanted,,Affirmative,"I wanted to attend a function at my sister 's home in Ankaleshwar on Sunday morning , but this never - ending journey ruined all my plans , Dube , who looks after his brother 's business in Pune , added . "
+Karan Deep of,admit.01,to,,Affirmative,"When contacted , Karan Deep of Deep Travels in Ahmedabad initially admitted to the lapses on the company 's end . "
+we,keep.02,a tab on,,Affirmative,How can we keep a tab on every driver ? 
+They,behave.01,decently,,Affirmative,They behave decently in front of us . 
+The driver 's,do.02,four trips for us,,Affirmative,"The driver 's name is Sunil Rana and he has done hardly four trips for us earlier , said Deep . "
+Karan Deep of Deep Travels in Ahmedabad,say.01,name is,,Affirmative,"The driver 's name is Sunil Rana and he has done hardly four trips for us earlier , said Deep . "
+The driver 's,start.01,"arguing later , however",,Affirmative,"He started arguing later , however , and refused to give details like how many passengers were on the bus and why an alternate driver was not arranged immediately . "
+The driver 's,refuse.01,to give details like,,Affirmative,"He started arguing later , however , and refused to give details like how many passengers were on the bus and why an alternate driver was not arranged immediately . "
+The driver 's,give.01,details like,,Affirmative,"He started arguing later , however , and refused to give details like how many passengers were on the bus and why an alternate driver was not arranged immediately . "
+us -LRB- travel company buses -RRB-,target.01,us,,Affirmative,You only target us ( travel company buses ) . 
+the highway police,harass.01,we,,Affirmative,The police also always harass us . 
+the highway police,ask.02,for,us,Affirmative,"In this case also , the police asked us for a bribe to not lodge a case against the driver and let him go . "
+we,lodge.03,a case against,,Affirmative,"In this case also , the police asked us for a bribe to not lodge a case against the driver and let him go . "
+we,let.01,him go,,Affirmative,"In this case also , the police asked us for a bribe to not lodge a case against the driver and let him go . "
+Karan Deep of Deep Travels in Ahmedabad,ask.02,to lock him up,them,Affirmative,I refused and asked them to lock him up . 
+them,lock.02,the highway police,,Affirmative,I refused and asked them to lock him up . 
+Karan Deep of Deep Travels in Ahmedabad,agree.01,passengers suffered,,Affirmative,"I agree passengers suffered a lot , but we arranged an alternate driver , Deep said . "
+we,arrange.01,an alternate driver,,Affirmative,"I agree passengers suffered a lot , but we arranged an alternate driver , Deep said . "
+Karan Deep of Deep Travels in Ahmedabad,say.01,I agree,,Affirmative,"I agree passengers suffered a lot , but we arranged an alternate driver , Deep said . "
+The Khalapur police,lodge.03,a complaint against,,Affirmative,The Khalapur police had not lodged a complaint against the driver till Sunday evening . 
+the police at,collect.01,"a fine of R2,000",,Affirmative,"In drink driving cases , the police at the toll plaza often collect a fine of R2,000 and let the driver go . "
+the police at,let.01,driver go,,Affirmative,"In drink driving cases , the police at the toll plaza often collect a fine of R2,000 and let the driver go . "
+a Khalapur police official,say.01,complaint has been registered with us,,Affirmative,"No complaint has been registered with us , said a Khalapur police official . "

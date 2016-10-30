@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old man,tell.01,robbed him at gunpoint,police,Affirmative,"A 29 - year - old man told police a man he knew robbed him at gunpoint Saturday in the parking lot of Capital Teletrack , 1766 Wabash Ave . "
+A 29-year-old man,know.01,a man,,Affirmative,"A 29 - year - old man told police a man he knew robbed him at gunpoint Saturday in the parking lot of Capital Teletrack , 1766 Wabash Ave . "
+a man,rob.01,A 29-year-old man,,Affirmative,"A 29 - year - old man told police a man he knew robbed him at gunpoint Saturday in the parking lot of Capital Teletrack , 1766 Wabash Ave . "
+Springfield police,say.01,that they were still investigating,,Affirmative,Springfield police said Sunday that they were still investigating the incident and had identified a suspect . 
+they,investigate.01,the incident,,Affirmative,Springfield police said Sunday that they were still investigating the incident and had identified a suspect . 
+they,identify.01,a suspect,,Affirmative,Springfield police said Sunday that they were still investigating the incident and had identified a suspect . 
+A 29-year-old man,say.01,he returned to,,Affirmative,"The man said he returned to his car when the robber , who he described to police as an acquaintance , approached him . "
+he,describe.01,"the robber ,",as,Affirmative,"The man said he returned to his car when the robber , who he described to police as an acquaintance , approached him . "
+The man,say.01,robber threatened him with,,Affirmative,The man said the robber threatened him with a gun and stole more than $ 500 . 
+the robber,threaten.01,with,him,Affirmative,The man said the robber threatened him with a gun and stole more than $ 500 . 
+the robber,steal.01,more than $ 500,,Affirmative,The man said the robber threatened him with a gun and stole more than $ 500 . 
+Officers,spot.01,the possible armed robber driving away quickly from,,Affirmative,"Officers spotted the possible armed robber driving away quickly from the parking lot but chose not to pursue , Springfield police Lt. Dyle Stokes said . "
+Officers,choose.01,not to pursue,,Affirmative,"Officers spotted the possible armed robber driving away quickly from the parking lot but chose not to pursue , Springfield police Lt. Dyle Stokes said . "
+police Lt. Dyle Stokes,say.01,Officers spotted,,Affirmative,"Officers spotted the possible armed robber driving away quickly from the parking lot but chose not to pursue , Springfield police Lt. Dyle Stokes said . "
+Stokes,say.01,vehicle was later found at,,Affirmative,Stokes said the vehicle was later found at an unrelated address . 

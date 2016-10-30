@@ -1,0 +1,49 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The friend,discuss.01,the incident,with,Affirmative,"The friend who was with Alex Mazzan when he was shot outside an Orlando hospital discussed the incident with WFTV Tuesday evening , just hours after police released surveillance video showing the suspect vehicle . "
+police,release.01,surveillance video showing,,Affirmative,"The friend who was with Alex Mazzan when he was shot outside an Orlando hospital discussed the incident with WFTV Tuesday evening , just hours after police released surveillance video showing the suspect vehicle . "
+surveillance video showing,show.01,the suspect vehicle,,Affirmative,"The friend who was with Alex Mazzan when he was shot outside an Orlando hospital discussed the incident with WFTV Tuesday evening , just hours after police released surveillance video showing the suspect vehicle . "
+The surveillance video,show.01,a white car suspected in,,Affirmative,"The surveillance video shows a white car suspected in the killing of 20 - year - old Mazzan , who was fatally shot as he and Ronald Scott were leaving the hospital Monday night . "
+he and,leave.01,an Orlando hospital,,Affirmative,"The surveillance video shows a white car suspected in the killing of 20 - year - old Mazzan , who was fatally shot as he and Ronald Scott were leaving the hospital Monday night . "
+Alex Mazzan,say.01,"I 'm dying , ' and",,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Ronald Scott,tell.01,I loved him,him,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Ronald Scott,love.01,Alex Mazzan,,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Ronald Scott,take.LV,of,,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Ronald Scott,take.LV,of anything,,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Ronald Scott,for.01,Alex Mazzan,,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+Alex Mazzan,say.01,Scott told WFTV,,Affirmative,"He said ' I 'm dying , ' and I told him I loved him , and I 'd take care of his kid and everything , and take care of anything I could for him but that 's all he said , Scott told WFTV . "
+men,drive.01,up,,Affirmative,Mazzan was shot after he and Scott got into an argument with a group of men who drove up in the white car on Lucerne Terrace . 
+The black males,tell.01,to get on,us,Affirmative,"The black males came up to us and told us to get on the sidewalk , get on the sidewalk , get on the sidewalk , Scott said . "
+Ronald Scott,say.01,males came up to us,,Affirmative,"The black males came up to us and told us to get on the sidewalk , get on the sidewalk , get on the sidewalk , Scott said . "
+Police,say.01,men exchanged words,,Affirmative,"Police said the men exchanged words , and the car circled back and someone opened fire , killing Mazzan . "
+the men,exchange.01,words,,Affirmative,"Police said the men exchanged words , and the car circled back and someone opened fire , killing Mazzan . "
+someone,open.01,fire,,Affirmative,"Police said the men exchanged words , and the car circled back and someone opened fire , killing Mazzan . "
+someone,kill.01,Alex Mazzan,,Affirmative,"Police said the men exchanged words , and the car circled back and someone opened fire , killing Mazzan . "
+Police,open.03,their door,,Affirmative,"They pulled in front of us , and then they opened up their door . "
+Ronald Scott,say.01,A shooter on,,Affirmative,"A shooter on one side shot one round and one shot two rounds , Scott said . "
+Ronald Scott,say.01,he ran,,Affirmative,Scott said he ran to flag down a corrections officer who happened to be in the area . 
+Ronald Scott,flag.01,a corrections officer,,Affirmative,Scott said he ran to flag down a corrections officer who happened to be in the area . 
+His son,know.01,His son,,Affirmative,His son will never get to know him . 
+"sister ,",say.01,They went out of,,Affirmative,"They went out of their way to take a brother , a father out of here for something , said Mazzan 's sister , Kelli Severt . "
+Investigators with,say.01,it does n't appear,,Affirmative,Investigators with Orlando police said it does n't appear the two groups of men knew each other prior to the incident . 
+the two groups of men,know.01,each other,,Affirmative,Investigators with Orlando police said it does n't appear the two groups of men knew each other prior to the incident . 
+Investigators with Orlando police,look.01,for someone,,Affirmative,"They were out looking for someone to shoot for probably a gang initiation or something , Scott said . "
+someone,shoot.03,for,,Affirmative,"They were out looking for someone to shoot for probably a gang initiation or something , Scott said . "
+Ronald Scott,say.01,They were out looking for someone,,Affirmative,"They were out looking for someone to shoot for probably a gang initiation or something , Scott said . "
+Friends and,hope.01,someone recognizes,,Affirmative,"Friends and family members are hoping someone recognizes the white suspect vehicle , which police said is a newer - model Nissan . "
+someone,recognize.02,"the white suspect vehicle ,",,Affirmative,"Friends and family members are hoping someone recognizes the white suspect vehicle , which police said is a newer - model Nissan . "
+Police,say.01,is,,Affirmative,"Friends and family members are hoping someone recognizes the white suspect vehicle , which police said is a newer - model Nissan . "
+A senseless crime,have.03,no reason,,Affirmative,"A senseless crime that has no reason to partake in the city , Scott said . "
+Ronald Scott,say.01,A senseless crime,,Affirmative,"A senseless crime that has no reason to partake in the city , Scott said . "
+girlfriend,tell.01,they still ca n't believe,WFTV,Affirmative,Mazzan 's girlfriend told WFTV they still ca n't believe he 's gone . 
+Friends,believe.01,he 's gone,,Affirmative,Mazzan 's girlfriend told WFTV they still ca n't believe he 's gone . 
+girlfriend Briana Skiles,say.01,He was,,Affirmative,"He was a good father , said Skiles . "
+girlfriend Briana Skiles,think.01,part is waking up and knowing,,Affirmative,I think the hardest part is waking up and knowing I 'll never seem him again . 
+Anyone with information about,call.02,Crimeline,,Affirmative,Anyone with information about the shooting is asked to call Crimeline at 800-423 - TIPS . 
+We,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+We,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+We,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

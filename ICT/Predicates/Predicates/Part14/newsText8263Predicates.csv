@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The U.S. Centers for,identify.01,an Illinois man,,Affirmative,The U.S. Centers for Disease Control and Prevention have identified an Illinois man who appears to be the first homegrown case of MERS in the United States . 
+an Illinois man who appears to be the first homegrown case of MERS in the United States,have.03,an active case of,,Affirmative,"The man does not have an active case of Middle East respiratory syndrome , CDC officials said Saturday . "
+CDC officials,say.01,man does not have,,Affirmative,"The man does not have an active case of Middle East respiratory syndrome , CDC officials said Saturday . "
+blood tests,show.01,system has made antibodies,,Affirmative,But blood tests show that his immune system has made antibodies to fight the MERS coronavirus - an indication that he has been infected . 
+his immune system,fight.01,the MERS coronavirus -,,Affirmative,But blood tests show that his immune system has made antibodies to fight the MERS coronavirus - an indication that he has been infected . 
+an Illinois man who appears to be the first homegrown case of MERS in the United States,travel.01,to,,Affirmative,"Unlike the two other U.S. residents who have been diagnosed with MERS - one in Indiana and one in Florida - the Illinois man has not traveled to the Middle East , where the virus first appeared in 2012 . "
+an Illinois man who appears to be the first homegrown case of MERS in the United States,meet.03,with,,Affirmative,"However , he met with the Indiana patient twice and had close contact with him during those visits , according to the CDC . "
+an Illinois man who appears to be the first homegrown case of MERS in the United States,have.03,close contact with him,,Affirmative,"However , he met with the Indiana patient twice and had close contact with him during those visits , according to the CDC . "
+"The Illinois man ,",seek.01,medical care,,Affirmative,"The Illinois man , whose identity was not released , was never sick enough to seek medical care . "
+Health officials,test.01,"The Illinois man , whose identity was not released",,Affirmative,"Health officials tested him as part of their investigation into all the known contacts of the Indiana patient , a health - care worker who returned from Saudi Arabia four days before he was admitted to Community Hospital in Munster , Ind . "
+"Dr. David Swerdlow ,",say.01,It 's possible,,Affirmative,"It 's possible that as the investigation continues others may also test positive for MERS - CoV infection but not get sick , Dr. David Swerdlow , the epidemiologist in charge of the CDC 's MERS response , said in a statement . "
+Local health officials,keep.02,tabs,on,Affirmative,Local health officials have been keeping tabs on the Illinois man since May 3 . 
+test results showing,show.01,MERS antibodies,,Affirmative,His blood test results showing MERS antibodies were reported to the CDC on Friday night . 
+the Illinois man,feel.01,well,,Affirmative,"As of Saturday , the Illinois man was feeling well , the CDC said . "
+the CDC,say.01,man was feeling well,,Affirmative,"As of Saturday , the Illinois man was feeling well , the CDC said . "
+care worker,travel.01,from,,Affirmative,The Florida patient is also a health - care worker who traveled from Saudi Arabia to Orlando to visit relatives there . 
+care worker,visit.01,relatives,,Affirmative,The Florida patient is also a health - care worker who traveled from Saudi Arabia to Orlando to visit relatives there . 
+a health-care worker who traveled from Saudi Arabia to Orlando to visit relatives there,begin.01,to experience,,Affirmative,He began to experience flulike symptoms on a plane from Jidda to London on May 1 . 
+a health-care worker who traveled from Saudi Arabia to Orlando to visit relatives there,experience.01,flulike symptoms,,Affirmative,He began to experience flulike symptoms on a plane from Jidda to London on May 1 . 
+the CDC 's,say.01,doing well,,Affirmative,"He was admitted to a hospital May 8 , where he is isolated and doing well , the CDC says . "
+Americans wishing,wish.01,to visit,,Affirmative,"At this time , there is no need for Americans wishing to visit the Arabian Peninsula to cancel their plans , the CDC says . "
+Americans wishing,visit.01,the Arabian Peninsula,,Affirmative,"At this time , there is no need for Americans wishing to visit the Arabian Peninsula to cancel their plans , the CDC says . "
+Americans wishing,cancel.01,their plans,,Affirmative,"At this time , there is no need for Americans wishing to visit the Arabian Peninsula to cancel their plans , the CDC says . "
+the CDC 's,say.01,", there is",,Affirmative,"At this time , there is no need for Americans wishing to visit the Arabian Peninsula to cancel their plans , the CDC says . "
+Travelers,monitor.01,their health,,Affirmative,"Travelers should monitor their health while overseas and once they return , according to the agency . "

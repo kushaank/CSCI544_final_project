@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+no one question,provide.01,"a scientific , testable answer",,Affirmative,"There 's no one question that provides a scientific , testable answer as to whether Alabama is a wonderful place to live . "
+data sets,offer.01,hints,,Affirmative,- of data sets that offer hints . 
+you,know.01,"Nate Silver ,",,Affirmative,"Perhaps you know Nate Silver , who accurately predicted in 2012 that Barack Obama would defeat Mitt Romney in the U.S. presidential election . "
+"Nate Silver ,",predict.01,Obama would defeat,,Affirmative,"Perhaps you know Nate Silver , who accurately predicted in 2012 that Barack Obama would defeat Mitt Romney in the U.S. presidential election . "
+Barack Obama,defeat.01,Mitt Romney,,Affirmative,"Perhaps you know Nate Silver , who accurately predicted in 2012 that Barack Obama would defeat Mitt Romney in the U.S. presidential election . "
+Most,cite.01,this feat,,Affirmative,"( Most who cite this feat point out that Silver got 50 of 50 states right ; the arguably greater accomplishment was his holding that Obama would win big , while others thought Romney might 've closed the gap . ) "
+Most,point.02,that Silver got 50 of,,Affirmative,"( Most who cite this feat point out that Silver got 50 of 50 states right ; the arguably greater accomplishment was his holding that Obama would win big , while others thought Romney might 've closed the gap . ) "
+others,think.01,Romney might 've closed,,Affirmative,"( Most who cite this feat point out that Silver got 50 of 50 states right ; the arguably greater accomplishment was his holding that Obama would win big , while others thought Romney might 've closed the gap . ) "
+Mitt Romney in the U.S. presidential election,close.01,the gap,,Affirmative,"( Most who cite this feat point out that Silver got 50 of 50 states right ; the arguably greater accomplishment was his holding that Obama would win big , while others thought Romney might 've closed the gap . ) "
+Silver,run.01,"FiveThirtyEight.com ,",,Affirmative,"Silver now runs FiveThirtyEight.com , ESPN 's foray into data - driven reporting and blogging . "
+you,recognize.01,"Ezra Klein ,",,Affirmative,"Or you might recognize Ezra Klein , who left the Washington Post this year after new Post owner Jeff Bezos declined his request for several million dollars to pay for a new explanatory journalism venture . "
+"Ezra Klein ,",leave.01,the Washington Post,,Affirmative,"Or you might recognize Ezra Klein , who left the Washington Post this year after new Post owner Jeff Bezos declined his request for several million dollars to pay for a new explanatory journalism venture . "
+owner Jeff Bezos,decline.02,his request for,,Affirmative,"Or you might recognize Ezra Klein , who left the Washington Post this year after new Post owner Jeff Bezos declined his request for several million dollars to pay for a new explanatory journalism venture . "
+Klein and others,operate.01,"Vox ,",,Affirmative,"Klein and others now operate Vox , which does its best to demystify complicated items currently in the news . "
+"Vox ,",do.02,its best,to demystify,Affirmative,"Klein and others now operate Vox , which does its best to demystify complicated items currently in the news . "
+"Vox ,",demystify.01,complicated items,,Affirmative,"Klein and others now operate Vox , which does its best to demystify complicated items currently in the news . "
+York Times,have.03,"journalism venture , too , called",,Affirmative,"The New York Times has a new data journalism venture , too , called The Upshot , led by David Leonhardt . "
+by,lead.02,"journalism venture , too , called",,Affirmative,"The New York Times has a new data journalism venture , too , called The Upshot , led by David Leonhardt . "
+a way,put.01,Alabama residents,squarely at,Affirmative,"AL.com , too , has committed to data journalism in a way that puts Alabama residents squarely at the center of the analysis . "
+We,call.01,AL.com,Data Mine,Affirmative,We 're calling it Data Mine . 
+I,keep.02,close tabs on,,Affirmative,But I have been keeping pretty close tabs on Alabama data for a while now . 
+I,begin.01,working for AL.com,,Affirmative,"I moved to Birmingham two years ago , and began working for AL.com as the organization 's jobs and economy reporter . "
+I,work.01,as,for AL.com,Affirmative,"I moved to Birmingham two years ago , and began working for AL.com as the organization 's jobs and economy reporter . "
+I,expand.01,my view,,Affirmative,"Since then , I 've expanded my view to look at the incomes of Alabama households , the financial and physical strain being felt by our state 's prison systems , the locations of the tornadoes of April 2014 , and most recently , trends in migration to and from the state of Alabama . "
+I,look.01,at,,Affirmative,"Since then , I 've expanded my view to look at the incomes of Alabama households , the financial and physical strain being felt by our state 's prison systems , the locations of the tornadoes of April 2014 , and most recently , trends in migration to and from the state of Alabama . "
+by,feel.01,strain,,Affirmative,"Since then , I 've expanded my view to look at the incomes of Alabama households , the financial and physical strain being felt by our state 's prison systems , the locations of the tornadoes of April 2014 , and most recently , trends in migration to and from the state of Alabama . "
+We,try.01,to answer,,Affirmative,"Broadly , we 'll try to answer three questions about Alabama : how do we live , how do we work , and what do we do for fun ? "
+We,answer.01,three questions about Alabama,,Affirmative,"Broadly , we 'll try to answer three questions about Alabama : how do we live , how do we work , and what do we do for fun ? "
+We,live.01,"how do we work , and",,Affirmative,"Broadly , we 'll try to answer three questions about Alabama : how do we live , how do we work , and what do we do for fun ? "
+I,afford.01,"30,000 bottle of scotch",,Affirmative,"( I ca n't afford a $ 30,000 bottle of scotch , but maybe you can . ) "
+You,see.01,"lots of maps ,",,Affirmative,"You 'll see lots of maps , interactive graphics , and searchable databases that you can use to help us answer these questions . "
+you,use.01,searchable databases,to help,Affirmative,"You 'll see lots of maps , interactive graphics , and searchable databases that you can use to help us answer these questions . "
+you,help.01,us answer,,Affirmative,"You 'll see lots of maps , interactive graphics , and searchable databases that you can use to help us answer these questions . "
+We,answer.01,"three questions about Alabama : how do we live , how do we work , and what do we do for fun ?",,Affirmative,"You 'll see lots of maps , interactive graphics , and searchable databases that you can use to help us answer these questions . "
+I,think.01,have,,Affirmative,", but with so many of this year 's data journalism start - ups focused on nationwide data , I think we at AL.com have an opportunity to be leaders in state - specific analysis . "
+we at AL.com,have.03,an opportunity,,Affirmative,", but with so many of this year 's data journalism start - ups focused on nationwide data , I think we at AL.com have an opportunity to be leaders in state - specific analysis . "
+I,hope.01,you 'll dig into,,Affirmative,I hope you 'll dig into the Data Mine - online at AL.com / datamine - often . 
+you,see.01,any big piles of data lying around anywhere,,Affirmative,"And if you see any big piles of data lying around anywhere , or think of any questions we ought to explore , let us know . "
+you,think.01,of,,Affirmative,"And if you see any big piles of data lying around anywhere , or think of any questions we ought to explore , let us know . "
+We,explore.01,any questions,,Affirmative,"And if you see any big piles of data lying around anywhere , or think of any questions we ought to explore , let us know . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

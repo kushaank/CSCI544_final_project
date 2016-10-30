@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+channel Al - Arabiya,report.01,has resigned,,Affirmative,"DUBAI , May 19 ( RIA Novosti ) - The Syrian opposition government 's Minister of Defense Asaad Mustafa has resigned , TV news channel Al - Arabiya reported Monday . "
+"The Syrian opposition government 's Minister of Defense Asaad Mustafa has resigned , TV news channel Al-Arabiya reported Monday",resign.01,from,,Affirmative,"The opposition minister resigned from his post Sunday evening due to his disagreements with Ahmad Jarba , President of the National Coalition for Syrian Revolutionary and Opposition Forces , the news outlet said citing sources . "
+the news outlet,say.01,minister resigned from,,Affirmative,"The opposition minister resigned from his post Sunday evening due to his disagreements with Ahmad Jarba , President of the National Coalition for Syrian Revolutionary and Opposition Forces , the news outlet said citing sources . "
+Ahmad Jarba,withhold.01,funds,to combat,Affirmative,Jarba had allegedly withheld funds to combat extremist groups and the forces of Syrian President Bashar al - Assad . 
+Ahmad Jarba,combat.01,extremist groups and,,Affirmative,Jarba had allegedly withheld funds to combat extremist groups and the forces of Syrian President Bashar al - Assad . 
+The Syrian National Coalition,say.01,that Mustafa had wanted,,Affirmative,"The Syrian National Coalition said that Mustafa had wanted to take up the post of provisional prime minister , but Jarba turned him down because of his failure as defense minister . "
+Defense Asaad Mustafa has resigned,want.01,to take up,,Affirmative,"The Syrian National Coalition said that Mustafa had wanted to take up the post of provisional prime minister , but Jarba turned him down because of his failure as defense minister . "
+Defense Asaad Mustafa has resigned,take.13,the post of,,Affirmative,"The Syrian National Coalition said that Mustafa had wanted to take up the post of provisional prime minister , but Jarba turned him down because of his failure as defense minister . "
+Ahmad Jarba,turn.12,Ahmad Jarba,,Affirmative,"The Syrian National Coalition said that Mustafa had wanted to take up the post of provisional prime minister , but Jarba turned him down because of his failure as defense minister . "
+Defense Asaad Mustafa has resigned,achieve.01,anything,,Affirmative,He did not achieve anything . 
+extremist groups,lose.02,Syria,,Affirmative,We lost Syria . 
+extremist groups,lose.02,Syria,to jihadis and to Assad,Affirmative,"We lost it to jihadis and to Assad , a Syrian National Coalition source said . "
+Coalition source,say.01,We lost it to jihadis and to Assad,,Affirmative,"We lost it to jihadis and to Assad , a Syrian National Coalition source said . "
+Defense Asaad Mustafa has resigned,serve.01,as Minister of Agriculture,,Affirmative,"Asaad Mustafa served as Minister of Agriculture under Assad 's father , Hafez al - Assad . "
+Defense Asaad Mustafa has resigned,join.01,the Syrian opposition,,Affirmative,In 2011 he joined the Syrian opposition . 
+by,form.01,the `` interim Syrian government '',,Affirmative,The government was formed by the Syrian National Coalition to govern the territories controlled by the opposition . 
+by,control.01,the territories controlled by,,Affirmative,The government was formed by the Syrian National Coalition to govern the territories controlled by the opposition . 
+the opposition cabinet,gain.02,control over,,Affirmative,"However , over the past six months , the opposition cabinet has failed to gain control over extremist groups in Syria . "
+You,place.01,this material,on,Affirmative,You may place this material on your blog by copying the link . 

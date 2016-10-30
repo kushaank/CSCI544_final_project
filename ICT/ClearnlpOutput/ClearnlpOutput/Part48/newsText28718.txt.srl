@@ -1,0 +1,14 @@
+1	You	you	PRP	_	3	nsubj	3:A0
+2	may	may	MD	_	3	aux	3:AM-MOD
+3	login	login	VB	pb=login.01	0	root	_
+4	with	with	IN	_	3	prep	3:A1
+5	either	either	CC	p2=DT	8	preconj	_
+6	your	your	PRP$	_	8	poss	_
+7	assigned	assign	VBN	pb=assign.01	8	amod	_
+8	username	username	NN	p2=NNS	4	pobj	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	your	your	PRP$	_	12	poss	_
+11	e-mail	e-mail	NN	_	12	nn	_
+12	address	address	NN	_	8	conj	_
+13	.	.	.	_	3	punct	_
+

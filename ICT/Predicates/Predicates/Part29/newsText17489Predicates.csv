@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A commencement speaker,blast.02,Pennsylvania college students,as immature and arrogant for protesting,Affirmative,( AP ) - A commencement speaker has blasted Pennsylvania college students as immature and arrogant for protesting the original speaker who then decided to withdraw . 
+the original speaker,decide.01,to withdraw,,Affirmative,( AP ) - A commencement speaker has blasted Pennsylvania college students as immature and arrogant for protesting the original speaker who then decided to withdraw . 
+President William Bowen,use.01,his commencement speech,to criticize students,Affirmative,"Former Princeton University President William Bowen used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+President William Bowen,criticize.01,students,,Affirmative,"Former Princeton University President William Bowen used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+students,campaign.01,against,,Affirmative,"Former Princeton University President William Bowen used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+40 students and,protest.01,invitation,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+40 students and,object.01,to,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+police,use.01,force,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+The Philadelphia Inquirer,report.01,that Bowen said,,Affirmative,The Philadelphia Inquirer reports that Bowen said Birgeneau 's withdrawal was a defeat for the school . 
+Bowen,say.01,withdrawal was,,Affirmative,The Philadelphia Inquirer reports that Bowen said Birgeneau 's withdrawal was a defeat for the school . 
+His address,draw.02,a standing ovation,,Affirmative,His address drew a standing ovation . 
+several commencement speakers,cancel.01,their appearances,,Affirmative,Birgeneau is one of several commencement speakers who have canceled their appearances this spring amid student protests . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

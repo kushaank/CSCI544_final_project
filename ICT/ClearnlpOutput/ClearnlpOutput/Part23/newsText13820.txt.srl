@@ -1,0 +1,112 @@
+1	More	more	JJR	_	3	amod	_
+2	than	than	IN	_	3	quantmod	_
+3	3,500	0	CD	_	5	num	_
+4	Chinese	chinese	JJ	_	5	amod	_
+5	citizens	citizen	NNS	_	6	nsubj	6:A0=PAG
+6	evacuated	evacuate	VBD	pb=evacuate.01	0	root	_
+7	Vietnam	vietnam	NNP	_	6	dobj	6:A1=DIR
+8	via	via	IN	_	6	prep	6:AM-MNR
+9	several	several	JJ	_	11	amod	_
+10	passenger	passenger	NN	_	11	nn	_
+11	ships	ship	NNS	_	8	pobj	12:A1=PPT
+12	headed	head	VBN	p2=VBD|pb=head.02	11	partmod	_
+13	for	for	IN	_	12	prep	_
+14	Haikou	haikou	NNP	_	13	pobj	_
+15	,	,	,	_	14	punct	_
+16	China	china	NNP	_	14	appos	_
+17	.	.	.	_	6	punct	_
+
+1	According	accord	VBG	_	8	prep	8:AM-ADV
+2	to	to	IN	_	1	prep	_
+3	AFP	afp	NNP	_	2	pobj	_
+4	,	,	,	_	8	punct	_
+5	2	0	CD	_	6	num	_
+6	Chinese	chinese	NNP	p2=NNPS	8	nsubjpass	8:A1=PPT
+7	were	be	VBD	_	8	auxpass	_
+8	killed	kill	VBN	pb=kill.01	0	root	_
+9	and	and	CC	_	8	cc	_
+10	140	0	CD	_	11	nsubj	11:A1=PPT
+11	injured	injure	VBN	p2=JJ|pb=injure.01	8	conj	_
+12	after	after	IN	_	16	mark	_
+13	mobs	mob	NNS	p2=NN	16	nsubj	16:A0=PAG
+14	of	of	IN	_	13	prep	_
+15	Vietnamese	vietnamese	NNP	p2=NNPS	14	pobj	_
+16	expressed	express	VBD	pb=express.01	11	advcl	11:AM-TMP
+17	their	their	PRP$	_	18	poss	_
+18	wrath	wrath	NN	_	16	dobj	16:A1=PPT
+19	last	last	JJ	_	20	amod	_
+20	week	week	NN	_	16	npadvmod	16:AM-TMP
+21	toward	toward	IN	_	16	prep	_
+22	China	china	NNP	_	21	pobj	_
+23	for	for	IN	_	16	prep	16:AM-CAU
+24	erecting	erect	VBG	pb=erect.01	23	pcomp	_
+25	an	an	DT	_	28	det	_
+26	oil	oil	NN	_	27	nn	_
+27	drilling	drilling	NN	p2=VBG	28	nn	_
+28	rig	rig	NN	_	24	dobj	24:A1=PRD
+29	in	in	IN	_	24	prep	24:AM-LOC
+30	waters	water	NNS	_	29	pobj	31:A1=PPT
+31	claimed	claim	VBN	p2=VBD|pb=claim.01	30	partmod	_
+32	by	by	IN	_	31	agent	31:A0=PAG
+33	both	both	DT	_	34	det	_
+34	nations	nation	NNS	_	32	pobj	_
+35	.	.	.	_	11	punct	_
+
+1	Many	many	JJ	_	2	amod	_
+2	factories	factory	NNS	_	5	nsubjpass	5:A1=PPT
+3	were	be	VBD	_	5	auxpass	_
+4	actually	actually	RB	_	5	advmod	5:AM-ADV
+5	owned	own	VBN	pb=own.01	0	root	_
+6	by	by	IN	_	5	agent	5:A0=PAG
+7	Taiwanese	taiwanese	NNPS	p2=NNP	6	pobj	_
+8	,	,	,	_	7	punct	_
+9	S.	s.	NNP	p2=CC	10	nn	_
+10	Korean	korean	NNP	p2=JJ	7	conj	_
+11	and	and	CC	_	10	cc	_
+12	Japanese	japanese	JJ	p2=NNP	13	amod	_
+13	companies	company	NNS	_	10	conj	_
+14	.	.	.	_	5	punct	_
+
+1	    	    	''	p2=NN	2	punct	_
+2	Investors.com	#url#	ADD	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	    	    	NNS	p2=NN	0	root	_
+2	for	for	IN	_	1	prep	_
+3	free	free	JJ	_	4	amod	_
+4	membership	membership	NN	_	2	pobj	_
+5	on	on	IN	_	4	prep	_
+6	Investors.com	#url#	ADD	_	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	©	©	$	p2=SYM	2	nmod	_
+2	2014	0	CD	_	3	nn	_
+3	MarketSmith	marketsmith	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	Incorporated	incorporated	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	Charts	chart	NNS	p2=VBZ	6	nsubjpass	2:A1;6:A1=PPT
+2	provided	provided	VBN	pb=provide.01	1	partmod	_
+3	by	by	IN	_	2	agent	2:A0
+4	MarketSmith	marketsmith	NNP	_	3	pobj	_
+5	are	be	VBP	_	6	auxpass	_
+6	used	use	VBN	pb=use.01	0	root	_
+7	by	by	IN	_	6	agent	6:A0=PAG
+8	IBD	ibd	NNP	_	7	pobj	_
+9	under	under	IN	_	6	prep	6:AM-MNR
+10	license	license	NN	p2=JJ	11	nn	_
+11	agreement	agreement	NN	_	9	pobj	_
+12	.	.	.	_	6	punct	_
+
+1	MarketSmith	marketsmith	NNP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	registered	register	VBN	p2=JJ|pb=register.02	5	amod	_
+5	trademark	trademark	NN	_	2	attr	4:A1=PPT;2:A2=PRD
+6	of	of	IN	_	5	prep	_
+7	MarketSmith	marketsmith	NNP	_	6	pobj	_
+8	,	,	,	_	7	punct	_
+9	Incorporated	incorporated	NNP	_	7	appos	_
+10	.	.	.	_	2	punct	_
+

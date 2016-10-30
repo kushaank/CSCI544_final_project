@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An article saying,say.01,Obama has announced plans,,Affirmative,An article saying President Barack Obama has announced plans to run for a third presidential term is fake . 
+President Barack Obama,announce.01,plans,,Affirmative,An article saying President Barack Obama has announced plans to run for a third presidential term is fake . 
+National Report,post.01,real news stories,,Affirmative,"According to a disclaimer , National Report does n't post real news stories . "
+"satire web publication ,",use.01,real names,,Affirmative,"National Report is a news and political satire web publication , which may or may not use real names , often in semi-real or mostly fictitious ways . "
+within,contain.01,All news articles contained within,,Affirmative,"All news articles contained within National Report are fiction , and presumably fake news . "
+a disclaimer,state.01,is,,Affirmative,"Any resemblance to the truth is purely coincidental , it states . "
+The satirical article about,have.03,thousands of likes,,Affirmative,The satirical article about Obama 's third term had thousands of likes and shares on Facebook . 
+A number of people,believe.01,A number of people,,Affirmative,A number of people apparently believed it . 

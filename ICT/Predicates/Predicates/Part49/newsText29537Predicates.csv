@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+based business,recall.01,million pounds of,,Affirmative,"Last Modified : Monday , May 19 , 2014 at 8:51 p.m. DETROIT | A Detroit - based business is recalling about 1.8 million pounds of ground beef products that may be contaminated with E. coli O157 : H7 , according to health officials . "
+the company,issue.01,the recall,,Affirmative,"Officials with Wolverine Packing Co. in Detroit , the company that issued the recall , were not immediately available for comment . "
+the Michigan Department of Agriculture &,do.02,meat inspection or investigations,,Affirmative,"Because the Michigan Department of Agriculture & Rural Development does n't do meat inspection or investigations , the case has been turned over to federal health officials , said Jennifer Holton , MDARD spokeswoman . "
+"Jennifer Holton ,",say.01,case has been turned over to,,Affirmative,"Because the Michigan Department of Agriculture & Rural Development does n't do meat inspection or investigations , the case has been turned over to federal health officials , said Jennifer Holton , MDARD spokeswoman . "
+Jennifer Holton,say.01,are expected,,Affirmative,She said restaurants who may have served the tainted meat are expected to destroy the meat or contact the distributor for return . 
+restaurants,serve.01,the tainted meat,,Affirmative,She said restaurants who may have served the tainted meat are expected to destroy the meat or contact the distributor for return . 
+restaurants,destroy.01,the tainted meat,,Affirmative,She said restaurants who may have served the tainted meat are expected to destroy the meat or contact the distributor for return . 
+restaurants,contact.01,the distributor,,Affirmative,She said restaurants who may have served the tainted meat are expected to destroy the meat or contact the distributor for return . 
+The products subject,bear.01,the establishment number EST,,Affirmative,The products subject to recall bear the establishment number EST . 
+2574B and,have.03,date code in,,Affirmative,2574B and will have a production date code in the format Packing Nos : MM DD 14 between 03 31 14 and 04 18 14 . 
+we,see.01,any more cases,,Affirmative,"It 's hopeful that we wo n't see any more cases , Horton said . "
+Horton,say.01,It 's hopeful,,Affirmative,"It 's hopeful that we wo n't see any more cases , Horton said . "
+E. coli,cause.01,"severe abdominal cramps ,",,Affirmative,"E. coli can be miserable , causing severe abdominal cramps , bloody diarrhea and vomiting , but it 's not usually fatal . "
+Public health officials,use.01,the incident,to remind consumers,Affirmative,Public health officials used the incident to remind consumers to cook ground beef to an internal temperature of 160 degrees Fahrenheit . 
+Public health officials,remind.01,to cook,consumers,Affirmative,Public health officials used the incident to remind consumers to cook ground beef to an internal temperature of 160 degrees Fahrenheit . 
+Public health officials,cook.01,ground beef,,Affirmative,Public health officials used the incident to remind consumers to cook ground beef to an internal temperature of 160 degrees Fahrenheit . 

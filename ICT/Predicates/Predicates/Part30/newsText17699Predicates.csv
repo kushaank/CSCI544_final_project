@@ -1,0 +1,48 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A device,stimulate.01,"tears , which is why post-menopausal women are more prone to the condition",,Affirmative,A device that stimulates tears could transform the treatment of dry eyes . 
+A device,transform.01,the treatment of,,Affirmative,A device that stimulates tears could transform the treatment of dry eyes . 
+Initial animal studies,suggest.01,it can increase,,Affirmative,Initial animal studies suggest it can increase the production of tears fivefold . 
+The tiny device,increase.01,"the production of tears , which is why post-menopausal women are more prone to the condition",,Affirmative,Initial animal studies suggest it can increase the production of tears fivefold . 
+by,cause.01,50 suffers from,,Affirmative,"As many as one in 15 people over the age of 50 suffers from dry eyes , typically caused by dry eye syndrome or dry eye disease , where the eyes do not make enough tears or the tears that are produced evaporate too quickly . "
+"tears , which is why post-menopausal women are more prone to the condition",contain.01,"oils , mucus , salts and proteins",,Affirmative,"Tears contain oils , mucus , salts and proteins - but the bulk is made up of a watery liquid produced by the lacrimal glands . "
+by,produce.01,a watery liquid produced by,,Affirmative,"Tears contain oils , mucus , salts and proteins - but the bulk is made up of a watery liquid produced by the lacrimal glands . "
+15 people over the age of 50,reduce.01,the risk of,,Affirmative,They also reduce the risk of eye infection and wash away foreign matter . 
+15 people over the age of 50,wash.01,foreign matter,,Affirmative,They also reduce the risk of eye infection and wash away foreign matter . 
+dry eyes,feel.01,gritty,,Affirmative,"Without enough tears the eyes feel gritty and can become red or swollen , and sometimes painful . "
+by changes in,cause.01,the vision blur from time,,Affirmative,"It can be caused by changes in hormone levels - hormones help drive the production of tears , which is why post-menopausal women are more prone to the condition . "
+hormones,help.01,drive,,Affirmative,"It can be caused by changes in hormone levels - hormones help drive the production of tears , which is why post-menopausal women are more prone to the condition . "
+hormones,drive.02,"the production of tears ,",,Affirmative,"It can be caused by changes in hormone levels - hormones help drive the production of tears , which is why post-menopausal women are more prone to the condition . "
+Lubricating drops,provide.01,"the full benefits of tears ,",,Affirmative,"Lubricating drops can help , but do n't provide the full benefits of tears , which have antibacterial properties . "
+"tears ,",have.03,antibacterial properties,,Affirmative,"Lubricating drops can help , but do n't provide the full benefits of tears , which have antibacterial properties . "
+researchers at,test.01,can help trigger,,Affirmative,Now researchers at Stanford University in the U.S. are testing whether stimulating the lacrimal glands with a tiny electrical current can help trigger the production of tears . 
+stimulating,help.01,trigger,,Affirmative,Now researchers at Stanford University in the U.S. are testing whether stimulating the lacrimal glands with a tiny electrical current can help trigger the production of tears . 
+stimulating,trigger.01,"the production of tears , which is why post-menopausal women are more prone to the condition",,Affirmative,Now researchers at Stanford University in the U.S. are testing whether stimulating the lacrimal glands with a tiny electrical current can help trigger the production of tears . 
+The tiny device,contain.01,an electrode,,Affirmative,The device is only 1 mm wide but contains an electrode that fires mild pulses of electricity at the gland to stimulate the release of tears . 
+an electrode,fire.01,mild pulses of electricity,,Affirmative,The device is only 1 mm wide but contains an electrode that fires mild pulses of electricity at the gland to stimulate the release of tears . 
+by,alter.01,The pulse of electricity,,Affirmative,The pulse of electricity can be altered by an external controller ( used by a doctor ) that communicates to the device using wi - fi . 
+by,use.01,an external controller ( used by,,Affirmative,The pulse of electricity can be altered by an external controller ( used by a doctor ) that communicates to the device using wi - fi . 
+the device using,use.01,wi - fi,,Affirmative,The pulse of electricity can be altered by an external controller ( used by a doctor ) that communicates to the device using wi - fi . 
+Initial animal studies,suggest.01,increased tear production fivefold,,Affirmative,Animal studies have suggested that electrical stimulation of the gland increased tear production fivefold . 
+electrical stimulation of,tear.01,production,,Affirmative,Animal studies have suggested that electrical stimulation of the gland increased tear production fivefold . 
+the electrical signals,activate.01,the nerves controlling,,Affirmative,It 's thought that the electrical signals activate the nerves controlling the tiny muscles that operate the gland . 
+the nerves controlling,control.01,the tiny muscles,,Affirmative,It 's thought that the electrical signals activate the nerves controlling the tiny muscles that operate the gland . 
+the tiny muscles,operate.01,the gland to stimulate the release of tears,,Affirmative,It 's thought that the electrical signals activate the nerves controlling the tiny muscles that operate the gland . 
+20 people with,have.03,device - called,,Affirmative,"In a new trial , 20 people with dry eye will have the device - called the Lacrimal Gland Stimulator - implanted for 12 months . "
+"Sheraz Daya ,",comment.01,on,,Affirmative,"Commenting on the technology , Sheraz Daya , a consultant eye surgeon at the Centre for Sight , London , said : ' The fluid secreted by the lacrimal glands contains between 50 and 60 proteins , which are very important for the well being of the eye surface . "
+"Sheraz Daya ,",say.01,contains,,Affirmative,"Commenting on the technology , Sheraz Daya , a consultant eye surgeon at the Centre for Sight , London , said : ' The fluid secreted by the lacrimal glands contains between 50 and 60 proteins , which are very important for the well being of the eye surface . "
+The fluid secreted by,contain.01,"proteins ,",,Affirmative,"Commenting on the technology , Sheraz Daya , a consultant eye surgeon at the Centre for Sight , London , said : ' The fluid secreted by the lacrimal glands contains between 50 and 60 proteins , which are very important for the well being of the eye surface . "
+Sheraz Daya,add.01,could be revolutionary in those with,,Affirmative,HE ADDS : ' The application of this technology could be revolutionary in those with severe dry conditions and chemical injuries where patients have to put drops in their eyes every few minutes . 
+patients who 'd previously used lubricating eye drops,put.01,Lubricating drops,in,Affirmative,HE ADDS : ' The application of this technology could be revolutionary in those with severe dry conditions and chemical injuries where patients have to put drops in their eyes every few minutes . 
+a new study,suggest.01,oil might help improve,,Affirmative,"' Meanwhile , a new study suggests fish oil might help improve the symptoms of dry eye syndrome . "
+fish oil,help.01,improve,,Affirmative,"' Meanwhile , a new study suggests fish oil might help improve the symptoms of dry eye syndrome . "
+fish oil,improve.01,the symptoms of,,Affirmative,"' Meanwhile , a new study suggests fish oil might help improve the symptoms of dry eye syndrome . "
+patients,lubricate.01,eye drops,,Affirmative,"In the trial , patients who 'd previously used lubricating eye drops took three capsules containing 500 mg of omega - 3 fish oils three times a day for 12 weeks . "
+patients,take.01,three capsules containing,,Affirmative,"In the trial , patients who 'd previously used lubricating eye drops took three capsules containing 500 mg of omega - 3 fish oils three times a day for 12 weeks . "
+three capsules containing,contain.01,500 mg of,,Affirmative,"In the trial , patients who 'd previously used lubricating eye drops took three capsules containing 500 mg of omega - 3 fish oils three times a day for 12 weeks . "
+All,report.01,"a reduction in feelings of grittiness , pain and redness",,Affirmative,"All reported a reduction in feelings of grittiness , pain and redness , according to the study published in the medical journal Clinical Ophthalmology . "
+some,complain.01,of,,Affirmative,"However , some complained of a fishy after - taste and nausea . "
+fish oil,have.03,an anti-inflammatory effect on,,Affirmative,The researchers - from the Spanish Dry Eye Clinical Study Group - suggest that fish oil has an anti-inflammatory effect on the lacrimal or tear gland . 
+fish oil,tear.01,gland,,Affirmative,The researchers - from the Spanish Dry Eye Clinical Study Group - suggest that fish oil has an anti-inflammatory effect on the lacrimal or tear gland . 
+omega-3 fish oils three times,help.01,improve,,Affirmative,The oils may also help improve the quality of tears . 
+omega-3 fish oils three times,improve.01,the quality of tears,,Affirmative,The oils may also help improve the quality of tears . 
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

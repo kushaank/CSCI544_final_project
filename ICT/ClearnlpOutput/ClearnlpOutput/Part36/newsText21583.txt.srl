@@ -1,0 +1,66 @@
+1	Gardaí	gardaí	NNS	p2=NNP	3	nsubj	3:A0=PAG
+2	have	have	VBP	_	3	aux	_
+3	located	locate	VBN	pb=locate.02	0	root	_
+4	a	a	DT	_	10	det	_
+5	16	0	CD	_	7	hmod	_
+6	-	-	HYPH	_	7	hyph	_
+7	year	year	NN	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	old	old	JJ	_	10	amod	_
+10	girl	girl	NN	_	3	dobj	3:A1=PPT;14:A1=PAG
+11	who	who	WP	_	14	nsubj	14:R-A1
+12	had	have	VBD	_	14	aux	_
+13	been	be	VBN	_	14	aux	_
+14	missing	miss	VBG	pb=miss.01	10	rcmod	_
+15	from	from	IN	_	14	prep	_
+16	The	the	DT	p2=NNP	17	det	_
+17	Ward	ward	NNP	_	15	pobj	_
+18	,	,	,	_	17	punct	_
+19	Co	co	NNP	_	20	nn	_
+20	Dublin	dublin	NNP	_	17	appos	_
+21	.	.	.	_	3	punct	_
+
+1	Kellie	kellie	NNP	_	2	nn	_
+2	McCauley	mccauley	NNP	_	5	nsubjpass	_
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	found	find	VBN	pb=find.01	0	root	_
+6	safe	safe	JJ	_	5	oprd	5:A1=PPT
+7	and	and	CC	_	6	cc	_
+8	well	well	JJ	p2=RB	6	conj	_
+9	.	.	.	_	5	punct	_
+
+1	Gardaí	gardaí	NNS	p2=NNP	3	nsubj	3:A0=PAG
+2	have	have	VBP	_	3	aux	_
+3	thanked	thank	VBN	pb=thank.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	public	public	NN	p2=JJ	3	dobj	3:A1=PPT
+6	and	and	CC	_	5	cc	_
+7	media	medium	NNS	p2=NN	5	conj	_
+8	for	for	IN	_	3	prep	3:A2=CAU
+9	assisting	assist	VBG	pb=assist.01	8	pcomp	_
+10	in	in	IN	p2=RP	9	prep	9:A2=PPT
+11	the	the	DT	_	12	det	_
+12	search	search	NN	_	10	pobj	_
+13	.	.	.	_	3	punct	_
+
+1	RTÉ	rté	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	ie	ie	FW	p2=PRP	2	advmod	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	website	website	NN	_	2	nsubj	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	Raidió	raidió	NNP	_	8	nn	_
+7	Teilifís	teilifís	NNP	p2=NNPS	8	nn	_
+8	Éireann	éireann	NNP	_	5	pobj	_
+9	,	,	,	_	8	punct	_
+10	Ireland	ireland	NNP	_	15	poss	_
+11	's	's	POS	_	10	possessive	_
+12	National	national	NNP	_	15	nn	_
+13	Public	public	NNP	_	14	nn	_
+14	Service	service	NNP	_	15	nn	_
+15	Broadcaster	broadcaster	NNP	_	8	appos	_
+16	.	.	.	_	2	punct	_
+

@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,head.01,A single bench of,,Affirmative,A single bench of the SHC headed by Chief Justice Maqbool Baqar was seized with an application of defendant Mohammad Hashim for the transfer of his trial from an anti-terrorism court in Hyderabad to Karachi . 
+an anti-terrorism court in Hyderabad,direct.01,the assistant prosecutor general,,Affirmative,"The court directed the assistant prosecutor general to file comments on the matter by May 26 , the next date of hearing . "
+the assistant prosecutor general,file.01,comments on,,Affirmative,"The court directed the assistant prosecutor general to file comments on the matter by May 26 , the next date of hearing . "
+an anti-terrorism court in Hyderabad,direct.01,the convicts,to pay,Affirmative,"The court had also directed the convicts to pay Rs2 million to the victimâ€™s widow , Mariane Pearl . "
+the convicts,pay.01,Rs2 million,to,Affirmative,"The court had also directed the convicts to pay Rs2 million to the victimâ€™s widow , Mariane Pearl . "
+the presiding judge of the ATC-II in Karachi,inform.01,an anti-terrorism court in Hyderabad,trial had come to,Affirmative,"On Monday , the counsel for Hashim informed the court that his trial had come to a halt following the transfer of the presiding judge of the ATC Hyderabad , Javed Alam . "
+a halt following,follow.02,the transfer of,,Affirmative,"On Monday , the counsel for Hashim informed the court that his trial had come to a halt following the transfer of the presiding judge of the ATC Hyderabad , Javed Alam . "
+the presiding judge of the ATC-II in Karachi,say.01,had already declined,,Affirmative,"He said the newly posted judge , Abdul Ghafoor Memon , had already declined to proceed with the case when he had been the presiding judge of the ATC - II in Karachi . "
+"posted judge ,",proceed.01,with,,Affirmative,"He said the newly posted judge , Abdul Ghafoor Memon , had already declined to proceed with the case when he had been the presiding judge of the ATC - II in Karachi . "
+the presiding judge of the ATC-II in Karachi,say.01,was,,Affirmative,The counsel said the delay in his trial was a gross violation of the anti-terrorism laws that required speedy trial of the accused persons . 
+the anti-terrorism laws,require.01,speedy trial of,,Affirmative,The counsel said the delay in his trial was a gross violation of the anti-terrorism laws that required speedy trial of the accused persons . 
+the presiding judge of the ATC-II in Karachi,say.01,delay had added to,,Affirmative,He said that the inordinate delay had added to the suffering of the applicant who had fallen ill . 
+you,have.03,information,,Affirmative,Do you have information you wish to share with Dawn.com ? 
+you,wish.01,to share with Dawn.com,,Affirmative,Do you have information you wish to share with Dawn.com ? 
+you,share.01,information,with Dawn.com,Affirmative,Do you have information you wish to share with Dawn.com ? 
+You,share.01,"news tips , reports and",,Affirmative,"You can email our News Desk to share news tips , reports and general feedback . "
+you,have.03,an opinion or narrative,,Affirmative,"You can also email the Blog Desk if you have an opinion or narrative to share , or reach out to the Special Projects Desk to send us your Photos , or Videos . "

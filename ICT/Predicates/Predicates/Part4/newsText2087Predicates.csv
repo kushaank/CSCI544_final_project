@@ -1,0 +1,54 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man accused of ordering,order.01,a hit on,,Affirmative,"Durban - A man accused of ordering a hit on his wife spoke to one of the alleged trigger men on the morning of his wife 's abduction and murder , it has emerged in court . "
+Investigators,find.01,evidence,,Affirmative,"Investigators had found evidence that Alvin Inderesan Maistry , 44 , had spoken to co-accused Mandlenkosi Jobe , 40 , 45 times between June and February 18 this year , the day of Charmaine Naidoo 's death . "
+They and,abduct.01,"Naidoo , 32 ,",,Affirmative,"They and Bongani Manyathi , 28 , were charged with abducting Naidoo , 32 , after she returned to her Merebank home from the supermarket she ran in Wentworth . "
+Alvin `` Inderesan '' Maistry,run.02,the supermarket,,Affirmative,"They and Bongani Manyathi , 28 , were charged with abducting Naidoo , 32 , after she returned to her Merebank home from the supermarket she ran in Wentworth . "
+Investigators,shove.01,Alvin `` Inderesan '' Maistry,into,Affirmative,"They allegedly shoved her into her car and drove her to KwaMakhutha , where she was shot , stabbed and strangled . "
+Investigators,drive.01,Alvin `` Inderesan '' Maistry,,Affirmative,"They allegedly shoved her into her car and drove her to KwaMakhutha , where she was shot , stabbed and strangled . "
+by,present.01,the evidence presented by,to,Affirmative,This was the evidence presented by Warrant Officer Rajen Nagesar to the Durban Magistrate 's Court at Maistry 's bail application on Friday . 
+Warrant Officer Rajen Nagesar,say.01,evidence had been collected after,,Affirmative,Nagesar said the evidence had been collected after an unnamed witness - who claimed to have known Maistry for 10 years - came forward to say she had introduced the pair . 
+an unnamed witness -,claim.01,to have known Maistry for,,Affirmative,Nagesar said the evidence had been collected after an unnamed witness - who claimed to have known Maistry for 10 years - came forward to say she had introduced the pair . 
+an unnamed witness -,know.01,Maistry,,Affirmative,Nagesar said the evidence had been collected after an unnamed witness - who claimed to have known Maistry for 10 years - came forward to say she had introduced the pair . 
+Alvin `` Inderesan '' Maistry,introduce.02,the pair,,Affirmative,Nagesar said the evidence had been collected after an unnamed witness - who claimed to have known Maistry for 10 years - came forward to say she had introduced the pair . 
+The woman,say.01,Maistry had told her,,Affirmative,The woman said Maistry had told her he had wanted to hire someone to kill his in-laws . 
+Alvin `` Inderesan '' Maistry,tell.01,he had wanted,her,Affirmative,The woman said Maistry had told her he had wanted to hire someone to kill his in-laws . 
+Warrant Officer Rajen Nagesar,want.01,to hire someone,,Affirmative,The woman said Maistry had told her he had wanted to hire someone to kill his in-laws . 
+Warrant Officer Rajen Nagesar,hire.01,someone,,Affirmative,The woman said Maistry had told her he had wanted to hire someone to kill his in-laws . 
+someone,kill.01,his in-laws,,Affirmative,The woman said Maistry had told her he had wanted to hire someone to kill his in-laws . 
+Warrant Officer Rajen Nagesar,change.01,his mind,,Affirmative,He allegedly later changed his mind and said he wanted to kill his wife 's sister . 
+Warrant Officer Rajen Nagesar,say.01,he wanted,,Affirmative,He allegedly later changed his mind and said he wanted to kill his wife 's sister . 
+Warrant Officer Rajen Nagesar,want.01,to kill,,Affirmative,He allegedly later changed his mind and said he wanted to kill his wife 's sister . 
+Warrant Officer Rajen Nagesar,kill.01,sister,,Affirmative,He allegedly later changed his mind and said he wanted to kill his wife 's sister . 
+Alvin `` Inderesan '' Maistry,want.01,to hire someone,,Affirmative,"Later it emerged ( to the witness ) that Maistry wanted to hire someone to kill his wife , said Nagesar . "
+Alvin `` Inderesan '' Maistry,hire.01,someone,,Affirmative,"Later it emerged ( to the witness ) that Maistry wanted to hire someone to kill his wife , said Nagesar . "
+someone,kill.01,his wife 's,,Affirmative,"Later it emerged ( to the witness ) that Maistry wanted to hire someone to kill his wife , said Nagesar . "
+Warrant Officer Rajen Nagesar,say.01,Later it emerged ( to,,Affirmative,"Later it emerged ( to the witness ) that Maistry wanted to hire someone to kill his wife , said Nagesar . "
+an unnamed witness - who claimed to have known Maistry for 10 years -,tell.01,woman had picked out Maistry in,the court,Affirmative,He told the court the woman had picked out Maistry in 23 seconds in an identity parade at the Brighton Beach police station . 
+The woman,pick.04,Maistry,,Affirmative,He told the court the woman had picked out Maistry in 23 seconds in an identity parade at the Brighton Beach police station . 
+an unnamed witness - who claimed to have known Maistry for 10 years -,say.01,she had known Maistry as Nazir,,Affirmative,The witness said she had known Maistry as Nazir . 
+The woman,know.01,Alvin `` Inderesan '' Maistry,as Nazir,Affirmative,The witness said she had known Maistry as Nazir . 
+The woman,fear.01,retribution,,Affirmative,She could not be identified because she feared retribution . 
+an unnamed witness - who claimed to have known Maistry for 10 years -,say.01,there had been,,Affirmative,He said there had been 32 calls between the two using the first set of numbers and 13 using the second set . 
+the two using,use.01,the first set of numbers,,Affirmative,He said there had been 32 calls between the two using the first set of numbers and 13 using the second set . 
+13,use.01,the second set,,Affirmative,He said there had been 32 calls between the two using the first set of numbers and 13 using the second set . 
+Warrant Officer Rajen Nagesar,say.01,had yielded,,Affirmative,Nagesar said claims that Naidoo had an insurance policy had yielded dead ends . 
+"Naidoo , 32 , after she returned to her Merebank home from the supermarket she ran in Wentworth",have.03,an insurance policy,,Affirmative,Nagesar said claims that Naidoo had an insurance policy had yielded dead ends . 
+claims,yield.01,dead ends,,Affirmative,Nagesar said claims that Naidoo had an insurance policy had yielded dead ends . 
+"Murray Pitman ,",say.01,were,,Affirmative,"But advocate Murray Pitman , for Maistry , said the calls between Maistry and Jobe were to be expected because they had known one another since 2011 . "
+they,know.01,one another,,Affirmative,"But advocate Murray Pitman , for Maistry , said the calls between Maistry and Jobe were to be expected because they had known one another since 2011 . "
+Warrant Officer Rajen Nagesar,say.01,records did not go,,Affirmative,Nagesar said police records did not go that far back . 
+they,get.01,some balance in,,Affirmative,"Everybody 's against him - so can we get some balance in this bail application , said Pitman . "
+Murray Pitman,say.01,Everybody 's against him,,Affirmative,"Everybody 's against him - so can we get some balance in this bail application , said Pitman . "
+Murray Pitman,say.01,Maistry had,,Affirmative,Pitman said Maistry had no woman friends of 10 years and put it to Nagesar that the witness was lying . 
+Alvin `` Inderesan '' Maistry,have.03,no woman friends of,,Affirmative,Pitman said Maistry had no woman friends of 10 years and put it to Nagesar that the witness was lying . 
+Alvin `` Inderesan '' Maistry,put.01,10 years,to Nagesar,Affirmative,Pitman said Maistry had no woman friends of 10 years and put it to Nagesar that the witness was lying . 
+Nagesar,dismiss.01,this,,Affirmative,"Nagesar dismissed this , saying the witness had no motive to do so . "
+Nagesar,say.01,witness had,,Affirmative,"Nagesar dismissed this , saying the witness had no motive to do so . "
+an unnamed witness - who claimed to have known Maistry for 10 years -,have.03,no motive,,Affirmative,"Nagesar dismissed this , saying the witness had no motive to do so . "
+Relatives of Naidoo and Maistry,pack.01,the courtroom,,Affirmative,"Relatives of Naidoo and Maistry packed the courtroom , adding to the tension . "
+"Shaun Govender ,",say.01,community was struggling,,Affirmative,"Shaun Govender , a friend of Naidoo 's family , said outside the court that the community was struggling to pick up the pieces after the murder . "
+the community,struggle.02,to pick up,,Affirmative,"Shaun Govender , a friend of Naidoo 's family , said outside the court that the community was struggling to pick up the pieces after the murder . "
+the community,pick.04,the pieces,,Affirmative,"Shaun Govender , a friend of Naidoo 's family , said outside the court that the community was struggling to pick up the pieces after the murder . "
+you,haven.01,' t,,Affirmative,"Login and register , if you haven ' t already . "
+in,contain.01,works contained in,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "
+The copyright in,belong.01,to,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "

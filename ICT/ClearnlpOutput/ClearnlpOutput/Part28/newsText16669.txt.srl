@@ -1,0 +1,51 @@
+1	Street	street	NNP	p2=NN	2	nn	_
+2	resurfacing	resurface	VBG	p2=NN	3	nsubj	3:A1=PPT
+3	begins	begin	VBZ	pb=begin.01	0	root	_
+4	Monday	monday	NNP	_	3	npadvmod	3:AM-TMP
+5	in	in	IN	_	3	prep	3:AM-LOC
+6	the	the	DT	_	7	det	_
+7	city	city	NN	_	5	pobj	_
+8	of	of	IN	_	7	prep	_
+9	Mansfield	mansfield	NNP	_	8	pobj	_
+10	.	.	.	_	3	punct	_
+
+1	Brenda	brenda	NNP	_	2	nn	_
+2	Drive	drive	NNP	_	0	root	_
+3	from	from	IN	_	2	prep	_
+4	Woodville	woodville	NNP	_	5	nn	_
+5	Road	road	NNP	_	3	pobj	_
+6	to	to	IN	_	5	prep	_
+7	Mansfield	mansfield	NNP	_	9	nn	_
+8	Washington	washington	NNP	_	9	nn	_
+9	Road	road	NNP	_	6	pobj	_
+10	.	.	.	_	2	punct	_
+
+1	Home	home	RB	p2=NNP	0	root	_
+2	from	from	IN	_	1	prep	_
+3	South	south	NNP	_	4	nn	_
+4	Diamond	diamond	NNP	_	2	pobj	_
+5	to	to	IN	_	2	prep	_
+6	Hedges	hedges	NNP	_	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	1	0	CD	_	5	num	_
+2	st	st	NN	p2=NNP	5	nn	_
+3	Alley	alley	NNP	_	5	nn	_
+4	W.	w.	NNP	_	5	nn	_
+5	Hedges	hedges	NNP	_	0	root	_
+6	from	from	IN	_	5	prep	_
+7	Dale	dale	NNP	_	6	pobj	_
+8	to	to	IN	_	5	prep	_
+9	Home	home	NNP	_	8	pobj	_
+10	.	.	.	_	5	punct	_
+
+1	Charwood	charwood	NNP	p2=VBD	2	nn	_
+2	Road	road	NNP	_	0	root	_
+3	from	from	IN	_	2	prep	_
+4	Sherbook	sherbook	NNP	_	5	nn	_
+5	Road	road	NNP	_	3	pobj	_
+6	to	to	IN	_	2	prep	_
+7	Clifton	clifton	NNP	_	8	nn	_
+8	Blvd	blvd	NNP	_	6	pobj	_
+9	.	.	.	_	2	punct	_
+

@@ -1,0 +1,81 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The United States,witness.01,a tremendous rise in,,Affirmative,The United States has witnessed a tremendous rise in the number of people detained and deported since 1997 . 
+The United States,take.10,a budget crisis,,Affirmative,It has taken a budget crisis for the federal government to reconsider its policies . 
+the federal government,reconsider.01,its policies,,Affirmative,It has taken a budget crisis for the federal government to reconsider its policies . 
+the federal government,consider.02,releasing  thousands  of detainees,,Affirmative,"In light of impending budget cuts , the federal government is considering releasing  thousands  of detainees . "
+the federal government,releasing .01,thousands,,Affirmative,"In light of impending budget cuts , the federal government is considering releasing  thousands  of detainees . "
+the federal government,reconsider.01,its entire detention and,,Affirmative,The federal government should reconsider its entire detention and deportation regime because it is misguided and costly . 
+fewer people,cross.02,the border,,Affirmative,"In fact , fewer people are crossing the border illegally now than when mass deportation began in 1997 . "
+we,see.01,unprecedented numbers of deportees,,Affirmative,The primary reason we are seeing unprecedented numbers of deportees is that the federal government is spending extraordinary amounts of money on immigration law enforcement . 
+the federal government,spend.01,extraordinary amounts of money on,,Affirmative,The primary reason we are seeing unprecedented numbers of deportees is that the federal government is spending extraordinary amounts of money on immigration law enforcement . 
+The primary reason we are seeing unprecedented numbers of deportees,do.02,that,,Affirmative,"And , it is doing that in the name of keeping the United States safe from terrorists and criminals . "
+mass deportation,make.02,country safer,,Affirmative,There is very little evidence that mass deportation is making the country safer . 
+the federal government,find.01,terror suspects,,Affirmative,"When the government finds terror suspects , it does not deport them . "
+the federal government,deport.01,terror suspects,,Affirmative,"When the government finds terror suspects , it does not deport them . "
+DHS,deport.01,people who are in the country without authorization,,Affirmative,"DHS almost never deports people to countries that the U.S. Department of State identifies as sponsoring terrorism : Iran , Iraq , Syria , Libya , Cuba , North Korea , and Sudan . "
+the U.S. Department of State,identify.01,countries,as sponsoring terrorism,Affirmative,"DHS almost never deports people to countries that the U.S. Department of State identifies as sponsoring terrorism : Iran , Iraq , Syria , Libya , Cuba , North Korea , and Sudan . "
+President Obama,tout.01,the fact,,Affirmative,President Obama often touts the fact that he is deporting criminals . 
+President Obama,deport.01,criminals,,Affirmative,President Obama often touts the fact that he is deporting criminals . 
+The other 90 percent,have.03,no criminal conviction,,Affirmative,The other 90 percent either have no criminal conviction or have been convicted of a non-violent offense . 
+Deportation,make.02,us safer,,Affirmative,"Deportation does not make us safer , but it does destroy families . "
+a non-violent offense,destroy.01,families,,Affirmative,"Deportation does not make us safer , but it does destroy families . "
+"Vern , a Guatemalan citizen",enter.01,The United States,,Affirmative,Vern entered the United States in 1991 and applied for political asylum . 
+"Vern , a Guatemalan citizen",apply.01,for,,Affirmative,Vern entered the United States in 1991 and applied for political asylum . 
+"Vern , a Guatemalan citizen",receive.01,a work permit,,Affirmative,He received a work permit while waiting for his case to be processed . 
+"Vern , a Guatemalan citizen",find.01,a job,,Affirmative,"He found a job in a frozen food processing plant in Ohio where he met Maria , a Honduran woman who was also applying for political asylum . "
+"Vern , a Guatemalan citizen",meet.02,"Maria ,",,Affirmative,"He found a job in a frozen food processing plant in Ohio where he met Maria , a Honduran woman who was also applying for political asylum . "
+a Honduran woman,apply.01,for,,Affirmative,"He found a job in a frozen food processing plant in Ohio where he met Maria , a Honduran woman who was also applying for political asylum . "
+they,receive.01,work permits,,Affirmative,"Each year , they received work permits that allowed them to continue working . "
+work permits,allow.01,them to continue working,,Affirmative,"Each year , they received work permits that allowed them to continue working . "
+they,continue.01,working,,Affirmative,"Each year , they received work permits that allowed them to continue working . "
+Vern and Maria,have.03,their first child,,Affirmative,"Hopeful their cases would eventually be resolved , Vern and Maria married , and had their first child in 1996 . "
+"Vern , a Guatemalan citizen",receive.01,notice,,Affirmative,"In 1998 , Vern received notice he should leave the United States - his asylum application had been denied . "
+"Vern , a Guatemalan citizen",leave.01,the United States -,,Affirmative,"In 1998 , Vern received notice he should leave the United States - his asylum application had been denied . "
+"Vern , a Guatemalan citizen",establish.01,a life,,Affirmative,"Vern was devastated - he had established a life in the United States , and had few ties to Guatemala . "
+"Vern , a Guatemalan citizen",have.03,few ties to Guatemala,,Affirmative,"Vern was devastated - he had established a life in the United States , and had few ties to Guatemala . "
+"Vern , a Guatemalan citizen",decide.01,to stay,,Affirmative,"He decided to stay , hoping his wife 's application would be approved , and that she could apply for him to legalize his status . "
+"Vern , a Guatemalan citizen",hope.01,"application would be approved , and",,Affirmative,"He decided to stay , hoping his wife 's application would be approved , and that she could apply for him to legalize his status . "
+his wife 's,apply.01,for him to legalize,,Affirmative,"He decided to stay , hoping his wife 's application would be approved , and that she could apply for him to legalize his status . "
+"Vern , a Guatemalan citizen",legalize.01,his status,,Affirmative,"He decided to stay , hoping his wife 's application would be approved , and that she could apply for him to legalize his status . "
+immigration agents,raid.01,his home,,Affirmative,"However , before that could happen , in 2009 , immigration agents raided his home , took him to detention , and he was deported to Guatemala , leaving behind his wife and two children . "
+immigration agents,take.01,"Vern , a Guatemalan citizen",,Affirmative,"However , before that could happen , in 2009 , immigration agents raided his home , took him to detention , and he was deported to Guatemala , leaving behind his wife and two children . "
+"Vern , a Guatemalan citizen",ignore.01,his deportation order,,Affirmative,"Because Vern ignored his deportation order , he was a fugitive alien and thus subject to a raid on his home . "
+we,have.03,large numbers of,,Affirmative,Mass deportation may seem to be the logical solution when we have large numbers of undocumented immigrants . 
+the country,deal.01,with,,Affirmative,"However , it is not the way the country has usually dealt with this issue . "
+the way the country has usually dealt with this issue,find.01,ways,,Affirmative,It has been much more common historically to find ways to legalize undocumented immigrants . 
+the United States spending,spend.01,on,,Affirmative, Why is the United States spending so much money on immigration law enforcement ? 
+the federal government,have.03,an enormous budget,,Affirmative,"The federal government has an enormous budget , and the citizenry has given the government authorization to spend a substantial proportion of it on national security . "
+the citizenry,give.01,the government authorization,,Affirmative,"The federal government has an enormous budget , and the citizenry has given the government authorization to spend a substantial proportion of it on national security . "
+  To,put.01,this $ 56 billion,in perspective,Affirmative,"  To put this $ 56 billion in perspective , the Department of Education FY 2011 budget was $ 77.8 billion , and the Department of Justice $ 29.2 billion . "
+A recent  report  by,find.01,government spends more on,,Affirmative,A recent  report  by the Migration Policy Institute found that the U.S. government spends more on federal immigration enforcement than on all other principal federal criminal law enforcement agencies combined . 
+the U.S. government,spend.01,on,,Affirmative,A recent  report  by the Migration Policy Institute found that the U.S. government spends more on federal immigration enforcement than on all other principal federal criminal law enforcement agencies combined . 
+My calculations,confirm.01,this :,,Affirmative,My calculations confirm this : immigration enforcement spending heavily outweighs domestic law enforcement spending . 
+enforcement spending,outweigh.01,enforcement spending,,Affirmative,My calculations confirm this : immigration enforcement spending heavily outweighs domestic law enforcement spending . 
+the U.S. government,spend.01,"on ICE , CBP , and",,Affirmative,"In FY 2011 , the U.S. government spent $ 27 billion on ICE , CBP , and the U.S. Coast Guard . "
+the U.S. government,spend.02,a total of,on,Affirmative,"In contrast , the U.S. government spent a total of $ 13.7 billion on domestic law enforcement , including the FBI , the DEA , the Secret Service , the U.S. Marshal , and Alcohol , Firearms , and Tobacco . "
+we,realize.01,States is spending,,Affirmative,"Thus , while some detractors may shout : deport them all , we have to realize that the United States is spending unprecedented amounts of money and we still have ten million undocumented immigrants in this country . "
+The United States,spend.01,unprecedented amounts of money,,Affirmative,"Thus , while some detractors may shout : deport them all , we have to realize that the United States is spending unprecedented amounts of money and we still have ten million undocumented immigrants in this country . "
+we,have.03,million undocumented immigrants in,,Affirmative,"Thus , while some detractors may shout : deport them all , we have to realize that the United States is spending unprecedented amounts of money and we still have ten million undocumented immigrants in this country . "
+saner approach,legalize.01,undocumented immigrants,,Affirmative,A much saner approach would be to legalize undocumented immigrants . 
+the federal government,make.02,it clear,,Affirmative,"The federal government has made it clear what they are capable of : they can set a quota of 400,000 deportees a year and meet it . "
+This,set.02,a quota of,,Affirmative,"The federal government has made it clear what they are capable of : they can set a quota of 400,000 deportees a year and meet it . "
+This,meet.01,the federal government,,Affirmative,"The federal government has made it clear what they are capable of : they can set a quota of 400,000 deportees a year and meet it . "
+This,detain.01,"400,000 people",,Affirmative,"They can detain over 400,000 people a year . "
+we,see.01,that they can do this,,Affirmative,"Now that we have seen that they can do this , it is time to stop . "
+This,do.02,This,,Affirmative,"Now that we have seen that they can do this , it is time to stop . "
+Zealous enforcement of,put.01,a dent,in,Affirmative,Zealous enforcement of immigration laws over the past decade has barely put a dent in the population of undocumented immigrants in the United States . 
+most experts,attribute.01,this decline,to,Affirmative,"This population has declined from 11 million to 10 million people , yet most experts attribute this decline to the economic recession . "
+DHS,redirect.01,its resources,,Affirmative,"Instead of detaining and deporting people who are in the country without authorization , DHS could redirect its resources towards legalization programs . "
+the federal government,stop.01,detaining immigrants,,Affirmative,The good news here is that the federal government can easily stop detaining immigrants and quickly save a lot of money . 
+the federal government,detain.01,undocumented immigrants,,Affirmative,The good news here is that the federal government can easily stop detaining immigrants and quickly save a lot of money . 
+the federal government,save.01,a lot of money,,Affirmative,The good news here is that the federal government can easily stop detaining immigrants and quickly save a lot of money . 
+ Relying on,make.02,it more feasible,,Affirmative," Relying on private prisons has made it more feasible for the Department of Homeland Security ( DHS ) to achieve its quota of  34,000  beds a day . "
+the federal government,cancel.01,its contracts with,,Affirmative,"However , the upside of privatization is that the federal government could cancel its contracts with these detention centers and save a bundle of money . "
+the federal government,save.01,a bundle of money,,Affirmative,"However , the upside of privatization is that the federal government could cancel its contracts with these detention centers and save a bundle of money . "
+Leslie  Berestein, calculates.01,government could save,,Affirmative,"Leslie  Berestein  calculates that the federal government could save $ 3.4 million a month for each 1,000 detainees it releases . "
+the federal government,save.01,$ 3.4 million,,Affirmative,"Leslie  Berestein  calculates that the federal government could save $ 3.4 million a month for each 1,000 detainees it releases . "
+the federal government,release.01,"each 1,000 detainees",,Affirmative,"Leslie  Berestein  calculates that the federal government could save $ 3.4 million a month for each 1,000 detainees it releases . "
+by,own.01,either contracted facilities owned by,,Affirmative,"Since 84 percent of ICE 's detained immigrants are housed in either contracted facilities owned by private companies or in state or local facilities where ICE rents space on contract , it should be relatively seamless for ICE to release them . "
+ICE,rent.01,space,,Affirmative,"Since 84 percent of ICE 's detained immigrants are housed in either contracted facilities owned by private companies or in state or local facilities where ICE rents space on contract , it should be relatively seamless for ICE to release them . "
+ICE,release.01,ICE 's detained immigrants,,Affirmative,"Since 84 percent of ICE 's detained immigrants are housed in either contracted facilities owned by private companies or in state or local facilities where ICE rents space on contract , it should be relatively seamless for ICE to release them . "
+the two private prison companies,hold.13,the largest numbers of,,Affirmative,"Of course , this will be bad news for Corrections Corporation of America ( CCA ) and the GEO Group - the two private prison companies that hold the largest numbers of immigrant detainees . "

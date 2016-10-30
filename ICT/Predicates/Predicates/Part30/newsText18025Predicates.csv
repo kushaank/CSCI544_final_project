@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+legged 82nd Airborne member,treat.01,soldiers,with PTSD,Affirmative,"Lexy , 4 - legged 82nd Airborne member who treats soldiers with PTSD , joins troops on All American Week run Monday morning . "
+"Lexy ,",join.01,troops,,Affirmative,"Lexy , 4 - legged 82nd Airborne member who treats soldiers with PTSD , joins troops on All American Week run Monday morning . "
+Division troops,pound.02,the pavement,,Affirmative,"With a howitzer 's blast and an array of chants to keep them moving , 12,000 82nd Airborne Division troops pounded the pavement Monday morning , kicking off the annual All - American Week . "
+Division troops,kick.04,American Week,,Affirmative,"With a howitzer 's blast and an array of chants to keep them moving , 12,000 82nd Airborne Division troops pounded the pavement Monday morning , kicking off the annual All - American Week . "
+"Maj. Christine Rumayor ,",say.01,She 's,,Affirmative,"She 's Bragg 's first therapy dog , said Maj. Christine Rumayor , the 82nd Division psychiatrist . "
+the Army,begin.01,using,,Affirmative,"While the Army began using therapy dogs in 2007 to help soldiers cope with PTSD and anxiety issues , the canines were usually based at large facilities like Walter Reed National Military Medical Center . "
+the Army,use.01,therapy dogs,,Affirmative,"While the Army began using therapy dogs in 2007 to help soldiers cope with PTSD and anxiety issues , the canines were usually based at large facilities like Walter Reed National Military Medical Center . "
+the Army,help.01,soldiers cope with PTSD and,,Affirmative,"While the Army began using therapy dogs in 2007 to help soldiers cope with PTSD and anxiety issues , the canines were usually based at large facilities like Walter Reed National Military Medical Center . "
+soldiers,cope.01,with PTSD and,,Affirmative,"While the Army began using therapy dogs in 2007 to help soldiers cope with PTSD and anxiety issues , the canines were usually based at large facilities like Walter Reed National Military Medical Center . "
+"Lexy , 4-legged 82nd Airborne member who treats soldiers with PTSD",assist.01,Maj. Rumayor,in treatments,Affirmative,"Lexy was assigned to Fort Bragg , and assists Maj. Rumayor in treatments . "
+Maj. Rumayor in treatments,say.01,She 's,,Affirmative,"She 's a great morale booster to everyone who is around here , said Rumayor . "
+"Lexy , 4-legged 82nd Airborne member who treats soldiers with PTSD",bring.01,other people,,Affirmative,She brings other people into the clinic who might otherwise not seek help . 
+the clinic,seek.01,help,,Affirmative,She brings other people into the clinic who might otherwise not seek help . 
+D-Day and the Paratrooper,get.01,veterans who jumped into France in 1944,,Affirmative,"We 've actually got veterans all the way back to the Second World War , said the 82nd 's commander , Major General John Nicholson . "
+"commander ,",say.01,We 've actually got veterans,,Affirmative,"We 've actually got veterans all the way back to the Second World War , said the 82nd 's commander , Major General John Nicholson . "
+D-Day and the Paratrooper,have.03,a couple of veterans,,Affirmative,"At the Division Review this week , we 'll actually have a couple of veterans who jumped into France in 1944 . "
+Fort Bragg,host.01,allied military leaders and paratroopers,,Affirmative,"Later this week , Fort Bragg will host allied military leaders and paratroopers during an International Ball . "
+someone,witness.01,D - Day,,Affirmative,"During Thursday 's Memorial Service , a guest of honor includes someone who witnessed D - Day , Maurice Renaud . "

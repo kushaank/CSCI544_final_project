@@ -1,0 +1,108 @@
+1	Sorry	sorry	UH	p2=NN	0	root	_
+2	for	for	IN	_	1	prep	_
+3	inconvenience	inconvenience	NN	_	2	pobj	_
+4	!	!	.	_	1	punct	_
+
+1	Your	your	PRP$	_	2	poss	_
+2	session	session	NN	_	4	nsubj	4:A1=PPT
+3	has	have	VBZ	_	4	aux	_
+4	expired	expire	VBN	pb=expire.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	You	you	PRP	_	3	nsubj	3:A0=PAG
+2	have	have	VBP	_	3	aux	_
+3	closed	close	VBN	pb=close.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	browser	browser	NN	_	3	dobj	3:A1=PPT
+6	,	,	,	_	3	punct	_
+7	without	without	IN	_	3	prep	3:AM-MNR
+8	logging	log	VBG	pb=log.01	7	pcomp	_
+9	out	out	RP	_	8	prt	8:C-V
+10	.	.	.	_	3	punct	_
+
+1	If	if	IN	_	4	mark	_
+2	the	the	DT	_	3	det	_
+3	problem	problem	NN	_	4	nsubj	4:A1=PPT
+4	persists	persist	VBZ	pb=persist.01	7	advcl	7:AM-ADV
+5	,	,	,	_	7	punct	_
+6	kindly	kindly	RB	_	7	advmod	7:AM-MNR
+7	remove	remove	VB	pb=remove.01	0	root	_
+8	all	all	PDT	_	11	predet	_
+9	the	the	DT	_	11	det	_
+10	temporary	temporary	JJ	_	11	amod	_
+11	files	file	NNS	_	7	dobj	7:A1=PPT
+12	and	and	CC	_	11	cc	_
+13	cookies	cookie	NNS	_	11	conj	_
+14	from	from	IN	_	11	prep	_
+15	your	your	PRP$	_	16	poss	_
+16	browser	browser	NN	_	14	pobj	_
+17	.	.	.	_	7	punct	_
+
+1	For	for	IN	_	0	root	_
+2	IE	ie	NNP	_	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	1	0	CD	p2=NNP	1	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	on	on	IN	p2=RP	1	prep	1:A1=PPT
+3	tools	tool	NNS	_	2	pobj	_
+4	from	from	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	task	task	NN	_	7	nn	_
+7	bar	bar	NN	_	4	pobj	_
+8	of	of	IN	_	7	prep	_
+9	browser	browser	NN	_	8	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	on	on	IN	_	1	prep	1:A1=PPT
+3	Internet	internet	NNP	p2=NN	4	nn	_
+4	Options	option	NNPS	p2=NNS	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	3	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	on	on	IN	p2=RP	1	prep	1:A1=PPT
+3	"	"	``	p2=''	2	punct	_
+4	Delete	delete	NNP	p2=JJ	6	nn	_
+5	temporary	temporary	JJ	_	6	amod	_
+6	files	file	NNS	_	2	pobj	_
+7	.	.	.	_	1	punct	_
+8	"	"	''	_	1	punct	_
+
+1	For	for	IN	_	0	root	_
+2	Mozilla	mozilla	NNP	_	0	root	_
+3	Firefox	firefox	NNP	_	5	hmod	_
+4	-	-	HYPH	p2=SYM	5	hyph	_
+5	1	0	CD	p2=NNP	2	num	_
+6	.	.	.	_	1	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	on	on	IN	p2=RP	1	prep	1:A1=PPT
+3	tools	tool	NNS	_	2	pobj	_
+4	from	from	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	task	task	NN	_	7	nn	_
+7	bar	bar	NN	_	4	pobj	_
+8	of	of	IN	_	7	prep	_
+9	browser	browser	NN	_	8	pobj	_
+10	.	.	.	_	1	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Click	click	VB	pb=click.01	0	root	_
+2	on	on	IN	_	1	prep	1:AM-PRP
+3	"	"	``	_	2	punct	_
+4	Clear	clear	NNP	p2=JJ	6	nn	_
+5	recent	recent	JJ	_	6	amod	_
+6	history	history	NN	_	2	pobj	_
+7	.	.	.	_	1	punct	_
+8	"	"	''	_	1	punct	_
+

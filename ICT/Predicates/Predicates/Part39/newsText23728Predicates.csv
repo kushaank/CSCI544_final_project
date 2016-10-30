@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+John Chambers,urge.01,US President Barack Obama,to create,Affirmative,Chambers urged Obama to create new rules of conduct . 
+US President Barack Obama,create.01,new rules of conduct,,Affirmative,Chambers urged Obama to create new rules of conduct . 
+executive John Chambers,complain.01,about,to,Affirmative,"New York - Cisco chief executive John Chambers has complained to US President Barack Obama about the National Security Agency 's spying practices , saying they were harming overseas business for US tech firms . "
+executive John Chambers,say.01,they were harming,,Affirmative,"New York - Cisco chief executive John Chambers has complained to US President Barack Obama about the National Security Agency 's spying practices , saying they were harming overseas business for US tech firms . "
+they,harm.01,overseas business for,,Affirmative,"New York - Cisco chief executive John Chambers has complained to US President Barack Obama about the National Security Agency 's spying practices , saying they were harming overseas business for US tech firms . "
+This issue,affect.01,an entire industry,,Affirmative,"This issue affects an entire industry , the head of the telecom equipment maker said in a letter obtained by AFP . "
+the head of,say.01,issue affects,,Affirmative,"This issue affects an entire industry , the head of the telecom equipment maker said in a letter obtained by AFP . "
+by AFP,obtain.01,a letter obtained by AFP,,Affirmative,"This issue affects an entire industry , the head of the telecom equipment maker said in a letter obtained by AFP . "
+John Chambers,refer.01,to,,Affirmative,Chambers referred in particular to recent media reports that the NSA had intercepted and modified IT and telecom equipment on its way from manufacturers to customers . 
+the NSA 's,modify.01,IT and,,Affirmative,Chambers referred in particular to recent media reports that the NSA had intercepted and modified IT and telecom equipment on its way from manufacturers to customers . 
+these actions,undermine.01,confidence in,,Affirmative,"If these allegations are true , these actions will undermine confidence in our industry and in the ability of technology companies to deliver products globally , Chambers warned . "
+John Chambers,warn.01,actions will undermine confidence in,,Affirmative,"If these allegations are true , these actions will undermine confidence in our industry and in the ability of technology companies to deliver products globally , Chambers warned . "
+IT and telecom equipment on its way,operate.01,its way,,Affirmative,We simply can not operate this way . 
+John Chambers,say.01,", we are concerned",,Affirmative,"Without such rules , we are concerned that our country 's global technological leadership will be impaired , Chambers said . "
+A Cisco spokesman,confirm.01,that Chambers had written to Obama,,Affirmative,A Cisco spokesman confirmed that Chambers had written to Obama but declined to comment on the content of the letter . 
+John Chambers,decline.02,to comment on,,Affirmative,A Cisco spokesman confirmed that Chambers had written to Obama but declined to comment on the content of the letter . 
+John Chambers,comment.01,on,,Affirmative,A Cisco spokesman confirmed that Chambers had written to Obama but declined to comment on the content of the letter . 
+IT and telecom equipment on its way,comply.01,with,,Affirmative,"We comply with US laws , like those of many other countries , which limit exports to certain customers and destinations , Chandler said . "
+"many other countries ,",limit.01,exports,to,Affirmative,"We comply with US laws , like those of many other countries , which limit exports to certain customers and destinations , Chandler said . "
+US,say.01,We comply with,,Affirmative,"We comply with US laws , like those of many other countries , which limit exports to certain customers and destinations , Chandler said . "
+Several players in,register.02,complaints following revelations of,,Affirmative,Several players in the US tech sector have already registered complaints following revelations of the NSA 's vast online surveillance program . 
+complaints following revelations of,follow.02,revelations of,,Affirmative,Several players in the US tech sector have already registered complaints following revelations of the NSA 's vast online surveillance program . 
+you,haven.01,' t,,Affirmative,"Login and register , if you haven ' t already . "
+in,contain.01,works contained in,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "
+The copyright in,belong.01,to,,Affirmative,"The copyright in the literary and artistic works contained in this online news publication and its other related and connected websites , as well as in the published editions of group newspapers , their supplements and any other content or material , belongs exclusively to Independent Newspapers ( Pty ) Limited unless otherwise stated . "

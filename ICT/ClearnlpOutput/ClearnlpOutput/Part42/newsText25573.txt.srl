@@ -1,0 +1,21 @@
+1	To	to	TO	_	2	aux	_
+2	read	read	VB	pb=read.01	10	advcl	10:AM-PRP
+3	the	the	DT	_	4	det	_
+4	article	article	NN	_	2	dobj	2:A1=PPT;5:A1=PPT
+5	titled	title	VBN	pb=title.01	4	partmod	_
+6	,	,	,	_	10	punct	_
+7	"	"	``	p2=''	10	punct	_
+8	Do	do	VB	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	let	let	VB	pb=let.01	0	root	_
+11	SANRAL	sanral	NNP	p2=NN	12	nsubj	12:A0=PAG
+12	seduce	seduce	VB	pb=seduce.01	10	ccomp	10:A1=PPT
+13	you	you	PRP	_	12	dobj	12:A1=PPT
+14	:	:	:	_	10	punct	_
+15	OUTA	outa	NNP	p2=NN	18	nsubj	18:A0=PAG
+16	,	,	,	_	18	punct	_
+17	"	"	``	p2=''	18	punct	_
+18	click	click	VB	p2=VBP|pb=click.01	10	ccomp	_
+19	here	here	RB	_	18	advmod	18:AM-LOC
+20	.	.	.	_	10	punct	_
+

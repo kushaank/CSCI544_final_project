@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+CAIRO -,sentence.01,37 supporters of,to,Affirmative,CAIRO - An Egyptian court on Sunday sentenced 37 supporters of ousted president Mohamed Morsi to 15 years in jail for attempting to bomb two metro stations in capital Cairo last October . 
+The same court,slap.01,a minor,,Affirmative,"The same court slapped a minor with a three - year jail term for involvement in the same case , according to Anadolu Agency reporter . "
+The same court,convict.01,"all 38 defendants of possessing explosives and using them , damaging",,Affirmative,"The court convicted all 38 defendants of possessing explosives and using them , damaging public properties and joining a terrorist organization . "
+The same court,charge.05,37 supporters of ousted president,with attacking policemen and possessing firearms,Affirmative,It also charged them with attacking policemen and possessing firearms . 
+37 supporters of ousted president,attack.01,policemen,,Affirmative,It also charged them with attacking policemen and possessing firearms . 
+37 supporters of ousted president,possess.01,firearms,,Affirmative,It also charged them with attacking policemen and possessing firearms . 
+supporters,stage.01,protests,,Affirmative,"Morsi 's supporters staged protests inside two Cairo metro stations in October before policemen arrested 38 of them , including the minor . "
+policemen,arrest.01,38 of them,,Affirmative,"Morsi 's supporters staged protests inside two Cairo metro stations in October before policemen arrested 38 of them , including the minor . "
+Egyptian authorities,launch.01,a major crackdown on,,Affirmative,Egyptian authorities have launched a major crackdown on the supporters of Morsi following his ouster by the army on July 3 . 
+The interim authorities,designate.01,"the Muslim Brotherhood ,",as,Affirmative,"The interim authorities designated the Muslim Brotherhood , the movement from which Morsi hails , as a terrorist movement in December last year . "
+Mohamed Morsi to 15 years in jail for attempting to bomb two metro stations in capital Cairo last October,hail.02,the movement,,Affirmative,"The interim authorities designated the Muslim Brotherhood , the movement from which Morsi hails , as a terrorist movement in December last year . "

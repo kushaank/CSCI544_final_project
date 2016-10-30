@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Lozier,want.01,a normal job,,Affirmative,"I just wanted a normal job , Lozier said . "
+Lozier,say.01,I just wanted,,Affirmative,"I just wanted a normal job , Lozier said . "
+She,tell.01,if I wanted,me,Affirmative,She told me that if I wanted a job to go and get one . 
+Lozier,want.01,a job,,Affirmative,She told me that if I wanted a job to go and get one . 
+Lozier,get.01,one,,Affirmative,She told me that if I wanted a job to go and get one . 
+Lozier,realize.01,that I wanted,,Affirmative,  I realized then that I wanted to be at home - without the difficulties . 
+Lozier,want.01,to be at home,,Affirmative,  I realized then that I wanted to be at home - without the difficulties . 
+Lozier,decide.01,to give,,Affirmative,That just was n't possible so I decided to give that frustration over to God and trust that He would help me be content with my choice and with myself . 
+Lozier,give.01,that frustration,to God,Affirmative,That just was n't possible so I decided to give that frustration over to God and trust that He would help me be content with my choice and with myself . 
+God,help.01,me be content with,,Affirmative,That just was n't possible so I decided to give that frustration over to God and trust that He would help me be content with my choice and with myself . 
+Lozier,say.01,it 's working out .,,Affirmative,"  So far , she says , it 's working out . "
+Lozier,want.01,kids to have,,Affirmative,"She wants her kids to have age - appropriate lessons and , firmly grounded in her faith , plans to teach her kids about all other religions besides her own ( Christian ) beliefs . "
+her kids,have.03,appropriate lessons,,Affirmative,"She wants her kids to have age - appropriate lessons and , firmly grounded in her faith , plans to teach her kids about all other religions besides her own ( Christian ) beliefs . "
+Lozier,plan.01,to teach,,Affirmative,"She wants her kids to have age - appropriate lessons and , firmly grounded in her faith , plans to teach her kids about all other religions besides her own ( Christian ) beliefs . "
+we,choose.01,to stay home or have,,Affirmative,"Whether we choose to stay home or have a career , we 're all doing the best we can for our families . "
+we,have.03,a career,,Affirmative,"Whether we choose to stay home or have a career , we 're all doing the best we can for our families . "
+we,do.02,the best,for,Affirmative,"Whether we choose to stay home or have a career , we 're all doing the best we can for our families . "

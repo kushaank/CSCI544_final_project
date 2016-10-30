@@ -1,0 +1,20 @@
+1	RTÉ	rté	NNP	p2=NN	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	ie	ie	FW	p2=PRP	2	advmod	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	website	website	NN	_	2	nsubj	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	Raidió	raidió	NNP	_	8	nn	_
+7	Teilifís	teilifís	NNP	p2=NNPS	8	nn	_
+8	Éireann	éireann	NNP	_	5	pobj	_
+9	,	,	,	_	8	punct	_
+10	Ireland	ireland	NNP	_	15	poss	_
+11	's	's	POS	_	10	possessive	_
+12	National	national	NNP	_	15	nn	_
+13	Public	public	NNP	_	14	nn	_
+14	Service	service	NNP	_	15	nn	_
+15	Broadcaster	broadcaster	NNP	_	8	appos	_
+16	.	.	.	_	2	punct	_
+

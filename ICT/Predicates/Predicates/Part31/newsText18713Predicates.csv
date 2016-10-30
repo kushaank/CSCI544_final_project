@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Cie,plan.01,to invest,,Affirmative,"ABIDJAN May 19 ( Reuters ) - Ivory Coast power utility Cie plans to invest 100 billion CFA francs ( $ 209 million ) to double its customer base by 2017 , Dominique Kakou , managing director of the firm part - owned by French industrial group Bouygues , said on Monday . "
+Cie,invest.01,billion CFA francs (,,Affirmative,"ABIDJAN May 19 ( Reuters ) - Ivory Coast power utility Cie plans to invest 100 billion CFA francs ( $ 209 million ) to double its customer base by 2017 , Dominique Kakou , managing director of the firm part - owned by French industrial group Bouygues , said on Monday . "
+managing director of,manage.01,of,,Affirmative,"ABIDJAN May 19 ( Reuters ) - Ivory Coast power utility Cie plans to invest 100 billion CFA francs ( $ 209 million ) to double its customer base by 2017 , Dominique Kakou , managing director of the firm part - owned by French industrial group Bouygues , said on Monday . "
+Cie,produce.01,electricity,,Affirmative,Cie produces electricity and has the sole licence to sell in the country . 
+Cie,have.03,the sole licence,,Affirmative,Cie produces electricity and has the sole licence to sell in the country . 
+We,have.03,"1,250,000 clients",,Affirmative,"We have so far 1,250,000 clients . "
+We,double.01,We,,Affirmative,"We are going to double that and have 2,700,000 clients by 2017 , said Kakou . "
+We,have.03,"2,700,000 clients",,Affirmative,"We are going to double that and have 2,700,000 clients by 2017 , said Kakou . "
+Dominique Kakou,say.01,We are going,,Affirmative,"We are going to double that and have 2,700,000 clients by 2017 , said Kakou . "
+Ivory Coast,export.01,power,"to Ghana ,",Affirmative,"Ivory Coast is Francophone West Africa 's economic powerhouse as well as being the world 's top cocoa producer and it exports power to Ghana , Burkina Faso , Togo and Mali . "
+Ivory Coast,plan.01,"to interconnect with Liberia ,",,Affirmative,"It plans to interconnect with Liberia , Sierra Leone and Guinea . "
+Ivory Coast,interconnect.01,"with Liberia ,",,Affirmative,"It plans to interconnect with Liberia , Sierra Leone and Guinea . "
+the government,aim.01,to push it to,,Affirmative,"The country 's electricity capacity is around 1,600 megawatts and the government aims to push it to 4,000 megawatts by 2020 . "
+the government,push.01,the government,to,Affirmative,"The country 's electricity capacity is around 1,600 megawatts and the government aims to push it to 4,000 megawatts by 2020 . "
+domestic demand,outpace.01,new power generation,,Affirmative,But exports to its neighbours have declined in recent years as domestic demand has outpaced new power generation . 
+a post-election standoff,cripple.01,its economy,,Affirmative,The country is recovering from a decade of political turmoil that culminated in a post-election standoff in 2010 and brief civil war in 2011 that crippled its economy . 

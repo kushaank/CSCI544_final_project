@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A commencement speaker,blast.02,Pennsylvania college students,as immature and arrogant for protesting,Affirmative,( AP ) - A commencement speaker blasted Pennsylvania college students as immature and arrogant for protesting another speaker who then decided to withdraw . 
+another speaker,decide.01,to withdraw,,Affirmative,( AP ) - A commencement speaker blasted Pennsylvania college students as immature and arrogant for protesting another speaker who then decided to withdraw . 
+He,use.01,his commencement speech,to criticize students,Affirmative,"He used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+He,criticize.01,students,,Affirmative,"He used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+students,campaign.01,against,,Affirmative,"He used his commencement speech at Haverford College outside Philadelphia on Sunday to criticize students who campaigned against Robert Birgeneau , former chancellor of the University of California , Berkeley . "
+40 students and,protest.01,invitation,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+40 students and,object.01,to,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+police,use.01,force,,Affirmative,"More than 40 students and three professors had protested Birgeneau 's invitation to speak , objecting to his handling of a 2011 incident at Berkeley in which police used force at a student protest . "
+The Philadelphia Inquirer,report.01,that Bowen said,,Affirmative,The Philadelphia Inquirer reports that Bowen said Birgeneau 's withdrawal was a defeat for the university . 
+Bowen,say.01,withdrawal was,,Affirmative,The Philadelphia Inquirer reports that Bowen said Birgeneau 's withdrawal was a defeat for the university . 
+His address,draw.02,a standing ovation,,Affirmative,His address drew a standing ovation . 
+by,review.01,it,,Affirmative,The content has been reported and it will be reviewed by a moderator . 
+by,manage.01,This site,,Affirmative,This site is hosted and managed by Inergize Digital . 

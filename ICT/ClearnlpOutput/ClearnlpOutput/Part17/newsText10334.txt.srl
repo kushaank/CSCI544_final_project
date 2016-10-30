@@ -1,0 +1,37 @@
+1	Commentary	commentary	NNP	p2=JJ	0	root	_
+2	by	by	IN	_	1	prep	_
+3	Sam	sam	NNP	_	4	nn	_
+4	Walsh	walsh	NNP	_	5	nn	_
+5	AO	ao	NNP	_	2	pobj	_
+6	,	,	,	_	5	punct	_
+7	CEO	ceo	NN	p2=NNP	5	appos	_
+8	of	of	IN	_	7	prep	_
+9	Rio	rio	NNP	_	10	nn	_
+10	Tinto	tinto	NNP	_	8	pobj	_
+11	.	.	.	_	1	punct	_
+
+1	This	this	DT	_	2	det	_
+2	fall	fall	NN	_	7	npadvmod	7:AM-TMP
+3	,	,	,	_	7	punct	_
+4	world	world	NN	_	5	nn	_
+5	leaders	leader	NNS	_	7	nsubj	13:A0=PAG;7:A1=PPT
+6	will	will	MD	_	7	aux	7:AM-MOD
+7	gather	gather	VB	pb=gather.01	0	root	_
+8	in	in	IN	_	7	prep	7:AM-LOC
+9	Brisbane	brisbane	NNP	p2=NN	8	pobj	_
+10	,	,	,	_	7	punct	_
+11	Australia	australia	NNP	_	7	npadvmod	7:AM-DIS
+12	to	to	TO	_	13	aux	_
+13	discuss	discuss	VB	pb=discuss.01	7	advcl	7:AM-PRP
+14	how	how	WRB	_	16	advmod	16:R-AM-MNR
+15	to	to	TO	_	16	aux	_
+16	increase	increase	VB	pb=increase.01	13	xcomp	13:A1=PPT
+17	global	global	JJ	_	19	amod	_
+18	infrastructure	infrastructure	NN	_	19	nn	_
+19	investment	investment	NN	_	16	dobj	16:A1=PPT
+20	,	,	,	_	16	punct	_
+21	among	among	IN	_	16	prep	_
+22	other	other	JJ	_	23	amod	_
+23	topics	topic	NNS	_	21	pobj	_
+24	.	.	.	_	7	punct	_
+

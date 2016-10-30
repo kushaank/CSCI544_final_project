@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sentinel investigation in January 2013,find.01,guns were stolen during,,Affirmative,"A Journal Sentinel investigation in January 2013 found that an agent 's guns were stolen during the operation , including a machine gun that remains missing . "
+Agents,use.01,disabled man,to promote,Affirmative,Agents used a mentally disabled man to promote the operation and then arrested him . 
+Agents,promote.02,the operation,,Affirmative,Agents used a mentally disabled man to promote the operation and then arrested him . 
+Agents,arrest.01,a mentally disabled man,,Affirmative,Agents used a mentally disabled man to promote the operation and then arrested him . 
+felons,leave.01,the store,armed,Affirmative,"Four of the wrong people were arrested , felons were allowed to leave the store armed , and the operation was burglarized . "
+Jones,do.02,double duty,,Affirmative,"Jones and Zapor had worked together in Minnesota , where Jones did double duty as the U.S. attorney while serving as interim ATF director from 2011 until the Senate confirmed Jones to lead the federal agency last summer . "
+Jones,serve.01,as,,Affirmative,"Jones and Zapor had worked together in Minnesota , where Jones did double duty as the U.S. attorney while serving as interim ATF director from 2011 until the Senate confirmed Jones to lead the federal agency last summer . "
+the Senate,confirm.01,Jones,,Affirmative,"Jones and Zapor had worked together in Minnesota , where Jones did double duty as the U.S. attorney while serving as interim ATF director from 2011 until the Senate confirmed Jones to lead the federal agency last summer . "
+Jones,lead.02,the federal agency,,Affirmative,"Jones and Zapor had worked together in Minnesota , where Jones did double duty as the U.S. attorney while serving as interim ATF director from 2011 until the Senate confirmed Jones to lead the federal agency last summer . "
+"Field Division ,",run.01,Operation Fast and Furious,,Affirmative,"Zapor was put in charge late last summer of the Phoenix Field Division , which ran Operation Fast and Furious , during which thousands of assault rifles passed into the hands of criminals . "
+Some,hear.01,that he was being reassigned to,,Affirmative,We were dismayed to hear that he was being reassigned to ... 
+important field division,give.01,the high volume of weapons trafficking there,,Affirmative,"arguably the ATF 's most important field division given the high volume of weapons trafficking there as well as its geographic proximity to Mexican drug cartel activity , the letter said . "
+the letter,say.01,division given,,Affirmative,"arguably the ATF 's most important field division given the high volume of weapons trafficking there as well as its geographic proximity to Mexican drug cartel activity , the letter said . "
+Zapor,have.03,roots in Arizona,,Affirmative,Zapor has roots in Arizona . 
+He,start.01,his career,as,Affirmative,"He started his career as an agent in Phoenix in the late 1980 s and has family in the area , the letter said . "
+He,have.03,family,,Affirmative,"He started his career as an agent in Phoenix in the late 1980 s and has family in the area , the letter said . "
+the letter,say.01,He started,,Affirmative,"He started his career as an agent in Phoenix in the late 1980 s and has family in the area , the letter said . "
+1,keep.02,it,Clean,Affirmative,1 Keep it Clean . 
+us,know.01,of,,Affirmative,Use the ' Report ' link on each comment to let us know of abusive posts . 
+We,love.02,to hear,,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "
+We,hear.01,"eyewitness accounts ,",,Affirmative,"We 'd love to hear eyewitness accounts , the history behind an article . "

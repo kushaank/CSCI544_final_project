@@ -1,0 +1,57 @@
+1	characters	character	NNS	_	2	nsubj	2:A0
+2	left	leave	VBD	p2=VBN|pb=leave.01	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	Disclaimer	disclaimer	NN	_	6	dep	_
+2	:	:	:	_	6	punct	_
+3	Kindly	kindly	RB	p2=NNP	6	advmod	6:AM-ADV
+4	do	do	VB	p2=VBP	6	aux	_
+5	not	not	RB	_	6	neg	6:AM-NEG
+6	post	post	VB	pb=post.01	0	root	_
+7	any	any	DT	p2=RB	8	det	_
+8	abusive	abusive	JJ	_	18	amod	_
+9	,	,	,	_	8	punct	_
+10	defamatory	defamatory	JJ	_	1	amod	_
+11	,	,	,	_	10	punct	_
+12	infringing	infringing	JJ	p2=VBG	10	conj	_
+13	,	,	,	_	12	punct	_
+14	obscene	obscene	JJ	_	12	conj	_
+15	,	,	,	_	14	punct	_
+16	indecent	indecent	JJ	_	14	conj	_
+17	,	,	,	_	16	punct	_
+18	discriminatory	discriminatory	JJ	_	16	conj	_
+19	or	or	CC	_	18	cc	_
+20	unlawful	unlawful	JJ	_	21	amod	_
+21	material	material	NN	_	18	conj	_
+22	or	or	CC	_	21	cc	_
+23	SPAM	spam	NN	p2=NNP	21	conj	_
+24	.	.	.	_	6	punct	_
+
+1	BelleVision.com	#url#	ADD	_	2	nsubj	2:A0=PAG
+2	reserves	reserve	VBZ	pb=reserve.01	0	root	_
+3	the	the	DT	_	4	det	_
+4	right	right	NN	_	2	dobj	2:A1=PPT
+5	to	to	TO	_	6	aux	_
+6	block	block	VB	pb=block.01	4	infmod	_
+7	/	/	SYM	p2=,	6	punct	_
+8	remove	remove	VB	pb=remove.01	6	dep	_
+9	without	without	IN	_	8	prep	8:AM-MNR
+10	notice	notice	NN	_	9	pobj	_
+11	any	any	DT	_	12	det	_
+12	content	content	NN	_	6	dobj	6:A1;13:A1=PPT
+13	received	receive	VBN	p2=VBD|pb=receive.01	12	partmod	_
+14	from	from	IN	_	13	prep	13:A2=DIR
+15	users	user	NNS	_	14	pobj	_
+16	.	.	.	_	2	punct	_
+
+1	©	©	$	p2=VBD	2	quantmod	_
+2	2010	0	CD	p2=LS	4	num	_
+3	Bellevision	bellevision	NNP	p2=NN	4	nn	_
+4	Global	global	NNP	p2=JJ	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	All	all	DT	p2=PDT	3	det	_
+2	Rights	right	NNPS	p2=NNS	3	nn	3:A0
+3	Reserved	reserved	VBD	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

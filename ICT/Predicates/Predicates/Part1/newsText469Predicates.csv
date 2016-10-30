@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Missouri state legislators,scrap.01,a vote,,Affirmative,Missouri state legislators scrapped a vote last week on a bill that would have prevented Tesla Motors Inc . 
+a bill,prevent.01,Tesla Motors Inc,,Affirmative,Missouri state legislators scrapped a vote last week on a bill that would have prevented Tesla Motors Inc . 
+"Timothy Jones , speaker of",tell.01,legislation would be reintroduced,Street Journal,Affirmative,"Timothy Jones , speaker of the Missouri House of Representatives , told The Wall Street Journal that the legislation would be reintroduced next year with hearings in the state Senate and House . "
+Tesla,want.01,to sell,,Affirmative,"Tesla wants to sell its vehicles directly to consumers , but its efforts to do so have met strong opposition from dealers , who contend that the company 's direct - selling model violates franchise and consumer laws in many states . "
+Tesla,sell.01,its vehicles,to consumers,Affirmative,"Tesla wants to sell its vehicles directly to consumers , but its efforts to do so have met strong opposition from dealers , who contend that the company 's direct - selling model violates franchise and consumer laws in many states . "
+its efforts,meet.01,"strong opposition from dealers ,",,Affirmative,"Tesla wants to sell its vehicles directly to consumers , but its efforts to do so have met strong opposition from dealers , who contend that the company 's direct - selling model violates franchise and consumer laws in many states . "
+"dealers ,",contend.01,model violates franchise and,,Affirmative,"Tesla wants to sell its vehicles directly to consumers , but its efforts to do so have met strong opposition from dealers , who contend that the company 's direct - selling model violates franchise and consumer laws in many states . "
+selling model,violate.01,franchise and,,Affirmative,"Tesla wants to sell its vehicles directly to consumers , but its efforts to do so have met strong opposition from dealers , who contend that the company 's direct - selling model violates franchise and consumer laws in many states . "
+Tesla,comply.01,with,,Affirmative,"Tesla should have to comply with the same rules that other automakers follow , they say . "
+they,say.01,Tesla should have,,Affirmative,"Tesla should have to comply with the same rules that other automakers follow , they say . "
+a bill that would have prevented Tesla Motors Inc. from selling directly to consumers,deal.01,with,,Affirmative,"In Missouri , the bill mainly deals with all - terrain vehicles . "
+a provision,ban.01,direct sales from,,Affirmative,But a provision that would ban direct sales from vehicle manufacturers -- deemed anti-Tesla by the company -- was added before the bill reached the Missouri Senate floor . 
+a provision,deem.01,anti-Tesla,,Affirmative,But a provision that would ban direct sales from vehicle manufacturers -- deemed anti-Tesla by the company -- was added before the bill reached the Missouri Senate floor . 
+the bill reached,reach.01,Senate floor,,Affirmative,But a provision that would ban direct sales from vehicle manufacturers -- deemed anti-Tesla by the company -- was added before the bill reached the Missouri Senate floor . 
+The state Senate,pass.01,the legislation,,Affirmative,The state Senate passed the legislation on May 7 without public consultation . 
+the company,say.01,change is not,,Affirmative,"This change is not an innocent , minor amendment , the company said in a May 8 statement . "
+Tesla,operate.01,one Missouri store,,Affirmative,"Tesla operates one Missouri store , in St. Louis , according to its Web site . "
+48 states,have.03,some type of restriction on,,Affirmative,"According to the National Automobile Dealers Association , 48 states have some type of restriction on factory - owned dealerships . "

@@ -1,0 +1,19 @@
+1	10	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	2	0	CD	p2=LS	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	Best	well	RBS	p2=JJS	2	advmod	2:AM-MNR
+2	viewed	view	VBN	pb=view.02	0	root	_
+3	with	with	IN	_	2	prep	2:A2=PRD
+4	Internet	internet	NN	p2=NNP	5	nn	_
+5	Explorer	explorer	NNP	p2=NN	3	pobj	_
+6	6	0	CD	_	5	num	_
+7	or	or	CC	_	5	cc	_
+8	above	above	RB	p2=IN	5	conj	_
+9	at	at	IN	_	2	prep	2:AM-LOC
+10	1024x768	0x0	CD	p2=JJ	11	num	_
+11	resolution	resolution	NN	_	9	pobj	_
+12	.	.	.	_	2	punct	_
+

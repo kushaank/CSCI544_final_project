@@ -1,0 +1,26 @@
+1	Yes	yes	UH	_	0	root	_
+2	!	!	.	_	1	punct	_
+
+1	I	I	PRP	_	3	nsubj	3:A0=PAG;5:A0=PAG
+2	'd	would	MD	_	3	aux	3:AM-MOD
+3	like	like	VB	pb=like.02	0	root	_
+4	to	to	TO	_	5	aux	_
+5	receive	receive	VB	pb=receive.01	3	xcomp	3:A1=PPT
+6	your	your	PRP$	_	10	poss	_
+7	periodic	periodic	JJ	_	10	amod	_
+8	e	e	LS	p2=NN	10	meta	_
+9	-	-	:	p2=JJ	10	punct	_
+10	newsletter	newsletter	NN	_	5	dobj	5:A1=PPT
+11	,	,	,	_	10	punct	_
+12	and	and	CC	_	10	cc	_
+13	information	information	NN	_	10	conj	_
+14	about	about	IN	_	13	prep	_
+15	new	new	JJ	_	16	amod	_
+16	features	feature	NNS	_	14	pobj	_
+17	,	,	,	_	16	punct	_
+18	products	product	NNS	_	16	conj	_
+19	and	and	CC	_	18	cc	_
+20	member	member	NN	_	21	nn	_
+21	benefits	benefit	NNS	_	18	conj	_
+22	.	.	.	_	3	punct	_
+

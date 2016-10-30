@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,identify.01,BERKELEY,as,Affirmative,BERKELEY ( CBS SF ) - The body of a man found near Grizzly Peak on University of California at Berkeley campus Sunday afternoon has been identified by the Alameda County coroner 's bureau as 22 - year - old Concord resident Lorenzo Baltazar - Trujillo . 
+a female hiker,find.01,body,,Affirmative,"At about 2:20 p.m. Sunday , a female hiker found Baltazar - Trujillo 's body at the base of a 100 - foot cliff near a popular hiking spot , UC Berkeley police said . "
+Berkeley police,say.01,hiker found,,Affirmative,"At about 2:20 p.m. Sunday , a female hiker found Baltazar - Trujillo 's body at the base of a 100 - foot cliff near a popular hiking spot , UC Berkeley police said . "
+a female hiker,try.01,to give,,Affirmative,The hiker tried to give first aid to the man but then realized he was deceased . 
+a female hiker,give.01,first aid,to,Affirmative,The hiker tried to give first aid to the man but then realized he was deceased . 
+a female hiker,realize.01,he was deceased,,Affirmative,The hiker tried to give first aid to the man but then realized he was deceased . 
+She,notify.01,"police ,",,Affirmative,"She notified police , who responded and did not find any signs of foul play . "
+"police ,",find.01,any signs of,,Affirmative,"She notified police , who responded and did not find any signs of foul play . "
+Investigators,report.01,any signs of,,Affirmative,Investigators have not reported any signs of foul play and believed the death was unintended . 
+Investigators,believe.01,death was unintended,,Affirmative,Investigators have not reported any signs of foul play and believed the death was unintended . 
+Berkeley police,release.01,more information about,,Affirmative,UC Berkeley police were not immediately releasing more information about Baltazar - Trujillo 's death as of this morning . 

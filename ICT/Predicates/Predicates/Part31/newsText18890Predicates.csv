@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Board of Supervisors,vote.01,4-1,,Affirmative,"The Board of Supervisors , voting 4-1 with Supervisor Jim Shirk dissenting , adopted a spending guide starting July 1 that includes a slight dip in the property tax levy . "
+The Board of Supervisors,adopt.01,a spending guide starting July 1,,Affirmative,"The Board of Supervisors , voting 4-1 with Supervisor Jim Shirk dissenting , adopted a spending guide starting July 1 that includes a slight dip in the property tax levy . "
+Shirk,say.01,cents would amount to,,Affirmative,"Shirk made one more attempt to alter the document , saying the additional 2 cents would amount to about $ 17 from homeowners and revenues from it could go for capital projects . "
+Supervisor Jim Shirk dissenting,say.01,It 's,,Affirmative,"It 's a good motion , he said . "
+"Supervisor John McKenna ,",#ord#.01,the motion for,,Affirmative,"Supervisor John McKenna , who seconded the motion for discussion purposes and then opposed it , said despite Shirk 's argument it is best to honor a promise to taxpayers that the property tax burden would be lowered . "
+"Supervisor John McKenna ,",oppose.01,one more attempt,,Affirmative,"Supervisor John McKenna , who seconded the motion for discussion purposes and then opposed it , said despite Shirk 's argument it is best to honor a promise to taxpayers that the property tax burden would be lowered . "
+the only county in Nevada,cut.02,the property tax ( levy ),,Affirmative,"If I understand correctly , from what I 've been told , we 're the only county in Nevada to cut the property tax ( levy ) , McKenna said . "
+John McKenna,say.01,", we 're",,Affirmative,"If I understand correctly , from what I 've been told , we 're the only county in Nevada to cut the property tax ( levy ) , McKenna said . "
+"Mayor Robert Crowell ,",favor.01,3.56 level,,Affirmative,"Mayor Robert Crowell , who earlier had favored the $ 3.56 level , said he has been persuaded lowering the burden makes sense and honors a pledge . "
+"Mayor Robert Crowell ,",say.01,he has been persuaded,,Affirmative,"Mayor Robert Crowell , who earlier had favored the $ 3.56 level , said he has been persuaded lowering the burden makes sense and honors a pledge . "
+Robert Crowell,lower.01,the property tax burden,,Affirmative,"Mayor Robert Crowell , who earlier had favored the $ 3.56 level , said he has been persuaded lowering the burden makes sense and honors a pledge . "
+lowering,make.01,sense and honors,,Affirmative,"Mayor Robert Crowell , who earlier had favored the $ 3.56 level , said he has been persuaded lowering the burden makes sense and honors a pledge . "
+Shirk,argue.01,for,,Affirmative,"Throughout debate earlier this year on whether to raise the city sales tax by one - eighth of a penny , or $ 12.50 per $ 10,000 in taxable goods purchased , Shirk argued for an alternative method to finance capital projects by setting aside 2 cents from property tax and using other money from outside the general fund . "
+the general fund,account.01,for,,Affirmative,It accounts for nearly $ 66 million of the budget . 
+the city 's general fund,mean.01,comes from,,Affirmative,That means more than two - thirds of the budget comes from those sources . 
+Finance Director Nick Providenti,say.01,projection includes,,Affirmative,"Providenti said his sales tax projection includes the estimated $ 787,000 from the city sales tax hike approved earlier , but from which receipts wo n't start until after Oct . "
+Providenti,agree.01,with McKenna,,Affirmative,"Providenti agreed with McKenna that tax receipts may exceed his projections going forward , if an economic recovery continues . "
+tax receipts,exceed.01,his projections going forward,,Affirmative,"Providenti agreed with McKenna that tax receipts may exceed his projections going forward , if an economic recovery continues . "
+Providenti,call.01,it,a blueprint,Affirmative,"Providenti called it a blueprint that the board , with advice from the city manager , can augment . "
+"the board , with advice from",augment.01,a blueprint,,Affirmative,"Providenti called it a blueprint that the board , with advice from the city manager , can augment . "
+Marano,outline.01,an ambitious plan,,Affirmative,"Marano , in his job interview , outlined an ambitious plan to learn the community , work toward development and redevelopment , tackle energy efficiency and get Carson City in position to take advantage of economic recovery . "
+work toward development and redevelopment,tackle.01,energy efficiency,,Affirmative,"Marano , in his job interview , outlined an ambitious plan to learn the community , work toward development and redevelopment , tackle energy efficiency and get Carson City in position to take advantage of economic recovery . "
+John Wagner of,tout.01,based budgeting,,Affirmative,"John Wagner of Carson City , a fiscal conservative , touted zero - based budgeting . "
+He,say.01,government tends,,Affirmative,He said government tends to allow departments to seek up to 10 percent in hopes of getting 5 percent increases annually . 
+government,allow.01,departments to seek,,Affirmative,He said government tends to allow departments to seek up to 10 percent in hopes of getting 5 percent increases annually . 
+departments,seek.01,10 percent,,Affirmative,He said government tends to allow departments to seek up to 10 percent in hopes of getting 5 percent increases annually . 
+he,say.01,employees talk of cuts,,Affirmative,"If they do n't , he said , government employees talk of cuts which really are n't cuts at all . "
+government employees,talk.01,of cuts,,Affirmative,"If they do n't , he said , government employees talk of cuts which really are n't cuts at all . "
+He,describe.01,based budgeting,as starting from scratch in building,Affirmative,He described zero - based budgeting as starting from scratch in building spending guides each year . 
+a candidate seeking,seek.01,seat,,Affirmative,She is chairwoman of the Redevelopment Authority Citizens Committee and a candidate seeking McKenna 's supervisor 's seat . 
+The mayor,say.01,he agreed,,Affirmative,"The mayor said he agreed , and that is the goal of performance based metrics being developed by the city 's audit committee . "
+by,develop.02,based metrics,,Affirmative,"The mayor said he agreed , and that is the goal of performance based metrics being developed by the city 's audit committee . "
+The board,approve.01,million redevelopment budget,,Affirmative,The board also approved a $ 1.7 million redevelopment budget . 

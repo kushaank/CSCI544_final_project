@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+based company,say.01,Pirfenidone will be submitted for approval,,Affirmative,"Pirfenidone will be submitted for approval in the next few weeks and may be on the market in the first quarter of 2015 , the Brisbane , California - based company said in a regulatory filing . "
+"The drug ,",treat.03,"idiopathic pulmonary fibrosis ,",,Affirmative,"The drug , also known as Esbriet , is approved in Europe to treat idiopathic pulmonary fibrosis , a lung - scarring disease without a cure whose cause is unknown . "
+by,reject.01,The medicine,,Affirmative,"The medicine was rejected in 2010 by U.S. regulators , who asked for a new trial on effectiveness . "
+"U.S. regulators ,",ask.02,for,,Affirmative,"The medicine was rejected in 2010 by U.S. regulators , who asked for a new trial on effectiveness . "
+Pirfenidone and,show.01,progress in slowing,,Affirmative,"Pirfenidone and another drug , Boehringer Ingelheim GmbH 's nintedanib , both showed progress in slowing the disease 's progression , according to a report in the New England Journal of Medicine . "
+The disease,cause.01,tissue,,Affirmative,"The disease causes tissue deep in the lungs to become increasingly thick and stiff , or scarred , over time , according to the National Heart , Lung and Blood Institute . "
+it,inhibit.01,the ability of,,Affirmative,"When that happens , it inhibits the ability of the lungs to move oxygen into the bloodstream , limiting the amount that gets to the brain and other organs . "
+it,limit.01,the amount,,Affirmative,"When that happens , it inhibits the ability of the lungs to move oxygen into the bloodstream , limiting the amount that gets to the brain and other organs . "
+Data from,have.03,convincing basis,,Affirmative,"Data from the Boehringer trial has a very convincing basis , Susanne Stowasser , the Ingelheim , Germany - based company 's team leader of global medical affairs - respiratory , said in an interview . "
+team leader of,say.01,has,,Affirmative,"Data from the Boehringer trial has a very convincing basis , Susanne Stowasser , the Ingelheim , Germany - based company 's team leader of global medical affairs - respiratory , said in an interview . "
+"Judith von Gordon ,",say.01,company will file for approval,,Affirmative,"Judith von Gordon , another spokeswoman , said the closely held company will file for approval this year . "
+held company,file.01,for approval,,Affirmative,"Judith von Gordon , another spokeswoman , said the closely held company will file for approval this year . "
+Press,continue.01,Press spacebar to pause,,Affirmative,Press spacebar to pause and continue . 
+Press,esc.01,to stop,,Affirmative,Press esc to stop . 

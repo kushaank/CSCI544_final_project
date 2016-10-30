@@ -1,0 +1,20 @@
+1	Our	our	PRP$	_	2	poss	_
+2	editors	editor	NNS	_	4	poss	_
+3	'	'	POS	p2=''	2	possessive	_
+4	picks	pick	NNS	_	13	nsubj	13:A1=PPT
+5	for	for	IN	_	4	prep	_
+6	the	the	DT	_	7	det	_
+7	day	day	NN	_	10	poss	_
+8	's	's	POS	_	7	possessive	_
+9	top	top	JJ	_	10	amod	_
+10	news	news	NN	_	5	pobj	_
+11	and	and	CC	_	10	cc	_
+12	commentary	commentary	NN	_	10	conj	_
+13	delivered	deliver	VBD	p2=VBN|pb=deliver.01	0	root	_
+14	to	to	IN	_	13	prep	13:A2=GOL
+15	your	your	PRP$	_	16	poss	_
+16	inbox	inbox	NN	p2=NNS	14	pobj	_
+17	each	each	DT	_	18	det	_
+18	morning	morning	NN	_	13	npadvmod	13:AM-TMP
+19	.	.	.	_	13	punct	_
+

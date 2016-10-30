@@ -1,0 +1,72 @@
+
+On Monday, the U.S. Department of Justice (USDOJ) announced indictments against five Chinese military officials, accusing them of hacking and economic espionage operations. The charges allege that as officers in Unit 61398 of the Chinese People’s Liberation Army (PLA), the group targeted organizations in the U.S. nuclear power, metals and solar products industries.
+
+During a press conference on Monday, Attorney General Eric Holder said that the indictments represent "the first ever charges against known state actors for infiltrating U.S. commercial targets by cyber means."
+
+"This is a case alleging economic espionage by members of the Chinese military. The range of trade secrets and other sensitive business information stolen in this case is significant and demands and aggressive response."
+
+Named in the indictment are Wang Dong, Sun Kailiang, Wen Xinyu, Huang Zhenyu, and Gu Chunhui; each man said to be an officer in Unit 61398 of the Third Department of the PLA.
+
+Unit 61398 is a group with a long history tied to accusations of digital espionage, designated as APT1 by Mandiant in 2013.
+
+The unit is said to have been in operation since 2006, but they're only one of 20 such groups with ties to China. According Mandiant and various experts, the Third and Fourth Departments of the PLA are responsible for collection and analysis of SIGINT (signals intelligence) including email; and actual electronic warfare, including systemic network compromise.
+
+In addition to the Aurora attacks of 2009, Unit 61398 has also been tied to Shady RAT in 2011, which targeted more than 70 organizations over five years, including the United Nations, and firms in the U.S., Canada, South Korea, and Taiwan.
+
+Reports commissioned by the U.S. government suggest that Unit 61398 has tremendous resources, including 12 operations bureaus, three research institutes, and a staff of 13,000 that includes linguists, technicians, and researchers. The unit is also said to be supported by academics from the PLA University of Information Engineering and the Academy of Military Sciences.
+
+During his statement, Holder outlined the indictment, alleging the PLA officers maintained "unauthorized access to victim computers to steal information from those entities that would be useful to their competitors in China, including state-owned enterprises."
+
+"In some cases, they stole trade secrets that would have been particularly beneficial to Chinese companies at the time they were stolen. In others, they stole sensitive, internal communications that would provide a competitor, or adversary in litigation, with insight into the strategy and vulnerabilities of the American entity."
+
+In all, there are 31 counts in the indictment; including conspiracy to commit computer fraud and abuse; accessing (or attempting to access) a protection computer without authorization; aggravated identity theft; economic espionage; trade secret theft; and transmission of a program, information, code, or command with the intent to cause damage to protected computers.
+
+In a statement, China's Foreign Ministry Spokesperson, Qin Gang, said that the indictment is based on fabricated facts, adding that it "grossly violates the basic norms governing international relations and jeopardizes China-US cooperation and mutual trust."
+
+China lodged a protest with the U.S., urging the DOJ to "correct its mistake and withdraw the indictment."
+
+"China is steadfast in upholding cyber security. The Chinese government, the Chinese military and their relevant personnel have never engaged or participated in cyber theft of trade secrets. The US accusation against Chinese personnel is purely ungrounded and absurd," the Foreign Ministry's statement said.
+
+Due to the indictment, China has suspended the China-US Cyber Working Group, promising to react further to the indictment as the situation evolves.
+
+Commenting on the back-and-forth, CrowdStrike's Adam Meyers, noted that evidence against one defendant, Wang Dong (a.k.a. Ugly Gorilla) dates back to 2007, perhaps beyond that. In the past, China has demanded proof, now that proof has come; it's dismissed just as quickly.
+
+"I think the interesting question no one has surfaced yet is where is China's proof they didn't do it? They challenged the U.S. government to prove PRC involvement, and they are simply turning around and saying its baseless allegations," he said.
+
+During the press conference on Monday, Assistant Attorney General for National Security, John Carlin, mirrored Meyers' thoughts.
+
+"In the past, when we brought concerns such as these to Chinese government officials, they responded by publicly challenging us to provide hard evidence of their hacking that could stand up in court. Well today, we are. For the first time, we are exposing the faces and names behind the keyboards in Shanghai used to steal from American businesses. To be clear, this conduct is criminal. And it is not conduct that most responsible nations within the global economic community would tolerate."
+
+James Andrew Lewis , director of the Strategic Technologies Program at the Center for Strategic and International Studies in Washington, D.C., said in a statement that the legal action taken by the USDOJ today is "a standard tactic in espionage."
+
+"It sends a clear signal to the other side that their actions have become intolerable."
+
+Lewis said that unless they're held accountable for bad actions, countries will see no reason to stop. And China, he added, has been engaged in a massive campaign of economic espionage for years, and within the last decade, much of that spying has moved into cyberspace. An internal U.S. review, that isn't publicly available, found that China's economic espionage activities were grater than all others combined, including Russia.
+
+However, the USDOJ had to do some work to get the indictments passed.
+
+It has taken them more than a year to get this case off the ground, and prosecutors needed to two things to make it happen Lewis said: "cases where there was strong, specific evidence and companies that were willing to go public against China."
+
+The fear for many multinationals was that China would retaliate against them, potentially weakening their ability to operate in one of the world's most important market.
+
+"Getting economic espionage under control will be difficult for Beijing, given how espionage is linked to private economic interests and to China’s economic strategies. The best outcome would be a serious commitment, most likely private, by China to scale back its economic espionage program. The United States needs China to grow, but not at the expense of flouting trade rules and international law and practice. The next step depends on the Chinese," Lewis added.
+
+As mentioned, indictment lists specific victims, and the nature of the crime committed against them by the defendant. An overview is below.
+
+Westinghouse – Defendant Sun is said to have stolen sensitive, non-public emails and other confidential documents (including technical and design specifications for pipes, pipe supports, and pipe routing) related to the company's bid to build power plants in China.
+
+SolarWorld – Defendant Wen and one other individual are said to have stolen "thousands of files including information about SolarWorld’s cash flow, manufacturing metrics, production line information, costs, and privileged attorney-client communications relating to ongoing trade litigation, among other things."
+
+The USDOJ said that such information would have allowed a Chinese competitor to target SolarWorld's business operations on a number of angles.
+
+Allegheny Technologies Inc. (ATI) – Defendant Wen is said to have gained access to ATI's network and stolen access credentials for virtually the entire company in 2012. This happened while ATI was involved during a trade dispute with a state-owned enterprise in China.
+
+Allied Industrial and Service Workers International Union (USW) – Defendant Wen, in 2012, is said to have stolen emails from senior USW employees while the company was involved in public trade disputes with China.
+
+According to the USDOJ, the emails contained "sensitive, non-public, and deliberative information about USW strategies, including strategies related to pending trade disputes. USW’s computers continued to beacon to the conspiracy’s infrastructure until at least early 2013."
+
+Alcoa – Defendant Sun is said to have sent a Phishing email to Alcoa employees in 2008, after the company announced a partnership with a Chinese state-owned enterprise. In June of that year, the USDOJ says that thousands of email messages were harvested, including discussions and attachments related to that transaction.
+
+Defendant Huang is listed as having facilitated hacking activities by registering and managing domains used by Unit 61389. Additionally, he is said to have created a database designed to hold corporate intelligence about iron and steel industries, including firms in the U.S.
+
+Defendant Gu is said to have managed domain accounts used to by Unit 61389 in addition to testing the Phishing emails.

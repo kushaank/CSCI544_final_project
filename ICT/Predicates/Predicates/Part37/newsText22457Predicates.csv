@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,recall.02,million pounds of,,Affirmative,Today 1.8 million pounds of ground beef was recalled by a Detroit meat packing company . 
+Wolverine Packing Co.,issue.01,the notice,,Affirmative,"The meat was linked to E. coli infections in four states , so Wolverine Packing Co. issued the notice voluntarily on meat produced between March 31 and April 18 , the U.S. Department of Agriculture 's Food Safety and Inspection Service  said . "
+"four states ,",have.06,yet,,Affirmative,"There are about 11 people who are sick with E. coli O157 : H7 in four states , which have yet to be named . "
+The germ,cause.01,food poisoning or,,Affirmative,"The germ can cause food poisoning or hemolytic uremic syndrome , which can be deadly . "
+HUS,affect.01,children and,,Affirmative,HUS affects children and the elderly more severely . 
+packing company,ship.01,its products,to distributors,Affirmative,"The meat packing company shipped its products to distributors in Massachusetts , Michigan , Missouri and Ohio , though the report did n't say if these were the four states . "
+the report,say.01,if these were,,Affirmative,"The meat packing company shipped its products to distributors in Massachusetts , Michigan , Missouri and Ohio , though the report did n't say if these were the four states . "
+FSIS,tie.01,coli cases,,Affirmative,FSIS worked with the Centers for Disease Control and Prevention and tied the E. coli cases between April 22 to May 2 to the meat produced by Wolverine Products . 
+by,produce.01,the meat produced by,,Affirmative,FSIS worked with the Centers for Disease Control and Prevention and tied the E. coli cases between April 22 to May 2 to the meat produced by Wolverine Products . 
+The products recalled,have.03,an EST,,Affirmative,The products recalled have an EST . 
+coli O157,cause.01,severe diarrhea and,,Affirmative,E. coli O157 can cause severe diarrhea and abdominal cramps . 
+"E. coli O157 : H7 in four states , which have yet to be named",have.03,none of,,Affirmative,"Fever is n't associated with it , but it can also have none of its usual symptoms . "
+"E. coli O157 : H7 in four states , which have yet to be named",cause.01,"HUS ,",,Affirmative,"People usually get over it in five to 10 days , but in children that are less than five or older people , it can cause HUS , where the kidneys fail . "
+by,cause.01,most of it,,Affirmative,"The principal cause of kidney failure in children is HUS , and most of it is caused by E. coli O157 . "

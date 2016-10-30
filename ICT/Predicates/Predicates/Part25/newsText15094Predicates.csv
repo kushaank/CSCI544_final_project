@@ -1,0 +1,35 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Christopher S. Kirby , 27 , of Liberty",face.01,two felony counts of assault on,,Affirmative,"Christopher S. Kirby , 27 , of Liberty , faces two felony counts of assault on a law enforcement officer and a felony count of resisting arrest . "
+A man,try.01,to mow down,,Affirmative,"A man is accused of trying to mow down two police officers after stealing taquitos from a Kansas City area convenience store , according to court documents . "
+A man,mow.01,two police officers,,Affirmative,"A man is accused of trying to mow down two police officers after stealing taquitos from a Kansas City area convenience store , according to court documents . "
+A man,steal.01,taquitos,from,Affirmative,"A man is accused of trying to mow down two police officers after stealing taquitos from a Kansas City area convenience store , according to court documents . "
+"Christopher S. Kirby , 27 , of Liberty",face.01,two felony counts of assault on,,Affirmative,"Christopher S. Kirby , 27 , of Liberty , faces two felony counts of assault on a law enforcement officer and a felony count of resisting arrest . "
+"Christopher S. Kirby , 27 , of Liberty",have.03,an open container of alcohol,,Affirmative,"According to court documents , Kirby had an open container of alcohol , and items typically used as drug paraphernalia were found in Kirby 's vehicle when he was arrested . "
+A store clerk,alert.01,a law enforcement officer,,Affirmative,"  A store clerk alerted the officer that the man identified as Kirby was stealing taquitos , according to court documents . "
+the man,identify.01,a law enforcement officer,,Affirmative,"  A store clerk alerted the officer that the man identified as Kirby was stealing taquitos , according to court documents . "
+"Christopher S. Kirby , 27 , of Liberty",steal.01,taquitos,,Affirmative,"  A store clerk alerted the officer that the man identified as Kirby was stealing taquitos , according to court documents . "
+"Christopher S. Kirby , 27 , of Liberty",flee.01,a Kansas City area convenience store,,Affirmative,Kirby fled the store with the officer in pursuit on foot . 
+"Christopher S. Kirby , 27 , of Liberty",run.02,a law enforcement officer,,Affirmative,"When the Kirby got into his car to take off , he allegedly backed up and nearly ran the officer over . "
+Officer Krogsdale,feel.01,Kirby 's vehicle,,Affirmative,"Officer Krogsdale was nearly struck with the driver 's side front fender and felt the vehicle as it traveled passed his leg , according to court documents . "
+Kirby,cause.01,tire noise,,Affirmative,"Kirby then excessively accelerated , causing tire noise and fled from QuikTrip without regard for the safety of others . "
+Kirby,flee.01,from QuikTrip,,Affirmative,"Kirby then excessively accelerated , causing tire noise and fled from QuikTrip without regard for the safety of others . "
+duty officers,alert.01,other officers,,Affirmative,The off - duty officers alerted other officers via his radio . 
+Police,find.01,"Kirby then excessively accelerated , causing tire noise and fled from QuikTrip without regard for the safety of others",,Affirmative,Police later found him in a driveway on the 1000 block east of 25th Street . 
+"Christopher S. Kirby , 27 , of Liberty",attempt.01,to run over,,Affirmative,"Kirby jumped into the car again , and when he backed up , he attempted to run over a second officer , according to court documents . "
+"Christopher S. Kirby , 27 , of Liberty",run.02,over,,Affirmative,"Kirby jumped into the car again , and when he backed up , he attempted to run over a second officer , according to court documents . "
+Officer Lull,report.01,vehicle backed directly at her and in,,Affirmative,"Officer Lull reported that the vehicle backed directly at her and in the process of running out of its path , she stumbled onto the driver 's side of the vehicle where she caught her balance on the driver 's side door and window , according to court documents . "
+her,stumble.01,onto,,Affirmative,"Officer Lull reported that the vehicle backed directly at her and in the process of running out of its path , she stumbled onto the driver 's side of the vehicle where she caught her balance on the driver 's side door and window , according to court documents . "
+her,catch.01,her balance,,Affirmative,"Officer Lull reported that the vehicle backed directly at her and in the process of running out of its path , she stumbled onto the driver 's side of the vehicle where she caught her balance on the driver 's side door and window , according to court documents . "
+"Christopher S. Kirby , 27 , of Liberty",drive.02,90 mph,,Affirmative,The chase went on high speeds on Interstate 35 with Kirby allegedly driving 90 mph in a 55 mph zone with officers in hot pursuit . 
+City police,ended.01,their pursuit,,Affirmative,North Kansas City police ended their pursuit but asked the Kansas City Police Department and its police helicopter for assistance . 
+City police,ask.02,for assistance,City Police Department and,Affirmative,North Kansas City police ended their pursuit but asked the Kansas City Police Department and its police helicopter for assistance . 
+Police,stop.01,sticks,to,Affirmative,Police used stop sticks to disable Kirby 's vehicle . 
+Kirby,ask.02,for,,Affirmative,Kirby asked for an attorney when detectives attempted to question him . 
+detectives,attempt.01,to question him,,Affirmative,Kirby asked for an attorney when detectives attempted to question him . 
+Rod Nylund,start.01,doing work on,,Affirmative,"Rod Nylund is ready to start doing work on the home he just purchased , but he was shocked to find the house occupied and the locks changed . "
+Rod Nylund,do.02,work,,Affirmative,"Rod Nylund is ready to start doing work on the home he just purchased , but he was shocked to find the house occupied and the locks changed . "
+he,purchase.01,the home,,Affirmative,"Rod Nylund is ready to start doing work on the home he just purchased , but he was shocked to find the house occupied and the locks changed . "
+he,find.01,the house occupied and,,Affirmative,"Rod Nylund is ready to start doing work on the home he just purchased , but he was shocked to find the house occupied and the locks changed . "
+Police,say.01,resulted in one of them,,Affirmative,Police said two men exchanging gunshots in a North Las Vegas neighborhood Sunday resulted in one of them being killed . 
+two men exchanging gunshots in,exchange.01,gunshots,,Affirmative,Police said two men exchanging gunshots in a North Las Vegas neighborhood Sunday resulted in one of them being killed . 
+All content,©.01,2014,,Affirmative,"All content © 2014 , KVVU Broadcasting Corporation , Las Vegas , NV and WorldNow . "

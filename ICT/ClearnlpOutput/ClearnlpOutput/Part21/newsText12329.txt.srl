@@ -1,0 +1,103 @@
+1	Welcome	welcome	VBP	p2=UH|pb=welcome.01	0	root	_
+2	Back	back	RP	_	1	prt	1:AM-DIR
+3	!	!	.	_	1	punct	_
+
+1	Thanks	thanks	NNS	_	0	root	_
+2	for	for	IN	_	1	prep	_
+3	being	be	VBG	pb=be.01	2	pcomp	_
+4	a	a	DT	_	6	det	_
+5	frequent	frequent	JJ	_	6	amod	_
+6	visitor	visitor	NN	_	3	attr	3:A2=PRD
+7	to	to	IN	_	6	prep	_
+8	tucson.com	#url#	ADD	_	7	pobj	_
+9	.	.	.	_	1	punct	_
+
+1	You	you	PRP	_	4	nsubj	4:A0=PAG
+2	have	have	VBP	_	4	aux	_
+3	now	now	RB	_	4	advmod	4:AM-TMP
+4	viewed	view	VBN	pb=view.02	0	root	_
+5	of	of	IN	_	4	prep	4:A2=PRD
+6	your	your	PRP$	_	9	poss	_
+7	FREE	free	JJ	_	9	amod	_
+8	premium	premium	NN	_	9	nn	_
+9	pages	page	NNS	p2=VBZ	5	pobj	_
+10	this	this	DT	_	14	det	_
+11	30	0	CD	_	13	hmod	_
+12	-	-	HYPH	_	13	hyph	_
+13	day	day	NN	_	14	nn	_
+14	period	period	NN	_	4	dobj	4:A1=PPT
+15	.	.	.	_	4	punct	_
+
+1	After	after	IN	_	4	mark	_
+2	you	you	PRP	_	4	nsubj	4:A0=PAG
+3	have	have	VBP	_	4	aux	_
+4	viewed	view	VBN	pb=view.02	10	advcl	10:AM-TMP
+5	FREE	free	JJ	p2=NNP	6	amod	_
+6	pages	page	NNS	_	4	dobj	4:A1=PPT
+7	,	,	,	_	10	punct	_
+8	we	we	PRP	_	10	nsubj	10:A0=PAG
+9	will	will	MD	_	10	aux	10:AM-MOD
+10	ask	ask	VB	pb=ask.02	0	root	_
+11	you	you	PRP	_	10	dobj	13:A0=PAG;10:A2=GOL
+12	to	to	TO	_	13	aux	_
+13	purchase	purchase	VB	pb=purchase.01	10	xcomp	10:A1=PPT
+14	a	a	DT	_	15	det	_
+15	subscription	subscription	NN	_	13	dobj	13:A1=PPT
+16	.	.	.	_	10	punct	_
+
+1	Copyright	copyright	NN	p2=NNP	0	root	_
+2	2014	0	CD	_	1	npadvmod	_
+3	Arizona	arizona	NNP	_	5	nn	_
+4	Daily	daily	NNP	_	5	nn	_
+5	Star	star	NNP	_	1	appos	_
+6	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	This	this	DT	_	2	det	_
+2	material	material	NN	_	6	nsubjpass	6:A1=PRD;8:A1=PPT
+3	may	may	MD	_	6	aux	6:AM-MOD;8:AM-MOD
+4	not	not	RB	_	6	neg	6:AM-NEG;8:AM-NEG
+5	be	be	VB	_	6	auxpass	_
+6	published	publish	VBN	pb=publish.01	0	root	_
+7	,	,	,	_	6	punct	_
+8	broadcast	broadcast	VBN	p2=NN|pb=broadcast.01	6	conj	_
+9	,	,	,	_	8	punct	_
+10	rewritten	rewrite	VBN	pb=rewrite.01	8	conj	_
+11	or	or	CC	_	10	cc	_
+12	redistributed	redistribute	VBN	pb=redistribute.01	10	conj	_
+13	.	.	.	_	6	punct	_
+
+1	I	I	PRP	_	2	nsubj	2:A0=PAG;4:A0=PAG
+2	understand	understand	VBP	pb=understand.01	0	root	_
+3	and	and	CC	_	2	cc	_
+4	agree	agree	VBP	pb=agree.01	2	conj	_
+5	that	that	IN	p2=DT	13	complm	_
+6	registration	registration	NN	_	13	nsubj	13:A0
+7	on	on	IN	p2=RB	6	prep	_
+8	or	or	CC	_	6	cc	_
+9	use	use	NN	p2=VB	6	conj	_
+10	of	of	IN	_	9	prep	_
+11	this	this	DT	_	12	det	_
+12	site	site	NN	_	10	pobj	_
+13	consitutes	consitutes	VBZ	pb=consitutes.01	4	ccomp	4:A1=PPT
+14	agreement	agreement	NN	_	13	dobj	13:A1
+15	to	to	IN	_	14	prep	_
+16	it	it	PRP	_	17	nsubj	17:A1=PPT
+17	's	be	VBZ	p2=POS|pb=be.01	14	ccomp	_
+18	user	user	NN	_	19	nn	_
+19	agreement	agreement	NN	_	17	attr	17:A2=PRD
+20	&	&	CC	_	19	cc	_
+21	privacy	privacy	NN	_	22	nn	_
+22	policy	policy	NN	_	19	conj	_
+23	.	.	.	_	2	punct	_
+
+1	Username	username	NNP	p2=NN	0	root	_
+2	&	&	CC	_	1	cc	_
+3	Password	password	NNP	_	4	nn	_
+4	Required	required	NNP	p2=VBD	1	conj	_
+5	!	!	.	_	1	punct	_
+

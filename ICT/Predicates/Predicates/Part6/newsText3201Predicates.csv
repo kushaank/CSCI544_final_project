@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Chinese man 's,create.01,multiple fake identities,,Affirmative,"A Chinese man 's dream of a big family in a country where each couple are limited to one child came true after he created multiple fake identities , and used them to marry women who he then made pregnant . "
+A Chinese man 's,make.01,pregnant,,Affirmative,"A Chinese man 's dream of a big family in a country where each couple are limited to one child came true after he created multiple fake identities , and used them to marry women who he then made pregnant . "
+police,act.01,on,,Affirmative,"Dad Liu Pan , 48 , has now been arrested when police acting on a complaint from one of his wives swooped to put an end to his multiple identity scam . "
+Dad Liu Pan,have.03,three wives and,,Affirmative,"When he was arrested in Shenzhen City in the southern China Liu was found to possess two ID cards , six household registration certificates , he had three wives and one mistress , and four children by them . "
+Dad Liu Pan,give.01,a daughter,him,Affirmative,"He reportedly came up with the idea after his first wife Kao got pregnant , but gave him a daughter , so he married again in secret , and had another girl . "
+Dad Liu Pan,have.03,another girl,,Affirmative,"He reportedly came up with the idea after his first wife Kao got pregnant , but gave him a daughter , so he married again in secret , and had another girl . "
+Dad Liu Pan,bribe.01,officials,,Affirmative,"He is suspected of bribing officials and forging official documents to live his dream of having many children , funding it by benefits scrounging . "
+Dad Liu Pan,forge.01,official documents,,Affirmative,"He is suspected of bribing officials and forging official documents to live his dream of having many children , funding it by benefits scrounging . "
+Dad Liu Pan,face.01,extra charges of bigamy,,Affirmative,He almost certainly faces extra charges of bigamy as polygamy under any circumstances is forbidden in China . 
+Dad Liu Pan,break.01,only policy of China,,Affirmative,"And he broke the strict one - child - only policy of China , which could see him jailed for ten years for that alone . "
+only policy of China,see.01,him jailed for,,Affirmative,"And he broke the strict one - child - only policy of China , which could see him jailed for ten years for that alone . "
+by one of,trigger.01,a probe triggered by one of,,Affirmative,"He was rumbled after a probe triggered by one of the wives , called Chang , who he married in 2010 . "
+"Chang , who he married in 2010",take.01,a call,,Affirmative,"Chang took a call one day when Liu was out at work from a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him . "
+a woman,claim.01,to have been married to him,,Affirmative,"Chang took a call one day when Liu was out at work from a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him . "
+a woman,have.03,"a daughter ,",,Affirmative,"Chang took a call one day when Liu was out at work from a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him . "
+"a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him",find.01,there was,,Affirmative,"I probed further and found out there was another one as well , she said . "
+"a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him",say.01,I probed further and found out,,Affirmative,"I probed further and found out there was another one as well , she said . "
+"a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him",spend.02,the last two years,trying,Affirmative,I have spent the last two years trying to negotiate a divorce from him but he is as slippery as an eel . 
+"a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him",try.01,to negotiate,,Affirmative,I have spent the last two years trying to negotiate a divorce from him but he is as slippery as an eel . 
+"a woman who claimed to have been married to him for over a decade and had a daughter , aged ten , by him",call.01,Police,,Affirmative,"Finally I got fed up , and called the police . "
+the southern China Liu,apply.01,for,,Affirmative,With the multiple registration certificates Liu was able to apply for rent subsidies . 
+the southern China Liu,possess.01,the two fake IDs,,Affirmative,And at least one of the two fake IDs he possessed brought him in some welfare money because one of his aliases was registered as disabled . 
+least one of,bring.01,the southern China Liu,in,Affirmative,And at least one of the two fake IDs he possessed brought him in some welfare money because one of his aliases was registered as disabled . 
+Police,confirm.01,the arrest,,Affirmative,"Police confirmed the arrest and said that work is ongoing to try to find out other identities and aliases that he used , and whether there might be other women in other areas . "
+Police,say.01,that work is ongoing,,Affirmative,"Police confirmed the arrest and said that work is ongoing to try to find out other identities and aliases that he used , and whether there might be other women in other areas . "
+Police,use.01,other identities and aliases,,Affirmative,"Police confirmed the arrest and said that work is ongoing to try to find out other identities and aliases that he used , and whether there might be other women in other areas . "
+The lawyer for,say.01,state takes,,Affirmative,The lawyer for his wife Chang said : The Chinese state takes a dim view of everything that he did . 
+The Chinese state,take.01,a dim view of everything,,Affirmative,The lawyer for his wife Chang said : The Chinese state takes a dim view of everything that he did . 
+Police,do.02,everything,,Affirmative,The lawyer for his wife Chang said : The Chinese state takes a dim view of everything that he did . 
+Police,try.01,to beat,,Affirmative,"He tried to beat the system but in the end , the system will beat him all the way to jail . "
+Police,beat.03,the system,,Affirmative,"He tried to beat the system but in the end , the system will beat him all the way to jail . "
+the system,beat.01,Police,way to jail,Affirmative,"He tried to beat the system but in the end , the system will beat him all the way to jail . "

@@ -1,0 +1,40 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the 5501st U.S. Army Hospital '' TPR,air.01,a hoax story,,Affirmative,Texas Public Radio aired a hoax story last week after a man named Victor Martinez lied to them about his military past . 
+a man named,lie.02,about,to them,Affirmative,Texas Public Radio aired a hoax story last week after a man named Victor Martinez lied to them about his military past . 
+the 5501st U.S. Army Hospital '' TPR,report.01,on,,Affirmative,"On May 13 , Texas Public Radio reported on Martinez 's story about his alleged military past , which he told to NPR 's David Greene , who was visiting the state affiliate . "
+Victor Martinez,tell.01,"his alleged military past ,",to,Affirmative,"On May 13 , Texas Public Radio reported on Martinez 's story about his alleged military past , which he told to NPR 's David Greene , who was visiting the state affiliate . "
+"David Greene ,",visit.01,the state affiliate,,Affirmative,"On May 13 , Texas Public Radio reported on Martinez 's story about his alleged military past , which he told to NPR 's David Greene , who was visiting the state affiliate . "
+Victor Martinez,say.01,he was,,Affirmative,Martinez said that during his second tour of Iraq he was the First Sergeant in charge of 350 soldiers in the combat stress control unit . 
+Victor Martinez,say.01,wife mailed him CDs of,,Affirmative,Martinez said that his wife mailed him CDs of Greene 's NPR program which he would listen to when he was really in bad shape . 
+his wife,mail.01,CDs of,him,Affirmative,Martinez said that his wife mailed him CDs of Greene 's NPR program which he would listen to when he was really in bad shape . 
+Victor Martinez,listen.01,CDs of,,Affirmative,Martinez said that his wife mailed him CDs of Greene 's NPR program which he would listen to when he was really in bad shape . 
+Victor Martinez,give.01,a coin from,Greene,Affirmative,  He then gave Greene a coin from his service . 
+TPR,issue.01,a retraction,,Affirmative,"But on May 19 , TPR issued a retraction and reported that Martinez admitted he made up the story . "
+TPR,report.01,that Martinez admitted,,Affirmative,"But on May 19 , TPR issued a retraction and reported that Martinez admitted he made up the story . "
+Victor Martinez,admit.01,he made up,,Affirmative,"But on May 19 , TPR issued a retraction and reported that Martinez admitted he made up the story . "
+Victor Martinez,make.07,Martinez 's story,,Affirmative,"But on May 19 , TPR issued a retraction and reported that Martinez admitted he made up the story . "
+TPR,say.01,they looked into,,Affirmative,TPR said they looked into Martinez 's story after the fact and found out he was in San Antonio when he said he was in Iraq . 
+they,look.01,into,,Affirmative,TPR said they looked into Martinez 's story after the fact and found out he was in San Antonio when he said he was in Iraq . 
+they,find.01,he was in,,Affirmative,TPR said they looked into Martinez 's story after the fact and found out he was in San Antonio when he said he was in Iraq . 
+Victor Martinez,say.01,he was in Iraq,,Affirmative,TPR said they looked into Martinez 's story after the fact and found out he was in San Antonio when he said he was in Iraq . 
+they,discover.01,a problem with,,Affirmative,We soon discovered a problem with Martinez ' story . 
+the U.S,leave.01,Iraq,,Affirmative,"His claim of service in Iraq in 2012 , should have been a red flag because the U.S left Iraq in 2011 , TPR  reported . "
+TPR ,report.01,should have been,,Affirmative,"His claim of service in Iraq in 2012 , should have been a red flag because the U.S left Iraq in 2011 , TPR  reported . "
+Victor Martinez,admit.01,he made up,,Affirmative,"When confronted , Martinez admitted he made up the story , according to TPR . "
+Victor Martinez,make.07,Martinez 's story,,Affirmative,"When confronted , Martinez admitted he made up the story , according to TPR . "
+the 5501st U.S. Army Hospital '' TPR,quote.01,Victor Martinez,as saying,Affirmative,"No I did not go to Iraq , TPR quoted him as saying . "
+the 5501st U.S. Army Hospital '' TPR,fabricate.01,that,,Affirmative,"No , I fabricated that . "
+Victor Martinez,tell.01,I 'm,TPR,Affirmative,"I 'm so so sorry , he told TPR . "
+Victor Martinez,apologize.01,for,,Affirmative,"I mean , it 's been a disservice and I do apologize , profusely , for just a matter of one moment of weakness as far as my integrity , which I have never practiced before in my whole , entire life . "
+Victor Martinez,practice.01,"my integrity ,",,Affirmative,"I mean , it 's been a disservice and I do apologize , profusely , for just a matter of one moment of weakness as far as my integrity , which I have never practiced before in my whole , entire life . "
+Victor Martinez,apologize.01,for,to,Affirmative,And I do apologize to the TPR public for having done this . 
+iMediaEthics,verify.01,this,,Affirmative,iMediaEthics verified this with South Texas Veterans Health Care System Public Affairs Officer Nenette C. Madla . 
+Madle,tell.01,"Yes , he is employed by",iMediaEthics,Affirmative,"Madle told iMediaEthics by e-mail Yes , he is employed by South Texas Veterans Health Care System . "
+by,employ.01,Affairs Officer Nenette C. Madla,,Affirmative,"Madle told iMediaEthics by e-mail Yes , he is employed by South Texas Veterans Health Care System . "
+Madle,leave.02,active duty,,Affirmative,"He left active duty in 1999 , the U.S. Army Reserve Command public information official told TPR , and in 2012 , TPR said he was serving in the 5501 st U.S. Army Hospital TPR admitted that it should have done its due diligance to fact check Martinez 's story . "
+the 5501st U.S. Army Hospital '' TPR,say.01,he was serving in,,Affirmative,"He left active duty in 1999 , the U.S. Army Reserve Command public information official told TPR , and in 2012 , TPR said he was serving in the 5501 st U.S. Army Hospital TPR admitted that it should have done its due diligance to fact check Martinez 's story . "
+the 5501st U.S. Army Hospital '' TPR,admit.01,that it should have done,,Affirmative,"He left active duty in 1999 , the U.S. Army Reserve Command public information official told TPR , and in 2012 , TPR said he was serving in the 5501 st U.S. Army Hospital TPR admitted that it should have done its due diligance to fact check Martinez 's story . "
+1999,do.02,its due diligance,,Affirmative,"He left active duty in 1999 , the U.S. Army Reserve Command public information official told TPR , and in 2012 , TPR said he was serving in the 5501 st U.S. Army Hospital TPR admitted that it should have done its due diligance to fact check Martinez 's story . "
+1999,check.01,story,,Affirmative,"He left active duty in 1999 , the U.S. Army Reserve Command public information official told TPR , and in 2012 , TPR said he was serving in the 5501 st U.S. Army Hospital TPR admitted that it should have done its due diligance to fact check Martinez 's story . "
+We,request.01,comment from Martinez,,Affirmative,We 're reached out to the Veterans Administration in South Texas to request comment from Martinez . 
+NPR 's,direct.01,our inquiry for comment to,,Affirmative,NPR directed our inquiry for comment to Texas Public Radio . 

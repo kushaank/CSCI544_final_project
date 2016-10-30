@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Bosnia,say.01,had been affected by,,Affirmative,"Bosnia said on Monday that more than a quarter of its 4 million people had been affected by the worst floods to hit the Balkans in living memory , comparing the terrifying destruction to that of the country 's 1992-95 war . "
+by,affect.01,more than a quarter of,,Affirmative,"Bosnia said on Monday that more than a quarter of its 4 million people had been affected by the worst floods to hit the Balkans in living memory , comparing the terrifying destruction to that of the country 's 1992-95 war . "
+The regional death toll,reach.01,more than 40,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+records,cause.01,rivers to burst,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+records,trigger.01,hundreds of landslides,,Affirmative,"The regional death toll reached more than 40 , after the heaviest rainfall since records began 120 years ago caused rivers to burst their banks and triggered hundreds of landslides . "
+by,cause.01,the destruction caused by,,Affirmative,The physical destruction is not less than the destruction caused by the war . 
+Lagumdzija,say.01,were,,Affirmative,"Lagumdzija said more than 100,000 houses and other buildings in Bosnia were no longer fit to use and that over a million people had been cut off from clean water supplies . "
+many people,lose.02,everything,,Affirmative,"During the war , many people lost everything , he said . "
+he,say.01,people lost everything,,Affirmative,"During the war , many people lost everything , he said . "
+they,have.03,nothing,,Affirmative,"Today , again they have nothing . "
+His remarks,throw.01,the extent of,into,Affirmative,His remarks threw into sharp relief the extent of the challenge now facing the cash - strapped governments of both Bosnia and Serbia . 
+the challenge,face.01,strapped governments of,,Affirmative,His remarks threw into sharp relief the extent of the challenge now facing the cash - strapped governments of both Bosnia and Serbia . 
+Minister Aleksandar Vucic,say.01,would run to hundreds of millions of euros,,Affirmative,Serbian Prime Minister Aleksandar Vucic said the cost in Serbia would run to hundreds of millions of euros . 
+President Tomislav Nikolic,appeal.02,for,,Affirmative,President Tomislav Nikolic appealed for outside aid . 
+We,expect.01,huge support,,Affirmative,"We expect huge support , because not many countries have experienced such a catastrophe , he said . "
+many countries,experience.01,such a catastrophe,,Affirmative,"We expect huge support , because not many countries have experienced such a catastrophe , he said . "
+he,say.01,We expect,,Affirmative,"We expect huge support , because not many countries have experienced such a catastrophe , he said . "
+Minister Samir Agic,tell.01,"people had been evacuated by helicopter , boat and truck",Reuters,Affirmative,"In Bosnia , Assistant Security Minister Samir Agic told Reuters that up to 35,000 people had been evacuated by helicopter , boat and truck . "
+"by helicopter , boat and truck",evacuate.01,"35,000 people",,Affirmative,"In Bosnia , Assistant Security Minister Samir Agic told Reuters that up to 35,000 people had been evacuated by helicopter , boat and truck . "
+"As many as 500,000",leave.02,their homes of,,Affirmative,"As many as 500,000 had left their homes of their own accord , he said , in the kind of human displacement not seen since more than a million were driven out by ethnic cleansing in the Bosnian war two decades ago . "
+he,say.01,"500,000 had left",,Affirmative,"As many as 500,000 had left their homes of their own accord , he said , in the kind of human displacement not seen since more than a million were driven out by ethnic cleansing in the Bosnian war two decades ago . "
+by,drive.02,more than a million,out,Affirmative,"As many as 500,000 had left their homes of their own accord , he said , in the kind of human displacement not seen since more than a million were driven out by ethnic cleansing in the Bosnian war two decades ago . "

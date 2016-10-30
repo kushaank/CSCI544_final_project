@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,arrest.01,a man,,Affirmative,"Police arrested a man on Saturday who is accused of robbing several Subway restaurants including locations in Pembroke Pines and Miramar , said the Miramar Police Department . "
+the Miramar Police Department,say.01,Police arrested,,Affirmative,"Police arrested a man on Saturday who is accused of robbing several Subway restaurants including locations in Pembroke Pines and Miramar , said the Miramar Police Department . "
+police,arrest.01,Turnbull,,Affirmative,"Miramar and Hialeah police arrested Turnbull at a North Miami Beach Subway restaurant , which he is accused of attempting to rob , said Miramar police spokeswoman Natasha Richardson . "
+Daitrium Turnbull,accuse.01,"Subway restaurant ,",of attempting to rob,Affirmative,"Miramar and Hialeah police arrested Turnbull at a North Miami Beach Subway restaurant , which he is accused of attempting to rob , said Miramar police spokeswoman Natasha Richardson . "
+Daitrium Turnbull,attempt.01,to rob,,Affirmative,"Miramar and Hialeah police arrested Turnbull at a North Miami Beach Subway restaurant , which he is accused of attempting to rob , said Miramar police spokeswoman Natasha Richardson . "
+spokeswoman Natasha Richardson,say.01,police arrested Turnbull at,,Affirmative,"Miramar and Hialeah police arrested Turnbull at a North Miami Beach Subway restaurant , which he is accused of attempting to rob , said Miramar police spokeswoman Natasha Richardson . "
+Miramar and Hialeah police,have.03,Turnbull,,Affirmative,"Miramar police had Turnbull under surveillance prior to his going to the Subway , Richardson said . "
+Miramar police spokeswoman Natasha Richardson,say.01,police had Turnbull under surveillance,,Affirmative,"Miramar police had Turnbull under surveillance prior to his going to the Subway , Richardson said . "
+Daitrium Turnbull,confess.01,to,,Affirmative,"In police custody , Turnbull confessed to 16 other Subway robberies , Richardson said . "
+Miramar police spokeswoman Natasha Richardson,say.01,", Turnbull confessed to",,Affirmative,"In police custody , Turnbull confessed to 16 other Subway robberies , Richardson said . "

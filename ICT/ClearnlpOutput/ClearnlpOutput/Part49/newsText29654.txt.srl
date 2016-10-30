@@ -1,0 +1,13 @@
+1	The	the	DT	_	3	det	_
+2	5th	#ord#	JJ	p2=NNP	3	amod	_
+3	Circuit	circuit	NNP	_	6	nsubj	6:A0
+4	on	on	IN	_	3	prep	_
+5	Monday	monday	NNP	_	4	pobj	_
+6	said	say	VBD	pb=say.01	0	root	_
+7	its	its	PRP$	_	9	poss	_
+8	March	march	NNP	_	9	nn	_
+9	ruling	ruling	NN	p2=VBG	11	nsubj	11:A1=PPT
+10	should	should	MD	_	11	aux	11:AM-MOD
+11	stand	stand	VB	pb=stand.01	6	ccomp	6:A1=PPT
+12	.	.	.	_	6	punct	_
+

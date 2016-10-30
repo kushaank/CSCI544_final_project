@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County police,investigate.01,a shooting at,,Affirmative,DeKalb County police this morning are investigating a shooting at an apartment complex near I - 20 that left two women dead . 
+an apartment complex near,leave.01,two women,dead,Affirmative,DeKalb County police this morning are investigating a shooting at an apartment complex near I - 20 that left two women dead . 
+DeKalb County police,say.01,"bodies were found outside ,",,Affirmative,"He said both bodies were found outside , very nearby one another . "
+Someone,report.01,that they heard shots,,Affirmative,"Someone is reporting that they heard shots sometime last night , but we were not notified until 6 a.m. when someone came out and observed one of the victims , Fore said . "
+another,hear.01,shots,,Affirmative,"Someone is reporting that they heard shots sometime last night , but we were not notified until 6 a.m. when someone came out and observed one of the victims , Fore said . "
+someone,observe.01,one of,,Affirmative,"Someone is reporting that they heard shots sometime last night , but we were not notified until 6 a.m. when someone came out and observed one of the victims , Fore said . "
+Fore,say.01,Someone is reporting,,Affirmative,"Someone is reporting that they heard shots sometime last night , but we were not notified until 6 a.m. when someone came out and observed one of the victims , Fore said . "
+DeKalb County police,say.01,detectives have not determined,,Affirmative,"He said detectives have not determined a motive for the shootings , and do not yet know the connection between the women or if either lived in the complex . "
+detectives,determine.01,a motive for,,Affirmative,"He said detectives have not determined a motive for the shootings , and do not yet know the connection between the women or if either lived in the complex . "
+detectives,know.01,the connection between,,Affirmative,"He said detectives have not determined a motive for the shootings , and do not yet know the connection between the women or if either lived in the complex . "
+local groups,need.01,volunteers in,,Affirmative,"Learn how to volunteer in Atlanta and north Georgia , browse volunteer events and search local groups who need volunteers in the arts , community , food programs , housing , animal rescue and more . "
+We,send.01,a confirmation email,you,Affirmative,We have sent you a confirmation email . 
+We,look.03,to seeing you frequently,,Affirmative,We look forward to seeing you frequently . 
+We,see.01,you,,Affirmative,We look forward to seeing you frequently . 
+We,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+We,send.01,an email with,you,Affirmative,We have sent you an email with a link to change your password . 
+We,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 
+We,send.01,an email,you,Affirmative,Fill out the form below and we 'll send you an email to verify . 

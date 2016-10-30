@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,have.03,trouble accessing,,Affirmative,"If you have trouble accessing our login form below , you can go to our login page . "
+you,access.01,our login form below,,Affirmative,"If you have trouble accessing our login form below , you can go to our login page . "
+you,have.03,trouble accessing,,Affirmative,"If you have trouble accessing our login form below , you can go to our login page . "
+you,access.01,our login form below,,Affirmative,"If you have trouble accessing our login form below , you can go to our login page . "
+Robbery,shoot.03,a ' horrible thing ',,Affirmative,"Robbery shooting a ' horrible thing ' A man shot dead after reportedly trying to rob a security guard outside a Gold Coast tavern was carrying a replica gun , police have confirmed . "
+A man shot dead after,try.01,to rob,,Affirmative,"Robbery shooting a ' horrible thing ' A man shot dead after reportedly trying to rob a security guard outside a Gold Coast tavern was carrying a replica gun , police have confirmed . "
+A man shot dead after,rob.01,a security guard,,Affirmative,"Robbery shooting a ' horrible thing ' A man shot dead after reportedly trying to rob a security guard outside a Gold Coast tavern was carrying a replica gun , police have confirmed . "
+A man shot dead after,carry.01,a replica gun,,Affirmative,"Robbery shooting a ' horrible thing ' A man shot dead after reportedly trying to rob a security guard outside a Gold Coast tavern was carrying a replica gun , police have confirmed . "
+a security guard,shoot.02,a former colleague of the security guard who shot him dead,,Affirmative,"According to reports , the man was also a former colleague of the security guard who shot him dead . "
+Security guard,drop.01,cash,,Affirmative,"A Border Security guard was dropping off cash to the Highland Park Tavern on Monday morning when he was attacked by the other man , who was wearing a motorcycle helmet and brandishing a replica 9 mm handgun gun . "
+by,attack.01,A Border Security guard,,Affirmative,"A Border Security guard was dropping off cash to the Highland Park Tavern on Monday morning when he was attacked by the other man , who was wearing a motorcycle helmet and brandishing a replica 9 mm handgun gun . "
+"the other man ,",wear.01,a motorcycle helmet,,Affirmative,"A Border Security guard was dropping off cash to the Highland Park Tavern on Monday morning when he was attacked by the other man , who was wearing a motorcycle helmet and brandishing a replica 9 mm handgun gun . "
+"the other man ,",brandish.01,mm handgun gun,,Affirmative,"A Border Security guard was dropping off cash to the Highland Park Tavern on Monday morning when he was attacked by the other man , who was wearing a motorcycle helmet and brandishing a replica 9 mm handgun gun . "
+A Border Security guard,manage.02,to shoot,,Affirmative,"The pair struggled before the guard managed to shoot the alleged bandit , a 46 - year - old Upper Coomera man who was reportedly a father of five . "
+A Border Security guard,shoot.03,"the alleged bandit ,",,Affirmative,"The pair struggled before the guard managed to shoot the alleged bandit , a 46 - year - old Upper Coomera man who was reportedly a father of five . "
+Police,continue.01,to investigate,,Affirmative,"Police will continue to investigate the incident on Tuesday , although charges are unlikely to be laid against the 47 - year - old guard who police say did not know his attacker 's weapon was n't genuine . "
+Police,investigate.01,the incident on Tuesday,,Affirmative,"Police will continue to investigate the incident on Tuesday , although charges are unlikely to be laid against the 47 - year - old guard who police say did not know his attacker 's weapon was n't genuine . "
+old guard,know.01,weapon was n't genuine,,Affirmative,"Police will continue to investigate the incident on Tuesday , although charges are unlikely to be laid against the 47 - year - old guard who police say did not know his attacker 's weapon was n't genuine . "
+Police,confirm.01,guard was licensed,,Affirmative,Police confirmed the guard was licensed to carry a gun . 
+A Border Security guard,carry.01,a gun,,Affirmative,Police confirmed the guard was licensed to carry a gun . 
+A Border Security guard,try.01,to help police piece together,,Affirmative,"The guard returned to the scene later on Monday dressed in a blue forensic suit , as he tried to help police piece together what happened . "
+A Border Security guard,help.01,police piece together,,Affirmative,"The guard returned to the scene later on Monday dressed in a blue forensic suit , as he tried to help police piece together what happened . "
+A Border Security guard,police.01,piece,,Affirmative,"The guard returned to the scene later on Monday dressed in a blue forensic suit , as he tried to help police piece together what happened . "
+by police,seize.01,A car parked near,,Affirmative,A car parked near the scene was later seized by police . 
+Investigators,try.01,to determine,,Affirmative,Investigators are trying to determine if it was a planned getaway vehicle belonging to the 46 - year - old . 
+Investigators,determine.01,vehicle belonging to,,Affirmative,Investigators are trying to determine if it was a planned getaway vehicle belonging to the 46 - year - old . 
+a planned getaway vehicle belonging to the 46-year-old,belong.01,to,,Affirmative,Investigators are trying to determine if it was a planned getaway vehicle belonging to the 46 - year - old . 
+Superintendent Dave Hutchinson,tell.01,guard is ],reporters,Affirmative,"Obviously [ the guard is ] quite distressed by the whole situation , Detective Superintendent Dave Hutchinson told reporters on Monday . "
+A Border Security guard,say.01,guard was attacked moments after getting out of,,Affirmative,He said the guard was attacked moments after getting out of his vehicle . 
+the offender,sustain.02,a number of,,Affirmative,"As a consequence of that struggle , the offender sustained a number of gunshot wounds , Det Supt Hutchinson said . "
+Det Supt Hutchinson,say.01,offender sustained,,Affirmative,"As a consequence of that struggle , the offender sustained a number of gunshot wounds , Det Supt Hutchinson said . "
+The stars of television,splash.01,the red carpet,with,Affirmative,The stars of television splashed the red carpet with colourful outfits as they headed into the 66th annual Emmy Awards . 
+reporters,head.02,into,,Affirmative,The stars of television splashed the red carpet with colourful outfits as they headed into the 66th annual Emmy Awards . 

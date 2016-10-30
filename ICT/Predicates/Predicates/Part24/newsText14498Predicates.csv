@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Sharjah Police,arrest.01,an Ethiopian maid,for,Affirmative,"Sharjah Police has arrested an Ethiopian maid for allegedly stealing Dh275,000 from her employers and fleeing the place . "
+Sharjah Police,steal.01,"Dh275,000",from,Affirmative,"Sharjah Police has arrested an Ethiopian maid for allegedly stealing Dh275,000 from her employers and fleeing the place . "
+Sharjah Police,flee.01,the place,,Affirmative,"Sharjah Police has arrested an Ethiopian maid for allegedly stealing Dh275,000 from her employers and fleeing the place . "
+Initial investigation,reveal.01,she committed,,Affirmative,Initial investigation reveals she committed the crime with the help of another maid and a man of the same nationality from the house of an Iraqi family where she works . 
+Sharjah Police,commit.02,the crime,,Affirmative,Initial investigation reveals she committed the crime with the help of another maid and a man of the same nationality from the house of an Iraqi family where she works . 
+the Iraqi man 's,file.01,a complaint  stating,,Affirmative,"He filed a complaint  stating that Dh275,000 and three mobile phones were stolen from his house in Sharjah . "
+a complaint  stating,state.01,were stolen from,,Affirmative,"He filed a complaint  stating that Dh275,000 and three mobile phones were stolen from his house in Sharjah . "
+by,informed .01,The CID team,,Affirmative,The CID team was informed  by the owner that his family had trusted the maid and she knew where they kept money and valuables . 
+an Iraqi family,trust.02,another maid,,Affirmative,The CID team was informed  by the owner that his family had trusted the maid and she knew where they kept money and valuables . 
+an Iraqi family,know.01,where they kept money and valuables,,Affirmative,The CID team was informed  by the owner that his family had trusted the maid and she knew where they kept money and valuables . 
+"Dh275 ,000 and three mobile phones",keep.02,money and valuables,,Affirmative,The CID team was informed  by the owner that his family had trusted the maid and she knew where they kept money and valuables . 
+"Dh275 ,000 and three mobile phones",learn.01,she had stolen,,Affirmative,They were shocked to learn she had stolen the money and ran away . 
+an Iraqi family,steal.01,money and valuables,,Affirmative,They were shocked to learn she had stolen the money and ran away . 
+an Iraqi family,deny.01,the accusation,,Affirmative,Upon arrest she denied the accusation . 
+the CID,question.01,time maid,,Affirmative,"Meanwhile , the CID also questioned another part - time maid who worked at the house , who confessed to the crime . "
+"the house ,",confess.01,to,,Affirmative,"Meanwhile , the CID also questioned another part - time maid who worked at the house , who confessed to the crime . "
+The second maid,say.01,they took revenge on,,Affirmative,The second maid said they took revenge on the Iraqi man 's wife because she picked up fights with them . 
+"Dh275 ,000 and three mobile phones",take.01,revenge,on,Affirmative,The second maid said they took revenge on the Iraqi man 's wife because she picked up fights with them . 
+the Iraqi man 's wife,pick.04,fights with them,,Affirmative,The second maid said they took revenge on the Iraqi man 's wife because she picked up fights with them . 
+Sharjah Police,confiscate.01,"Dh20,000 and",from,Affirmative,"Police confiscated Dh20,000 and two mobile phones from the second maid . "
+Sharjah Police,tell.01,that she had handed over,police,Affirmative,She also told police that she had handed over the rest of the cash to a man who would help them sent the money to their home country . 
+Sharjah Police,hand.02,the rest of,to,Affirmative,She also told police that she had handed over the rest of the cash to a man who would help them sent the money to their home country . 
+a man,help.01,them sent,,Affirmative,She also told police that she had handed over the rest of the cash to a man who would help them sent the money to their home country . 
+"Dh20 ,000 and two mobile phones",send.01,money and valuables,to,Affirmative,She also told police that she had handed over the rest of the cash to a man who would help them sent the money to their home country . 
+The man -- the third suspect --,deny.01,knowledge of,,Affirmative,He denied knowledge of the crime the maids have committed . 
+the maids,commit.01,the crime,,Affirmative,He denied knowledge of the crime the maids have committed . 
+The man -- the third suspect --,hand.02,the stolen money,,Affirmative,He handed over the stolen money and said that he only knew one of the maids because he  used to transport her to various locations in Sharjah and she used to pay him . 
+The man -- the third suspect --,say.01,that he only knew one of,,Affirmative,He handed over the stolen money and said that he only knew one of the maids because he  used to transport her to various locations in Sharjah and she used to pay him . 
+The man -- the third suspect --,know.01,one of,,Affirmative,He handed over the stolen money and said that he only knew one of the maids because he  used to transport her to various locations in Sharjah and she used to pay him . 
+he ,transport.01,Sharjah Police,to,Affirmative,He handed over the stolen money and said that he only knew one of the maids because he  used to transport her to various locations in Sharjah and she used to pay him . 

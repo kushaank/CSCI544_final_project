@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A San Francisco-based firm,plan.01,to build,,Affirmative,"A San Francisco-based firm plans to build Texas ' largest single solar facility , which would help power Austin . "
+A San Francisco-based firm,build.01,"largest single solar facility ,",,Affirmative,"A San Francisco-based firm plans to build Texas ' largest single solar facility , which would help power Austin . "
+"largest single solar facility ,",help.01,power Austin,,Affirmative,"A San Francisco-based firm plans to build Texas ' largest single solar facility , which would help power Austin . "
+"largest single solar facility ,",power.01,"Austin , that currently",,Affirmative,"A San Francisco-based firm plans to build Texas ' largest single solar facility , which would help power Austin . "
+Recurrent Energy,sign.02,year deal with,,Affirmative,"Recurrent Energy has signed a 20 - year deal with Austin Energy , the municipally owned power provider , to build a 150 - megawatt solar farm in West Texas , the companies announced Thursday . "
+Recurrent,expect.01,to complete,,Affirmative,"Recurrent expects to complete the farm by 2016 , sending the electricity over transmission lines that connect West Texas and Austin . "
+Recurrent,complete.01,a 150-megawatt solar farm,,Affirmative,"Recurrent expects to complete the farm by 2016 , sending the electricity over transmission lines that connect West Texas and Austin . "
+Recurrent,send.01,the electricity over,,Affirmative,"Recurrent expects to complete the farm by 2016 , sending the electricity over transmission lines that connect West Texas and Austin . "
+transmission lines,connect.01,West Texas and Austin,,Affirmative,"Recurrent expects to complete the farm by 2016 , sending the electricity over transmission lines that connect West Texas and Austin . "
+The parties,decline.02,to discuss,,Affirmative,"The parties declined to discuss other details , such as where the facility will sit or how much it will cost . "
+The parties,discuss.01,"other details ,",,Affirmative,"The parties declined to discuss other details , such as where the facility will sit or how much it will cost . "
+"Austin , that currently",consider.02,"million contract with SunEdison ,",,Affirmative,"Austin had been considering a 25 - year , $ 525 million contract with SunEdison , which was thought to be one of the world 's cheapest solar deals , the Austin-American-Statesman reported in March . "
+the Austin-American-Statesman,report.01,Austin had been considering,,Affirmative,"Austin had been considering a 25 - year , $ 525 million contract with SunEdison , which was thought to be one of the world 's cheapest solar deals , the Austin-American-Statesman reported in March . "
+Austin Energy,say.01,proposal provided,,Affirmative,Austin Energy said the Recurrent proposal provided the best deal for the city . 
+the Recurrent proposal,provided.01,the best deal for,,Affirmative,Austin Energy said the Recurrent proposal provided the best deal for the city . 
+a megawatt of,cool.01,100 Texas homes,,Affirmative,"On average , a megawatt of solar energy can heat and cool as many as 100 Texas homes on the hottest summer days . "
+a megawatt of solar energy,power.01,times more,,Affirmative,"During average temperatures , it can power many times more . "
+"Texas , with its long-stretching boundaries and intense solar radiation",lead.02,the nation,,Affirmative,"Texas , with its long - stretching boundaries and intense solar radiation , leads the nation by far in solar energy potential . "
+the industry,struggle.02,to get,,Affirmative,"But the industry has long struggled to get a foothold in the state , as policymakers have provided fewer incentives than other states . "
+the industry,get.01,a foothold in,,Affirmative,"But the industry has long struggled to get a foothold in the state , as policymakers have provided fewer incentives than other states . "
+policymakers,provided.01,fewer incentives than,,Affirmative,"But the industry has long struggled to get a foothold in the state , as policymakers have provided fewer incentives than other states . "
+ Solar energy,make.07,a tiny fraction of,,Affirmative, Solar energy currently makes up a tiny fraction of Texas ' energy portfolio . 
+others,learn.01,a lot about,,Affirmative,"We have learned a lot about how to incorporate renewable power into our overall portfolio , said Larry Weis , general manager of Austin Energy . "
+CPS Energy in,plan.01,a multiplant project,,Affirmative,"Though Recurrent Energy 's project would be the largest single solar facility in Texas , CPS Energy in San Antonio is planning a multiplant project that would dwarf it in total capacity . "
+a multiplant project,dwarf.01,"Texas ' largest single solar facility , which would help power Austin",,Affirmative,"Though Recurrent Energy 's project would be the largest single solar facility in Texas , CPS Energy in San Antonio is planning a multiplant project that would dwarf it in total capacity . "
+"The Alamo Project , expected",deliver.01,400 megawatts of,to,Affirmative,"The Alamo Project , expected to be completed in 2016 , would deliver 400 megawatts of solar power to the San Antonio area . "
+The utility,energize.01,megawatt plant,,Affirmative,The utility has already energized a 41 - megawatt plant that is part of the project . 
+by,report released.01,"Austin , that currently",,Affirmative,"San Antonio ranks sixth among U.S. cities in installed solar capacity , and Austin ranks 16th , according to a  report released last month by the advocacy group Environment Texas . "
+Software Copyright,©.01,2014 Radiate Media,,Affirmative,Software Copyright © 2014 Radiate Media . 
+by Localeze,provided.01,listing data provided in part,,Affirmative,Business listing data provided in part by Localeze . 

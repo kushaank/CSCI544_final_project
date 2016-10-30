@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,think.01,you 'd get,,Affirmative,You thought you 'd get a new phone with the new job ? 
+you,get.01,a new phone,,Affirmative,You thought you 'd get a new phone with the new job ? 
+Google,bring.01,owned phones,,Affirmative,Google is preparing to bring unruly employee - owned phones under corporate dominion through the acquisition of a company that makes mobile device management tech . 
+a company,make.01,device management tech,,Affirmative,Google is preparing to bring unruly employee - owned phones under corporate dominion through the acquisition of a company that makes mobile device management tech . 
+startup Divide,write.01,that it had been acquired by,,Affirmative,The enterprise smartphone startup Divide wrote on Monday that it had been acquired by the ad - slinger for an undisclosed sum . 
+by,acquire.01,it,,Affirmative,The enterprise smartphone startup Divide wrote on Monday that it had been acquired by the ad - slinger for an undisclosed sum . 
+We,announce.01,Divide is joining Google,,Affirmative,We 're thrilled to announce that Divide is joining Google ! 
+that Divide,join.01,Google,,Affirmative,We 're thrilled to announce that Divide is joining Google ! 
+we,continue.01,developing solutions,,Affirmative,"As part of the Android team , we 're excited to continue developing solutions that our users love , the company wrote . "
+our users,love.01,solutions,,Affirmative,"As part of the Android team , we 're excited to continue developing solutions that our users love , the company wrote . "
+the company,write.01,", we 're excited",,Affirmative,"As part of the Android team , we 're excited to continue developing solutions that our users love , the company wrote . "
+Divide,make.01,tools,,Affirmative,"Divide makes tools that let people keep personal and business data separate on handsets , along with associated management software for businesses . "
+tools,let.01,people keep,,Affirmative,"Divide makes tools that let people keep personal and business data separate on handsets , along with associated management software for businesses . "
+people,keep.02,business data,,Affirmative,"Divide makes tools that let people keep personal and business data separate on handsets , along with associated management software for businesses . "
+This,mean.01,company can skip on buying,,Affirmative,This means a company can skip on buying its employees mobile phones and have them cordon off a part of their personal device for its own buttoned - down purposes . 
+a company,skip.01,on buying,,Affirmative,This means a company can skip on buying its employees mobile phones and have them cordon off a part of their personal device for its own buttoned - down purposes . 
+a company,buy.01,mobile phones,,Affirmative,This means a company can skip on buying its employees mobile phones and have them cordon off a part of their personal device for its own buttoned - down purposes . 
+a company,have.04,them cordon off,,Affirmative,This means a company can skip on buying its employees mobile phones and have them cordon off a part of their personal device for its own buttoned - down purposes . 
+them,cordon.01,a part of,,Affirmative,This means a company can skip on buying its employees mobile phones and have them cordon off a part of their personal device for its own buttoned - down purposes . 
+Divide,employ.02,bit encryption,to protect against,Affirmative,"Divide employs FIPs 140-2 validated , 256 - bit encryption to protect against unauthorized access and prevent data leaks , the company said . "
+the company,say.01,Divide employs,,Affirmative,"Divide employs FIPs 140-2 validated , 256 - bit encryption to protect against unauthorized access and prevent data leaks , the company said . "
+the company,write.01,data is obfuscated in memory,,Affirmative,"When Divide is running , all sensitive data is obfuscated in memory to prevent memory scan attacks on a compromised device , the company wrote in a more detailed FAQ ( registration required ) . "
+the company,say.01,are secured via,,Affirmative,"Emails sent via Divide are secured via S / MIME ( Secure / Multipurpose Internet Mail Extensions ) , the company said . "
+The company,offer.01,Workspace option,,Affirmative,"The company currently offers a free Divide Workspace option which separates business and personal areas of the phone , and a paid - for MyDivide option which has enterprise features like IT policy enforcement , remote management , a role - based admin console , and more . "
+Workspace option,separate.01,personal areas of,,Affirmative,"The company currently offers a free Divide Workspace option which separates business and personal areas of the phone , and a paid - for MyDivide option which has enterprise features like IT policy enforcement , remote management , a role - based admin console , and more . "
+for MyDivide option,have.03,enterprise features like,,Affirmative,"The company currently offers a free Divide Workspace option which separates business and personal areas of the phone , and a paid - for MyDivide option which has enterprise features like IT policy enforcement , remote management , a role - based admin console , and more . "
+Divide,make.01,tools for iOS and Android,,Affirmative,"Divide makes tools for iOS and Android , so Google 's hot - and - cold relationships with Apple could cause some trouble here . "
+relationships with Apple,cause.01,some trouble,,Affirmative,"Divide makes tools for iOS and Android , so Google 's hot - and - cold relationships with Apple could cause some trouble here . "
+It,have.03,"technology parter relationships with companies including Box , Broadsoft , F5 , IBM , and MobileIron",,Affirmative,"It has technology parter relationships with companies including Box , Broadsoft , F5 , IBM , and MobileIron . "
+iOS,have.03,"channel relationships with Bell , Dell , IBM ,",,Affirmative,"It also has channel relationships with Bell , Dell , IBM , NTT Data , Tangoe , Trianz , Verizon , and Vodafone , among others . "

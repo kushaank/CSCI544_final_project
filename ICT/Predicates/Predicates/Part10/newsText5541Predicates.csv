@@ -1,0 +1,75 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Villagers,resort.01,to,,Affirmative,Villagers often resort to folk medicine . 
+Some,regret.01,Some,,Affirmative,"Some live to regret it , others don't . "
+others,don't.01,Some live,,Affirmative,"Some live to regret it , others don't . "
+"Hajji Jarnail , 60 ,",decide.01,to turn to,,Affirmative,"When Hajji Jarnail , 60 , decided to turn to traditional methods to cure a long - term illness , his health took a turn for the worse . "
+his health,take.LV,a turn for,,Affirmative,"When Hajji Jarnail , 60 , decided to turn to traditional methods to cure a long - term illness , his health took a turn for the worse . "
+an elderly friend,advise.01,an elderly friend,to cover himself in,Affirmative,"Conventional medical treatment had failed to help , so an elderly friend advised him to cover himself in the skin of a freshly - slaughtered cow . "
+an elderly friend,cover.02,an elderly friend,in,Affirmative,"Conventional medical treatment had failed to help , so an elderly friend advised him to cover himself in the skin of a freshly - slaughtered cow . "
+an elderly friend,find.01,"himself covered in spots ,",,Affirmative,"Soon he found himself covered in spots , which he says nearly killed him , and he had to seek help from a qualified physician . "
+an elderly friend,say.01,nearly killed him,,Affirmative,"Soon he found himself covered in spots , which he says nearly killed him , and he had to seek help from a qualified physician . "
+an elderly friend,seek.01,help from,,Affirmative,"Soon he found himself covered in spots , which he says nearly killed him , and he had to seek help from a qualified physician . "
+the skin specialist,treat.03,Hajji Jarnail,,Affirmative,"Dr Jalal Faiz , the skin specialist currently treating Jarnail , said the animal - hide cure was highly dangerous . "
+"Dr Jalal Faiz ,",say.01,cure was,,Affirmative,"Dr Jalal Faiz , the skin specialist currently treating Jarnail , said the animal - hide cure was highly dangerous . "
+Dr Jalal Faiz,say.01,he had seen,,Affirmative,Dr Faiz said he had seen many patients suffering serious side-effects after trying this old - fashioned remedy . 
+Dr Jalal Faiz,see.01,patients suffering,,Affirmative,Dr Faiz said he had seen many patients suffering serious side-effects after trying this old - fashioned remedy . 
+many patients,suffer.01,serious side-effects,,Affirmative,Dr Faiz said he had seen many patients suffering serious side-effects after trying this old - fashioned remedy . 
+many patients,try.01,fashioned remedy,,Affirmative,Dr Faiz said he had seen many patients suffering serious side-effects after trying this old - fashioned remedy . 
+people 's,have.03,no access to,,Affirmative,"Despite some modern medical facilities available in Afghanistan , traditional treatments are still widespread in more remote districts , and in villages where people have no access to health centres . "
+traditional methods,do.02,little,,Affirmative,"However , not only do these methods usually do little to help , they often make things worse , and can even lead to the patient 's death . "
+people 's,make.02,things worse,,Affirmative,"However , not only do these methods usually do little to help , they often make things worse , and can even lead to the patient 's death . "
+barbers,perform.01,services,to,Affirmative,"In remote villages , barbers still perform services from circumcisions to tooth extractions , and people visit traditional bonesetters if they break or dislocate a limb . "
+people 's,visit.01,traditional bonesetters,,Affirmative,"In remote villages , barbers still perform services from circumcisions to tooth extractions , and people visit traditional bonesetters if they break or dislocate a limb . "
+people 's,dislocate.01,a limb,,Affirmative,"In remote villages , barbers still perform services from circumcisions to tooth extractions , and people visit traditional bonesetters if they break or dislocate a limb . "
+people 's,believe.01,illnesses can be treated by wrapping,,Affirmative,"People also believe that certain childhood illnesses can be treated by wrapping the sufferer in the stomach of a sheep , goat or calf . "
+certain childhood illnesses,wrap.01,the sufferer,in,Affirmative,"People also believe that certain childhood illnesses can be treated by wrapping the sufferer in the stomach of a sheep , goat or calf . "
+the organ,remove.01,bad blood,from,Affirmative,The belief is that the organ removes bad blood from the child . 
+rabbit blood,help.01,respiratory problems,,Affirmative,"Other treatments include using rabbit blood to help respiratory problems , wearing amulets , and consuming herbs . "
+"Alef Jana ,",say.01,she has treated,,Affirmative,"Alef Jana , a healer in the village of Motun , says she has treated sick children many times by wrapping them in the cleaned - out stomach of a freshly - slaughtered goat . "
+Alef Jana,treat.01,sick children,,Affirmative,"Alef Jana , a healer in the village of Motun , says she has treated sick children many times by wrapping them in the cleaned - out stomach of a freshly - slaughtered goat . "
+Alef Jana,wrap.01,sick children,in,Affirmative,"Alef Jana , a healer in the village of Motun , says she has treated sick children many times by wrapping them in the cleaned - out stomach of a freshly - slaughtered goat . "
+Alef Jana,explain.01,exactly this helped,,Affirmative,"While she could not explain how exactly this helped , she insisted it was beneficial . "
+Alef Jana,insist.01,it was beneficial,,Affirmative,"While she could not explain how exactly this helped , she insisted it was beneficial . "
+sick children,do.02,this,,Affirmative,We used to do this and God would heal them . 
+God,heal.01,many doctors,,Affirmative,We used to do this and God would heal them . 
+people 's,believe.01,in,,Affirmative,"Nowadays , people 's beliefs have been damaged and they do n't believe in most things , she said . "
+Alef Jana,say.01,beliefs have been damaged and,,Affirmative,"Nowadays , people 's beliefs have been damaged and they do n't believe in most things , she said . "
+Alef Jana,describe.01,"other remedies ,",,Affirmative,"Jana described other remedies , such as the cure for a baby suffering from diarrhoea . "
+a baby,suffer.01,from diarrhoea,,Affirmative,"Jana described other remedies , such as the cure for a baby suffering from diarrhoea . "
+Children suffering from pneumonia,suffer.01,from pneumonia,,Affirmative,"Children suffering from pneumonia , she said , needed to be treated by having a warm mixture of salt fried in cooking oil rubbed on their chest and covered in plastic . "
+the baby 's,say.01,needed,,Affirmative,"Children suffering from pneumonia , she said , needed to be treated by having a warm mixture of salt fried in cooking oil rubbed on their chest and covered in plastic . "
+Children suffering from pneumonia,need.01,to be treated by having,,Affirmative,"Children suffering from pneumonia , she said , needed to be treated by having a warm mixture of salt fried in cooking oil rubbed on their chest and covered in plastic . "
+Children suffering from pneumonia,have.03,a warm mixture of salt,,Affirmative,"Children suffering from pneumonia , she said , needed to be treated by having a warm mixture of salt fried in cooking oil rubbed on their chest and covered in plastic . "
+Children suffering from pneumonia,bring.01,children,me,Affirmative,"They bring me children who have been taken to the doctors several times but have n't been healed , she added . "
+the baby 's,add.01,They bring me children,,Affirmative,"They bring me children who have been taken to the doctors several times but have n't been healed , she added . "
+"Dr Badshah Zar Abdali ,",say.01,"treatments were simply wrong , with",,Affirmative,"Dr Badshah Zar Abdali , a lecturer in medicine at the Sheikh Zayed university in Khost , said such traditional treatments were simply wrong , with no scientific basis . "
+by bonesetters,treat.03,Broken bones and,,Affirmative,Broken bones and dislocated joints are treated by bonesetters whose craft has been handed down through the generations . 
+bonesetters whose craft has been handed down through the generations,have.03,no scientific knowledge of anatomy,,Affirmative,"However , they usually have no scientific knowledge of anatomy . "
+Khiali Khan,say.01,he knew,,Affirmative,"He said he knew how to pull and set broken and dislocated limbs , and insisted he did a better job than trained doctors . "
+Khiali Khan,know.01,how to pull and set,,Affirmative,"He said he knew how to pull and set broken and dislocated limbs , and insisted he did a better job than trained doctors . "
+Khiali Khan,set.01,dislocated limbs,,Affirmative,"He said he knew how to pull and set broken and dislocated limbs , and insisted he did a better job than trained doctors . "
+Khiali Khan,insist.01,he did,,Affirmative,"He said he knew how to pull and set broken and dislocated limbs , and insisted he did a better job than trained doctors . "
+Khiali Khan,do.02,a better job than,,Affirmative,"He said he knew how to pull and set broken and dislocated limbs , and insisted he did a better job than trained doctors . "
+trained doctors,amputate.01,the hospital,,Affirmative,"When you go to the doctor in the hospital with a broken arm or leg , they immediately amputate it , whereas we treat them . "
+bonesetters whose craft has been handed down through the generations,treat.01,trained doctors,,Affirmative,"When you go to the doctor in the hospital with a broken arm or leg , they immediately amputate it , whereas we treat them . "
+a science,harm.01,people 's,,Affirmative,What should people do with a science that harms them ? 
+Dr Badshah Zar Abdali,say.01,measures were sometimes needed,,Affirmative,Dr Abdali said that extreme measures were sometimes needed to repair damage done by traditional bonesetters . 
+extreme measures,repair.01,damage done by,,Affirmative,Dr Abdali said that extreme measures were sometimes needed to repair damage done by traditional bonesetters . 
+by,do.02,damage done by,,Affirmative,Dr Abdali said that extreme measures were sometimes needed to repair damage done by traditional bonesetters . 
+Dr Badshah Zar Abdali,add.01,people came to,,Affirmative,"Two or three people came to his private clinic each week with badly - set broken bones , he added . "
+complementary medicine,form.02,an accepted part of,,Affirmative,"Although complementary medicine is common across the world , and forms an accepted part of the treatment of disease , in Afghanistan it has not been codified and there is no academic centre for its study . "
+"Maulavi Mohammad Ibrahim ,",say.01,he could treat,,Affirmative,"Maulavi Mohammad Ibrahim , a traditional doctor in Khost , said he could treat all illnesses short of performing surgery . "
+Maulavi Mohammad Ibrahim,treat.01,all illnesses,short of performing surgery,Affirmative,"Maulavi Mohammad Ibrahim , a traditional doctor in Khost , said he could treat all illnesses short of performing surgery . "
+Maulavi Mohammad Ibrahim,perform.01,surgery,,Affirmative,"Maulavi Mohammad Ibrahim , a traditional doctor in Khost , said he could treat all illnesses short of performing surgery . "
+Maulavi Mohammad Ibrahim,add.01,patients were happy with,,Affirmative,He added that his patients were happy with their treatment . 
+a resident of,suffer.01,from rheumatism,,Affirmative,"Din Wadir Shah , a resident of central Khost who suffers from rheumatism , said that someone had suggested he try a traditional cure for his complaint . "
+"Din Wadir Shah ,",say.01,that someone had suggested,,Affirmative,"Din Wadir Shah , a resident of central Khost who suffers from rheumatism , said that someone had suggested he try a traditional cure for his complaint . "
+someone,suggest.01,he try,,Affirmative,"Din Wadir Shah , a resident of central Khost who suffers from rheumatism , said that someone had suggested he try a traditional cure for his complaint . "
+Din Wadir Shah,try.01,a traditional cure,,Affirmative,"Din Wadir Shah , a resident of central Khost who suffers from rheumatism , said that someone had suggested he try a traditional cure for his complaint . "
+"Dr Hedayatollah Hamidi ,",say.01,department had carried out,,Affirmative,"Dr Hedayatollah Hamidi , the acting director of public health in Khost , said his department had carried out numerous public awareness campaigns about folk medicine and traditional doctors . "
+his department,carry.03,awareness campaigns about,,Affirmative,"Dr Hedayatollah Hamidi , the acting director of public health in Khost , said his department had carried out numerous public awareness campaigns about folk medicine and traditional doctors . "
+traditional doctors,arrest.01,styled doctors and,,Affirmative,"We have arrested many self - styled doctors and medicine sellers , he said , adding that serious violations still took place in Khost . "
+Hedayatollah Hamidi,say.01,We have arrested,,Affirmative,"We have arrested many self - styled doctors and medicine sellers , he said , adding that serious violations still took place in Khost . "
+Hedayatollah Hamidi,add.01,violations still took place in Khost,,Affirmative,"We have arrested many self - styled doctors and medicine sellers , he said , adding that serious violations still took place in Khost . "
+by,illustrate.01,to support from Gettyimages,,Affirmative,IWPR 's journalism illustrated by stunning photography thanks to support from Gettyimages . 
+© Institute for War & Peace,report.01,The opinions expressed in,,Affirmative,© Institute for War & Peace Reporting The opinions expressed in IWPR Online are those of the authors and do not necessarily represent those of the Institute for War & Peace Reporting . 

@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A hypothetical analysis,predict.01,"trouble for Sears , one of",,Affirmative,"A hypothetical analysis could predict trouble for Sears , one of America 's oldest retailers . "
+Sears,call.01,the Cowen Group 's,quits,Affirmative,"According to the Cowen Group 's John Kernan , Sears could be close to calling it quits . "
+by,cover.01,This story,in detail,Affirmative,This story is covered in detail by the  New York Times . 
+"Other news outlets ,",publish.01,stories citing,,Affirmative,"Other news outlets , such as CNN , have published stories citing similar trends and analysis , like  Sears : ' Burning cash , ' closing stores . "
+stories citing,cite.01,similar trends and analysis,,Affirmative,"Other news outlets , such as CNN , have published stories citing similar trends and analysis , like  Sears : ' Burning cash , ' closing stores . "
+closing stores,burn.01,cash,,Affirmative,"Other news outlets , such as CNN , have published stories citing similar trends and analysis , like  Sears : ' Burning cash , ' closing stores . "
+by CNN,cite.01,John Kernan,,Affirmative,"Kernan has been cited by CNN , saying They have too many stores and they 're losing a lot of money , burning cash . "
+John Kernan,say.01,They have,,Affirmative,"Kernan has been cited by CNN , saying They have too many stores and they 're losing a lot of money , burning cash . "
+They,have.03,many stores,,Affirmative,"Kernan has been cited by CNN , saying They have too many stores and they 're losing a lot of money , burning cash . "
+They,lose.03,a lot of money,,Affirmative,"Kernan has been cited by CNN , saying They have too many stores and they 're losing a lot of money , burning cash . "
+They,burn.01,cash,,Affirmative,"Kernan has been cited by CNN , saying They have too many stores and they 're losing a lot of money , burning cash . "
+John Kernan,continue.01,They 're basically,,Affirmative,He continued They 're basically completely irrelevant . 
+`` Sears,have.03,a number of competitors,,Affirmative,"Today , Sears has a number of competitors , from Home Depot and Wal - Mart , to Target and Amazon . "
+"Brian Sozzi , CEO of Belus Capital Advisors",say.01,that he expects,to CNN,Affirmative,"Another contributing analyst to CNN , Brian Sozzi , CEO of Belus Capital Advisors , said to CNN that he expects that there will be more Sears closings without any formal announcement . "
+"Brian Sozzi , CEO of Belus Capital Advisors",expect.01,that there will be,,Affirmative,"Another contributing analyst to CNN , Brian Sozzi , CEO of Belus Capital Advisors , said to CNN that he expects that there will be more Sears closings without any formal announcement . "
+we,use.01,media monitoring platform,,Affirmative,"Using the Critical Mention media monitoring platform , we were able to uncover several mentions from local news outlets covering the closing of individual stores . "
+we,uncover.01,several mentions from,,Affirmative,"Using the Critical Mention media monitoring platform , we were able to uncover several mentions from local news outlets covering the closing of individual stores . "
+local news outlets covering,cover.03,the closing of,,Affirmative,"Using the Critical Mention media monitoring platform , we were able to uncover several mentions from local news outlets covering the closing of individual stores . "
+we,feature.01,the thought leadership of,,Affirmative,"Every day we feature the thought leadership of our open community of bloggers and aim to provide a balanced view of the business landscape based on industry news , trends and real - life experiences . "
+we,aim.01,to provide,,Affirmative,"Every day we feature the thought leadership of our open community of bloggers and aim to provide a balanced view of the business landscape based on industry news , trends and real - life experiences . "
+we,provide.01,a balanced view of,,Affirmative,"Every day we feature the thought leadership of our open community of bloggers and aim to provide a balanced view of the business landscape based on industry news , trends and real - life experiences . "

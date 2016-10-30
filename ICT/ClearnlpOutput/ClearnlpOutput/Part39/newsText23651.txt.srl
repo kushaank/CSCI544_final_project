@@ -1,0 +1,120 @@
+1	Russian	russian	JJ	_	2	amod	_
+2	President	president	NNP	_	4	nn	_
+3	Vladimir	vladimir	NNP	_	4	nn	_
+4	Putin	putin	NNP	_	6	nsubj	6:A0=PAG;8:A0=PAG
+5	has	have	VBZ	_	6	aux	_
+6	pledged	pledge	VBN	pb=pledge.01	0	root	_
+7	to	to	TO	_	8	aux	_
+8	defend	defend	VB	pb=defend.01	6	xcomp	6:A2=PPT
+9	ethnic	ethnic	JJ	_	10	amod	_
+10	Russians	russian	NNPS	p2=NNS	8	dobj	8:A1=PPT
+11	wherever	wherever	WRB	_	13	advmod	13:R-AM-LOC
+12	they	they	PRP	_	13	nsubj	13:A0=PAG
+13	live	live	VBP	pb=live.01	8	advcl	_
+14	.	.	.	_	6	punct	_
+
+1	He	he	PRP	_	4	nsubj	4:A0=PAG
+2	has	have	VBZ	_	4	aux	_
+3	subsequently	subsequently	RB	_	4	advmod	4:AM-TMP
+4	embarked	embark	VBN	pb=embark.01	0	root	_
+5	on	on	IN	_	4	prep	4:A1=PPT
+6	an	an	DT	_	7	det	_
+7	aggressive drive to	aggressive drive to	NN	p2=NNP	5	pobj	_
+8	rebuild	rebuild	VB	p2=VBP|pb=rebuild.01	7	partmod	_
+9	Russian	russian	JJ	_	10	amod	_
+10	pride	pride	NN	_	8	dobj	8:A1=PRD
+11	and	and	CC	_	10	cc	_
+12	assertiveness	assertiveness	NN	_	10	conj	_
+13	,	,	,	_	7	punct	_
+14	which	which	WDT	_	18	nsubjpass	18:R-A1
+15	he	he	PRP	_	16	nsubj	16:A0
+16	says	say	VBZ	pb=say.01	7	rcmod	_
+17	was	be	VBD	_	18	auxpass	_
+18	lost	lose	VBN	pb=lose.02	16	ccomp	16:A1=PPT
+19	in	in	IN	_	18	prep	18:AM-LOC
+20	the	the	DT	_	21	det	_
+21	collapse of	collapse of	NNP	p2=NN	19	pobj	_
+22	the	the	DT	_	24	det	_
+23	Soviet	soviet	NNP	_	24	nn	_
+24	Union	union	NNP	_	21	appos	_
+25	.	.	.	_	4	punct	_
+
+1	One week	one week	NNP	p2=RB	20	npadvmod	_
+2	ahead	ahead	RB	_	1	advmod	_
+3	of	of	IN	_	2	prep	_
+4	the presidential	the presidential	NNP	p2=JJ	6	nn	_
+5	election in	election in	NNP	p2=NN	6	nn	_
+6	Ukraine	ukraine	NNP	_	3	pobj	9:A0=PAG
+7	that	that	WDT	p2=IN	9	nsubj	9:R-A0
+8	should help	should help	MD	p2=VBD	9	aux	9:AM-MOD
+9	determine	determine	VB	pb=determine.01	6	rcmod	_
+10	the	the	DT	_	11	det	_
+11	county	county	NN	_	13	poss	_
+12	's	's	POS	p2=VBZ	11	possessive	_
+13	future relationship	future relationship	NN	p2=JJ	9	dobj	9:A1=PPT
+14	with	with	IN	_	13	prep	_
+15	Russia	russia	NNP	_	14	pobj	_
+16	,	,	,	_	20	punct	_
+17	Putin	putin	NNP	_	20	nsubj	20:A0=PAG;22:A0=PAG
+18	has	have	VBZ	_	20	aux	_
+19	been	be	VBN	_	20	aux	_
+20	seeking	seek	VBG	pb=seek.01	0	root	_
+21	to	to	TO	p2=IN	22	aux	_
+22	redress	redress	VB	pb=redress.01	20	xcomp	20:A1=PPT
+23	what	what	WP	_	26	dobj	26:R-A1
+24	he	he	PRP	_	26	nsubj	26:A0=PAG
+25	has	have	VBZ	_	26	aux	_
+26	called	call	VBN	pb=call.01	22	ccomp	22:A1=GOL
+27	the	the	DT	_	29	det	_
+28	historical	historical	JJ	_	29	amod	_
+29	tragedy	tragedy	NN	_	26	oprd	32:A0;26:A2=PRD
+30	-	-	:	p2=,	29	punct	_
+31	that	that	WDT	p2=IN	32	nsubj	32:R-A0
+32	shattered	shatter	VBD	pb=shatter.01	29	rcmod	_
+33	the	the	DT	_	34	det	_
+34	Soviet	soviet	JJ	p2=NNP	32	dobj	32:A1=PPT
+35	empire into	empire into	IN	p2=NNP	32	prep	_
+36	15	0	CD	_	38	num	_
+37	separate	separate	JJ	_	38	amod	_
+38	nations	nation	NNS	_	35	pobj	_
+39	.	.	.	_	20	punct	_
+
+1	From	from	IN	_	23	prep	23:AM-ADV
+2	taking	take	VBG	pb=take.01	1	pcomp	_
+3	control	control	NN	_	4	nn	_
+4	of Crimea	of crimea	NN	p2=NNS	2	dobj	2:A1=PPT
+5	to	to	IN	_	2	prep	2:AM-GOL
+6	gathering	gather	VBG	pb=gather.01	5	pcomp	_
+7	separatist	separatist	JJ	p2=NN	8	amod	_
+8	petitions	petition	NNS	_	6	dobj	6:A1=PPT
+9	in	in	IN	_	6	prep	6:AM-LOC
+10	Moldova	moldova	NNP	_	9	pobj	_
+11	,	,	,	_	6	punct	_
+12	to	to	IN	p2=TO	6	prep	_
+13	handing	hand	VBG	pb=hand.03	12	pcomp	_
+14	out	out	RP	_	13	prt	13:C-V
+15	passports	passport	NNS	_	13	dobj	13:A1=PPT
+16	to	to	TO	p2=IN	17	aux	_
+17	comrades in	comrades in	VB	pb=comrades in.01	13	advcl	13:AM-PRP
+18	the	the	DT	_	19	det	_
+19	Baltics	baltic	NNPS	p2=NNP	17	dobj	17:A1
+20	,	,	,	_	23	punct	_
+21	Putin	putin	NNP	_	23	nsubj	23:A0
+22	has	have	VBZ	_	23	aux	_
+23	been focused	been focused	VBN	pb=been focused.01	0	root	_
+24	during	during	IN	_	23	prep	13:AM-TMP;17:AM-TMP;23:AM-TMP
+25	recent	recent	JJ	_	26	amod	_
+26	weeks	week	NNS	_	24	pobj	_
+27	on	on	IN	_	23	prep	23:A1
+28	neighboring	neighboring	NN	p2=VBG	29	nn	_
+29	republics	republic	NNS	_	27	pobj	_
+30	,	,	,	_	34	punct	_
+31	many	many	JJ	p2=DT	34	nsubj	34:A0=PAG
+32	of	of	IN	_	31	prep	_
+33	which	which	WDT	_	32	pobj	_
+34	have	have	VBP	pb=have.03	23	conj	_
+35	larege ethnic	larege ethnic	JJ	p2=VBN	37	amod	_
+36	Russian	russian	JJ	_	37	amod	_
+37	minorities	minority	NNS	_	34	dobj	34:A1=PPT
+38	.	.	.	_	23	punct	_
+

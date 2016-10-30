@@ -1,0 +1,12 @@
+1	Sorry	sorry	UH	_	7	intj	7:AM-DIS
+2	,	,	,	_	7	punct	_
+3	your	your	PRP$	_	4	poss	_
+4	blog	blog	NN	_	7	nsubj	7:A0=PAG
+5	can	can	MD	_	7	aux	7:AM-MOD
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	share	share	VB	pb=share.01	0	root	_
+8	posts	post	NNS	_	7	dobj	7:A1=PPT
+9	by	by	IN	_	7	prep	7:AM-MNR
+10	email	email	NN	_	9	pobj	_
+11	.	.	.	_	7	punct	_
+

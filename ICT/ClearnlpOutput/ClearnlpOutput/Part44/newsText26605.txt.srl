@@ -1,0 +1,150 @@
+1	regardless	regardless	RB	_	0	root	_
+2	of	of	IN	_	1	prep	_
+3	their	their	PRP$	_	4	poss	_
+4	provider	provider	NN	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	(	(	-LRB-	_	7	punct	_
+2	LITE	lite	NNP	p2=NN	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	UP	up	NNP	_	7	nsubj	7:A1=PPT
+5	Texas	texas	NNP	_	4	appos	_
+6	)	)	-RRB-	_	7	punct	_
+7	came	come	VBD	pb=come.01	0	root	_
+8	at	at	IN	_	7	prep	7:AM-TMP
+9	the	the	DT	_	10	det	_
+10	request	request	NN	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	Gov.	gov.	NNP	_	14	nn	_
+13	Rick	rick	NNP	_	14	nn	_
+14	Perry	perry	NNP	_	11	pobj	_
+15	.	.	.	_	7	punct	_
+
+1	initial	initial	JJ	p2=NN	3	amod	_
+2	10	0	CD	_	3	num	_
+3	percent	percent	NN	_	0	root	6:A1=PPT
+4	that	that	WDT	_	6	nsubjpass	6:R-A1
+5	was	be	VBD	_	6	auxpass	_
+6	implemented	implement	VBN	pb=implement.01	3	rcmod	_
+7	in	in	IN	_	6	prep	6:AM-TMP
+8	January	january	NNP	_	7	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	Brownsville	brownsville	NNP	p2=JJ	2	nsubj	2:A1=PPT
+2	fall	fall	VB	p2=VBP|pb=fall.01	0	root	_
+3	into	into	IN	_	2	prep	2:A4=GOL
+4	that	that	DT	_	5	det	_
+5	category	category	NN	_	3	pobj	_
+6	.	.	.	_	2	punct	_
+
+1	assistance	assistance	NN	_	0	root	_
+2	to	to	IN	_	1	prep	_
+3	low	low	JJ	_	5	hmod	_
+4	-	-	HYPH	_	5	hyph	_
+5	income	income	NN	_	6	nn	_
+6	families	family	NNS	_	2	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	Income	income	NNP	p2=NN	0	root	_
+2	(	(	-LRB-	_	1	punct	_
+3	SSI	ssi	NNP	_	1	appos	_
+4	)	)	-RRB-	_	1	punct	_
+5	,	,	,	_	1	punct	_
+6	Medicaid	medicaid	NNP	_	1	conj	_
+7	or	or	CC	_	6	cc	_
+8	low	low	JJ	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	income	income	NN	_	11	nn	_
+11	Medicare	medicare	NNP	p2=NN	6	conj	_
+12	.	.	.	_	11	punct	_
+
+1	reasons	reason	NNS	_	3	nsubj	3:A1=PPT
+2	,	,	,	_	3	punct	_
+3	said	say	VBD	pb=say.01	0	root	_
+4	Rebecca	rebecca	NNP	_	5	nn	_
+5	Klein	klein	NNP	_	3	nsubj	3:A0
+6	,	,	,	_	5	punct	_
+7	chairwoman	chairwoman	NN	_	5	appos	_
+8	of	of	IN	_	7	prep	_
+9	the	the	DT	_	10	det	_
+10	PUC	puc	NNP	p2=NN	8	pobj	_
+11	.	.	.	_	3	punct	_
+
+1	it	it	PRP	_	0	root	_
+2	,	,	,	_	4	punct	_
+3	Klein	klein	NNP	_	4	nsubj	4:A0
+4	said	say	VBD	pb=say.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	coordinating	coordinate	VBG	pb=coordinate.01	0	root	_
+2	with	with	IN	_	1	prep	1:A2=COM
+3	other	other	JJ	_	5	amod	_
+4	state	state	NN	_	5	nn	_
+5	agencies	agency	NNS	_	2	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	customers	customer	NNS	_	0	root	3:A0=PAG
+2	and	and	CC	_	1	cc	_
+3	enroll	enroll	VB	p2=VBP|pb=enroll.01	1	conj	_
+4	them	them	PRP	_	3	dobj	3:A1=PPT
+5	.	.	.	_	1	punct	_
+
+1	customer	customer	NN	_	0	root	_
+2	,	,	,	_	1	punct	_
+3	according	accord	VBG	_	1	prep	_
+4	to	to	IN	_	3	prep	_
+5	Klein	klein	NNP	_	4	pobj	_
+6	.	.	.	_	1	punct	_
+
+1	In	in	IN	_	7	prep	7:AM-TMP
+2	April	april	NNP	_	1	pobj	_
+3	,	,	,	_	7	punct	_
+4	470,000	0	CD	_	5	num	_
+5	customers	customer	NNS	_	7	nsubjpass	7:A1=PPT
+6	were	be	VBD	_	7	auxpass	_
+7	matched	match	VBN	pb=match.01	10	ccomp	10:A1=PPT
+8	,	,	,	_	10	punct	_
+9	she	she	PRP	_	10	nsubj	10:A0
+10	said	say	VBD	pb=say.01	0	root	_
+11	.	.	.	_	10	punct	_
+
+1	discounts	discount	VBZ	p2=VBZ|pb=discount.01	0	root	_
+2	.	.	.	_	1	punct	_
+
+1	center	center	NN	_	2	nn	_
+2	toll	toll	NN	_	3	npadvmod	_
+3	free	free	JJ	p2=RB	0	root	_
+4	at	at	IN	_	3	prep	_
+5	1-866-797-4839	0	CD	_	4	pobj	_
+6	.	.	.	_	3	punct	_
+
+1	customers	customer	NNS	_	3	nsubj	3:A0=PAG
+2	can	can	MD	_	3	aux	3:AM-MOD
+3	save	save	VB	pb=save.01	0	root	_
+4	money	money	NN	_	3	dobj	3:A1=PPT
+5	on	on	IN	_	3	prep	3:A2=GOL
+6	their	their	PRP$	_	8	poss	_
+7	electric	electric	JJ	_	8	amod	_
+8	bills	bill	NNS	_	5	pobj	_
+9	.	.	.	_	3	punct	_
+
+1	which	which	WDT	_	2	det	_
+2	provider	provider	NN	p2=VBP	4	dobj	4:R-A1
+3	they	they	PRP	_	4	nsubj	4:A0=PAG
+4	select	select	VBP	pb=select.01	0	root	_
+5	.	.	.	_	4	punct	_
+
+1	Posted	post	VBN	pb=post.01	0	root	_
+2	in	in	IN	p2=RP	1	prep	1:AM-LOC
+3	Local	local	NNP	p2=JJ	2	pobj	_
+4	on	on	IN	_	1	prep	1:AM-TMP
+5	Wednesday	wednesday	NNP	_	4	pobj	_
+6	,	,	,	_	5	punct	_
+7	June	june	NNP	_	5	appos	_
+8	26	0	CD	_	7	num	_
+9	,	,	,	_	5	punct	_
+10	2002	0	CD	_	12	num	_
+11	12:00	0	CD	_	12	num	_
+12	am	am	NN	p2=VBP	5	appos	_
+13	.	.	.	_	1	punct	_
+

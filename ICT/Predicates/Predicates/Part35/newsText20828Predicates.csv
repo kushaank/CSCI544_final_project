@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ER,shootout.01,Police say,,Affirmative,"ER shootout » Police say man wielded two handguns , was shot when he confronted parole officers . "
+» Police,say.01,man wielded,,Affirmative,"ER shootout » Police say man wielded two handguns , was shot when he confronted parole officers . "
+man,wield.01,two handguns,,Affirmative,"ER shootout » Police say man wielded two handguns , was shot when he confronted parole officers . "
+he,confront.01,parole officers,,Affirmative,"ER shootout » Police say man wielded two handguns , was shot when he confronted parole officers . "
+Park police and,confirm.01,they had not received,,Affirmative,"Both North Park police and University Hospital in Salt Lake City , confirmed they had not received any reports of 34 - year - old Jason James Burr 's condition having changed since the Friday incident . "
+Both North Park police and University Hospital in Salt Lake City,receive.01,any reports of,,Affirmative,"Both North Park police and University Hospital in Salt Lake City , confirmed they had not received any reports of 34 - year - old Jason James Burr 's condition having changed since the Friday incident . "
+"neighboring Hyde Park ,",say.01,shooting occurred,,Affirmative,"North Park Police Chief Kim Hawkes , whose agency serves North Logan and neighboring Hyde Park , said the 8:10 a.m. Friday shooting occurred when Burr , reportedly on pain pills for a back problem and upset over the results of an earlier visit , entered Cache Valley Hospital and made unspecified demands of emergency room staff - while wielding two handguns . "
+Hospital security,order.01,the area locked down,,Affirmative,"Hospital security rushed into ER , ordering the area locked down as they did . "
+34-year-old Jason James Burr 's,confront.01,one of,,Affirmative,"Their attempts to talk down Burr failed , and he then confronted one of two Adult Probation and Parole agents who were in the hospital foyer . "
+The suspect,point.01,his weapons,toward,Affirmative,The suspect allegedly pointed his weapons toward the agent and four shots were fired ; Burr was struck three times . 
+The Utah Department of Corrections,say.01,officers happened,,Affirmative,The Utah Department of Corrections said that the AP&P officers happened to be at the hospital because a parolee was there receiving treatment . 
+a parolee,receive.01,treatment,,Affirmative,The Utah Department of Corrections said that the AP&P officers happened to be at the hospital because a parolee was there receiving treatment . 
+34-year-old Jason James Burr 's,need.01,immediate surgery,,Affirmative,"Burr was sent to the emergency room at Cache Valley Hospital in North Logan after being told he needed immediate surgery , according to Gar Workman , the grandfather of Burr 's wife , Cassy Burr . "
+Gar Workman,say.01,", he returned to",,Affirmative,"After Jason Burr was turned away for help , he returned to the emergency room with two handguns on Friday morning , Workman said . "
+34-year-old Jason James Burr 's,have.03,some serious back problems,,Affirmative,"Jason had some serious back problems , he told The Herald Journal of Logan . "
+"the grandfather of Burr 's wife , Cassy Burr",tell.01,Jason had,The Herald Journal of Logan,Affirmative,"Jason had some serious back problems , he told The Herald Journal of Logan . "
+Gar Workman,say.01,Burr was on,,Affirmative,"Workman said Burr was on strong pain medication at the time , and he thinks Burr was not in his right mind . "
+34-year-old Jason James Burr 's,think.01,Burr was not in,,Affirmative,"Workman said Burr was on strong pain medication at the time , and he thinks Burr was not in his right mind . "
+34-year-old Jason James Burr 's,guess.01,", so he took",,Affirmative,"I guess the pain was really intensive , so he took all the pills that he had , he said . "
+34-year-old Jason James Burr 's,take.01,all the pills,,Affirmative,"I guess the pain was really intensive , so he took all the pills that he had , he said . "
+34-year-old Jason James Burr 's,have.03,all the pills,,Affirmative,"I guess the pain was really intensive , so he took all the pills that he had , he said . "
+34-year-old Jason James Burr 's,say.01,I guess,,Affirmative,"I guess the pain was really intensive , so he took all the pills that he had , he said . "
+court records,show.01,that Burr was charged in 2010,,Affirmative,Utah court records show that Burr was charged in 2010 with three counts of second - degree felony drug possession and three counts of third - degree felony falsely obtaining a prescription . 
+degree felony,obtain.01,a prescription,,Affirmative,Utah court records show that Burr was charged in 2010 with three counts of second - degree felony drug possession and three counts of third - degree felony falsely obtaining a prescription . 
+34-year-old Jason James Burr 's,plead.02,guilty,,Affirmative,He pleaded guilty in 1 st District Court to two third - degree felony counts of falsely obtaining a prescription and the other counts were dismissed . 
+34-year-old Jason James Burr 's,complete.01,counseling,,Affirmative,He also was ordered to complete drug and alcohol counseling and pay an $ 800 fine . 
+34-year-old Jason James Burr 's,pay.01,800 fine,,Affirmative,He also was ordered to complete drug and alcohol counseling and pay an $ 800 fine . 
+a judge,respond.01,to,,Affirmative,"Last year , responding to a motion filed by Burr , a judge reduced his convictions from third - degree felonies to class B misdemeanors , according to court records . "
+by Burr,file.01,a motion filed by Burr,,Affirmative,"Last year , responding to a motion filed by Burr , a judge reduced his convictions from third - degree felonies to class B misdemeanors , according to court records . "
+a judge,reduce.01,his convictions,,Affirmative,"Last year , responding to a motion filed by Burr , a judge reduced his convictions from third - degree felonies to class B misdemeanors , according to court records . "
+We,delete.01,"comments containing obscenities ,",,Affirmative,"We will delete comments containing obscenities , personal attacks and inappropriate or offensive remarks . "
+"comments containing obscenities ,",contain.01,"obscenities ,",,Affirmative,"We will delete comments containing obscenities , personal attacks and inappropriate or offensive remarks . "
+you,see.01,an objectionable comment,,Affirmative,"If you see an objectionable comment , please alert us by clicking the arrow on the upper right side of the comment and selecting Flag comment as inappropriate . "
+you,see.01,your comments,,Affirmative,"If you 've recently registered with Disqus or are n't seeing your comments immediately , you may need to verify your email address . "
+you,need.01,to verify,,Affirmative,"If you 've recently registered with Disqus or are n't seeing your comments immediately , you may need to verify your email address . "
+you,verify.01,your email address,,Affirmative,"If you 've recently registered with Disqus or are n't seeing your comments immediately , you may need to verify your email address . "

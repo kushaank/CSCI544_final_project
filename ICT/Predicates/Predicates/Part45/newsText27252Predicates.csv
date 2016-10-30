@@ -1,0 +1,49 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+consumers,view.02,wearables,as,Affirmative,While consumers view wearables as simply a hot new technology trend primarily geared toward activity tracking and exercise Intel is piloting a smart watch program to test its viability within its factory work environments . 
+exercise Intel,pilot.01,a smart watch program,,Affirmative,While consumers view wearables as simply a hot new technology trend primarily geared toward activity tracking and exercise Intel is piloting a smart watch program to test its viability within its factory work environments . 
+a smart watch program,test.01,its viability,,Affirmative,While consumers view wearables as simply a hot new technology trend primarily geared toward activity tracking and exercise Intel is piloting a smart watch program to test its viability within its factory work environments . 
+month pilot program at,produce.01,positive results,,Affirmative,"With initial test criteria of reducing or eliminating the incidences of missed alerts and minimizing the number of steps to view alarm notifications , the 3 - month pilot program at multiple Intel campuses produced relatively positive results as well as a few new ideas . "
+an Intel technician based in Israel,lead.02,the pilot,,Affirmative,"According to Azriel Klein , an Intel technician based in Israel who led the pilot , steps to view an alert or page triggered by a failing machine or system notification were reduced from nine to one using a Pebble smart watch versus a traditional smartphone . "
+by,trigger.01,an alert or page triggered by,,Affirmative,"According to Azriel Klein , an Intel technician based in Israel who led the pilot , steps to view an alert or page triggered by a failing machine or system notification were reduced from nine to one using a Pebble smart watch versus a traditional smartphone . "
+Intel,choose.01,the original Pebble,,Affirmative,"After evaluating a few of the smart watches available , Intel chose the original Pebble because it was inexpensive and integrated with a variety of Android and iOS smartphones being used in the factory today . "
+Intel,purchase.01,watches,,Affirmative,Intel purchased a handful of Pebble watches that employees were allowed to retain after the pilot . 
+Intel,acquire.01,"Basis ,",,Affirmative,"Since the pilot began , Intel has also acquired Basis , a company that makes a fitness watch . "
+a company,make.01,a fitness watch,,Affirmative,"Since the pilot began , Intel has also acquired Basis , a company that makes a fitness watch . "
+technicians,service.01,infrastructure and equipment,,Affirmative,The pilot was targeted primarily at technicians who service infrastructure and equipment in a factory environment -- areas with loud noise or where it is difficult to physically remove a smartphone from a pocket . 
+you,use.01,latex gloves,,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+you,need.01,"to pull them off , take",,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+you,pull.03,technicians,,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+you,take.01,your phone,from,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+you,unlock.01,your phone,,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+you,read.01,the text,,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+Azriel Klein,say.01,", you need",,Affirmative,"If you are using latex gloves , you need to pull them off , take your phone from the pocket , unlock it , and read the text , Klein said . "
+[ The smart watch ],offer.01,better reliability,,Affirmative,"[ The smart watch ] works great in noisy environments and offers better reliability , said Klein . "
+Azriel Klein,say.01,works great in,,Affirmative,"[ The smart watch ] works great in noisy environments and offers better reliability , said Klein . "
+a Pebble smart watch,vibrate.01,on,,Affirmative,It 's very hard to miss an alarm when it vibrates on your wrist . 
+4 seconds,feel.01,the vibration,on,Affirmative,"With the smart watch , the time was reduced to less than 4 seconds which simply involved feeling the vibration on the wrist and lifting the arm to view the message . "
+you,have.03,your smartphone,,Affirmative,"If you are in a meeting or training , you can have your smartphone in your pocket and you do n't have to reach in to get a notification , says Julio Sanchez , an Intel technician at one of Intel 's campuses in Santa Clara , California . "
+you,get.01,a notification,,Affirmative,"If you are in a meeting or training , you can have your smartphone in your pocket and you do n't have to reach in to get a notification , says Julio Sanchez , an Intel technician at one of Intel 's campuses in Santa Clara , California . "
+"Julio Sanchez ,",say.01,", you can have",,Affirmative,"If you are in a meeting or training , you can have your smartphone in your pocket and you do n't have to reach in to get a notification , says Julio Sanchez , an Intel technician at one of Intel 's campuses in Santa Clara , California . "
+low profileyou,make.02,a big scene,,Affirmative,It is low profileyou do n't make a big scene and interrupt or be disrespectful . 
+Julio Sanchez,say.01,he did n't like having,,Affirmative,"Sanchez said he did n't like having to charge the smart watch every 4-5 days ( smartphones , however need to be charged daily ) . "
+Julio Sanchez,like.01,having,,Affirmative,"Sanchez said he did n't like having to charge the smart watch every 4-5 days ( smartphones , however need to be charged daily ) . "
+Julio Sanchez,charge.01,a Pebble smart watch,,Affirmative,"Sanchez said he did n't like having to charge the smart watch every 4-5 days ( smartphones , however need to be charged daily ) . "
+the original Pebble,display.01,all of,,Affirmative,"Also , the Pebble currently can not display all of the notifications on its display , requiring the technician to still review longer - length alerts on the smartphone . "
+the original Pebble,require.01,the technician,,Affirmative,"Also , the Pebble currently can not display all of the notifications on its display , requiring the technician to still review longer - length alerts on the smartphone . "
+the technician,review.01,length alerts,,Affirmative,"Also , the Pebble currently can not display all of the notifications on its display , requiring the technician to still review longer - length alerts on the smartphone . "
+You,miss.02,a long text,,Affirmative,"You can miss a long text because [ the Pebble ] is not capable of receiving all of that data , says Sanchez . "
+Julio Sanchez,say.01,You can miss,,Affirmative,"You can miss a long text because [ the Pebble ] is not capable of receiving all of that data , says Sanchez . "
+the original Pebble,cause.01,notifications to be missed,,Affirmative,"Other complaints by participating pilot members included : the lack of a repeating alert option , the Pebble itself was too bulky , not being able to store all of the data for a longer period , and software and firmware issues when the Pebble was updated causing notifications to be missed . "
+wearables in,create.01,efficiencies,,Affirmative,"For Sanchez , Klein and other pilot members , the pilot was an introduction on how wearables in the workplace can create efficiencies , but the team already wants the next generation . "
+the team,want.01,the next generation,,Affirmative,"For Sanchez , Klein and other pilot members , the pilot was an introduction on how wearables in the workplace can create efficiencies , but the team already wants the next generation . "
+Julio Sanchez,say.01,We should wait for,,Affirmative,"We should wait for more capabilities , said Sanchez . "
+Others in,echo.01,this,,Affirmative,Others in the pilot group echoed this with some wishing the smart watch would replace the phone altogether . 
+some,wish.01,watch would replace,,Affirmative,Others in the pilot group echoed this with some wishing the smart watch would replace the phone altogether . 
+Azriel Klein,think.01,it will be great,,Affirmative,I think it will be great to use [ a smart watch ] as a ' second phone . 
+Azriel Klein,want.01,to give up,,Affirmative,"' I do n't want to give up my smartphone , I need it , I want it , says Klein . "
+Azriel Klein,give.08,a smartphone,,Affirmative,"' I do n't want to give up my smartphone , I need it , I want it , says Klein . "
+Azriel Klein,need.01,a smartphone,,Affirmative,"' I do n't want to give up my smartphone , I need it , I want it , says Klein . "
+Azriel Klein,want.01,a smartphone,,Affirmative,"' I do n't want to give up my smartphone , I need it , I want it , says Klein . "
+Azriel Klein,say.01,", I want it",,Affirmative,"' I do n't want to give up my smartphone , I need it , I want it , says Klein . "
+Azriel Klein,want.01,the [ smart watch ],,Affirmative,"But , I want the [ smart watch ] to be individual and independentand that way , I will be able to get messages , emails , notifications , etc. without having my phone on me . "
+Azriel Klein,get.01,"messages , emails , notifications , etc.",,Affirmative,"But , I want the [ smart watch ] to be individual and independentand that way , I will be able to get messages , emails , notifications , etc. without having my phone on me . "

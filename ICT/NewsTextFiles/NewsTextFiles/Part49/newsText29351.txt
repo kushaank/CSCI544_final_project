@@ -1,0 +1,26 @@
+
+PORTLAND, Ore. — Today terahertz detectors are commonplace in airports, where you enter a glass-walled chamber while the detector swings around you, snooping under your clothes for weapons. Now researchers have found a way to downsize the detector portion of those machines into chip-sized devices.
+
+These devices work by converting the elusive terahertz waves into ultrasound, which can be detected by handheld devices. Handheld terahertz detectors could help with medical diagnosis. They could even be attached to telescopes to give astronomers another tool to study planets in other solar systems.
+
+Handheld terahertz detectors "is my hope and are quite doable. In fact, the actual device itself measures only a few millimeters in size and can be made even smaller," University of Michigan professor Jay Guo told EE Times. "With a very compact laser and photodetector, a handheld terahertz detector system is possible. The terahertz light source will be a separate component, which is not part of this work."
+
+that convert terahertz waves into sound.
+
+Terahertz wave detection has puzzled engineers for more than a decade. According to Guo, his motivation was to convert the waves into something EEs already know how to detect.
+
+"For EEs and all engineers, we knew the solutions to many solved problems already. So when facing this new and difficult problem, we wanted to see if the problem could be reduced or transformed into something for which we already had an answer," he said. "Thinking outside the box is very important for EEs making new breakthroughs."
+
+Guo's research group has produced various lenses to convert terahertz waves into sound.
+
+The terahertz-to-ultrasound detector was built by functionalizing polydimethylsiloxane (PDMS) with carbon nanotubes (CNTs), thus turning the polymer into a sensitive instrument. The carbon nanotubes heat up when irradiated with the terahertz frequency, causing the PDMS to expand and contract, thus producing ultrasound waves.
+
+"The nanotubes are randomly oriented in the PDMS, which is the outcome of how we made such composite, and is preferred as it can absorb the focused THz light from all directions equally effectively," said Guo.
+
+After the waves are converted, the ultrasound detector can produce images by scanning the output from the CNT impregnated PDMS.
+
+"The ultrasound produced by the CNT/PDMS composite detects the amplitude of the terahertz waves. This method works for a very wide range of terahertz frequency due to the broadband absorption property of the nanotubes, all the way to visible and UV light," he said. "Images can be done by raster scanning the terahertz ray with respect to the object, thereby forming the image of the object. In the future, arrays of detectors can be made to make the imaging much faster."
+
+Instead of using a commercial ultrasound detector, the researchers built their own micro-ring resonator, which measures just a few millimeters but can prove the concept by imaging an aluminum cross.
+
+If you found this interesting or useful, please use the links to the services below to share it with other readers.  You will need a free account with each service to share an item via that service.

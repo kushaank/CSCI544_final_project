@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+WEST PALM BEACH - Drivers,pay.01,more,,Affirmative,"WEST PALM BEACH - Drivers may have to pay more to fill up for Memorial Day weekend compared to last year , according to the American Automobile Association . "
+the American Automobile Association,think.01,prices will drop enough,,Affirmative,"Gas prices have been going down over the past month , but AAA does n't think the prices will drop enough for drivers to pay less this year compared to 2013 . "
+Drivers,pay.01,less,,Affirmative,"Gas prices have been going down over the past month , but AAA does n't think the prices will drop enough for drivers to pay less this year compared to 2013 . "
+AAA,think.01,will be enough,,Affirmative,AAA does n't think the price of gas will be enough to stop people from taking trips . 
+the price of gas,stop.03,people,from taking trips,Affirmative,AAA does n't think the price of gas will be enough to stop people from taking trips . 
+people,take.01,trips,,Affirmative,AAA does n't think the price of gas will be enough to stop people from taking trips . 
+the American Automobile Association,say.01,will be,,Affirmative,AAA says the average cost of a hotel room will be $ 169 compared to $ 166 a year ago . 
+Airfare,see.01,the largest boost,,Affirmative,"Airfare is seeing the largest boost , according to AAA , at $ 227 for a round trip discounted ticket , on the top 40 routes in the US . "
+the American Automobile Association,have.03,a mobile app,,Affirmative,AAA has a mobile app that will help travelers figure out the cheapest way to travel . 
+a mobile app,help.01,travelers figure out,,Affirmative,AAA has a mobile app that will help travelers figure out the cheapest way to travel . 
+travelers,figure.05,the cheapest way,,Affirmative,AAA has a mobile app that will help travelers figure out the cheapest way to travel . 
+Gas Buddy,find.01,the cheapest place,,Affirmative,Check out Gas Buddy to find the cheapest place to fuel up . 

@@ -1,0 +1,35 @@
+1	If	if	IN	_	3	mark	_
+2	Russia	russia	NNP	_	3	nsubj	5:A0=PAG;3:A1=PPT
+3	were	be	VBD	pb=be.01	15	advcl	15:AM-ADV
+4	to	to	TO	_	5	aux	_
+5	engage	engage	VB	pb=engage.01	3	xcomp	3:A2=PRD
+6	in	in	IN	_	5	prep	5:A2=PPT
+7	military	military	JJ	_	8	amod	_
+8	aggression	aggression	NN	_	6	pobj	_
+9	in	in	IN	_	8	prep	_
+10	the	the	DT	_	11	det	_
+11	Baltics	baltic	NNPS	p2=NNS	9	pobj	_
+12	,	,	,	_	15	punct	_
+13	NATO	nato	NNP	_	15	nsubj	18:A0=PAG;15:A1=PPT
+14	would	would	MD	_	15	aux	15:AM-MOD
+15	be	be	VB	pb=be.01	0	root	_
+16	unable	unable	JJ	_	15	acomp	15:A2=PRD
+17	to	to	TO	_	18	aux	_
+18	defend	defend	VB	pb=defend.01	16	xcomp	_
+19	the	the	DT	_	20	det	_
+20	region	region	NN	_	18	dobj	18:A1=PPT
+21	using	use	VBG	pb=use.01	20	partmod	_
+22	conventional	conventional	JJ	_	23	amod	_
+23	means	mean	NNS	_	21	dobj	21:A1=PPT
+24	.	.	.	_	15	punct	_
+
+1	An	an	DT	_	3	det	_
+2	internal	internal	JJ	_	3	amod	_
+3	report	report	NN	_	4	nsubj	4:A0=PAG
+4	highlights	highlight	VBZ	p2=NNS|pb=highlight.01	0	root	_
+5	weaknesses	weakness	NNS	_	4	dobj	4:A1=PPT
+6	in	in	IN	_	5	prep	_
+7	the	the	DT	_	8	det	_
+8	alliance	alliance	NN	_	6	pobj	_
+9	.	.	.	_	4	punct	_
+

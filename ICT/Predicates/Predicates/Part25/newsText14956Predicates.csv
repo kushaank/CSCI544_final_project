@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An Ashhurst police spokesperson,say.01,was travelling east towards Ashhurst,,Affirmative,"An Ashhurst police spokesperson said Ngaire Daphne Riddell , 82 , was travelling east towards Ashhurst on Colyton Rd about 3 pm on April 30 when her Toyota Corona crossed the centreline , veered off the road into a ditch and hit trees . "
+"Ngaire Daphne Riddell , 82 ,",travel.01,east,,Affirmative,"An Ashhurst police spokesperson said Ngaire Daphne Riddell , 82 , was travelling east towards Ashhurst on Colyton Rd about 3 pm on April 30 when her Toyota Corona crossed the centreline , veered off the road into a ditch and hit trees . "
+her Toyota Corona,cross.02,the centreline,,Affirmative,"An Ashhurst police spokesperson said Ngaire Daphne Riddell , 82 , was travelling east towards Ashhurst on Colyton Rd about 3 pm on April 30 when her Toyota Corona crossed the centreline , veered off the road into a ditch and hit trees . "
+her Toyota Corona,veer.01,into,,Affirmative,"An Ashhurst police spokesperson said Ngaire Daphne Riddell , 82 , was travelling east towards Ashhurst on Colyton Rd about 3 pm on April 30 when her Toyota Corona crossed the centreline , veered off the road into a ditch and hit trees . "
+"Mrs Riddell , travelling alone",travel.01,alone,,Affirmative,"Mrs Riddell , travelling alone to visit family in Wairarapa , was cut from her vehicle by the Feilding Volunteer Fire Brigade . "
+"Mrs Riddell , travelling alone",visit.01,family,,Affirmative,"Mrs Riddell , travelling alone to visit family in Wairarapa , was cut from her vehicle by the Feilding Volunteer Fire Brigade . "
+by,cut.02,"Mrs Riddell , travelling alone",from,Affirmative,"Mrs Riddell , travelling alone to visit family in Wairarapa , was cut from her vehicle by the Feilding Volunteer Fire Brigade . "
+A funeral notice published in,read.01,Riddell fought bravely to,,Affirmative,A funeral notice published in the Bay of Plenty Times yesterday read that Mrs Riddell fought bravely to the end . 
+by,survive.01,the late Trevor Riddell,,Affirmative,"She is survived by her children Ann , Dennis , and Lee and their partners , seven grandchildren and two great grandchildren . "
+Anyone with information,call.01,North police,,Affirmative,Anyone with information should call the Palmerston North police on 06 351 3600 . 
+We,aim.01,to have,,Affirmative,We aim to have healthy debate . 
+We,have.03,healthy debate,,Affirmative,We aim to have healthy debate . 
+We,publish.01,comments,,Affirmative,But we wo n't publish comments that abuse others . 
+you,post.01,further comments and,,Affirmative,"Once you login , you can post further comments and view comments made in your profile . "
+you,share.01,your views,,Affirmative,Thank you for sharing your views . 

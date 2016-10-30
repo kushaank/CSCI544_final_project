@@ -1,0 +1,42 @@
+1	The	the	DT	_	2	det	_
+2	article	article	NN	_	7	nsubjpass	3:A1=PPT;7:A1=PPT
+3	requested	request	VBD	p2=VBN|pb=request.01	2	partmod	_
+4	can	can	MD	_	7	aux	7:AM-MOD
+5	not	not	RB	_	7	neg	7:AM-NEG
+6	be	be	VB	_	7	auxpass	_
+7	found	find	VBN	pb=find.01	0	root	_
+8	!	!	.	_	7	punct	_
+
+1	Please	please	UH	p2=VB	2	intj	2:AM-DIS;6:AM-DIS
+2	refresh	refresh	VB	p2=UH|pb=refresh.01	0	root	_
+3	your	your	PRP$	_	4	poss	_
+4	browser	browser	NN	_	2	dobj	2:A1=PPT
+5	or	or	CC	_	2	cc	_
+6	go	go	VB	pb=go.02	2	conj	_
+7	back	back	RB	_	6	advmod	6:AM-DIR
+8	.	.	.	_	2	punct	_
+
+1	(	(	-LRB-	_	6	punct	_
+2	WT	wt	NNP	p2=UH	6	nn	_
+3	,	,	,	_	2	punct	_
+4	20140519	0	CD	_	2	appos	_
+5	,	,	,	_	6	punct	_
+6	NEWS	news	NNP	p2=NN	0	root	_
+7	,	,	,	_	6	punct	_
+8	305199648	0	CD	_	6	npadvmod	_
+9	,	,	,	_	6	punct	_
+10	AR	ar	NNP	p2=UH	6	npadvmod	_
+11	)	)	-RRB-	_	6	punct	_
+12	.	.	.	_	6	punct	_
+
+1	articles	article	NNS	_	0	root	2:A1=PPT
+2	remaining	remain	VBG	pb=remain.01	1	partmod	_
+3	before	before	IN	p2=RB	2	prep	2:AM-TMP
+4	being	be	VBG	_	5	auxpass	_
+5	asked	ask	VBD	p2=VBN|pb=ask.02	3	pcomp	_
+6	to	to	TO	_	7	aux	_
+7	register	register	VB	pb=register.02	5	xcomp	5:A1=PPT
+8	or	or	CC	_	7	cc	_
+9	login	login	VB	p2=NN|pb=login.01	7	conj	_
+10	.	.	.	_	1	punct	_
+

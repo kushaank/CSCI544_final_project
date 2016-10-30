@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+An Illinois man,make.02,him the first individual,,Affirmative,"An Illinois man tested positive for MERS , or Middle East Respiratory Syndrome , making him the first individual to contract the virus on U.S. soil , the U.S. Centers for Disease Control and Prevention reported on Saturday . "
+the U.S. Centers for,report.01,"man tested positive for MERS , or",,Affirmative,"An Illinois man tested positive for MERS , or Middle East Respiratory Syndrome , making him the first individual to contract the virus on U.S. soil , the U.S. Centers for Disease Control and Prevention reported on Saturday . "
+health department,confirm.01,individual is not contagious and has,,Affirmative,"The state 's public health department confirmed Monday , after a second test , that the MERS - infected Illinois individual is not contagious and has no ability to spread the virus . "
+infected Illinois individual,have.03,no ability,,Affirmative,"The state 's public health department confirmed Monday , after a second test , that the MERS - infected Illinois individual is not contagious and has no ability to spread the virus . "
+"an Indiana man ,",have.03,the first case of MERS,,Affirmative,"The individual contracted the virus during two meetings with an Indiana man , who had the first case of MERS confirmed in the United States . "
+The Indiana patient,pick.04,the disease,,Affirmative,"The Indiana patient picked up the disease while traveling in Saudi Arabia , the country where MERS is most prevalent . "
+The Indiana patient,travel.01,in,,Affirmative,"The Indiana patient picked up the disease while traveling in Saudi Arabia , the country where MERS is most prevalent . "
+two Florida healthcare workers,have.03,signs of,,Affirmative,"Similarly , two Florida healthcare workers were reported to have signs of the disease , after contact with a Florida MERS patient . "
+the CDC,learn.01,of,,Affirmative,The Illinois man was given multiple blood tests for the disease after the CDC learned of his exposure to Indiana 's confirmed MERS patient . 
+this,indicate.01,disease can spread person to person,,Affirmative,"Although this indicates the disease can spread person to person , it does not represent an imminent threat , Jennifer Layden , M.D. , an infectious disease expert at the Loyola University Health System , told weather.com . "
+the disease,spread.03,person,,Affirmative,"Although this indicates the disease can spread person to person , it does not represent an imminent threat , Jennifer Layden , M.D. , an infectious disease expert at the Loyola University Health System , told weather.com . "
+this,represent.01,an imminent threat,,Affirmative,"Although this indicates the disease can spread person to person , it does not represent an imminent threat , Jennifer Layden , M.D. , an infectious disease expert at the Loyola University Health System , told weather.com . "
+Jennifer Layden,say.01,It can be transmitted from individual,,Affirmative,"It can be transmitted from individual to individual , but does n't seem to have a widespread or global spread [ threat ] , she said . "
+to person,transmit.01,the virus 's,to,Affirmative,"It has only been transmitted from person to person to healthcare settings , or when individuals had prolonged close contact . "
+individuals,prolong.01,close contact,,Affirmative,"It has only been transmitted from person to person to healthcare settings , or when individuals had prolonged close contact . "
+a related coronavirus,kill.01,800 people,,Affirmative,"This is what separates MERS from SARS , a related coronavirus that killed nearly 800 people in the early 2000 s , thanks in part to its highly contagious nature . "
+The Netherlands,report.01,"two confirmed cases ,",,Affirmative,"The Netherlands has reported two confirmed cases , close family members who recently traveled to Saudi Arabia . "
+close family members,travel.01,to,,Affirmative,"The Netherlands has reported two confirmed cases , close family members who recently traveled to Saudi Arabia . "
+Sea,turtle.01,the Size Of,,Affirmative,Sea Turtle the Size Of a Car ! 

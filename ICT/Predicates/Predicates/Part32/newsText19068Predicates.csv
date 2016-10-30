@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+PAMELA Anderson,reveal.01,she was molested and,,Affirmative,"PAMELA Anderson ( pix ) has revealed she was molested and repeatedly raped as a child , but said her love of animals saved her and inspired her to launch her new animal welfare charity , ' The Pamela Anderson Foundation ' . "
+PAMELA Anderson,say.01,saved her and inspired her,,Affirmative,"PAMELA Anderson ( pix ) has revealed she was molested and repeatedly raped as a child , but said her love of animals saved her and inspired her to launch her new animal welfare charity , ' The Pamela Anderson Foundation ' . "
+her love of animals,save.02,PAMELA Anderson -LRB- pix -RRB-,,Affirmative,"PAMELA Anderson ( pix ) has revealed she was molested and repeatedly raped as a child , but said her love of animals saved her and inspired her to launch her new animal welfare charity , ' The Pamela Anderson Foundation ' . "
+her love of animals,inspire.01,PAMELA Anderson -LRB- pix -RRB-,to launch,Affirmative,"PAMELA Anderson ( pix ) has revealed she was molested and repeatedly raped as a child , but said her love of animals saved her and inspired her to launch her new animal welfare charity , ' The Pamela Anderson Foundation ' . "
+PAMELA Anderson -LRB- pix -RRB-,launch.01,"welfare charity , '",,Affirmative,"PAMELA Anderson ( pix ) has revealed she was molested and repeatedly raped as a child , but said her love of animals saved her and inspired her to launch her new animal welfare charity , ' The Pamela Anderson Foundation ' . "
+The former ' Baywatch ' actress,admit.01,ordeals left,,Affirmative,"The former ' Baywatch ' actress opened up about her most painful memories of being sexual abused for the first time and admitted the terrifying ordeals left her feeling suicidal , as she launched her new animal welfare charity at the Cannes International Film Festival . "
+the terrifying ordeals,leave.01,her feeling,suicidal,Affirmative,"The former ' Baywatch ' actress opened up about her most painful memories of being sexual abused for the first time and admitted the terrifying ordeals left her feeling suicidal , as she launched her new animal welfare charity at the Cannes International Film Festival . "
+The former ` Baywatch ' actress,launch.01,welfare charity,,Affirmative,"The former ' Baywatch ' actress opened up about her most painful memories of being sexual abused for the first time and admitted the terrifying ordeals left her feeling suicidal , as she launched her new animal welfare charity at the Cannes International Film Festival . "
+old star,tell.01,: I feel now,her guests,Affirmative,The 46 - year - old star nervously told her guests : I feel now might be the time to reveal a few of my most painful memories . 
+The 46-year-old star,feel.02,might be,,Affirmative,The 46 - year - old star nervously told her guests : I feel now might be the time to reveal a few of my most painful memories . 
+The 46-year-old star,think.01,I might share with you,,Affirmative,"At the risk of over-exposing myself , again , or being inappropriate , again , I thought I might share with you why I am doing this . "
+The 46-year-old star,share.01,why I am doing this,with you,Affirmative,"At the risk of over-exposing myself , again , or being inappropriate , again , I thought I might share with you why I am doing this . "
+The 46-year-old star,do.02,this,,Affirmative,"At the risk of over-exposing myself , again , or being inappropriate , again , I thought I might share with you why I am doing this . "
+"over-exposing myself , again",have.03,an easy childhood,,Affirmative,"I did not have an easy childhood , I was molested from age six by a female babysitter . "
+by,molest.01,"over-exposing myself , again",,Affirmative,"I did not have an easy childhood , I was molested from age six by a female babysitter . "
+"Pamela ,",re-married.01,her ex-husband,,Affirmative,"Pamela , who re-married her ex-husband Rick Salomon earlier this year , was later gang raped by her first boyfriend and his friends . "
+by,rape.01,later gang,,Affirmative,"Pamela , who re-married her ex-husband Rick Salomon earlier this year , was later gang raped by her first boyfriend and his friends . "
+her ex-husband,decide.01,it would be funny to gang rape me with,,Affirmative,He decided it would be funny to gang rape me with six friends . 
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",want.01,this earth,,Affirmative,"I wanted off this earth , she explained . "
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",explain.01,I wanted off,,Affirmative,"I wanted off this earth , she explained . "
+This,mean.01,I had,,Affirmative,This meant I had a hard time trusting humans . 
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",have.03,a hard time trusting humans,,Affirmative,This meant I had a hard time trusting humans . 
+a hard time trusting humans,trust.02,humans,,Affirmative,This meant I had a hard time trusting humans . 
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",add.01,A burning question,,Affirmative,"A burning question , she added . "
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",blame.01,her parents,for,Affirmative,Pamela does n't blame her parents for the assaults . 
+her parents,try.01,to keep me safe,,Affirmative,"My parents tried to keep me safe , but to me the world was not a safe place . "
+her parents,keep.02,"Pamela , who re-married her ex-husband Rick Salomon earlier this year",,Affirmative,"My parents tried to keep me safe , but to me the world was not a safe place . "
+my mum,work.01,two jobs,,Affirmative,"My dad was an alcoholic , my mum worked two jobs , my mum was always crying , dad did n't always come home , she said . "
+"Pamela , who re-married her ex-husband Rick Salomon earlier this year",say.01,dad was,,Affirmative,"My dad was an alcoholic , my mum worked two jobs , my mum was always crying , dad did n't always come home , she said . "
+"the actress ,",have.03,"sons Brandon , 17 , and Dylan , 16",,Affirmative,"But the actress , who has sons Brandon , 17 , and Dylan , 16 , with her ex-husband Tommy Lee , credited her love of animals for helping her to move past the incidents . "
+"the actress ,",credit.01,her love of animals,for helping,Affirmative,"But the actress , who has sons Brandon , 17 , and Dylan , 16 , with her ex-husband Tommy Lee , credited her love of animals for helping her to move past the incidents . "
+My affinity with animals,save.02,The former ` Baywatch ' actress,,Affirmative,My affinity with animals saved me . 
+The former ` Baywatch ' actress,say.01,trees spoke to me,,Affirmative,"The trees spoke to me , she said . "

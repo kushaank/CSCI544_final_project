@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+school student,have.03,high hopes,,Affirmative,"A Virginia high school student had high hopes this year for a prom date , choosing to ask Vice President Joe Biden to accompany her to the dance . "
+President Joe Biden,accompany.01,A Virginia high school student,,Affirmative,"A Virginia high school student had high hopes this year for a prom date , choosing to ask Vice President Joe Biden to accompany her to the dance . "
+senior,invite.01,Vice President Joe Biden,to prom,Affirmative,"The 17 - year - old senior moved quick to invite him to prom , sending the vice president a witty handwritten note last spring in hopes he would take her to the Newington High School dance . "
+senior,send.01,a witty handwritten note,the vice president,Affirmative,"The 17 - year - old senior moved quick to invite him to prom , sending the vice president a witty handwritten note last spring in hopes he would take her to the Newington High School dance . "
+the vice president,take.01,A Virginia high school student,to,Affirmative,"The 17 - year - old senior moved quick to invite him to prom , sending the vice president a witty handwritten note last spring in hopes he would take her to the Newington High School dance . "
+Maselli,warn.01,", she would ask",Biden,Affirmative,"Maselli even warned Biden that if he declined her invitation , she would ask Republican Speaker of the House John Boehner to fill his shoes . "
+Maselli,decline.02,her invitation,,Affirmative,"Maselli even warned Biden that if he declined her invitation , she would ask Republican Speaker of the House John Boehner to fill his shoes . "
+A Virginia high school student,ask.02,to fill,Republican Speaker of,Affirmative,"Maselli even warned Biden that if he declined her invitation , she would ask Republican Speaker of the House John Boehner to fill his shoes . "
+Republican Speaker of,fill.01,his shoes,,Affirmative,"Maselli even warned Biden that if he declined her invitation , she would ask Republican Speaker of the House John Boehner to fill his shoes . "
+"The 17-year-old senior moved quick to invite him to prom , sending the vice president a witty handwritten note last spring in hopes he would take her to the Newington High School dance .",have.03,her invitation,,Affirmative,"And we ca n't have that now can we , she quipped . "
+A Virginia high school student,quip.01,And we ca n't have that now,,Affirmative,"And we ca n't have that now can we , she quipped . "
+Maselli,expect.01,to receive,,Affirmative,"According to the Courant , Maselli never expected to receive a response from the White House , considering her letter to be more of a joke more than anything . "
+Maselli,receive.01,a response from,,Affirmative,"According to the Courant , Maselli never expected to receive a response from the White House , considering her letter to be more of a joke more than anything . "
+Maselli,consider.02,her letter,,Affirmative,"According to the Courant , Maselli never expected to receive a response from the White House , considering her letter to be more of a joke more than anything . "
+A Virginia high school student,open.01,the door,,Affirmative," At roughly 10 a.m. , she opened the door to greet a deliveryman holding a wrist corsage , the Courant reported . "
+A Virginia high school student,greet.01,a deliveryman holding,,Affirmative," At roughly 10 a.m. , she opened the door to greet a deliveryman holding a wrist corsage , the Courant reported . "
+a deliveryman holding,hold.04,a wrist corsage,,Affirmative," At roughly 10 a.m. , she opened the door to greet a deliveryman holding a wrist corsage , the Courant reported . "
+the Courant that Biden read the 17-year-old 's letter and was personally touched,report.01,"a.m. , she opened",,Affirmative," At roughly 10 a.m. , she opened the door to greet a deliveryman holding a wrist corsage , the Courant reported . "
+the vice president,invite.01,year - old,,Affirmative,The vice president even invited the 17 - year - old to visit him at the White House . 
+year - old,visit.01,the vice president,,Affirmative,The vice president even invited the 17 - year - old to visit him at the White House . 
+Maselli,think.01,someone was playing,,Affirmative,At first Maselli thought someone was playing a prank on her . 
+someone,play.01,a prank,,Affirmative,At first Maselli thought someone was playing a prank on her . 
+the 17-year-old 's,call.01,the number listed as,,Affirmative,"But , when she called the number listed as Biden 's assistant on another card , she realized it was not . "
+the 17-year-old 's,realize.01,it was not,,Affirmative,"But , when she called the number listed as Biden 's assistant on another card , she realized it was not . "
+A spokesperson,tell.01,that Biden read,the Courant,Affirmative,A spokesperson later told the Courant that Biden read the 17 - year - old 's letter and was personally touched . 
+Vice President Joe Biden,read.01,letter,,Affirmative,A spokesperson later told the Courant that Biden read the 17 - year - old 's letter and was personally touched . 
+A spokesperson,pick.01,the corsage composed of,,Affirmative,"So touched , in fact , that he personally picked the corsage composed of white roses , baby 's breath and red , white and blue ribbons . "
+A spokesperson,want.01,her to feel special at,,Affirmative,"He wanted her to feel special at her prom , even though he was n't able to come , the spokeswoman told the Courant . "
+baby 's,feel.01,special at,,Affirmative,"He wanted her to feel special at her prom , even though he was n't able to come , the spokeswoman told the Courant . "
+them,add.02,TheBlaze,to,Affirmative,Call at or press CONTINUE to email your provider and urge them to add TheBlaze to your channel lineup . 
+Press,email.01,your provider,,Affirmative,Press CONTINUE to email your provider and urge them to add TheBlaze to your channel lineup . 
+Press,urge.01,them,to add TheBlaze to,Affirmative,Press CONTINUE to email your provider and urge them to add TheBlaze to your channel lineup . 
+them,add.02,TheBlaze,to,Affirmative,Press CONTINUE to email your provider and urge them to add TheBlaze to your channel lineup . 
+I,like.02,to receive news and information,,Affirmative,I would like to receive news and information from TheBlaze . 
+I,receive.01,news and information,from TheBlaze,Affirmative,I would like to receive news and information from TheBlaze . 
+us,fight.01,spam,,Affirmative,Please help us fight spam . 

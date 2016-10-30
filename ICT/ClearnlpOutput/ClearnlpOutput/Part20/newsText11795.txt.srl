@@ -1,0 +1,888 @@
+1	The	the	DT	_	4	det	_
+2	MT	mt	NNP	_	3	nn	_
+3	Conferences	conferences	NNP	p2=NNPS	4	nn	_
+4	section	section	NN	_	7	nsubj	7:A2=PPT
+5	did	do	VBD	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	involve	involve	VB	pb=involve.01	0	root	_
+8	the reporting	the reporting	VBG	p2=NNP|pb=the reporting.01	7	xcomp	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	the editorial	the editorial	JJ	p2=DT	11	amod	_
+11	staff	staff	NN	_	13	nn	_
+12	of The Moscow	of the moscow	NNP	p2=NN	13	nn	_
+13	Times	times	NNP	_	8	conj	_
+14	.	.	.	_	7	punct	_
+
+1	The tourist	the tourist	DT	p2=NN	2	det	_
+2	sector	sector	NN	_	4	nsubj	11:A0=PAG;4:A1=LOC
+3	is	be	VBZ	_	4	aux	_
+4	developing	develop	VBG	pb=develop.01	0	root	_
+5	with	with	IN	_	4	prep	4:AM-MNR
+6	great	great	JJ	_	7	amod	_
+7	speed	speed	NN	_	5	pobj	_
+8	each	each	DT	_	9	det	_
+9	year	year	NN	_	4	npadvmod	4:AM-TMP
+10	,	,	,	_	4	punct	_
+11	increasing	increase	VBG	pb=increase.01	4	advcl	4:AM-ADV
+12	the number	the number	NNP	p2=PRP	13	nsubj	13:A0
+13	of coming	of coming	VBG	p2=NNP|pb=of coming.01	11	ccomp	11:A1=PPT
+14	travellers	traveller	NNS	_	13	dobj	13:A1
+15	.	.	.	_	4	punct	_
+
+1	As	as	RB	p2=IN	3	advmod	3:AM-ADV
+2	well	well	RB	_	3	advmod	3:AM-ADV
+3	continues	continue	VBZ	pb=continue.01	14	advcl	14:AM-ADV
+4	to increase	to increase	NN	p2=EX	3	nsubj	3:A1=PPT
+5	the individual	the individual	JJ	p2=RB	7	amod	_
+6	traveller	traveller	NN	p2=JJR	7	nn	_
+7	sector	sector	NN	_	8	nn	_
+8	and a	and a	NNP	p2=CC	10	nn	_
+9	huge	huge	JJ	_	10	amod	_
+10	slip	slip	NN	p2=VBP	11	npadvmod	_
+11	for any	for any	JJ	p2=IN	12	nn	_
+12	hotel	hotel	NN	_	14	nsubj	14:A1=PPT
+13	would	would	MD	_	14	aux	14:AM-MOD
+14	become	become	VB	pb=become.01	0	root	_
+15	missing	miss	VBG	pb=miss.02	14	xcomp	14:A2=PRD
+16	out	out	RP	p2=RB	15	prt	15:C-V
+17	that	that	DT	p2=IN	18	det	_
+18	part	part	NN	_	19	nsubj	_
+19	of guests	of guests	VBZ	p2=NNS	15	dobj	15:A1=PPT
+20	.	.	.	_	14	punct	_
+
+1	Individuals	individual	NNS	_	4	nsubj	4:A1=PPT
+2	might	might	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	aux	_
+4	coming	come	VBG	pb=come.01	0	root	_
+5	for business	for business	NN	p2=RBR	4	advmod	4:A2=EXT
+6	or	or	CC	_	5	cc	_
+7	for leisure	for leisure	NN	p2=VB	5	conj	_
+8	though	though	IN	p2=RB	16	mark	_
+9	the ways	the ways	NNS	p2=PRP	16	nsubj	_
+10	they	they	PRP	_	11	nsubj	11:A0=PAG
+11	choose	choose	VBP	pb=choose.01	9	rcmod	_
+12	hotels	hotel	NNS	_	13	nn	_
+13	for accommodation	for accommodation	NN	p2=NNP	11	dobj	11:A1=PPT
+14	could	could	MD	_	16	aux	16:AM-MOD
+15	greatly	greatly	RB	_	16	advmod	16:AM-MNR
+16	differ	differ	VB	pb=differ.02	4	advcl	4:AM-PRP
+17	from those	from those	WP$	p2=JJ	20	poss	_
+18	of the	of the	JJ	p2=DT	20	amod	_
+19	corporate	corporate	JJ	_	20	amod	_
+20	sector	sector	NN	_	16	dobj	16:A1=PPT
+21	.	.	.	_	4	punct	_
+
+1	They	they	PRP	_	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	0	root	_
+3	harder	hard	RBR	p2=JJR	4	advmod	_
+4	to achieve	to achieve	JJ	p2=NNP	5	amod	_
+5	and harder	and harder	NN	p2=RBR	2	attr	2:A2=PRD
+6	to keep	to keep	RB	p2=SYM	7	advmod	_
+7	loyal	loyal	JJ	_	5	amod	_
+8	.	.	.	_	2	punct	_
+
+1	Individuals	individual	NNS	_	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	12	ccomp	_
+3	strongly	strongly	RB	_	4	advmod	_
+4	dependant	dependant	JJ	_	11	amod	_
+5	on the	on the	JJ	p2=IN	11	amod	_
+6	word	word	NN	_	10	hmod	_
+7	-	-	HYPH	_	10	hyph	_
+8	of	of	IN	_	10	hmod	_
+9	-	-	HYPH	_	10	hyph	_
+10	mouth	mouth	NN	_	11	amod	_
+11	opinions	opinion	NNS	_	2	attr	2:A2=PRD
+12	and are	and are	VBP	p2=CC|pb=and are.01	0	root	_
+13	likely	likely	JJ	p2=RB	15	amod	_
+14	to change	to change	NN	p2=JJ	15	nn	_
+15	minds	mind	NNS	p2=VBZ	12	dobj	12:A1
+16	as	as	IN	_	12	prep	12:A2
+17	if	if	IN	_	21	mark	_
+18	with	with	IN	_	1	prep	_
+19	a wave	a wave	NNP	p2=JJ	20	nn	_
+20	of a	of a	NNP	p2=NN	21	nn	_
+21	wound	wound	NN	p2=RB	18	pobj	_
+22	.	.	.	_	12	punct	_
+
+1	Recent	recent	JJ	_	2	amod	_
+2	researches	research	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	claim	claim	VBP	p2=NN|pb=claim.01	0	root	_
+4	that	that	IN	p2=DT	9	complm	_
+5	first	#ord#	RB	p2=JJ	6	advmod	_
+6	of all	of all	JJ	p2=RB	7	amod	_
+7	a traveller	a traveller	NN	p2=NNP	9	nsubj	_
+8	would	would	MD	_	9	aux	9:AM-MOD
+9	go	go	VB	pb=go.01	3	ccomp	3:A1=PPT
+10	for opinions	for opinions	NNS	p2=NNPS	13	nn	_
+11	to various	to various	JJ	p2=POS	13	amod	_
+12	travel	travel	NN	p2=VBP	13	nn	_
+13	sites	site	NNS	_	9	dobj	9:A1=PPT
+14	such	such	JJ	_	15	amod	_
+15	as	as	IN	_	13	prep	_
+16	TripAdvisor	tripadvisor	NNP	p2=NN	15	pobj	_
+17	.	.	.	_	3	punct	_
+
+1	So	so	RB	_	2	advmod	2:AM-DIS
+2	keeping	keep	VBG	pb=keep.02	7	csubj	7:A1=PPT
+3	up	up	RP	_	2	prt	2:C-V
+4	your	your	PRP$	_	5	poss	_
+5	score	score	NN	_	2	dobj	2:A1=PPT
+6	could	could	MD	_	7	aux	7:AM-MOD
+7	be	be	VB	pb=be.01	0	root	_
+8	critical	critical	JJ	_	11	amod	_
+9	and a	and a	NNP	p2=NN	11	nn	_
+10	lot	lot	NN	_	11	nn	_
+11	of effort	of effort	NN	p2=''	14	nsubjpass	_
+12	should	should	MD	_	14	aux	14:AM-MOD
+13	be	be	VB	_	14	auxpass	_
+14	put	put	VBN	pb=put.01	7	ccomp	7:A2=PRD
+15	to stable	to stable	NNP	p2=JJ	16	nn	_
+16	and elevate	and elevate	NNP	p2=VB	14	dobj	14:A1=PPT
+17	your	your	PRP$	_	19	poss	_
+18	online	online	JJ	_	19	amod	_
+19	reputation	reputation	NN	_	16	appos	_
+20	.	.	.	_	7	punct	_
+
+1	But	but	CC	_	8	cc	8:AM-DIS
+2	even	even	RB	_	5	advmod	_
+3	if	if	IN	_	5	mark	_
+4	you	you	PRP	_	5	nsubj	5:A0=PAG
+5	have	have	VBP	pb=have.03	8	advcl	8:AM-ADV
+6	fantastic	fantastic	JJ	_	7	amod	_
+7	reviews	review	NNS	_	8	nsubj	8:A0
+8	a rival	a rival	VBP	p2=NFP|pb=a rival.01	0	root	_
+9	hotel	hotel	NN	_	8	dobj	8:A1
+10	with	with	IN	_	8	prep	_
+11	not	not	RB	_	16	neg	16:AM-NEG
+12	such	such	JJ	_	14	amod	_
+13	great	great	JJ	_	14	amod	_
+14	opinions	opinion	NNS	_	16	nsubj	16:A0
+15	might	might	MD	_	16	aux	16:AM-MOD
+16	take	take	VB	pb=take.01	10	pcomp	_
+17	the customer	the customer	RB	p2=NNP	16	advmod	16:AM-MNR
+18	.	.	.	_	8	punct	_
+
+1	This	this	DT	_	3	nsubj	3:A1=PPT
+2	could	could	MD	_	3	aux	3:AM-MOD
+3	happen	happen	VB	pb=happen.01	0	root	_
+4	due	due	JJ	_	6	amod	_
+5	to various	to various	JJ	_	6	amod	_
+6	reasons	reason	NNS	_	3	dobj	3:C-A1
+7	as	as	IN	_	6	prep	_
+8	for example	for example	NN	p2=``	7	pobj	_
+9	you	you	PRP	_	11	nsubj	11:A0=PAG
+10	never	never	RB	_	11	neg	11:AM-NEG
+11	reply	reply	VBP	p2=RB|pb=reply.01	6	rcmod	_
+12	to reviews	to reviews	NNS	p2=IN	11	dobj	11:A1=GOL
+13	whether	whether	IN	_	15	complm	_
+14	they	they	PRP	_	15	nsubj	15:A1=PPT
+15	are	be	VBP	pb=be.01	11	advcl	11:AM-ADV
+16	positive	positive	JJ	_	15	acomp	15:A2=PRD
+17	or	or	CC	_	16	cc	_
+18	negative	negative	JJ	_	16	conj	_
+19	or	or	CC	_	15	cc	_
+20	the price	the price	EX	p2=NN	21	expl	_
+21	is	be	VBZ	pb=be.02	15	conj	_
+22	too	too	RB	_	23	advmod	_
+23	high	high	JJ	_	21	acomp	21:A1=PPT
+24	though	though	IN	p2=RB	28	mark	_
+25	that	that	DT	_	28	nsubj	28:A1=PPT
+26	might	might	MD	_	28	aux	28:AM-MOD
+27	not	not	RB	_	28	neg	28:AM-NEG
+28	be	be	VB	pb=be.01	21	advcl	21:AM-ADV
+29	the answer	the answer	IN	p2=,	28	prep	28:A2=PRD
+30	you	you	PRP	_	32	nsubj	32:A0=PPT
+31	are	be	VBP	_	32	aux	_
+32	looking	look	VBG	pb=look.01	28	ccomp	_
+33	for	for	IN	_	32	prep	32:A1=GOL
+34	.	.	.	_	3	punct	_
+
+1	Once	once	RB	p2=NN	2	advmod	_
+2	again	again	RB	_	3	advmod	3:AM-TMP
+3	going	go	VBG	pb=go.02	8	advcl	_
+4	back	back	RB	_	3	advmod	3:AM-DIR
+5	to researches	to researches	NNP	p2=IN	8	npadvmod	_
+6	it	it	PRP	_	8	nsubjpass	_
+7	was	be	VBD	_	8	auxpass	_
+8	stated	state	VBN	pb=state.01	0	root	_
+9	that	that	IN	_	17	complm	_
+10	when	when	WRB	_	11	advmod	11:R-AM-TMP
+11	choosing	choose	VBG	pb=choose.01	17	advcl	17:AM-TMP
+12	an accommodation	an accommodation	NN	p2=NNP	13	nn	_
+13	a guest	a guest	NN	p2=JJS	11	dobj	11:A1=PPT
+14	would	would	MD	_	17	aux	17:AM-MOD
+15	more	more	RBR	_	16	advmod	_
+16	likely	likely	JJ	p2=RB	17	advmod	17:AM-ADV
+17	give	give	VB	pb=give.01	8	ccomp	8:A1=PPT
+18	his	his	PRP$	_	23	poss	_
+19	or	or	CC	_	18	cc	_
+20	her	her	PRP$	_	21	poss	_
+21	preference	preference	NN	_	22	nn	_
+22	to a	to a	NN	p2=XX	23	nn	_
+23	hotel	hotel	NN	_	17	dobj	17:A1=PPT
+24	with	with	IN	_	17	prep	_
+25	a rich	a rich	JJ	p2=NNP	28	amod	_
+26	collection	collection	NN	_	28	nn	_
+27	of visual	of visual	JJ	p2=NN	28	amod	_
+28	materials	material	NNS	_	24	pobj	_
+29	.	.	.	_	8	punct	_
+
+1	Such	such	JJ	_	3	amod	_
+2	popular	popular	JJ	_	3	amod	_
+3	tools	tool	NNS	_	13	nsubj	13:A0=PAG
+4	as	as	IN	_	3	prep	_
+5	photo	photo	NN	_	6	nn	_
+6	images	image	NNS	_	4	pobj	_
+7	or	or	CC	_	6	cc	_
+8	virtual	virtual	JJ	_	9	amod	_
+9	tours	tour	NNS	_	6	conj	_
+10	could	could	MD	_	13	aux	13:AM-MOD
+11	not	not	RB	_	13	neg	13:AM-NEG
+12	fully	fully	RB	_	13	advmod	13:AM-MNR
+13	create	create	VB	pb=create.01	0	root	_
+14	the right	the right	RB	p2=CD	13	advmod	13:AM-MNR
+15	impression	impression	NN	_	16	nsubj	_
+16	and are	and are	VB	p2=CC|pb=and are.01	5	ccomp	_
+17	not	not	RB	_	18	neg	_
+18	enough	enough	JJ	p2=RB	16	advmod	16:A1
+19	anymore	anymore	RB	_	16	advmod	16:AM-TMP
+20	.	.	.	_	13	punct	_
+
+1	Travellers	traveller	NNS	p2=NNPS	3	nsubj	3:A0=PAG;4:A0
+2	now	now	RB	_	3	advmod	3:AM-TMP
+3	want	want	VBP	pb=want.01	0	root	_
+4	to get	to get	VBN	p2=NN|pb=to get.01	3	xcomp	3:A1=PPT
+5	the image	the image	RB	p2=NN	6	advmod	_
+6	of the	of the	JJ	p2=VBN	7	amod	_
+7	property	property	NN	_	4	dobj	4:A1
+8	where	where	WRB	_	11	advmod	11:R-AM-LOC
+9	they	they	PRP	_	11	nsubj	11:A0=PAG
+10	are	be	VBP	_	11	aux	_
+11	planning	plan	VBG	pb=plan.01	7	ccomp	_
+12	to stay	to stay	NNP	p2=RB	11	dobj	11:A1=PPT
+13	as	as	IN	p2=RB	4	prep	4:A2
+14	bright	bright	JJ	_	15	amod	_
+15	and lively	and lively	NNP	p2=RB	13	pobj	_
+16	as	as	IN	_	15	prep	_
+17	possible	possible	JJ	_	16	amod	_
+18	.	.	.	_	3	punct	_
+
+1	A new	a new	JJ	p2=VBD	3	amod	_
+2	wave	wave	NN	p2=VBP	3	nn	_
+3	of interest	of interest	NN	p2=JJS	6	nsubjpass	6:A1
+4	could	could	MD	_	6	aux	6:AM-MOD
+5	be	be	VB	_	6	auxpass	_
+6	performed	performed	VBN	pb=perform.01	0	root	_
+7	by creating	by creating	VBG	_	6	prep	6:AM-MNR
+8	video	video	NN	_	9	nn	_
+9	tours	tour	NNS	_	7	pobj	11:A1=PPT
+10	that	that	WDT	_	11	nsubj	11:R-A1
+11	are	be	VBP	pb=be.01	9	rcmod	_
+12	an additional	an additional	JJ	_	17	amod	_
+13	ponderable	ponderable	JJ	p2=NN	14	amod	_
+14	point	point	NN	_	15	nn	_
+15	of online	of online	NN	p2=RB	16	nn	_
+16	marketing	marketing	NN	p2=VBG	17	nn	_
+17	and they	and they	NN	p2=CC	18	nsubj	18:A0=PAG
+18	add	add	VB	p2=VBP|pb=add.02	3	ccomp	_
+19	interest	interest	NN	_	21	nn	_
+20	to potential	to potential	JJ	p2=NN	21	amod	_
+21	buyers	buyer	NNS	_	18	dobj	18:A1=PPT
+22	.	.	.	_	6	punct	_
+
+1	Shooting	shoot	VBG	p2=NN|pb=shoot.03	4	csubj	4:A1=PPT
+2	small	small	JJ	_	3	amod	_
+3	and what	and what	NNP	p2=DT	1	dobj	1:A1=PPT
+4	is	be	VBZ	pb=be.01	0	root	_
+5	most	most	RBS	_	6	advmod	_
+6	important	important	JJ	_	4	acomp	4:A2=PRD
+7	not	not	RB	_	8	neg	_
+8	professional	professional	JJ	_	9	amod	_
+9	videos	video	NNS	_	20	nsubj	20:A1=PPT
+10	(	(	-LRB-	_	13	punct	_
+11	for	for	IN	_	13	prep	13:AM-DIS
+12	example	example	NN	_	11	pobj	_
+13	use	use	VB	p2=VBP|pb=use.01	9	parataxis	_
+14	your	your	PRP$	_	17	poss	_
+15	smart	smart	JJ	_	17	amod	_
+16	mobile	mobile	JJ	p2=NN	17	amod	_
+17	device	device	NN	_	13	dobj	13:A1=PPT
+18	)	)	-RRB-	_	13	punct	_
+19	could	could	MD	_	20	aux	20:AM-MOD
+20	be	be	VB	pb=be.01	4	ccomp	_
+21	an additional	an additional	JJ	_	23	amod	_
+22	point	point	NN	_	23	nn	_
+23	to consider	to consider	NN	p2=XX	20	attr	20:A2=PRD
+24	as	as	IN	_	27	mark	_
+25	they	they	PRP	_	27	nsubj	27:A0=PAG;28:A0
+26	will	will	MD	_	27	aux	27:AM-MOD
+27	create	create	VB	pb=create.01	20	advcl	20:AM-ADV
+28	a feeling	a feeling	VBG	pb=a feeling.01	27	xcomp	27:A1=PPT
+29	that	that	DT	p2=IN	32	complm	_
+30	the video	the video	NN	p2=EX	32	nsubjpass	32:A1=PRD
+31	is	be	VBZ	_	32	auxpass	_
+32	made	make	VBN	pb=make.02	28	ccomp	28:A1
+33	'	'	''	p2=``	32	punct	_
+34	not	not	RB	_	35	neg	35:AM-NEG
+35	for selling	for selling	VBG	p2=JJ|pb=for selling.01	32	advcl	_
+36	purposes	purpose	NNS	_	25	appos	_
+37	'	'	POS	p2=''	36	possessive	_
+38	but	but	CC	_	36	cc	_
+39	just	just	RB	_	42	advmod	42:AM-ADV
+40	to show	to show	NNP	p2=CD	42	nsubj	42:A0
+41	the daily	the daily	RB	p2=DT	42	advmod	42:AM-MNR
+42	performance	performance	VBP	pb=performance.01	36	conj	_
+43	of your	of your	PRP$	p2=CD	44	poss	_
+44	hotel	hotel	NN	_	42	dobj	42:A1
+45	.	.	.	_	4	punct	_
+
+1	Such	such	JJ	_	2	amod	_
+2	actions	action	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	likely	likely	JJ	p2=RB	7	amod	_
+5	to build	to build	NN	p2=JJ	7	nn	_
+6	a positive	a positive	JJ	p2=NN	7	amod	_
+7	image	image	NN	_	3	attr	3:A2=PRD
+8	and prove	and prove	IN	p2=NNP	3	prep	_
+9	that	that	IN	p2=DT	12	mark	_
+10	your	your	PRP$	_	11	poss	_
+11	hotel	hotel	NN	_	12	nsubj	12:A1=PPT
+12	is	be	VBZ	pb=be.01	3	advcl	_
+13	as	as	RB	p2=IN	14	advmod	_
+14	great	great	JJ	_	12	acomp	12:A2=PRD
+15	in daily	in daily	RB	p2=JJ	16	advmod	_
+16	routine	routine	JJ	p2=RB	12	acomp	_
+17	as	as	IN	_	19	mark	_
+18	it	it	PRP	_	19	nsubj	19:A1=PPT
+19	is	be	VBZ	pb=be.01	16	advcl	_
+20	in the	in the	,	p2=PRP	23	punct	_
+21	specially	specially	RB	_	22	advmod	22:AM-MNR
+22	created	create	VBN	p2=JJ|pb=create.01	23	amod	_
+23	advertisements	advertisement	NNS	_	19	attr	22:A1=PPT;19:A2=PRD
+24	.	.	.	_	3	punct	_
+
+1	Another	another	DT	_	7	det	_
+2	smart	smart	JJ	_	7	amod	_
+3	idea 	idea 	NN	p2=NNP	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	introduce	introduce	NN	p2=VBP	7	nn	_
+6	video	video	NN	_	7	nn	_
+7	spots	spot	NNS	_	0	root	_
+8	to your	to your	WDT	p2=PRP$	10	det	_
+9	virtual	virtual	JJ	_	10	amod	_
+10	tools	tool	NNS	_	7	appos	_
+11	.	.	.	_	7	punct	_
+
+1	Our	our	PRP$	_	2	poss	_
+2	experience	experience	NN	_	8	npadvmod	8:AM-DIS
+3	at Crowne	at crowne	NNP	p2=NN	7	nn	_
+4	Plaza	plaza	NNP	_	6	nn	_
+5	Moscow	moscow	NNP	_	6	nn	_
+6	WTC	wtc	NNP	_	7	nn	_
+7	hotel	hotel	NN	_	8	nsubj	8:A0=CAU
+8	shows	show	VBZ	p2=NNS|pb=show.01	0	root	_
+9	that	that	IN	_	12	complm	_
+10	guests	guest	NNS	_	12	nsubj	12:A0=PAG
+11	positively	positively	RB	_	12	advmod	12:AM-TMP
+12	review	review	VBP	p2=VB|pb=review.01	8	ccomp	8:A1=PPT
+13	such	such	JJ	_	14	amod	_
+14	innovations	innovation	NNS	_	15	nsubj	15:A0;22:A0
+15	and are	and are	VBP	p2=RBR|pb=and are.01	12	ccomp	12:A1=PPT
+16	likely	likely	JJ	p2=RB	17	amod	_
+17	to go	to go	NN	p2=NNP	15	dobj	15:A1
+18	through	through	IN	_	15	prep	15:A2
+19	the tour	the tour	NNP	p2=PRP$	18	pobj	_
+20	again	again	RB	_	15	advmod	15:AM-TMP
+21	just	just	RB	_	22	advmod	22:AM-ADV
+22	watching	watch	VBG	pb=watch.01	15	advcl	15:AM-MNR
+23	small	small	JJ	_	26	amod	_
+24	but	but	CC	_	23	cc	_
+25	thrilling	thrilling	JJ	p2=VBG	23	conj	_
+26	videos	video	NNS	_	22	dobj	22:A1
+27	of a	of a	IN	p2=,	22	prep	_
+28	moving	move	VBG	pb=move.01	27	pcomp	_
+29	rooster	rooster	NN	_	30	nn	_
+30	clock	clock	NN	_	34	nsubj	34:A0=PAG
+31	or	or	CC	_	30	cc	_
+32	a bartender	a bartender	NN	p2=IN	30	conj	_
+33	virtuously	virtuously	RB	_	34	advmod	34:AM-MNR
+34	making	make	VBG	pb=make.02	28	ccomp	28:A1=PPT
+35	a delicious	a delicious	JJ	_	36	amod	_
+36	cocktail	cocktail	NN	_	34	dobj	34:A1=PRD
+37	.	.	.	_	8	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	7	ccomp	_
+3	also	also	RB	_	2	advmod	2:AM-ADV
+4	vital	vital	JJ	_	5	amod	_
+5	to be	to be	NN	p2=NNP	2	attr	2:A2=PRD
+6	on the	on the	:	p2=NN	7	punct	_
+7	go	go	VB	pb=go.01	0	root	_
+8	with	with	IN	_	7	prep	7:AM-COM
+9	trusted	trust	VBN	p2=VBD|pb=trust.01	11	amod	_
+10	and authoritative	and authoritative	JJ	p2=NNP	11	amod	_
+11	companies	company	NNS	_	8	pobj	9:A1=PPT
+12	like	like	IN	_	11	prep	_
+13	Google	google	NNP	_	12	pobj	_
+14	.	.	.	_	7	punct	_
+
+1	Lately	lately	RB	_	3	advmod	3:AM-TMP
+2	they	they	PRP	_	3	nsubj	3:A0=PAG
+3	developed	develop	VBD	pb=develop.02	0	root	_
+4	a number	a number	NNP	p2=IN	6	nn	_
+5	of business	of business	NN	p2=POS	6	nn	_
+6	decisions	decision	NNS	_	3	dobj	7:A0=PAG;3:A1=PRD
+7	helping	help	VBG	pb=help.01	6	partmod	_
+8	companies	company	NNS	_	9	nsubj	9:A0
+9	to develop	to develop	VB	p2=IN|pb=to develop.01	7	ccomp	7:A1=PPT
+10	their	their	PRP$	_	12	poss	_
+11	online	online	JJ	_	12	amod	_
+12	presence	presence	NN	_	9	dobj	9:A1
+13	and promote	and promote	NNP	p2=NN	14	nn	_
+14	services	service	NNS	_	12	appos	_
+15	.	.	.	_	3	punct	_
+
+1	As	as	IN	_	0	root	_
+2	an example 	an example 	NNP	p2=VBN	4	hmod	_
+3	-	-	HYPH	_	4	hyph	_
+4	the Business	the business	NNP	p2=NN	6	nn	_
+5	photos	photo	NNS	p2=NN	6	nn	_
+6	project	project	NN	p2=VBP	1	pobj	_
+7	.	.	.	_	6	punct	_
+
+1	It	it	PRP	_	2	nsubj	2:A0=PAG
+2	makes	make	VBZ	pb=make.02	0	root	_
+3	easier	easy	JJR	_	4	amod	_
+4	for users	for users	NNS	_	5	nsubj	5:A0
+5	to find	to find	VB	p2=IN|pb=to find.01	2	ccomp	2:A1=PRD
+6	your	your	PRP$	_	11	poss	_
+7	hotel	hotel	NN	_	11	nn	_
+8	and take	and take	NNP	p2=VB	10	nn	_
+9	a glance	a glance	NNP	p2=NN	10	nn	_
+10	at the	at the	NNP	p2=DT	11	nn	_
+11	property	property	NN	_	5	dobj	5:A1
+12	without	without	IN	_	5	prep	5:AM-MNR
+13	even	even	RB	_	14	advmod	14:AM-ADV
+14	visiting	visit	VBG	pb=visit.01	12	pcomp	_
+15	your	your	PRP$	_	17	poss	_
+16	web	web	NN	_	17	nn	_
+17	site	site	NN	_	14	dobj	14:A1=COM
+18	.	.	.	_	2	punct	_
+
+1	Moreover	moreover	RB	p2=RBR	2	advmod	2:AM-DIS
+2	go	go	VB	p2=VBP|pb=go.01	0	root	_
+3	and be	and be	RB	p2=NNP	4	advmod	_
+4	mobile	mobile	JJ	p2=RB	2	advmod	2:AM-MNR
+5	.	.	.	_	2	punct	_
+
+1	You	you	PRP	_	4	nsubj	4:A0=PAG
+2	would	would	MD	_	4	aux	4:AM-MOD
+3	hardly	hardly	RB	_	4	advmod	4:AM-ADV
+4	find	find	VB	pb=find.01	0	root	_
+5	a person	a person	NNP	p2=NN	7	nsubj	7:A0=PAG
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	browsing	browse	VBG	p2=JJ|pb=browse.01	4	ccomp	4:A1=PPT
+8	the web	the web	RB	p2=''	7	advmod	7:AM-MNR
+9	from a	from a	IN	p2=JJ	7	prep	7:A1=PPT
+10	mobile	mobile	JJ	_	11	amod	_
+11	device	device	NN	_	9	pobj	_
+12	.	.	.	_	4	punct	_
+
+1	Decisions	decision	NNS	_	4	nsubjpass	4:A1=PPT
+2	could	could	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	taken	take	VBN	pb=take.01	0	root	_
+5	anywhere	anywhere	RB	_	4	advmod	_
+6	and anytime	and anytime	NNP	p2=RB	7	nn	_
+7	and your	and your	NNP	p2=POS	9	nn	_
+8	potential	potential	JJ	_	9	amod	_
+9	clients	client	NNS	_	12	nsubj	12:A0=PAG;16:A0=PAG;19:A0
+10	would	would	MD	_	12	aux	12:AM-MOD
+11	just	just	RB	_	12	advmod	12:AM-ADV
+12	book	book	VB	pb=book.01	4	ccomp	_
+13	their	their	PRP$	_	14	poss	_
+14	accommodation	accommodation	NN	_	12	dobj	12:A1=PPT
+15	while	while	IN	_	16	mark	_
+16	riding	ride	VBG	pb=ride.01	12	advcl	12:AM-TMP
+17	a bus	a bus	NNP	p2=NNS	16	dobj	16:A1=PPT
+18	or	or	CC	_	16	cc	_
+19	taking	take	VBG	pb=take.01	16	conj	_
+20	a walk	a walk	NNP	p2=RP	22	nn	_
+21	in a	in a	NNP	p2=POS	22	nn	_
+22	park	park	NN	p2=VB	19	dobj	19:A1=PPT
+23	away	away	RB	_	19	advmod	19:C-V
+24	from the	from the	DT	p2=JJ	25	det	_
+25	city	city	NN	_	19	dobj	_
+26	.	.	.	_	4	punct	_
+
+1	A lot	a lot	NN	p2=NNP	2	nn	_
+2	of effort	of effort	NN	p2=RB	5	nsubjpass	5:A1=PPT
+3	should	should	MD	_	5	aux	5:AM-MOD
+4	be	be	VB	_	5	auxpass	_
+5	put	put	VBN	pb=put.01	0	root	_
+6	in successful	in successful	JJ	p2=IN	5	advmod	5:A2=GOL
+7	competing	compete	VBG	pb=compete.01	5	advcl	5:AM-ADV
+8	and staying	and staying	VBG	p2=NNP|pb=and staying.01	7	xcomp	7:A1=COM
+9	on top	on top	IN	p2=RP	8	prep	8:A1
+10	of the	of the	JJ	p2=DT	11	amod	_
+11	market	market	NN	_	9	pobj	_
+12	.	.	.	_	5	punct	_
+
+1	Though	though	IN	_	3	mark	_
+2	the result	the result	NNP	p2=DT	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	always	always	RB	_	3	advmod	3:AM-TMP
+5	worth	worth	JJ	_	3	acomp	3:A2=PRD
+6	the consumed	the consumed	VBN	p2=JJ|pb=the consumed.01	7	amod	_
+7	energy	energy	NN	_	5	pobj	6:A1
+8	.	.	.	_	3	punct	_
+
+1	As	as	IN	p2=RB	7	mark	_
+2	previously	previously	RB	_	5	advmod	_
+3	mentioned 	mentioned 	JJ	p2=,	5	hmod	_
+4	-	-	HYPH	p2=:	5	hyph	_
+5	individual	individual	JJ	p2=NN	6	amod	_
+6	travelers	traveler	NNS	_	7	nsubj	7:A1=PPT
+7	are	be	VBP	pb=be.01	0	root	_
+8	the most	the most	RB	p2=VBN	7	advmod	7:AM-ADV
+9	'	'	``	_	20	punct	_
+10	troubled	troubled	JJ	p2=VBN	20	amod	_
+11	'	'	''	p2=POS	20	punct	_
+12	and hard	and hard	NN	p2=NNP	16	hmod	16:A1=PPT
+13	-	-	HYPH	_	16	hyph	_
+14	to	to	TO	p2=IN	16	aux	_
+15	-	-	HYPH	_	16	hyph	_
+16	get	get	VB	pb=get.01	20	amod	_
+17	part	part	NN	_	19	hmod	_
+18	of the	of the	HYPH	p2=IN	19	hyph	_
+19	tourist	tourist	NN	_	20	nn	_
+20	flow	flow	NN	_	7	attr	7:A2=PRD
+21	.	.	.	_	17	punct	_
+
+1	Be	be	VB	pb=be.01	0	root	_
+2	creative	creative	JJ	_	1	acomp	1:A2=PRD
+3	,	,	,	_	6	punct	_
+4	innovative	innovative	JJ	_	6	amod	_
+5	and stable	and stable	JJ	p2=NNP	6	amod	_
+6	and then	and then	NN	p2=NNP	2	conj	_
+7	you	you	PRP	_	9	nsubj	9:A1=PPT
+8	would	would	MD	_	9	aux	9:AM-MOD
+9	be	be	VB	pb=be.01	6	rcmod	_
+10	sure	sure	JJ	_	9	acomp	9:A2=PRD
+11	they	they	PRP	_	13	nsubj	13:A0=PAG
+12	will	will	MD	_	13	aux	13:AM-MOD
+13	continue	continue	VB	pb=continue.01	10	ccomp	_
+14	coming	come	VBG	pb=come.01	13	xcomp	13:A1=PPT
+15	and returning	and returning	NNP	p2=VBG	14	dobj	14:A1=PPT
+16	.	.	.	_	1	punct	_
+
+1	The	the	DT	_	4	det	_
+2	MT	mt	NNP	_	3	nn	_
+3	Conferences	conferences	NNP	p2=NNPS	4	nn	_
+4	section	section	NN	_	7	nsubj	7:A2=PPT
+5	did	do	VBD	_	7	aux	_
+6	not	not	RB	_	7	neg	7:AM-NEG
+7	involve	involve	VB	pb=involve.01	0	root	_
+8	the reporting	the reporting	VBG	p2=NNP|pb=the reporting.01	7	xcomp	7:A1=PPT
+9	or	or	CC	_	8	cc	_
+10	the editorial	the editorial	JJ	p2=DT	11	amod	_
+11	staff	staff	NN	_	13	nn	_
+12	of The Moscow	of the moscow	NNP	p2=NN	13	nn	_
+13	Times	times	NNP	_	8	conj	_
+14	.	.	.	_	7	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	4	det	_
+2	Russian	russian	NNP	p2=JJ	3	nn	_
+3	Defense	defense	NNP	_	4	nn	_
+4	Ministry	ministry	NNP	_	6	nsubj	6:A0=PAG;27:A0
+5	has	have	VBZ	_	6	aux	_
+6	confirmed	confirm	VBN	p2=VBD|pb=confirm.01	0	root	_
+7	that	that	IN	_	22	complm	_
+8	the	the	DT	_	11	det	_
+9	ten	#crd#	CD	_	11	num	_
+10	Russian	russian	JJ	p2=NNP	11	amod	_
+11	paratroopers	paratrooper	NNS	_	22	nsubj	12:A1=PPT;22:A1=PPT
+12	captured	capture	VBN	pb=capture.01	11	partmod	_
+13	by	by	IN	_	12	agent	12:A0=PAG
+14	Ukrainian	ukrainian	JJ	_	16	amod	_
+15	security	security	NN	_	16	nn	_
+16	services	service	NNS	_	13	pobj	_
+17	in	in	IN	_	16	prep	_
+18	the	the	DT	_	19	det	_
+19	country	country	NN	_	21	poss	_
+20	's	's	POS	_	19	possessive	_
+21	east	east	NN	p2=NNS	17	pobj	_
+22	are	be	VBP	pb=be.01	6	ccomp	6:A1=PPT
+23	indeed	indeed	RB	_	22	advmod	22:AM-ADV
+24	Russian	russian	JJ	_	22	acomp	22:A2=PRD
+25	,	,	,	_	6	punct	_
+26	but	but	CC	_	6	cc	_
+27	said	say	VBD	pb=say.01	6	conj	_
+28	they	they	PRP	_	29	nsubj	29:A0=PPT
+29	crossed	cross	VBD	pb=cross.02	27	ccomp	27:A1=PPT
+30	the	the	DT	_	31	det	_
+31	border	border	NN	_	29	dobj	29:A1
+32	by	by	IN	_	29	prep	29:AM-MNR
+33	mistake	mistake	NN	_	32	pobj	_
+34	.	.	.	_	6	punct	_
+
+1	Russian	russian	JJ	_	3	amod	_
+2	Foreign	foreign	NNP	_	3	nn	_
+3	Minister	minister	NNP	_	6	nn	_
+4	Sergei	sergei	NNP	_	6	nn	_
+5	Lavrov	lavrov	NNP	_	6	nn	_
+6	on Monday	on monday	NNP	_	7	nsubj	7:A0=PAG
+7	urged	urge	VBD	pb=urge.01	0	root	_
+8	Western	western	JJ	p2=NNP	10	amod	_
+9	and Arab	and arab	NNP	p2=JJ	10	nn	_
+10	governments	government	NNS	_	11	nsubj	11:A0
+11	to overcome	to overcome	VBP	p2=VBD|pb=to overcome.01	7	ccomp	7:A1=PPT
+12	their	their	PRP$	_	15	poss	_
+13	distaste	distaste	JJ	p2=NN	15	amod	_
+14	for Syrian	for syrian	JJ	p2=NNP	15	amod	_
+15	President	president	NNP	_	20	nsubj	_
+16	Bashar	bashar	NNP	_	19	nn	_
+17	al	al	NNP	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	Assad	assad	NNP	_	15	appos	_
+20	and engage	and engage	NN	p2=NNP	11	dobj	11:A1
+21	with	with	IN	_	20	prep	_
+22	him	him	PRP	_	21	pobj	_
+23	to fight	to fight	NNP	p2=,	26	nn	_
+24	Islamic	islamic	NNP	_	25	nn	_
+25	State	state	NNP	_	26	nn	_
+26	insurgents	insurgent	NNS	_	22	appos	_
+27	.	.	.	_	7	punct	_
+
+1	Yet	yet	RB	p2=CC	10	advmod	10:AM-TMP
+2	another	another	DT	_	4	det	_
+3	two	#crd#	CD	_	4	num	_
+4	McDonald	mcdonald	NNP	p2=NN	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	restaurants	restaurant	NNS	_	7	nn	_
+7	in Russia	in russia	NNP	p2=NNS	10	nsubjpass	10:A1=PPT
+8	have	have	VBP	_	10	aux	_
+9	been	be	VBN	_	10	auxpass	_
+10	forced	force	VBN	pb=force.01	0	root	_
+11	to shut	to shut	IN	p2=RP	10	prep	10:A2=PRD
+12	their	their	PRP$	_	13	poss	_
+13	doors	door	NNS	_	11	pobj	_
+14	after	after	IN	_	17	mark	_
+15	a sanitation	a sanitation	NN	p2=NNP	16	nn	_
+16	watchdog	watchdog	NN	_	17	nsubj	_
+17	closed	close	VBD	pb=close.01	10	advcl	10:AM-TMP
+18	down	down	RB	p2=RP	17	advmod	17:AM-MNR
+19	four	#crd#	CD	_	20	num	_
+20	outlets	outlet	NNS	_	17	dobj	17:A1=PPT
+21	in Moscow	in moscow	''	p2=RB	10	punct	_
+22	.	.	.	_	10	punct	_
+
+1	Russia	russia	NNP	_	3	nsubj	3:A0=PAG
+2	has	have	VBZ	_	3	aux	_
+3	granted	grant	VBN	pb=grant.01	17	ccomp	_
+4	asylum	asylum	NN	_	3	iobj	3:A2
+5	to Lithuanian	to lithuanian	NN	p2=JJ	6	nn	_
+6	banker	banker	NN	_	8	nn	_
+7	Vladimir	vladimir	NNP	_	8	nn	_
+8	Romanov	romanov	NNP	_	3	dobj	12:A0=PAG;3:A1
+9	,	,	,	_	8	punct	_
+10	who	who	WP	_	12	nsubjpass	12:R-A2
+11	is	be	VBZ	_	12	auxpass	_
+12	wanted	want	VBN	p2=VBD|pb=want.01	8	rcmod	_
+13	on embezzlement	on embezzlement	NN	p2=JJ	14	nn	_
+14	charges	charge	NNS	_	12	dobj	12:A1=PPT
+15	,	,	,	_	17	punct	_
+16	and has	and has	NNP	p2=''	17	nsubj	17:A0
+17	said	say	VBD	pb=say.01	0	root	_
+18	it	it	PRP	_	21	nsubj	21:A0=PAG
+19	will	will	MD	_	21	aux	21:AM-MOD
+20	not	not	RB	_	21	neg	21:AM-NEG
+21	extradite	extradite	VB	pb=extradite.01	17	ccomp	17:A1=PPT
+22	him	him	PRP	_	21	dobj	21:A1=PPT
+23	.	.	.	_	17	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	As	as	IN	_	3	mark	_
+2	Ukraine	ukraine	NNP	_	3	nsubj	3:A0=PAG
+3	marked	mark	VBD	pb=mark.01	15	advcl	15:AM-TMP
+4	its	its	PRP$	_	7	poss	_
+5	Independence	independence	NNP	_	7	nn	_
+6	Day	day	NNP	_	7	nn	_
+7	on Sunday	on sunday	NNP	_	3	dobj	3:A1=PPT
+8	with	with	IN	_	3	prep	_
+9	a military	a military	NNP	p2=JJ	10	nn	_
+10	march	march	NN	p2=NNP	11	nn	_
+11	in Kiev	in kiev	NNP	p2=NN	8	pobj	_
+12	,	,	,	_	15	punct	_
+13	pro-Moscow	pro-moscow	JJ	p2=WRB	14	amod	_
+14	rebels	rebel	NNS	_	15	nsubj	15:A0=PAG;16:A0
+15	countered	counter	VBD	pb=counter.01	0	root	_
+16	by parading	by parading	VBG	pb=by parading.01	15	xcomp	15:A2=PRD
+17	captured	capture	VBN	p2=VBD|pb=capture.01	19	amod	_
+18	Ukrainian	ukrainian	JJ	_	19	amod	_
+19	troops	troop	NNS	_	16	dobj	16:A1;17:A1=PPT
+20	through	through	IN	_	16	prep	16:AM-DIR
+21	the streets	the streets	NNS	p2=PRP$	20	pobj	_
+22	in Donetsk	in donetsk	NNP	p2=VBP	26	poss	_
+23	's	's	POS	_	22	possessive	_
+24	central	central	JJ	_	26	amod	_
+25	Lenin	lenin	NNP	_	26	nn	_
+26	Square	square	NNP	_	20	pobj	_
+27	.	.	.	_	15	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+
+1	Russia	russia	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	ordered	order	VBD	pb=order.01	20	ccomp	_
+3	the	the	DT	_	5	det	_
+4	temporary	temporary	JJ	_	5	amod	_
+5	closure	closure	NN	_	2	dobj	2:A1=GOL
+6	of	of	IN	_	5	prep	_
+7	four	#crd#	CD	_	8	num	_
+8	McDonald	mcdonald	NNP	p2=NN	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	restaurants	restaurant	NNS	_	6	pobj	_
+11	in	in	IN	_	2	prep	2:AM-TMP
+12	Moscow	moscow	NNP	_	11	pobj	_
+13	on	on	IN	_	2	prep	2:AM-TMP
+14	Wednesday	wednesday	NNP	_	13	pobj	_
+15	,	,	,	_	20	punct	_
+16	a	a	DT	_	17	det	_
+17	decision	decision	NN	_	20	nsubj	19:A1=PPT;20:A1=PPT;26:A1=PPT
+18	it	it	PRP	_	19	nsubj	19:A0
+19	said	say	VBD	pb=say.01	17	rcmod	_
+20	was	be	VBD	pb=be.01	0	root	_
+21	over	over	IN	p2=RB	20	prep	20:A2=PRD
+22	sanitary	sanitary	JJ	p2=NN	23	amod	_
+23	violations	violation	NNS	_	21	pobj	_
+24	but	but	CC	_	20	cc	_
+25	which	which	WDT	_	26	nsubj	26:R-A1
+26	comes	come	VBZ	pb=come.01	20	conj	_
+27	against	against	IN	_	26	prep	26:A3=DIR
+28	a	a	DT	_	29	det	_
+29	backdrop	backdrop	NN	_	27	pobj	_
+30	of	of	IN	_	29	prep	_
+31	worsening	worsen	VBG	pb=worsen.01	30	pcomp	_
+32	U.S	u.s	NNP	_	31	dobj	31:A1=PPT
+33	.	.	.	_	20	punct	_
+
+1	-	-	HYPH	_	2	hyph	_
+2	Russian	russian	JJ	p2=NNP	3	amod	_
+3	ties	tie	NNS	_	0	root	_
+4	.	.	.	_	3	punct	_
+

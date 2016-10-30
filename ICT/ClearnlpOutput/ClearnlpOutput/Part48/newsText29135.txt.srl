@@ -1,0 +1,30 @@
+1	You	you	PRP	_	4	nsubjpass	4:A1=PPT
+2	will	will	MD	_	4	aux	4:AM-MOD
+3	be	be	VB	_	4	auxpass	_
+4	redirected	redirect	VBN	p2=JJ|pb=redirect.01	0	root	_
+5	to	to	IN	_	4	prep	4:A2=DIR
+6	the	the	DT	_	7	det	_
+7	page	page	NN	_	5	pobj	_
+8	you	you	PRP	_	9	nsubj	9:A0=PAG;11:A0=PPT
+9	want	want	VBP	pb=want.01	7	rcmod	_
+10	to	to	TO	_	11	aux	_
+11	view	view	VB	pb=view.01	9	xcomp	9:A1=PPT
+12	in  seconds	in  seconds	NNS	p2=NNP	11	dobj	11:A1=PAG
+13	.	.	.	_	4	punct	_
+
+1	Join	join	VB	p2=VBP|pb=join.01	0	root	_
+2	Our	our	PRP$	p2=NNP	3	poss	_
+3	Team	team	NNP	p2=NN	1	dobj	1:A1=PPT
+4	!	!	.	_	1	punct	_
+
+1	Copyright	copyright	NN	_	0	root	_
+2	©	©	IN	p2=VBD	1	prep	_
+3	2014	0	CD	_	4	num	_
+4	archive.greenbaypressgazette.com	#url#	ADD	_	2	pobj	_
+5	.	.	.	_	1	punct	_
+
+1	All	all	DT	_	2	det	_
+2	rights	right	NNS	_	3	nsubj	3:A1=PPT
+3	reserved	reserve	VBN	p2=VBD|pb=reserve.01	0	root	_
+4	.	.	.	_	3	punct	_
+

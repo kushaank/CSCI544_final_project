@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A large earthquake,damage.01,some buildings,,Affirmative,"A large earthquake has rolled through California , damaging some buildings , igniting fires and knocking out power . "
+A large earthquake,knock.03,power,,Affirmative,"A large earthquake has rolled through California , damaging some buildings , igniting fires and knocking out power . "
+the Guardia Civil,report.01,officials cooperated in,,Affirmative,"French officials cooperated in the arrest , reported the Guardia Civil . "
+"The man , whose identity was not released",try.01,to cross,,Affirmative,He was followed and picked up when he tried to cross the border . 
+"The man , whose identity was not released",cross.02,the French border,,Affirmative,He was followed and picked up when he tried to cross the border . 
+"The man , whose identity was not released",try.01,to use,,Affirmative,"Although he tried to use forged identity papers at the border , he was identified thanks to his fingerprints . "
+"The man , whose identity was not released",use.01,forged identity papers,,Affirmative,"Although he tried to use forged identity papers at the border , he was identified thanks to his fingerprints . "
+SMS Alerts,break.01,news stories,,Affirmative,SMS Alerts Get breaking news stories via SMS . 
+by OpenCalais,automate.01,Website keywords automated by OpenCalais,,Affirmative,Calais Website keywords automated by OpenCalais . 
+Creating,enable.01,to submit photos and stories,you,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,submit.01,photos and stories,,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,select.01,The image,,Affirmative,* The image you selected could not be uploaded . 

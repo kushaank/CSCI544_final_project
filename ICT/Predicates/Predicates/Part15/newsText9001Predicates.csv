@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old girl,say.01,she was abducted,,Affirmative,A 14 - year - old girl who said she was abducted Sunday afternoon is now facing charges . 
+old girl,face.01,charges,,Affirmative,A 14 - year - old girl who said she was abducted Sunday afternoon is now facing charges . 
+Office,say.01,girl claimed,,Affirmative,"The Lee County Sheriff 's Office said the girl claimed a group of men grabbed her and forced her into a white van , before dumping her at an empty apartment . "
+A 14-year-old girl who said she was abducted Sunday,claim.01,grabbed her and forced her into,,Affirmative,"The Lee County Sheriff 's Office said the girl claimed a group of men grabbed her and forced her into a white van , before dumping her at an empty apartment . "
+a group of men,grab.01,A 14-year-old girl who said she was abducted Sunday,,Affirmative,"The Lee County Sheriff 's Office said the girl claimed a group of men grabbed her and forced her into a white van , before dumping her at an empty apartment . "
+a group of men,force.01,A 14-year-old girl who said she was abducted Sunday,into,Affirmative,"The Lee County Sheriff 's Office said the girl claimed a group of men grabbed her and forced her into a white van , before dumping her at an empty apartment . "
+A 14-year-old girl who said she was abducted Sunday,dump.01,A 14-year-old girl who said she was abducted Sunday,,Affirmative,"The Lee County Sheriff 's Office said the girl claimed a group of men grabbed her and forced her into a white van , before dumping her at an empty apartment . "
+authorities,say.01,girl made up,,Affirmative,"On Monday , authorities said the girl made up the story . "
+A 14-year-old girl who said she was abducted Sunday,make.07,the story,,Affirmative,"On Monday , authorities said the girl made up the story . "
+a couple of days,agree.01,to meet with him,,Affirmative,"This had gone on for a couple of days and then she agreed to meet with him , said Lt. Larry King . "
+a couple of days,meet.03,with him,,Affirmative,"This had gone on for a couple of days and then she agreed to meet with him , said Lt. Larry King . "
+Lt. Larry King,say.01,This had gone on for,,Affirmative,"This had gone on for a couple of days and then she agreed to meet with him , said Lt. Larry King . "
+Lt. Larry King,say.01,Martinez picked up,,Affirmative,King said 27 - year - old Edward Martinez picked up the teen near her house off Gary Drive and Billy 's Creek Drive . 
+old Edward Martinez,pick.04,the teen near,,Affirmative,King said 27 - year - old Edward Martinez picked up the teen near her house off Gary Drive and Billy 's Creek Drive . 
+Deputies,say.01,both were disoriented,,Affirmative,Deputies say both were disoriented . 
+Lt. Larry King,say.01,", texted",,Affirmative,"King said the teenager , whose name has not been released because of her age , texted her sister and said she had been abducted . "
+"the teenager ,",text.01,her sister,,Affirmative,"King said the teenager , whose name has not been released because of her age , texted her sister and said she had been abducted . "
+"the teenager ,",say.01,she had been abducted,,Affirmative,"King said the teenager , whose name has not been released because of her age , texted her sister and said she had been abducted . "
+Neighbor Alvin Bishop,say.01,he saw deputies at,,Affirmative,Neighbor Alvin Bishop said he saw deputies at the teen 's house . 
+Neighbor Alvin Bishop,see.01,deputies at,,Affirmative,Neighbor Alvin Bishop said he saw deputies at the teen 's house . 
+Neighbor Alvin Bishop,say.01,That 's,,Affirmative,"That 's what I wonder , said Bishop . "
+The girl 's mother,say.01,daughter is innocent,,Affirmative,She said her daughter is innocent . 
+The girl 's mother,claim.01,child was lured to,,Affirmative,She claimed her child was lured to Martinez 's home - but neighbors are n't buying it . 
+27-year-old Edward Martinez,buy.01,Martinez 's home,,Affirmative,She claimed her child was lured to Martinez 's home - but neighbors are n't buying it . 
+Neighbor Alvin Bishop,say.01,It 's uncalled for,,Affirmative,"It 's uncalled for , said Bishop . "
+Neighbor Alvin Bishop,think.01,girl needs,,Affirmative,I think the little girl needs a lesson taught to her . 
+the little girl,need.01,a lesson taught to her,,Affirmative,I think the little girl needs a lesson taught to her . 
+the little girl,need.01,to be dealt with in,,Affirmative,She needs to be dealt with in a major way . 
+the little girl,deal.01,with,,Affirmative,She needs to be dealt with in a major way . 
+the teen near her house,give.01,false information,to,Affirmative,The teen is charged with giving false information to an officer . 
+27-year-old Edward Martinez,face.01,several drug charges,,Affirmative,Martinez is also facing several drug charges . 
+All content,copyright.01,WorldNow and WZVN,,Affirmative,All content © Copyright 2000 - 2014 WorldNow and WZVN . 

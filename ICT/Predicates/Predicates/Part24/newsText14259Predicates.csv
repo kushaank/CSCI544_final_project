@@ -1,0 +1,39 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The government,contract.02,to manage,with,Affirmative,The government contracts with Spanish companies such as Meliá International to manage Havana 's hotels . 
+The government,manage.01,hotels,,Affirmative,The government contracts with Spanish companies such as Meliá International to manage Havana 's hotels . 
+Meliá,say.01,that it wanted,,Affirmative,"Before accepting its contract , Meliá said that it wanted to pay workers a decent wage . "
+its contract,want.01,to pay workers,,Affirmative,"Before accepting its contract , Meliá said that it wanted to pay workers a decent wage . "
+its contract,pay.01,a decent wage,workers,Affirmative,"Before accepting its contract , Meliá said that it wanted to pay workers a decent wage . "
+The Cuban government,say.01,company pays,,Affirmative,"The Cuban government said fine , so the company pays $ 8 - $ 10 an hour . "
+the company,pay.01,$ 10,so,Affirmative,"The Cuban government said fine , so the company pays $ 8 - $ 10 an hour . "
+the firm,give.01,the compensation,to,Affirmative,"Instead , the firm gives the compensation to the government , which then pays the workers - but only after pocketing most of the money . "
+"the government ,",pay.01,the workers,,Affirmative,"Instead , the firm gives the compensation to the government , which then pays the workers - but only after pocketing most of the money . "
+I,ask.01,arrangement is really true,several Cubans,Affirmative,I asked several Cubans in my hotel if that arrangement is really true . 
+All,confirm.01,that it is,,Affirmative,All confirmed that it is . 
+the workers,get.01,$ 8 - $ 10,,Affirmative,The workers do n't get $ 8 - $ 10 an hour ; they get 67 cents a day - a child 's allowance . 
+the workers,get.01,67 cents,,Affirmative,The workers do n't get $ 8 - $ 10 an hour ; they get 67 cents a day - a child 's allowance . 
+most Cubans,have.03,money,,Affirmative,Not only are most Cubans not allowed to have money ; they 're hardly allowed to have things . 
+the workers,have.03,things,,Affirmative,Not only are most Cubans not allowed to have money ; they 're hardly allowed to have things . 
+The police,expend.01,extraordinary manpower,,Affirmative,The police expend extraordinary manpower ensuring that everyone required to live miserably at the bottom actually does live miserably at the bottom . 
+The police,ensure.01,actually does live miserably at,,Affirmative,The police expend extraordinary manpower ensuring that everyone required to live miserably at the bottom actually does live miserably at the bottom . 
+Dissident blogger and author,describe.01,the harassment,,Affirmative,"Dissident blogger and author Yoani Sánchez describes the harassment sarcastically in her book Havana Real : Buses are stopped in the middle of the street and bags inspected to see if we are carrying some cheese , a lobster , or some dangerous shrimp hidden among our personal belongings . "
+blogger and author Yoani Sanchez,carry.01,"some cheese ,",,Affirmative,"Dissident blogger and author Yoani Sánchez describes the harassment sarcastically in her book Havana Real : Buses are stopped in the middle of the street and bags inspected to see if we are carrying some cheese , a lobster , or some dangerous shrimp hidden among our personal belongings . "
+"the government , which then pays the workers",deny.01,a problem,,Affirmative,Perhaps the saddest symptom of Cuba 's state - enforced poverty is the prostitution epidemic - a problem the government officially denies and even forbids foreign journalists based in Havana to mention . 
+"the government , which then pays the workers",forbid.01,foreign journalists based in Havana,,Affirmative,Perhaps the saddest symptom of Cuba 's state - enforced poverty is the prostitution epidemic - a problem the government officially denies and even forbids foreign journalists based in Havana to mention . 
+mothers -,solicit.01,johns,,Affirmative,"Some Cuban prostitutes are professionals , but many are average women - wives , girlfriends , sisters , mothers - who solicit johns once or twice a year for a little extra money to make ends meet . "
+"the government , which then pays the workers",defend.01,The maximum wage,,Affirmative,The government defends its maximum wage by arguing that life 's necessities are either free or so deeply subsidized in Cuba that citizens do n't need very much money . 
+"the government , which then pays the workers",argue.01,necessities are,,Affirmative,The government defends its maximum wage by arguing that life 's necessities are either free or so deeply subsidized in Cuba that citizens do n't need very much money . 
+citizens,need.01,much money,,Affirmative,The government defends its maximum wage by arguing that life 's necessities are either free or so deeply subsidized in Cuba that citizens do n't need very much money . 
+Che Guevara and,hope.01,to rid Cuba of money,,Affirmative,"( Che Guevara and his sophomoric hangers - on hoped to rid Cuba of money entirely , but could n't quite pull it off . ) "
+Che Guevara and,rid.01,Cuba of money,,Affirmative,"( Che Guevara and his sophomoric hangers - on hoped to rid Cuba of money entirely , but could n't quite pull it off . ) "
+Che Guevara and,pull.03,Cuba of money,,Affirmative,"( Che Guevara and his sophomoric hangers - on hoped to rid Cuba of money entirely , but could n't quite pull it off . ) "
+Citizens,take.01,public transportation,to work -,Affirmative,"Citizens who take public transportation to work - which includes almost everyone , since Cuba hardly has any cars - must wait in lines for up to two hours each way to get on a bus . "
+Cuba 's,have.03,any cars,,Affirmative,"Citizens who take public transportation to work - which includes almost everyone , since Cuba hardly has any cars - must wait in lines for up to two hours each way to get on a bus . "
+Americans,get.01,houses in,,Affirmative,Americans can get houses in abandoned parts of Detroit for only $ 500 - which makes them practically free - but no one wants to live in a crumbling house in a gone - to - the - weeds neighborhood . 
+no one,want.01,to live in,,Affirmative,Americans can get houses in abandoned parts of Detroit for only $ 500 - which makes them practically free - but no one wants to live in a crumbling house in a gone - to - the - weeds neighborhood . 
+I,see.01,adequate housing,,Affirmative,"I saw adequate housing in the Cuban countryside , but almost everyone in Havana lives in a Detroit - style wreck , with caved - in roofs , peeling paint , and doors hanging on their hinges at odd angles . "
+almost everyone in Havana,peel.01,paint,,Affirmative,"I saw adequate housing in the Cuban countryside , but almost everyone in Havana lives in a Detroit - style wreck , with caved - in roofs , peeling paint , and doors hanging on their hinges at odd angles . "
+Castro 's,take.01,power,,Affirmative,"Education is free , and the country is effectively 100 percent literate , thanks to Castro 's campaign to teach rural people to read shortly after he took power . "
+the regime,have.03,yet,,Affirmative,But the regime has yet to make a persuasive argument that a totalitarian police state was required to get the literacy rate from 80 percent to 100 percent . 
+to get,require.01,a totalitarian police state,,Affirmative,But the regime has yet to make a persuasive argument that a totalitarian police state was required to get the literacy rate from 80 percent to 100 percent . 
+every other country in,manage.01,the same feat,,Affirmative,"After all , almost every other country in the Western Hemisphere managed the same feat at the same time , without the brutal repression . "

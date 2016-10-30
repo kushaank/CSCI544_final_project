@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Three Floridians,travel.01,to,,Affirmative,Three Floridians who recently traveled to the Caribbean contracted Chikungunya fever . 
+Dr. Carlos Hernandes,spend.02,his days,squashing,Affirmative,Dr. Carlos Hernandes spends his days squashing any problems you may have with mosquitoes . 
+Dr. Carlos Hernandes,squash.01,any problems,,Affirmative,Dr. Carlos Hernandes spends his days squashing any problems you may have with mosquitoes . 
+you,have.03,any problems,,Affirmative,Dr. Carlos Hernandes spends his days squashing any problems you may have with mosquitoes . 
+you,expect.01,active season,,Affirmative,"We expect a very active season , says Dr. Hernandes . "
+Dr. Carlos Hernandes,say.01,We expect,,Affirmative,"We expect a very active season , says Dr. Hernandes . "
+Dr. Carlos Hernandes,say.01,traps are set up,,Affirmative,"He says 78 traps are set up all around the county , allowing officials to collect mosquitoes and examine them for any viruses like West Nile or Chikungunya . "
+officials,collect.01,mosquitoes,,Affirmative,"He says 78 traps are set up all around the county , allowing officials to collect mosquitoes and examine them for any viruses like West Nile or Chikungunya . "
+officials,examine.01,officials,,Affirmative,"He says 78 traps are set up all around the county , allowing officials to collect mosquitoes and examine them for any viruses like West Nile or Chikungunya . "
+Dr. Carlos Hernandes,say.01,chickens are,,Affirmative,He says sentinel chickens are the best way to know about any contamination . 
+We,spray.01,areas,,Affirmative,"We spray areas and we inspect to see if we can find more larvae and protect mosquito populations that way , says Dr. Hernandes . "
+officials,see.01,if we can find,,Affirmative,"We spray areas and we inspect to see if we can find more larvae and protect mosquito populations that way , says Dr. Hernandes . "
+officials,find.01,more larvae,,Affirmative,"We spray areas and we inspect to see if we can find more larvae and protect mosquito populations that way , says Dr. Hernandes . "
+officials,protect.01,mosquito populations,,Affirmative,"We spray areas and we inspect to see if we can find more larvae and protect mosquito populations that way , says Dr. Hernandes . "
+Dr. Carlos Hernandes,say.01,We spray areas and,,Affirmative,"We spray areas and we inspect to see if we can find more larvae and protect mosquito populations that way , says Dr. Hernandes . "
+Dr. Carlos Hernandes,say.01,", it 's",,Affirmative,"Dr. Hernandes says that although they look for infected mosquitoes through these chickens and spray nightly , it 's a fish that helps fight like no other . "
+officials,look.01,for,,Affirmative,"Dr. Hernandes says that although they look for infected mosquitoes through these chickens and spray nightly , it 's a fish that helps fight like no other . "
+a fish,help.01,fight like,,Affirmative,"Dr. Hernandes says that although they look for infected mosquitoes through these chickens and spray nightly , it 's a fish that helps fight like no other . "
+officials,have.03,a great appetite,,Affirmative,"They 're very voracious and have a great appetite , he says of Gambusia fish , which love nothing more than to snack on mosquito larvae . "
+Dr. Carlos Hernandes,say.01,They 're,,Affirmative,"They 're very voracious and have a great appetite , he says of Gambusia fish , which love nothing more than to snack on mosquito larvae . "
+Dr. Carlos Hernandes,say.01,are leaving,,Affirmative,Dr. Hernandes says the biggest mistake people make are leaving breeding habitats for mosquitoes in their back yard . 
+the biggest mistake,leave.01,breeding habitats for mosquitoes in,,Affirmative,Dr. Hernandes says the biggest mistake people make are leaving breeding habitats for mosquitoes in their back yard . 
+other containers,hold.01,water,,Affirmative,"Destroy or dispose of tin cans , old tires , buckets , unused plastic swimming pools , or other containers that collect and hold water . "
+"leaves and debris ,",impede.01,the flow of water,,Affirmative,"Rain gutters can get clogged with leaves and debris , which impede the flow of water . "
+your roof,create.01,an ideal habitat for,,Affirmative,"Not only is that bad for your roof , it creates an ideal habitat for mosquito larvae , which need water to grow into adults . "
+an ideal habitat for,need.01,water,,Affirmative,"Not only is that bad for your roof , it creates an ideal habitat for mosquito larvae , which need water to grow into adults . "
+the cover,hold.01,"pools of rainwater ,",,Affirmative,"Make sure the cover does n't sag and hold pools of rainwater , which can also provide a breeding ground . "
+"pools of rainwater ,",provide.01,a breeding ground,,Affirmative,"Make sure the cover does n't sag and hold pools of rainwater , which can also provide a breeding ground . "
+the pool with fish,eat.01,the mosquito larvae,,Affirmative,"Another option is to stock the pool with fish , which will eat the mosquito larvae and prevent them from hatching off . "
+the pool with fish,prevent.01,them,from hatching off,Affirmative,"Another option is to stock the pool with fish , which will eat the mosquito larvae and prevent them from hatching off . "

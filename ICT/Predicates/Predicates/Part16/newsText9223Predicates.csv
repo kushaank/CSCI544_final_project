@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Calvin `` Cal '' Hobson,attempt.01,bribery,,Affirmative,"According to The Norman Transcript , former State Senate President Pro Tempore Calvin Cal Hobson was charged with driving under the influence of alcohol and attempted bribery . "
+An affidavit from,state.01,that Hobson was driving down HWY 77,,Affirmative,An affidavit from the District Court of Cleveland County stated that Hobson was driving down HWY 77 when an officer noticed him swerving from side to side . 
+Calvin `` Cal '' Hobson,drive.01,HWY 77,,Affirmative,An affidavit from the District Court of Cleveland County stated that Hobson was driving down HWY 77 when an officer noticed him swerving from side to side . 
+an officer,notice.01,him swerving from side to side,,Affirmative,An affidavit from the District Court of Cleveland County stated that Hobson was driving down HWY 77 when an officer noticed him swerving from side to side . 
+The officer,say.01,Hobson continued into,,Affirmative,The officer says Hobson continued into oncoming traffic when he came to a stop in a ditch . 
+Hobson,continue.01,into,,Affirmative,The officer says Hobson continued into oncoming traffic when he came to a stop in a ditch . 
+an officer,exit.01,the vehicle,,Affirmative,"As the officer approached the driver , he instructed him to exit the vehicle . "
+the officer,notice.01,Hobson had,,Affirmative,"When he exited the vehicle , the officer noticed Hobson had his pants below his waist . "
+Hobson,have.03,his pants below,,Affirmative,"When he exited the vehicle , the officer noticed Hobson had his pants below his waist . "
+The affidavit,state.01,level was 0.27,,Affirmative,The affidavit states that Hobson 's blood alcohol level was 0.27 . 
+officers,arrest.01,President Pro Tempore,,Affirmative,"After officers arrested the former State Senate President Pro Tempore , Hobson allegedly attempted to bribe an officer with $ 40,000 and then $ 50,000 as well as make him the Chief of Police if he would release him . "
+Hobson allegedly,attempt.01,to bribe,,Affirmative,"After officers arrested the former State Senate President Pro Tempore , Hobson allegedly attempted to bribe an officer with $ 40,000 and then $ 50,000 as well as make him the Chief of Police if he would release him . "
+Hobson allegedly,bribe.01,an officer,with,Affirmative,"After officers arrested the former State Senate President Pro Tempore , Hobson allegedly attempted to bribe an officer with $ 40,000 and then $ 50,000 as well as make him the Chief of Police if he would release him . "
+Calvin `` Cal '' Hobson,release.01,him,,Affirmative,"After officers arrested the former State Senate President Pro Tempore , Hobson allegedly attempted to bribe an officer with $ 40,000 and then $ 50,000 as well as make him the Chief of Police if he would release him . "
+he,bribe.01,a peace officer,,Affirmative,Hobson was then transported to the Cleveland County Justice Center where he was booked for driving under the influence of alcohol and bribing a peace officer . 
+County records,show.01,Hobson has previously been convicted of operating,,Affirmative,"According to the Norman Transcript , Cleveland County records show Hobson has previously been convicted of operating a motor vehicle under the influence of alcohol in March 2013 . "
+Hobson,operate.01,a motor vehicle,,Affirmative,"According to the Norman Transcript , Cleveland County records show Hobson has previously been convicted of operating a motor vehicle under the influence of alcohol in March 2013 . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

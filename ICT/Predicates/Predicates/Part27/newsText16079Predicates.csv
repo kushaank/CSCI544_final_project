@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Fire officials,say.01,was caused by arson,,Affirmative,Fresno County Fire officials say that a fire at an abandoned apartment in the Calwa area was caused by arson . 
+by arson,cause.01,a fire at,,Affirmative,Fresno County Fire officials say that a fire at an abandoned apartment in the Calwa area was caused by arson . 
+A fire,destroy.01,unit abandoned apartment,,Affirmative,A fire destroyed a 14 - unit abandoned apartment in the Calwa area on Sunday . 
+Residents,save.02,a smoking truck,,Affirmative,"Residents rushed to save a smoking truck , while firefighters rescued at least two dogs . "
+firefighters,rescue.01,two dogs,,Affirmative,"Residents rushed to save a smoking truck , while firefighters rescued at least two dogs . "
+the other,blacken.01,fur,,Affirmative,"One of them appeared to be OK , but the other had blackened fur over parts of its body . "
+Fresno County Fire officials,say.01,a combination of wind,,Affirmative,"Officials say a combination of wind , a lack of space in the neighborhood , and a lot of spectators made their efforts more difficult . "
+a lot of spectators,make.01,efforts more difficult,,Affirmative,"Officials say a combination of wind , a lack of space in the neighborhood , and a lot of spectators made their efforts more difficult . "
+Fresno County Fire officials,make.02,sure,,Affirmative,They also had to make sure no one was left inside the complex because transients are known to stay there . 
+Fire officials,announce.01,it was caused by arson,,Affirmative,"Late Sunday night , Fresno County Fire officials announced it was caused by arson . "
+by arson,cause.01,Sunday night,,Affirmative,"Late Sunday night , Fresno County Fire officials announced it was caused by arson . "

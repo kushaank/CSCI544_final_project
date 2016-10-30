@@ -1,0 +1,82 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+-- A U.S. federal judge on Monday,strike.08,approved ban on,,Affirmative,"-- A U.S. federal judge on Monday struck down a voter - approved ban on gay marriage in the northwestern state of Oregon , saying it is unconstitutional , marking the 13th consecutive legal victory for gay marriage advocates since last year 's U.S. Supreme Court ruling that overturned part of a federal ban . "
+-- A U.S. federal judge on Monday,say.01,it is unconstitutional,,Affirmative,"-- A U.S. federal judge on Monday struck down a voter - approved ban on gay marriage in the northwestern state of Oregon , saying it is unconstitutional , marking the 13th consecutive legal victory for gay marriage advocates since last year 's U.S. Supreme Court ruling that overturned part of a federal ban . "
+-- A U.S. federal judge on Monday,mark.01,the 13th consecutive legal victory for,,Affirmative,"-- A U.S. federal judge on Monday struck down a voter - approved ban on gay marriage in the northwestern state of Oregon , saying it is unconstitutional , marking the 13th consecutive legal victory for gay marriage advocates since last year 's U.S. Supreme Court ruling that overturned part of a federal ban . "
+Court ruling,overturn.01,part of,,Affirmative,"-- A U.S. federal judge on Monday struck down a voter - approved ban on gay marriage in the northwestern state of Oregon , saying it is unconstitutional , marking the 13th consecutive legal victory for gay marriage advocates since last year 's U.S. Supreme Court ruling that overturned part of a federal ban . "
+Judge Michael McShane,join.01,judges,,Affirmative,"U.S. District Judge Michael McShane joined judges in seven other states who have struck down gay marriage bans this year , though appeals are underway and the issue is expected to settled by the U.S. Supreme Court . "
+seven other states,strike.01,marriage bans,,Affirmative,"U.S. District Judge Michael McShane joined judges in seven other states who have struck down gay marriage bans this year , though appeals are underway and the issue is expected to settled by the U.S. Supreme Court . "
+by,settle.01,the issue,,Affirmative,"U.S. District Judge Michael McShane joined judges in seven other states who have struck down gay marriage bans this year , though appeals are underway and the issue is expected to settled by the U.S. Supreme Court . "
+He,say.01,ban unconstitutionally discriminates against,,Affirmative,He said the ban unconstitutionally discriminates against same - sex couples and ordered Oregon not to enforce it . 
+the ban,discriminate.02,against,,Affirmative,He said the ban unconstitutionally discriminates against same - sex couples and ordered Oregon not to enforce it . 
+the ban,order.01,Oregon,not to enforce it,Affirmative,He said the ban unconstitutionally discriminates against same - sex couples and ordered Oregon not to enforce it . 
+Oregon,enforce.01,it,,Affirmative,He said the ban unconstitutionally discriminates against same - sex couples and ordered Oregon not to enforce it . 
+State officials,refuse.01,to defend,,Affirmative,State officials earlier refused to defend the constitutional ban in court . 
+State officials,defend.01,the constitutional ban in court,,Affirmative,State officials earlier refused to defend the constitutional ban in court . 
+Jubilant couples,tie.01,the knot,,Affirmative,"Jubilant couples rushed to tie the knot following Monday 's ruling , including some who stood in line at the Portland county building for hours to get a marriage license . "
+The U.S. Supreme Court,strike.08,the 1996 Defence of,,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defence of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+"Marriage Act ,",bar.01,the federal government,from recognizing,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defence of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+the federal government,recognize.01,sex marriage,,Affirmative,"The U.S. Supreme Court last year struck down the 1996 Defence of Marriage Act , which barred the federal government from recognizing same - sex marriage . "
+The court,determine.01,the law,,Affirmative,The court determined the law improperly deprived gay couples of due process . 
+Many observers,predict.01,ruling would create,,Affirmative,"Many observers predicted the ruling would create a pathway for states to act , as polls showed a majority of Americans now support gay marriage . "
+the ruling,create.01,a pathway,,Affirmative,"Many observers predicted the ruling would create a pathway for states to act , as polls showed a majority of Americans now support gay marriage . "
+a majority of Americans,support.01,gay marriage,,Affirmative,"Many observers predicted the ruling would create a pathway for states to act , as polls showed a majority of Americans now support gay marriage . "
+court judges,cite.01,that decision,,Affirmative,"Indeed , lower - court judges have repeatedly cited that decision when striking down bans . "
+"judges in Idaho , Oklahoma , Virginia , Michigan , Texas , Utah and Arkansas",find.01,sex marriage bans,,Affirmative,"In addition to Oregon , federal or state judges in Idaho , Oklahoma , Virginia , Michigan , Texas , Utah and Arkansas recently have found state same - sex marriage bans to be unconstitutional . "
+Judges,order.01,"Kentucky , Ohio and Tennessee",to recognize,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "
+"Kentucky , Ohio and Tennessee",recognize.01,sex marriages from,,Affirmative,"Judges also have ordered Kentucky , Ohio and Tennessee to recognize same - sex marriages from other states . "
+17 other states,file.01,lawsuits asking judges,,Affirmative,At least 17 other states have filed lawsuits asking judges to throw out state bans . 
+lawsuits asking judges,ask.02,to throw out,judges,Affirmative,At least 17 other states have filed lawsuits asking judges to throw out state bans . 
+judges,throw.01,state bans,out,Affirmative,At least 17 other states have filed lawsuits asking judges to throw out state bans . 
+both of which,do.02,so,,Affirmative,"The two most recent states to make the unions legal were New Mexico and Hawaii , both of which did so in late 2013 . "
+Critics,note.02,states still do not allow,,Affirmative,"Critics note most states still do not allow gay marriage and that in most of those that do , it was the work of courts or legislatures , not the will of the people . "
+most states,allow.01,gay marriage,,Affirmative,"Critics note most states still do not allow gay marriage and that in most of those that do , it was the work of courts or legislatures , not the will of the people . "
+state officials,say.01,they 'd be prepared,,Affirmative,"In Oregon , state officials have said they 'd be prepared to carry out same - sex marriages almost immediately , and couples lined up outside the county clerk 's office in Portland in anticipation of the McShane 's decision . "
+they,carry.03,sex marriages,,Affirmative,"In Oregon , state officials have said they 'd be prepared to carry out same - sex marriages almost immediately , and couples lined up outside the county clerk 's office in Portland in anticipation of the McShane 's decision . "
+couples,bring.01,the Oregon cases,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+couples,argue.01,laws unconstitutionally discriminate against them,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+marriage laws,discriminate.02,against them,,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+marriage laws,exclude.01,them,from,Affirmative,"Four gay and lesbian couples brought the Oregon cases , arguing the state 's marriage laws unconstitutionally discriminate against them and exclude them from a fundamental right to marriage . "
+General Ellen Rosenblum,refuse.01,to defend,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+General Ellen Rosenblum,defend.01,a voter-approved ban,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+General Ellen Rosenblum,say.01,there are,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+no legal arguments,support.01,it,,Affirmative,"Democratic Attorney General Ellen Rosenblum refused to defend the ban , saying there are no legal arguments that could support it in light of decisions last year by the U.S. Supreme Court . "
+She,side.01,with,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+She,ask.02,to overturn,the judge,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+the judge,overturn.01,the ban,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+She,say.01,she wo n't appeal,,Affirmative,"She sided with the couples , asking the judge to overturn the ban , and says she wo n't appeal . "
+The judge,deny.01,a request by,,Affirmative,The judge denied a request by the National Organization for Marriage to defend the law on behalf of its Oregon members . 
+A panel of,refuse.01,request for,,Affirmative,"A panel of the 9th U.S. Circuit Court of Appeals on Monday refused the group 's request for an emergency stay of that decision , allowing same - sex marriages to proceed . "
+A panel of,allow.01,marriages to proceed,,Affirmative,"A panel of the 9th U.S. Circuit Court of Appeals on Monday refused the group 's request for an emergency stay of that decision , allowing same - sex marriages to proceed . "
+Gay rights groups,say.01,they 've collected,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+Gay rights groups,collect.01,enough signatures,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+Gay rights groups,force.02,a statewide vote on,,Affirmative,Gay rights groups previously said they 've collected enough signatures to force a statewide vote on gay marriage in November . 
+they,say.01,they would discard,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favour by May 23 . 
+they,discard.01,the signatures,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favour by May 23 . 
+they,drop.01,their campaign,,Affirmative,But they said they would discard the signatures and drop their campaign if the court rules in their favour by May 23 . 
+Oregon law,prohibit.01,sex marriage,,Affirmative,"Oregon law has long prohibited same - sex marriage , and voters added the ban to the state constitution in 2004 . "
+voters,add.02,the ban,to,Affirmative,"Oregon law has long prohibited same - sex marriage , and voters added the ban to the state constitution in 2004 . "
+by,approve.01,"The decision , approved by",,Affirmative,"The decision , approved by 57 per cent of voters , came months after Multnomah County , the state 's largest , briefly issued marriage licenses to same - sex couples . "
+the state 's,issue.01,marriage licenses,to,Affirmative,"The decision , approved by 57 per cent of voters , came months after Multnomah County , the state 's largest , briefly issued marriage licenses to same - sex couples . "
+a judge,halt.01,the practice,,Affirmative,"About 3,000 gay couples were allowed to marry before a judge halted the practice . "
+The Oregon Supreme Court,invalidate.01,the marriages,,Affirmative,The Oregon Supreme Court later invalidated the marriages . 
+a panel in Denver,review.01,rulings from Utah and Oklahoma,,Affirmative,"A ruling from a federal appeals court is expected soon , either from a panel in Denver reviewing rulings from Utah and Oklahoma or judges in Virginia reviewing that state 's case . "
+rulings from Utah and Oklahoma,review.01,case,,Affirmative,"A ruling from a federal appeals court is expected soon , either from a panel in Denver reviewing rulings from Utah and Oklahoma or judges in Virginia reviewing that state 's case . "
+Many legal observers,say.01,they expect,,Affirmative,"Many legal observers say they expect the U.S. Supreme Court to take a case at some point , but they acknowledge it 's impossible to predict what the high court will do . "
+they,expect.01,Court to take,,Affirmative,"Many legal observers say they expect the U.S. Supreme Court to take a case at some point , but they acknowledge it 's impossible to predict what the high court will do . "
+the U.S. Supreme Court,take.01,a case,,Affirmative,"Many legal observers say they expect the U.S. Supreme Court to take a case at some point , but they acknowledge it 's impossible to predict what the high court will do . "
+they,acknowledge.01,it 's impossible,,Affirmative,"Many legal observers say they expect the U.S. Supreme Court to take a case at some point , but they acknowledge it 's impossible to predict what the high court will do . "
+The Supreme Court,see.01,courts rule,,Affirmative,The Supreme Court could also just wait and see how U.S. appellate courts rule . 
+you,see.01,the characters,,Affirmative,Type in the characters you see in the picture below . 
+you,have.03,trouble reading,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+you,read.01,the characters in,,Affirmative,"If you have trouble reading the characters in the picture , click it to see a new one . "
+Bell Media,reserve.01,the right,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+Bell Media,comment.01,availability,,Affirmative,Comments are not open on some news articles ; Bell Media reserves the right to choose commenting availability . 
+We,publish.01,comments,,Affirmative,"We will not publish comments that are profane , libelous , racist , or engage in personal attacks . "
+comments,seek.01,to spread information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+comments,spread.03,information,,Affirmative,We screen for comments that seek to spread information that is false or misleading . 
+you,use.01,an alias,,Affirmative,"If you 're using an alias , make sure it 's unique . "
+We,publish.01,comments,,Affirmative,We will not publish comments that link to outside websites . 
+comments,link.01,to,,Affirmative,We will not publish comments that link to outside websites . 
+you,follow.02,these guidelines,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+you,contribute.01,your thoughts,,Affirmative,Thank you for following these guidelines and contributing your thoughts . 
+You,help.01,to make,,Affirmative,"You are contributing to debate and discussion , and helping to make this website a more open place . "

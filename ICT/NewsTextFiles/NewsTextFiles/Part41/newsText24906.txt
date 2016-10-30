@@ -1,0 +1,28 @@
+
+Today at Cisco Live, Cisco's annual IT and communications conference, VSS Monitoring , a leading provider of network packet brokers (NPBs), announced the addition of two groundbreaking products in its vBroker™ Series offering. The new products are the vBroker 6000 and the vBroker 520. At 6-terabit-per-second performance, the VB6000 offers the highest density, most scalable blade-in-chassis NPB solution in the industry. The VB520 supports 100G networks and provides 400Gbps of line rate packet brokering in a fixed-configuration, 2U appliance, making it the most cost-effective and flexible 100G/40G network visibility solution on the market. Both products support the company's Unified Visibility Plane and vMesh Architecture , which optimizes network infrastructure for high performance monitoring in high-speed physical, virtual and software-defined networks.
+
+The VSS Monitoring Unified Visibility Plane, powered by the VSS vMesh Architecture, protects investments in and optimizes the use of network and application performance tools and security systems that are widely deployed by carriers, service providers, cloud operators and large enterprises. This distributed architecture adds the critical missing element to existing data and control plane models driving next-generation high-speed networks, enhancing network visibility by providing a line rate "true copy" of network traffic to passive tools and by supporting dynamic service chains for in-line security systems that are connected to the VSS vMesh.
+
+The VB6000 and VB520 are fully compatible with the vMesh Architecture, ensuring unprecedented network visibility, scale capacity, and traffic optimization. Adding high-density chassis and 100G appliances to the Unified Visibility Plane enables operators, security analysts and network engineers to access and see everything in a local network or high-speed wide area network. The VSS vMesh Architecture enables the VB6000 and VB520 to interconnect with other vBroker systems and with other systems as well, including the vProtector Series ,  Distributed Series,  and Finder Series models, in a high performance, auto discovering, and self configuring visibility network: the Unified Visibility Plane.
+
+"The new flagship VB6000 and VB520 products from VSS Monitoring each support large scale aggregation and processing of high-speed network traffic from many diverse network segments.  This is critical in order to 'feed' existing performance, application and security monitoring tools that simply can't ingest traffic from 40G/100G links," said Lee Doyle, Doyle Research.
+
+This combination of high density, scalability and flexibility will help large enterprises, service providers, cloud operators and carriers to migrate to 100G and 40G networks by enabling monitoring and security policies to be maintained by existing 10G/1G tools.
+
+As a complement to the VB6000, the VB520 provides a compact, high-performance NPB solution for 100G networks. The VB520 supports 100G and 400 Gbps of throughput in just 2U of rack space. Featuring 16 I/O ports that support two 100G links, two 40G links and twelve 10G/1G links, the VB520 is ideal for environments where network traffic from a 100G or 40G link must be distributed to multiple 10G/1G monitoring tools, especially in a video monitoring deployment.
+
+The VB520's size and flexibility enable it to also serve as an aggregator for large scale solutions where network traffic is offloaded or backhauled to a VSS Monitoring VB 420 or VB6000 for preprocessing and then distributed to existing monitoring tools.
+
+The VB520 is ideal for both single- and multi-tier architectures used in service provider, private cloud and large enterprise environments. In single-tier architectures, the VB520 can aggregate, filter and load-balance full-duplex 100G links across multiple 10G and 1G network tools. For added flexibility, its remaining 40G ports can be used as backbone links connecting additional vBroker NPBs as part of the highly reliable and scalable vMesh™ architecture.
+
+The VB 520 starts at $148,875 and is available now. The VB 6000 starts under $200,000 and will be available in Q3 2014.
+
+VSS Monitoring is a world leader in network packet brokers (NPBs), providing a visionary, systems approach for optimizing and scaling the connectivity between network switching and the universe of network monitoring and network security tools.  VSS Monitoring NPBs improve tool usage and efficiency, simplify IT operations, and greatly enhance ROI from tools.  For more information, visit www.vssmonitoring.com .
+
+VSS Monitoring is an operating company of Danaher Corporation DHR, +0.40% and vBroker, vSpool and vNetConnect are trademarks of VSS Monitoring. All rights reserved.
+
+Copyright (C) 2014 GlobeNewswire, Inc. All rights reserved.
+
+Copyright ©2014 MarketWatch, Inc.  All rights reserved.
+
+Intraday Data provided by SIX Financial Information and subject to terms of use .                 Historical and current end-of-day data provided by SIX Financial Information. Intraday data                 delayed per exchange requirements. S&P/Dow Jones Indices (SM) from Dow Jones & Company, Inc.                 All quotes are in local exchange time. Real time last sale data provided by NASDAQ. More                 information on NASDAQ traded symbols and their current financial status. Intraday                 data delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. S&P/Dow Jones Indices (SM)                 from Dow Jones & Company, Inc. SEHK intraday data is provided by SIX Financial Information and is at least 60-minutes delayed. All quotes are in local exchange time.

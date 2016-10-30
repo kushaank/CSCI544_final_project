@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Thoroughbred,win.01,his last six races wearing,,Affirmative,The thoroughbred has run and won his last six races wearing equine nasal strips . 
+his last six races wearing,wear.01,equine nasal strips,,Affirmative,The thoroughbred has run and won his last six races wearing equine nasal strips . 
+the stewards,oversee.01,event in,,Affirmative,"It was uncertain whether the stewards who oversee the June 7 event in New York would allow the strips , out of concern they offer the horse an unfair boost . "
+the stewards,allow.01,equine nasal strips,,Affirmative,"It was uncertain whether the stewards who oversee the June 7 event in New York would allow the strips , out of concern they offer the horse an unfair boost . "
+New York stewards,offer.01,an unfair boost,,Affirmative,"It was uncertain whether the stewards who oversee the June 7 event in New York would allow the strips , out of concern they offer the horse an unfair boost . "
+York Racing Association,inform.01,owners,,Affirmative,"But on Monday , the New York Racing Association informed California Chrome 's owners that the horse could wear the adhesive patch , which resembles what some chronic snorers and even athletes wear to aid their breathing . "
+the horse 's,wear.01,"the adhesive patch ,",,Affirmative,"But on Monday , the New York Racing Association informed California Chrome 's owners that the horse could wear the adhesive patch , which resembles what some chronic snorers and even athletes wear to aid their breathing . "
+I,have.03,Another wore,,Affirmative,"In 2012 , the horse I 'll Have Another wore the breathing aid to victory in the Kentucky Derby and the Preakness , but New York stewards said it would be prohibited in Belmont . "
+York stewards,say.01,it would be prohibited in Belmont,,Affirmative,"In 2012 , the horse I 'll Have Another wore the breathing aid to victory in the Kentucky Derby and the Preakness , but New York stewards said it would be prohibited in Belmont . "
+the horse 's,suffer.01,a leg injury,,Affirmative,The point became moot when the horse suffered a leg injury and was scratched . 
+"trainer ,",concede.01,strips give,,Affirmative,"California Chrome 's trainer , Art Sherman , conceded that the strips give the horse extra oomph , especially for a long race like the Belmont Stakes , which covers 1½ miles . "
+equine nasal strips,do.02,any enhancement,,Affirmative,"But speaking with CNN on Monday , Steve Coburn , the horse 's co-owner , said the nasal strips do n't do any enhancement at all . "
+The decision,mean.01,strips can now be freely used by,,Affirmative,The decision means nasal strips can now be freely used by any horse . 
+by,use.01,equine nasal strips,,Affirmative,The decision means nasal strips can now be freely used by any horse . 
+Studies,look.01,at,,Affirmative,"Studies that have looked at the question of whether nasal strips help equine athletes perform better are inconclusive , says John Scheinman , who covers racing for the industry publications Blood - Horse and Thoroughbred Racing Commentary . "
+equine nasal strips,help.01,athletes perform better,,Affirmative,"Studies that have looked at the question of whether nasal strips help equine athletes perform better are inconclusive , says John Scheinman , who covers racing for the industry publications Blood - Horse and Thoroughbred Racing Commentary . "
+"John Scheinman ,",say.01,are inconclusive,,Affirmative,"Studies that have looked at the question of whether nasal strips help equine athletes perform better are inconclusive , says John Scheinman , who covers racing for the industry publications Blood - Horse and Thoroughbred Racing Commentary . "
+"John Scheinman ,",cover.02,racing for,,Affirmative,"Studies that have looked at the question of whether nasal strips help equine athletes perform better are inconclusive , says John Scheinman , who covers racing for the industry publications Blood - Horse and Thoroughbred Racing Commentary . "
+the horse 's,win.01,the Triple Crown,,Affirmative,No horse has won the Triple Crown since 1978 . 
+John Scheinman,suggest.01,", it would have been",,Affirmative,"Given the interest in this horse , it would have been a mistake not to allow California Chrome to run , strips and all , Scheinman suggests . "
+This race card,generate.01,more revenue than any in,,Affirmative,"This race card could generate more revenue than any in the history of the sport in the United States , he says . "
+John Scheinman,say.01,card could generate,,Affirmative,"This race card could generate more revenue than any in the history of the sport in the United States , he says . "
+"Chris Kay ,",say.01,We are,,Affirmative,"Chris Kay , the association 's president and CEO , said in a statement , We are extremely excited that California Chrome will be coming to Belmont Park in his quest to become thoroughbred racing 's 12th Triple Crown winner on Saturday , June 7 . "

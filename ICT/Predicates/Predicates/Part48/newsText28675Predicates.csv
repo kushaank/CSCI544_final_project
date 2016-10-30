@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A former worker at,say.01,she was put on,,Affirmative,- A former worker at a Veterans Affairs clinic in Colorado says she was put on unpaid leave after she refused to falsify appointment records . 
+she,refuse.01,to falsify,,Affirmative,- A former worker at a Veterans Affairs clinic in Colorado says she was put on unpaid leave after she refused to falsify appointment records . 
+she,falsify.01,appointment records,,Affirmative,- A former worker at a Veterans Affairs clinic in Colorado says she was put on unpaid leave after she refused to falsify appointment records . 
+an investigation,find.01,workers were told,,Affirmative,"Lee 's complaint led to an investigation that found clinic workers were told to make their records show veterans got appointments within 14 days of the day requested , whether or not it was true . "
+clinic workers,make.02,records show,,Affirmative,"Lee 's complaint led to an investigation that found clinic workers were told to make their records show veterans got appointments within 14 days of the day requested , whether or not it was true . "
+their records,show.01,veterans got appointments within,,Affirmative,"Lee 's complaint led to an investigation that found clinic workers were told to make their records show veterans got appointments within 14 days of the day requested , whether or not it was true . "
+veterans,get.01,appointments,,Affirmative,"Lee 's complaint led to an investigation that found clinic workers were told to make their records show veterans got appointments within 14 days of the day requested , whether or not it was true . "
+by,investigate.01,operations,,Affirmative,The Cheyenne VA 's operations are being investigated by the department 's inspector general . 
+spokesman Daniel Warvi,refer.02,questions about,,Affirmative,VA spokesman Daniel Warvi referred questions about Lee 's allegations to the Office of the Inspector General . 
+A spokeswoman there,return.02,a call seeking comment Monday,,Affirmative,A spokeswoman there did n't immediately return a call seeking comment Monday . 
+a call seeking comment Monday,seek.01,comment,,Affirmative,A spokeswoman there did n't immediately return a call seeking comment Monday . 
+OIG,advise.01,VA,against providing information,Affirmative,"It is important to allow OIG 's independent and objective review to proceed until completion , and OIG has advised VA against providing information that could potentially compromise their ongoing review , Warvi said in a statement . "
+VA,provide.01,information,,Affirmative,"It is important to allow OIG 's independent and objective review to proceed until completion , and OIG has advised VA against providing information that could potentially compromise their ongoing review , Warvi said in a statement . "
+information,compromise.01,their ongoing review,,Affirmative,"It is important to allow OIG 's independent and objective review to proceed until completion , and OIG has advised VA against providing information that could potentially compromise their ongoing review , Warvi said in a statement . "
+Warvi,say.01,It is important,,Affirmative,"It is important to allow OIG 's independent and objective review to proceed until completion , and OIG has advised VA against providing information that could potentially compromise their ongoing review , Warvi said in a statement . "
+a nurse,send.01,an email,,Affirmative,"Also this month , a nurse who works for the Cheyenne , Wyoming , VA was put on leave for allegedly sending an email telling employees to falsify appointment records . "
+employees,falsify.01,appointment records,,Affirmative,"Also this month , a nurse who works for the Cheyenne , Wyoming , VA was put on leave for allegedly sending an email telling employees to falsify appointment records . "
+The Cheyenne VA,oversee.01,"Collins clinic ,",,Affirmative,"The Cheyenne VA oversees the Fort Collins clinic , as well as parts of Wyoming and Nebraska . "
+The email,acknowledge.01,approach was gaming,,Affirmative,"The email acknowledged the approach was gaming the system a bit , but also said the front office gets very upset when the 14 - day target for appointments is n't met . "
+The email,say.01,office gets,,Affirmative,"The email acknowledged the approach was gaming the system a bit , but also said the front office gets very upset when the 14 - day target for appointments is n't met . "
+Lee,say.01,told,,Affirmative,"Lee said told the newspaper her grievance was denied , and she was forced to drive almost an hour each way to work in Cheyenne for less pay . "
+she,drive.01,almost an hour,,Affirmative,"Lee said told the newspaper her grievance was denied , and she was forced to drive almost an hour each way to work in Cheyenne for less pay . "
+They,punish.01,us,,Affirmative,They had to punish us . 
+They,make.02,us an example to,,Affirmative,"They had to make us an example to the other ( schedulers ) , said Lee , who is now on active duty in Hawaii . "
+"Lee ,",say.01,They had,,Affirmative,"They had to make us an example to the other ( schedulers ) , said Lee , who is now on active duty in Hawaii . "
+Lee,say.01,she filed,,Affirmative,Lee said she filed a whistleblower report with the federal Office of Special Counsel . 
+"a nurse who works for the Cheyenne , Wyoming , VA",file.01,a whistleblower report with,,Affirmative,Lee said she filed a whistleblower report with the federal Office of Special Counsel . 
+She,say.01,VA then offered,,Affirmative,She said the VA then offered to remove the suspension from her record and pay her for the two lost weeks of work if she dropped her complaint . 
+the VA,offer.01,to remove,,Affirmative,She said the VA then offered to remove the suspension from her record and pay her for the two lost weeks of work if she dropped her complaint . 
+the VA,remove.01,the suspension,from,Affirmative,She said the VA then offered to remove the suspension from her record and pay her for the two lost weeks of work if she dropped her complaint . 
+"a nurse who works for the Cheyenne , Wyoming , VA",drop.01,her complaint,,Affirmative,She said the VA then offered to remove the suspension from her record and pay her for the two lost weeks of work if she dropped her complaint . 
+Lee,say.01,she wanted,,Affirmative,But Lee said she wanted to pursue it both out of principle and because she did n't want to return to the VA . 
+she,want.01,to pursue it both,,Affirmative,But Lee said she wanted to pursue it both out of principle and because she did n't want to return to the VA . 
+she,pursue.01,it both,,Affirmative,But Lee said she wanted to pursue it both out of principle and because she did n't want to return to the VA . 
+she,want.01,to return to,,Affirmative,But Lee said she wanted to pursue it both out of principle and because she did n't want to return to the VA . 

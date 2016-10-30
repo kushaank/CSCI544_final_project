@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a Sudanese court,convict.01,his wife 's,of apostasy and adultery,Affirmative,The court convicted her of apostasy and adultery ( since Muslim women in Sudan are not permitted to marry men outside their faith ) * under Sharia law and sentenced her 100 lashes and death by hanging . 
+a Sudanese court,sentence.01,her 100 lashes and death,,Affirmative,The court convicted her of apostasy and adultery ( since Muslim women in Sudan are not permitted to marry men outside their faith ) * under Sharia law and sentenced her 100 lashes and death by hanging . 
+ She,renounce.01,their faith,,Affirmative, She had until Thursday to renounce her faith . 
+Gabriel,say.01,Daniel plans,,Affirmative,"  He says Daniel plans to appeal the ruling , but is concerned about leaving his family home in Khartoum . "
+"Daniel , who is now seeking protection from the U.S. government",plan.01,to appeal,,Affirmative,"  He says Daniel plans to appeal the ruling , but is concerned about leaving his family home in Khartoum . "
+"Daniel , who is now seeking protection from the U.S. government",appeal.01,the ruling,,Affirmative,"  He says Daniel plans to appeal the ruling , but is concerned about leaving his family home in Khartoum . "
+Gabriel,say.01,people are watching,,Affirmative,"The last time I talked to him yesterday , he said , ' Oh , some people are watching the house , '  he says . "
+some people,watch.01,the house,,Affirmative,"The last time I talked to him yesterday , he said , ' Oh , some people are watching the house , '  he says . "
+ he,say.01,", he said , '",,Affirmative,"The last time I talked to him yesterday , he said , ' Oh , some people are watching the house , '  he says . "
+ Gabriel,say.01,surveillance has spooked,,Affirmative," Gabriel says the surveillance has spooked Daniel , who is now seeking protection from the U.S. government . "
+"Daniel ,",seek.01,protection from,,Affirmative," Gabriel says the surveillance has spooked Daniel , who is now seeking protection from the U.S. government . "

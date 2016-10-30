@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+old Buddhist monk,commit.02,suicide,,Affirmative,A 47 - year - old Buddhist monk allegedly committed suicide by hanging himself from a ceiling fan at his sister 's residence in South Delhi 's Vasant Kunj on Saturday . 
+The police,probe.01,the circumstances,,Affirmative,"The police are probing the circumstances that forced T.G. Rimpoche to take the extreme step , as the note he left behind is not very conclusive . "
+the circumstances,force.01,T.G. Rimpoche,to take,Affirmative,"The police are probing the circumstances that forced T.G. Rimpoche to take the extreme step , as the note he left behind is not very conclusive . "
+T.G. Rimpoche,take.01,the extreme step,,Affirmative,"The police are probing the circumstances that forced T.G. Rimpoche to take the extreme step , as the note he left behind is not very conclusive . "
+T.G. Rimpoche,leave.01,the note,behind,Affirmative,"The police are probing the circumstances that forced T.G. Rimpoche to take the extreme step , as the note he left behind is not very conclusive . "
+One of,lose.03,an election,,Affirmative,"One of his relatives had lost an election recently , which had also upset him . "
+sister,find.01,him hanging on Saturday,,Affirmative,Rimpoche 's sister found him hanging on Saturday and raised an alarm . 
+sister,raise.01,an alarm,,Affirmative,Rimpoche 's sister found him hanging on Saturday and raised an alarm . 
+Two persons,reside.01,with them,,Affirmative,"Two persons who reside with them , both Rimpoche 's followers , brought down the body and called up the police control room . "
+Two persons,bring.01,the body,,Affirmative,"Two persons who reside with them , both Rimpoche 's followers , brought down the body and called up the police control room . "
+Two persons,call.08,control room,,Affirmative,"Two persons who reside with them , both Rimpoche 's followers , brought down the body and called up the police control room . "
+A police team,reach.01,the spot,,Affirmative,"A police team soon reached the spot and rushed him to a nearby hospital , where doctors declared him dead on arrival . "
+A police team,rush.01,both Rimpoche 's,to,Affirmative,"A police team soon reached the spot and rushed him to a nearby hospital , where doctors declared him dead on arrival . "
+doctors,declare.02,him dead on arrival,,Affirmative,"A police team soon reached the spot and rushed him to a nearby hospital , where doctors declared him dead on arrival . "
+another team,conduct.01,an investigation,,Affirmative,"Meanwhile , another team had cordoned off the house to conduct an investigation . "
+The source,add.01,disclosed,,Affirmative,The source added that the translation of the letter disclosed that the monk was afraid that God would not forgive him for his sins and that he did not have the courage to face the wrath of the Almighty . 
+the translation of,disclose.01,monk was afraid,,Affirmative,The source added that the translation of the letter disclosed that the monk was afraid that God would not forgive him for his sins and that he did not have the courage to face the wrath of the Almighty . 
+God,forgive.01,God,for,Affirmative,The source added that the translation of the letter disclosed that the monk was afraid that God would not forgive him for his sins and that he did not have the courage to face the wrath of the Almighty . 
+God,have.03,the courage,,Affirmative,The source added that the translation of the letter disclosed that the monk was afraid that God would not forgive him for his sins and that he did not have the courage to face the wrath of the Almighty . 
+the deceased,suffer.01,from insomnia,,Affirmative,He was suffering from insomnia and was being treated for the same . 
+a police officer,rule.02,other angles,,Affirmative,"Not ruling out other angles , a police officer said that the suicide note did not suggest any co-relation between Rimpoche 's suicide and the electoral loss of his relative . "
+a police officer,say.01,note did not suggest,,Affirmative,"Not ruling out other angles , a police officer said that the suicide note did not suggest any co-relation between Rimpoche 's suicide and the electoral loss of his relative . "
+A hand-written suicide note in Tibetan,suggest.01,any co-relation between,,Affirmative,"Not ruling out other angles , a police officer said that the suicide note did not suggest any co-relation between Rimpoche 's suicide and the electoral loss of his relative . "

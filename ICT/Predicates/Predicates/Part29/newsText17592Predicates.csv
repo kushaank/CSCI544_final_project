@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,develop.02,The tests developed by,,Affirmative,"The tests developed by the Russian phytosanitary control service on all of the shipments that reached the 200 tons showed that these batches were contaminated with the fruit fly , a pest that is banned in Russia . "
+the shipments,reach.01,the 200 tons,,Affirmative,"The tests developed by the Russian phytosanitary control service on all of the shipments that reached the 200 tons showed that these batches were contaminated with the fruit fly , a pest that is banned in Russia . "
+The tests developed by,show.01,batches were contaminated with,,Affirmative,"The tests developed by the Russian phytosanitary control service on all of the shipments that reached the 200 tons showed that these batches were contaminated with the fruit fly , a pest that is banned in Russia . "
+by,infect.01,"20 shipments , amounting to",,Affirmative,"Throughout the last four months , more than 20 shipments , amounting to nearly 1,000 tons , infected by this plague have been detected and returned to their countries of origin . "

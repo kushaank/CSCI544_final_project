@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Holder,announce.01,jury has charged,,Affirmative,"Holder was announcing that a U.S. grand jury has charged five Chinese hackers with economic espionage and trade secret theft , the first - of - its - kind criminal charges against Chinese military officials in an international cyber - espionage case . "
+a U.S. grand jury,charge.05,five Chinese hackers with,,Affirmative,"Holder was announcing that a U.S. grand jury has charged five Chinese hackers with economic espionage and trade secret theft , the first - of - its - kind criminal charges against Chinese military officials in an international cyber - espionage case . "
+five Chinese hackers,target.01,"the U.S. nuclear power , metals and",,Affirmative,"According to the indictment , hackers targeted the U.S. nuclear power , metals and solar products industries . "
+five Chinese hackers,steal.01,trade secrets and,,Affirmative,The hackers are accused of stealing trade secrets and economic espionage . 
+first-of-its kind cyber-espionage charges,dramatize.01,administration goal,,Affirmative,The charges have been described as unprecedented and dramatize a long - time Obama administration goal to prosecute state - sponsored cyber threats . 
+General Eric Holder,say.01,U.S. will not tolerate,,Affirmative,Attorney General Eric Holder said the U.S. will not tolerate foreign government efforts to sabotage American companies . 
+the U.S.,tolerate.01,government efforts,,Affirmative,Attorney General Eric Holder said the U.S. will not tolerate foreign government efforts to sabotage American companies . 
+five Chinese military officials accused of hacking into U.S. companies to gain trade secrets,accuse.01,army and,of launching attacks on,Affirmative,"U.S. officials have accused China 's army and China - based hackers of launching attacks on American industrial and military targets , often to steal secrets or intellectual property . "
+army and,launch.01,attacks on,,Affirmative,"U.S. officials have accused China 's army and China - based hackers of launching attacks on American industrial and military targets , often to steal secrets or intellectual property . "
+China 's,say.01,that it faces,,Affirmative,"China has said that it faces a major threat from hackers , and the country 's military is believed to be among the biggest targets of the NSA and U.S. Cyber Command . "
+China 's,face.01,a major threat from hackers,,Affirmative,"China has said that it faces a major threat from hackers , and the country 's military is believed to be among the biggest targets of the NSA and U.S. Cyber Command . "
+You,login.01,to make comments,,Affirmative,You must login to make comments . 
+express,write.01,written permission of,,Affirmative,"This document may not be reprinted without the express written permission of Arkansas Democrat - Gazette , Inc . "

@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Mary Miller ,",say.01,regulators could eventually decide against naming,,Affirmative,"Mary Miller , the U.S. Treasury Department 's undersecretary for domestic finance , said regulators could eventually decide against naming any asset managers systemically important . "
+regulators,decide.01,against naming,,Affirmative,"Mary Miller , the U.S. Treasury Department 's undersecretary for domestic finance , said regulators could eventually decide against naming any asset managers systemically important . "
+regulators,name.01,any asset managers,,Affirmative,"Mary Miller , the U.S. Treasury Department 's undersecretary for domestic finance , said regulators could eventually decide against naming any asset managers systemically important . "
+by,lead.02,regulators led by,,Affirmative,"The Financial Stability Oversight Council , a group of regulators led by Treasury Secretary Jacob J. Lew , is holding a public conference today on the asset management industry . "
+"Stability Oversight Council ,",hold.04,a public conference,,Affirmative,"The Financial Stability Oversight Council , a group of regulators led by Treasury Secretary Jacob J. Lew , is holding a public conference today on the asset management industry . "
+"The council , or FSOC",designate.01,non-bank companies,,Affirmative,"The council , or FSOC , can designate non-bank companies systemically important and subject them to Federal Reserve oversight . "
+"The council , or FSOC",subject.01,them,to,Affirmative,"The council , or FSOC , can designate non-bank companies systemically important and subject them to Federal Reserve oversight . "
+The FSOC,begin.01,discussing BlackRock and,,Affirmative,"The FSOC began discussing BlackRock and Fidelity Investments in October , people familiar with the matter said at the time . "
+The FSOC,discuss.01,BlackRock and,,Affirmative,"The FSOC began discussing BlackRock and Fidelity Investments in October , people familiar with the matter said at the time . "
+people familiar with,say.01,FSOC began discussing BlackRock and,,Affirmative,"The FSOC began discussing BlackRock and Fidelity Investments in October , people familiar with the matter said at the time . "
+The companies,trigger.01,numerical criteria set by,,Affirmative,The companies had triggered numerical criteria set by the council that automatically place them in the second stage of a three - step process . 
+by,set.01,numerical criteria set by,,Affirmative,The companies had triggered numerical criteria set by the council that automatically place them in the second stage of a three - step process . 
+the council,place.01,them,in,Affirmative,The companies had triggered numerical criteria set by the council that automatically place them in the second stage of a three - step process . 
+Meeting,mean.01,firms will ever be designated,,Affirmative,"Meeting those thresholds does n't mean the firms will ever be designated , and any decision could be months away . "
+Press,continue.01,Press spacebar to pause,,Affirmative,Press spacebar to pause and continue . 
+Press,esc.01,to stop,,Affirmative,Press esc to stop . 

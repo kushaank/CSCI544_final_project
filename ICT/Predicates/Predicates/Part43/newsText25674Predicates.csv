@@ -1,0 +1,23 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County EMS Expo,feature.01,"ambulances ,",,Affirmative,"The annual Berkshire County EMS Expo featured ambulances , emergency and police vehicles from all over Berkshire County . "
+"Bill Hathaway , director of operations",say.01,"It 's about educating people ,",,Affirmative,"It 's about educating people , particularly children , to get used to seeing ambulances and emergency vehicles , said William Bill Hathaway , director of operations for the Southern Berkshire Volunteer Ambulance Squad , based in Great Barrington . "
+people,interact.01,with them,,Affirmative,"This is a good way for people to interact with them in a non-threatening way , he said . "
+William `` Bill '' Hathaway,say.01,This is,,Affirmative,"This is a good way for people to interact with them in a non-threatening way , he said . "
+booths dedicated to organizations like,test.01,seat safety and,,Affirmative,"In addition to ambulances and other emergency vehicles , there were booths dedicated to organizations like the Berkshire Mountain Search and Rescue team , organizations for signing up children for identification programs , testing car seat safety and a booth for Toto , the Tornado Kitty . "
+the 2011 tornado,hit.01,Massachusetts,,Affirmative,Toto was a little kitten found in a tree in Brimfield following the 2011 tornado that hit Massachusetts . 
+by,rescue.01,"Toto , the Tornado Kitty",,Affirmative,"Toto was eventually rescued by Jonathan Phall , an EMT . "
+Jonathan Phall,write.01,book about Toto,,Affirmative,"Phall wrote a children 's book about Toto , and donates the proceeds to various animal shelters . "
+Jonathan Phall,donate.01,the proceeds,to,Affirmative,"Phall wrote a children 's book about Toto , and donates the proceeds to various animal shelters . "
+Jonathan Phall,raise.01,"$ 47,000",,Affirmative,"To date , he 's raised $ 47,000 . "
+I,pet.01,"Toto , the Tornado Kitty",,Affirmative,Can I pet him ? 
+Jonathan Phall,say.01,Sure,,Affirmative,"Sure , said Phall . "
+one timorous 4-year-old girl,pet.01,"Toto , the Tornado Kitty",,Affirmative,She petted him . 
+by,display.01,the dummy displayed by,for,Affirmative,That was the dummy displayed by the SBVAS for training EMTs . 
+William `` Bill '' Hathaway,explain.01,This was,,Affirmative,"This was a pretty advanced dummy , explained Hathaway . "
+training EMTs,learn.01,"how to insert IVs , put in",,Affirmative,"In addition to teaching CPR , EMTs can learn how to insert IVs , put in chest tubes , even take blood pressure . "
+training EMTs,insert.01,IVs,,Affirmative,"In addition to teaching CPR , EMTs can learn how to insert IVs , put in chest tubes , even take blood pressure . "
+training EMTs,take.01,blood pressure,,Affirmative,"In addition to teaching CPR , EMTs can learn how to insert IVs , put in chest tubes , even take blood pressure . "
+William `` Bill '' Hathaway,say.01,It 's,,Affirmative,"It 's a great training tool , said Hathaway . "
+The name,mean.01,"guard dog ,",,Affirmative,"The name means an estate guard dog , which was their original use . "
+the Berkshire Mountain,have.03,training,,Affirmative,"There are about six such dogs , in various stages of training that BMSR has on its roster , according to Team President Michael Comeau . "
+the organization,provide.01,"services ,",,Affirmative,"According to Comeau , the organization provides search and rescue services , command post support , emergency services and related jobs throughout western Massachusetts . "

@@ -1,0 +1,43 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"IKEA , which still maintains a strong corporate presence in the city",file.01,to build,,Affirmative,"IKEA has filed to build a museum in Almhult , Sweden , on the site of the recently relocated IKEA Almhult store ( pictured ) . "
+"IKEA , which still maintains a strong corporate presence in the city",build.01,"a museum in Almhult , Sweden",,Affirmative,"IKEA has filed to build a museum in Almhult , Sweden , on the site of the recently relocated IKEA Almhult store ( pictured ) . "
+by,found.01,"IKEA , which still maintains a strong corporate presence in the city",as,Affirmative,IKEA was founded by Ingvar Kamprad ( pictured ) in 1943 as an odds - and - ends company selling products ranging from cigarette lighters to nylon stockings . 
+company selling products ranging from,sell.01,products ranging from,,Affirmative,IKEA was founded by Ingvar Kamprad ( pictured ) in 1943 as an odds - and - ends company selling products ranging from cigarette lighters to nylon stockings . 
+"IKEA , which still maintains a strong corporate presence in the city",maintain.01,a corporate presence in Almhult,,Affirmative,"IKEA maintains a corporate presence in Almhult , with furniture testing facilities and an exhibition of the company 's history entitled IKEA Through the Ages . "
+This photo,show.01,the first IKEA store in 1959 or 1960,,Affirmative,This photo shows the first IKEA store in 1959 or 1960 . 
+record high temperatures,hit.01,China,,Affirmative,"When record high temperatures hit China in 2013 , an IKEA in Beijing saw a surge in interest from citizens looking for air - conditioning , comfortable sofas and a good nap . "
+the IKEA Museum,see.01,a surge in interest from citizens looking for,,Affirmative,"When record high temperatures hit China in 2013 , an IKEA in Beijing saw a surge in interest from citizens looking for air - conditioning , comfortable sofas and a good nap . "
+citizens looking for,look.01,for,,Affirmative,"When record high temperatures hit China in 2013 , an IKEA in Beijing saw a surge in interest from citizens looking for air - conditioning , comfortable sofas and a good nap . "
+we,expect.01,one exhibition devoted to meatballs --,,Affirmative,"From the IKEA Museum , we expect at least one exhibition devoted to meatballs -- horsemeat scare and all . "
+by,pose.02,"These questions , and more",,Affirmative,"These questions , and more , will no doubt be posed by the visitors who head to the new IKEA Museum opening next year . "
+the visitors,head.02,to,,Affirmative,"These questions , and more , will no doubt be posed by the visitors who head to the new IKEA Museum opening next year . "
+we,need.01,to hammer together,,Affirmative,"Of course , we might need to hammer together our own answers , having wound our way through thousands of irrelevant facts first . "
+we,hammer.02,our own answers,,Affirmative,"Of course , we might need to hammer together our own answers , having wound our way through thousands of irrelevant facts first . "
+The furniture company,change.01,the affordability of design,,Affirmative,The furniture company that changed the affordability of design has filed to build a museum on the site of its first store in Sweden . 
+The furniture company,file.01,to build,,Affirmative,The furniture company that changed the affordability of design has filed to build a museum on the site of its first store in Sweden . 
+The furniture company,build.01,a museum on,,Affirmative,The furniture company that changed the affordability of design has filed to build a museum on the site of its first store in Sweden . 
+"a museum in Almhult , Sweden",take.13,"7,000 square meters",,Affirmative,"Tentatively scheduled to open in fall 2015 , the museum will take up 7,000 square meters on the site of the recently relocated IKEA store in Almhult , also the site of IKEA 'S first store opened by founder Ingvar Kamprad in 1958 . "
+by,open.01,also the site of,,Affirmative,"Tentatively scheduled to open in fall 2015 , the museum will take up 7,000 square meters on the site of the recently relocated IKEA store in Almhult , also the site of IKEA 'S first store opened by founder Ingvar Kamprad in 1958 . "
+"IKEA ,",maintain.01,a strong corporate presence in,,Affirmative,"Almhult is known as IKEA Town for being the birthplace of IKEA , which still maintains a strong corporate presence in the city . "
+old Kamprad,register.02,IKEA,as,Affirmative,"While the then - 17 - year - old Kamprad had already registered IKEA as a business in 1943 , selling products ranging from nylon stockings to cigarette lighters , the Almhult site was the first brick - and - mortar store as well as the company 's first furniture showroom . "
+company reps,hope.01,museum will be,,Affirmative,"A small exhibition of IKEA 's history , titled IKEA through the ages , is already in place at the basement of the corporate culture center in Älmhult , but company reps are hoping that the new museum will be a much bigger tourist draw . "
+the Ages,plan.01,to tell,,Affirmative,"In the IKEA Museum we plan to tell the IKEA story , focusing on range , business and people development over time , said Michele Acuna , managing director for IKEA Tillsammans , the corporate culture center . "
+the Ages,tell.01,the IKEA story,,Affirmative,"In the IKEA Museum we plan to tell the IKEA story , focusing on range , business and people development over time , said Michele Acuna , managing director for IKEA Tillsammans , the corporate culture center . "
+"Michele Acuna ,",say.01,we plan,,Affirmative,"In the IKEA Museum we plan to tell the IKEA story , focusing on range , business and people development over time , said Michele Acuna , managing director for IKEA Tillsammans , the corporate culture center . "
+managing director for,manage.01,for,,Affirmative,"In the IKEA Museum we plan to tell the IKEA story , focusing on range , business and people development over time , said Michele Acuna , managing director for IKEA Tillsammans , the corporate culture center . "
+the Ages,plan.01,to have,,Affirmative,"We also plan to have a museum shop and food services for our visitors , said Acuna , adding that the museum is expected to draw roughly 200,000 visitors annually when it is in full steam . "
+the Ages,have.03,a museum shop and,,Affirmative,"We also plan to have a museum shop and food services for our visitors , said Acuna , adding that the museum is expected to draw roughly 200,000 visitors annually when it is in full steam . "
+Michele Acuna,say.01,We also plan,,Affirmative,"We also plan to have a museum shop and food services for our visitors , said Acuna , adding that the museum is expected to draw roughly 200,000 visitors annually when it is in full steam . "
+Michele Acuna,add.01,museum is expected,,Affirmative,"We also plan to have a museum shop and food services for our visitors , said Acuna , adding that the museum is expected to draw roughly 200,000 visitors annually when it is in full steam . "
+"a museum in Almhult , Sweden",draw.02,"200,000 visitors",,Affirmative,"We also plan to have a museum shop and food services for our visitors , said Acuna , adding that the museum is expected to draw roughly 200,000 visitors annually when it is in full steam . "
+you,pay.01,a visit to,,Affirmative,Would you pay a visit to the IKEA Museum in Sweden ? 
+her murderous exploits,prove.01,a grisly attraction,,Affirmative,"Four hundred years after the death of Countess Elizabeth Bathory , her murderous exploits prove a grisly attraction . "
+adventurer Alastair Humphreys,look.01,for,,Affirmative,Why global adventurer Alastair Humphreys now looks for ' microadventures ' close to home . 
+you,see.01,Jessica Alba,,Affirmative,Do n't order Corona and do n't freak out when you see Jessica Alba without makeup and you might pass for local . 
+Pacific islands,have.03,traveler covered,,Affirmative,These South Pacific islands have every traveler covered . 
+Airlines and airports,reduce.01,your time,,Affirmative,Airlines and airports are going high - tech to reduce your time in line . 
+These new hotels,keep.02,Summer,,Affirmative,These new hotels are keeping it alive and fresh . 
+a man,tell.01,to trust him,me,Affirmative,"When a man tells me to trust him , my typical reaction is to run . "
+IKEA,trust.02,him,,Affirmative,"When a man tells me to trust him , my typical reaction is to run . "
+this handful of,lead.01,wheel charge,,Affirmative,"From Colombia to Canada , this handful of urban centers is leading the two - wheel charge . "
+Photographer,give.01,a radical new look,Hong Kong,Affirmative,Photographer gives Hong Kong skyscrapers a radical new look . 

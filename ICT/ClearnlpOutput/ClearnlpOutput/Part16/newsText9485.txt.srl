@@ -1,0 +1,82 @@
+1	By	by	IN	p2=NNP	13	prep	13:A2=PRD
+2	Helmut	helmut	NNP	_	3	nn	_
+3	Schmidt	schmidt	NNP	_	1	pobj	_
+4	on	on	IN	_	3	prep	_
+5	May	may	NNP	_	4	pobj	_
+6	19	0	CD	_	5	num	_
+7	,	,	,	_	5	punct	_
+8	2014	0	CD	_	5	num	_
+9	at	at	IN	p2=CC	5	prep	_
+10	7:29	0	CD	_	12	num	_
+11	a.m.	a.m.	NN	p2=RB	12	nn	_
+12	Lindgren	lindgren	NNP	p2=NN	9	pobj	_
+13	was	be	VBD	pb=be.01	0	root	_
+14	mayor	mayor	NN	_	13	nsubj	13:A1=PPT
+15	for	for	IN	_	13	prep	13:AM-TMP
+16	16	0	CD	_	15	pobj	_
+17	of	of	IN	_	16	prep	_
+18	his	his	PRP$	_	20	poss	_
+19	46	0	CD	_	20	num	_
+20	years	year	NNS	_	17	pobj	_
+21	here	here	RB	_	20	advmod	_
+22	.	.	.	_	13	punct	_
+
+1	Over	over	IN	p2=RB	13	prep	13:AM-TMP
+2	much	much	JJ	p2=RB	1	pobj	_
+3	of	of	IN	_	2	prep	_
+4	his	his	PRP$	_	5	poss	_
+5	time	time	NN	_	3	pobj	_
+6	in	in	IN	_	5	prep	_
+7	office	office	NN	_	6	pobj	_
+8	and	and	CC	_	2	cc	_
+9	out	out	RB	p2=NN	2	conj	_
+10	,	,	,	_	13	punct	_
+11	he	he	PRP	_	13	nsubj	13:A1=PPT
+12	has	have	VBZ	_	13	aux	_
+13	been	be	VBN	pb=be.01	0	root	_
+14	a	a	DT	_	16	det	_
+15	lightning	lightning	NN	_	16	nn	_
+16	rod	rod	NN	_	13	attr	13:A2=PRD
+17	on	on	IN	_	16	prep	_
+18	divisive	divisive	JJ	_	19	amod	_
+19	issues	issue	NNS	_	17	pobj	_
+20	-	-	HYPH	p2=,	19	punct	_
+21	abortion	abortion	NN	_	19	appos	_
+22	,	,	,	_	19	punct	_
+23	gay	gay	JJ	p2=NN	24	amod	_
+24	rights	right	NNS	_	19	appos	_
+25	and	and	CC	_	13	cc	_
+26	whether	whether	IN	_	30	mark	_
+27	the	the	DT	_	28	det	_
+28	city	city	NN	_	30	nsubj	30:A0=PAG
+29	should	should	MD	_	30	aux	30:AM-MOD
+30	keep	keep	VB	pb=keep.01	13	conj	_
+31	its	its	PRP$	_	34	poss	_
+32	Ten	ten	NNP	p2=CD	33	nn	_
+33	Commandments	commandments	NNP	p2=NNPS	34	nn	_
+34	monument	monument	NN	_	30	dobj	30:A1=PPT
+35	outside	outside	IN	_	30	prep	30:AM-LOC
+36	City	city	NNP	_	37	nn	_
+37	Hall	hall	NNP	_	35	pobj	_
+38	.	.	.	_	13	punct	_
+
+1	Are	be	VBP	pb=be.01	0	root	_
+2	you	you	PRP	_	1	nsubj	1:A1=PPT
+3	a	a	DT	_	5	det	_
+4	newspaper	newspaper	NN	_	5	nn	_
+5	subscriber	subscriber	NN	_	1	attr	1:A2=PRD
+6	but	but	CC	_	1	cc	_
+7	you	you	PRP	_	10	nsubj	10:A0=PAG
+8	do	do	VBP	_	10	aux	_
+9	n't	not	RB	_	10	neg	10:AM-NEG
+10	have	have	VB	pb=have.03	1	conj	_
+11	a Digital	a digital	NNP	p2=JJ	12	nn	_
+12	Access account	access account	NNP	p2=VB	10	dobj	10:A1=PPT
+13	yet	yet	RB	_	10	advmod	10:AM-TMP
+14	?	?	.	_	10	punct	_
+
+1	 	 	''	p2=NNP	3	punct	_
+2	https://secure.forumcomm.com/?publisher_ID=40&event=subscriber/	#url#	ADD	_	3	nsubj	_
+3	lookup	lookup	NN	p2=JJ	0	root	_
+4	.	.	.	_	3	punct	_
+

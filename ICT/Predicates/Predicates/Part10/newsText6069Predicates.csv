@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+We,notice.01,that you found,,Affirmative,We noticed that you found this article on Facebook . 
+you,find.01,this article on Facebook,,Affirmative,We noticed that you found this article on Facebook . 
+the military,declare.02,martial law,,Affirmative,HONG KONG ( AP ) - Thailand 's stock market and currency fell Tuesday after the military declared martial law in what it called an attempt to stabilize the country 's precarious political situation . 
+military,take.01,control of,,Affirmative,"Bangkok remained calm after Thailand 's military took control of public security nationwide , surrounding police headquarters in the capital as they broadcast the announcement before dawn from multiple television stations . "
+they,broadcast.01,the announcement,,Affirmative,"Bangkok remained calm after Thailand 's military took control of public security nationwide , surrounding police headquarters in the capital as they broadcast the announcement before dawn from multiple television stations . "
+Bangkok,request.01,TV channels run by opposing,,Affirmative,It requested TV channels run by opposing political camps to suspend broadcasts . 
+by opposing,run.01,TV channels run by opposing,,Affirmative,It requested TV channels run by opposing political camps to suspend broadcasts . 
+TV channels run by opposing,oppose.01,political camps,,Affirmative,It requested TV channels run by opposing political camps to suspend broadcasts . 
+the military,insist.01,"The move ,",,Affirmative,"The move , which the military insists is not a coup , follows months of anti-government demonstrations and a refusal by the caretaker prime minister to step down . "
+The unrest,hurt.01,the Thai economy,,Affirmative,"The unrest has hurt the Thai economy , which shrank 2.1 percent in the first quarter from the fourth quarter , according to data released Monday . "
+the Thai economy,need.01,The last thing,,Affirmative,"The last thing the economy needs is further political instability , said Michael Every , head of Asia Pacific financial market research at Rabobank . "
+"Michael Every , head of",say.01,is,,Affirmative,"The last thing the economy needs is further political instability , said Michael Every , head of Asia Pacific financial market research at Rabobank . "
+Michael Every,say.01,certainly hit,,Affirmative,He said that martial law will almost certainly hit near - term tourism arrivals . 
+martial law,hit.01,term tourism arrivals,,Affirmative,He said that martial law will almost certainly hit near - term tourism arrivals . 

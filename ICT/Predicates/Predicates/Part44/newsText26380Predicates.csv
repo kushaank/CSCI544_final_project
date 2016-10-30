@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Minister Lee Hsien Loong on Monday,invite.01,Prime Minister -,designate,Affirmative,Singapore Prime Minister Lee Hsien Loong on Monday invited India 's Prime Minister - designate Narendra Modi to visit the country and expressed the hope of raising the bilateral partnership to new heights . 
+Prime Minister -,designate.01,Narendra Modi,to visit,Affirmative,Singapore Prime Minister Lee Hsien Loong on Monday invited India 's Prime Minister - designate Narendra Modi to visit the country and expressed the hope of raising the bilateral partnership to new heights . 
+Narendra Modi,visit.01,the country,,Affirmative,Singapore Prime Minister Lee Hsien Loong on Monday invited India 's Prime Minister - designate Narendra Modi to visit the country and expressed the hope of raising the bilateral partnership to new heights . 
+Mr Lee,congratulate.01,Mr Modi,for,Affirmative,"In a letter , Mr Lee congratulated Mr Modi for his win in the Lok Sabha elections . "
+Mr Lee,congratulate.01,you,on,Affirmative,"On behalf of the Government and people of Singapore , I congratulate you on your election as India 's Prime Minister . "
+Indian voters,have.03,great hopes,,Affirmative,"The BJP 's decisive victory reflects the strong support and great hopes that Indian voters have in your leadership and vision , he wrote . "
+Mr Lee,write.01,victory reflects,,Affirmative,"The BJP 's decisive victory reflects the strong support and great hopes that Indian voters have in your leadership and vision , he wrote . "
+Mr Lee,note.01,countries cooperate closely,,Affirmative,"Noting that the two countries cooperate closely to promote regional peace and prosperity through multinational forums , Mr Lee highlighted that next year the two nations will celebrate 50 years of diplomatic relations . "
+the two countries,cooperate.01,to promote,,Affirmative,"Noting that the two countries cooperate closely to promote regional peace and prosperity through multinational forums , Mr Lee highlighted that next year the two nations will celebrate 50 years of diplomatic relations . "
+the two countries,promote.02,regional peace and prosperity,,Affirmative,"Noting that the two countries cooperate closely to promote regional peace and prosperity through multinational forums , Mr Lee highlighted that next year the two nations will celebrate 50 years of diplomatic relations . "
+Mr Lee,highlight.01,nations will celebrate,,Affirmative,"Noting that the two countries cooperate closely to promote regional peace and prosperity through multinational forums , Mr Lee highlighted that next year the two nations will celebrate 50 years of diplomatic relations . "
+the two nations,celebrate.01,50 years of,,Affirmative,"Noting that the two countries cooperate closely to promote regional peace and prosperity through multinational forums , Mr Lee highlighted that next year the two nations will celebrate 50 years of diplomatic relations . "
+Mr Lee,hope.01,can be,,Affirmative,It is an auspicious milestone which I hope can be a springboard to raise our bilateral partnership to new heights . 
+a springboard,raise.01,our bilateral partnership to,,Affirmative,It is an auspicious milestone which I hope can be a springboard to raise our bilateral partnership to new heights . 
+Mr Lee,work.01,to enhance,,Affirmative,"I look forward to working with you to enhance our bilateral ties and hope that you will visit Singapore at the earliest opportunity , Mr Lee said . "
+Mr Lee,hope.01,that you will visit Singapore at,,Affirmative,"I look forward to working with you to enhance our bilateral ties and hope that you will visit Singapore at the earliest opportunity , Mr Lee said . "
+you,visit.01,Singapore,,Affirmative,"I look forward to working with you to enhance our bilateral ties and hope that you will visit Singapore at the earliest opportunity , Mr Lee said . "
+Mr Lee,say.01,I look forward to working with you,,Affirmative,"I look forward to working with you to enhance our bilateral ties and hope that you will visit Singapore at the earliest opportunity , Mr Lee said . "
+Mr Lee,wish.01,every success in,you,Affirmative,"I wish you every success in your new appointment , he said . "
+Mr Lee,say.01,I wish you,,Affirmative,"I wish you every success in your new appointment , he said . "
+premier Goh Chok Tong,send.01,a letter,to,Affirmative,"Former premier Goh Chok Tong also sent a letter to Mr Modi , expressing his heartiest congratulations on his electoral victory . "
+premier Goh Chok Tong,express.01,his heartiest congratulations,,Affirmative,"Former premier Goh Chok Tong also sent a letter to Mr Modi , expressing his heartiest congratulations on his electoral victory . "
+You,show.01,a strong resolve,,Affirmative,You have always shown a strong resolve to bring economic prosperity to the Indian people . 
+"Mr Goh ,",write.01,are testament of,,Affirmative,"Gujarat 's economic success and development are testament of your visionary leadership and what you can bring to India , Mr Goh , who currently is Emeritus Senior Minister in the government , wrote . "

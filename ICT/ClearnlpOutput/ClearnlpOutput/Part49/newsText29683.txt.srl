@@ -1,0 +1,20 @@
+1	The	the	DT	_	5	det	_
+2	most	most	RBS	_	3	advmod	_
+3	senior	senior	JJ	_	5	amod	_
+4	government	government	NN	_	5	nn	_
+5	figure	figure	NN	_	8	nsubjpass	8:A1=PPT
+6	to	to	TO	_	8	aux	_
+7	be	be	VB	_	8	auxpass	_
+8	convicted	convict	VBN	pb=convict.01	0	root	_
+9	in	in	IN	_	8	prep	8:AM-LOC
+10	a	a	DT	_	11	det	_
+11	campaign	campaign	NN	_	9	pobj	_
+12	against	against	IN	_	11	prep	_
+13	graft	graft	NN	_	12	pobj	_
+14	in	in	IN	_	13	prep	_
+15	the	the	DT	_	18	det	_
+16	Gulf	gulf	NNP	_	18	nn	_
+17	Arab	arab	JJ	p2=NNP	18	amod	_
+18	state	state	NN	_	14	pobj	_
+19	.	.	.	_	8	punct	_
+

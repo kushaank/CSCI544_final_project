@@ -1,0 +1,34 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+us,receive.01,your submission,,Affirmative,We 've received your submission . 
+A new app,aim.01,to provide,,Affirmative,A new app aims to provide a helicopter lift from Manhattan to the Hamptons for less by helping travelers crowdsource their own flights . 
+A new app,provide.01,a helicopter lift from Manhattan,to,Affirmative,A new app aims to provide a helicopter lift from Manhattan to the Hamptons for less by helping travelers crowdsource their own flights . 
+travelers,crowdsource.01,their own flights,,Affirmative,A new app aims to provide a helicopter lift from Manhattan to the Hamptons for less by helping travelers crowdsource their own flights . 
+"The iPhone app , called Blade",allow.01,users to book,,Affirmative,"The iPhone app , called Blade , will allow users to book a seat on an existing flight with just a few screen taps . "
+users,book.01,a seat on,,Affirmative,"The iPhone app , called Blade , will allow users to book a seat on an existing flight with just a few screen taps . "
+people,launch.01,their own charter flight,,Affirmative,"If none of the scheduled flights work , people can launch their own charter flight at a specified time using Blade to help fill the open seats . "
+people,use.01,Blade,to help fill,Affirmative,"If none of the scheduled flights work , people can launch their own charter flight at a specified time using Blade to help fill the open seats . "
+Blade customers,receive.01,a plastic cup of,,Affirmative,"Even better , Blade customers will receive a plastic cup of rose wine or a water bottle , along with a complimentary copy of The Post and the ability to charge their phones . "
+Blade,partner.01,with Maserati of,,Affirmative,Another bonus : Blade has partnered with Maserati of NYC / Long Island to provide car service for times when bad weather cancels the flight . 
+Blade,provide.01,car service,,Affirmative,Another bonus : Blade has partnered with Maserati of NYC / Long Island to provide car service for times when bad weather cancels the flight . 
+bad weather,cancel.01,their own charter flight,,Affirmative,Another bonus : Blade has partnered with Maserati of NYC / Long Island to provide car service for times when bad weather cancels the flight . 
+you,have.03,three hours,,Affirmative,"Meanwhile , if you have three hours to spare , a ticket on the Hampton Jitney is $ 30 , or , if you prepay , $ 28 a pop . "
+Blade,ride-sharing.01,"app Sidecar ,",,Affirmative,"Blade bears some similarities to ride-sharing app Sidecar , which matches drivers with people nearby looking for rides . "
+"app Sidecar ,",match.01,drivers,,Affirmative,"Blade bears some similarities to ride-sharing app Sidecar , which matches drivers with people nearby looking for rides . "
+people,look.01,for rides,,Affirmative,"Blade bears some similarities to ride-sharing app Sidecar , which matches drivers with people nearby looking for rides . "
+by,dictate.01,the prices,,Affirmative,"But unlike with taxi app Uber , the prices are n't dictated by peak demand . "
+"by date , time and price",display.01,Blade flights,,Affirmative,"With Blade , there are no surprises as flights are displayed by date , time and price , Licht said . "
+Evan Licht,say.01,", there are",,Affirmative,"With Blade , there are no surprises as flights are displayed by date , time and price , Licht said . "
+drivers,want.01,to make,,Affirmative,"We want to make it approachable and easy and transparent for young people who think only billionaires fly planes , Licht told The Post . "
+drivers,make.02,it approachable and easy and transparent for,,Affirmative,"We want to make it approachable and easy and transparent for young people who think only billionaires fly planes , Licht told The Post . "
+young people,think.01,billionaires fly planes,,Affirmative,"We want to make it approachable and easy and transparent for young people who think only billionaires fly planes , Licht told The Post . "
+only billionaires,fly.01,planes,,Affirmative,"We want to make it approachable and easy and transparent for young people who think only billionaires fly planes , Licht told The Post . "
+Evan Licht,tell.01,We want,The Post,Affirmative,"We want to make it approachable and easy and transparent for young people who think only billionaires fly planes , Licht told The Post . "
+by,back.01,Blade,,Affirmative,Blade is backed by Liberty Helicopter - a familiar sight to most New Yorkers - and two other tech investors who want to remain unnamed . 
+two other tech investors,want.01,to remain unnamed,,Affirmative,Blade is backed by Liberty Helicopter - a familiar sight to most New Yorkers - and two other tech investors who want to remain unnamed . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "
+you,confirm.01,that you accept,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,accept.01,our terms of service,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+you,understand.01,privacy policy,,Affirmative,"{ * # socialRegistrationForm * } { * socialRegistration_emailAddress * } { * socialRegistration_displayName * } { * socialRegistration_ageVerification * } By clicking Create Account , you confirm that you accept our terms of service and have read and understand privacy policy . "
+our,send.01,a link,you,Affirmative,We 'll send you a link to create a new password . 
+a link,create.01,a new password,,Affirmative,We 'll send you a link to create a new password . 
+our,send.01,an email,with instructions,Affirmative,We 've sent an email with instructions to create a new password . 

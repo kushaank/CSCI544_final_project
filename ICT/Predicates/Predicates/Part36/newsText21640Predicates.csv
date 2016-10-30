@@ -1,0 +1,33 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Four former executives of,plead.02,guilty,,Affirmative,Four former executives of the Cadillac Ranch restaurant and bar in Cincinnati have pleaded guilty in federal court to tax charges involving the Internal Revenue Service . 
+Four former executives of,plead.02,guilty,,Affirmative,Four former executives of the Cadillac Ranch restaurant and bar in Cincinnati have pleaded guilty in federal court to tax charges involving the Internal Revenue Service . 
+Joel Field and,plead.02,guilty to,,Affirmative,"Joel Field and Eric Schilder , both of Marion , Ohio , and Jon Field and Paul Butler , both of Dublin , Ohio , each pleaded guilty to one charge involving failing to pay taxes . "
+"Joel Field , 58 ,",plead.02,guilty to,,Affirmative,"Joel Field , 58 , pleaded guilty to tax evasion . "
+Field,admit.01,to amassing,,Affirmative,"Field admitted to amassing unpaid taxes of more than $ 130,000 between 1997 and 2001 . "
+"Jon Field , also 58",give.01,false information,the IRS,Affirmative,"He later gave the IRS false information and transferred some assets into other family membersâ€™ names to prevent the IRS from seizing them , according to court documents . "
+"Jon Field , also 58",transfer.01,some assets,into,Affirmative,"He later gave the IRS false information and transferred some assets into other family membersâ€™ names to prevent the IRS from seizing them , according to court documents . "
+names,prevent.01,the IRS,from seizing them,Affirmative,"He later gave the IRS false information and transferred some assets into other family membersâ€™ names to prevent the IRS from seizing them , according to court documents . "
+the IRS,seize.01,an owner and operator of Cadillac Ranch restaurants,,Affirmative,"He later gave the IRS false information and transferred some assets into other family membersâ€™ names to prevent the IRS from seizing them , according to court documents . "
+"Jon Field , also 58",agree.01,to pay restitution of,,Affirmative,"Field agreed to pay restitution of $ 349,777 , according to the news release . "
+"Jon Field , also 58",pay.01,restitution of,,Affirmative,"Field agreed to pay restitution of $ 349,777 , according to the news release . "
+Field,face.01,a maximum sentence of,,Affirmative,"Field faces a maximum sentence of five years in prison and a fine of up to $ 250,000 . "
+"Jon Field ,",plead.02,guilty to filing,,Affirmative,"Jon Field , also 58 , pleaded guilty to filing false income tax returns from 2006 through 2010 , according to court documents . "
+"Jon Field ,",file.01,tax returns,,Affirmative,"Jon Field , also 58 , pleaded guilty to filing false income tax returns from 2006 through 2010 , according to court documents . "
+Jon Field,agree.01,to pay restitution for,,Affirmative,"He agreed to pay restitution for the tax loss of $ 174,458 that he caused from his filings . "
+Jon Field,pay.01,restitution,,Affirmative,"He agreed to pay restitution for the tax loss of $ 174,458 that he caused from his filings . "
+Jon Field,cause.01,the tax loss of,,Affirmative,"He agreed to pay restitution for the tax loss of $ 174,458 that he caused from his filings . "
+Jon Field,face.01,maximum penalties of,,Affirmative,"He also faces maximum penalties of five years in prison and a $ 250,000 fine . "
+Eric Schilder,plead.02,guilty to filing,,Affirmative,Schilder pleaded guilty to filing a false income tax return in 2008 . 
+Eric Schilder,file.01,tax return,,Affirmative,Schilder pleaded guilty to filing a false income tax return in 2008 . 
+Eric Schilder,cause.01,IRS to lose,,Affirmative,"He caused the IRS to lose $ 95,000 , according to the news release . "
+the IRS,lose.02,"$ 95,000",,Affirmative,"He caused the IRS to lose $ 95,000 , according to the news release . "
+Eric Schilder,face.01,a maximum sentence of,,Affirmative,"He faces a maximum sentence of three years in prison and a $ 250,000 fine . "
+Paul Butler,plead.02,guilty to conspiracy,,Affirmative,Butler pleaded guilty to conspiracy to defraud the United States . 
+Paul Butler,admit.01,to failing,,Affirmative,"He admitted in court to failing to pay taxes of more than $ 150,000 from 1996 to 2001 . "
+Paul Butler,say.01,he then helped created,,Affirmative,He said he then helped created a false promissory note to the IRS . 
+Paul Butler,help.01,created,,Affirmative,He said he then helped created a false promissory note to the IRS . 
+Paul Butler,create.01,a false promissory note,,Affirmative,He said he then helped created a false promissory note to the IRS . 
+Paul Butler,face.01,maximum penalties of,,Affirmative,"He also faces maximum penalties of five years in prison and a $ 250,000 fine . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

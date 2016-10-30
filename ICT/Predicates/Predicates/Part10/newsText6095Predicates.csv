@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Framingham man,throw.01,his teen daughter,into,Affirmative,"FRAMINGHAM - A Framingham man threw his teen daughter into a television and then a woman prevented the girl from calling 911 for help on Sunday , a prosecutor said in Framingham District Court on Monday . "
+a woman,prevent.01,the girl,from calling 911 for help,Affirmative,"FRAMINGHAM - A Framingham man threw his teen daughter into a television and then a woman prevented the girl from calling 911 for help on Sunday , a prosecutor said in Framingham District Court on Monday . "
+a woman,call.03,911 for help,,Affirmative,"FRAMINGHAM - A Framingham man threw his teen daughter into a television and then a woman prevented the girl from calling 911 for help on Sunday , a prosecutor said in Framingham District Court on Monday . "
+a prosecutor,say.01,man threw,,Affirmative,"FRAMINGHAM - A Framingham man threw his teen daughter into a television and then a woman prevented the girl from calling 911 for help on Sunday , a prosecutor said in Framingham District Court on Monday . "
+Framingham Police,arrest.01,"Carlos Reyes , 44 , and",,Affirmative,"Framingham Police arrested Carlos Reyes , 44 , and Beatriz Penaflor , 42 , after the 5 p.m. dispute , prosecutor Wendi Safran said during Reyes ' arraignment . "
+Reyes and his daughter,begin.01,fighting over,,Affirmative,"On Sunday , Reyes and his daughter were in the family room watching television when an argument between the two erupted and they began fighting over the remote control , the prosecutor said . "
+a prosecutor,say.01,were in,,Affirmative,"On Sunday , Reyes and his daughter were in the family room watching television when an argument between the two erupted and they began fighting over the remote control , the prosecutor said . "
+The defendant,grab.01,his teen daughter,,Affirmative,"The defendant grabbed her , and threw her into the television , said Safran . "
+The defendant,throw.01,his teen daughter,into,Affirmative,"The defendant grabbed her , and threw her into the television , said Safran . "
+prosecutor Wendi Safran,say.01,"defendant grabbed her , and threw her into",,Affirmative,"The defendant grabbed her , and threw her into the television , said Safran . "
+his teen daughter,say.01,father manhandled her and shoved her into,,Affirmative,She said her father manhandled her and shoved her into the television . 
+her father,manhandle.01,his teen daughter,,Affirmative,She said her father manhandled her and shoved her into the television . 
+her father,shove.01,his teen daughter,into,Affirmative,She said her father manhandled her and shoved her into the television . 
+A witness,tell.01,girl was,police,Affirmative,"A witness told police that the girl was the first to make any physical contact during the dispute , the prosecutor said . "
+a prosecutor,say.01,witness told police,,Affirmative,"A witness told police that the girl was the first to make any physical contact during the dispute , the prosecutor said . "
+the girl,try.01,to call 911,,Affirmative,"When the girl tried to call 911 , Penaflor took the phone from her hands . "
+the girl,call.02,911,,Affirmative,"When the girl tried to call 911 , Penaflor took the phone from her hands . "
+Beatriz Penaflor,take.01,the phone,from,Affirmative,"When the girl tried to call 911 , Penaflor took the phone from her hands . "
+the girl,call.02,911,,Affirmative,The girl had to leave to call 911 . 
+Framingham Police,arrest.01,Carlos Reyes,,Affirmative,"Police arrested Reyes , of 47 Winthrop St. , and charged him with assault and battery with a dangerous weapon . "
+Framingham Police,charge.05,Framingham Police,with assault and battery,Affirmative,"Police arrested Reyes , of 47 Winthrop St. , and charged him with assault and battery with a dangerous weapon . "
+prosecutor Wendi Safran,ask.02,to hold Reyes on,Judge Douglas Stoddart,Affirmative,"Safran asked Judge Douglas Stoddart to hold Reyes on $ 20,000 bail . "
+Judge Douglas Stoddart,hold.01,Reyes,,Affirmative,"Safran asked Judge Douglas Stoddart to hold Reyes on $ 20,000 bail . "
+prosecutor Wendi Safran,say.01,just got out of,,Affirmative,"Reyes , she said , just got out of federal prison in December after being sentenced to�15 years�on federal drug distribution charges . "
+"lawyer ,",argue.01,for,,Affirmative,"Reyes ' lawyer , Kenneth Gross , argued for Reyes ' release , calling the case weak . "
+"lawyer ,",call.01,the case,weak,Affirmative,"Reyes ' lawyer , Kenneth Gross , argued for Reyes ' release , calling the case weak . "
+Kenneth Gross,say.01,It is extraordinary,,Affirmative,"It is extraordinary that they 're asking for such a high bail for what basically is a misdemeanor , Gross said . "
+Judge Douglas Stoddart,set.01,Reyes bail,at,Affirmative,"Stoddart set Reyes bail at $ 1,000 and ordered him to stay away and have no contact with his daughter . "
+Judge Douglas Stoddart,order.01,Judge Douglas Stoddart,to stay away and have,Affirmative,"Stoddart set Reyes bail at $ 1,000 and ordered him to stay away and have no contact with his daughter . "
+Judge Douglas Stoddart,release.01,Beatriz Penaflor,,Affirmative,Stoddart released Penaflor without bail . 

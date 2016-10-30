@@ -1,0 +1,58 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+County Sheriff,help.01,what appeared,,Affirmative,An Oklahoma County Sheriff who pulled up to help what appeared to be a stranded motorist ended up stopping a burglary in progress . 
+a stranded motorist ended up stopping,stop.01,a burglary in progress,,Affirmative,An Oklahoma County Sheriff who pulled up to help what appeared to be a stranded motorist ended up stopping a burglary in progress . 
+the second car,have.03,its flashers,,Affirmative,One of the car 's hood was raised and the second car had its flashers on . 
+the deputy,check.01,on them,,Affirmative,The deputy pulled over to check on them and see if they needed help . 
+them,need.01,help,,Affirmative,The deputy pulled over to check on them and see if they needed help . 
+the deputy,say.01,man had walked out of sight,,Affirmative,"The deputy said when he walked up , another man had walked out of sight and Jeffries had thrown several items to the ground . "
+38-year-old Robert Jeffries,throw.01,several items,to,Affirmative,"The deputy said when he walked up , another man had walked out of sight and Jeffries had thrown several items to the ground . "
+the deputy,say.01,Jeffries appeared nervous and said,,Affirmative,The deputy said Jeffries appeared nervous and said that he had stopped to help a stranded driver . 
+38-year-old Robert Jeffries,say.01,that he had stopped,,Affirmative,The deputy said Jeffries appeared nervous and said that he had stopped to help a stranded driver . 
+38-year-old Robert Jeffries,help.01,a stranded driver,,Affirmative,The deputy said Jeffries appeared nervous and said that he had stopped to help a stranded driver . 
+38-year-old Robert Jeffries,tell.01,driver left,deputies,Affirmative,Jeffries told deputies the driver left the scene to get a battery and Jeffries was watching the car while he was gone . 
+a stranded driver,leave.01,the scene,,Affirmative,Jeffries told deputies the driver left the scene to get a battery and Jeffries was watching the car while he was gone . 
+a stranded driver,get.01,was watching,,Affirmative,Jeffries told deputies the driver left the scene to get a battery and Jeffries was watching the car while he was gone . 
+a battery and Jeffries,watch.01,the second car,,Affirmative,Jeffries told deputies the driver left the scene to get a battery and Jeffries was watching the car while he was gone . 
+38-year-old Robert Jeffries,say.01,was,,Affirmative,"Jeffries said the second man , 25 - year - old Kyle Hurley , was a friend who had stopped to help as well . "
+Deputies,notice.01,had,,Affirmative,Other deputies arrived as backup and that 's when they noticed one of the cars had a broken window and there were signs the car had been burglarized . 
+one of,have.03,a broken window,,Affirmative,Other deputies arrived as backup and that 's when they noticed one of the cars had a broken window and there were signs the car had been burglarized . 
+Deputies,say.01,they found,,Affirmative,"Deputies said they found a woman , 21 - year - old Tracy Jo Smith , in the backseat of the other car . "
+Deputies,find.01,"a woman ,",,Affirmative,"Deputies said they found a woman , 21 - year - old Tracy Jo Smith , in the backseat of the other car . "
+21-year-old Tracy Jo Smith,say.01,she was asleep and,,Affirmative,Smith said she was asleep and did n't know what was going on . 
+21-year-old Tracy Jo Smith,know.01,what was going on,,Affirmative,Smith said she was asleep and did n't know what was going on . 
+Deputies,say.01,they searched,,Affirmative,"Deputies said they searched her purse and found a pipe , digital scales , and a small baggie with crystal meth inside . "
+Deputies,search.01,her purse,,Affirmative,"Deputies said they searched her purse and found a pipe , digital scales , and a small baggie with crystal meth inside . "
+Deputies,find.01,"a pipe ,",,Affirmative,"Deputies said they searched her purse and found a pipe , digital scales , and a small baggie with crystal meth inside . "
+Deputies,say.01,they also found,,Affirmative,They said they also found burglary tools and another pipe in the area where Jeffries had tossed items when the first deputy arrive . 
+Deputies,find.01,burglary tools and,,Affirmative,They said they also found burglary tools and another pipe in the area where Jeffries had tossed items when the first deputy arrive . 
+38-year-old Robert Jeffries,toss.01,several items,,Affirmative,They said they also found burglary tools and another pipe in the area where Jeffries had tossed items when the first deputy arrive . 
+21-year-old Tracy Jo Smith,face.01,a charge of,,Affirmative,Smith also faces a charge of with possession of drugs without a valid prescription . 
+Deputies,say.01,they tracked down,,Affirmative,Deputies said they tracked down the car 's owner who said she did not know the suspects . 
+Deputies,track.01,owner,,Affirmative,Deputies said they tracked down the car 's owner who said she did not know the suspects . 
+owner,say.01,she did not know,,Affirmative,Deputies said they tracked down the car 's owner who said she did not know the suspects . 
+21-year-old Tracy Jo Smith,know.01,the suspects,,Affirmative,Deputies said they tracked down the car 's owner who said she did not know the suspects . 
+21-year-old Tracy Jo Smith,say.01,car had broken down and,,Affirmative,She said her car had broken down and she left it on the side of the interstate . 
+21-year-old Tracy Jo Smith,leave.01,the second car,,Affirmative,She said her car had broken down and she left it on the side of the interstate . 
+Police,investigate.01,the beating and robbery of,,Affirmative,Police are investigating the beating and robbery of a 70 - year - old woman . 
+Police,investigate.01,the beating and robbery of,,Affirmative,Police are investigating the beating and robbery of a 70 - year - old woman . 
+New federal guidelines,limit.01,"the calories , fat , sodium and sugar",in foods sold on,Affirmative,"New federal guidelines went into effect this year limiting the calories , fat , sodium and sugar in foods sold on school grounds . "
+some school districts,say.01,guidelines go,,Affirmative,"However , some school districts say the guidelines go too far . "
+New federal guidelines,limit.01,"the calories , fat , sodium and sugar",in foods sold on,Affirmative,"New federal guidelines went into effect this year limiting the calories , fat , sodium and sugar in foods sold on school grounds . "
+some school districts,say.01,guidelines go,,Affirmative,"However , some school districts say the guidelines go too far . "
+Police,say.01,suspect is dead,,Affirmative,Police say a suspect is dead and a police dog hospitalized following a chase along I - 35 . 
+Police,say.01,suspect is dead,,Affirmative,Police say a suspect is dead and a police dog hospitalized following a chase along I - 35 . 
+"SPRINGFIELD , MA ( AP )",say.01,he 's concerned,,Affirmative,"SPRINGFIELD , MA ( AP ) -- The lawyer for a man charged with murder for his alleged role in the slayings of three Berkshire County men says he 's concerned his client 's unique appearance will prevent selection of impartial jurors . "
+unique appearance,prevent.01,selection of,,Affirmative,"SPRINGFIELD , MA ( AP ) -- The lawyer for a man charged with murder for his alleged role in the slayings of three Berkshire County men says he 's concerned his client 's unique appearance will prevent selection of impartial jurors . "
+"SPRINGFIELD , MA ( AP )",say.01,he 's concerned,,Affirmative,"SPRINGFIELD , MA ( AP ) -- The lawyer for a man charged with murder for his alleged role in the slayings of three Berkshire County men says he 's concerned his client 's unique appearance will prevent selection of impartial jurors . "
+unique appearance,prevent.01,selection of,,Affirmative,"SPRINGFIELD , MA ( AP ) -- The lawyer for a man charged with murder for his alleged role in the slayings of three Berkshire County men says he 's concerned his client 's unique appearance will prevent selection of impartial jurors . "
+Office deputies,find.01,several dogs,,Affirmative,"Those are the conditions Oklahoma County Sheriff 's Office deputies found several dogs in when they responded to a call of animal abuse in Luther , Oklahoma . "
+Oklahoma County Sheriff 's Office deputies,respond.01,to,,Affirmative,"Those are the conditions Oklahoma County Sheriff 's Office deputies found several dogs in when they responded to a call of animal abuse in Luther , Oklahoma . "
+Office deputies,find.01,several dogs,,Affirmative,"Those are the conditions Oklahoma County Sheriff 's Office deputies found several dogs in when they responded to a call of animal abuse in Luther , Oklahoma . "
+Oklahoma County Sheriff 's Office deputies,respond.01,to,,Affirmative,"Those are the conditions Oklahoma County Sheriff 's Office deputies found several dogs in when they responded to a call of animal abuse in Luther , Oklahoma . "
+the hospital,treat.01,two American aid workers,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+ATLANTA ( AP ) --,say.01,discharge poses,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+their discharge,pose.02,health risk,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+the hospital,treat.01,two American aid workers,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+ATLANTA ( AP ) --,say.01,discharge poses,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+their discharge,pose.02,health risk,,Affirmative,ATLANTA ( AP ) -- A doctor at the hospital that treated two American aid workers who were infected with the deadly Ebola virus in Africa says their discharge poses no public health risk . 
+All content,copyright.01,WorldNow and KOKH,,Affirmative,All content © Copyright 2000 - 2014 WorldNow and KOKH . 

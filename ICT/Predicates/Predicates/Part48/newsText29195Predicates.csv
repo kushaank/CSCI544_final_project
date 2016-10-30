@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ The state,suspend.01,the license of,,Affirmative,-  The state has suspended the license of an Enfield dentist after the death of a patient who was having 20 teeth extracted . 
+a patient,have.03,20 teeth extracted,,Affirmative,-  The state has suspended the license of an Enfield dentist after the death of a patient who was having 20 teeth extracted . 
+The Journal Inquirer,report.01,Patel faces,,Affirmative,The Journal Inquirer reports that Dr. Rashmi Patel faces a June 18 hearing before the Connecticut State Dental Commission . 
+Dr. Rashmi Patel,face.01,hearing before,,Affirmative,The Journal Inquirer reports that Dr. Rashmi Patel faces a June 18 hearing before the Connecticut State Dental Commission . 
+The state,allege.01,actions led to,,Affirmative,The state alleges Patel 's actions led to the death of patient Judith Gan . 
+year - old,have.03,extractions and implants performed on Feb,,Affirmative,The 64 - year - old was having extractions and implants performed on Feb . 
+"Michael Kogut ,",say.01,there is,,Affirmative,"Michael Kogut , Patel 's attorney , says there is no medical information indicating that Patel 's actions resulted in Gan 's death . "
+no medical information indicating,indicate.01,actions resulted in,,Affirmative,"Michael Kogut , Patel 's attorney , says there is no medical information indicating that Patel 's actions resulted in Gan 's death . "
+the state,allege.01,Patel failed,,Affirmative,"Among other things , the state alleges Patel failed to respond appropriately when the woman 's oxygen levels dropped , and improperly attempted to extract the teeth in a single visit . "
+Patel,attempt.01,to extract,,Affirmative,"Among other things , the state alleges Patel failed to respond appropriately when the woman 's oxygen levels dropped , and improperly attempted to extract the teeth in a single visit . "

@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Gunmen,shoot.02,dead two Egyptian policemen,,Affirmative,"Gunmen shot dead two Egyptian policemen on Monday in the central city of Minya as they were heading home , the interior ministry said . "
+Gunmen,head.02,home,,Affirmative,"Gunmen shot dead two Egyptian policemen on Monday in the central city of Minya as they were heading home , the interior ministry said . "
+the interior ministry,say.01,Gunmen shot,,Affirmative,"Gunmen shot dead two Egyptian policemen on Monday in the central city of Minya as they were heading home , the interior ministry said . "
+Militant attacks targeting policemen,target.01,dead two Egyptian policemen,,Affirmative,Militant attacks targeting policemen have risen since the army ousted Islamist president Mohamed Morsi in July last year . 
+the army,oust.01,president Mohamed Morsi,,Affirmative,Militant attacks targeting policemen have risen since the army ousted Islamist president Mohamed Morsi in July last year . 
+dead two Egyptian policemen,ride.01,on,,Affirmative,"The two policemen , riding on a motorbike , were shot dead on the Minya - Assiut highway , the ministry said . "
+the interior ministry,say.01,", were shot dead on",,Affirmative,"The two policemen , riding on a motorbike , were shot dead on the Minya - Assiut highway , the ministry said . "
+chief Abdel Fattah al - Sisi,oust.01,Islamist president Mohamed Morsi in July,,Affirmative,"The attack comes just days ahead of the May 26-27 presidential election , which former army chief Abdel Fattah al - Sisi who ousted Morsi is expected to win . "
+chief Abdel Fattah al - Sisi,win.01,"presidential election ,",,Affirmative,"The attack comes just days ahead of the May 26-27 presidential election , which former army chief Abdel Fattah al - Sisi who ousted Morsi is expected to win . "
+a court in Minya,trigger.01,an international outcry,,Affirmative,"In April , a court in Minya triggered an international outcry after sentencing to death around 700 Morsi supporters after a speedy mass trial , accusing them of murder and attempted murder of policemen in August last year in Minya . "
+a court in Minya,accuse.01,700 Morsi supporters,of murder,Affirmative,"In April , a court in Minya triggered an international outcry after sentencing to death around 700 Morsi supporters after a speedy mass trial , accusing them of murder and attempted murder of policemen in August last year in Minya . "
+a court in Minya,attempt.01,murder of policemen,,Affirmative,"In April , a court in Minya triggered an international outcry after sentencing to death around 700 Morsi supporters after a speedy mass trial , accusing them of murder and attempted murder of policemen in August last year in Minya . "

@@ -1,0 +1,30 @@
+1	Fortune.com	#url#	ADD	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	part	part	NN	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	8	det	_
+7	Time.com	#url#	ADD	_	8	nsubj	_
+8	network of sites	network of sites	NNS	p2=NNPS	5	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	Fortune.com	#url#	ADD	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	part	part	NN	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	8	det	_
+7	Time.com	#url#	ADD	_	8	nsubj	_
+8	network of sites	network of sites	NNS	p2=NNPS	5	pobj	_
+9	.	.	.	_	2	punct	_
+
+1	Fortune.com	#url#	ADD	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	part	part	NN	_	2	attr	2:A2=PRD
+5	of	of	IN	_	4	prep	_
+6	the	the	DT	_	8	det	_
+7	Time.com	#url#	ADD	_	8	nsubj	_
+8	network of sites	network of sites	NNS	p2=NNPS	5	pobj	_
+9	.	.	.	_	2	punct	_
+

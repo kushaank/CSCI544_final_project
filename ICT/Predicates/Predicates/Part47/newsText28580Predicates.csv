@@ -1,0 +1,16 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+A judge,delay.01,the trial of,,Affirmative,"BIRMINGHAM , Alabama - A judge has delayed the trial of a man  charged with attempted murder ,  related to a 2012 interstate shootout with Mayor William Bell 's security team , after prosecutors could not find a witness . "
+prosecutors,find.01,a witness,,Affirmative,"BIRMINGHAM , Alabama - A judge has delayed the trial of a man  charged with attempted murder ,  related to a 2012 interstate shootout with Mayor William Bell 's security team , after prosecutors could not find a witness . "
+Attorney Carl S. Randall,file.01,a motion asking for,,Affirmative,"On Thursday , however , Deputy Jefferson County District Attorney Carl S. Randall filed a motion asking for the trial to be continued . "
+a motion asking for,ask.02,for,,Affirmative,"On Thursday , however , Deputy Jefferson County District Attorney Carl S. Randall filed a motion asking for the trial to be continued . "
+ Prosecutors,reach.01,a witness,,Affirmative," Prosecutors have been unable to reach a witness who was riding with Major , but believes the witness can be located with more time , Randall stated in the motion . "
+a witness,ride.01,with Major,,Affirmative," Prosecutors have been unable to reach a witness who was riding with Major , but believes the witness can be located with more time , Randall stated in the motion . "
+ Prosecutors,believe.01,witness can be located with,,Affirmative," Prosecutors have been unable to reach a witness who was riding with Major , but believes the witness can be located with more time , Randall stated in the motion . "
+Judge Vinson,grant.01,motion,,Affirmative,Judge Vinson granted Randall 's motion Friday . 
+She,set.02,a new date for,,Affirmative,She did not set a new date for the trial . 
+Major 's,serve.01,time,,Affirmative,Major is serving time in state prison after his probation was revoked on marijuana possession and robbery charges from 2010 and 2011 . 
+"attorney ,",note.01,that Major had,,Affirmative,"Major 's attorney , Sheila Ann Weil , has previously noted that Major had two other people , a man and woman , in the car with him . "
+Major 's,have.03,"two other people ,",,Affirmative,"Major 's attorney , Sheila Ann Weil , has previously noted that Major had two other people , a man and woman , in the car with him . "
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

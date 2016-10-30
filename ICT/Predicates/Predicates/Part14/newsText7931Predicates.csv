@@ -1,0 +1,6 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The United States,plan.01,to announce espionage against,,Affirmative,The United States plans to announce espionage against several Chinese individuals on American companies . 
+The United States,announce.01,espionage,against,Affirmative,The United States plans to announce espionage against several Chinese individuals on American companies . 
+WASHINGTON -,accuse.01,several Chinese individuals,of spying on,Affirmative,"WASHINGTON - The United States on May 19 plans to announce espionage charges against several Chinese individuals , accusing them of spying on American companies and stealing trade secrets , according to media reports . "
+several Chinese individuals,spy.01,on,,Affirmative,"WASHINGTON - The United States on May 19 plans to announce espionage charges against several Chinese individuals , accusing them of spying on American companies and stealing trade secrets , according to media reports . "
+several Chinese individuals,steal.01,trade secrets,,Affirmative,"WASHINGTON - The United States on May 19 plans to announce espionage charges against several Chinese individuals , accusing them of spying on American companies and stealing trade secrets , according to media reports . "

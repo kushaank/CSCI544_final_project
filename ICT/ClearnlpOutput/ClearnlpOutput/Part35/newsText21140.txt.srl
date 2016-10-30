@@ -1,0 +1,12 @@
+1	This	this	DT	_	2	det	_
+2	content	content	NN	_	5	nsubjpass	5:A1=PPT
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	auxpass	_
+5	removed	remove	VBN	pb=remove.01	0	root	_
+6	as	as	IN	_	10	mark	_
+7	our	our	PRP$	_	8	poss	_
+8	copyright	copyright	NN	_	10	nsubj	10:A1=PPT
+9	has	have	VBZ	_	10	aux	_
+10	expired	expire	VBN	pb=expire.01	5	advcl	5:AM-TMP
+11	.	.	.	_	5	punct	_
+

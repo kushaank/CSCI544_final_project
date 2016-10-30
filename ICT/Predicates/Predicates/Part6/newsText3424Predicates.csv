@@ -1,0 +1,32 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,arrest.01,a woman,,Affirmative,"DALLAS  -- Police have arrested a woman after they say she tried to run over several people , including two children , before driving into a home in Southeast Dallas . "
+Police,say.01,she tried,,Affirmative,"DALLAS  -- Police have arrested a woman after they say she tried to run over several people , including two children , before driving into a home in Southeast Dallas . "
+a woman,try.01,to run over,,Affirmative,"DALLAS  -- Police have arrested a woman after they say she tried to run over several people , including two children , before driving into a home in Southeast Dallas . "
+a woman,run.01,over,,Affirmative,"DALLAS  -- Police have arrested a woman after they say she tried to run over several people , including two children , before driving into a home in Southeast Dallas . "
+a woman,drive.01,into,,Affirmative,"DALLAS  -- Police have arrested a woman after they say she tried to run over several people , including two children , before driving into a home in Southeast Dallas . "
+Police,say.01,told,,Affirmative,"Police say Gabrielle Regina Jackson , 24 , told a witness that she was heading to the first victim 's house . "
+Gabrielle Regina Jackson,head.02,to,,Affirmative,"Police say Gabrielle Regina Jackson , 24 , told a witness that she was heading to the first victim 's house . "
+"The witness ,",say.01,he tried,,Affirmative,"The witness , who was in the area , says he tried to stop Jackson , but she drove around him and kept going . "
+a witness,try.01,to stop Jackson,,Affirmative,"The witness , who was in the area , says he tried to stop Jackson , but she drove around him and kept going . "
+a witness,stop.01,Gabrielle Regina Jackson,,Affirmative,"The witness , who was in the area , says he tried to stop Jackson , but she drove around him and kept going . "
+Gabrielle Regina Jackson,keep.02,going,,Affirmative,"The witness , who was in the area , says he tried to stop Jackson , but she drove around him and kept going . "
+the first victim 's,recognize.01,vehicle,,Affirmative,"Around that time , the victim was pulling up to her house and recognized Jackson 's vehicle . "
+an arrest affidavit,say.01,Jackson then swerved left,,Affirmative,The affidavit says Jackson then swerved left intentionally colliding with [ her ] vehicle . 
+Gabrielle Regina Jackson,collide.01,with,,Affirmative,The affidavit says Jackson then swerved left intentionally colliding with [ her ] vehicle . 
+Police,say.01,Jackson then swerved,,Affirmative,"Police say Jackson then swerved to hit an 11 - year - old who was walking down the street , injuring the child and damaging a fence . "
+Gabrielle Regina Jackson,swerve.01,to hit,,Affirmative,"Police say Jackson then swerved to hit an 11 - year - old who was walking down the street , injuring the child and damaging a fence . "
+Gabrielle Regina Jackson,hit.02,year - old,,Affirmative,"Police say Jackson then swerved to hit an 11 - year - old who was walking down the street , injuring the child and damaging a fence . "
+Gabrielle Regina Jackson,injure.01,the child,,Affirmative,"Police say Jackson then swerved to hit an 11 - year - old who was walking down the street , injuring the child and damaging a fence . "
+Gabrielle Regina Jackson,damage.01,a fence,,Affirmative,"Police say Jackson then swerved to hit an 11 - year - old who was walking down the street , injuring the child and damaging a fence . "
+Gabrielle Regina Jackson,chase.01,old pedestrian,,Affirmative,She then chased a 6 - year - old pedestrian up to a porch and tried to hit the child and another adult witness by driving her car into the home . 
+Gabrielle Regina Jackson,try.01,to hit,,Affirmative,She then chased a 6 - year - old pedestrian up to a porch and tried to hit the child and another adult witness by driving her car into the home . 
+Gabrielle Regina Jackson,drive.02,her car,into,Affirmative,She then chased a 6 - year - old pedestrian up to a porch and tried to hit the child and another adult witness by driving her car into the home . 
+Gabrielle Regina Jackson,back.01,Jackson 's vehicle,,Affirmative,Jackson then backed up her vehicle and was in the passenger seat when police arrived . 
+an arrest affidavit,say.01,Everyone was treated at,,Affirmative,"Everyone was treated at the scene and Jackson was arrested , the affidavit said . "
+Gabrielle Regina Jackson,tell.01,She better watch,officers,Affirmative,"While being interviewed at the police station , Jackson reportedly told officers , She better watch her kids . "
+the child,watch.01,her kids,,Affirmative,"While being interviewed at the police station , Jackson reportedly told officers , She better watch her kids . "
+Gabrielle Regina Jackson,get.02,money,,Affirmative,I 've got money . 
+Gabrielle Regina Jackson,buy.01,a gun,,Affirmative," When I get out , I will buy a gun and shoot up that house . "
+Gabrielle Regina Jackson,shoot.06,the first victim 's house,,Affirmative," When I get out , I will buy a gun and shoot up that house . "
+Gabrielle Regina Jackson,know.01,where she lives,,Affirmative,Now I know where she lives . 
+Police,say.01,why Jackson was angry in,,Affirmative,Police have not said why Jackson was angry in the first place . 

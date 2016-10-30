@@ -1,0 +1,47 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+TALLAHASSEE,_.01,five hours of testimony from,,Affirmative,TALLAHASSEE _ More than five hours of testimony from a longtime GOP political consultant marked the first day of a widely anticipated trial that could lead to Florida 's congressional maps being redrawn . 
+A coalition of plaintiffs,challenge.01,congressional maps,,Affirmative,"A coalition of plaintiffs , including the League of Women Voters of Florida , is challenging the state 's congressional maps in a Leon County courtroom . "
+The plaintiffs,argue.01,maps are unconstitutional,,Affirmative,The plaintiffs argue the maps are unconstitutional because politics helped shape the districts to an unconstitutional level . 
+politics,help.01,shape,,Affirmative,The plaintiffs argue the maps are unconstitutional because politics helped shape the districts to an unconstitutional level . 
+politics,shape.01,the districts,to,Affirmative,The plaintiffs argue the maps are unconstitutional because politics helped shape the districts to an unconstitutional level . 
+voters,approve.01,"Districts amendment ,",,Affirmative,"In 2010 , voters approved the Fair Districts amendment , which aimed to remove politics from redistricting . "
+"Districts amendment ,",aim.01,to remove politics from redistricting,,Affirmative,"In 2010 , voters approved the Fair Districts amendment , which aimed to remove politics from redistricting . "
+"Districts amendment ,",remove.01,politics,from redistricting,Affirmative,"In 2010 , voters approved the Fair Districts amendment , which aimed to remove politics from redistricting . "
+Judge Terry Lewis,agree.01,with,,Affirmative,"If Leon Circuit Judge Terry Lewis agrees with the plaintiffs , it could force Florida lawmakers to redraw each of the state 's 27 congressional districts . "
+your approach,force.01,Florida lawmakers,to redraw each of,Affirmative,"If Leon Circuit Judge Terry Lewis agrees with the plaintiffs , it could force Florida lawmakers to redraw each of the state 's 27 congressional districts . "
+Florida lawmakers,redraw.01,each of,,Affirmative,"If Leon Circuit Judge Terry Lewis agrees with the plaintiffs , it could force Florida lawmakers to redraw each of the state 's 27 congressional districts . "
+lobbyist Marc Reichelderfer,admit.01,that he was receiving,,Affirmative,"He is considered a key witness after admitting in his deposition that he was receiving proposed maps secretly from Kirk Pepper , a top aide for then - House Speaker Dean Cannon , prior to them becoming public . "
+lobbyist Marc Reichelderfer,receive.01,proposed maps,from,Affirmative,"He is considered a key witness after admitting in his deposition that he was receiving proposed maps secretly from Kirk Pepper , a top aide for then - House Speaker Dean Cannon , prior to them becoming public . "
+lobbyist Marc Reichelderfer,remember.01,getting them,,Affirmative,"I remember getting them before they were public , Reichelderfer , a longtime Cannon friend , said during testimony . "
+lobbyist Marc Reichelderfer,get.01,The plaintiffs,,Affirmative,"I remember getting them before they were public , Reichelderfer , a longtime Cannon friend , said during testimony . "
+"Reichelderfer ,",say.01,I remember getting them,,Affirmative,"I remember getting them before they were public , Reichelderfer , a longtime Cannon friend , said during testimony . "
+"George Meros ,",use.01,a handful or,,Affirmative,"George Meros , an attorney for the Legislature , used a handful or Republican losses in 2012 as evidence the maps were n't drawn to favor the GOP . "
+the state 's congressional maps in a Leon County courtroom,favor.01,the GOP,,Affirmative,"George Meros , an attorney for the Legislature , used a handful or Republican losses in 2012 as evidence the maps were n't drawn to favor the GOP . "
+a Republican,run.02,for,,Affirmative,"One of those was U.S. Rep. Allen West , a Republican who ran for the 18th Congressional District , which includes Martin and St. Lucie counties . "
+"George Meros , an attorney for the Legislature",run.02,a district,,Affirmative,"He got put into a district he could not run in and I believe he had to move , Reichelderfer responded . "
+lobbyist Marc Reichelderfer,believe.01,he had,,Affirmative,"He got put into a district he could not run in and I believe he had to move , Reichelderfer responded . "
+lobbyist Marc Reichelderfer,respond.01,He got put into,,Affirmative,"He got put into a district he could not run in and I believe he had to move , Reichelderfer responded . "
+"Attorney David King ,",represent.01,The plaintiffs,,Affirmative,"Attorney David King , who represents the plaintiffs , spent a lot of time focusing on a December 2010 meeting at the Republican Party of Florida headquarters . "
+"Attorney David King ,",spend.02,a lot of time,focusing on,Affirmative,"Attorney David King , who represents the plaintiffs , spent a lot of time focusing on a December 2010 meeting at the Republican Party of Florida headquarters . "
+a December 2010 meeting,feature.01,a host of,,Affirmative,The meeting featured a host of GOP consultants and attorneys along with staff from state redistricting committees . 
+outside political consultants,get.01,privilege,,Affirmative,"At issue was whether outside political consultants , like Reichelderfer , could get privilege , or the ability to communicate confidentially with staff working on redistricting . "
+staff,work.01,on redistricting,,Affirmative,"At issue was whether outside political consultants , like Reichelderfer , could get privilege , or the ability to communicate confidentially with staff working on redistricting . "
+GOP consultants and attorneys,see.01,nonpublic maps,,Affirmative,"Just because GOP consultants saw nonpublic maps does n't mean they had influence over the process , defendants argue in response . "
+consultants saw,mean.01,they had influence over,,Affirmative,"Just because GOP consultants saw nonpublic maps does n't mean they had influence over the process , defendants argue in response . "
+GOP consultants and attorneys,have.03,influence over,,Affirmative,"Just because GOP consultants saw nonpublic maps does n't mean they had influence over the process , defendants argue in response . "
+defendants,argue.01,does n't mean,,Affirmative,"Just because GOP consultants saw nonpublic maps does n't mean they had influence over the process , defendants argue in response . "
+The plaintiffs,need.01,to prove intent,,Affirmative,"It is a key point because plaintiffs need to prove intent , or that it was the specific purpose of consultants and map - drawers to favor Republicans . "
+The plaintiffs,prove.01,intent,,Affirmative,"It is a key point because plaintiffs need to prove intent , or that it was the specific purpose of consultants and map - drawers to favor Republicans . "
+lobbyist Marc Reichelderfer,tell.01,how to draw,them,Affirmative,I did not tell them how to draw the maps . 
+lobbyist Marc Reichelderfer,tell.01,where to draw,them,Affirmative,"I did not tell them where to draw the lines , Reichelderfer said . "
+The plaintiffs,draw.01,The political lines,,Affirmative,"I did not tell them where to draw the lines , Reichelderfer said . "
+lobbyist Marc Reichelderfer,say.01,I did not tell them,,Affirmative,"I did not tell them where to draw the lines , Reichelderfer said . "
+"Meros ,",ask.01,if Reichelderfer ever gave input to,,Affirmative,"Meros , an attorney for the Legislature , asked if Reichelderfer ever gave input to several House staff members and lawmakers . "
+lobbyist Marc Reichelderfer,give.01,input,to,Affirmative,"Meros , an attorney for the Legislature , asked if Reichelderfer ever gave input to several House staff members and lawmakers . "
+David King,try.01,to establish,,Affirmative,"King also tried to establish that maps created by Reichelderfer placed minority voters , which lean Democratic , in a handful of Central Florida districts . "
+David King,establish.01,maps created by,,Affirmative,"King also tried to establish that maps created by Reichelderfer placed minority voters , which lean Democratic , in a handful of Central Florida districts . "
+by,create.01,maps created by,,Affirmative,"King also tried to establish that maps created by Reichelderfer placed minority voters , which lean Democratic , in a handful of Central Florida districts . "
+lobbyist Marc Reichelderfer,place.01,"placed minority voters ,",,Affirmative,"King also tried to establish that maps created by Reichelderfer placed minority voters , which lean Democratic , in a handful of Central Florida districts . "
+David King,argue.01,has,,Affirmative,He argued that putting minorities into Democratic - leaning districts has the political result of strengthening surrounding Republican seats . 
+putting minorities into,have.03,the political result of strengthening surrounding,,Affirmative,He argued that putting minorities into Democratic - leaning districts has the political result of strengthening surrounding Republican seats . 
+lobbyist Marc Reichelderfer,maintain.01,goal was,,Affirmative,Reichelderfer maintained the only goal was to make sure the seats complied with the Voting Rights Act of 1965 because it would be politically disastrous if the map was overturned for any race - based reason . 

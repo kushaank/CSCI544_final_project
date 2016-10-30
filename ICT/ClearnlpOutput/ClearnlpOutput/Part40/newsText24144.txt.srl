@@ -1,0 +1,27 @@
+1	Mexico	mexico	NNP	_	3	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	Pemex	pemex	NNP	_	5	nsubj	5:A0=PAG
+4	will	will	MD	_	5	aux	5:AM-MOD
+5	begin	begin	VB	pb=begin.01	0	root	_
+6	crude	crude	JJ	_	7	amod	_
+7	oil	oil	NN	_	8	nn	_
+8	exports	export	NNS	_	5	dobj	5:A1=PPT
+9	to	to	IN	_	8	prep	_
+10	Switzerland	switzerland	NNP	_	9	pobj	_
+11	in	in	IN	_	5	prep	5:AM-TMP
+12	July	july	NNP	_	11	pobj	_
+13	for	for	IN	_	5	prep	5:AM-TMP
+14	a	a	DT	_	18	det	_
+15	six	#crd#	CD	_	17	hmod	_
+16	-	-	HYPH	_	17	hyph	_
+17	month	month	NN	_	18	nn	_
+18	period	period	NN	_	13	pobj	_
+19	.	.	.	_	5	punct	_
+
+1	Copyright	copyright	NN	p2=VB	0	root	_
+2	1996-2014	0	CD	_	1	num	_
+3	All	all	DT	p2=NNP	4	det	_
+4	rights	right	NNS	_	1	appos	5:A1=PPT
+5	reserved	reserve	VBN	p2=VBD|pb=reserve.01	4	partmod	_
+6	.	.	.	_	1	punct	_
+

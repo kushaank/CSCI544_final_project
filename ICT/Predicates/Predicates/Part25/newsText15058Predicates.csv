@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Detective Mark Gillespie,tell.01,bus left,the Boston Herald,Affirmative,"Transit police Lt. Detective Mark Gillespie told the Boston Herald that the bus left the Watertown MBTA yard at 7:20 a.m. About 15 minutes later , while headed to Kenmore Station , the bus steered off the road in Newton , climbed onto a sidewalk and smashed into a guardrail , he said . "
+"A Massachusetts Bay Transportation Authority bus crashed through a guardrail and fencing on an overpass Sunday , leaving the front of the vehicle hanging over the Massachusetts Pike",leave.01,MBTA yard,,Affirmative,"Transit police Lt. Detective Mark Gillespie told the Boston Herald that the bus left the Watertown MBTA yard at 7:20 a.m. About 15 minutes later , while headed to Kenmore Station , the bus steered off the road in Newton , climbed onto a sidewalk and smashed into a guardrail , he said . "
+he,say.01,Gillespie told,,Affirmative,"Transit police Lt. Detective Mark Gillespie told the Boston Herald that the bus left the Watertown MBTA yard at 7:20 a.m. About 15 minutes later , while headed to Kenmore Station , the bus steered off the road in Newton , climbed onto a sidewalk and smashed into a guardrail , he said . "
+State police,say.01,bus was never in danger of falling onto,,Affirmative,State police had said the bus was never in danger of falling onto the Pike because the Newton Fire Department had secured it . 
+the Newton Fire Department,secure.01,it,,Affirmative,State police had said the bus was never in danger of falling onto the Pike because the Newton Fire Department had secured it . 
+Transit police detectives,investigate.01,the cause of,,Affirmative,Transit police detectives are investigating the cause of the crash . 
+Gillespie,say.01,bus will be impounded and,,Affirmative,"The bus will be impounded and thoroughly inspected , Gillespie said . "
+us,know.01,what 's going on,,Affirmative,Let us know what 's going on ! 

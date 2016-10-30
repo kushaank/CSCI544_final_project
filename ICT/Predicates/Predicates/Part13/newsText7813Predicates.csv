@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+GRANDE man,play.01,cards when a lone gunman approached and opened fire,,Affirmative,A SANGRE GRANDE man was shot dead on Saturday night while playing cards with a group of men . 
+The two,play.01,a game of cards,,Affirmative,The two were playing a game of cards when a lone gunman approached and opened fire . 
+a lone gunman,open.01,fire,,Affirmative,The two were playing a game of cards when a lone gunman approached and opened fire . 
+The residents,question.01,the actions of,,Affirmative,"In an unrelated incident , residents of Debe are questioning the actions of police officers of St James Police Station . "
+The residents,claim.01,Walker was standing with,,Affirmative,"Around 2 p.m. , residents claimed 13 - year - old Isaiah Walker was standing with his mother 's pet pitbull at a parlour in the community when police officers attached to the St James station spotted them and opened fire . "
+police officers attached to,spot.01,police officers attached to the St James station,,Affirmative,"Around 2 p.m. , residents claimed 13 - year - old Isaiah Walker was standing with his mother 's pet pitbull at a parlour in the community when police officers attached to the St James station spotted them and opened fire . "
+police officers attached to,open.01,fire,,Affirmative,"Around 2 p.m. , residents claimed 13 - year - old Isaiah Walker was standing with his mother 's pet pitbull at a parlour in the community when police officers attached to the St James station spotted them and opened fire . "
+The residents,claim.01,boy had,,Affirmative,The residents claimed the little boy had to scamper for safety while the dog was killed . 
+The residents,claim.01,police were on,,Affirmative,Residents claim the police were on the hunt for a wanted suspect who was standing in the same area . 
+13-year-old Isaiah Walker,sustain.02,injuries from bullets,,Affirmative,"Walker sustained injuries from bullets which grazed his cheek and leg , residents claimed . "
+bullets,graze.01,his cheek and leg,,Affirmative,"Walker sustained injuries from bullets which grazed his cheek and leg , residents claimed . "
+The residents,claim.01,Walker sustained injuries from bullets,,Affirmative,"Walker sustained injuries from bullets which grazed his cheek and leg , residents claimed . "
+an unrelated incident,spark.01,fury,,Affirmative,The incident sparked fury among residents . 
+"Walker ,",write.01,Assessment examination,,Affirmative,"According to residents , Walker , who recently wrote the Secondary Entrance Assessment examination , was taken to St James Medical Complex where he was treated and discharged . "

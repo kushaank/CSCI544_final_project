@@ -1,0 +1,8 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Radio Australia,report.01,people were involved in,,Affirmative,Radio Australia reported on 19 May that more than 400 people were involved in the riots . 
+control unit,respond.01,to,with,Affirmative,"The Solomon Islands riot control unit responded to the unrest , with the support of the international police mission in the country , using teargas to disperse the rioters . "
+control unit,use.01,teargas,to disperse,Affirmative,"The Solomon Islands riot control unit responded to the unrest , with the support of the international police mission in the country , using teargas to disperse the rioters . "
+the riots,follow.02,flooding in April,,Affirmative,"The riots follow flooding in April that killed 21 people and left an estimated 10,000 people homeless in Honiara . "
+flooding in April,kill.01,21 people,,Affirmative,"The riots follow flooding in April that killed 21 people and left an estimated 10,000 people homeless in Honiara . "
+flooding in April,leave.01,"an estimated 10,000 people",homeless,Affirmative,"The riots follow flooding in April that killed 21 people and left an estimated 10,000 people homeless in Honiara . "
+by,affect.01,primarily people,,Affirmative,"According to the local police , the rioters were primarily people affected by the flooding . "

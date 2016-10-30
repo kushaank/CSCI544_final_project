@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Rolf Harris,tell.01,he wanted,a girl of 11,Affirmative,"Rolf Harris told a girl of 11 he wanted to be the first person to give her a ' tongue kiss ' , a court heard today . "
+Rolf Harris,want.01,to be,,Affirmative,"Rolf Harris told a girl of 11 he wanted to be the first person to give her a ' tongue kiss ' , a court heard today . "
+the first person,give.01,a ' tongue kiss ',her,Affirmative,"Rolf Harris told a girl of 11 he wanted to be the first person to give her a ' tongue kiss ' , a court heard today . "
+The woman,say.01,incident happened in Australia,,Affirmative,The woman said the incident happened in Australia in 1969 . 
+The woman,say.01,He put,,Affirmative,She said : ' He put his tongue in my mouth and gave me a tongue kiss . 
+a family friend 's,put.01,his tongue,in,Affirmative,She said : ' He put his tongue in my mouth and gave me a tongue kiss . 
+a family friend 's,give.01,a tongue kiss,me,Affirmative,She said : ' He put his tongue in my mouth and gave me a tongue kiss . 
+The woman,reject.01,a suggestion by,,Affirmative,"The woman rejected a suggestion by Harris 's barrister , Sonia Woodley QC , that she could have confused the incident with an attack by her cousin when she was 17 . "
+The woman,confuse.01,the incident,,Affirmative,"The woman rejected a suggestion by Harris 's barrister , Sonia Woodley QC , that she could have confused the incident with an attack by her cousin when she was 17 . "
+Another alleged victim,say.01,she thought,,Affirmative,Another alleged victim said she thought she was going to be raped when Harris pinned her against a wall and gave her a ' slobbery ' kiss . 
+Another alleged victim,think.01,she was going,,Affirmative,Another alleged victim said she thought she was going to be raped when Harris pinned her against a wall and gave her a ' slobbery ' kiss . 
+Rolf Harris,pin.01,Another alleged victim,,Affirmative,Another alleged victim said she thought she was going to be raped when Harris pinned her against a wall and gave her a ' slobbery ' kiss . 
+Rolf Harris,give.01,a ' slobbery ' kiss,her,Affirmative,Another alleged victim said she thought she was going to be raped when Harris pinned her against a wall and gave her a ' slobbery ' kiss . 
+The woman,tell.01,how she met,,Affirmative,"The woman told how she met the Australian entertainer , now 84 , while on holiday in Malta as an 18 - year - old in 1970 . "
+The woman,meet.03,"the Australian entertainer ,",,Affirmative,"The woman told how she met the Australian entertainer , now 84 , while on holiday in Malta as an 18 - year - old in 1970 . "
+The woman,allege.01,he took her into,,Affirmative,"She alleged he took her into a side room , where he kissed and groped her . "
+the Australian entertainer,take.01,The woman,into,Affirmative,"She alleged he took her into a side room , where he kissed and groped her . "
+the Australian entertainer,kiss.01,"a side room ,",,Affirmative,"She alleged he took her into a side room , where he kissed and groped her . "
+the Australian entertainer,grope.01,The woman,,Affirmative,"She alleged he took her into a side room , where he kissed and groped her . "
+four others,accuse.01,Harris,of,Affirmative,The women were called as prosecution witnesses and are not among four others who accuse Harris of 12 counts of indecent assault between 1968 and 1986 . 
+Rolf Harris,deny.01,all charges,,Affirmative,"Harris , from Bray in Berkshire , denies all charges . "

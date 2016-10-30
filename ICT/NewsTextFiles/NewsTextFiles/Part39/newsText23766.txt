@@ -1,0 +1,64 @@
+
+For most people, a home router is their window to the world -- the World Wide Web.
+
+But it is a broken window, according to some top security experts, who say there is little that average consumers can do to protect themselves from skilled cyber attackers, even if they use rigorous passwords and encryption, because the software running the devices is obsolete and riddled with known vulnerabilities.
+
+"The big issue is that the software being shipped on these devices is obsolete the day you buy it, and there is no update stream," said Jim Gettys, system software architecture researcher at Alcatel-Lucent Bell Labs.
+
+Security guru and author Bruce Schneier, CTO of Co3 Systems, wrote recently that, "the computers in our routers and modems are much more powerful than the PCs of the mid-1990s," and warned that if security vulnerabilities in them are not fixed soon, "we're in for a security disaster, as hackers figure out that it's easier to hack routers than computers. At a recent Def Con, a researcher looked at 30 home routers and broke into half of them -- including some of the most popular and common brands."
+
+To cure the problem, he said, would require, "flushing the entire design space and pipeline inventory of every maker of home routers."
+
+Not everyone is quite so pessimistic. There are any number of blog posts that offer advice on securing home routers -- at least to a better level than the default settings in place when the device is first taken out of the box. And those experts argue that a little security can matter a lot. Some of them say it is like the common story of two men with a bear chasing them. One says to the other, "I don't have to outrun the bear. I just have to outrun you."
+
+He said, if possible, users should also change the Service Set Identifier (SSID) of the network connection from the default name.
+
+Siciliano said he uses the latest versions of N and AC home routers, "which are the equivalent to the security of Windows 7 or 8," but are much more expensive than the basic $15 to $40 models. They cost $150-200 or more.
+
+But he contended that the newer routers on the market, "have a grade of security that most average consumers need not be concerned about in relation to the amount of WiFi hackers in play. And as exploits are discovered, either ethically or not, patches will be administered or recommendations will be made to upgrade hardware."
+
+He said it is possible for "those versed in WiFi hardware and software," to wipe and replace the default firmware with custom versions that provide addition security. But, this would be beyond the capabilities of 99% of users.
+
+- Password protection for the different ports that handle various types of traffic such as HTTP, FTP (file transfer protocol), HTTPS (encrypted web traffic) and Remote Desktop.
+
+- Reset everything -- passwords, user names etc., if a hard reset is required, since that common troubleshooting step frequently restores the weak, default password without letting the user know.
+
+- Disable UPnP (Universal Plug and Play) -- a recommendation of the federal Department of Homeland Security.
+
+- Disable anonymous access to your FTP service, unless you don't mind sharing your files with anyone and everybody. Users can access their FTP settings in the router's HTML configuration pages, and those can be accessed with a browser. The default address for a router is in its user manual.
+
+- Put the router into so-called "pin-hole" mode, where every port is blocked by default until the user opens them. "It takes a bit of work, but it's very secure," Brown wrote.
+
+To that list, Mark Stanislav, security evangelist at Duo Security, recommends, "turning on automatic updates, disabling Internet-facing remote administration, and keeping an eye on security notices."
+
+Stanislav acknowledged that changing passwords doesn't improve things greatly, but said it is worthwhile because, "it's too common that an attacker leverages default credentials to start an attack against a target."
+
+Gettys agrees with that much -- he described changing passwords as "basic hygiene," and said it offers some protection since many of today's attacks are "simple-minded. Since so many routers have their passwords left at known defaults, the default passwords are often used as a way in to be able to install malware," he said.
+
+Still, there is general agreement that routers could, and should, be more secure. Dan Crowley, senior security consultant at Trustwave, said the use of threat intelligence and other research can, "help users and manufacturers incorporate best security practices moving forward. These include performing automated scanning and penetration testing on home routers during the development, production and active phases so manufacturers are continuously identifying and remediating vulnerabilities in their products."
+
+He added that security should not be left to the user. "Security needs to be transparent to the user. We can't expect anyone except computer security experts to be computer security experts. Make the default option choices be the secure ones."
+
+Stanislav said government pressure on router manufacturers might be required, since consumers tend to focus only on what will give them the fastest WiFi. "I think attention from the FTC could go a long way when vendors fail to handle basic information security best practices," he said.
+
+Schneier believes the current situation is a disaster in the making. In his essay, he noted that the embedded systems manufacturing system is fragmented -- it includes the manufacturers of chips, system manufacturers and then brand-name companies that may add a user interface. None of them, he said, do much engineering.
+
+So security patches are rarely applied. "No one has that job. Some of the components are so old that they're no longer being patched," he wrote.
+
+Beyond that, he said many times that source code is not available, and some drivers and other components are "binary blobs," with no source code at all.
+
+"No one can possibly patch code that's just binary," he wrote, adding that the result of all this is, "hundreds of millions of devices that have been sitting on the Internet, unpatched and insecure, for the last five to ten years. Hackers are starting to notice."
+
+The problem with routers and modems is particularly severe, he said, because they are the interface between the user and the Internet, so turning them off is rarely feasible, and they are generally on all the time.
+
+We have an incipient disaster in front of us," he wrote. "It's just a matter of when. We simply have to fix this."
+
+Gettys said security of home routers could be improved significantly, within two to three years, but it would take a different mindset in the industry. "This is not a technology problem: this is primarily cultural and businessA problem," he said.
+
+"The base software can be kept up to date and automatically upgraded for a tiny fraction of what you pay your ISP each month. So it's not that there is no money available; it's just not going from where it comes -- which is you, directly or indirectly -- to where it needs to be expended -- into keeping the software up to date on these devices," he said.
+
+But he calls the prospect of that kind of change, "not very likely," which he said will lead to, "a long, painful future."
+
+This story, "Home Routers: Broken Windows to the World" was originally published by CSO .
+
+Sign up and receive the latest news, reviews and trends on your favorite technology topics.

@@ -1,0 +1,59 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+resident Ruby Barber,claim.01,she was denied,,Affirmative,Bellmead resident Ruby Barber claims she was denied a voter ID card because she does n't have a birth certificate . 
+resident Ruby Barber,have.03,a birth certificate,,Affirmative,Bellmead resident Ruby Barber claims she was denied a voter ID card because she does n't have a birth certificate . 
+by,deliver.01,resident Ruby Barber,,Affirmative,She 's 92 and was delivered by a midwife in Tennessee . 
+"resident Ruby Barber , 92 ,",try.01,to get,,Affirmative,"Bellmead resident Ruby Barber , 92 , tried to get an election identification certification , but was refused because she does n't have a birth certificate . "
+"resident Ruby Barber , 92 ,",get.01,an election identification certification,,Affirmative,"Bellmead resident Ruby Barber , 92 , tried to get an election identification certification , but was refused because she does n't have a birth certificate . "
+resident Ruby Barber,have.03,a birth certificate,,Affirmative,"Bellmead resident Ruby Barber , 92 , tried to get an election identification certification , but was refused because she does n't have a birth certificate . "
+resident Ruby Barber,say.01,she has lived in Texas,,Affirmative,Bellmead Ruby Barber said she has lived in Texas since she was 2 years old and never needed a birth certificate before Monday . 
+resident Ruby Barber,need.01,a birth certificate,,Affirmative,Bellmead Ruby Barber said she has lived in Texas since she was 2 years old and never needed a birth certificate before Monday . 
+resident Ruby Barber,apply.01,for,,Affirmative,"She applied for an election identification certificate , but was refused because she does n't have a birth certificate . "
+resident Ruby Barber,have.03,a birth certificate,,Affirmative,"She applied for an election identification certificate , but was refused because she does n't have a birth certificate . "
+resident Ruby Barber,struggle.02,to prove,,Affirmative,Bellmead resident Ruby Barber is struggling to prove her citizenship so she can vote in the upcoming gubernatorial election . 
+resident Ruby Barber,prove.01,her citizenship,,Affirmative,Bellmead resident Ruby Barber is struggling to prove her citizenship so she can vote in the upcoming gubernatorial election . 
+resident Ruby Barber,vote.01,in,,Affirmative,Bellmead resident Ruby Barber is struggling to prove her citizenship so she can vote in the upcoming gubernatorial election . 
+by,deliver.01,resident Ruby Barber,,Affirmative,Barber is 92 and was delivered by a midwife . 
+year - old,prove.01,her citizenship,,Affirmative,", to sharecroppers who never signed a birth certificate , and now the 92 - year - old is struggling to prove her citizenship so she can vote in the upcoming gubernatorial election . "
+resident Ruby Barber,vote.01,in,,Affirmative,", to sharecroppers who never signed a birth certificate , and now the 92 - year - old is struggling to prove her citizenship so she can vote in the upcoming gubernatorial election . "
+Barber,visit.01,the Texas Department of,,Affirmative,"Barber visited the Texas Department of Public Safety office last week to request an election identification certificate , but was refused one because she does n't have a birth certificate . "
+Barber,request.01,identification certificate,,Affirmative,"Barber visited the Texas Department of Public Safety office last week to request an election identification certificate , but was refused one because she does n't have a birth certificate . "
+she,have.03,a birth certificate,,Affirmative,"Barber visited the Texas Department of Public Safety office last week to request an election identification certificate , but was refused one because she does n't have a birth certificate . "
+"identification law , enacted in June 2013",require.01,to show one of,all voters,Affirmative,"The state 's voter identification law , enacted in June 2013 , requires all voters to show one of six forms of valid photo ID in order for their ballot to be counted . "
+all voters,show.01,one of,,Affirmative,"The state 's voter identification law , enacted in June 2013 , requires all voters to show one of six forms of valid photo ID in order for their ballot to be counted . "
+The U.S. Department of Justice,join.01,other parties,,Affirmative,"The U.S. Department of Justice has joined other parties in a federal lawsuit asking the court to overturn the voter ID law , saying the law would affect minority voters disproportionately . "
+a federal lawsuit asking,ask.02,to overturn,the court,Affirmative,"The U.S. Department of Justice has joined other parties in a federal lawsuit asking the court to overturn the voter ID law , saying the law would affect minority voters disproportionately . "
+the court,overturn.01,the voter ID law,,Affirmative,"The U.S. Department of Justice has joined other parties in a federal lawsuit asking the court to overturn the voter ID law , saying the law would affect minority voters disproportionately . "
+The U.S. Department of Justice,say.01,law would affect,,Affirmative,"The U.S. Department of Justice has joined other parties in a federal lawsuit asking the court to overturn the voter ID law , saying the law would affect minority voters disproportionately . "
+the law,affect.01,minority voters,,Affirmative,"The U.S. Department of Justice has joined other parties in a federal lawsuit asking the court to overturn the voter ID law , saying the law would affect minority voters disproportionately . "
+Voters,have.03,a valid ID,,Affirmative,"Voters who do n't have a valid ID , such as a driver 's license or Texas concealed handgun license , may apply for an election identification certificate - or EIC - to vote . "
+Voters,conceal.01,handgun license,,Affirmative,"Voters who do n't have a valid ID , such as a driver 's license or Texas concealed handgun license , may apply for an election identification certificate - or EIC - to vote . "
+Voters,apply.01,for,,Affirmative,"Voters who do n't have a valid ID , such as a driver 's license or Texas concealed handgun license , may apply for an election identification certificate - or EIC - to vote . "
+Those applying for,apply.01,for,,Affirmative,Those applying for an EIC must show a birth certificate or naturalization papers to prove their citizenship . 
+Those applying for,show.01,a birth certificate or,,Affirmative,Those applying for an EIC must show a birth certificate or naturalization papers to prove their citizenship . 
+Those applying for,prove.01,their citizenship,,Affirmative,Those applying for an EIC must show a birth certificate or naturalization papers to prove their citizenship . 
+"Even the Texas identification card ,",require.01,to provide,her,Affirmative,"Even the Texas identification card , which qualifies as valid photo ID to vote , requires her to provide a birth certificate and marriage license because her name changed when she married . "
+her,provide.01,a birth certificate and,,Affirmative,"Even the Texas identification card , which qualifies as valid photo ID to vote , requires her to provide a birth certificate and marriage license because her name changed when she married . "
+she,let.01,license expire,,Affirmative,Barber 's marriage license burned in a house fire in 1992 and she let her driver 's license expire four years ago . 
+Barber,take.01,"her Medicare card ,",,Affirmative,"When applying for her election certificate , Barber took her Medicare card , Social Security card and expired driver 's license to the DPS office . "
+officials,issue.01,an election card without,her,Affirmative,But officials would n't issue her an election card without the birth certificate . 
+resident Ruby Barber,purchase.01,a birth certificate,,Affirmative,"Barber could purchase a birth certificate online through the Tennessee Health Department 's website for $ 15 plus a processing fee , but said she does n't have anyone to help her . "
+resident Ruby Barber,say.01,she does n't have anyone,,Affirmative,"Barber could purchase a birth certificate online through the Tennessee Health Department 's website for $ 15 plus a processing fee , but said she does n't have anyone to help her . "
+she,have.03,anyone,,Affirmative,"Barber could purchase a birth certificate online through the Tennessee Health Department 's website for $ 15 plus a processing fee , but said she does n't have anyone to help her . "
+you,have.03,a birth certificate,,Affirmative,"I do n't understand why all of the sudden you have to have a birth certificate , Barber said . "
+administrator Kathy Van Wolfe,say.01,one will be denied,,Affirmative,"McLennan County elections administrator Kathy Van Wolfe said no one will be denied a vote , but if they do n't have a photo ID , they will be required to return within six days of voting with a valid ID or the ballot is n't counted . "
+they,have.03,a photo ID,,Affirmative,"McLennan County elections administrator Kathy Van Wolfe said no one will be denied a vote , but if they do n't have a photo ID , they will be required to return within six days of voting with a valid ID or the ballot is n't counted . "
+Department of,say.01,does not happen often,,Affirmative,"Department of Public Safety spokesman Tom Vinger said a situation like Barber 's does not happen often , but the department has been in contact with Barber and is working to resolve her unusual circumstances . "
+the department,work.01,to resolve,,Affirmative,"Department of Public Safety spokesman Tom Vinger said a situation like Barber 's does not happen often , but the department has been in contact with Barber and is working to resolve her unusual circumstances . "
+the department,resolve.01,her unusual circumstances,,Affirmative,"Department of Public Safety spokesman Tom Vinger said a situation like Barber 's does not happen often , but the department has been in contact with Barber and is working to resolve her unusual circumstances . "
+The DPS,issue.01,263 EICs,,Affirmative,The DPS has issued 263 EICs since June 2013 . 
+resident Ruby Barber,want.01,the election certificate in order,,Affirmative,Barber wants the election certificate in order to vote for the next governor of Texas and for the next president . 
+resident Ruby Barber,say.01,she voted for,,Affirmative,"Barber said she voted for the first time in 1944 , when President Franklin D. Roosevelt ran for his fourth term , beating Republican candidate Thomas E. Dewey . "
+President Franklin D. Roosevelt,run.02,for,,Affirmative,"Barber said she voted for the first time in 1944 , when President Franklin D. Roosevelt ran for his fourth term , beating Republican candidate Thomas E. Dewey . "
+President Franklin D. Roosevelt,beat.01,candidate Thomas E. Dewey,,Affirmative,"Barber said she voted for the first time in 1944 , when President Franklin D. Roosevelt ran for his fourth term , beating Republican candidate Thomas E. Dewey . "
+Barber,say.01,she has n't missed,,Affirmative,Barber said she has n't missed a presidential election since . 
+resident Ruby Barber,miss.02,a presidential election,,Affirmative,Barber said she has n't missed a presidential election since . 
+she,talk.01,about voting in,,Affirmative,Her eyes filled with tears when she talked about voting in the upcoming election . 
+I,vote.01,all my life,,Affirmative,"I 've voted all my life , and not to be able to vote - it just breaks my heart , Barber said . "
+it,break.01,my heart,,Affirmative,"I 've voted all my life , and not to be able to vote - it just breaks my heart , Barber said . "
+Barber,say.01,- it just breaks,,Affirmative,"I 've voted all my life , and not to be able to vote - it just breaks my heart , Barber said . "
+us,know.01,what 's going on,,Affirmative,Let us know what 's going on ! 

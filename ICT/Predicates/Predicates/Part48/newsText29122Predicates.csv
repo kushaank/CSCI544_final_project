@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+you,invite.01,President Joe Biden,to,Affirmative,WASHINGTON ( AP ) - What happens when you invite Vice President Joe Biden to your prom ? 
+Vice President Joe Biden to your prom,ignore.01,WASHINGTON -LRB- AP -RRB- -- What happens when you invite Vice President Joe Biden to your prom ?,,Affirmative,"But he does n't ignore it , either . "
+Talia Maselli,invite.01,Vice President Joe Biden to your prom,to,Affirmative,"That 's what happened when Talia Maselli invited Biden to her high school prom in Newington , Conn . "
+The student,know.01,dance card,,Affirmative,The student reached out last fall knowing Biden 's dance card would likely fill up . 
+Vice President Joe Biden to your prom,make.02,last fall,,Affirmative,"Biden could n't make it , but he sent a handwritten card and a corsage - baby 's breath , white roses , and red , white and blue ribbons . "
+Vice President Joe Biden to your prom,send.03,a handwritten card and,,Affirmative,"Biden could n't make it , but he sent a handwritten card and a corsage - baby 's breath , white roses , and red , white and blue ribbons . "
+office,say.01,he was touched by,,Affirmative,Biden 's office says he was touched by the invitation and personally picked out the corsage so Maselli would feel special . 
+by,touch.01,Vice President Joe Biden to your prom,,Affirmative,Biden 's office says he was touched by the invitation and personally picked out the corsage so Maselli would feel special . 
+Vice President Joe Biden to your prom,pick.04,a corsage,,Affirmative,Biden 's office says he was touched by the invitation and personally picked out the corsage so Maselli would feel special . 
+Talia Maselli,feel.01,special,,Affirmative,Biden 's office says he was touched by the invitation and personally picked out the corsage so Maselli would feel special . 
+his schedule,let.01,him attend,,Affirmative,Biden says in the note that he 's flattered but his schedule would n't let him attend . 
+office,arrange.01,for Maselli to visit,,Affirmative,Biden 's office also is arranging for Maselli to visit the White House to meet with Biden in July . 
+Talia Maselli,visit.01,the White House,,Affirmative,Biden 's office also is arranging for Maselli to visit the White House to meet with Biden in July . 
+Talia Maselli,meet.03,with Biden,,Affirmative,Biden 's office also is arranging for Maselli to visit the White House to meet with Biden in July . 
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+You,receive.01,occasional emails,from us,Affirmative,You will receive occasional emails from us as stories break . 

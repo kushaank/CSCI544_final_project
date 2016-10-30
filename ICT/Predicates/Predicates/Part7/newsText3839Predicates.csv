@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+army,take.01,control of,,Affirmative,"Ivory Coast 's army took back control of a village on its southwestern border with Liberia on Friday after gunmen seized it in an attack that killed 13 people , the country 's defence minister said . "
+gunmen,seize.01,control of a village on its southwestern border,,Affirmative,"Ivory Coast 's army took back control of a village on its southwestern border with Liberia on Friday after gunmen seized it in an attack that killed 13 people , the country 's defence minister said . "
+an attack,kill.01,13 people,,Affirmative,"Ivory Coast 's army took back control of a village on its southwestern border with Liberia on Friday after gunmen seized it in an attack that killed 13 people , the country 's defence minister said . "
+defence minister,say.01,army took back control of,,Affirmative,"Ivory Coast 's army took back control of a village on its southwestern border with Liberia on Friday after gunmen seized it in an attack that killed 13 people , the country 's defence minister said . "
+40 men,loot.01,the village of Fetai,,Affirmative,"Around 40 men attacked and looted the village of Fetai , located on the Cavally River separating Ivory Coast and Liberia , early on Thursday , Paul Koffi Koffi told journalists in the commercial capital Abidjan . "
+the Cavally River,separate.01,Ivory Coast and Liberia,,Affirmative,"Around 40 men attacked and looted the village of Fetai , located on the Cavally River separating Ivory Coast and Liberia , early on Thursday , Paul Koffi Koffi told journalists in the commercial capital Abidjan . "
+The Ivorian military,launch.01,a counter-attack,,Affirmative,The Ivorian military launched a counter-attack early on Friday to drive them out . 
+The Ivorian military,drive.02,"40 men attacked and looted the village of Fetai , located on the Cavally River separating Ivory Coast and Liberia , early on Thursday",out,Affirmative,The Ivorian military launched a counter-attack early on Friday to drive them out . 
+an ambush,kill.01,three ( soldiers,,Affirmative,There was an ambush that killed three ( soldiers ) ... 
+We,carry.03,up operations,,Affirmative,We 're carrying out clean - up operations in the forest and we 've gone all the way to the Cavally River ... 
+he,say.01,situation is under control,,Affirmative,"The situation is under control , he said . "
+president Laurent Gbagbo,refuse.01,to accept,,Affirmative,"Ivory Coast , the world 's top cocoa producer , is recovering from a decade-long political crisis that culminated in a brief 2011 civil war after former president Laurent Gbagbo refused to accept his election defeat to Alassane Ouattara . "
+president Laurent Gbagbo,accept.01,his election defeat to,,Affirmative,"Ivory Coast , the world 's top cocoa producer , is recovering from a decade-long political crisis that culminated in a brief 2011 civil war after former president Laurent Gbagbo refused to accept his election defeat to Alassane Ouattara . "
+Gunmen from Liberia,stage.01,several assaults,,Affirmative,Gunmen from Liberia have staged several assaults on towns near the border in recent years that the government and United Nations have blamed on Liberian mercenaries and Gbagbo allies . 
+the government and,blame.01,on,,Affirmative,Gunmen from Liberia have staged several assaults on towns near the border in recent years that the government and United Nations have blamed on Liberian mercenaries and Gbagbo allies . 
+Koffi Koffi,say.01,They are bandits,,Affirmative,"They are bandits , Koffi Koffi said , rejecting the idea that the raid was politically motivated . "
+Koffi Koffi,reject.01,the idea,,Affirmative,"They are bandits , Koffi Koffi said , rejecting the idea that the raid was politically motivated . "
+local residents,say.01,fighters were armed with,,Affirmative,"However , local residents said the fighters were armed with heavy weapons and the parliamentarian for the area said they had launched their raid from across the border in Liberia . "
+they,launch.01,their raid,,Affirmative,"However , local residents said the fighters were armed with heavy weapons and the parliamentarian for the area said they had launched their raid from across the border in Liberia . "
+MP Yaya Coulibaly,tell.01,militia based in Liberia,Reuters,Affirmative,"These were Ivorian militia based in Liberia , MP Yaya Coulibaly told Reuters by telephone from Grabo , a town 10 km ( 6 miles ) from Fetai . "
+by them,take.01,Some of,hostage,Affirmative,Some of the villagers were taken hostage by them . 
+They,say.01,accents were Ivorian,,Affirmative,They said their accents were Ivorian . 
+A few of them,recognize.01,the faces of some of,,Affirmative,"A few of them even recognised the faces of some of the attackers , he said . "
+he,say.01,even recognised,,Affirmative,"A few of them even recognised the faces of some of the attackers , he said . "
+Coulibaly,say.01,he knew of,,Affirmative,Coulibaly said he knew of seven villagers who had been killed in the attack in addition to the three soldiers . 
+he,know.01,of,,Affirmative,Coulibaly said he knew of seven villagers who had been killed in the attack in addition to the three soldiers . 
+he,say.01,were killed in,,Affirmative,"None of the raiders were killed in the army 's counter-attack , he said , adding that some 2,500 people had fled to Grabo from outlying villages for safety . "
+he,add.01,people had fled to Grabo,,Affirmative,"None of the raiders were killed in the army 's counter-attack , he said , adding that some 2,500 people had fled to Grabo from outlying villages for safety . "
+"2,500 people",flee.01,to Grabo,,Affirmative,"None of the raiders were killed in the army 's counter-attack , he said , adding that some 2,500 people had fled to Grabo from outlying villages for safety . "
+Koffi Koffi,estimate.01,people had been displaced by,,Affirmative,Koffi Koffi estimated that around 500 people had been displaced by the clashes . 
+by,displace.01,500 people,,Affirmative,Koffi Koffi estimated that around 500 people had been displaced by the clashes . 
+"220,000 Ivorians",flee.01,into Liberia,,Affirmative,"Some 220,000 Ivorians fled into Liberia during the post-election conflict and around 46,000 - among them former pro-Gbagbo militia fighters - remain there , according to the United Nations ' refugee agency . "
+A U.N. panel of experts charged with monitoring,write.01,fighters remained,,Affirmative,"A U.N. panel of experts charged with monitoring Ivory Coast 's arms embargo wrote in a report last month that , despite a general improvement in security in the country , Liberia - based fighters remained a threat . "
+the report,say.01,remain,,Affirmative,"The structure and military capacity ( in terms of combatants , weapons and related materiel ) of the mercenaries in Liberia and the Ivorian militia remain highly operational , the report said . "
+The United Nations,reduce.01,its peacekeeping force in,,Affirmative,"The United Nations is gradually reducing its peacekeeping force in Ivory Coast as it faces new crises in the region , notably in Mali and Central African Republic . "
+it,face.01,new crises in,,Affirmative,"The United Nations is gradually reducing its peacekeeping force in Ivory Coast as it faces new crises in the region , notably in Mali and Central African Republic . "
+The international company,join.01,based security systems representative,,Affirmative,"The international company will join its exclusive land - based security systems representative in SA , at Africa , Aerospace and Defence 2014 . "
+by,produce.01,eight percent of,,Affirmative,"Ninety - eight percent of all 6 000 parts of the AHRLAC aircraft were designed and produced locally by the engineering team , says Paramount Group . "
+Paramount Group,say.01,were designed and produced locally by,,Affirmative,"Ninety - eight percent of all 6 000 parts of the AHRLAC aircraft were designed and produced locally by the engineering team , says Paramount Group . "
+A revitalised viewpoint on Africa,take.01,centre stage,,Affirmative,"A revitalised viewpoint on Africa , and its challenges and opportunities for investors , should take centre stage at US - Africa Summit 2014 , says Paramount Group . "
+Paramount Group,say.01,", should take",,Affirmative,"A revitalised viewpoint on Africa , and its challenges and opportunities for investors , should take centre stage at US - Africa Summit 2014 , says Paramount Group . "
+The company,provided.01,with,the Indonesian Air Force,Affirmative,The company has provided the Indonesian Air Force with the latest aircraft identification and air surveillance equipment . 
+financial results,show.01,revenue growth of,,Affirmative,"The company 's financial results show revenue growth of 17 % , improved profit and the largest multi-year order book in its history . "

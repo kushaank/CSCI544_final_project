@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Your doctor,ask.02,to perform,you,Affirmative,Your doctor may also ask you to perform a uroflow test and post-void residual ( PVR ) assessment to see how well you are emptying your bladder . 
+you,perform.01,a uroflow test and,,Affirmative,Your doctor may also ask you to perform a uroflow test and post-void residual ( PVR ) assessment to see how well you are emptying your bladder . 
+you,empty.01,the bladder .,,Affirmative,Your doctor may also ask you to perform a uroflow test and post-void residual ( PVR ) assessment to see how well you are emptying your bladder . 
+you,drink.01,liquids,,Affirmative,"Your bladder should be full for this test , so you will be asked to drink liquids until you feel the urge to pass your urine . "
+you,feel.01,the urge,,Affirmative,"Your bladder should be full for this test , so you will be asked to drink liquids until you feel the urge to pass your urine . "
+you,pass.01,urine,,Affirmative,"When you are ready , you will pass urine into a funnel connected to a small machine , the uroflow meter ( see photo below ) . "
+you,expose.01,the area of,,Affirmative,"After urinating , you will be asked to lie flat on your back on an examination table and expose the area of your belly just over your bladder . "
+The ultrasound image,show.01,if there is urine left in,,Affirmative,"The ultrasound image will show if there is urine left in your bladder and , if so , how much . "
+by,request.01,Other tests,to confirm,Affirmative,Other tests may be requested by your doctor to confirm a diagnosis . 
+Other tests,confirm.01,a diagnosis,,Affirmative,Other tests may be requested by your doctor to confirm a diagnosis . 
+treatment,depend.01,"on , among",,Affirmative,"Again , treatment depends on , among other things , the severity of your symptoms and your readiness to have something done . "
+a man and,decide.01,to keep,,Affirmative,"If symptoms are not too bothersome , a man and his doctor may decide to keep an eye on things and recheck things in a specific time period to see if things are improving or not , without doing anything right away . "
+a man and,keep.04,an eye,on things,Affirmative,"If symptoms are not too bothersome , a man and his doctor may decide to keep an eye on things and recheck things in a specific time period to see if things are improving or not , without doing anything right away . "
+a man and,recheck.01,other things,,Affirmative,"If symptoms are not too bothersome , a man and his doctor may decide to keep an eye on things and recheck things in a specific time period to see if things are improving or not , without doing anything right away . "
+you,decide.01,on having something done,,Affirmative,"If you decide on having something done , tablets are usually the first step . "
+you,have.03,something done,,Affirmative,"If you decide on having something done , tablets are usually the first step . "
+Your doctor,suggest.01,what 's best in,,Affirmative,Your doctor will suggest what 's best in your particular situation . 
+Professional associations like,suggest.01,guidelines,,Affirmative,"Professional associations like the American Urological Association ( AUA ) and the Canadian Urological Association ( CUA ) have suggested guidelines for doctors to follow when treating men with BPH that include your IPSS result , the size of your prostate , how bothersome your symptoms are , as well as your readiness to have something done . "
+doctors,follow.02,guidelines,,Affirmative,"Professional associations like the American Urological Association ( AUA ) and the Canadian Urological Association ( CUA ) have suggested guidelines for doctors to follow when treating men with BPH that include your IPSS result , the size of your prostate , how bothersome your symptoms are , as well as your readiness to have something done . "
+doctors,treat.03,men,with BPH,Affirmative,"Professional associations like the American Urological Association ( AUA ) and the Canadian Urological Association ( CUA ) have suggested guidelines for doctors to follow when treating men with BPH that include your IPSS result , the size of your prostate , how bothersome your symptoms are , as well as your readiness to have something done . "
+He,have.03,a keen interest in,,Affirmative,"He has a keen interest in men 's health , with a focus on prostate disease , prostate cancer and prostate cancer risk assessment . "

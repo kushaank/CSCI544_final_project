@@ -1,0 +1,57 @@
+1	All	all	DT	_	2	det	_
+2	coverage	coverage	NN	_	10	nsubj	10:A1=PPT
+3	within	within	IN	_	2	prep	_
+4	bostonherald.com	#url#	ADD	_	3	pobj	_
+5	from	from	IN	_	2	prep	_
+6	the	the	DT	_	9	det	_
+7	last	last	JJ	_	9	amod	_
+8	14	0	CD	_	9	num	_
+9	days	day	NNS	_	5	pobj	_
+10	remains	remain	VBZ	pb=remain.01	0	root	_
+11	free	free	JJ	_	10	acomp	10:A3=PRD
+12	of	of	IN	_	11	prep	_
+13	charge	charge	NN	_	12	pobj	_
+14	.	.	.	_	10	punct	_
+
+1	Articles	article	NNS	p2=NNPS	5	nsubj	5:A2=GOL
+2	do	do	VBP	_	5	aux	_
+3	not	not	RB	_	5	neg	5:AM-NEG
+4	always	always	RB	_	5	advmod	5:AM-TMP
+5	include	include	VB	p2=VBP|pb=include.01	0	root	_
+6	original	original	JJ	_	7	amod	_
+7	photos	photo	NNS	_	5	dobj	5:A1=PPT
+8	,	,	,	_	7	punct	_
+9	charts	chart	NNS	_	7	conj	_
+10	or	or	CC	_	9	cc	_
+11	graphics	graphic	NNS	_	9	conj	_
+12	.	.	.	_	5	punct	_
+
+1	©	©	DT	p2=JJ	2	det	_
+2	Copyright	copyright	NN	p2=NNP	0	root	_
+3	by	by	IN	_	2	prep	_
+4	the	the	DT	_	6	det	_
+5	Boston	boston	NNP	_	6	nn	_
+6	Herald	herald	NNP	_	3	pobj	_
+7	and	and	CC	_	6	cc	_
+8	Herald	herald	NNP	_	9	nn	_
+9	Media	media	NNP	_	6	conj	_
+10	.	.	.	_	2	punct	_
+
+1	No	no	DT	p2=UH	2	det	_
+2	portion	portion	NN	_	10	nsubjpass	10:A1=PPT
+3	of	of	IN	_	2	prep	_
+4	BostonHerald.com	#url#	ADD	_	3	pobj	_
+5	or	or	CC	_	2	cc	_
+6	its	its	PRP$	_	7	poss	_
+7	content	content	NN	_	2	conj	_
+8	may	may	MD	_	10	aux	10:AM-MOD
+9	be	be	VB	_	10	auxpass	_
+10	reproduced	reproduce	VBN	pb=reproduce.01	0	root	_
+11	without	without	IN	_	10	prep	10:AM-MNR
+12	the	the	DT	_	13	det	_
+13	owner	owner	NN	_	16	poss	_
+14	's	's	POS	_	13	possessive	_
+15	written	write	VBN	pb=write.01	16	amod	_
+16	permission	permission	NN	_	11	pobj	15:A1=PPT
+17	.	.	.	_	10	punct	_
+

@@ -1,0 +1,36 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The crew of,contact.01,the shore,,Affirmative,"The crew of the Cheeki Rafiki , a 12 - meter yacht headed to the United Kingdom from the Caribbean , contacted the shore to report that the yacht was taking on water on Friday , May 16 . "
+The crew of,report.01,"yacht was taking on water on Friday , May 16",,Affirmative,"The crew of the Cheeki Rafiki , a 12 - meter yacht headed to the United Kingdom from the Caribbean , contacted the shore to report that the yacht was taking on water on Friday , May 16 . "
+a 12-meter yacht,take.01,water,,Affirmative,"The crew of the Cheeki Rafiki , a 12 - meter yacht headed to the United Kingdom from the Caribbean , contacted the shore to report that the yacht was taking on water on Friday , May 16 . "
+The U.S. Coast Guard,say.01,it has suspended,,Affirmative,( CNN ) -- The U.S. Coast Guard said Sunday it has suspended its search for four British sailors missing since Friday . 
+Sunday,suspend.01,its search for,,Affirmative,( CNN ) -- The U.S. Coast Guard said Sunday it has suspended its search for four British sailors missing since Friday . 
+12,begin.01,taking on water,,Affirmative,"The 40 - foot ( 12 meters ) Cheeki Rafiki was sailing from the Caribbean to the United Kingdom Thursday when it began taking on water , according to the yacht 's managing agent . "
+12,take.21,water,,Affirmative,"The 40 - foot ( 12 meters ) Cheeki Rafiki was sailing from the Caribbean to the United Kingdom Thursday when it began taking on water , according to the yacht 's managing agent . "
+four British sailors missing since Friday,lose.02,contact,,Affirmative,"Unfortunately , we lost contact during the early hours of Friday morning , and we believe the crew abandoned to the life raft , Doug Innes said in a statement . "
+four British sailors missing since Friday,believe.01,crew abandoned to,,Affirmative,"Unfortunately , we lost contact during the early hours of Friday morning , and we believe the crew abandoned to the life raft , Doug Innes said in a statement . "
+Doug Innes,say.01,"Unfortunately , we lost contact during",,Affirmative,"Unfortunately , we lost contact during the early hours of Friday morning , and we believe the crew abandoned to the life raft , Doug Innes said in a statement . "
+Royal Yachting Association,identify.01,the missing yachtsmen as,,Affirmative,"Royal Yachting Association identified the missing yachtsmen as skipper Andrew Bridge , 21 ; Steve Warren , 52 ; Paul Goslin , 56 ; and James Male , 23 . "
+based 1 st District,coordinate.01,a multinational search of,,Affirmative,"The Coast Guard 's Boston - based 1 st District coordinated a multinational search of 4,146 square miles for the crew . "
+by Boston,coordinate.01,the search efforts coordinated by Boston,,Affirmative,"Although the search efforts coordinated by Boston were exceptional , we are devastated that search has been called off so soon after the abandonment to a life raft , Innes said . "
+Doug Innes,say.01,", we are devastated",,Affirmative,"Although the search efforts coordinated by Boston were exceptional , we are devastated that search has been called off so soon after the abandonment to a life raft , Innes said . "
+a merchant vessel located an overturned hull the day before that,appreciate.02,the assistance of,,Affirmative,"We appreciate the assistance of the U.S. Air Force , Canadian and the three merchant vessels helping us to conduct a thorough search so far from shore , said Capt. Anthony Popiel , 1 st Coast Guard District chief of response . "
+the three merchant vessels helping us,help.01,to conduct,,Affirmative,"We appreciate the assistance of the U.S. Air Force , Canadian and the three merchant vessels helping us to conduct a thorough search so far from shore , said Capt. Anthony Popiel , 1 st Coast Guard District chief of response . "
+a merchant vessel located an overturned hull the day before that,conduct.01,a thorough search,,Affirmative,"We appreciate the assistance of the U.S. Air Force , Canadian and the three merchant vessels helping us to conduct a thorough search so far from shore , said Capt. Anthony Popiel , 1 st Coast Guard District chief of response . "
+"Capt. Anthony Popiel ,",say.01,We appreciate,,Affirmative,"We appreciate the assistance of the U.S. Air Force , Canadian and the three merchant vessels helping us to conduct a thorough search so far from shore , said Capt. Anthony Popiel , 1 st Coast Guard District chief of response . "
+a merchant vessel located an overturned hull the day before that,locate.02,four British sailors missing since Friday,,Affirmative,We are extremely disappointed that we were not able to locate the sailors during the course of this extensive search . 
+Doug Innes,describe.01,the Cheeki Rafiki,as,Affirmative,Innes describes the Cheeki Rafiki on his company 's website as a performance racer / cruiser and suitable for both the inshore and offshore circuit and that she is equipped for trans - Atlantic sailing and racing . 
+a former head of,say.01,is,,Affirmative,"An ISIS attack against the United States or Europe is a question of timing -- not of inevitably , not of intent , says a former head of the CIA . "
+A young boy,kick.01,his vacation,,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+A young boy,dip.02,his toes,in,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+A young boy,make.05,a startling find,,Affirmative,A young boy kicks off his vacation by dipping his toes in the ocean and makes a startling find . 
+Investigators,believe.01,there are,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+one,make.01,the speech and one,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+one,kill.01,James Foley,,Affirmative,Investigators now believe there are two masked ISIS fighters in the James Foley execution video -- one who made the speech and one who killed him . 
+Facebook,announce.01,that they 'll be cracking down on,,Affirmative,Facebook has announced that they 'll be cracking down on the sharing of clickbait content . 
+Investigators,crack.06,on,,Affirmative,Facebook has announced that they 'll be cracking down on the sharing of clickbait content . 
+family and friends,ask.02,for,,Affirmative,Michael Brown 's family and friends ask for a day of silence and peace as they lay the teen to rest . 
+we,prepare.02,we,to kill others,Affirmative,James Dawes : Evil is the strongest word we have to prepare ourselves to kill others . 
+we,kill.01,others,,Affirmative,James Dawes : Evil is the strongest word we have to prepare ourselves to kill others . 
+agent,say.01,Attenborough has died at 90,,Affirmative,"Acclaimed actor - director Richard Attenborough has died at 90 , the actor 's agent said . "
+The Ebola outbreak,cause.01,fear and violence,,Affirmative,The Ebola outbreak causes fear and violence among the poor in Liberia . 
+Spooks,leave.01,their mark,,Affirmative,Spooks have left their mark on a once - divided city still thought to be an espionage hotbed . 

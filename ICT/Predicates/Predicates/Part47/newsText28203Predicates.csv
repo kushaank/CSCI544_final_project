@@ -1,0 +1,25 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A study,observe.01,drugs made by,,Affirmative,A study has observed that drugs made by Intermune Inc . 
+by,make.01,drugs made by,,Affirmative,A study has observed that drugs made by Intermune Inc . 
+Boehringer Ingelheim GmbH,slow.03,development of,,Affirmative,and Boehringer Ingelheim GmbH slow down development of a lung disease without the patient requiring cure . 
+the patient requiring cure,require.01,cure,,Affirmative,and Boehringer Ingelheim GmbH slow down development of a lung disease without the patient requiring cure . 
+Idiopathic pulmonary fibrosis,kill.01,a person,,Affirmative,"Idiopathic pulmonary fibrosis , for which the cause is unknown , can kill a person in five years after testing positive . "
+drugs irfenidone and nintedanib,reverse.01,damage made by,,Affirmative,"The two drugs irfenidone and nintedanib , do not reverse damage made by the disease , instead they slow down the disease 's ability to hamper breathing , New England Journal of Medicine has reported . "
+by,make.01,damage made by,,Affirmative,"The two drugs irfenidone and nintedanib , do not reverse damage made by the disease , instead they slow down the disease 's ability to hamper breathing , New England Journal of Medicine has reported . "
+they,slow.03,ability,,Affirmative,"The two drugs irfenidone and nintedanib , do not reverse damage made by the disease , instead they slow down the disease 's ability to hamper breathing , New England Journal of Medicine has reported . "
+by,fund.01,each,,Affirmative,Two studies were done independently with each being funded by the company that developed the medicine . 
+the company,develop.02,the medicine,,Affirmative,Two studies were done independently with each being funded by the company that developed the medicine . 
+Intermune,announce.01,that it would offer,,Affirmative,"  On May 16 , Intermune announced that it would offer its drug to select US patients at no cost . "
+Its decision,offer.01,its drug,,Affirmative,"  On May 16 , Intermune announced that it would offer its drug to select US patients at no cost . "
+Its decision,help.01,it start sales of,,Affirmative,Its decision may help it start sales of the drug in US . 
+it,start.01,sales of,,Affirmative,Its decision may help it start sales of the drug in US . 
+"Gary M. Hunninghake ,",say.01,", there is n't",,Affirmative,"Gary M. Hunninghake , a physician at Brigham and Women 's Hospital in Boston says that in contrast to many cancers , there is n't enough evidence that any drug has the ability to alter progression of the disease . "
+any drug,have.03,the ability,,Affirmative,"Gary M. Hunninghake , a physician at Brigham and Women 's Hospital in Boston says that in contrast to many cancers , there is n't enough evidence that any drug has the ability to alter progression of the disease . "
+any drug,alter.01,progression of,,Affirmative,"Gary M. Hunninghake , a physician at Brigham and Women 's Hospital in Boston says that in contrast to many cancers , there is n't enough evidence that any drug has the ability to alter progression of the disease . "
+Coalition for,report.01,Americans have been diagnosed with,,Affirmative,"Coalition for Pulmonary Fibrosis has reported that 128,000 Americans have been diagnosed with the disease . "
+The disease,cause.01,tissues to increase in size,,Affirmative,The disease causes some lung tissues to increase in size and become stiff . 
+This,limit.01,the ability of,,Affirmative,"This limits the ability of the lungs to supply oxygen to the blood , reducing the amount that gets to the brain and other organs in our body . "
+This disease,affect.01,middle - aged and,,Affirmative,"This disease mostly affects middle - aged and the old , this is according to National Heart , Lung and Blood Institute . "
+by,make.01,A drug made by,,Affirmative,A drug made by InterMune Inc . 
+the company,say.01,it will file for clearance,,Affirmative,"In February , the company said it will file for clearance which will be based on findings from latest research . "
+it,file.01,for clearance,,Affirmative,"In February , the company said it will file for clearance which will be based on findings from latest research . "

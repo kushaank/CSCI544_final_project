@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+suspicious neighbours,tip.04,police,,Affirmative,A man suspected to be part of the notorious criminal gang in Kampala has been arrested after suspicious neighbours tipped off police . 
+A man suspected to be part of the notorious criminal gang in Kampala,sustain.01,a deep cut on,,Affirmative,"Asuman Kizito , 29 , of Nsiike I Zone , Ndeeba was arrested after residents got suspicious how he had sustained a deep cut on his wrist and refused to get treatment . "
+A man suspected to be part of the notorious criminal gang in Kampala,refuse.01,to get treatment,,Affirmative,"Asuman Kizito , 29 , of Nsiike I Zone , Ndeeba was arrested after residents got suspicious how he had sustained a deep cut on his wrist and refused to get treatment . "
+residents,tell.01,Asuman was always locked up in,police,Affirmative,Residents told police Asuman was always locked up in his house and would never come out before nightfall . 
+by,lead.02,Ndeeba police led by,,Affirmative,Ndeeba police led by operations boss Sam Nabongho went to Kizito 's home where they found him nursing a rotting wound . 
+residents,find.01,him nursing,,Affirmative,Ndeeba police led by operations boss Sam Nabongho went to Kizito 's home where they found him nursing a rotting wound . 
+Sam Nabongho,nurse.01,a rotting wound,,Affirmative,Ndeeba police led by operations boss Sam Nabongho went to Kizito 's home where they found him nursing a rotting wound . 
+Ndeeba police,wear.01,a big watch,,Affirmative,"He also wore a big watch to disguise the wound , though he was visibly in pain and was afraid to go to hospital . "
+Ndeeba police,disguise.01,a rotting wound,,Affirmative,"He also wore a big watch to disguise the wound , though he was visibly in pain and was afraid to go to hospital . "
+Asuman 's,tell.01,wrist was hacked during,police,Affirmative,"On interrogation , Asuman told police his wrist was hacked during a robbery mission that went wrong . "
+Asuman 's,say.01,he was trying,,Affirmative,He said he was trying to enter a resident 's house in Kibiri - Masajja using a master key when he got hacked . 
+Asuman 's,try.01,to enter,,Affirmative,He said he was trying to enter a resident 's house in Kibiri - Masajja using a master key when he got hacked . 
+Asuman 's,enter.01,house in,,Affirmative,He said he was trying to enter a resident 's house in Kibiri - Masajja using a master key when he got hacked . 
+Asuman 's,use.01,a master key,,Affirmative,He said he was trying to enter a resident 's house in Kibiri - Masajja using a master key when he got hacked . 
+Asuman 's,tell.01,that he has been involved in,police,Affirmative,Asuman also told police that he has been involved in various crimes including robbery and murder . 
+Asuman 's,say.01,he could not place,,Affirmative,He said he could not place the number of people who had fallen victim to his missions . 
+Asuman 's,place.01,the number of people,,Affirmative,He said he could not place the number of people who had fallen victim to his missions . 
+Sam Nabongho,tell.01,Asuman could be,police,Affirmative,"However Nabongho said according to what he told police Asuman could be a member of the notorious Kifeesi crew , a gang that terrorises city dwellers . "
+a gang,terrorise.01,city dwellers,,Affirmative,"However Nabongho said according to what he told police Asuman could be a member of the notorious Kifeesi crew , a gang that terrorises city dwellers . "
+Sam Nabongho,say.01,could be,,Affirmative,He said his account of how he was hacked in Kibiri could be a ploy to disguise the truth . 
+"The Ndeeba police boss ,",say.01,they are going,,Affirmative,"The Ndeeba police boss , Alan Lugayampunzi , said they are going to investigate and know what exactly happened to the suspect . "
+"police Asuman could be a member of the notorious Kifeesi crew , a gang that terrorises city dwellers",know.01,happened to,,Affirmative,"The Ndeeba police boss , Alan Lugayampunzi , said they are going to investigate and know what exactly happened to the suspect . "
+by,ask.01,if there was,"the Kibiri boss ,",Affirmative,"Meanwhile the Kibiri boss , John Kibaro , when asked by this reporter if there was any case reported in the area pertaining to Asuman 's story he said there was none . "
+the area pertaining to,pertain.01,to,,Affirmative,"Meanwhile the Kibiri boss , John Kibaro , when asked by this reporter if there was any case reported in the area pertaining to Asuman 's story he said there was none . "
+the Kibiri boss,say.01,there was none,,Affirmative,"Meanwhile the Kibiri boss , John Kibaro , when asked by this reporter if there was any case reported in the area pertaining to Asuman 's story he said there was none . "
+by,hold.01,the views held by,,Affirmative,"The statements , comments , or opinions expressed through the use of New Vision Online are those of their respective authors , who are solely responsible for them , and do not necessarily represent the views held by the staff and management of New Vision Online . "

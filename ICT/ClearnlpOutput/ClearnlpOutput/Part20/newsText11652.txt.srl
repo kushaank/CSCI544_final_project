@@ -1,0 +1,202 @@
+1	"	"	``	_	4	punct	_
+2	We	we	PRP	_	4	nsubj	4:A0=PAG
+3	are	be	VBP	_	4	aux	_
+4	putting	put	VBG	pb=put.01	16	ccomp	16:A1=PPT
+5	anomaly	anomaly	RB	p2=RP	4	prt	4:C-V
+6	detection	detection	NN	_	7	nn	_
+7	capabilities	capability	NNS	_	4	dobj	4:A1=PPT
+8	into	into	IN	_	4	prep	4:A2=GOL
+9	the	the	DT	_	10	det	_
+10	hands	hand	NNS	_	8	pobj	_
+11	of	of	IN	_	10	prep	_
+12	decision	decision	NN	_	13	nn	_
+13	makers	maker	NNS	_	11	pobj	_
+14	,	,	,	_	16	punct	_
+15	"	"	''	_	16	punct	_
+16	said	say	VBD	pb=say.01	0	root	_
+17	Prelert	prelert	NNP	p2=JJ	19	nn	_
+18	chief	chief	JJ	_	19	amod	_
+19	executive	executive	NN	_	21	nn	_
+20	Mark	mark	NNP	_	21	nn	_
+21	Jaffe	jaffe	NNP	_	16	nsubj	16:A0
+22	.	.	.	_	16	punct	_
+
+1	That	that	RB	_	2	advmod	_
+2	is	is	RB	_	23	advmod	23:AM-DIS
+3	,	,	,	_	23	punct	_
+4	instead	instead	RB	_	5	advmod	_
+5	of	of	IN	_	23	prep	23:AM-ADV
+6	hiring	hire	VBG	pb=hire.01	5	pcomp	_
+7	a	a	DT	_	8	det	_
+8	team	team	NN	_	6	dobj	13:A0=PAG;6:A1=PPT
+9	of	of	IN	_	8	prep	_
+10	data	datum	NNS	p2=NN	11	nn	_
+11	scientists	scientist	NNS	_	9	pobj	_
+12	to	to	TO	_	13	aux	_
+13	run	run	VB	pb=run.01	6	advcl	_
+14	analyses	analysis	NNS	_	13	dobj	13:A1=PPT
+15	on	on	IN	_	13	prep	_
+16	your	your	PRP$	_	17	poss	_
+17	data	datum	NNS	p2=NN	15	pobj	_
+18	,	,	,	_	23	punct	_
+19	Jaffe	jaffe	NNP	_	21	poss	_
+20	's	's	POS	_	19	possessive	_
+21	platform	platform	NN	_	23	nsubj	23:A0=PAG
+22	will	will	MD	_	23	aux	23:AM-MOD
+23	do	do	VB	pb=do.02	0	root	_
+24	it	it	PRP	_	23	dobj	23:A1=PPT
+25	for	for	IN	_	23	prep	23:A2=GOL
+26	you	you	PRP	_	25	pobj	_
+27	.	.	.	_	23	punct	_
+
+1	And	and	CC	_	2	cc	2:AM-DIS
+2	protect	protect	VB	pb=protect.01	0	root	_
+3	it	it	PRP	_	2	dobj	2:A1=PPT
+4	.	.	.	_	2	punct	_
+
+1	Customers	customer	NNS	_	3	nsubj	3:A0=PAG
+2	can	can	MD	_	3	aux	3:AM-MOD
+3	embed	embed	VB	p2=VBD|pb=embed.01	0	root	_
+4	the	the	DT	_	5	det	_
+5	software	software	NN	_	3	dobj	3:A1=PPT
+6	directly	directly	RB	_	3	advmod	3:AM-MNR
+7	into	into	IN	_	3	prep	3:A2=GOL
+8	their	their	PRP$	_	9	poss	_
+9	applications	application	NNS	_	7	pobj	_
+10	in	in	IN	_	9	prep	_
+11	the	the	DT	_	12	det	_
+12	form	form	NN	_	10	pobj	_
+13	of	of	IN	_	12	prep	_
+14	a	a	DT	_	17	det	_
+15	graphic	graphic	JJ	_	17	amod	_
+16	friendly	friendly	JJ	_	17	amod	_
+17	dashboard	dashboard	NN	_	13	pobj	_
+18	.	.	.	_	3	punct	_
+
+1	Prelert	prelert	NNP	p2=VB	2	nsubj	2:A0=PAG;8:A1=PPT
+2	launched	launch	VBD	pb=launch.01	0	root	_
+3	four	#crd#	CD	_	4	num	_
+4	years	year	NNS	_	5	npadvmod	_
+5	ago	ago	RB	_	2	advmod	2:AM-TMP
+6	and	and	CC	_	2	cc	_
+7	is	be	VBZ	_	8	auxpass	_
+8	based	base	VBN	pb=base.01	2	conj	_
+9	outside	outside	IN	p2=RB	8	prep	8:AM-LOC
+10	Beantown	beantown	NNP	_	9	pobj	_
+11	,	,	,	_	10	punct	_
+12	in	in	IN	_	10	prep	_
+13	Framingham	framingham	NNP	_	12	pobj	_
+14	,	,	,	_	13	punct	_
+15	Mass	mass	NNP	_	13	appos	_
+16	.	.	.	_	2	punct	_
+
+1	It also	it also	NNP	p2=RB	2	nsubj	2:A0=PAG
+2	has	have	VBZ	pb=have.03	0	root	_
+3	an	an	DT	_	4	det	_
+4	office	office	NN	_	2	dobj	2:A1=PPT
+5	in	in	IN	_	4	prep	_
+6	London	london	NNP	_	5	pobj	_
+7	.	.	.	_	2	punct	_
+
+1	The	the	DT	_	5	det	_
+2	company raised	company raised	JJ	p2=VBN	5	amod	_
+3	$	$	$	_	5	quantmod	_
+4	3.7	0	CD	_	5	number	_
+5	million	#crd#	CD	_	0	root	_
+6	in	in	IN	_	5	prep	_
+7	venture	venture	NN	_	8	nn	_
+8	funding	funding	NN	_	6	pobj	_
+9	in	in	IN	_	8	prep	_
+10	2010	0	CD	_	9	pobj	_
+11	.	.	.	_	5	punct	_
+
+1	Since	since	IN	_	7	prep	7:AM-TMP;10:AM-TMP
+2	that	that	DT	_	3	det	_
+3	time	time	NN	_	1	pobj	_
+4	,	,	,	_	7	punct	_
+5	it	it	PRP	_	7	nsubj	7:A0;10:A1=PAG
+6	has	have	VBZ	_	7	aux	_
+7	been surviving	been surviving	VBG	p2=NNP|pb=been surviving.01	0	root	_
+8	-	-	:	p2=,	7	punct	_
+9	and	and	CC	_	7	cc	_
+10	thriving	thrive	VBG	p2=NN|pb=thrive.01	7	conj	_
+11	-	-	HYPH	p2=:	12	hyph	_
+12	on	on	IN	p2=RP	10	prep	_
+13	its own	its own	JJ	p2=NN	14	amod	_
+14	revenues	revenue	NNS	_	12	pobj	_
+15	.	.	.	_	7	punct	_
+
+1	"	"	``	_	13	punct	_
+2	We	we	PRP	_	3	nsubj	3:A1=PPT
+3	're	be	VBP	pb=be.01	13	ccomp	13:A1=PPT
+4	close	close	JJ	p2=RB	3	acomp	3:A2=PRD
+5	to	to	IN	_	4	prep	_
+6	being	be	VBG	pb=be.01	5	pcomp	_
+7	cash	cash	NN	_	8	nn	_
+8	flow	flow	NN	p2=VB	9	nsubj	_
+9	positive	positive	JJ	_	6	acomp	6:A2=PRD
+10	,	,	,	_	13	punct	_
+11	"	"	''	_	13	punct	_
+12	Jaffe	jaffe	NNP	_	13	nsubj	13:A0
+13	said	say	VBD	pb=say.01	0	root	_
+14	.	.	.	_	13	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A0=PAG
+2	noted	note	VBD	pb=note.01	0	root	_
+3	however	however	RB	_	2	advmod	2:AM-DIS
+4	,	,	,	_	2	punct	_
+5	that	that	IN	p2=DT	9	complm	_
+6	Prelert	prelert	NNP	_	9	nsubj	9:A0=PAG;15:A0=PAG
+7	will	will	MD	_	9	aux	9:AM-MOD
+8	be	be	VB	_	9	aux	_
+9	raising	raise	VBG	pb=raise.01	2	ccomp	2:A1=PPT
+10	cash	cash	NN	_	9	dobj	9:A1=PPT
+11	in	in	IN	_	9	prep	9:AM-TMP
+12	the	the	DT	_	13	det	_
+13	future	future	NN	_	11	pobj	_
+14	to	to	TO	_	15	aux	_
+15	expand	expand	VB	pb=expand.01	9	advcl	9:AM-PRP
+16	operations	operation	NNS	_	15	dobj	15:A1=PPT
+17	.	.	.	_	2	punct	_
+
+1	Prelert	prelert	NNP	p2=NN	4	nsubj	4:A0=CAU
+2	has	have	VBZ	_	4	aux	_
+3	been	be	VBN	_	4	aux	_
+4	releasing	release	VBG	pb=release.01	0	root	_
+5	new	new	JJ	_	6	amod	_
+6	products	product	NNS	_	4	dobj	4:A1=PPT
+7	since	since	IN	_	8	mark	_
+8	it launched	it launched	VBN	p2=ADD|pb=it launched.01	4	advcl	4:AM-TMP
+9	.	.	.	_	4	punct	_
+
+1	Mobile	mobile	NN	p2=NNP	2	nn	_
+2	developer	developer	NN	_	0	root	_
+3	or	or	CC	_	2	cc	_
+4	publisher	publisher	NN	_	2	conj	_
+5	?	?	.	_	1	punct	_
+
+1	VentureBeat	venturebeat	NNP	p2=NN	3	nsubj	3:A0=PAG
+2	is	be	VBZ	_	3	aux	_
+3	studying	study	VBG	pb=study.01	0	root	_
+4	mobile	mobile	JJ	p2=NN	5	amod	_
+5	app	app	NN	_	6	nn	_
+6	analytics	analytics	NNS	p2=NN	3	dobj	3:A1=PPT
+7	.	.	.	_	3	punct	_
+
+1	Fill	fill	VB	pb=fill.02	0	root	_
+2	out	out	RP	_	1	prt	1:C-V
+3	our	our	PRP$	_	6	poss	_
+4	5	0	CD	_	6	hmod	_
+5	-	-	HYPH	p2=:	6	hyph	_
+6	minute survey	minute survey	NN	p2=NNPS	1	dobj	1:A1=GOL
+7	,	,	,	_	1	punct	_
+8	and	and	CC	_	1	cc	_
+9	we	we	PRP	_	11	nsubj	11:A0=PAG
+10	'll	will	MD	_	11	aux	11:AM-MOD
+11	share	share	VB	pb=share.01	1	conj	_
+12	the	the	DT	_	13	det	_
+13	data	datum	NNS	p2=NN	11	dobj	11:A1=PPT
+14	with	with	IN	_	11	prep	11:A2=COM
+15	you	you	PRP	_	14	pobj	_
+16	.	.	.	_	11	punct	_
+

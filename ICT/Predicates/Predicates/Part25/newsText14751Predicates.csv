@@ -1,0 +1,22 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by police,restrain.01,A DRUNK,,Affirmative,A DRUNK who had to be restrained by police after turning violent at a village pub has blamed the outburst on his new tattoo . 
+A DRUNK,blame.01,the outburst,on,Affirmative,A DRUNK who had to be restrained by police after turning violent at a village pub has blamed the outburst on his new tattoo . 
+Officers,take.01,Karl Clarke,,Affirmative,Officers took him to the ground after he became rowdy and abusive during an afternoon drinking session . 
+"year - old ,",live.01,500 metres,,Affirmative,"The 34 - year - old , who lives just 500 metres from the pub in Turners Hill Road , was searched and found to have three small bags of cocaine in his trousers pockets . "
+by,support.01,an unemployed fencer,,Affirmative,"But Clarke , an unemployed fencer who is financially supported by his mother , said his actions were down to a painkiller he used to numb the pain of his new tattoo mixing with alcohol . "
+"Clarke ,",say.01,actions were down to,,Affirmative,"But Clarke , an unemployed fencer who is financially supported by his mother , said his actions were down to a painkiller he used to numb the pain of his new tattoo mixing with alcohol . "
+Karl Clarke,numb.01,the pain of,,Affirmative,"But Clarke , an unemployed fencer who is financially supported by his mother , said his actions were down to a painkiller he used to numb the pain of his new tattoo mixing with alcohol . "
+Karl Clarke,plead.02,guilty to,,Affirmative,He pleaded guilty to both offences when he appeared in the dock at Crawley Magistrates ' Court on May 7 . 
+Police,find.01,defendant standing at,,Affirmative,Police arrived and found the defendant standing at the bar . 
+Police,describe.01,"Karl Clarke being drunk , rowdy and abusive to staff who were working at the time",as being ',Affirmative,They described him as being ' exceptionally intoxicated ' . 
+Officers,conduct.01,a search of,,Affirmative,Officers conducted a search of the defendant and discovered three small bags containing cocaine in the pockets of the trousers he was wearing . 
+Officers,discover.01,three small bags containing cocaine in,,Affirmative,Officers conducted a search of the defendant and discovered three small bags containing cocaine in the pockets of the trousers he was wearing . 
+three small bags containing cocaine in,contain.01,cocaine in,,Affirmative,Officers conducted a search of the defendant and discovered three small bags containing cocaine in the pockets of the trousers he was wearing . 
+the defendant,wear.01,the trousers,,Affirmative,Officers conducted a search of the defendant and discovered three small bags containing cocaine in the pockets of the trousers he was wearing . 
+the defendant,spend.02,the night,,Affirmative,"He was arrested and taken to Crawley Police Station , where he spent the night in the cell . "
+Crawley Magistrates ' Court,hear.01,", had been experiencing",,Affirmative,"The court heard how Clarke , who has 13 previous convictions for 18 offences , had been experiencing significant pain on the day of the incident due to a recent tattoo . "
+"Clarke ,",have.03,13 previous convictions for,,Affirmative,"The court heard how Clarke , who has 13 previous convictions for 18 offences , had been experiencing significant pain on the day of the incident due to a recent tattoo . "
+"Clarke ,",experience.01,significant pain,,Affirmative,"The court heard how Clarke , who has 13 previous convictions for 18 offences , had been experiencing significant pain on the day of the incident due to a recent tattoo . "
+Karl Clarke,use.01,"a painkiller ,",,Affirmative,"He used a painkiller , which he claims did not mix well with alcohol and had an impact on his behaviour . "
+"a painkiller ,",have.03,an impact on,,Affirmative,"He used a painkiller , which he claims did not mix well with alcohol and had an impact on his behaviour . "
+by magistrates,approve.01,order for,,Affirmative,A forfeiture and destruction order for the drugs was also approved by magistrates . 

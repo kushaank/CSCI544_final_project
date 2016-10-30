@@ -1,0 +1,29 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( MMC ),plan.01,to assemble,,Affirmative,( MMC ) is planning to assemble a new vehicle model at its newly acquired plant in Laguna as it aims to increase its production capacity next year .. 
+( MMC ),assemble.02,a new vehicle model,,Affirmative,( MMC ) is planning to assemble a new vehicle model at its newly acquired plant in Laguna as it aims to increase its production capacity next year .. 
+it,aim.01,to increase,,Affirmative,( MMC ) is planning to assemble a new vehicle model at its newly acquired plant in Laguna as it aims to increase its production capacity next year .. 
+it,increase.01,its production capacity,,Affirmative,( MMC ) is planning to assemble a new vehicle model at its newly acquired plant in Laguna as it aims to increase its production capacity next year .. 
+( MMPC ) president and,tell.01,firm is studying,reporters,Affirmative,( MMPC ) president and chief executive officer Hikosaburo Shibata told reporters that the firm is studying what new vehicle model can be assembled at the newly acquired facility in Sta . 
+the firm,study.01,model can be assembled at,,Affirmative,( MMPC ) president and chief executive officer Hikosaburo Shibata told reporters that the firm is studying what new vehicle model can be assembled at the newly acquired facility in Sta . 
+we,start.01,production ( of,,Affirmative,"Hopefully , we can start production ( of new model ) next year , he said . "
+he,say.01,"Hopefully , we can start production ( of",,Affirmative,"Hopefully , we can start production ( of new model ) next year , he said . "
+Shibata,say.01,is not,,Affirmative,"While there has been growing demand for small passenger cars in the local market , Shibata said the profitability in assembly of such vehicles is not as big as in producing commercial vehicles . "
+he,say.01,will help,,Affirmative,"As production costs are higher in the Philippines compared to other countries in the region such as Thailand and Indonesia , he said getting support from the government in the form of fiscal and non-fiscal incentives will help the company in pursuing its local assembly operations . "
+getting support from,help.01,the company,,Affirmative,"As production costs are higher in the Philippines compared to other countries in the region such as Thailand and Indonesia , he said getting support from the government in the form of fiscal and non-fiscal incentives will help the company in pursuing its local assembly operations . "
+the company,pursue.01,its local assembly operations,,Affirmative,"As production costs are higher in the Philippines compared to other countries in the region such as Thailand and Indonesia , he said getting support from the government in the form of fiscal and non-fiscal incentives will help the company in pursuing its local assembly operations . "
+MMPC,consider.02,exporting,,Affirmative,MMPC is likewise considering exporting the newmodel to be assembled in the country to other markets as it looks to increase its production capacity . 
+MMPC,export.01,the newmodel,,Affirmative,MMPC is likewise considering exporting the newmodel to be assembled in the country to other markets as it looks to increase its production capacity . 
+it,look.02,to increase,,Affirmative,MMPC is likewise considering exporting the newmodel to be assembled in the country to other markets as it looks to increase its production capacity . 
+it,increase.01,its production capacity,,Affirmative,MMPC is likewise considering exporting the newmodel to be assembled in the country to other markets as it looks to increase its production capacity . 
+we,have.03,the possibility of course,,Affirmative,"If quality and costs are competitive , we have the possibility of course to export , Shibata said . "
+Shibata,say.01,", we have",,Affirmative,"If quality and costs are competitive , we have the possibility of course to export , Shibata said . "
+MMPC,acquire.01,hectare manufacturing plant of,,Affirmative,"As part of MMC 's mid-term plan to expand sales and production capacity until 2016 in Southeast Asia , MMPC acquired the 21 - hectare manufacturing plant of the local unit of Ford Motor Co. in Laguna last March . "
+by Ford,use.01,The plant,for,Affirmative,The plant was previously used by Ford for vehicle assembly until the close of 2012 when it shutdown manufacturing operations citing weak local demand and small supply base for vehicles . 
+it,shutdown.01,operations citing,,Affirmative,The plant was previously used by Ford for vehicle assembly until the close of 2012 when it shutdown manufacturing operations citing weak local demand and small supply base for vehicles . 
+manufacturing operations,cite.01,weak local demand and,,Affirmative,The plant was previously used by Ford for vehicle assembly until the close of 2012 when it shutdown manufacturing operations citing weak local demand and small supply base for vehicles . 
+MMPC,assemble.02,"the L300 , Adventure and",,Affirmative,"At present , MMPC assembles the L300 , Adventure and Lancer EX at its 18 - hectare plant with an annual capacity of 30,000 units in Cainta , Rizal . "
+The firm,produce.01,"15,000 units per year",,Affirmative,"The firm currently produces only 15,000 units per year . "
+Froilan Dytianquin,say.01,will depend on,,Affirmative,"MMPC vice president for marketing services Froilan Dytianquin said hitting the 50,000 production capacity will depend on the new model to be assembled . "
+MMPC,intend.01,to relocate to,,Affirmative,MMPC intends to relocate to the newly acquired plant and start vehicle production there by January 2015 . 
+MMPC,start.01,vehicle production,,Affirmative,MMPC intends to relocate to the newly acquired plant and start vehicle production there by January 2015 . 
+the firm,build.05,inventory,,Affirmative,"In preparation for its relocation to Laguna , the firm is building up inventory . "

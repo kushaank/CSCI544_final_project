@@ -1,0 +1,46 @@
+1	Copyright	copyright	NN	p2=NNP	2	nsubj	2:A0
+2	©	©	VBD	p2=IN|pb=©.01	0	root	_
+3	2014	0	CD	_	6	num	_
+4	Salon	salon	NNP	_	6	nn	_
+5	Media	media	NNP	_	6	nn	_
+6	Group	group	NNP	_	2	dobj	2:A1
+7	,	,	,	_	6	punct	_
+8	Inc	inc	NNP	_	6	appos	_
+9	.	.	.	_	2	punct	_
+
+1	Reproduction	reproduction	NN	p2=NNP	13	nsubjpass	13:A1=PPT
+2	of	of	IN	_	1	prep	_
+3	material	material	NN	_	2	pobj	_
+4	from	from	IN	_	1	prep	_
+5	any	any	DT	_	7	det	_
+6	Salon	salon	NNP	_	7	nn	_
+7	pages	page	NNS	_	4	pobj	_
+8	without	without	IN	_	1	prep	_
+9	written	write	VBN	pb=write.01	10	amod	_
+10	permission	permission	NN	_	8	pobj	9:A1=PPT
+11	is	be	VBZ	_	13	auxpass	_
+12	strictly	strictly	RB	_	13	advmod	13:AM-MNR
+13	prohibited	prohibit	VBN	pb=prohibit.01	0	root	_
+14	.	.	.	_	13	punct	_
+
+1	SALON	salon	NNP	p2=NN	2	nn	_
+2	®	®	NNP	p2=,	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	registered	register	VBN	pb=register.02	0	root	_
+5	in	in	IN	_	4	prep	4:AM-LOC
+6	the	the	DT	_	11	det	_
+7	U.S.	u.s.	NNP	_	8	nn	_
+8	Patent	patent	NNP	_	11	nn	_
+9	and	and	CC	_	8	cc	_
+10	Trademark	trademark	NNP	_	8	conj	_
+11	Office	office	NNP	_	5	pobj	_
+12	as	as	IN	_	4	prep	4:A2=GOL
+13	a	a	DT	_	14	det	_
+14	trademark	trademark	NN	_	12	pobj	_
+15	of	of	IN	_	14	prep	_
+16	Salon	salon	NNP	_	19	nn	_
+17	Media	media	NNP	_	19	nn	_
+18	Group	group	NNP	_	19	nn	_
+19	Inc	inc	NNP	_	15	pobj	_
+20	.	.	.	_	4	punct	_
+

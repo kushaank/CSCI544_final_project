@@ -1,0 +1,77 @@
+1	Viewpoint	viewpoint	NN	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	subscriber	subscriber	NN	_	5	nn	_
+5	feature	feature	NN	_	2	attr	2:A2=PRD
+6	.	.	.	_	2	punct	_
+
+1	Take	take	VB	pb=take.01	0	root	_
+2	a	a	DT	_	4	det	_
+3	free	free	JJ	_	4	amod	_
+4	trial	trial	NN	_	1	dobj	1:A1=PPT
+5	now	now	RB	_	1	advmod	1:AM-TMP
+6	to	to	TO	_	7	aux	_
+7	get	get	VB	pb=get.01	1	advcl	1:AM-PRP
+8	instant	instant	JJ	_	9	amod	_
+9	access	access	NN	_	7	dobj	7:A1=PPT
+10	.	.	.	_	1	punct	_
+
+1	Try	try	VB	pb=try.01	0	root	_
+2	the	the	DT	_	7	det	_
+3	Digital	digital	NNP	p2=NN	7	nn	_
+4	+	+	NNP	p2=SYM	5	nn	_
+5	Weekly	weekly	NNP	_	7	nn	_
+6	Print	print	NNP	p2=NNPS	7	nn	_
+7	Combo	combo	NNP	_	1	dobj	1:A1=PPT
+8	and	and	CC	_	1	cc	_
+9	enjoy	enjoy	VB	pb=enjoy.01	1	conj	_
+10	the	the	DT	_	11	det	_
+11	best	good	JJS	_	9	dobj	9:A1=PAG
+12	of	of	IN	_	11	prep	_
+13	both	both	DT	_	14	det	_
+14	worlds	world	NNS	_	12	pobj	_
+15	!	!	.	_	1	punct	_
+
+1	    	    	''	p2=NN	2	punct	_
+2	Investors.com	#url#	ADD	_	0	root	_
+3	.	.	.	_	2	punct	_
+
+1	    	    	NNS	p2=NN	0	root	_
+2	for	for	IN	_	1	prep	_
+3	free	free	JJ	_	4	amod	_
+4	membership	membership	NN	_	2	pobj	_
+5	on	on	IN	_	4	prep	_
+6	Investors.com	#url#	ADD	_	5	pobj	_
+7	.	.	.	_	1	punct	_
+
+1	©	©	$	p2=SYM	2	nmod	_
+2	2014	0	CD	_	3	nn	_
+3	MarketSmith	marketsmith	NNP	_	0	root	_
+4	,	,	,	_	3	punct	_
+5	Incorporated	incorporated	NNP	_	3	appos	_
+6	.	.	.	_	3	punct	_
+
+1	Charts	chart	NNS	p2=VBZ	6	nsubjpass	2:A1;6:A1=PPT
+2	provided	provided	VBN	pb=provide.01	1	partmod	_
+3	by	by	IN	_	2	agent	2:A0
+4	MarketSmith	marketsmith	NNP	_	3	pobj	_
+5	are	be	VBP	_	6	auxpass	_
+6	used	use	VBN	pb=use.01	0	root	_
+7	by	by	IN	_	6	agent	6:A0=PAG
+8	IBD	ibd	NNP	_	7	pobj	_
+9	under	under	IN	_	6	prep	6:AM-MNR
+10	license	license	NN	p2=JJ	11	nn	_
+11	agreement	agreement	NN	_	9	pobj	_
+12	.	.	.	_	6	punct	_
+
+1	MarketSmith	marketsmith	NNP	_	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	a	a	DT	_	5	det	_
+4	registered	register	VBN	p2=JJ|pb=register.02	5	amod	_
+5	trademark	trademark	NN	_	2	attr	4:A1=PPT;2:A2=PRD
+6	of	of	IN	_	5	prep	_
+7	MarketSmith	marketsmith	NNP	_	6	pobj	_
+8	,	,	,	_	7	punct	_
+9	Incorporated	incorporated	NNP	_	7	appos	_
+10	.	.	.	_	2	punct	_
+

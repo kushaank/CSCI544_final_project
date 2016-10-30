@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the temperature,reach.01,degrees Celsius,,Affirmative,"In Melbourne , the temperature reached 20 degrees Celsius for the 10th day in a row on Tuesday , matching the 1972 record for consecutive days above 20C in May . "
+the temperature,match.01,the 1972 record for,,Affirmative,"In Melbourne , the temperature reached 20 degrees Celsius for the 10th day in a row on Tuesday , matching the 1972 record for consecutive days above 20C in May . "
+Bureau of,say.01,it was,,Affirmative,Bureau of Meteorology senior forecaster Scott Williams said it was increasingly possible Melbourne 's mild temperatures may linger on for another two days . 
+we,break.01,this -LRB- cold -RRB- front,,Affirmative,"Because this ( cold ) front is so weak , there is a chance we could break it , Mr Williams told AAP . "
+Mr Williams,tell.01,", there is",AAP,Affirmative,"Because this ( cold ) front is so weak , there is a chance we could break it , Mr Williams told AAP . "
+we,break.01,only Melbourne experiencing a spell of warmer weather,,Affirmative,There 's at least a 50:50 chance that we 'll break it outright tomorrow and again the next day so we extend it to 12 days . 
+we,extend.01,only Melbourne experiencing a spell of warmer weather,to,Affirmative,There 's at least a 50:50 chance that we 'll break it outright tomorrow and again the next day so we extend it to 12 days . 
+only Melbourne experiencing,experience.01,a spell of,,Affirmative,But it 's not only Melbourne experiencing a spell of warmer weather . 

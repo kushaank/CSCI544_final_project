@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ Seattle Mayor Ed Murray,call.01,a news conference,,Affirmative,SEATTLE  ( AP ) -  Seattle Mayor Ed Murray called a news conference Monday to announce a new police chief . 
+ Seattle Mayor Ed Murray,announce.01,Chief,,Affirmative,SEATTLE  ( AP ) -  Seattle Mayor Ed Murray called a news conference Monday to announce a new police chief . 
+Seattle Mayor Ed Murray called a news conference Monday to announce a new police chief,say.01,he made,,Affirmative,Murray said over the weekend he made an offer that was accepted . 
+A search committee,narrow.01,a list of candidates,,Affirmative,"A search committee had narrowed a list of candidates to three : former Boston police commissioner Kathleen O'Toole , Elk Grove , California Police Chief Robert Lehner , and Mesa , Arizona , Police Chief Frank Milstead . "
+The city,have.03,several interim chiefs,,Affirmative,The city has had several interim chiefs since John Diaz announced his retirement in April 2013 after a three - year tenure . 
+John Diaz,announce.01,his retirement,,Affirmative,The city has had several interim chiefs since John Diaz announced his retirement in April 2013 after a three - year tenure . 
+The new Seattle chief,take.12,a department of,,Affirmative,"The new Seattle chief will take over a department of about 1,300 officers under federal oversight to carry out a reform agreement . "
+Federal investigators,find.01,that officers to often escalated situations unnecessarily and,,Affirmative,Federal investigators found in 2011 that officers to often escalated situations unnecessarily and sometimes used excessive force . 
+officers,escalated.01,situations,,Affirmative,Federal investigators found in 2011 that officers to often escalated situations unnecessarily and sometimes used excessive force . 
+officers,use.01,excessive force,,Affirmative,Federal investigators found in 2011 that officers to often escalated situations unnecessarily and sometimes used excessive force . 
+The Justice Department,raise.01,concerns about,,Affirmative,The Justice Department also raised concerns about biased policing . 

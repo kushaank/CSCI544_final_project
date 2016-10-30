@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+an Illinois man,have.03,close contact with,,Affirmative,Ongoing investigation of the first imported case of Middle East Respiratory Syndrome Coronavirus ( MERS - CoV ) infection in the United States has identified evidence of apparent past MERS - CoV infection in an Illinois man who had close contact with the Indiana MERS patient . 
+The Illinois resident,require.01,medical care,,Affirmative,The Illinois resident did not seek or require medical care . 
+local health officials,monitor.01,his health,,Affirmative,"However , local health officials have monitored his health daily since May 3 as part of the investigation . "
+The Illinois resident,feel.01,well,,Affirmative,"At this time , the Illinois resident is reported to be feeling well . "
+a U.S. resident,travel.01,from,,Affirmative,"The previously reported Indiana MERS patient is a U.S. resident who had traveled from Saudi Arabia and was admitted to an Indiana hospital on April 28 ; the patient was confirmed to have MERS on May 2 , and has since been released from the hospital . "
+a U.S. resident who had traveled from Saudi Arabia and was admitted to an Indiana hospital on April 28,have.03,MERS on May 2,,Affirmative,"The previously reported Indiana MERS patient is a U.S. resident who had traveled from Saudi Arabia and was admitted to an Indiana hospital on April 28 ; the patient was confirmed to have MERS on May 2 , and has since been released from the hospital . "
+an Illinois man,require.01,medical attention,,Affirmative,The man did not require medical attention and is said to be in good health . 
+the revelation,meet.01,definition of,,Affirmative,"However , as CNN noted , though the revelation does not meet the World Health Organization 's definition of an active case , U.S. health officials are still treating it as such . "
+U.S. health officials,treat.01,CNN,as such,Affirmative,"However , as CNN noted , though the revelation does not meet the World Health Organization 's definition of an active case , U.S. health officials are still treating it as such . "

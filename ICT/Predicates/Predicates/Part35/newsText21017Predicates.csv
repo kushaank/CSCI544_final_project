@@ -1,0 +1,56 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A grieving husband,switch.01,support machine,,Affirmative,A grieving husband who switched off his wife 's life support machine found out three days later she was still alive when he called the hospital to make funeral arrangements . 
+A grieving husband,find.01,later she was still alive,,Affirmative,A grieving husband who switched off his wife 's life support machine found out three days later she was still alive when he called the hospital to make funeral arrangements . 
+A grieving husband who switched off his wife 's life support machine,call.01,the hospital,,Affirmative,A grieving husband who switched off his wife 's life support machine found out three days later she was still alive when he called the hospital to make funeral arrangements . 
+"Malcolm Greenhill , 62",say.01,his goodbyes,to wife of,Affirmative,"Malcolm Greenhill , 62 , had said his goodbyes to wife of 41 years Marilyn and turned off the machines helping her to breath . "
+Grandmother Marilyn,turn.07,the machines helping her to breath,,Affirmative,"Malcolm Greenhill , 62 , had said his goodbyes to wife of 41 years Marilyn and turned off the machines helping her to breath . "
+the machines helping her to breath,help.01,wife of 41 years Marilyn,,Affirmative,"Malcolm Greenhill , 62 , had said his goodbyes to wife of 41 years Marilyn and turned off the machines helping her to breath . "
+Mr Greenhill,leave.01,hospital,,Affirmative,Mr Greenhill left hospital and began the difficult task of telling his family . 
+Mr Greenhill,begin.01,the difficult task of telling,,Affirmative,Mr Greenhill left hospital and began the difficult task of telling his family . 
+"his son Craig , 41 ,",ring.04,Sandwell Hospital,,Affirmative,"But when his son Craig , 41 , rang Sandwell Hospital , in West Bromwich , West Mids , three days later to make funeral arrangements - he was given the heart - breaking news Marilyn was still alive . "
+Craig,give.01,evidence,,Affirmative,"Giving evidence at an inquest , Craig said the blunder only emerged after staff could n't find Marilyn 's body in the mortuary . "
+Craig,say.01,could n't find,,Affirmative,"Giving evidence at an inquest , Craig said the blunder only emerged after staff could n't find Marilyn 's body in the mortuary . "
+Craig,say.01,Dad turned,,Affirmative,He said : Dad turned her machine off on Saturday Bank Holiday and we were told to call back on Tuesday but when we spoke to the mortuary at the hospital they told us they could n't find her . 
+Dad,turn.02,his wife 's life support machine,,Affirmative,He said : Dad turned her machine off on Saturday Bank Holiday and we were told to call back on Tuesday but when we spoke to the mortuary at the hospital they told us they could n't find her . 
+they,tell.01,they could n't find her,us,Affirmative,He said : Dad turned her machine off on Saturday Bank Holiday and we were told to call back on Tuesday but when we spoke to the mortuary at the hospital they told us they could n't find her . 
+they,find.01,Grandmother Marilyn,,Affirmative,He said : Dad turned her machine off on Saturday Bank Holiday and we were told to call back on Tuesday but when we spoke to the mortuary at the hospital they told us they could n't find her . 
+Hospital bosses,launch.01,an investigation into,,Affirmative,Hospital bosses have now launched an investigation into what happened . 
+Mr Greenhill,tell.01,how he had,the hearing,Affirmative,Mr Greenhill told the hearing how he had to watch his wife die twice . 
+Mr Greenhill,watch.01,wife die twice,,Affirmative,Mr Greenhill told the hearing how he had to watch his wife die twice . 
+Mr Greenhill,say.01,he would never have left,,Affirmative,Giving evidence at Smethwick Coroners Court he said he would never have left his wife 's side for her remaining four days if he had known she was still alive . 
+Mr Greenhill,leave.01,side,,Affirmative,Giving evidence at Smethwick Coroners Court he said he would never have left his wife 's side for her remaining four days if he had known she was still alive . 
+Mr Greenhill,know.01,she was still alive,,Affirmative,Giving evidence at Smethwick Coroners Court he said he would never have left his wife 's side for her remaining four days if he had known she was still alive . 
+Mr Greenhill,add.01,I was told,,Affirmative,He added : I was told it was only the machine keeping her breathing and there was no point prolonging the inevitable . 
+only the machine keeping,keep.02,her breathing,,Affirmative,He added : I was told it was only the machine keeping her breathing and there was no point prolonging the inevitable . 
+no point prolonging,prolong.01,the inevitable,,Affirmative,He added : I was told it was only the machine keeping her breathing and there was no point prolonging the inevitable . 
+They,tell.01,there was nothing more,us,Affirmative,They told us there was nothing more they could do and she would only live for a couple of minutes once I turned the machine off so I said my goodbyes . 
+They,do.02,nothing more,,Affirmative,They told us there was nothing more they could do and she would only live for a couple of minutes once I turned the machine off so I said my goodbyes . 
+Mr Greenhill,turn.01,his wife 's life support machine,,Affirmative,They told us there was nothing more they could do and she would only live for a couple of minutes once I turned the machine off so I said my goodbyes . 
+Mr Greenhill,say.01,his goodbyes,,Affirmative,They told us there was nothing more they could do and she would only live for a couple of minutes once I turned the machine off so I said my goodbyes . 
+a couple of minutes,say.01,It is like grieving for,,Affirmative,"It is like grieving for her dying twice , I said goodbye twice . "
+"Grandmother Marilyn , 65 ,",suffer.01,a bleed,,Affirmative,"Grandmother Marilyn , 65 , had been hospitalised after falling down the stairs of her home in West Bromwich and suffering a bleed to the brain . "
+A grieving husband who switched off his wife 's life support machine,find.01,her lifeless body,,Affirmative,She was rushed to Sandwell Hospital at 12.30 pm on May 3 after her husband found her lifeless body at the bottom of the stairs . 
+Doctors,tell.01,that nothing could be done,her desperate family,Affirmative,Doctors told her desperate family that nothing could be done to save her life . 
+nothing,save.02,her life,,Affirmative,Doctors told her desperate family that nothing could be done to save her life . 
+Doctors,leave.02,Mr Greenhill,with,Affirmative,That left Mr Greenhill with the heartbreaking decision to turn off the life support keeping his wife alive at 6 pm the same day . 
+"Daughter Joanne Highfield , 39 ,",tell.01,", she was still breathing",the hearing,Affirmative,"Daughter Joanne Highfield , 39 , told the hearing : We did n't know that for three days she had laid there alone , she was still breathing . "
+Doctors,know.01,that,,Affirmative,"Daughter Joanne Highfield , 39 , told the hearing : We did n't know that for three days she had laid there alone , she was still breathing . "
+Joanne Highfield,lay.01,three days,,Affirmative,"Daughter Joanne Highfield , 39 , told the hearing : We did n't know that for three days she had laid there alone , she was still breathing . "
+Country Coroner Mr Angus Smillie,adjourn.01,the inquest,,Affirmative,"Adjourning the inquest for three months , Assistant Black Country Coroner Mr Angus Smillie said : It is an unexpected turn of events , you went home thinking she had passed away only to find out days later that she was in fact still alive . "
+Country Coroner Mr Angus Smillie,say.01,It is,,Affirmative,"Adjourning the inquest for three months , Assistant Black Country Coroner Mr Angus Smillie said : It is an unexpected turn of events , you went home thinking she had passed away only to find out days later that she was in fact still alive . "
+you,think.01,she had passed away,,Affirmative,"Adjourning the inquest for three months , Assistant Black Country Coroner Mr Angus Smillie said : It is an unexpected turn of events , you went home thinking she had passed away only to find out days later that she was in fact still alive . "
+Joanne Highfield,find.03,that she was in fact,,Affirmative,"Adjourning the inquest for three months , Assistant Black Country Coroner Mr Angus Smillie said : It is an unexpected turn of events , you went home thinking she had passed away only to find out days later that she was in fact still alive . "
+Assistant Black Country Coroner Mr Angus Smillie,like.02,to adjourn for,,Affirmative,I would like to adjourn for three months for more medical information and for an investigation into exactly what happened in those intervening days . 
+"West Birmingham Hospitals NHS Trust ,",run.01,Sandwell General Hospital,,Affirmative,"A spokesman for Sandwell and West Birmingham Hospitals NHS Trust , which runs Sandwell General Hospital , said the death was being thoroughly investigated . "
+A spokesman for Sandwell and,say.01,death was being thoroughly investigated,,Affirmative,"A spokesman for Sandwell and West Birmingham Hospitals NHS Trust , which runs Sandwell General Hospital , said the death was being thoroughly investigated . "
+"Sam Holdsworth ,",add.01,condolences go out to,,Affirmative,"Sam Holdsworth , communications support officer , added : Our condolences go out to Mrs Greenhill 's family at this difficult time . "
+Leader of,call.03,for,,Affirmative,Leader of Sandwell Council Darren Cooper has now called for a full investigation . 
+Leader of Sandwell Council Darren Cooper,say.01,thoughts go to,,Affirmative,He said : My thoughts go to the family . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 

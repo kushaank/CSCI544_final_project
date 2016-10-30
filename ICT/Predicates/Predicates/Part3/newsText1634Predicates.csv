@@ -1,0 +1,52 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,sue.01,A monk,,Affirmative,A monk who taught at St. John 's University and seminary from the 1950 s to the 1970 s has been sued by two Minnesota men who claim he sexually abused them at a cabin owned by St. John 's Abbey . 
+two Minnesota men,claim.01,he sexually abused them at,,Affirmative,A monk who taught at St. John 's University and seminary from the 1950 s to the 1970 s has been sued by two Minnesota men who claim he sexually abused them at a cabin owned by St. John 's Abbey . 
+A monk who taught at St. John 's University and seminary from the 1950s to the 1970s,abuse.01,them,,Affirmative,A monk who taught at St. John 's University and seminary from the 1950 s to the 1970 s has been sued by two Minnesota men who claim he sexually abused them at a cabin owned by St. John 's Abbey . 
+by,own.01,a cabin owned by,,Affirmative,A monk who taught at St. John 's University and seminary from the 1950 s to the 1970 s has been sued by two Minnesota men who claim he sexually abused them at a cabin owned by St. John 's Abbey . 
+"Richard Eckroth ,",abuse.01,more than 360 of,,Affirmative,"Richard Eckroth , a member of the Benedictine Order who is also a priest , abused more than 360 of what he referred to as his cabin kids , said Jeff Anderson , attorney for the two men who filed suit Monday in Stearns County . "
+"Jeff Anderson , attorney for",say.01,", abused",,Affirmative,"Richard Eckroth , a member of the Benedictine Order who is also a priest , abused more than 360 of what he referred to as his cabin kids , said Jeff Anderson , attorney for the two men who filed suit Monday in Stearns County . "
+two Minnesota men who claim he sexually abused them at a cabin owned by St. John 's Abbey,file.01,suit,,Affirmative,"Richard Eckroth , a member of the Benedictine Order who is also a priest , abused more than 360 of what he referred to as his cabin kids , said Jeff Anderson , attorney for the two men who filed suit Monday in Stearns County . "
+"Eckroth ,",advance.01,dementia and lives,,Affirmative,"Eckroth , now 87 , has advanced dementia and lives at St. John 's Abbey under close monitoring , according to abbey spokesman Brother Aelred Senna . "
+the abbey,say.01,Abbey was made aware of,,Affirmative,"St. John 's Abbey was made aware of these allegations against Fr. Richard Eckroth late last week , the abbey said in a written statement released Monday . "
+conflicting testimony,regard.01,allegations against him,,Affirmative,"While there have been credible claims of inappropriate behavior by Eckroth , there has also been conflicting testimony regarding allegations against him . "
+"The abbey ,",say.01,it would cooperate,,Affirmative,"The abbey , which also is a defendant in the lawsuit , said it would cooperate to seek the truth as we have in the past . "
+it,cooperate.01,to seek,,Affirmative,"The abbey , which also is a defendant in the lawsuit , said it would cooperate to seek the truth as we have in the past . "
+it,seek.01,the truth,,Affirmative,"The abbey , which also is a defendant in the lawsuit , said it would cooperate to seek the truth as we have in the past . "
+Eckroth,teach.01,philosophy,,Affirmative,"According to the lawsuit , Eckroth taught philosophy at St. John 's from 1952 through 1973 . "
+family,belong.01,to,,Affirmative,The plaintiffs ' family belonged to St. Joseph 's Parish in St. Joseph . 
+Eckroth --,invite.01,the boys,to,Affirmative,"It was there that they became acquainted with Eckroth -- who eventually invited the boys , in the early 1970 s , to the Bemidji - area cabin owned by the abbey . "
+by,own.01,area cabin owned by,,Affirmative,"It was there that they became acquainted with Eckroth -- who eventually invited the boys , in the early 1970 s , to the Bemidji - area cabin owned by the abbey . "
+abbey officials,receive.01,complaints about Eckroth,,Affirmative,"After receiving complaints about Eckroth , abbey officials transferred him to the Bahamas , where he served from 1977 to 1989 , according to Anderson . "
+abbey officials,transfer.01,him,to,Affirmative,"After receiving complaints about Eckroth , abbey officials transferred him to the Bahamas , where he served from 1977 to 1989 , according to Anderson . "
+by,pass.01,"the Child Victims Act , passed by",,Affirmative,"The suit was among more than 20 filed pursuant to the Child Victims Act , passed by the state Legislature in May 2013 . "
+It,allow.01,to file,,Affirmative,It allows victims of child sexual abuse to file civil lawsuits during a three - year window even though the previous statute of limitations expired . 
+victims of,file.01,civil lawsuits,,Affirmative,It allows victims of child sexual abuse to file civil lawsuits during a three - year window even though the previous statute of limitations expired . 
+"-- Brennan Maiers ,",work.01,as pastor of,,Affirmative,"-- Brennan Maiers , who worked as pastor of St. Bernard in St. Paul from 1983 to 1990 ; lives in Collegeville . "
+by,accuse.01,Blumeyer,,Affirmative,Blumeyer was accused by a Monticello resident who spoke Monday of his abuse by the priest at a Wayzata church . 
+a Monticello resident,speak.01,of,,Affirmative,Blumeyer was accused by a Monticello resident who spoke Monday of his abuse by the priest at a Wayzata church . 
+He,say.01,father was,,Affirmative,"He said his father was an alcoholic , so he latched on to Blumeyer as a trusted parent figure at St. Bartholomew in Wayzata . "
+he,latch.02,to Blumeyer,,Affirmative,"He said his father was an alcoholic , so he latched on to Blumeyer as a trusted parent figure at St. Bartholomew in Wayzata . "
+Lloyd Van Vleet,say.01,year was 1969 or 1979,,Affirmative,"He was about 14 ; the year was 1969 or 1979 , he said . "
+Lloyd Van Vleet,have.03,a stack of,,Affirmative,"He had a stack of naked pictures of young boys , Van Vleet said . "
+Van Vleet,say.01,He had,,Affirmative,"He had a stack of naked pictures of young boys , Van Vleet said . "
+Blumeyer,perform.01,oral sex,,Affirmative,"Blumeyer would later perform oral sex on him , he said . "
+he,say.01,Blumeyer would later perform,,Affirmative,"Blumeyer would later perform oral sex on him , he said . "
+Van Vleet,write.01,page letter,to,Affirmative,"Van Vleet wrote a 10 - page letter to the Rev. Kevin McDonough at the archdiocese in 1997 , describing the abuse . "
+Van Vleet,describe.01,the abuse,,Affirmative,"Van Vleet wrote a 10 - page letter to the Rev. Kevin McDonough at the archdiocese in 1997 , describing the abuse . "
+he,bring.01,it,with officials,Affirmative,"He never heard back until he brought it up with officials again in 2006 , he said . "
+he,say.01,He never heard back,,Affirmative,"He never heard back until he brought it up with officials again in 2006 , he said . "
+Van Vleet,meet.03,with officials at,,Affirmative,"Van Vleet also met with officials at the abbey ; it issued him a check for $ 100,000 , he said . "
+a 10-page letter,issue.01,a check for,him,Affirmative,"Van Vleet also met with officials at the abbey ; it issued him a check for $ 100,000 , he said . "
+Lloyd Van Vleet,say.01,; it issued him,,Affirmative,"Van Vleet also met with officials at the abbey ; it issued him a check for $ 100,000 , he said . "
+"Jim Accurso , spokesman for",note.01,archdiocese had previously made public,,Affirmative,"Jim Accurso , spokesman for the archdiocese , noted that the archdiocese had previously made public the names and biographical details of the priests whose files Anderson released Monday . "
+the archdiocese,make.02,public,,Affirmative,"Jim Accurso , spokesman for the archdiocese , noted that the archdiocese had previously made public the names and biographical details of the priests whose files Anderson released Monday . "
+Anderson,release.01,the priests,,Affirmative,"Jim Accurso , spokesman for the archdiocese , noted that the archdiocese had previously made public the names and biographical details of the priests whose files Anderson released Monday . "
+Judge John Van de North,order.01,the archdiocese in 1997,to release files of,Affirmative,"Ramsey County District Judge John Van de North ordered the archdiocese to release files of credibly accused priests as a part of another lawsuit , Doe 1 v. the archdiocese , the Diocese of Winona and former priest Thomas Adamson of Rochester . "
+the archdiocese in 1997,release.01,files of,,Affirmative,"Ramsey County District Judge John Van de North ordered the archdiocese to release files of credibly accused priests as a part of another lawsuit , Doe 1 v. the archdiocese , the Diocese of Winona and former priest Thomas Adamson of Rochester . "
+Anderson,say.01,were responsible for covering up abuses by monks,,Affirmative,Anderson said each of four abbots in charge of St. John 's from 1950 to 2000 were responsible for covering up abuses by monks . 
+Anderson,say.01,should release,,Affirmative,Anderson said St. John 's should release all its files . 
+St. John 's,release.01,all its files,,Affirmative,Anderson said St. John 's should release all its files . 
+St. John 's,say.01,it has complied with,,Affirmative,St. John 's said Monday it has complied with all court orders it has received to produce documents . 
+it,comply.01,with,,Affirmative,St. John 's said Monday it has complied with all court orders it has received to produce documents . 
+it,receive.01,to produce documents,,Affirmative,St. John 's said Monday it has complied with all court orders it has received to produce documents . 
+it,produce.01,documents,,Affirmative,St. John 's said Monday it has complied with all court orders it has received to produce documents . 

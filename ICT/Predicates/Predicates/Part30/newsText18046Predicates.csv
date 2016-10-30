@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+headlines,celebrate.02,"CANNES , France - Abel Ferrara 's movie `` Welcome to New York , '' inspired by the sex scandal involving the former IMF chief Dominique Strauss-Kahn",,Affirmative,"CANNES , France - Abel Ferrara 's movie Welcome to New York , inspired by the sex scandal involving the former IMF chief Dominique Strauss - Kahn , has been grabbing headlines , and a secretive party to celebrate it here created even more of a buzz . "
+a secretive party,create.01,even more of,,Affirmative,"CANNES , France - Abel Ferrara 's movie Welcome to New York , inspired by the sex scandal involving the former IMF chief Dominique Strauss - Kahn , has been grabbing headlines , and a secretive party to celebrate it here created even more of a buzz . "
+guests,don.01,white bath robes,,Affirmative,"Ferrara partied with guests who donned white bath robes , and party bags came with complementary S&M whips , handcuffs , condoms and even tablets labeled Viagra . "
+a secretive party to celebrate it,start.01,stars Gerard Depardieu,,Affirmative,"The film , screened before the party started , stars Gerard Depardieu . "
+Gerard Depardieu,bare.01,all,,Affirmative,"He bares all to play unrepentant sex-addict Mr. Devereaux , a man who handles billions of dollars a day and commits a sexual assault on a hotel maid following an orgy . "
+Gerard Depardieu,play.01,"unrepentant sex-addict Mr. Devereaux ,",,Affirmative,"He bares all to play unrepentant sex-addict Mr. Devereaux , a man who handles billions of dollars a day and commits a sexual assault on a hotel maid following an orgy . "
+a man,handle.01,billions of dollars,,Affirmative,"He bares all to play unrepentant sex-addict Mr. Devereaux , a man who handles billions of dollars a day and commits a sexual assault on a hotel maid following an orgy . "
+a man,commit.02,a sexual assault on,,Affirmative,"He bares all to play unrepentant sex-addict Mr. Devereaux , a man who handles billions of dollars a day and commits a sexual assault on a hotel maid following an orgy . "
+a hotel maid following,follow.01,an orgy,,Affirmative,"He bares all to play unrepentant sex-addict Mr. Devereaux , a man who handles billions of dollars a day and commits a sexual assault on a hotel maid following an orgy . "
+Strauss - Kahn,assault.01,York hotel employee,,Affirmative,"In May 2011 , Strauss - Kahn was accused of sexually assaulting a New York hotel employee . "
+the Frenchman,reach.01,court settlement with,,Affirmative,Charges were ultimately dropped against the Frenchman and he reached an out - of - court settlement with the woman . 
+by,play.01,his wife,,Affirmative,"In the film , his wife , played stoically by Jacqueline Bisset , sees her dreams of being France 's first lady evaporate in scandal and her life torn apart . "
+his wife,see.01,evaporate in scandal and,,Affirmative,"In the film , his wife , played stoically by Jacqueline Bisset , sees her dreams of being France 's first lady evaporate in scandal and her life torn apart . "
+You,contact.01,Our,,Affirmative,You can unsubscribe or contact us anytime . 

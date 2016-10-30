@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by accident,happened.01,famous puzzle games happened by accident,,Affirmative,One of the world 's most famous puzzle games happened by accident . 
+by,invent.01,Cube,,Affirmative,"The Rubik 's Cube was invented in 1974 by Erno Rubik , an Hungarian architect , who wanted a model to explain three - dimensional geometry . "
+"an Hungarian architect ,",want.01,a model,,Affirmative,"The Rubik 's Cube was invented in 1974 by Erno Rubik , an Hungarian architect , who wanted a model to explain three - dimensional geometry . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",realise.01,he had created,,Affirmative,"Rubik had been hand - carving the cubelets himself , but did not realise he had created a puzzle until he scrambled the cube and tried to put it back together . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",create.01,a puzzle,,Affirmative,"Rubik had been hand - carving the cubelets himself , but did not realise he had created a puzzle until he scrambled the cube and tried to put it back together . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",try.01,to put it,,Affirmative,"Rubik had been hand - carving the cubelets himself , but did not realise he had created a puzzle until he scrambled the cube and tried to put it back together . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",put.01,The Rubik 's Cube,back together,Affirmative,"Rubik had been hand - carving the cubelets himself , but did not realise he had created a puzzle until he scrambled the cube and tried to put it back together . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",obtain.01,an Hungarian patent for,,Affirmative,He obtained an Hungarian patent for his Magic Cube in 1975 . 
+professional competitors,take.01,part,in speedcubing,Affirmative," Forty years after the Rubik 's Cube was invented , professional competitors still take part in speedcubing in the race to solve the puzzle in the fastest time . "
+leader Ed Miliband,solve.01,the puzzle,,Affirmative," According to the Daily Mirror , Labour Party leader Ed Miliband can solve the puzzle in one - and - a - half minutes . "
+of,make.07,six faces,,Affirmative,"The cube 's six faces are each made up of nine coloured squares , with each row and column being independently moveable around a central pivot . "
+"Erno Rubik , an Hungarian architect , who wanted a model to explain three-dimensional geometry",set.02,a time of,,Affirmative,He set a time of 5.55 seconds at the Zonhoven Open in Belgium . 
+ Fakhri Raihaan,solve.01,Cube,with,Affirmative,Solving with feet :  Fakhri Raihaan solved a Rubik 's Cube with his feet in 27.93 seconds at the Celebes 2012 . 
+the most people solving,solve.01,Cube,,Affirmative,Group solving in 12 minutes : The record for the most people solving a Rubik 's Cube in 12 minutes is by 134 individuals . 
+by pupils from,set.01,Group,,Affirmative,"It was set in March 2010 by pupils from Dr Challoner 's Grammar School in Amersham , England . "
+Marcin Zalewski of Poland,solve.01,a cube blindfolded in,,Affirmative,"Blindfold solving : The record for blind solving is held by Marcin Zalewski of Poland , who solved a cube blindfolded in 23.80 seconds at the Polish Nationals in 2013 . "
+a robot built using,use.01,Lego Mindstorms and,,Affirmative,"Non-human solving : The fastest non-human time for a physical 3×3×3 Rubik 's Cube is 3.25 seconds , set by CubeStormer III , a robot built using Lego Mindstorms and a Samsung Galaxy S4 . "

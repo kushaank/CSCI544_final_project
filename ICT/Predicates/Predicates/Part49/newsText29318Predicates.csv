@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+president Julia Taylor,speak.01,a few words,,Affirmative,Greater Milwaukee Committee president Julia Taylor spoke a few words at the announcement on the Summerfest grounds . 
+Mayor Tom Barrett,reference.01,car scene standing near,,Affirmative,"Milwaukee Mayor Tom Barrett referenced that flying car scene standing near the same bridge Monday at Summerfest 's Briggs & Stratton stage , announcing a partnership between the massive music festival and Flying Car , the Greater Milwaukee Committee 's three - day technology and innovation series . "
+nothing,sell.01,Milwaukee,,Affirmative,"There is nothing that sells Milwaukee like Summerfest , Barrett said . "
+Milwaukee Mayor Tom Barrett,say.01,There is nothing,,Affirmative,"There is nothing that sells Milwaukee like Summerfest , Barrett said . "
+a partnership between the massive music festival,sell.01,"Flying Car ,",,Affirmative,"The partnership also sells Flying Car , said Don Smiley , president and CEO of Summerfest organizer Milwaukee World Festival Inc . "
+"Don Smiley , president and CEO of",say.01,partnership also sells,,Affirmative,"The partnership also sells Flying Car , said Don Smiley , president and CEO of Summerfest organizer Milwaukee World Festival Inc . "
+Don Smiley,say.01,seek,,Affirmative,"He said both Summerfest and Flying Car seek the same core , young demographic . "
+both Summerfest and,seek.01,"the same core ,",,Affirmative,"He said both Summerfest and Flying Car seek the same core , young demographic . "
+Flying Car,draw.02,attendees,,Affirmative,"Flying Car can essentially leverage Summerfest 's established brand to draw attendees , and both can benefit from the cross-promotion , Smiley said . "
+from,benefit.01,both,,Affirmative,"Flying Car can essentially leverage Summerfest 's established brand to draw attendees , and both can benefit from the cross-promotion , Smiley said . "
+Don Smiley,say.01,Car can essentially leverage,,Affirmative,"Flying Car can essentially leverage Summerfest 's established brand to draw attendees , and both can benefit from the cross-promotion , Smiley said . "
+Summerfest 's,provide.01,weekday admission tickets,to,Affirmative,"As part of the partnership , Summerfest will provide free weekday admission tickets to Flying Car participants . "
+"Robert DeLong ,",host.01,a lab,,Affirmative,"will host â€œFlying Car Dayâ€� at the Briggs & Stratton Big Backyard on Thursday , June 26 , while Robert DeLong , an electronic musician performing at Summerfest , will host a lab and provide an exclusive VIP performance at Flying Car . "
+"Robert DeLong ,",provide.01,an exclusive VIP performance at,,Affirmative,"will host â€œFlying Car Dayâ€� at the Briggs & Stratton Big Backyard on Thursday , June 26 , while Robert DeLong , an electronic musician performing at Summerfest , will host a lab and provide an exclusive VIP performance at Flying Car . "
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

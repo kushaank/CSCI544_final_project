@@ -1,0 +1,20 @@
+1	Você	você	NNP	p2=``	3	nn	_
+2	utiliza	utiliza	NNP	p2=FW	3	nn	_
+3	Windows	windows	NNP	_	0	root	_
+4	7	0	CD	_	3	num	_
+5	,	,	,	_	6	punct	_
+6	com	com	NN	_	11	nsubj	_
+7	o	o	XX	p2=NN	8	nmod	_
+8	IE	ie	NNP	_	11	npadvmod	_
+9	9	0	CD	_	8	num	_
+10	,	,	,	_	8	punct	_
+11	arraste	arraste	VBP	p2=NN	13	nn	_
+12	nosso	nosso	JJ	p2=NN	13	amod	_
+13	site	site	NN	_	14	nn	_
+14	para	para	NN	p2=NNP	3	appos	_
+15	a	a	DT	p2=FW	18	det	_
+16	barra	barra	NNP	p2=NN	18	nn	_
+17	de	de	NNP	p2=FW	18	nn	_
+18	tarefas	tarefas	NNP	p2=VBZ	8	appos	_
+19	.	.	.	_	8	punct	_
+

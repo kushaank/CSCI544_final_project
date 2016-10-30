@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A student pursuing,pursue.01,year B.Tech,,Affirmative,"Nagarajamani M.V. A student pursuing final - year B.Tech , I volunteered for the elections work , because of which I could not cast my vote on the day of polling . "
+I,volunteer.01,for,,Affirmative,"Nagarajamani M.V. A student pursuing final - year B.Tech , I volunteered for the elections work , because of which I could not cast my vote on the day of polling . "
+I,cast.01,my vote,,Affirmative,"Nagarajamani M.V. A student pursuing final - year B.Tech , I volunteered for the elections work , because of which I could not cast my vote on the day of polling . "
+I,ask.01,the police,,Affirmative,"When I asked the police , they asked me to apply for a postal ballot , and guided me to the GHMC office at Malkajgiri . "
+they,ask.02,to apply for,me,Affirmative,"When I asked the police , they asked me to apply for a postal ballot , and guided me to the GHMC office at Malkajgiri . "
+me,apply.01,for,,Affirmative,"When I asked the police , they asked me to apply for a postal ballot , and guided me to the GHMC office at Malkajgiri . "
+Officials there,ask.02,to go to,me,Affirmative,Officials there asked me to go to the Medchal office . 
+I,file.01,a complaint on,,Affirmative,"As I could not go that far , I filed a complaint on the Election Commission website a week ago , and the status of the complaint remains pending . "

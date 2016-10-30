@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Raging fires,force.01,"2,100 people",to flee,Affirmative,"Raging fires forced more than 2,100 people to flee their homes . "
+"2,100 people",flee.01,their homes,,Affirmative,"Raging fires forced more than 2,100 people to flee their homes . "
+Men disaster relief,respond.01,to,,Affirmative,"Texas Baptist Men disaster relief responded to varied needs after the Double Diamond wildfire burned about 2,600 acres in the state 's Panhandle and destroyed 225 homes around Fritch , Texas . "
+the Double Diamond wildfire,burn.01,"2,600 acres in",,Affirmative,"Texas Baptist Men disaster relief responded to varied needs after the Double Diamond wildfire burned about 2,600 acres in the state 's Panhandle and destroyed 225 homes around Fritch , Texas . "
+the Double Diamond wildfire,destroy.01,"225 homes around Fritch , Texas",,Affirmative,"Texas Baptist Men disaster relief responded to varied needs after the Double Diamond wildfire burned about 2,600 acres in the state 's Panhandle and destroyed 225 homes around Fritch , Texas . "
+the fire,force.01,"2,100 people",from,Affirmative,"At its high point , the fire forced more than 2,100 people from their homes . "
+unit from,provided.01,service,to,Affirmative,"The shower and laundry unit from First Baptist Church in Amarillo , Texas , provided service to the community and volunteers as soon as authorities opened the charred area to the public . "
+authorities,open.01,the charred area,,Affirmative,"The shower and laundry unit from First Baptist Church in Amarillo , Texas , provided service to the community and volunteers as soon as authorities opened the charred area to the public . "
+person assessment team and,expect.01,to begin work in,,Affirmative,A six - person assessment team and a cleanout crew from Paramount Baptist Church in Amarillo expected to begin work in the area May 16 . 
+person assessment team and,begin.01,work,,Affirmative,A six - person assessment team and a cleanout crew from Paramount Baptist Church in Amarillo expected to begin work in the area May 16 . 
+Volunteer teams,remove.01,ash planned,,Affirmative,Volunteer teams trained to remove ash planned to start serving the affected region May 19 . 
+Chaplains,accompany.01,teams,,Affirmative,Chaplains were enlisted to accompany the ash - removal and assessment teams . 
+TBM,deploy.01,two skid - steers and volunteers with cutting torches to,,Affirmative,TBM also deployed two skid - steers and volunteers with cutting torches to the area to remove debris . 
+TBM representatives,help.01,staff,,Affirmative,"TBM representatives helped staff a multiagency resource center set up in Fritch by Texas Panhandle Voluntary Organizations Active in Disaster to provide wildfire victims food , short - term assistance and grief counseling . "
+TBM representatives,staff.01,a multiagency resource center set up in Fritch,,Affirmative,"TBM representatives helped staff a multiagency resource center set up in Fritch by Texas Panhandle Voluntary Organizations Active in Disaster to provide wildfire victims food , short - term assistance and grief counseling . "
+by,set.03,a multiagency resource center set up in Fritch,,Affirmative,"TBM representatives helped staff a multiagency resource center set up in Fritch by Texas Panhandle Voluntary Organizations Active in Disaster to provide wildfire victims food , short - term assistance and grief counseling . "
+We,welcome.01,your comments on news and,,Affirmative,We welcome your comments on news and opinion articles on www.abpnews.com and www.abpnews.com/blog . 

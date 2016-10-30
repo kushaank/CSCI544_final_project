@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the man,punch.01,her,,Affirmative,"Posted May 19 , 2014 , at 10:02 a.m. BATH , Maine - The victim of a domestic violence assault was arrested Saturday night for operating under the influence after fleeing the man who allegedly punched her in the nose . "
+Officers,respond.01,to,,Affirmative,Officers responded just after 10 p.m. Saturday to Old Brunswick Road after neighbors reported an argument on the street . 
+neighbors,report.01,an argument on,,Affirmative,Officers responded just after 10 p.m. Saturday to Old Brunswick Road after neighbors reported an argument on the street . 
+Officers,find.01,"James Drum , 30 , of Bath",,Affirmative,"They allegedly found James Drum , 30 , of Bath standing outside his truck , Lt. Robert Savary of the Bath Police Department said Monday . "
+Officers,locate.01,"his girlfriend , 22 ,",,Affirmative,"Officers then located his girlfriend , 22 , also of Bath , driving on Old Bath Road , and noticed blood on her nose and hands . "
+Officers,notice.01,blood,,Affirmative,"Officers then located his girlfriend , 22 , also of Bath , driving on Old Bath Road , and noticed blood on her nose and hands . "
+Drum,assault.01,"The woman , who did not require medical treatment",,Affirmative,"The woman told police Drum had assaulted her , and that she fled on foot and then picked up a car at a relative 's house . "
+"The woman , who did not require medical treatment",flee.01,on foot,,Affirmative,"The woman told police Drum had assaulted her , and that she fled on foot and then picked up a car at a relative 's house . "
+"The woman , who did not require medical treatment",pick.04,a car,,Affirmative,"The woman told police Drum had assaulted her , and that she fled on foot and then picked up a car at a relative 's house . "
+Officers,arrest.01,"The woman , who did not require medical treatment",for operating under,Affirmative,Officers arrested her for operating under the influence . 
+Officers,arrest.01,Drum,for,Affirmative,They then arrested Drum for domestic violence assault . 
+"The woman ,",require.01,medical treatment,,Affirmative,"The woman , who did not require medical treatment , was released from the police station and is scheduled to appear in West Bath District Court on July 8 . "
+you or someone,experience.01,domestic violence,,Affirmative,"If you or someone you know is experiencing domestic violence and would like to talk with an advocate , call 866-834-4357 , TRS 800-787-3224 . "
+you or someone,like.02,to talk with,,Affirmative,"If you or someone you know is experiencing domestic violence and would like to talk with an advocate , call 866-834-4357 , TRS 800-787-3224 . "

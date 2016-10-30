@@ -1,0 +1,34 @@
+1	There	there	EX	_	3	expl	_
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	be	be	VB	pb=be.02	0	root	_
+4	presidential	presidential	JJ	_	5	amod	_
+5	elections	election	NNS	_	3	attr	3:A1=PPT
+6	on	on	IN	_	5	prep	_
+7	25	0	CD	_	8	num	_
+8	May	may	NNP	p2=NN	6	pobj	_
+9	in	in	IN	_	8	prep	_
+10	Ukraine	ukraine	NNP	_	9	pobj	_
+11	,	,	,	_	3	punct	_
+12	and	and	CC	_	3	cc	_
+13	the	the	DT	_	15	det	_
+14	chosen	choose	VBN	p2=JJ|pb=choose.01	15	amod	_
+15	president	president	NN	_	17	nsubj	17:A0=PAG;14:A1=PPT
+16	will	will	MD	_	17	aux	17:AM-MOD
+17	name	name	VB	pb=name.01	3	conj	_
+18	the	the	DT	_	19	det	_
+19	premier	premier	NN	_	17	dobj	17:A1=PPT
+20	.	.	.	_	17	punct	_
+
+1	The	the	DT	_	3	det	_
+2	present	present	JJ	_	3	amod	_
+3	premier	premier	NN	_	6	nsubj	6:A1=PPT
+4	of	of	IN	_	3	prep	_
+5	Ukraine	ukraine	NNP	_	4	pobj	_
+6	is	be	VBZ	pb=be.01	0	root	_
+7	Arseni	arseni	NNP	p2=JJ	8	nn	_
+8	Iatniuk	iatniuk	NNP	_	6	attr	6:A2=PRD
+9	,	,	,	_	8	punct	_
+10	at	at	IN	_	8	prep	_
+11	interim	interim	JJ	p2=NN	10	amod	_
+12	.	.	.	_	6	punct	_
+

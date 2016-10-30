@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Mitt Romney,say.01,ought,,Affirmative,Mitt Romney said a New Hampshire police commissioner who admittedly used the N - word in reference to President Obama ought to resign and say he 's sorry . 
+Hampshire police commissioner,use.01,the N - word,in reference to,Affirmative,Mitt Romney said a New Hampshire police commissioner who admittedly used the N - word in reference to President Obama ought to resign and say he 's sorry . 
+Hampshire police commissioner,say.01,he 's sorry,,Affirmative,Mitt Romney said a New Hampshire police commissioner who admittedly used the N - word in reference to President Obama ought to resign and say he 's sorry . 
+Mr. Romney and,have.03,a home,,Affirmative,"The police commissioner , Robert Copeland , 82 , serves in Wolfeboro , where Mr. Romney and his family have a home . "
+"Robert Copeland , 82",refuse.01,to apologize during,,Affirmative,"Last week , Mr. Copeland stood defiant over his use of the term and refused to apologize during a town meeting . "
+"Robert Copeland , 82",confirm.01,that he used,,Affirmative,He had previously confirmed in an email to other police commissioners that he used the epithet in reference to Mr. Obama earlier this year . 
+"Robert Copeland , 82",use.01,the epithet,in reference to,Affirmative,He had previously confirmed in an email to other police commissioners that he used the epithet in reference to Mr. Obama earlier this year . 
+a Wolfeboro resident,complain.01,about,,Affirmative,His confirmation came after a Wolfeboro resident complained about Mr. Copeland 's use of the word in March to the town manager . 
+a Wolfeboro resident,say.01,that she overheard,,Affirmative,"She said in her complaint that she overheard Mr. Copeland speaking loudly at a local restaurant , Politico reported . "
+a Wolfeboro resident,overhear.01,Mr. Copeland,,Affirmative,"She said in her complaint that she overheard Mr. Copeland speaking loudly at a local restaurant , Politico reported . "
+Politico,report.01,She said in,,Affirmative,"She said in her complaint that she overheard Mr. Copeland speaking loudly at a local restaurant , Politico reported . "

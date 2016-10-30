@@ -1,0 +1,21 @@
+1	Please	please	UH	_	2	intj	2:AM-DIS;7:AM-DIS
+2	refer	refer	VB	pb=refer.01	0	root	_
+3	to	to	IN	_	2	prep	2:A1=PPT
+4	our 	our 	PRP$	p2=JJ	5	poss	_
+5	sitemap	sitemap	NN	p2=NNS	3	pobj	_
+6	or	or	CC	_	2	cc	_
+7	use	use	VB	p2=VBP|pb=use.01	2	conj	_
+8	our	our	PRP$	_	10	poss	_
+9	search	search	NN	_	10	nn	_
+10	field	field	NN	_	7	dobj	7:A1=PPT
+11	on	on	IN	_	7	prep	7:AM-LOC
+12	the	the	DT	_	16	det	_
+13	top	top	JJ	_	16	amod	_
+14	right	right	JJ	_	15	amod	_
+15	hand	hand	NN	_	16	nn	_
+16	side	side	NN	_	11	pobj	_
+17	of	of	IN	_	16	prep	_
+18	the	the	DT	_	19	det	_
+19	page	page	NN	_	17	pobj	_
+20	.	.	.	_	2	punct	_
+

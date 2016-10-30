@@ -1,0 +1,583 @@
+1	Russia	russia	NNP	_	4	poss	_
+2	's	's	POS	p2=VBZ	1	possessive	_
+3	Norilsk	norilsk	NNP	p2=JJ	4	nn	_
+4	Nickel	nickel	NNP	_	13	nsubj	13:A1=PPT
+5	,	,	,	_	4	punct	_
+6	the world	the world	NNP	p2=EX	11	poss	_
+7	's	's	POS	_	6	possessive	_
+8	largest	large	JJS	_	11	amod	_
+9	nickel	nickel	NN	_	11	nn	_
+10	and palladium	and palladium	NN	p2=NNP	11	nn	_
+11	producer	producer	NN	_	4	appos	_
+12	,	,	,	_	4	punct	_
+13	is	be	VBZ	pb=be.01	32	ccomp	32:A1=PPT
+14	in talks	in talks	NNS	p2=,	13	attr	13:A2=PRD
+15	with	with	IN	_	14	prep	_
+16	Russian	russian	JJ	_	17	amod	_
+17	banks	bank	NNS	_	18	nsubj	18:A0
+18	on raising	on raising	VBG	p2=POS|pb=on raising.01	15	pcomp	_
+19	$	$	$	_	21	quantmod	_
+20	1	0	CD	_	21	number	_
+21	billion	#crd#	CD	_	24	nn	_
+22	to finance	to finance	NNP	p2=NN	23	nn	_
+23	a copper	a copper	NNP	p2=NN	24	nn	_
+24	project	project	NN	_	18	dobj	18:A1
+25	,	,	,	_	32	punct	_
+26	Norilsk	norilsk	NNP	_	31	poss	_
+27	's	's	POS	_	26	possessive	_
+28	first	#ord#	JJ	_	31	amod	_
+29	deputy	deputy	NN	_	31	nn	_
+30	chief	chief	NN	p2=JJ	31	nn	_
+31	executive	executive	NN	_	32	nsubj	32:A0
+32	said	say	VBD	pb=say.01	0	root	_
+33	.	.	.	_	32	punct	_
+
+1	Norilsk	norilsk	NNP	p2=RB	12	nsubj	3:A0=PAG;12:A0
+2	,	,	,	_	1	punct	_
+3	controlled	control	VBN	p2=VBD|pb=control.01	1	partmod	_
+4	by tycoon	by tycoon	NNP	p2=IN	7	nn	_
+5	Vladimir	vladimir	NNP	_	7	nn	_
+6	Potanin	potanin	NNP	_	7	nn	_
+7	and aluminum	and aluminum	NNP	p2=NN	8	nn	_
+8	giant	giant	NN	p2=JJ	9	nn	_
+9	RusAl	rusal	NNP	_	3	dobj	3:A1=PPT
+10	,	,	,	_	12	punct	_
+11	recently	recently	RB	_	12	advmod	12:AM-TMP
+12	approved	approve	VBD	p2=VBN|pb=approve.01	0	root	_
+13	the project	the project	JJ	p2=NNP	20	amod	_
+14	to develop	to develop	NNP	p2=IN	15	nn	_
+15	the Bystrinskoye	the bystrinskoye	NNP	p2=NN	20	nn	_
+16	copper	copper	NN	_	17	nn	_
+17	deposit	deposit	NN	_	20	nn	_
+18	in the	in the	NN	p2=NNP	20	nn	_
+19	Zabaikalsk	zabaikalsk	NNP	p2=XX	20	nn	_
+20	region	region	NN	_	12	dobj	12:A1=PPT
+21	as	as	IN	_	12	prep	12:A2=PRD
+22	part	part	NN	_	23	nn	_
+23	of its	of its	NNS	p2=IN	25	nn	_
+24	strategy	strategy	NN	p2=VBP	25	nn	_
+25	update	update	NN	_	21	pobj	_
+26	.	.	.	_	12	punct	_
+
+1	The company	the company	NNP	p2=DT	3	nsubj	3:A0=PAG;12:A0
+2	has	have	VBZ	_	3	aux	_
+3	invested	invest	VBN	pb=invest.01	0	root	_
+4	about	about	IN	p2=RB	7	advmod	_
+5	$	$	$	_	7	quantmod	_
+6	500	0	CD	_	7	number	_
+7	million	#crd#	CD	_	3	dobj	3:A1=PPT
+8	so	so	RB	_	9	advmod	_
+9	far	far	RB	_	10	advmod	_
+10	and plans	and plans	VBZ	p2=NNPS	12	nsubj	_
+11	to raise	to raise	RB	p2=NNP	10	advmod	_
+12	the remaining	the remaining	VBG	pb=the remaining.01	3	advcl	3:AM-PRD
+13	$	$	$	_	15	quantmod	_
+14	1	0	CD	_	15	number	_
+15	billion	#crd#	CD	_	12	dobj	12:A1
+16	as	as	IN	_	15	prep	_
+17	a non-recourse	a non-recourse	JJ	p2=HYPH	18	amod	_
+18	debt	debt	NN	_	16	pobj	_
+19	.	.	.	_	3	punct	_
+
+1	Norilsk	norilsk	JJ	p2=NNP	2	amod	_
+2	plans	plan	NNS	_	5	nsubj	4:A0;5:A0=PPT
+3	to start	to start	WDT	p2=VBP	4	nsubj	4:R-A0
+4	copper	copper	VBP	p2=NN|pb=copper.01	2	rcmod	_
+5	concentrate	concentrate	VB	p2=NN|pb=concentrate.01	0	root	_
+6	production	production	NN	_	7	nn	_
+7	at Bystrinskoye	at bystrinskoye	NNP	p2=NN	8	nsubj	8:A0
+8	in the	in the	VB	p2=POS|pb=in the.01	5	ccomp	5:A1=PPT
+9	third	#ord#	JJ	_	10	amod	_
+10	quarter	quarter	NN	_	11	nn	_
+11	of 2017	of 0	NN	p2=NNS	8	dobj	8:A1
+12	.	.	.	_	5	punct	_
+
+1	Annual	annual	JJ	p2=NN	2	amod	_
+2	revenue	revenue	NN	_	4	nsubjpass	4:A1=PPT
+3	is	be	VBZ	_	4	auxpass	_
+4	expected	expect	VBN	pb=expect.01	0	root	_
+5	to exceed	to exceed	:	p2=CD	4	punct	_
+6	$	$	$	_	8	quantmod	_
+7	1	0	CD	_	8	number	_
+8	billion	#crd#	CD	_	4	npadvmod	4:AM-MNR
+9	after	after	IN	_	8	prep	_
+10	reaching	reach	VBG	pb=reach.01	9	pcomp	_
+11	full	full	JJ	_	15	amod	_
+12	capacity	capacity	NN	_	13	nn	_
+13	production	production	NN	_	14	nn	_
+14	of 66,000	of 0	NN	p2=CD	15	nn	_
+15	tons	ton	NNS	_	10	dobj	17:A0=PPT;10:A1=GOL
+16	of copper	of copper	WDT	p2=VBP	17	nsubj	17:R-A0
+17	concentrate	concentrate	VBP	pb=concentrate.01	15	rcmod	_
+18	and 219,000	and 0	CD	p2=VBN	20	num	_
+19	troy	troy	NN	p2=JJ	20	nn	_
+20	ounces	ounce	NNS	_	17	dobj	17:A2
+21	of gold	of gold	MD	p2=VBP	22	aux	22:AM-MOD
+22	concentrate	concentrate	VB	pb=concentrate.01	4	xcomp	4:C-A1
+23	in 2018	in 0	CD	p2=NN	22	dobj	22:A1=PPT
+24	.	.	.	_	4	punct	_
+
+1	Norilsk	norilsk	JJ	p2=NNP	2	amod	_
+2	plans	plan	NNS	_	3	nsubj	3:A0
+3	to develop	to develop	VBP	pb=to develop.01	7	ccomp	7:A1=PPT
+4	the project	the project	NNP	p2=PRP	3	dobj	3:A1
+5	alone	alone	RB	_	4	advmod	_
+6	,	,	,	_	7	punct	_
+7	said	say	VBD	pb=say.01	0	root	_
+8	Norilsk	norilsk	NNP	_	13	poss	_
+9	's	's	POS	_	8	possessive	_
+10	first	#ord#	JJ	_	13	amod	_
+11	deputy	deputy	NN	p2=JJ	13	nn	_
+12	chief	chief	JJ	p2=NN	13	amod	_
+13	executive	executive	NN	_	7	nsubj	7:A0
+14	,	,	,	_	13	punct	_
+15	Pavel	pavel	NNP	p2=VBP	16	nn	_
+16	Fedorov	fedorov	NNP	_	13	appos	_
+17	.	.	.	_	7	punct	_
+
+1	"	"	``	_	3	punct	_
+2	We	we	PRP	_	3	nsubj	3:A0=PAG
+3	believe	believe	VBP	pb=believe.01	18	ccomp	18:A1=PPT
+4	that	that	IN	_	6	complm	_
+5	partners	partner	NNS	_	6	nsubj	6:A1=PPT
+6	are	be	VBP	pb=be.01	3	ccomp	3:A1=PPT
+7	not	not	RB	_	6	neg	6:AM-NEG
+8	necessary	necessary	JJ	_	9	amod	_
+9	for this	for this	NNS	p2=JJ	6	attr	6:A2=PRD;11:A2
+10	project	project	NN	p2=VBP	11	nsubj	11:A0
+11	in the	in the	VBP	p2=JJ|pb=in the.01	9	rcmod	_
+12	current	current	JJ	_	14	amod	_
+13	market	market	NN	_	14	nn	_
+14	conditions	condition	NNS	_	11	dobj	11:A1
+15	,	,	,	_	18	punct	_
+16	"	"	''	_	18	punct	_
+17	he	he	PRP	_	18	nsubj	18:A0=PAG
+18	told	tell	VBD	pb=tell.01	0	root	_
+19	reporters	reporter	NNS	_	18	dobj	18:A2=GOL
+20	Friday	friday	NNP	_	21	nn	_
+21	in comments	in comments	NNS	p2=NNPS	22	nsubj	22:A0
+22	approved	approve	VBD	p2=VBN|pb=approve.01	18	ccomp	18:AM-TMP
+23	for publication	for publication	NNP	p2=NN	24	nn	_
+24	Monday	monday	NNP	_	22	dobj	22:A1=PPT
+25	.	.	.	_	18	punct	_
+
+1	London	london	NNP	_	2	nn	_
+2	copper	copper	NN	_	3	nsubj	3:A0
+3	hit	hit	VBD	pb=hit.01	0	root	_
+4	its	its	PRP$	_	7	poss	_
+5	highest	high	JJS	p2=RBS	7	amod	_
+6	in 11	in 0	NN	p2=CD	7	nn	_
+7	weeks	week	NNS	_	3	dobj	3:A1=GOL
+8	on Monday	on monday	NNP	p2=RB	3	npadvmod	3:AM-TMP
+9	as	as	IN	_	11	mark	_
+10	China	china	NNP	_	11	nsubj	11:A0=PAG;17:A0
+11	pledged	pledge	VBD	pb=pledge.01	3	advcl	3:AM-TMP
+12	to quicken	to quicken	VBN	p2=NNP|pb=to quicken.01	15	amod	_
+13	the pace	the pace	NN	p2=DT	15	nn	_
+14	of financial	of financial	NN	p2=JJ	15	nn	_
+15	reform	reform	NN	_	11	dobj	11:A2=PPT;12:A2
+16	,	,	,	_	11	punct	_
+17	supporting	support	VBG	pb=support.01	11	advcl	11:AM-ADV
+18	growth	growth	NN	_	17	dobj	17:A1
+19	in demand	in demand	RB	p2=NN	20	amod	_
+20	for commodities	for commodities	NNS	p2=CC	18	conj	_
+21	as	as	IN	_	20	prep	_
+22	global	global	JJ	_	24	amod	_
+23	exchange	exchange	NN	_	24	nn	_
+24	supplies	supply	NNS	p2=VBZ	27	nsubj	_
+25	of the	of the	POS	p2=-RRB-	24	possessive	_
+26	metal	metal	NN	_	27	nn	_
+27	dry	dry	JJ	p2=RB	21	pobj	_
+28	up	up	RP	p2=RB	27	prt	_
+29	.	.	.	_	3	punct	_
+
+1	Norilsk	norilsk	NNP	p2=RB	2	nsubj	2:A0
+2	said	say	VBD	pb=say.01	0	root	_
+3	it	it	PRP	_	4	nsubj	4:A0=PAG
+4	planned	plan	VBD	pb=plan.01	2	ccomp	2:A1=PPT
+5	to suspend	to suspend	TO	p2=NN	6	nn	_
+6	production	production	NN	p2=VB	7	nn	_
+7	at its	at its	NNS	p2=VBZ	8	npadvmod	_
+8	old	old	JJ	_	12	amod	_
+9	Nickel	nickel	NN	p2=NNP	10	nn	_
+10	plant	plant	NN	_	12	nn	_
+11	in the	in the	NN	p2=DT	12	nn	_
+12	town	town	NN	_	15	nn	_
+13	of Norilsk	of norilsk	NNP	p2=IN	15	nn	_
+14	by 2016	by 2016	NNP	p2=VBD	15	nn	_
+15	and to	and to	NNP	p2=TO	16	nsubj	16:A0=PAG
+16	compensate	compensate	VBP	p2=VB|pb=compensate.01	2	ccomp	_
+17	the plant	the plant	NNP	p2=PRP	19	poss	_
+18	's	's	POS	_	17	possessive	_
+19	production	production	NN	_	16	dobj	16:A2=GOL
+20	with	with	IN	_	19	prep	_
+21	other	other	JJ	_	22	amod	_
+22	assets	asset	NNS	_	20	pobj	_
+23	.	.	.	_	2	punct	_
+
+1	Norilsk	norilsk	NNP	p2=NN	2	nsubj	2:A1=PPT
+2	is	be	VBZ	pb=be.01	0	root	_
+3	currently	currently	RB	_	2	advmod	2:AM-TMP
+4	in talks	in talks	NNS	p2=VBZ	2	attr	2:A2=PRD
+5	with	with	IN	_	4	prep	_
+6	the government	the government	NN	p2=NNP	7	nn	_
+7	to share	to share	NN	p2=NNP	8	nn	_
+8	the up	the up	NN	p2=,	5	pobj	_
+9	to 4.5	to 0	CD	p2=VBD	10	number	_
+10	billion	#crd#	CD	_	11	num	_
+11	rubles	ruble	NNS	_	8	appos	_
+12	(	(	-LRB-	_	11	punct	_
+13	$	$	$	_	15	quantmod	_
+14	130	0	CD	_	15	number	_
+15	million	#crd#	CD	_	11	appos	_
+16	)	)	-RRB-	_	11	punct	_
+17	the company	the company	NN	p2=NNP	18	nsubj	_
+18	needs	need	VBZ	p2=NNS	5	pobj	_
+19	to retrain	to retrain	NNP	p2=VBN	20	nn	_
+20	and migrate	and migrate	NNP	p2=RB	22	nn	_
+21	3,500	0	CD	_	22	num	_
+22	people	people	NNS	_	18	dobj	25:A0=PAG
+23	who	who	WP	_	25	nsubj	25:R-A0
+24	currently	currently	RB	_	25	advmod	25:AM-TMP
+25	work	work	VBP	p2=NN|pb=work.01	22	rcmod	_
+26	at the	at the	DT	p2=NN	27	det	_
+27	plant	plant	NN	_	25	dobj	25:A1=PPT
+28	in Russia	in russia	NNP	p2=NN	30	poss	_
+29	's	's	POS	p2=VBZ	28	possessive	_
+30	Arctic	arctic	NNP	_	27	appos	_
+31	.	.	.	_	2	punct	_
+
+1	It	it	PRP	_	3	nsubj	3:A0=PAG;4:A0
+2	also	also	RB	_	3	advmod	3:AM-DIS
+3	plans	plan	VBZ	pb=plan.01	21	ccomp	21:A1=PPT
+4	to use	to use	VB	p2=IN|pb=to use.01	3	xcomp	3:A1=PPT
+5	its	its	PRP$	_	7	poss	_
+6	own	own	JJ	_	7	amod	_
+7	semi-products	semi-products	NNS	p2=NN	4	dobj	4:A1
+8	rather	rather	RB	_	9	advmod	_
+9	than	than	IN	_	7	cc	_
+10	supplies	supply	NNS	_	7	conj	_
+11	from third	from third	IN	p2=POS	10	prep	_
+12	parties	party	NNS	_	16	poss	_
+13	in its	in its	POS	p2=VBZ	12	possessive	_
+14	nickel	nickel	NN	_	15	nn	_
+15	refining	refining	NN	_	16	nn	_
+16	plant	plant	NN	_	11	pobj	_
+17	Harjavalta	harjavalta	NNP	_	18	nn	_
+18	in Finland	in finland	NNP	_	16	appos	_
+19	,	,	,	_	21	punct	_
+20	Fedorov	fedorov	NNP	_	21	nsubj	21:A0
+21	said	say	VBD	pb=say.01	0	root	_
+22	.	.	.	_	21	punct	_
+
+1	Its	its	PRP$	_	5	poss	_
+2	2016	0	CD	_	3	num	_
+3	and 2018	and 0	NN	p2=NNP	5	nn	_
+4	production	production	NN	_	5	nn	_
+5	target	target	NN	_	10	nsubj	7:A1=PPT;10:A1=PPT
+6	,	,	,	_	5	punct	_
+7	announced	announce	VBD	p2=VBN|pb=announce.01	5	partmod	_
+8	in October	in october	NNP	p2=NN	7	npadvmod	7:AM-TMP
+9	,	,	,	_	5	punct	_
+10	remained	remain	VBD	pb=remain.01	14	ccomp	14:A1=PPT
+11	unchanged	unchanged	JJ	_	10	acomp	10:A3=PRD
+12	,	,	,	_	14	punct	_
+13	he	he	PRP	_	14	nsubj	14:A0=PAG
+14	added	add	VBD	pb=add.01	0	root	_
+15	.	.	.	_	14	punct	_
+
+1	Any	any	DT	_	2	det	_
+2	comment	comment	NN	_	3	nsubj	3:A0=PAG
+3	deemed	deem	VBD	p2=VBN|pb=deem.01	0	root	_
+4	non-constructive	non-constructive	JJ	_	7	amod	_
+5	,	,	,	_	7	punct	_
+6	personal	personal	JJ	_	7	amod	_
+7	attacks	attack	NNS	_	3	dobj	3:A1=PPT;15:A1
+8	,	,	,	_	7	punct	_
+9	spam	spam	NN	p2=NNS	7	conj	_
+10	and	and	CC	_	9	cc	_
+11	abuse	abuse	NN	_	9	conj	_
+12	will	will	MD	_	15	aux	15:AM-MOD
+13	not	not	RB	_	15	neg	15:AM-NEG
+14	be	be	VB	_	15	auxpass	_
+15	tolerated	tolerate	VBN	pb=tolerate.01	7	rcmod	_
+16	and	and	CC	_	15	cc	_
+17	will	will	MD	_	18	aux	18:AM-MOD
+18	lead	lead	VB	pb=lead.03	15	conj	_
+19	to	to	IN	_	18	prep	18:A2=PRD
+20	you	you	PRP	_	22	nsubjpass	22:A1=PPT
+21	being	be	VBG	_	22	auxpass	_
+22	banned	ban	VBN	pb=ban.01	19	pcomp	_
+23	from	from	IN	_	22	prep	22:A2=GOL
+24	our	our	PRP$	_	25	poss	_
+25	website	website	NN	_	23	pobj	_
+26	.	.	.	_	3	punct	_
+
+1	The	the	DT	_	4	det	_
+2	Russian	russian	NNP	p2=JJ	3	nn	_
+3	Defense	defense	NNP	_	4	nn	_
+4	Ministry	ministry	NNP	_	6	nsubj	6:A0=PAG;27:A0
+5	has	have	VBZ	_	6	aux	_
+6	confirmed	confirm	VBN	p2=VBD|pb=confirm.01	0	root	_
+7	that	that	IN	_	22	complm	_
+8	the	the	DT	_	11	det	_
+9	ten	#crd#	CD	_	11	num	_
+10	Russian	russian	JJ	p2=NNP	11	amod	_
+11	paratroopers	paratrooper	NNS	_	22	nsubj	12:A1=PPT;22:A1=PPT
+12	captured	capture	VBN	pb=capture.01	11	partmod	_
+13	by	by	IN	_	12	agent	12:A0=PAG
+14	Ukrainian	ukrainian	JJ	_	16	amod	_
+15	security	security	NN	_	16	nn	_
+16	services	service	NNS	_	13	pobj	_
+17	in	in	IN	_	16	prep	_
+18	the	the	DT	_	19	det	_
+19	country	country	NN	_	21	poss	_
+20	's	's	POS	_	19	possessive	_
+21	east	east	NN	p2=NNS	17	pobj	_
+22	are	be	VBP	pb=be.01	6	ccomp	6:A1=PPT
+23	indeed	indeed	RB	_	22	advmod	22:AM-ADV
+24	Russian	russian	JJ	_	22	acomp	22:A2=PRD
+25	,	,	,	_	6	punct	_
+26	but	but	CC	_	6	cc	_
+27	said	say	VBD	pb=say.01	6	conj	_
+28	they	they	PRP	_	29	nsubj	29:A0=PPT
+29	crossed	cross	VBD	pb=cross.02	27	ccomp	27:A1=PPT
+30	the	the	DT	_	31	det	_
+31	border	border	NN	_	29	dobj	29:A1
+32	by	by	IN	_	29	prep	29:AM-MNR
+33	mistake	mistake	NN	_	32	pobj	_
+34	.	.	.	_	6	punct	_
+
+1	Russian	russian	JJ	_	3	amod	_
+2	Foreign	foreign	NNP	_	3	nn	_
+3	Minister	minister	NNP	_	6	nn	_
+4	Sergei	sergei	NNP	_	6	nn	_
+5	Lavrov	lavrov	NNP	_	6	nn	_
+6	on Monday	on monday	NNP	_	7	nsubj	7:A0=PAG
+7	urged	urge	VBD	pb=urge.01	0	root	_
+8	Western	western	JJ	p2=NNP	10	amod	_
+9	and Arab	and arab	NNP	p2=JJ	10	nn	_
+10	governments	government	NNS	_	11	nsubj	11:A0
+11	to overcome	to overcome	VBP	p2=VBD|pb=to overcome.01	7	ccomp	7:A1=PPT
+12	their	their	PRP$	_	15	poss	_
+13	distaste	distaste	JJ	p2=NN	15	amod	_
+14	for Syrian	for syrian	JJ	p2=NNP	15	amod	_
+15	President	president	NNP	_	20	nsubj	_
+16	Bashar	bashar	NNP	_	19	nn	_
+17	al	al	NNP	_	19	hmod	_
+18	-	-	HYPH	_	19	hyph	_
+19	Assad	assad	NNP	_	15	appos	_
+20	and engage	and engage	NN	p2=NNP	11	dobj	11:A1
+21	with	with	IN	_	20	prep	_
+22	him	him	PRP	_	21	pobj	_
+23	to fight	to fight	NNP	p2=,	26	nn	_
+24	Islamic	islamic	NNP	_	25	nn	_
+25	State	state	NNP	_	26	nn	_
+26	insurgents	insurgent	NNS	_	22	appos	_
+27	.	.	.	_	7	punct	_
+
+1	Russia	russia	NNP	_	3	nsubj	3:A0=PAG
+2	has	have	VBZ	_	3	aux	_
+3	granted	grant	VBN	pb=grant.01	17	ccomp	_
+4	asylum	asylum	NN	_	3	iobj	3:A2
+5	to Lithuanian	to lithuanian	NN	p2=JJ	6	nn	_
+6	banker	banker	NN	_	8	nn	_
+7	Vladimir	vladimir	NNP	_	8	nn	_
+8	Romanov	romanov	NNP	_	3	dobj	12:A0=PAG;3:A1
+9	,	,	,	_	8	punct	_
+10	who	who	WP	_	12	nsubjpass	12:R-A2
+11	is	be	VBZ	_	12	auxpass	_
+12	wanted	want	VBN	p2=VBD|pb=want.01	8	rcmod	_
+13	on embezzlement	on embezzlement	NN	p2=JJ	14	nn	_
+14	charges	charge	NNS	_	12	dobj	12:A1=PPT
+15	,	,	,	_	17	punct	_
+16	and has	and has	NNP	p2=''	17	nsubj	17:A0
+17	said	say	VBD	pb=say.01	0	root	_
+18	it	it	PRP	_	21	nsubj	21:A0=PAG
+19	will	will	MD	_	21	aux	21:AM-MOD
+20	not	not	RB	_	21	neg	21:AM-NEG
+21	extradite	extradite	VB	pb=extradite.01	17	ccomp	17:A1=PPT
+22	him	him	PRP	_	21	dobj	21:A1=PPT
+23	.	.	.	_	17	punct	_
+
+1	Yet	yet	RB	p2=CC	10	advmod	10:AM-TMP
+2	another	another	DT	_	4	det	_
+3	two	#crd#	CD	_	4	num	_
+4	McDonald	mcdonald	NNP	p2=NN	7	poss	_
+5	's	's	POS	_	4	possessive	_
+6	restaurants	restaurant	NNS	_	7	nn	_
+7	in Russia	in russia	NNP	p2=NNS	10	nsubjpass	10:A1=PPT
+8	have	have	VBP	_	10	aux	_
+9	been	be	VBN	_	10	auxpass	_
+10	forced	force	VBN	pb=force.01	0	root	_
+11	to shut	to shut	IN	p2=RP	10	prep	10:A2=PRD
+12	their	their	PRP$	_	13	poss	_
+13	doors	door	NNS	_	11	pobj	_
+14	after	after	IN	_	17	mark	_
+15	a sanitation	a sanitation	NN	p2=NNP	16	nn	_
+16	watchdog	watchdog	NN	_	17	nsubj	_
+17	closed	close	VBD	pb=close.01	10	advcl	10:AM-TMP
+18	down	down	RB	p2=RP	17	advmod	17:AM-MNR
+19	four	#crd#	CD	_	20	num	_
+20	outlets	outlet	NNS	_	17	dobj	17:A1=PPT
+21	in Moscow	in moscow	''	p2=RB	10	punct	_
+22	.	.	.	_	10	punct	_
+
+1	Residents	resident	NNS	_	13	nsubj	6:A0=PAG;13:A0=PAG
+2	of Moscow	of moscow	NNP	p2=WRB	5	poss	_
+3	's	's	POS	_	2	possessive	_
+4	Taganka	taganka	NNP	_	5	nn	_
+5	district	district	NN	_	6	nsubj	6:A1=PPT
+6	woke	wake	VBD	pb=wake.02	1	rcmod	_
+7	up	up	RP	_	6	prt	6:C-V
+8	Wednesday	wednesday	NNP	_	9	nn	_
+9	morning	morning	NN	_	6	npadvmod	6:AM-TMP
+10	to find	to find	NNP	p2=NN	11	nn	_
+11	a Ukrainian	a ukrainian	NNP	p2=JJ	12	nn	_
+12	flag	flag	NN	p2=VBP	13	npadvmod	13:AM-TMP
+13	attached	attach	VBD	p2=VBN|pb=attach.01	0	root	_
+14	to the	to the	DT	p2=IN	19	det	_
+15	Soviet	soviet	JJ	_	19	amod	_
+16	star	star	NN	_	17	nn	_
+17	on the	on the	NN	p2=IN	18	nn	_
+18	spire	spire	NN	p2=VBP	19	nn	_
+19	of one	of one	NN	p2=CD	21	nn	_
+20	of the	of the	IN	p2=DT	6	prep	_
+21	area	area	NN	_	25	poss	_
+22	's	's	POS	p2=VBZ	21	possessive	_
+23	iconic	iconic	JJ	p2=FW	25	amod	_
+24	Stalin	stalin	NNP	_	25	nn	_
+25	buildings	building	NNS	_	20	pobj	_
+26	.	.	.	_	13	punct	_
+
+1	Two	#crd#	CD	_	2	num	_
+2	brides	bride	NNS	p2=VBZ	3	nsubj	3:A0=PAG
+3	wed	wed	VBN	p2=VBD|pb=wed.01	0	root	_
+4	in Moscow	in moscow	NNP	p2=VBP	3	dobj	3:A1=PPT
+5	earlier	early	RBR	_	7	advmod	_
+6	this	this	DT	_	7	det	_
+7	month	month	NN	_	3	npadvmod	3:AM-TMP
+8	,	,	,	_	3	punct	_
+9	with	with	IN	_	3	prep	_
+10	teeth	tooth	NNS	p2=NN	12	hmod	_
+11	-	-	HYPH	p2=,	12	hyph	_
+12	grinding	grind	VBG	_	13	amod	_
+13	authorities	authority	NNS	_	9	pobj	_
+14	unable	unable	JJ	_	13	amod	_
+15	to prevent	to prevent	IN	p2=VB	14	prep	_
+16	it	it	PRP	_	15	pobj	_
+17	despite	despite	IN	_	3	prep	3:AM-ADV
+18	a ban	a ban	NNP	p2=JJ	22	nn	_
+19	on same	on same	NNP	p2=CD	21	hmod	_
+20	-	-	HYPH	_	21	hyph	_
+21	sex	sex	NN	p2=NNP	22	nn	_
+22	marriage	marriage	NN	_	17	pobj	_
+23	-	-	:	p2=HYPH	3	punct	_
+24	because	because	IN	_	28	mark	_
+25	one	#crd#	CD	p2=NN	27	num	_
+26	of the	of the	NN	p2=CD	27	nn	_
+27	brides	bride	NNS	p2=VBZ	28	nsubj	28:A1=PPT
+28	was	be	VBD	pb=be.01	3	advcl	3:AM-CAU
+29	a man	a man	NNP	p2=JJ	28	attr	28:A2=PRD
+30	.	.	.	_	3	punct	_
+
+1	As	as	IN	_	3	mark	_
+2	Ukraine	ukraine	NNP	_	3	nsubj	3:A0=PAG
+3	marked	mark	VBD	pb=mark.01	15	advcl	15:AM-TMP
+4	its	its	PRP$	_	7	poss	_
+5	Independence	independence	NNP	_	7	nn	_
+6	Day	day	NNP	_	7	nn	_
+7	on Sunday	on sunday	NNP	_	3	dobj	3:A1=PPT
+8	with	with	IN	_	3	prep	_
+9	a military	a military	NNP	p2=JJ	10	nn	_
+10	march	march	NN	p2=NNP	11	nn	_
+11	in Kiev	in kiev	NNP	p2=NN	8	pobj	_
+12	,	,	,	_	15	punct	_
+13	pro-Moscow	pro-moscow	JJ	p2=WRB	14	amod	_
+14	rebels	rebel	NNS	_	15	nsubj	15:A0=PAG;16:A0
+15	countered	counter	VBD	pb=counter.01	0	root	_
+16	by parading	by parading	VBG	pb=by parading.01	15	xcomp	15:A2=PRD
+17	captured	capture	VBN	p2=VBD|pb=capture.01	19	amod	_
+18	Ukrainian	ukrainian	JJ	_	19	amod	_
+19	troops	troop	NNS	_	16	dobj	16:A1;17:A1=PPT
+20	through	through	IN	_	16	prep	16:AM-DIR
+21	the streets	the streets	NNS	p2=PRP$	20	pobj	_
+22	in Donetsk	in donetsk	NNP	p2=VBP	26	poss	_
+23	's	's	POS	_	22	possessive	_
+24	central	central	JJ	_	26	amod	_
+25	Lenin	lenin	NNP	_	26	nn	_
+26	Square	square	NNP	_	20	pobj	_
+27	.	.	.	_	15	punct	_
+
+1	A children	a children	NNP	p2=NNS	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	fashion	fashion	NN	_	4	nn	_
+4	show	show	NN	p2=VB	5	nn	_
+5	in Moscow	in moscow	NNP	p2=NN	6	nsubj	6:A0=PAG
+6	triggered	trigger	VBD	pb=trigger.01	0	root	_
+7	outrage	outrage	NN	_	6	dobj	6:A1=PPT
+8	among	among	IN	_	7	prep	_
+9	bloggers	blogger	NNS	_	8	pobj	_
+10	after	after	IN	_	6	prep	6:AM-TMP
+11	the show	the show	NNP	p2=RB	10	pobj	_
+12	,	,	,	_	24	punct	_
+13	titled	title	VBN	p2=VBD|pb=title.01	24	advcl	_
+14	"	"	``	p2=''	15	punct	_
+15	Children	child	NNS	p2=NNP	13	oprd	13:A2
+16	of the	of the	IN	p2=''	15	prep	_
+17	World	world	NNP	p2=NN	16	pobj	_
+18	Against	against	IN	p2=NNP	15	prep	_
+19	War	war	NNP	_	18	pobj	_
+20	,	,	,	_	24	punct	_
+21	"	"	''	p2=``	24	punct	_
+22	depicted	depict	VBN	p2=VBD|pb=depict.01	23	amod	_
+23	a child	a child	NNP	p2=NN	24	nsubj	24:A0=PAG;22:A1=PPT
+24	dressed	dress	VBD	p2=VBN|pb=dress.02	7	advcl	_
+25	up	up	RP	_	24	prt	24:C-V
+26	as	as	IN	_	24	prep	24:A2=PRD
+27	Ukraine	ukraine	NNP	_	28	nsubj	28:A0=PAG
+28	holding	hold	VBG	pb=hold.01	26	pcomp	_
+29	a gun	a gun	NNP	p2=VBN	30	nn	_
+30	to her	to her	NNP	p2=DT	31	nn	_
+31	head	head	NN	_	28	dobj	28:A1=PPT
+32	.	.	.	_	6	punct	_
+
+1	Russia	russia	NNP	p2=NN	2	nsubj	2:A0=PAG
+2	ordered	order	VBD	pb=order.01	20	ccomp	_
+3	the	the	DT	_	5	det	_
+4	temporary	temporary	JJ	_	5	amod	_
+5	closure	closure	NN	_	2	dobj	2:A1=GOL
+6	of	of	IN	_	5	prep	_
+7	four	#crd#	CD	_	8	num	_
+8	McDonald	mcdonald	NNP	p2=NN	10	poss	_
+9	's	's	POS	_	8	possessive	_
+10	restaurants	restaurant	NNS	_	6	pobj	_
+11	in	in	IN	_	2	prep	2:AM-TMP
+12	Moscow	moscow	NNP	_	11	pobj	_
+13	on	on	IN	_	2	prep	2:AM-TMP
+14	Wednesday	wednesday	NNP	_	13	pobj	_
+15	,	,	,	_	20	punct	_
+16	a	a	DT	_	17	det	_
+17	decision	decision	NN	_	20	nsubj	19:A1=PPT;20:A1=PPT;26:A1=PPT
+18	it	it	PRP	_	19	nsubj	19:A0
+19	said	say	VBD	pb=say.01	17	rcmod	_
+20	was	be	VBD	pb=be.01	0	root	_
+21	over	over	IN	p2=RB	20	prep	20:A2=PRD
+22	sanitary	sanitary	JJ	p2=NN	23	amod	_
+23	violations	violation	NNS	_	21	pobj	_
+24	but	but	CC	_	20	cc	_
+25	which	which	WDT	_	26	nsubj	26:R-A1
+26	comes	come	VBZ	pb=come.01	20	conj	_
+27	against	against	IN	_	26	prep	26:A3=DIR
+28	a	a	DT	_	29	det	_
+29	backdrop	backdrop	NN	_	27	pobj	_
+30	of	of	IN	_	29	prep	_
+31	worsening	worsen	VBG	pb=worsen.01	30	pcomp	_
+32	U.S	u.s	NNP	_	31	dobj	31:A1=PPT
+33	.	.	.	_	20	punct	_
+
+1	-	-	HYPH	_	2	hyph	_
+2	Russian	russian	JJ	p2=NNP	3	amod	_
+3	ties	tie	NNS	_	0	root	_
+4	.	.	.	_	3	punct	_
+

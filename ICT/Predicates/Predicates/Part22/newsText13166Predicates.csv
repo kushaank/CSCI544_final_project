@@ -1,0 +1,31 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Wong 's,show.01,the letter,the press,Affirmative,Wong shows the press the letter that was distributed to the public in the last two days . 
+by,write.01,a poison letter,,Affirmative,KUCHING : Dato Sri Wong Soon Koh brushes off a poison letter purportedly written by a Parti Tenaga Rakyat Sarawak ( Teras ) member claiming that the party does not welcome Chinese and attacking Wong personally . 
+member claiming,claim.01,party does not welcome Chinese and attacking Wong personally,,Affirmative,KUCHING : Dato Sri Wong Soon Koh brushes off a poison letter purportedly written by a Parti Tenaga Rakyat Sarawak ( Teras ) member claiming that the party does not welcome Chinese and attacking Wong personally . 
+Teras,welcome.01,Chinese,,Affirmative,KUCHING : Dato Sri Wong Soon Koh brushes off a poison letter purportedly written by a Parti Tenaga Rakyat Sarawak ( Teras ) member claiming that the party does not welcome Chinese and attacking Wong personally . 
+Teras,attack.01,Wong 's,,Affirmative,KUCHING : Dato Sri Wong Soon Koh brushes off a poison letter purportedly written by a Parti Tenaga Rakyat Sarawak ( Teras ) member claiming that the party does not welcome Chinese and attacking Wong personally . 
+Wong 's,say.01,he heard about,,Affirmative,Wong said he heard about the letter on Sunday and was given the letter by a community leader yesterday . 
+Wong 's,hear.01,about,,Affirmative,Wong said he heard about the letter on Sunday and was given the letter by a community leader yesterday . 
+by,give.01,the letter that was distributed to the public in the last two days,,Affirmative,Wong said he heard about the letter on Sunday and was given the letter by a community leader yesterday . 
+Wong 's,say.01,it was,,Affirmative,He said it was the first time he was attacked through a poison letter and rubbished it as good only for dustbin because no one would believe the content of the letter . 
+Wong 's,rubbish.01,the first time he was attacked through a poison letter,as good,Affirmative,He said it was the first time he was attacked through a poison letter and rubbished it as good only for dustbin because no one would believe the content of the letter . 
+no one,believe.01,the content of,,Affirmative,He said it was the first time he was attacked through a poison letter and rubbished it as good only for dustbin because no one would believe the content of the letter . 
+people,believe.01,what it is said here,,Affirmative,Will people believe what it is said here ? 
+here,think.01,so,,Affirmative,I do n't think so . 
+the letter that was distributed to the public in the last two days,make.02,him rethink,,Affirmative,"When asked if the letter would make him rethink his involvement in Teras , Wong said he would not be wavered by the letter . "
+the people judge,rethink.01,his involvement in Teras,,Affirmative,"When asked if the letter would make him rethink his involvement in Teras , Wong said he would not be wavered by the letter . "
+Wong 's,say.01,he would not be wavered by,,Affirmative,"When asked if the letter would make him rethink his involvement in Teras , Wong said he would not be wavered by the letter . "
+by,waver.01,the people judge,,Affirmative,"When asked if the letter would make him rethink his involvement in Teras , Wong said he would not be wavered by the letter . "
+the letter that was distributed to the public in the last two days,claim.01,that Teras is,,Affirmative,"The letter also claimed that Teras is a Dayak - based party for the Dayaks only , and that they had never trusted Chinese politicians such as ( Tan Sri ) James Wong Kim Ming , ( Datuk ) Sng , Larry Sng , ( Tan Sri ) Tiong King Sing and Wong Soon Koh . "
+they,trust.02,Chinese politicians,,Affirmative,"The letter also claimed that Teras is a Dayak - based party for the Dayaks only , and that they had never trusted Chinese politicians such as ( Tan Sri ) James Wong Kim Ming , ( Datuk ) Sng , Larry Sng , ( Tan Sri ) Tiong King Sing and Wong Soon Koh . "
+the letter that was distributed to the public in the last two days,say.01,have been proven,,Affirmative,"All of them have been proven to be trouble - makers with selfish personal agenda in Dayak - based parties such as SNAP , PBDS , PRS and SPDP , said the letter . "
+the letter that was distributed to the public in the last two days,attack.01,the Senior Minister,,Affirmative,Attacking the Senior Minister personally the letter called him a selfish politician without any principle and an opportunist . 
+the letter that was distributed to the public in the last two days,call.01,the Senior Minister,a selfish politician without,Affirmative,Attacking the Senior Minister personally the letter called him a selfish politician without any principle and an opportunist . 
+paragraph letter,point.02,can never be,,Affirmative,The seven - paragraph letter also pointed out that Chinese in Teras can never be the President . 
+Koh,need.01,your numbers,,Affirmative,Soon Koh needs your numbers because he wants to retain his ministerial post . 
+Koh,want.01,to retain,,Affirmative,Soon Koh needs your numbers because he wants to retain his ministerial post . 
+Koh,retain.01,his ministerial post,,Affirmative,Soon Koh needs your numbers because he wants to retain his ministerial post . 
+Teras,admit.01,Chinese SUPP members,,Affirmative,"If Teras were to admit Chinese SUPP members , the Chinese will control the party within a decade and Dayak leaders will be sidelined , the letter concluded . "
+the Chinese,control.01,Teras,,Affirmative,"If Teras were to admit Chinese SUPP members , the Chinese will control the party within a decade and Dayak leaders will be sidelined , the letter concluded . "
+the letter that was distributed to the public in the last two days,conclude.01,Chinese will control,,Affirmative,"If Teras were to admit Chinese SUPP members , the Chinese will control the party within a decade and Dayak leaders will be sidelined , the letter concluded . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

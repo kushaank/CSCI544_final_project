@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Antonio police officer,kill.01,a woman,,Affirmative,SAN ANTONIO - A San Antonio police officer shot and killed a woman late Sunday on the West Side . 
+by someone,summon.01,Officers and,to,Affirmative,Officers and emergency medical technicians were summoned to a home in the 7600 block of U.S. 90 by someone who reported a woman was cutting herself with a knife . 
+someone,report.01,woman was cutting herself with,,Affirmative,Officers and emergency medical technicians were summoned to a home in the 7600 block of U.S. 90 by someone who reported a woman was cutting herself with a knife . 
+a woman,cut.03,a woman,,Affirmative,Officers and emergency medical technicians were summoned to a home in the 7600 block of U.S. 90 by someone who reported a woman was cutting herself with a knife . 
+Sheila Vawter,meet.02,the officer,,Affirmative,"Sheila Vawter met the officer in a bedroom , brandishing a large fishing knife , according to an SAPD release . "
+Sheila Vawter,brandish.01,a large fishing knife,,Affirmative,"Sheila Vawter met the officer in a bedroom , brandishing a large fishing knife , according to an SAPD release . "
+"Vawter , 44 , advanced on",tell.01,to drop,her,Affirmative,"Vawter , 44 , advanced on the officer , who backed away and told her to drop the knife , according to police . "
+Sheila Vawter,drop.05,"a large fishing knife , ''",,Affirmative,"Vawter , 44 , advanced on the officer , who backed away and told her to drop the knife , according to police . "
+"Vawter , 44",keep.02,coming toward Moya,,Affirmative,"Vawter kept coming toward Moya until he could not retreat any further , police said . "
+"Vawter , 44",retreat.01,any,,Affirmative,"Vawter kept coming toward Moya until he could not retreat any further , police said . "
+Alexander Moya,fire.01,one shot,,Affirmative,"Moya fired one shot from his service pistol , hitting Vawter in the chest , police said . "
+Alexander Moya,hit.01,Vawter,,Affirmative,"Moya fired one shot from his service pistol , hitting Vawter in the chest , police said . "
+police,say.01,Moya fired,,Affirmative,"Moya fired one shot from his service pistol , hitting Vawter in the chest , police said . "
+Involved Shooting Team,investigate.01,the incident,,Affirmative,The department 's Officer - Involved Shooting Team is investigating the incident . 

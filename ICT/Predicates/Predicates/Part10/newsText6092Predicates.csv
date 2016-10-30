@@ -1,0 +1,57 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+City man alleged,expose.01,himself,to,Affirmative,"BAY CITY , MI - A 44 - year - old Bay City man alleged to have twice exposed himself to McDonald 's employees has withdrawn his plea and is now heading to trial . "
+"BAY CITY ,",withdraw.01,his plea,,Affirmative,"BAY CITY , MI - A 44 - year - old Bay City man alleged to have twice exposed himself to McDonald 's employees has withdrawn his plea and is now heading to trial . "
+"BAY CITY ,",head.02,to trial,,Affirmative,"BAY CITY , MI - A 44 - year - old Bay City man alleged to have twice exposed himself to McDonald 's employees has withdrawn his plea and is now heading to trial . "
+Cory D. Peterson,request.01,to withdraw,,Affirmative,"Cory D. Peterson on Monday , May 19 , appeared before Bay County Circuit Judge Harry P. Gill and requested to withdraw his previous no contest plea to a charge of aggravated indecent exposure , a high - court misdemeanor . "
+Harry P. Gill,sentence.01,Peterson,,Affirmative,"Gill was initially scheduled to sentence Peterson on Monday , April 21 , but indicated he would n't follow a sentencing agreement of one year in jail and probation after learning of the defendant 's 2002 conviction of fourth - degree criminal sexual conduct . "
+Harry P. Gill,indicate.01,he would n't follow,,Affirmative,"Gill was initially scheduled to sentence Peterson on Monday , April 21 , but indicated he would n't follow a sentencing agreement of one year in jail and probation after learning of the defendant 's 2002 conviction of fourth - degree criminal sexual conduct . "
+Harry P. Gill,follow.02,a sentencing agreement of,,Affirmative,"Gill was initially scheduled to sentence Peterson on Monday , April 21 , but indicated he would n't follow a sentencing agreement of one year in jail and probation after learning of the defendant 's 2002 conviction of fourth - degree criminal sexual conduct . "
+Gill,revoke.01,bond,,Affirmative,Gill revoked Peterson 's bond at that time and Peterson has been in the Bay County Jail ever since . 
+Harry P. Gill,sentence.01,Harry P. Gill,,Affirmative,"Gill was to sentence Peterson on Monday , but Peterson requested his plea be withdrawn due to Gill 's prior indication that he would deviate from the sentencing agreement . "
+Harry P. Gill,request.01,plea be withdrawn due to,,Affirmative,"Gill was to sentence Peterson on Monday , but Peterson requested his plea be withdrawn due to Gill 's prior indication that he would deviate from the sentencing agreement . "
+Harry P. Gill,deviate.01,from,,Affirmative,"Gill was to sentence Peterson on Monday , but Peterson requested his plea be withdrawn due to Gill 's prior indication that he would deviate from the sentencing agreement . "
+"attorney ,",seek.01,to have,,Affirmative,"Peterson 's attorney , Todd H. Nye , also sought to have his client 's case remanded to Bay County District Court for a preliminary examination , which Peterson previously waived . "
+"attorney ,",have.04,case remanded to,,Affirmative,"Peterson 's attorney , Todd H. Nye , also sought to have his client 's case remanded to Bay County District Court for a preliminary examination , which Peterson previously waived . "
+Harry P. Gill,waive.01,"a preliminary examination ,",,Affirmative,"Peterson 's attorney , Todd H. Nye , also sought to have his client 's case remanded to Bay County District Court for a preliminary examination , which Peterson previously waived . "
+Harry P. Gill,deny.01,this request,,Affirmative,Gill denied this request . 
+Todd H. Nye,request.01,client be given,,Affirmative,"Nye also requested his client be given a bond , saying that since he was released from prison in 2006 , he has been an upstanding citizen . "
+Todd H. Nye,say.01,", he has been",,Affirmative,"Nye also requested his client be given a bond , saying that since he was released from prison in 2006 , he has been an upstanding citizen . "
+Nye,say.01,has been,,Affirmative,"has been very good , Nye said . "
+Harry P. Gill,agree.01,to give Peterson,,Affirmative,"Gill agreed to give Peterson a bond , setting it at $ 50,000 cash . "
+Harry P. Gill,give.01,a bond,Peterson,Affirmative,"Gill agreed to give Peterson a bond , setting it at $ 50,000 cash . "
+Harry P. Gill,set.01,it,at,Affirmative,"Gill agreed to give Peterson a bond , setting it at $ 50,000 cash . "
+Gill,say.01,I am,,Affirmative,"I am very concerned about Mr. Peterson 's past history , Gill said . "
+The thing,concern.02,me,,Affirmative,The thing that really concerns me the most ... 
+I,find.02,that to be,,Affirmative,I found that to be exceedingly predatory . 
+a girl,spend.02,the night,,Affirmative,"In the 2002 matter , a girl who was friends with Peterson 's daughter spent the night at Peterson 's house . "
+Peterson,molest.01,her,,Affirmative,"She awoke to Peterson molesting her , court records show . "
+court records,show.01,She awoke to,,Affirmative,"She awoke to Peterson molesting her , court records show . "
+Peterson,post.01,the bond,,Affirmative,"If Peterson posts the bond , he must wear an electronic tether , Gill ordered . "
+Harry P. Gill,wear.01,an electronic tether,,Affirmative,"If Peterson posts the bond , he must wear an electronic tether , Gill ordered . "
+Gill,order.01,", he must wear",,Affirmative,"If Peterson posts the bond , he must wear an electronic tether , Gill ordered . "
+police,respond.01,to,,Affirmative,"8 , when police responded to a call of a male subject masturbating in the drive - through of the McDonald 's at 314 Washington Ave . "
+old female manager,tell.01,that she collected,officers,Affirmative,The 24 - year - old female manager told officers that she collected the customer 's money after he ordered a McDouble . 
+she,collect.01,money,,Affirmative,The 24 - year - old female manager told officers that she collected the customer 's money after he ordered a McDouble . 
+Harry P. Gill,order.01,a McDouble,,Affirmative,The 24 - year - old female manager told officers that she collected the customer 's money after he ordered a McDouble . 
+she,give.01,his change,him,Affirmative,"When she went to give him his change , she saw his privates were exposed and he was touching himself , she told police . "
+she,see.01,privates were exposed and,,Affirmative,"When she went to give him his change , she saw his privates were exposed and he was touching himself , she told police . "
+he,touch.01,the same customer,,Affirmative,"When she went to give him his change , she saw his privates were exposed and he was touching himself , she told police . "
+I,see.01,it,,Affirmative,"I was in shock when I saw it , the woman told officers . "
+the woman,tell.01,I was in shock,officers,Affirmative,"I was in shock when I saw it , the woman told officers . "
+He,say.01,Have,,Affirmative,"He said , ' Have a nice day . "
+the same customer,place.01,another order,,Affirmative,"A few minutes later , the same customer came back , placed another order and exposed himself to another female employee , the manager told police . "
+the same customer,expose.01,himself,to,Affirmative,"A few minutes later , the same customer came back , placed another order and exposed himself to another female employee , the manager told police . "
+The manager,call.02,911,,Affirmative,"The manager called 911 and had her employee stall the customer by having him park , telling him they were cooking his fries . "
+The manager,have.03,employee stall,,Affirmative,"The manager called 911 and had her employee stall the customer by having him park , telling him they were cooking his fries . "
+her employee,stall.01,the customer,,Affirmative,"The manager called 911 and had her employee stall the customer by having him park , telling him they were cooking his fries . "
+her employee,have.04,him park,,Affirmative,"The manager called 911 and had her employee stall the customer by having him park , telling him they were cooking his fries . "
+they,cook.01,his fries,,Affirmative,"The manager called 911 and had her employee stall the customer by having him park , telling him they were cooking his fries . "
+Responding officers,find.01,Peterson sitting in,,Affirmative,Responding officers found Peterson sitting in his parked truck in the fast food restaurant 's lot . 
+police,note.01,jeans were zipped and,,Affirmative,"His jeans were zipped and his belt fastened , police noted in their reports . "
+Peterson,say.01,he went through,,Affirmative,Peterson said he went through the drive - through twice but denied exposing himself . 
+he,deny.01,exposing himself,,Affirmative,Peterson said he went through the drive - through twice but denied exposing himself . 
+he,expose.01,himself,,Affirmative,Peterson said he went through the drive - through twice but denied exposing himself . 
+Officers,arrest.01,him,,Affirmative,Officers arrested him at the scene . 
+you,upload.01,all content,,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 
+you,submit.01,all content,to,Affirmative,Community Rules apply to all content you upload or otherwise submit to this site . 

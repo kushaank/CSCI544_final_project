@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the U.S. Department of Agriculture,confirm.01,office recently made,,Affirmative,"Now the U.S. Department of Agriculture has confirmed that the same CBP office recently made a first-in-the-nation pest discovery when they intercepted a moth , Nemapogon gersimovi , while inspecting a shipment of bulk organic soybeans from China . "
+they,intercept.01,"a moth ,",,Affirmative,"Now the U.S. Department of Agriculture has confirmed that the same CBP office recently made a first-in-the-nation pest discovery when they intercepted a moth , Nemapogon gersimovi , while inspecting a shipment of bulk organic soybeans from China . "
+the same CBP office,inspect.01,a shipment of,,Affirmative,"Now the U.S. Department of Agriculture has confirmed that the same CBP office recently made a first-in-the-nation pest discovery when they intercepted a moth , Nemapogon gersimovi , while inspecting a shipment of bulk organic soybeans from China . "
+a moth,pose.02,a significant agriculture threat,,Affirmative,"This moth could pose a significant agriculture threat because they are known to feed on seeds and grains , reducing farmers ' yields . "
+CBP,forward.01,the specimen,to,Affirmative,CBP then forwarded the specimen to a USDA entomologist for identification . 
+CBP,issue.01,an Emergency Action Notification,to,Affirmative,CBP issued an Emergency Action Notification to the importer requiring the shipment to be re-exported or destroyed . 
+the importer requiring,require.01,the shipment,,Affirmative,CBP issued an Emergency Action Notification to the importer requiring the shipment to be re-exported or destroyed . 
+the importer requiring the shipment to be re-exported or destroyed,choose.01,to re-export,,Affirmative,The importer chose to re-export the shipment . 
+the importer requiring the shipment to be re-exported or destroyed,re-export.01,the shipment to be re-exported or destroyed,,Affirmative,The importer chose to re-export the shipment . 
+CBP agriculture specialists,have.03,extensive training and experience in,,Affirmative,CBP agriculture specialists have extensive training and experience in the biological sciences and agricultural inspection . 
+CBP agriculture specialists,inspect.01,million people,,Affirmative,"On a typical day nationally , they inspect almost 1 million people as well as air and sea cargoes imported to the United States , and they seize 4,379 prohibited meats , plant materials , and animal products , including 440 insect pests . "
+CBP agriculture specialists,seize.01,"4,379 prohibited meats ,",,Affirmative,"On a typical day nationally , they inspect almost 1 million people as well as air and sea cargoes imported to the United States , and they seize 4,379 prohibited meats , plant materials , and animal products , including 440 insect pests . "
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

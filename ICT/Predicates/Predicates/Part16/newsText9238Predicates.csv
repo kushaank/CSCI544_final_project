@@ -1,0 +1,44 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+12-year-old,bully.01,her daughter,,Affirmative,Woman arrested for grabbing 12 - year - old by the THROAT at elementary school because he was bullying her daughter ' may have attacked the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child . 
+official,say.01,' may have attacked,,Affirmative,Woman arrested for grabbing 12 - year - old by the THROAT at elementary school because he was bullying her daughter ' may have attacked the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child . 
+a mother suspected of attacking,attack.01,old boy,,Affirmative,Woman arrested for grabbing 12 - year - old by the THROAT at elementary school because he was bullying her daughter ' may have attacked the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child . 
+her daughter,say.01,was bullying,,Affirmative,Woman arrested for grabbing 12 - year - old by the THROAT at elementary school because he was bullying her daughter ' may have attacked the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child . 
+a mother suspected of attacking,target.01,the wrong child,,Affirmative,Woman arrested for grabbing 12 - year - old by the THROAT at elementary school because he was bullying her daughter ' may have attacked the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12 - year - old boy she said was bullying her daughter at school may have targeted the wrong child . 
+Lt. Steve Brown,say.01,that investigators have not found anything linking,,Affirmative,Sonoma County sheriff 's Lt. Steve Brown said Monday that investigators have not found anything linking the boy to the bullying allegations . 
+investigators,find.01,anything linking,,Affirmative,Sonoma County sheriff 's Lt. Steve Brown said Monday that investigators have not found anything linking the boy to the bullying allegations . 
+deputies,say.01,she came to,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+a child,grab.01,a 12-year-old boy she said,,Affirmative,"The girl 's mom , Delia Garcia - Bratcher , was arrested Saturday on suspicion of inflicting injury on a child after sheriff 's deputies say she came to Olivet Elementary Charter School in Santa Rosa on Friday and grabbed the boy by the throat . "
+year - old,assault.01,a 12-year-old boy she said,,Affirmative,"The 30 - year - old is alleged to have assaulted the boy in front of a number of children , the Sonoma County Sheriff 's office added in a statement . "
+office,add.01,old is alleged,,Affirmative,"The 30 - year - old is alleged to have assaulted the boy in front of a number of children , the Sonoma County Sheriff 's office added in a statement . "
+No adult,see.01,the confrontation,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+Garcia - Bratcher,check.04,with,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+authorities,say.01,adult saw,,Affirmative,"No adult saw the confrontation , and Garcia - Bratcher apparently had not checked in with the school office before coming on campus , authorities said . "
+The young witnesses,tell.01,mother threatened,a deputy,Affirmative,The young witnesses later told a deputy the mother threatened the boy about bullying her daughter . 
+a mother suspected of attacking a 12-year-old boy she said,threaten.01,about bullying,the boy,Affirmative,The young witnesses later told a deputy the mother threatened the boy about bullying her daughter . 
+district officials,investigate.01,the possible bullying,,Affirmative,School district officials are also investigating the possible bullying . 
+a Facebook page,say.01,it belonged to Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that ' the truth will be told . "
+Facebook,belong.01,to Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that ' the truth will be told . "
+a Delia Bratcher,post.01,that she was hurt by,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that ' the truth will be told . "
+by,hurt.01,a Delia Bratcher,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that ' the truth will be told . "
+a Delia Bratcher,assert.03,truth will be told,,Affirmative,"But on a Facebook page that said it belonged to Bratcher , she posted that she was hurt by the accusation and asserted that ' the truth will be told . "
+Lt. Mark Essick,tell.01,that deputies were looking into,Rosa Press - Democrat,Affirmative,' Lt. Mark Essick told the Santa Rosa Press - Democrat that deputies were looking into the bullying claims but have not substantiated them . 
+sheriff 's deputies,look.01,into,,Affirmative,' Lt. Mark Essick told the Santa Rosa Press - Democrat that deputies were looking into the bullying claims but have not substantiated them . 
+sheriff 's deputies,substantiate.01,sheriff 's deputies,,Affirmative,' Lt. Mark Essick told the Santa Rosa Press - Democrat that deputies were looking into the bullying claims but have not substantiated them . 
+a parent,go.05,storming on campus,,Affirmative,"' It 's pretty unreasonable for a parent to go storming on campus like this , ' Essick said . "
+a parent,storm.02,on campus,,Affirmative,"' It 's pretty unreasonable for a parent to go storming on campus like this , ' Essick said . "
+Lt. Mark Essick,say.01,It 's,,Affirmative,"' It 's pretty unreasonable for a parent to go storming on campus like this , ' Essick said . "
+You,see.01,fingerprints,,Affirmative,' You can see fingerprints on his neck . 
+"One Twitter user , identified",write.01,mom would 've done,,Affirmative,"One Twitter user , identified only as Greg , wrote : ' My mom would 've done the same thing 25 years ago and did . "
+Delia Garcia-Bratcher,do.02,the same thing,,Affirmative,"One Twitter user , identified only as Greg , wrote : ' My mom would 've done the same thing 25 years ago and did . "
+the wrong kid ' A Northern California sheriff 's official says a mother suspected of attacking a 12-year-old boy she said was bullying her daughter at school,get.01,the message,,Affirmative,Hopefully the kid will get the message . 
+Matthew Hayward,write.01,I have,,Affirmative,"' Matthew Hayward wrote on Santa Rosa 's The Press Democrat newspaper comment section : ' I have three kids , and the idea of them getting pushed around makes me upset . "
+My,have.03,three kids,,Affirmative,"' Matthew Hayward wrote on Santa Rosa 's The Press Democrat newspaper comment section : ' I have three kids , and the idea of them getting pushed around makes me upset . "
+the idea of,make.02,me upset,,Affirmative,"' Matthew Hayward wrote on Santa Rosa 's The Press Democrat newspaper comment section : ' I have three kids , and the idea of them getting pushed around makes me upset . "
+we,set.02,the example for children,,Affirmative,"' However , we , as adults , have to set the example for children . "
+The kids,witness.01,this event,,Affirmative,' The kids who witnessed this event will think vigilante justice is ok . 
+The kids,think.01,is ok,,Affirmative,' The kids who witnessed this event will think vigilante justice is ok . 
+She,make.02,her point,,Affirmative,"She could have made her point , without putting her hands on the kid . "
+She,put.01,her own hands,on,Affirmative,"She could have made her point , without putting her hands on the kid . "
+She,resort.01,"to violence ,",,Affirmative,"She resorted to violence , which puts her on par with the bully . "
+"violence ,",put.01,She,on par with,Affirmative,"She resorted to violence , which puts her on par with the bully . "
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

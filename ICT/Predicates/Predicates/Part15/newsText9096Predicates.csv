@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A Philadelphia man running for,run.02,for,,Affirmative,PHILADELPHIA -- A Philadelphia man running for a seat in the Pennsylvania House has a criminal record . 
+PHILADELPHIA --,have.03,a criminal record,,Affirmative,PHILADELPHIA -- A Philadelphia man running for a seat in the Pennsylvania House has a criminal record . 
+The Philadelphia Daily News,report.01,pleaded guilty to,,Affirmative,"The Philadelphia Daily News reported that Dennis Kilderry , 38 , pleaded guilty to four charges in an attempted auto theft in 1994 . "
+"Dennis Kilderry , 38 ,",plead.02,guilty to,,Affirmative,"The Philadelphia Daily News reported that Dennis Kilderry , 38 , pleaded guilty to four charges in an attempted auto theft in 1994 . "
+"Dennis Kilderry , 38 ,",attempt.01,an attempted auto theft,,Affirmative,"The Philadelphia Daily News reported that Dennis Kilderry , 38 , pleaded guilty to four charges in an attempted auto theft in 1994 . "
+Attorney David Heckler,say.01,appear,,Affirmative,Bucks County District Attorney David Heckler said two of the charges appear to be felonies . 
+The Pennsylvania Constitution,forbid.01,from holding office,,Affirmative,The Pennsylvania Constitution forbids felons from holding office . 
+felons,hold.04,office,,Affirmative,The Pennsylvania Constitution forbids felons from holding office . 
+Dennis Kilderry,tell.01,defender told him in 1994,the newspaper,Affirmative,Kilderry told the newspaper his public defender told him in 1994 that he was pleading guilty to misdemeanor charges . 
+his public defender,tell.01,that he was pleading guilty to,him,Affirmative,Kilderry told the newspaper his public defender told him in 1994 that he was pleading guilty to misdemeanor charges . 
+his public defender,plead.02,guilty to,,Affirmative,Kilderry told the newspaper his public defender told him in 1994 that he was pleading guilty to misdemeanor charges . 
+Dennis Kilderry,say.01,he made,,Affirmative,Kilderry said he made a mistake when he was a teenager but has moved on with his life . 
+Officials,issue.01,two arrest warrants for Kilderry,,Affirmative,"Separately , Canadian officials issued two arrest warrants for Kilderry in 2011 stemming from charges in a hit - and - run car accident . "
+Dennis Kilderry,call.01,two of the charges,summary violation,Affirmative,"Kilderry called it a traffic summary violation and said he paid a fine in 2012 , ending the matter . "
+Dennis Kilderry,say.01,he paid,,Affirmative,"Kilderry called it a traffic summary violation and said he paid a fine in 2012 , ending the matter . "
+Dennis Kilderry,pay.01,a fine,,Affirmative,"Kilderry called it a traffic summary violation and said he paid a fine in 2012 , ending the matter . "
+Dennis Kilderry,end.01,the matter,,Affirmative,"Kilderry called it a traffic summary violation and said he paid a fine in 2012 , ending the matter . "
+Officials,say.01,people died in,,Affirmative,INDIANA -- Officials said three people died in a fire at a trailer home . 
+KDKA - TV,report.01,that neighbors heard,,Affirmative,KDKA - TV reported that neighbors heard an explosion before the home in Indiana County caught fire around 3:30 a.m. Sunday . 
+neighbors,hear.01,caught fire around,,Affirmative,KDKA - TV reported that neighbors heard an explosion before the home in Indiana County caught fire around 3:30 a.m. Sunday . 
+an explosion before,catch.01,fire,,Affirmative,KDKA - TV reported that neighbors heard an explosion before the home in Indiana County caught fire around 3:30 a.m. Sunday . 
+neighbors,say.01,they used axes and shovels,,Affirmative,"Neighbors said they used axes and shovels to reach the home 's occupants , but were forced to retreat due to smoke and flames . "
+neighbors,use.01,axes and shovels,to reach,Affirmative,"Neighbors said they used axes and shovels to reach the home 's occupants , but were forced to retreat due to smoke and flames . "
+neighbors,reach.01,occupants,,Affirmative,"Neighbors said they used axes and shovels to reach the home 's occupants , but were forced to retreat due to smoke and flames . "
+KDKA-TV,say.01,were killed,,Affirmative,KDKA said two adults and a child were killed . 
+fire marshal,investigate.01,the blaze in,,Affirmative,"A state police fire marshal is investigating the blaze in White Township , about 65 miles east of Pittsburgh . "
+Animal control officers,say.01,dogs were seized from,,Affirmative,PHILADELPHIA -- Animal control officers said 17 dogs were seized from the cab of a tractor - trailer in Philadelphia . 
+WPVI - TV,report.01,animals were taken Saturday,,Affirmative,WPVI - TV reported the animals were taken Saturday after police pulled the truck over because of a domestic dispute involving a man and woman inside . 
+police,pull.01,the truck,over,Affirmative,WPVI - TV reported the animals were taken Saturday after police pulled the truck over because of a domestic dispute involving a man and woman inside . 

@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+AN MP,call.03,for,,Affirmative,AN MP has called for an inquiry into claims of sexual abuse at Yarl 's Wood detention centre . 
+select committee,respond.01,to,,Affirmative,"Keith Vaz , MP for Leicester East and chairman of the home affairs select committee , was responding to the allegations that a woman from Pakistan had been sexually assaulted at the centre in Clapham . "
+"Serco ,",run.01,the centre in Clapham,,Affirmative,"Serco , which runs the centre , said it had already investigated the claims . "
+"Serco ,",say.01,it had already investigated,,Affirmative,"Serco , which runs the centre , said it had already investigated the claims . "
+Serco,investigate.01,the claims,,Affirmative,"Serco , which runs the centre , said it had already investigated the claims . "
+Mr Vaz,call.03,for,,Affirmative,Mr Vaz has now called for senior managers at the centre to appear before the select committee . 
+Norman Abusin,tell.01,Sexual contact between residents and,the BBC,Affirmative,"Director of Serco , Norman Abusin , told the BBC : Sexual contact between residents and staff is always completely unacceptable . "
+senior managers,view.02,any complaint of,,Affirmative,We view any complaint of this type of behaviour extremely seriously and have strict procedures for dealing with any such complaints . 
+senior managers,have.03,strict procedures for dealing with,,Affirmative,We view any complaint of this type of behaviour extremely seriously and have strict procedures for dealing with any such complaints . 
+by,investigate.01,the matter,,Affirmative,"When a complaint of sexually inappropriate behaviour between a member of staff and a resident was brought to our attention in January 2011 , the matter was investigated by our own team as well as by the Home Office Professional Standards Unit and Bedfordshire Police . "
+All parties,conclude.01,were false and,,Affirmative,All parties concluded that the allegations made against our employee were false and no criminal charges were brought . 

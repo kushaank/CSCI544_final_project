@@ -1,0 +1,20 @@
+
+Opinions expressed by Forbes Contributors are their own.
+
+I am the Editorial Director for BNK Invest, where I oversee the production of all editorial content. I have been involved in web related ventures and small online businesses for over ten years. I hold a Bachelor of Arts degree from the University of Michigan and a Masters of Science from NYU.
+
+Consistently, one of the more popular stocks people enter into their stock options watchlist at Stock Options Channel is Apple Apple ( NASD: AAPL ). So this week we highlight one interesting put contract, and one interesting call contract, from the June expiration for AAPL.
+
+The put contract our YieldBoost algorithm identified as particularly interesting, is at the $600 strike, which has a bid at the time of this writing of $11.25. Collecting that bid as the premium represents a 1.9% return against the $600 commitment, or a 20.7% annualized rate of return (at Stock Options Channel we call this the YieldBoost).
+
+Selling a put does not give an investor access to AAPL’s upside potential the way owning shares would, because the put seller only ends up owning shares in the scenario where the contract is exercised. So unless Apple sees its shares fall 1% and the contract is exercised (resulting in a cost basis of $588.75 per share before broker commissions, subtracting the $11.25 from $600), the only upside to the put seller is from collecting that premium for the 20.7% annualized rate of return.
+
+Worth considering, is that the annualized 20.7% figure actually exceeds the 2.2% annualized dividend paid by Apple Inc by 18.5%, based on the current share price of $606.15. And yet, if an investor was to buy the stock at the going market price in order to collect the dividend, there is greater downside because the stock would have to lose 1.01% to reach the $600 strike price.
+
+Always important when discussing dividends is the fact that, in general, dividend amounts are not always predictable and tend to follow the ups and downs of profitability at each company. In the case of Apple, looking at the dividend history chart for AAPL below can help in judging whether the most recent dividend is likely to continue, and in turn whether it is a reasonable expectation to expect a 2.2% annualized dividend yield.
+
+Turning to the other side of the option chain, we highlight one call contract of particular interest for the June expiration, for shareholders of Apple ( NASD: AAPL ) looking to boost their income beyond the stock’s 2.2% annualized dividend yield. Selling the covered call at the $610 strike and collecting the premium based on the $12.60 bid, annualizes to an additional 23% rate of return against the current stock price (this is what we at Stock Options Channel refer to as the YieldBoost), for a total of 25.2% annualized rate in the scenario where the stock is not called away. Any upside above $610 would be lost if the stock rises there and is called away, but AAPL shares would have to climb 0.6% from current levels for that to occur, meaning that in the scenario where the stock is called, the shareholder has earned a 2.7% return from this trading level, in addition to any dividends collected before the stock was called.
+
+The chart above, and the stock’s historical volatility, can be a helpful guide in combination with fundamental analysis to judge whether selling the June put or call options highlighted in this article deliver a rate of return that represents good reward for the risks. We calculate the trailing twelve month volatility for Apple Inc (considering the last 251 trading day AAPL historical stock prices using closing values, as well as today’s price of $606.15) to be 24%.
+
+In mid-afternoon trading on Monday, the put volume among S&P 500 components was 707,859 contracts, with call volume at 1.27M, for a put:call ratio of 0.56 so far for the day. Compared to the long-term median put:call ratio of .65, that represents high call volume relative to puts; in other words, buyers are showing a preference for calls in options trading so far today.

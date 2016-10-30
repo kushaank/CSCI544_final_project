@@ -1,0 +1,187 @@
+1	Kyrgyzstan	kyrgyzstan	NNP	_	2	nsubj	2:A0=PAG
+2	has	have	VBZ	pb=have.03	14	ccomp	14:A1=PPT
+3	discussed its	discussed its	JJ	p2=NNS	6	amod	_
+4	potential	potential	JJ	_	6	amod	_
+5	future	future	JJ	p2=NN	6	amod	_
+6	membership	membership	NN	_	2	dobj	2:A1=PPT
+7	in	in	IN	_	6	prep	_
+8	the Customs	the customs	NNP	p2=PRP$	9	nn	_
+9	Union	union	NNP	_	7	pobj	_
+10	,	,	,	_	14	punct	_
+11	 	 	''	p2=NNP	14	punct	_
+12	Elena	elena	NNP	_	13	nn	_
+13	Kosolapova	kosolapova	NNP	_	14	nsubj	14:A0=PAG
+14	writes	write	VBZ	pb=write.01	0	root	_
+15	for	for	IN	_	14	prep	14:A2=GOL
+16	Trend	trend	NNP	p2=NN	15	pobj	_
+17	.	.	.	_	14	punct	_
+
+1	Kyrgyz	kyrgyz	NNP	p2=JJ	3	nn	_
+2	Economic	economic	NNP	_	3	nn	_
+3	Minister	minister	NNP	_	13	nsubj	13:A0=PAG
+4	,	,	,	_	3	punct	_
+5	Temir	temir	NNP	_	6	nn	_
+6	Sariyev	sariyev	NNP	_	3	appos	_
+7	,	,	,	_	3	punct	_
+8	while on	while on	NNP	p2=''	3	appos	_
+9	a	a	DT	_	10	det	_
+10	visit	visit	NN	_	3	appos	_
+11	to	to	IN	p2=TO	10	prep	_
+12	Astana	astana	NNP	_	11	pobj	_
+13	discussed	discuss	VBD	p2=VBN|pb=discuss.01	0	root	_
+14	Kyrgyzstan	kyrgyzstan	NNP	_	20	poss	_
+15	'	'	POS	p2=''	14	possessive	_
+16	s	s	NN	p2=IN	20	nn	_
+17	entry	entry	NN	_	20	nn	_
+18	into the	into the	NNP	p2=VBD	20	nn	_
+19	Customs	customs	NNP	_	20	nn	_
+20	Union	union	NNP	_	13	dobj	13:A1=PPT
+21	with	with	IN	_	13	prep	13:A2=GOL
+22	Kazakhstan	kazakhstan	NNP	_	26	poss	_
+23	's	's	POS	_	22	possessive	_
+24	Deputy	deputy	NNP	_	26	nn	_
+25	Prime	prime	NNP	_	26	nn	_
+26	Minister	minister	NNP	_	21	pobj	_
+27	,	,	,	_	26	punct	_
+28	Bakytzhan	bakytzhan	NNP	_	29	nn	_
+29	Sagintayev	sagintayev	NNP	_	26	appos	_
+30	,	,	,	_	26	punct	_
+31	the	the	DT	_	34	det	_
+32	Kazakh	kazakh	NNP	p2=JJ	34	nn	_
+33	prime	prime	JJ	p2=NN	34	amod	_
+34	minister	minister	NN	_	37	poss	_
+35	's	's	POS	_	34	possessive	_
+36	official	official	JJ	_	37	amod	_
+37	website	website	NN	_	26	appos	_
+38	announced on	announced on	NNP	p2=NN	39	nn	_
+39	May	may	NNP	_	37	appos	_
+40	16	0	CD	_	39	num	_
+41	.	.	.	_	13	punct	_
+
+1	The	the	DT	_	3	det	_
+2	two	#crd#	CD	_	3	num	_
+3	sides	side	NNS	_	6	nsubjpass	6:A1=PPT
+4	discussed	discuss	VBD	p2=VBN	6	auxpass	_
+5	the roadmap	the roadmap	RB	p2=RBS	6	advmod	6:AM-MNR
+6	approved	approve	VBN	pb=approve.01	0	root	_
+7	by	by	IN	_	6	agent	6:A0
+8	the	the	DT	_	10	det	_
+9	Kyrgyz	kyrgyz	NNP	p2=NNPS	10	nn	_
+10	government	government	NN	_	7	pobj	_
+11	earlier	early	RBR	p2=JJR	13	advmod	_
+12	this	this	DT	_	13	det	_
+13	week	week	NN	_	6	npadvmod	6:AM-TMP
+14	for	for	IN	_	6	prep	_
+15	the	the	DT	_	16	det	_
+16	country's entry	country's entry	NN	p2=NNP	14	pobj	_
+17	into	into	IN	_	16	prep	_
+18	the CU	the cu	NNP	p2=PRP	17	pobj	21:A1
+19	,	,	,	_	18	punct	_
+20	which	which	WDT	_	21	nsubj	21:R-A1
+21	consists	consist	VBZ	pb=consist.01	18	rcmod	_
+22	presently of	presently of	NNP	p2=JJ	23	nn	_
+23	Belarus	belarus	NNP	_	21	dobj	21:A2=VSP
+24	,	,	,	_	23	punct	_
+25	Kazakhstan	kazakhstan	NNP	_	23	conj	_
+26	and	and	CC	_	25	cc	_
+27	Russia	russia	NNP	_	25	conj	_
+28	.	.	.	_	6	punct	_
+
+1	Moreover	moreover	RB	_	4	advmod	4:AM-DIS
+2	they	they	PRP	_	4	nsubj	4:A0=PAG
+3	also	also	RB	_	4	advmod	4:AM-ADV
+4	considered	consider	VBD	pb=consider.01	0	root	_
+5	prospects	prospect	NNS	_	4	dobj	4:A1
+6	for	for	IN	_	5	prep	_
+7	trade	trade	NN	_	6	pobj	_
+8	and	and	CC	_	7	cc	_
+9	investment cooperation	investment cooperation	NN	_	7	conj	_
+10	,	,	,	_	5	punct	_
+11	including	include	VBG	_	5	prep	_
+12	the	the	DT	_	15	det	_
+13	operation of	operation of	JJ	p2=CD	15	amod	_
+14	customs	custom	NNS	p2=NN	15	nn	_
+15	posts	post	NNS	_	11	pobj	_
+16	,	,	,	_	15	punct	_
+17	interaction	interaction	NN	_	15	conj	_
+18	in	in	IN	_	17	prep	_
+19	agriculture	agriculture	NN	_	18	pobj	_
+20	and	and	CC	_	19	cc	_
+21	water	water	NN	_	22	nn	_
+22	management	management	NN	_	19	conj	_
+23	,	,	,	_	22	punct	_
+24	immigration	immigration	NN	_	22	conj	_
+25	,	,	,	_	24	punct	_
+26	the	the	DT	_	29	det	_
+27	'	'	``	p2=''	29	punct	_
+28	epizootic	epizootic	JJ	_	29	amod	_
+29	situation	situation	NN	_	24	conj	_
+30	,	,	,	_	29	punct	_
+31	'	'	''	_	29	punct	_
+32	veterinary	veterinary	JJ	_	37	amod	_
+33	and	and	CC	_	32	cc	_
+34	phyto	phyto	NN	p2=RB	36	hmod	_
+35	-	-	HYPH	_	36	hyph	_
+36	sanitary	sanitary	NN	p2=JJ	37	nn	_
+37	security	security	NN	_	29	appos	_
+38	.	.	.	_	4	punct	_
+
+1	«The	«the	DT	p2=NNP	2	det	_
+2	cow	cow	NN	_	9	nsubj	9:A1=PPT
+3	,	,	,	_	9	punct	_
+4	of	of	IN	_	9	prep	9:AM-DIS
+5	course	course	NN	_	4	pobj	_
+6	,	,	,	_	9	punct	_
+7	has	have	VBZ	_	9	aux	_
+8	n't	not	RB	_	9	neg	9:AM-NEG
+9	died	die	VBD	p2=VBN|pb=die.01	0	root	_
+10	yet	yet	RB	p2=CC	9	advmod	9:AM-TMP
+11	,	,	,	_	9	punct	_
+12	but	but	CC	_	9	cc	_
+13	not	not	RB	_	14	neg	_
+14	alive	alive	JJ	_	9	conj	_
+15	already»	already»	RB	p2=''	9	advmod	9:AM-TMP
+16	.	.	.	_	9	punct	_
+
+1	«Soon	«soon	NNP	p2=IN	3	npadvmod	3:AM-DIS
+2	it	it	PRP	_	3	nsubj	3:A1=PAG
+3	comes	come	VBZ	pb=come.12	9	ccomp	_
+4	to	to	IN	_	3	prep	_
+5	the	the	DT	_	6	det	_
+6	absurd	absurd	JJ	p2=NN	4	pobj	_
+7	:	:	:	_	9	punct	_
+8	we	we	PRP	_	9	nsubj	9:A0=PAG;10:A0=PAG
+9	start	start	VBP	pb=start.01	0	root	_
+10	giving	give	VBG	pb=give.01	9	xcomp	9:A1=PPT
+11	orders	order	NNS	_	10	iobj	10:A2=GOL
+12	protocol	protocol	NN	p2=VBP	10	dobj	10:A1=PPT
+13	to	to	TO	_	14	aux	_
+14	call	call	VB	pb=call.01	12	infmod	_
+15	each	each	DT	_	16	det	_
+16	other»	other»	NN	p2=JJ	14	dobj	14:A1=PPT
+17	.	.	.	_	9	punct	_
+
+1	The	the	DT	_	4	det	_
+2	Vice	vice	NNP	_	4	nn	_
+3	Prime	prime	NNP	_	4	nn	_
+4	Minister	minister	NNP	_	8	nsubj	8:A0=PAG
+5	Valery	valery	NNP	_	6	nn	_
+6	Dil	dil	NNP	_	4	appos	_
+7	,	,	,	_	6	punct	_
+8	speaking	speak	VBG	pb=speak.01	0	root	_
+9	at	at	IN	_	8	prep	8:AM-LOC
+10	a	a	DT	_	11	det	_
+11	conference	conference	NN	_	9	pobj	_
+12	on	on	IN	_	11	prep	_
+13	preparation	preparation	NN	_	12	pobj	_
+14	for	for	IN	_	13	prep	_
+15	the	the	DT	_	17	det	_
+16	heating	heating	NN	p2=VBG	17	nn	_
+17	season	season	NN	_	14	pobj	_
+18	on	on	IN	_	17	prep	_
+19	July	july	NNP	_	18	pobj	_
+20	23	0	CD	_	19	num	_
+21	,	,	,	_	19	punct	_
+22	2014	0	CD	_	19	num	_
+23	.	.	.	_	6	punct	_
+

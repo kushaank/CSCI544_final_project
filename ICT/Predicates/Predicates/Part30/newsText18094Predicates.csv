@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Bollywood fashionista Sonam Kapoor,create.01,her magic,,Affirmative,Bollywood fashionista Sonam Kapoor created her magic at the 67th Cannes Film Festival red carpet in France on Sunday . 
+The actress,look.02,splendid,,Affirmative,The actress looked splendid in black Elie Saab couture gown when she walked the red carpet for the screening of The Homesman at the film festival . 
+The actress,walk.01,the 67th Cannes Film Festival red carpet,,Affirmative,The actress looked splendid in black Elie Saab couture gown when she walked the red carpet for the screening of The Homesman at the film festival . 
+The actress,look.02,stunningly beautiful,,Affirmative,"She looked stunningly beautiful in black Elie Saab couture gown with faux bob hairstyle , which gave her 50 s Hollywood diva 's look . "
+"faux bob hairstyle ,",give.01,50,her,Affirmative,"She looked stunningly beautiful in black Elie Saab couture gown with faux bob hairstyle , which gave her 50 s Hollywood diva 's look . "
+The actress,compliment.01,her dress with,,Affirmative,"With minimum makeup , the actress complimented her dress with chopard earrings . "
+Bollywood fashionista Sonam Kapoor,attend.01,the event,,Affirmative,Kapoor attended the event as the brand ambassador of a cosmetic brand . 
+Freida Pinto,attend.01,Cannes Film Festival,,Affirmative,Along with her Freida Pinto also attended the film festival as the brand ambassador . 
+Freida Pinto,walk.01,the red carpet,,Affirmative,"On Sunday , Pinto walked the red carpet in a coral Oscar de la Renta strapless gown with gold detail complemented with metallic Jimmy Choos . "
+Millionaire actress,tie.01,her hair,,Affirmative,The Slumdog Millionaire actress tied her hair in a sleek ponytail and had minimum makeup that completed her look . 
+Millionaire actress,have.03,minimum makeup,,Affirmative,The Slumdog Millionaire actress tied her hair in a sleek ponytail and had minimum makeup that completed her look . 
+minimum makeup,complete.01,her look,,Affirmative,The Slumdog Millionaire actress tied her hair in a sleek ponytail and had minimum makeup that completed her look . 
+The actress,manage.02,to grab eyeballs on Saturday,,Affirmative,The actress managed to grab eyeballs on Saturday when she dazzled on the red carpet wearing a feathered Michael Kors gown . 
+The actress,grab.01,eyeballs,,Affirmative,The actress managed to grab eyeballs on Saturday when she dazzled on the red carpet wearing a feathered Michael Kors gown . 
+The actress,dazzle.01,on,,Affirmative,The actress managed to grab eyeballs on Saturday when she dazzled on the red carpet wearing a feathered Michael Kors gown . 
+the red carpet wearing,wear.01,a feathered Michael Kors gown,,Affirmative,The actress managed to grab eyeballs on Saturday when she dazzled on the red carpet wearing a feathered Michael Kors gown . 
+The actress,look.02,gorgeous in,,Affirmative,She looked gorgeous in skin color full skirt filled with feathers and sequins with side-parted wavy hair when she attended the screening of Saint Laurent at the film festival . 
+The actress,attend.01,the screening of,,Affirmative,She looked gorgeous in skin color full skirt filled with feathers and sequins with side-parted wavy hair when she attended the screening of Saint Laurent at the film festival . 

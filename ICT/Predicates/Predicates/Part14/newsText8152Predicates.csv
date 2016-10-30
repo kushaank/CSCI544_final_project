@@ -1,0 +1,13 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Virginia State Police,say.01,they received,,Affirmative,Virginia State Police said they received a tip concerning his whereabouts . 
+officers,receive.01,a tip concerning his whereabouts,,Affirmative,Virginia State Police said they received a tip concerning his whereabouts . 
+a tip concerning his whereabouts,concern.02,his whereabouts,,Affirmative,Virginia State Police said they received a tip concerning his whereabouts . 
+they,spot.01,Thomas H. Ward,,Affirmative,"When officers responded to a residence in the 5500 block of Millwheel Lane , on Monday afternoon , they spotted Ward outside the residence and confirmed his identity . "
+they,confirm.01,his identity,,Affirmative,"When officers responded to a residence in the 5500 block of Millwheel Lane , on Monday afternoon , they spotted Ward outside the residence and confirmed his identity . "
+Thomas H. Ward,run.02,to,,Affirmative,"Upon their approach , Ward ran to the residence and barricaded himself inside , police said . "
+Thomas H. Ward,barricade.01,himself,,Affirmative,"Upon their approach , Ward ran to the residence and barricaded himself inside , police said . "
+police,say.01,", Ward ran to",,Affirmative,"Upon their approach , Ward ran to the residence and barricaded himself inside , police said . "
+police,say.01,Ward finally surrendered and walked out,,Affirmative,"Ward finally surrendered and walked out the front door of the residence at approximately 4 p.m. , police said . "
+EMS,transport.01,Ward,to,Affirmative,EMS was called to the scene to treat and transport Ward to Henrico Doctor 's Hospital for treatment of self - inflicted wounds . 
+The Henrico Division of Police,assist.01,state police,at,Affirmative,The Henrico Division of Police assisted state police at the scene . 
+your blog,share.01,posts,,Affirmative,"Sorry , your blog can not share posts by email . "

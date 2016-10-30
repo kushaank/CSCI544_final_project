@@ -1,0 +1,17 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+a jury,find.01,old guilty of,,Affirmative,"In May 2013 , a jury found the 33 - year - old guilty of first - degree murder in the ghastly death of her former boyfriend Travis Alexander in his Phoenix home in 2008 . "
+the jurors,reach.01,a unanimous decision on,,Affirmative,"However , the jurors failed to reach a unanimous decision on her sentencing . "
+8,determine.01,"whether she should be sentenced to death ,",,Affirmative,"8 to determine whether she should be sentenced to death , life in prison or life with a chance of release after serving 25 years ,   Reuters  reported . "
+she,serve.01,25 years,,Affirmative,"8 to determine whether she should be sentenced to death , life in prison or life with a chance of release after serving 25 years ,   Reuters  reported . "
+Judge Sherry Stephens,decide.01,whether to give Arias life in prison,,Affirmative,"Should the jury deadlock again , then the death penalty will be completely off the table , and Judge Sherry Stephens will decide whether to give Arias life in prison with or without parole . "
+Judge Sherry Stephens,give.01,life,Arias,Affirmative,"Should the jury deadlock again , then the death penalty will be completely off the table , and Judge Sherry Stephens will decide whether to give Arias life in prison with or without parole . "
+Medical examiners,find.01,that Arias stabbed,,Affirmative,"Medical examiners found that Arias stabbed her ex-boyfriend 27 times , primarily in the back and in the torso and heart . "
+Arias,stab.01,her ex-boyfriend,,Affirmative,"Medical examiners found that Arias stabbed her ex-boyfriend 27 times , primarily in the back and in the torso and heart . "
+She,slit.01,throat,,Affirmative,"She also slit Alexander 's throat from ear to ear , nearly decapitating him , and shot him in the face before she dragged his bloodied corpse to the shower where she left him crumpled over . "
+She,decapitate.01,him,,Affirmative,"She also slit Alexander 's throat from ear to ear , nearly decapitating him , and shot him in the face before she dragged his bloodied corpse to the shower where she left him crumpled over . "
+She,shoot.02,him,,Affirmative,"She also slit Alexander 's throat from ear to ear , nearly decapitating him , and shot him in the face before she dragged his bloodied corpse to the shower where she left him crumpled over . "
+she,drag.01,his bloodied corpse,to,Affirmative,"She also slit Alexander 's throat from ear to ear , nearly decapitating him , and shot him in the face before she dragged his bloodied corpse to the shower where she left him crumpled over . "
+she,leave.01,him,crumpled over,Affirmative,"She also slit Alexander 's throat from ear to ear , nearly decapitating him , and shot him in the face before she dragged his bloodied corpse to the shower where she left him crumpled over . "
+Her initial trial,garner.01,lots of,,Affirmative,Her initial trial garnered lots of media attention and publicity last year . 
+Judge Sherry Stephens,motion.01,to limit,,Affirmative,"However , this time around , Judge Sherry Stephens has motioned to limit media coverage in order to avoid the publicity around the high profile case . "
+Judge Sherry Stephens,limit.01,media coverage,,Affirmative,"However , this time around , Judge Sherry Stephens has motioned to limit media coverage in order to avoid the publicity around the high profile case . "

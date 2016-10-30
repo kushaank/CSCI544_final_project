@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,issue.01,A new death penalty issued by,,Affirmative,"( ANSAmed ) - RAMALLAH , MAY 19 - A new death penalty issued by a Hamas military court in Gaza has attracted criticism on behalf of a local NGO and from European Union representation . "
+"( ANSAmed ) - RAMALLAH , MAY",attract.01,criticism,,Affirmative,"( ANSAmed ) - RAMALLAH , MAY 19 - A new death penalty issued by a Hamas military court in Gaza has attracted criticism on behalf of a local NGO and from European Union representation . "
+the military court in,sentence.01,a man found guilty of murder to death,,Affirmative,"In recent days , the military court in Khan Younis ( Gaza ) sentenced a man found guilty of murder to death by firing squad execution . "
+a man found guilty of murder to death,fire.01,squad execution,,Affirmative,"In recent days , the military court in Khan Younis ( Gaza ) sentenced a man found guilty of murder to death by firing squad execution . "
+the EU mission,call.01,cruel and inhuman,the death sentence,Affirmative,"As in other similar occasions in the past , the EU mission has called the death sentence cruel and inhuman . "
+the EU mission,add.01,that it fails,,Affirmative,"And it added that it fails to provide deterrence to criminal behaviour , and represents an unacceptable denial of human dignity and integrity . "
+the EU mission,provide.01,deterrence,to,Affirmative,"And it added that it fails to provide deterrence to criminal behaviour , and represents an unacceptable denial of human dignity and integrity . "
+the EU mission,represent.01,an unacceptable denial of,,Affirmative,"And it added that it fails to provide deterrence to criminal behaviour , and represents an unacceptable denial of human dignity and integrity . "
+The office of,ask.02,to put in moratorium on,Gaza authorities,Affirmative,The office of the EU mission has thus asked Gaza authorities to put in moratorium on the judgment as had already been done by the Palestinian Authority for similar verdicts in the West Bank . 

@@ -1,0 +1,30 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A town police commissioner,admit.01,using,,Affirmative,"WOLFEBORO , N.H. >> A town police commissioner has resigned after he admitted using a racial slur to describe President Barack Obama , an official said Monday . "
+A town police commissioner,use.01,a racial slur,to describe,Affirmative,"WOLFEBORO , N.H. >> A town police commissioner has resigned after he admitted using a racial slur to describe President Barack Obama , an official said Monday . "
+an official,say.01,commissioner has resigned,,Affirmative,"WOLFEBORO , N.H. >> A town police commissioner has resigned after he admitted using a racial slur to describe President Barack Obama , an official said Monday . "
+"Robert Copeland , 82 ,",resign.01,from,,Affirmative,"Robert Copeland , 82 , resigned Sunday night from the post to which he was re-elected in March , Board of Selectmen Chair Linda Murray said , putting to rest a controversy that drew national attention and sparked impassioned debate in this resort town of 6,300 on the shore of Lake Winnipesaukee . "
+Linda Murray,say.01,resigned,,Affirmative,"Robert Copeland , 82 , resigned Sunday night from the post to which he was re-elected in March , Board of Selectmen Chair Linda Murray said , putting to rest a controversy that drew national attention and sparked impassioned debate in this resort town of 6,300 on the shore of Lake Winnipesaukee . "
+a controversy,draw.01,national attention,,Affirmative,"Robert Copeland , 82 , resigned Sunday night from the post to which he was re-elected in March , Board of Selectmen Chair Linda Murray said , putting to rest a controversy that drew national attention and sparked impassioned debate in this resort town of 6,300 on the shore of Lake Winnipesaukee . "
+a controversy,spark.01,impassioned debate,,Affirmative,"Robert Copeland , 82 , resigned Sunday night from the post to which he was re-elected in March , Board of Selectmen Chair Linda Murray said , putting to rest a controversy that drew national attention and sparked impassioned debate in this resort town of 6,300 on the shore of Lake Winnipesaukee . "
+several calls seeking comment,seek.01,comment,,Affirmative,Copeland has not returned several calls seeking comment . 
+100 residents,tear.01,into,,Affirmative,"At a meeting last week , Copeland defiantly sat with his arms folded as more than 100 residents pushed for his ouster and tore into his comments , saying he did n't speak the town or its people . "
+100 residents,say.01,he did n't speak,,Affirmative,"At a meeting last week , Copeland defiantly sat with his arms folded as more than 100 residents pushed for his ouster and tore into his comments , saying he did n't speak the town or its people . "
+Robert Copeland,speak.01,the town or,,Affirmative,"At a meeting last week , Copeland defiantly sat with his arms folded as more than 100 residents pushed for his ouster and tore into his comments , saying he did n't speak the town or its people . "
+Robert Copeland,admit.01,using,,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+Robert Copeland,use.01,"the slur , preceded by",,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+by,precede.01,"the slur , preceded by",,Affirmative,"Copeland admitted using the slur , preceded by an obscenity , while he was at a restaurant in March . "
+"A resident ,",overhear.01,"A resident , Jane OToole",,Affirmative,"A resident , Jane O'Toole , overheard him and complained to town officials when she learned that Copeland was a police commissioner . "
+Jane OToole,learn.01,that Copeland was,,Affirmative,"A resident , Jane O'Toole , overheard him and complained to town officials when she learned that Copeland was a police commissioner . "
+A handful of people,say.01,he had,,Affirmative,"A handful of people at the meeting spoke on behalf of Copeland , saying he had a right to free speech . "
+A handful of people at the meeting,have.03,a right,,Affirmative,"A handful of people at the meeting spoke on behalf of Copeland , saying he had a right to free speech . "
+A handful of people at the meeting,free.01,speech,,Affirmative,"A handful of people at the meeting spoke on behalf of Copeland , saying he had a right to free speech . "
+those,want.01,A handful of people at the meeting,out,Affirmative,But the louder message came from those who wanted him out . 
+O'Toole,say.01,that she was pleased,,Affirmative,O'Toole said Monday that she was pleased he stepped down . 
+20 black people,live.01,year - round in Wolfeboro,,Affirmative,"About 20 black people live year - round in Wolfeboro , in the scenic Lakes Region of New Hampshire , a state that 's 94 percent white and 1 percent black . "
+town officials,say.01,they were appalled by,,Affirmative,Town officials also said they were appalled by Copeland 's comments but said they were powerless to remove an elected official . 
+by,appal.01,town officials,,Affirmative,Town officials also said they were appalled by Copeland 's comments but said they were powerless to remove an elected official . 
+town officials,say.01,they were powerless,,Affirmative,Town officials also said they were appalled by Copeland 's comments but said they were powerless to remove an elected official . 
+town officials,remove.01,an elected official,,Affirmative,Town officials also said they were appalled by Copeland 's comments but said they were powerless to remove an elected official . 
+Jamie Murray,say.01,she was n't surprised,,Affirmative,Jamie Murray said she was n't surprised to hear racist comments since her biracial son has also faced taunts . 
+she,hear.01,racist comments since,,Affirmative,Jamie Murray said she was n't surprised to hear racist comments since her biracial son has also faced taunts . 
+racist comments since,face.01,taunts,,Affirmative,Jamie Murray said she was n't surprised to hear racist comments since her biracial son has also faced taunts . 

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The stance,put.01,James Craig,at odds with,Affirmative,"The stance has put James Craig at odds with many big - city police chiefs , and now it 's landed him on the cover of the NRA magazine , America 's First Freedom . "
+The stance,land.01,James Craig at odds,,Affirmative,"The stance has put James Craig at odds with many big - city police chiefs , and now it 's landed him on the cover of the NRA magazine , America 's First Freedom . "
+James Craig at odds,say.01,he does not advocate violence,,Affirmative,"At a press conference today , Craig said he does not advocate violence , but I am an advocate for when faced with a dangerous situation , one that presents an imminent threat to life , or great bodily harm , that one protects themselves . "
+James Craig at odds,advocate.01,violence,,Affirmative,"At a press conference today , Craig said he does not advocate violence , but I am an advocate for when faced with a dangerous situation , one that presents an imminent threat to life , or great bodily harm , that one protects themselves . "
+one,present.01,an imminent threat to life,,Affirmative,"At a press conference today , Craig said he does not advocate violence , but I am an advocate for when faced with a dangerous situation , one that presents an imminent threat to life , or great bodily harm , that one protects themselves . "
+one,protect.01,many big-city police chiefs,,Affirmative,"At a press conference today , Craig said he does not advocate violence , but I am an advocate for when faced with a dangerous situation , one that presents an imminent threat to life , or great bodily harm , that one protects themselves . "
+people,shoot.02,intruders,,Affirmative,There have been at least eight incidents so far this year in Detroit when people have shot home intruders . 
+James Craig at odds,say.01,it 's,,Affirmative,Craig said it 's no secret that some law - abiding Detroiters are armed . 
+James Craig at odds,use.01,the word,,Affirmative,"There 's been research done that armed , law - abiding citizens can - and I use the word can - be a deterrent to violent crime . "

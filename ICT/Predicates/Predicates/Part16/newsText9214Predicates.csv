@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+California Chrome,have.03,the chance of being,,Affirmative,"California Chrome has the chance of being the first Triple Crown winner since 1978 if he wins at Belmont , however due to the fact that he uses nasal strips there was a concern that the thoroughbred would be barred from participating . "
+the first Triple Crown winner since 1978,use.01,nasal strips,,Affirmative,"California Chrome has the chance of being the first Triple Crown winner since 1978 if he wins at Belmont , however due to the fact that he uses nasal strips there was a concern that the thoroughbred would be barred from participating . "
+most states,allow.01,the usual of,,Affirmative," While most states allow the usual of nasal strips , the New York Racing Association had banned them due to concern that they would give a horse an unfair advantage during a race . "
+York Racing Association,ban.01,the New York stewards,due to concern,Affirmative," While most states allow the usual of nasal strips , the New York Racing Association had banned them due to concern that they would give a horse an unfair advantage during a race . "
+the New York stewards,give.01,an unfair advantage,a horse,Affirmative," While most states allow the usual of nasal strips , the New York Racing Association had banned them due to concern that they would give a horse an unfair advantage during a race . "
+I,have.03,Another also used,,Affirmative,"Racing enthusiasts , recall when in 2012 a horse named I 'll Have Another also used a breathing during during it 's wins at both the Kentucky Derby and Preakness . "
+Another,use.01,a breathing,,Affirmative,"Racing enthusiasts , recall when in 2012 a horse named I 'll Have Another also used a breathing during during it 's wins at both the Kentucky Derby and Preakness . "
+I,have.03,Another was barred by,,Affirmative," Like California Chrome , I 'll Have Another was barred by the New York stewards from using it 's breathing aid during the Belmont . "
+by,bar.01,Another was barred by,from using,Affirmative," Like California Chrome , I 'll Have Another was barred by the New York stewards from using it 's breathing aid during the Belmont . "
+the owners,challenge.01,the ruling,,Affirmative, However the owners never challenged the ruling due to I 'll Have Another suffering from a leg injury . 
+I,have.03,Another suffering,,Affirmative, However the owners never challenged the ruling due to I 'll Have Another suffering from a leg injury . 
+The decision by,mean.01,horse can now use,,Affirmative,The decision by the stewards means that any horse can now use nasal strips in any race in the state . 
+any horse,use.01,nasal strips there was a concern that the thoroughbred would be barred from participating,,Affirmative,The decision by the stewards means that any horse can now use nasal strips in any race in the state . 

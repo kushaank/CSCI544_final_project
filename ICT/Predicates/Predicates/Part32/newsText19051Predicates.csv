@@ -1,0 +1,27 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+You,change.01,the location,,Affirmative,You can change the location at any time . 
+candidate Charlie Baker,criticize.01,candidate Martha Coakley,for,Affirmative,Republican gubernatorial candidate Charlie Baker criticized Democratic gubernatorial candidate Martha Coakley on Monday for a mistake Coakley made when asked about the Massachusetts gas tax . 
+Coakley,make.01,a mistake,,Affirmative,Republican gubernatorial candidate Charlie Baker criticized Democratic gubernatorial candidate Martha Coakley on Monday for a mistake Coakley made when asked about the Massachusetts gas tax . 
+Democratic gubernatorial candidate Martha Coakley on Monday for a mistake Coakley,guess.01,10 cents,,Affirmative,"She guessed , 10 cents ? "
+"Baker ,",call.01,a statement,Coakley,Affirmative,"Baker , in a statement , called Coakley out of touch and uninformed about the gas tax . "
+you,want.01,to be Governor,,Affirmative,"If you want to be Governor , and you support an automatic increase in the gas tax , you should know what the current tax rate is , Baker said . "
+you,support.01,an automatic increase in,,Affirmative,"If you want to be Governor , and you support an automatic increase in the gas tax , you should know what the current tax rate is , Baker said . "
+you,know.01,rate is,,Affirmative,"If you want to be Governor , and you support an automatic increase in the gas tax , you should know what the current tax rate is , Baker said . "
+Republican gubernatorial candidate Charlie Baker,say.01,", you should know",,Affirmative,"If you want to be Governor , and you support an automatic increase in the gas tax , you should know what the current tax rate is , Baker said . "
+"the Attorney General ,",certify.01,a ballot question on,,Affirmative,"That the Attorney General , who had to certify a ballot question on this topic , would think the state gas tax is 10 cents is a little scary . "
+"the Attorney General ,",think.01,tax is,,Affirmative,"That the Attorney General , who had to certify a ballot question on this topic , would think the state gas tax is 10 cents is a little scary . "
+few people,get.01,100 percent of,,Affirmative,"Coakley spokeswoman Bonnie McGilpin responded , Very few people get 100 percent of the pop quiz questions on ( On The Record ) correct . "
+ Martha,know.01,tax is,,Affirmative, Martha knows that the gas tax is a critical funding source to make the transportation infrastructure investments that are necessary to move Massachusetts forward . 
+A group of activists,collect.01,signatures,,Affirmative,A group of activists are collecting signatures to place a question on the ballot in November eliminating the indexing provision . 
+November eliminating,eliminate.01,the indexing provision,,Affirmative,A group of activists are collecting signatures to place a question on the ballot in November eliminating the indexing provision . 
+Coakley spokeswoman Bonnie McGilpin,say.01,she supports it,,Affirmative,"The Democratic candidates for governor are split on the indexing provision , but Coakley has said she supports it . "
+Coakley spokeswoman Bonnie McGilpin,support.01,Democratic,,Affirmative,"The Democratic candidates for governor are split on the indexing provision , but Coakley has said she supports it . "
+Republican gubernatorial candidate Charlie Baker,want.01,to repeal,,Affirmative,Baker wants to repeal the indexing . 
+Republican gubernatorial candidate Charlie Baker,repeal.01,the indexing,,Affirmative,Baker wants to repeal the indexing . 
+"a Whitman Republican ,",send.01,a statement attacking Coakley for,,Affirmative,"The organizers of the ballot campaign -  State Rep. Geoff Diehl , a Whitman Republican , Steve Aylward and Marty Lamb - also sent out a statement attacking Coakley for her mistake and calling her out of touch . "
+a statement attacking Coakley for,attack.01,Coakley,,Affirmative,"The organizers of the ballot campaign -  State Rep. Geoff Diehl , a Whitman Republican , Steve Aylward and Marty Lamb - also sent out a statement attacking Coakley for her mistake and calling her out of touch . "
+a statement attacking Coakley for,call.01,Coakley spokeswoman Bonnie McGilpin,,Affirmative,"The organizers of the ballot campaign -  State Rep. Geoff Diehl , a Whitman Republican , Steve Aylward and Marty Lamb - also sent out a statement attacking Coakley for her mistake and calling her out of touch . "
+Geoff Diehl,say.01,tax has not been,,Affirmative,"The gas tax has not been 10 cents per gallon since before I was born , Diehl said . "
+you,want.01,to receive,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+you,receive.01,additional email offers and information,,Affirmative,Check here if you do not want to receive additional email offers and information . 
+You,receive.01,occasional emails,from us,Affirmative,You will receive occasional emails from us as stories break . 

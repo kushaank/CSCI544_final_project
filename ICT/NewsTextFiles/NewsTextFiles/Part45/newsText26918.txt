@@ -1,0 +1,54 @@
+
+Before open data, there was FOIA. Beginning in 1967, the federal Freedom of Information Act ( FOIA ) empowered the public to request access to government documents. Unfortunately, some branches of government quickly began to push back, and within the decade the infamous phrase "can neither confirm nor deny" had been devised to avoid releasing information.
+
+This came to exemplify the adversarial relationship between the public and government. Yet public records requests (also known as FOIL, Right-to-Know, public information or open records requests, depending on where you are) remain a fundamental way in which the public is able to obtain information from government agencies under FOIA-like laws in all fifty states.
+
+The process for requesting these records is anything but transparent, however. Instead, it’s typically confusing, frustrating and costly—and not just for the requestor. Asheville CIO Jonathan Feldman has outlined some of the challenges that cities face during the process of responding to requests, but in many places the reality is even messier. In April 2013, the Office of the Public Advocate for New York City issued a report that found serious problems with the FOIL process in city agencies: 40% of City agencies lack information on their website about where to direct requests, making the process extremely challenging for the public to navigate, and one in ten requests was either ignored or fell through the cracks, with no response made within six months.
+
+Last year, as part of an investigative series , Honolulu Civil Beat requested copies of the public records requests that had been filed between January 2011 and July 2013. They were informed by the City of Honolulu that tracking down the records to fulfill their request would take more than 1,000 hours and cost more than $11,000 for staff time—excluding charges for redaction or making paper copies. These cases are not exceptional, but are in fact the norm in municipal governments throughout the country.
+
+Governments are not managing public records requests in a coordinated way, meaning that they don’t know how many requests are received citywide, how much time staff spend on them, or what the ultimate outcomes are. Tools used by local governments run the gamut from paper logs, interoffice memos, spreadsheets, and calendar events  to proprietary systems that can cost hundreds of thousands of dollars. Some agencies have resorted to rolling their own systems. None of these solutions is in tune with the values core to the open government and Gov 2.0 movements.
+
+It shouldn’t be this hard.
+
+When the City of Oakland, California decided to participate in the 2013 Code for America Fellowship, it was facing many of the challenges described above. There was an increasing volume of requests and accelerating demand for 24/7 services. City staff were feeling overwhelmed and journalists and the public were frustrated.
+
+The City had already convened a working group with representatives from across the city to understand the scope of the problems. The task of the Fellowship team was to use technology to improve the public records request process and to engage the public more effectively. Over the course of nine months, the team worked closely with city staff to understand their needs. There are a number of tools—Muck Rock, iFOIA, Alaveteli, and FOIAmachine (these last two open source)—aimed at making it easier for journalists and the public to submit records requests. These tools help the public shake the proverbial "vending machine" of government .
+
+Centralization: Requests are submitted via a single, simple online form.
+
+Automation: A request is automatically routed to the appropriate contact or department. Everyone involved receives automated notifications about status updates.
+
+Transparency: Each request has a public webpage on which every action is logged in real time, similar to 311 request tracking.
+
+RecordTrac serves as an ever-growing repository for public records. Requesters can search the site to see if the information they want is already there, eliminating duplicate requests and saving everyone time. Comprehensive data about requests can shape policy, guiding which information is made public by default on open data portals. Detailed data about requests enables the public to hold government accountable by analyzing agency performance to see that all requestors are being treated equally.
+
+To date, the site has handled more than 3,900 requests, serving almost 2,200 records that have been viewed more than 74,000 times.
+
+Documents uploaded to RecordTrac have been linked to in news articles and personal essays and embedded in LocalWiki pages, enabling the public to easily share information provided by the city. Most importantly, it has prompted the city to reevaluate its process around public records requests, making an antagonistic relationship more collaborative.
+
+RecordTrac has been a success in Oakland, and it was recognized as Civic App of the Year by the 2013 GovFresh Awards. John Kaehny has said of our work, "Where Oakland is right now is the future." And, a group of former Fellows has formed PostCode , a startup in Code for America’s Incubator program, so that we can bring RecordTrac to other cities .
+
+Open source code can play a part in solving this difficult problem,  increasing government accountability and building better trust between  citizens and their government.
+
+Each agency should not reinvent the wheel when it comes to managing public records requests.
+
+Proprietary solutions have meant that governments and their data are often held hostage by vendors who demand exorbitant prices for licenses or customizations.
+
+The data models are in the open and are not stored in proprietary formats.
+
+An API enables developers to interact with RecordTrac programmatically.
+
+We want to develop in the open because community input will enable us to develop not just software applications, but also government processes that are more efficient, transparent and responsive.
+
+The content of this field is kept private and will not be shown publicly.
+
+By submitting this form, you accept the Mollom privacy policy .
+
+Founder at @postcode_io, 2013 @codeforamerica Fellow. Doing good well with geography + open data + Python + sensors + UX.
+
+For more discussion on open source and the role of the CIO in the enterprise, join us at The EnterprisersProject.com .
+
+The opinions expressed on this website are those of each author, not of the author's employer or of Red Hat.
+
+Opensource.com aspires to publish all content under a Creative Commons license but may not be able to do so in all cases. You are responsible for ensuring that you have the necessary permission to reuse any work on this site. Red Hat and the Shadowman logo are trademarks of Red Hat, Inc., registered in the United States and other countries.

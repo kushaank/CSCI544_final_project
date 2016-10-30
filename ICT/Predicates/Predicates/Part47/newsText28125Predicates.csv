@@ -1,0 +1,21 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The man charged in,say.01,gun fell to,,Affirmative,"The man charged in a fatal shooting at the Palms this past week said his gun fell to the ground and fired accidentally , according to Las Vegas police . "
+"Jim Edward Johnson , 25 , of",turn.06,Jim Edward Johnson,to police,Affirmative,"Jim Edward Johnson , 25 , of Las Vegas , turned himself in to police Sunday and was booked on a charge of murder with a deadly weapon , according to an arrest report . "
+police,say.01,people gathered Thursday at,,Affirmative,"About 50 people gathered Thursday at the Palms for a party and rap video shoot , police said . "
+Witnesses,tell.01,were involved in,police,Affirmative,"Witnesses told police that Plunkett , Plunkett 's brother Thomas Plunkett and Richard Moore were involved in a fight on a patio near a pool just before Plunkett was shot , according to a police report made public Monday . "
+Plunkett 's brother Thomas Plunkett,tell.01,that he was fighting with Moore,police,Affirmative,Thomas Plunkett told police that he was fighting with Moore by the pool when he heard a gunshot and saw his brother lying on the ground . 
+Plunkett 's brother Thomas Plunkett,fight.01,with Moore,,Affirmative,Thomas Plunkett told police that he was fighting with Moore by the pool when he heard a gunshot and saw his brother lying on the ground . 
+Plunkett 's brother Thomas Plunkett,hear.01,a gunshot,,Affirmative,Thomas Plunkett told police that he was fighting with Moore by the pool when he heard a gunshot and saw his brother lying on the ground . 
+Plunkett 's brother Thomas Plunkett,see.01,brother lying on,,Affirmative,Thomas Plunkett told police that he was fighting with Moore by the pool when he heard a gunshot and saw his brother lying on the ground . 
+Richard Moore,flag.01,a police officer,,Affirmative,Moore later flagged down a police officer and said someone named Jones was the shooter . 
+Richard Moore,say.01,was,,Affirmative,Moore later flagged down a police officer and said someone named Jones was the shooter . 
+"police that Plunkett , Plunkett 's brother Thomas Plunkett and Richard Moore were involved in a fight on a patio near a pool just before Plunkett was shot , according to a police report",learn.01,that Johnson told,,Affirmative,"Police later learned that Johnson told another witness , Josh Newman , who also spoke with police , that his gun accidentally fired when it fell , according to the arrest report . "
+Jim Edward Johnson,tell.01,gun accidentally fired,"another witness ,",Affirmative,"Police later learned that Johnson told another witness , Josh Newman , who also spoke with police , that his gun accidentally fired when it fell , according to the arrest report . "
+Josh Newman,tell.01,that Johnson owned,an officer,Affirmative,Newman told an officer that Johnson owned the gun and that Johnson said he was going to turn himself in . 
+Jim Edward Johnson,own.01,his gun,,Affirmative,Newman told an officer that Johnson owned the gun and that Johnson said he was going to turn himself in . 
+Jim Edward Johnson,say.01,he was going,,Affirmative,Newman told an officer that Johnson owned the gun and that Johnson said he was going to turn himself in . 
+Jim Edward Johnson,turn.06,Jim Edward Johnson,,Affirmative,Newman told an officer that Johnson owned the gun and that Johnson said he was going to turn himself in . 
+Vegas police,release.01,mug shot,,Affirmative,Las Vegas police did not release Johnson 's mug shot Monday but said he looked like a man whose image was captured on surveillance video at the Palms . 
+Vegas police,say.01,he looked like,,Affirmative,Las Vegas police did not release Johnson 's mug shot Monday but said he looked like a man whose image was captured on surveillance video at the Palms . 
+Las Vegas police,look.01,like,,Affirmative,Las Vegas police did not release Johnson 's mug shot Monday but said he looked like a man whose image was captured on surveillance video at the Palms . 
+gang unit,pass.01,the case,to,Affirmative,Metro 's gang unit initially investigated but then passed the case off to homicide detectives after Evan Plunkett died . 

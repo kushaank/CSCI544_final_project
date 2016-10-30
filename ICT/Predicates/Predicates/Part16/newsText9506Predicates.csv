@@ -1,0 +1,51 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Trainer Art Sherman,say.01,that he believes,,Affirmative,BALTIMORE - Trainer Art Sherman said Sunday morning that he believes Kentucky Derby and Preakness winner California Chrome will win the June 7 Belmont Stakes to become racing 's first Triple Crown winner in 36 years . 
+Trainer Art Sherman,believe.01,will win,,Affirmative,BALTIMORE - Trainer Art Sherman said Sunday morning that he believes Kentucky Derby and Preakness winner California Chrome will win the June 7 Belmont Stakes to become racing 's first Triple Crown winner in 36 years . 
+Kentucky Derby and,win.01,Belmont Stakes,,Affirmative,BALTIMORE - Trainer Art Sherman said Sunday morning that he believes Kentucky Derby and Preakness winner California Chrome will win the June 7 Belmont Stakes to become racing 's first Triple Crown winner in 36 years . 
+BALTIMORE -- Trainer Art Sherman said Sunday morning that he believes Kentucky Derby and Preakness winner California Chrome will win the June 7 Belmont Stakes to become racing 's first Triple Crown winner in 36 years .,assume.01,"Chrome runs ,",,Affirmative,"But that 's assuming California Chrome runs , which obviously is the intention and plan after the Derby winner beat Ride On Curlin by 1 1/2 lengths Saturday at Pimlico in the 139th Preakness Stakes . "
+the Derby winner,beat.01,Ride,,Affirmative,"But that 's assuming California Chrome runs , which obviously is the intention and plan after the Derby winner beat Ride On Curlin by 1 1/2 lengths Saturday at Pimlico in the 139th Preakness Stakes . "
+New York,let.01,thoroughbreds compete wearing,,Affirmative,"However , upon learning Sunday morning from Daily Racing Form reporters that New York has not been letting thoroughbreds compete wearing nasal strips , Sherman said that co-owner Perry Martin might not want to run without the self - adhesive strip designed to improve airflow . "
+thoroughbreds,compete.01,wearing,,Affirmative,"However , upon learning Sunday morning from Daily Racing Form reporters that New York has not been letting thoroughbreds compete wearing nasal strips , Sherman said that co-owner Perry Martin might not want to run without the self - adhesive strip designed to improve airflow . "
+thoroughbreds,wear.01,nasal strips,,Affirmative,"However , upon learning Sunday morning from Daily Racing Form reporters that New York has not been letting thoroughbreds compete wearing nasal strips , Sherman said that co-owner Perry Martin might not want to run without the self - adhesive strip designed to improve airflow . "
+Trainer Art Sherman,say.01,Martin might not want,,Affirmative,"However , upon learning Sunday morning from Daily Racing Form reporters that New York has not been letting thoroughbreds compete wearing nasal strips , Sherman said that co-owner Perry Martin might not want to run without the self - adhesive strip designed to improve airflow . "
+This guy Perry Martin,want.01,to run without,,Affirmative,"However , upon learning Sunday morning from Daily Racing Form reporters that New York has not been letting thoroughbreds compete wearing nasal strips , Sherman said that co-owner Perry Martin might not want to run without the self - adhesive strip designed to improve airflow . "
+"Sherman ,",say.01,"Now , that 's going",,Affirmative,"Now , that 's going to be interesting , said Sherman , who said he 'll take up the issue with New York officials . "
+"Sherman ,",say.01,he 'll take up,,Affirmative,"Now , that 's going to be interesting , said Sherman , who said he 'll take up the issue with New York officials . "
+Trainer Art Sherman,take.01,the issue,,Affirmative,"Now , that 's going to be interesting , said Sherman , who said he 'll take up the issue with New York officials . "
+New York officials,say.01,you ca n't run with,,Affirmative,"This guy Perry Martin , he might not run if they say you ca n't run with a nasal strip . "
+Trainer Art Sherman,know.01,why they 'd ban you from wearing one,,Affirmative,"I do n't know why they 'd ban you from wearing one , but we 'll have to cross that bridge when we get there . "
+New York officials,ban.01,you,,Affirmative,"I do n't know why they 'd ban you from wearing one , but we 'll have to cross that bridge when we get there . "
+New York officials,wear.01,one,,Affirmative,"I do n't know why they 'd ban you from wearing one , but we 'll have to cross that bridge when we get there . "
+we,cross.02,that bridge,,Affirmative,"I do n't know why they 'd ban you from wearing one , but we 'll have to cross that bridge when we get there . "
+This guy Perry Martin,withhold.01,The horse,from,Affirmative,"When asked if Martin really might withhold the horse from the Triple Crown finale , Sherman said , It would be very questionable . "
+Trainer Art Sherman,say.01,It would be,,Affirmative,"When asked if Martin really might withhold the horse from the Triple Crown finale , Sherman said , It would be very questionable . "
+This guy Perry Martin,say.01,"Hey , I do n't understand",,Affirmative,"He could say , ' Hey , I do n't understand why they wo n't let me ( use it ) . "
+Trainer Art Sherman,understand.01,why they wo n't let,,Affirmative,"He could say , ' Hey , I do n't understand why they wo n't let me ( use it ) . "
+New York officials,let.01,me ( use it,,Affirmative,"He could say , ' Hey , I do n't understand why they wo n't let me ( use it ) . "
+Trainer Art Sherman,use.01,the Triple Crown finale,,Affirmative,"He could say , ' Hey , I do n't understand why they wo n't let me ( use it ) . "
+New York officials,want.01,you,,Affirmative,Maybe they do n't want us there . 
+We,see.01,what happens,,Affirmative,We 'll see what happens . 
+Horses,wear.01,them,,Affirmative,Horses all over California wear them all the time . 
+all other racing jurisdictions,allow.01,use of,,Affirmative,"Virtually all other racing jurisdictions allow use of the strips , which are similar to those worn by some human athletes , including jockeys . "
+by,wear.01,those worn by,,Affirmative,"Virtually all other racing jurisdictions allow use of the strips , which are similar to those worn by some human athletes , including jockeys . "
+Park stewards,say.01,Crown hopeful,,Affirmative,"Two years ago , the Belmont Park stewards said that Triple Crown hopeful I 'll Have Another could not wear one . "
+I,have.03,Another could not wear one,,Affirmative,"Two years ago , the Belmont Park stewards said that Triple Crown hopeful I 'll Have Another could not wear one . "
+Another,wear.01,one,,Affirmative,"Two years ago , the Belmont Park stewards said that Triple Crown hopeful I 'll Have Another could not wear one . "
+a new steward representing,represent.01,York regulators,,Affirmative,"However , there is a new steward representing the New York regulators , with Stephen Lewandowski replacing the retired Carmine Donofrio . "
+Stephen Lewandowski,replace.01,the retired Carmine Donofrio,,Affirmative,"However , there is a new steward representing the New York regulators , with Stephen Lewandowski replacing the retired Carmine Donofrio . "
+A spokesman for,say.01,have received,,Affirmative,A spokesman for the New York State Gaming Commission said in a statement that neither the commission nor the NYRA stewards have received a request to use nasal strips in the Belmont . 
+neither the commission nor,receive.01,a request,,Affirmative,A spokesman for the New York State Gaming Commission said in a statement that neither the commission nor the NYRA stewards have received a request to use nasal strips in the Belmont . 
+the statement,say.01,is made,,Affirmative,"If a request to use nasal strips is made , the decision on whether to permit them or not will be fully evaluated and determined by the Stewards , the statement said . "
+by,approve.01,Only equipment,,Affirmative,"This is in accordance with the Commission 's Thoroughbred Rule 4033.8 , which states : ' Only equipment specifically approved by the stewards shall be worn or carried by a jockey or a horse in a race . "
+by,carry.01,Only equipment,,Affirmative,"This is in accordance with the Commission 's Thoroughbred Rule 4033.8 , which states : ' Only equipment specifically approved by the stewards shall be worn or carried by a jockey or a horse in a race . "
+Sherman,say.01,Martin suggested trying,,Affirmative,' Sherman said Perry Martin suggested trying Flair Equine Nasal Strips on California Chrome after the colt finished sixth in Santa Anita 's Golden State Juvenile . 
+Perry Martin,suggest.01,trying,,Affirmative,' Sherman said Perry Martin suggested trying Flair Equine Nasal Strips on California Chrome after the colt finished sixth in Santa Anita 's Golden State Juvenile . 
+Perry Martin,try.01,Flair Equine Nasal Strips,,Affirmative,' Sherman said Perry Martin suggested trying Flair Equine Nasal Strips on California Chrome after the colt finished sixth in Santa Anita 's Golden State Juvenile . 
+jockey Victor Espinoza,get.01,the mount,,Affirmative,"He is unbeaten in six races since , a streak that also coincides with jockey Victor Espinoza getting the mount . "
+He,think.01,it 's,,Affirmative,"He thinks it 's really beneficial , Sherman said of Martin and the nasal strips . "
+Sherman,say.01,He thinks,,Affirmative,"He thinks it 's really beneficial , Sherman said of Martin and the nasal strips . "
+they,let.01,you wear them,,Affirmative,All over the country they let you wear them . 
+you,wear.01,them,,Affirmative,All over the country they let you wear them . 
+He,add.01,"Martin might say , '",,Affirmative,"He added with a laugh , Perry Martin might say , ' Well , if I ca n't , I guess I 'll go to the ( July 5 ) Los Alamitos Derby . "
+Perry Martin,say.01,", I guess",,Affirmative,"He added with a laugh , Perry Martin might say , ' Well , if I ca n't , I guess I 'll go to the ( July 5 ) Los Alamitos Derby . "
+I,guess.01,I 'll go to,,Affirmative,"He added with a laugh , Perry Martin might say , ' Well , if I ca n't , I guess I 'll go to the ( July 5 ) Los Alamitos Derby . "

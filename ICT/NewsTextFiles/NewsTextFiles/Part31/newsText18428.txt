@@ -1,0 +1,40 @@
+
+The inauspicious beginnings of the smartwatch era have prompted intense debate about the role design could or should play in the success of the emerging product category. The prevailing theory is that what will make people want to wear computers on their wrists will be imported from runways in New York, London, Paris, and Milan: fashion and style.
+
+At CES, Intel brought the COO of Barneys New York onto the stage to promote its nascent wearables platforms. Design-driven Apple, months before the expected launch of its anticipated iWatch, has hired the CEOs of both Yves Saint Laurent and Burberry. And fashion concerns aren’t just about wrist wear: on Friday, Google promoted a fashion executive to head the Google Glass team .
+
+Using the four principles for successful wearable design, I’ll evaluate the viability of three feature candidates to make smartwatches intuitive: voice, gesture, and contextual response.
+
+The fashion-will-fix-smartwatches narrative is a really compelling story. It’s also completely wrong — or, at minimum, flies in the face of decades of study about how new technologies get adopted. As documented by Everett Rodgers in The Diffusion of Innovations, no fundamentally new product type succeeds solely based on the fact that it’s attractive; it succeeds because it does something genuinely useful at a price point low enough that people don’t consider it a luxury. And then it becomes normal and even attractive because it was first useful.
+
+So if it’s not fashion, what is standing between today and the smartwatches-everywhere future ? One thing: a great, unique interface that showcases how much better this new product type can perform both new and existing functions.
+
+Unfortunately, neither the watch-emulating button interface of the Pebble nor the touchscreen-on-a-strap concepts from Google and Samsung hit the mark. They simply feel like a previous generation of interface slapped onto an emerging form — which is exactly what they are.
+
+Pete Mortensen is a project director and design strategist at antedote , an innovation and insight agency based in San Francisco.
+
+After careful consideration of existing solutions, emerging and available technology, and the form factor’s constraints, I have identified four principles for designing good smartwatch interfaces. Using these principles, I’ll evaluate the viability of three feature candidates to make smartwatches intuitive: voice, gesture, and contextual response.
+
+2. Interact once, display many times: Smartwatches should primarily provide displays of information and prompts for action rather than providing rich interactive elements, meaning they will show lots of information that is passively consumed.
+
+3. Speed over accuracy: Consumer smartwatches should be flexible, fun, in-the-moment companions, which means they should make lots of ignorable suggestions rather than waiting to make a few suggestions that it deems perfectly right, as current predictive services do.
+
+4. Pass the hallucination test: Smartwatch use can be perceived as novel behavior, but it can’t present like Bluetooth headsets, which make it impossible to know who is on the phone and who is screaming at an imaginary friend on the street.
+
+Now, the interfaces: voice, gesture, and contextual response. As you might notice, none of these three ideas is new; ironically, the best interfaces for new devices tend to come from failures in the previous generation (touchscreens were going nowhere fast when Steve Jobs first held up the iPhone, after all).
+
+Ever since Apple launched Siri, it’s been expected that voice control would become the next big thing. Since smartwatches don’t have room for even virtual keyboards, many have suggested that voice could make for an ideal mode of interaction.
+
+In practice, it’s a dead-end. Voice is highly imprecise, as its reliability depends on being in a quiet place (which rules out virtually any public use case, defeating the point of a wearable). This means users need to carefully monitor and repeat commands to get what they want, which fails my first three principles of good design. Moreover, it fails the hallucination test horribly, as anyone who has ever witnessed a lost Siri user seeking directions can attest (“HOW DO I GET HOME? HOW. DO. I. GET. HOME?”). I’ll happily go on record as saying we’ll have more reliable mind-reading interfaces before we have a primary voice interface suitable for smartwatch use.
+
+We’ll have more reliable mind-reading interfaces before we have a primary voice interface suitable for smartwatch use.
+
+Bringing up gestural controls often conjures images from Minority Report: Tom Cruise wearing three-fingered gloves and performing Power Ranger moves to navigate his computers. In spite of this wondrous vision, the technology has languished on existing devices. Microsoft recently announced it was no longer mandating the inclusion of its Kinect interface on new Xbox One . In spite of these failures, gesture might be ideal for a smartwatch strapped to a wrist.
+
+Here’s why: One irony of today’s touchscreen- or button-based smartwatches is that they can’t be operated by the hand closest to them. Shakes, slaps, twists, arm flips, brushes, and other gestures could all make great methods for dismissing notifications, skipping messages or music tracks, and communicating with a simple yes/no–and either arm could get involved. It could be argued that fitness bands–to date the most successful category of wearables–are controlled by gesture, as they use motion sensors to detect activity. Gesture control speaks to the first three principles: It’s a glance-and-interact model focused around the speedy display of information that may be useful. And provided these gestures skew subtle, they would have no issue passing the hallucination test.
+
+A significant reason big data has become such a big deal over the past several years is its potential to personalize information and activity based on user context—a good example of this is how on iOS you can set a reminder to prompt you to “Check the Mail” when you arrive back home. Contextual response is user-facing, reordering information and triggering events based on current location, mood, activities, preference, and body analytics. Contextual information can be designed to meet my first three principles. And as it’s merely generating a set of choices visible to the user, it doesn’t trend toward hallucination issues.
+
+If contextual response is to be more than a roulette wheel of data analytics, however, it will require far more–and more accurate–data than we currently have, not to mention consumer control of it. As a result, contextual response UIs will likely be secondary to gesture at first, though they would improve and become more prominent over time.
+
+It does appear that 2014 could be the year smartwatches finally break. Google has demoed Android Wear, a variant on Google Now for the wrist (clever contextual response actions, clunky touchscreen and voice interface), and Apple could call a press conference to introduce the iWatch seemingly any day . It’s one of those moments in tech when the opportunity is clear, but the successful approach is not. Much as I feel that gesture-plus-contextual response will win in this market, the real opportunity will come when that interface is attached to use cases that have remained elusive over the years — health, ubiquitous mobile payments, post-PC personal productivity. I can’t wait to see which UI designers will seize the moment.

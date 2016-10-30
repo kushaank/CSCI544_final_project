@@ -1,0 +1,24 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the paper 's Foreign Editor,cover.03,French news,,Affirmative,"John Lichfield has been The Independent 's man in Paris since 1997 , covering French news . "
+"The disgraced former IMF chief ,",plan.01,to sue,,Affirmative,"The disgraced former IMF chief , Dominique Strauss - Kahn , plans to sue the makers of a new film allegedly based on the saga of his arrest for rape in New York in 2011 . "
+"The disgraced former IMF chief ,",sue.01,the makers of,,Affirmative,"The disgraced former IMF chief , Dominique Strauss - Kahn , plans to sue the makers of a new film allegedly based on the saga of his arrest for rape in New York in 2011 . "
+"lawyer ,",say.01,client would bring,,Affirmative,"Mr Strauss - Kahn 's lawyer , Jean Veil , said his client would bring an action for defamation in the next few days . "
+his client,bring.01,an action for defamation in,,Affirmative,"Mr Strauss - Kahn 's lawyer , Jean Veil , said his client would bring an action for defamation in the next few days . "
+The French economist and,assault.01,a chambermaid,,Affirmative,"The French economist and presidential candidate in the movie , Mr Devereux , sexually assaults a chambermaid in a Manhattan hotel . "
+Mr Strauss-Kahn 's,admit.01,to committing,,Affirmative,He has admitted to committing a moral fault and having a sexual encounter but has always denied that any attack took place . 
+Mr Strauss-Kahn 's,commit.02,a moral fault,,Affirmative,He has admitted to committing a moral fault and having a sexual encounter but has always denied that any attack took place . 
+Mr Strauss-Kahn 's,deny.01,attack took place,,Affirmative,He has admitted to committing a moral fault and having a sexual encounter but has always denied that any attack took place . 
+Jean Veil,describe.01,"the film , launched in",,Affirmative,"Mr Veil yesterday described the film , launched in the fringes of he Cannes film festival at the weekend , as a piece of shit ... "
+Jean Veil,cannes.01,film festival,,Affirmative,"Mr Veil yesterday described the film , launched in the fringes of he Cannes film festival at the weekend , as a piece of shit ... "
+He,allege.01,movie had,,Affirmative,He also alleged that the movie had an an anti-semitic side . 
+the movie,have.03,an an anti-semitic side,,Affirmative,He also alleged that the movie had an an anti-semitic side . 
+by,play.01,"Mr Devereux , played by",,Affirmative,"In the film , the wife of Mr Devereux , played by Jacqueline Bisset , is a wealthy Franco-jewish woman who is said to come from a family which made a fortune from World War Two . "
+a wealthy Franco-jewish woman,say.01,to come from,,Affirmative,"In the film , the wife of Mr Devereux , played by Jacqueline Bisset , is a wealthy Franco-jewish woman who is said to come from a family which made a fortune from World War Two . "
+a family,make.01,a fortune,from,Affirmative,"In the film , the wife of Mr Devereux , played by Jacqueline Bisset , is a wealthy Franco-jewish woman who is said to come from a family which made a fortune from World War Two . "
+by,steal.01,property,,Affirmative,"Mr Strauss - Kahn 's ex wife , the journalist Anne Sinclair , comes from a Franco-jewish family whose art collection and other as property was stolen by the Nazis . "
+ex wife,edit.01,Ms Sinclair,,Affirmative,In a comment on the film in the French version of the Huffington Post news website which she edits Ms Sinclair also accused the film of anti-semitsim . 
+She,say.01,that she had,,Affirmative,"She said , however , that she had no plans to sue . "
+ex wife,have.03,no plans,,Affirmative,"She said , however , that she had no plans to sue . "
+I,attack.01,filth,,Affirmative,"I do n't attack filth , I spit it out , she wrote . "
+I,spit.01,it,,Affirmative,"I do n't attack filth , I spit it out , she wrote . "
+she,write.01,", I spit it out",,Affirmative,"I do n't attack filth , I spit it out , she wrote . "

@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+CHEHALIS -,say.01,needed,,Affirmative,CHEHALIS - The Washington State Patrol says a school bus driver and five middle school students needed medical attention after a 13 - year - old discharged pepper spray inside a packed school bus en route to a Mount St. Helens field trip . 
+a school bus driver and,need.01,medical attention,,Affirmative,CHEHALIS - The Washington State Patrol says a school bus driver and five middle school students needed medical attention after a 13 - year - old discharged pepper spray inside a packed school bus en route to a Mount St. Helens field trip . 
+Troopers,say.01,students were headed south from Tumwater,,Affirmative,Troopers say 46 students were headed south from Tumwater on Monday morning when the spray filled the bus . 
+pepper spray inside a packed school bus,fill.01,a packed school bus,,Affirmative,Troopers say 46 students were headed south from Tumwater on Monday morning when the spray filled the bus . 
+KOMO - TV,report.01,driver stopped on,,Affirmative,KOMO - TV reported that the 28 - year - old female bus driver stopped on the shoulder of Interstate 5 when she began having breathing problems . 
+a 13-year-old discharged pepper spray inside a packed school bus en route to a Mount St. Helens field trip,begin.01,having,,Affirmative,KOMO - TV reported that the 28 - year - old female bus driver stopped on the shoulder of Interstate 5 when she began having breathing problems . 
+a 13-year-old discharged pepper spray inside a packed school bus en route to a Mount St. Helens field trip,have.03,breathing problems,,Affirmative,KOMO - TV reported that the 28 - year - old female bus driver stopped on the shoulder of Interstate 5 when she began having breathing problems . 
+Medics and troopers,treat.01,five students,,Affirmative,Medics and troopers treated five students directly exposed to the spray . 
+Troopers,say.01,driver was,,Affirmative,Troopers say the driver was the only person who went to a hospital for additional treatment . 
+The Washington State Patrol,say.01,handed,,Affirmative,"The State Patrol says the student who discharged the spray handed the container to another student , who passed it off to a third student . "
+the student,discharge.10,pepper spray inside a packed school bus,,Affirmative,"The State Patrol says the student who discharged the spray handed the container to another student , who passed it off to a third student . "
+the student,hand.01,the container,to,Affirmative,"The State Patrol says the student who discharged the spray handed the container to another student , who passed it off to a third student . "
+"another student ,",pass.14,pepper spray inside a packed school bus,to,Affirmative,"The State Patrol says the student who discharged the spray handed the container to another student , who passed it off to a third student . "
+The district,send.01,another driver,,Affirmative,The district sent another driver and the field trip continued . 

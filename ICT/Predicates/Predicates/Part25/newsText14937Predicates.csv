@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Michael Moore , 21 ,",plead.02,guilty to,,Affirmative,"Michael Moore , 21 , pleaded guilty to aggravated robbery , two counts of robbery , tampering with evidence , receiving stolen property and obstructing official business . "
+two counts of robbery,tamper.01,with evidence,,Affirmative,"Michael Moore , 21 , pleaded guilty to aggravated robbery , two counts of robbery , tampering with evidence , receiving stolen property and obstructing official business . "
+"Michael Moore , 21 ,",receive.01,stolen property,,Affirmative,"Michael Moore , 21 , pleaded guilty to aggravated robbery , two counts of robbery , tampering with evidence , receiving stolen property and obstructing official business . "
+"Michael Moore , 21 ,",obstruct.01,official business,,Affirmative,"Michael Moore , 21 , pleaded guilty to aggravated robbery , two counts of robbery , tampering with evidence , receiving stolen property and obstructing official business . "
+The victim,say.01,hit him in,,Affirmative,"The victim said that one of them hit him in the head with the butt of the gun and then went rummaging through his pockets and taking an undisclosed amount of money , his cellphone , wallet and pizza order . "
+one of them,hit.01,The victim,with,Affirmative,"The victim said that one of them hit him in the head with the butt of the gun and then went rummaging through his pockets and taking an undisclosed amount of money , his cellphone , wallet and pizza order . "
+one of them,go.02,rummaging through,,Affirmative,"The victim said that one of them hit him in the head with the butt of the gun and then went rummaging through his pockets and taking an undisclosed amount of money , his cellphone , wallet and pizza order . "
+officers,arrest.01,Moore and,,Affirmative,"Once police arrived on the scene , there was a brief foot chase , and officers arrested Moore and Andre Hopper , 21 , of Elyria . "
+Elyria police Lt. William Pelko,say.01,men were spotted lying on,,Affirmative,"The men were spotted lying on the ground in the backyard of a Fifth Street home , Pelko said . "

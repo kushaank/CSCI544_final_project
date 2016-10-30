@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Facebook,work.01,on,,Affirmative,Facebook is working on its own video-chat app after failing to purchase mobile messaging startup Snapchat . 
+networking site,work.01,on,,Affirmative,"The social - networking site has been working on a new app , which it has called Slingshot , for several months now , according to a report by the Financial Times this weekend . "
+a new app,allow.01,users to send,,Affirmative,"The app would allow users to send short video messages just by using a touch - screen , according to the report , citing people familiar with its plans . "
+users,send.01,short video messages,,Affirmative,"The app would allow users to send short video messages just by using a touch - screen , according to the report , citing people familiar with its plans . "
+a report by the Financial Times this weekend,cite.01,people familiar with,,Affirmative,"The app would allow users to send short video messages just by using a touch - screen , according to the report , citing people familiar with its plans . "
+Facebook,decide.01,not to proceed with,,Affirmative,"Slingshot could launch as early as sometime this month , though Facebook may ultimately decide not to proceed with the launch of the app at all , according to one source . "
+Facebook,proceed.01,with,,Affirmative,"Slingshot could launch as early as sometime this month , though Facebook may ultimately decide not to proceed with the launch of the app at all , according to one source . "
+Facebook,purchase.01,app Whatsapp,,Affirmative,"Facebook then purchased mobile messaging app Whatsapp for $ 19 billion , its largest acquisition ever . "
+"Snapchat ,",allow.01,users to send,,Affirmative,"Snapchat , which allows users to send smartphone pictures that automatically disappear after a predetermined time , is popular among teenagers and is easily one of the most downloaded apps currently available . "
+users,send.01,smartphone pictures,,Affirmative,"Snapchat , which allows users to send smartphone pictures that automatically disappear after a predetermined time , is popular among teenagers and is easily one of the most downloaded apps currently available . "
+"Snapchat , which allows users to send smartphone pictures that automatically disappear after a predetermined time",reach.01,a settlement with,,Affirmative,Snapchat recently reached a settlement with the FTC after being charged with endangering user privacy . 
+The messaging service,have.03,yet,,Affirmative,"The messaging service has yet to admit nor deny the accusations however , according to the Associated Press . "
+The messaging service,deny.01,the accusations,,Affirmative,"The messaging service has yet to admit nor deny the accusations however , according to the Associated Press . "
+Facebook,reach.01,a decision on,,Affirmative,Make sure to check back once Facebook reaches a decision on its video-chat app . 

@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,enter.01,the location,,Affirmative,"Sorry , but the location you entered was not found . "
+Investigators,say.01,deputy shot and killed,,Affirmative,Investigators say a sheriff 's deputy shot and killed a man who charged at him with a weapon . 
+deputy,kill.01,a man,,Affirmative,Investigators say a sheriff 's deputy shot and killed a man who charged at him with a weapon . 
+office,say.01,deputy responded to,,Affirmative,"The sheriff 's office said the deputy responded to an argument between a man and a woman , then the man charged at the deputy with a weapon and would not listen to the officer 's commands . "
+the deputy with a weapon,respond.01,to,,Affirmative,"The sheriff 's office said the deputy responded to an argument between a man and a woman , then the man charged at the deputy with a weapon and would not listen to the officer 's commands . "
+the man,listen.01,to,,Affirmative,"The sheriff 's office said the deputy responded to an argument between a man and a woman , then the man charged at the deputy with a weapon and would not listen to the officer 's commands . "
+the deputy with a weapon,open.01,fire,,Affirmative,"The deputy opened fire , killing the man . "
+the deputy with a weapon,kill.01,a man,,Affirmative,"The deputy opened fire , killing the man . "
+Agents with,take.12,the investigation,,Affirmative,Agents with the State Bureau of Investigation have taken over the investigation . 

@@ -1,0 +1,60 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+ROLF Harris,tell.01,jury has heard,old girl,Affirmative,"ROLF Harris told an 11 - year - old girl he wanted to be the first person to give her a tongue kiss , a jury has heard . "
+ROLF Harris,want.01,to be,,Affirmative,"ROLF Harris told an 11 - year - old girl he wanted to be the first person to give her a tongue kiss , a jury has heard . "
+the first person,give.01,a tongue kiss,her,Affirmative,"ROLF Harris told an 11 - year - old girl he wanted to be the first person to give her a tongue kiss , a jury has heard . "
+The woman,tell.01,that she met,Southwark Crown Court,Affirmative,The woman told Southwark Crown Court that she met the artist at a family friend 's home in Australia in 1969 while she was off sick from school . 
+The woman,meet.02,the artist,,Affirmative,The woman told Southwark Crown Court that she met the artist at a family friend 's home in Australia in 1969 while she was off sick from school . 
+The woman,see.01,"Harris ,",,Affirmative,"She came downstairs in her pyjamas and saw Harris , who had been polishing a piece of wood , the court heard . "
+"Harris ,",polish.01,a piece of wood,,Affirmative,"She came downstairs in her pyjamas and saw Harris , who had been polishing a piece of wood , the court heard . "
+The woman,say.01,When I came down,,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+ROLF Harris,ask.01,old I was,me,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+ROLF Harris,say.01,"good , I want",,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+The woman,want.01,to be,,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+the first one,introduce.01,you,to,Affirmative,"The woman said : When I came down the stairs he asked me how old I was , and he said ' good , I want to be the first one to introduce you to a tongue kiss ' . "
+The woman,think.01,anything,,Affirmative,"I just stood there , I did n't think anything . "
+The woman,freeze.01,I just stood there,,Affirmative,"I just stood there , I froze . "
+"Harris , 84 ,",kiss.01,an 11-year-old girl he wanted to be the first person to give her `` a tongue kiss '',,Affirmative,"It is claimed that Harris , 84 , then walked up to the girl and kissed her . "
+an 11-year-old girl he wanted to be the first person to give her `` a tongue kiss '',say.01,He put,,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+ROLF Harris,put.01,his tongue,in,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+ROLF Harris,give.01,a tongue kiss,me,Affirmative,She said : He put his tongue in my mouth and gave me a tongue kiss . 
+an 11-year-old girl he wanted to be the first person to give her `` a tongue kiss '',continue.02,I was quite repulsed by it,,Affirmative,She continued : I was quite repulsed by it . 
+by it,repulse.01,an 11-year-old girl he wanted to be the first person to give her `` a tongue kiss '',,Affirmative,She continued : I was quite repulsed by it . 
+ROLF Harris,show.01,the wood,her,Affirmative,"After the alleged incident , Harris showed her the wood he had been polishing , the court heard . "
+ROLF Harris,polish.01,the wood,,Affirmative,"After the alleged incident , Harris showed her the wood he had been polishing , the court heard . "
+Southwark Crown Court,hear.01,", Harris showed her",,Affirmative,"After the alleged incident , Harris showed her the wood he had been polishing , the court heard . "
+The woman,say.01,He just stopped and,,Affirmative,The woman said : He just stopped and then he just went and said ' have a look at what I 've been doing ' . 
+ROLF Harris,say.01,have,,Affirmative,The woman said : He just stopped and then he just went and said ' have a look at what I 've been doing ' . 
+The woman,do.02,',,Affirmative,The woman said : He just stopped and then he just went and said ' have a look at what I 've been doing ' . 
+The woman,say.01,that she had told each of,,Affirmative,"She said that she had told each of her three husbands about the allegation , because it made her uncomfortable about being kissed in that way . "
+The woman,tell.01,about,each of,Affirmative,"She said that she had told each of her three husbands about the allegation , because it made her uncomfortable about being kissed in that way . "
+each of her three husbands,make.02,her uncomfortable about,,Affirmative,"She said that she had told each of her three husbands about the allegation , because it made her uncomfortable about being kissed in that way . "
+The woman,tell.01,It makes,the court,Affirmative,The woman told the court : It makes me feel very frazzled and scared and I almost have a panic attack . 
+Southwark Crown Court,make.02,me feel,,Affirmative,The woman told the court : It makes me feel very frazzled and scared and I almost have a panic attack . 
+The woman,feel.01,very frazzled and scared,,Affirmative,The woman told the court : It makes me feel very frazzled and scared and I almost have a panic attack . 
+The woman,have.03,a panic attack,,Affirmative,The woman told the court : It makes me feel very frazzled and scared and I almost have a panic attack . 
+Southwark Crown Court,hear.01,woman was assaulted by,,Affirmative,"The court heard that the woman was assaulted by her cousin when she was 17 , but was forbidden from reporting it by her parents . "
+by,assault.01,the woman,,Affirmative,"The court heard that the woman was assaulted by her cousin when she was 17 , but was forbidden from reporting it by her parents . "
+the woman,reject.01,claims by,,Affirmative,But the woman rejected claims by the defence that she had confused the two alleged encounters . 
+the woman,confuse.01,the two alleged encounters,,Affirmative,But the woman rejected claims by the defence that she had confused the two alleged encounters . 
+the woman,say.01,There 's,,Affirmative,She said : There 's no possibility I can mix them up . 
+the woman,mix.01,her parents,,Affirmative,She said : There 's no possibility I can mix them up . 
+the woman,describe.01,how Harris allegedly put,,Affirmative,The court heard from another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17 . 
+ROLF Harris,put.01,his hand,up,Affirmative,The court heard from another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17 . 
+The witness,say.01,that she met,,Affirmative,"The witness said that she met the entertainer at an event in New Zealand in 1970 , where he gave her his autograph and posed for photos . "
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,meet.02,the entertainer,,Affirmative,"The witness said that she met the entertainer at an event in New Zealand in 1970 , where he gave her his autograph and posed for photos . "
+the entertainer,give.01,his autograph and posed for photos,her,Affirmative,"The witness said that she met the entertainer at an event in New Zealand in 1970 , where he gave her his autograph and posed for photos . "
+the entertainer,pose.02,for photos,,Affirmative,"The witness said that she met the entertainer at an event in New Zealand in 1970 , where he gave her his autograph and posed for photos . "
+ROLF Harris,ask.02,"to dance ,",her,Affirmative,"Harris then asked her to dance , slid his hand onto her bottom and put it between her legs , the court heard . "
+The witness,try.01,to put,,Affirmative,"I was in a public place , he slid his hand down my back against my bottom and then in a moment put his hand up my skirt and tried to put his hand in between my legs . "
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,consider.02,going to,,Affirmative,"She did not consider going to the police because she did not think she would be believed , the court heard . "
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,think.01,she would be believed,,Affirmative,"She did not consider going to the police because she did not think she would be believed , the court heard . "
+Southwark Crown Court,hear.01,She did not consider going to,,Affirmative,"She did not consider going to the police because she did not think she would be believed , the court heard . "
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,say.01,year she felt,,Affirmative,But she said that when reports surfaced about the allegations against Harris last year she felt unbelievable relief . 
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,feel.02,unbelievable relief,,Affirmative,But she said that when reports surfaced about the allegations against Harris last year she felt unbelievable relief . 
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,think.01,they 've finally got,,Affirmative,She told the court : I thought ' they 've finally got the b ***** d ' . 
+they,get.01,the b ***** d ',,Affirmative,She told the court : I thought ' they 've finally got the b ***** d ' . 
+another woman who broke down as she described how Harris allegedly put his hand up her skirt when she was aged 16 or 17,feel.02,the relief,,Affirmative,It was all those years later but it was unbelievable the relief I felt . 
+ROLF Harris,deny.01,the charges,,Affirmative,He denies the charges . 
+we,accept.01,comments about,,Affirmative,"Sorry , we are unable to accept comments about this article at the moment . "
+you,find.01,some great articles,,Affirmative,"However , you will find some great articles which you can comment on right now in our Comment section . "
+you,comment.01,some great articles,,Affirmative,"However , you will find some great articles which you can comment on right now in our Comment section . "

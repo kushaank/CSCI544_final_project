@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+by,indict.01,Five Chinese individuals,,Affirmative,Five Chinese individuals have been indicted Monday by a U.S. grand jury of cyber spying charges on six U.S. companies and allegedly stealing trade secrets . 
+Five Chinese individuals,steal.01,trade secrets,,Affirmative,Five Chinese individuals have been indicted Monday by a U.S. grand jury of cyber spying charges on six U.S. companies and allegedly stealing trade secrets . 
+U.S.,accuse.01,China,of,Affirmative,This is the first time that U.S. publicly accused China of cyber espionage . 
+The Federal Bureau of Investigation,trace.02,the computer attacks,to Unit 61398 of,Affirmative,"The Federal Bureau of Investigation traced the computer attacks to Unit 61398 of the People 's Liberation Army , stationed in a building in Shanghai , China . "
+The U.S. Justice Department,say.01,hackers targeted,,Affirmative,"The U.S. Justice Department said the Chinese hackers targeted U.S. companies in the nuclear power , metals and solar products industries to steal information useful to competitors in China . "
+the Chinese hackers,target.01,six U.S. companies,,Affirmative,"The U.S. Justice Department said the Chinese hackers targeted U.S. companies in the nuclear power , metals and solar products industries to steal information useful to competitors in China . "
+the Chinese hackers,steal.01,information useful to competitors in China,,Affirmative,"The U.S. Justice Department said the Chinese hackers targeted U.S. companies in the nuclear power , metals and solar products industries to steal information useful to competitors in China . "
+Officials,give.01,an example of hacking done by,,Affirmative,Officials gave an example of hacking done by the indicted Chinese individuals . 
+by,do.02,hacking done by,,Affirmative,Officials gave an example of hacking done by the indicted Chinese individuals . 
+Officials,say.01,hackers stole,,Affirmative,"They said the hackers stole cost , pricing and strategy information from SolarWorld at the very time the company was losing market share to Chinese rivals . "
+"the Chinese hackers targeted U.S. companies in the nuclear power , metals and solar products industries to steal information useful to competitors in China",steal.01,information,from SolarWorld,Affirmative,"They said the hackers stole cost , pricing and strategy information from SolarWorld at the very time the company was losing market share to Chinese rivals . "
+the company,lose.02,market share,to,Affirmative,"They said the hackers stole cost , pricing and strategy information from SolarWorld at the very time the company was losing market share to Chinese rivals . "
+James Lewis,say.01,it sends,,Affirmative,Senior fellow at the Center for Strategic and International studies James Lewis said it sends a strong message to the Chinese . 
+the Center,send.01,a strong message,to,Affirmative,Senior fellow at the Center for Strategic and International studies James Lewis said it sends a strong message to the Chinese . 

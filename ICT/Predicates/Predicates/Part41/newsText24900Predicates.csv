@@ -1,0 +1,18 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Patrons visiting,visit.01,Klyde Warren Park,,Affirmative,Patrons visiting Klyde Warren Park have a new space to sit back and relax . 
+Patrons visiting,have.03,a new space,,Affirmative,Patrons visiting Klyde Warren Park have a new space to sit back and relax . 
+by,sponsor.01,"The Southwest Porch , sponsored by",,Affirmative,"The Southwest Porch , sponsored by Southwest Airlines , opened Monday and offers couches , chairs and wooden tables , along with free Wi - Fi , on Olive Street above the westbound lanes of Woodall Rodgers Freeway . "
+"The Southwest Porch , sponsored by",offer.01,"couches , chairs and",,Affirmative,"The Southwest Porch , sponsored by Southwest Airlines , opened Monday and offers couches , chairs and wooden tables , along with free Wi - Fi , on Olive Street above the westbound lanes of Woodall Rodgers Freeway . "
+The airline,create.01,its first Southwest Porch,,Affirmative,"The airline created its first Southwest Porch in 2009 in Manhattan 's Bryant Park , extending the program to Denver , Atlanta and Dallas , which now has two ( the other is in Annette Strauss Square in the Arts District ) . "
+The airline,extend.01,the program,"to Denver , Atlanta and Dallas",Affirmative,"The airline created its first Southwest Porch in 2009 in Manhattan 's Bryant Park , extending the program to Denver , Atlanta and Dallas , which now has two ( the other is in Annette Strauss Square in the Arts District ) . "
+"Denver , Atlanta and Dallas",have.03,two,,Affirmative,"The airline created its first Southwest Porch in 2009 in Manhattan 's Bryant Park , extending the program to Denver , Atlanta and Dallas , which now has two ( the other is in Annette Strauss Square in the Arts District ) . "
+Green,say.01,area will be used for,,Affirmative,"Green says the area will be used for indie music events , poetry readings and book clubs , along with serving as a spot for guests to relax . "
+"Kevin Krone ,",use.01,the opening of,,Affirmative,"Kevin Krone , chief marketing officer for Southwest , used the opening of the porch to reveal new routes the company will begin offering in October with the lifting of flight restrictions at Love Field . "
+the company,begin.01,offering in October,,Affirmative,"Kevin Krone , chief marketing officer for Southwest , used the opening of the porch to reveal new routes the company will begin offering in October with the lifting of flight restrictions at Love Field . "
+the company,offer.01,new routes,,Affirmative,"Kevin Krone , chief marketing officer for Southwest , used the opening of the porch to reveal new routes the company will begin offering in October with the lifting of flight restrictions at Love Field . "
+Kevin Krone,believe.01,park offers,,Affirmative,Krone believes the park offers a refreshing change for the Southwest brand . 
+Klyde Warren Park,offer.01,a refreshing change for,,Affirmative,Krone believes the park offers a refreshing change for the Southwest brand . 
+its first Southwest Porch,feature.01,eating areas,,Affirmative,The porch is an extension of the Relish restaurant and also features eating areas . 
+"Local News columnists , reporters and editors",invite.01,you,to join,Affirmative,"Local News columnists , reporters and editors invite you to join the discussion of the hot topics of the day . "
+you,join.01,the discussion of,,Affirmative,"Local News columnists , reporters and editors invite you to join the discussion of the hot topics of the day . "
+We,encourage.02,thoughtful reader contributions on,,Affirmative,We encourage thoughtful reader contributions on any interesting subject in the news . 

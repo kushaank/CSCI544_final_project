@@ -1,0 +1,115 @@
+1	A	a	DT	_	2	det	_
+2	referendum	referendum	NN	_	9	nsubj	9:A0=PAG
+3	on	on	IN	_	2	prep	_
+4	defence	defence	NN	_	5	nn	_
+5	funding	funding	NN	_	3	pobj	_
+6	in	in	IN	_	5	prep	_
+7	Switzerland	switzerland	NNP	_	6	pobj	_
+8	has	have	VBZ	_	9	aux	_
+9	halted	halt	VBN	pb=halt.01	0	root	_
+10	the	the	DT	_	12	det	_
+11	procurement	procurement	NN	_	12	nn	_
+12	process	process	NN	_	9	dobj	9:A1=PPT
+13	for	for	IN	_	12	prep	_
+14	22	0	CD	_	18	num	_
+15	Gripen	gripen	NNP	p2=JJ	18	nn	_
+16	E	e	NNP	p2=NN	18	nn	_
+17	fighter	fighter	NN	_	18	nn	_
+18	jets	jet	NNS	_	13	pobj	_
+19	.	.	.	_	9	punct	_
+
+1	Saab	saab	NNP	_	3	nsubj	3:A0=PAG;7:A0=PAG
+2	will	will	MD	_	3	aux	3:AM-MOD
+3	continue	continue	VB	pb=continue.01	0	root	_
+4	with	with	IN	_	3	prep	3:A1=PPT
+5	plans	plan	NNS	_	4	pobj	_
+6	to	to	TO	_	7	aux	_
+7	supply	supply	VB	p2=NN|pb=supply.01	5	infmod	_
+8	60	0	CD	_	12	num	_
+9	Gripen	gripen	NNP	p2=JJ	12	nn	_
+10	E	e	NNP	p2=NN	12	nn	_
+11	fighter	fighter	NN	_	12	nn	_
+12	jets	jet	NNS	_	7	dobj	7:A1=PPT
+13	to	to	IN	_	7	prep	7:A2=GOL
+14	Sweden	sweden	NNP	_	13	pobj	_
+15	.	.	.	_	3	punct	_
+
+1	In	in	IN	_	0	root	_
+2	anticipation	anticipation	NN	_	1	pobj	_
+3	of	of	IN	_	2	prep	_
+4	the CHF	the chf	$	p2=EX	6	quantmod	_
+5	3.126	0	CD	_	6	number	_
+6	billion	#crd#	CD	_	7	nn	_
+7	program	program	NN	_	11	nn	_
+8	,	,	,	_	7	punct	_
+9	Saab	saab	NNP	_	11	nn	_
+10	setup 500	setup 0	CD	p2=VBD	9	num	_
+11	contracts	contract	NNS	_	3	pobj	_
+12	with	with	IN	_	11	prep	_
+13	125	0	CD	_	15	num	_
+14	Swiss	swiss	JJ	_	15	amod	_
+15	businesses	business	NNS	_	12	pobj	_
+16	.	.	.	_	1	punct	_
+
+1	Saab	saab	NNP	_	3	nsubj	3:A0
+2	has	have	VBZ	_	3	aux	_
+3	said 	said 	VBN	p2=,|pb=said .01	0	root	_
+4	"	"	``	p2=''	8	punct	_
+5	contracts	contract	NNS	_	8	nsubj	6:A1=PPT;8:A1=PPT
+6	placed	place	VBN	p2=''|pb=place.01	5	partmod	_
+7	will	will	MD	_	8	aux	8:AM-MOD
+8	be	be	VB	pb=be.01	3	ccomp	3:A1
+9	honoured	honoured	JJ	p2=VBN	8	acomp	8:A2=PRD
+10	,	,	,	_	8	punct	_
+11	subject	subject	JJ	p2=VB	8	acomp	8:AM-ADV
+12	to	to	IN	_	11	prep	_
+13	their	their	PRP$	_	14	poss	_
+14	terms	term	NNS	_	12	pobj	_
+15	and	and	CC	_	14	cc	_
+16	conditions	condition	NNS	_	14	conj	_
+17	"	"	''	_	8	punct	_
+18	.	.	.	_	3	punct	_
+
+1	Gripen	gripen	NNP	p2=VBN	4	nsubjpass	_
+2	is	be	VBZ	_	4	auxpass	_
+3	currently	currently	RB	_	4	advmod	4:AM-TMP
+4	used	use	VBN	p2=JJ|pb=use.01	0	root	_
+5	by Sweden	by sweden	NNP	_	4	dobj	4:A1=PPT
+6	,	,	,	_	5	punct	_
+7	South	south	NNP	_	8	nn	_
+8	Africa	africa	NNP	_	5	conj	_
+9	,	,	,	_	8	punct	_
+10	Czech	czech	NNP	_	11	nn	_
+11	Republic	republic	NNP	_	8	conj	_
+12	,	,	,	_	11	punct	_
+13	Hungary	hungary	NNP	_	11	conj	_
+14	and	and	CC	_	13	cc	_
+15	Thailand	thailand	NNP	_	13	conj	_
+16	.	.	.	_	4	punct	_
+
+1	In	in	IN	_	15	prep	15:AM-DIS
+2	addition	addition	NN	_	1	pobj	_
+3	,	,	,	_	15	punct	_
+4	The	the	DT	p2=NNP	8	det	_
+5	Empire	empire	NNP	_	6	nn	_
+6	Test	test	NNP	_	8	nn	_
+7	Pilot	pilot	NNP	p2=NN	8	nn	_
+8	School	school	NNP	_	15	nsubj	15:A0=PAG
+9	(	(	-LRB-	_	8	punct	_
+10	ETPS	etps	NNP	_	8	appos	_
+11	)	)	-RRB-	_	8	punct	_
+12	in	in	IN	_	8	prep	_
+13	the	the	DT	_	14	det	_
+14	UK	uk	NNP	_	12	pobj	_
+15	uses	use	VBZ	p2=NNS|pb=use.01	0	root	_
+16	Gripen	gripen	NNP	p2=NNPS	15	dobj	15:A1=PPT
+17	in	in	IN	_	15	prep	15:AM-LOC
+18	its	its	PRP$	_	20	poss	_
+19	training	training	NN	_	20	nn	_
+20	programme	programme	NN	_	17	pobj	_
+21	for	for	IN	_	20	prep	_
+22	future	future	JJ	p2=NN	24	amod	_
+23	test	test	NN	_	24	nn	_
+24	pilots	pilot	NNS	_	21	pobj	_
+25	.	.	.	_	15	punct	_
+

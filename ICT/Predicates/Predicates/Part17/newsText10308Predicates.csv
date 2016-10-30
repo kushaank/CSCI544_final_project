@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A man,plead.02,guilty to,,Affirmative,"A man has pleaded guilty to the manslaughter of Andy Marshall , who died after being pushed out of the upstairs window of Cottesloe 's Ocean Beach Hotel - but prosecutors will still continue to try him for murder . "
+prosecutors,try.01,A man,,Affirmative,"A man has pleaded guilty to the manslaughter of Andy Marshall , who died after being pushed out of the upstairs window of Cottesloe 's Ocean Beach Hotel - but prosecutors will still continue to try him for murder . "
+Stefan Pahia Schmidt,win.01,an appeal against,,Affirmative,"Mr Schmidt had been convicted of murder after a jury trial , but won an appeal against his conviction in a unanimous decision delivered by three judges of the Court of Appeal last year . "
+by,deliver.01,a unanimous decision delivered by,,Affirmative,"Mr Schmidt had been convicted of murder after a jury trial , but won an appeal against his conviction in a unanimous decision delivered by three judges of the Court of Appeal last year . "
+Stefan Pahia Schmidt,say.01,he would plead guilty to,,Affirmative,"At the commencement of the retrial , Mr Schmidt said he would plead guilty to the manslaughter of Mr Marshall , but denied murdering him . "
+Stefan Pahia Schmidt,plead.02,guilty to,,Affirmative,"At the commencement of the retrial , Mr Schmidt said he would plead guilty to the manslaughter of Mr Marshall , but denied murdering him . "
+Stefan Pahia Schmidt,deny.01,murdering him,,Affirmative,"At the commencement of the retrial , Mr Schmidt said he would plead guilty to the manslaughter of Mr Marshall , but denied murdering him . "
+Stefan Pahia Schmidt,murder.01,Stefan Pahia Schmidt,,Affirmative,"At the commencement of the retrial , Mr Schmidt said he would plead guilty to the manslaughter of Mr Marshall , but denied murdering him . "
+Prosecutor Bruno Fiannaca,say.01,they would not accept,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+three judges of the Court of Appeal,accept.01,that plea,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+Prosecutor Bruno Fiannaca,continue.01,with,,Affirmative,"Prosecutor Bruno Fiannaca said they would not accept that plea , and continued with the trial . "
+Mr Fiannaca,describe.01,had pushed,,Affirmative,"Mr Fiannaca described how Mr Schmidt , in a fit of rage had pushed Mr Marshall so hard he had crashed through the window and fell five metres to the floor below . "
+Stefan Pahia Schmidt,push.01,"Andy Marshall , who died after being pushed by Mr Schmidt while talking to a woman at the beachfront pub on May 8 , 2011",,Affirmative,"Mr Fiannaca described how Mr Schmidt , in a fit of rage had pushed Mr Marshall so hard he had crashed through the window and fell five metres to the floor below . "
+Mr Fiannaca,say.01,would showed,,Affirmative,Mr Fiannaca said text messages sent by Mr Schmidt to a friend and his girlfriend would showed he was not shocked by the incident . 
+by,send.01,text messages sent by,to,Affirmative,Mr Fiannaca said text messages sent by Mr Schmidt to a friend and his girlfriend would showed he was not shocked by the incident . 
+text messages sent by,show.01,he was not shocked by,,Affirmative,Mr Fiannaca said text messages sent by Mr Schmidt to a friend and his girlfriend would showed he was not shocked by the incident . 
+by,shock.01,Stefan Pahia Schmidt,,Affirmative,Mr Fiannaca said text messages sent by Mr Schmidt to a friend and his girlfriend would showed he was not shocked by the incident . 
+lawyer Colin Lovitt QC,say.01,Schmidt had not intended,,Affirmative,Defence lawyer Colin Lovitt QC said that Mr Schmidt had not intended to push Mr Marshall through the window - but his actions had been violent and a gross overreaction . 
+Stefan Pahia Schmidt,intend.01,to push,,Affirmative,Defence lawyer Colin Lovitt QC said that Mr Schmidt had not intended to push Mr Marshall through the window - but his actions had been violent and a gross overreaction . 
+Stefan Pahia Schmidt,push.01,"Andy Marshall , who died after being pushed by Mr Schmidt while talking to a woman at the beachfront pub on May 8 , 2011",through,Affirmative,Defence lawyer Colin Lovitt QC said that Mr Schmidt had not intended to push Mr Marshall through the window - but his actions had been violent and a gross overreaction . 
+Defence lawyer Colin Lovitt QC,have.03,any intent,,Affirmative,"He did n't have any intent to cause serious injuries , or any injuries at all really , Mr Lovitt said . "
+Mr Lovitt,say.01,He did n't have,,Affirmative,"He did n't have any intent to cause serious injuries , or any injuries at all really , Mr Lovitt said . "
+( Mr Schmidt ),intend.01,to injure,,Affirmative,But it all boils down to whether ( Mr Schmidt ) intended to injure this man ... 
+( Mr Schmidt ),injure.01,this man,,Affirmative,But it all boils down to whether ( Mr Schmidt ) intended to injure this man ... 
+We,say.01,case falls,,Affirmative,We say the prosecution case falls well short of that . 
+the appeal court,rule.01,there had been,,Affirmative,The retrial was ordered after the appeal court ruled there had been a miscarriage of justice because the trial judge did not adequately direct the jury on an essential element of the case against Mr Schmidt . 
+the trial judge,direct.01,the jury,on,Affirmative,The retrial was ordered after the appeal court ruled there had been a miscarriage of justice because the trial judge did not adequately direct the jury on an essential element of the case against Mr Schmidt . 

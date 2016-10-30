@@ -1,0 +1,37 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+you,think.01,Senate had exhibited,,Affirmative,"Just when you thought the state Senate had exhibited a sense of restraint by rejecting a backdoor pay hike last Tuesday , a majority of senators actually reversed that decision late the following day . "
+the state Senate,exhibit.01,a sense of restraint,,Affirmative,"Just when you thought the state Senate had exhibited a sense of restraint by rejecting a backdoor pay hike last Tuesday , a majority of senators actually reversed that decision late the following day . "
+the state Senate,reject.01,a backdoor pay hike,,Affirmative,"Just when you thought the state Senate had exhibited a sense of restraint by rejecting a backdoor pay hike last Tuesday , a majority of senators actually reversed that decision late the following day . "
+a majority of senators,reverse.01,that decision,,Affirmative,"Just when you thought the state Senate had exhibited a sense of restraint by rejecting a backdoor pay hike last Tuesday , a majority of senators actually reversed that decision late the following day . "
+by,approve.01,the budget revision approved by,,Affirmative,"Under the budget revision approved by the Senate , 25-20 , legislators would see their so - called in-district expense checks double from $ 12,000 to $ 24,000 a year . "
+legislators who are willing to raise their own pay,see.01,checks double from,,Affirmative,"Under the budget revision approved by the Senate , 25-20 , legislators would see their so - called in-district expense checks double from $ 12,000 to $ 24,000 a year . "
+some members,enjoy.01,"10,400 salaries ,",,Affirmative,"That 's in addition to their $ 10,400 salaries , generous retirement benefits ( which some members enjoy even as they serve in the Legislature ) and per diem . "
+"Sen. Paul Thurmond ,",argue.01,against,,Affirmative,"Sen. Paul Thurmond , R - Charleston , on Tuesday argued persuasively against the proposal , which was quietly inserted as a budget proviso during committee deliberations . "
+"Sen. Ray Cleary ,",change.01,his mind,,Affirmative,"But Sen. Ray Cleary , R - Murrells Inlet , changed his mind on the vote , and under parliamentary rules was able to bring the matter back for the Senate 's consideration . "
+"Sen. Ray Cleary ,",bring.01,the matter,,Affirmative,"But Sen. Ray Cleary , R - Murrells Inlet , changed his mind on the vote , and under parliamentary rules was able to bring the matter back for the Senate 's consideration . "
+R-Murrells Inlet,gain.02,a majority of votes,,Affirmative,It gained a majority of votes after the pay hike was made optional . 
+senators,opt.01,out of,,Affirmative,"Senators could opt out of the benefit , and surely some would do so - initially . "
+Calling it something other than,avoid.01,the political consequences to legislators,,Affirmative,Calling it something other than a salary hike avoids the political consequences to legislators who are willing to raise their own pay . 
+legislators,raise.01,their own pay,,Affirmative,Calling it something other than a salary hike avoids the political consequences to legislators who are willing to raise their own pay . 
+a majority of,feel.02,that they needed,,Affirmative,I 'm somewhat bewildered a majority of the body felt that they needed a pay raise . 
+legislators who are willing to raise their own pay,need.01,a pay raise,,Affirmative,I 'm somewhat bewildered a majority of the body felt that they needed a pay raise . 
+You,have.03,it instrumented in,,Affirmative,You certainly should n't have it instrumented in the year you 're serving . 
+"Sen. Marlon Kimpson ,",say.01,hike is needed for,,Affirmative,"But Sen. Marlon Kimpson , D - Charleston , said the salary hike is needed for what is almost a full - time job . "
+legislators who are willing to raise their own pay,tear.01,legislators who are willing to raise their own pay,,Affirmative,"Serving in the Legislature should n't be a full - time job , even though legislators ca n't seem to tear themselves away from Columbia once the session begins . "
+"the Senate , 25-20",want.01,to call it,,Affirmative,Bolstering legislative pay - whatever the Senate wants to call it - will only make legislators feel more comfortable about remaining in Columbia for an extended session . 
+"the Senate , 25-20",call.01,"the Senate , 25-20",whatever,Affirmative,Bolstering legislative pay - whatever the Senate wants to call it - will only make legislators feel more comfortable about remaining in Columbia for an extended session . 
+Bolstering,make.02,legislators feel,,Affirmative,Bolstering legislative pay - whatever the Senate wants to call it - will only make legislators feel more comfortable about remaining in Columbia for an extended session . 
+legislators who are willing to raise their own pay,feel.02,more comfortable about remaining in Columbia,,Affirmative,Bolstering legislative pay - whatever the Senate wants to call it - will only make legislators feel more comfortable about remaining in Columbia for an extended session . 
+"the Senate , 25-20",demonstrate.01,much skill at,,Affirmative,And it 's not as if the Senate demonstrates much skill at time management . 
+senators,try.01,to cram in much of,,Affirmative,"In recent years , senators have tried to cram in much of its essential business during the final few days of the session , though with only middling success . "
+The state constitution,envision.01,a session,,Affirmative,"The state constitution envisioned a session 40 days long , with commensurate pay . "
+legislators who are willing to raise their own pay,do.02,their work,,Affirmative,"The idea was that legislators would go to Columbia , do their work in a reasonable period of time and return home . "
+The Post and Courier,offer.01,the enhanced ability,,Affirmative,The Post and Courier is pleased to offer readers the enhanced ability to comment on stories . 
+that readers,comment.01,on stories,,Affirmative,The Post and Courier is pleased to offer readers the enhanced ability to comment on stories . 
+We,ask.02,"that you refrain from profanity ,",,Affirmative,"We ask that you refrain from profanity , hate speech , personal comments and remarks that are off point . "
+you,refrain.01,"from profanity ,",,Affirmative,"We ask that you refrain from profanity , hate speech , personal comments and remarks that are off point . "
+We,edit.01,submitted statements,,Affirmative,We do not edit user submitted statements and we can not promise that readers will not occasionally find offensive or inaccurate comments posted in the comments area . 
+user,submit.01,submitted statements,,Affirmative,We do not edit user submitted statements and we can not promise that readers will not occasionally find offensive or inaccurate comments posted in the comments area . 
+readers,find.01,comments posted in,,Affirmative,We do not edit user submitted statements and we can not promise that readers will not occasionally find offensive or inaccurate comments posted in the comments area . 
+you,find.01,a comment,,Affirmative,"If you find a comment that is objectionable , please click the X that appears in the upper right corner when you hover over a comment . "
+This,send.01,a comment that is objectionable,to Facebook,Affirmative,This will send the comment to Facebook for review . 

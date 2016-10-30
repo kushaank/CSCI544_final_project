@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Kenya :,know.01,their fate,,Affirmative,Kenya : More than 165 senior officers vetted in March will know their fate on Friday when their employer releases the results . 
+their employer,release.01,the results,,Affirmative,Kenya : More than 165 senior officers vetted in March will know their fate on Friday when their employer releases the results . 
+The law,require.01,to inform them first,us,Affirmative,"The law requires us to inform them first before we inform you , said a senior officer aware of the programme who asked not to be named . "
+Assistant Commissioner of Police and Senior Assistant Commissioner of Police,inform.01,the officers of the ranks of Assistant Commissioner of Police and Senior Assistant Commissioner of Police,,Affirmative,"The law requires us to inform them first before we inform you , said a senior officer aware of the programme who asked not to be named . "
+Assistant Commissioner of Police and Senior Assistant Commissioner of Police,inform.01,you,,Affirmative,"The law requires us to inform them first before we inform you , said a senior officer aware of the programme who asked not to be named . "
+a senior officer aware of,say.01,law requires us,,Affirmative,"The law requires us to inform them first before we inform you , said a senior officer aware of the programme who asked not to be named . "
+the programme,ask.02,not to be named,,Affirmative,"The law requires us to inform them first before we inform you , said a senior officer aware of the programme who asked not to be named . "
+chairman Johnston Kavuludi,confirm.01,they expect,,Affirmative,Commission chairman Johnston Kavuludi confirmed to The Standard they expect to release the results by the end of the week without elaborating . 
+Assistant Commissioner of Police and Senior Assistant Commissioner of Police,expect.01,to release,,Affirmative,Commission chairman Johnston Kavuludi confirmed to The Standard they expect to release the results by the end of the week without elaborating . 
+Assistant Commissioner of Police and Senior Assistant Commissioner of Police,release.01,the results,,Affirmative,Commission chairman Johnston Kavuludi confirmed to The Standard they expect to release the results by the end of the week without elaborating . 
+Other sources,say.01,commission is likely,,Affirmative,"Other sources said the commission is likely to ask almost 20 officers , who have attained the age of 55 and above , to take early retirement . "
+National Police Service Commission,ask.02,to take,"20 officers ,",Affirmative,"Other sources said the commission is likely to ask almost 20 officers , who have attained the age of 55 and above , to take early retirement . "
+"20 officers ,",attain.01,the age of 55 and above,,Affirmative,"Other sources said the commission is likely to ask almost 20 officers , who have attained the age of 55 and above , to take early retirement . "
+"20 officers ,",take.LV,early retirement,,Affirmative,"Other sources said the commission is likely to ask almost 20 officers , who have attained the age of 55 and above , to take early retirement . "

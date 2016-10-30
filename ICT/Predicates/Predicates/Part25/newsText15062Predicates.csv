@@ -1,0 +1,15 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+BURNS HARBOR,|.01,driver was taken to,,Affirmative,BURNS HARBOR | A truck driver was taken to the hospital after an accident Monday morning on Interstate 94 at U.S. 20 . 
+State Police,say.01,driver took,,Affirmative,"Indiana State Police said the semi driver took a ramp too fast , causing his load to shift . "
+the semi driver,take.01,a ramp,,Affirmative,"Indiana State Police said the semi driver took a ramp too fast , causing his load to shift . "
+the semi driver,cause.01,his load,,Affirmative,"Indiana State Police said the semi driver took a ramp too fast , causing his load to shift . "
+The accident and cleanup,block.01,a ramp,,Affirmative,The accident and cleanup blocked the ramp for about four hours . 
+Indiana State Police,say.01,semi pulling,,Affirmative,"Police said the semi pulling a box trailer , driven by Donald Bell , 60 , of Belleville , Mich . "
+the semi,pull.01,a box trailer,,Affirmative,"Police said the semi pulling a box trailer , driven by Donald Bell , 60 , of Belleville , Mich . "
+he,take.01,the ramp,from eastbound,Affirmative,", was traveling too fast when he took the ramp from eastbound I - 94 to westbound U.S. 20 . "
+he,westbound.01,U.S. 20,,Affirmative,", was traveling too fast when he took the ramp from eastbound I - 94 to westbound U.S. 20 . "
+The truck,haul.01,crates of,,Affirmative,"The truck was hauling crates of 6 - inch round pieces of steel , which shifted when Bell took the curve too fast , police said . "
+Donald Bell,take.01,the curve,,Affirmative,"The truck was hauling crates of 6 - inch round pieces of steel , which shifted when Bell took the curve too fast , police said . "
+police,say.01,truck was hauling crates of,,Affirmative,"The truck was hauling crates of 6 - inch round pieces of steel , which shifted when Bell took the curve too fast , police said . "
+Firefighters from,cut.02,the top of,,Affirmative,Firefighters from Burns Harbor had to cut the top of the semi tractor off to get Bell out . 
+police,say.01,Bell was cited for traveling,,Affirmative,"Bell was cited for traveling too fast to avoid a collision , police said . "

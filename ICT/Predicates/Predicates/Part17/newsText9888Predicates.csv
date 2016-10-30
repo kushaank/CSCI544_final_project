@@ -1,0 +1,19 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"Atterbell Investments , trading as",say.01,League owed it more,,Affirmative,"Atterbell Investments , trading as Gallagher Estate , said the ANC Youth League owed it more than R4 m for four events at the centre in June 2011 . "
+the ANC Youth League,owe.01,the ANC Youth League,,Affirmative,"Atterbell Investments , trading as Gallagher Estate , said the ANC Youth League owed it more than R4 m for four events at the centre in June 2011 . "
+the ANC Youth League,ask.02,to place,the court,Affirmative,In April it asked the court to place the ANCYL under final liquidation or provisionally sequestrate it . 
+the court,place.01,the ANC Youth League,under,Affirmative,In April it asked the court to place the ANCYL under final liquidation or provisionally sequestrate it . 
+the court,sequestrate.01,the ANC Youth League,,Affirmative,In April it asked the court to place the ANCYL under final liquidation or provisionally sequestrate it . 
+Judge Phillip Boruchowitz,discharge.10,a provisional liquidation order made in November,,Affirmative,High Court Judge Phillip Boruchowitz discharged a provisional liquidation order made in November last year . 
+by,apply.02,The original liquidation order against,for,Affirmative,"The original liquidation order against the league was applied for by Bloemfontein events company Z2 Presentations , which had originally been tasked with running the ANCYL 's 2008 national conference in the Free State . "
+the ANCYL 's 2008 national conference in the Free State,leave.01,the company,,Affirmative,The conference left the company R15 m out of pocket after the league did not pay its bill . 
+R15,m.01,the company,out of pocket,Affirmative,The conference left the company R15 m out of pocket after the league did not pay its bill . 
+the ANC Youth League,pay.01,its bill,,Affirmative,The conference left the company R15 m out of pocket after the league did not pay its bill . 
+"A hotel , trading as",claim.01,R1.5,,Affirmative,"A hotel , trading as Palanquin Hospitality Management and based in Bloemfontein , claimed R1.5 m from the ANCYL , lawyer Steven van Rensburg said during a new court application in January . "
+lawyer Steven van Rensburg,say.01,", claimed R1.5 m from",,Affirmative,"A hotel , trading as Palanquin Hospitality Management and based in Bloemfontein , claimed R1.5 m from the ANCYL , lawyer Steven van Rensburg said during a new court application in January . "
+"Palanquin ,",provided.01,accommodation for,,Affirmative,"Palanquin , which is in liquidation , provided accommodation for the conference delegates . "
+SMS Alerts,break.01,news stories,,Affirmative,SMS Alerts Get breaking news stories via SMS . 
+by OpenCalais,automate.01,Website keywords automated by OpenCalais,,Affirmative,Calais Website keywords automated by OpenCalais . 
+Creating,enable.01,to submit photos and stories,you,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,submit.01,photos and stories,,Affirmative,Creating your profile will enable you to submit photos and stories to get published on News24 . 
+you,select.01,The image,,Affirmative,* The image you selected could not be uploaded . 

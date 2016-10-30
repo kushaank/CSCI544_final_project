@@ -1,0 +1,42 @@
+1	To	to	TO	_	2	aux	_
+2	ignite	ignite	VB	pb=ignite.01	0	root	_
+3	change	change	NN	_	2	dobj	2:A1=PPT
+4	for	for	IN	_	3	prep	_
+5	the	the	DT	_	7	det	_
+6	common	common	JJ	_	7	amod	_
+7	good	good	NN	_	4	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Common	common	NNP	p2=JJ	2	nn	_
+2	Dreams	dream	NNPS	p2=NNP	5	nsubj	5:A0=PAG
+3	has	have	VBZ	_	5	aux	_
+4	been	be	VBN	_	5	aux	_
+5	providing	provide	VBG	pb=provide.01	0	root	_
+6	breaking	break	VBG	p2=JJ|pb=break.01	7	amod	_
+7	news	news	NN	p2=NNS	5	dobj	5:A1=PPT;6:A1=PPT
+8	&	&	CC	p2=,	7	cc	_
+9	views	view	NNS	_	7	conj	_
+10	for	for	IN	_	5	prep	5:AM-TMP
+11	the	the	DT	_	13	det	_
+12	progressive	progressive	JJ	_	13	amod	_
+13	community	community	NN	_	10	pobj	_
+14	since	since	IN	_	5	prep	5:AM-TMP
+15	1997	0	CD	_	14	pobj	_
+16	.	.	.	_	5	punct	_
+
+1	We	we	PRP	_	2	nsubj	2:A1=PPT
+2	are	be	VBP	pb=be.01	0	root	_
+3	independent	independent	JJ	_	9	amod	_
+4	,	,	,	_	9	punct	_
+5	non-profit	non-profit	JJ	_	9	amod	_
+6	,	,	,	_	14	punct	_
+7	advertising	advertising	NN	_	9	hmod	_
+8	-	-	HYPH	_	9	hyph	_
+9	free	free	JJ	_	2	acomp	2:A2=PRD
+10	and	and	CC	_	2	cc	_
+11	100	0	CD	_	12	num	_
+12	%	%	NN	_	13	nn	_
+13	reader	reader	NN	_	14	nsubj	14:A0
+14	supported	support	VBN	p2=VBD|pb=support.01	2	conj	_
+15	.	.	.	_	14	punct	_
+

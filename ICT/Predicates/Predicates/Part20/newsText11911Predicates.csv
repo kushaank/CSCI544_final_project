@@ -1,0 +1,26 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+school teacher,face.01,jail,,Affirmative,A pervert school teacher is facing jail after he was convicted of sexually abusing four teenage girls over Facebook . 
+A pervert school teacher,abuse.01,four teenage girls,,Affirmative,A pervert school teacher is facing jail after he was convicted of sexually abusing four teenage girls over Facebook . 
+"Alexander Thomas , 30 , from Swindon , Wiltshire",use.01,network site,to groom,Affirmative,"Alexander Thomas , 30 , from Swindon , Wiltshire , used the social network site to groom the sixth form students - asking them to send him semi-naked photographs , a court heard . "
+"Alexander Thomas , 30 , from Swindon , Wiltshire",groom.01,form students,,Affirmative,"Alexander Thomas , 30 , from Swindon , Wiltshire , used the social network site to groom the sixth form students - asking them to send him semi-naked photographs , a court heard . "
+"Alexander Thomas , 30 , from Swindon , Wiltshire",ask.02,to send him,them,Affirmative,"Alexander Thomas , 30 , from Swindon , Wiltshire , used the social network site to groom the sixth form students - asking them to send him semi-naked photographs , a court heard . "
+the sixth form students,send.01,semi-naked photographs,him,Affirmative,"Alexander Thomas , 30 , from Swindon , Wiltshire , used the social network site to groom the sixth form students - asking them to send him semi-naked photographs , a court heard . "
+a court,hear.01,used,,Affirmative,"Alexander Thomas , 30 , from Swindon , Wiltshire , used the social network site to groom the sixth form students - asking them to send him semi-naked photographs , a court heard . "
+by,convict.01,Studies teacher,,Affirmative,The PE and Business Studies teacher was convicted by a jury at Swindon Crown Court of five counts of inciting a child to engage in sexual activity while in a position of trust . 
+Judge Mousley,tell.01,You will be bailed between now and then,him,Affirmative,Judge Mousley told him : ' You will be bailed between now and then and that will be unconditional . 
+You,take.01,You,as,Affirmative,' You must not take that as an indication there will not be a prison sentence . 
+Alexander Thomas,admit.01,being in contact with,,Affirmative,"In a police interview , he admitted being in contact with four girls , aged between 16 and 17 , but denied any sexual contact . "
+Alexander Thomas,deny.01,any sexual contact,,Affirmative,"In a police interview , he admitted being in contact with four girls , aged between 16 and 17 , but denied any sexual contact . "
+Alexander Thomas,admit.01,having,,Affirmative,He admitted having a topless picture of one of the girls . 
+Alexander Thomas,have.03,a topless picture of one of,,Affirmative,He admitted having a topless picture of one of the girls . 
+Prosecutors,say.01,Thomas asked them,,Affirmative,Prosecutors said Thomas asked them to send him photographs of themselves in their underwear . 
+Alexander Thomas,ask.02,to send him photographs of themselves,them,Affirmative,Prosecutors said Thomas asked them to send him photographs of themselves in their underwear . 
+Prosecutors,send.01,semi-naked photographs,him,Affirmative,Prosecutors said Thomas asked them to send him photographs of themselves in their underwear . 
+a jury,clear.02,Alexander Thomas,,Affirmative,A jury cleared him of directly engaging in sexual activity with two of the girls - but convicted him over his use of Facebook between August 2010 and October 2012 . 
+a jury,convict.01,Alexander Thomas,over,Affirmative,A jury cleared him of directly engaging in sexual activity with two of the girls - but convicted him over his use of Facebook between August 2010 and October 2012 . 
+Judge Tim Mousley QC,tell.01,he was likely,the teacher,Affirmative,Judge Tim Mousley QC told the teacher he was likely to be sent to prison when he returns to the dock for sentencing on June 13 . 
+Alexander Thomas,work.01,as,,Affirmative,"Speaking outside court Wiltshire Police 's child abuse investigator Detective Constable Angela Spray said : ' Thomas worked as a secondary school teacher in Wiltshire where he systematically abused the position of trust he was in to prey on vulnerable , underage children for his own sexual gratification . "
+Alexander Thomas,abuse.01,a position of trust,,Affirmative,"Speaking outside court Wiltshire Police 's child abuse investigator Detective Constable Angela Spray said : ' Thomas worked as a secondary school teacher in Wiltshire where he systematically abused the position of trust he was in to prey on vulnerable , underage children for his own sexual gratification . "
+Alexander Thomas,groom.01,his victims,,Affirmative,' Thomas groomed his victims and encouraged them to engage in sexual acts after gaining their confidence and trust . 
+Alexander Thomas,encourage.01,his victims,to engage in,Affirmative,' Thomas groomed his victims and encouraged them to engage in sexual acts after gaining their confidence and trust . 
+our,accept.01,comments on,,Affirmative,We are no longer accepting comments on this article . 

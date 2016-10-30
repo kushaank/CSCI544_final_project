@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Police,arrest.01,a man,,Affirmative,Police arrested a man Saturday night after they said he stabbed a woman with a pair of scissors . 
+Police,say.01,he stabbed,,Affirmative,Police arrested a man Saturday night after they said he stabbed a woman with a pair of scissors . 
+a man,stab.01,a woman,with,Affirmative,Police arrested a man Saturday night after they said he stabbed a woman with a pair of scissors . 
+a man,face.01,murder charge,,Affirmative,He is now facing an attempted murder charge . 
+The Republican,report.01,incident happened at,,Affirmative,CBS 3 media partner Mass Live and The Republican reported the incident happened at a peer - run respite on Jackson Street . 
+"Darreus Lisenby , 22 ,",punch.01,the woman,,Affirmative,"Darreus Lisenby , 22 , is accused of stabbing and punching the woman several times during the attack . "
+Police,say.01,Lisenby fled,,Affirmative,"Police said Lisenby fled the scene after the alleged incident , but they caught up with and arrested him on King Street . "
+Darreus Lisenby,flee.01,the scene,,Affirmative,"Police said Lisenby fled the scene after the alleged incident , but they caught up with and arrested him on King Street . "
+Police,arrest.01,The Republican,,Affirmative,"Police said Lisenby fled the scene after the alleged incident , but they caught up with and arrested him on King Street . "
+All content,©.01,2014,,Affirmative,"All content © 2014 , WSHM ; Springfield , MA . "

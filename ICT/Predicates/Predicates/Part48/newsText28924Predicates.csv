@@ -1,0 +1,12 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A pet dog,alert.01,a family,to,Affirmative,"A pet dog alerted a family to a fire in their Town of Jackson home early Monday , and the four people inside were able to escape the blaze . "
+the four people inside,escape.01,the blaze,,Affirmative,"A pet dog alerted a family to a fire in their Town of Jackson home early Monday , and the four people inside were able to escape the blaze . "
+The first deputy,find.01,was engulfed in flames,,Affirmative,The first deputy to arrive found the garage portion of the two - story home was engulfed in flames . 
+Firefighters,control.01,the blaze,,Affirmative,Firefighters controlled the blaze quickly and prevented it from spreading to the rest of the residence . 
+Firefighters,prevent.01,the blaze,from spreading to,Affirmative,Firefighters controlled the blaze quickly and prevented it from spreading to the rest of the residence . 
+the rest of,sustain.02,smoke damage,,Affirmative,"The garage was a total loss , as was a small room attached to the garage , and the rest of the house sustained smoke damage . "
+The Jackson Fire Department,respond.01,to,,Affirmative,"The Jackson Fire Department responded to the fire and was assisted by the Fillmore , Germantown , Newburg , Richfield and Slinger fire departments . "
+by,assist.01,The Jackson Fire Department,,Affirmative,"The Jackson Fire Department responded to the fire and was assisted by the Fillmore , Germantown , Newburg , Richfield and Slinger fire departments . "
+authorities,say.01,There were,,Affirmative,"There were no working smoke detectors in the house , authorities said . "
+The American Red Cross,assist.01,a family,,Affirmative,The American Red Cross assisted the family . 
+Login or Register,manage.01,all your newsletter preferences,,Affirmative,Login or Register to manage all your newsletter preferences . 

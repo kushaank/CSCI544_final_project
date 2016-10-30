@@ -1,0 +1,67 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+the mother,say.01,had gone cold,,Affirmative,"The investigation by Maple Grove police had gone cold , the mother said , until Sunday when authorities showed up at her home and told her to pack a bag . "
+authorities,tell.01,to pack,her,Affirmative,"The investigation by Maple Grove police had gone cold , the mother said , until Sunday when authorities showed up at her home and told her to pack a bag . "
+her,pack.01,a bag,,Affirmative,"The investigation by Maple Grove police had gone cold , the mother said , until Sunday when authorities showed up at her home and told her to pack a bag . "
+I,say.01,"Yep , you 're here",,Affirmative,"I said , ' Yep , you 're here , you 're doing something , great , ' Pagnac said . "
+you,do.02,"something , great",,Affirmative,"I said , ' Yep , you 're here , you 're doing something , great , ' Pagnac said . "
+Pagnac,say.01,"I said , '",,Affirmative,"I said , ' Yep , you 're here , you 're doing something , great , ' Pagnac said . "
+by,interview.01,Neighbors,,Affirmative,"Neighbors interviewed Sunday by the Pioneer Press said they suspected something was amiss at the two - story home for years , recounting Pagnac and her husband , Marshall Midden , doing extensive landscaping in the years after the disappearance . "
+Neighbors,suspect.01,something was amiss at,,Affirmative,"Neighbors interviewed Sunday by the Pioneer Press said they suspected something was amiss at the two - story home for years , recounting Pagnac and her husband , Marshall Midden , doing extensive landscaping in the years after the disappearance . "
+Neighbors,do.02,extensive landscaping,,Affirmative,"Neighbors interviewed Sunday by the Pioneer Press said they suspected something was amiss at the two - story home for years , recounting Pagnac and her husband , Marshall Midden , doing extensive landscaping in the years after the disappearance . "
+Pagnac,say.01,rumors are being repeated by neighbors,,Affirmative,"On Monday , Pagnac said the vicious rumors are being repeated by neighbors whom they have never gotten along with . "
+by neighbors,repeat.01,the vicious rumors,,Affirmative,"On Monday , Pagnac said the vicious rumors are being repeated by neighbors whom they have never gotten along with . "
+they,get.01,neighbors,,Affirmative,"On Monday , Pagnac said the vicious rumors are being repeated by neighbors whom they have never gotten along with . "
+somebody,make.02,those kind of comments,,Affirmative,"But if somebody makes those kind of comments , law enforcement really ca n't ignore them , she said . "
+law enforcement,ignore.01,them,,Affirmative,"But if somebody makes those kind of comments , law enforcement really ca n't ignore them , she said . "
+she,say.01,enforcement really ca n't ignore them,,Affirmative,"But if somebody makes those kind of comments , law enforcement really ca n't ignore them , she said . "
+She,hope.01,prompts someone,,Affirmative,She hopes the renewed attention to her daughter 's case prompts someone to remember something that could lead to Amy . 
+the renewed attention to,prompt.02,someone,,Affirmative,She hopes the renewed attention to her daughter 's case prompts someone to remember something that could lead to Amy . 
+someone,remember.01,something,,Affirmative,She hopes the renewed attention to her daughter 's case prompts someone to remember something that could lead to Amy . 
+she,say.01,That 's,,Affirmative,"That 's the best thing that could happen , she said . "
+Midden,use.01,a bathroom,,Affirmative,Midden used a bathroom and later told authorities he could n't find his stepdaughter when he came out . 
+Midden,tell.01,he could n't find,authorities,Affirmative,Midden used a bathroom and later told authorities he could n't find his stepdaughter when he came out . 
+he,find.01,his stepdaughter,,Affirmative,Midden used a bathroom and later told authorities he could n't find his stepdaughter when he came out . 
+Pagnac,say.01,she remembered getting,,Affirmative,Pagnac said she remembered getting a call from Midden that August evening . 
+she,remember.01,getting,,Affirmative,Pagnac said she remembered getting a call from Midden that August evening . 
+she,get.01,a call from Midden,,Affirmative,Pagnac said she remembered getting a call from Midden that August evening . 
+she,say.01,He was panicked,,Affirmative,"He was panicked , she said . "
+He,say.01,I should have never gone in,,Affirmative,"He said , ' I should have never gone in the bathroom . "
+I,use.01,the bathroom,,Affirmative,"I should have never used the bathroom , ' the mother said . "
+the mother,say.01,I should have never used,,Affirmative,"I should have never used the bathroom , ' the mother said . "
+Amy Sue Pagnac,suffer.01,a seizure,,Affirmative,"In spring 1989 , Amy had suffered a seizure and went through bouts of being extremely angry , her mother said Monday . "
+her mother,say.01,", Amy had suffered",,Affirmative,"In spring 1989 , Amy had suffered a seizure and went through bouts of being extremely angry , her mother said Monday . "
+Authorities,act.01,normal,,Affirmative,"At the time of the disappearance , she had been acting normal for at least a month , she said . "
+Authorities,say.01,", she had been acting normal for",,Affirmative,"At the time of the disappearance , she had been acting normal for at least a month , she said . "
+Authorities,think.01,Amy had run away or had,,Affirmative,"Authorities initially thought Amy had run away or had a seizure and wandered off , disoriented . "
+Amy,have.03,a seizure,,Affirmative,"Authorities initially thought Amy had run away or had a seizure and wandered off , disoriented . "
+Pagnac,say.01,authorities stopped by,,Affirmative,Pagnac said the authorities stopped by her house in 2007 with a search warrant and spent less than a day looking through the home . 
+the authorities,spend.02,less than,,Affirmative,Pagnac said the authorities stopped by her house in 2007 with a search warrant and spent less than a day looking through the home . 
+she,say.01,They also went to,,Affirmative,"They also went to the farm in Isanti County , she said , but does n't know how long they were there . "
+They,know.01,long they were there,,Affirmative,"They also went to the farm in Isanti County , she said , but does n't know how long they were there . "
+Law enforcement -- including,knock.01,with,,Affirmative,"Law enforcement -- including the FBI , Maple Grove police and Hennepin County sheriff 's office -- knocked again Sunday with a sealed search warrant . "
+a heavy rain,douse.01,"the tents , trailers and police",,Affirmative,"Excavation was underway Monday as a heavy rain doused the tents , trailers and police tape that circled the home . "
+Maple Grove Police Capt. Keith Terlinden,say.01,case was never forgotten by,,Affirmative,"Maple Grove Police Capt. Keith Terlinden said Sunday that , despite Pagnac 's claims , the case was never forgotten by local police . "
+by,forget.01,the case,,Affirmative,"Maple Grove Police Capt. Keith Terlinden said Sunday that , despite Pagnac 's claims , the case was never forgotten by local police . "
+police,say.01,parents are considered suspects,,Affirmative,"No one has been arrested in connection with Amy 's disappearance , and police have declined to say whether her parents are considered suspects . "
+Authorities,estimate.01,are committed by,,Affirmative,Authorities estimate only 5 percent of child abductions are committed by a stranger . 
+by,commit.01,5 percent of,,Affirmative,Authorities estimate only 5 percent of child abductions are committed by a stranger . 
+definitive exploration of,put.01,that number,at,Affirmative,"A 1999 study by the U.S. Justice Department , which the National Center for Missing and Exploited Children considers the most definitive exploration of the topic , puts that number at 2 percent or 3 percent . "
+I,have.03,no idea,,Affirmative,I have no idea where Amy is . 
+I,have.03,only my fears,,Affirmative,"I have only my fears , she said . "
+she,say.01,I have,,Affirmative,"I have only my fears , she said . "
+You,know.01,it has,,Affirmative,You know it has to be something like that . 
+she,say.01,good possible leads,,Affirmative,"No even really good possible leads , she said . "
+Pagnac,say.01,But she 's been,,Affirmative,"But she 's been a pain in the ass to Maple Grove police , Pagnac said , urging them to keep her daughter 's case alive . "
+Pagnac,urge.01,them,to keep,Affirmative,"But she 's been a pain in the ass to Maple Grove police , Pagnac said , urging them to keep her daughter 's case alive . "
+them,keep.02,case,,Affirmative,"But she 's been a pain in the ass to Maple Grove police , Pagnac said , urging them to keep her daughter 's case alive . "
+her daughter,do.02,of,,Affirmative,"That included last year , when Pagnac handed over a drawing her daughter had done of a unicorn . "
+I,get.01,tape to put it up on,,Affirmative,"I got her the tape to put it up on her wall , Pagnac said . "
+the tape,put.01,it,on,Affirmative,"I got her the tape to put it up on her wall , Pagnac said . "
+Pagnac,say.01,I got her,,Affirmative,"I got her the tape to put it up on her wall , Pagnac said . "
+I,tell.01,they could,them,Affirmative,I told them they could ... 
+I,leave.01,the few memories,,Affirmative,It 's one of the few memories I have left . 
+She,say.01,she 's been calling for,,Affirmative,"She said she 's been calling for the past year , wondering if the picture has helped at all . "
+she,wonder.01,picture has helped,,Affirmative,"She said she 's been calling for the past year , wondering if the picture has helped at all . "
+I,badger.01,them,,Affirmative,"I 'll still be badgering them next week when they leave , she said . "
+she,say.01,I 'll still be badgering them,,Affirmative,"I 'll still be badgering them next week when they leave , she said . "
+You,follow.02,him,,Affirmative,You should follow him on Twitter at twitter.com / jbrewerpipress . 

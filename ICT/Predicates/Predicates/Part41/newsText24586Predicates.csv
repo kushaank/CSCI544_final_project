@@ -1,0 +1,5 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+( Reuters ) -,say.01,it will sell,,Affirmative,"SARAJEVO May 19 ( Reuters ) - Bosnia 's power utility Elektroprivreda RS ( EPRS ) said on Monday it will sell 180 megawatts ( MW ) of power for May 20 delivery to Serbia utility EPS , whose output has been reduced 40 percent due to the worst flooding in over a century . "
+Monday,sell.01,180 megawatts,,Affirmative,"SARAJEVO May 19 ( Reuters ) - Bosnia 's power utility Elektroprivreda RS ( EPRS ) said on Monday it will sell 180 megawatts ( MW ) of power for May 20 delivery to Serbia utility EPS , whose output has been reduced 40 percent due to the worst flooding in over a century . "
+Further deliveries,depend.01,on,,Affirmative,"Further deliveries will depend on the needs of Serbia 's power utility Elektroprivreda Srbije ( EPS ) , as well as on the available surplus at EPRS , EPRS spokeswoman told Reuters . "
+EPRS,tell.01,deliveries will depend on,Reuters,Affirmative,"Further deliveries will depend on the needs of Serbia 's power utility Elektroprivreda Srbije ( EPS ) , as well as on the available surplus at EPRS , EPRS spokeswoman told Reuters . "

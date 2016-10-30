@@ -1,0 +1,20 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"The man ,",travel.01,to Orlando,,Affirmative,"The man , a 44 - year - old health care worker from Saudi Arabia -- the epicenter of the MERS outbreak -- traveled to Orlando where he started feeling symptoms of the illness on May 8 . "
+he,start.01,feeling symptoms of,,Affirmative,"The man , a 44 - year - old health care worker from Saudi Arabia -- the epicenter of the MERS outbreak -- traveled to Orlando where he started feeling symptoms of the illness on May 8 . "
+he,feel.01,symptoms of,,Affirmative,"The man , a 44 - year - old health care worker from Saudi Arabia -- the epicenter of the MERS outbreak -- traveled to Orlando where he started feeling symptoms of the illness on May 8 . "
+The unidentified man,have.03,a fever,,Affirmative,"The unidentified man was put into isolation at Dr. Phillips Hospital , but has n't had a fever since May 13 , Orlando TV station WESH reported Monday . "
+station WESH,report.01,man was put into isolation at,,Affirmative,"The unidentified man was put into isolation at Dr. Phillips Hospital , but has n't had a fever since May 13 , Orlando TV station WESH reported Monday . "
+The third U.S. case of MERS,show.01,no signs of,,Affirmative,"The third U.S. case of MERS -- an unidentified man from Illinois -- has tested positive for the MERS virus but shows no signs of the illness , federal health officials reported Saturday . "
+federal health officials,report.01,has tested positive for,,Affirmative,"The third U.S. case of MERS -- an unidentified man from Illinois -- has tested positive for the MERS virus but shows no signs of the illness , federal health officials reported Saturday . "
+the man,bring.01,the first known case of MERS to,,Affirmative,The Illinois man is a business associate of the man who brought the first known case of MERS to the United States in late April . 
+care worker,travel.01,to,,Affirmative,That first case was a health care worker who had traveled to Saudi Arabia and returned to the United States before falling ill and being hospitalized in Indiana . 
+The Illinois man,get.01,the virus,from,Affirmative,"The Illinois man probably got the virus from the Indiana patient and developed antibodies to fight the virus , officials from the U.S. Centers for Disease Control and Prevention said . "
+The Illinois man,develop.02,antibodies,,Affirmative,"The Illinois man probably got the virus from the Indiana patient and developed antibodies to fight the virus , officials from the U.S. Centers for Disease Control and Prevention said . "
+officials from,say.01,man probably got,,Affirmative,"The Illinois man probably got the virus from the Indiana patient and developed antibodies to fight the virus , officials from the U.S. Centers for Disease Control and Prevention said . "
+The men,have.03,two business meetings,,Affirmative,"The men had two business meetings together before the Indiana man fell ill , officials added . "
+officials,add.01,men had,,Affirmative,"The men had two business meetings together before the Indiana man fell ill , officials added . "
+U.S. officials,say.01,is,,Affirmative,"The health risk from MERS to the general public is very low , U.S. officials have said , because the virus is only passed through close contact . "
+MERS --,kill.01,about one - quarter of,,Affirmative,"MERS -- formally called Middle East Respiratory Syndrome -- kills about one - quarter of the people who contract the virus , according to CDC officials . "
+CDC officials,say.01,have occurred among,,Affirmative,"One - fifth of all MERS cases have occurred among health care workers , CDC officials have said . "
+the CDC,say.01,"But , there 's currently",,Affirmative,"But , there 's currently no evidence of sustained spread of MERS in general settings , the CDC has said . "
+Copyright,©.01,2014 HealthDay,,Affirmative,Copyright © 2014 HealthDay . 

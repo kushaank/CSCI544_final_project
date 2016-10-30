@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+MADISON,identify.01,the woman killed in,,Affirmative,MADISON ( WKOW ) -- The Dane County Medical Examiner 's Office has identified the woman killed in an officer - involved shooting in Madison . 
+Autopsy results,confirm.01,DiPiazza died from,,Affirmative,Autopsy results confirm DiPiazza died from firearm - related injuries . 
+Police,say.01,"boyfriend called 911 , telling",,Affirmative,"Police say the woman 's boyfriend called 911 , telling the operator that he left the apartment after his girlfriend armed herself with a handgun and was threatening him . "
+boyfriend,call.02,911,,Affirmative,"Police say the woman 's boyfriend called 911 , telling the operator that he left the apartment after his girlfriend armed herself with a handgun and was threatening him . "
+he,leave.01,the apartment,,Affirmative,"Police say the woman 's boyfriend called 911 , telling the operator that he left the apartment after his girlfriend armed herself with a handgun and was threatening him . "
+they,kill.01,DiPiazza,,Affirmative,Police officers responded and they shot and killed DiPiazza after they say she threatened them . 
+they,say.01,she threatened them,,Affirmative,Police officers responded and they shot and killed DiPiazza after they say she threatened them . 
+The Wisconsin Department of,lead.01,the investigation into,,Affirmative,The Wisconsin Department of Justice Division of Criminal Investigation is leading the investigation into the officer - involved shooting . 

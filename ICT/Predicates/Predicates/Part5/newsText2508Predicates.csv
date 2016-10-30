@@ -1,0 +1,10 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A maker of,shutter.01,a plant in,,Affirmative,"A maker of AR - 15 and other rifles is shuttering a plant in St. Cloud , which employed as many as 115 people , as part of a restructuring at parent Remington Arms Co. The St. Cloud Times reports on the departure of DPMS Panther Arms , which was announced late last week . "
+"St. Cloud ,",employ.02,115 people,,Affirmative,"A maker of AR - 15 and other rifles is shuttering a plant in St. Cloud , which employed as many as 115 people , as part of a restructuring at parent Remington Arms Co. The St. Cloud Times reports on the departure of DPMS Panther Arms , which was announced late last week . "
+by,own.01,"Remington ,",,Affirmative,"Remington , which like DPMS is owned by Cerberus Capital 's Freedom Group , is consolidating more manufacturing in Huntsville , Ala . "
+"Remington ,",consolidate.01,"more manufacturing in Huntsville , Ala",,Affirmative,"Remington , which like DPMS is owned by Cerberus Capital 's Freedom Group , is consolidating more manufacturing in Huntsville , Ala . "
+by,found.01,DPMS,,Affirmative,"DPMS was founded in 1985 by Randy Luth in Becker and began as an U.S. Army contractor , making parts for M - 16 rifles and other weapons . "
+Mark Reilly,manage.01,coverage,,Affirmative,Mark Reilly manages daily and weekly coverage at the Business Journal newsroom . 
+you,comment.01,using,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+you,use.01,a Facebook account,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "
+your comment depending on,depend.01,on,,Affirmative,"If you are commenting using a Facebook account , your profile information may be displayed with your comment depending on your privacy settings . "

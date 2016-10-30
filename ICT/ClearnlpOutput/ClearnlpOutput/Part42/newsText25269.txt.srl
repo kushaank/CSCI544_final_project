@@ -1,0 +1,85 @@
+1	Please	please	UH	_	2	intj	2:AM-DIS
+2	enter	enter	VB	pb=enter.01	0	root	_
+3	a	a	DT	_	4	det	_
+4	maximum	maximum	NN	_	2	dobj	2:A1=LOC
+5	of	of	IN	_	4	prep	_
+6	5	0	CD	_	7	num	_
+7	recipients	recipient	NNS	_	5	pobj	_
+8	.	.	.	_	2	punct	_
+
+1	Use	use	VB	p2=NN|pb=use.01	0	root	_
+2	;	;	:	p2=,	1	punct	_
+3	to	to	TO	_	4	aux	_
+4	separate	separate	VB	pb=separate.01	1	xcomp	_
+5	more	more	JJR	_	7	amod	_
+6	than	than	IN	_	7	quantmod	_
+7	one	#crd#	CD	_	9	num	_
+8	email	email	NN	_	9	nn	_
+9	address	address	NN	_	4	dobj	4:A1=PPT
+10	.	.	.	_	1	punct	_
+
+1	EU	eu	NNP	_	3	nn	_
+2	Energy	energy	NNP	_	3	nn	_
+3	Commissioner	commissioner	NNP	_	5	nn	_
+4	Guenther	guenther	NNP	_	5	nn	_
+5	Oettinger	oettinger	NNP	_	6	nsubj	6:A0
+6	said	say	VBD	pb=say.01	0	root	_
+7	he	he	PRP	_	9	nsubj	9:A0=PAG;11:A0=PAG
+8	may	may	MD	_	9	aux	9:AM-MOD
+9	propose	propose	VB	pb=propose.01	6	ccomp	6:A1=PPT
+10	governments	government	NNS	_	9	dobj	9:A1=PPT
+11	increase	increase	VB	pb=increase.01	9	xcomp	_
+12	the	the	DT	_	13	det	_
+13	volumes	volume	NNS	_	11	dobj	11:A1=PPT;21:A1=PPT
+14	of	of	IN	_	13	prep	_
+15	natural	natural	JJ	_	16	amod	_
+16	gas	gas	NN	_	14	pobj	_
+17	they	they	PRP	_	19	nsubjpass	21:A0=PAG;19:A1=PPT
+18	are	be	VBP	_	19	auxpass	_
+19	obliged	oblige	VBN	p2=JJ|pb=oblige.02	13	rcmod	_
+20	to	to	TO	_	21	aux	_
+21	keep	keep	VB	pb=keep.02	19	xcomp	19:A2=PRD
+22	in	in	IN	_	21	prep	21:A2=PRD
+23	storage	storage	NN	_	22	pobj	_
+24	.	.	.	_	6	punct	_
+
+1	He	he	PRP	_	2	nsubj	2:A0
+2	made	make	VBD	pb=make.LV	0	root	_
+3	the	the	DT	_	4	det	_
+4	comments	comment	NNS	_	2	dobj	2:AM-PRR
+5	at	at	IN	_	4	prep	_
+6	a	a	DT	_	8	det	_
+7	press	press	NN	_	8	nn	_
+8	conference	conference	NN	_	5	pobj	_
+9	after	after	IN	_	8	prep	_
+10	an	an	DT	_	12	det	_
+11	informal	informal	JJ	_	12	amod	_
+12	meeting	meeting	NN	_	9	pobj	_
+13	of	of	IN	_	12	prep	_
+14	energy	energy	NN	_	15	nn	_
+15	ministers	minister	NNS	_	13	pobj	_
+16	in	in	IN	_	12	prep	_
+17	Athens	athens	NNP	_	16	pobj	_
+18	over	over	IN	_	12	prep	_
+19	the	the	DT	_	20	det	_
+20	weekend	weekend	NN	_	18	pobj	_
+21	.	.	.	_	2	punct	_
+
+1	All	all	DT	_	2	det	_
+2	fields	field	NNS	_	3	nsubj	3:A1=PPT
+3	are	be	VBP	pb=be.01	0	root	_
+4	compulsory	compulsory	JJ	_	3	acomp	3:A2=PRD
+5	.	.	.	_	3	punct	_
+
+1	©	©	NNP	p2=LS	3	nn	_
+2	2014 Hydrocarbon	2014 hydrocarbon	NNP	p2=CD	3	nn	_
+3	Processing	processing	NNP	_	0	root	_
+4	.	.	.	_	3	punct	_
+
+1	©	©	NNP	p2=NFP	5	nn	_
+2	2014	0	CD	_	5	num	_
+3	Gulf	gulf	NNP	_	5	nn	_
+4	Publishing	publishing	NNP	_	5	nn	_
+5	Company	company	NNP	_	0	root	_
+6	.	.	.	_	5	punct	_
+

@@ -1,0 +1,51 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+The Chinese government,voice.01,strong opposition to,,Affirmative,The Chinese government voiced strong opposition to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+Washington 's,say.01,five Chinese military hackers who Washington said stole secrets from six U.S. companies,,Affirmative,The Chinese government voiced strong opposition to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+five Chinese military hackers who Washington said stole secrets from six U.S. companies,steal.01,secrets,from,Affirmative,The Chinese government voiced strong opposition to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+The Chinese government,voice.01,strong opposition,,Affirmative,BEIJING - The Chinese government voiced strong opposition Monday to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+Washington 's,say.01,five Chinese military hackers,,Affirmative,BEIJING - The Chinese government voiced strong opposition Monday to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+five Chinese military hackers,steal.01,secrets,from,Affirmative,BEIJING - The Chinese government voiced strong opposition Monday to the U.S. government 's indictment of five Chinese military hackers who Washington said stole secrets from six U.S. companies . 
+the U.S.,express.01,no sign of cooperating in,,Affirmative,"Beijing expressed no sign of cooperating in this case , instead accusing the U.S. government of extensive hacking activities against Chinese officials , institutions , enterprises , universities and individuals . "
+the U.S.,accuse.01,the U.S. government,of,Affirmative,"Beijing expressed no sign of cooperating in this case , instead accusing the U.S. government of extensive hacking activities against Chinese officials , institutions , enterprises , universities and individuals . "
+The U.S. side,make.07,facts,,Affirmative,"The U.S. side makes up facts , uses so - called Internet secret stealing to indict five Chinese military officers . "
+This move,violate.01,the basic norms of,,Affirmative,This move seriously violates the basic norms of international relations and damages Sino - U.S . 
+"the Chinese government , military and",associate.01,associated personnel,,Affirmative,"China is a staunch defender of network security , and the Chinese government , military and associated personnel have never engaged in online theft of trade secrets , he said , calling the U.S. charges extremely absurd . "
+he,say.01,China is,,Affirmative,"China is a staunch defender of network security , and the Chinese government , military and associated personnel have never engaged in online theft of trade secrets , he said , calling the U.S. charges extremely absurd . "
+he,call.01,the U.S. charges,extremely absurd,Affirmative,"China is a staunch defender of network security , and the Chinese government , military and associated personnel have never engaged in online theft of trade secrets , he said , calling the U.S. charges extremely absurd . "
+hacking China,describe.01,itself,as,Affirmative,"China often describes itself as a victim of foreign cyber - attacks , sometimes from the United States . "
+to all,know.01,espionage activities abroad,,Affirmative,"The U.S. government 's cyber - espionage activities abroad are known to all , Qin said . "
+Qin,say.01,are known to all,,Affirmative,"The U.S. government 's cyber - espionage activities abroad are known to all , Qin said . "
+Edward Snowden,tell.01,U.S. has hacked,everyone,Affirmative,"Edward Snowden told everyone that the U.S. has hacked [ former ] president Hu Jintao 's classified information , Shen said . "
+the U.S.,hack.01,classified information,,Affirmative,"Edward Snowden told everyone that the U.S. has hacked [ former ] president Hu Jintao 's classified information , Shen said . "
+Shen,say.01,Snowden told everyone,,Affirmative,"Edward Snowden told everyone that the U.S. has hacked [ former ] president Hu Jintao 's classified information , Shen said . "
+hacking China,accuse.01,the U.S.,,Affirmative,Should China accuse the U.S. ? 
+China,ask.02,to stop,President Obama,Affirmative,"China has complained and asked President Obama to stop cyber - attacks on China , but Obama has refused . "
+President Obama,stop.01,cyber - attacks on China,,Affirmative,"China has complained and asked President Obama to stop cyber - attacks on China , but Obama has refused . "
+Shen,doubt.01,spat would derail,,Affirmative,Shen doubted the spat would derail the multilayered relationship between two nations whose economies are increasingly reliant on each other . 
+the spat,derail.01,the multilayered relationship between,,Affirmative,Shen doubted the spat would derail the multilayered relationship between two nations whose economies are increasingly reliant on each other . 
+China,say.01,we think,,Affirmative,"China would say we think it 's ridiculous , how can the U.S. prove this , and why does the U.S. not stop hacking China ? "
+we,think.01,it 's ridiculous,,Affirmative,"China would say we think it 's ridiculous , how can the U.S. prove this , and why does the U.S. not stop hacking China ? "
+the U.S.,prove.01,this,,Affirmative,"China would say we think it 's ridiculous , how can the U.S. prove this , and why does the U.S. not stop hacking China ? "
+the U.S.,stop.01,hacking China,,Affirmative,"China would say we think it 's ridiculous , how can the U.S. prove this , and why does the U.S. not stop hacking China ? "
+the U.S.,hack.02,China,,Affirmative,"China would say we think it 's ridiculous , how can the U.S. prove this , and why does the U.S. not stop hacking China ? "
+Everybody,do.02,A mature country,,Affirmative,Everybody is doing it . 
+A mature country,make.02,it a big issue,,Affirmative,A mature country would not make it a big issue . 
+hacking China,handle.01,it,,Affirmative,China would handle it privately and would never announce to make it global news . 
+hacking China,announce.01,to make,,Affirmative,China would handle it privately and would never announce to make it global news . 
+Chinese authorities,maintain.01,careful management of,,Affirmative,"Chinese authorities maintain careful management of all news in China , where the U.S. indictment came after 10 p.m. local time Monday . "
+Such censorship,follow.02,official orders or,,Affirmative,Such censorship sometimes follows official orders or represents self - censorship by companies anticipating what authorities will dislike . 
+Such censorship,represent.01,self - censorship,,Affirmative,Such censorship sometimes follows official orders or represents self - censorship by companies anticipating what authorities will dislike . 
+companies anticipating,anticipate.01,what authorities will dislike,,Affirmative,Such censorship sometimes follows official orders or represents self - censorship by companies anticipating what authorities will dislike . 
+General Eric Holder,announce.01,jury has charged,,Affirmative,Attorney General Eric Holder announces that a grand jury has charged five Chinese people with economic espionage and trade secret theft . 
+a grand jury,charge.01,five Chinese people with,,Affirmative,Attorney General Eric Holder announces that a grand jury has charged five Chinese people with economic espionage and trade secret theft . 
+most websites,carry.01,little news,,Affirmative,"Until the Ministry of Foreign Affairs announcement , most websites carried little news on the story . "
+Some Chinese,post.01,"comments on Weibo ,",,Affirmative,"Some Chinese posted comments on Weibo , a messaging platform like Twitter , which is banned in China . "
+Every country,do.02,this,,Affirmative,"Every country is doing this ; the one who does n't is a fool , wrote Chen Xiao , the director of the ideological and political department of a private vocational institute in southern Guangdong province . "
+"Chen Xiao ,",write.01,is,,Affirmative,"Every country is doing this ; the one who does n't is a fool , wrote Chen Xiao , the director of the ideological and political department of a private vocational institute in southern Guangdong province . "
+writer Zhan Hao,ask.01,", still has",,Affirmative,"Finance writer Zhan Hao asked , A country which monitors the whole world 's leaders , and the whole of America , still has what credibility worth trusting ? "
+A country,monitor.01,leaders,,Affirmative,"Finance writer Zhan Hao asked , A country which monitors the whole world 's leaders , and the whole of America , still has what credibility worth trusting ? "
+A country,have.03,credibility worth trusting,,Affirmative,"Finance writer Zhan Hao asked , A country which monitors the whole world 's leaders , and the whole of America , still has what credibility worth trusting ? "
+"Dai Xu ,",write.01,; that 's,,Affirmative,"Dai Xu , a military commentator with nationalistic views , wrote , All the countries in the world have n't united to sue the USA ; that 's to stop it losing face . "
+All the countries in,sue.01,the USA,,Affirmative,"Dai Xu , a military commentator with nationalistic views , wrote , All the countries in the world have n't united to sue the USA ; that 's to stop it losing face . "
+the whole world 's,lose.02,face,,Affirmative,"Dai Xu , a military commentator with nationalistic views , wrote , All the countries in the world have n't united to sue the USA ; that 's to stop it losing face . "
+it,make.01,a scene,,Affirmative,Now it 's being unreasonable and making a scene . 

@@ -1,0 +1,71 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+top judge,warn.01,violence will be prosecuted,,Affirmative,Teesside 's top judge has warned that domestic violence will be prosecuted even if victims try to withdraw their complaints . 
+victims,try.01,to withdraw,,Affirmative,Teesside 's top judge has warned that domestic violence will be prosecuted even if victims try to withdraw their complaints . 
+victims,withdraw.01,their complaints,,Affirmative,Teesside 's top judge has warned that domestic violence will be prosecuted even if victims try to withdraw their complaints . 
+Arton QC,say.01,will naturally expect,,Affirmative,Judge Simon Bourne - Arton QC said : Anyone who carries out such violence will naturally expect to be sentenced to a term of imprisonment . 
+Anyone,carry.03,such violence,,Affirmative,Judge Simon Bourne - Arton QC said : Anyone who carries out such violence will naturally expect to be sentenced to a term of imprisonment . 
+Anyone,expect.01,to be sentenced to,,Affirmative,Judge Simon Bourne - Arton QC said : Anyone who carries out such violence will naturally expect to be sentenced to a term of imprisonment . 
+Teesside 's top judge,tell.01,"Those men ,",him,Affirmative,"The judge told him : Those men , indeed those women , who carry out violence which is called domestic violence realise and should realise a number of things . "
+"indeed those women ,",carry.03,violence,,Affirmative,"The judge told him : Those men , indeed those women , who carry out violence which is called domestic violence realise and should realise a number of things . "
+"indeed those women ,",realise.01,a number of things,,Affirmative,"The judge told him : Those men , indeed those women , who carry out violence which is called domestic violence realise and should realise a number of things . "
+the courts,take.01,violence which is called domestic violence realise,,Affirmative,Firstly that the courts will take it seriously . 
+here your girlfriend,choose.01,to seek,,Affirmative,"Secondly that even if for whatever reason the complainant , here your girlfriend , chooses to seek to withdraw her complaint , the court will and the prosecution will continue with the allegation if there is sufficient evidence to support it . "
+sufficient evidence,support.01,the prosecution,,Affirmative,"Secondly that even if for whatever reason the complainant , here your girlfriend , chooses to seek to withdraw her complaint , the court will and the prosecution will continue with the allegation if there is sufficient evidence to support it . "
+Teesside 's top judge,tell.01,That 's,Teesside Crown Court,Affirmative,"That 's what happened here , the judge told Teesside Crown Court . "
+the complainant,seek.01,to withdraw,,Affirmative,She sought to withdraw her allegation from day one . 
+the complainant,withdraw.01,a sustained domestic assault on a vulnerable victim using a weapon,from day one,Affirmative,She sought to withdraw her allegation from day one . 
+Prosecutor Rachel Masters,say.01,it was,,Affirmative,Prosecutor Rachel Masters said it was a sustained domestic assault on a vulnerable victim using a weapon . 
+a vulnerable victim using,use.01,a weapon,,Affirmative,Prosecutor Rachel Masters said it was a sustained domestic assault on a vulnerable victim using a weapon . 
+"Scott , now of California Close , Stockton",deny.01,both charges,,Affirmative,He denied both charges in the trial last month . 
+Jurors,hear.01,he was arrested,,Affirmative,Jurors heard he was arrested after a concerned neighbour reported noise from his flat to police at about 5 am on January 10 . 
+a concerned neighbour,report.01,noise,to police,Affirmative,Jurors heard he was arrested after a concerned neighbour reported noise from his flat to police at about 5 am on January 10 . 
+A woman,scream.01,for help,,Affirmative,"A woman was heard screaming for help and crying at the home on Old Station Mews , Eaglescliffe . "
+his flat to police,receive.01,another call,,Affirmative,Police received another call which was cut off . 
+"Scott , now of California Close , Stockton",answer.01,the phone,,Affirmative,When they rang back Scott answered the phone with a woman crying in the background . 
+"Scott ,",claim.01,there had been,,Affirmative,"Scott , now of California Close , Stockton , claimed there had been a dispute with someone else and no one was hurt . "
+Officers,find.01,his partner with,,Affirmative,Officers went to the home and found his partner with blood - stained hair and smashed glass in the living room . 
+Ms Masters,tell.01,"woman was crying , irate , aggressive and refusing",,Affirmative,"Ms Masters told how the injured woman was crying , irate , aggressive and refusing medical treatment . "
+the injured woman,refuse.01,medical treatment,,Affirmative,"Ms Masters told how the injured woman was crying , irate , aggressive and refusing medical treatment . "
+the victim,tell.01,that Scott pinned her down on,an officer,Affirmative,The victim told an officer that Scott pinned her down on the sofa and punched her a number of times in a heated argument . 
+"Scott , now of California Close , Stockton",pin.01,the victim,,Affirmative,The victim told an officer that Scott pinned her down on the sofa and punched her a number of times in a heated argument . 
+"Scott , now of California Close , Stockton",punch.01,a number of times,,Affirmative,The victim told an officer that Scott pinned her down on the sofa and punched her a number of times in a heated argument . 
+the victim,say.01,he smashed,,Affirmative,"She said he smashed a wine glass over her head , causing a cut which later needed to be stapled at hospital . "
+an officer that Scott pinned her down on the sofa and punched her a number of times in a heated argument,smash.01,a wine glass over,,Affirmative,"She said he smashed a wine glass over her head , causing a cut which later needed to be stapled at hospital . "
+an officer that Scott pinned her down on the sofa and punched her a number of times in a heated argument,cause.01,a cut,,Affirmative,"She said he smashed a wine glass over her head , causing a cut which later needed to be stapled at hospital . "
+a cut,need.01,to be stapled at hospital,,Affirmative,"She said he smashed a wine glass over her head , causing a cut which later needed to be stapled at hospital . "
+"Scott , now of California Close , Stockton",try.01,to persuade her,,Affirmative,Scott tried to persuade her to wash her hair and pretend nothing had happened when he realised the police were coming . 
+"Scott , now of California Close , Stockton",persuade.01,the victim,to wash,Affirmative,Scott tried to persuade her to wash her hair and pretend nothing had happened when he realised the police were coming . 
+the victim,wash.01,her hair,,Affirmative,Scott tried to persuade her to wash her hair and pretend nothing had happened when he realised the police were coming . 
+the victim,pretend.01,nothing had happened,,Affirmative,Scott tried to persuade her to wash her hair and pretend nothing had happened when he realised the police were coming . 
+"Scott , now of California Close , Stockton",realize.01,police were coming,,Affirmative,Scott tried to persuade her to wash her hair and pretend nothing had happened when he realised the police were coming . 
+the victim,suffer.01,a broken wrist,,Affirmative,"She also suffered a broken wrist in the struggle , the court was told . "
+"Scott , now of California Close , Stockton",deny.01,assaulting her,,Affirmative,Scott denied assaulting her and claimed her injuries were self - inflicted as she went wild and smashed the glass over her own head . 
+"Scott , now of California Close , Stockton",assault.01,the victim,,Affirmative,Scott denied assaulting her and claimed her injuries were self - inflicted as she went wild and smashed the glass over her own head . 
+"Scott , now of California Close , Stockton",claim.01,injuries were,,Affirmative,Scott denied assaulting her and claimed her injuries were self - inflicted as she went wild and smashed the glass over her own head . 
+the victim,smash.01,a wine glass,,Affirmative,Scott denied assaulting her and claimed her injuries were self - inflicted as she went wild and smashed the glass over her own head . 
+the victim,want.01,to come to court,,Affirmative,The victim did not want to come to court and neither she nor Scott gave evidence in the trial . 
+neither she nor Scott,give.01,evidence,,Affirmative,The victim did not want to come to court and neither she nor Scott gave evidence in the trial . 
+"Scott , now of California Close , Stockton",have.03,no previous convictions for violence,,Affirmative,Scott had no previous convictions for violence . 
+"Scott , now of California Close , Stockton",say.01,Scott had otherwise complied with,,Affirmative,He said Scott had otherwise complied with his suspended sentence to the letter and completed unpaid work . 
+"Scott , now of California Close , Stockton",comply.01,with,,Affirmative,He said Scott had otherwise complied with his suspended sentence to the letter and completed unpaid work . 
+"Scott , now of California Close , Stockton",complete.01,unpaid work,,Affirmative,He said Scott had otherwise complied with his suspended sentence to the letter and completed unpaid work . 
+Judge Bourne - Arton,jail.01,Scott,,Affirmative,Judge Bourne - Arton jailed Scott for 21 months - 18 for the assault plus three from the breached suspended sentence . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+You,turn.07,story recommendations,,Affirmative,You 've turned off story recommendations . 
+we,update.01,the list below,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,think.01,you 'll love (,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+we,do.02,this,,Affirmative,Turn them on and we 'll update the list below with stories we think you 'll love ( how we do this ) . 
+by,read.01,The Evening Gazette,,Affirmative,"The Evening Gazette is read by more adults than any other newspaper on sale in the Teesside area , with 95,949 average readership and 36,986 copies purchased each day , providing extensive coverage across the region . "
+"36,986 copies",provide.01,extensive coverage,,Affirmative,"The Evening Gazette is read by more adults than any other newspaper on sale in the Teesside area , with 95,949 average readership and 36,986 copies purchased each day , providing extensive coverage across the region . "
+"206,000 adults",look.01,for,,Affirmative,"206,000 adults would turn to the Evening Gazette when looking for a job . "
+"205,000 adults",look.01,for articles for sale in,,Affirmative,"205,000 adults would turn to the Evening Gazette when looking for articles for sale in the classified section . "
+"146,000 adults",plan.01,activities,,Affirmative,"146,000 adults would turn to the Evening Gazette when planning entertainment and leisure activities . "
+Audience,figure.03,from Omniture,,Affirmative,"Audience figures from Omniture , monthly average ( Jan 12 - Jun 12 ) . "
+31 % of,click.01,to,,Affirmative,"More than 31 % of GazetteLive users have clicked through to an online advertisement , demonstrating their receptiveness to effective online advertising . "
+31 % of,demonstrate.01,their receptiveness,to,Affirmative,"More than 31 % of GazetteLive users have clicked through to an online advertisement , demonstrating their receptiveness to effective online advertising . "
+GazetteLive,reach.01,savvy audience,,Affirmative,"GazetteLive reaches an internet - savvy audience , with 82 % of users having purchased products or services online in the past 12 months . "
+GazetteLive users,purchase.01,products or services,,Affirmative,"GazetteLive reaches an internet - savvy audience , with 82 % of users having purchased products or services online in the past 12 months . "
+Chris,have.03,years experience,,Affirmative,"Chris has more than 20 years experience as a journalist and has previously worked in senior positions in Newcastle , Exeter and Nottingham . "

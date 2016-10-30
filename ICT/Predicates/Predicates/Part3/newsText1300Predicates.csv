@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+General Motors,offer.01,to help,,Affirmative,General Motors has offered to help the North Carolina Highway Patrol in its investigation of a traffic accident that killed a high school teacher . 
+General Motors,help.01,Carolina Highway Patrol,,Affirmative,General Motors has offered to help the North Carolina Highway Patrol in its investigation of a traffic accident that killed a high school teacher . 
+a traffic accident,kill.01,school teacher,,Affirmative,General Motors has offered to help the North Carolina Highway Patrol in its investigation of a traffic accident that killed a high school teacher . 
+The Fayetteville Observer,report.01,troopers are considering,,Affirmative,The Fayetteville Observer reports troopers are considering a theory that the 2009 Chevrolet Cobalt driven by 39 - year - old William Neil Parnell III was among those included in recalls for faulty ignition switches . 
+troopers,consider.02,a theory,,Affirmative,The Fayetteville Observer reports troopers are considering a theory that the 2009 Chevrolet Cobalt driven by 39 - year - old William Neil Parnell III was among those included in recalls for faulty ignition switches . 
+by,drive.02,the 2009 Chevrolet Cobalt driven by,,Affirmative,The Fayetteville Observer reports troopers are considering a theory that the 2009 Chevrolet Cobalt driven by 39 - year - old William Neil Parnell III was among those included in recalls for faulty ignition switches . 
+The ignition,disable.01,assisted steering and brakes,,Affirmative,That disables the power - assisted steering and brakes and can cause drivers to lose control . 
+The ignition,cause.01,drivers to lose control,,Affirmative,That disables the power - assisted steering and brakes and can cause drivers to lose control . 
+drivers,lose.02,control,,Affirmative,That disables the power - assisted steering and brakes and can cause drivers to lose control . 
+The ignition,disable.01,the air bags,,Affirmative,It also disables the air bags . 
+his car,hit.01,a stopped school bus,,Affirmative,Parnell was killed last week when his car hit a stopped school bus on U.S. 401 . 
+Investigators,find.01,no evidence,,Affirmative,Investigators found no evidence that Parnell tried to stop before the collision . 
+39-year-old William Neil Parnell III,try.01,to stop before,,Affirmative,Investigators found no evidence that Parnell tried to stop before the collision . 

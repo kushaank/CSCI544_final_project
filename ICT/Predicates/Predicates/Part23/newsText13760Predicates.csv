@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+States Justice Department,accuse.01,China,of,Affirmative,WASHINGTON ( NBC News ) -- The United States Justice Department has publicly accused China of cyber spying . 
+General Eric Holder,announce.01,Jury has indicted,,Affirmative,Attorney General Eric Holder announced Monday that a U.S. Grand Jury has indicted five Chinese individuals with cyber espionage charges . 
+a U.S. Grand Jury,indict.01,five Chinese individuals,with,Affirmative,Attorney General Eric Holder announced Monday that a U.S. Grand Jury has indicted five Chinese individuals with cyber espionage charges . 
+cyber espionage charges,allege.01,five Chinese individuals,,Affirmative,"The charges allege these individuals , members of the Chinese military , targeted five American companies one trade union , stealing trade secrets . "
+members of,target.01,five American companies,,Affirmative,"The charges allege these individuals , members of the Chinese military , targeted five American companies one trade union , stealing trade secrets . "
+five American companies,steal.01,trade secrets,,Affirmative,"The charges allege these individuals , members of the Chinese military , targeted five American companies one trade union , stealing trade secrets . "
+worded statement saying,say.01,indictment was made up and,,Affirmative,"China 's Foreign Ministry responded with a strongly worded statement saying the indictment was made up and will damage cooperation and mutual trust and as a result , they have suspended activities of the Sino - U.S . "
+The companies targeted,suspend.01,activities of,,Affirmative,"China 's Foreign Ministry responded with a strongly worded statement saying the indictment was made up and will damage cooperation and mutual trust and as a result , they have suspended activities of the Sino - U.S . "
+You,view.02,our Sitemap,,Affirmative,You may also view our Sitemap . 
+by,manage.01,This site,,Affirmative,This site is hosted and managed by Inergize Digital . 

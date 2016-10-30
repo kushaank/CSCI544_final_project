@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+"journalist Tarun Tejpal ,",seek.01,his release,from,Affirmative,"Senior journalist Tarun Tejpal , who is behind the bars in a rape case , today sought from the Supreme Court his release to enable him to attend the cremation of his mother who died in Goa yesterday . "
+Tarun Tejpal,attend.01,the cremation of,,Affirmative,"Senior journalist Tarun Tejpal , who is behind the bars in a rape case , today sought from the Supreme Court his release to enable him to attend the cremation of his mother who died in Goa yesterday . "
+advocate Sandeep Kapur,mention.01,the matter seeking,,Affirmative,"Appearing before a bench of justices B S Chauhan and A K Sikri , advocate Sandeep Kapur mentioned the matter seeking its direction to release him to attend the cremation of his mother . "
+the matter seeking,seek.01,its direction,,Affirmative,"Appearing before a bench of justices B S Chauhan and A K Sikri , advocate Sandeep Kapur mentioned the matter seeking its direction to release him to attend the cremation of his mother . "
+its direction,release.01,B S Chauhan,,Affirmative,"Appearing before a bench of justices B S Chauhan and A K Sikri , advocate Sandeep Kapur mentioned the matter seeking its direction to release him to attend the cremation of his mother . "
+B S Chauhan,attend.01,the cremation of,,Affirmative,"Appearing before a bench of justices B S Chauhan and A K Sikri , advocate Sandeep Kapur mentioned the matter seeking its direction to release him to attend the cremation of his mother . "
+a bench of justices B S Chauhan and A K Sikri,say.01,was not before it,,Affirmative,The bench said the file of the case was not before it and it would consider the matter after going through the file . 
+the file of the case,consider.01,the matter seeking its direction to release him to attend the cremation of his mother,,Affirmative,The bench said the file of the case was not before it and it would consider the matter after going through the file . 
+Tarun Tejpal,assault.01,the victim,,Affirmative,He has been accused of sexually assaulting the victim on November 7 and repeating the offence the next day . 
+Tarun Tejpal,repeat.01,the offence,,Affirmative,He has been accused of sexually assaulting the victim on November 7 and repeating the offence the next day . 
+An Army jawan,distribute.01,food,to people of,Affirmative,An Army jawan distributes food to people of border villages who are affected by Pakistani shelling . 
+by,affect.01,people of,,Affirmative,An Army jawan distributes food to people of border villages who are affected by Pakistani shelling . 
+a press conference following,follow.01,her resignation as,,Affirmative,Sheila Dikshit after a press conference following her resignation as Kerala Governor in New Delhi .. 

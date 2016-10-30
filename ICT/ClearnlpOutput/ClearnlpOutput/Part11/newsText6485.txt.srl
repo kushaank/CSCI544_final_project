@@ -1,0 +1,24 @@
+1	Others	other	NNS	_	7	nsubj	4:A0=PAG;7:A2=GOL
+2	who	who	WP	_	4	nsubj	4:R-A0
+3	also	also	RB	_	4	advmod	4:AM-ADV
+4	met	meet	VBD	pb=meet.02	1	rcmod	_
+5	RSS	rss	NNP	p2=JJ	6	nn	_
+6	leaders	leader	NNS	_	4	dobj	4:A1=COM
+7	include	include	VBP	pb=include.01	0	root	_
+8	former	former	JJ	_	13	amod	_
+9	Home	home	NNP	p2=NN	10	nn	_
+10	Secretary	secretary	NNP	_	13	nn	_
+11	R	r	NNP	p2=NN	13	nn	_
+12	K	k	NNP	_	13	nn	_
+13	Singh	singh	NNP	_	7	dobj	7:A1=PPT
+14	,	,	,	_	13	punct	_
+15	Udit	udit	NNP	_	16	nn	_
+16	Raj	raj	NNP	_	13	conj	_
+17	and	and	CC	_	16	cc	_
+18	Vinay	vinay	NNP	_	19	nn	_
+19	Katiyar	katiyar	NNP	_	16	conj	_
+20	and	and	CC	_	19	cc	_
+21	Anurag	anurag	NNP	_	22	nn	_
+22	Thakur	thakur	NNP	_	19	conj	_
+23	.	.	.	_	7	punct	_
+

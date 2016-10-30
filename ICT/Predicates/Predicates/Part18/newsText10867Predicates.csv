@@ -1,0 +1,11 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Senior Judicial Magistrate KM Mahiuddin,grant.01,the remand,,Affirmative,"Senior Judicial Magistrate KM Mahiuddin granted the remand after police produced him before the judge seeking a 10 - day remand for him , report our correspondents at the court . "
+police,produce.01,Senior Judicial Magistrate KM Mahiuddin,,Affirmative,"Senior Judicial Magistrate KM Mahiuddin granted the remand after police produced him before the judge seeking a 10 - day remand for him , report our correspondents at the court . "
+the judge seeking,seek.01,day remand for him,,Affirmative,"Senior Judicial Magistrate KM Mahiuddin granted the remand after police produced him before the judge seeking a 10 - day remand for him , report our correspondents at the court . "
+Rana,claim.01,himself innocent,,Affirmative,"At the hearing , Rana claimed himself innocent and said the murder spot was not his duty area . "
+Rana,say.01,spot was not,,Affirmative,"At the hearing , Rana claimed himself innocent and said the murder spot was not his duty area . "
+A team of,pick.01,Rana,into,Affirmative,A team of Narayanganj police picked up Rana a day into the arrest of two former Rab officers Lt Col Tareque Sayeed Mohammad and Major Arif Hossain from the Cantonment area . 
+"Lt Col Tareque ,",command.02,officer of,,Affirmative,"Lt Col Tareque , who was commanding officer of Rab - 11 when the crime took place in Narayanganj , and Maj Arif were placed on a five - day remand , 10 hours after their arrest yesterday . "
+father-in-law,allege.01,had killed Nazrul in exchange for Tk 6,,Affirmative,Their names cropped up when Nazrul 's father-in-law Shahidul Islam alleged that some officials of Rab - 11 had killed Nazrul in exchange for Tk 6 crore from councillor Nur Hossain and his accomplices . 
+some officials of,kill.01,Nazrul,,Affirmative,Their names cropped up when Nazrul 's father-in-law Shahidul Islam alleged that some officials of Rab - 11 had killed Nazrul in exchange for Tk 6 crore from councillor Nur Hossain and his accomplices . 
+by,file.01,the murder case filed by,,Affirmative,None of the three arrestees has been made accused in the murder case filed by Nazrul 's wife . 

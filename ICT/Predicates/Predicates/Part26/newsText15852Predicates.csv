@@ -1,0 +1,68 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+dirty politics,rear.01,its ugly head,,Affirmative,"As we approach the end of primary election season for many states , dirty politics rears its ugly head again . "
+you,change.01,your opinion of,,Affirmative,Its intent is to cause you to change your opinion of the candidate being attacked . 
+many voters,express.01,frustration,,Affirmative,"As many voters express frustration , they do n't know what to believe ! "
+many voters,know.01,what to believe,,Affirmative,"As many voters express frustration , they do n't know what to believe ! "
+the candidate sponsoring,sponsor.01,a negative attack on a candidate,,Affirmative,"Tip # 1 : If it is a negative attack on a candidate , then the candidate sponsoring the attack is usually behind in the polls , or feeling threatened by a challenger . "
+The leader in,gain.02,ground,,Affirmative,The leader in the race does not have to go negative to gain ground . 
+Attackers,do.02,this,,Affirmative,"Attackers usually do this near the final primary or general election day , so the attacked candidate does not have much time to react publicly and set the record straight . "
+the attacked candidate,have.03,much time,,Affirmative,"Attackers usually do this near the final primary or general election day , so the attacked candidate does not have much time to react publicly and set the record straight . "
+the attacked candidate,set.01,the record,,Affirmative,"Attackers usually do this near the final primary or general election day , so the attacked candidate does not have much time to react publicly and set the record straight . "
+a candidate in,send.01,a print piece,,Affirmative,"In this yearâs Georgia Republican Senate primary race , a candidate in second place sent out a print piece that said the leader favored tax increases . "
+a print piece,say.01,leader favored,,Affirmative,"In this yearâs Georgia Republican Senate primary race , a candidate in second place sent out a print piece that said the leader favored tax increases . "
+The leader in the race,favor.01,tax increases,,Affirmative,"In this yearâs Georgia Republican Senate primary race , a candidate in second place sent out a print piece that said the leader favored tax increases . "
+The leader in,support.01,raising,,Affirmative,The leader in this case supports raising federal revenue by creating a robust economy . 
+The leader in,raise.01,federal revenue,,Affirmative,The leader in this case supports raising federal revenue by creating a robust economy . 
+The same print piece,say.01,supported,,Affirmative,The same print piece also said the leader in the race supported the federal education initiative called Common Core . 
+the leader in,support.01,the federal education initiative called,,Affirmative,The same print piece also said the leader in the race supported the federal education initiative called Common Core . 
+The leader in,support.01,standards,,Affirmative,"The leader in the race supports standards , but he absolutely opposes Common Core . "
+The leader in the race,oppose.01,Common Core,,Affirmative,"The leader in the race supports standards , but he absolutely opposes Common Core . "
+My household,receive.01,a print piece paid for by one of,,Affirmative,My household received a print piece paid for by one of the Republican Senate candidates in the primary . 
+by one of,pay.01,a print piece paid for by one of,,Affirmative,My household received a print piece paid for by one of the Republican Senate candidates in the primary . 
+a publication,look.02,official,,Affirmative,"It was inserted inside a publication that looked official , and contained lots of ads for political candidates . "
+for,contain.01,lots of ads,,Affirmative,"It was inserted inside a publication that looked official , and contained lots of ads for political candidates . "
+a print piece paid for by one of the Republican Senate candidates in the primary,contain.01,any ads for,,Affirmative,It did not contain any ads for the leader in the Senate race in Georgia . 
+My,see.01,who sent,,Affirmative,"As I looked to see who sent the publication I only found a small disclaimer that disclaimed all the ads and everything in the publication , and there was no organization that identified itself as Georgia Conservatives . "
+My,send.01,"a publication that looked official , and contained lots of ads for political candidates",,Affirmative,"As I looked to see who sent the publication I only found a small disclaimer that disclaimed all the ads and everything in the publication , and there was no organization that identified itself as Georgia Conservatives . "
+My,find.01,a small disclaimer,,Affirmative,"As I looked to see who sent the publication I only found a small disclaimer that disclaimed all the ads and everything in the publication , and there was no organization that identified itself as Georgia Conservatives . "
+a small disclaimer,disclaim.01,all the ads and everything in,,Affirmative,"As I looked to see who sent the publication I only found a small disclaimer that disclaimed all the ads and everything in the publication , and there was no organization that identified itself as Georgia Conservatives . "
+no organization,identify.01,"a publication that looked official , and contained lots of ads for political candidates",as,Affirmative,"As I looked to see who sent the publication I only found a small disclaimer that disclaimed all the ads and everything in the publication , and there was no organization that identified itself as Georgia Conservatives . "
+he,give.01,an overall rating of,himself,Affirmative,"The candidate in last place , because he gave himself an overall rating of A , and the leader in the race an F based on two blatant distortions of what the leading candidate had said . "
+a candidate,attack.01,another candidate,,Affirmative,Tip # 3 : If a candidate is attacking another candidate then they are not talking about their own credentials or qualifications . 
+they,talk.01,about,,Affirmative,Tip # 3 : If a candidate is attacking another candidate then they are not talking about their own credentials or qualifications . 
+you,go.02,on,,Affirmative,That 's when you should go on the Internet and look up the credentials for yourself . 
+you,look.01,the credentials,,Affirmative,That 's when you should go on the Internet and look up the credentials for yourself . 
+you,have.03,much time to react publicly and set the record straight,,Affirmative,"If you do not have time or you are still not sure , vote for the person being attacked . "
+My,name.01,names,,Affirmative,"I did not name names in these scenarios , because my purpose is not to embarrass anybody . "
+you,receive.01,minute print piece,,Affirmative,"If you receive a negative last - minute print piece or hear or see a negative ad , those putting out this information will usually embarrass themselves by doing so . "
+you,see.01,a negative ad,,Affirmative,"If you receive a negative last - minute print piece or hear or see a negative ad , those putting out this information will usually embarrass themselves by doing so . "
+those putting out,put.10,this information,,Affirmative,"If you receive a negative last - minute print piece or hear or see a negative ad , those putting out this information will usually embarrass themselves by doing so . "
+those putting out,embarrass.01,those putting out this information,,Affirmative,"If you receive a negative last - minute print piece or hear or see a negative ad , those putting out this information will usually embarrass themselves by doing so . "
+those putting out,do.02,so,,Affirmative,"If you receive a negative last - minute print piece or hear or see a negative ad , those putting out this information will usually embarrass themselves by doing so . "
+Political consultants,advise.01,political candidates,,Affirmative,"Political consultants have advised candidates to do this for decades , because they truly believe it works . "
+political candidates,do.02,this,,Affirmative,"Political consultants have advised candidates to do this for decades , because they truly believe it works . "
+this for decades,believe.01,it works,,Affirmative,"Political consultants have advised candidates to do this for decades , because they truly believe it works . "
+decades,work.01,on,,Affirmative,"Maybe it works on some people and in some campaigns , but most people are sick and tired of it . "
+a lot of people,tune.02,political races,,Affirmative,"As a result , a lot of people have tuned out political races altogether . "
+some people,starve.01,for,,Affirmative,People are starving for the truth and the truth in political campaigns . 
+our,find.01,those candidates,,Affirmative,"When we find those candidates who focus on the truth , their credentials and their priorities for solving problems , we should support them and encourage them . "
+our,support.01,"those candidates who focus on the truth , their credentials and their priorities for solving problems",,Affirmative,"When we find those candidates who focus on the truth , their credentials and their priorities for solving problems , we should support them and encourage them . "
+our,encourage.02,"those candidates who focus on the truth , their credentials and their priorities for solving problems",,Affirmative,"When we find those candidates who focus on the truth , their credentials and their priorities for solving problems , we should support them and encourage them . "
+you,use.01,Voting,,Affirmative,"If you do not use it intelligently , then you will lose it . "
+you,lose.02,Voting,,Affirmative,"If you do not use it intelligently , then you will lose it . "
+We,give.01,those candidates,,Affirmative,"We may not be able to get rid of all the dirt in dirty politics , but we can give those candidates who try to run clean campaigns a clean shot at winning . "
+those candidates,try.01,to run,,Affirmative,"We may not be able to get rid of all the dirt in dirty politics , but we can give those candidates who try to run clean campaigns a clean shot at winning . "
+those candidates,run.01,clean campaigns,,Affirmative,"We may not be able to get rid of all the dirt in dirty politics , but we can give those candidates who try to run clean campaigns a clean shot at winning . "
+My,wish.01,I knew now,,Affirmative,I do wish I knew now what I did n't know when I ran for president in 2011 . 
+My,know.01,what I did n't know,,Affirmative,I do wish I knew now what I did n't know when I ran for president in 2011 . 
+My,run.02,for president,,Affirmative,I do wish I knew now what I did n't know when I ran for president in 2011 . 
+My,approve.01,this message,,Affirmative,More campaign finance reforms and saying I approve this message are not going to help clean up dirty campaigning . 
+Voters,know.01,how to identify,,Affirmative,"Voters who know how to identify the truth and detect lies , half - truths and false implications about candidates will be the political sanitizing we need to elect the best candidates based on merits . "
+Voters,identify.01,the truth,,Affirmative,"Voters who know how to identify the truth and detect lies , half - truths and false implications about candidates will be the political sanitizing we need to elect the best candidates based on merits . "
+Voters,detect.01,"lies ,",,Affirmative,"Voters who know how to identify the truth and detect lies , half - truths and false implications about candidates will be the political sanitizing we need to elect the best candidates based on merits . "
+we,need.01,to elect,,Affirmative,"Voters who know how to identify the truth and detect lies , half - truths and false implications about candidates will be the political sanitizing we need to elect the best candidates based on merits . "
+we,elect.01,the best candidates based on merits,,Affirmative,"Voters who know how to identify the truth and detect lies , half - truths and false implications about candidates will be the political sanitizing we need to elect the best candidates based on merits . "
+Our future,depend.01,on it,,Affirmative,Our future depends on it ! 
+you,wish.01,to use,,Affirmative,"If you wish to use copyrighted material from this site for your own purposes beyond the ' fair use ' exception , you must obtain permission from the copyright owner . "
+you,use.01,copyrighted material,from,Affirmative,"If you wish to use copyrighted material from this site for your own purposes beyond the ' fair use ' exception , you must obtain permission from the copyright owner . "
+you,obtain.01,permission from,,Affirmative,"If you wish to use copyrighted material from this site for your own purposes beyond the ' fair use ' exception , you must obtain permission from the copyright owner . "

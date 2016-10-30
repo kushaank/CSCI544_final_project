@@ -1,0 +1,9 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Quarton Partners,announce.01,Partners has sold,,Affirmative,", May 19 , 2014 / PRNewswire / -- Quarton Partners is pleased to announce that Freestone Partners has sold Service Refrigeration Company ( SRC ) to Source Refrigeration & HVAC , Inc . "
+Freestone Partners,sell.01,Service Refrigeration Company,to,Affirmative,", May 19 , 2014 / PRNewswire / -- Quarton Partners is pleased to announce that Freestone Partners has sold Service Refrigeration Company ( SRC ) to Source Refrigeration & HVAC , Inc . "
+Quarton Partners,act.01,as,,Affirmative,Quarton Partners acted as the exclusive financial advisor to SRC in this transaction . 
+SRC,specialize.01,in providing,,Affirmative,"SRC specializes in providing engineering and design , installation , maintenance and repair services on a wide range of refrigeration equipment , including walk - in coolers / freezers , display cases , ice machines , freezers and coolers . "
+SRC,provide.01,services,,Affirmative,"SRC specializes in providing engineering and design , installation , maintenance and repair services on a wide range of refrigeration equipment , including walk - in coolers / freezers , display cases , ice machines , freezers and coolers . "
+SRC,provide.01,services,"to supermarkets ,",Affirmative,"SRC provides services to supermarkets , convenience stores , food processors and industrial companies . "
+Freestone,target.01,"companies in manufacturing , distribution , and",,Affirmative,"Freestone principally targets companies in manufacturing , distribution , and commercial and industrial services . "
+Arsenal,have.03,$ 1.7 billion of,,Affirmative,Arsenal currently has $ 1.7 billion of committed equity capital . 

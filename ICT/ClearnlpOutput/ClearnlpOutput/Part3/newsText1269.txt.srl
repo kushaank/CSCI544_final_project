@@ -1,0 +1,15 @@
+1	Lorsque	lorsque	NNP	p2=JJ	2	nn	_
+2	tu	tu	NNP	p2=NN	3	nsubj	3:A0
+3	ne	ne	VBP	p2=NN|pb=ne.01	0	root	_
+4	sais	sais	NNS	p2=NNP	5	nn	_
+5	pas	pa	NNS	p2=VBZ	6	nsubj	6:A0;10:A0
+6	où	où	VBP	p2=IN|pb=où.01	3	ccomp	3:A1
+7	tu	tu	NN	p2=NNP	8	nn	_
+8	vas	va	NNS	p2=NN	6	dobj	6:A1
+9	,	,	,	_	6	punct	_
+10	regarde	regarde	VBP	p2=VBD|pb=regarde.01	6	conj	_
+11	d'où	d'où	IN	p2=NNP	10	prep	10:A1
+12	tu	tu	NN	p2=NNP	13	nn	_
+13	viens	viens	NNS	_	11	pobj	_
+14	.	.	.	_	3	punct	_
+

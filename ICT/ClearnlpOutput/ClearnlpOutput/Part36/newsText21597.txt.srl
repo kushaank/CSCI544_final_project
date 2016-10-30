@@ -1,0 +1,26 @@
+1	The	the	DT	_	2	det	_
+2	going	go	VBG	p2=NN	3	nsubj	3:A1=PPT
+3	is	be	VBZ	pb=be.01	0	root	_
+4	good	good	JJ	_	3	acomp	3:A2=PRD
+5	on	on	IN	_	3	prep	_
+6	the	the	DT	_	8	det	_
+7	jumps	jump	NNS	p2=VBZ	8	nn	_
+8	course	course	NN	p2=RB	5	pobj	_
+9	and	and	CC	_	8	cc	_
+10	yielding	yield	VBG	p2=NN|pb=yield.03	8	conj	_
+11	on	on	IN	p2=RP	10	prep	10:A1=PPT
+12	the	the	DT	_	13	det	_
+13	flat	flat	JJ	p2=NN	11	pobj	_
+14	ahead	ahead	RB	p2=NN	10	advmod	_
+15	of	of	IN	_	14	prep	_
+16	this	this	DT	_	17	det	_
+17	evening	evening	NN	_	22	poss	_
+18	's	's	POS	_	17	possessive	_
+19	mixed	mixed	JJ	_	22	amod	_
+20	seven	#crd#	CD	_	22	num	_
+21	race	race	NN	_	22	nn	_
+22	card	card	NN	_	15	pobj	_
+23	at	at	IN	_	22	prep	_
+24	Roscommon	roscommon	NNP	_	23	pobj	_
+25	.	.	.	_	3	punct	_
+

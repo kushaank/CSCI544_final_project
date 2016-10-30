@@ -1,0 +1,14 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+A museum in,receive.01,600 works of art,,Affirmative,A museum in the town of Vevey in western Switzerland will receive over 600 works of art by the Swiss artist Ferdinand Hodler - thanks to the will of painter and curator Rudolf Schindler . 
+A museum in the town of Vevey in western Switzerland,make.02,Jenisch a centre of,,Affirmative,It will make the Musée Jenisch a centre of Hodler 's graphical works . 
+based artist Schindler,start.01,his collection,,Affirmative,"Bern - based artist Schindler started his collection in 1956 , after he visited an exhibition of Hodler 's work . "
+curator Rudolf Schindler,visit.01,an exhibition of,,Affirmative,"Bern - based artist Schindler started his collection in 1956 , after he visited an exhibition of Hodler 's work . "
+curator Rudolf Schindler,purchase.01,the majority of,,Affirmative,"He purchased the majority of his sketches and drawings from the Swiss artist 's widow , Berthe Hodler . "
+curator Rudolf Schindler,entrust.01,the then - director of,,Affirmative,Between 1999 and 2002 Schindler entrusted the then - director of the Musée Jenisch with three items from his collection . 
+curator Rudolf Schindler,give.01,560 other Hodler creations,the museum,Affirmative,He recently gave the museum more than 560 other Hodler creations . 
+"current director ,",say.01,painting would be worth around,,Affirmative,"No information has been given about the value of the collection , although the museum 's current director , Julie Enckell Julliard , said that a painting would be worth around CHF 4-5 million ( $ 4.5-5.6 million ) and a drawing CHF 5,000-100,000 . "
+the Swiss artist Ferdinand Hodler,have.03,a strong connection with,,Affirmative,Hodler had a strong connection with the region around Vevey . 
+the Swiss artist Ferdinand Hodler,paint.02,a number of views of,,Affirmative,"He painted a number of views of Lake Geneva from the nearby village of Chexbres and often went to Vevey to visit his beloved mistress , Valentine Godé - Darel . "
+the Swiss artist Ferdinand Hodler,visit.01,"his beloved mistress ,",,Affirmative,"He painted a number of views of Lake Geneva from the nearby village of Chexbres and often went to Vevey to visit his beloved mistress , Valentine Godé - Darel . "
+A museum in the town of Vevey in western Switzerland,have.03,plans,,Affirmative,The museum has plans to show off the new items in an exhibition in summer 2015 . 
+A museum in the town of Vevey in western Switzerland,show.01,the new items in,,Affirmative,The museum has plans to show off the new items in an exhibition in summer 2015 . 

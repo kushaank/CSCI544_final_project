@@ -1,0 +1,28 @@
+A0,A0.35_Verb,A1,A2,Polarity,RelatedSentence
+Reuters,report.01,explosion took place at,,Affirmative,"The explosion took place at Gold Coast Street in the predominantly Christian district of Sabon Gari ( foreign quarter ) , which is known for its bars and restaurants , in Kano City , Reuters reported . "
+Reuters,hear.01,a loud blast,,Affirmative,I heard a loud blast . 
+Soldiers,cordon.01,the place,,Affirmative,"Soldiers came in to cordon off the place and ambulances were rushing people to hospital , a witness , Abdul Dafar , was quoted as saying . "
+Abdul Dafar,say.01,he saw,,Affirmative,He said he saw at least four bodies lying at the scene . 
+Abdul Dafar,see.01,four bodies lying at,,Affirmative,He said he saw at least four bodies lying at the scene . 
+Soldiers,hear.01,an explosion,,Affirmative,"At about 22:00 ( local time ) , we heard an explosion and immediately mobilized to the scene where we discovered a suicide bomber ... "
+Soldiers,discover.01,a suicide bomber,,Affirmative,"At about 22:00 ( local time ) , we heard an explosion and immediately mobilized to the scene where we discovered a suicide bomber ... "
+BBC,quote.01,Commissioner Adelere Shinaba,as saying,Affirmative,"Five people , including the bomber , were killed , BBC quoted Kano Police Commissioner Adelere Shinaba as saying . "
+Shinaba,add.01,"were killed , apart from",,Affirmative,"Shinaba added that three men and a girl , about 12 years old , were killed , apart from the suspected bomber . "
+police,begin.01,searching for suspects,,Affirmative,"After the blast , police cordoned off the area and began searching for suspects . "
+no group,claim.01,responsibility for,,Affirmative,"While no group has claimed responsibility for Sunday 's blast , it is likely to be blamed on Boko Haram , whose men kidnapped more than 200 schoolgirls last month . "
+"Boko Haram ,",kidnap.01,200 schoolgirls,,Affirmative,"While no group has claimed responsibility for Sunday 's blast , it is likely to be blamed on Boko Haram , whose men kidnapped more than 200 schoolgirls last month . "
+Reports,suggest.01,300 had been abducted and,,Affirmative,Reports suggest more than 300 had been abducted and about 276 are still with Boko Haram men . 
+"the Rev. Enoch Mark ,",tell.01,girls were camped near,The Associated Press,Affirmative,"A Christian pastor , the Rev. Enoch Mark , whose two daughters were among those kidnapped , told The Associated Press earlier that the girls were camped near the Chibok town for 11 days . "
+he,say.01,military had,,Affirmative,"They camped them near Chibok , not more than 30 kilometres , and no help in hand , he said , suggesting the military had a chance to rescue the girls but they missed it . "
+the military,have.03,a chance,,Affirmative,"They camped them near Chibok , not more than 30 kilometres , and no help in hand , he said , suggesting the military had a chance to rescue the girls but they missed it . "
+the military,rescue.01,the girls,,Affirmative,"They camped them near Chibok , not more than 30 kilometres , and no help in hand , he said , suggesting the military had a chance to rescue the girls but they missed it . "
+they,miss.02,it,,Affirmative,"They camped them near Chibok , not more than 30 kilometres , and no help in hand , he said , suggesting the military had a chance to rescue the girls but they missed it . "
+"Boko Haram ,",kill.01,"1,500 civilians",,Affirmative,"Boko Haram , which translates as Western education is sin , has killed more than 1,500 civilians in three states in northeast Nigeria thus far this year . "
+by,form.01,"The outfit ,",,Affirmative,"The outfit , which is designated as a foreign terrorist organization in the United States and the European Union , was formed by an Islamic cleric , Mohammad Yusuf , about a decade ago to fight Western education , which he claimed was behind moral and political corruption in the country . "
+he,claim.01,was behind,,Affirmative,"The outfit , which is designated as a foreign terrorist organization in the United States and the European Union , was formed by an Islamic cleric , Mohammad Yusuf , about a decade ago to fight Western education , which he claimed was behind moral and political corruption in the country . "
+"the Salafi movement ,",promote.01,jihadist terrorism,,Affirmative,"Yusuf was from the Salafi movement , which has promoted jihadist terrorism in several countries . "
+Boko Haram,kill.01,numerous Christians,,Affirmative,Boko Haram has killed numerous Christians and attacked several churches . 
+Boko Haram,attack.01,several churches,,Affirmative,Boko Haram has killed numerous Christians and attacked several churches . 
+It,seek.01,to create,,Affirmative,It is apparently seeking to create an Islamic state in the Muslim - majority northern Nigeria . 
+It,create.01,an Islamic state,,Affirmative,It is apparently seeking to create an Islamic state in the Muslim - majority northern Nigeria . 
+it,gain.02,technical sophistication and weaponry,,Affirmative,It is believed that it gained technical sophistication and weaponry with help from groups like al - Shabaab in southern Somalia and al - Qaida in the Islamic Maghreb in Mali . 

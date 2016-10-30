@@ -1,0 +1,31 @@
+1	China	china	NNP	_	4	poss	_
+2	's	's	POS	_	1	possessive	_
+3	wine	wine	NN	_	4	nn	_
+4	market	market	NN	_	8	nsubj	8:A0=PAG;10:A0=PAG
+5	can	can	MD	_	8	aux	8:AM-MOD;10:AM-MOD
+6	be	be	VB	_	8	aux	_
+7	equally	equally	RB	_	8	advmod	8:AM-MNR
+8	appealing	appeal	VBG	p2=JJ|pb=appeal.01	0	root	_
+9	and	and	CC	_	8	cc	_
+10	puzzling	puzzle	VBG	pb=puzzle.01	8	conj	_
+11	for	for	IN	_	10	prep	10:A1=PPT
+12	producers	producer	NNS	_	11	pobj	14:A0=PAG;17:A0
+13	that	that	WDT	_	14	nsubj	14:R-A0;17:R-A0
+14	have	have	VBP	pb=have.06	12	rcmod	_
+15	yet	yet	RB	_	14	advmod	14:A1=VSP
+16	to	to	TO	_	17	aux	_
+17	establish	establish	VB	pb=establish.01	14	xcomp	_
+18	a	a	DT	_	19	det	_
+19	foothold	foothold	NN	_	17	dobj	17:A1=PPT
+20	.	.	.	_	8	punct	_
+
+1	For	for	IN	_	7	prep	_
+2	many	many	JJ	_	1	pobj	_
+3	,	,	,	_	1	punct	_
+4	and	and	CC	_	1	cc	_
+5	free	free	JJ	_	6	amod	_
+6	samples	sample	NNS	_	0	root	_
+7	for	for	IN	_	6	prep	_
+8	tastings	tasting	NNS	_	7	pobj	_
+9	.	.	.	_	1	punct	_
+
