@@ -21,7 +21,7 @@ for row in mycsv:
     fileName = row[len(row)-1].strip()
     if fileName in filePathDictionary:
         if verb == "claim":
-            print("YES")
+            #print("YES")
         
 
 # print(allFiles)
