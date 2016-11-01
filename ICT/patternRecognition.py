@@ -2,7 +2,10 @@ import csv
 import fnmatch
 import os
 from collections import defaultdict
-from nltk.stem.wordnet import WordNetLemmatizer
+import en
+import nltk
+import io
+from getBaseWord import getBase
 
 def getAbsolutePath():
     '''
@@ -29,31 +32,24 @@ def extractSentencesForVerb(target_verb):
     dict = {}
     count = 0
     for row in mycsv:
-        if count == 0:
-            #splits the csv file by the period delimeter to get the verb associated
-            verb = row[1].split(".")[0].strip()
-            fileName = row[len(row) - 1].strip()
-            if fileName in filePathDictionary:
-                if verb == target_verb:
-                    # get all the words in the file
-                    file = open(filePathDictionary[fileName], "r")
-                    sentences = file.read().split('\n')
-                    print sentences
-                    for sentenceNum in range(len(sentences)):
-                        dictKey = fileName + "_Sent:" + str(sentenceNum)
-
-                        sentence = sentences[sentenceNum]
-                        rootVerb = WordNetLemmatizer().lemmatize(target_verb,'v')
-                        print rootVerb
-                        if rootVerb in sentence.split() and dictKey not in dict:
-                            dict[dictKey] = sentences[sentenceNum]
-        count+=1
-
+        #splits the csv file by the period delimeter to get the verb associated
+        verb = row[1].split(".")[0].strip()
+        fileName = row[len(row) - 1].strip()
+        if fileName in filePathDictionary:
+            if verb == target_verb:
+                # get all the words in the file
+                file = io.open(filePathDictionary[fileName], "r",encoding='utf-8')
+                sentences = file.read().split('\n')
+                for sentenceNum in range(len(sentences)):
+                    dictKey = fileName + "_Sent:" + str(sentenceNum)
+                    sentence = sentences[sentenceNum]
+                    if getBase(sentence,target_verb) is True and dictKey not in dict:
+                        dict[dictKey] = sentences[sentenceNum]
     return dict
 
 
 def main():
-    print extractSentencesForVerb("accuse")
+    print extractSentencesForVerb("brief")
 
 main()
 
