@@ -39,17 +39,25 @@ def extractSentencesForVerb(target_verb):
             if verb == target_verb:
                 # get all the words in the file
                 file = io.open(filePathDictionary[fileName], "r",encoding='utf-8')
-                sentences = file.read().split('\n')
+
+                sentences = file.read().split("\n\n")
+                sentences[:] = (value for value in sentences if value != '\t')
+
                 for sentenceNum in range(len(sentences)):
-                    dictKey = fileName + "_Sent:" + str(sentenceNum)
+                    dictKey = fileName
                     sentence = sentences[sentenceNum]
-                    if getBase(sentence,target_verb) is True and dictKey not in dict:
-                        dict[dictKey] = sentences[sentenceNum]
+                    if getBase(sentence,target_verb) is True:
+                        if dictKey not in dict:
+                            dict[dictKey] = []
+                            dict[dictKey].append(sentenceNum+1)
+                        else:
+                            dict[dictKey].append(sentenceNum+1)
+
     return dict
 
 
 def main():
-    print extractSentencesForVerb("brief")
+    print extractSentencesForVerb("accuse")
 
 main()
 
