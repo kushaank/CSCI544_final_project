@@ -1,0 +1,119 @@
+import csv
+import fnmatch
+import os
+from collections import defaultdict
+import io
+from getBaseWord import getBase
+import numpy as np
+import pandas as pd
+from io import StringIO
+
+def getAbsolutePath(fileType, directoryName):
+    '''
+    Create map between file name and the absolute file path of every news file
+    :return: absolute path
+    '''
+    filePathDictionary = defaultdict(int)
+    for root, dirnames, filenames in os.walk(directoryName):
+        for filename in fnmatch.filter(filenames, '*' + fileType):
+            relativePath = os.path.join(root, filename)
+            fullFilePath = os.path.abspath(relativePath)
+            fileNameWithoutExtension = os.path.splitext(filename)[0].strip()
+            filePathDictionary[fileNameWithoutExtension] = fullFilePath
+    return filePathDictionary
+
+def getAbsolutePathForTargetVerb(files, fileType, directoryName):
+    '''
+    Create map between file name and the absolute file path of every news file
+    :return: absolute path
+    '''
+    filePathDictionary = defaultdict(int)
+    for root, dirnames, filenames in os.walk(directoryName):
+        for filename in fnmatch.filter(filenames, '*' + fileType):
+            fileNameWithoutExtension = os.path.splitext(filename)[0].strip()
+            if fileNameWithoutExtension in files:
+                relativePath = os.path.join(root, filename)
+                fullFilePath = os.path.abspath(relativePath)
+                filePathDictionary[fileNameWithoutExtension] = fullFilePath
+    return filePathDictionary
+
+def getFileNamesForVerb(target_verb):
+    '''
+    Get all files associated with the given verb
+    :param verb: the verb for which files need to be extracted
+    :return: all the files associated with the verb
+    '''
+    filePathDictionary = getAbsolutePath(".txt", "NewsTextFiles")
+    mycsv = csv.reader(open("finalPredicates3cols.csv"))
+    # dict = {}
+    # count = 0
+    files = []
+
+    for row in mycsv:
+        #splits the csv file by the period delimeter to get the verb associated
+        verb = row[1].split(".")[0].strip()
+        fileName = row[len(row) - 1].strip()
+        if fileName in filePathDictionary:
+            if verb == target_verb:
+                # get all the words in the file
+                #file = io.open(filePathDictionary[fileName], "r",encoding='utf-8')
+                files.append(fileName+".txt")
+                # sentences = file.read().split("\n\n")
+                # sentences[:] = (value for value in sentences if value != '\t')
+                # for sentenceNum in range(len(sentences)):
+                #
+                #     dictKey = fileName + ".txt"
+                #     sentence = sentences[sentenceNum]
+                #     if getBase(sentence,target_verb) is True:
+                #         print dictKey + " " + sentence
+                #         if dictKey not in dict:
+                #             dict[dictKey] = [sentenceNum+1]
+                #         else:
+                #             dict[dictKey].append(sentenceNum+1)
+
+
+    return files
+
+# def extractSrlData(sentencesForVerbDictionary):
+#     '''
+#     Get all files associated with the given verb
+#     :param verb: the verb for which files need to be extracted
+#     :return: all the files associated with the verb
+#     '''
+#     srlPathDictionary = getAbsolutePath(".srl", "ClearnlpOutput")
+#     for fileName in sentencesForVerbDictionary.keys():
+#         file = io.open(srlPathDictionary[fileName], "r", encoding='utf-8')
+#         srlSentenceChunks = file.read().split("\n\n")
+#         srlSentenceChunks[:] = (value for value in srlSentenceChunks if value != '\t')
+#
+#         sentenceNumbers = sentencesForVerbDictionary[fileName]
+#         print sentenceNumbers
+#         for sentenceNumber in sentenceNumbers:
+#             print fileName
+#             # print sentenceNumber
+#             # print srlSentenceChunks[sentenceNumber-1]
+
+
+def main():
+    # sentenceDictionary = extractSentencesForVerb("brief")
+    # extractSrlData(sentenceDictionary)
+    files = getFileNamesForVerb("accuse")
+    dict = getAbsolutePathForTargetVerb(files, ".srl", "ClearnlpOutput")
+
+    for key in dict.keys():
+        file = io.open(dict[key], "r", encoding='utf-8')
+        srlSentenceChunks = file.read().split("\n\n")
+       # srlSentenceChunks[:] = (value for value in srlSentenceChunks if value != '\t')
+        #X = np.loadtxt(file, skiprows=1)
+        for chunk in srlSentenceChunks[:-1]:
+            TESTDATA = StringIO(chunk)
+            df = pd.read_table(TESTDATA, names=["ID","Word","Lemma","POS","Features","Parent","Dependency Labels","SRL"])
+            print df
+            print '\n\n'
+        break
+        break
+
+
+main()
+
+
