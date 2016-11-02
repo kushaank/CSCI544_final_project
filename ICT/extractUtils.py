@@ -71,9 +71,9 @@ def main():
             df = pd.read_table(TESTDATA, names=["ID","Word","Lemma","POS","Features","Parent","Dependency Labels","SRL"])
             if "accuse" in df["Lemma"].tolist():
                 sentences.append(df)
-
+            break
         break
-
+    print df.loc[df['Lemma'] == 'accuse']
 
 
 
