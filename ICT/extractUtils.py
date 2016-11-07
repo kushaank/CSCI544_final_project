@@ -8,6 +8,18 @@ import numpy as np
 import pandas as pd
 from io import StringIO
 
+ID = "ID"
+WORD = "Word"
+LEMMA = "Lemma"
+POS = "POS"
+FEATURES = "Features"
+PARENT = "Parent"
+DEPENDENCY_LABELS = "Dependency Labels"
+SRL = "SRL"
+
+A0 = "A0"
+A1= "A1"
+
 def getAbsolutePath(fileType, directoryName):
     '''
     Create map between every file name without its extension and the absolute file path to the file
@@ -62,26 +74,51 @@ def getFileNamesForVerb(target_verb):
             return -1
     return files
 
+def hasChild(df, targetParentID):
+    for index, row in df.iterrows():
+        parentID = str(df.get_value(index, PARENT))
+        if parentID == targetParentID: #a row's parent value is the ID of the agent we found
+            return True
+    return False
+
+def getFullAgent(df, targetParentID):    
+    dictionary = {}
+    for index, row in df.iterrows():
+        currentID = str(df.get_value(index, ID))
+        if currentID == targetParentID: #a row's parent value is the ID of the agent we found
+            targetWord = str(df.get_value(index, WORD))
+            dictionary[targetParentID] = targetWord
+            break
+    
+    childNodeDictionary = getChildNodes(df, targetParentID, dictionary)
+    return getFullAgentFromChildNodes(childNodeDictionary)
+
+def getChildNodes(df, targetParentID, dictionary):    
+    if hasChild(df, targetParentID):
+        for index, row in df.iterrows():
+            parentID = str(df.get_value(index, PARENT))
+            currentID = str(df.get_value(index, ID))
+            if parentID == targetParentID: #a row's parent value is the ID of the agent we found
+                dictionary[currentID] = str(df.get_value(index, WORD))
+                return getChildNodes(df, currentID, dictionary)
+    else:
+        return dictionary
+
+def getFullAgentFromChildNodes(dictionary):
+    sortedKeys = sorted(dictionary.keys())
+    sortedValues = []
+    for key in sortedKeys:
+        sortedValues.append(dictionary[key])
+    return " ".join(sortedValues)
+
 def main():
     targetVerb = "evacuate"
     files = getFileNamesForVerb(targetVerb)
     dict = getAbsolutePathForSrlFiles(files, "ClearnlpOutput")
 
-    ID = "ID"
-    WORD = "Word"
-    LEMMA = "Lemma"
-    POS = "POS"
-    FEATURES = "Features"
-    PARENT = "Parent"
-    DEPENDENCY_LABELS = "Dependency Labels"
-    SRL = "SRL"
-
-    A0 = "A0"
-    A1= "A1"
-
     sentences = []
     for key in dict.keys():
-        file = io.open("/Users/eamonb/Documents/CS544/Projects/group project/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part7/newsText3702.txt.srl", "r", encoding='utf-8')
+        file = io.open("/Users/eamonb/Documents/CS544/Projects/group project/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part22/newsText13092.txt.srl", "r", encoding='utf-8')
         srlSentenceChunks = file.read().split("\n\n")
 
         for chunk in srlSentenceChunks[:-1]:
@@ -99,8 +136,11 @@ def main():
 
     #grab the ID of that verb at that row
     targetVerbID = str(targetVerbRow[ID].iloc[0])
+    # dict = {"9":"nationals"}
+    # print getFullAgentFromChildNodes(getChildrenNodes(df, "9", dict))
 
-    #look at the SRL column in this chunk to see which row has the target verb identification as an argument
+    # print df
+
     for index, row in df.iterrows():
         srl = df.get_value(index, SRL)
         twoOrMoreSRLArguments = str(srl).split(";") #3:A0=PAG;11:A0=PAG two or more arguments are separated by semicolon
@@ -110,7 +150,7 @@ def main():
             validSRLs = twoOrMoreSRLArguments
         elif len(oneSRLArgument) > 1: #one argument
             validSRLs.append(srl)
-        
+
         for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
             argumentSplit = srlSection.split(":")
             relatedID = str(argumentSplit[0]) #3
@@ -119,21 +159,11 @@ def main():
             if relatedID == targetVerbID: #our current row has an agent that corresponds to our target action
                 argumentNumber = argumentNumberFull.split("=")[0] # just want to extract the 'A0' from 'A0=PAG'
                 agentID = str(df.get_value(index, ID))  #the ID of the row of the SRL with the agent
+                agentWord = str(df.get_value(index, WORD))
                 
-                #need more children examples
-                # childrenDictionary = {}
-
-                # for index1, row1 in df.iterrows():
-                #     parent = df.get_value(index1, PARENT)
-                #     if str(parent) == agentID: #a row's parent value is the ID of the agent we found
-                #         print df.get_value(index1, ID)
-                #         childrenDictionary[df.get_value(index1, ID)] = str(df.get_value(index1, WORD))
-                
-                word =  df.get_value(index, WORD)
-                resultsDictionary[argumentNumber] = word
+                resultsDictionary[argumentNumber] = getFullAgent(df, agentID)
                 
     print resultsDictionary
-    # print childrenDictionary
 
 main()
 
