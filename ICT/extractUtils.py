@@ -82,29 +82,44 @@ def hasChild(df, targetParentID):
     return False
 
 def getFullAgent(df, targetParentID):    
+    '''
+    given a certain node, returns a string of the agent and all its child nodes in order
+    :return: String
+    '''
+    childNodeDictionary = {}
     dictionary = {}
     for index, row in df.iterrows():
         currentID = str(df.get_value(index, ID))
         if currentID == targetParentID: #a row's parent value is the ID of the agent we found
+            print currentID
             targetWord = str(df.get_value(index, WORD))
             dictionary[targetParentID] = targetWord
-            break
-    
-    childNodeDictionary = getChildNodes(df, targetParentID, dictionary)
+            childNodeDictionary = getChildNodes(df, targetParentID, dictionary)
+
     return getFullAgentFromChildNodes(childNodeDictionary)
 
-def getChildNodes(df, targetParentID, dictionary):    
+def getChildNodes(df, targetParentID, dictionary):   
+    '''
+    returns a dictionary of ID : word of all the child nodes of a certain node ID
+    '''
     if hasChild(df, targetParentID):
         for index, row in df.iterrows():
             parentID = str(df.get_value(index, PARENT))
             currentID = str(df.get_value(index, ID))
             if parentID == targetParentID: #a row's parent value is the ID of the agent we found
                 dictionary[currentID] = str(df.get_value(index, WORD))
-                return getChildNodes(df, currentID, dictionary)
+                dictionary.update(getChildNodes(df, currentID, dictionary))
+        return dictionary
     else:
+        print dictionary
         return dictionary
 
+
 def getFullAgentFromChildNodes(dictionary):
+    '''
+    given a dictionary of ID: word, sorts the dictionary on order of ID and returns a String of the entire agent with child nodes included
+    :return: String
+    '''
     sortedKeys = sorted(dictionary.keys())
     sortedValues = []
     for key in sortedKeys:
@@ -118,7 +133,7 @@ def main():
 
     sentences = []
     for key in dict.keys():
-        file = io.open("/Users/eamonb/Documents/CS544/Projects/group project/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part22/newsText13092.txt.srl", "r", encoding='utf-8')
+        file = io.open("/Users/eamonb/Documents/CS544/Projects/group project/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part30/newsText17789.txt.srl", "r", encoding='utf-8')
         srlSentenceChunks = file.read().split("\n\n")
 
         for chunk in srlSentenceChunks[:-1]:
@@ -163,6 +178,7 @@ def main():
                 
                 resultsDictionary[argumentNumber] = getFullAgent(df, agentID)
                 
+    print df
     print resultsDictionary
 
 main()
