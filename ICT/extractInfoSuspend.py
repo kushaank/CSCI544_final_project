@@ -5,7 +5,7 @@ import io
 import calendar
 
 def main():
-    targetVerb = "accuse"
+    targetVerb = "suspend"
     files = extractUtils.getFileNamesForVerb(targetVerb)
     dict = extractUtils.getAbsolutePathForSrlFiles(files, "ClearnlpOutput")
 
@@ -24,7 +24,7 @@ def main():
     sentences = []
     for key in dict.keys():
 
-        path = "/Users/kushaankumar/Desktop/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part8/newsText4448.txt.srl"
+        path = "/Users/kushaankumar/Desktop/CSCI544_final_project/ICT/ClearnlpOutput/ClearnlpOutput/Part2/newsText720.txt.srl"
         file = io.open(path,"r", encoding='utf-8')
         srlSentenceChunks = file.read().split("\n\n")
 
@@ -43,8 +43,7 @@ def main():
     # grab the ID of that verb at that row
     targetVerbID = str(targetVerbRow[ID].iloc[0])
 
-    # tracks the ID for the word "of" to extract the possible action from the subtree of that node
-    IDForOf = -1
+
 
     # look at the SRL column in this chunk to see which row has the target verb identification as an argument
     for index, row in df.iterrows():
@@ -82,22 +81,15 @@ def main():
                 resultsDictionary[argumentNumber] = word
                 resultsDictionary[argumentNumber] = extractUtils.getFullAgent(df, agentID)
 
-                # extracting the ID for of to find possible action
-                if argumentNumber == "A2":
-                    IDForOf = row[ID]
-
-                ##get the child of the node 'accused', usually called "of", then get child of that to obtain the possible action/ action
 
 
-        #if the correspoinding row has the preposition "of" get the possible action which is A2 for the target action
-        if row[PARENT] == int(IDForOf):
-            resultsDictionary["possible action"] = resultsDictionary["A2"]
+        #extract reason from SRL
+        if "AM-CAU" in resultsDictionary:
+            resultsDictionary["Reason"] = resultsDictionary.pop('AM-CAU')
 
-        #check if this is a passive action
-        if row[WORD] == "are":
-            if int(df.get_value(index, PARENT)) == int(targetVerbID):
-                resultsDictionary["passive"] = "true"
-
+        #extract location from SRL
+        if "AM-DIS" in resultsDictionary:
+            resultsDictionary["Location"] = resultsDictionary.pop('AM-DIS')
         # see if the word corresponds to any day/month and if yes add it to the date/location param
         if row[WORD] in calendar.day_name:
             resultsDictionary["Date/Time"] = row[WORD]
