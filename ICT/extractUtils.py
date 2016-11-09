@@ -1,24 +1,15 @@
 import csv
 import fnmatch
 import os
+import col
 from collections import defaultdict
 import io
+import calendar
 from getBaseWord import getBase
 import numpy as np
 import pandas as pd
 from io import StringIO
-
-ID = "ID"
-WORD = "Word"
-LEMMA = "Lemma"
-POS = "POS"
-FEATURES = "Features"
-PARENT = "Parent"
-DEPENDENCY_LABELS = "Dependency Labels"
-SRL = "SRL"
-
-A0 = "A0"
-A1= "A1"
+from dateutil.parser import parse
 
 def getAbsolutePath(fileType, directoryName):
     '''
@@ -76,7 +67,7 @@ def getFileNamesForVerb(target_verb):
 
 def hasChild(df, targetParentID):
     for index, row in df.iterrows():
-        parentID = str(df.get_value(index, PARENT))
+        parentID = str(df.get_value(index, col.PARENT))
         if parentID == targetParentID: #a row's parent value is the ID of the agent we found
             return True
     return False
@@ -90,9 +81,9 @@ def getFullAgent(df, targetParentID):
     childNodeDictionary = {}
     dictionary = {}
     for index, row in df.iterrows():
-        currentID = str(df.get_value(index, ID))
+        currentID = str(df.get_value(index, col.ID))
         if currentID == targetParentID: #a row's parent value is the ID of the agent we found
-            targetWord = str(df.get_value(index, WORD))
+            targetWord = str(df.get_value(index, col.WORD))
             dictionary[int(targetParentID)] = targetWord
             childNodeDictionary = getChildNodes(df, targetParentID, dictionary)
 
@@ -108,10 +99,10 @@ def getChildNodes(df, targetParentID, dictionary):
     '''
     if hasChild(df, targetParentID):
         for index, row in df.iterrows():
-            parentID = str(df.get_value(index, PARENT))
-            currentID = str(df.get_value(index, ID))
+            parentID = str(df.get_value(index, col.PARENT))
+            currentID = str(df.get_value(index, col.ID))
             if parentID == targetParentID: #a row's parent value is the ID of the agent we found
-                dictionary[int(currentID)] = str(df.get_value(index, WORD))
+                dictionary[int(currentID)] = str(df.get_value(index, col.WORD))
                 dictionary.update(getChildNodes(df, currentID, dictionary))
         return dictionary
     else:
@@ -141,8 +132,8 @@ def getValidDataFrameDictForTargetAction(targetAction) :
         sentenceNumber = 0
         for chunk in srlSentenceChunks[:-1]:
             TESTDATA = StringIO(chunk)
-            df = pd.read_table(TESTDATA, names=[ID,WORD,LEMMA,POS,FEATURES,PARENT,DEPENDENCY_LABELS,SRL])
-            if targetAction in df[LEMMA].tolist():
+            df = pd.read_table(TESTDATA, names=[col.ID,col.WORD,col.LEMMA,col.POS,col.FEATURES,col.PARENT,col.DEPENDENCY_LABELS,col.SRL])
+            if targetAction in df[col.LEMMA].tolist():
                 fileAndSent = key + "_Sent" + str(sentenceNumber)
                 fileAndSentToValidDF[fileAndSent] = df
             sentenceNumber +=1
@@ -161,7 +152,7 @@ def getValidSRLsFromSRL(srl):
 
 def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
     for index, row in df.iterrows():
-        srl = df.get_value(index, SRL)
+        srl = df.get_value(index, col.SRL)
         validSRLs = getValidSRLsFromSRL(srl)
 
         for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
@@ -172,9 +163,37 @@ def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
             #getting all the arguments that correspond to the target Verb
             if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
                 argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
-                agentID = str(df.get_value(index, ID))  # the ID of the row of the SRL with the agent
+                agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
 
                 resultsDictionary[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
+    return resultsDictionary
+
+def is_date(string):
+    try: 
+        parse(string)
+        return True
+    except ValueError:
+        return False
+
+def addDateToDictionary(word, resultsDictionary):
+    # if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or is_date(word):
+    #     resultsDictionary["Date/Time"] = word
+    # return resultsDictionary
+    if word in calendar.day_name:
+        resultsDictionary["Date/Time"] = word
+
+    if word in calendar.month_name:
+        resultsDictionary["Date/Time"] = word
+
+    if word in calendar.day_abbr:
+        resultsDictionary["Date/Time"] = word
+
+    if word in calendar.month_abbr:
+        resultsDictionary["Date/Time"] = word
+    
+    if is_date(word):
+        resultsDictionary["Date/Time"] = word
+
     return resultsDictionary
 
 def main():
