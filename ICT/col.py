@@ -1,0 +1,11 @@
+ID = "ID"
+WORD = "Word"
+LEMMA = "Lemma"
+POS = "POS"
+FEATURES = "Features"
+PARENT = "Parent"
+DEPENDENCY_LABELS = "Dependency Labels"
+SRL = "SRL"
+
+A0 = "A0"
+A1= "A1"
