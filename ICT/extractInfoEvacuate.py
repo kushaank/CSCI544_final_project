@@ -30,77 +30,57 @@ def main():
     fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
 
     evacuateCategories = ["Location", "A0", "A1", "Date/Time", "Action"]
-
+    
+    #newsText3702.txt_Sent0
 
     outputDictionary = {}
     for fileAndSent in fileAndSentToValidDF.keys():
-        if fileAndSent == "newsText7326.txt_Sent0": #only because I want to see results of one file which is faster
-            df = fileAndSentToValidDF[fileAndSent]
+        df = fileAndSentToValidDF[fileAndSent]
+        
+        resultsDictionary = {}
+        for category in evacuateCategories:
+            resultsDictionary[category] = None
+        resultsDictionary["Action"] = targetVerb
+
+        targetVerbRow =  df.loc[df[LEMMA] == targetVerb]
+        targetVerbID = str(targetVerbRow[ID].iloc[0])
+
+        #from Vietman, of China, in Serbia
+        locationStartingWords = ["from", "of", "in"]
+
+        resultsDictionary = extractUtils.getArgumentsForGivenID(df, targetVerbID, resultsDictionary)
+
+        for index, row in df.iterrows():
+            #reason
+            if "AM-TMP" in resultsDictionary:
+                resultsDictionary["Reason"] = resultsDictionary.pop("AM-TMP")
+
+            # location
+            if row[WORD] in locationStartingWords:
+                resultsDictionary = addLocationToDictionary(resultsDictionary, extractUtils.getFullAgent(df, str(row[ID])))
+            # if "AM-LOC" in resultsDictionary:
+            #     resultsDictionary["Location"] = resultsDictionary.pop('AM-LOC')
+            #     #TODO: check if the corresponding AM-LOC has a geopolitical entity in it
             
-            resultsDictionary = {}
-            for category in evacuateCategories:
-                resultsDictionary[category] = None
-            resultsDictionary["Action"] = targetVerb
+            #date
+            if row[WORD] in calendar.day_name:
+                resultsDictionary["Date/Time"] = row[WORD]
 
-            targetVerbRow =  df.loc[df[LEMMA] == targetVerb]
-            targetVerbID = str(targetVerbRow[ID].iloc[0])
+            if row[WORD] in calendar.month_name:
+                resultsDictionary["Date/Time"] = row[WORD]
 
-            #from Vietman, of China, in Serbia
-            locationStartingWords = ["from", "of", "in"]
+            if row[WORD] in calendar.day_abbr:
+                resultsDictionary["Date/Time"] = row[WORD]
 
-            for index, row in df.iterrows():
-                wordValue = str(df.get_value(index, WORD))
-                wordId = str(df.get_value(index, ID))
-
-                srl = df.get_value(index, SRL)
-                twoOrMoreSRLArguments = str(srl).split(";") #3:A0=PAG;11:A0=PAG two or more arguments are separated by semicolon
-                oneSRLArgument = str(srl).split(":") #28:A0=PAG one argument separates relatedID and argument with colon
-                validSRLs = []
-                if len(twoOrMoreSRLArguments) > 1: #there are two or more arguments
-                    validSRLs = twoOrMoreSRLArguments
-                elif len(oneSRLArgument) > 1: #one argument
-                    validSRLs.append(srl)
-
-                for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
-                    argumentSplit = srlSection.split(":")
-                    relatedID = str(argumentSplit[0]) #3
-                    argumentNumberFull = argumentSplit[1] #'A0=PAG'
-
-                    if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
-                        argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
-                        agentID = str(df.get_value(index, ID))  # the ID of the row of the SRL with the agent
-
-                        resultsDictionary[argumentNumber] = extractUtils.getFullAgent(df, agentID)#Grab agent 0 or agent 1
-
-                #reason
-                if "AM-TMP" in resultsDictionary:
-                    resultsDictionary["Reason"] = resultsDictionary.pop("AM-TMP")
-
-                # location
-                if row[WORD] in locationStartingWords:
-                    resultsDictionary = addLocationToDictionary(resultsDictionary, extractUtils.getFullAgent(df, str(row[ID])))
-                # if "AM-LOC" in resultsDictionary:
-                #     resultsDictionary["Location"] = resultsDictionary.pop('AM-LOC')
-                #     #TODO: check if the corresponding AM-LOC has a geopolitical entity in it
+            if row[WORD] in calendar.month_abbr:
+                resultsDictionary["Date/Time"] = row[WORD]
+            
+        for result in resultsDictionary.keys():
+            if category not in evacuateCategories:
+                resultsDictionary.pop(category)
+        outputDictionary[fileAndSent] = resultsDictionary
                 
-                #date
-                if row[WORD] in calendar.day_name:
-                    resultsDictionary["Date/Time"] = row[WORD]
-
-                if row[WORD] in calendar.month_name:
-                    resultsDictionary["Date/Time"] = row[WORD]
-
-                if row[WORD] in calendar.day_abbr:
-                    resultsDictionary["Date/Time"] = row[WORD]
-
-                if row[WORD] in calendar.month_abbr:
-                    resultsDictionary["Date/Time"] = row[WORD]
-                
-            for result in resultsDictionary.keys():
-                if category not in evacuateCategories:
-                    resultsDictionary.pop(category)
-            outputDictionary[fileAndSent] = resultsDictionary
-                
-    print outputDictionary
+    for key in outputDictionary.keys():
+        print (key + ": " + str(outputDictionary[key]) + '\n')
 
 main()
