@@ -50,15 +50,6 @@ def main():
                         argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
                         agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
 
-                        # need more children examples
-                        # childrenDictionary = {}
-
-                        # for index1, row1 in df.iterrows():
-                        #     parent = df.get_value(index1, PARENT)
-                        #     if str(parent) == agentID: #a row's parent value is the ID of the agent we found
-                        #         print df.get_value(index1, ID)
-                        #         childrenDictionary[df.get_value(index1, ID)] = str(df.get_value(index1, WORD))
-
                         word = df.get_value(index, col.WORD)
                         resultsDictionary[argumentNumber] = word
                         resultsDictionary[argumentNumber] = extractUtils.getFullAgent(df, agentID)
@@ -80,21 +71,10 @@ def main():
                         resultsDictionary["passive"] = "true"
 
                 # see if the word corresponds to any day/month and if yes add it to the date/location param
-                if row[col.WORD] in calendar.day_name:
-                    resultsDictionary["Date/Time"] = row[col.WORD]
+                resultsDictionary = extractUtils.addDateToDictionary(row[col.WORD], resultsDictionary)
 
-                if row[col.WORD] in calendar.month_name:
-                    resultsDictionary["Date/Time"] = row[col.WORD]
 
-                if row[col.WORD] in calendar.day_abbr:
-                    resultsDictionary["Date/Time"] = row[col.WORD]
-
-                if row[col.WORD] in calendar.month_abbr:
-                    resultsDictionary["Date/Time"] = row[col.WORD]
-
-            print resultsDictionary
-    
-
+            outputDictionary[fileAndSent] = resultsDictionary
+    print outputDictionary
 
 main()
-
