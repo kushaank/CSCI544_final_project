@@ -149,6 +149,34 @@ def getValidDataFrameDictForTargetAction(targetAction) :
 
     return fileAndSentToValidDF
 
+def getValidSRLsFromSRL(srl):
+    twoOrMoreSRLArguments = str(srl).split(";") #3:A0=PAG;11:A0=PAG two or more arguments are separated by semicolon
+    oneSRLArgument = str(srl).split(":") #28:A0=PAG one argument separates relatedID and argument with colon
+    validSRLs = []
+    if len(twoOrMoreSRLArguments) > 1: #there are two or more arguments
+        validSRLs = twoOrMoreSRLArguments 
+    elif len(oneSRLArgument) > 1: #one argument
+        validSRLs.append(srl)
+    return validSRLs
+
+def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
+    for index, row in df.iterrows():
+        srl = df.get_value(index, SRL)
+        validSRLs = getValidSRLsFromSRL(srl)
+
+        for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
+            argumentSplit = srlSection.split(":")
+            relatedID = str(argumentSplit[0]) #3
+            argumentNumberFull = argumentSplit[1] #'A0=PAG'
+
+            #getting all the arguments that correspond to the target Verb
+            if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
+                argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
+                agentID = str(df.get_value(index, ID))  # the ID of the row of the SRL with the agent
+
+                resultsDictionary[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
+    return resultsDictionary
+
 def main():
 
     main()
