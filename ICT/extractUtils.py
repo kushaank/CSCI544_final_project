@@ -16,7 +16,13 @@ def getCapitalsList():
     with open("GeopoliticalList/country_capital.txt", 'r') as myfile:
         word = myfile.read().replace('\t', ' ')
         word = word.rstrip()
-        capitalsList.add(word)
+        wordArray = word.split(' ')
+        #this line has more than one word in it so add each word into the set
+        if len(wordArray) > 1:
+            for subWord in wordArray:
+                capitalsList.add(subWord)
+        else:
+            capitalsList.add(word)
     return capitalsList
         
 def getHeadOfStateList():
@@ -24,16 +30,28 @@ def getHeadOfStateList():
     with open("GeopoliticalList/country_headOfState.txt", 'r') as myfile:
         word = myfile.read().replace('\t', ' ')
         word = word.rstrip()
-        headOfStateList.add(word)
+        wordArray = word.split(' ')
+         #this line has more than one word in it so add each word into the set
+        if len(wordArray) > 1:
+            for subWord in wordArray:
+                headOfStateList.add(subWord)
+        else:
+            headOfStateList.add(word)
     return headOfStateList
 
 def getNationalityList():
-    nationality = set()
+    nationalityList = set()
     with open("GeopoliticalList/country_nationality.txt", 'r') as myfile:
         word = myfile.read().replace('\t', ' ')
         word = word.rstrip()
-        nationality.add(word)
-    return nationality
+        wordArray = word.split(' ')
+        #this line has more than one word in it so add each word into the set
+        if len(wordArray) > 1:
+            for subWord in wordArray:
+                nationalityList.add(subWord)
+        else:
+            nationalityList.add(word)
+    return nationalityList
 
 def getAbsolutePath(fileType, directoryName):
     '''
@@ -213,6 +231,13 @@ def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
                 resultsDictionaryCopy[argumentNumber] = agentID#Grab agent 0 or agent 1
     return resultsDictionaryCopy
 
+def isValidLocation(locationPhrase, capitalsList) :
+    locationPhraseArray = locationPhrase.split(" ")
+    for word in locationPhraseArray:
+        if word in capitalsList:
+            return True
+    return False
+    
 def addLocationToDictionary(resultsDictionary, location):
     if resultsDictionary["Location"] == None:
         resultsDictionary["Location"] = location
