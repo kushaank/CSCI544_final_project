@@ -11,6 +11,30 @@ import pandas as pd
 from io import StringIO
 from dateutil.parser import parse
 
+def getCapitalsList():
+    capitalsList = set()
+    with open("GeopoliticalList/country_capital.txt", 'r') as myfile:
+        word = myfile.read().replace('\t', ' ')
+        word = word.rstrip()
+        capitalsList.add(word)
+    return capitalsList
+        
+def getHeadOfStateList():
+    headOfStateList = set()
+    with open("GeopoliticalList/country_headOfState.txt", 'r') as myfile:
+        word = myfile.read().replace('\t', ' ')
+        word = word.rstrip()
+        headOfStateList.add(word)
+    return headOfStateList
+
+def getNationalityList():
+    nationality = set()
+    with open("GeopoliticalList/country_nationality.txt", 'r') as myfile:
+        word = myfile.read().replace('\t', ' ')
+        word = word.rstrip()
+        nationality.add(word)
+    return nationality
+
 def getAbsolutePath(fileType, directoryName):
     '''
     Create map between every file name without its extension and the absolute file path to the file
@@ -151,6 +175,7 @@ def getValidSRLsFromSRL(srl):
     return validSRLs
 
 def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
+    resultsDictionaryCopy = resultsDictionary.copy()
     for index, row in df.iterrows():
         srl = df.get_value(index, col.SRL)
         validSRLs = getValidSRLsFromSRL(srl)
@@ -165,15 +190,50 @@ def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
                 argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
                 agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
 
-                resultsDictionary[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
+                resultsDictionaryCopy[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
+    return resultsDictionaryCopy
+
+#returns the actual ID of agent1 and agent 2 for the given ID (if any)
+def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
+    resultsDictionaryCopy = resultsDictionary.copy()
+    for index, row in df.iterrows():
+        srl = df.get_value(index, col.SRL)
+        validSRLs = getValidSRLsFromSRL(srl)
+
+        for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
+            argumentSplit = srlSection.split(":")
+            relatedID = str(argumentSplit[0]) #3
+            argumentNumberFull = argumentSplit[1] #'A0=PAG'
+
+            #getting all the arguments that correspond to the target Verb
+            if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
+                argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
+                agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
+
+                resultsDictionaryCopy[argumentNumber] = agentID#Grab agent 0 or agent 1
+    return resultsDictionaryCopy
+
+def addLocationToDictionary(resultsDictionary, location):
+    if resultsDictionary["Location"] == None:
+        resultsDictionary["Location"] = location
+    else:
+        resultsDictionary["Location"] = resultsDictionary.pop("Location")+ ", " + location
     return resultsDictionary
 
+#DANGEROUS, for some reason giving a lot of false positives. considers comma and - as valid dates
 def is_date(string):
     try: 
         parse(string)
         return True
     except ValueError:
         return False
+
+def valid_year(year):
+    if year and year.isdigit():
+        if int(year) >=1700 and int(year) <=2020:
+            return True
+    return False
+    
 
 def addDateToDictionary(word, resultsDictionary):
     # if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or is_date(word):
@@ -191,7 +251,7 @@ def addDateToDictionary(word, resultsDictionary):
     if word in calendar.month_abbr:
         resultsDictionary["Date/Time"] = word
     
-    if is_date(word):
+    if valid_year(word):
         resultsDictionary["Date/Time"] = word
 
     return resultsDictionary
