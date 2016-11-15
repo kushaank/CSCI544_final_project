@@ -14,7 +14,7 @@ def main():
 
     outputDictionary = {}
     for fileAndSent in fileAndSentToValidDF.keys():
-        if fileAndSent == "newsText4448.txt_Sent7": 
+        if fileAndSent == "newsText3185.txt_Sent0":
             df = fileAndSentToValidDF[fileAndSent]
             resultsDictionary = {}
             resultsDictionary["action"] = targetVerb
@@ -66,7 +66,7 @@ def main():
                     resultsDictionary["possible action"] = resultsDictionary["A2"]
 
                 #check if this is a passive action
-                if row[col.WORD] == "are":
+                if row[col.POS] == "VBP":
                     if int(df.get_value(index, col.PARENT)) == int(targetVerbID):
                         resultsDictionary["passive"] = "true"
 
