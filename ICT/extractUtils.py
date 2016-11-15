@@ -11,47 +11,41 @@ import pandas as pd
 from io import StringIO
 from dateutil.parser import parse
 
-def getCapitalsList():
-    capitalsList = set()
-    with open("GeopoliticalList/country_capital.txt", 'r') as myfile:
-        word = myfile.read().replace('\t', ' ')
+def createSetFromFile(fileName):
+    geopoliticalList = set()
+    with open(fileName, 'r') as myfile:
+        word = myfile.read()
         word = word.rstrip()
-        wordArray = word.split(' ')
+        wordArray = word.split()
         #this line has more than one word in it so add each word into the set
         if len(wordArray) > 1:
             for subWord in wordArray:
-                capitalsList.add(subWord)
+                geopoliticalList.add(subWord.lower())
         else:
-            capitalsList.add(word)
-    return capitalsList
+            geopoliticalList.add(word.lower())
+    return geopoliticalList
+    
+def getCapitalsList():
+    return createSetFromFile("GeopoliticalList/country_capital.txt")
         
 def getHeadOfStateList():
-    headOfStateList = set()
-    with open("GeopoliticalList/country_headOfState.txt", 'r') as myfile:
-        word = myfile.read().replace('\t', ' ')
-        word = word.rstrip()
-        wordArray = word.split(' ')
-         #this line has more than one word in it so add each word into the set
-        if len(wordArray) > 1:
-            for subWord in wordArray:
-                headOfStateList.add(subWord)
-        else:
-            headOfStateList.add(word)
-    return headOfStateList
+    return createSetFromFile("GeopoliticalList/country_headOfState.txt")
 
 def getNationalityList():
-    nationalityList = set()
-    with open("GeopoliticalList/country_nationality.txt", 'r') as myfile:
-        word = myfile.read().replace('\t', ' ')
-        word = word.rstrip()
-        wordArray = word.split(' ')
-        #this line has more than one word in it so add each word into the set
-        if len(wordArray) > 1:
-            for subWord in wordArray:
-                nationalityList.add(subWord)
-        else:
-            nationalityList.add(word)
-    return nationalityList
+    return createSetFromFile("GeopoliticalList/country_nationality.txt")
+
+#pass in any of the three lists (capitals list, nationalities list, or head of state list)
+#test to see if the given phrase contains a word that is in the geopolitical list
+def isValidGeopoliticalAgent(phrase, geopoliticalList) :
+    phraseArray = phrase.split(" ")
+    for word in phraseArray:
+        subWord = ""
+        for char in word:
+            subWord += char.lower()
+            print subWord
+            if subWord in geopoliticalList:
+                return True
+    return False
 
 def getAbsolutePath(fileType, directoryName):
     '''
@@ -231,13 +225,6 @@ def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
                 resultsDictionaryCopy[argumentNumber] = agentID#Grab agent 0 or agent 1
     return resultsDictionaryCopy
 
-def isValidLocation(locationPhrase, capitalsList) :
-    locationPhraseArray = locationPhrase.split(" ")
-    for word in locationPhraseArray:
-        if word in capitalsList:
-            return True
-    return False
-    
 def addLocationToDictionary(resultsDictionary, location):
     if resultsDictionary["Location"] == None:
         resultsDictionary["Location"] = location
@@ -258,7 +245,6 @@ def valid_year(year):
         if int(year) >=1700 and int(year) <=2020:
             return True
     return False
-    
 
 def addDateToDictionary(word, resultsDictionary):
     # if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or is_date(word):
