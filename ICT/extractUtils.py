@@ -10,13 +10,14 @@ import numpy as np
 import pandas as pd
 from io import StringIO
 from dateutil.parser import parse
+import re
 
 def createSetFromFile(fileName):
     geopoliticalList = set()
     with open(fileName, 'r') as myfile:
         word = myfile.read()
         word = word.rstrip()
-        wordArray = word.split()
+        wordArray = re.split('\t|\n|\r', word)
         #this line has more than one word in it so add each word into the set
         if len(wordArray) > 1:
             for subWord in wordArray:
@@ -42,7 +43,6 @@ def isValidGeopoliticalAgent(phrase, geopoliticalList) :
         subWord = ""
         for char in word:
             subWord += char.lower()
-            print subWord
             if subWord in geopoliticalList:
                 return True
     return False
