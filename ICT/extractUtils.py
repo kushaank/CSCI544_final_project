@@ -47,6 +47,14 @@ def isValidGeopoliticalAgent(phrase, geopoliticalList) :
                 return True
     return False
 
+def isInfinitive(agentID, df):
+    #The current word is at the df index int(agentID)-1
+    #so we want to check that the previous word is "to" to make sure it is an infinitive
+    if str(df.iloc[int(agentID)-2][col.WORD]) == "to":
+        return True
+    else:
+        return False
+
 def getAbsolutePath(fileType, directoryName):
     '''
     Create map between every file name without its extension and the absolute file path to the file
@@ -113,17 +121,29 @@ def getFullAgent(df, targetParentID):
     given a certain node, returns a string of the agent and all its child nodes in order
     :return: String
     '''
-    targetParentId = str(targetParentID)
-    childNodeDictionary = {}
-    dictionary = {}
-    for index, row in df.iterrows():
-        currentID = str(df.get_value(index, col.ID))
-        if currentID == targetParentID: #a row's parent value is the ID of the agent we found
-            targetWord = str(df.get_value(index, col.WORD))
-            dictionary[int(targetParentID)] = targetWord
-            childNodeDictionary = getChildNodes(df, targetParentID, dictionary)
+    parents = []
+    visited = []
+    parents.append(str(targetParentID))
+    fullAgent = {}
+    while len(parents)>0:
+        parent = parents[0]
+        visited.append(str(parent))
+        for index, row in df.iterrows():
+            parentID = str(df.get_value(index, col.PARENT))
+            currentID = str(df.get_value(index, col.ID))
+            if str(parentID)==str(parent):
+                if currentID not in visited:
+                    parents.append(currentID)
+                fullAgent[df.get_value(index,col.ID)] = df.get_value(index, col.WORD)
 
-    return getFullAgentFromChildNodes(childNodeDictionary)
+        parents.remove(parent)
+    fullAgent[df.loc[df[col.ID] == int(targetParentID), col.ID].item()]= df.loc[df[col.ID] == int(targetParentID), col.WORD].item()
+
+    sortedKeys = sorted(fullAgent.keys())
+    sortedValues = []
+    for key in sortedKeys:
+        sortedValues.append(fullAgent[key])
+    return " ".join(sortedValues)
 
 def removeFirstWord(agent):
     agent.split(' ', 1)
