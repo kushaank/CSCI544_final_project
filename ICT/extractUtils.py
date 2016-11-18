@@ -48,12 +48,17 @@ def isValidGeopoliticalAgent(phrase, geopoliticalList) :
     return False
 
 def isInfinitive(agentID, df):
+    if agentID == None:
+        return False
     #The current word is at the df index int(agentID)-1
     #so we want to check that the previous word is "to" to make sure it is an infinitive
     if str(df.iloc[int(agentID)-2][col.WORD]) == "to":
         return True
     else:
         return False
+
+def getInfinitiveAgent(agentID, df):
+    return str(df.iloc[int(agentID)-2][col.WORD]) + " " + str(df.iloc[int(agentID)-1][col.WORD])
 
 def getAbsolutePath(fileType, directoryName):
     '''
