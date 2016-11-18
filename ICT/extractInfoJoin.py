@@ -21,7 +21,7 @@ def main():
 
     outputDictionary = {}
     for fileAndSent in fileAndSentToValidDF.keys():
-        if fileAndSent == "newsText17762.txt_Sent9":
+        # if fileAndSent == "newsText1170.txt_Sent1":
             df = fileAndSentToValidDF[fileAndSent]
             #print df
             resultsDictionary = {}
@@ -30,6 +30,7 @@ def main():
             resultsDictionary["Pos/Neg"] = False
             resultsDictionary["Location"] = None
             resultsDictionary["Time"] = None
+            resultsDictionary["Likelihood"] = None
             resultsDictionary["action"] = targetVerb
             # search for row which has the target verb
             targetVerbRow = df.loc[df[LEMMA] == targetVerb]
@@ -51,23 +52,20 @@ def main():
                     argumentSplit = srlSection.split(":")
                     relatedID = str(argumentSplit[0])  # 3
                     argumentNumberFull = argumentSplit[1]  # 'A0=PAG'
-
                     agentID = ""
                     paID = ""
                     if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
                         argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
-                        # if argumentNumber == 'A2':
-                        #     paID = str(df.get_value(index, ID))
-                        #     fullAgent = extractUtils.getFullAgent(df, paID)
-                        #     word = df.get_value(index, WORD)
-                        #     resultsDictionary['PA'] = word
                         if argumentNumber == 'AM-TMP':
                             timeID = str(df.get_value(index, ID))
                             fullAgent = extractUtils.getFullAgent(df, timeID)
                             resultsDictionary['Time'] = fullAgent
                         elif argumentNumber == 'AM-NEG':
                             resultsDictionary['Pos/Neg'] = True
-
+                        elif argumentNumber == 'AM-MOD':
+                            resultsDictionary['Possible Action'] = resultsDictionary.pop('action')
+                            word = df.get_value(index, WORD)
+                            resultsDictionary['Likelihood'] = word
                         else:
                             agentID = str(df.get_value(index, ID))  # the ID of the row of the SRL with the agent
                             fullAgent = extractUtils.getFullAgent(df, agentID)
