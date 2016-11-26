@@ -1,10 +1,4 @@
 import extractUtils
-import pandas as pd
-from io import StringIO
-import io
-import calendar
-from collections import defaultdict
-import os
 import col
 
 def main():
@@ -15,7 +9,7 @@ def main():
     
     outputDictionary = {}
     for fileAndSent in fileAndSentToValidDF.keys():
-        if fileAndSent == "newsText3702.txt_Sent1": #only because I want to see results of one file which is faster
+        if fileAndSent == "newsText3702.txt_Sent0": #only because I want to see results of one file which is faster
 
             df = fileAndSentToValidDF[fileAndSent]
             
