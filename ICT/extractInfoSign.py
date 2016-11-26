@@ -22,9 +22,6 @@ def main():
             targetVerbRow =  df.loc[df[col.LEMMA] == targetVerb]
             targetVerbID = str(targetVerbRow[col.ID].iloc[0])
 
-            #from Vietman, of China, in Serbia
-            locationStartingWords = ["from", "of", "in"]
-
             resultsDictionary = extractUtils.getArgumentsForGivenID(df, targetVerbID, resultsDictionary)
             #checking if agent 1 contains a geopoliticalagent
             if extractUtils.isValidGeopoliticalAgent(resultsDictionary["A1"], capitalsList):

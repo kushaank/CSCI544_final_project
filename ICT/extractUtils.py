@@ -55,7 +55,7 @@ def isInfinitive(agentID, df):
     if str(df.iloc[int(agentID)-2][col.WORD]) == "to":
         return True
     else:
-        return False
+        return False    
 
 def getInfinitiveAgent(agentID, df):
     return str(df.iloc[int(agentID)-2][col.WORD]) + " " + str(df.iloc[int(agentID)-1][col.WORD])
@@ -239,7 +239,7 @@ def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
                 resultsDictionaryCopy[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
     return resultsDictionaryCopy
 
-#returns the arguments (strings) for given ID
+#returns a list of agents that contain the given SRL tag in the sentence
 def getAllAgentsWithGivenSRL(df, desiredSrl):
     agentList = []
     for index, row in df.iterrows():
@@ -277,6 +277,27 @@ def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
                 resultsDictionaryCopy[argumentNumber] = agentID#Grab agent 0 or agent 1
     return resultsDictionaryCopy
 
+#returns the actual ID of agent1 and agent 2 for the given ID (if any)
+#TODO: replace other functions with this function which doesn't use the dictionary unnecesarily'
+def getArgumentIDsForGivenIDTEST(df, targetVerbID):
+    resultsDictionary = {}
+    for index, row in df.iterrows():
+        srl = df.get_value(index, col.SRL)
+        validSRLs = getValidSRLsFromSRL(srl)
+
+        for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
+            argumentSplit = srlSection.split(":")
+            relatedID = str(argumentSplit[0]) #3
+            argumentNumberFull = argumentSplit[1] #'A0=PAG'
+
+            #getting all the arguments that correspond to the target Verb
+            if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
+                argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
+                agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
+
+                resultsDictionary[argumentNumber] = agentID#Grab agent 0 or agent 1
+    return resultsDictionary
+
 def addLocationToDictionary(resultsDictionary, location):
     if resultsDictionary["Location"] == None:
         resultsDictionary["Location"] = location
@@ -304,9 +325,6 @@ def valid_date(word):
     return False
 
 def addDateToDictionary(word, resultsDictionary):
-    # if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or is_date(word):
-    #     resultsDictionary["Date/Time"] = word
-    # return resultsDictionary
     if valid_date(word):
         resultsDictionary["Date/Time"] = word
     return resultsDictionary
