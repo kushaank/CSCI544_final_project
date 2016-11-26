@@ -12,7 +12,6 @@ def getDatesInSentence(df):
 def main():
     targetVerb = "summon"
     fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
-    capitalsList = extractUtils.getCapitalsList()
 
     signCategories = ["A0", "A1", "Date/Time", "Reason Action", "Reason"]
     

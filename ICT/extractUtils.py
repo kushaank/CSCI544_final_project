@@ -322,6 +322,8 @@ def valid_year(year):
 def valid_date(word):
     if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or valid_year(word):
         return True
+    elif "week" in word:
+        return True
     return False
 
 def addDateToDictionary(word, resultsDictionary):
