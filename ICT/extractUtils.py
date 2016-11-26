@@ -121,11 +121,16 @@ def hasChild(df, targetParentID):
             return True
     return False
 
-def getFullAgent(df, targetParentID):    
-    '''
-    given a certain node, returns a string of the agent and all its child nodes in order
-    :return: String
-    '''
+def getImmediateChildrenForAgent(df, targetParentID):
+    immediateChildrenList = []
+    lastMatchingParentIndex = 0
+    for index, row in df.iterrows():
+        if str(row[col.PARENT]) == targetParentID:
+            immediateChildrenList.append(index + 1)
+    return immediateChildrenList
+
+#key is ID value is actual word
+def getFullAgentDictionary(df, targetParentID):
     parents = []
     visited = []
     parents.append(str(targetParentID))
@@ -143,7 +148,10 @@ def getFullAgent(df, targetParentID):
 
         parents.remove(parent)
     fullAgent[df.loc[df[col.ID] == int(targetParentID), col.ID].item()]= df.loc[df[col.ID] == int(targetParentID), col.WORD].item()
+    return fullAgent
 
+def getFullAgent(df, targetParentID):    
+    fullAgent = getFullAgentDictionary(df, targetParentID)
     sortedKeys = sorted(fullAgent.keys())
     sortedValues = []
     for key in sortedKeys:
@@ -211,6 +219,7 @@ def getValidSRLsFromSRL(srl):
         validSRLs.append(srl)
     return validSRLs
 
+#returns the arguments (strings) for given ID
 def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
     resultsDictionaryCopy = resultsDictionary.copy()
     for index, row in df.iterrows():
@@ -229,6 +238,24 @@ def getArgumentsForGivenID(df, targetVerbID, resultsDictionary):
 
                 resultsDictionaryCopy[argumentNumber] = getFullAgent(df, agentID)#Grab agent 0 or agent 1
     return resultsDictionaryCopy
+
+#returns the arguments (strings) for given ID
+def getAllAgentsWithGivenSRL(df, desiredSrl):
+    agentList = []
+    for index, row in df.iterrows():
+        srl = df.get_value(index, col.SRL)
+        validSRLs = getValidSRLsFromSRL(srl)
+
+        for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
+            argumentSplit = srlSection.split(":")
+            relatedID = str(argumentSplit[0]) #3
+            argumentNumberFull = argumentSplit[1] #'A0=PAG'
+
+            argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
+            if desiredSrl == argumentNumber:
+                agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
+                agentList.append(getFullAgent(df, agentID))
+    return agentList
 
 #returns the actual ID of agent1 and agent 2 for the given ID (if any)
 def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
@@ -271,25 +298,17 @@ def valid_year(year):
             return True
     return False
 
+def valid_date(word):
+    if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or valid_year(word):
+        return True
+    return False
+
 def addDateToDictionary(word, resultsDictionary):
     # if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or is_date(word):
     #     resultsDictionary["Date/Time"] = word
     # return resultsDictionary
-    if word in calendar.day_name:
+    if valid_date(word):
         resultsDictionary["Date/Time"] = word
-
-    if word in calendar.month_name:
-        resultsDictionary["Date/Time"] = word
-
-    if word in calendar.day_abbr:
-        resultsDictionary["Date/Time"] = word
-
-    if word in calendar.month_abbr:
-        resultsDictionary["Date/Time"] = word
-    
-    if valid_year(word):
-        resultsDictionary["Date/Time"] = word
-
     return resultsDictionary
 
 def main():
