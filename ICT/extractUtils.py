@@ -11,6 +11,8 @@ import pandas as pd
 from io import StringIO
 from dateutil.parser import parse
 import re
+import math
+
 
 def createSetFromFile(fileName):
     geopoliticalList = set()
@@ -204,6 +206,8 @@ def getValidDataFrameDictForTargetAction(targetAction) :
             df = pd.read_table(TESTDATA, names=[col.ID,col.WORD,col.LEMMA,col.POS,col.FEATURES,col.PARENT,col.DEPENDENCY_LABELS,col.SRL])
             if targetAction in df[col.LEMMA].tolist():
                 fileAndSent = key + "_Sent" + str(sentenceNumber)
+                #replace NaN values with "0" to avoid NaN errors in some files
+                df = df.fillna("0")
                 fileAndSentToValidDF[fileAndSent] = df
             sentenceNumber +=1
 
@@ -298,6 +302,9 @@ def getArgumentIDsForGivenIDTEST(df, targetVerbID):
                 resultsDictionary[argumentNumber] = agentID#Grab agent 0 or agent 1
     return resultsDictionary
 
+def getWordAtWordId(df, wordId):
+    return df.iloc[int(wordId)-1][col.WORD].lower()
+    
 def addLocationToDictionary(resultsDictionary, location):
     if resultsDictionary["Location"] == None:
         resultsDictionary["Location"] = location
@@ -319,16 +326,63 @@ def valid_year(year):
             return True
     return False
 
+#check if the date is inside my key words or one of the python calendar days of the week, month name, month abbreviation or a valid year 
 def valid_date(word):
-    if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr or valid_year(word):
-        return True
-    elif "week" in word:
-        return True
+    dateKeyWords = ["year", "week", "weekend", "month", "day"]
+    wordSplitArray = word.split(" ")
+    for w in wordSplitArray:
+        subWord = ""
+        for char in w:
+            subWord += char
+            #check if the word is inside any of the date key words
+            if subWord in dateKeyWords:
+                return True
+            if subWord in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr:
+                return True
+            if valid_year(subWord):
+                return True
     return False
 
 def addDateToDictionary(word, resultsDictionary):
     if valid_date(word):
         resultsDictionary["Date/Time"] = word
+    return resultsDictionary
+
+#returns list of ID's in the sentence which have the srl AM-TMP which corresponds to id
+def getDatesInSentence(df):
+    dateIDList = []
+    for index, row in df.iterrows():
+        # print df.get_value(index, col.WORD).isnull()
+        word = df.get_value(index, col.WORD)
+        srl = df.get_value(index, col.SRL)
+        identification = df.get_value(index, col.ID)
+        if "AM-TMP" in srl:
+            dateIDList.append(identification)
+    return dateIDList
+
+#3 options in order of priority to maximize accuracy of date retreival
+#1. check if there exists an AM-TMP that is an argument of the target verb. if so checks that it is a valid date by double checking with the valid_date function in extractUtils. if it does, set it as the Date/Time of the resultsDictionary
+#2. go through all the SRLS in the sentence which have AM-TMP and check if any of them are considered a valid_date
+#3. last resort- go word by word in the sentence and check if any of the words are considered a valid date without checking the SRL (least accurate)
+def addDateToDictionaryComplete(df, resultsDictionary):
+    if resultsDictionary.get("AM-TMP") != None :
+        amTMP = resultsDictionary.get("AM-TMP")
+        #AM-TMP is also considered a valid date (double checker)
+        if valid_date(amTMP):
+            resultsDictionary["Date/Time"] = resultsDictionary.pop("AM-TMP")
+    #either the AMP-TMP existed and wasn't a valid date or it didn't exist
+    #check all the AMP-TMP in the sentence and see if any are a valid date
+    if resultsDictionary.get("Date/Time") == None:
+        amTMPListInSentence = getDatesInSentence(df)
+        for amTMPId in amTMPListInSentence:
+            amTMPString = getFullAgent(df, amTMPId)
+            if valid_date(amTMPString):
+                resultsDictionary["Date/Time"] = amTMPString
+                break
+    #last resort, go word for word in the sentence and check if any of them are considered a valid date
+    if resultsDictionary.get("Date/Time") == None:
+        for index, row in df.iterrows():
+            resultsDictionary = addDateToDictionary(row[col.WORD], resultsDictionary)
     return resultsDictionary
 
 def main():
