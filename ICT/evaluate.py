@@ -66,22 +66,15 @@ def isRelevant(dataframe):
     geopoliticalAgentList = utils.getCapitalsList()
     geopoliticalAgentList.update(utils.getHeadOfStateList())
     geopoliticalAgentList.update(utils.getNationalityList())
-    geopoliticalAgentList = list(geopoliticalAgentList)
-
-    if agentOne in geopoliticalAgentList:
-        return True
-    if agentTwo in geopoliticalAgentList:
-        return True
-    if A2 in geopoliticalAgentList:
-        return True
-    for word in agentOne:
-        if word.lower() in geopoliticalAgentList:
+    
+    for a1 in agentOne:
+        if utils.isValidGeopoliticalAgent(a1, geopoliticalAgentList):
             return True
-    for word in agentTwo:
-        if word.lower() in geopoliticalAgentList:
+    for a2 in agentTwo:
+        if utils.isValidGeopoliticalAgent(a2, geopoliticalAgentList):
             return True
-    for word in A2:
-        if word.lower() in geopoliticalAgentList:
+    for a2 in A2:
+        if utils.isValidGeopoliticalAgent(a2, geopoliticalAgentList):
             return True
 
 
@@ -89,7 +82,10 @@ def getRelevancyAccuracy(targetVerb, csvfilename):
     correctCount = 0.0
     count = 0.0
     fileNamedict = getValidDataFrameDictForVerb(targetVerb, csvfilename)
+    maxNumOfFiles = 15
     for key in fileNamedict:
+        if count >= maxNumOfFiles:
+            break
         dataframe = fileNamedict.get(key)
         if isRelevant(dataframe):
             correctCount += 1
@@ -101,18 +97,26 @@ def getRelevancyAccuracy(targetVerb, csvfilename):
 
 def printDataFrameToTest(targetVerb, csvfilename):
     fileNamedict = getValidDataFrameDictForVerb(targetVerb, csvfilename)
+    maxNumber = 15
+    count = 0
     for key in fileNamedict:
+        if count >= maxNumber:
+            break
         dataframe = fileNamedict.get(key)
         print (key)
         print (dataframe)
         print('\n')
+        count = count + 1
 
 
 def main():
     csvfilename = "finalPredicates3cols.csv"
-    targetVerb = "accuse"
-    print (getRelevancyAccuracy(targetVerb, csvfilename))
-    print printDataFrameToTest(targetVerb, csvfilename)
+    targetVerb = "target"
+    listing = ["sign", "allow", "target", "warn", "evacuate", "summon"]
+
+    for verb in listing:
+        print (verb + ": " + str(getRelevancyAccuracy(verb, csvfilename)))
+    # print printDataFrameToTest(targetVerb, csvfilename)
 
 
 main()
