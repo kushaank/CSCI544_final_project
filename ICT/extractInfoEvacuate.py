@@ -3,7 +3,7 @@ import col
 
 def main():
     targetVerb = "evacuate"
-    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
+    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb, "finalPredicates3cols.csv", "ClearnlpOutput")
 
     evacuateContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Date/Time", "Location", "Reason"]
     
@@ -46,7 +46,7 @@ def main():
         #removing the unnecessary context tags from the dictionary that aren't revlevant to 'evacuate'
         extractUtils.removeIrrelevantContextTags(resultsDictionary, evacuateContextTags)
         outputDictionary[fileAndSent] = resultsDictionary
-                
+               
     extractUtils.printOutputDictionary(outputDictionary, evacuateContextTags)
 
 main()

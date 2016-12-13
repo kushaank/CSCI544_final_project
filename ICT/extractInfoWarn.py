@@ -4,7 +4,7 @@ import col
 def main():
     capitalsList = extractUtils.getCapitalsList()
     targetVerb = "warn"
-    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
+    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb, "finalPredicates3cols.csv", "ClearnlpOutput")
 
     warnContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Probable Warned Action", "Improbable Warned Action", "Warned Object", "Date/Time"]
 

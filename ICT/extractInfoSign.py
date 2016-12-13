@@ -3,7 +3,7 @@ import col
 
 def main():
     targetVerb = "sign"
-    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
+    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb, "finalPredicates3cols.csv", "ClearnlpOutput")
     capitalsList = extractUtils.getCapitalsList()
 
     signContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Date/Time", "Action", "Signed Object"]

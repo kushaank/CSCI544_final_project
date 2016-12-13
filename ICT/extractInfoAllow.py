@@ -4,7 +4,7 @@ import col
 def main():
     capitalsList = extractUtils.getCapitalsList()
     targetVerb = "allow"
-    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
+    fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb, "finalPredicates3cols.csv", "ClearnlpOutput")
     
     allowContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Allowed Action", "Allowed Object", "Date/Time", "Location"]
 

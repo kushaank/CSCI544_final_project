@@ -99,9 +99,8 @@ Get all the text news files that contain the given verb
 :param verb: the verb for which files need to be extracted
 :return: array of all the files  + .txt associated with the provided target_verb
 '''
-def getFileNamesForVerb(target_verb):
-    filePathDictionary = getAbsolutePath(".txt", "NewsTextFiles")
-    mycsv = csv.reader(open("finalPredicates3cols.csv"))
+def getFileNamesForVerb(target_verb, predicates3ColFile):
+    mycsv = csv.reader(open(predicates3ColFile))
 
     files = []
 
@@ -110,19 +109,15 @@ def getFileNamesForVerb(target_verb):
         verb = row[1].split(".")[0].strip()
         fileName = row[len(row) - 1].strip()
         #checking that indeed the filename in the predicated.xls maps to an existing file in the newsFiles folder
-        if fileName in filePathDictionary:
-            if verb == target_verb:
-                files.append(fileName + ".txt")
-        else:
-            print "'" + fileName + "' does not exist in the newsFiles folder"
-            return -1
+        if verb == target_verb:
+            files.append(fileName + ".txt")
     return files
 
-def getValidDataFrameDictForTargetAction(targetAction) :
-    files = getFileNamesForVerb(targetAction)
+def getValidDataFrameDictForTargetAction(targetAction, predicates3ColFile, clearNlpOutputDir) :
+    files = getFileNamesForVerb(targetAction, predicates3ColFile)
 
     fileAndSentToValidDF = {}
-    dict = getAbsolutePathForSrlFiles(files, "ClearnlpOutput")
+    dict = getAbsolutePathForSrlFiles(files, clearNlpOutputDir)
 
     for key in dict.keys():
         file = io.open(dict[key], "r", encoding='utf-8')
