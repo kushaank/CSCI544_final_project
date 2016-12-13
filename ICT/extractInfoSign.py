@@ -6,7 +6,7 @@ def main():
     fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
     capitalsList = extractUtils.getCapitalsList()
 
-    signCategories = ["A0", "A1", "Date/Time", "Action", "Signed Object"]
+    signContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Date/Time", "Action", "Signed Object"]
     
     outputDictionary = {}
     for fileAndSent in fileAndSentToValidDF.keys():
@@ -14,13 +14,16 @@ def main():
             df = fileAndSentToValidDF[fileAndSent]
 
             resultsDictionary = {}
-            for category in signCategories:
-                resultsDictionary[category] = None
-
-            resultsDictionary["Action"] = targetVerb
-
+            for contextTag in signContextTags:
+                resultsDictionary[contextTag] = None
+                
             targetVerbRow =  df.loc[df[col.LEMMA] == targetVerb]
             targetVerbID = str(targetVerbRow[col.ID].iloc[0])
+
+            if extractUtils.isNegatedVerb(df, targetVerbID):
+                resultsDictionary["Improbable Action"] = targetVerb
+            else:
+                resultsDictionary["Probable Action"] = targetVerb
 
             resultsDictionary = extractUtils.getArgumentsForGivenID(df, targetVerbID, resultsDictionary)
             #checking if agent 1 contains a geopoliticalagent
@@ -28,8 +31,8 @@ def main():
                 #checking if agent1 is inside the signed object
                 originalAgent1 = resultsDictionary["A1"]
                 indexOfWith = originalAgent1.find("with")
+                possibleAgent2 = originalAgent1[indexOfWith:]
                 if indexOfWith != -1 and extractUtils.isValidGeopoliticalAgent(possibleAgent2, capitalsList):
-                    possibleAgent2 = originalAgent1[indexOfWith:]
                     resultsDictionary["A1"] = possibleAgent2
                     resultsDictionary["Signed Object"] = originalAgent1[:indexOfWith]
                 else:
@@ -37,22 +40,13 @@ def main():
             else:
                 resultsDictionary["Signed Object"] = resultsDictionary.pop("A1")
 
-            #if there is a time that is an argument to the target verb
-            if "AM-TMP" in resultsDictionary:
-                resultsDictionary["Date/Time"] = resultsDictionary.pop("AM-TMP")
-            #otherwise grab any time in the sentence
-            elif len(extractUtils.getAllAgentsWithGivenSRL(df, "AM-TMP")) > 0:
-                resultsDictionary["Date/Time"] = extractUtils.getAllAgentsWithGivenSRL(df, "AM-TMP")[0]
-            else:
-                #TODO: extract any possible date from the sentence
-
-            #removing the unnecessary categories from the dictionary that aren't revlevant to 'evacuate'
-            for result in resultsDictionary.keys():
-                if result not in signCategories:
-                    resultsDictionary.pop(result)
+            resultsDictionary = extractUtils.addDateToDictionaryComplete(df, resultsDictionary)
+            
+            #remove the context tags that get populated that aren't in the "signContextTags context tag array"
+            extractUtils.removeIrrelevantContextTags(resultsDictionary, signContextTags)
             outputDictionary[fileAndSent] = resultsDictionary
-                    
-    for key in outputDictionary.keys():
-        print (key + ": " + str(outputDictionary[key]) + '\n')
+
+    extractUtils.printOutputDictionary(outputDictionary, signContextTags)
+
 
 main()

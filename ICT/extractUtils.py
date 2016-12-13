@@ -13,7 +13,8 @@ from dateutil.parser import parse
 import re
 import math
 
-
+#helper function that creates set of all the words and subwords inside a given text document
+#if line contains "saudi arabia" the set will contain both "saudi" and "arabia"
 def createSetFromFile(fileName):
     geopoliticalList = set()
     with open(fileName, 'r') as myfile:
@@ -49,24 +50,26 @@ def isValidGeopoliticalAgent(phrase, geopoliticalList) :
                 return True
     return False
 
-def isInfinitive(agentID, df):
-    if agentID == None:
+#checks if the ID of the word is preceded with a "to" to make it an infinitive
+def isInfinitive(wordID, df):
+    if wordID == None:
         return False
-    #The current word is at the df index int(agentID)-1
+    #The current word is at the df index int(wordID)-1
     #so we want to check that the previous word is "to" to make sure it is an infinitive
-    if str(df.iloc[int(agentID)-2][col.WORD]) == "to":
+    if str(df.iloc[int(wordID)-2][col.WORD]) == "to":
         return True
     else:
         return False    
 
+#returns both the previous word (assuming its "to") + the current word
 def getInfinitiveAgent(agentID, df):
     return str(df.iloc[int(agentID)-2][col.WORD]) + " " + str(df.iloc[int(agentID)-1][col.WORD])
 
+'''
+Create map between every file name without its extension and the absolute file path to the file
+:return: filePathDictionary
+'''
 def getAbsolutePath(fileType, directoryName):
-    '''
-    Create map between every file name without its extension and the absolute file path to the file
-    :return: filePathDictionary
-    '''
     filePathDictionary = defaultdict(int)
     for root, dirnames, filenames in os.walk(directoryName):
         for filename in fnmatch.filter(filenames, '*' + fileType):
@@ -76,11 +79,11 @@ def getAbsolutePath(fileType, directoryName):
             filePathDictionary[fileNameWithoutExtension] = fullFilePath
     return filePathDictionary
 
+'''
+Create map between the file name without the extension and the corresponding srl file"
+:return: absolute path
+'''
 def getAbsolutePathForSrlFiles(files, directoryName):
-    '''
-    Create map between file name and the absolute file path of every news file
-    :return: absolute path
-    '''
     filePathDictionary = defaultdict(int)
     for root, dirnames, filenames in os.walk(directoryName):
         for filename in fnmatch.filter(filenames, '*.srl'):
@@ -91,12 +94,12 @@ def getAbsolutePathForSrlFiles(files, directoryName):
                 filePathDictionary[fileNameWithoutExtension] = fullFilePath
     return filePathDictionary
 
+'''
+Get all the text news files that contain the given verb
+:param verb: the verb for which files need to be extracted
+:return: array of all the files  + .txt associated with the provided target_verb
+'''
 def getFileNamesForVerb(target_verb):
-    '''
-    Get all the text news files that contain the given verb
-    :param verb: the verb for which files need to be extracted
-    :return: array of all the files  + .txt associated with the provided target_verb
-    '''
     filePathDictionary = getAbsolutePath(".txt", "NewsTextFiles")
     mycsv = csv.reader(open("finalPredicates3cols.csv"))
 
@@ -106,7 +109,6 @@ def getFileNamesForVerb(target_verb):
         #splits the csv file by the period delimeter to get the verb associated
         verb = row[1].split(".")[0].strip()
         fileName = row[len(row) - 1].strip()
-
         #checking that indeed the filename in the predicated.xls maps to an existing file in the newsFiles folder
         if fileName in filePathDictionary:
             if verb == target_verb:
@@ -115,80 +117,6 @@ def getFileNamesForVerb(target_verb):
             print "'" + fileName + "' does not exist in the newsFiles folder"
             return -1
     return files
-
-def hasChild(df, targetParentID):
-    for index, row in df.iterrows():
-        parentID = str(df.get_value(index, col.PARENT))
-        if parentID == targetParentID: #a row's parent value is the ID of the agent we found
-            return True
-    return False
-
-def getImmediateChildrenForAgent(df, targetParentID):
-    immediateChildrenList = []
-    lastMatchingParentIndex = 0
-    for index, row in df.iterrows():
-        if str(row[col.PARENT]) == targetParentID:
-            immediateChildrenList.append(index + 1)
-    return immediateChildrenList
-
-#key is ID value is actual word
-def getFullAgentDictionary(df, targetParentID):
-    parents = []
-    visited = []
-    parents.append(str(targetParentID))
-    fullAgent = {}
-    while len(parents)>0:
-        parent = parents[0]
-        visited.append(str(parent))
-        for index, row in df.iterrows():
-            parentID = str(df.get_value(index, col.PARENT))
-            currentID = str(df.get_value(index, col.ID))
-            if str(parentID)==str(parent):
-                if currentID not in visited:
-                    parents.append(currentID)
-                fullAgent[df.get_value(index,col.ID)] = df.get_value(index, col.WORD)
-
-        parents.remove(parent)
-    fullAgent[df.loc[df[col.ID] == int(targetParentID), col.ID].item()]= df.loc[df[col.ID] == int(targetParentID), col.WORD].item()
-    return fullAgent
-
-def getFullAgent(df, targetParentID):    
-    fullAgent = getFullAgentDictionary(df, targetParentID)
-    sortedKeys = sorted(fullAgent.keys())
-    sortedValues = []
-    for key in sortedKeys:
-        sortedValues.append(fullAgent[key])
-    return " ".join(sortedValues)
-
-def removeFirstWord(agent):
-    agent.split(' ', 1)
-    return agent.split(' ', 1)[1]
-
-def getChildNodes(df, targetParentID, dictionary):   
-    '''
-    returns a dictionary of ID : word of all the child nodes of a certain node ID
-    '''
-    if hasChild(df, targetParentID):
-        for index, row in df.iterrows():
-            parentID = str(df.get_value(index, col.PARENT))
-            currentID = str(df.get_value(index, col.ID))
-            if parentID == targetParentID: #a row's parent value is the ID of the agent we found
-                dictionary[int(currentID)] = str(df.get_value(index, col.WORD))
-                dictionary.update(getChildNodes(df, currentID, dictionary))
-        return dictionary
-    else:
-        return dictionary
-
-def getFullAgentFromChildNodes(dictionary):
-    '''
-    given a dictionary of ID: word, sorts the dictionary on order of ID and returns a String of the entire agent with child nodes included
-    :return: String
-    '''
-    sortedKeys = sorted(dictionary.keys())
-    sortedValues = []
-    for key in sortedKeys:
-        sortedValues.append(dictionary[key])
-    return " ".join(sortedValues)
 
 def getValidDataFrameDictForTargetAction(targetAction) :
     files = getFileNamesForVerb(targetAction)
@@ -212,6 +140,74 @@ def getValidDataFrameDictForTargetAction(targetAction) :
             sentenceNumber +=1
 
     return fileAndSentToValidDF
+
+#checks if the provided parent ID has any children nodes
+def hasChild(df, targetParentID):
+    for index, row in df.iterrows():
+        parentID = str(df.get_value(index, col.PARENT))
+        if parentID == targetParentID: #a row's parent value is the ID of the agent we found
+            return True
+    return False
+
+#key is ID value is actual word
+def getFullAgentDictionary(df, targetParentID):
+    parents = []
+    visited = []
+    parents.append(str(targetParentID))
+    fullAgent = {}
+    while len(parents)>0:
+        parent = parents[0]
+        visited.append(str(parent))
+        for index, row in df.iterrows():
+            parentID = str(df.get_value(index, col.PARENT))
+            currentID = str(df.get_value(index, col.ID))
+            if str(parentID)==str(parent):
+                if currentID not in visited:
+                    parents.append(currentID)
+                fullAgent[df.get_value(index,col.ID)] = df.get_value(index, col.WORD)
+
+        parents.remove(parent)
+    fullAgent[df.loc[df[col.ID] == int(targetParentID), col.ID].item()]= df.loc[df[col.ID] == int(targetParentID), col.WORD].item()
+    return fullAgent
+
+#returns a string of the provided ID and all the child nodes below it in order
+def getFullAgent(df, targetParentID):    
+    fullAgent = getFullAgentDictionary(df, targetParentID)
+    sortedKeys = sorted(fullAgent.keys())
+    sortedValues = []
+    for key in sortedKeys:
+        sortedValues.append(fullAgent[key])
+    return " ".join(sortedValues)
+
+def removeFirstWord(agent):
+    agent.split(' ', 1)
+    return agent.split(' ', 1)[1]
+
+'''
+returns a dictionary of ID : word of all the child nodes of a certain node ID
+'''
+def getChildNodes(df, targetParentID, dictionary):   
+    if hasChild(df, targetParentID):
+        for index, row in df.iterrows():
+            parentID = str(df.get_value(index, col.PARENT))
+            currentID = str(df.get_value(index, col.ID))
+            if parentID == targetParentID: #a row's parent value is the ID of the agent we found
+                dictionary[int(currentID)] = str(df.get_value(index, col.WORD))
+                dictionary.update(getChildNodes(df, currentID, dictionary))
+        return dictionary
+    else:
+        return dictionary
+
+'''
+given a dictionary of ID: word, sorts the dictionary on order of ID and returns a String of the entire agent with child nodes included
+:return: String
+'''
+def getFullAgentFromChildNodes(dictionary):
+    sortedKeys = sorted(dictionary.keys())
+    sortedValues = []
+    for key in sortedKeys:
+        sortedValues.append(dictionary[key])
+    return " ".join(sortedValues)
 
 def getValidSRLsFromSRL(srl):
     twoOrMoreSRLArguments = str(srl).split(";") #3:A0=PAG;11:A0=PAG two or more arguments are separated by semicolon
@@ -262,8 +258,8 @@ def getAllAgentsWithGivenSRL(df, desiredSrl):
     return agentList
 
 #returns the actual ID of agent1 and agent 2 for the given ID (if any)
-def getArgumentIDsForGivenID(df, targetVerbID, resultsDictionary):
-    resultsDictionaryCopy = resultsDictionary.copy()
+def getArgumentIDsForGivenID(df, targetVerbID):
+    resultsDictionaryCopy = {}
     for index, row in df.iterrows():
         srl = df.get_value(index, col.SRL)
         validSRLs = getValidSRLsFromSRL(srl)
@@ -312,6 +308,33 @@ def addLocationToDictionary(resultsDictionary, location):
         resultsDictionary["Location"] = resultsDictionary.pop("Location")+ ", " + location
     return resultsDictionary
 
+def printOutputDictionary(outputDictionary, categoriesArray):
+    for fileAndSent in outputDictionary.keys():
+        resultDic = outputDictionary[fileAndSent]
+        print fileAndSent 
+        for key in categoriesArray:
+            print key + ": " + str(resultDic.get(key))
+        print ("\n")
+
+def removeIrrelevantContextTags(resultsDictionary, categoriesArray):
+    #removing the unnecessary categories from the dictionary that aren't revlevant to 'allow'
+    for result in resultsDictionary.keys():
+        if result not in categoriesArray:
+            resultsDictionary.pop(result)
+    return resultsDictionary
+
+#returns list of ID's in the sentence which have the srl AM-TMP which corresponds to id
+def getAMTMPInSentence(df):
+    dateIDList = []
+    for index, row in df.iterrows():
+        # print df.get_value(index, col.WORD).isnull()
+        word = df.get_value(index, col.WORD)
+        srl = df.get_value(index, col.SRL)
+        identification = df.get_value(index, col.ID)
+        if "AM-TMP" in srl:
+            dateIDList.append(identification)
+    return dateIDList
+
 #DANGEROUS, for some reason giving a lot of false positives. considers comma and - as valid dates
 def is_date(string):
     try: 
@@ -343,46 +366,79 @@ def valid_date(word):
                 return True
     return False
 
+def valid_date_exact(word):
+    dateKeyWords = ["year", "week", "weekend", "month", "day"]
+    if word in dateKeyWords:
+        return True
+    if word in calendar.day_name or word in calendar.month_name or word in calendar.day_abbr or word in calendar.month_abbr:
+        return True
+    if valid_year(word):
+        return True
+    if word in dateKeyWords:
+        return True
+    return False
+
+#returns a list of the IDS of the immediate children (one level down) from the targetParentID
+def getImmediateChildrenForAgent(df, targetParentID):
+    immediateChildrenList = []
+    lastMatchingParentIndex = 0
+    for index, row in df.iterrows():
+        if str(row[col.PARENT]) == targetParentID:
+            immediateChildrenList.append(index + 1)
+    return immediateChildrenList
+
+#checks all the immediate children of a target verb and makes sure none of their SRLs have a NEG in it
+def isNegatedVerb(df, targetParentID):
+    immediateChildIDs = getImmediateChildrenForAgent(df, targetParentID)
+    for childID in immediateChildIDs:
+        srls = str(df.iloc[int(childID)-1][col.SRL])
+        for srl in srls:
+            if "NEG" in srl:
+                return True
+    return False
+
 def addDateToDictionary(word, resultsDictionary):
     if valid_date(word):
         resultsDictionary["Date/Time"] = word
     return resultsDictionary
 
-#returns list of ID's in the sentence which have the srl AM-TMP which corresponds to id
-def getDatesInSentence(df):
-    dateIDList = []
-    for index, row in df.iterrows():
-        # print df.get_value(index, col.WORD).isnull()
-        word = df.get_value(index, col.WORD)
-        srl = df.get_value(index, col.SRL)
-        identification = df.get_value(index, col.ID)
-        if "AM-TMP" in srl:
-            dateIDList.append(identification)
-    return dateIDList
-
-#3 options in order of priority to maximize accuracy of date retreival
+#there are 4 options in order of priority to maximize accuracy of date retreival
 #1. check if there exists an AM-TMP that is an argument of the target verb. if so checks that it is a valid date by double checking with the valid_date function in extractUtils. if it does, set it as the Date/Time of the resultsDictionary
-#2. go through all the SRLS in the sentence which have AM-TMP and check if any of them are considered a valid_date
-#3. last resort- go word by word in the sentence and check if any of the words are considered a valid date without checking the SRL (least accurate)
+#2. check if any of the words in the sentence are the exact matches with the python calendar week or month names or a valid year
+#3. go through all the SRLS in the sentence which have AM-TMP and check if any of them are considered a valid_date
+#4. last resort- go word by word in the sentence and check if any of the words are considered a valid date without checking the SRL (least accurate)
 def addDateToDictionaryComplete(df, resultsDictionary):
     if resultsDictionary.get("AM-TMP") != None :
         amTMP = resultsDictionary.get("AM-TMP")
-        #AM-TMP is also considered a valid date (double checker)
-        if valid_date(amTMP):
-            resultsDictionary["Date/Time"] = resultsDictionary.pop("AM-TMP")
+        amTMPArray = amTMP.split(" ")
+        for amTMPWord in amTMPArray:
+            #AM-TMP is also considered a valid date (double checker)
+            if valid_date_exact(amTMPWord):
+                resultsDictionary["Date/Time"] = resultsDictionary.pop("AM-TMP")
+                return resultsDictionary
+
+    for index, row in df.iterrows():
+        word = row[col.WORD]
+        if valid_date_exact(word):
+            resultsDictionary["Date/Time"] = word
+            return resultsDictionary
+
     #either the AMP-TMP existed and wasn't a valid date or it didn't exist
     #check all the AMP-TMP in the sentence and see if any are a valid date
-    if resultsDictionary.get("Date/Time") == None:
-        amTMPListInSentence = getDatesInSentence(df)
-        for amTMPId in amTMPListInSentence:
-            amTMPString = getFullAgent(df, amTMPId)
-            if valid_date(amTMPString):
-                resultsDictionary["Date/Time"] = amTMPString
-                break
+    amTMPListInSentence = getAMTMPInSentence(df)
+    for amTMPId in amTMPListInSentence:
+        amTMPString = getFullAgent(df, amTMPId)
+        if valid_date(amTMPString):
+            resultsDictionary["Date/Time"] = amTMPString
+            return resultsDictionary
+
     #last resort, go word for word in the sentence and check if any of them are considered a valid date
-    if resultsDictionary.get("Date/Time") == None:
-        for index, row in df.iterrows():
-            resultsDictionary = addDateToDictionary(row[col.WORD], resultsDictionary)
+    for index, row in df.iterrows():
+        word = row[col.WORD]
+        if valid_date(word):
+            resultsDictionary["Date/Time"] = word
+            return resultsDictionary
+    
     return resultsDictionary
 
 def main():
