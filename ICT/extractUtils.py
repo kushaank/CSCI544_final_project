@@ -259,27 +259,6 @@ def getAllAgentsWithGivenSRL(df, desiredSrl):
 
 #returns the actual ID of agent1 and agent 2 for the given ID (if any)
 def getArgumentIDsForGivenID(df, targetVerbID):
-    resultsDictionaryCopy = {}
-    for index, row in df.iterrows():
-        srl = df.get_value(index, col.SRL)
-        validSRLs = getValidSRLsFromSRL(srl)
-
-        for srlSection in validSRLs: #["3:A0=PAG", "11:A0=PAG"]
-            argumentSplit = srlSection.split(":")
-            relatedID = str(argumentSplit[0]) #3
-            argumentNumberFull = argumentSplit[1] #'A0=PAG'
-
-            #getting all the arguments that correspond to the target Verb
-            if relatedID == targetVerbID:  # our current row has an agent that corresponds to our target action
-                argumentNumber = argumentNumberFull.split("=")[0]  # just want to extract the 'A0' from 'A0=PAG'
-                agentID = str(df.get_value(index, col.ID))  # the ID of the row of the SRL with the agent
-
-                resultsDictionaryCopy[argumentNumber] = agentID#Grab agent 0 or agent 1
-    return resultsDictionaryCopy
-
-#returns the actual ID of agent1 and agent 2 for the given ID (if any)
-#TODO: replace other functions with this function which doesn't use the dictionary unnecesarily'
-def getArgumentIDsForGivenIDTEST(df, targetVerbID):
     resultsDictionary = {}
     for index, row in df.iterrows():
         srl = df.get_value(index, col.SRL)
@@ -300,7 +279,7 @@ def getArgumentIDsForGivenIDTEST(df, targetVerbID):
 
 def getWordAtWordId(df, wordId):
     return df.iloc[int(wordId)-1][col.WORD].lower()
-    
+
 def addLocationToDictionary(resultsDictionary, location):
     if resultsDictionary["Location"] == None:
         resultsDictionary["Location"] = location
@@ -308,14 +287,16 @@ def addLocationToDictionary(resultsDictionary, location):
         resultsDictionary["Location"] = resultsDictionary.pop("Location")+ ", " + location
     return resultsDictionary
 
-def printOutputDictionary(outputDictionary, categoriesArray):
+#prints all the resultDictionaries of the verb in order the context tags appear in the contextTags array
+def printOutputDictionary(outputDictionary, contextTags):
     for fileAndSent in outputDictionary.keys():
         resultDic = outputDictionary[fileAndSent]
         print fileAndSent 
-        for key in categoriesArray:
+        for key in contextTags:
             print key + ": " + str(resultDic.get(key))
         print ("\n")
 
+#remove the context tags that get populated but arent in the contextTagsArray
 def removeIrrelevantContextTags(resultsDictionary, categoriesArray):
     #removing the unnecessary categories from the dictionary that aren't revlevant to 'allow'
     for result in resultsDictionary.keys():
@@ -335,14 +316,6 @@ def getAMTMPInSentence(df):
             dateIDList.append(identification)
     return dateIDList
 
-#DANGEROUS, for some reason giving a lot of false positives. considers comma and - as valid dates
-def is_date(string):
-    try: 
-        parse(string)
-        return True
-    except ValueError:
-        return False
-
 def valid_year(year):
     if year and year.isdigit():
         if int(year) >=1700 and int(year) <=2020:
@@ -350,6 +323,7 @@ def valid_year(year):
     return False
 
 #check if the date is inside my key words or one of the python calendar days of the week, month name, month abbreviation or a valid year 
+#if substring matches then it returns TRUE
 def valid_date(word):
     dateKeyWords = ["year", "week", "weekend", "month", "day"]
     wordSplitArray = word.split(" ")
@@ -366,6 +340,7 @@ def valid_date(word):
                 return True
     return False
 
+#checks if the provided word matches EXACTLY with any of the date checks
 def valid_date_exact(word):
     dateKeyWords = ["year", "week", "weekend", "month", "day"]
     if word in dateKeyWords:

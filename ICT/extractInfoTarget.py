@@ -5,7 +5,7 @@ def main():
     targetVerb = "target"
     fileAndSentToValidDF = extractUtils.getValidDataFrameDictForTargetAction(targetVerb)
 
-    targetContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Date/Time", "Location", "Reason"]
+    targetContextTags = ["A0", "Probable Action", "Improbable Action", "A1", "Date/Time", "Reason"]
     outputDictionary = {}
 
     for fileAndSent in fileAndSentToValidDF.keys():

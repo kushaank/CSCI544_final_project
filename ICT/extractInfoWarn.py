@@ -26,7 +26,7 @@ def main():
 
         resultsDictionary = extractUtils.getArgumentsForGivenID(df, targetVerbID, resultsDictionary)
         
-        argument1ID = extractUtils.getArgumentIDsForGivenIDTEST(df, targetVerbID).get("A1")
+        argument1ID = extractUtils.getArgumentIDsForGivenID(df, targetVerbID).get("A1")
         thatExists = False
         
         #if argument1 of the target verb is not a geopolitical entity, check if that specific word at the index is a "warned action"

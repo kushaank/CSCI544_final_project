@@ -34,7 +34,7 @@ def main():
             resultsDictionary["Reason"] = fullReasonAgent[len(reasonAction):]
         else:
             #there is no SRL for the reason action infinitive, then check all the children of agent 1 to see if any contain the infinitive
-            argument1ID = extractUtils.getArgumentIDsForGivenIDTEST(df, targetVerbID).get("A1")
+            argument1ID = extractUtils.getArgumentIDsForGivenID(df, targetVerbID).get("A1")
             if argument1ID != None:
                 immediateChildrenIds = extractUtils.getImmediateChildrenForAgent(df, argument1ID)
                 for childId in immediateChildrenIds:
